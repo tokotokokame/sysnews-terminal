@@ -1,7 +1,7 @@
 {
   "date": "2026-03-17",
-  "generated_at": "2026-03-17T10:46:05.707723+00:00",
-  "total_articles": 58,
+  "generated_at": "2026-03-17T11:40:31.014294+00:00",
+  "total_articles": 57,
   "urgent_count": 5,
   "urgent_items": [
     {
@@ -43,7 +43,7 @@
   "categories": [
     {
       "category": "テクノロジー",
-      "count": 43,
+      "count": 41,
       "top_items": [
         {
           "title": "Polymarket gamblers threaten to kill me over Iran missile story",
@@ -54,17 +54,9 @@
           "date": "2026-03-16T12:00:06+00:00"
         },
         {
-          "title": "Corruption erodes social trust more in democracies than in autocracies",
-          "url": "https://www.frontiersin.org/journals/political-science/articles/10.3389/fpos.2026.1779810/full",
-          "score": 663,
-          "source": "hn",
-          "severity": null,
-          "date": "2026-03-16T11:25:31+00:00"
-        },
-        {
           "title": "Kagi Translate now supports LinkedIn Speak as an output language",
           "url": "https://translate.kagi.com/?from=en&to=LinkedIn+speak",
-          "score": 599,
+          "score": 690,
           "source": "hn",
           "severity": null,
           "date": "2026-03-17T04:39:42+00:00"
@@ -72,7 +64,7 @@
         {
           "title": "US SEC preparing to scrap quarterly reporting requirement",
           "url": "https://www.reuters.com/business/finance/us-sec-preparing-eliminate-quarterly-reporting-requirement-wsj-says-2026-03-16/",
-          "score": 587,
+          "score": 598,
           "source": "hn",
           "severity": null,
           "date": "2026-03-17T00:02:35+00:00"
@@ -80,16 +72,24 @@
         {
           "title": "Leanstral: Open-source agent for trustworthy coding and formal proof engineering",
           "url": "https://mistral.ai/news/leanstral",
-          "score": 570,
+          "score": 588,
           "source": "hn",
           "severity": "critical",
           "date": "2026-03-16T20:59:40+00:00"
+        },
+        {
+          "title": "MoD sources warn Palantir role at heart of government is threat to UK security",
+          "url": "https://www.thenerve.news/p/palantir-technologies-uk-mod-sources-government-data-insights-security-state-secrets",
+          "score": 524,
+          "source": "hn",
+          "severity": "critical",
+          "date": "2026-03-16T11:57:33+00:00"
         }
       ]
     },
     {
       "category": "日本語技術記事",
-      "count": 15,
+      "count": 16,
       "top_items": [
         {
           "title": "【Unity】演出スキップがつらすぎたので、ChainRacePattern という仕組みを作った",
@@ -116,20 +116,20 @@
           "date": "2026-03-17T14:40:20+09:00"
         },
         {
+          "title": "データサイエンティストの強い味方！Bobで業務効率爆上げした話",
+          "url": "https://qiita.com/416nishimaki/items/3a661aaab56af24f403e?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "score": null,
+          "source": "zennqiita",
+          "severity": null,
+          "date": "2026-03-17T13:02:19+09:00"
+        },
+        {
           "title": "量子×クラウドはなぜ難しい？第3の壁：量子時代のセキュリティ問題",
           "url": "https://qiita.com/imh1104/items/36c1344ae17b62086aba?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
           "score": null,
           "source": "zennqiita",
           "severity": null,
           "date": "2026-03-17T12:35:11+09:00"
-        },
-        {
-          "title": "【初心者向け】Cursorのマルチエージェントでタスク管理ツールを爆速で作る方法",
-          "url": "https://qiita.com/sugumura/items/b3787809861b129c0f1b?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "score": null,
-          "source": "zennqiita",
-          "severity": null,
-          "date": "2026-03-17T12:24:34+09:00"
         }
       ]
     }

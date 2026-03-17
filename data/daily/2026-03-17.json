@@ -1,8 +1,8 @@
 {
   "date": "2026-03-17",
-  "generated_at": "2026-03-17T16:01:53.778100+00:00",
-  "total_articles": 49,
-  "urgent_count": 4,
+  "generated_at": "2026-03-17T17:34:38.783501+00:00",
+  "total_articles": 48,
+  "urgent_count": 3,
   "urgent_items": [
     {
       "title": "Reverse-engineering Viktor and making it Open Source",
@@ -24,27 +24,28 @@
       "severity": "critical",
       "source": "hn",
       "date": "2026-03-16T18:38:14+00:00"
-    },
-    {
-      "title": "Speed at the cost of quality: Study of use of Cursor AI in open source projects (2025)",
-      "url": "https://arxiv.org/abs/2511.04427",
-      "severity": "critical",
-      "source": "hn",
-      "date": "2026-03-16T17:07:37+00:00"
     }
   ],
   "categories": [
     {
       "category": "テクノロジー",
-      "count": 34,
+      "count": 33,
       "top_items": [
         {
           "title": "Kagi Translate now supports LinkedIn Speak as an output language",
           "url": "https://translate.kagi.com/?from=en&to=LinkedIn+speak",
-          "score": 1124,
+          "score": 1196,
           "source": "hn",
           "severity": null,
           "date": "2026-03-17T04:39:42+00:00"
+        },
+        {
+          "title": "Leanstral: Open-source agent for trustworthy coding and formal proof engineering",
+          "url": "https://mistral.ai/news/leanstral",
+          "score": 688,
+          "source": "hn",
+          "severity": "critical",
+          "date": "2026-03-16T20:59:40+00:00"
         },
         {
           "title": "Reddit User Uncovers Who Is Behind Meta's $2B Lobbying for Age Verification Tech",
@@ -63,20 +64,12 @@
           "date": "2026-03-17T00:02:35+00:00"
         },
         {
-          "title": "Leanstral: Open-source agent for trustworthy coding and formal proof engineering",
-          "url": "https://mistral.ai/news/leanstral",
-          "score": 660,
-          "source": "hn",
-          "severity": "critical",
-          "date": "2026-03-16T20:59:40+00:00"
-        },
-        {
-          "title": "The “small web” is bigger than you might think",
-          "url": "https://kevinboone.me/small_web_is_big.html",
-          "score": 493,
+          "title": "Kagi Small Web",
+          "url": "https://kagi.com/smallweb/",
+          "score": 545,
           "source": "hn",
           "severity": null,
-          "date": "2026-03-16T17:17:57+00:00"
+          "date": "2026-03-17T09:53:53+00:00"
         }
       ]
     },

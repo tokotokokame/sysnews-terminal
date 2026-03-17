@@ -1,7 +1,7 @@
 {
   "date": "2026-03-17",
-  "generated_at": "2026-03-17T23:01:57.641085+00:00",
-  "total_articles": 58,
+  "generated_at": "2026-03-17T23:54:05.233888+00:00",
+  "total_articles": 55,
   "urgent_count": 1,
   "urgent_items": [
     {
@@ -15,7 +15,7 @@
   "categories": [
     {
       "category": "テクノロジー",
-      "count": 40,
+      "count": 41,
       "top_items": [
         {
           "title": "Kagi Translate now supports LinkedIn Speak as an output language",
@@ -24,6 +24,14 @@
           "source": "hn",
           "severity": null,
           "date": "2026-03-17T04:39:42+00:00"
+        },
+        {
+          "title": "Kagi Small Web",
+          "url": "https://kagi.com/smallweb/",
+          "score": 678,
+          "source": "hn",
+          "severity": null,
+          "date": "2026-03-17T09:53:53+00:00"
         },
         {
           "title": "Reddit User Uncovers Who Is Behind Meta's $2B Lobbying for Age Verification Tech",
@@ -42,17 +50,9 @@
           "date": "2026-03-17T00:02:35+00:00"
         },
         {
-          "title": "Kagi Small Web",
-          "url": "https://kagi.com/smallweb/",
-          "score": 665,
-          "source": "hn",
-          "severity": null,
-          "date": "2026-03-17T09:53:53+00:00"
-        },
-        {
           "title": "Microsoft's 'unhackable' Xbox One has been hacked by 'Bliss'",
           "url": "https://www.tomshardware.com/video-games/console-gaming/microsofts-unhackable-xbox-one-has-been-hacked-by-bliss-the-2013-console-finally-fell-to-voltage-glitching-allowing-the-loading-of-unsigned-code-at-every-level",
-          "score": 458,
+          "score": 482,
           "source": "hn",
           "severity": null,
           "date": "2026-03-17T15:16:29+00:00"
@@ -61,7 +61,7 @@
     },
     {
       "category": "日本語技術記事",
-      "count": 18,
+      "count": 14,
       "top_items": [
         {
           "title": "生成AIで古（いにしえ）のFORTRANコードに挑戦する",

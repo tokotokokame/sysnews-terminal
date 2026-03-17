@@ -1,7 +1,7 @@
 {
   "date": "2026-03-17",
-  "generated_at": "2026-03-17T19:53:38.948118+00:00",
-  "total_articles": 51,
+  "generated_at": "2026-03-17T20:34:46.830490+00:00",
+  "total_articles": 55,
   "urgent_count": 2,
   "urgent_items": [
     {
@@ -22,7 +22,7 @@
   "categories": [
     {
       "category": "テクノロジー",
-      "count": 36,
+      "count": 37,
       "top_items": [
         {
           "title": "Kagi Translate now supports LinkedIn Speak as an output language",
@@ -35,7 +35,7 @@
         {
           "title": "Leanstral: Open-source agent for trustworthy coding and formal proof engineering",
           "url": "https://mistral.ai/news/leanstral",
-          "score": 712,
+          "score": 720,
           "source": "hn",
           "severity": "critical",
           "date": "2026-03-16T20:59:40+00:00"
@@ -59,7 +59,7 @@
         {
           "title": "Kagi Small Web",
           "url": "https://kagi.com/smallweb/",
-          "score": 611,
+          "score": 623,
           "source": "hn",
           "severity": null,
           "date": "2026-03-17T09:53:53+00:00"
@@ -68,7 +68,7 @@
     },
     {
       "category": "日本語技術記事",
-      "count": 15,
+      "count": 18,
       "top_items": [
         {
           "title": "生成AIで古（いにしえ）のFORTRANコードに挑戦する",
@@ -79,6 +79,22 @@
           "date": "2026-03-17T21:11:49+09:00"
         },
         {
+          "title": "【JAWS DAYS 2026】基礎こそ至高。歴戦の勇士が仕掛けた「入門」という名のプレゼンバトル",
+          "url": "https://qiita.com/s_hiroi/items/5c6a9cfef9687d090484?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "score": null,
+          "source": "zennqiita",
+          "severity": null,
+          "date": "2026-03-17T20:01:36+09:00"
+        },
+        {
+          "title": "IBM BobとIBM API ConnectでAPIテスト自動化の仕組みを作ってみた",
+          "url": "https://qiita.com/Shuma-Ito/items/d5d3ef6c4dca100e60e4?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "score": null,
+          "source": "zennqiita",
+          "severity": null,
+          "date": "2026-03-17T19:35:09+09:00"
+        },
+        {
           "title": "【Unity】演出スキップがつらすぎたので、ChainRacePattern という仕組みを作った",
           "url": "https://qiita.com/morishift/items/a2c5012d496312358323?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
           "score": null,
@@ -87,28 +103,12 @@
           "date": "2026-03-17T19:33:08+09:00"
         },
         {
-          "title": "AIエージェントは「プロンプトで書く」から「対話を通じて育てる」という時代へ ─ Claude Codeで実践",
-          "url": "https://qiita.com/nogataka/items/1b6eea9fb18f242432d6?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "title": "BIツールの進化先？！ DBを業務分析用のMCPサーバにしてBIを次世代にする",
+          "url": "https://qiita.com/ssc-ksaitou/items/784cd48a88e4ab166f69?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
           "score": null,
           "source": "zennqiita",
           "severity": null,
-          "date": "2026-03-17T16:46:22+09:00"
-        },
-        {
-          "title": "Workatoで新着ドキュメント通知をしてくれるAIエージェントを作る",
-          "url": "https://qiita.com/sk0meda/items/0fb6b38b0983f5da8e79?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "score": null,
-          "source": "zennqiita",
-          "severity": null,
-          "date": "2026-03-17T14:40:20+09:00"
-        },
-        {
-          "title": "データサイエンティストの強い味方！Bobで業務効率爆上げした話",
-          "url": "https://qiita.com/416nishimaki/items/3a661aaab56af24f403e?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "score": null,
-          "source": "zennqiita",
-          "severity": null,
-          "date": "2026-03-17T13:02:19+09:00"
+          "date": "2026-03-17T18:30:34+09:00"
         }
       ]
     }

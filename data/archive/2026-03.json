@@ -1,15 +1,15 @@
 {
   "month": "2026-03",
-  "generated_at": "2026-03-18T16:06:09.754541+00:00",
-  "total_articles": 449,
+  "generated_at": "2026-03-18T17:35:44.425795+00:00",
+  "total_articles": 451,
   "source_counts": {
-    "hn": 345,
+    "hn": 347,
     "zennqiita": 103,
     "project": 1
   },
   "severity_counts": {
+    "medium": 3,
     "critical": 14,
-    "medium": 1,
     "high": 1
   },
   "top_articles": [
@@ -77,6 +77,13 @@
       "date": "2026-03-14T22:10:26+00:00"
     },
     {
+      "title": "A Decade of Slug",
+      "url": "https://terathon.com/blog/decade-slug.html",
+      "score": 708,
+      "source": "hn",
+      "date": "2026-03-17T18:59:50+00:00"
+    },
+    {
       "title": "Kagi Small Web",
       "url": "https://kagi.com/smallweb/",
       "score": 707,
@@ -84,18 +91,18 @@
       "date": "2026-03-17T09:53:53+00:00"
     },
     {
-      "title": "A Decade of Slug",
-      "url": "https://terathon.com/blog/decade-slug.html",
-      "score": 695,
-      "source": "hn",
-      "date": "2026-03-17T18:59:50+00:00"
-    },
-    {
       "title": "Reddit User Uncovers Who Is Behind Meta's $2B Lobbying for Age Verification Tech",
       "url": "https://www.gadgetreview.com/reddit-user-uncovers-who-is-behind-metas-2b-lobbying-for-invasive-age-verification-tech",
       "score": 670,
       "source": "hn",
       "date": "2026-03-17T10:39:48+00:00"
+    },
+    {
+      "title": "Mistral AI Releases Forge",
+      "url": "https://mistral.ai/news/forge",
+      "score": 669,
+      "source": "hn",
+      "date": "2026-03-17T21:04:26+00:00"
     },
     {
       "title": "US SEC preparing to scrap quarterly reporting requirement",
@@ -119,18 +126,18 @@
       "date": "2026-03-18T03:53:42+00:00"
     },
     {
-      "title": "Mistral AI Releases Forge",
-      "url": "https://mistral.ai/news/forge",
-      "score": 642,
-      "source": "hn",
-      "date": "2026-03-17T21:04:26+00:00"
-    },
-    {
       "title": "Qatar helium shutdown puts chip supply chain on a two-week clock",
       "url": "https://www.tomshardware.com/tech-industry/qatar-helium-shutdown-puts-chip-supply-chain-on-a-two-week-clock",
       "score": 622,
       "source": "hn",
       "date": "2026-03-13T12:31:09+00:00"
+    },
+    {
+      "title": "Rob Pike's Rules of Programming (1989)",
+      "url": "https://www.cs.unc.edu/~stotts/COMP590-059-f24/robsrules.html",
+      "score": 586,
+      "source": "hn",
+      "date": "2026-03-18T09:59:54+00:00"
     },
     {
       "title": "Stop Sloppypasta",
@@ -145,13 +152,6 @@
       "score": 569,
       "source": "hn",
       "date": "2026-03-11T14:34:57+00:00"
-    },
-    {
-      "title": "Chrome DevTools MCP (2025)",
-      "url": "https://developer.chrome.com/blog/chrome-devtools-mcp-debug-your-browser-session",
-      "score": 557,
-      "source": "hn",
-      "date": "2026-03-15T19:12:53+00:00"
     }
   ],
   "security_highlights": [

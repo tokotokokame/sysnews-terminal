@@ -1,25 +1,114 @@
 {
-  "updated_at": "2026-03-18T16:08:01.033962+00:00",
+  "updated_at": "2026-03-18T17:35:44.311222+00:00",
   "count": 500,
   "items": [
+    {
+      "id": "hn-47427647",
+      "source": "hn",
+      "title": "Google Engineers Launch \"Sashiko\" for Agentic AI Code Review of the Linux Kernel",
+      "url": "https://www.phoronix.com/news/Sashiko-Linux-AI-Code-Review",
+      "score": 28,
+      "comments": 6,
+      "author": "speckx",
+      "tags": [],
+      "date": "2026-03-18T16:17:44+00:00"
+    },
+    {
+      "id": "hn-47427520",
+      "source": "hn",
+      "title": "A data center opened next door. Then came the high-pitched whine",
+      "url": "https://www.politico.com/news/2026/03/11/data-centers-ai-electricity-virginia-00815219",
+      "score": 42,
+      "comments": 28,
+      "author": "1vuio0pswjnm7",
+      "tags": [],
+      "date": "2026-03-18T16:07:54+00:00"
+    },
+    {
+      "id": "hn-47427416",
+      "source": "hn",
+      "title": "North Korean's 100k fake IT workers net $500M a year for Kim",
+      "url": "https://www.theregister.com/2026/03/18/researchers_lift_the_lid_on/",
+      "score": 47,
+      "comments": 40,
+      "author": "speckx",
+      "tags": [],
+      "date": "2026-03-18T15:59:58+00:00"
+    },
+    {
+      "id": "hn-47427388",
+      "source": "hn",
+      "title": "A tiny, decentralised tool to explore the small web",
+      "url": "https://codeberg.org/susam/wander",
+      "score": 65,
+      "comments": 9,
+      "author": "carte_blanche",
+      "tags": [],
+      "date": "2026-03-18T15:57:48+00:00"
+    },
+    {
+      "id": "hn-47427290",
+      "source": "hn",
+      "title": "Wander – A tiny, decentralised tool (just 2 files) to explore the small web",
+      "url": "https://susam.net/wander/",
+      "score": 28,
+      "comments": 9,
+      "author": "oystersareyum",
+      "tags": [],
+      "date": "2026-03-18T15:49:52+00:00"
+    },
+    {
+      "id": "hn-47427271",
+      "source": "hn",
+      "title": "Wide logging: Stripe's canonical log line pattern",
+      "url": "https://blog.alcazarsec.com/tech/posts/wide-logging",
+      "score": 14,
+      "comments": 5,
+      "author": "alcazar",
+      "tags": [],
+      "date": "2026-03-18T15:48:04+00:00"
+    },
     {
       "id": "hn-47427214",
       "source": "hn",
       "title": "Meta will shut down VR Horizon Worlds access June 15",
       "url": "https://www.engadget.com/ar-vr/meta-will-shut-down-vr-horizon-worlds-access-in-june-222028919.html",
-      "score": 11,
-      "comments": 1,
+      "score": 86,
+      "comments": 61,
       "author": "bookofjoe",
       "tags": [],
       "date": "2026-03-18T15:43:38+00:00"
+    },
+    {
+      "id": "hn-47427027",
+      "source": "hn",
+      "title": "Nvidia NemoClaw",
+      "url": "https://github.com/NVIDIA/NemoClaw",
+      "score": 61,
+      "comments": 36,
+      "author": "hmokiguess",
+      "tags": [],
+      "date": "2026-03-18T15:31:07+00:00"
+    },
+    {
+      "id": "hn-47427017",
+      "source": "hn",
+      "title": "Snowflake AI Escapes Sandbox and Executes Malware",
+      "url": "https://www.promptarmor.com/resources/snowflake-ai-escapes-sandbox-and-executes-malware",
+      "score": 97,
+      "comments": 17,
+      "author": "ozgune",
+      "tags": [],
+      "date": "2026-03-18T15:30:07+00:00",
+      "severity": "medium"
     },
     {
       "id": "hn-47426936",
       "source": "hn",
       "title": "Machine Payments Protocol (MPP)",
       "url": "https://stripe.com/blog/machine-payments-protocol",
-      "score": 9,
-      "comments": 7,
+      "score": 64,
+      "comments": 26,
       "author": "bpierre",
       "tags": [],
       "date": "2026-03-18T15:24:12+00:00"
@@ -29,8 +118,8 @@
       "source": "hn",
       "title": "Death to Scroll Fade",
       "url": "https://dbushell.com/2026/01/09/death-to-scroll-fade/",
-      "score": 6,
-      "comments": 1,
+      "score": 179,
+      "comments": 80,
       "author": "PaulHoule",
       "tags": [],
       "date": "2026-03-18T15:23:58+00:00"
@@ -53,8 +142,8 @@
       "source": "hn",
       "title": "Federal Cyber Experts Called Microsoft's Cloud \"A Pile of Shit\", yet Approved It",
       "url": "https://www.propublica.org/article/microsoft-cloud-fedramp-cybersecurity-government",
-      "score": 138,
-      "comments": 63,
+      "score": 244,
+      "comments": 110,
       "author": "hn_acker",
       "tags": [],
       "date": "2026-03-18T14:14:02+00:00"
@@ -118,10 +207,10 @@
     {
       "id": "hn-47423647",
       "source": "hn",
-      "title": "Rob Pike's 5 Rules of Programming",
+      "title": "Rob Pike's Rules of Programming (1989)",
       "url": "https://www.cs.unc.edu/~stotts/COMP590-059-f24/robsrules.html",
-      "score": 509,
-      "comments": 276,
+      "score": 586,
+      "comments": 325,
       "author": "vismit2000",
       "tags": [],
       "date": "2026-03-18T09:59:54+00:00"
@@ -142,8 +231,8 @@
       "source": "hn",
       "title": "Nightingale – open-source karaoke app that works with any song on your computer",
       "url": "https://nightingale.cafe/",
-      "score": 343,
-      "comments": 72,
+      "score": 374,
+      "comments": 103,
       "author": "rzzzzru",
       "tags": [],
       "date": "2026-03-18T08:06:24+00:00",
@@ -189,8 +278,8 @@
       "source": "hn",
       "title": "Celebrating Tony Hoare's mark on computer science",
       "url": "https://bertrandmeyer.com/2026/03/16/celebrating-tony-hoares-mark-on-computer-science/",
-      "score": 84,
-      "comments": 23,
+      "score": 95,
+      "comments": 26,
       "author": "benhoyt",
       "tags": [],
       "date": "2026-03-18T06:31:14+00:00"
@@ -329,8 +418,8 @@
       "source": "hn",
       "title": "The pleasures of poor product design",
       "url": "https://www.inconspicuous.info/p/the-pleasures-of-poor-product-design",
-      "score": 200,
-      "comments": 68,
+      "score": 214,
+      "comments": 73,
       "author": "NaOH",
       "tags": [],
       "date": "2026-03-18T01:00:45+00:00"
@@ -388,8 +477,8 @@
       "source": "hn",
       "title": "Mistral AI Releases Forge",
       "url": "https://mistral.ai/news/forge",
-      "score": 642,
-      "comments": 156,
+      "score": 669,
+      "comments": 170,
       "author": "pember",
       "tags": [],
       "date": "2026-03-17T21:04:26+00:00"
@@ -465,7 +554,7 @@
       "source": "hn",
       "title": "A Decade of Slug",
       "url": "https://terathon.com/blog/decade-slug.html",
-      "score": 695,
+      "score": 708,
       "comments": 69,
       "author": "mwkaufma",
       "tags": [],
@@ -586,7 +675,7 @@
       "source": "hn",
       "title": "A Fuzzer for the Toy Optimizer",
       "url": "https://bernsteinbear.com/blog/toy-fuzzer/",
-      "score": 7,
+      "score": 10,
       "comments": 1,
       "author": "surprisetalk",
       "tags": [],
@@ -1345,8 +1434,8 @@
       "source": "hn",
       "title": "Using calculus to do number theory",
       "url": "https://hidden-phenomena.com/articles/hensels",
-      "score": 23,
-      "comments": 1,
+      "score": 54,
+      "comments": 9,
       "author": "cpp_frog",
       "tags": [],
       "date": "2026-03-16T14:12:45+00:00"
@@ -2049,8 +2138,8 @@
       "source": "hn",
       "title": "Write up of my homebrew CPU build",
       "url": "https://willwarren.com/2026/03/12/building-my-own-cpu-part-3-from-simulation-to-hardware/",
-      "score": 180,
-      "comments": 24,
+      "score": 193,
+      "comments": 28,
       "author": "wwarren",
       "tags": [],
       "date": "2026-03-15T17:36:48+00:00"
@@ -2304,6 +2393,17 @@
         "Qiita"
       ],
       "date": "2026-03-15T21:20:52+09:00"
+    },
+    {
+      "id": "hn-47386703",
+      "source": "hn",
+      "title": "OpenRocket",
+      "url": "https://openrocket.info/",
+      "score": 50,
+      "comments": 13,
+      "author": "zeristor",
+      "tags": [],
+      "date": "2026-03-15T12:20:14+00:00"
     },
     {
       "id": "hn-47386699",
@@ -3053,6 +3153,18 @@
       "date": "2026-03-14T17:12:18+00:00"
     },
     {
+      "id": "hn-47378781",
+      "source": "hn",
+      "title": "Show HN: Hacker News archive (47M+ items, 11.6GB) as Parquet, updated every 5m",
+      "url": "https://huggingface.co/datasets/open-index/hacker-news",
+      "score": 36,
+      "comments": 4,
+      "author": "tamnd",
+      "tags": [],
+      "date": "2026-03-14T17:12:03+00:00",
+      "severity": "medium"
+    },
+    {
       "id": "hn-47378638",
       "source": "hn",
       "title": "What happens when US economic data becomes unreliable",
@@ -3379,8 +3491,8 @@
       "source": "hn",
       "title": "Restoring the first recording of computer music (2018)",
       "url": "https://www.bl.uk/stories/blogs/posts/restoring-the-first-recording-of-computer-music",
-      "score": 14,
-      "comments": 4,
+      "score": 19,
+      "comments": 6,
       "author": "OJFord",
       "tags": [],
       "date": "2026-03-14T08:28:16+00:00"
@@ -5065,94 +5177,6 @@
       "date": "2026-03-10T09:31:19+00:00"
     },
     {
-      "id": "hn-47320667",
-      "source": "hn",
-      "title": "CSMWrap: Legacy BIOS booting on UEFI-only systems via SeaBIOS",
-      "url": "https://github.com/CSMWrap/CSMWrap",
-      "score": 29,
-      "comments": 3,
-      "author": "_joel",
-      "tags": [],
-      "date": "2026-03-10T08:55:42+00:00"
-    },
-    {
-      "id": "hn-47320571",
-      "source": "hn",
-      "title": "Offloading FFmpeg with Cloudflare",
-      "url": "https://kentcdodds.com/blog/offloading-ffmpeg-with-cloudflare",
-      "score": 41,
-      "comments": 18,
-      "author": "heftykoo",
-      "tags": [],
-      "date": "2026-03-10T08:41:37+00:00"
-    },
-    {
-      "id": "hn-47320482",
-      "source": "hn",
-      "title": "Nominal Types in WebAssembly",
-      "url": "https://wingolog.org/archives/2026/03/10/nominal-types-in-webassembly",
-      "score": 27,
-      "comments": 14,
-      "author": "ingve",
-      "tags": [],
-      "date": "2026-03-10T08:27:34+00:00"
-    },
-    {
-      "id": "hn-47320158",
-      "source": "hn",
-      "title": "Using Thunderbird for RSS",
-      "url": "https://rubenerd.com/using-thunderbird-for-rss/",
-      "score": 86,
-      "comments": 20,
-      "author": "ingve",
-      "tags": [],
-      "date": "2026-03-10T07:38:59+00:00"
-    },
-    {
-      "id": "hn-47319071",
-      "source": "hn",
-      "title": "Emacs and Vim in the Age of AI",
-      "url": "https://batsov.com/articles/2026/03/09/emacs-and-vim-in-the-age-of-ai/",
-      "score": 152,
-      "comments": 93,
-      "author": "psibi",
-      "tags": [],
-      "date": "2026-03-10T04:21:32+00:00"
-    },
-    {
-      "id": "hn-47318386",
-      "source": "hn",
-      "title": "A Survival Guide to a PhD (2016)",
-      "url": "http://karpathy.github.io/2016/09/07/phd/",
-      "score": 137,
-      "comments": 84,
-      "author": "vismit2000",
-      "tags": [],
-      "date": "2026-03-10T02:16:51+00:00"
-    },
-    {
-      "id": "hn-47316592",
-      "source": "hn",
-      "title": "Shipping Grayscale Photos at Small Scale",
-      "url": "https://underjord.io/shipping-grayscale-photos-at-small-scale.html",
-      "score": 10,
-      "comments": 1,
-      "author": "zdw",
-      "tags": [],
-      "date": "2026-03-09T22:29:57+00:00"
-    },
-    {
-      "id": "hn-47310815",
-      "source": "hn",
-      "title": "Coding My Handwriting",
-      "url": "https://www.amygoodchild.com/blog/cursive-handwriting-in-javascript",
-      "score": 28,
-      "comments": 3,
-      "author": "bwoah",
-      "tags": [],
-      "date": "2026-03-09T16:01:23+00:00"
-    },
-    {
       "id": "ghrel-projectdiscovery_nuclei-293442537",
       "source": "project",
       "proj_category": "Tools",
@@ -5181,20 +5205,6 @@
       "date": "2026-02-23T22:31:22Z"
     },
     {
-      "id": "htb-dt-3279111",
-      "source": "project",
-      "proj_category": "CTF",
-      "title": "Interpreter Machine Writeup | HackTheBox",
-      "url": "https://dev.to/0xjerry__/interpreter-machine-hackthebox-4cbc",
-      "score": 0,
-      "author": "Andrés",
-      "tags": [
-        "CTF",
-        "Security"
-      ],
-      "date": "2026-02-23T22:31:22Z"
-    },
-    {
       "id": "ghrel-Pennyw0rth_NetExec-289454548",
       "source": "project",
       "proj_category": "Tools",
@@ -5207,22 +5217,6 @@
         "Release"
       ],
       "date": "2026-02-23T14:52:17Z"
-    },
-    {
-      "id": "ghrel-pwndbg_pwndbg-287681700",
-      "source": "project",
-      "proj_category": "Tools",
-      "title": "[pwndbg] 2026.02.18 — 2026.02.18",
-      "url": "https://github.com/pwndbg/pwndbg/releases/tag/2026.02.18",
-      "score": null,
-      "author": "pwndbg",
-      "tags": [
-        "pwndbg",
-        "GDB",
-        "Pwn",
-        "Release"
-      ],
-      "date": "2026-02-18T14:54:30Z"
     },
     {
       "id": "ctf-3246876",

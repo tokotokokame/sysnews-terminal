@@ -1,7 +1,7 @@
 {
   "date": "2026-03-18",
-  "generated_at": "2026-03-18T11:42:29.707706+00:00",
-  "total_articles": 58,
+  "generated_at": "2026-03-18T13:01:13.388378+00:00",
+  "total_articles": 53,
   "urgent_count": 1,
   "urgent_items": [
     {
@@ -15,12 +15,12 @@
   "categories": [
     {
       "category": "テクノロジー",
-      "count": 47,
+      "count": 44,
       "top_items": [
         {
           "title": "Microsoft's 'unhackable' Xbox One has been hacked by 'Bliss'",
           "url": "https://www.tomshardware.com/video-games/console-gaming/microsofts-unhackable-xbox-one-has-been-hacked-by-bliss-the-2013-console-finally-fell-to-voltage-glitching-allowing-the-loading-of-unsigned-code-at-every-level",
-          "score": 702,
+          "score": 717,
           "source": "hn",
           "severity": null,
           "date": "2026-03-17T15:16:29+00:00"
@@ -28,7 +28,7 @@
         {
           "title": "A Decade of Slug",
           "url": "https://terathon.com/blog/decade-slug.html",
-          "score": 632,
+          "score": 652,
           "source": "hn",
           "severity": null,
           "date": "2026-03-17T18:59:50+00:00"
@@ -36,7 +36,7 @@
         {
           "title": "Mistral AI Releases Forge",
           "url": "https://mistral.ai/news/forge",
-          "score": 509,
+          "score": 561,
           "source": "hn",
           "severity": null,
           "date": "2026-03-17T21:04:26+00:00"
@@ -44,7 +44,7 @@
         {
           "title": "Have a fucking website",
           "url": "https://www.otherstrangeness.com/2026/03/14/have-a-fucking-website/",
-          "score": 478,
+          "score": 549,
           "source": "hn",
           "severity": null,
           "date": "2026-03-18T03:53:42+00:00"
@@ -52,7 +52,7 @@
         {
           "title": "Python 3.15's JIT is now back on track",
           "url": "https://fidget-spinner.github.io/posts/jit-on-track.html",
-          "score": 392,
+          "score": 411,
           "source": "hn",
           "severity": null,
           "date": "2026-03-17T18:37:27+00:00"
@@ -61,8 +61,16 @@
     },
     {
       "category": "日本語技術記事",
-      "count": 11,
+      "count": 9,
       "top_items": [
+        {
+          "title": "GitHub Copilot CLI の公式ハンズオンやってみた (第0章/7章)",
+          "url": "https://qiita.com/chomado/items/6d26b6ffc11d163dfd71?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "score": null,
+          "source": "zennqiita",
+          "severity": null,
+          "date": "2026-03-18T21:42:31+09:00"
+        },
         {
           "title": "30代薬剤師がIT転職して年収上がった",
           "url": "https://qiita.com/kentyo0813/items/f376db34bf06a4e8c0d0?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
@@ -86,14 +94,6 @@
           "source": "zennqiita",
           "severity": null,
           "date": "2026-03-18T12:32:12+09:00"
-        },
-        {
-          "title": "GitHub Copilot CLI の公式ハンズオンやってみた (第0章/7章)",
-          "url": "https://qiita.com/chomado/items/6d26b6ffc11d163dfd71?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "score": null,
-          "source": "zennqiita",
-          "severity": null,
-          "date": "2026-03-18T12:18:06+09:00"
         },
         {
           "title": "OSコマンドの実行結果をOCI Log Analyticsで収集する",

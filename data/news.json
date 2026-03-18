@@ -1,14 +1,36 @@
 {
-  "updated_at": "2026-03-17T23:54:05.167314+00:00",
+  "updated_at": "2026-03-18T01:52:22.917846+00:00",
   "count": 500,
   "items": [
+    {
+      "id": "hn-47420493",
+      "source": "hn",
+      "title": "Launch an autonomous AI agent with sandboxed execution in 2 lines of code",
+      "url": "https://amaiya.github.io/onprem/examples_agent.html",
+      "score": 4,
+      "comments": 0,
+      "author": "wiseprobe",
+      "tags": [],
+      "date": "2026-03-18T01:10:19+00:00"
+    },
+    {
+      "id": "hn-47420388",
+      "source": "hn",
+      "title": "A tale about fixing eBPF spinlock issues in the Linux kernel",
+      "url": "https://rovarma.com/articles/a-tale-about-fixing-ebpf-spinlock-issues-in-the-linux-kernel/",
+      "score": 3,
+      "comments": 0,
+      "author": "y1n0",
+      "tags": [],
+      "date": "2026-03-18T00:53:10+00:00"
+    },
     {
       "id": "hn-47418722",
       "source": "hn",
       "title": "Why AI systems don't learn – On autonomous learning from cognitive science",
       "url": "https://arxiv.org/abs/2603.15381",
-      "score": 7,
-      "comments": 3,
+      "score": 21,
+      "comments": 8,
       "author": "aanet",
       "tags": [],
       "date": "2026-03-17T21:42:39+00:00"
@@ -18,8 +40,8 @@
       "source": "hn",
       "title": "Mistral AI Releases Forge",
       "url": "https://mistral.ai/news/forge",
-      "score": 48,
-      "comments": 2,
+      "score": 132,
+      "comments": 8,
       "author": "pember",
       "tags": [],
       "date": "2026-03-17T21:04:26+00:00"
@@ -62,8 +84,8 @@
       "source": "hn",
       "title": "Get Shit Done: A Meta-Prompting, Context Engineering and Spec-Driven Dev System",
       "url": "https://github.com/gsd-build/get-shit-done",
-      "score": 147,
-      "comments": 85,
+      "score": 187,
+      "comments": 110,
       "author": "stefankuehnel",
       "tags": [],
       "date": "2026-03-17T20:23:39+00:00"
@@ -95,8 +117,8 @@
       "source": "hn",
       "title": "A Decade of Slug",
       "url": "https://terathon.com/blog/decade-slug.html",
-      "score": 357,
-      "comments": 27,
+      "score": 414,
+      "comments": 36,
       "author": "mwkaufma",
       "tags": [],
       "date": "2026-03-17T18:59:50+00:00"
@@ -117,8 +139,8 @@
       "source": "hn",
       "title": "Python 3.15's JIT is now back on track",
       "url": "https://fidget-spinner.github.io/posts/jit-on-track.html",
-      "score": 224,
-      "comments": 80,
+      "score": 267,
+      "comments": 100,
       "author": "guidoiaquinti",
       "tags": [],
       "date": "2026-03-17T18:37:27+00:00"
@@ -150,8 +172,8 @@
       "source": "hn",
       "title": "Edge.js: Run Node apps inside a WebAssembly sandbox",
       "url": "https://wasmer.io/posts/edgejs-safe-nodejs-using-wasm-sandbox",
-      "score": 81,
-      "comments": 22,
+      "score": 96,
+      "comments": 29,
       "author": "syrusakbary",
       "tags": [],
       "date": "2026-03-17T18:01:50+00:00"
@@ -194,8 +216,8 @@
       "source": "hn",
       "title": "'The Secret Agent': Exploring a Vibrant, yet Violent Brazil (2025)",
       "url": "https://theasc.com/articles/the-secret-agent-cinematography",
-      "score": 113,
-      "comments": 54,
+      "score": 124,
+      "comments": 59,
       "author": "tambourine_man",
       "tags": [],
       "date": "2026-03-17T15:56:09+00:00"
@@ -216,8 +238,8 @@
       "source": "hn",
       "title": "Unsloth Studio",
       "url": "https://unsloth.ai/docs/new/studio",
-      "score": 120,
-      "comments": 28,
+      "score": 168,
+      "comments": 34,
       "author": "brainless",
       "tags": [],
       "date": "2026-03-17T15:26:32+00:00"
@@ -227,8 +249,8 @@
       "source": "hn",
       "title": "Microsoft's 'unhackable' Xbox One has been hacked by 'Bliss'",
       "url": "https://www.tomshardware.com/video-games/console-gaming/microsofts-unhackable-xbox-one-has-been-hacked-by-bliss-the-2013-console-finally-fell-to-voltage-glitching-allowing-the-loading-of-unsigned-code-at-every-level",
-      "score": 482,
-      "comments": 184,
+      "score": 535,
+      "comments": 204,
       "author": "crtasm",
       "tags": [],
       "date": "2026-03-17T15:16:29+00:00"
@@ -249,8 +271,8 @@
       "source": "hn",
       "title": "Node.js needs a virtual file system",
       "url": "https://blog.platformatic.dev/why-nodejs-needs-a-virtual-file-system",
-      "score": 221,
-      "comments": 181,
+      "score": 227,
+      "comments": 194,
       "author": "voctor",
       "tags": [],
       "date": "2026-03-17T14:28:37+00:00"
@@ -265,6 +287,17 @@
       "author": "ogogmad",
       "tags": [],
       "date": "2026-03-17T13:54:17+00:00"
+    },
+    {
+      "id": "hn-47412569",
+      "source": "hn",
+      "title": "Show HN: Sub-millisecond VM sandboxes using CoW memory forking",
+      "url": "https://github.com/adammiribyan/zeroboot",
+      "score": 28,
+      "comments": 7,
+      "author": "adammiribyan",
+      "tags": [],
+      "date": "2026-03-17T13:43:44+00:00"
     },
     {
       "id": "hn-47412097",
@@ -328,8 +361,8 @@
       "source": "hn",
       "title": "Ryugu asteroid samples contain all DNA and RNA building blocks",
       "url": "https://phys.org/news/2026-03-ryugu-asteroid-samples-dna-rna.html",
-      "score": 167,
-      "comments": 94,
+      "score": 185,
+      "comments": 96,
       "author": "bookofjoe",
       "tags": [],
       "date": "2026-03-17T12:01:05+00:00"
@@ -389,8 +422,8 @@
       "source": "hn",
       "title": "Kagi Small Web",
       "url": "https://kagi.com/smallweb/",
-      "score": 678,
-      "comments": 191,
+      "score": 704,
+      "comments": 196,
       "author": "trueduke",
       "tags": [],
       "date": "2026-03-17T09:53:53+00:00"
@@ -1769,8 +1802,8 @@
       "source": "hn",
       "title": "Honda is killing its EVs",
       "url": "https://techcrunch.com/2026/03/14/honda-is-killing-its-evs-and-any-chance-of-competing-in-the-future/",
-      "score": 166,
-      "comments": 297,
+      "score": 198,
+      "comments": 412,
       "author": "sylvainkalache",
       "tags": [],
       "date": "2026-03-15T13:38:08+00:00"
@@ -2884,8 +2917,8 @@
       "source": "hn",
       "title": "Torturing Rustc by Emulating HKTs",
       "url": "https://www.harudagondi.space/blog/torturing-rustc-by-emulating-hkts/",
-      "score": 39,
-      "comments": 4,
+      "score": 50,
+      "comments": 6,
       "author": "g0xA52A2A",
       "tags": [],
       "date": "2026-03-14T07:25:09+00:00"
@@ -2992,6 +3025,17 @@
       "severity": "critical"
     },
     {
+      "id": "hn-47372020",
+      "source": "hn",
+      "title": "Show HN: I built an interactive 3D three-body problem simulator in the browser",
+      "url": "https://structuredlabs.github.io/threebodyproblem/",
+      "score": 19,
+      "comments": 9,
+      "author": "amrutha_",
+      "tags": [],
+      "date": "2026-03-14T00:43:27+00:00"
+    },
+    {
       "id": "hn-47371922",
       "source": "hn",
       "title": "Our Experience with I-Ready",
@@ -3005,10 +3049,10 @@
     {
       "id": "hn-47371785",
       "source": "hn",
-      "title": "Show HN: Fatal Core Dump – a debugging murder mystery played with GDB",
+      "title": "Show HN: Fatal Core Dump – A debugging murder mystery played with GDB",
       "url": "https://www.robopenguins.com/fatal_core_dump/",
-      "score": 6,
-      "comments": 0,
+      "score": 26,
+      "comments": 1,
       "author": "axlan",
       "tags": [],
       "date": "2026-03-14T00:12:44+00:00"
@@ -3023,6 +3067,17 @@
       "author": "gostsamo",
       "tags": [],
       "date": "2026-03-14T00:02:37+00:00"
+    },
+    {
+      "id": "hn-47371404",
+      "source": "hn",
+      "title": "Electron microscopy shows 'mouse bite' defects in semiconductors",
+      "url": "https://news.cornell.edu/stories/2026/03/electron-microscopy-shows-mouse-bite-defects-semiconductors",
+      "score": 22,
+      "comments": 2,
+      "author": "hhs",
+      "tags": [],
+      "date": "2026-03-13T23:30:08+00:00"
     },
     {
       "id": "hn-47371275",
@@ -3070,6 +3125,17 @@
       "date": "2026-03-13T21:45:27+00:00"
     },
     {
+      "id": "hn-47369883",
+      "source": "hn",
+      "title": "More than 135 open hardware devices flashable with your own firmware",
+      "url": "https://openhardware.directory",
+      "score": 6,
+      "comments": 0,
+      "author": "iosifnicolae2",
+      "tags": [],
+      "date": "2026-03-13T21:04:35+00:00"
+    },
+    {
       "id": "hn-47368660",
       "source": "hn",
       "title": "Gummy Geometry",
@@ -3096,8 +3162,8 @@
       "source": "hn",
       "title": "It Took Me 30 Years to Solve This VFX Problem – Green Screen Problem [video]",
       "url": "https://www.youtube.com/watch?v=3Ploi723hg4",
-      "score": 138,
-      "comments": 64,
+      "score": 165,
+      "comments": 72,
       "author": "yincrash",
       "tags": [],
       "date": "2026-03-13T19:14:46+00:00"
@@ -3418,8 +3484,8 @@
       "source": "hn",
       "title": "Chrome extension adjusts video speed based on how fast the speaker is talking",
       "url": "https://github.com/ywong137/speech-speed",
-      "score": 71,
-      "comments": 16,
+      "score": 95,
+      "comments": 29,
       "author": "MrBuddyCasino",
       "tags": [],
       "date": "2026-03-13T06:18:17+00:00"
@@ -5900,84 +5966,6 @@
         "Zenn"
       ],
       "date": "Wed, 11 Mar 2026 12:48:17 GMT"
-    },
-    {
-      "id": "zenn-4644bfcd40",
-      "source": "zennqiita",
-      "sub_source": "Zenn",
-      "title": "証券システムと、それを取り巻く世界",
-      "url": "https://zenn.dev/mi_01_24fu/books/securities-system-flow",
-      "score": null,
-      "author": "みふう",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Wed, 11 Mar 2026 03:28:32 GMT"
-    },
-    {
-      "id": "zenn-1de68fb6f3",
-      "source": "zennqiita",
-      "sub_source": "Zenn",
-      "title": "Claude Codeを加速させる私の推しスキル・ツール・設定（Findyイベント登壇資料）",
-      "url": "https://zenn.dev/ubie_dev/articles/claude-code-tips-findy-2026",
-      "score": null,
-      "author": "鹿野 壮",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Wed, 11 Mar 2026 02:49:52 GMT"
-    },
-    {
-      "id": "zenn-bd6fa140ad",
-      "source": "zennqiita",
-      "sub_source": "Zenn",
-      "title": "Claude Codeで仕様駆動開発、tsumikiが良かった",
-      "url": "https://zenn.dev/hidechannu/articles/20260314-spec-driven-development-tsumiki",
-      "score": null,
-      "author": "hidechannu",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Tue, 10 Mar 2026 17:09:51 GMT"
-    },
-    {
-      "id": "zenn-dccac2ffc4",
-      "source": "zennqiita",
-      "sub_source": "Zenn",
-      "title": "なぜ私はゲーム開発で「疎結合」と「コンポーネント指向」に異常なほどこだわるのか",
-      "url": "https://zenn.dev/munimaru62o/articles/c6ed730c6e4c61",
-      "score": null,
-      "author": "むにまる",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Tue, 10 Mar 2026 12:35:36 GMT"
-    },
-    {
-      "id": "zenn-3e343edf4e",
-      "source": "zennqiita",
-      "sub_source": "Zenn",
-      "title": "Claude Codeで自分好みの朝刊が届く仕組みを作った",
-      "url": "https://zenn.dev/aoi_umigishi/articles/936073d8dd16e9",
-      "score": null,
-      "author": "Aoi_Umigishi",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Tue, 10 Mar 2026 11:37:51 GMT"
-    },
-    {
-      "id": "zenn-ebaf2b0c65",
-      "source": "zennqiita",
-      "sub_source": "Zenn",
-      "title": "【2026/3/9最新】Claude Code新機能『Code Review』、早速使ったら2つのPRで$100超かかった話",
-      "url": "https://zenn.dev/canly/articles/1535fde47ca866",
-      "score": null,
-      "author": "ryu fukuda",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Tue, 10 Mar 2026 11:17:46 GMT"
     }
   ]
 }

@@ -1,14 +1,14 @@
 {
   "month": "2026-03",
-  "generated_at": "2026-03-18T14:46:04.503584+00:00",
-  "total_articles": 442,
+  "generated_at": "2026-03-18T16:06:09.754541+00:00",
+  "total_articles": 449,
   "source_counts": {
-    "hn": 338,
+    "hn": 345,
     "zennqiita": 103,
     "project": 1
   },
   "severity_counts": {
-    "critical": 13,
+    "critical": 14,
     "medium": 1,
     "high": 1
   },
@@ -49,18 +49,18 @@
       "date": "2026-03-15T21:22:16+00:00"
     },
     {
+      "title": "Microsoft's 'unhackable' Xbox One has been hacked by 'Bliss'",
+      "url": "https://www.tomshardware.com/video-games/console-gaming/microsofts-unhackable-xbox-one-has-been-hacked-by-bliss-the-2013-console-finally-fell-to-voltage-glitching-allowing-the-loading-of-unsigned-code-at-every-level",
+      "score": 755,
+      "source": "hn",
+      "date": "2026-03-17T15:16:29+00:00"
+    },
+    {
       "title": "The 49MB web page",
       "url": "https://thatshubham.com/blog/news-audit",
       "score": 741,
       "source": "hn",
       "date": "2026-03-15T19:25:18+00:00"
-    },
-    {
-      "title": "Microsoft's 'unhackable' Xbox One has been hacked by 'Bliss'",
-      "url": "https://www.tomshardware.com/video-games/console-gaming/microsofts-unhackable-xbox-one-has-been-hacked-by-bliss-the-2013-console-finally-fell-to-voltage-glitching-allowing-the-loading-of-unsigned-code-at-every-level",
-      "score": 740,
-      "source": "hn",
-      "date": "2026-03-17T15:16:29+00:00"
     },
     {
       "title": "Leanstral: Open-source agent for trustworthy coding and formal proof engineering",
@@ -86,7 +86,7 @@
     {
       "title": "A Decade of Slug",
       "url": "https://terathon.com/blog/decade-slug.html",
-      "score": 680,
+      "score": 695,
       "source": "hn",
       "date": "2026-03-17T18:59:50+00:00"
     },
@@ -114,9 +114,16 @@
     {
       "title": "Have a fucking website",
       "url": "https://www.otherstrangeness.com/2026/03/14/have-a-fucking-website/",
-      "score": 642,
+      "score": 643,
       "source": "hn",
       "date": "2026-03-18T03:53:42+00:00"
+    },
+    {
+      "title": "Mistral AI Releases Forge",
+      "url": "https://mistral.ai/news/forge",
+      "score": 642,
+      "source": "hn",
+      "date": "2026-03-17T21:04:26+00:00"
     },
     {
       "title": "Qatar helium shutdown puts chip supply chain on a two-week clock",
@@ -124,13 +131,6 @@
       "score": 622,
       "source": "hn",
       "date": "2026-03-13T12:31:09+00:00"
-    },
-    {
-      "title": "Mistral AI Releases Forge",
-      "url": "https://mistral.ai/news/forge",
-      "score": 610,
-      "source": "hn",
-      "date": "2026-03-17T21:04:26+00:00"
     },
     {
       "title": "Stop Sloppypasta",
@@ -155,6 +155,13 @@
     }
   ],
   "security_highlights": [
+    {
+      "title": "A ngrok-style secure tunnel server written in Rust and Open Source",
+      "url": "https://github.com/joaoh82/rustunnel",
+      "severity": "critical",
+      "source": "hn",
+      "date": "2026-03-18T14:00:43+00:00"
+    },
     {
       "title": "Nightingale – open-source karaoke app that works with any song on your computer",
       "url": "https://nightingale.cafe/",

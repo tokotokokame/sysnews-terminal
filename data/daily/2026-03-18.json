@@ -1,21 +1,13 @@
 {
   "date": "2026-03-18",
-  "generated_at": "2026-03-18T07:52:58.557506+00:00",
-  "total_articles": 49,
-  "urgent_count": 1,
-  "urgent_items": [
-    {
-      "title": "Reverse-engineering Viktor and making it open source",
-      "url": "https://matijacniacki.com/blog/openviktor",
-      "severity": "critical",
-      "source": "hn",
-      "date": "2026-03-17T08:15:34+00:00"
-    }
-  ],
+  "generated_at": "2026-03-18T08:42:37.645587+00:00",
+  "total_articles": 60,
+  "urgent_count": 0,
+  "urgent_items": [],
   "categories": [
     {
       "category": "テクノロジー",
-      "count": 44,
+      "count": 45,
       "top_items": [
         {
           "title": "Kagi Small Web",
@@ -36,7 +28,7 @@
         {
           "title": "Microsoft's 'unhackable' Xbox One has been hacked by 'Bliss'",
           "url": "https://www.tomshardware.com/video-games/console-gaming/microsofts-unhackable-xbox-one-has-been-hacked-by-bliss-the-2013-console-finally-fell-to-voltage-glitching-allowing-the-loading-of-unsigned-code-at-every-level",
-          "score": 640,
+          "score": 662,
           "source": "hn",
           "severity": null,
           "date": "2026-03-17T15:16:29+00:00"
@@ -44,64 +36,64 @@
         {
           "title": "A Decade of Slug",
           "url": "https://terathon.com/blog/decade-slug.html",
-          "score": 557,
+          "score": 582,
           "source": "hn",
           "severity": null,
           "date": "2026-03-17T18:59:50+00:00"
         },
         {
-          "title": "Python 3.15's JIT is now back on track",
-          "url": "https://fidget-spinner.github.io/posts/jit-on-track.html",
-          "score": 352,
+          "title": "Mistral AI Releases Forge",
+          "url": "https://mistral.ai/news/forge",
+          "score": 402,
           "source": "hn",
           "severity": null,
-          "date": "2026-03-17T18:37:27+00:00"
+          "date": "2026-03-17T21:04:26+00:00"
         }
       ]
     },
     {
       "category": "日本語技術記事",
-      "count": 5,
+      "count": 15,
       "top_items": [
         {
-          "title": "生成AIで古（いにしえ）のFORTRANコードに挑戦する",
-          "url": "https://qiita.com/cometscome_phys/items/76a4d9dac74e70bceebb?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "title": "30代薬剤師がIT転職して年収上がった",
+          "url": "https://qiita.com/kentyo0813/items/f376db34bf06a4e8c0d0?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
           "score": null,
           "source": "zennqiita",
           "severity": null,
-          "date": "2026-03-17T21:11:49+09:00"
+          "date": "2026-03-18T16:37:58+09:00"
         },
         {
-          "title": "【JAWS DAYS 2026】基礎こそ至高。歴戦の勇士が仕掛けた「入門」という名のプレゼンバトル",
-          "url": "https://qiita.com/s_hiroi/items/5c6a9cfef9687d090484?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "title": "Oracle Exadata Cloud Service: Oracle Advanced Cluster File System (ACFS)  を設定してみてみた",
+          "url": "https://qiita.com/shirok/items/d77db1a51bd2b56bf862?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
           "score": null,
           "source": "zennqiita",
           "severity": null,
-          "date": "2026-03-17T20:01:36+09:00"
+          "date": "2026-03-18T15:28:57+09:00"
         },
         {
-          "title": "IBM BobとIBM API ConnectでAPIテスト自動化の仕組みを作ってみた",
-          "url": "https://qiita.com/Shuma-Ito/items/d5d3ef6c4dca100e60e4?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "title": "【前編】「バグが出ました。」それは報告？相談？ ― 意識の違いでシゴデキエンジニアに！！ ―",
+          "url": "https://qiita.com/hitomin_poke/items/417b4d6f416fb188a30c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
           "score": null,
           "source": "zennqiita",
           "severity": null,
-          "date": "2026-03-17T19:35:09+09:00"
+          "date": "2026-03-18T12:32:12+09:00"
         },
         {
-          "title": "【Unity】演出スキップがつらすぎたので、ChainRacePattern という仕組みを作った",
-          "url": "https://qiita.com/morishift/items/a2c5012d496312358323?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "title": "GitHub Copilot CLI の公式ハンズオンやってみた (第0章/7章)",
+          "url": "https://qiita.com/chomado/items/6d26b6ffc11d163dfd71?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
           "score": null,
           "source": "zennqiita",
           "severity": null,
-          "date": "2026-03-17T19:33:08+09:00"
+          "date": "2026-03-18T12:18:06+09:00"
         },
         {
-          "title": "BIツールの進化先？！ DBを業務分析用のMCPサーバにしてBIを次世代にする",
-          "url": "https://qiita.com/ssc-ksaitou/items/784cd48a88e4ab166f69?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "title": "OSコマンドの実行結果をOCI Log Analyticsで収集する",
+          "url": "https://qiita.com/Western24/items/0304764b3ac648b539ce?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
           "score": null,
           "source": "zennqiita",
           "severity": null,
-          "date": "2026-03-17T18:30:34+09:00"
+          "date": "2026-03-18T10:53:24+09:00"
         }
       ]
     }

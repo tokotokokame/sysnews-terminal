@@ -1,6 +1,6 @@
 {
   "month": "2026-03",
-  "generated_at": "2026-03-18T17:35:44.425795+00:00",
+  "generated_at": "2026-03-18T18:54:06.864490+00:00",
   "total_articles": 451,
   "source_counts": {
     "hn": 347,
@@ -8,9 +8,9 @@
     "project": 1
   },
   "severity_counts": {
+    "high": 2,
     "medium": 3,
-    "critical": 14,
-    "high": 1
+    "critical": 14
   },
   "top_articles": [
     {
@@ -126,18 +126,18 @@
       "date": "2026-03-18T03:53:42+00:00"
     },
     {
+      "title": "Rob Pike's Rules of Programming (1989)",
+      "url": "https://www.cs.unc.edu/~stotts/COMP590-059-f24/robsrules.html",
+      "score": 640,
+      "source": "hn",
+      "date": "2026-03-18T09:59:54+00:00"
+    },
+    {
       "title": "Qatar helium shutdown puts chip supply chain on a two-week clock",
       "url": "https://www.tomshardware.com/tech-industry/qatar-helium-shutdown-puts-chip-supply-chain-on-a-two-week-clock",
       "score": 622,
       "source": "hn",
       "date": "2026-03-13T12:31:09+00:00"
-    },
-    {
-      "title": "Rob Pike's Rules of Programming (1989)",
-      "url": "https://www.cs.unc.edu/~stotts/COMP590-059-f24/robsrules.html",
-      "score": 586,
-      "source": "hn",
-      "date": "2026-03-18T09:59:54+00:00"
     },
     {
       "title": "Stop Sloppypasta",
@@ -155,6 +155,13 @@
     }
   ],
   "security_highlights": [
+    {
+      "title": "CVE-2026-3888: Important Snap Flaw Enables Local Privilege Escalation to Root",
+      "url": "https://blog.qualys.com/vulnerabilities-threat-research/2026/03/17/cve-2026-3888-important-snap-flaw-enables-local-privilege-escalation-to-root",
+      "severity": "high",
+      "source": "hn",
+      "date": "2026-03-18T15:43:19+00:00"
+    },
     {
       "title": "A ngrok-style secure tunnel server written in Rust and Open Source",
       "url": "https://github.com/joaoh82/rustunnel",

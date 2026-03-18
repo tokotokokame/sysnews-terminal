@@ -1,6 +1,6 @@
 {
   "date": "2026-03-18",
-  "generated_at": "2026-03-18T04:22:39.462590+00:00",
+  "generated_at": "2026-03-18T05:45:23.844218+00:00",
   "total_articles": 47,
   "urgent_count": 1,
   "urgent_items": [
@@ -15,16 +15,8 @@
   "categories": [
     {
       "category": "テクノロジー",
-      "count": 40,
+      "count": 41,
       "top_items": [
-        {
-          "title": "Kagi Translate now supports LinkedIn Speak as an output language",
-          "url": "https://translate.kagi.com/?from=en&to=LinkedIn+speak",
-          "score": 1209,
-          "source": "hn",
-          "severity": null,
-          "date": "2026-03-17T04:39:42+00:00"
-        },
         {
           "title": "Kagi Small Web",
           "url": "https://kagi.com/smallweb/",
@@ -44,7 +36,7 @@
         {
           "title": "Microsoft's 'unhackable' Xbox One has been hacked by 'Bliss'",
           "url": "https://www.tomshardware.com/video-games/console-gaming/microsofts-unhackable-xbox-one-has-been-hacked-by-bliss-the-2013-console-finally-fell-to-voltage-glitching-allowing-the-loading-of-unsigned-code-at-every-level",
-          "score": 592,
+          "score": 609,
           "source": "hn",
           "severity": null,
           "date": "2026-03-17T15:16:29+00:00"
@@ -52,16 +44,24 @@
         {
           "title": "A Decade of Slug",
           "url": "https://terathon.com/blog/decade-slug.html",
-          "score": 492,
+          "score": 520,
           "source": "hn",
           "severity": null,
           "date": "2026-03-17T18:59:50+00:00"
+        },
+        {
+          "title": "Python 3.15's JIT is now back on track",
+          "url": "https://fidget-spinner.github.io/posts/jit-on-track.html",
+          "score": 322,
+          "source": "hn",
+          "severity": null,
+          "date": "2026-03-17T18:37:27+00:00"
         }
       ]
     },
     {
       "category": "日本語技術記事",
-      "count": 7,
+      "count": 6,
       "top_items": [
         {
           "title": "生成AIで古（いにしえ）のFORTRANコードに挑戦する",

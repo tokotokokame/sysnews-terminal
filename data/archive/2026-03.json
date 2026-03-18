@@ -1,14 +1,14 @@
 {
   "month": "2026-03",
-  "generated_at": "2026-03-18T09:49:44.901110+00:00",
-  "total_articles": 431,
+  "generated_at": "2026-03-18T10:47:32.315970+00:00",
+  "total_articles": 435,
   "source_counts": {
-    "hn": 327,
+    "hn": 331,
     "zennqiita": 103,
     "project": 1
   },
   "severity_counts": {
-    "critical": 12,
+    "critical": 13,
     "medium": 1,
     "high": 1
   },
@@ -79,7 +79,7 @@
     {
       "title": "Microsoft's 'unhackable' Xbox One has been hacked by 'Bliss'",
       "url": "https://www.tomshardware.com/video-games/console-gaming/microsofts-unhackable-xbox-one-has-been-hacked-by-bliss-the-2013-console-finally-fell-to-voltage-glitching-allowing-the-loading-of-unsigned-code-at-every-level",
-      "score": 680,
+      "score": 692,
       "source": "hn",
       "date": "2026-03-17T15:16:29+00:00"
     },
@@ -114,7 +114,7 @@
     {
       "title": "A Decade of Slug",
       "url": "https://terathon.com/blog/decade-slug.html",
-      "score": 606,
+      "score": 616,
       "source": "hn",
       "date": "2026-03-17T18:59:50+00:00"
     },
@@ -155,6 +155,13 @@
     }
   ],
   "security_highlights": [
+    {
+      "title": "Nightingale – open-source karaoke app that works with any song on your computer",
+      "url": "https://nightingale.cafe/",
+      "severity": "critical",
+      "source": "hn",
+      "date": "2026-03-18T08:06:24+00:00"
+    },
     {
       "title": "Reverse-engineering Viktor and making it open source",
       "url": "https://matijacniacki.com/blog/openviktor",

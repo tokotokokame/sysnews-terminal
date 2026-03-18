@@ -1,7 +1,41 @@
 {
-  "updated_at": "2026-03-18T09:56:19.282152+00:00",
+  "updated_at": "2026-03-18T10:47:32.196055+00:00",
   "count": 500,
   "items": [
+    {
+      "id": "hn-47423647",
+      "source": "hn",
+      "title": "Rob Pike's 5 Rules of Programming",
+      "url": "https://www.cs.unc.edu/~stotts/COMP590-059-f24/robsrules.html",
+      "score": 16,
+      "comments": 2,
+      "author": "vismit2000",
+      "tags": [],
+      "date": "2026-03-18T09:59:54+00:00"
+    },
+    {
+      "id": "hn-47423624",
+      "source": "hn",
+      "title": "Kagi is contemplating the removal of the assistant from its professional tier",
+      "url": "https://kagifeedback.org/d/10116-kagi-assistant-standalone-subscription",
+      "score": 7,
+      "comments": 1,
+      "author": "EbNar",
+      "tags": [],
+      "date": "2026-03-18T09:56:48+00:00"
+    },
+    {
+      "id": "hn-47422942",
+      "source": "hn",
+      "title": "Nightingale – open-source karaoke app that works with any song on your computer",
+      "url": "https://nightingale.cafe/",
+      "score": 23,
+      "comments": 5,
+      "author": "rzzzzru",
+      "tags": [],
+      "date": "2026-03-18T08:06:24+00:00",
+      "severity": "critical"
+    },
     {
       "id": "qiita-e1ad0253e3",
       "source": "zennqiita",
@@ -42,7 +76,7 @@
       "source": "hn",
       "title": "Celebrating Tony Hoare's mark on computer science",
       "url": "https://bertrandmeyer.com/2026/03/16/celebrating-tony-hoares-mark-on-computer-science/",
-      "score": 27,
+      "score": 34,
       "comments": 1,
       "author": "benhoyt",
       "tags": [],
@@ -110,8 +144,8 @@
       "source": "hn",
       "title": "Forget Flags and Scripts: Just Rename the File",
       "url": "https://robertsdotpm.github.io/software_engineering/program_names_as_input.html",
-      "score": 36,
-      "comments": 35,
+      "score": 39,
+      "comments": 38,
       "author": "Uptrenda",
       "tags": [],
       "date": "2026-03-18T04:11:20+00:00"
@@ -121,8 +155,8 @@
       "source": "hn",
       "title": "Have a fucking website",
       "url": "https://www.otherstrangeness.com/2026/03/14/have-a-fucking-website/",
-      "score": 398,
-      "comments": 221,
+      "score": 432,
+      "comments": 239,
       "author": "asukachikaru",
       "tags": [],
       "date": "2026-03-18T03:53:42+00:00"
@@ -195,8 +229,8 @@
       "source": "hn",
       "title": "The pleasures of poor product design",
       "url": "https://www.inconspicuous.info/p/the-pleasures-of-poor-product-design",
-      "score": 119,
-      "comments": 38,
+      "score": 126,
+      "comments": 46,
       "author": "NaOH",
       "tags": [],
       "date": "2026-03-18T01:00:45+00:00"
@@ -206,8 +240,8 @@
       "source": "hn",
       "title": "A tale about fixing eBPF spinlock issues in the Linux kernel",
       "url": "https://rovarma.com/articles/a-tale-about-fixing-ebpf-spinlock-issues-in-the-linux-kernel/",
-      "score": 96,
-      "comments": 5,
+      "score": 101,
+      "comments": 6,
       "author": "y1n0",
       "tags": [],
       "date": "2026-03-18T00:53:10+00:00"
@@ -243,8 +277,8 @@
       "source": "hn",
       "title": "Why AI systems don't learn – On autonomous learning from cognitive science",
       "url": "https://arxiv.org/abs/2603.15381",
-      "score": 117,
-      "comments": 48,
+      "score": 123,
+      "comments": 55,
       "author": "aanet",
       "tags": [],
       "date": "2026-03-17T21:42:39+00:00"
@@ -254,8 +288,8 @@
       "source": "hn",
       "title": "Mistral AI Releases Forge",
       "url": "https://mistral.ai/news/forge",
-      "score": 450,
-      "comments": 91,
+      "score": 479,
+      "comments": 108,
       "author": "pember",
       "tags": [],
       "date": "2026-03-17T21:04:26+00:00"
@@ -298,8 +332,8 @@
       "source": "hn",
       "title": "Get Shit Done: A meta-prompting, context engineering and spec-driven dev system",
       "url": "https://github.com/gsd-build/get-shit-done",
-      "score": 333,
-      "comments": 163,
+      "score": 342,
+      "comments": 168,
       "author": "stefankuehnel",
       "tags": [],
       "date": "2026-03-17T20:23:39+00:00"
@@ -331,8 +365,8 @@
       "source": "hn",
       "title": "A Decade of Slug",
       "url": "https://terathon.com/blog/decade-slug.html",
-      "score": 609,
-      "comments": 58,
+      "score": 616,
+      "comments": 61,
       "author": "mwkaufma",
       "tags": [],
       "date": "2026-03-17T18:59:50+00:00"
@@ -353,8 +387,8 @@
       "source": "hn",
       "title": "Python 3.15's JIT is now back on track",
       "url": "https://fidget-spinner.github.io/posts/jit-on-track.html",
-      "score": 373,
-      "comments": 193,
+      "score": 381,
+      "comments": 211,
       "author": "guidoiaquinti",
       "tags": [],
       "date": "2026-03-17T18:37:27+00:00"
@@ -452,8 +486,8 @@
       "source": "hn",
       "title": "Unsloth Studio",
       "url": "https://unsloth.ai/docs/new/studio",
-      "score": 281,
-      "comments": 53,
+      "score": 290,
+      "comments": 55,
       "author": "brainless",
       "tags": [],
       "date": "2026-03-17T15:26:32+00:00"
@@ -463,8 +497,8 @@
       "source": "hn",
       "title": "Microsoft's 'unhackable' Xbox One has been hacked by 'Bliss'",
       "url": "https://www.tomshardware.com/video-games/console-gaming/microsofts-unhackable-xbox-one-has-been-hacked-by-bliss-the-2013-console-finally-fell-to-voltage-glitching-allowing-the-loading-of-unsigned-code-at-every-level",
-      "score": 682,
-      "comments": 234,
+      "score": 692,
+      "comments": 244,
       "author": "crtasm",
       "tags": [],
       "date": "2026-03-17T15:16:29+00:00"
@@ -507,8 +541,8 @@
       "source": "hn",
       "title": "Show HN: Sub-millisecond VM sandboxes using CoW memory forking",
       "url": "https://github.com/adammiribyan/zeroboot",
-      "score": 155,
-      "comments": 39,
+      "score": 168,
+      "comments": 43,
       "author": "adammiribyan",
       "tags": [],
       "date": "2026-03-17T13:43:44+00:00"
@@ -733,8 +767,8 @@
       "source": "hn",
       "title": "Show HN: Pgit – A Git-like CLI backed by PostgreSQL",
       "url": "https://oseifert.ch/blog/building-pgit",
-      "score": 37,
-      "comments": 11,
+      "score": 45,
+      "comments": 14,
       "author": "ImGajeed76",
       "tags": [],
       "date": "2026-03-17T06:11:17+00:00"
@@ -1701,6 +1735,17 @@
       "date": "2026-03-15T23:51:26+00:00"
     },
     {
+      "id": "hn-47393324",
+      "source": "hn",
+      "title": "How the Eon Team Produced a Virtual Embodied Fly",
+      "url": "https://eon.systems/updates/embodied-brain-emulation",
+      "score": 8,
+      "comments": 1,
+      "author": "LopRabbit",
+      "tags": [],
+      "date": "2026-03-15T23:44:34+00:00"
+    },
+    {
       "id": "hn-47392677",
       "source": "hn",
       "title": "Show HN: Open-source playground to red-team AI agents with exploits published",
@@ -1882,8 +1927,8 @@
       "source": "hn",
       "title": "Write up of my homebrew CPU build",
       "url": "https://willwarren.com/2026/03/12/building-my-own-cpu-part-3-from-simulation-to-hardware/",
-      "score": 62,
-      "comments": 7,
+      "score": 77,
+      "comments": 10,
       "author": "wwarren",
       "tags": [],
       "date": "2026-03-15T17:36:48+00:00"
@@ -2075,8 +2120,8 @@
       "source": "hn",
       "title": "Honda is killing its EVs",
       "url": "https://techcrunch.com/2026/03/14/honda-is-killing-its-evs-and-any-chance-of-competing-in-the-future/",
-      "score": 325,
-      "comments": 694,
+      "score": 333,
+      "comments": 728,
       "author": "sylvainkalache",
       "tags": [],
       "date": "2026-03-15T13:38:08+00:00"
@@ -2416,8 +2461,8 @@
       "source": "hn",
       "title": "Leviathan (1651)",
       "url": "https://www.gutenberg.org/files/3207/3207-h/3207-h.htm",
-      "score": 64,
-      "comments": 20,
+      "score": 75,
+      "comments": 22,
       "author": "mrwh",
       "tags": [],
       "date": "2026-03-15T05:46:35+00:00"
@@ -3323,8 +3368,8 @@
       "source": "hn",
       "title": "JPEG Compression",
       "url": "https://www.sophielwang.com/blog/jpeg",
-      "score": 176,
-      "comments": 36,
+      "score": 214,
+      "comments": 43,
       "author": "vinhnx",
       "tags": [],
       "date": "2026-03-14T01:31:48+00:00"
@@ -3346,8 +3391,8 @@
       "source": "hn",
       "title": "(Media over QUIC) on a Boat",
       "url": "https://moq.dev/blog/on-a-boat/",
-      "score": 7,
-      "comments": 0,
+      "score": 17,
+      "comments": 2,
       "author": "mmcclure",
       "tags": [],
       "date": "2026-03-14T00:50:20+00:00"
@@ -3457,8 +3502,8 @@
       "source": "hn",
       "title": "More than 135 open hardware devices flashable with your own firmware",
       "url": "https://openhardware.directory",
-      "score": 225,
-      "comments": 23,
+      "score": 232,
+      "comments": 25,
       "author": "iosifnicolae2",
       "tags": [],
       "date": "2026-03-13T21:04:35+00:00"
@@ -5379,6 +5424,32 @@
       "date": "2023-05-23T17:06:23Z"
     },
     {
+      "id": "zenn-716d60b3eb",
+      "source": "zennqiita",
+      "sub_source": "Zenn",
+      "title": "Claude Codeでのふるまいから隠れたSkillを見つける",
+      "url": "https://zenn.dev/chigichan24/articles/eed4a60d102997",
+      "score": null,
+      "author": "chigichan24",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Tue, 17 Mar 2026 19:23:43 GMT"
+    },
+    {
+      "id": "zenn-9853c5f9aa",
+      "source": "zennqiita",
+      "sub_source": "Zenn",
+      "title": "DGX SparkでNemoClawをローカル実行",
+      "url": "https://zenn.dev/karaage0703/articles/8bf663501cd4bc",
+      "score": null,
+      "author": "からあげ",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Tue, 17 Mar 2026 14:11:41 GMT"
+    },
+    {
       "id": "zenn-00c8c530ca",
       "source": "zennqiita",
       "sub_source": "Zenn",
@@ -5442,6 +5513,19 @@
         "Zenn"
       ],
       "date": "Tue, 17 Mar 2026 00:42:42 GMT"
+    },
+    {
+      "id": "zenn-b2e27c7aa1",
+      "source": "zennqiita",
+      "sub_source": "Zenn",
+      "title": "URLの代わりに「距離」を返すサーバーを作った",
+      "url": "https://zenn.dev/gold/articles/ada62ecdf10526",
+      "score": null,
+      "author": "gold",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Mon, 16 Mar 2026 20:47:22 GMT"
     },
     {
       "id": "zenn-7c688d20e0",
@@ -5522,19 +5606,6 @@
       "date": "Mon, 16 Mar 2026 09:45:35 GMT"
     },
     {
-      "id": "zenn-c3f0dd536c",
-      "source": "zennqiita",
-      "sub_source": "Zenn",
-      "title": "Apple Neural Engine の Private API を叩いて LLM 推論を高速化しようとした話",
-      "url": "https://zenn.dev/salescore/articles/776dff7a85f781",
-      "score": null,
-      "author": "muramoto",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Mon, 16 Mar 2026 06:10:00 GMT"
-    },
-    {
       "id": "zenn-83934e9229",
       "source": "zennqiita",
       "sub_source": "Zenn",
@@ -5611,71 +5682,6 @@
         "Zenn"
       ],
       "date": "Sun, 15 Mar 2026 10:25:32 GMT"
-    },
-    {
-      "id": "zenn-8455bc2d3b",
-      "source": "zennqiita",
-      "sub_source": "Zenn",
-      "title": "Webサービスを作って公開したらなんか知らないアカウントが開発者を自称していた",
-      "url": "https://zenn.dev/satetsu888/articles/ab3b195c7603b0",
-      "score": null,
-      "author": "satetsu888",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Sun, 15 Mar 2026 08:11:29 GMT"
-    },
-    {
-      "id": "zenn-f8324663b8",
-      "source": "zennqiita",
-      "sub_source": "Zenn",
-      "title": "コードを書くのをやめた。Claude Codeに月商300万のSaaSの全コードを書かせ、完全ソロ運用しているという話。",
-      "url": "https://zenn.dev/nnze/articles/e3f648e335a947",
-      "score": null,
-      "author": "A",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Sun, 15 Mar 2026 02:05:29 GMT"
-    },
-    {
-      "id": "zenn-716d60b3eb",
-      "source": "zennqiita",
-      "sub_source": "Zenn",
-      "title": "Claude Codeでのふるまいから隠れたSkillを見つける",
-      "url": "https://zenn.dev/chigichan24/articles/eed4a60d102997",
-      "score": null,
-      "author": "chigichan24",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Tue, 17 Mar 2026 19:23:43 GMT"
-    },
-    {
-      "id": "zenn-9853c5f9aa",
-      "source": "zennqiita",
-      "sub_source": "Zenn",
-      "title": "DGX SparkでNemoClawをローカル実行",
-      "url": "https://zenn.dev/karaage0703/articles/8bf663501cd4bc",
-      "score": null,
-      "author": "からあげ",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Tue, 17 Mar 2026 14:11:41 GMT"
-    },
-    {
-      "id": "zenn-b2e27c7aa1",
-      "source": "zennqiita",
-      "sub_source": "Zenn",
-      "title": "URLの代わりに「距離」を返すサーバーを作った",
-      "url": "https://zenn.dev/gold/articles/ada62ecdf10526",
-      "score": null,
-      "author": "gold",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Mon, 16 Mar 2026 20:47:22 GMT"
     },
     {
       "id": "edb-bed48c0760",
@@ -5903,30 +5909,17 @@
       "date": "Wed, 04 Feb 2026 00:00:00 +0000"
     },
     {
-      "id": "zenn-8cd9ded135",
+      "id": "zenn-c3f0dd536c",
       "source": "zennqiita",
       "sub_source": "Zenn",
-      "title": "GPTのReact習熟度も測る",
-      "url": "https://zenn.dev/uhyo/articles/react-profession-bench-2",
+      "title": "Apple Neural Engine の Private API を叩いて LLM 推論を高速化しようとした話",
+      "url": "https://zenn.dev/salescore/articles/776dff7a85f781",
       "score": null,
-      "author": "uhyo",
+      "author": "muramoto",
       "tags": [
         "Zenn"
       ],
-      "date": "Tue, 17 Mar 2026 03:27:15 GMT"
-    },
-    {
-      "id": "zenn-2edbacdab6",
-      "source": "zennqiita",
-      "sub_source": "Zenn",
-      "title": "ネットワーク何もわからん！そんな私がネスペ合格までに役立った本まとめ",
-      "url": "https://zenn.dev/collabostyle/articles/843a1b7479c930",
-      "score": null,
-      "author": "MESI",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Sat, 14 Mar 2026 09:04:53 GMT"
+      "date": "Mon, 16 Mar 2026 06:10:00 GMT"
     }
   ]
 }

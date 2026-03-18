@@ -1,14 +1,25 @@
 {
-  "updated_at": "2026-03-18T06:03:21.820785+00:00",
+  "updated_at": "2026-03-18T06:57:11.417058+00:00",
   "count": 500,
   "items": [
+    {
+      "id": "hn-47421946",
+      "source": "hn",
+      "title": "Switzerland Built an Alternative to BGP",
+      "url": "https://www.theregister.com/2026/03/17/switzerland_bgp_alternative/",
+      "score": 20,
+      "comments": 2,
+      "author": "jonbaer",
+      "tags": [],
+      "date": "2026-03-18T05:44:23+00:00"
+    },
     {
       "id": "hn-47421828",
       "source": "hn",
       "title": "SSH has no Host header",
       "url": "https://blog.exe.dev/ssh-host-header",
-      "score": 29,
-      "comments": 19,
+      "score": 68,
+      "comments": 46,
       "author": "apitman",
       "tags": [],
       "date": "2026-03-18T05:18:02+00:00"
@@ -18,8 +29,8 @@
       "source": "hn",
       "title": "Forget Flags and Scripts: Just Rename the File",
       "url": "https://robertsdotpm.github.io/software_engineering/program_names_as_input.html",
-      "score": 12,
-      "comments": 10,
+      "score": 15,
+      "comments": 14,
       "author": "Uptrenda",
       "tags": [],
       "date": "2026-03-18T04:11:20+00:00"
@@ -29,8 +40,8 @@
       "source": "hn",
       "title": "Have a Fucking Website",
       "url": "https://www.otherstrangeness.com/2026/03/14/have-a-fucking-website/",
-      "score": 94,
-      "comments": 35,
+      "score": 187,
+      "comments": 87,
       "author": "asukachikaru",
       "tags": [],
       "date": "2026-03-18T03:53:42+00:00"
@@ -40,7 +51,7 @@
       "source": "hn",
       "title": "Launch an autonomous AI agent with sandboxed execution in 2 lines of code",
       "url": "https://amaiya.github.io/onprem/examples_agent.html",
-      "score": 21,
+      "score": 26,
       "comments": 4,
       "author": "wiseprobe",
       "tags": [],
@@ -51,8 +62,8 @@
       "source": "hn",
       "title": "The pleasures of poor product design",
       "url": "https://www.inconspicuous.info/p/the-pleasures-of-poor-product-design",
-      "score": 62,
-      "comments": 20,
+      "score": 74,
+      "comments": 24,
       "author": "NaOH",
       "tags": [],
       "date": "2026-03-18T01:00:45+00:00"
@@ -62,8 +73,8 @@
       "source": "hn",
       "title": "A tale about fixing eBPF spinlock issues in the Linux kernel",
       "url": "https://rovarma.com/articles/a-tale-about-fixing-ebpf-spinlock-issues-in-the-linux-kernel/",
-      "score": 53,
-      "comments": 1,
+      "score": 69,
+      "comments": 2,
       "author": "y1n0",
       "tags": [],
       "date": "2026-03-18T00:53:10+00:00"
@@ -73,8 +84,8 @@
       "source": "hn",
       "title": "Why AI systems don't learn – On autonomous learning from cognitive science",
       "url": "https://arxiv.org/abs/2603.15381",
-      "score": 74,
-      "comments": 22,
+      "score": 84,
+      "comments": 26,
       "author": "aanet",
       "tags": [],
       "date": "2026-03-17T21:42:39+00:00"
@@ -84,8 +95,8 @@
       "source": "hn",
       "title": "Mistral AI Releases Forge",
       "url": "https://mistral.ai/news/forge",
-      "score": 255,
-      "comments": 40,
+      "score": 284,
+      "comments": 49,
       "author": "pember",
       "tags": [],
       "date": "2026-03-17T21:04:26+00:00"
@@ -128,8 +139,8 @@
       "source": "hn",
       "title": "Get Shit Done: A meta-prompting, context engineering and spec-driven dev system",
       "url": "https://github.com/gsd-build/get-shit-done",
-      "score": 269,
-      "comments": 134,
+      "score": 292,
+      "comments": 143,
       "author": "stefankuehnel",
       "tags": [],
       "date": "2026-03-17T20:23:39+00:00"
@@ -161,7 +172,7 @@
       "source": "hn",
       "title": "A Decade of Slug",
       "url": "https://terathon.com/blog/decade-slug.html",
-      "score": 527,
+      "score": 538,
       "comments": 47,
       "author": "mwkaufma",
       "tags": [],
@@ -183,8 +194,8 @@
       "source": "hn",
       "title": "Python 3.15's JIT is now back on track",
       "url": "https://fidget-spinner.github.io/posts/jit-on-track.html",
-      "score": 326,
-      "comments": 148,
+      "score": 342,
+      "comments": 164,
       "author": "guidoiaquinti",
       "tags": [],
       "date": "2026-03-17T18:37:27+00:00"
@@ -216,8 +227,8 @@
       "source": "hn",
       "title": "Edge.js: Run Node apps inside a WebAssembly sandbox",
       "url": "https://wasmer.io/posts/edgejs-safe-nodejs-using-wasm-sandbox",
-      "score": 122,
-      "comments": 35,
+      "score": 126,
+      "comments": 36,
       "author": "syrusakbary",
       "tags": [],
       "date": "2026-03-17T18:01:50+00:00"
@@ -282,8 +293,8 @@
       "source": "hn",
       "title": "Unsloth Studio",
       "url": "https://unsloth.ai/docs/new/studio",
-      "score": 234,
-      "comments": 49,
+      "score": 247,
+      "comments": 50,
       "author": "brainless",
       "tags": [],
       "date": "2026-03-17T15:26:32+00:00"
@@ -293,8 +304,8 @@
       "source": "hn",
       "title": "Microsoft's 'unhackable' Xbox One has been hacked by 'Bliss'",
       "url": "https://www.tomshardware.com/video-games/console-gaming/microsofts-unhackable-xbox-one-has-been-hacked-by-bliss-the-2013-console-finally-fell-to-voltage-glitching-allowing-the-loading-of-unsigned-code-at-every-level",
-      "score": 612,
-      "comments": 219,
+      "score": 626,
+      "comments": 220,
       "author": "crtasm",
       "tags": [],
       "date": "2026-03-17T15:16:29+00:00"
@@ -337,8 +348,8 @@
       "source": "hn",
       "title": "Show HN: Sub-millisecond VM sandboxes using CoW memory forking",
       "url": "https://github.com/adammiribyan/zeroboot",
-      "score": 108,
-      "comments": 21,
+      "score": 120,
+      "comments": 24,
       "author": "adammiribyan",
       "tags": [],
       "date": "2026-03-17T13:43:44+00:00"
@@ -405,8 +416,8 @@
       "source": "hn",
       "title": "Ryugu asteroid samples contain all DNA and RNA building blocks",
       "url": "https://phys.org/news/2026-03-ryugu-asteroid-samples-dna-rna.html",
-      "score": 218,
-      "comments": 121,
+      "score": 220,
+      "comments": 122,
       "author": "bookofjoe",
       "tags": [],
       "date": "2026-03-17T12:01:05+00:00"
@@ -1142,8 +1153,8 @@
       "source": "hn",
       "title": "I Simulated 38,612 Countryle Games to Find the Best Strategy",
       "url": "https://stoffregen.io/posts/countryle/",
-      "score": 7,
-      "comments": 0,
+      "score": 12,
+      "comments": 2,
       "author": "st0ffregen",
       "tags": [],
       "date": "2026-03-16T11:27:47+00:00"
@@ -1857,8 +1868,8 @@
       "source": "hn",
       "title": "Honda is killing its EVs",
       "url": "https://techcrunch.com/2026/03/14/honda-is-killing-its-evs-and-any-chance-of-competing-in-the-future/",
-      "score": 273,
-      "comments": 567,
+      "score": 288,
+      "comments": 602,
       "author": "sylvainkalache",
       "tags": [],
       "date": "2026-03-15T13:38:08+00:00"
@@ -2185,10 +2196,10 @@
     {
       "id": "hn-47384653",
       "source": "hn",
-      "title": "Leviathan",
+      "title": "Leviathan (1651)",
       "url": "https://www.gutenberg.org/files/3207/3207-h/3207-h.htm",
-      "score": 22,
-      "comments": 7,
+      "score": 38,
+      "comments": 12,
       "author": "mrwh",
       "tags": [],
       "date": "2026-03-15T05:46:35+00:00"
@@ -3090,6 +3101,17 @@
       "date": "2026-03-14T10:47:44+09:00"
     },
     {
+      "id": "hn-47372367",
+      "source": "hn",
+      "title": "JPEG Compression",
+      "url": "https://www.sophielwang.com/blog/jpeg",
+      "score": 19,
+      "comments": 0,
+      "author": "vinhnx",
+      "tags": [],
+      "date": "2026-03-14T01:31:48+00:00"
+    },
+    {
       "id": "hn-47372290",
       "source": "hn",
       "title": "An investigation of the forces behind the age-verification bills",
@@ -3148,10 +3170,10 @@
     {
       "id": "hn-47371404",
       "source": "hn",
-      "title": "Electron microscopy shows 'mouse bite' defects in semiconductors",
+      "title": "Electron microscopy shows ‘mouse bite’ defects in semiconductors",
       "url": "https://news.cornell.edu/stories/2026/03/electron-microscopy-shows-mouse-bite-defects-semiconductors",
-      "score": 46,
-      "comments": 9,
+      "score": 53,
+      "comments": 10,
       "author": "hhs",
       "tags": [],
       "date": "2026-03-13T23:30:08+00:00"
@@ -3206,7 +3228,7 @@
       "source": "hn",
       "title": "More than 135 open hardware devices flashable with your own firmware",
       "url": "https://openhardware.directory",
-      "score": 136,
+      "score": 160,
       "comments": 12,
       "author": "iosifnicolae2",
       "tags": [],
@@ -3239,8 +3261,8 @@
       "source": "hn",
       "title": "It Took Me 30 Years to Solve This VFX Problem – Green Screen Problem [video]",
       "url": "https://www.youtube.com/watch?v=3Ploi723hg4",
-      "score": 209,
-      "comments": 89,
+      "score": 217,
+      "comments": 92,
       "author": "yincrash",
       "tags": [],
       "date": "2026-03-13T19:14:46+00:00"
@@ -5128,6 +5150,19 @@
       "date": "2023-05-23T17:06:23Z"
     },
     {
+      "id": "zenn-00c8c530ca",
+      "source": "zennqiita",
+      "sub_source": "Zenn",
+      "title": "「AIっぽい」の正体は文体じゃない — 全業務をAIエージェントで回して気づいたこと",
+      "url": "https://zenn.dev/omori432/articles/ai-likeness-not-about-writing-style",
+      "score": null,
+      "author": "RIO",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Tue, 17 Mar 2026 10:41:31 GMT"
+    },
+    {
       "id": "zenn-ec6b1906a0",
       "source": "zennqiita",
       "sub_source": "Zenn",
@@ -5165,19 +5200,6 @@
         "Zenn"
       ],
       "date": "Tue, 17 Mar 2026 03:59:31 GMT"
-    },
-    {
-      "id": "zenn-8cd9ded135",
-      "source": "zennqiita",
-      "sub_source": "Zenn",
-      "title": "GPTのReact習熟度も測る",
-      "url": "https://zenn.dev/uhyo/articles/react-profession-bench-2",
-      "score": null,
-      "author": "uhyo",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Tue, 17 Mar 2026 03:27:15 GMT"
     },
     {
       "id": "zenn-632f8c3f81",
@@ -5230,6 +5252,19 @@
         "Zenn"
       ],
       "date": "Mon, 16 Mar 2026 13:00:09 GMT"
+    },
+    {
+      "id": "zenn-abd98653ae",
+      "source": "zennqiita",
+      "sub_source": "Zenn",
+      "title": "rmの代わりにtrashを使ってCoding Agentに安全にファイルを削除させる",
+      "url": "https://zenn.dev/lef237/articles/23f77b0dade38f",
+      "score": null,
+      "author": "LEF",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Mon, 16 Mar 2026 10:49:58 GMT"
     },
     {
       "id": "zenn-b82157b4a0",
@@ -5373,19 +5408,6 @@
         "Zenn"
       ],
       "date": "Sun, 15 Mar 2026 02:05:29 GMT"
-    },
-    {
-      "id": "zenn-2edbacdab6",
-      "source": "zennqiita",
-      "sub_source": "Zenn",
-      "title": "ネットワーク何もわからん！そんな私がネスペ合格までに役立った本まとめ",
-      "url": "https://zenn.dev/collabostyle/articles/843a1b7479c930",
-      "score": null,
-      "author": "MESI",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Sat, 14 Mar 2026 09:04:53 GMT"
     },
     {
       "id": "edb-bed48c0760",
@@ -5611,6 +5633,32 @@
       ],
       "severity": "high",
       "date": "Wed, 04 Feb 2026 00:00:00 +0000"
+    },
+    {
+      "id": "zenn-8cd9ded135",
+      "source": "zennqiita",
+      "sub_source": "Zenn",
+      "title": "GPTのReact習熟度も測る",
+      "url": "https://zenn.dev/uhyo/articles/react-profession-bench-2",
+      "score": null,
+      "author": "uhyo",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Tue, 17 Mar 2026 03:27:15 GMT"
+    },
+    {
+      "id": "zenn-2edbacdab6",
+      "source": "zennqiita",
+      "sub_source": "Zenn",
+      "title": "ネットワーク何もわからん！そんな私がネスペ合格までに役立った本まとめ",
+      "url": "https://zenn.dev/collabostyle/articles/843a1b7479c930",
+      "score": null,
+      "author": "MESI",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Sat, 14 Mar 2026 09:04:53 GMT"
     },
     {
       "id": "zenn-c7ee090ae5",
@@ -5897,59 +5945,6 @@
         "Zenn"
       ],
       "date": "Wed, 11 Mar 2026 23:56:44 GMT"
-    },
-    {
-      "id": "zenn-abfa67c16b",
-      "source": "zennqiita",
-      "sub_source": "Zenn",
-      "title": "【Flutter】API トークンを「適切」に管理する",
-      "url": "https://zenn.dev/chooyan/articles/2eddee6e2f5eac",
-      "score": null,
-      "author": "中條 剛（ちゅーやん）",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Fri, 13 Mar 2026 11:00:14 GMT"
-    },
-    {
-      "id": "zenn-72d96fe3ff",
-      "source": "zennqiita",
-      "sub_source": "Zenn",
-      "title": "Playwright + OWASP ZAP + Claude Code で E2E テストから脆弱性診断まで一気通貫でできるかやってみた",
-      "url": "https://zenn.dev/rescuenow/articles/7192f8ca6ebe48",
-      "score": null,
-      "author": "takeuchi_kazuya",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Fri, 13 Mar 2026 07:21:37 GMT",
-      "severity": "high"
-    },
-    {
-      "id": "zenn-1cfb30b9d6",
-      "source": "zennqiita",
-      "sub_source": "Zenn",
-      "title": "Claude CodeやCodexのスキルの管理を楽にするツール「faceted-prompting」",
-      "url": "https://zenn.dev/nrs/articles/88f158aca0505b",
-      "score": null,
-      "author": "nrs",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Thu, 12 Mar 2026 11:15:06 GMT"
-    },
-    {
-      "id": "zenn-0ea401f18a",
-      "source": "zennqiita",
-      "sub_source": "Zenn",
-      "title": "中古PC3台で自宅スパコン（もどき）を構築した話",
-      "url": "https://zenn.dev/hosoyayusaku/articles/f2b948436f4723",
-      "score": null,
-      "author": "Hosoya Yusaku / CivicTech Developer",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Wed, 11 Mar 2026 15:06:35 GMT"
     }
   ]
 }

@@ -1,9 +1,16 @@
 {
   "date": "2026-03-19",
-  "generated_at": "2026-03-19T23:26:14.332016+00:00",
-  "total_articles": 71,
-  "urgent_count": 1,
+  "generated_at": "2026-03-19T23:52:47.802375+00:00",
+  "total_articles": 73,
+  "urgent_count": 2,
   "urgent_items": [
+    {
+      "title": "Minecraft Source Code Is Interesting",
+      "url": "https://www.karanjanthe.me/posts/minecraft-source/",
+      "severity": "critical",
+      "source": "hn",
+      "date": "2026-03-19T22:33:08+00:00"
+    },
     {
       "title": "Clockwise acquired by Salesforce and shutting down next week",
       "url": "https://www.getclockwise.com",
@@ -15,12 +22,12 @@
   "categories": [
     {
       "category": "テクノロジー",
-      "count": 58,
+      "count": 60,
       "top_items": [
         {
           "title": "Astral to Join OpenAI",
           "url": "https://astral.sh/blog/openai",
-          "score": 1157,
+          "score": 1175,
           "source": "hn",
           "severity": null,
           "date": "2026-03-19T13:05:50+00:00"
@@ -52,7 +59,7 @@
         {
           "title": "Google details new 24-hour process to sideload unverified Android apps",
           "url": "https://arstechnica.com/gadgets/2026/03/google-details-new-24-hour-process-to-sideload-unverified-android-apps/",
-          "score": 396,
+          "score": 417,
           "source": "hn",
           "severity": null,
           "date": "2026-03-19T17:16:04+00:00"

@@ -1,6 +1,6 @@
 {
   "month": "2026-03",
-  "generated_at": "2026-03-19T20:35:48.082658+00:00",
+  "generated_at": "2026-03-19T21:31:51.160946+00:00",
   "total_articles": 451,
   "source_counts": {
     "hn": 347,
@@ -8,9 +8,9 @@
     "project": 1
   },
   "severity_counts": {
+    "critical": 12,
     "medium": 4,
-    "high": 2,
-    "critical": 12
+    "high": 2
   },
   "top_articles": [
     {
@@ -30,7 +30,7 @@
     {
       "title": "Astral to Join OpenAI",
       "url": "https://astral.sh/blog/openai",
-      "score": 1000,
+      "score": 1065,
       "source": "hn",
       "date": "2026-03-19T13:05:50+00:00"
     },
@@ -156,6 +156,13 @@
   ],
   "security_highlights": [
     {
+      "title": "Clockwise acquired by Salesforce and shutting down next week",
+      "url": "https://www.getclockwise.com",
+      "severity": "critical",
+      "source": "hn",
+      "date": "2026-03-19T19:50:51+00:00"
+    },
+    {
       "title": "CVE-2026-3888: Important Snap Flaw Enables Local Privilege Escalation to Root",
       "url": "https://blog.qualys.com/vulnerabilities-threat-research/2026/03/17/cve-2026-3888-important-snap-flaw-enables-local-privilege-escalation-to-root",
       "severity": "high",
@@ -245,13 +252,6 @@
       "severity": "critical",
       "source": "hn",
       "date": "2026-03-13T22:52:05+00:00"
-    },
-    {
-      "title": "Mouser: An open source alternative to Logi-Plus mouse software",
-      "url": "https://github.com/TomBadash/MouseControl",
-      "severity": "critical",
-      "source": "hn",
-      "date": "2026-03-13T18:42:54+00:00"
     }
   ]
 }

@@ -1,14 +1,81 @@
 {
-  "updated_at": "2026-03-19T20:39:03.343608+00:00",
+  "updated_at": "2026-03-19T21:31:51.043139+00:00",
   "count": 500,
   "items": [
+    {
+      "id": "hn-47446211",
+      "source": "hn",
+      "title": "The Need for an Independent AI Grid",
+      "url": "https://amppublic.com/",
+      "score": 3,
+      "comments": 0,
+      "author": "olalonde",
+      "tags": [],
+      "date": "2026-03-19T21:13:40+00:00"
+    },
+    {
+      "id": "hn-47446021",
+      "source": "hn",
+      "title": "EsoLang-Bench: Evaluating Genuine Reasoning in LLMs via Esoteric Languages",
+      "url": "https://esolang-bench.vercel.app/",
+      "score": 10,
+      "comments": 3,
+      "author": "matt_d",
+      "tags": [],
+      "date": "2026-03-19T21:01:03+00:00"
+    },
+    {
+      "id": "hn-47445599",
+      "source": "hn",
+      "title": "Cockpit is a web-based graphical interface for servers",
+      "url": "https://github.com/cockpit-project/cockpit",
+      "score": 28,
+      "comments": 14,
+      "author": "modinfo",
+      "tags": [],
+      "date": "2026-03-19T20:33:02+00:00"
+    },
+    {
+      "id": "hn-47445246",
+      "source": "hn",
+      "title": "Waymo Safety Impact",
+      "url": "https://waymo.com/safety/impact/",
+      "score": 80,
+      "comments": 46,
+      "author": "xnx",
+      "tags": [],
+      "date": "2026-03-19T20:13:35+00:00"
+    },
+    {
+      "id": "hn-47445175",
+      "source": "hn",
+      "title": "Tesla: Failure of the FSD's degradation detection system [pdf]",
+      "url": "https://static.nhtsa.gov/odi/inv/2026/INOA-EA26002-10023.pdf",
+      "score": 68,
+      "comments": 13,
+      "author": "doener",
+      "tags": [],
+      "date": "2026-03-19T20:09:02+00:00"
+    },
+    {
+      "id": "hn-47444906",
+      "source": "hn",
+      "title": "Clockwise acquired by Salesforce and shutting down next week",
+      "url": "https://www.getclockwise.com",
+      "score": 17,
+      "comments": 5,
+      "author": "nigelgutzmann",
+      "tags": [],
+      "date": "2026-03-19T19:50:51+00:00",
+      "severity": "critical"
+    },
     {
       "id": "hn-47444748",
       "source": "hn",
       "title": "Anthropic takes legal action against OpenCode",
       "url": "https://github.com/anomalyco/opencode/pull/18186",
-      "score": 170,
-      "comments": 111,
+      "score": 256,
+      "comments": 209,
       "author": "_squared_",
       "tags": [],
       "date": "2026-03-19T19:37:26+00:00"
@@ -16,10 +83,10 @@
     {
       "id": "hn-47444460",
       "source": "hn",
-      "title": "From Oscilloscope to Wireshark: A UDP Story",
+      "title": "From Oscilloscope to Wireshark: A UDP Story (2022)",
       "url": "https://www.mattkeeter.com/blog/2022-08-11-udp/",
-      "score": 25,
-      "comments": 2,
+      "score": 39,
+      "comments": 6,
       "author": "ofrzeta",
       "tags": [],
       "date": "2026-03-19T19:18:25+00:00"
@@ -40,8 +107,8 @@
       "source": "hn",
       "title": "NanoGPT Slowrun: 10x Data Efficiency with Infinite Compute",
       "url": "https://qlabs.sh/10x",
-      "score": 37,
-      "comments": 7,
+      "score": 52,
+      "comments": 8,
       "author": "sdpmas",
       "tags": [],
       "date": "2026-03-19T18:51:25+00:00"
@@ -51,8 +118,8 @@
       "source": "hn",
       "title": "Noq: n0's new QUIC implementation in Rust",
       "url": "https://www.iroh.computer/blog/noq-announcement",
-      "score": 86,
-      "comments": 7,
+      "score": 96,
+      "comments": 10,
       "author": "od0",
       "tags": [],
       "date": "2026-03-19T18:17:15+00:00"
@@ -84,8 +151,8 @@
       "source": "hn",
       "title": "An update on Steam / GOG changes for OpenTTD",
       "url": "https://www.openttd.org/news/2026/03/19/steam-changes-update",
-      "score": 193,
-      "comments": 126,
+      "score": 215,
+      "comments": 150,
       "author": "jandeboevrie",
       "tags": [],
       "date": "2026-03-19T17:27:17+00:00",
@@ -118,8 +185,8 @@
       "source": "hn",
       "title": "Google details new 24-hour process to sideload unverified Android apps",
       "url": "https://arstechnica.com/gadgets/2026/03/google-details-new-24-hour-process-to-sideload-unverified-android-apps/",
-      "score": 145,
-      "comments": 174,
+      "score": 250,
+      "comments": 281,
       "author": "0xedb",
       "tags": [],
       "date": "2026-03-19T17:16:04+00:00"
@@ -140,8 +207,8 @@
       "source": "hn",
       "title": "Scaling Karpathy's Autoresearch: What Happens When the Agent Gets a GPU Cluster",
       "url": "https://blog.skypilot.co/scaling-autoresearch/",
-      "score": 62,
-      "comments": 31,
+      "score": 84,
+      "comments": 36,
       "author": "hopechong",
       "tags": [],
       "date": "2026-03-19T16:55:45+00:00"
@@ -184,8 +251,8 @@
       "source": "hn",
       "title": "Show HN: Three new Kitten TTS models – smallest less than 25MB",
       "url": "https://github.com/KittenML/KittenTTS",
-      "score": 198,
-      "comments": 66,
+      "score": 234,
+      "comments": 71,
       "author": "rohan_joshi",
       "tags": [],
       "date": "2026-03-19T15:56:06+00:00"
@@ -228,8 +295,8 @@
       "source": "hn",
       "title": "4Chan mocks £520k fine for UK online safety breaches",
       "url": "https://www.bbc.com/news/articles/c624330lg1ko",
-      "score": 138,
-      "comments": 215,
+      "score": 168,
+      "comments": 264,
       "author": "mosura",
       "tags": [],
       "date": "2026-03-19T14:46:25+00:00"
@@ -263,8 +330,8 @@
       "source": "hn",
       "title": "The Shape of Inequalities",
       "url": "https://www.andreinc.net/2026/03/16/the-shape-of-inequalities/",
-      "score": 77,
-      "comments": 13,
+      "score": 81,
+      "comments": 14,
       "author": "nomemory",
       "tags": [],
       "date": "2026-03-19T14:37:27+00:00"
@@ -285,8 +352,8 @@
       "source": "hn",
       "title": "OpenBSD: PF queues break the 4 Gbps barrier",
       "url": "https://undeadly.org/cgi?action=article;sid=20260319125859",
-      "score": 159,
-      "comments": 46,
+      "score": 161,
+      "comments": 48,
       "author": "defrost",
       "tags": [],
       "date": "2026-03-19T13:43:26+00:00"
@@ -307,8 +374,8 @@
       "source": "hn",
       "title": "Astral to Join OpenAI",
       "url": "https://astral.sh/blog/openai",
-      "score": 1008,
-      "comments": 641,
+      "score": 1065,
+      "comments": 661,
       "author": "ibraheemdev",
       "tags": [],
       "date": "2026-03-19T13:05:50+00:00"
@@ -329,8 +396,8 @@
       "source": "hn",
       "title": "Juggalo makeup blocks facial recognition technology (2019)",
       "url": "https://consequence.net/2019/07/juggalo-makeup-facial-recognition/",
-      "score": 199,
-      "comments": 120,
+      "score": 204,
+      "comments": 125,
       "author": "speckx",
       "tags": [],
       "date": "2026-03-19T13:02:35+00:00"
@@ -421,8 +488,8 @@
       "source": "hn",
       "title": "“Your frustration is the product”",
       "url": "https://daringfireball.net/2026/03/your_frustration_is_the_product",
-      "score": 288,
-      "comments": 177,
+      "score": 324,
+      "comments": 199,
       "author": "llm_nerd",
       "tags": [],
       "date": "2026-03-19T11:34:24+00:00"
@@ -1620,6 +1687,17 @@
       "date": "2026-03-17T19:31:06+00:00"
     },
     {
+      "id": "hn-47416972",
+      "source": "hn",
+      "title": "How the Turner twins are mythbusting modern technical apparel",
+      "url": "https://www.carryology.com/insights/how-the-turner-twins-are-mythbusting-modern-gear/",
+      "score": 15,
+      "comments": 2,
+      "author": "greedo",
+      "tags": [],
+      "date": "2026-03-17T19:19:44+00:00"
+    },
+    {
       "id": "hn-47416940",
       "source": "hn",
       "title": "Meta Horizon Worlds on Meta Quest is being discontinued",
@@ -2114,6 +2192,17 @@
       "date": "2026-03-17T04:39:42+00:00"
     },
     {
+      "id": "hn-47408546",
+      "source": "hn",
+      "title": "The Power of Playtesting in the Classroom",
+      "url": "https://landenlove.com/the-power-of-playtesting-in-the-classroom/",
+      "score": 6,
+      "comments": 3,
+      "author": "LandenLove",
+      "tags": [],
+      "date": "2026-03-17T04:16:40+00:00"
+    },
+    {
       "id": "qiita-e7e0477fb4",
       "source": "zennqiita",
       "sub_source": "Qiita",
@@ -2327,8 +2416,8 @@
       "source": "hn",
       "title": "Return of the Obra Dinn: spherical mapped dithering for a 1bpp first-person game",
       "url": "https://forums.tigsource.com/index.php?topic=40832.msg1363742#msg1363742",
-      "score": 102,
-      "comments": 17,
+      "score": 131,
+      "comments": 21,
       "author": "PaulHoule",
       "tags": [],
       "date": "2026-03-16T22:56:13+00:00"
@@ -3208,8 +3297,8 @@
       "source": "hn",
       "title": "Successes and Breakdowns in Everyday Non-Display Smart Glasses Use",
       "url": "https://arxiv.org/abs/2602.22340",
-      "score": 9,
-      "comments": 0,
+      "score": 13,
+      "comments": 1,
       "author": "PaulHoule",
       "tags": [],
       "date": "2026-03-15T21:44:51+00:00"
@@ -5088,95 +5177,6 @@
       "date": "2026-03-13T21:45:27+00:00"
     },
     {
-      "id": "hn-47369883",
-      "source": "hn",
-      "title": "More than 135 open hardware devices flashable with your own firmware",
-      "url": "https://openhardware.directory",
-      "score": 291,
-      "comments": 36,
-      "author": "iosifnicolae2",
-      "tags": [],
-      "date": "2026-03-13T21:04:35+00:00"
-    },
-    {
-      "id": "hn-47368660",
-      "source": "hn",
-      "title": "Gummy Geometry",
-      "url": "https://newkrok.github.io/nape-js/examples.html?open=soft-body&mode=3d&outline=0",
-      "score": 50,
-      "comments": 7,
-      "author": "memalign",
-      "tags": [],
-      "date": "2026-03-13T19:31:56+00:00"
-    },
-    {
-      "id": "hn-47368430",
-      "source": "hn",
-      "title": "Stanford researchers report first recording of a blue whale's heart rate (2019)",
-      "url": "https://news.stanford.edu/stories/2019/11/first-ever-recording-blue-whales-heart-rate",
-      "score": 64,
-      "comments": 39,
-      "author": "eatonphil",
-      "tags": [],
-      "date": "2026-03-13T19:15:06+00:00"
-    },
-    {
-      "id": "hn-47368425",
-      "source": "hn",
-      "title": "It Took Me 30 Years to Solve This VFX Problem – Green Screen Problem [video]",
-      "url": "https://www.youtube.com/watch?v=3Ploi723hg4",
-      "score": 270,
-      "comments": 104,
-      "author": "yincrash",
-      "tags": [],
-      "date": "2026-03-13T19:14:46+00:00"
-    },
-    {
-      "id": "hn-47368135",
-      "source": "hn",
-      "title": "Digg is gone again",
-      "url": "https://digg.com/",
-      "score": 307,
-      "comments": 317,
-      "author": "hammerbrostime",
-      "tags": [],
-      "date": "2026-03-13T18:52:17+00:00"
-    },
-    {
-      "id": "hn-47368033",
-      "source": "hn",
-      "title": "Mouser: An open source alternative to Logi-Plus mouse software",
-      "url": "https://github.com/TomBadash/MouseControl",
-      "score": 391,
-      "comments": 121,
-      "author": "avionics-guy",
-      "tags": [],
-      "date": "2026-03-13T18:42:54+00:00",
-      "severity": "critical"
-    },
-    {
-      "id": "hn-47367932",
-      "source": "hn",
-      "title": "Hammerspoon",
-      "url": "https://github.com/Hammerspoon/hammerspoon",
-      "score": 321,
-      "comments": 117,
-      "author": "tosh",
-      "tags": [],
-      "date": "2026-03-13T18:34:12+00:00"
-    },
-    {
-      "id": "hn-47367601",
-      "source": "hn",
-      "title": "Pandas Exercises for Data Analysis (Interactive)",
-      "url": "https://machinelearningplus.com/python/101-pandas-exercises-python-interactive/",
-      "score": 98,
-      "comments": 24,
-      "author": "selva86",
-      "tags": [],
-      "date": "2026-03-13T18:05:23+00:00"
-    },
-    {
       "id": "ghrel-projectdiscovery_nuclei-293442537",
       "source": "project",
       "proj_category": "Tools",
@@ -5398,6 +5398,19 @@
         "Zenn"
       ],
       "date": "Thu, 19 Mar 2026 03:34:48 GMT"
+    },
+    {
+      "id": "zenn-f2e197c071",
+      "source": "zennqiita",
+      "sub_source": "Zenn",
+      "title": "LLMをもっと賢くする：ナレッジグラフ実践入門",
+      "url": "https://zenn.dev/knowledge_graph/books/knowledge-graph-llm-guide",
+      "score": null,
+      "author": "takanorisuzuki",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Thu, 19 Mar 2026 02:14:59 GMT"
     },
     {
       "id": "zenn-882f016a2b",
@@ -5632,19 +5645,6 @@
         "Zenn"
       ],
       "date": "Mon, 16 Mar 2026 00:04:33 GMT"
-    },
-    {
-      "id": "zenn-c82c459f5f",
-      "source": "zennqiita",
-      "sub_source": "Zenn",
-      "title": "課題ベースで学ぶClaude Code便利機能",
-      "url": "https://zenn.dev/hsaki/articles/why-claude-code-function",
-      "score": null,
-      "author": "さき(H.Saki)",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Sun, 15 Mar 2026 12:00:12 GMT"
     },
     {
       "id": "edb-bed48c0760",

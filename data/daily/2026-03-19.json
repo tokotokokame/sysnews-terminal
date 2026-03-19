@@ -1,18 +1,26 @@
 {
   "date": "2026-03-19",
-  "generated_at": "2026-03-19T20:35:48.035618+00:00",
-  "total_articles": 67,
-  "urgent_count": 0,
-  "urgent_items": [],
+  "generated_at": "2026-03-19T21:31:51.114233+00:00",
+  "total_articles": 71,
+  "urgent_count": 1,
+  "urgent_items": [
+    {
+      "title": "Clockwise acquired by Salesforce and shutting down next week",
+      "url": "https://www.getclockwise.com",
+      "severity": "critical",
+      "source": "hn",
+      "date": "2026-03-19T19:50:51+00:00"
+    }
+  ],
   "categories": [
     {
       "category": "テクノロジー",
-      "count": 53,
+      "count": 57,
       "top_items": [
         {
           "title": "Astral to Join OpenAI",
           "url": "https://astral.sh/blog/openai",
-          "score": 1000,
+          "score": 1065,
           "source": "hn",
           "severity": null,
           "date": "2026-03-19T13:05:50+00:00"
@@ -42,12 +50,12 @@
           "date": "2026-03-19T02:23:17+00:00"
         },
         {
-          "title": "Warranty Void If Regenerated",
-          "url": "https://nearzero.software/p/warranty-void-if-regenerated",
-          "score": 465,
+          "title": "“Your frustration is the product”",
+          "url": "https://daringfireball.net/2026/03/your_frustration_is_the_product",
+          "score": 324,
           "source": "hn",
           "severity": null,
-          "date": "2026-03-18T20:45:54+00:00"
+          "date": "2026-03-19T11:34:24+00:00"
         }
       ]
     },

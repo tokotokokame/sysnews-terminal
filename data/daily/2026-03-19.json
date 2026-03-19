@@ -1,7 +1,7 @@
 {
   "date": "2026-03-19",
-  "generated_at": "2026-03-19T11:33:02.192057+00:00",
-  "total_articles": 56,
+  "generated_at": "2026-03-19T12:55:35.156351+00:00",
+  "total_articles": 57,
   "urgent_count": 2,
   "urgent_items": [
     {
@@ -22,15 +22,23 @@
   "categories": [
     {
       "category": "テクノロジー",
-      "count": 40,
+      "count": 44,
       "top_items": [
         {
           "title": "Austin’s surge of new housing construction drove down rents",
           "url": "https://www.pew.org/en/research-and-analysis/articles/2026/03/18/austins-surge-of-new-housing-construction-drove-down-rents",
-          "score": 572,
+          "score": 613,
           "source": "hn",
           "severity": null,
           "date": "2026-03-19T00:15:39+00:00"
+        },
+        {
+          "title": "A sufficiently detailed spec is code",
+          "url": "https://haskellforall.com/2026/03/a-sufficiently-detailed-spec-is-code",
+          "score": 440,
+          "source": "hn",
+          "severity": null,
+          "date": "2026-03-19T02:23:17+00:00"
         },
         {
           "title": "Despite Doubts, Federal Cyber Experts Approved Microsoft Cloud Service",
@@ -41,34 +49,26 @@
           "date": "2026-03-18T14:14:02+00:00"
         },
         {
-          "title": "A sufficiently detailed spec is code",
-          "url": "https://haskellforall.com/2026/03/a-sufficiently-detailed-spec-is-code",
-          "score": 404,
-          "source": "hn",
-          "severity": null,
-          "date": "2026-03-19T02:23:17+00:00"
-        },
-        {
           "title": "Warranty Void If Regenerated",
           "url": "https://nearzero.software/p/warranty-void-if-regenerated",
-          "score": 371,
+          "score": 406,
           "source": "hn",
           "severity": null,
           "date": "2026-03-18T20:45:54+00:00"
         },
         {
-          "title": "Death to Scroll Fade",
-          "url": "https://dbushell.com/2026/01/09/death-to-scroll-fade/",
-          "score": 326,
+          "title": "Nvidia NemoClaw",
+          "url": "https://github.com/NVIDIA/NemoClaw",
+          "score": 335,
           "source": "hn",
           "severity": null,
-          "date": "2026-03-18T15:23:58+00:00"
+          "date": "2026-03-18T15:31:07+00:00"
         }
       ]
     },
     {
       "category": "日本語技術記事",
-      "count": 16,
+      "count": 13,
       "top_items": [
         {
           "title": "「OpenAI APIのトークン消費量をざっくり計算して」と頼まれて調べたら絶望した話",

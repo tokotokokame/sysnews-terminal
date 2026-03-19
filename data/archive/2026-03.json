@@ -1,16 +1,16 @@
 {
   "month": "2026-03",
-  "generated_at": "2026-03-19T17:31:29.368186+00:00",
+  "generated_at": "2026-03-19T18:52:40.439868+00:00",
   "total_articles": 451,
   "source_counts": {
-    "hn": 351,
-    "zennqiita": 99,
+    "hn": 356,
+    "zennqiita": 94,
     "project": 1
   },
   "severity_counts": {
+    "medium": 4,
     "high": 2,
-    "medium": 3,
-    "critical": 13
+    "critical": 12
   },
   "top_articles": [
     {
@@ -19,13 +19,6 @@
       "score": 1492,
       "source": "hn",
       "date": "2026-03-16T12:00:06+00:00"
-    },
-    {
-      "title": "Can I run AI locally?",
-      "url": "https://www.canirun.ai/",
-      "score": 1328,
-      "source": "hn",
-      "date": "2026-03-13T12:46:10+00:00"
     },
     {
       "title": "Kagi Translate now supports LinkedIn Speak as an output language",
@@ -42,6 +35,13 @@
       "date": "2026-03-13T17:19:01+00:00"
     },
     {
+      "title": "Afroman found not liable in defamation case",
+      "url": "https://nypost.com/2026/03/18/us-news/afroman-found-not-liable-in-bizarre-ohio-defamation-case/",
+      "score": 940,
+      "source": "hn",
+      "date": "2026-03-19T09:51:56+00:00"
+    },
+    {
       "title": "Canada's bill C-22 mandates mass metadata surveillance",
       "url": "https://www.michaelgeist.ca/2026/03/a-tale-of-two-bills-lawful-access-returns-with-changes-to-warrantless-access-but-dangerous-backdoor-surveillance-risks-remains/",
       "score": 938,
@@ -56,16 +56,9 @@
       "date": "2026-03-18T09:59:54+00:00"
     },
     {
-      "title": "Afroman found not liable in defamation case",
-      "url": "https://nypost.com/2026/03/18/us-news/afroman-found-not-liable-in-bizarre-ohio-defamation-case/",
-      "score": 871,
-      "source": "hn",
-      "date": "2026-03-19T09:51:56+00:00"
-    },
-    {
       "title": "Astral to Join OpenAI",
       "url": "https://astral.sh/blog/openai",
-      "score": 760,
+      "score": 879,
       "source": "hn",
       "date": "2026-03-19T13:05:50+00:00"
     },
@@ -152,6 +145,13 @@
       "score": 663,
       "source": "hn",
       "date": "2026-03-16T11:25:31+00:00"
+    },
+    {
+      "title": "Have a fucking website",
+      "url": "https://www.otherstrangeness.com/2026/03/14/have-a-fucking-website/",
+      "score": 643,
+      "source": "hn",
+      "date": "2026-03-18T03:53:42+00:00"
     }
   ],
   "security_highlights": [
@@ -252,13 +252,6 @@
       "severity": "critical",
       "source": "hn",
       "date": "2026-03-13T18:42:54+00:00"
-    },
-    {
-      "title": "Source code of Swedish e-government services has been leaked",
-      "url": "https://darkwebinformer.com/full-source-code-of-swedens-e-government-platform-leaked-from-compromised-cgi-sverige-infrastructure/",
-      "severity": "critical",
-      "source": "hn",
-      "date": "2026-03-13T09:45:30+00:00"
     }
   ]
 }

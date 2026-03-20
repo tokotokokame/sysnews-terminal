@@ -1,6 +1,6 @@
 {
   "month": "2026-03",
-  "generated_at": "2026-03-20T20:57:57.106611+00:00",
+  "generated_at": "2026-03-20T21:33:41.428971+00:00",
   "total_articles": 451,
   "source_counts": {
     "hn": 339,
@@ -8,7 +8,7 @@
     "project": 1
   },
   "severity_counts": {
-    "critical": 12,
+    "critical": 13,
     "high": 3,
     "medium": 3
   },
@@ -114,7 +114,7 @@
     {
       "title": "ArXiv declares independence from Cornell",
       "url": "https://www.science.org/content/article/arxiv-pioneering-preprint-server-declares-independence-cornell",
-      "score": 683,
+      "score": 687,
       "source": "hn",
       "date": "2026-03-20T04:24:11+00:00"
     },
@@ -155,6 +155,13 @@
     }
   ],
   "security_highlights": [
+    {
+      "title": "OpenCode – The open source AI coding agent",
+      "url": "https://opencode.ai/",
+      "severity": "critical",
+      "source": "hn",
+      "date": "2026-03-20T21:03:52+00:00"
+    },
     {
       "title": "【緊急】GitHub/npmを汚染する「見えないコード」の脅威：GlassWorm対策",
       "url": "https://qiita.com/sarubot/items/df077776b293163e0a42?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",

@@ -1,6 +1,6 @@
 {
   "month": "2026-03",
-  "generated_at": "2026-03-20T17:33:08.326979+00:00",
+  "generated_at": "2026-03-20T18:41:39.221928+00:00",
   "total_articles": 451,
   "source_counts": {
     "hn": 350,
@@ -9,7 +9,7 @@
   },
   "severity_counts": {
     "high": 3,
-    "critical": 10,
+    "critical": 11,
     "medium": 3
   },
   "top_articles": [
@@ -203,6 +203,13 @@
       "severity": "critical",
       "source": "hn",
       "date": "2026-03-17T08:15:34+00:00"
+    },
+    {
+      "title": "Show HN: An open-source safety net for home hemodialysis",
+      "url": "https://safehemo.com/",
+      "severity": "critical",
+      "source": "hn",
+      "date": "2026-03-17T00:48:15+00:00"
     },
     {
       "title": "Leanstral: Open-source agent for trustworthy coding and formal proof engineering",

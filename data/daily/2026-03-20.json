@@ -1,7 +1,7 @@
 {
   "date": "2026-03-20",
-  "generated_at": "2026-03-20T07:42:54.043047+00:00",
-  "total_articles": 61,
+  "generated_at": "2026-03-20T08:36:06.835514+00:00",
+  "total_articles": 68,
   "urgent_count": 3,
   "urgent_items": [
     {
@@ -34,7 +34,7 @@
         {
           "title": "Astral to Join OpenAI",
           "url": "https://astral.sh/blog/openai",
-          "score": 1328,
+          "score": 1342,
           "source": "hn",
           "severity": null,
           "date": "2026-03-19T13:05:50+00:00"
@@ -50,7 +50,7 @@
         {
           "title": "Google details new 24-hour process to sideload unverified Android apps",
           "url": "https://arstechnica.com/gadgets/2026/03/google-details-new-24-hour-process-to-sideload-unverified-android-apps/",
-          "score": 714,
+          "score": 762,
           "source": "hn",
           "severity": null,
           "date": "2026-03-19T17:16:04+00:00"
@@ -66,7 +66,7 @@
         {
           "title": "Show HN: Three new Kitten TTS models – smallest less than 25MB",
           "url": "https://github.com/KittenML/KittenTTS",
-          "score": 400,
+          "score": 414,
           "source": "hn",
           "severity": null,
           "date": "2026-03-19T15:56:06+00:00"
@@ -75,39 +75,47 @@
     },
     {
       "category": "日本語技術記事",
-      "count": 4,
+      "count": 11,
       "top_items": [
         {
-          "title": "TRON 組込みOSシェア60%で世界一⁉️は疑わしい ～ 日本発のOS標準規格の基礎と歴史",
-          "url": "https://qiita.com/ko1nksm/items/2660942e09bc403187f4?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "title": "GPT-5.4 mini & nano入門 — サブエージェント時代の軽量モデルをAPIで活用する",
+          "url": "https://qiita.com/kai_kou/items/dbb87652428ee1b255b8?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
           "score": null,
           "source": "zennqiita",
           "severity": null,
-          "date": "2026-03-20T11:02:03+09:00"
+          "date": "2026-03-20T16:43:01+09:00"
         },
         {
-          "title": "AWS Community Builders（Serverless）に選出されました",
-          "url": "https://qiita.com/tetutetu214/items/ed8662412cc98a0d5868?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "title": "Deep Agents入門 — 計画・メモリ・サブエージェントを備えたOSSエージェントハーネス",
+          "url": "https://qiita.com/kai_kou/items/5a94750253b0b7cb6eb3?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
           "score": null,
           "source": "zennqiita",
           "severity": null,
-          "date": "2026-03-19T23:38:54+09:00"
+          "date": "2026-03-20T16:42:55+09:00"
         },
         {
-          "title": "【2026年最新版】SPIKE-RTを環境構築！",
-          "url": "https://qiita.com/keikyufun/items/8c43e7a8a43d80932469?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "title": "aws loginのクレデンシャルがcdk deployで読み込まれない問題を解決した話",
+          "url": "https://qiita.com/_YukiOgawa/items/2dd748de1a0b912ec88c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
           "score": null,
           "source": "zennqiita",
           "severity": null,
-          "date": "2026-03-19T21:28:29+09:00"
+          "date": "2026-03-20T13:11:31+09:00"
         },
         {
-          "title": "【SPIKE-RT】文法かんたんガイド！",
-          "url": "https://qiita.com/keikyufun/items/a81bdeefe39f7002e03d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "title": "Playwrightで「手動テスト地獄」を卒業する——E2Eテスト自動化とCI組み込みのハンズオン入門",
+          "url": "https://qiita.com/76Hata/items/2ab2584041c5f487206d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
           "score": null,
           "source": "zennqiita",
           "severity": null,
-          "date": "2026-03-19T21:14:41+09:00"
+          "date": "2026-03-20T12:05:02+09:00"
+        },
+        {
+          "title": "もう英語の勉強しなくていいんじゃないかと錯覚するAndroidの便利機能",
+          "url": "https://qiita.com/moritalous/items/2838b87203f74fddfc73?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "score": null,
+          "source": "zennqiita",
+          "severity": null,
+          "date": "2026-03-20T11:50:17+09:00"
         }
       ]
     }

@@ -1,14 +1,40 @@
 {
-  "updated_at": "2026-03-20T07:47:41.830568+00:00",
+  "updated_at": "2026-03-20T08:36:06.765341+00:00",
   "count": 500,
   "items": [
+    {
+      "id": "qiita-776bf2d3b4",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "GPT-5.4 mini & nano入門 — サブエージェント時代の軽量モデルをAPIで活用する",
+      "url": "https://qiita.com/kai_kou/items/dbb87652428ee1b255b8?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "kai_kou",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-03-20T16:43:01+09:00"
+    },
+    {
+      "id": "qiita-2f97aaa513",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "Deep Agents入門 — 計画・メモリ・サブエージェントを備えたOSSエージェントハーネス",
+      "url": "https://qiita.com/kai_kou/items/5a94750253b0b7cb6eb3?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "kai_kou",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-03-20T16:42:55+09:00"
+    },
     {
       "id": "hn-47451429",
       "source": "hn",
       "title": "FSFE supporters affected: Payment provider Nexi cancelled us",
       "url": "https://fsfe.org/news/2026/news-20260316-01.en.html",
-      "score": 16,
-      "comments": 1,
+      "score": 32,
+      "comments": 6,
       "author": "rasjani",
       "tags": [],
       "date": "2026-03-20T07:09:07+00:00"
@@ -29,11 +55,50 @@
       "source": "hn",
       "title": "ArXiv Declares Independence from Cornell",
       "url": "https://www.science.org/content/article/arxiv-pioneering-preprint-server-declares-independence-cornell",
-      "score": 175,
-      "comments": 39,
+      "score": 213,
+      "comments": 52,
       "author": "bookstore-romeo",
       "tags": [],
       "date": "2026-03-20T04:24:11+00:00"
+    },
+    {
+      "id": "qiita-49c6e48c9c",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "aws loginのクレデンシャルがcdk deployで読み込まれない問題を解決した話",
+      "url": "https://qiita.com/_YukiOgawa/items/2dd748de1a0b912ec88c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "_YukiOgawa",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-03-20T13:11:31+09:00"
+    },
+    {
+      "id": "qiita-229b2bbd7c",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "Playwrightで「手動テスト地獄」を卒業する——E2Eテスト自動化とCI組み込みのハンズオン入門",
+      "url": "https://qiita.com/76Hata/items/2ab2584041c5f487206d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "76Hata",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-03-20T12:05:02+09:00"
+    },
+    {
+      "id": "qiita-7fb1760143",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "もう英語の勉強しなくていいんじゃないかと錯覚するAndroidの便利機能",
+      "url": "https://qiita.com/moritalous/items/2838b87203f74fddfc73?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "moritalous",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-03-20T11:50:17+09:00"
     },
     {
       "id": "qiita-e841d97c50",
@@ -53,8 +118,8 @@
       "source": "hn",
       "title": "Full Disclosure: A Third (and Fourth) Azure Sign-In Log Bypass Found",
       "url": "https://trustedsec.com/blog/full-disclosure-a-third-and-fourth-azure-sign-in-log-bypass-found",
-      "score": 118,
-      "comments": 23,
+      "score": 129,
+      "comments": 26,
       "author": "nyxgeek",
       "tags": [],
       "date": "2026-03-20T01:09:45+00:00",
@@ -65,8 +130,8 @@
       "source": "hn",
       "title": "Drugwars for the TI-82/83/83 Calculators (2011)",
       "url": "https://gist.github.com/mattmanning/1002653/b7a1e88479a10eaae3bd5298b8b2c86e16fb4404",
-      "score": 128,
-      "comments": 49,
+      "score": 131,
+      "comments": 50,
       "author": "robotnikman",
       "tags": [],
       "date": "2026-03-20T00:26:47+00:00"
@@ -76,8 +141,8 @@
       "source": "hn",
       "title": "Push events into a running session with channels",
       "url": "https://code.claude.com/docs/en/channels",
-      "score": 313,
-      "comments": 177,
+      "score": 319,
+      "comments": 180,
       "author": "jasonjmcghee",
       "tags": [],
       "date": "2026-03-20T00:22:08+00:00"
@@ -132,8 +197,8 @@
       "source": "hn",
       "title": "Be intentional about how AI changes your codebase",
       "url": "https://aicode.swerdlow.dev",
-      "score": 108,
-      "comments": 43,
+      "score": 111,
+      "comments": 45,
       "author": "benswerd",
       "tags": [],
       "date": "2026-03-19T21:23:24+00:00"
@@ -176,8 +241,8 @@
       "source": "hn",
       "title": "Cockpit is a web-based graphical interface for servers",
       "url": "https://github.com/cockpit-project/cockpit",
-      "score": 244,
-      "comments": 137,
+      "score": 248,
+      "comments": 141,
       "author": "modinfo",
       "tags": [],
       "date": "2026-03-19T20:33:02+00:00"
@@ -220,7 +285,7 @@
       "source": "hn",
       "title": "Clockwise acquired by Salesforce",
       "url": "https://www.getclockwise.com",
-      "score": 112,
+      "score": 116,
       "comments": 60,
       "author": "nigelgutzmann",
       "tags": [],
@@ -265,8 +330,8 @@
       "source": "hn",
       "title": "NanoGPT Slowrun: 10x Data Efficiency with Infinite Compute",
       "url": "https://qlabs.sh/10x",
-      "score": 136,
-      "comments": 28,
+      "score": 140,
+      "comments": 29,
       "author": "sdpmas",
       "tags": [],
       "date": "2026-03-19T18:51:25+00:00"
@@ -276,7 +341,7 @@
       "source": "hn",
       "title": "Noq: n0's new QUIC implementation in Rust",
       "url": "https://www.iroh.computer/blog/noq-announcement",
-      "score": 192,
+      "score": 198,
       "comments": 24,
       "author": "od0",
       "tags": [],
@@ -343,8 +408,8 @@
       "source": "hn",
       "title": "Google details new 24-hour process to sideload unverified Android apps",
       "url": "https://arstechnica.com/gadgets/2026/03/google-details-new-24-hour-process-to-sideload-unverified-android-apps/",
-      "score": 715,
-      "comments": 794,
+      "score": 762,
+      "comments": 853,
       "author": "0xedb",
       "tags": [],
       "date": "2026-03-19T17:16:04+00:00"
@@ -365,8 +430,8 @@
       "source": "hn",
       "title": "Scaling Karpathy's Autoresearch: What Happens When the Agent Gets a GPU Cluster",
       "url": "https://blog.skypilot.co/scaling-autoresearch/",
-      "score": 164,
-      "comments": 69,
+      "score": 166,
+      "comments": 70,
       "author": "hopechong",
       "tags": [],
       "date": "2026-03-19T16:55:45+00:00"
@@ -409,8 +474,8 @@
       "source": "hn",
       "title": "Show HN: Three new Kitten TTS models – smallest less than 25MB",
       "url": "https://github.com/KittenML/KittenTTS",
-      "score": 401,
-      "comments": 154,
+      "score": 414,
+      "comments": 158,
       "author": "rohan_joshi",
       "tags": [],
       "date": "2026-03-19T15:56:06+00:00"
@@ -453,8 +518,8 @@
       "source": "hn",
       "title": "4Chan mocks £520k fine for UK online safety breaches",
       "url": "https://www.bbc.com/news/articles/c624330lg1ko",
-      "score": 349,
-      "comments": 586,
+      "score": 356,
+      "comments": 595,
       "author": "mosura",
       "tags": [],
       "date": "2026-03-19T14:46:25+00:00"
@@ -495,6 +560,19 @@
       "date": "2026-03-19T14:37:27+00:00"
     },
     {
+      "id": "qiita-6b96e1d231",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "【保存版】Claude Code Hooks全21イベント完全解説 ！イベント駆動でAI開発ワークフローを自動化しよう",
+      "url": "https://qiita.com/miruky/items/e33ccda99281b40ad97b?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "miruky",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-03-19T23:33:28+09:00"
+    },
+    {
       "id": "hn-47439718",
       "source": "hn",
       "title": "Consensus Board Game",
@@ -510,7 +588,7 @@
       "source": "hn",
       "title": "OpenBSD: PF queues break the 4 Gbps barrier",
       "url": "https://undeadly.org/cgi?action=article;sid=20260319125859",
-      "score": 194,
+      "score": 197,
       "comments": 60,
       "author": "defrost",
       "tags": [],
@@ -532,8 +610,8 @@
       "source": "hn",
       "title": "Astral to Join OpenAI",
       "url": "https://astral.sh/blog/openai",
-      "score": 1329,
-      "comments": 822,
+      "score": 1342,
+      "comments": 828,
       "author": "ibraheemdev",
       "tags": [],
       "date": "2026-03-19T13:05:50+00:00"
@@ -684,6 +762,32 @@
       "author": "antonymoose",
       "tags": [],
       "date": "2026-03-19T09:51:56+00:00"
+    },
+    {
+      "id": "qiita-4ab82f59ff",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "Claude Code Skills に Agent Teams を組み込む 作る前に議論させるチーム構成",
+      "url": "https://qiita.com/ogaryo/items/e13990b7b1cbf4c20166?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "ogaryo",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-03-19T18:17:33+09:00"
+    },
+    {
+      "id": "qiita-f3e258898e",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "Copilot Studioで実現する「AIチーム」の作り方。マルチエージェント開発入門",
+      "url": "https://qiita.com/TND_mi/items/0fe0e777053eb52c6f5f?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "TND_mi",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-03-19T16:18:51+09:00"
     },
     {
       "id": "hn-47435453",
@@ -928,7 +1032,7 @@
       "source": "hn",
       "title": "How many branches can your CPU predict?",
       "url": "https://lemire.me/blog/2026/03/18/how-many-branches-can-your-cpu-predict/",
-      "score": 66,
+      "score": 70,
       "comments": 45,
       "author": "chmaynard",
       "tags": [],
@@ -1277,6 +1381,19 @@
       "date": "2026-03-19T00:03:31+09:00"
     },
     {
+      "id": "qiita-d30c1a8d5a",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "【保存版】バグバウンティ実践者のための curl  ― 偵察からPoC構築まで",
+      "url": "https://qiita.com/kaminuma/items/6bd7359a202f0102a240?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "kaminuma",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-03-18T23:59:37+09:00"
+    },
+    {
       "id": "hn-47426057",
       "source": "hn",
       "title": "Despite Doubts, Federal Cyber Experts Approved Microsoft Cloud Service",
@@ -1393,11 +1510,24 @@
       "source": "hn",
       "title": "Linux Page Faults, MMAP, and userfaultfd for faster VM boots",
       "url": "https://www.shayon.dev/post/2026/65/linux-page-faults-mmap-and-userfaultfd/",
-      "score": 27,
-      "comments": 0,
+      "score": 28,
+      "comments": 2,
       "author": "shayonj",
       "tags": [],
       "date": "2026-03-18T12:28:44+00:00"
+    },
+    {
+      "id": "qiita-88ce493149",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "週末だけでWebツールを2つリリースした話【フロントのみ・決済あり】",
+      "url": "https://qiita.com/Omeprazon/items/5fa9c468fdf21eae7451?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "Omeprazon",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-03-18T21:15:13+09:00"
     },
     {
       "id": "qiita-80f46f4cfb",
@@ -1847,8 +1977,8 @@
       "source": "hn",
       "title": "A Journey Through Infertility",
       "url": "https://pudding.cool/2026/03/ivf/",
-      "score": 23,
-      "comments": 8,
+      "score": 27,
+      "comments": 13,
       "author": "tchanukvadze",
       "tags": [],
       "date": "2026-03-17T19:41:19+00:00"
@@ -1869,8 +1999,8 @@
       "source": "hn",
       "title": "How the Turner twins are mythbusting modern technical apparel",
       "url": "https://www.carryology.com/insights/how-the-turner-twins-are-mythbusting-modern-gear/",
-      "score": 198,
-      "comments": 101,
+      "score": 208,
+      "comments": 103,
       "author": "greedo",
       "tags": [],
       "date": "2026-03-17T19:19:44+00:00"
@@ -2028,6 +2158,17 @@
       "author": "brainless",
       "tags": [],
       "date": "2026-03-17T15:26:32+00:00"
+    },
+    {
+      "id": "hn-47413879",
+      "source": "hn",
+      "title": "Drawvg Filter for FFmpeg",
+      "url": "https://ayosec.github.io/ffmpeg-drawvg/",
+      "score": 6,
+      "comments": 0,
+      "author": "nolta",
+      "tags": [],
+      "date": "2026-03-17T15:16:39+00:00"
     },
     {
       "id": "hn-47413876",
@@ -2594,7 +2735,7 @@
       "source": "hn",
       "title": "Return of the Obra Dinn: spherical mapped dithering for a 1bpp first-person game",
       "url": "https://forums.tigsource.com/index.php?topic=40832.msg1363742#msg1363742",
-      "score": 331,
+      "score": 346,
       "comments": 44,
       "author": "PaulHoule",
       "tags": [],
@@ -2650,8 +2791,8 @@
       "source": "hn",
       "title": "FSF Threatens Anthropic over Infringed Copyright: Share Your LLMs Freel",
       "url": "https://www.fsf.org/blogs/licensing/2026-anthropic-settlement",
-      "score": 44,
-      "comments": 19,
+      "score": 71,
+      "comments": 39,
       "author": "m463",
       "tags": [],
       "date": "2026-03-16T19:49:20+00:00",
@@ -3156,8 +3297,8 @@
       "source": "hn",
       "title": "Building a Reader for the Smallest Hard Drive",
       "url": "https://www.willwhang.dev/Reading-MK4001MTD/",
-      "score": 13,
-      "comments": 0,
+      "score": 23,
+      "comments": 1,
       "author": "voctor",
       "tags": [],
       "date": "2026-03-16T09:04:43+00:00"
@@ -5043,129 +5184,6 @@
       "author": "ramoz",
       "tags": [],
       "date": "2026-03-14T11:46:29+00:00"
-    },
-    {
-      "id": "hn-47375610",
-      "source": "hn",
-      "title": "How Lego builds a new Lego set",
-      "url": "https://www.theverge.com/c/23991049/lego-ideas-polaroid-onestep-behind-the-scenes-price",
-      "score": 26,
-      "comments": 4,
-      "author": "Michelangelo11",
-      "tags": [],
-      "date": "2026-03-14T11:35:49+00:00"
-    },
-    {
-      "id": "hn-47375085",
-      "source": "hn",
-      "title": "RAM kits are now sold with one fake RAM stick alongside a real one",
-      "url": "https://www.tomshardware.com/pc-components/ram/fake-ram-bundled-with-real-ram-to-create-a-performance-illusion-for-amd-users-1-1-value-pack-offers-desperate-psychological-relief-as-the-memory-shortage-worsens",
-      "score": 180,
-      "comments": 126,
-      "author": "edward",
-      "tags": [],
-      "date": "2026-03-14T10:05:58+00:00"
-    },
-    {
-      "id": "hn-47375008",
-      "source": "hn",
-      "title": "UCP Protocol: The Internet Has 100M Shops and No Front Door",
-      "url": "https://askucp.com/blog",
-      "score": 5,
-      "comments": 2,
-      "author": "defencetechhn",
-      "tags": [],
-      "date": "2026-03-14T09:54:40+00:00"
-    },
-    {
-      "id": "hn-47374924",
-      "source": "hn",
-      "title": "Mathematics Distillation Challenge – Equational Theories",
-      "url": "https://terrytao.wordpress.com/2026/03/13/mathematics-distillation-challenge-equational-theories/",
-      "score": 83,
-      "comments": 3,
-      "author": "picafrost",
-      "tags": [],
-      "date": "2026-03-14T09:38:37+00:00"
-    },
-    {
-      "id": "hn-47374796",
-      "source": "hn",
-      "title": "Starlink militarization and its impact on global strategic stability",
-      "url": "https://interpret.csis.org/translations/starlink-militarization-and-its-impact-on-global-strategic-stability/",
-      "score": 77,
-      "comments": 98,
-      "author": "msuniverse2026",
-      "tags": [],
-      "date": "2026-03-14T09:14:51+00:00"
-    },
-    {
-      "id": "hn-47374745",
-      "source": "hn",
-      "title": "Megadev: A Development Kit for the Sega Mega Drive and Mega CD Hardware",
-      "url": "https://github.com/drojaazu/megadev",
-      "score": 104,
-      "comments": 5,
-      "author": "XzetaU8",
-      "tags": [],
-      "date": "2026-03-14T09:04:39+00:00"
-    },
-    {
-      "id": "hn-47374676",
-      "source": "hn",
-      "title": "Age Verification Lobbying: Dark Money, Model Legislation, Institutional Capture",
-      "url": "https://tboteproject.com",
-      "score": 30,
-      "comments": 1,
-      "author": "mefengl",
-      "tags": [],
-      "date": "2026-03-14T08:52:14+00:00"
-    },
-    {
-      "id": "hn-47374572",
-      "source": "hn",
-      "title": "Autoresearch Hub",
-      "url": "http://autoresearchhub.com/",
-      "score": 29,
-      "comments": 13,
-      "author": "EvgeniyZh",
-      "tags": [],
-      "date": "2026-03-14T08:35:42+00:00"
-    },
-    {
-      "id": "hn-47374519",
-      "source": "hn",
-      "title": "Restoring the first recording of computer music (2018)",
-      "url": "https://www.bl.uk/stories/blogs/posts/restoring-the-first-recording-of-computer-music",
-      "score": 24,
-      "comments": 8,
-      "author": "OJFord",
-      "tags": [],
-      "date": "2026-03-14T08:28:16+00:00"
-    },
-    {
-      "id": "hn-47374197",
-      "source": "hn",
-      "title": "Torturing Rustc by Emulating HKTs",
-      "url": "https://www.harudagondi.space/blog/torturing-rustc-by-emulating-hkts/",
-      "score": 50,
-      "comments": 6,
-      "author": "g0xA52A2A",
-      "tags": [],
-      "date": "2026-03-14T07:25:09+00:00"
-    },
-    {
-      "id": "qiita-5a62b61018",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "Antigravity クオータ0%枯渇問題 (Proプラン向け) (クレジットに関して修正)",
-      "url": "https://qiita.com/masakinihirota/items/fdb955deb0eff36f263f?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "masakinihirota",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-03-14T15:39:19+09:00"
     },
     {
       "id": "ghrel-projectdiscovery_nuclei-293442537",

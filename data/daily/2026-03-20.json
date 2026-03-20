@@ -1,22 +1,22 @@
 {
   "date": "2026-03-20",
-  "generated_at": "2026-03-20T19:35:08.854216+00:00",
-  "total_articles": 52,
+  "generated_at": "2026-03-20T20:27:24.811234+00:00",
+  "total_articles": 59,
   "urgent_count": 3,
   "urgent_items": [
+    {
+      "title": "【緊急】GitHub/npmを汚染する「見えないコード」の脅威：GlassWorm対策",
+      "url": "https://qiita.com/sarubot/items/df077776b293163e0a42?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "severity": "critical",
+      "source": "zennqiita",
+      "date": "2026-03-20T15:43:04+09:00"
+    },
     {
       "title": "Minecraft Source Code Is Interesting",
       "url": "https://www.karanjanthe.me/posts/minecraft-source/",
       "severity": "critical",
       "source": "hn",
       "date": "2026-03-19T22:33:08+00:00"
-    },
-    {
-      "title": "Clockwise acquired by Salesforce",
-      "url": "https://www.getclockwise.com",
-      "severity": "critical",
-      "source": "hn",
-      "date": "2026-03-19T19:50:51+00:00"
     },
     {
       "title": "Full Disclosure: A Third (and Fourth) Azure Sign-In Log Bypass Found",
@@ -29,12 +29,12 @@
   "categories": [
     {
       "category": "テクノロジー",
-      "count": 45,
+      "count": 42,
       "top_items": [
         {
           "title": "ArXiv declares independence from Cornell",
           "url": "https://www.science.org/content/article/arxiv-pioneering-preprint-server-declares-independence-cornell",
-          "score": 652,
+          "score": 678,
           "source": "hn",
           "severity": null,
           "date": "2026-03-20T04:24:11+00:00"
@@ -42,7 +42,7 @@
         {
           "title": "Chuck Norris has died",
           "url": "https://variety.com/2026/film/news/chuck-norris-dead-walker-texas-ranger-dies-1236694953/",
-          "score": 575,
+          "score": 619,
           "source": "hn",
           "severity": null,
           "date": "2026-03-20T14:09:58+00:00"
@@ -64,18 +64,18 @@
           "date": "2026-03-20T00:22:08+00:00"
         },
         {
-          "title": "Anthropic takes legal action against OpenCode",
-          "url": "https://github.com/anomalyco/opencode/pull/18186",
-          "score": 302,
+          "title": "France's aircraft carrier located in real time by Le Monde through fitness app",
+          "url": "https://www.lemonde.fr/en/international/article/2026/03/20/stravaleaks-france-s-aircraft-carrier-located-in-real-time-by-le-monde-through-fitness-app_6751640_4.html",
+          "score": 332,
           "source": "hn",
           "severity": null,
-          "date": "2026-03-19T19:37:26+00:00"
+          "date": "2026-03-20T13:01:56+00:00"
         }
       ]
     },
     {
       "category": "日本語技術記事",
-      "count": 7,
+      "count": 17,
       "top_items": [
         {
           "title": "GPT-5.4 mini & nano入門 — サブエージェント時代の軽量モデルをAPIで活用する",
@@ -94,6 +94,14 @@
           "date": "2026-03-21T01:36:39+09:00"
         },
         {
+          "title": "Ruffleを入れただけでは動かない ― Pleiades Company様製のErinyesを現代ブラウザで蘇らせて分かったこと",
+          "url": "https://qiita.com/shinohara-tsukasa/items/67a2bb1d333fcfae53e4?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "score": null,
+          "source": "zennqiita",
+          "severity": null,
+          "date": "2026-03-21T00:04:56+09:00"
+        },
+        {
           "title": "【保存版】バグバウンティ実践者のための curl  ― 偵察からPoC構築まで",
           "url": "https://qiita.com/kaminuma/items/6bd7359a202f0102a240?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
           "score": null,
@@ -102,20 +110,12 @@
           "date": "2026-03-20T21:06:57+09:00"
         },
         {
-          "title": "aws loginのクレデンシャルがcdk deployで読み込まれない問題を解決した話",
-          "url": "https://qiita.com/_YukiOgawa/items/2dd748de1a0b912ec88c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "title": "TRON 組込みOSシェア60%で世界一⁉️は疑わしい ～ 日本発のOS標準規格の基礎と歴史",
+          "url": "https://qiita.com/ko1nksm/items/2660942e09bc403187f4?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
           "score": null,
           "source": "zennqiita",
           "severity": null,
-          "date": "2026-03-20T13:11:31+09:00"
-        },
-        {
-          "title": "Playwrightで「手動テスト地獄」を卒業する——E2Eテスト自動化とCI組み込みのハンズオン入門",
-          "url": "https://qiita.com/76Hata/items/2ab2584041c5f487206d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "score": null,
-          "source": "zennqiita",
-          "severity": null,
-          "date": "2026-03-20T12:05:02+09:00"
+          "date": "2026-03-20T19:41:02+09:00"
         }
       ]
     }

@@ -1,6 +1,6 @@
 {
   "month": "2026-03",
-  "generated_at": "2026-03-20T01:47:55.570127+00:00",
+  "generated_at": "2026-03-20T04:11:07.579360+00:00",
   "total_articles": 451,
   "source_counts": {
     "hn": 347,
@@ -8,9 +8,9 @@
     "project": 1
   },
   "severity_counts": {
-    "critical": 12,
-    "medium": 4,
-    "high": 2
+    "high": 3,
+    "critical": 11,
+    "medium": 4
   },
   "top_articles": [
     {
@@ -23,7 +23,7 @@
     {
       "title": "Astral to Join OpenAI",
       "url": "https://astral.sh/blog/openai",
-      "score": 1218,
+      "score": 1271,
       "source": "hn",
       "date": "2026-03-19T13:05:50+00:00"
     },
@@ -147,14 +147,21 @@
       "date": "2026-03-18T03:53:42+00:00"
     },
     {
-      "title": "Stop Sloppypasta",
-      "url": "https://stopsloppypasta.ai/",
-      "score": 572,
+      "title": "Google details new 24-hour process to sideload unverified Android apps",
+      "url": "https://arstechnica.com/gadgets/2026/03/google-details-new-24-hour-process-to-sideload-unverified-android-apps/",
+      "score": 592,
       "source": "hn",
-      "date": "2026-03-15T17:25:00+00:00"
+      "date": "2026-03-19T17:16:04+00:00"
     }
   ],
   "security_highlights": [
+    {
+      "title": "Full Disclosure: A Third (and Fourth) Azure Sign-In Log Bypass Found",
+      "url": "https://trustedsec.com/blog/full-disclosure-a-third-and-fourth-azure-sign-in-log-bypass-found",
+      "severity": "high",
+      "source": "hn",
+      "date": "2026-03-20T01:09:45+00:00"
+    },
     {
       "title": "Minecraft Source Code Is Interesting",
       "url": "https://www.karanjanthe.me/posts/minecraft-source/",
@@ -245,13 +252,6 @@
       "severity": "critical",
       "source": "hn",
       "date": "2026-03-14T19:35:37+00:00"
-    },
-    {
-      "title": "An investigation of the forces behind the age-verification bills",
-      "url": "https://lwn.net/Articles/1062779/",
-      "severity": "critical",
-      "source": "hn",
-      "date": "2026-03-14T01:19:18+00:00"
     }
   ]
 }

@@ -1,8 +1,8 @@
 {
   "date": "2026-03-20",
-  "generated_at": "2026-03-20T01:47:55.533633+00:00",
-  "total_articles": 71,
-  "urgent_count": 2,
+  "generated_at": "2026-03-20T04:11:07.542971+00:00",
+  "total_articles": 62,
+  "urgent_count": 3,
   "urgent_items": [
     {
       "title": "Minecraft Source Code Is Interesting",
@@ -17,17 +17,24 @@
       "severity": "critical",
       "source": "hn",
       "date": "2026-03-19T19:50:51+00:00"
+    },
+    {
+      "title": "Full Disclosure: A Third (and Fourth) Azure Sign-In Log Bypass Found",
+      "url": "https://trustedsec.com/blog/full-disclosure-a-third-and-fourth-azure-sign-in-log-bypass-found",
+      "severity": "high",
+      "source": "hn",
+      "date": "2026-03-20T01:09:45+00:00"
     }
   ],
   "categories": [
     {
       "category": "テクノロジー",
-      "count": 60,
+      "count": 56,
       "top_items": [
         {
           "title": "Astral to Join OpenAI",
           "url": "https://astral.sh/blog/openai",
-          "score": 1218,
+          "score": 1271,
           "source": "hn",
           "severity": null,
           "date": "2026-03-19T13:05:50+00:00"
@@ -41,17 +48,9 @@
           "date": "2026-03-19T09:51:56+00:00"
         },
         {
-          "title": "A sufficiently detailed spec is code",
-          "url": "https://haskellforall.com/2026/03/a-sufficiently-detailed-spec-is-code",
-          "score": 515,
-          "source": "hn",
-          "severity": null,
-          "date": "2026-03-19T02:23:17+00:00"
-        },
-        {
           "title": "Google details new 24-hour process to sideload unverified Android apps",
           "url": "https://arstechnica.com/gadgets/2026/03/google-details-new-24-hour-process-to-sideload-unverified-android-apps/",
-          "score": 500,
+          "score": 592,
           "source": "hn",
           "severity": null,
           "date": "2026-03-19T17:16:04+00:00"
@@ -59,16 +58,24 @@
         {
           "title": "“Your frustration is the product”",
           "url": "https://daringfireball.net/2026/03/your_frustration_is_the_product",
-          "score": 432,
+          "score": 476,
           "source": "hn",
           "severity": null,
           "date": "2026-03-19T11:34:24+00:00"
+        },
+        {
+          "title": "Show HN: Three new Kitten TTS models – smallest less than 25MB",
+          "url": "https://github.com/KittenML/KittenTTS",
+          "score": 355,
+          "source": "hn",
+          "severity": null,
+          "date": "2026-03-19T15:56:06+00:00"
         }
       ]
     },
     {
       "category": "日本語技術記事",
-      "count": 11,
+      "count": 6,
       "top_items": [
         {
           "title": "TRON 組込みOSシェア60%で世界一⁉️は疑わしい ～ 日本発のOS標準規格の基礎と歴史",
@@ -76,7 +83,7 @@
           "score": null,
           "source": "zennqiita",
           "severity": null,
-          "date": "2026-03-20T10:46:45+09:00"
+          "date": "2026-03-20T11:02:03+09:00"
         },
         {
           "title": "AWS Community Builders（Serverless）に選出されました",

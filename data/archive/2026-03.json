@@ -1,6 +1,6 @@
 {
   "month": "2026-03",
-  "generated_at": "2026-03-21T20:49:56.202231+00:00",
+  "generated_at": "2026-03-21T21:20:35.846439+00:00",
   "total_articles": 451,
   "source_counts": {
     "hn": 341,
@@ -9,7 +9,7 @@
   },
   "severity_counts": {
     "medium": 4,
-    "critical": 15,
+    "critical": 14,
     "high": 2
   },
   "top_articles": [
@@ -37,7 +37,7 @@
     {
       "title": "OpenCode – Open source AI coding agent",
       "url": "https://opencode.ai/",
-      "score": 1162,
+      "score": 1168,
       "source": "hn",
       "date": "2026-03-20T21:03:52+00:00"
     },
@@ -266,13 +266,6 @@
       "severity": "critical",
       "source": "hn",
       "date": "2026-03-16T11:57:33+00:00"
-    },
-    {
-      "title": "Show HN: Open-source playground to red-team AI agents with exploits published",
-      "url": "https://github.com/fabraix/playground",
-      "severity": "critical",
-      "source": "hn",
-      "date": "2026-03-15T22:29:46+00:00"
     }
   ]
 }

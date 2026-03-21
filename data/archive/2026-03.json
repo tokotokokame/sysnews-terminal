@@ -1,14 +1,14 @@
 {
   "month": "2026-03",
-  "generated_at": "2026-03-21T07:51:11.593943+00:00",
+  "generated_at": "2026-03-21T08:27:44.369469+00:00",
   "total_articles": 451,
   "source_counts": {
-    "hn": 350,
-    "zennqiita": 100,
+    "hn": 346,
+    "zennqiita": 104,
     "project": 1
   },
   "severity_counts": {
-    "critical": 14,
+    "critical": 15,
     "high": 2,
     "medium": 3
   },
@@ -84,6 +84,13 @@
       "date": "2026-03-16T20:59:40+00:00"
     },
     {
+      "title": "OpenCode – Open source AI coding agent",
+      "url": "https://opencode.ai/",
+      "score": 723,
+      "source": "hn",
+      "date": "2026-03-20T21:03:52+00:00"
+    },
+    {
       "title": "I'm OK being left behind, thanks",
       "url": "https://shkspr.mobi/blog/2026/03/im-ok-being-left-behind-thanks/",
       "score": 719,
@@ -110,13 +117,6 @@
       "score": 703,
       "source": "hn",
       "date": "2026-03-19T00:15:39+00:00"
-    },
-    {
-      "title": "OpenCode – Open source AI coding agent",
-      "url": "https://opencode.ai/",
-      "score": 687,
-      "source": "hn",
-      "date": "2026-03-20T21:03:52+00:00"
     },
     {
       "title": "ArXiv declares independence from Cornell",
@@ -168,6 +168,13 @@
       "severity": "critical",
       "source": "hn",
       "date": "2026-03-20T21:03:52+00:00"
+    },
+    {
+      "title": "MCPサーバは安全か？ツールポイズニング・RCE・サンドボックス脱出の実例と対策",
+      "url": "https://qiita.com/nogataka/items/083efbdad4d3e011849b?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "severity": "critical",
+      "source": "zennqiita",
+      "date": "2026-03-20T17:57:03+09:00"
     },
     {
       "title": "Full Disclosure: A Third (and Fourth) Azure Sign-In Log Bypass Found",

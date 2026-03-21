@@ -1,8 +1,8 @@
 {
   "date": "2026-03-21",
-  "generated_at": "2026-03-21T07:51:11.549351+00:00",
-  "total_articles": 60,
-  "urgent_count": 2,
+  "generated_at": "2026-03-21T08:27:44.325153+00:00",
+  "total_articles": 68,
+  "urgent_count": 3,
   "urgent_items": [
     {
       "title": "【緊急】GitHub/npmを汚染する「見えないコード」の脅威：GlassWorm対策",
@@ -17,13 +17,28 @@
       "severity": "critical",
       "source": "hn",
       "date": "2026-03-20T21:03:52+00:00"
+    },
+    {
+      "title": "MCPサーバは安全か？ツールポイズニング・RCE・サンドボックス脱出の実例と対策",
+      "url": "https://qiita.com/nogataka/items/083efbdad4d3e011849b?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "severity": "critical",
+      "source": "zennqiita",
+      "date": "2026-03-20T17:57:03+09:00"
     }
   ],
   "categories": [
     {
       "category": "テクノロジー",
-      "count": 47,
+      "count": 49,
       "top_items": [
+        {
+          "title": "OpenCode – Open source AI coding agent",
+          "url": "https://opencode.ai/",
+          "score": 723,
+          "source": "hn",
+          "severity": "critical",
+          "date": "2026-03-20T21:03:52+00:00"
+        },
         {
           "title": "I'm OK being left behind, thanks",
           "url": "https://shkspr.mobi/blog/2026/03/im-ok-being-left-behind-thanks/",
@@ -31,14 +46,6 @@
           "source": "hn",
           "severity": null,
           "date": "2026-03-20T13:38:56+00:00"
-        },
-        {
-          "title": "OpenCode – Open source AI coding agent",
-          "url": "https://opencode.ai/",
-          "score": 687,
-          "source": "hn",
-          "severity": "critical",
-          "date": "2026-03-20T21:03:52+00:00"
         },
         {
           "title": "Chuck Norris has died",
@@ -51,7 +58,7 @@
         {
           "title": "France's aircraft carrier located in real time by Le Monde through fitness app",
           "url": "https://www.lemonde.fr/en/international/article/2026/03/20/stravaleaks-france-s-aircraft-carrier-located-in-real-time-by-le-monde-through-fitness-app_6751640_4.html",
-          "score": 547,
+          "score": 559,
           "source": "hn",
           "severity": null,
           "date": "2026-03-20T13:01:56+00:00"
@@ -68,8 +75,16 @@
     },
     {
       "category": "日本語技術記事",
-      "count": 13,
+      "count": 19,
       "top_items": [
+        {
+          "title": "クラウド環境の破壊型サイバー攻撃に備えるために Microsoft Entra ID のネイティブバックアップを試してみる",
+          "url": "https://qiita.com/hirotomotaguchi/items/e92b4c5c5c2c9dfa4c7b?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "score": null,
+          "source": "zennqiita",
+          "severity": null,
+          "date": "2026-03-21T12:21:54+09:00"
+        },
         {
           "title": "Ruffleを入れただけでは動かない ― Pleiades Company様製のErinyesを現代ブラウザで蘇らせて分かったこと【Githubにて公開中】",
           "url": "https://qiita.com/shinohara-tsukasa/items/67a2bb1d333fcfae53e4?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
@@ -101,14 +116,6 @@
           "source": "zennqiita",
           "severity": null,
           "date": "2026-03-21T09:43:40+09:00"
-        },
-        {
-          "title": "GPT-5.4 mini & nano入門 — サブエージェント時代の軽量モデルをAPIで活用する",
-          "url": "https://qiita.com/kai_kou/items/dbb87652428ee1b255b8?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "score": null,
-          "source": "zennqiita",
-          "severity": null,
-          "date": "2026-03-21T01:36:46+09:00"
         }
       ]
     }

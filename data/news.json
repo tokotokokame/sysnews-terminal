@@ -1,7 +1,29 @@
 {
-  "updated_at": "2026-03-21T07:52:34.756647+00:00",
+  "updated_at": "2026-03-21T08:27:44.253564+00:00",
   "count": 500,
   "items": [
+    {
+      "id": "hn-47464859",
+      "source": "hn",
+      "title": "Man pleads guilty to $8M AI-generated music scheme",
+      "url": "https://therecord.media/man-pleads-guilty-8-million-ai-music-scheme",
+      "score": 23,
+      "comments": 9,
+      "author": "nstj",
+      "tags": [],
+      "date": "2026-03-21T07:36:07+00:00"
+    },
+    {
+      "id": "hn-47464574",
+      "source": "hn",
+      "title": "Italy, Belgium set to lose gas supply after biggest LNG plant bombed",
+      "url": "https://www.politico.eu/article/italy-belgium-lose-gas-supply-world-biggest-lng-plant-bombed/",
+      "score": 24,
+      "comments": 9,
+      "author": "leonidasrup",
+      "tags": [],
+      "date": "2026-03-21T06:45:55+00:00"
+    },
     {
       "id": "hn-47464438",
       "source": "hn",
@@ -29,11 +51,24 @@
       "source": "hn",
       "title": "Ubuntu 26.04 Ends 46 Years of Silent sudo Passwords",
       "url": "https://pbxscience.com/ubuntu-26-04-ends-46-years-of-silent-sudo-passwords/",
-      "score": 54,
-      "comments": 45,
+      "score": 76,
+      "comments": 74,
       "author": "akersten",
       "tags": [],
       "date": "2026-03-21T05:06:11+00:00"
+    },
+    {
+      "id": "qiita-5a1190a5eb",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "クラウド環境の破壊型サイバー攻撃に備えるために Microsoft Entra ID のネイティブバックアップを試してみる",
+      "url": "https://qiita.com/hirotomotaguchi/items/e92b4c5c5c2c9dfa4c7b?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "hirotomotaguchi",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-03-21T12:21:54+09:00"
     },
     {
       "id": "qiita-d2a498c4d6",
@@ -66,7 +101,7 @@
       "source": "hn",
       "title": "FFmpeg 101 (2024)",
       "url": "https://blogs.igalia.com/llepage/ffmpeg-101/",
-      "score": 41,
+      "score": 56,
       "comments": 0,
       "author": "vinhnx",
       "tags": [],
@@ -77,8 +112,8 @@
       "source": "hn",
       "title": "purl: a curl-esque CLI for making HTTP requests that require payment",
       "url": "https://www.purl.dev/",
-      "score": 18,
-      "comments": 3,
+      "score": 26,
+      "comments": 4,
       "author": "bpierre",
       "tags": [],
       "date": "2026-03-21T02:09:08+00:00"
@@ -122,11 +157,24 @@
       "date": "2026-03-21T00:31:51+00:00"
     },
     {
+      "id": "qiita-9b7dd8eb64",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "AIエージェントが「最初から戦力になる」リポジトリ設計 — AGENTS.md・ディレクトリ構造・バリデーション戦略の実践ガイド",
+      "url": "https://qiita.com/akira_papa_AI/items/0385b6d1468e6d564b50?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "akira_papa_AI",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-03-21T09:01:09+09:00"
+    },
+    {
       "id": "hn-47462483",
       "source": "hn",
       "title": "Linux Applications Programming by Example: The Fundamental APIs (2nd Edition)",
       "url": "https://github.com/arnoldrobbins/LinuxByExample-2e",
-      "score": 73,
+      "score": 82,
       "comments": 8,
       "author": "teleforce",
       "tags": [],
@@ -148,7 +196,7 @@
       "source": "hn",
       "title": "Ghostling",
       "url": "https://github.com/ghostty-org/ghostling",
-      "score": 181,
+      "score": 191,
       "comments": 33,
       "author": "bjornroberg",
       "tags": [],
@@ -159,8 +207,8 @@
       "source": "hn",
       "title": "Show HN: We built a terminal-only Bluesky / AT Proto client written in Fortran",
       "url": "https://github.com/FormerLab/fortransky",
-      "score": 71,
-      "comments": 38,
+      "score": 75,
+      "comments": 40,
       "author": "FormerLabFred",
       "tags": [],
       "date": "2026-03-20T22:06:51+00:00"
@@ -170,8 +218,8 @@
       "source": "hn",
       "title": "We rewrote our Rust WASM parser in TypeScript and it got faster",
       "url": "https://www.openui.com/blog/rust-wasm-parser",
-      "score": 174,
-      "comments": 97,
+      "score": 192,
+      "comments": 105,
       "author": "zahlekhan",
       "tags": [],
       "date": "2026-03-20T21:48:06+00:00"
@@ -203,8 +251,8 @@
       "source": "hn",
       "title": "OpenCode – Open source AI coding agent",
       "url": "https://opencode.ai/",
-      "score": 688,
-      "comments": 302,
+      "score": 723,
+      "comments": 319,
       "author": "rbanffy",
       "tags": [],
       "date": "2026-03-20T21:03:52+00:00",
@@ -215,8 +263,8 @@
       "source": "hn",
       "title": "A Japanese glossary of chopsticks faux pas",
       "url": "https://www.nippon.com/en/japan-data/h01362/",
-      "score": 222,
-      "comments": 161,
+      "score": 241,
+      "comments": 170,
       "author": "cainxinth",
       "tags": [],
       "date": "2026-03-20T20:54:57+00:00"
@@ -270,7 +318,7 @@
       "source": "hn",
       "title": "Attention Residuals",
       "url": "https://github.com/MoonshotAI/Attention-Residuals",
-      "score": 160,
+      "score": 170,
       "comments": 22,
       "author": "GaggiX",
       "tags": [],
@@ -391,12 +439,25 @@
       "date": "2026-03-20T14:56:03+00:00"
     },
     {
+      "id": "qiita-68c3c28d66",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "Claude Codeでひとりチーム開発を回すための設定とワークフロー",
+      "url": "https://qiita.com/kei1-dev/items/c045233e1c4fb497c25d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "kei1-dev",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-03-20T23:33:44+09:00"
+    },
+    {
       "id": "hn-47455138",
       "source": "hn",
       "title": "Molly Guard",
       "url": "https://bookofjoe2.blogspot.com/2026/02/molly-guard.html",
-      "score": 68,
-      "comments": 32,
+      "score": 89,
+      "comments": 35,
       "author": "surprisetalk",
       "tags": [],
       "date": "2026-03-20T14:33:41+00:00"
@@ -483,8 +544,8 @@
       "source": "hn",
       "title": "France's aircraft carrier located in real time by Le Monde through fitness app",
       "url": "https://www.lemonde.fr/en/international/article/2026/03/20/stravaleaks-france-s-aircraft-carrier-located-in-real-time-by-le-monde-through-fitness-app_6751640_4.html",
-      "score": 547,
-      "comments": 441,
+      "score": 559,
+      "comments": 449,
       "author": "MrDresden",
       "tags": [],
       "date": "2026-03-20T13:01:56+00:00"
@@ -626,6 +687,19 @@
       "date": "2026-03-20T18:15:58+09:00"
     },
     {
+      "id": "qiita-6d252cd59e",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "Claude 1Mコンテキストウィンドウが正式提供開始：追加料金なしで使える100万トークンの活用法",
+      "url": "https://qiita.com/nogataka/items/f223013206d3ec43ddb8?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "nogataka",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-03-20T18:13:26+09:00"
+    },
+    {
       "id": "qiita-150bea3870",
       "source": "zennqiita",
       "sub_source": "Qiita",
@@ -652,6 +726,19 @@
       "date": "2026-03-20T18:13:09+09:00"
     },
     {
+      "id": "qiita-732d388017",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "UI UX Pro Max：AIコーディングアシスタントにデザインセンスを与えるSkill",
+      "url": "https://qiita.com/nogataka/items/1e35dd4f573547626aff?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "nogataka",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-03-20T18:13:00+09:00"
+    },
+    {
       "id": "qiita-6f5a3f2d40",
       "source": "zennqiita",
       "sub_source": "Qiita",
@@ -663,6 +750,20 @@
         "Qiita"
       ],
       "date": "2026-03-20T18:03:01+09:00"
+    },
+    {
+      "id": "qiita-1ee5608c76",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "MCPサーバは安全か？ツールポイズニング・RCE・サンドボックス脱出の実例と対策",
+      "url": "https://qiita.com/nogataka/items/083efbdad4d3e011849b?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "nogataka",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-03-20T17:57:03+09:00",
+      "severity": "critical"
     },
     {
       "id": "qiita-d12f6277de",
@@ -964,6 +1065,19 @@
       "author": "_squared_",
       "tags": [],
       "date": "2026-03-19T19:37:26+00:00"
+    },
+    {
+      "id": "qiita-70f0776ff2",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "高校の文化祭で簡易POSを作って学んだ、「ITを入れれば効率化する」とは限らないという話",
+      "url": "https://qiita.com/Towa_ONGRKL/items/ee5c69831501251a0ec0?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "Towa_ONGRKL",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-03-20T04:26:46+09:00"
     },
     {
       "id": "hn-47444460",
@@ -1562,11 +1676,24 @@
       "source": "hn",
       "title": "Fujifilm X RAW STUDIO webapp clone",
       "url": "https://github.com/eggricesoy/filmkit",
-      "score": 15,
-      "comments": 9,
+      "score": 28,
+      "comments": 12,
       "author": "notcodingtoday",
       "tags": [],
       "date": "2026-03-19T04:49:33+00:00"
+    },
+    {
+      "id": "qiita-57aab05963",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "AWS認定の勉強方法",
+      "url": "https://qiita.com/K24same/items/2d180fad1a49ab9d825e?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "K24same",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-03-19T13:11:59+09:00"
     },
     {
       "id": "qiita-194f19d76e",
@@ -1820,8 +1947,8 @@
       "source": "hn",
       "title": "A look at content scrambling in DVDs",
       "url": "https://mathweb.ucsd.edu/~crypto/Projects/MarkBarry/",
-      "score": 30,
-      "comments": 11,
+      "score": 40,
+      "comments": 17,
       "author": "rvnx",
       "tags": [],
       "date": "2026-03-18T21:29:14+00:00"
@@ -1836,6 +1963,17 @@
       "author": "enz",
       "tags": [],
       "date": "2026-03-18T20:52:30+00:00"
+    },
+    {
+      "id": "hn-47431288",
+      "source": "hn",
+      "title": "An industrial piping contractor on Claude Code [video]",
+      "url": "https://twitter.com/toddsaunders/status/2034243420147859716",
+      "score": 33,
+      "comments": 4,
+      "author": "mighty-fine",
+      "tags": [],
+      "date": "2026-03-18T20:50:56+00:00"
     },
     {
       "id": "hn-47431237",
@@ -1941,7 +2079,7 @@
       "source": "hn",
       "title": "The Ugliest Airplane: An Appreciation",
       "url": "https://www.smithsonianmag.com/air-space-magazine/ugliest-airplane-appreciation-180978708/",
-      "score": 58,
+      "score": 59,
       "comments": 30,
       "author": "randycupertino",
       "tags": [],
@@ -2235,7 +2373,7 @@
       "source": "hn",
       "title": "Lent and Lisp",
       "url": "https://leancrew.com/all-this/2026/02/lent-and-lisp/",
-      "score": 48,
+      "score": 53,
       "comments": 2,
       "author": "surprisetalk",
       "tags": [],
@@ -2283,7 +2421,7 @@
       "source": "hn",
       "title": "Turing Award Honors Bennett and Brassard for Quantum Information Science",
       "url": "https://amturing.acm.org",
-      "score": 24,
+      "score": 31,
       "comments": 0,
       "author": "throw0101d",
       "tags": [],
@@ -2364,8 +2502,8 @@
       "source": "hn",
       "title": "The worst volume control UI in the world (2017)",
       "url": "https://uxdesign.cc/the-worst-volume-control-ui-in-the-world-60713dc86950",
-      "score": 107,
-      "comments": 52,
+      "score": 116,
+      "comments": 58,
       "author": "andsoitis",
       "tags": [],
       "date": "2026-03-18T10:22:38+00:00"
@@ -2717,8 +2855,8 @@
       "source": "hn",
       "title": "Mamba-3",
       "url": "https://www.together.ai/blog/mamba-3",
-      "score": 75,
-      "comments": 6,
+      "score": 91,
+      "comments": 11,
       "author": "matt_d",
       "tags": [],
       "date": "2026-03-17T22:45:12+00:00"
@@ -2860,7 +2998,7 @@
       "source": "hn",
       "title": "Padel Chess – tactical simulator for padel",
       "url": "https://www.padelchess.me/",
-      "score": 6,
+      "score": 14,
       "comments": 0,
       "author": "AlexGerasim",
       "tags": [],
@@ -2882,8 +3020,8 @@
       "source": "hn",
       "title": "The Los Angeles Aqueduct Is Wild",
       "url": "https://practical.engineering/blog/2026/3/17/the-los-angeles-aqueduct-is-wild",
-      "score": 334,
-      "comments": 173,
+      "score": 339,
+      "comments": 175,
       "author": "michaefe",
       "tags": [],
       "date": "2026-03-17T18:43:53+00:00"
@@ -3233,7 +3371,7 @@
       "source": "hn",
       "title": "VisiCalc Reconstructed",
       "url": "https://zserge.com/posts/visicalc/",
-      "score": 185,
+      "score": 194,
       "comments": 74,
       "author": "ingve",
       "tags": [],
@@ -5041,135 +5179,6 @@
       "author": "giuliomagnifico",
       "tags": [],
       "date": "2026-03-15T12:18:47+00:00"
-    },
-    {
-      "id": "hn-47386651",
-      "source": "hn",
-      "title": "Pentagon expands oversight of Stars and Stripes, limits content",
-      "url": "https://www.stripes.com/theaters/us/2026-03-13/pentagon-modernization-plan-stars-and-stripes-21051529.html",
-      "score": 121,
-      "comments": 48,
-      "author": "geox",
-      "tags": [],
-      "date": "2026-03-15T12:11:32+00:00"
-    },
-    {
-      "id": "hn-47386636",
-      "source": "hn",
-      "title": "The 100 hour gap between a vibecoded prototype and a working product",
-      "url": "https://kanfa.macbudkowski.com/vibecoding-cryptosaurus",
-      "score": 205,
-      "comments": 268,
-      "author": "kiwieater",
-      "tags": [],
-      "date": "2026-03-15T12:09:30+00:00"
-    },
-    {
-      "id": "qiita-4afd46d0b4",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "Claude Codeスキルで自動化するペネトレーションテスト完全ガイド — 23カテゴリの実践手法",
-      "url": "https://qiita.com/nogataka/items/0808d2b51aa986569dd9?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "nogataka",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-03-15T21:04:57+09:00"
-    },
-    {
-      "id": "hn-47386581",
-      "source": "hn",
-      "title": "Show HN: Signet – Autonomous wildfire tracking from satellite and weather data",
-      "url": "https://signet.watch",
-      "score": 103,
-      "comments": 28,
-      "author": "mapldx",
-      "tags": [],
-      "date": "2026-03-15T12:01:00+00:00"
-    },
-    {
-      "id": "hn-47386441",
-      "source": "hn",
-      "title": "Generating All 32-Bit Primes (Part I)",
-      "url": "https://hnlyman.github.io/pages/prime32_I.html",
-      "score": 75,
-      "comments": 22,
-      "author": "hnlyman",
-      "tags": [],
-      "date": "2026-03-15T11:42:01+00:00"
-    },
-    {
-      "id": "hn-47386246",
-      "source": "hn",
-      "title": "IBM, sonic delay lines, and the history of the 80×24 display (2019)",
-      "url": "https://www.righto.com/2019/11/ibm-sonic-delay-lines-and-history-of.html",
-      "score": 74,
-      "comments": 26,
-      "author": "rbanffy",
-      "tags": [],
-      "date": "2026-03-15T11:06:45+00:00"
-    },
-    {
-      "id": "hn-47386116",
-      "source": "hn",
-      "title": "A Visual Introduction to Machine Learning (2015)",
-      "url": "https://r2d3.us/visual-intro-to-machine-learning-part-1/",
-      "score": 363,
-      "comments": 31,
-      "author": "vismit2000",
-      "tags": [],
-      "date": "2026-03-15T10:47:35+00:00"
-    },
-    {
-      "id": "hn-47385935",
-      "source": "hn",
-      "title": "$96 3D-printed rocket that recalculates its mid-air trajectory using a $5 sensor",
-      "url": "https://github.com/novatic14/MANPADS-System-Launcher-and-Rocket",
-      "score": 353,
-      "comments": 330,
-      "author": "ZacnyLos",
-      "tags": [],
-      "date": "2026-03-15T10:15:47+00:00"
-    },
-    {
-      "id": "qiita-347f405bde",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "学生プランでGithub CopilotでOpusとかGPT5.4が使えなくなった",
-      "url": "https://qiita.com/hokutoh/items/3b074137a6f372776ec5?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "hokutoh",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-03-15T19:13:42+09:00"
-    },
-    {
-      "id": "qiita-a0ee0b2f8f",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "MITRE ATT&CK入門：攻撃者視点で対策・検知・ゼロトラストをつなぐ",
-      "url": "https://qiita.com/comty/items/564c3c58dc602188e135?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "comty",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-03-15T19:01:43+09:00"
-    },
-    {
-      "id": "qiita-001ce68271",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "Antigravity×Skills×Udon Sharpで同期付きギミックをVibe Codingする",
-      "url": "https://qiita.com/Yodokoro/items/01bbc93dabc796191fc2?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "Yodokoro",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-03-15T18:17:34+09:00"
     },
     {
       "id": "ghrel-projectdiscovery_nuclei-293442537",

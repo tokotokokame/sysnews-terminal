@@ -1,7 +1,7 @@
 {
   "date": "2026-03-21",
-  "generated_at": "2026-03-21T19:44:36.348616+00:00",
-  "total_articles": 47,
+  "generated_at": "2026-03-21T20:21:27.495735+00:00",
+  "total_articles": 54,
   "urgent_count": 2,
   "urgent_items": [
     {
@@ -22,31 +22,39 @@
   "categories": [
     {
       "category": "テクノロジー",
-      "count": 40,
+      "count": 41,
       "top_items": [
         {
           "title": "OpenCode – Open source AI coding agent",
           "url": "https://opencode.ai/",
-          "score": 1146,
+          "score": 1155,
           "source": "hn",
           "severity": "critical",
           "date": "2026-03-20T21:03:52+00:00"
         },
         {
+          "title": "Blocking Internet Archive Won't Stop AI, but Will Erase Web's Historical Record",
+          "url": "https://www.eff.org/deeplinks/2026/03/blocking-internet-archive-wont-stop-ai-it-will-erase-webs-historical-record",
+          "score": 427,
+          "source": "hn",
+          "severity": null,
+          "date": "2026-03-21T07:30:16+00:00"
+        },
+        {
           "title": "A Japanese glossary of chopsticks faux pas (2022)",
           "url": "https://www.nippon.com/en/japan-data/h01362/",
-          "score": 407,
+          "score": 421,
           "source": "hn",
           "severity": null,
           "date": "2026-03-20T20:54:57+00:00"
         },
         {
-          "title": "Blocking Internet Archive Won't Stop AI, but Will Erase Web's Historical Record",
-          "url": "https://www.eff.org/deeplinks/2026/03/blocking-internet-archive-wont-stop-ai-it-will-erase-webs-historical-record",
-          "score": 404,
+          "title": "Some things just take time",
+          "url": "https://lucumr.pocoo.org/2026/3/20/some-things-just-take-time/",
+          "score": 329,
           "source": "hn",
           "severity": null,
-          "date": "2026-03-21T07:30:16+00:00"
+          "date": "2026-03-21T14:46:56+00:00"
         },
         {
           "title": "Ghostling",
@@ -55,21 +63,21 @@
           "source": "hn",
           "severity": null,
           "date": "2026-03-20T22:11:37+00:00"
-        },
-        {
-          "title": "Some Things Just Take Time",
-          "url": "https://lucumr.pocoo.org/2026/3/20/some-things-just-take-time/",
-          "score": 280,
-          "source": "hn",
-          "severity": null,
-          "date": "2026-03-21T14:46:56+00:00"
         }
       ]
     },
     {
       "category": "日本語技術記事",
-      "count": 7,
+      "count": 13,
       "top_items": [
+        {
+          "title": "AWS初心者がボランティアスタッフとしてJAWS DAYSに帰ってきた話",
+          "url": "https://qiita.com/tks_1128/items/e4bfd4b54fbfdb73fc77?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "score": null,
+          "source": "zennqiita",
+          "severity": null,
+          "date": "2026-03-22T00:59:49+09:00"
+        },
         {
           "title": "TRON 組込みOSシェア60%で世界一⁉️は疑わしい ～ 日本発のOS標準規格の基礎と歴史",
           "url": "https://qiita.com/ko1nksm/items/2660942e09bc403187f4?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
@@ -79,36 +87,28 @@
           "date": "2026-03-22T00:47:56+09:00"
         },
         {
+          "title": "ハーネスエンジニアリングとは何か ── コンテキストエンジニアリングの次のパラダイム",
+          "url": "https://qiita.com/miruky/items/155f3b5a0dcde72fcd10?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "score": null,
+          "source": "zennqiita",
+          "severity": null,
+          "date": "2026-03-22T00:25:02+09:00"
+        },
+        {
+          "title": "OpenCode vs Claude Code、ファイ！！ OSSコーディングエージェントの実力を検証してみた",
+          "url": "https://qiita.com/miruky/items/293ad0d3bc4d0cc41b08?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "score": null,
+          "source": "zennqiita",
+          "severity": null,
+          "date": "2026-03-22T00:04:45+09:00"
+        },
+        {
           "title": "【緊急】GitHub/npmを汚染する「見えないコード」の脅威：GlassWorm対策",
           "url": "https://qiita.com/sarubot/items/df077776b293163e0a42?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
           "score": null,
           "source": "zennqiita",
           "severity": "critical",
           "date": "2026-03-21T23:23:18+09:00"
-        },
-        {
-          "title": "高校の文化祭で簡易POSを作って学んだ、「ITを入れれば効率化する」とは限らないという話",
-          "url": "https://qiita.com/Towa_ONGRKL/items/ee5c69831501251a0ec0?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "score": null,
-          "source": "zennqiita",
-          "severity": null,
-          "date": "2026-03-21T21:07:09+09:00"
-        },
-        {
-          "title": "クラウド環境の破壊型サイバー攻撃に備えるために Microsoft Entra ID のネイティブバックアップを試してみる",
-          "url": "https://qiita.com/hirotomotaguchi/items/e92b4c5c5c2c9dfa4c7b?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "score": null,
-          "source": "zennqiita",
-          "severity": null,
-          "date": "2026-03-21T12:21:54+09:00"
-        },
-        {
-          "title": "Ruffleを入れただけでは動かない ― Pleiades Company様製のErinyesを現代ブラウザで蘇らせて分かったこと【Githubにて公開中】",
-          "url": "https://qiita.com/shinohara-tsukasa/items/67a2bb1d333fcfae53e4?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "score": null,
-          "source": "zennqiita",
-          "severity": null,
-          "date": "2026-03-21T12:11:27+09:00"
         }
       ]
     }

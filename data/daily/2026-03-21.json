@@ -1,7 +1,7 @@
 {
   "date": "2026-03-21",
-  "generated_at": "2026-03-21T19:01:49.037369+00:00",
-  "total_articles": 48,
+  "generated_at": "2026-03-21T19:44:36.348616+00:00",
+  "total_articles": 47,
   "urgent_count": 2,
   "urgent_items": [
     {
@@ -22,28 +22,20 @@
   "categories": [
     {
       "category": "テクノロジー",
-      "count": 41,
+      "count": 40,
       "top_items": [
         {
           "title": "OpenCode – Open source AI coding agent",
           "url": "https://opencode.ai/",
-          "score": 1137,
+          "score": 1146,
           "source": "hn",
           "severity": "critical",
           "date": "2026-03-20T21:03:52+00:00"
         },
         {
-          "title": "Our commitment to Windows quality",
-          "url": "https://blogs.windows.com/windows-insider/2026/03/20/our-commitment-to-windows-quality/",
-          "score": 528,
-          "source": "hn",
-          "severity": null,
-          "date": "2026-03-20T19:16:13+00:00"
-        },
-        {
           "title": "A Japanese glossary of chopsticks faux pas (2022)",
           "url": "https://www.nippon.com/en/japan-data/h01362/",
-          "score": 402,
+          "score": 407,
           "source": "hn",
           "severity": null,
           "date": "2026-03-20T20:54:57+00:00"
@@ -51,7 +43,7 @@
         {
           "title": "Blocking Internet Archive Won't Stop AI, but Will Erase Web's Historical Record",
           "url": "https://www.eff.org/deeplinks/2026/03/blocking-internet-archive-wont-stop-ai-it-will-erase-webs-historical-record",
-          "score": 380,
+          "score": 404,
           "source": "hn",
           "severity": null,
           "date": "2026-03-21T07:30:16+00:00"
@@ -59,10 +51,18 @@
         {
           "title": "Ghostling",
           "url": "https://github.com/ghostty-org/ghostling",
-          "score": 290,
+          "score": 299,
           "source": "hn",
           "severity": null,
           "date": "2026-03-20T22:11:37+00:00"
+        },
+        {
+          "title": "Some Things Just Take Time",
+          "url": "https://lucumr.pocoo.org/2026/3/20/some-things-just-take-time/",
+          "score": 280,
+          "source": "hn",
+          "severity": null,
+          "date": "2026-03-21T14:46:56+00:00"
         }
       ]
     },

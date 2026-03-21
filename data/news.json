@@ -1,14 +1,37 @@
 {
-  "updated_at": "2026-03-21T22:51:04.902678+00:00",
+  "updated_at": "2026-03-21T23:20:33.166995+00:00",
   "count": 500,
   "items": [
+    {
+      "id": "hn-47471805",
+      "source": "hn",
+      "title": "Attempts to post the latest Trivy security incident have been marked [dead]",
+      "url": "https://news.ycombinator.com/from?site=github.com%2Faquasecurity",
+      "score": 11,
+      "comments": 3,
+      "author": "JoshuaDavid",
+      "tags": [],
+      "date": "2026-03-21T21:49:56+00:00"
+    },
+    {
+      "id": "hn-47471801",
+      "source": "hn",
+      "title": "Floci – A free, open-source local AWS emulator",
+      "url": "https://github.com/hectorvent/floci",
+      "score": 8,
+      "comments": 0,
+      "author": "shaicoleman",
+      "tags": [],
+      "date": "2026-03-21T21:49:15+00:00",
+      "severity": "critical"
+    },
     {
       "id": "hn-47471601",
       "source": "hn",
       "title": "Professional video editing, right in the browser with WebGPU and WASM",
       "url": "https://tooscut.app/",
-      "score": 32,
-      "comments": 7,
+      "score": 47,
+      "comments": 14,
       "author": "mohebifar",
       "tags": [],
       "date": "2026-03-21T21:27:50+00:00"
@@ -29,8 +52,8 @@
       "source": "hn",
       "title": "Do Not Turn Child Protection into Internet Access Control",
       "url": "https://news.dyne.org/child-protection-is-not-access-control/",
-      "score": 219,
-      "comments": 72,
+      "score": 276,
+      "comments": 104,
       "author": "smartmic",
       "tags": [],
       "date": "2026-03-21T20:32:20+00:00"
@@ -40,8 +63,8 @@
       "source": "hn",
       "title": "Tinybox- offline AI device 120B parameters",
       "url": "https://tinygrad.org/#tinybox",
-      "score": 188,
-      "comments": 110,
+      "score": 211,
+      "comments": 120,
       "author": "albelfio",
       "tags": [],
       "date": "2026-03-21T20:08:37+00:00"
@@ -51,8 +74,8 @@
       "source": "hn",
       "title": "No evidence cannabis helps anxiety, depression, or PTSD",
       "url": "https://www.sciencedaily.com/releases/2026/03/260319044656.htm",
-      "score": 101,
-      "comments": 75,
+      "score": 118,
+      "comments": 94,
       "author": "nothrowaways",
       "tags": [],
       "date": "2026-03-21T20:05:58+00:00"
@@ -62,7 +85,7 @@
       "source": "hn",
       "title": "Common Lisp Development Tooling",
       "url": "https://www.creativetension.co/posts/common-lisp-development-tooling",
-      "score": 19,
+      "score": 24,
       "comments": 2,
       "author": "0bytematt",
       "tags": [],
@@ -73,8 +96,8 @@
       "source": "hn",
       "title": "Hawaii's worst flooding in 20 years threatens dam, prompts evacuations",
       "url": "https://www.nbcnews.com/weather/floods/hawaii-worst-flooding-in-20-years-rcna264573",
-      "score": 38,
-      "comments": 11,
+      "score": 48,
+      "comments": 15,
       "author": "geox",
       "tags": [],
       "date": "2026-03-21T19:55:23+00:00",
@@ -85,8 +108,8 @@
       "source": "hn",
       "title": "Show HN: Atomic – self-hosted, semantically-connected personal knowledge base",
       "url": "https://github.com/kenforthewin/atomic",
-      "score": 20,
-      "comments": 0,
+      "score": 29,
+      "comments": 2,
       "author": "kenforthewin",
       "tags": [],
       "date": "2026-03-21T19:31:39+00:00"
@@ -96,8 +119,8 @@
       "source": "hn",
       "title": "No Semicolons Needed",
       "url": "https://terts.dev/blog/no-semicolons-needed/",
-      "score": 21,
-      "comments": 21,
+      "score": 28,
+      "comments": 23,
       "author": "karakoram",
       "tags": [],
       "date": "2026-03-21T19:07:20+00:00"
@@ -107,8 +130,8 @@
       "source": "hn",
       "title": "Show HN: Termcraft – terminal-first 2D sandbox survival in Rust",
       "url": "https://github.com/pagel-s/termcraft",
-      "score": 59,
-      "comments": 6,
+      "score": 67,
+      "comments": 8,
       "author": "sebosch",
       "tags": [],
       "date": "2026-03-21T18:42:38+00:00"
@@ -140,11 +163,22 @@
       "source": "hn",
       "title": "Hide macOS Tahoe's Menu Icons",
       "url": "https://512pixels.net/2026/03/hide-macos-tahoes-menu-icons-with-this-one-simple-trick/",
-      "score": 56,
-      "comments": 16,
+      "score": 67,
+      "comments": 18,
       "author": "soheilpro",
       "tags": [],
       "date": "2026-03-21T17:46:00+00:00"
+    },
+    {
+      "id": "hn-47468849",
+      "source": "hn",
+      "title": "Seam carving with forward energy",
+      "url": "https://pictolab.io/seam-carving",
+      "score": 4,
+      "comments": 2,
+      "author": "ChadNauseam",
+      "tags": [],
+      "date": "2026-03-21T17:03:32+00:00"
     },
     {
       "id": "qiita-315fddd438",
@@ -199,8 +233,8 @@
       "source": "hn",
       "title": "Thinking Fast, Slow, and Artificial: How AI Is Reshaping Human Reasoning",
       "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6097646",
-      "score": 76,
-      "comments": 44,
+      "score": 78,
+      "comments": 48,
       "author": "Anon84",
       "tags": [],
       "date": "2026-03-21T15:30:29+00:00"
@@ -254,6 +288,17 @@
       "date": "2026-03-21T15:02:30+00:00"
     },
     {
+      "id": "hn-47467623",
+      "source": "hn",
+      "title": "How Ford burned $12B in Brazil (2021)",
+      "url": "https://www.reuters.com/business/autos-transportation/how-ford-burned-12-billion-brazil-2021-05-20/",
+      "score": 5,
+      "comments": 0,
+      "author": "kaycebasques",
+      "tags": [],
+      "date": "2026-03-21T14:55:42+00:00"
+    },
+    {
       "id": "hn-47467609",
       "source": "hn",
       "title": "Iran launched unsuccessful attack on UK's Diego Garcia",
@@ -269,7 +314,7 @@
       "source": "hn",
       "title": "Grafeo – A fast, lean, embeddable graph database built in Rust",
       "url": "https://grafeo.dev/",
-      "score": 161,
+      "score": 167,
       "comments": 55,
       "author": "0x1997",
       "tags": [],
@@ -291,8 +336,8 @@
       "source": "hn",
       "title": "Some things just take time",
       "url": "https://lucumr.pocoo.org/2026/3/20/some-things-just-take-time/",
-      "score": 432,
-      "comments": 143,
+      "score": 444,
+      "comments": 148,
       "author": "vaylian",
       "tags": [],
       "date": "2026-03-21T14:46:56+00:00"
@@ -496,8 +541,8 @@
       "source": "hn",
       "title": "Ubuntu 26.04 Ends 46 Years of Silent sudo Passwords",
       "url": "https://pbxscience.com/ubuntu-26-04-ends-46-years-of-silent-sudo-passwords/",
-      "score": 288,
-      "comments": 295,
+      "score": 297,
+      "comments": 303,
       "author": "akersten",
       "tags": [],
       "date": "2026-03-21T05:06:11+00:00"
@@ -1030,6 +1075,17 @@
       "author": "surprisetalk",
       "tags": [],
       "date": "2026-03-20T12:59:03+00:00"
+    },
+    {
+      "id": "hn-47453738",
+      "source": "hn",
+      "title": "You can run a DNS server (2025)",
+      "url": "https://simonsafar.com/2025/running_dns/",
+      "score": 5,
+      "comments": 0,
+      "author": "surprisetalk",
+      "tags": [],
+      "date": "2026-03-20T12:42:40+00:00"
     },
     {
       "id": "qiita-b6294d281c",
@@ -2157,8 +2213,8 @@
       "source": "hn",
       "title": "Electronics for Kids, 2nd Edition",
       "url": "https://nostarch.com/electronics-for-kids-2e",
-      "score": 53,
-      "comments": 6,
+      "score": 62,
+      "comments": 11,
       "author": "0x54MUR41",
       "tags": [],
       "date": "2026-03-19T04:35:51+00:00"
@@ -2461,7 +2517,7 @@
       "source": "hn",
       "title": "ZJIT removes redundant object loads and stores",
       "url": "https://railsatscale.com/2026-03-18-how-zjit-removes-redundant-object-loads-and-stores/",
-      "score": 65,
+      "score": 67,
       "comments": 10,
       "author": "tekknolagi",
       "tags": [],
@@ -2543,6 +2599,17 @@
       "author": "tartoran",
       "tags": [],
       "date": "2026-03-18T17:52:57+00:00"
+    },
+    {
+      "id": "hn-47428953",
+      "source": "hn",
+      "title": "Bayesian statistics for confused data scientists",
+      "url": "https://nchagnet.pages.dev/blog/bayesian-statistics-for-confused-data-scientists/",
+      "score": 9,
+      "comments": 0,
+      "author": "speckx",
+      "tags": [],
+      "date": "2026-03-18T17:52:18+00:00"
     },
     {
       "id": "hn-47428868",
@@ -3221,7 +3288,7 @@
       "source": "hn",
       "title": "Meta's Omnilingual MT for 1,600 Languages",
       "url": "https://ai.meta.com/research/publications/omnilingual-mt-machine-translation-for-1600-languages/?_fb_noscript=1",
-      "score": 109,
+      "score": 111,
       "comments": 31,
       "author": "j0e1",
       "tags": [],
@@ -3666,8 +3733,8 @@
       "source": "hn",
       "title": "The paddle wheel aircraft carriers of Lake Michigan",
       "url": "https://signoregalilei.com/2026/03/08/the-paddle-wheel-aircraft-carriers-of-lake-michigan/",
-      "score": 19,
-      "comments": 2,
+      "score": 25,
+      "comments": 3,
       "author": "surprisetalk",
       "tags": [],
       "date": "2026-03-17T16:48:51+00:00"
@@ -5115,80 +5182,6 @@
       "date": "2026-03-16T04:09:50+00:00"
     },
     {
-      "id": "qiita-044e6fa5ba",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "SAML認証はなぜバイパスされるのか？XML署名検証と攻撃手法を整理",
-      "url": "https://qiita.com/amu-kuroneko/items/ce03bcaacdd3f8d71461?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "amu-kuroneko",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-03-16T12:53:59+09:00"
-    },
-    {
-      "id": "qiita-bfe6f27e5c",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "競技プログラミング　atcoderで黄色になった話",
-      "url": "https://qiita.com/edon8618/items/16d23d247c9cad158c2c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "edon8618",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-03-16T11:17:54+09:00"
-    },
-    {
-      "id": "hn-47394264",
-      "source": "hn",
-      "title": "Federal Right to Privacy Act – Draft legislation",
-      "url": "https://righttoprivacyact.github.io",
-      "score": 70,
-      "comments": 41,
-      "author": "pilingual",
-      "tags": [],
-      "date": "2026-03-16T01:58:56+00:00"
-    },
-    {
-      "id": "qiita-413315b1a4",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "IBM Bobを使って、PostgreSQLのToDoアプリをDb2へ変換してみよう",
-      "url": "https://qiita.com/nishikyon/items/af47a0b003df619ef006?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "nishikyon",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-03-16T10:49:15+09:00"
-    },
-    {
-      "id": "qiita-aeeed0c7c1",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "Grafanaの管理者って6種類あんねん【Cognito連携】",
-      "url": "https://qiita.com/melknzw/items/63d33ed4b6fe9fe9a922?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "melknzw",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-03-16T10:36:29+09:00"
-    },
-    {
-      "id": "hn-47394022",
-      "source": "hn",
-      "title": "How I write software with LLMs",
-      "url": "https://www.stavros.io/posts/how-i-write-software-with-llms/",
-      "score": 413,
-      "comments": 391,
-      "author": "indigodaddy",
-      "tags": [],
-      "date": "2026-03-16T01:24:09+00:00"
-    },
-    {
       "id": "ghrel-projectdiscovery_nuclei-293442537",
       "source": "project",
       "proj_category": "Tools",
@@ -5399,6 +5392,19 @@
       "date": "2023-05-23T17:06:23Z"
     },
     {
+      "id": "zenn-d2304647ed",
+      "source": "zennqiita",
+      "sub_source": "Zenn",
+      "title": "レポ：CA Go Collegeに参加しました！",
+      "url": "https://zenn.dev/riochin/articles/6b4099bd6cce6d",
+      "score": null,
+      "author": "Riochin",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Sat, 21 Mar 2026 03:48:03 GMT"
+    },
+    {
       "id": "zenn-299d2ea3c3",
       "source": "zennqiita",
       "sub_source": "Zenn",
@@ -5412,17 +5418,30 @@
       "date": "Sat, 21 Mar 2026 02:29:00 GMT"
     },
     {
-      "id": "zenn-4557a6aafd",
+      "id": "zenn-5087eb60f1",
       "source": "zennqiita",
       "sub_source": "Zenn",
-      "title": "古いPCをChromeOS Flexで蘇らせる（ChromeOS FlexのちLinux開発環境の立ち上げ、時々Gemini CLI）",
-      "url": "https://zenn.dev/gidajun/articles/bf4d9b493d5e9a",
+      "title": "Ghostty 1.3が来たぞ",
+      "url": "https://zenn.dev/kawarimidoll/articles/5382959edf38fc",
       "score": null,
-      "author": "ぎだじゅん",
+      "author": "kawarimidoll",
       "tags": [
         "Zenn"
       ],
-      "date": "Fri, 20 Mar 2026 17:41:44 GMT"
+      "date": "Sat, 21 Mar 2026 01:22:23 GMT"
+    },
+    {
+      "id": "zenn-6e544df38b",
+      "source": "zennqiita",
+      "sub_source": "Zenn",
+      "title": "久しぶりにホストを Linux にしたメモ",
+      "url": "https://zenn.dev/yasumichi/articles/980cc4ce82eac2",
+      "score": null,
+      "author": "Yasumichi Akahoshi",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Fri, 20 Mar 2026 14:07:08 GMT"
     },
     {
       "id": "zenn-bba9bcb2fc",
@@ -5436,6 +5455,19 @@
         "Zenn"
       ],
       "date": "Fri, 20 Mar 2026 13:28:10 GMT"
+    },
+    {
+      "id": "zenn-5d15408930",
+      "source": "zennqiita",
+      "sub_source": "Zenn",
+      "title": "Rust の DI を試す / entrait",
+      "url": "https://zenn.dev/hideyuki_hori/articles/c794dcb1a0207e",
+      "score": null,
+      "author": "-",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Fri, 20 Mar 2026 08:31:56 GMT"
     },
     {
       "id": "zenn-7550435cc4",
@@ -5490,19 +5522,6 @@
       "date": "Thu, 19 Mar 2026 11:39:54 GMT"
     },
     {
-      "id": "zenn-d2143e9902",
-      "source": "zennqiita",
-      "sub_source": "Zenn",
-      "title": "React Native開発が変わる。RozeniteでCoding Agentに「目と手」を与えた話",
-      "url": "https://zenn.dev/tellernovel_inc/articles/bb27cd0f28f8cb",
-      "score": null,
-      "author": "kazutoyo@TellerNovel",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Thu, 19 Mar 2026 11:20:43 GMT"
-    },
-    {
       "id": "zenn-1260eaabc3",
       "source": "zennqiita",
       "sub_source": "Zenn",
@@ -5514,19 +5533,6 @@
         "Zenn"
       ],
       "date": "Thu, 19 Mar 2026 10:00:07 GMT"
-    },
-    {
-      "id": "zenn-261fca42c8",
-      "source": "zennqiita",
-      "sub_source": "Zenn",
-      "title": "ToastUIって邪魔じゃね？",
-      "url": "https://zenn.dev/miyabitti/articles/c7a6591d3317b9",
-      "score": null,
-      "author": "miyabitti@ニート",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Thu, 19 Mar 2026 09:51:55 GMT"
     },
     {
       "id": "zenn-6bdbbf977a",
@@ -5644,19 +5650,6 @@
         "Zenn"
       ],
       "date": "Wed, 18 Mar 2026 15:23:35 GMT"
-    },
-    {
-      "id": "zenn-192f224ae3",
-      "source": "zennqiita",
-      "sub_source": "Zenn",
-      "title": "仕様駆動開発(SDD)から、意図駆動開発(IDD)へ",
-      "url": "https://zenn.dev/yamaken0107/articles/2b3d2a0b059aa0",
-      "score": null,
-      "author": "TARO",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Wed, 18 Mar 2026 14:44:16 GMT"
     },
     {
       "id": "edb-bed48c0760",

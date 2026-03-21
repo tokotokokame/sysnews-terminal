@@ -1,15 +1,15 @@
 {
   "month": "2026-03",
-  "generated_at": "2026-03-21T22:49:14.185533+00:00",
+  "generated_at": "2026-03-21T23:20:33.289800+00:00",
   "total_articles": 451,
   "source_counts": {
-    "hn": 342,
-    "zennqiita": 108,
+    "hn": 346,
+    "zennqiita": 104,
     "project": 1
   },
   "severity_counts": {
+    "critical": 15,
     "medium": 4,
-    "critical": 14,
     "high": 2
   },
   "top_articles": [
@@ -155,6 +155,13 @@
     }
   ],
   "security_highlights": [
+    {
+      "title": "Floci – A free, open-source local AWS emulator",
+      "url": "https://github.com/hectorvent/floci",
+      "severity": "critical",
+      "source": "hn",
+      "date": "2026-03-21T21:49:15+00:00"
+    },
     {
       "title": "【緊急】GitHub/npmを汚染する「見えないコード」の脅威：GlassWorm対策",
       "url": "https://qiita.com/sarubot/items/df077776b293163e0a42?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",

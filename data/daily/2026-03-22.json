@@ -1,9 +1,16 @@
 {
   "date": "2026-03-22",
-  "generated_at": "2026-03-22T07:36:15.509548+00:00",
-  "total_articles": 50,
-  "urgent_count": 2,
+  "generated_at": "2026-03-22T08:29:28.966236+00:00",
+  "total_articles": 57,
+  "urgent_count": 3,
   "urgent_items": [
+    {
+      "title": "HopTab–free,open source macOS app switcher and tiler that replaces Cmd+Tab",
+      "url": "https://www.royalbhati.com/hoptab",
+      "severity": "critical",
+      "source": "hn",
+      "date": "2026-03-22T06:23:59+00:00"
+    },
     {
       "title": "Floci – A free, open-source local AWS emulator",
       "url": "https://github.com/hectorvent/floci",
@@ -22,28 +29,28 @@
   "categories": [
     {
       "category": "テクノロジー",
-      "count": 43,
+      "count": 44,
       "top_items": [
-        {
-          "title": "Do Not Turn Child Protection into Internet Access Control",
-          "url": "https://news.dyne.org/child-protection-is-not-access-control/",
-          "score": 629,
-          "source": "hn",
-          "severity": null,
-          "date": "2026-03-21T20:32:20+00:00"
-        },
         {
           "title": "Some things just take time",
           "url": "https://lucumr.pocoo.org/2026/3/20/some-things-just-take-time/",
-          "score": 626,
+          "score": 652,
           "source": "hn",
           "severity": null,
           "date": "2026-03-21T14:46:56+00:00"
         },
         {
+          "title": "Do Not Turn Child Protection into Internet Access Control",
+          "url": "https://news.dyne.org/child-protection-is-not-access-control/",
+          "score": 645,
+          "source": "hn",
+          "severity": null,
+          "date": "2026-03-21T20:32:20+00:00"
+        },
+        {
           "title": "Tinybox – A powerful computer for deep learning",
           "url": "https://tinygrad.org/#tinybox",
-          "score": 449,
+          "score": 466,
           "source": "hn",
           "severity": null,
           "date": "2026-03-21T20:08:37+00:00"
@@ -51,7 +58,7 @@
         {
           "title": "Professional video editing, right in the browser with WebGPU and WASM",
           "url": "https://tooscut.app/",
-          "score": 224,
+          "score": 242,
           "source": "hn",
           "severity": null,
           "date": "2026-03-21T21:27:50+00:00"
@@ -68,8 +75,40 @@
     },
     {
       "category": "日本語技術記事",
-      "count": 7,
+      "count": 13,
       "top_items": [
+        {
+          "title": "競プロを始めて4ヶ月で入緑しました",
+          "url": "https://qiita.com/nyanp4su/items/78fdf0a3019cd7045c1d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "score": null,
+          "source": "zennqiita",
+          "severity": null,
+          "date": "2026-03-22T13:39:21+09:00"
+        },
+        {
+          "title": "【SPIKE-RT】車を作る際のプログラム",
+          "url": "https://qiita.com/keikyufun/items/a77f33ed38678aac15b9?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "score": null,
+          "source": "zennqiita",
+          "severity": null,
+          "date": "2026-03-22T12:37:26+09:00"
+        },
+        {
+          "title": "【AWS】AgentCore Runtimeで「次の候補」が毎回1件目に戻ってしまう原因",
+          "url": "https://qiita.com/yakumo_09/items/255b08c7edece53df696?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "score": null,
+          "source": "zennqiita",
+          "severity": null,
+          "date": "2026-03-22T09:42:55+09:00"
+        },
+        {
+          "title": "なぜ「社外秘」がAIの回答に出てくるのか  ――生成AIの情報漏洩メカニズムをエンジニア目線で分解する",
+          "url": "https://qiita.com/mhamadajp/items/98efbdadd8612c142574?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "score": null,
+          "source": "zennqiita",
+          "severity": null,
+          "date": "2026-03-22T08:09:45+09:00"
+        },
         {
           "title": "AWS初心者がボランティアスタッフとしてJAWS DAYSに帰ってきた話",
           "url": "https://qiita.com/tks_1128/items/e4bfd4b54fbfdb73fc77?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
@@ -77,38 +116,6 @@
           "source": "zennqiita",
           "severity": null,
           "date": "2026-03-22T00:59:49+09:00"
-        },
-        {
-          "title": "TRON 組込みOSシェア60%で世界一⁉️は疑わしい ～ 日本発のOS標準規格の基礎と歴史",
-          "url": "https://qiita.com/ko1nksm/items/2660942e09bc403187f4?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "score": null,
-          "source": "zennqiita",
-          "severity": null,
-          "date": "2026-03-22T00:47:56+09:00"
-        },
-        {
-          "title": "ハーネスエンジニアリングとは何か ── コンテキストエンジニアリングの次のパラダイム",
-          "url": "https://qiita.com/miruky/items/155f3b5a0dcde72fcd10?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "score": null,
-          "source": "zennqiita",
-          "severity": null,
-          "date": "2026-03-22T00:25:02+09:00"
-        },
-        {
-          "title": "OpenCode vs Claude Code、ファイ！！ OSSコーディングエージェントの実力を検証してみた",
-          "url": "https://qiita.com/miruky/items/293ad0d3bc4d0cc41b08?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "score": null,
-          "source": "zennqiita",
-          "severity": null,
-          "date": "2026-03-22T00:04:45+09:00"
-        },
-        {
-          "title": "【緊急】GitHub/npmを汚染する「見えないコード」の脅威：GlassWorm対策",
-          "url": "https://qiita.com/sarubot/items/df077776b293163e0a42?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "score": null,
-          "source": "zennqiita",
-          "severity": "critical",
-          "date": "2026-03-21T23:23:18+09:00"
         }
       ]
     }

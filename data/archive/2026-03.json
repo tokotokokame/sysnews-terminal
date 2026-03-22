@@ -1,6 +1,6 @@
 {
   "month": "2026-03",
-  "generated_at": "2026-03-22T14:24:02.370438+00:00",
+  "generated_at": "2026-03-22T14:52:54.263583+00:00",
   "total_articles": 451,
   "source_counts": {
     "hn": 345,
@@ -8,7 +8,7 @@
     "project": 1
   },
   "severity_counts": {
-    "critical": 16,
+    "critical": 15,
     "medium": 4,
     "high": 2
   },
@@ -58,7 +58,7 @@
     {
       "title": "Some things just take time",
       "url": "https://lucumr.pocoo.org/2026/3/20/some-things-just-take-time/",
-      "score": 765,
+      "score": 770,
       "source": "hn",
       "date": "2026-03-21T14:46:56+00:00"
     },
@@ -273,13 +273,6 @@
       "severity": "critical",
       "source": "hn",
       "date": "2026-03-16T20:59:40+00:00"
-    },
-    {
-      "title": "Palestinian boy, 12, describes how Israeli forces killed his family in car",
-      "url": "https://www.bbc.com/news/articles/c70n2x7p22do",
-      "severity": "critical",
-      "source": "hn",
-      "date": "2026-03-16T18:38:14+00:00"
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
   "month": "2026-03",
-  "generated_at": "2026-03-22T15:47:42.612849+00:00",
+  "generated_at": "2026-03-22T16:25:11.811682+00:00",
   "total_articles": 451,
   "source_counts": {
     "hn": 345,
@@ -8,7 +8,7 @@
     "project": 1
   },
   "severity_counts": {
-    "critical": 15,
+    "critical": 14,
     "medium": 4,
     "high": 2
   },
@@ -58,7 +58,7 @@
     {
       "title": "Some things just take time",
       "url": "https://lucumr.pocoo.org/2026/3/20/some-things-just-take-time/",
-      "score": 779,
+      "score": 786,
       "source": "hn",
       "date": "2026-03-21T14:46:56+00:00"
     },
@@ -75,13 +75,6 @@
       "score": 755,
       "source": "hn",
       "date": "2026-03-17T15:16:29+00:00"
-    },
-    {
-      "title": "Leanstral: Open-source agent for trustworthy coding and formal proof engineering",
-      "url": "https://mistral.ai/news/leanstral",
-      "score": 729,
-      "source": "hn",
-      "date": "2026-03-16T20:59:40+00:00"
     },
     {
       "title": "I'm OK being left behind, thanks",
@@ -152,6 +145,13 @@
       "score": 619,
       "source": "hn",
       "date": "2026-03-20T14:09:58+00:00"
+    },
+    {
+      "title": "Delve – Fake Compliance as a Service",
+      "url": "https://deepdelver.substack.com/p/delve-fake-compliance-as-a-service",
+      "score": 617,
+      "source": "hn",
+      "date": "2026-03-19T19:08:02+00:00"
     }
   ],
   "security_highlights": [
@@ -266,13 +266,6 @@
       "severity": "critical",
       "source": "hn",
       "date": "2026-03-17T00:48:15+00:00"
-    },
-    {
-      "title": "Leanstral: Open-source agent for trustworthy coding and formal proof engineering",
-      "url": "https://mistral.ai/news/leanstral",
-      "severity": "critical",
-      "source": "hn",
-      "date": "2026-03-16T20:59:40+00:00"
     }
   ]
 }

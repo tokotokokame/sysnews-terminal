@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-03-22T23:23:09.489437+00:00",
+  "updated_at": "2026-03-22T23:28:31.606898+00:00",
   "count": 500,
   "items": [
     {
@@ -7,7 +7,7 @@
       "source": "hn",
       "title": "Supply Chain Attack on Trivy",
       "url": "https://www.wiz.io/blog/trivy-compromised-teampcp-supply-chain-attack",
-      "score": 3,
+      "score": 5,
       "comments": 0,
       "author": "tiri",
       "tags": [],
@@ -27,12 +27,24 @@
       "date": "2026-03-23T07:54:49+09:00"
     },
     {
+      "id": "hn-47482949",
+      "source": "hn",
+      "title": "Can the world get its supply of oil by bypassing the Strait of Hormuz?",
+      "url": "https://www.firstpost.com/explainers/iran-war-strait-of-hormuz-blocked-possible-alternatives-oil-gas-supply-13989112.html",
+      "score": 10,
+      "comments": 1,
+      "author": "bitwank",
+      "tags": [],
+      "date": "2026-03-22T22:33:13+00:00",
+      "severity": "high"
+    },
+    {
       "id": "hn-47482825",
       "source": "hn",
       "title": "Rust Project Perspectives on AI",
       "url": "https://nikomatsakis.github.io/rust-project-perspectives-on-ai/feb27-summary.html",
-      "score": 54,
-      "comments": 19,
+      "score": 63,
+      "comments": 24,
       "author": "weinzierl",
       "tags": [],
       "date": "2026-03-22T22:19:03+00:00"
@@ -42,8 +54,8 @@
       "source": "hn",
       "title": "They're Vibe-Coding Spam Now",
       "url": "https://tedium.co/2026/02/25/vibe-coded-email-spam/",
-      "score": 12,
-      "comments": 3,
+      "score": 14,
+      "comments": 6,
       "author": "raybb",
       "tags": [],
       "date": "2026-03-22T22:11:54+00:00"
@@ -53,8 +65,8 @@
       "source": "hn",
       "title": "Iran war energy crisis is a renewable energy wake-up call",
       "url": "https://apnews.com/article/middle-east-wars-renewable-energy-asia-4b5fe0693ce5816472c905db85f7da6e",
-      "score": 47,
-      "comments": 15,
+      "score": 52,
+      "comments": 17,
       "author": "mooreds",
       "tags": [],
       "date": "2026-03-22T22:01:03+00:00"
@@ -64,8 +76,8 @@
       "source": "hn",
       "title": "GrapheneOS will remain usable by anyone without requiring personal information",
       "url": "https://grapheneos.social/@GrapheneOS/116261301913660830",
-      "score": 114,
-      "comments": 22,
+      "score": 122,
+      "comments": 23,
       "author": "nothrowaways",
       "tags": [],
       "date": "2026-03-22T21:14:11+00:00"
@@ -97,7 +109,7 @@
       "source": "hn",
       "title": "Teaching Claude to QA a mobile app",
       "url": "https://christophermeiklejohn.com/ai/zabriskie/development/android/ios/2026/03/22/teaching-claude-to-qa-a-mobile-app.html",
-      "score": 52,
+      "score": 54,
       "comments": 4,
       "author": "azhenley",
       "tags": [],
@@ -108,8 +120,8 @@
       "source": "hn",
       "title": "The gold standard of optimization: A look under the hood of RollerCoaster Tycoon",
       "url": "https://larstofus.com/2026/03/22/the-gold-standard-of-optimization-a-look-under-the-hood-of-rollercoaster-tycoon/",
-      "score": 116,
-      "comments": 37,
+      "score": 119,
+      "comments": 38,
       "author": "mariuz",
       "tags": [],
       "date": "2026-03-22T19:02:43+00:00"
@@ -130,8 +142,8 @@
       "source": "hn",
       "title": "PC Gamer recommends RSS readers in a 37mb article that just keeps downloading",
       "url": "https://stuartbreckenridge.net/2026-03-19-pc-gamer-recommends-rss-readers-in-a-37mb-article/",
-      "score": 231,
-      "comments": 104,
+      "score": 235,
+      "comments": 105,
       "author": "JumpCrisscross",
       "tags": [],
       "date": "2026-03-22T18:23:40+00:00"
@@ -152,7 +164,7 @@
       "source": "hn",
       "title": "Palantir extends reach into British state as gets access to sensitive FCA data",
       "url": "https://www.theguardian.com/technology/2026/mar/22/palantir-extends-reach-into-british-state-as-it-gets-access-to-sensitive-fca-data",
-      "score": 155,
+      "score": 158,
       "comments": 43,
       "author": "chrisjj",
       "tags": [],
@@ -185,8 +197,8 @@
       "source": "hn",
       "title": "Five Years of Running a Systems Reading Group at Microsoft",
       "url": "https://armaansood.com/posts/systems-reading-group/",
-      "score": 98,
-      "comments": 24,
+      "score": 99,
+      "comments": 25,
       "author": "Foe",
       "tags": [],
       "date": "2026-03-22T17:06:38+00:00"
@@ -218,8 +230,8 @@
       "source": "hn",
       "title": "MAUI Is Coming to Linux",
       "url": "https://avaloniaui.net/blog/maui-avalonia-preview-1",
-      "score": 133,
-      "comments": 64,
+      "score": 134,
+      "comments": 66,
       "author": "DeathArrow",
       "tags": [],
       "date": "2026-03-22T15:43:21+00:00"
@@ -240,8 +252,8 @@
       "source": "hn",
       "title": "The future of version control",
       "url": "https://bramcohen.com/p/manyana",
-      "score": 352,
-      "comments": 208,
+      "score": 355,
+      "comments": 210,
       "author": "c17r",
       "tags": [],
       "date": "2026-03-22T15:16:28+00:00"
@@ -345,7 +357,7 @@
       "source": "hn",
       "title": "Building an FPGA 3dfx Voodoo with Modern RTL Tools",
       "url": "https://noquiche.fyi/voodoo",
-      "score": 143,
+      "score": 144,
       "comments": 32,
       "author": "fayalalebrun",
       "tags": [],
@@ -411,8 +423,8 @@
       "source": "hn",
       "title": "Project Nomad – Knowledge That Never Goes Offline",
       "url": "https://www.projectnomad.us",
-      "score": 337,
-      "comments": 87,
+      "score": 338,
+      "comments": 89,
       "author": "jensgk",
       "tags": [],
       "date": "2026-03-22T12:28:38+00:00"
@@ -488,7 +500,7 @@
       "source": "hn",
       "title": "Flash-MoE: Running a 397B Parameter Model on a Laptop",
       "url": "https://github.com/danveloper/flash-moe",
-      "score": 285,
+      "score": 286,
       "comments": 99,
       "author": "mft_",
       "tags": [],
@@ -499,8 +511,8 @@
       "source": "hn",
       "title": "Reports of code's death are greatly exaggerated",
       "url": "https://stevekrouse.com/precision",
-      "score": 195,
-      "comments": 184,
+      "score": 199,
+      "comments": 185,
       "author": "stevekrouse",
       "tags": [],
       "date": "2026-03-22T11:09:34+00:00"
@@ -534,7 +546,7 @@
       "source": "hn",
       "title": "Windows native app development is a mess",
       "url": "https://domenic.me/windows-native-dev/",
-      "score": 294,
+      "score": 297,
       "comments": 322,
       "author": "domenicd",
       "tags": [],
@@ -664,7 +676,7 @@
       "source": "hn",
       "title": "Cloudflare flags archive.today as \"C&C/Botnet\"; no longer resolves via 1.1.1.2",
       "url": "https://radar.cloudflare.com/domains/domain/archive.today",
-      "score": 352,
+      "score": 355,
       "comments": 257,
       "author": "winkelmann",
       "tags": [],
@@ -814,7 +826,7 @@
       "source": "hn",
       "title": "How to Attract AI Bots to Your Open Source Project",
       "url": "https://nesbitt.io/2026/03/21/how-to-attract-ai-bots-to-your-open-source-project.html",
-      "score": 46,
+      "score": 48,
       "comments": 10,
       "author": "zdw",
       "tags": [],
@@ -3132,8 +3144,8 @@
       "source": "hn",
       "title": "Theodosian Land Walls of Constantinople",
       "url": "https://turkisharchaeonews.net/object/theodosian-land-walls-constantinople",
-      "score": 13,
-      "comments": 1,
+      "score": 17,
+      "comments": 2,
       "author": "bcraven",
       "tags": [],
       "date": "2026-03-19T06:19:47+00:00"
@@ -3919,7 +3931,7 @@
       "source": "hn",
       "title": "Show HN: Codala, a social network built on scanning barcodes",
       "url": "https://play.google.com/store/apps/details?id=com.hsynkrkye.codala&hl=en",
-      "score": 18,
+      "score": 19,
       "comments": 8,
       "author": "hsynkrkye",
       "tags": [],
@@ -3992,7 +4004,7 @@
       "source": "hn",
       "title": "LLMs Predict My Coffee",
       "url": "https://dynomight.net/coffee/",
-      "score": 44,
+      "score": 46,
       "comments": 19,
       "author": "surprisetalk",
       "tags": [],
@@ -5156,17 +5168,6 @@
       "date": "2026-03-17T12:06:44+00:00"
     },
     {
-      "id": "hn-47411480",
-      "source": "hn",
-      "title": "Ryugu asteroid samples contain all DNA and RNA building blocks",
-      "url": "https://phys.org/news/2026-03-ryugu-asteroid-samples-dna-rna.html",
-      "score": 220,
-      "comments": 122,
-      "author": "bookofjoe",
-      "tags": [],
-      "date": "2026-03-17T12:01:05+00:00"
-    },
-    {
       "id": "ghrel-projectdiscovery_nuclei-293442537",
       "source": "project",
       "proj_category": "Tools",
@@ -5377,6 +5378,58 @@
       "date": "2023-05-23T17:06:23Z"
     },
     {
+      "id": "zenn-eb61696de7",
+      "source": "zennqiita",
+      "sub_source": "Zenn",
+      "title": "AI 駆動開発全盛期を生き抜くために Markdown を「読む」ためだけのアプリ Arto を作った",
+      "url": "https://zenn.dev/lambdalisue/articles/introduce-arto-markdown-reader",
+      "score": null,
+      "author": "Alisue",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Sun, 22 Mar 2026 11:28:24 GMT"
+    },
+    {
+      "id": "zenn-643c7d116c",
+      "source": "zennqiita",
+      "sub_source": "Zenn",
+      "title": "Coding Agentなどについて最近書いた/作ったもののまとめ",
+      "url": "https://zenn.dev/sakasegawa/articles/cc648c792823ea",
+      "score": null,
+      "author": "逆瀬川",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Sun, 22 Mar 2026 10:50:54 GMT"
+    },
+    {
+      "id": "zenn-a2fb131b5a",
+      "source": "zennqiita",
+      "sub_source": "Zenn",
+      "title": "Unity: ECS の性能を引き出すデータ設計の勘所",
+      "url": "https://zenn.dev/ruccho/articles/unity-ecs-data-optimization",
+      "score": null,
+      "author": "ruccho",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Sun, 22 Mar 2026 10:37:07 GMT"
+    },
+    {
+      "id": "zenn-09d443934c",
+      "source": "zennqiita",
+      "sub_source": "Zenn",
+      "title": "GitHub Copilot CLIでSuperpowersスキルを導入してみた",
+      "url": "https://zenn.dev/jodycraft/articles/copilot-cli-superpowers-guide",
+      "score": null,
+      "author": "JodyCraft",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Sun, 22 Mar 2026 00:06:32 GMT"
+    },
+    {
       "id": "zenn-968c20124c",
       "source": "zennqiita",
       "sub_source": "Zenn",
@@ -5388,6 +5441,19 @@
         "Zenn"
       ],
       "date": "Sat, 21 Mar 2026 16:44:41 GMT"
+    },
+    {
+      "id": "zenn-a1705dbfa3",
+      "source": "zennqiita",
+      "sub_source": "Zenn",
+      "title": "LLMの文体について",
+      "url": "https://zenn.dev/acntechjp/articles/dba4be5c018925",
+      "score": null,
+      "author": "jun.manabe",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Sat, 21 Mar 2026 16:39:06 GMT"
     },
     {
       "id": "zenn-69ac8fabaf",
@@ -5494,45 +5560,6 @@
       "date": "Sat, 21 Mar 2026 00:00:08 GMT"
     },
     {
-      "id": "zenn-4f71b38797",
-      "source": "zennqiita",
-      "sub_source": "Zenn",
-      "title": "OpenSpecを実際に使ってみた — AIコーディング時代に設計書は必要か？",
-      "url": "https://zenn.dev/okikusan/articles/e8d74abf524d65",
-      "score": null,
-      "author": "okikusan",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Fri, 20 Mar 2026 20:38:50 GMT"
-    },
-    {
-      "id": "zenn-4557a6aafd",
-      "source": "zennqiita",
-      "sub_source": "Zenn",
-      "title": "古いPCをChromeOS Flexで蘇らせる（ChromeOS FlexのちLinux開発環境の立ち上げ、時々Gemini CLI）",
-      "url": "https://zenn.dev/gidajun/articles/bf4d9b493d5e9a",
-      "score": null,
-      "author": "ぎだじゅん",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Fri, 20 Mar 2026 17:41:44 GMT"
-    },
-    {
-      "id": "zenn-6e544df38b",
-      "source": "zennqiita",
-      "sub_source": "Zenn",
-      "title": "久しぶりにホストを Linux にしたメモ",
-      "url": "https://zenn.dev/yasumichi/articles/980cc4ce82eac2",
-      "score": null,
-      "author": "Yasumichi Akahoshi",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Fri, 20 Mar 2026 14:07:08 GMT"
-    },
-    {
       "id": "zenn-bba9bcb2fc",
       "source": "zennqiita",
       "sub_source": "Zenn",
@@ -5583,32 +5610,6 @@
         "Zenn"
       ],
       "date": "Thu, 19 Mar 2026 23:07:00 GMT"
-    },
-    {
-      "id": "zenn-58ed829ccf",
-      "source": "zennqiita",
-      "sub_source": "Zenn",
-      "title": "「ポインタ渡し」なんてものは存在しません！【C言語入門】",
-      "url": "https://zenn.dev/menndouyukkuri/articles/db317dc8168658",
-      "score": null,
-      "author": "めんくり",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Thu, 19 Mar 2026 11:39:54 GMT"
-    },
-    {
-      "id": "zenn-1260eaabc3",
-      "source": "zennqiita",
-      "sub_source": "Zenn",
-      "title": "図を描いて理解するRustの所有権",
-      "url": "https://zenn.dev/northward/articles/rust-feeling-of-ownership",
-      "score": null,
-      "author": "Northward",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Thu, 19 Mar 2026 10:00:07 GMT"
     },
     {
       "id": "zenn-76152595c2",

@@ -1,7 +1,7 @@
 {
   "date": "2026-03-22",
-  "generated_at": "2026-03-22T19:45:34.457920+00:00",
-  "total_articles": 61,
+  "generated_at": "2026-03-22T20:22:20.336184+00:00",
+  "total_articles": 66,
   "urgent_count": 2,
   "urgent_items": [
     {
@@ -22,7 +22,7 @@
   "categories": [
     {
       "category": "テクノロジー",
-      "count": 57,
+      "count": 55,
       "top_items": [
         {
           "title": "Do Not Turn Child Protection into Internet Access Control",
@@ -31,14 +31,6 @@
           "source": "hn",
           "severity": null,
           "date": "2026-03-21T20:32:20+00:00"
-        },
-        {
-          "title": "Tinybox – A powerful computer for deep learning",
-          "url": "https://tinygrad.org/#tinybox",
-          "score": 561,
-          "source": "hn",
-          "severity": null,
-          "date": "2026-03-21T20:08:37+00:00"
         },
         {
           "title": "Hormuz Minesweeper – Are you tired of winning?",
@@ -63,44 +55,60 @@
           "source": "hn",
           "severity": null,
           "date": "2026-03-21T21:27:50+00:00"
+        },
+        {
+          "title": "Cloudflare flags archive.today as \"C&C/Botnet\"; no longer resolves via 1.1.1.2",
+          "url": "https://radar.cloudflare.com/domains/domain/archive.today",
+          "score": 320,
+          "source": "hn",
+          "severity": null,
+          "date": "2026-03-22T03:43:51+00:00"
         }
       ]
     },
     {
       "category": "日本語技術記事",
-      "count": 4,
+      "count": 11,
       "top_items": [
         {
-          "title": "競プロを始めて4ヶ月で入緑しました",
-          "url": "https://qiita.com/nyanp4su/items/78fdf0a3019cd7045c1d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "title": "シンギュラリティとエンジニア ―我々はどう生きるべきかをネオサイバネティクスから考える",
+          "url": "https://qiita.com/miruky/items/2023621da88f643d66e6?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
           "score": null,
           "source": "zennqiita",
           "severity": null,
-          "date": "2026-03-22T13:39:21+09:00"
+          "date": "2026-03-23T00:03:11+09:00"
         },
         {
-          "title": "【SPIKE-RT】車を作る際のプログラム",
-          "url": "https://qiita.com/keikyufun/items/a77f33ed38678aac15b9?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "title": "PHPerKaigi初参加者の感想",
+          "url": "https://qiita.com/GreenGreeen/items/833fc6ca0e420271367f?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
           "score": null,
           "source": "zennqiita",
           "severity": null,
-          "date": "2026-03-22T12:37:26+09:00"
+          "date": "2026-03-22T23:19:13+09:00"
         },
         {
-          "title": "【AWS】AgentCore Runtimeで「次の候補」が毎回1件目に戻ってしまう原因",
-          "url": "https://qiita.com/yakumo_09/items/255b08c7edece53df696?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "title": "AIエージェントに「楽をさせる」設計 — 全部AIにやらせる、が最適解とは限らない",
+          "url": "https://qiita.com/katohiro_fi/items/5e25c34da0529dec71de?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
           "score": null,
           "source": "zennqiita",
           "severity": null,
-          "date": "2026-03-22T09:42:55+09:00"
+          "date": "2026-03-22T22:47:03+09:00"
         },
         {
-          "title": "なぜ「社外秘」がAIの回答に出てくるのか  ――生成AIの情報漏洩メカニズムをエンジニア目線で分解する",
-          "url": "https://qiita.com/mhamadajp/items/98efbdadd8612c142574?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "title": "[Mac Studio vs DGX Spark] 同じモデルで2倍速 — ローカルLLM×Claude Codeの最適化で見えた本当のボトルネック",
+          "url": "https://qiita.com/Humanophilic_development/items/b416c443d9f52d04eaae?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
           "score": null,
           "source": "zennqiita",
           "severity": null,
-          "date": "2026-03-22T08:09:45+09:00"
+          "date": "2026-03-22T19:12:58+09:00"
+        },
+        {
+          "title": "【図解】2層構造→MVC→レイヤード→ヘキサゴナル→クリーンアーキテクチャ：設計思想の進化を一気に理解する",
+          "url": "https://qiita.com/yut-nagase/items/21703af242e7ebfc37a9?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "score": null,
+          "source": "zennqiita",
+          "severity": null,
+          "date": "2026-03-22T18:42:01+09:00"
         }
       ]
     }

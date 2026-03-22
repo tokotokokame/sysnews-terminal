@@ -1,14 +1,14 @@
 {
   "month": "2026-03",
-  "generated_at": "2026-03-22T19:45:34.502236+00:00",
+  "generated_at": "2026-03-22T20:22:20.382607+00:00",
   "total_articles": 451,
   "source_counts": {
-    "hn": 353,
-    "zennqiita": 97,
+    "hn": 348,
+    "zennqiita": 102,
     "project": 1
   },
   "severity_counts": {
-    "critical": 13,
+    "critical": 12,
     "medium": 4,
     "high": 2
   },
@@ -19,13 +19,6 @@
       "score": 1405,
       "source": "hn",
       "date": "2026-03-19T13:05:50+00:00"
-    },
-    {
-      "title": "Kagi Translate now supports LinkedIn Speak as an output language",
-      "url": "https://translate.kagi.com/?from=en&to=LinkedIn+speak",
-      "score": 1209,
-      "source": "hn",
-      "date": "2026-03-17T04:39:42+00:00"
     },
     {
       "title": "OpenCode – Open source AI coding agent",
@@ -152,6 +145,13 @@
       "score": 597,
       "source": "hn",
       "date": "2026-03-20T13:01:56+00:00"
+    },
+    {
+      "title": "Tinybox – A powerful computer for deep learning",
+      "url": "https://tinygrad.org/#tinybox",
+      "score": 561,
+      "source": "hn",
+      "date": "2026-03-21T20:08:37+00:00"
     }
   ],
   "security_highlights": [
@@ -252,13 +252,6 @@
       "severity": "critical",
       "source": "hn",
       "date": "2026-03-18T00:27:13+00:00"
-    },
-    {
-      "title": "Reverse-engineering Viktor and making it open source",
-      "url": "https://matijacniacki.com/blog/openviktor",
-      "severity": "critical",
-      "source": "hn",
-      "date": "2026-03-17T08:15:34+00:00"
     }
   ]
 }

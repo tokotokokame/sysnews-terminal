@@ -1,8 +1,8 @@
 {
   "date": "2026-03-22",
-  "generated_at": "2026-03-22T21:48:25.717291+00:00",
-  "total_articles": 64,
-  "urgent_count": 2,
+  "generated_at": "2026-03-22T22:21:18.043267+00:00",
+  "total_articles": 61,
+  "urgent_count": 1,
   "urgent_items": [
     {
       "title": "HopTab – Open source macOS app switcher and tiler that replaces Cmd+Tab",
@@ -10,19 +10,12 @@
       "severity": "critical",
       "source": "hn",
       "date": "2026-03-22T06:23:59+00:00"
-    },
-    {
-      "title": "Floci – A free, open-source local AWS emulator",
-      "url": "https://github.com/hectorvent/floci",
-      "severity": "critical",
-      "source": "hn",
-      "date": "2026-03-21T21:49:15+00:00"
     }
   ],
   "categories": [
     {
       "category": "テクノロジー",
-      "count": 53,
+      "count": 50,
       "top_items": [
         {
           "title": "Hormuz Minesweeper – Are you tired of winning?",
@@ -43,26 +36,26 @@
         {
           "title": "Cloudflare flags archive.today as \"C&C/Botnet\"; no longer resolves via 1.1.1.2",
           "url": "https://radar.cloudflare.com/domains/domain/archive.today",
-          "score": 337,
+          "score": 343,
           "source": "hn",
           "severity": null,
           "date": "2026-03-22T03:43:51+00:00"
         },
         {
-          "title": "Project Nomad – Knowledge That Never Goes Offline",
-          "url": "https://www.projectnomad.us",
-          "score": 307,
-          "source": "hn",
-          "severity": null,
-          "date": "2026-03-22T12:28:38+00:00"
-        },
-        {
           "title": "The future of version control",
           "url": "https://bramcohen.com/p/manyana",
-          "score": 295,
+          "score": 328,
           "source": "hn",
           "severity": null,
           "date": "2026-03-22T15:16:28+00:00"
+        },
+        {
+          "title": "Project Nomad – Knowledge That Never Goes Offline",
+          "url": "https://www.projectnomad.us",
+          "score": 321,
+          "source": "hn",
+          "severity": null,
+          "date": "2026-03-22T12:28:38+00:00"
         }
       ]
     },

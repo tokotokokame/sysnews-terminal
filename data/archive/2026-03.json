@@ -1,14 +1,14 @@
 {
   "month": "2026-03",
-  "generated_at": "2026-03-22T10:53:09.585932+00:00",
+  "generated_at": "2026-03-22T11:20:17.518316+00:00",
   "total_articles": 451,
   "source_counts": {
-    "hn": 344,
-    "zennqiita": 106,
+    "hn": 345,
+    "zennqiita": 105,
     "project": 1
   },
   "severity_counts": {
-    "critical": 16,
+    "critical": 17,
     "medium": 4,
     "high": 2
   },
@@ -86,7 +86,7 @@
     {
       "title": "Some things just take time",
       "url": "https://lucumr.pocoo.org/2026/3/20/some-things-just-take-time/",
-      "score": 711,
+      "score": 717,
       "source": "hn",
       "date": "2026-03-21T14:46:56+00:00"
     },
@@ -105,18 +105,18 @@
       "date": "2026-03-17T09:53:53+00:00"
     },
     {
+      "title": "Do Not Turn Child Protection into Internet Access Control",
+      "url": "https://news.dyne.org/child-protection-is-not-access-control/",
+      "score": 705,
+      "source": "hn",
+      "date": "2026-03-21T20:32:20+00:00"
+    },
+    {
       "title": "Austin’s surge of new housing construction drove down rents",
       "url": "https://www.pew.org/en/research-and-analysis/articles/2026/03/18/austins-surge-of-new-housing-construction-drove-down-rents",
       "score": 703,
       "source": "hn",
       "date": "2026-03-19T00:15:39+00:00"
-    },
-    {
-      "title": "Do Not Turn Child Protection into Internet Access Control",
-      "url": "https://news.dyne.org/child-protection-is-not-access-control/",
-      "score": 691,
-      "source": "hn",
-      "date": "2026-03-21T20:32:20+00:00"
     },
     {
       "title": "Reddit User Uncovers Who Is Behind Meta's $2B Lobbying for Age Verification Tech",
@@ -210,6 +210,13 @@
       "severity": "critical",
       "source": "hn",
       "date": "2026-03-19T19:50:51+00:00"
+    },
+    {
+      "title": "Show HN: Oku – One tab to filter out noise from feeds and content sources",
+      "url": "https://oku.io",
+      "severity": "critical",
+      "source": "hn",
+      "date": "2026-03-19T17:27:45+00:00"
     },
     {
       "title": "An FAQ on Reinforcement Learning Environments",

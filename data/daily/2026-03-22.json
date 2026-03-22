@@ -1,7 +1,7 @@
 {
   "date": "2026-03-22",
-  "generated_at": "2026-03-22T01:52:43.438506+00:00",
-  "total_articles": 57,
+  "generated_at": "2026-03-22T04:16:41.555577+00:00",
+  "total_articles": 53,
   "urgent_count": 2,
   "urgent_items": [
     {
@@ -22,23 +22,23 @@
   "categories": [
     {
       "category": "テクノロジー",
-      "count": 47,
+      "count": 46,
       "top_items": [
-        {
-          "title": "Some things just take time",
-          "url": "https://lucumr.pocoo.org/2026/3/20/some-things-just-take-time/",
-          "score": 508,
-          "source": "hn",
-          "severity": null,
-          "date": "2026-03-21T14:46:56+00:00"
-        },
         {
           "title": "Do Not Turn Child Protection into Internet Access Control",
           "url": "https://news.dyne.org/child-protection-is-not-access-control/",
-          "score": 484,
+          "score": 560,
           "source": "hn",
           "severity": null,
           "date": "2026-03-21T20:32:20+00:00"
+        },
+        {
+          "title": "Some things just take time",
+          "url": "https://lucumr.pocoo.org/2026/3/20/some-things-just-take-time/",
+          "score": 555,
+          "source": "hn",
+          "severity": null,
+          "date": "2026-03-21T14:46:56+00:00"
         },
         {
           "title": "Blocking Internet Archive Won't Stop AI, but Will Erase Web's Historical Record",
@@ -51,7 +51,7 @@
         {
           "title": "Tinybox – Offline AI device 120B parameters",
           "url": "https://tinygrad.org/#tinybox",
-          "score": 317,
+          "score": 374,
           "source": "hn",
           "severity": null,
           "date": "2026-03-21T20:08:37+00:00"
@@ -59,7 +59,7 @@
         {
           "title": "Ubuntu 26.04 Ends 46 Years of Silent sudo Passwords",
           "url": "https://pbxscience.com/ubuntu-26-04-ends-46-years-of-silent-sudo-passwords/",
-          "score": 314,
+          "score": 335,
           "source": "hn",
           "severity": null,
           "date": "2026-03-21T05:06:11+00:00"
@@ -68,7 +68,7 @@
     },
     {
       "category": "日本語技術記事",
-      "count": 10,
+      "count": 7,
       "top_items": [
         {
           "title": "AWS初心者がボランティアスタッフとしてJAWS DAYSに帰ってきた話",

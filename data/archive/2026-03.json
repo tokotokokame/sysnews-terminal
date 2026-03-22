@@ -1,14 +1,14 @@
 {
   "month": "2026-03",
-  "generated_at": "2026-03-22T01:52:43.485758+00:00",
+  "generated_at": "2026-03-22T04:16:41.603701+00:00",
   "total_articles": 451,
   "source_counts": {
-    "hn": 351,
-    "zennqiita": 99,
+    "hn": 352,
+    "zennqiita": 98,
     "project": 1
   },
   "severity_counts": {
-    "critical": 15,
+    "critical": 16,
     "medium": 4,
     "high": 2
   },
@@ -231,6 +231,13 @@
       "severity": "critical",
       "source": "hn",
       "date": "2026-03-18T08:06:24+00:00"
+    },
+    {
+      "title": "A digital resource for studying the graffiti of Herculaneum and Pompeii",
+      "url": "https://ancientgraffiti.org/Graffiti/",
+      "severity": "critical",
+      "source": "hn",
+      "date": "2026-03-18T00:27:13+00:00"
     },
     {
       "title": "Reverse-engineering Viktor and making it open source",

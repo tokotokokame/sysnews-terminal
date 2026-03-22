@@ -1,8 +1,8 @@
 {
   "date": "2026-03-22",
-  "generated_at": "2026-03-22T20:22:20.336184+00:00",
-  "total_articles": 66,
-  "urgent_count": 2,
+  "generated_at": "2026-03-22T20:51:20.210910+00:00",
+  "total_articles": 67,
+  "urgent_count": 3,
   "urgent_items": [
     {
       "title": "HopTab – Open source macOS app switcher and tiler that replaces Cmd+Tab",
@@ -17,21 +17,20 @@
       "severity": "critical",
       "source": "hn",
       "date": "2026-03-21T21:49:15+00:00"
+    },
+    {
+      "title": "How to Attract AI Bots to Your Open Source Project",
+      "url": "https://nesbitt.io/2026/03/21/how-to-attract-ai-bots-to-your-open-source-project.html",
+      "severity": "critical",
+      "source": "hn",
+      "date": "2026-03-21T20:58:01+00:00"
     }
   ],
   "categories": [
     {
       "category": "テクノロジー",
-      "count": 55,
+      "count": 56,
       "top_items": [
-        {
-          "title": "Do Not Turn Child Protection into Internet Access Control",
-          "url": "https://news.dyne.org/child-protection-is-not-access-control/",
-          "score": 717,
-          "source": "hn",
-          "severity": null,
-          "date": "2026-03-21T20:32:20+00:00"
-        },
         {
           "title": "Hormuz Minesweeper – Are you tired of winning?",
           "url": "https://hormuz.pythonic.ninja/",
@@ -59,10 +58,18 @@
         {
           "title": "Cloudflare flags archive.today as \"C&C/Botnet\"; no longer resolves via 1.1.1.2",
           "url": "https://radar.cloudflare.com/domains/domain/archive.today",
-          "score": 320,
+          "score": 327,
           "source": "hn",
           "severity": null,
           "date": "2026-03-22T03:43:51+00:00"
+        },
+        {
+          "title": "Project Nomad – Knowledge That Never Goes Offline",
+          "url": "https://www.projectnomad.us",
+          "score": 291,
+          "source": "hn",
+          "severity": null,
+          "date": "2026-03-22T12:28:38+00:00"
         }
       ]
     },

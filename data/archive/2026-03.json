@@ -1,14 +1,14 @@
 {
   "month": "2026-03",
-  "generated_at": "2026-03-22T20:22:20.382607+00:00",
+  "generated_at": "2026-03-22T20:51:20.255627+00:00",
   "total_articles": 451,
   "source_counts": {
-    "hn": 348,
-    "zennqiita": 102,
+    "hn": 349,
+    "zennqiita": 101,
     "project": 1
   },
   "severity_counts": {
-    "critical": 12,
+    "critical": 13,
     "medium": 4,
     "high": 2
   },
@@ -168,6 +168,13 @@
       "severity": "critical",
       "source": "hn",
       "date": "2026-03-21T21:49:15+00:00"
+    },
+    {
+      "title": "How to Attract AI Bots to Your Open Source Project",
+      "url": "https://nesbitt.io/2026/03/21/how-to-attract-ai-bots-to-your-open-source-project.html",
+      "severity": "critical",
+      "source": "hn",
+      "date": "2026-03-21T20:58:01+00:00"
     },
     {
       "title": "【緊急】GitHub/npmを汚染する「見えないコード」の脅威：GlassWorm対策",

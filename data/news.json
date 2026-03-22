@@ -1,25 +1,58 @@
 {
-  "updated_at": "2026-03-22T19:26:05.750341+00:00",
+  "updated_at": "2026-03-22T19:45:34.390699+00:00",
   "count": 500,
   "items": [
+    {
+      "id": "hn-47481202",
+      "source": "hn",
+      "title": "Personal Computing (2022)",
+      "url": "https://josh8.com/blog/personal_computing.html",
+      "score": 3,
+      "comments": 0,
+      "author": "xk3",
+      "tags": [],
+      "date": "2026-03-22T19:32:15+00:00"
+    },
     {
       "id": "hn-47480644",
       "source": "hn",
       "title": "Nebraska wildfires leave ranchers scrambling for forage",
       "url": "https://www.farmprogress.com/forage/nebraska-wildfires-leave-ranchers-scrambling-for-forage",
-      "score": 4,
-      "comments": 0,
+      "score": 10,
+      "comments": 1,
       "author": "walterbell",
       "tags": [],
       "date": "2026-03-22T18:38:21+00:00"
+    },
+    {
+      "id": "hn-47480507",
+      "source": "hn",
+      "title": "PC Gamer Recommends RSS Readers in a 37MB Article That Just Keeps Downloading",
+      "url": "https://stuartbreckenridge.net/2026-03-19-pc-gamer-recommends-rss-readers-in-a-37mb-article/",
+      "score": 10,
+      "comments": 1,
+      "author": "JumpCrisscross",
+      "tags": [],
+      "date": "2026-03-22T18:23:40+00:00"
+    },
+    {
+      "id": "hn-47480492",
+      "source": "hn",
+      "title": "Show HN: A Markdown file that turns your AI agent into an autonomous researcher",
+      "url": "https://github.com/krzysztofdudek/ResearcherSkill",
+      "score": 5,
+      "comments": 0,
+      "author": "chrisdudek",
+      "tags": [],
+      "date": "2026-03-22T18:21:48+00:00"
     },
     {
       "id": "hn-47480200",
       "source": "hn",
       "title": "Palantir extends reach into British state as gets access to sensitive FCA data",
       "url": "https://www.theguardian.com/technology/2026/mar/22/palantir-extends-reach-into-british-state-as-it-gets-access-to-sensitive-fca-data",
-      "score": 29,
-      "comments": 1,
+      "score": 43,
+      "comments": 5,
       "author": "chrisjj",
       "tags": [],
       "date": "2026-03-22T17:56:26+00:00"
@@ -29,8 +62,8 @@
       "source": "hn",
       "title": "OpenClaw Is a Security Nightmare Dressed Up as a Daydream",
       "url": "https://composio.dev/content/openclaw-security-and-vulnerabilities",
-      "score": 21,
-      "comments": 11,
+      "score": 57,
+      "comments": 31,
       "author": "fs_software",
       "tags": [],
       "date": "2026-03-22T17:35:28+00:00"
@@ -40,8 +73,8 @@
       "source": "hn",
       "title": "Why I love NixOS",
       "url": "https://www.birkey.co/2026-03-22-why-i-love-nixos.html",
-      "score": 83,
-      "comments": 68,
+      "score": 89,
+      "comments": 71,
       "author": "birkey",
       "tags": [],
       "date": "2026-03-22T17:17:06+00:00"
@@ -51,7 +84,7 @@
       "source": "hn",
       "title": "Five Years of Running a Systems Reading Group at Microsoft",
       "url": "https://armaansood.com/posts/systems-reading-group/",
-      "score": 30,
+      "score": 36,
       "comments": 2,
       "author": "Foe",
       "tags": [],
@@ -84,8 +117,8 @@
       "source": "hn",
       "title": "MAUI Is Coming to Linux",
       "url": "https://avaloniaui.net/blog/maui-avalonia-preview-1",
-      "score": 65,
-      "comments": 20,
+      "score": 68,
+      "comments": 23,
       "author": "DeathArrow",
       "tags": [],
       "date": "2026-03-22T15:43:21+00:00"
@@ -106,8 +139,8 @@
       "source": "hn",
       "title": "The Future of Version Control",
       "url": "https://bramcohen.com/p/manyana",
-      "score": 201,
-      "comments": 110,
+      "score": 217,
+      "comments": 125,
       "author": "c17r",
       "tags": [],
       "date": "2026-03-22T15:16:28+00:00"
@@ -172,8 +205,8 @@
       "source": "hn",
       "title": "Building an FPGA 3dfx Voodoo with Modern RTL Tools",
       "url": "https://noquiche.fyi/voodoo",
-      "score": 115,
-      "comments": 20,
+      "score": 119,
+      "comments": 22,
       "author": "fayalalebrun",
       "tags": [],
       "date": "2026-03-22T13:24:38+00:00"
@@ -194,8 +227,8 @@
       "source": "hn",
       "title": "A case against currying",
       "url": "https://emi-h.com/articles/a-case-against-currying.html",
-      "score": 68,
-      "comments": 88,
+      "score": 70,
+      "comments": 92,
       "author": "emih",
       "tags": [],
       "date": "2026-03-22T13:03:55+00:00"
@@ -238,8 +271,8 @@
       "source": "hn",
       "title": "Project Nomad – Knowledge That Never Goes Offline",
       "url": "https://www.projectnomad.us",
-      "score": 254,
-      "comments": 50,
+      "score": 265,
+      "comments": 52,
       "author": "jensgk",
       "tags": [],
       "date": "2026-03-22T12:28:38+00:00"
@@ -282,7 +315,7 @@
       "source": "hn",
       "title": "The IBM scientist who rewrote the rules of information just won a Turing Award",
       "url": "https://www.ibm.com/think/news/ibm-scientist-charles-bennett-turing-award",
-      "score": 50,
+      "score": 55,
       "comments": 5,
       "author": "rbanffy",
       "tags": [],
@@ -293,7 +326,7 @@
       "source": "hn",
       "title": "More common mistakes to avoid when creating system architecture diagrams",
       "url": "https://www.ilograph.com/blog/posts/more-common-diagram-mistakes/",
-      "score": 100,
+      "score": 102,
       "comments": 38,
       "author": "billyp-rva",
       "tags": [],
@@ -315,8 +348,8 @@
       "source": "hn",
       "title": "Flash-MoE: Running a 397B Parameter Model on a Laptop",
       "url": "https://github.com/danveloper/flash-moe",
-      "score": 234,
-      "comments": 86,
+      "score": 236,
+      "comments": 89,
       "author": "mft_",
       "tags": [],
       "date": "2026-03-22T11:30:03+00:00"
@@ -326,8 +359,8 @@
       "source": "hn",
       "title": "Reports of code's death are greatly exaggerated",
       "url": "https://stevekrouse.com/precision",
-      "score": 84,
-      "comments": 84,
+      "score": 93,
+      "comments": 94,
       "author": "stevekrouse",
       "tags": [],
       "date": "2026-03-22T11:09:34+00:00"
@@ -348,8 +381,8 @@
       "source": "hn",
       "title": "Windows native app development is a mess",
       "url": "https://domenic.me/windows-native-dev/",
-      "score": 210,
-      "comments": 214,
+      "score": 215,
+      "comments": 222,
       "author": "domenicd",
       "tags": [],
       "date": "2026-03-22T09:57:31+00:00"
@@ -439,8 +472,8 @@
       "source": "hn",
       "title": "Cloudflare flags archive.today as \"C&C/Botnet\"; no longer resolves via 1.1.1.2",
       "url": "https://radar.cloudflare.com/domains/domain/archive.today",
-      "score": 304,
-      "comments": 229,
+      "score": 309,
+      "comments": 230,
       "author": "winkelmann",
       "tags": [],
       "date": "2026-03-22T03:43:51+00:00"
@@ -2846,8 +2879,8 @@
       "source": "hn",
       "title": "A review of dice that came with the white castle",
       "url": "https://boardgamegeek.com/thread/3533812/a-review-of-dice-that-came-with-the-white-castle",
-      "score": 98,
-      "comments": 29,
+      "score": 103,
+      "comments": 30,
       "author": "doener",
       "tags": [],
       "date": "2026-03-19T06:47:54+00:00"
@@ -3554,8 +3587,8 @@
       "source": "hn",
       "title": "25 Years of Eggs",
       "url": "https://www.john-rush.com/posts/eggs-25-years-20260219.html",
-      "score": 199,
-      "comments": 60,
+      "score": 205,
+      "comments": 61,
       "author": "avyfain",
       "tags": [],
       "date": "2026-03-18T15:44:08+00:00"
@@ -4362,7 +4395,7 @@
       "source": "hn",
       "title": "Learnings from training a font recognition model from scratch",
       "url": "https://www.mixfont.com/blog/learnings-from-training-a-font-recognition-model-from-scratch",
-      "score": 15,
+      "score": 17,
       "comments": 2,
       "author": "justswim",
       "tags": [],
@@ -4494,8 +4527,8 @@
       "source": "hn",
       "title": "Zero ZGC4: A Better Graphing Calculator for School and Beyond",
       "url": "https://www.zerocalculators.com/features",
-      "score": 12,
-      "comments": 13,
+      "score": 13,
+      "comments": 15,
       "author": "uticus",
       "tags": [],
       "date": "2026-03-17T18:07:34+00:00"
@@ -5131,43 +5164,6 @@
         "Qiita"
       ],
       "date": "2026-03-17T12:24:34+09:00"
-    },
-    {
-      "id": "hn-47408205",
-      "source": "hn",
-      "title": "Every layer of review makes you 10x slower",
-      "url": "https://apenwarr.ca/log/20260316",
-      "score": 407,
-      "comments": 247,
-      "author": "greyface-",
-      "tags": [],
-      "date": "2026-03-17T03:20:36+00:00"
-    },
-    {
-      "id": "qiita-d0061dcdf4",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "エンジニア初学者に知ってほしい。プログラミングすることより大切な成長を加速させる4つの指針",
-      "url": "https://qiita.com/masa20057/items/838bc1b59a84b16820a9?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "masa20057",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-03-17T11:56:18+09:00"
-    },
-    {
-      "id": "qiita-c11691656a",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "cc-sdd（仕様駆動開発）にストーリーテストを自動で組み込む",
-      "url": "https://qiita.com/TatsuyaHasunuma/items/090cabb1015806ebd468?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "TatsuyaHasunuma",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-03-17T11:03:15+09:00"
     },
     {
       "id": "ghrel-projectdiscovery_nuclei-293442537",

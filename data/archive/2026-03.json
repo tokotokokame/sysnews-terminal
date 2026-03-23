@@ -1,16 +1,16 @@
 {
   "month": "2026-03",
-  "generated_at": "2026-03-23T23:00:45.749190+00:00",
+  "generated_at": "2026-03-23T23:54:48.525996+00:00",
   "total_articles": 451,
   "source_counts": {
-    "hn": 351,
-    "zennqiita": 99,
+    "hn": 352,
+    "zennqiita": 98,
     "project": 1
   },
   "severity_counts": {
-    "medium": 7,
+    "medium": 6,
     "high": 3,
-    "critical": 13
+    "critical": 12
   },
   "top_articles": [
     {
@@ -51,7 +51,7 @@
     {
       "title": "Migrating to the EU",
       "url": "https://rz01.org/eu-migration/",
-      "score": 802,
+      "score": 811,
       "source": "hn",
       "date": "2026-03-23T10:17:32+00:00"
     },
@@ -259,13 +259,6 @@
       "severity": "critical",
       "source": "hn",
       "date": "2026-03-18T14:00:43+00:00"
-    },
-    {
-      "title": "Nightingale – open-source karaoke app that works with any song on your computer",
-      "url": "https://nightingale.cafe/",
-      "severity": "critical",
-      "source": "hn",
-      "date": "2026-03-18T08:06:24+00:00"
     }
   ]
 }

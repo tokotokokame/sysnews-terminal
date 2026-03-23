@@ -1,7 +1,7 @@
 {
   "date": "2026-03-23",
-  "generated_at": "2026-03-23T19:44:55.751149+00:00",
-  "total_articles": 48,
+  "generated_at": "2026-03-23T20:34:04.140195+00:00",
+  "total_articles": 54,
   "urgent_count": 1,
   "urgent_items": [
     {
@@ -20,7 +20,7 @@
         {
           "title": "Migrating to the EU",
           "url": "https://rz01.org/eu-migration/",
-          "score": 729,
+          "score": 755,
           "source": "hn",
           "severity": null,
           "date": "2026-03-23T10:17:32+00:00"
@@ -36,7 +36,7 @@
         {
           "title": "GitHub appears to be struggling with measly three nines availability",
           "url": "https://www.theregister.com/2026/02/10/github_outages/",
-          "score": 382,
+          "score": 393,
           "source": "hn",
           "severity": null,
           "date": "2026-03-23T10:39:39+00:00"
@@ -50,19 +50,35 @@
           "date": "2026-03-23T08:29:27+00:00"
         },
         {
-          "title": "Student beauty and grades under in-person and remote teaching",
-          "url": "https://www.sciencedirect.com/science/article/pii/S016517652200283X",
-          "score": 326,
+          "title": "iPhone 17 Pro Demonstrated Running a 400B LLM",
+          "url": "https://twitter.com/anemll/status/2035901335984611412",
+          "score": 346,
           "source": "hn",
           "severity": null,
-          "date": "2026-03-23T11:31:19+00:00"
+          "date": "2026-03-23T14:30:10+00:00"
         }
       ]
     },
     {
       "category": "日本語技術記事",
-      "count": 8,
+      "count": 14,
       "top_items": [
+        {
+          "title": "GitHub Issues からリリースノートをAIで自動生成する方法",
+          "url": "https://qiita.com/KanNishida/items/a8b2171ea5ee719befb3?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "score": null,
+          "source": "zennqiita",
+          "severity": null,
+          "date": "2026-03-23T22:25:44+09:00"
+        },
+        {
+          "title": "Figmaから Pencil.dev に乗り換えを検討してみた【検証編】",
+          "url": "https://qiita.com/kobayashimakoto/items/b11ebbcf7e14ff251b76?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "score": null,
+          "source": "zennqiita",
+          "severity": null,
+          "date": "2026-03-23T15:58:43+09:00"
+        },
         {
           "title": "IT業界って結局どんな世界？未経験向けにざっくり全体像を整理してみる",
           "url": "https://qiita.com/prum_iha/items/2130c606657942d4e3f7?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
@@ -80,28 +96,12 @@
           "date": "2026-03-23T13:46:08+09:00"
         },
         {
-          "title": "Webアプリで扱う画像をWebP/AVIFに変換すべきか？ S3･CloudFront･Lambdaのコストから検証する",
-          "url": "https://qiita.com/Suemura/items/a63d1b3a8849c53538e2?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "title": "LinuxエンジニアのためのWindowsセキュリティ再入門 〜 第1回：はじめに —— なぜ今、LinuxエンジニアがWindowsセキュリティを学ぶのか",
+          "url": "https://qiita.com/555hamano/items/e9e1dce9e2dbc574a93f?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
           "score": null,
           "source": "zennqiita",
           "severity": null,
-          "date": "2026-03-23T11:07:45+09:00"
-        },
-        {
-          "title": "RedmineのネイティブOAuth2でAIエージェントに安全にRedmineを操作させる",
-          "url": "https://qiita.com/ssc-ksaitou/items/b7a4d51ed78fa6e45521?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "score": null,
-          "source": "zennqiita",
-          "severity": null,
-          "date": "2026-03-23T10:00:40+09:00"
-        },
-        {
-          "title": "【新機能】Grafanaのタイムレンジをカスタマイズしてみる",
-          "url": "https://qiita.com/melknzw/items/8ca7a95b01e94b1bb84c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "score": null,
-          "source": "zennqiita",
-          "severity": null,
-          "date": "2026-03-23T09:09:29+09:00"
+          "date": "2026-03-23T12:04:01+09:00"
         }
       ]
     }

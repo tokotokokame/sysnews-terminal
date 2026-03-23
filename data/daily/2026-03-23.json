@@ -1,7 +1,7 @@
 {
   "date": "2026-03-23",
-  "generated_at": "2026-03-23T08:12:14.799644+00:00",
-  "total_articles": 59,
+  "generated_at": "2026-03-23T09:36:09.598241+00:00",
+  "total_articles": 69,
   "urgent_count": 1,
   "urgent_items": [
     {
@@ -15,12 +15,12 @@
   "categories": [
     {
       "category": "テクノロジー",
-      "count": 52,
+      "count": 55,
       "top_items": [
         {
           "title": "PC Gamer recommends RSS readers in a 37mb article that just keeps downloading",
           "url": "https://stuartbreckenridge.net/2026-03-19-pc-gamer-recommends-rss-readers-in-a-37mb-article/",
-          "score": 566,
+          "score": 607,
           "source": "hn",
           "severity": null,
           "date": "2026-03-22T18:23:40+00:00"
@@ -28,26 +28,26 @@
         {
           "title": "The future of version control",
           "url": "https://bramcohen.com/p/manyana",
-          "score": 506,
+          "score": 526,
           "source": "hn",
           "severity": null,
           "date": "2026-03-22T15:16:28+00:00"
         },
         {
-          "title": "Hormuz Minesweeper – Are you tired of winning?",
-          "url": "https://hormuz.pythonic.ninja/",
-          "score": 506,
-          "source": "hn",
-          "severity": null,
-          "date": "2026-03-22T09:00:37+00:00"
-        },
-        {
           "title": "Project Nomad – Knowledge That Never Goes Offline",
           "url": "https://www.projectnomad.us",
-          "score": 431,
+          "score": 448,
           "source": "hn",
           "severity": null,
           "date": "2026-03-22T12:28:38+00:00"
+        },
+        {
+          "title": "GrapheneOS will remain usable by anyone without requiring personal information",
+          "url": "https://grapheneos.social/@GrapheneOS/116261301913660830",
+          "score": 411,
+          "source": "hn",
+          "severity": null,
+          "date": "2026-03-22T21:14:11+00:00"
         },
         {
           "title": "Windows native app development is a mess",
@@ -61,8 +61,16 @@
     },
     {
       "category": "日本語技術記事",
-      "count": 7,
+      "count": 14,
       "top_items": [
+        {
+          "title": "IT業界って結局どんな世界？未経験向けにざっくり全体像を整理してみる",
+          "url": "https://qiita.com/prum_iha/items/2130c606657942d4e3f7?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "score": null,
+          "source": "zennqiita",
+          "severity": null,
+          "date": "2026-03-23T14:57:16+09:00"
+        },
         {
           "title": "【無料】SELECT文からER図を自動生成するツールを作った（JOIN解析）",
           "url": "https://qiita.com/pomuchan02/items/d7ef5ef0c0eed261db38?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
@@ -72,36 +80,28 @@
           "date": "2026-03-23T13:46:08+09:00"
         },
         {
-          "title": "Excelブックを生成AI向けMarkdownに変換する `xlsx2md` を作りました",
-          "url": "https://qiita.com/igapyon/items/cfbbc0d6112059b26522?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "title": "Webアプリで扱う画像をWebP/AVIFに変換すべきか？ S3･CloudFront･Lambdaのコストから検証する",
+          "url": "https://qiita.com/Suemura/items/a63d1b3a8849c53538e2?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
           "score": null,
           "source": "zennqiita",
           "severity": null,
-          "date": "2026-03-23T07:54:49+09:00"
+          "date": "2026-03-23T11:07:45+09:00"
         },
         {
-          "title": "シンギュラリティとエンジニア ―我々はどう生きるべきかをネオサイバネティクスから考える",
-          "url": "https://qiita.com/miruky/items/2023621da88f643d66e6?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "title": "RedmineのネイティブOAuth2でAIエージェントに安全にRedmineを操作させる",
+          "url": "https://qiita.com/ssc-ksaitou/items/b7a4d51ed78fa6e45521?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
           "score": null,
           "source": "zennqiita",
           "severity": null,
-          "date": "2026-03-23T00:03:11+09:00"
+          "date": "2026-03-23T10:00:40+09:00"
         },
         {
-          "title": "PHPerKaigi初参加者の感想",
-          "url": "https://qiita.com/GreenGreeen/items/833fc6ca0e420271367f?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "title": "【新機能】Grafanaのタイムレンジをカスタマイズしてみる",
+          "url": "https://qiita.com/melknzw/items/8ca7a95b01e94b1bb84c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
           "score": null,
           "source": "zennqiita",
           "severity": null,
-          "date": "2026-03-22T23:19:13+09:00"
-        },
-        {
-          "title": "AIエージェントに「楽をさせる」設計 — 全部AIにやらせる、が最適解とは限らない",
-          "url": "https://qiita.com/katohiro_fi/items/5e25c34da0529dec71de?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "score": null,
-          "source": "zennqiita",
-          "severity": null,
-          "date": "2026-03-22T22:47:03+09:00"
+          "date": "2026-03-23T09:09:29+09:00"
         }
       ]
     }

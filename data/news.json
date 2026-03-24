@@ -1,14 +1,49 @@
 {
-  "updated_at": "2026-03-24T13:02:07.497173+00:00",
+  "updated_at": "2026-03-24T13:56:16.191788+00:00",
   "count": 500,
   "items": [
+    {
+      "id": "qiita-6fa22eb2c2",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "Windows でしか動かない描画処理をブラウザで動かす OSS を公開した",
+      "url": "https://qiita.com/LostMyCode/items/c38c831b8e1cb6dafa70?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "LostMyCode",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-03-24T22:41:49+09:00"
+    },
+    {
+      "id": "hn-47502460",
+      "source": "hn",
+      "title": "Your bridge to wealth is being pulled up",
+      "url": "https://danielhomola.com/m%20&%20e/ai/your-bridge-to-wealth-is-being-pulled-up/",
+      "score": 9,
+      "comments": 0,
+      "author": "second_reef",
+      "tags": [],
+      "date": "2026-03-24T13:40:40+00:00"
+    },
+    {
+      "id": "hn-47501950",
+      "source": "hn",
+      "title": "Missile Defense Is NP-Complete",
+      "url": "https://smu160.github.io/posts/missile-defense-is-np-complete/",
+      "score": 64,
+      "comments": 31,
+      "author": "O3marchnative",
+      "tags": [],
+      "date": "2026-03-24T13:00:38+00:00"
+    },
     {
       "id": "hn-47501840",
       "source": "hn",
       "title": "NanoClaw Adopts OneCLI Agent Vault",
       "url": "https://nanoclaw.dev/blog/nanoclaw-agent-vault/",
-      "score": 7,
-      "comments": 0,
+      "score": 38,
+      "comments": 3,
       "author": "turntable_pride",
       "tags": [],
       "date": "2026-03-24T12:48:04+00:00"
@@ -18,19 +53,41 @@
       "source": "hn",
       "title": "LiteLLM Python package compromised by supply-chain attack",
       "url": "https://github.com/BerriAI/litellm/issues/24512",
-      "score": 6,
-      "comments": 0,
+      "score": 146,
+      "comments": 59,
       "author": "theanonymousone",
       "tags": [],
       "date": "2026-03-24T12:36:20+00:00"
+    },
+    {
+      "id": "hn-47501511",
+      "source": "hn",
+      "title": "Secure Domain Name System (DNS) Deployment 2026 Guide [pdf]",
+      "url": "https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-81r3.pdf",
+      "score": 10,
+      "comments": 0,
+      "author": "XzetaU8",
+      "tags": [],
+      "date": "2026-03-24T12:14:56+00:00"
+    },
+    {
+      "id": "hn-47501211",
+      "source": "hn",
+      "title": "Nanobrew: The fastest macOS package manager compatible with brew",
+      "url": "https://nanobrew.trilok.ai/",
+      "score": 7,
+      "comments": 2,
+      "author": "syrusakbary",
+      "tags": [],
+      "date": "2026-03-24T11:40:21+00:00"
     },
     {
       "id": "hn-47500746",
       "source": "hn",
       "title": "Debunking Zswap and Zram Myths",
       "url": "https://chrisdown.name/2026/03/24/zswap-vs-zram-when-to-use-what.html",
-      "score": 38,
-      "comments": 5,
+      "score": 60,
+      "comments": 8,
       "author": "javierhonduco",
       "tags": [],
       "date": "2026-03-24T10:39:21+00:00"
@@ -40,8 +97,8 @@
       "source": "hn",
       "title": "curl > /dev/sda: How I made a Linux distro that runs wget | dd",
       "url": "https://astrid.tech/2026/03/24/0/curl-to-dev-sda/",
-      "score": 29,
-      "comments": 20,
+      "score": 58,
+      "comments": 26,
       "author": "astralbijection",
       "tags": [],
       "date": "2026-03-24T10:06:02+00:00"
@@ -51,8 +108,8 @@
       "source": "hn",
       "title": "Microsoft's \"Fix\" for Windows 11: Flowers After the Beating",
       "url": "https://www.sambent.com/microsofts-plan-to-fix-windows-11-is-gaslighting/",
-      "score": 371,
-      "comments": 261,
+      "score": 480,
+      "comments": 347,
       "author": "h0ek",
       "tags": [],
       "date": "2026-03-24T09:36:29+00:00"
@@ -73,8 +130,8 @@
       "source": "hn",
       "title": "Opera: Rewind The Web to 1996 (Opera at 30)",
       "url": "https://www.web-rewind.com",
-      "score": 110,
-      "comments": 54,
+      "score": 122,
+      "comments": 65,
       "author": "thushanfernando",
       "tags": [],
       "date": "2026-03-24T07:54:02+00:00"
@@ -95,8 +152,8 @@
       "source": "hn",
       "title": "Ripgrep is faster than grep, ag, git grep, ucg, pt, sift (2016)",
       "url": "https://burntsushi.net/ripgrep/",
-      "score": 127,
-      "comments": 53,
+      "score": 161,
+      "comments": 72,
       "author": "jxmorris12",
       "tags": [],
       "date": "2026-03-24T06:31:39+00:00"
@@ -117,8 +174,8 @@
       "source": "hn",
       "title": "Log File Viewer for the Terminal",
       "url": "https://lnav.org/",
-      "score": 205,
-      "comments": 26,
+      "score": 224,
+      "comments": 28,
       "author": "wiradikusuma",
       "tags": [],
       "date": "2026-03-24T05:32:53+00:00"
@@ -342,8 +399,8 @@
       "source": "hn",
       "title": "Claude Code Cheat Sheet",
       "url": "https://cc.storyfox.cz",
-      "score": 467,
-      "comments": 149,
+      "score": 495,
+      "comments": 160,
       "author": "phasE89",
       "tags": [],
       "date": "2026-03-23T21:44:20+00:00"
@@ -353,8 +410,8 @@
       "source": "hn",
       "title": "FCC updates covered list to include foreign-made consumer routers",
       "url": "https://www.fcc.gov/document/fcc-updates-covered-list-include-foreign-made-consumer-routers",
-      "score": 361,
-      "comments": 239,
+      "score": 371,
+      "comments": 248,
       "author": "moonka",
       "tags": [],
       "date": "2026-03-23T21:28:02+00:00",
@@ -442,7 +499,7 @@
       "source": "hn",
       "title": "Autoresearch on an old research idea",
       "url": "https://ykumar.me/blog/eclip-autoresearch/",
-      "score": 379,
+      "score": 384,
       "comments": 84,
       "author": "ykumards",
       "tags": [],
@@ -508,8 +565,8 @@
       "source": "hn",
       "title": "Show HN: Cq – Stack Overflow for AI coding agents",
       "url": "https://blog.mozilla.ai/cq-stack-overflow-for-agents/",
-      "score": 170,
-      "comments": 65,
+      "score": 177,
+      "comments": 73,
       "author": "peteski22",
       "tags": [],
       "date": "2026-03-23T16:11:03+00:00"
@@ -574,8 +631,8 @@
       "source": "hn",
       "title": "iPhone 17 Pro Demonstrated Running a 400B LLM",
       "url": "https://twitter.com/anemll/status/2035901335984611412",
-      "score": 650,
-      "comments": 285,
+      "score": 657,
+      "comments": 288,
       "author": "anemll",
       "tags": [],
       "date": "2026-03-23T14:30:10+00:00"
@@ -633,8 +690,8 @@
       "source": "hn",
       "title": "Box of Secrets: Discreetly modding an apartment intercom to work with Apple Home",
       "url": "https://www.jackhogan.me/blog/box-of-secrets/",
-      "score": 192,
-      "comments": 62,
+      "score": 205,
+      "comments": 68,
       "author": "jackhogan11",
       "tags": [],
       "date": "2026-03-23T12:42:00+00:00"
@@ -1083,19 +1140,6 @@
       "author": "mooreds",
       "tags": [],
       "date": "2026-03-22T22:01:03+00:00"
-    },
-    {
-      "id": "qiita-6fa22eb2c2",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "Windows でしか動かない描画処理をブラウザで動かす OSS を公開した",
-      "url": "https://qiita.com/LostMyCode/items/c38c831b8e1cb6dafa70?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "LostMyCode",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-03-23T06:39:51+09:00"
     },
     {
       "id": "hn-47482217",
@@ -1668,8 +1712,8 @@
       "source": "hn",
       "title": "Dune3d: A parametric 3D CAD application",
       "url": "https://github.com/dune3d/dune3d",
-      "score": 185,
-      "comments": 72,
+      "score": 191,
+      "comments": 77,
       "author": "luu",
       "tags": [],
       "date": "2026-03-22T08:06:18+00:00"
@@ -2036,7 +2080,7 @@
       "source": "hn",
       "title": "BIO – The Bao I/O Co-Processor",
       "url": "https://www.crowdsupply.com/baochip/dabao/updates/bio-the-bao-i-o-co-processor",
-      "score": 56,
+      "score": 59,
       "comments": 13,
       "author": "hasheddan",
       "tags": [],
@@ -2243,8 +2287,8 @@
       "source": "hn",
       "title": "MSA: Memory Sparse Attention",
       "url": "https://github.com/EverMind-AI/MSA",
-      "score": 36,
-      "comments": 2,
+      "score": 44,
+      "comments": 3,
       "author": "chaosprint",
       "tags": [],
       "date": "2026-03-21T14:47:58+00:00"
@@ -2777,6 +2821,17 @@
       "date": "2026-03-20T20:10:33+00:00"
     },
     {
+      "id": "hn-47459625",
+      "source": "hn",
+      "title": "I Quit Editing Photos",
+      "url": "https://jamesbaker.uk/i-quit-editing-photos/",
+      "score": 6,
+      "comments": 3,
+      "author": "speckx",
+      "tags": [],
+      "date": "2026-03-20T19:44:43+00:00"
+    },
+    {
       "id": "hn-47459447",
       "source": "hn",
       "title": "NumKong: 2'000 Mixed Precision Kernels for All",
@@ -2917,8 +2972,8 @@
       "source": "hn",
       "title": "A 6502 disassembler with a TUI: A modern take on Regenerator",
       "url": "https://github.com/ricardoquesada/regenerator2000",
-      "score": 56,
-      "comments": 5,
+      "score": 62,
+      "comments": 7,
       "author": "wslh",
       "tags": [],
       "date": "2026-03-20T16:34:24+00:00"
@@ -3178,8 +3233,8 @@
       "source": "hn",
       "title": "Overcoming the Friendship Recession",
       "url": "https://joeprevite.com/friendship-recession/",
-      "score": 13,
-      "comments": 1,
+      "score": 40,
+      "comments": 33,
       "author": "surprisetalk",
       "tags": [],
       "date": "2026-03-20T12:42:37+00:00"
@@ -4189,8 +4244,8 @@
       "source": "hn",
       "title": "No-build, no-NPM, SSR-first JavaScript framework if you hate React, love HTML",
       "url": "https://qitejs.qount25.dev",
-      "score": 58,
-      "comments": 52,
+      "score": 70,
+      "comments": 63,
       "author": "usrbinenv",
       "tags": [],
       "date": "2026-03-19T13:49:12+00:00"
@@ -5108,63 +5163,6 @@
       "author": "speckx",
       "tags": [],
       "date": "2026-03-18T17:22:02+00:00"
-    },
-    {
-      "id": "hn-47428335",
-      "source": "hn",
-      "title": "Americans Recognize AI as a Wealth Inequality Machine, Polls Find",
-      "url": "https://gizmodo.com/americans-recognize-ai-as-a-wealth-inequality-machine-pollsters-find-2000734713",
-      "score": 42,
-      "comments": 8,
-      "author": "randycupertino",
-      "tags": [],
-      "date": "2026-03-18T17:07:21+00:00"
-    },
-    {
-      "id": "hn-47428132",
-      "source": "hn",
-      "title": "The Ugliest Airplane: An Appreciation",
-      "url": "https://www.smithsonianmag.com/air-space-magazine/ugliest-airplane-appreciation-180978708/",
-      "score": 94,
-      "comments": 48,
-      "author": "randycupertino",
-      "tags": [],
-      "date": "2026-03-18T16:52:58+00:00"
-    },
-    {
-      "id": "hn-47428117",
-      "source": "hn",
-      "title": "Node.js worker threads are problematic, but they work great for us",
-      "url": "https://www.inngest.com/blog/node-worker-threads",
-      "score": 49,
-      "comments": 29,
-      "author": "goodoldneon",
-      "tags": [],
-      "date": "2026-03-18T16:51:51+00:00"
-    },
-    {
-      "id": "qiita-ad6f4602a1",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "Exce VBAのユーザーフォームにWebView2を実装するプロジェクト",
-      "url": "https://qiita.com/fenblen_puyo/items/4271ab7bd7c9d648d803?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "fenblen_puyo",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-03-19T01:34:52+09:00"
-    },
-    {
-      "id": "hn-47427647",
-      "source": "hn",
-      "title": "Google Engineers Launch \"Sashiko\" for Agentic AI Code Review of the Linux Kernel",
-      "url": "https://www.phoronix.com/news/Sashiko-Linux-AI-Code-Review",
-      "score": 71,
-      "comments": 28,
-      "author": "speckx",
-      "tags": [],
-      "date": "2026-03-18T16:17:44+00:00"
     },
     {
       "id": "ghrel-projectdiscovery_nuclei-293442537",

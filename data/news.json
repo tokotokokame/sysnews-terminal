@@ -1,7 +1,18 @@
 {
-  "updated_at": "2026-03-24T17:56:23.595301+00:00",
+  "updated_at": "2026-03-24T18:33:00.778362+00:00",
   "count": 500,
   "items": [
+    {
+      "id": "hn-47506641",
+      "source": "hn",
+      "title": "ARM AGI CPU: Specs and SKUs",
+      "url": "https://sbcwiki.com/docs/soc-manufacturers/arm/arm-silicon/",
+      "score": 31,
+      "comments": 4,
+      "author": "HeyMeco",
+      "tags": [],
+      "date": "2026-03-24T17:59:16+00:00"
+    },
     {
       "id": "hn-47506490",
       "source": "hn",
@@ -14,12 +25,34 @@
       "date": "2026-03-24T17:47:23+00:00"
     },
     {
+      "id": "hn-47506259",
+      "source": "hn",
+      "title": "The AI Industry Is Lying to You",
+      "url": "https://www.wheresyoured.at/the-ai-industry-is-lying-to-you/",
+      "score": 52,
+      "comments": 9,
+      "author": "spking",
+      "tags": [],
+      "date": "2026-03-24T17:30:55+00:00"
+    },
+    {
+      "id": "hn-47506251",
+      "source": "hn",
+      "title": "Arm AGI CPU",
+      "url": "https://newsroom.arm.com/blog/introducing-arm-agi-cpu",
+      "score": 33,
+      "comments": 13,
+      "author": "RealityVoid",
+      "tags": [],
+      "date": "2026-03-24T17:30:42+00:00"
+    },
+    {
       "id": "hn-47505144",
       "source": "hn",
       "title": "Show HN: Email.md – Markdown to responsive, email-safe HTML",
       "url": "https://www.emailmd.dev/",
-      "score": 33,
-      "comments": 5,
+      "score": 53,
+      "comments": 18,
       "author": "dancablam",
       "tags": [],
       "date": "2026-03-24T16:26:00+00:00"
@@ -27,10 +60,10 @@
     {
       "id": "hn-47504695",
       "source": "hn",
-      "title": "Run a 1T parameter model on a 32gb Mac by streaming tensors from NVMe",
+      "title": "Hypura – A storage-tier-aware LLM inference scheduler for Apple Silicon",
       "url": "https://github.com/t8/hypura",
-      "score": 88,
-      "comments": 45,
+      "score": 118,
+      "comments": 54,
       "author": "tatef",
       "tags": [],
       "date": "2026-03-24T16:02:22+00:00"
@@ -40,8 +73,8 @@
       "source": "hn",
       "title": "No Terms. No Conditions",
       "url": "https://notermsnoconditions.com",
-      "score": 115,
-      "comments": 36,
+      "score": 139,
+      "comments": 47,
       "author": "bayneri",
       "tags": [],
       "date": "2026-03-24T15:58:04+00:00"
@@ -51,8 +84,8 @@
       "source": "hn",
       "title": "WolfGuard: WireGuard with FIPS 140-3 cryptography",
       "url": "https://github.com/wolfssl/wolfguard",
-      "score": 39,
-      "comments": 24,
+      "score": 46,
+      "comments": 26,
       "author": "789c789c789c",
       "tags": [],
       "date": "2026-03-24T15:51:55+00:00"
@@ -73,8 +106,8 @@
       "source": "hn",
       "title": "Hypothesis, Antithesis, Synthesis",
       "url": "https://antithesis.com/blog/2026/hegel/",
-      "score": 86,
-      "comments": 44,
+      "score": 100,
+      "comments": 49,
       "author": "alpaylan",
       "tags": [],
       "date": "2026-03-24T15:28:17+00:00"
@@ -84,8 +117,8 @@
       "source": "hn",
       "title": "LaGuardia pilots raised safety alarms months before deadly runway crash",
       "url": "https://www.theguardian.com/us-news/2026/mar/24/laguardia-airplane-pilots-safety-concerns-crash",
-      "score": 188,
-      "comments": 152,
+      "score": 214,
+      "comments": 173,
       "author": "m_fayer",
       "tags": [],
       "date": "2026-03-24T15:19:19+00:00"
@@ -95,8 +128,8 @@
       "source": "hn",
       "title": "Show HN: Gemini can now natively embed video, so I built sub-second video search",
       "url": "https://github.com/ssrajadh/sentrysearch",
-      "score": 70,
-      "comments": 27,
+      "score": 90,
+      "comments": 32,
       "author": "sohamrj",
       "tags": [],
       "date": "2026-03-24T14:58:27+00:00"
@@ -117,8 +150,8 @@
       "source": "hn",
       "title": "So where are all the AI apps?",
       "url": "https://www.answer.ai/posts/2026-03-12-so-where-are-all-the-ai-apps.html",
-      "score": 251,
-      "comments": 248,
+      "score": 279,
+      "comments": 264,
       "author": "tanelpoder",
       "tags": [],
       "date": "2026-03-24T14:19:59+00:00"
@@ -152,8 +185,8 @@
       "source": "hn",
       "title": "io_uring, libaio performance across Linux kernels and an unexpected IOMMU trap",
       "url": "https://blog.ydb.tech/how-io-uring-overtook-libaio-performance-across-linux-kernels-and-an-unexpected-iommu-trap-ea6126d9ef14",
-      "score": 36,
-      "comments": 13,
+      "score": 43,
+      "comments": 16,
       "author": "tanelpoder",
       "tags": [],
       "date": "2026-03-24T13:21:24+00:00"
@@ -183,10 +216,10 @@
     {
       "id": "hn-47501729",
       "source": "hn",
-      "title": "LiteLLM Python package compromised by supply-chain attack",
+      "title": "Malicious litellm_init.pth in litellm 1.82.8 PyPI package – credential stealer",
       "url": "https://github.com/BerriAI/litellm/issues/24512",
-      "score": 641,
-      "comments": 255,
+      "score": 689,
+      "comments": 274,
       "author": "theanonymousone",
       "tags": [],
       "date": "2026-03-24T12:36:20+00:00"
@@ -196,7 +229,7 @@
       "source": "hn",
       "title": "Secure Domain Name System (DNS) Deployment 2026 Guide [pdf]",
       "url": "https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-81r3.pdf",
-      "score": 72,
+      "score": 73,
       "comments": 7,
       "author": "XzetaU8",
       "tags": [],
@@ -207,8 +240,8 @@
       "source": "hn",
       "title": "Nanobrew: The fastest macOS package manager compatible with brew",
       "url": "https://nanobrew.trilok.ai/",
-      "score": 105,
-      "comments": 61,
+      "score": 113,
+      "comments": 69,
       "author": "syrusakbary",
       "tags": [],
       "date": "2026-03-24T11:40:21+00:00"
@@ -218,8 +251,8 @@
       "source": "hn",
       "title": "Debunking Zswap and Zram Myths",
       "url": "https://chrisdown.name/2026/03/24/zswap-vs-zram-when-to-use-what.html",
-      "score": 131,
-      "comments": 31,
+      "score": 139,
+      "comments": 35,
       "author": "javierhonduco",
       "tags": [],
       "date": "2026-03-24T10:39:21+00:00"
@@ -240,8 +273,8 @@
       "source": "hn",
       "title": "curl > /dev/sda: How I made a Linux distro that runs wget | dd",
       "url": "https://astrid.tech/2026/03/24/0/curl-to-dev-sda/",
-      "score": 119,
-      "comments": 49,
+      "score": 122,
+      "comments": 51,
       "author": "astralbijection",
       "tags": [],
       "date": "2026-03-24T10:06:02+00:00"
@@ -251,8 +284,8 @@
       "source": "hn",
       "title": "Microsoft's \"Fix\" for Windows 11: Flowers After the Beating",
       "url": "https://www.sambent.com/microsofts-plan-to-fix-windows-11-is-gaslighting/",
-      "score": 777,
-      "comments": 561,
+      "score": 794,
+      "comments": 587,
       "author": "h0ek",
       "tags": [],
       "date": "2026-03-24T09:36:29+00:00"
@@ -273,8 +306,8 @@
       "source": "hn",
       "title": "Opera: Rewind The Web to 1996 (Opera at 30)",
       "url": "https://www.web-rewind.com",
-      "score": 162,
-      "comments": 99,
+      "score": 165,
+      "comments": 102,
       "author": "thushanfernando",
       "tags": [],
       "date": "2026-03-24T07:54:02+00:00"
@@ -283,9 +316,9 @@
       "id": "hn-47499672",
       "source": "hn",
       "title": "Show HN: ProofShot – Give AI coding agents eyes to verify the UI they build",
-      "url": "https://proofshot.argil.io/",
-      "score": 54,
-      "comments": 37,
+      "url": "https://github.com/AmElmo/proofshot",
+      "score": 70,
+      "comments": 53,
       "author": "jberthom",
       "tags": [],
       "date": "2026-03-24T07:46:46+00:00"
@@ -295,8 +328,8 @@
       "source": "hn",
       "title": "Ripgrep is faster than grep, ag, git grep, ucg, pt, sift (2016)",
       "url": "https://burntsushi.net/ripgrep/",
-      "score": 261,
-      "comments": 106,
+      "score": 270,
+      "comments": 109,
       "author": "jxmorris12",
       "tags": [],
       "date": "2026-03-24T06:31:39+00:00"
@@ -1548,8 +1581,8 @@
       "source": "hn",
       "title": "Testing the Swift C compatibility with Raylib (+WASM)",
       "url": "https://carette.xyz/posts/swift_c_compatibility_with_raylib/",
-      "score": 33,
-      "comments": 10,
+      "score": 38,
+      "comments": 14,
       "author": "LucidLynx",
       "tags": [],
       "date": "2026-03-22T13:47:57+00:00"
@@ -1820,7 +1853,7 @@
       "source": "hn",
       "title": "Data Manipulation in Clojure Compared to R and Python",
       "url": "https://codewithkira.com/2024-07-18-tablecloth-dplyr-pandas-polars.html",
-      "score": 5,
+      "score": 16,
       "comments": 0,
       "author": "tosh",
       "tags": [],
@@ -2923,7 +2956,7 @@
       "source": "hn",
       "title": "Tony Hoare and His Imprint on Computer Science",
       "url": "https://cacm.acm.org/blogcacm/tony-hoare-and-his-imprint-on-computer-science/",
-      "score": 27,
+      "score": 40,
       "comments": 3,
       "author": "matt_d",
       "tags": [],
@@ -5130,39 +5163,6 @@
         "Qiita"
       ],
       "date": "2026-03-19T07:12:07+09:00"
-    },
-    {
-      "id": "hn-47431930",
-      "source": "hn",
-      "title": "What’s on HTTP?",
-      "url": "https://whatsonhttp.com/",
-      "score": 47,
-      "comments": 24,
-      "author": "elixx",
-      "tags": [],
-      "date": "2026-03-18T21:57:58+00:00"
-    },
-    {
-      "id": "hn-47431671",
-      "source": "hn",
-      "title": "Show HN: Duplicate 3 layers in a 24B LLM, logical deduction .22→.76. No training",
-      "url": "https://github.com/alainnothere/llm-circuit-finder",
-      "score": 201,
-      "comments": 72,
-      "author": "xlayn",
-      "tags": [],
-      "date": "2026-03-18T21:31:12+00:00"
-    },
-    {
-      "id": "hn-47431653",
-      "source": "hn",
-      "title": "Cryptography in Home Entertainment (2004)",
-      "url": "https://mathweb.ucsd.edu/~crypto/Projects/MarkBarry/",
-      "score": 67,
-      "comments": 37,
-      "author": "rvnx",
-      "tags": [],
-      "date": "2026-03-18T21:29:14+00:00"
     },
     {
       "id": "ghrel-projectdiscovery_nuclei-293442537",

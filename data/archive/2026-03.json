@@ -1,16 +1,16 @@
 {
   "month": "2026-03",
-  "generated_at": "2026-03-24T07:57:49.824918+00:00",
+  "generated_at": "2026-03-24T08:56:23.445268+00:00",
   "total_articles": 451,
   "source_counts": {
-    "hn": 356,
-    "zennqiita": 94,
+    "hn": 352,
+    "zennqiita": 98,
     "project": 1
   },
   "severity_counts": {
-    "medium": 6,
+    "medium": 5,
     "high": 3,
-    "critical": 12
+    "critical": 11
   },
   "top_articles": [
     {
@@ -112,18 +112,18 @@
       "date": "2026-03-19T19:08:02+00:00"
     },
     {
+      "title": "iPhone 17 Pro Demonstrated Running a 400B LLM",
+      "url": "https://twitter.com/anemll/status/2035901335984611412",
+      "score": 599,
+      "source": "hn",
+      "date": "2026-03-23T14:30:10+00:00"
+    },
+    {
       "title": "France's aircraft carrier located in real time by Le Monde through fitness app",
       "url": "https://www.lemonde.fr/en/international/article/2026/03/20/stravaleaks-france-s-aircraft-carrier-located-in-real-time-by-le-monde-through-fitness-app_6751640_4.html",
       "score": 597,
       "source": "hn",
       "date": "2026-03-20T13:01:56+00:00"
-    },
-    {
-      "title": "iPhone 17 Pro Demonstrated Running a 400B LLM",
-      "url": "https://twitter.com/anemll/status/2035901335984611412",
-      "score": 584,
-      "source": "hn",
-      "date": "2026-03-23T14:30:10+00:00"
     },
     {
       "title": "Tinybox – A powerful computer for deep learning",
@@ -252,13 +252,6 @@
       "severity": "high",
       "source": "hn",
       "date": "2026-03-18T15:43:19+00:00"
-    },
-    {
-      "title": "A ngrok-style secure tunnel server written in Rust and Open Source",
-      "url": "https://github.com/joaoh82/rustunnel",
-      "severity": "critical",
-      "source": "hn",
-      "date": "2026-03-18T14:00:43+00:00"
     }
   ]
 }

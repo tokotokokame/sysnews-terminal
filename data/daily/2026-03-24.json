@@ -1,21 +1,29 @@
 {
   "date": "2026-03-24",
-  "generated_at": "2026-03-24T16:02:59.331458+00:00",
-  "total_articles": 59,
+  "generated_at": "2026-03-24T17:30:11.283334+00:00",
+  "total_articles": 58,
   "urgent_count": 0,
   "urgent_items": [],
   "categories": [
     {
       "category": "テクノロジー",
-      "count": 50,
+      "count": 49,
       "top_items": [
         {
           "title": "Microsoft's \"Fix\" for Windows 11: Flowers After the Beating",
           "url": "https://www.sambent.com/microsofts-plan-to-fix-windows-11-is-gaslighting/",
-          "score": 663,
+          "score": 750,
           "source": "hn",
           "severity": null,
           "date": "2026-03-24T09:36:29+00:00"
+        },
+        {
+          "title": "LiteLLM Python package compromised by supply-chain attack",
+          "url": "https://github.com/BerriAI/litellm/issues/24512",
+          "score": 596,
+          "source": "hn",
+          "severity": null,
+          "date": "2026-03-24T12:36:20+00:00"
         },
         {
           "title": "Claude Code Cheat Sheet",
@@ -24,14 +32,6 @@
           "source": "hn",
           "severity": null,
           "date": "2026-03-23T21:44:20+00:00"
-        },
-        {
-          "title": "LiteLLM Python package compromised by supply-chain attack",
-          "url": "https://github.com/BerriAI/litellm/issues/24512",
-          "score": 440,
-          "source": "hn",
-          "severity": null,
-          "date": "2026-03-24T12:36:20+00:00"
         },
         {
           "title": "Autoresearch on an old research idea",

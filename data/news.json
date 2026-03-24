@@ -1,14 +1,36 @@
 {
-  "updated_at": "2026-03-24T11:42:25.052493+00:00",
+  "updated_at": "2026-03-24T12:03:57.188133+00:00",
   "count": 500,
   "items": [
+    {
+      "id": "hn-47500746",
+      "source": "hn",
+      "title": "Debunking Zswap and Zram Myths",
+      "url": "https://chrisdown.name/2026/03/24/zswap-vs-zram-when-to-use-what.html",
+      "score": 9,
+      "comments": 0,
+      "author": "javierhonduco",
+      "tags": [],
+      "date": "2026-03-24T10:39:21+00:00"
+    },
+    {
+      "id": "hn-47500522",
+      "source": "hn",
+      "title": "curl > /dev/sda: How I made a Linux distro that runs wget | dd",
+      "url": "https://astrid.tech/2026/03/24/0/curl-to-dev-sda/",
+      "score": 10,
+      "comments": 2,
+      "author": "astralbijection",
+      "tags": [],
+      "date": "2026-03-24T10:06:02+00:00"
+    },
     {
       "id": "hn-47500335",
       "source": "hn",
       "title": "Microsoft's \"Fix\" for Windows 11: Flowers After the Beating",
       "url": "https://www.sambent.com/microsofts-plan-to-fix-windows-11-is-gaslighting/",
-      "score": 190,
-      "comments": 136,
+      "score": 235,
+      "comments": 172,
       "author": "h0ek",
       "tags": [],
       "date": "2026-03-24T09:36:29+00:00"
@@ -18,8 +40,8 @@
       "source": "hn",
       "title": "MagicAudio – Free Noise, Echo and Background Music Remover",
       "url": "https://magicaudio.pro/",
-      "score": 7,
-      "comments": 0,
+      "score": 13,
+      "comments": 8,
       "author": "polayan",
       "tags": [],
       "date": "2026-03-24T08:09:14+00:00"
@@ -29,8 +51,8 @@
       "source": "hn",
       "title": "Opera: Rewind The Web to 1996 (Opera at 30)",
       "url": "https://www.web-rewind.com",
-      "score": 72,
-      "comments": 37,
+      "score": 81,
+      "comments": 38,
       "author": "thushanfernando",
       "tags": [],
       "date": "2026-03-24T07:54:02+00:00"
@@ -51,8 +73,8 @@
       "source": "hn",
       "title": "Ripgrep is faster than grep, ag, git grep, ucg, pt, sift (2016)",
       "url": "https://burntsushi.net/ripgrep/",
-      "score": 77,
-      "comments": 37,
+      "score": 93,
+      "comments": 43,
       "author": "jxmorris12",
       "tags": [],
       "date": "2026-03-24T06:31:39+00:00"
@@ -73,8 +95,8 @@
       "source": "hn",
       "title": "Log File Viewer for the Terminal",
       "url": "https://lnav.org/",
-      "score": 170,
-      "comments": 21,
+      "score": 178,
+      "comments": 23,
       "author": "wiradikusuma",
       "tags": [],
       "date": "2026-03-24T05:32:53+00:00"
@@ -277,7 +299,7 @@
       "title": "The Resolv hack: How one compromised key printed $23M",
       "url": "https://www.chainalysis.com/blog/lessons-from-the-resolv-hack/",
       "score": 95,
-      "comments": 134,
+      "comments": 138,
       "author": "timbowhite",
       "tags": [],
       "date": "2026-03-23T22:01:15+00:00"
@@ -298,8 +320,8 @@
       "source": "hn",
       "title": "Claude Code Cheat Sheet",
       "url": "https://cc.storyfox.cz",
-      "score": 446,
-      "comments": 130,
+      "score": 449,
+      "comments": 133,
       "author": "phasE89",
       "tags": [],
       "date": "2026-03-23T21:44:20+00:00"
@@ -309,8 +331,8 @@
       "source": "hn",
       "title": "FCC updates covered list to include foreign-made consumer routers",
       "url": "https://www.fcc.gov/document/fcc-updates-covered-list-include-foreign-made-consumer-routers",
-      "score": 340,
-      "comments": 228,
+      "score": 347,
+      "comments": 233,
       "author": "moonka",
       "tags": [],
       "date": "2026-03-23T21:28:02+00:00",
@@ -464,7 +486,7 @@
       "source": "hn",
       "title": "Show HN: Cq – Stack Overflow for AI coding agents",
       "url": "https://blog.mozilla.ai/cq-stack-overflow-for-agents/",
-      "score": 156,
+      "score": 158,
       "comments": 63,
       "author": "peteski22",
       "tags": [],
@@ -530,8 +552,8 @@
       "source": "hn",
       "title": "iPhone 17 Pro Demonstrated Running a 400B LLM",
       "url": "https://twitter.com/anemll/status/2035901335984611412",
-      "score": 637,
-      "comments": 281,
+      "score": 638,
+      "comments": 284,
       "author": "anemll",
       "tags": [],
       "date": "2026-03-23T14:30:10+00:00"
@@ -589,8 +611,8 @@
       "source": "hn",
       "title": "Box of Secrets: Discreetly modding an apartment intercom to work with Apple Home",
       "url": "https://www.jackhogan.me/blog/box-of-secrets/",
-      "score": 163,
-      "comments": 50,
+      "score": 168,
+      "comments": 53,
       "author": "jackhogan11",
       "tags": [],
       "date": "2026-03-23T12:42:00+00:00"
@@ -1624,8 +1646,8 @@
       "source": "hn",
       "title": "Dune3d: A parametric 3D CAD application",
       "url": "https://github.com/dune3d/dune3d",
-      "score": 173,
-      "comments": 65,
+      "score": 174,
+      "comments": 67,
       "author": "luu",
       "tags": [],
       "date": "2026-03-22T08:06:18+00:00"
@@ -1992,7 +2014,7 @@
       "source": "hn",
       "title": "BIO – The Bao I/O Co-Processor",
       "url": "https://www.crowdsupply.com/baochip/dabao/updates/bio-the-bao-i-o-co-processor",
-      "score": 51,
+      "score": 53,
       "comments": 13,
       "author": "hasheddan",
       "tags": [],
@@ -2199,7 +2221,7 @@
       "source": "hn",
       "title": "MSA: Memory Sparse Attention",
       "url": "https://github.com/EverMind-AI/MSA",
-      "score": 15,
+      "score": 19,
       "comments": 1,
       "author": "chaosprint",
       "tags": [],
@@ -2873,8 +2895,8 @@
       "source": "hn",
       "title": "A 6502 disassembler with a TUI: A modern take on Regenerator",
       "url": "https://github.com/ricardoquesada/regenerator2000",
-      "score": 46,
-      "comments": 4,
+      "score": 50,
+      "comments": 5,
       "author": "wslh",
       "tags": [],
       "date": "2026-03-20T16:34:24+00:00"
@@ -3182,8 +3204,8 @@
       "source": "hn",
       "title": "Pompeii's battle scars linked to an ancient 'machine gun'",
       "url": "https://phys.org/news/2026-03-pompeii-scars-linked-ancient-machine.html",
-      "score": 83,
-      "comments": 21,
+      "score": 86,
+      "comments": 22,
       "author": "pseudolus",
       "tags": [],
       "date": "2026-03-20T12:02:00+00:00"
@@ -3765,7 +3787,7 @@
       "source": "hn",
       "title": "Gerd Faltings, who proved the Mordell conjecture, wins the Abel Prize",
       "url": "https://www.scientificamerican.com/article/gerd-faltings-mathematician-who-proved-the-mordell-conjecture-wins-the-abel/",
-      "score": 43,
+      "score": 46,
       "comments": 6,
       "author": "digital55",
       "tags": [],
@@ -3809,8 +3831,8 @@
       "source": "hn",
       "title": "Finding all regex matches has always been O(n²)",
       "url": "https://iev.ee/blog/the-quadratic-problem-nobody-fixed/",
-      "score": 219,
-      "comments": 59,
+      "score": 221,
+      "comments": 60,
       "author": "lalitmaganti",
       "tags": [],
       "date": "2026-03-19T18:40:02+00:00"
@@ -4134,8 +4156,8 @@
       "source": "hn",
       "title": "No-build, no-NPM, SSR-first JavaScript framework if you hate React, love HTML",
       "url": "https://qitejs.qount25.dev",
-      "score": 38,
-      "comments": 21,
+      "score": 42,
+      "comments": 34,
       "author": "usrbinenv",
       "tags": [],
       "date": "2026-03-19T13:49:12+00:00"
@@ -4949,7 +4971,7 @@
       "source": "hn",
       "title": "Abusing Customizable Selects",
       "url": "https://css-tricks.com/abusing-customizable-selects/",
-      "score": 126,
+      "score": 129,
       "comments": 6,
       "author": "speckx",
       "tags": [],
@@ -5143,28 +5165,6 @@
       "author": "carte_blanche",
       "tags": [],
       "date": "2026-03-18T15:57:48+00:00"
-    },
-    {
-      "id": "hn-47427299",
-      "source": "hn",
-      "title": "Show HN: I built 48 lightweight SVG backgrounds you can copy/paste",
-      "url": "https://www.svgbackgrounds.com/set/free-svg-backgrounds-and-patterns/",
-      "score": 301,
-      "comments": 59,
-      "author": "visiwig",
-      "tags": [],
-      "date": "2026-03-18T15:50:44+00:00"
-    },
-    {
-      "id": "hn-47427290",
-      "source": "hn",
-      "title": "Wander – A tiny, decentralised tool (just 2 files) to explore the small web",
-      "url": "https://susam.net/wander/",
-      "score": 54,
-      "comments": 15,
-      "author": "oystersareyum",
-      "tags": [],
-      "date": "2026-03-18T15:49:52+00:00"
     },
     {
       "id": "ghrel-projectdiscovery_nuclei-293442537",
@@ -5377,6 +5377,45 @@
       "date": "2023-05-23T17:06:23Z"
     },
     {
+      "id": "zenn-a207bdf87d",
+      "source": "zennqiita",
+      "sub_source": "Zenn",
+      "title": "ナレッジワークにカムバック入社して1ヶ月半経って感じたこと",
+      "url": "https://zenn.dev/knowledgework/articles/b7b9cf7bb68653",
+      "score": null,
+      "author": "tenntenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Tue, 24 Mar 2026 03:00:06 GMT"
+    },
+    {
+      "id": "zenn-d276bfb475",
+      "source": "zennqiita",
+      "sub_source": "Zenn",
+      "title": "JavaScriptとTypeScriptのpolyglot",
+      "url": "https://zenn.dev/qnighy/articles/e65e0995161ade",
+      "score": null,
+      "author": "Masaki Hara",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Mon, 23 Mar 2026 13:50:30 GMT"
+    },
+    {
+      "id": "zenn-23c6aa8241",
+      "source": "zennqiita",
+      "sub_source": "Zenn",
+      "title": "究極のマルチパラダイム次世代プログラミング言語Flix",
+      "url": "https://zenn.dev/ababup1192/articles/cf73b13eae82da",
+      "score": null,
+      "author": "ABAB↑↓BA",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Mon, 23 Mar 2026 13:28:08 GMT"
+    },
+    {
       "id": "zenn-4eaca09bfb",
       "source": "zennqiita",
       "sub_source": "Zenn",
@@ -5403,6 +5442,19 @@
       "date": "Mon, 23 Mar 2026 10:21:42 GMT"
     },
     {
+      "id": "zenn-81b173de7a",
+      "source": "zennqiita",
+      "sub_source": "Zenn",
+      "title": "Claude Code を使いこなすために意識している 5つのこと",
+      "url": "https://zenn.dev/sunagaku/articles/claude-code-usage-mindset",
+      "score": null,
+      "author": "スナガク",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Mon, 23 Mar 2026 10:08:18 GMT"
+    },
+    {
       "id": "zenn-de71e813a0",
       "source": "zennqiita",
       "sub_source": "Zenn",
@@ -5427,19 +5479,6 @@
         "Zenn"
       ],
       "date": "Mon, 23 Mar 2026 06:12:32 GMT"
-    },
-    {
-      "id": "zenn-e3178e94ab",
-      "source": "zennqiita",
-      "sub_source": "Zenn",
-      "title": "starshipより速いzsh向けshell promptをコーディングエージェントだけで作った",
-      "url": "https://zenn.dev/shuymn/articles/bda1b7b51cccbf",
-      "score": null,
-      "author": "shuymn",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Mon, 23 Mar 2026 05:53:43 GMT"
     },
     {
       "id": "zenn-6eba31331c",
@@ -5585,19 +5624,6 @@
       "date": "Sat, 21 Mar 2026 16:44:41 GMT"
     },
     {
-      "id": "zenn-69ac8fabaf",
-      "source": "zennqiita",
-      "sub_source": "Zenn",
-      "title": "DGX Sparkで色々なローカルLLMを動かした比較結果",
-      "url": "https://zenn.dev/karaage0703/articles/fcca40c614dffd",
-      "score": null,
-      "author": "からあげ",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Sat, 21 Mar 2026 16:18:04 GMT"
-    },
-    {
       "id": "zenn-9a774baa99",
       "source": "zennqiita",
       "sub_source": "Zenn",
@@ -5609,32 +5635,6 @@
         "Zenn"
       ],
       "date": "Sat, 21 Mar 2026 15:22:48 GMT"
-    },
-    {
-      "id": "zenn-3b48fb2295",
-      "source": "zennqiita",
-      "sub_source": "Zenn",
-      "title": "コードレビューとは何か",
-      "url": "https://zenn.dev/baleenstudio/articles/what-is-a-code-review",
-      "score": null,
-      "author": "Takekazu Omi",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Sat, 21 Mar 2026 13:37:24 GMT"
-    },
-    {
-      "id": "zenn-470e97fd6b",
-      "source": "zennqiita",
-      "sub_source": "Zenn",
-      "title": "仕様駆動開発スターターキットを公開しました",
-      "url": "https://zenn.dev/sakamotchi8/articles/spec-driven-starter-introduction",
-      "score": null,
-      "author": "sakamotchi8",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Sat, 21 Mar 2026 04:32:52 GMT"
     },
     {
       "id": "edb-bed48c0760",

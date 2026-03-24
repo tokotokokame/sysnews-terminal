@@ -1,14 +1,69 @@
 {
-  "updated_at": "2026-03-24T15:00:38.235332+00:00",
+  "updated_at": "2026-03-24T16:02:59.260688+00:00",
   "count": 500,
   "items": [
+    {
+      "id": "hn-47504615",
+      "source": "hn",
+      "title": "No Terms. No Conditions",
+      "url": "https://notermsnoconditions.com",
+      "score": 4,
+      "comments": 0,
+      "author": "bayneri",
+      "tags": [],
+      "date": "2026-03-24T15:58:04+00:00"
+    },
+    {
+      "id": "hn-47504094",
+      "source": "hn",
+      "title": "Hypothesis, Antithesis, Synthesis",
+      "url": "https://antithesis.com/blog/2026/hegel/",
+      "score": 20,
+      "comments": 3,
+      "author": "alpaylan",
+      "tags": [],
+      "date": "2026-03-24T15:28:17+00:00"
+    },
+    {
+      "id": "hn-47503965",
+      "source": "hn",
+      "title": "LaGuardia pilots raised safety alarms months before deadly runway crash",
+      "url": "https://www.theguardian.com/us-news/2026/mar/24/laguardia-airplane-pilots-safety-concerns-crash",
+      "score": 54,
+      "comments": 23,
+      "author": "m_fayer",
+      "tags": [],
+      "date": "2026-03-24T15:19:19+00:00"
+    },
+    {
+      "id": "hn-47503617",
+      "source": "hn",
+      "title": "Show HN: Gemini can now natively embed video, so I built sub-second video search",
+      "url": "https://github.com/ssrajadh/sentrysearch",
+      "score": 8,
+      "comments": 0,
+      "author": "sohamrj",
+      "tags": [],
+      "date": "2026-03-24T14:58:27+00:00"
+    },
+    {
+      "id": "hn-47503296",
+      "source": "hn",
+      "title": "The bridge to wealth is being pulled up with AI",
+      "url": "https://danielhomola.com/m%20&%20e/ai/your-bridge-to-wealth-is-being-pulled-up/",
+      "score": 162,
+      "comments": 133,
+      "author": "dankai",
+      "tags": [],
+      "date": "2026-03-24T14:39:20+00:00"
+    },
     {
       "id": "hn-47503006",
       "source": "hn",
       "title": "So where are all the AI apps?",
       "url": "https://www.answer.ai/posts/2026-03-12-so-where-are-all-the-ai-apps.html",
-      "score": 79,
-      "comments": 85,
+      "score": 163,
+      "comments": 187,
       "author": "tanelpoder",
       "tags": [],
       "date": "2026-03-24T14:19:59+00:00"
@@ -38,6 +93,17 @@
       "date": "2026-03-24T13:40:40+00:00"
     },
     {
+      "id": "hn-47502193",
+      "source": "hn",
+      "title": "io_uring, libaio performance across Linux kernels and an unexpected IOMMU trap",
+      "url": "https://blog.ydb.tech/how-io-uring-overtook-libaio-performance-across-linux-kernels-and-an-unexpected-iommu-trap-ea6126d9ef14",
+      "score": 21,
+      "comments": 9,
+      "author": "tanelpoder",
+      "tags": [],
+      "date": "2026-03-24T13:21:24+00:00"
+    },
+    {
       "id": "hn-47501950",
       "source": "hn",
       "title": "Missile Defense Is NP-Complete",
@@ -53,8 +119,8 @@
       "source": "hn",
       "title": "NanoClaw Adopts OneCLI Agent Vault",
       "url": "https://nanoclaw.dev/blog/nanoclaw-agent-vault/",
-      "score": 59,
-      "comments": 9,
+      "score": 76,
+      "comments": 14,
       "author": "turntable_pride",
       "tags": [],
       "date": "2026-03-24T12:48:04+00:00"
@@ -64,8 +130,8 @@
       "source": "hn",
       "title": "LiteLLM Python package compromised by supply-chain attack",
       "url": "https://github.com/BerriAI/litellm/issues/24512",
-      "score": 279,
-      "comments": 146,
+      "score": 440,
+      "comments": 191,
       "author": "theanonymousone",
       "tags": [],
       "date": "2026-03-24T12:36:20+00:00"
@@ -75,8 +141,8 @@
       "source": "hn",
       "title": "Secure Domain Name System (DNS) Deployment 2026 Guide [pdf]",
       "url": "https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-81r3.pdf",
-      "score": 29,
-      "comments": 0,
+      "score": 49,
+      "comments": 1,
       "author": "XzetaU8",
       "tags": [],
       "date": "2026-03-24T12:14:56+00:00"
@@ -86,8 +152,8 @@
       "source": "hn",
       "title": "Nanobrew: The fastest macOS package manager compatible with brew",
       "url": "https://nanobrew.trilok.ai/",
-      "score": 31,
-      "comments": 17,
+      "score": 64,
+      "comments": 32,
       "author": "syrusakbary",
       "tags": [],
       "date": "2026-03-24T11:40:21+00:00"
@@ -97,8 +163,8 @@
       "source": "hn",
       "title": "Debunking Zswap and Zram Myths",
       "url": "https://chrisdown.name/2026/03/24/zswap-vs-zram-when-to-use-what.html",
-      "score": 80,
-      "comments": 17,
+      "score": 103,
+      "comments": 25,
       "author": "javierhonduco",
       "tags": [],
       "date": "2026-03-24T10:39:21+00:00"
@@ -108,8 +174,8 @@
       "source": "hn",
       "title": "LLM Neuroanatomy II: Modern LLM Hacking and Hints of a Universal Language?",
       "url": "https://dnhkng.github.io/posts/rys-ii/",
-      "score": 23,
-      "comments": 10,
+      "score": 46,
+      "comments": 13,
       "author": "realberkeaslan",
       "tags": [],
       "date": "2026-03-24T10:33:54+00:00"
@@ -119,8 +185,8 @@
       "source": "hn",
       "title": "curl > /dev/sda: How I made a Linux distro that runs wget | dd",
       "url": "https://astrid.tech/2026/03/24/0/curl-to-dev-sda/",
-      "score": 86,
-      "comments": 32,
+      "score": 99,
+      "comments": 42,
       "author": "astralbijection",
       "tags": [],
       "date": "2026-03-24T10:06:02+00:00"
@@ -130,8 +196,8 @@
       "source": "hn",
       "title": "Microsoft's \"Fix\" for Windows 11: Flowers After the Beating",
       "url": "https://www.sambent.com/microsofts-plan-to-fix-windows-11-is-gaslighting/",
-      "score": 588,
-      "comments": 423,
+      "score": 663,
+      "comments": 491,
       "author": "h0ek",
       "tags": [],
       "date": "2026-03-24T09:36:29+00:00"
@@ -152,8 +218,8 @@
       "source": "hn",
       "title": "Opera: Rewind The Web to 1996 (Opera at 30)",
       "url": "https://www.web-rewind.com",
-      "score": 134,
-      "comments": 78,
+      "score": 147,
+      "comments": 86,
       "author": "thushanfernando",
       "tags": [],
       "date": "2026-03-24T07:54:02+00:00"
@@ -174,8 +240,8 @@
       "source": "hn",
       "title": "Ripgrep is faster than grep, ag, git grep, ucg, pt, sift (2016)",
       "url": "https://burntsushi.net/ripgrep/",
-      "score": 195,
-      "comments": 82,
+      "score": 217,
+      "comments": 88,
       "author": "jxmorris12",
       "tags": [],
       "date": "2026-03-24T06:31:39+00:00"
@@ -196,8 +262,8 @@
       "source": "hn",
       "title": "Log File Viewer for the Terminal",
       "url": "https://lnav.org/",
-      "score": 240,
-      "comments": 34,
+      "score": 249,
+      "comments": 39,
       "author": "wiradikusuma",
       "tags": [],
       "date": "2026-03-24T05:32:53+00:00"
@@ -653,8 +719,8 @@
       "source": "hn",
       "title": "iPhone 17 Pro Demonstrated Running a 400B LLM",
       "url": "https://twitter.com/anemll/status/2035901335984611412",
-      "score": 672,
-      "comments": 301,
+      "score": 681,
+      "comments": 305,
       "author": "anemll",
       "tags": [],
       "date": "2026-03-23T14:30:10+00:00"
@@ -712,8 +778,8 @@
       "source": "hn",
       "title": "Box of Secrets: Discreetly modding an apartment intercom to work with Apple Home",
       "url": "https://www.jackhogan.me/blog/box-of-secrets/",
-      "score": 217,
-      "comments": 74,
+      "score": 231,
+      "comments": 82,
       "author": "jackhogan11",
       "tags": [],
       "date": "2026-03-23T12:42:00+00:00"
@@ -1421,6 +1487,17 @@
       "author": "zygon",
       "tags": [],
       "date": "2026-03-22T14:01:28+00:00"
+    },
+    {
+      "id": "hn-47477525",
+      "source": "hn",
+      "title": "Testing the Swift C compatibility with Raylib (+WASM)",
+      "url": "https://carette.xyz/posts/swift_c_compatibility_with_raylib/",
+      "score": 7,
+      "comments": 1,
+      "author": "LucidLynx",
+      "tags": [],
+      "date": "2026-03-22T13:47:57+00:00"
     },
     {
       "id": "qiita-da66d2c965",
@@ -2309,8 +2386,8 @@
       "source": "hn",
       "title": "MSA: Memory Sparse Attention",
       "url": "https://github.com/EverMind-AI/MSA",
-      "score": 55,
-      "comments": 4,
+      "score": 62,
+      "comments": 5,
       "author": "chaosprint",
       "tags": [],
       "date": "2026-03-21T14:47:58+00:00"
@@ -3040,8 +3117,8 @@
       "source": "hn",
       "title": "The Jellies That Evolved a Different Way to Keep Time",
       "url": "https://www.quantamagazine.org/the-jellies-that-evolved-a-different-way-to-keep-time-20260320/",
-      "score": 4,
-      "comments": 0,
+      "score": 11,
+      "comments": 5,
       "author": "jyunwai",
       "tags": [],
       "date": "2026-03-20T15:49:20+00:00"
@@ -4277,8 +4354,8 @@
       "source": "hn",
       "title": "No-build, no-NPM, SSR-first JavaScript framework if you hate React, love HTML",
       "url": "https://qitejs.qount25.dev",
-      "score": 88,
-      "comments": 75,
+      "score": 98,
+      "comments": 82,
       "author": "usrbinenv",
       "tags": [],
       "date": "2026-03-19T13:49:12+00:00"
@@ -5086,83 +5163,6 @@
       "author": "cyrc",
       "tags": [],
       "date": "2026-03-18T18:33:09+00:00"
-    },
-    {
-      "id": "hn-47429393",
-      "source": "hn",
-      "title": "Abusing Customizable Selects",
-      "url": "https://css-tricks.com/abusing-customizable-selects/",
-      "score": 131,
-      "comments": 7,
-      "author": "speckx",
-      "tags": [],
-      "date": "2026-03-18T18:23:10+00:00"
-    },
-    {
-      "id": "hn-47429285",
-      "source": "hn",
-      "title": "Why Lab Coats Turned White",
-      "url": "https://www.asimov.press/p/lab-coat",
-      "score": 43,
-      "comments": 26,
-      "author": "mailyk",
-      "tags": [],
-      "date": "2026-03-18T18:16:04+00:00"
-    },
-    {
-      "id": "hn-47428963",
-      "source": "hn",
-      "title": "Oil nears $110 a barrel after gas field strike",
-      "url": "https://www.bbc.com/news/articles/c78x83lpgngo",
-      "score": 66,
-      "comments": 38,
-      "author": "tartoran",
-      "tags": [],
-      "date": "2026-03-18T17:52:57+00:00"
-    },
-    {
-      "id": "hn-47428953",
-      "source": "hn",
-      "title": "Bayesian statistics for confused data scientists",
-      "url": "https://nchagnet.pages.dev/blog/bayesian-statistics-for-confused-data-scientists/",
-      "score": 142,
-      "comments": 36,
-      "author": "speckx",
-      "tags": [],
-      "date": "2026-03-18T17:52:18+00:00"
-    },
-    {
-      "id": "hn-47428868",
-      "source": "hn",
-      "title": "Show HN: Tmux-IDE, OSS agent-first terminal IDE",
-      "url": "https://tmux.thijsverreck.com",
-      "score": 65,
-      "comments": 36,
-      "author": "thijsverreck",
-      "tags": [],
-      "date": "2026-03-18T17:46:25+00:00"
-    },
-    {
-      "id": "hn-47428810",
-      "source": "hn",
-      "title": "EU Inc.: A new harmonised corporate legal regime",
-      "url": "https://commission.europa.eu/topics/business-and-industry/doing-business-eu/company-law-and-corporate-governance/eu-inc-new-harmonised-corporate-legal-regime_en",
-      "score": 65,
-      "comments": 35,
-      "author": "guidoiaquinti",
-      "tags": [],
-      "date": "2026-03-18T17:42:10+00:00"
-    },
-    {
-      "id": "hn-47428734",
-      "source": "hn",
-      "title": "I haven't used a mouse for 14 years",
-      "url": "https://axelk.ee/i-havent-used-a-mouse-for-14-years-and-how-to-enable-three-fingers-drag-on-macos/",
-      "score": 32,
-      "comments": 56,
-      "author": "speckx",
-      "tags": [],
-      "date": "2026-03-18T17:36:31+00:00"
     },
     {
       "id": "ghrel-projectdiscovery_nuclei-293442537",

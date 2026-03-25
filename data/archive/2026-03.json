@@ -1,14 +1,14 @@
 {
   "month": "2026-03",
-  "generated_at": "2026-03-25T12:59:50.973464+00:00",
+  "generated_at": "2026-03-25T14:21:09.846504+00:00",
   "total_articles": 451,
   "source_counts": {
-    "hn": 348,
-    "zennqiita": 102,
+    "hn": 350,
+    "zennqiita": 100,
     "project": 1
   },
   "severity_counts": {
-    "critical": 11,
+    "critical": 12,
     "high": 4,
     "medium": 4
   },
@@ -30,9 +30,16 @@
     {
       "title": "Wine 11 rewrites how Linux runs Windows games at kernel with massive speed gains",
       "url": "https://www.xda-developers.com/wine-11-rewrites-linux-runs-windows-games-speed-gains/",
-      "score": 1031,
+      "score": 1037,
       "source": "hn",
       "date": "2026-03-24T18:34:52+00:00"
+    },
+    {
+      "title": "Goodbye to Sora",
+      "url": "https://twitter.com/soraofficialapp/status/2036532795984715896",
+      "score": 872,
+      "source": "hn",
+      "date": "2026-03-24T20:01:05+00:00"
     },
     {
       "title": "Microsoft's \"fix\" for Windows 11",
@@ -40,13 +47,6 @@
       "score": 855,
       "source": "hn",
       "date": "2026-03-24T09:36:29+00:00"
-    },
-    {
-      "title": "Goodbye to Sora",
-      "url": "https://twitter.com/soraofficialapp/status/2036532795984715896",
-      "score": 812,
-      "source": "hn",
-      "date": "2026-03-24T20:01:05+00:00"
     },
     {
       "title": "Migrating to the EU",
@@ -63,6 +63,13 @@
       "date": "2026-03-22T18:23:40+00:00"
     },
     {
+      "title": "Tell HN: Litellm 1.82.7 and 1.82.8 on PyPI are compromised",
+      "url": "https://github.com/BerriAI/litellm/issues/24512",
+      "score": 792,
+      "source": "hn",
+      "date": "2026-03-24T12:06:29+00:00"
+    },
+    {
       "title": "Some things just take time",
       "url": "https://lucumr.pocoo.org/2026/3/20/some-things-just-take-time/",
       "score": 788,
@@ -75,13 +82,6 @@
       "score": 759,
       "source": "hn",
       "date": "2026-03-20T04:24:11+00:00"
-    },
-    {
-      "title": "Tell HN: Litellm 1.82.7 and 1.82.8 on PyPI are compromised",
-      "url": "https://github.com/BerriAI/litellm/issues/24512",
-      "score": 745,
-      "source": "hn",
-      "date": "2026-03-24T12:06:29+00:00"
     },
     {
       "title": "I'm OK being left behind, thanks",
@@ -114,7 +114,7 @@
     {
       "title": "Apple Business",
       "url": "https://www.apple.com/newsroom/2026/03/introducing-apple-business-a-new-all-in-one-platform-for-businesses-of-all-sizes/",
-      "score": 660,
+      "score": 673,
       "source": "hn",
       "date": "2026-03-24T15:29:41+00:00"
     },
@@ -155,6 +155,13 @@
     }
   ],
   "security_highlights": [
+    {
+      "title": "Open source isn't a tip jar – it's time to charge for access",
+      "url": "https://www.theregister.com/2026/03/25/open_source_bill_opinion/",
+      "severity": "critical",
+      "source": "hn",
+      "date": "2026-03-25T11:59:36+00:00"
+    },
     {
       "title": "【緊急】月間9500万DLのLiteLLMが乗っ取られた。インストールしただけでSSH鍵・AWS認証・仮想通貨が全部盗まれる",
       "url": "https://qiita.com/emi_ndk/items/2332ff5c93e63ab736ad?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",

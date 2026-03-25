@@ -1,14 +1,28 @@
 {
-  "updated_at": "2026-03-25T11:41:44.811612+00:00",
+  "updated_at": "2026-03-25T12:59:50.862782+00:00",
   "count": 500,
   "items": [
+    {
+      "id": "qiita-0430a11b9a",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "【緊急】月間9500万DLのLiteLLMが乗っ取られた。インストールしただけでSSH鍵・AWS認証・仮想通貨が全部盗まれる",
+      "url": "https://qiita.com/emi_ndk/items/2332ff5c93e63ab736ad?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "emi_ndk",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-03-25T20:42:28+09:00",
+      "severity": "critical"
+    },
     {
       "id": "hn-47515502",
       "source": "hn",
       "title": "I tried to prove I'm not AI. My aunt wasn't convinced",
       "url": "https://www.bbc.com/future/article/20260324-i-tried-to-prove-im-not-an-ai-deepfake",
-      "score": 48,
-      "comments": 32,
+      "score": 83,
+      "comments": 78,
       "author": "dabinat",
       "tags": [],
       "date": "2026-03-25T10:28:49+00:00"
@@ -31,33 +45,19 @@
       "source": "hn",
       "title": "Meta told to pay $375M for misleading users over child safety",
       "url": "https://www.bbc.com/news/articles/cql75dn07n2o",
-      "score": 77,
-      "comments": 28,
+      "score": 177,
+      "comments": 76,
       "author": "testrun",
       "tags": [],
       "date": "2026-03-25T08:52:50+00:00"
-    },
-    {
-      "id": "qiita-0430a11b9a",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "【緊急】月間9500万DLのLiteLLMが乗っ取られた。インストールしただけでSSH鍵・AWS認証・仮想通貨が全部盗まれる",
-      "url": "https://qiita.com/emi_ndk/items/2332ff5c93e63ab736ad?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "emi_ndk",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-03-25T17:50:07+09:00",
-      "severity": "critical"
     },
     {
       "id": "hn-47514603",
       "source": "hn",
       "title": "Why I forked httpx",
       "url": "https://tildeweb.nl/~michiel/httpxyz.html",
-      "score": 118,
-      "comments": 71,
+      "score": 144,
+      "comments": 97,
       "author": "roywashere",
       "tags": [],
       "date": "2026-03-25T08:05:17+00:00"
@@ -93,8 +93,8 @@
       "source": "hn",
       "title": "TurboQuant: Redefining AI efficiency with extreme compression",
       "url": "https://research.google/blog/turboquant-redefining-ai-efficiency-with-extreme-compression/",
-      "score": 196,
-      "comments": 42,
+      "score": 246,
+      "comments": 58,
       "author": "ray__",
       "tags": [],
       "date": "2026-03-25T05:00:54+00:00"
@@ -149,7 +149,7 @@
       "source": "hn",
       "title": "Show HN: DuckDB community extension for prefiltered HNSW using ACORN-1",
       "url": "https://github.com/cigrainger/duckdb-hnsw-acorn",
-      "score": 56,
+      "score": 65,
       "comments": 5,
       "author": "cigrainger",
       "tags": [],
@@ -160,8 +160,8 @@
       "source": "hn",
       "title": "VitruvianOS – Desktop Linux Inspired by the BeOS",
       "url": "https://v-os.dev",
-      "score": 167,
-      "comments": 93,
+      "score": 194,
+      "comments": 119,
       "author": "felixding",
       "tags": [],
       "date": "2026-03-25T03:17:06+00:00"
@@ -234,8 +234,8 @@
       "source": "hn",
       "title": "In Edison’s Revenge, Data Centers Are Transitioning From AC to DC",
       "url": "https://spectrum.ieee.org/data-center-dc",
-      "score": 161,
-      "comments": 193,
+      "score": 178,
+      "comments": 209,
       "author": "jnord",
       "tags": [],
       "date": "2026-03-25T00:44:55+00:00"
@@ -256,8 +256,8 @@
       "source": "hn",
       "title": "Flighty Airports",
       "url": "https://flighty.com/airports",
-      "score": 346,
-      "comments": 113,
+      "score": 363,
+      "comments": 126,
       "author": "skogstokig",
       "tags": [],
       "date": "2026-03-25T00:29:45+00:00"
@@ -316,8 +316,8 @@
       "source": "hn",
       "title": "I wanted to build vertical SaaS for pest control, so I took a technician job",
       "url": "https://www.onhand.pro/p/i-wanted-to-build-vertical-saas-for-pest-control-i-took-a-technician-job-instead",
-      "score": 316,
-      "comments": 130,
+      "score": 332,
+      "comments": 135,
       "author": "tezclarke",
       "tags": [],
       "date": "2026-03-24T21:24:33+00:00"
@@ -360,8 +360,8 @@
       "source": "hn",
       "title": "Goodbye to Sora",
       "url": "https://twitter.com/soraofficialapp/status/2036532795984715896",
-      "score": 766,
-      "comments": 556,
+      "score": 812,
+      "comments": 589,
       "author": "mikeocool",
       "tags": [],
       "date": "2026-03-24T20:01:05+00:00"
@@ -404,8 +404,8 @@
       "source": "hn",
       "title": "Wine 11 rewrites how Linux runs Windows games at kernel with massive speed gains",
       "url": "https://www.xda-developers.com/wine-11-rewrites-linux-runs-windows-games-speed-gains/",
-      "score": 991,
-      "comments": 341,
+      "score": 1031,
+      "comments": 359,
       "author": "felineflock",
       "tags": [],
       "date": "2026-03-24T18:34:52+00:00"
@@ -415,8 +415,8 @@
       "source": "hn",
       "title": "Show HN: I took back Video.js after 16 years and we rewrote it to be 88% smaller",
       "url": "https://videojs.org/blog/videojs-v10-beta-hello-world-again",
-      "score": 435,
-      "comments": 89,
+      "score": 467,
+      "comments": 92,
       "author": "Heff",
       "tags": [],
       "date": "2026-03-24T18:03:48+00:00"
@@ -459,8 +459,8 @@
       "source": "hn",
       "title": "Arm AGI CPU",
       "url": "https://newsroom.arm.com/blog/introducing-arm-agi-cpu",
-      "score": 355,
-      "comments": 265,
+      "score": 362,
+      "comments": 273,
       "author": "RealityVoid",
       "tags": [],
       "date": "2026-03-24T17:30:42+00:00"
@@ -494,8 +494,8 @@
       "source": "hn",
       "title": "Show HN: Email.md – Markdown to responsive, email-safe HTML",
       "url": "https://www.emailmd.dev/",
-      "score": 306,
-      "comments": 79,
+      "score": 319,
+      "comments": 82,
       "author": "dancablam",
       "tags": [],
       "date": "2026-03-24T16:26:00+00:00"
@@ -538,8 +538,8 @@
       "source": "hn",
       "title": "Apple Business",
       "url": "https://www.apple.com/newsroom/2026/03/introducing-apple-business-a-new-all-in-one-platform-for-businesses-of-all-sizes/",
-      "score": 646,
-      "comments": 365,
+      "score": 660,
+      "comments": 372,
       "author": "soheilpro",
       "tags": [],
       "date": "2026-03-24T15:29:41+00:00"
@@ -593,8 +593,8 @@
       "source": "hn",
       "title": "Show HN: Gemini can now natively embed video, so I built sub-second video search",
       "url": "https://github.com/ssrajadh/sentrysearch",
-      "score": 344,
-      "comments": 91,
+      "score": 358,
+      "comments": 92,
       "author": "sohamrj",
       "tags": [],
       "date": "2026-03-24T14:58:27+00:00"
@@ -683,8 +683,8 @@
       "source": "hn",
       "title": "Why did the chicken cross the road?",
       "url": "https://taylor.town/other-side",
-      "score": 21,
-      "comments": 5,
+      "score": 29,
+      "comments": 11,
       "author": "surprisetalk",
       "tags": [],
       "date": "2026-03-24T12:46:22+00:00"
@@ -716,8 +716,8 @@
       "source": "hn",
       "title": "Tell HN: Litellm 1.82.7 and 1.82.8 on PyPI are compromised",
       "url": "https://github.com/BerriAI/litellm/issues/24512",
-      "score": 718,
-      "comments": 435,
+      "score": 745,
+      "comments": 441,
       "author": "dot_treo",
       "tags": [],
       "date": "2026-03-24T12:06:29+00:00"
@@ -1935,6 +1935,17 @@
       "date": "2026-03-22T22:01:03+00:00"
     },
     {
+      "id": "hn-47482259",
+      "source": "hn",
+      "title": "Microbenchmarking Chipsets for Giggles",
+      "url": "https://chipsandcheese.com/p/microbenchmarking-chipsets-for-giggles",
+      "score": 12,
+      "comments": 0,
+      "author": "zdw",
+      "tags": [],
+      "date": "2026-03-22T21:18:30+00:00"
+    },
+    {
       "id": "hn-47482217",
       "source": "hn",
       "title": "GrapheneOS will remain usable by anyone without requiring personal information",
@@ -2095,8 +2106,8 @@
       "source": "hn",
       "title": "VNDB founder Yorhel has died",
       "url": "https://vndb.org/t24787",
-      "score": 46,
-      "comments": 9,
+      "score": 74,
+      "comments": 13,
       "author": "indrora",
       "tags": [],
       "date": "2026-03-22T16:44:18+00:00"
@@ -2736,8 +2747,8 @@
       "source": "hn",
       "title": "Looking at Unity made me understand the point of C++ coroutines",
       "url": "https://mropert.github.io/2026/03/20/unity_cpp_coroutines/",
-      "score": 33,
-      "comments": 15,
+      "score": 64,
+      "comments": 42,
       "author": "ingve",
       "tags": [],
       "date": "2026-03-21T23:19:28+00:00"
@@ -2760,7 +2771,7 @@
       "source": "hn",
       "title": "Fun with CSF firmware (RK3588 GPU firmware)",
       "url": "https://icecream95.gitlab.io/fun-with-csf-firmware.html",
-      "score": 36,
+      "score": 43,
       "comments": 0,
       "author": "M95D",
       "tags": [],
@@ -2771,8 +2782,8 @@
       "source": "hn",
       "title": "The Last Testaments of Richard II and Henry IV",
       "url": "https://www.historytoday.com/archive/feature/last-testaments-richard-ii-and-henry-iv",
-      "score": 17,
-      "comments": 2,
+      "score": 33,
+      "comments": 7,
       "author": "Petiver",
       "tags": [],
       "date": "2026-03-21T22:12:47+00:00"
@@ -3532,8 +3543,8 @@
       "source": "hn",
       "title": "Algorithm Visualizer",
       "url": "https://algorithm-visualizer.org/",
-      "score": 118,
-      "comments": 5,
+      "score": 135,
+      "comments": 7,
       "author": "vinhnx",
       "tags": [],
       "date": "2026-03-21T02:47:26+00:00"
@@ -4191,8 +4202,8 @@
       "source": "hn",
       "title": "You can run a DNS server (2025)",
       "url": "https://simonsafar.com/2025/running_dns/",
-      "score": 85,
-      "comments": 52,
+      "score": 100,
+      "comments": 60,
       "author": "surprisetalk",
       "tags": [],
       "date": "2026-03-20T12:42:40+00:00"
@@ -5165,17 +5176,6 @@
       "date": "2026-03-19T23:33:28+09:00"
     },
     {
-      "id": "hn-47439948",
-      "source": "hn",
-      "title": "A Copy-Paste Bug That Broke PSpice AES-256 Encryption",
-      "url": "https://jtsylve.blog/post/2026/03/18/PSpice-Encryption-Weakness",
-      "score": 54,
-      "comments": 11,
-      "author": "jtsylve",
-      "tags": [],
-      "date": "2026-03-19T14:18:58+00:00"
-    },
-    {
       "id": "ghrel-projectdiscovery_nuclei-293442537",
       "source": "project",
       "proj_category": "Tools",
@@ -5386,6 +5386,19 @@
       "date": "2023-05-23T17:06:23Z"
     },
     {
+      "id": "zenn-c8e3bf26d3",
+      "source": "zennqiita",
+      "sub_source": "Zenn",
+      "title": "Microsoft Learn参照させるAgent Skillsあるじゃん！",
+      "url": "https://zenn.dev/headwaters/articles/d4417cd67f7935",
+      "score": null,
+      "author": "ai chinen",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Tue, 24 Mar 2026 10:32:04 GMT"
+    },
+    {
       "id": "zenn-ba2b9e910d",
       "source": "zennqiita",
       "sub_source": "Zenn",
@@ -5410,19 +5423,6 @@
         "Zenn"
       ],
       "date": "Tue, 24 Mar 2026 05:44:34 GMT"
-    },
-    {
-      "id": "zenn-1b336674fb",
-      "source": "zennqiita",
-      "sub_source": "Zenn",
-      "title": "NVIDIA RTX PRO 6000 Blackwell Max-Q 上で尾崎スキーム I を動かしてみる",
-      "url": "https://zenn.dev/fixstars/articles/6000-max-q-ozaki-i-scheme",
-      "score": null,
-      "author": "Haruki Horike",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Tue, 24 Mar 2026 05:26:10 GMT"
     },
     {
       "id": "zenn-a207bdf87d",
@@ -5542,19 +5542,6 @@
       "date": "Mon, 23 Mar 2026 06:12:32 GMT"
     },
     {
-      "id": "zenn-6eba31331c",
-      "source": "zennqiita",
-      "sub_source": "Zenn",
-      "title": "Rust で異なるシグネチャの関数に引数を自動で渡す仕組みを理解する",
-      "url": "https://zenn.dev/estie/articles/16a3d3cb302f15",
-      "score": null,
-      "author": "mosson",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Mon, 23 Mar 2026 05:01:01 GMT"
-    },
-    {
       "id": "zenn-ed6b6ea3ac",
       "source": "zennqiita",
       "sub_source": "Zenn",
@@ -5631,6 +5618,19 @@
         "Zenn"
       ],
       "date": "Sun, 22 Mar 2026 09:18:21 GMT"
+    },
+    {
+      "id": "zenn-f253cf29b2",
+      "source": "zennqiita",
+      "sub_source": "Zenn",
+      "title": "仕事はすべてSkillに書け - それ、Skill にしない？",
+      "url": "https://zenn.dev/jackchuka/articles/e2b6daa978a6c5",
+      "score": null,
+      "author": "jackchuka",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Sun, 22 Mar 2026 03:21:43 GMT"
     },
     {
       "id": "zenn-968c20124c",

@@ -1,9 +1,16 @@
 {
   "date": "2026-03-25",
-  "generated_at": "2026-03-25T07:53:51.985999+00:00",
-  "total_articles": 58,
-  "urgent_count": 2,
+  "generated_at": "2026-03-25T08:44:05.630576+00:00",
+  "total_articles": 67,
+  "urgent_count": 3,
   "urgent_items": [
+    {
+      "title": "【緊急】月間9500万DLのLiteLLMが乗っ取られた。インストールしただけでSSH鍵・AWS認証・仮想通貨が全部盗まれる",
+      "url": "https://qiita.com/emi_ndk/items/2332ff5c93e63ab736ad?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "severity": "critical",
+      "source": "zennqiita",
+      "date": "2026-03-25T03:04:17+09:00"
+    },
     {
       "title": "Meta ordered to pay $375M in New Mexico trial over child exploitation",
       "url": "https://www.reuters.com/sustainability/boards-policy-regulation/jury-orders-meta-pay-375-mln-new-mexico-lawsuit-over-child-sexual-exploitation-2026-03-24/",
@@ -22,12 +29,12 @@
   "categories": [
     {
       "category": "テクノロジー",
-      "count": 55,
+      "count": 54,
       "top_items": [
         {
           "title": "Wine 11 rewrites how Linux runs Windows games at kernel with massive speed gains",
           "url": "https://www.xda-developers.com/wine-11-rewrites-linux-runs-windows-games-speed-gains/",
-          "score": 857,
+          "score": 897,
           "source": "hn",
           "severity": null,
           "date": "2026-03-24T18:34:52+00:00"
@@ -51,7 +58,7 @@
         {
           "title": "Goodbye to Sora",
           "url": "https://twitter.com/soraofficialapp/status/2036532795984715896",
-          "score": 647,
+          "score": 677,
           "source": "hn",
           "severity": null,
           "date": "2026-03-24T20:01:05+00:00"
@@ -59,7 +66,7 @@
         {
           "title": "Tell HN: Litellm 1.82.7 and 1.82.8 on PyPI are compromised",
           "url": "https://github.com/BerriAI/litellm/issues/24512",
-          "score": 625,
+          "score": 648,
           "source": "hn",
           "severity": null,
           "date": "2026-03-24T12:06:29+00:00"
@@ -68,8 +75,24 @@
     },
     {
       "category": "日本語技術記事",
-      "count": 3,
+      "count": 13,
       "top_items": [
+        {
+          "title": "【Claude Code】Agentに入れるべきSkills 20選｜skills.sh活用ガイド",
+          "url": "https://qiita.com/yamamoto0/items/17817dc09a78078fa132?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "score": null,
+          "source": "zennqiita",
+          "severity": null,
+          "date": "2026-03-25T16:17:59+09:00"
+        },
+        {
+          "title": "【後編】「バグが出ました。」それは報告？相談？ ― 意識の違いでシゴデキエンジニアに！！ ―",
+          "url": "https://qiita.com/hitomin_poke/items/114b2fdc1b50e3676ba8?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "score": null,
+          "source": "zennqiita",
+          "severity": null,
+          "date": "2026-03-25T16:04:07+09:00"
+        },
         {
           "title": "Figmaから Pencil.dev に乗り換えを検討してみた Part.1【検証編】",
           "url": "https://qiita.com/kobayashimakoto/items/b11ebbcf7e14ff251b76?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
@@ -79,20 +102,20 @@
           "date": "2026-03-25T14:23:22+09:00"
         },
         {
-          "title": "Windows でしか動かない描画処理をブラウザで動かす OSS を公開した",
-          "url": "https://qiita.com/LostMyCode/items/c38c831b8e1cb6dafa70?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "title": "Oracle Database In-Memory をためしてみてみた",
+          "url": "https://qiita.com/shirok/items/3d0e5b5f55598feebdff?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
           "score": null,
           "source": "zennqiita",
           "severity": null,
-          "date": "2026-03-24T22:41:49+09:00"
+          "date": "2026-03-25T12:00:31+09:00"
         },
         {
-          "title": "プロが毎日使ってるClaude Codeの隠しコマンド＆ショートカットキー",
-          "url": "https://qiita.com/Yuuto127/items/f6b1680ede88de76d372?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "title": "AI駆動開発でETH/JPY自動売買ボットを作って不労所得ｶﾞｯﾎﾟｶﾞｯﾎﾟ",
+          "url": "https://qiita.com/bakuchiku/items/4dcb7c27c053b28543b4?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
           "score": null,
           "source": "zennqiita",
           "severity": null,
-          "date": "2026-03-24T17:54:24+09:00"
+          "date": "2026-03-25T10:08:37+09:00"
         }
       ]
     }

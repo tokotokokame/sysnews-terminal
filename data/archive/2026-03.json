@@ -1,6 +1,6 @@
 {
   "month": "2026-03",
-  "generated_at": "2026-03-25T21:01:20.980917+00:00",
+  "generated_at": "2026-03-25T22:00:44.185365+00:00",
   "total_articles": 451,
   "source_counts": {
     "hn": 348,
@@ -9,7 +9,7 @@
   },
   "severity_counts": {
     "medium": 4,
-    "critical": 11,
+    "critical": 10,
     "high": 4
   },
   "top_articles": [
@@ -23,7 +23,7 @@
     {
       "title": "Goodbye to Sora",
       "url": "https://twitter.com/soraofficialapp/status/2036532795984715896",
-      "score": 1040,
+      "score": 1062,
       "source": "hn",
       "date": "2026-03-24T20:01:05+00:00"
     },
@@ -119,18 +119,18 @@
       "date": "2026-03-22T15:16:28+00:00"
     },
     {
+      "title": "My astrophotography in the movie Project Hail Mary",
+      "url": "https://rpastro.square.site/s/stories/phm",
+      "score": 624,
+      "source": "hn",
+      "date": "2026-03-22T14:28:06+00:00"
+    },
+    {
       "title": "Chuck Norris has died",
       "url": "https://variety.com/2026/film/news/chuck-norris-dead-walker-texas-ranger-dies-1236694953/",
       "score": 619,
       "source": "hn",
       "date": "2026-03-20T14:09:58+00:00"
-    },
-    {
-      "title": "Delve – Fake Compliance as a Service",
-      "url": "https://deepdelver.substack.com/p/delve-fake-compliance-as-a-service",
-      "score": 617,
-      "source": "hn",
-      "date": "2026-03-19T19:08:02+00:00"
     },
     {
       "title": "France's aircraft carrier located in real time by Le Monde through fitness app",
@@ -147,11 +147,11 @@
       "date": "2026-03-24T18:03:48+00:00"
     },
     {
-      "title": "My astrophotography in the movie Project Hail Mary",
-      "url": "https://rpastro.square.site/s/stories/phm",
-      "score": 586,
+      "title": "Tinybox – A powerful computer for deep learning",
+      "url": "https://tinygrad.org/#tinybox",
+      "score": 561,
       "source": "hn",
-      "date": "2026-03-22T14:28:06+00:00"
+      "date": "2026-03-21T20:08:37+00:00"
     }
   ],
   "security_highlights": [
@@ -252,13 +252,6 @@
       "severity": "critical",
       "source": "hn",
       "date": "2026-03-19T22:33:08+00:00"
-    },
-    {
-      "title": "Clockwise acquired by Salesforce",
-      "url": "https://www.getclockwise.com",
-      "severity": "critical",
-      "source": "hn",
-      "date": "2026-03-19T19:50:51+00:00"
     }
   ]
 }

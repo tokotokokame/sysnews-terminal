@@ -1,7 +1,7 @@
 {
   "date": "2026-03-25",
-  "generated_at": "2026-03-25T09:50:05.490676+00:00",
-  "total_articles": 65,
+  "generated_at": "2026-03-25T10:43:46.103239+00:00",
+  "total_articles": 64,
   "urgent_count": 3,
   "urgent_items": [
     {
@@ -29,12 +29,12 @@
   "categories": [
     {
       "category": "テクノロジー",
-      "count": 53,
+      "count": 52,
       "top_items": [
         {
           "title": "Wine 11 rewrites how Linux runs Windows games at kernel with massive speed gains",
           "url": "https://www.xda-developers.com/wine-11-rewrites-linux-runs-windows-games-speed-gains/",
-          "score": 933,
+          "score": 961,
           "source": "hn",
           "severity": null,
           "date": "2026-03-24T18:34:52+00:00"
@@ -42,10 +42,18 @@
         {
           "title": "Goodbye to Sora",
           "url": "https://twitter.com/soraofficialapp/status/2036532795984715896",
-          "score": 710,
+          "score": 738,
           "source": "hn",
           "severity": null,
           "date": "2026-03-24T20:01:05+00:00"
+        },
+        {
+          "title": "Tell HN: Litellm 1.82.7 and 1.82.8 on PyPI are compromised",
+          "url": "https://github.com/BerriAI/litellm/issues/24512",
+          "score": 693,
+          "source": "hn",
+          "severity": null,
+          "date": "2026-03-24T12:06:29+00:00"
         },
         {
           "title": "Malicious litellm_init.pth in litellm 1.82.8 PyPI package – credential stealer",
@@ -56,17 +64,9 @@
           "date": "2026-03-24T12:36:20+00:00"
         },
         {
-          "title": "Tell HN: Litellm 1.82.7 and 1.82.8 on PyPI are compromised",
-          "url": "https://github.com/BerriAI/litellm/issues/24512",
-          "score": 677,
-          "source": "hn",
-          "severity": null,
-          "date": "2026-03-24T12:06:29+00:00"
-        },
-        {
           "title": "Apple Business",
           "url": "https://www.apple.com/newsroom/2026/03/introducing-apple-business-a-new-all-in-one-platform-for-businesses-of-all-sizes/",
-          "score": 626,
+          "score": 635,
           "source": "hn",
           "severity": null,
           "date": "2026-03-24T15:29:41+00:00"

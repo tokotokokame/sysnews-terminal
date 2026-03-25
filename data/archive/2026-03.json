@@ -1,15 +1,15 @@
 {
   "month": "2026-03",
-  "generated_at": "2026-03-25T20:00:49.563926+00:00",
+  "generated_at": "2026-03-25T21:01:20.980917+00:00",
   "total_articles": 451,
   "source_counts": {
-    "hn": 350,
-    "zennqiita": 100,
+    "hn": 348,
+    "zennqiita": 102,
     "project": 1
   },
   "severity_counts": {
     "medium": 4,
-    "critical": 12,
+    "critical": 11,
     "high": 4
   },
   "top_articles": [
@@ -21,18 +21,18 @@
       "date": "2026-03-20T21:03:52+00:00"
     },
     {
+      "title": "Goodbye to Sora",
+      "url": "https://twitter.com/soraofficialapp/status/2036532795984715896",
+      "score": 1040,
+      "source": "hn",
+      "date": "2026-03-24T20:01:05+00:00"
+    },
+    {
       "title": "Wine 11 rewrites how Linux runs Windows games at kernel with massive speed gains",
       "url": "https://www.xda-developers.com/wine-11-rewrites-linux-runs-windows-games-speed-gains/",
       "score": 1037,
       "source": "hn",
       "date": "2026-03-24T18:34:52+00:00"
-    },
-    {
-      "title": "Goodbye to Sora",
-      "url": "https://twitter.com/soraofficialapp/status/2036532795984715896",
-      "score": 1025,
-      "source": "hn",
-      "date": "2026-03-24T20:01:05+00:00"
     },
     {
       "title": "Tell HN: Litellm 1.82.7 and 1.82.8 on PyPI are compromised",
@@ -142,16 +142,16 @@
     {
       "title": "Show HN: I took back Video.js after 16 years and we rewrote it to be 88% smaller",
       "url": "https://videojs.org/blog/videojs-v10-beta-hello-world-again",
-      "score": 584,
+      "score": 594,
       "source": "hn",
       "date": "2026-03-24T18:03:48+00:00"
     },
     {
-      "title": "Tinybox – A powerful computer for deep learning",
-      "url": "https://tinygrad.org/#tinybox",
-      "score": 561,
+      "title": "My astrophotography in the movie Project Hail Mary",
+      "url": "https://rpastro.square.site/s/stories/phm",
+      "score": 586,
       "source": "hn",
-      "date": "2026-03-21T20:08:37+00:00"
+      "date": "2026-03-22T14:28:06+00:00"
     }
   ],
   "security_highlights": [
@@ -259,13 +259,6 @@
       "severity": "critical",
       "source": "hn",
       "date": "2026-03-19T19:50:51+00:00"
-    },
-    {
-      "title": "Show HN: Oku – One tab to filter out noise from feeds and content sources",
-      "url": "https://oku.io",
-      "severity": "critical",
-      "source": "hn",
-      "date": "2026-03-19T17:27:45+00:00"
     }
   ]
 }

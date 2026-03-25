@@ -1,7 +1,40 @@
 {
-  "updated_at": "2026-03-25T16:10:34.725973+00:00",
+  "updated_at": "2026-03-25T16:58:44.532248+00:00",
   "count": 500,
   "items": [
+    {
+      "id": "hn-47519625",
+      "source": "hn",
+      "title": "Jury says Meta knowingly harmed children for profit, awarding landmark verdict",
+      "url": "https://www.latimes.com/business/story/2026-03-25/jury-says-meta-knowingly-harmed-children-for-profit-awarding-landmark-verdict",
+      "score": 16,
+      "comments": 1,
+      "author": "1vuio0pswjnm7",
+      "tags": [],
+      "date": "2026-03-25T16:31:15+00:00"
+    },
+    {
+      "id": "hn-47519308",
+      "source": "hn",
+      "title": "A Eulogy for Vim",
+      "url": "https://drewdevault.com/2026/03/25/2026-03-25-Forking-vim.html",
+      "score": 60,
+      "comments": 38,
+      "author": "mtts",
+      "tags": [],
+      "date": "2026-03-25T16:07:12+00:00"
+    },
+    {
+      "id": "hn-47519295",
+      "source": "hn",
+      "title": "Quantization from the Ground Up",
+      "url": "https://ngrok.com/blog/quantization",
+      "score": 14,
+      "comments": 1,
+      "author": "samwho",
+      "tags": [],
+      "date": "2026-03-25T16:06:34+00:00"
+    },
     {
       "id": "qiita-4a27fc7b4f",
       "source": "zennqiita",
@@ -14,6 +47,28 @@
         "Qiita"
       ],
       "date": "2026-03-26T00:49:53+09:00"
+    },
+    {
+      "id": "hn-47518965",
+      "source": "hn",
+      "title": "Musketeer d'Artagnan's remains believed found under Dutch church",
+      "url": "https://www.bbc.co.uk/news/articles/cm2rew2dgzzo",
+      "score": 18,
+      "comments": 1,
+      "author": "xenocratus",
+      "tags": [],
+      "date": "2026-03-25T15:46:44+00:00"
+    },
+    {
+      "id": "hn-47518785",
+      "source": "hn",
+      "title": "Sony V. Cox Decision Reversed",
+      "url": "https://supreme.justia.com/cases/federal/us/607/24-171/",
+      "score": 23,
+      "comments": 20,
+      "author": "rileymichael",
+      "tags": [],
+      "date": "2026-03-25T15:34:02+00:00"
     },
     {
       "id": "hn-47518649",
@@ -31,8 +86,8 @@
       "source": "hn",
       "title": "Antimatter has been transported for the first time",
       "url": "https://www.nature.com/articles/d41586-026-00950-w",
-      "score": 70,
-      "comments": 18,
+      "score": 120,
+      "comments": 47,
       "author": "leephillips",
       "tags": [],
       "date": "2026-03-25T14:56:28+00:00"
@@ -53,8 +108,8 @@
       "source": "hn",
       "title": "Thoughts on Slowing the Fuck Down",
       "url": "https://mariozechner.at/posts/2026-03-25-thoughts-on-slowing-the-fuck-down/",
-      "score": 7,
-      "comments": 0,
+      "score": 89,
+      "comments": 54,
       "author": "jdkoeck",
       "tags": [],
       "date": "2026-03-25T14:07:14+00:00"
@@ -64,8 +119,8 @@
       "source": "hn",
       "title": "Local LLM App by Ente",
       "url": "https://ente.com/blog/ensu/",
-      "score": 185,
-      "comments": 70,
+      "score": 217,
+      "comments": 95,
       "author": "matthiaswh",
       "tags": [],
       "date": "2026-03-25T12:49:14+00:00"
@@ -101,8 +156,8 @@
       "source": "hn",
       "title": "Building a coding agent in Swift from scratch",
       "url": "https://github.com/ivan-magda/swift-claude-code",
-      "score": 29,
-      "comments": 10,
+      "score": 36,
+      "comments": 12,
       "author": "vanyaland",
       "tags": [],
       "date": "2026-03-25T10:45:40+00:00"
@@ -184,8 +239,8 @@
       "source": "hn",
       "title": "TurboQuant: Redefining AI efficiency with extreme compression",
       "url": "https://research.google/blog/turboquant-redefining-ai-efficiency-with-extreme-compression/",
-      "score": 354,
-      "comments": 98,
+      "score": 373,
+      "comments": 105,
       "author": "ray__",
       "tags": [],
       "date": "2026-03-25T05:00:54+00:00"
@@ -206,8 +261,8 @@
       "source": "hn",
       "title": "Miscellanea: The War in Iran",
       "url": "https://acoup.blog/2026/03/25/miscellanea-the-war-in-iran/",
-      "score": 147,
-      "comments": 175,
+      "score": 169,
+      "comments": 215,
       "author": "decimalenough",
       "tags": [],
       "date": "2026-03-25T04:27:14+00:00"
@@ -251,8 +306,8 @@
       "source": "hn",
       "title": "VitruvianOS – Desktop Linux Inspired by the BeOS",
       "url": "https://v-os.dev",
-      "score": 266,
-      "comments": 162,
+      "score": 270,
+      "comments": 168,
       "author": "felixding",
       "tags": [],
       "date": "2026-03-25T03:17:06+00:00"
@@ -323,10 +378,10 @@
     {
       "id": "hn-47511703",
       "source": "hn",
-      "title": "In Edison’s Revenge, Data Centers Are Transitioning From AC to DC",
+      "title": "Data centers are transitioning from AC to DC",
       "url": "https://spectrum.ieee.org/data-center-dc",
-      "score": 219,
-      "comments": 264,
+      "score": 227,
+      "comments": 278,
       "author": "jnord",
       "tags": [],
       "date": "2026-03-25T00:44:55+00:00"
@@ -347,8 +402,8 @@
       "source": "hn",
       "title": "Flighty Airports",
       "url": "https://flighty.com/airports",
-      "score": 440,
-      "comments": 155,
+      "score": 453,
+      "comments": 158,
       "author": "skogstokig",
       "tags": [],
       "date": "2026-03-25T00:29:45+00:00"
@@ -407,8 +462,8 @@
       "source": "hn",
       "title": "I wanted to build vertical SaaS for pest control, so I took a technician job",
       "url": "https://www.onhand.pro/p/i-wanted-to-build-vertical-saas-for-pest-control-i-took-a-technician-job-instead",
-      "score": 377,
-      "comments": 157,
+      "score": 382,
+      "comments": 160,
       "author": "tezclarke",
       "tags": [],
       "date": "2026-03-24T21:24:33+00:00"
@@ -451,8 +506,8 @@
       "source": "hn",
       "title": "Goodbye to Sora",
       "url": "https://twitter.com/soraofficialapp/status/2036532795984715896",
-      "score": 940,
-      "comments": 682,
+      "score": 961,
+      "comments": 715,
       "author": "mikeocool",
       "tags": [],
       "date": "2026-03-24T20:01:05+00:00"
@@ -506,8 +561,8 @@
       "source": "hn",
       "title": "Show HN: I took back Video.js after 16 years and we rewrote it to be 88% smaller",
       "url": "https://videojs.org/blog/videojs-v10-beta-hello-world-again",
-      "score": 529,
-      "comments": 102,
+      "score": 541,
+      "comments": 111,
       "author": "Heff",
       "tags": [],
       "date": "2026-03-24T18:03:48+00:00"
@@ -629,8 +684,8 @@
       "source": "hn",
       "title": "Apple Business",
       "url": "https://www.apple.com/newsroom/2026/03/introducing-apple-business-a-new-all-in-one-platform-for-businesses-of-all-sizes/",
-      "score": 687,
-      "comments": 383,
+      "score": 692,
+      "comments": 389,
       "author": "soheilpro",
       "tags": [],
       "date": "2026-03-24T15:29:41+00:00"
@@ -807,8 +862,8 @@
       "source": "hn",
       "title": "Tell HN: Litellm 1.82.7 and 1.82.8 on PyPI are compromised",
       "url": "https://github.com/BerriAI/litellm/issues/24512",
-      "score": 833,
-      "comments": 458,
+      "score": 852,
+      "comments": 462,
       "author": "dot_treo",
       "tags": [],
       "date": "2026-03-24T12:06:29+00:00"
@@ -1338,6 +1393,17 @@
       "author": "ecshafer",
       "tags": [],
       "date": "2026-03-23T18:57:08+00:00"
+    },
+    {
+      "id": "hn-47493567",
+      "source": "hn",
+      "title": "Show HN: I built a site that maps the web from a bounty hunter's perspective",
+      "url": "https://www.neobotnet.com/",
+      "score": 7,
+      "comments": 0,
+      "author": "caffeinedoom",
+      "tags": [],
+      "date": "2026-03-23T18:49:02+00:00"
     },
     {
       "id": "hn-47493460",
@@ -2030,7 +2096,7 @@
       "source": "hn",
       "title": "Microbenchmarking Chipsets for Giggles",
       "url": "https://chipsandcheese.com/p/microbenchmarking-chipsets-for-giggles",
-      "score": 38,
+      "score": 40,
       "comments": 2,
       "author": "zdw",
       "tags": [],
@@ -2197,8 +2263,8 @@
       "source": "hn",
       "title": "VNDB founder Yorhel has died",
       "url": "https://vndb.org/t24787",
-      "score": 119,
-      "comments": 23,
+      "score": 131,
+      "comments": 24,
       "author": "indrora",
       "tags": [],
       "date": "2026-03-22T16:44:18+00:00"
@@ -2287,8 +2353,8 @@
       "source": "hn",
       "title": "My Astrophotography in the Movie Project Hail Mary",
       "url": "https://rpastro.square.site/s/stories/phm",
-      "score": 246,
-      "comments": 86,
+      "score": 313,
+      "comments": 98,
       "author": "wallflower",
       "tags": [],
       "date": "2026-03-22T14:28:06+00:00"
@@ -2836,8 +2902,8 @@
       "source": "hn",
       "title": "Looking at Unity made me understand the point of C++ coroutines",
       "url": "https://mropert.github.io/2026/03/20/unity_cpp_coroutines/",
-      "score": 97,
-      "comments": 83,
+      "score": 105,
+      "comments": 90,
       "author": "ingve",
       "tags": [],
       "date": "2026-03-21T23:19:28+00:00"
@@ -5105,72 +5171,6 @@
       "author": "Betelbuddy",
       "tags": [],
       "date": "2026-03-19T17:07:17+00:00"
-    },
-    {
-      "id": "hn-47442435",
-      "source": "hn",
-      "title": "Scaling Karpathy's Autoresearch: What Happens When the Agent Gets a GPU Cluster",
-      "url": "https://blog.skypilot.co/scaling-autoresearch/",
-      "score": 193,
-      "comments": 82,
-      "author": "hopechong",
-      "tags": [],
-      "date": "2026-03-19T16:55:45+00:00"
-    },
-    {
-      "id": "hn-47442215",
-      "source": "hn",
-      "title": "Love of corporate bullshit is correlated with bad judgment",
-      "url": "https://pluralistic.net/2026/03/19/jargon-watch/",
-      "score": 54,
-      "comments": 17,
-      "author": "hn_acker",
-      "tags": [],
-      "date": "2026-03-19T16:41:39+00:00"
-    },
-    {
-      "id": "hn-47442194",
-      "source": "hn",
-      "title": "Vectorization of Verilog Designs and its Effects on Verification and Synthesis",
-      "url": "https://arxiv.org/abs/2603.17099",
-      "score": 14,
-      "comments": 1,
-      "author": "matt_d",
-      "tags": [],
-      "date": "2026-03-19T16:40:37+00:00"
-    },
-    {
-      "id": "hn-47441784",
-      "source": "hn",
-      "title": "World Happiness Report 2026",
-      "url": "https://www.worldhappiness.report/ed/2026/",
-      "score": 95,
-      "comments": 64,
-      "author": "ChrisArchitect",
-      "tags": [],
-      "date": "2026-03-19T16:12:48+00:00"
-    },
-    {
-      "id": "hn-47441587",
-      "source": "hn",
-      "title": "Show HN: Dumped Wix for an AI Edge agent so I never have to hire junior staff",
-      "url": "https://axoworks.com/",
-      "score": 3,
-      "comments": 0,
-      "author": "axotopia",
-      "tags": [],
-      "date": "2026-03-19T15:59:04+00:00"
-    },
-    {
-      "id": "hn-47441546",
-      "source": "hn",
-      "title": "Show HN: Three new Kitten TTS models – smallest less than 25MB",
-      "url": "https://github.com/KittenML/KittenTTS",
-      "score": 491,
-      "comments": 166,
-      "author": "rohan_joshi",
-      "tags": [],
-      "date": "2026-03-19T15:56:06+00:00"
     },
     {
       "id": "ghrel-projectdiscovery_nuclei-293442537",

@@ -1,17 +1,39 @@
 {
-  "updated_at": "2026-03-26T19:56:33.067536+00:00",
+  "updated_at": "2026-03-26T20:34:58.943064+00:00",
   "count": 500,
   "items": [
     {
       "id": "hn-47534848",
       "source": "hn",
-      "title": "We Haven't Seen the Worst of What Gambling and Prediction Markets Will Do",
+      "title": "We haven't seen the worst of what gambling and prediction markets will do",
       "url": "https://www.derekthompson.org/p/we-havent-seen-the-worst-of-what",
-      "score": 5,
-      "comments": 0,
+      "score": 147,
+      "comments": 82,
       "author": "mmcclure",
       "tags": [],
       "date": "2026-03-26T19:48:05+00:00"
+    },
+    {
+      "id": "hn-47534837",
+      "source": "hn",
+      "title": "How much precision can you squeeze out of a table?",
+      "url": "https://www.johndcook.com/blog/2026/03/26/table-precision/",
+      "score": 14,
+      "comments": 2,
+      "author": "nomemory",
+      "tags": [],
+      "date": "2026-03-26T19:47:01+00:00"
+    },
+    {
+      "id": "hn-47534629",
+      "source": "hn",
+      "title": "CERN to host Europe's flagship open access publishing platform",
+      "url": "https://home.cern/news/news/cern/cern-host-europes-flagship-open-access-publishing-platform",
+      "score": 49,
+      "comments": 1,
+      "author": "JohnHammersley",
+      "tags": [],
+      "date": "2026-03-26T19:30:35+00:00"
     },
     {
       "id": "hn-47534578",
@@ -29,8 +51,8 @@
       "source": "hn",
       "title": "Show HN: Turbolite – a SQLite VFS serving sub-250ms cold JOIN queries from S3",
       "url": "https://github.com/russellromney/turbolite",
-      "score": 19,
-      "comments": 5,
+      "score": 44,
+      "comments": 10,
       "author": "russellthehippo",
       "tags": [],
       "date": "2026-03-26T18:58:19+00:00"
@@ -40,8 +62,8 @@
       "source": "hn",
       "title": "John Bradley, author of xv, has passed away",
       "url": "https://voxday.net/2026/03/25/rip-john-bradley/",
-      "score": 57,
-      "comments": 23,
+      "score": 94,
+      "comments": 36,
       "author": "linsomniac",
       "tags": [],
       "date": "2026-03-26T18:38:50+00:00"
@@ -51,8 +73,8 @@
       "source": "hn",
       "title": "Taming LLMs: Using Executable Oracles to Prevent Bad Code",
       "url": "https://john.regehr.org/writing/zero_dof_programming.html",
-      "score": 10,
-      "comments": 0,
+      "score": 13,
+      "comments": 3,
       "author": "mad44",
       "tags": [],
       "date": "2026-03-26T17:51:42+00:00"
@@ -62,8 +84,8 @@
       "source": "hn",
       "title": "Colibri – chat platform built on the AT Protocol for communities big and small",
       "url": "https://colibri.social/",
-      "score": 68,
-      "comments": 24,
+      "score": 80,
+      "comments": 31,
       "author": "todotask2",
       "tags": [],
       "date": "2026-03-26T17:29:58+00:00"
@@ -73,19 +95,32 @@
       "source": "hn",
       "title": "Building a Blog with Elixir and Phoenix",
       "url": "https://jola.dev/posts/building-a-blog-with-elixir-and-phoenix",
-      "score": 41,
-      "comments": 2,
+      "score": 47,
+      "comments": 3,
       "author": "shintoist",
       "tags": [],
       "date": "2026-03-26T17:16:21+00:00"
+    },
+    {
+      "id": "qiita-26d279d507",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "最速？ AWS Microcredential 4冠達成した記念",
+      "url": "https://qiita.com/sense_of_unity/items/e116193a0c1c584a9b90?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "sense_of_unity",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-03-27T02:04:46+09:00"
     },
     {
       "id": "hn-47532339",
       "source": "hn",
       "title": "OpenTelemetry profiles enters public alpha",
       "url": "https://opentelemetry.io/blog/2026/profiles-alpha/",
-      "score": 88,
-      "comments": 10,
+      "score": 101,
+      "comments": 11,
       "author": "tanelpoder",
       "tags": [],
       "date": "2026-03-26T16:14:56+00:00"
@@ -95,8 +130,8 @@
       "source": "hn",
       "title": "Stripe Projects: Provision and manage services from the CLI",
       "url": "https://projects.dev/",
-      "score": 64,
-      "comments": 16,
+      "score": 71,
+      "comments": 18,
       "author": "piinbinary",
       "tags": [],
       "date": "2026-03-26T16:00:57+00:00"
@@ -117,8 +152,8 @@
       "source": "hn",
       "title": "My minute-by-minute response to the LiteLLM malware attack",
       "url": "https://futuresearch.ai/blog/litellm-attack-transcript/",
-      "score": 188,
-      "comments": 88,
+      "score": 204,
+      "comments": 91,
       "author": "Fibonar",
       "tags": [],
       "date": "2026-03-26T15:48:40+00:00",
@@ -140,8 +175,8 @@
       "source": "hn",
       "title": "Interoperability Can Save the Open Web (2023)",
       "url": "https://spectrum.ieee.org/doctorow-interoperability",
-      "score": 149,
-      "comments": 44,
+      "score": 151,
+      "comments": 47,
       "author": "janandonly",
       "tags": [],
       "date": "2026-03-26T14:51:17+00:00"
@@ -173,8 +208,8 @@
       "source": "hn",
       "title": "Moving from GitHub to Codeberg, for lazy people",
       "url": "https://unterwaditzer.net/2025/codeberg.html",
-      "score": 417,
-      "comments": 211,
+      "score": 438,
+      "comments": 224,
       "author": "jslakro",
       "tags": [],
       "date": "2026-03-26T13:38:25+00:00"
@@ -206,8 +241,8 @@
       "source": "hn",
       "title": "End of \"Chat Control\": EU parliament stops mass surveillance",
       "url": "https://www.patrick-breyer.de/en/end-of-chat-control-eu-parliament-stops-mass-surveillance-in-voting-thriller-paving-the-way-for-genuine-child-protection/",
-      "score": 438,
-      "comments": 230,
+      "score": 462,
+      "comments": 242,
       "author": "amarcheschi",
       "tags": [],
       "date": "2026-03-26T12:24:36+00:00"
@@ -222,6 +257,19 @@
       "author": "1vuio0pswjnm7",
       "tags": [],
       "date": "2026-03-26T12:15:33+00:00"
+    },
+    {
+      "id": "qiita-d6625230f3",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "Anthropicの研究が証明してしまった事実、「AIコーディングツールは開発者を退化させている」",
+      "url": "https://qiita.com/miruky/items/c4a4928e4d3862e35c7c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "miruky",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-03-26T20:48:10+09:00"
     },
     {
       "id": "hn-47528683",
@@ -318,6 +366,19 @@
       "date": "2026-03-26T06:11:01+00:00"
     },
     {
+      "id": "qiita-e7f5ddc8a7",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "ブラウザ上で動作する運転免許証OCRデモを作ってみた",
+      "url": "https://qiita.com/nogataka/items/5118da3ab41b47dbc8ac?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "nogataka",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-03-26T14:26:20+09:00"
+    },
+    {
       "id": "hn-47526813",
       "source": "hn",
       "title": "Show HN: Orloj – agent infrastructure as code (YAML and GitOps)",
@@ -329,6 +390,19 @@
       "date": "2026-03-26T05:07:51+00:00"
     },
     {
+      "id": "qiita-0158ea7b23",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "AWS Certified Machine Learning Engineer - Associate（MLA-C01）に合格した話",
+      "url": "https://qiita.com/sugumura/items/ded7149701dd5b2d405f?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "sugumura",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-03-26T14:03:19+09:00"
+    },
+    {
       "id": "hn-47526642",
       "source": "hn",
       "title": "Squirrel seen 'vaping' in London park",
@@ -338,6 +412,19 @@
       "author": "walterbell",
       "tags": [],
       "date": "2026-03-26T04:28:37+00:00"
+    },
+    {
+      "id": "qiita-f44f2362c8",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "自作MCP×AI Agentの回答精度をClaude Codeで評価させてみた[LLM-as-a-Judge]",
+      "url": "https://qiita.com/ssc-dninomiya/items/dbb960ac33a17cd1f4c9?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "ssc-dninomiya",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-03-26T13:13:35+09:00"
     },
     {
       "id": "hn-47526486",
@@ -355,7 +442,7 @@
       "source": "hn",
       "title": "Obsolete Sounds",
       "url": "https://citiesandmemory.com/obsolete-sounds/",
-      "score": 187,
+      "score": 195,
       "comments": 35,
       "author": "benbreen",
       "tags": [],
@@ -506,8 +593,8 @@
       "source": "hn",
       "title": "Running Tesla Model 3's computer on my desk using parts from crashed cars",
       "url": "https://bugs.xdavidhu.me/tesla/2026/03/23/running-tesla-model-3s-computer-on-my-desk-using-parts-from-crashed-cars/",
-      "score": 812,
-      "comments": 282,
+      "score": 820,
+      "comments": 286,
       "author": "driesdep",
       "tags": [],
       "date": "2026-03-25T21:11:57+00:00"
@@ -583,8 +670,8 @@
       "source": "hn",
       "title": "Personal Encyclopedias",
       "url": "https://whoami.wiki/blog/personal-encyclopedias",
-      "score": 732,
-      "comments": 147,
+      "score": 748,
+      "comments": 151,
       "author": "jrmyphlmn",
       "tags": [],
       "date": "2026-03-25T19:41:51+00:00"
@@ -762,8 +849,8 @@
       "source": "hn",
       "title": "Why so many control rooms were seafoam green (2025)",
       "url": "https://bethmathews.substack.com/p/why-so-many-control-rooms-were-seafoam",
-      "score": 276,
-      "comments": 44,
+      "score": 315,
+      "comments": 54,
       "author": "Amorymeltzer",
       "tags": [],
       "date": "2026-03-25T15:46:29+00:00"
@@ -1216,6 +1303,19 @@
       "date": "2026-03-25T06:40:39+09:00"
     },
     {
+      "id": "qiita-5fe20e8e4b",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "IBM Bobサロン（個人メモ）",
+      "url": "https://qiita.com/HinanoKawahori/items/f69e74829ccb759f872b?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "HinanoKawahori",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-03-25T06:35:14+09:00"
+    },
+    {
       "id": "hn-47509571",
       "source": "hn",
       "title": "I wanted to build vertical SaaS for pest control, so I took a technician job",
@@ -1398,8 +1498,8 @@
       "source": "hn",
       "title": "HyperAgents: Self-referential self-improving agents",
       "url": "https://github.com/facebookresearch/hyperagents",
-      "score": 55,
-      "comments": 21,
+      "score": 67,
+      "comments": 22,
       "author": "andyg_blog",
       "tags": [],
       "date": "2026-03-24T16:54:10+00:00"
@@ -1765,8 +1865,8 @@
       "source": "hn",
       "title": "From zero to a RAG system: successes and failures",
       "url": "https://en.andros.dev/blog/aa31d744/from-zero-to-a-rag-system-successes-and-failures/",
-      "score": 237,
-      "comments": 75,
+      "score": 244,
+      "comments": 77,
       "author": "andros",
       "tags": [],
       "date": "2026-03-24T06:53:30+00:00"
@@ -2394,8 +2494,8 @@
       "source": "hn",
       "title": "Doom entirely from DNS records",
       "url": "https://github.com/resumex/doom-over-dns",
-      "score": 88,
-      "comments": 23,
+      "score": 113,
+      "comments": 26,
       "author": "Venn1",
       "tags": [],
       "date": "2026-03-23T15:17:38+00:00"
@@ -2460,8 +2560,8 @@
       "source": "hn",
       "title": "My home network observes bedtime with OpenBSD and pf",
       "url": "https://ratfactor.com/openbsd/pf-gateway-bedtime",
-      "score": 81,
-      "comments": 26,
+      "score": 85,
+      "comments": 27,
       "author": "ibobev",
       "tags": [],
       "date": "2026-03-23T13:56:54+00:00"
@@ -2906,8 +3006,8 @@
       "source": "hn",
       "title": "Light on Glass: Why do you start making a game engine?",
       "url": "https://analogdreamdev.substack.com/p/light-on-glass",
-      "score": 32,
-      "comments": 15,
+      "score": 36,
+      "comments": 20,
       "author": "atan2",
       "tags": [],
       "date": "2026-03-22T23:15:03+00:00"
@@ -5030,8 +5130,8 @@
       "source": "hn",
       "title": "Fermented foods shaped human biology",
       "url": "https://press.asimov.com/articles/culture-shift",
-      "score": 29,
-      "comments": 21,
+      "score": 55,
+      "comments": 24,
       "author": "mailyk",
       "tags": [],
       "date": "2026-03-20T17:00:45+00:00"
@@ -5059,98 +5159,6 @@
         "Qiita"
       ],
       "date": "2026-03-21T01:36:46+09:00"
-    },
-    {
-      "id": "qiita-2f97aaa513",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "Deep Agents入門 — 計画・メモリ・サブエージェントを備えたOSSエージェントハーネス",
-      "url": "https://qiita.com/kai_kou/items/5a94750253b0b7cb6eb3?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "kai_kou",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-03-21T01:36:39+09:00"
-    },
-    {
-      "id": "hn-47456997",
-      "source": "hn",
-      "title": "A 6502 disassembler with a TUI: A modern take on Regenerator",
-      "url": "https://github.com/ricardoquesada/regenerator2000",
-      "score": 70,
-      "comments": 7,
-      "author": "wslh",
-      "tags": [],
-      "date": "2026-03-20T16:34:24+00:00"
-    },
-    {
-      "id": "hn-47456987",
-      "source": "hn",
-      "title": "90% of crypto's Illinois primary spending failed to achieve its objective",
-      "url": "https://www.mollywhite.net/micro/entry/202603172318",
-      "score": 111,
-      "comments": 77,
-      "author": "speckx",
-      "tags": [],
-      "date": "2026-03-20T16:34:04+00:00"
-    },
-    {
-      "id": "qiita-6275f7633a",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "APMだけでは守れない時代へ ― Runtime-native Observabilityとは何か、なぜ今なのか",
-      "url": "https://qiita.com/keitah/items/dfa2b6a635468705d06c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "keitah",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-03-21T01:09:40+09:00"
-    },
-    {
-      "id": "hn-47456421",
-      "source": "hn",
-      "title": "Meme Buildings",
-      "url": "https://misfitsarchitecture.com/2026/03/15/meme-buildings/",
-      "score": 20,
-      "comments": 1,
-      "author": "speckx",
-      "tags": [],
-      "date": "2026-03-20T15:55:40+00:00"
-    },
-    {
-      "id": "hn-47456320",
-      "source": "hn",
-      "title": "The Jellies That Evolved a Different Way to Keep Time",
-      "url": "https://www.quantamagazine.org/the-jellies-that-evolved-a-different-way-to-keep-time-20260320/",
-      "score": 21,
-      "comments": 5,
-      "author": "jyunwai",
-      "tags": [],
-      "date": "2026-03-20T15:49:20+00:00"
-    },
-    {
-      "id": "hn-47456153",
-      "source": "hn",
-      "title": "Oregon school cell phone ban: 'Engaged students, joyful teachers'",
-      "url": "https://portlandtribune.com/2026/03/18/oregon-school-cell-phone-ban-engaged-students-joyful-teachers/",
-      "score": 217,
-      "comments": 150,
-      "author": "nxobject",
-      "tags": [],
-      "date": "2026-03-20T15:39:19+00:00"
-    },
-    {
-      "id": "hn-47455961",
-      "source": "hn",
-      "title": "Microservices and the First Law of Distributed Objects (2014)",
-      "url": "https://martinfowler.com/articles/distributed-objects-microservices.html",
-      "score": 23,
-      "comments": 16,
-      "author": "pjmlp",
-      "tags": [],
-      "date": "2026-03-20T15:26:24+00:00"
     },
     {
       "id": "ghrel-projectdiscovery_nuclei-293442537",

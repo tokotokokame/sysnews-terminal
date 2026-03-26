@@ -1,7 +1,7 @@
 {
   "date": "2026-03-26",
-  "generated_at": "2026-03-26T19:56:33.129491+00:00",
-  "total_articles": 50,
+  "generated_at": "2026-03-26T20:34:59.008619+00:00",
+  "total_articles": 54,
   "urgent_count": 2,
   "urgent_items": [
     {
@@ -22,20 +22,12 @@
   "categories": [
     {
       "category": "テクノロジー",
-      "count": 44,
+      "count": 43,
       "top_items": [
-        {
-          "title": "The EU still wants to scan  your private messages and photos",
-          "url": "https://fightchatcontrol.eu/?foo=bar",
-          "score": 1329,
-          "source": "hn",
-          "severity": null,
-          "date": "2026-03-25T20:27:03+00:00"
-        },
         {
           "title": "Running Tesla Model 3's computer on my desk using parts from crashed cars",
           "url": "https://bugs.xdavidhu.me/tesla/2026/03/23/running-tesla-model-3s-computer-on-my-desk-using-parts-from-crashed-cars/",
-          "score": 812,
+          "score": 820,
           "source": "hn",
           "severity": null,
           "date": "2026-03-25T21:11:57+00:00"
@@ -51,10 +43,18 @@
         {
           "title": "End of \"Chat Control\": EU parliament stops mass surveillance",
           "url": "https://www.patrick-breyer.de/en/end-of-chat-control-eu-parliament-stops-mass-surveillance-in-voting-thriller-paving-the-way-for-genuine-child-protection/",
-          "score": 438,
+          "score": 462,
           "source": "hn",
           "severity": null,
           "date": "2026-03-26T12:24:36+00:00"
+        },
+        {
+          "title": "Moving from GitHub to Codeberg, for lazy people",
+          "url": "https://unterwaditzer.net/2025/codeberg.html",
+          "score": 438,
+          "source": "hn",
+          "severity": null,
+          "date": "2026-03-26T13:38:25+00:00"
         },
         {
           "title": "Shell Tricks That Make Life Easier (and Save Your Sanity)",
@@ -68,8 +68,24 @@
     },
     {
       "category": "日本語技術記事",
-      "count": 6,
+      "count": 11,
       "top_items": [
+        {
+          "title": "最速？ AWS Microcredential 4冠達成した記念",
+          "url": "https://qiita.com/sense_of_unity/items/e116193a0c1c584a9b90?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "score": null,
+          "source": "zennqiita",
+          "severity": null,
+          "date": "2026-03-27T02:04:46+09:00"
+        },
+        {
+          "title": "Anthropicの研究が証明してしまった事実、「AIコーディングツールは開発者を退化させている」",
+          "url": "https://qiita.com/miruky/items/c4a4928e4d3862e35c7c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "score": null,
+          "source": "zennqiita",
+          "severity": null,
+          "date": "2026-03-26T20:48:10+09:00"
+        },
         {
           "title": "生成AIで誰でもオシャレなパワポを作る方法",
           "url": "https://qiita.com/yamazombie/items/d2694937d2ebcd442060?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
@@ -87,28 +103,12 @@
           "date": "2026-03-26T15:54:48+09:00"
         },
         {
-          "title": "Oracle Database In-Memory をためしてみてみた",
-          "url": "https://qiita.com/shirok/items/3d0e5b5f55598feebdff?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "title": "ブラウザ上で動作する運転免許証OCRデモを作ってみた",
+          "url": "https://qiita.com/nogataka/items/5118da3ab41b47dbc8ac?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
           "score": null,
           "source": "zennqiita",
           "severity": null,
-          "date": "2026-03-26T12:19:12+09:00"
-        },
-        {
-          "title": "【Claude Code】Agentに入れるべきSkills 20選｜skills.sh活用ガイド",
-          "url": "https://qiita.com/yamamoto0/items/17817dc09a78078fa132?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "score": null,
-          "source": "zennqiita",
-          "severity": null,
-          "date": "2026-03-26T12:06:25+09:00"
-        },
-        {
-          "title": "実務1年目の僕に伝えたい。完璧主義を捨てて「プロ」になるための行動4選",
-          "url": "https://qiita.com/masa20057/items/747faa3de771373a3e4f?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "score": null,
-          "source": "zennqiita",
-          "severity": null,
-          "date": "2026-03-26T11:28:52+09:00"
+          "date": "2026-03-26T14:26:20+09:00"
         }
       ]
     }

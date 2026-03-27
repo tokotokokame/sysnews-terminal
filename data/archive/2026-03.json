@@ -1,10 +1,10 @@
 {
   "month": "2026-03",
-  "generated_at": "2026-03-27T19:57:53.850319+00:00",
+  "generated_at": "2026-03-27T20:42:10.719343+00:00",
   "total_articles": 451,
   "source_counts": {
-    "hn": 359,
-    "zennqiita": 91,
+    "hn": 354,
+    "zennqiita": 96,
     "project": 1
   },
   "severity_counts": {
@@ -105,13 +105,6 @@
       "date": "2026-03-25T19:41:51+00:00"
     },
     {
-      "title": "Do Not Turn Child Protection into Internet Access Control",
-      "url": "https://news.dyne.org/child-protection-is-not-access-control/",
-      "score": 717,
-      "source": "hn",
-      "date": "2026-03-21T20:32:20+00:00"
-    },
-    {
       "title": "Apple Business",
       "url": "https://www.apple.com/newsroom/2026/03/introducing-apple-business-a-new-all-in-one-platform-for-businesses-of-all-sizes/",
       "score": 709,
@@ -152,9 +145,23 @@
       "score": 594,
       "source": "hn",
       "date": "2026-03-24T18:03:48+00:00"
+    },
+    {
+      "title": "Moving from GitHub to Codeberg, for lazy people",
+      "url": "https://unterwaditzer.net/2025/codeberg.html",
+      "score": 556,
+      "source": "hn",
+      "date": "2026-03-26T13:38:25+00:00"
     }
   ],
   "security_highlights": [
+    {
+      "title": "Show HN: Open-Source Animal Crossing–Style UI for Claude Code Agents",
+      "url": "https://github.com/outworked/outworked/releases/tag/v0.3.0",
+      "severity": "critical",
+      "source": "hn",
+      "date": "2026-03-27T17:25:05+00:00"
+    },
     {
       "title": "Netflix raises prices for every subscription tier by up to 12.5 percent",
       "url": "https://arstechnica.com/gadgets/2026/03/netflix-increases-prices-for-all-plans-by-up-to-2-per-month/",
@@ -217,13 +224,6 @@
       "severity": "critical",
       "source": "hn",
       "date": "2026-03-21T21:49:15+00:00"
-    },
-    {
-      "title": "How to Attract AI Bots to Your Open Source Project",
-      "url": "https://nesbitt.io/2026/03/21/how-to-attract-ai-bots-to-your-open-source-project.html",
-      "severity": "critical",
-      "source": "hn",
-      "date": "2026-03-21T20:58:01+00:00"
     }
   ]
 }

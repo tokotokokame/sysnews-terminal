@@ -1,9 +1,16 @@
 {
   "date": "2026-03-27",
-  "generated_at": "2026-03-27T19:57:53.810173+00:00",
-  "total_articles": 57,
-  "urgent_count": 1,
+  "generated_at": "2026-03-27T20:42:10.677145+00:00",
+  "total_articles": 59,
+  "urgent_count": 2,
   "urgent_items": [
+    {
+      "title": "Show HN: Open-Source Animal Crossing–Style UI for Claude Code Agents",
+      "url": "https://github.com/outworked/outworked/releases/tag/v0.3.0",
+      "severity": "critical",
+      "source": "hn",
+      "date": "2026-03-27T17:25:05+00:00"
+    },
     {
       "title": "Netflix raises prices for every subscription tier by up to 12.5 percent",
       "url": "https://arstechnica.com/gadgets/2026/03/netflix-increases-prices-for-all-plans-by-up-to-2-per-month/",
@@ -15,7 +22,7 @@
   "categories": [
     {
       "category": "テクノロジー",
-      "count": 46,
+      "count": 45,
       "top_items": [
         {
           "title": "Apple discontinues the Mac Pro",
@@ -28,7 +35,7 @@
         {
           "title": "Hold on to Your Hardware",
           "url": "https://xn--gckvb8fzb.com/hold-on-to-your-hardware/",
-          "score": 497,
+          "score": 511,
           "source": "hn",
           "severity": null,
           "date": "2026-03-27T10:10:41+00:00"
@@ -42,26 +49,26 @@
           "date": "2026-03-27T12:46:49+00:00"
         },
         {
-          "title": "A Faster Alternative to Jq",
-          "url": "https://micahkepe.com/blog/jsongrep/",
-          "score": 338,
-          "source": "hn",
-          "severity": null,
-          "date": "2026-03-27T07:12:26+00:00"
-        },
-        {
           "title": "People inside Microsoft are fighting to drop mandatory Microsoft Account",
           "url": "https://www.windowscentral.com/microsoft/windows-11/people-inside-microsoft-are-fighting-to-drop-windows-11s-mandatory-microsoft-account-requirements-during-setup",
-          "score": 332,
+          "score": 369,
           "source": "hn",
           "severity": null,
           "date": "2026-03-27T13:54:35+00:00"
+        },
+        {
+          "title": "A Faster Alternative to Jq",
+          "url": "https://micahkepe.com/blog/jsongrep/",
+          "score": 346,
+          "source": "hn",
+          "severity": null,
+          "date": "2026-03-27T07:12:26+00:00"
         }
       ]
     },
     {
       "category": "日本語技術記事",
-      "count": 11,
+      "count": 14,
       "top_items": [
         {
           "title": "Google TurboQuant入門 — KVキャッシュ3ビット圧縮でLLM推論を8倍高速化",
@@ -70,6 +77,22 @@
           "source": "zennqiita",
           "severity": null,
           "date": "2026-03-28T01:48:16+09:00"
+        },
+        {
+          "title": "手軽に始める 360° 画像を用いた Gaussian Splatting（基本手順編）",
+          "url": "https://qiita.com/Tks_Yoshinaga/items/dbd9359c9e5ead8195a3?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "score": null,
+          "source": "zennqiita",
+          "severity": null,
+          "date": "2026-03-27T22:56:59+09:00"
+        },
+        {
+          "title": "ほぼ2年目エンジニア、AWSとAIに「全振り」した365日からAI時代の新米エンジニアの歩き方を考える",
+          "url": "https://qiita.com/miruky/items/14008906c3772c3305a5?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "score": null,
+          "source": "zennqiita",
+          "severity": null,
+          "date": "2026-03-27T22:30:55+09:00"
         },
         {
           "title": "【Unityユーザー向け】 R3入門 1 ~基礎編~",
@@ -86,22 +109,6 @@
           "source": "zennqiita",
           "severity": null,
           "date": "2026-03-27T15:27:25+09:00"
-        },
-        {
-          "title": "ユーザー管理はじめの一歩",
-          "url": "https://qiita.com/nr_ishibashi/items/9e52f382c26e4fb2cfd7?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "score": null,
-          "source": "zennqiita",
-          "severity": null,
-          "date": "2026-03-27T14:11:01+09:00"
-        },
-        {
-          "title": "KAITOとは？一目で概要が分かるAzure×AI/LLM時代の新OSS『KAITO』のアーキテクチャと仕組み",
-          "url": "https://qiita.com/sayu_hana/items/1c80d3d2b524b5b0c173?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "score": null,
-          "source": "zennqiita",
-          "severity": null,
-          "date": "2026-03-27T12:50:58+09:00"
         }
       ]
     }

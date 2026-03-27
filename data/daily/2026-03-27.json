@@ -1,6 +1,6 @@
 {
   "date": "2026-03-27",
-  "generated_at": "2026-03-27T20:42:10.677145+00:00",
+  "generated_at": "2026-03-27T21:30:14.392151+00:00",
   "total_articles": 59,
   "urgent_count": 2,
   "urgent_items": [
@@ -22,16 +22,8 @@
   "categories": [
     {
       "category": "テクノロジー",
-      "count": 45,
+      "count": 46,
       "top_items": [
-        {
-          "title": "Apple discontinues the Mac Pro",
-          "url": "https://9to5mac.com/2026/03/26/apple-discontinues-the-mac-pro/",
-          "score": 608,
-          "source": "hn",
-          "severity": null,
-          "date": "2026-03-26T21:04:50+00:00"
-        },
         {
           "title": "Hold on to Your Hardware",
           "url": "https://xn--gckvb8fzb.com/hold-on-to-your-hardware/",
@@ -51,7 +43,7 @@
         {
           "title": "People inside Microsoft are fighting to drop mandatory Microsoft Account",
           "url": "https://www.windowscentral.com/microsoft/windows-11/people-inside-microsoft-are-fighting-to-drop-windows-11s-mandatory-microsoft-account-requirements-during-setup",
-          "score": 369,
+          "score": 396,
           "source": "hn",
           "severity": null,
           "date": "2026-03-27T13:54:35+00:00"
@@ -59,16 +51,24 @@
         {
           "title": "A Faster Alternative to Jq",
           "url": "https://micahkepe.com/blog/jsongrep/",
-          "score": 346,
+          "score": 348,
           "source": "hn",
           "severity": null,
           "date": "2026-03-27T07:12:26+00:00"
+        },
+        {
+          "title": "Judge blocks Pentagon effort to 'punish' Anthropic with supply chain risk label",
+          "url": "https://www.cnn.com/2026/03/26/business/anthropic-pentagon-injunction-supply-chain-risk",
+          "score": 332,
+          "source": "hn",
+          "severity": null,
+          "date": "2026-03-26T23:33:53+00:00"
         }
       ]
     },
     {
       "category": "日本語技術記事",
-      "count": 14,
+      "count": 13,
       "top_items": [
         {
           "title": "Google TurboQuant入門 — KVキャッシュ3ビット圧縮でLLM推論を8倍高速化",

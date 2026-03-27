@@ -1,6 +1,6 @@
 {
   "month": "2026-03",
-  "generated_at": "2026-03-27T20:42:10.719343+00:00",
+  "generated_at": "2026-03-27T21:30:14.426893+00:00",
   "total_articles": 451,
   "source_counts": {
     "hn": 354,
@@ -8,7 +8,7 @@
     "project": 1
   },
   "severity_counts": {
-    "critical": 7,
+    "critical": 6,
     "medium": 3,
     "high": 3
   },
@@ -217,13 +217,6 @@
       "severity": "critical",
       "source": "hn",
       "date": "2026-03-22T06:23:59+00:00"
-    },
-    {
-      "title": "Floci – A free, open-source local AWS emulator",
-      "url": "https://github.com/hectorvent/floci",
-      "severity": "critical",
-      "source": "hn",
-      "date": "2026-03-21T21:49:15+00:00"
     }
   ]
 }

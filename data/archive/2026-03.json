@@ -1,15 +1,15 @@
 {
   "month": "2026-03",
-  "generated_at": "2026-03-27T14:11:50.431644+00:00",
+  "generated_at": "2026-03-27T15:14:40.736296+00:00",
   "total_articles": 451,
   "source_counts": {
-    "hn": 354,
-    "zennqiita": 96,
+    "hn": 355,
+    "zennqiita": 95,
     "project": 1
   },
   "severity_counts": {
     "medium": 4,
-    "critical": 8,
+    "critical": 7,
     "high": 3
   },
   "top_articles": [
@@ -42,18 +42,18 @@
       "date": "2026-03-25T14:07:14+00:00"
     },
     {
-      "title": "Running Tesla Model 3's computer on my desk using parts from crashed cars",
-      "url": "https://bugs.xdavidhu.me/tesla/2026/03/23/running-tesla-model-3s-computer-on-my-desk-using-parts-from-crashed-cars/",
-      "score": 913,
-      "source": "hn",
-      "date": "2026-03-25T21:11:57+00:00"
-    },
-    {
       "title": "Why so many control rooms were seafoam green (2025)",
       "url": "https://bethmathews.substack.com/p/why-so-many-control-rooms-were-seafoam",
-      "score": 906,
+      "score": 925,
       "source": "hn",
       "date": "2026-03-25T15:46:29+00:00"
+    },
+    {
+      "title": "Running Tesla Model 3's computer on my desk using parts from crashed cars",
+      "url": "https://bugs.xdavidhu.me/tesla/2026/03/23/running-tesla-model-3s-computer-on-my-desk-using-parts-from-crashed-cars/",
+      "score": 919,
+      "source": "hn",
+      "date": "2026-03-25T21:11:57+00:00"
     },
     {
       "title": "Tell HN: Litellm 1.82.7 and 1.82.8 on PyPI are compromised",
@@ -96,13 +96,6 @@
       "score": 793,
       "source": "hn",
       "date": "2026-03-26T19:48:05+00:00"
-    },
-    {
-      "title": "Some things just take time",
-      "url": "https://lucumr.pocoo.org/2026/3/20/some-things-just-take-time/",
-      "score": 788,
-      "source": "hn",
-      "date": "2026-03-21T14:46:56+00:00"
     },
     {
       "title": "Personal Encyclopedias",
@@ -152,6 +145,13 @@
       "score": 594,
       "source": "hn",
       "date": "2026-03-24T18:03:48+00:00"
+    },
+    {
+      "title": "Tinybox – A powerful computer for deep learning",
+      "url": "https://tinygrad.org/#tinybox",
+      "score": 561,
+      "source": "hn",
+      "date": "2026-03-21T20:08:37+00:00"
     }
   ],
   "security_highlights": [
@@ -224,13 +224,6 @@
       "severity": "critical",
       "source": "hn",
       "date": "2026-03-21T15:07:29+00:00"
-    },
-    {
-      "title": "【緊急】GitHub/npmを汚染する「見えないコード」の脅威：GlassWorm対策",
-      "url": "https://qiita.com/sarubot/items/df077776b293163e0a42?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "severity": "critical",
-      "source": "zennqiita",
-      "date": "2026-03-21T23:23:18+09:00"
     }
   ]
 }

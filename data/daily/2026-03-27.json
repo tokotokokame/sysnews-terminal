@@ -1,7 +1,7 @@
 {
   "date": "2026-03-27",
-  "generated_at": "2026-03-27T05:03:54.576899+00:00",
-  "total_articles": 55,
+  "generated_at": "2026-03-27T06:44:16.422886+00:00",
+  "total_articles": 52,
   "urgent_count": 2,
   "urgent_items": [
     {
@@ -22,12 +22,12 @@
   "categories": [
     {
       "category": "テクノロジー",
-      "count": 50,
+      "count": 48,
       "top_items": [
         {
           "title": "We haven't seen the worst of what gambling and prediction markets will do",
           "url": "https://www.derekthompson.org/p/we-havent-seen-the-worst-of-what",
-          "score": 635,
+          "score": 669,
           "source": "hn",
           "severity": null,
           "date": "2026-03-26T19:48:05+00:00"
@@ -57,18 +57,18 @@
           "date": "2026-03-26T12:24:36+00:00"
         },
         {
-          "title": "Judge blocks Pentagon effort to 'punish' Anthropic with supply chain risk label",
-          "url": "https://www.cnn.com/2026/03/26/business/anthropic-pentagon-injunction-supply-chain-risk",
-          "score": 332,
+          "title": "My minute-by-minute response to the LiteLLM malware attack",
+          "url": "https://futuresearch.ai/blog/litellm-attack-transcript/",
+          "score": 342,
           "source": "hn",
-          "severity": null,
-          "date": "2026-03-26T23:33:53+00:00"
+          "severity": "medium",
+          "date": "2026-03-26T15:48:40+00:00"
         }
       ]
     },
     {
       "category": "日本語技術記事",
-      "count": 5,
+      "count": 4,
       "top_items": [
         {
           "title": "生成AIで誰でもオシャレなパワポを作る方法",
@@ -101,14 +101,6 @@
           "source": "zennqiita",
           "severity": "critical",
           "date": "2026-03-26T15:54:48+09:00"
-        },
-        {
-          "title": "ブラウザ上で動作する運転免許証OCRデモを作ってみた",
-          "url": "https://qiita.com/nogataka/items/5118da3ab41b47dbc8ac?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "score": null,
-          "source": "zennqiita",
-          "severity": null,
-          "date": "2026-03-26T14:26:20+09:00"
         }
       ]
     }

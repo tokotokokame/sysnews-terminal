@@ -1,18 +1,18 @@
 {
   "date": "2026-03-27",
-  "generated_at": "2026-03-27T11:40:45.519831+00:00",
-  "total_articles": 63,
+  "generated_at": "2026-03-27T12:56:56.036620+00:00",
+  "total_articles": 57,
   "urgent_count": 0,
   "urgent_items": [],
   "categories": [
     {
       "category": "テクノロジー",
-      "count": 48,
+      "count": 44,
       "top_items": [
         {
           "title": "We haven't seen the worst of what gambling and prediction markets will do",
           "url": "https://www.derekthompson.org/p/we-havent-seen-the-worst-of-what",
-          "score": 759,
+          "score": 786,
           "source": "hn",
           "severity": null,
           "date": "2026-03-26T19:48:05+00:00"
@@ -26,35 +26,43 @@
           "date": "2026-03-26T13:38:25+00:00"
         },
         {
-          "title": "European Parliament decided that Chat Control 1.0 must stop",
-          "url": "https://bsky.app/profile/tuta.com/post/3mhxkfowv322c",
-          "score": 509,
-          "source": "hn",
-          "severity": null,
-          "date": "2026-03-26T12:30:59+00:00"
-        },
-        {
-          "title": "End of \"Chat Control\": EU parliament stops mass surveillance",
-          "url": "https://www.patrick-breyer.de/en/end-of-chat-control-eu-parliament-stops-mass-surveillance-in-voting-thriller-paving-the-way-for-genuine-child-protection/",
-          "score": 462,
-          "source": "hn",
-          "severity": null,
-          "date": "2026-03-26T12:24:36+00:00"
-        },
-        {
           "title": "Apple discontinues the Mac Pro",
           "url": "https://9to5mac.com/2026/03/26/apple-discontinues-the-mac-pro/",
-          "score": 410,
+          "score": 454,
           "source": "hn",
           "severity": null,
           "date": "2026-03-26T21:04:50+00:00"
+        },
+        {
+          "title": "My minute-by-minute response to the LiteLLM malware attack",
+          "url": "https://futuresearch.ai/blog/litellm-attack-transcript/",
+          "score": 389,
+          "source": "hn",
+          "severity": "medium",
+          "date": "2026-03-26T15:48:40+00:00"
+        },
+        {
+          "title": "$500 GPU outperforms Claude Sonnet on coding benchmarks",
+          "url": "https://github.com/itigges22/ATLAS",
+          "score": 334,
+          "source": "hn",
+          "severity": null,
+          "date": "2026-03-26T17:31:24+00:00"
         }
       ]
     },
     {
       "category": "日本語技術記事",
-      "count": 15,
+      "count": 13,
       "top_items": [
+        {
+          "title": "【Unityユーザー向け】 R3入門 1 ~基礎編~",
+          "url": "https://qiita.com/toRisouP/items/eae3e71c55e8ea4fd09e?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "score": null,
+          "source": "zennqiita",
+          "severity": null,
+          "date": "2026-03-27T21:28:37+09:00"
+        },
         {
           "title": "Google TurboQuant入門 — KVキャッシュ3ビット圧縮でLLM推論を8倍高速化",
           "url": "https://qiita.com/kai_kou/items/a411215806322af68a73?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
@@ -86,14 +94,6 @@
           "source": "zennqiita",
           "severity": null,
           "date": "2026-03-27T12:50:58+09:00"
-        },
-        {
-          "title": "「エンジニアは難しい」は本当か？― 未経験の自分が勘違いしていた“難しさ”の正体 ―",
-          "url": "https://qiita.com/prum_hitomi/items/07b7926408a3447b6665?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "score": null,
-          "source": "zennqiita",
-          "severity": null,
-          "date": "2026-03-27T12:18:34+09:00"
         }
       ]
     }

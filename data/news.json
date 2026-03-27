@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-03-27T19:57:53.743746+00:00",
+  "updated_at": "2026-03-27T20:39:18.397196+00:00",
   "count": 500,
   "items": [
     {
@@ -7,8 +7,8 @@
       "source": "hn",
       "title": "Make macOS consistently bad (unironically)",
       "url": "https://lr0.org/blog/p/macos/",
-      "score": 44,
-      "comments": 9,
+      "score": 109,
+      "comments": 58,
       "author": "speckx",
       "tags": [],
       "date": "2026-03-27T19:15:19+00:00"
@@ -47,12 +47,35 @@
       "date": "2026-03-27T17:58:52+00:00"
     },
     {
+      "id": "hn-47545748",
+      "source": "hn",
+      "title": "Some uncomfortable truths about AI coding agents",
+      "url": "https://standupforme.app/blog/some-uncomfortable-truths-about-ai-coding-agents/",
+      "score": 37,
+      "comments": 18,
+      "author": "borealis-dev",
+      "tags": [],
+      "date": "2026-03-27T17:32:48+00:00"
+    },
+    {
+      "id": "hn-47545642",
+      "source": "hn",
+      "title": "Show HN: Open-Source Animal Crossing–Style UI for Claude Code Agents",
+      "url": "https://github.com/outworked/outworked/releases/tag/v0.3.0",
+      "score": 19,
+      "comments": 10,
+      "author": "ZeidJ",
+      "tags": [],
+      "date": "2026-03-27T17:25:05+00:00",
+      "severity": "critical"
+    },
+    {
       "id": "hn-47545223",
       "source": "hn",
       "title": "Browser-based SFX synthesizer using WASM/Zig",
       "url": "https://knell.medieval.software/studio",
-      "score": 12,
-      "comments": 1,
+      "score": 18,
+      "comments": 2,
       "author": "galsjel",
       "tags": [],
       "date": "2026-03-27T16:56:41+00:00"
@@ -97,8 +120,8 @@
       "source": "hn",
       "title": "AI got the blame for the Iran school bombing. The truth is more worrying",
       "url": "https://www.theguardian.com/news/2026/mar/26/ai-got-the-blame-for-the-iran-school-bombing-the-truth-is-far-more-worrying",
-      "score": 209,
-      "comments": 147,
+      "score": 242,
+      "comments": 183,
       "author": "cptroot",
       "tags": [],
       "date": "2026-03-27T16:39:32+00:00"
@@ -142,8 +165,8 @@
       "source": "hn",
       "title": "Desk for people who work at home with a cat",
       "url": "https://soranews24.com/2026/03/27/japan-now-has-a-special-desk-for-people-who-work-at-home-with-a-pet-catphotos/",
-      "score": 236,
-      "comments": 91,
+      "score": 260,
+      "comments": 104,
       "author": "zdw",
       "tags": [],
       "date": "2026-03-27T15:31:20+00:00"
@@ -164,8 +187,8 @@
       "source": "hn",
       "title": "Meow.camera",
       "url": "https://meow.camera/#4258783365322591678",
-      "score": 84,
-      "comments": 20,
+      "score": 103,
+      "comments": 23,
       "author": "surprisetalk",
       "tags": [],
       "date": "2026-03-27T14:41:02+00:00"
@@ -208,8 +231,8 @@
       "source": "hn",
       "title": "Anatomy of the .claude/ folder",
       "url": "https://blog.dailydoseofds.com/p/anatomy-of-the-claude-folder",
-      "score": 260,
-      "comments": 133,
+      "score": 278,
+      "comments": 141,
       "author": "freedomben",
       "tags": [],
       "date": "2026-03-27T14:35:45+00:00"
@@ -237,12 +260,25 @@
       "date": "2026-03-27T13:57:36+00:00"
     },
     {
+      "id": "qiita-cc1174155d",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "手軽に始める 360° 画像を用いた Gaussian Splatting（基本手順編）",
+      "url": "https://qiita.com/Tks_Yoshinaga/items/dbd9359c9e5ead8195a3?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "Tks_Yoshinaga",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-03-27T22:56:59+09:00"
+    },
+    {
       "id": "hn-47542695",
       "source": "hn",
       "title": "People inside Microsoft are fighting to drop mandatory Microsoft Account",
       "url": "https://www.windowscentral.com/microsoft/windows-11/people-inside-microsoft-are-fighting-to-drop-windows-11s-mandatory-microsoft-account-requirements-during-setup",
-      "score": 332,
-      "comments": 290,
+      "score": 367,
+      "comments": 317,
       "author": "breve",
       "tags": [],
       "date": "2026-03-27T13:54:35+00:00"
@@ -252,11 +288,24 @@
       "source": "hn",
       "title": "Installing a Let's Encrypt TLS certificate on a Brother printer with Certbot",
       "url": "https://owltec.ca/Other/Installing+a+Let%27s+Encrypt+TLS+certificate+on+a+Brother+printer+automatically+with+Certbot+(%26+Cloudflare)",
-      "score": 148,
+      "score": 158,
       "comments": 43,
       "author": "8organicbits",
       "tags": [],
       "date": "2026-03-27T13:49:51+00:00"
+    },
+    {
+      "id": "qiita-e0f33ce074",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "ほぼ2年目エンジニア、AWSとAIに「全振り」した365日からAI時代の新米エンジニアの歩き方を考える",
+      "url": "https://qiita.com/miruky/items/14008906c3772c3305a5?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "miruky",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-03-27T22:30:55+09:00"
     },
     {
       "id": "hn-47542057",
@@ -298,8 +347,8 @@
       "source": "hn",
       "title": "Hold on to Your Hardware",
       "url": "https://xn--gckvb8fzb.com/hold-on-to-your-hardware/",
-      "score": 497,
-      "comments": 407,
+      "score": 511,
+      "comments": 422,
       "author": "LucidLynx",
       "tags": [],
       "date": "2026-03-27T10:10:41+00:00"
@@ -309,8 +358,8 @@
       "source": "hn",
       "title": "Telnyx package compromised on PyPI",
       "url": "https://telnyx.com/resources/telnyx-python-sdk-supply-chain-security-notice-march-2026",
-      "score": 9,
-      "comments": 48,
+      "score": 28,
+      "comments": 54,
       "author": "ramimac",
       "tags": [],
       "date": "2026-03-27T08:57:02+00:00"
@@ -320,8 +369,8 @@
       "source": "hn",
       "title": "‘Energy independence feels practical’: Europeans building mini solar farms",
       "url": "https://www.euronews.com/2026/03/26/suddenly-energy-independence-feels-practical-europeans-are-building-mini-solar-farms-at-ho",
-      "score": 119,
-      "comments": 116,
+      "score": 137,
+      "comments": 132,
       "author": "vrganj",
       "tags": [],
       "date": "2026-03-27T08:55:43+00:00"
@@ -331,8 +380,8 @@
       "source": "hn",
       "title": "A Faster Alternative to Jq",
       "url": "https://micahkepe.com/blog/jsongrep/",
-      "score": 338,
-      "comments": 213,
+      "score": 346,
+      "comments": 216,
       "author": "pistolario",
       "tags": [],
       "date": "2026-03-27T07:12:26+00:00"
@@ -379,8 +428,8 @@
       "source": "hn",
       "title": "Schedule tasks on the web",
       "url": "https://code.claude.com/docs/en/web-scheduled-tasks",
-      "score": 262,
-      "comments": 215,
+      "score": 268,
+      "comments": 218,
       "author": "iBelieve",
       "tags": [],
       "date": "2026-03-27T04:47:15+00:00"
@@ -469,6 +518,19 @@
         "Qiita"
       ],
       "date": "2026-03-27T09:42:55+09:00"
+    },
+    {
+      "id": "qiita-b5b62a5ef3",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "【悲劇】「CookieをHttpOnlyにしたからXSSされても安全」という最大の誤解。読めないだけで「操作」されて詰んだ",
+      "url": "https://qiita.com/fe1ix/items/19c054cfa07764d34105?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "fe1ix",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-03-27T08:53:05+09:00"
     },
     {
       "id": "hn-47537228",
@@ -734,8 +796,8 @@
       "source": "hn",
       "title": "Building FireStriker: Making Civic Tech Free",
       "url": "https://firestriker.org/blog/building-firestriker-why-im-making-civic-tech-free",
-      "score": 40,
-      "comments": 7,
+      "score": 51,
+      "comments": 10,
       "author": "noleary",
       "tags": [],
       "date": "2026-03-26T18:03:43+00:00"
@@ -955,6 +1017,19 @@
         "Qiita"
       ],
       "date": "2026-03-26T21:52:38+09:00"
+    },
+    {
+      "id": "qiita-8f3d859858",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "最近コード生成AIがイケていると聞くのでKiroを試してみた",
+      "url": "https://qiita.com/Hiroki1928/items/415eb34a3b59a55d3d63?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "Hiroki1928",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-03-26T21:51:23+09:00"
     },
     {
       "id": "hn-47529646",
@@ -1350,8 +1425,8 @@
       "source": "hn",
       "title": "21,864 Yugoslavian .yu domains",
       "url": "https://jacobfilipp.com/yu/",
-      "score": 41,
-      "comments": 61,
+      "score": 48,
+      "comments": 70,
       "author": "freediver",
       "tags": [],
       "date": "2026-03-25T22:20:47+00:00"
@@ -1723,6 +1798,19 @@
       "author": "matthiaswh",
       "tags": [],
       "date": "2026-03-25T12:49:14+00:00"
+    },
+    {
+      "id": "qiita-c185464e39",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "【AWS】Lambda Durable Functionsにおける\"ステップ\"の仕様を実感する",
+      "url": "https://qiita.com/yakumi_bass5/items/2c64259c17d855175eae?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "yakumi_bass5",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-03-25T21:05:12+09:00"
     },
     {
       "id": "hn-47516189",
@@ -2172,6 +2260,17 @@
       "date": "2026-03-24T19:32:32+00:00"
     },
     {
+      "id": "hn-47507576",
+      "source": "hn",
+      "title": "Solving Semantle with the Wrong Embeddings",
+      "url": "https://victoriaritvo.com/blog/robust-semantle-solver/",
+      "score": 3,
+      "comments": 0,
+      "author": "evakhoury",
+      "tags": [],
+      "date": "2026-03-24T19:05:37+00:00"
+    },
+    {
       "id": "hn-47507194",
       "source": "hn",
       "title": "Atomic Display Switching: Solving",
@@ -2376,8 +2475,8 @@
       "source": "hn",
       "title": "EMachines never obsolete PCs: More than a meme",
       "url": "https://dfarq.homeip.net/emachines-never-obsolete-pcs-more-than-a-meme/",
-      "score": 48,
-      "comments": 25,
+      "score": 49,
+      "comments": 28,
       "author": "zdw",
       "tags": [],
       "date": "2026-03-24T15:12:16+00:00"
@@ -2576,7 +2675,7 @@
       "source": "hn",
       "title": "Can It Resolve DOOM? Game Engine in 2k DNS Records",
       "url": "https://core-jmp.org/2026/03/can-it-resolve-doom-game-engine-in-2000-dns-records/",
-      "score": 17,
+      "score": 23,
       "comments": 0,
       "author": "Einenlum",
       "tags": [],
@@ -2688,8 +2787,8 @@
       "source": "hn",
       "title": "Gzip decompression in 250 lines of Rust",
       "url": "https://iev.ee/blog/gzip-decompression-in-250-lines-of-rust/",
-      "score": 83,
-      "comments": 30,
+      "score": 90,
+      "comments": 32,
       "author": "vismit2000",
       "tags": [],
       "date": "2026-03-24T06:35:08+00:00"
@@ -2756,8 +2855,8 @@
       "source": "hn",
       "title": "Nashville library launches Memory Lab for digitizing home movies",
       "url": "https://www.axios.com/local/nashville/2026/03/16/nashville-library-digitize-home-movies",
-      "score": 19,
-      "comments": 2,
+      "score": 31,
+      "comments": 6,
       "author": "toomuchtodo",
       "tags": [],
       "date": "2026-03-24T04:22:15+00:00"
@@ -2802,8 +2901,8 @@
       "source": "hn",
       "title": "Embracing Bayesian methods in clinical trials",
       "url": "https://jamanetwork.com/journals/jama/fullarticle/2847011",
-      "score": 33,
-      "comments": 2,
+      "score": 42,
+      "comments": 4,
       "author": "nextos",
       "tags": [],
       "date": "2026-03-24T03:08:56+00:00"
@@ -3238,8 +3337,8 @@
       "source": "hn",
       "title": "Explore the Hidden World of Sand",
       "url": "https://magnifiedsand.com/",
-      "score": 115,
-      "comments": 25,
+      "score": 131,
+      "comments": 29,
       "author": "RAAx707",
       "tags": [],
       "date": "2026-03-23T18:59:03+00:00"
@@ -5057,95 +5156,6 @@
       "tags": [],
       "date": "2026-03-21T21:49:15+00:00",
       "severity": "critical"
-    },
-    {
-      "id": "hn-47471618",
-      "source": "hn",
-      "title": "A Chess Playing Machine – Shannon (1950) [pdf]",
-      "url": "https://www.paradise.caltech.edu/ist4/lectures/shannonchess1950.pdf",
-      "score": 5,
-      "comments": 0,
-      "author": "kristianp",
-      "tags": [],
-      "date": "2026-03-21T21:30:17+00:00"
-    },
-    {
-      "id": "hn-47471601",
-      "source": "hn",
-      "title": "Professional video editing, right in the browser with WebGPU and WASM",
-      "url": "https://tooscut.app/",
-      "score": 336,
-      "comments": 119,
-      "author": "mohebifar",
-      "tags": [],
-      "date": "2026-03-21T21:27:50+00:00"
-    },
-    {
-      "id": "hn-47471271",
-      "source": "hn",
-      "title": "How to Attract AI Bots to Your Open Source Project",
-      "url": "https://nesbitt.io/2026/03/21/how-to-attract-ai-bots-to-your-open-source-project.html",
-      "score": 99,
-      "comments": 13,
-      "author": "zdw",
-      "tags": [],
-      "date": "2026-03-21T20:58:01+00:00",
-      "severity": "critical"
-    },
-    {
-      "id": "hn-47471213",
-      "source": "hn",
-      "title": "Revert \"userdb: add birthDate field to JSON user records",
-      "url": "https://github.com/systemd/systemd/pull/41179",
-      "score": 25,
-      "comments": 6,
-      "author": "smartmic",
-      "tags": [],
-      "date": "2026-03-21T20:53:43+00:00"
-    },
-    {
-      "id": "hn-47470991",
-      "source": "hn",
-      "title": "Do Not Turn Child Protection into Internet Access Control",
-      "url": "https://news.dyne.org/child-protection-is-not-access-control/",
-      "score": 717,
-      "comments": 371,
-      "author": "smartmic",
-      "tags": [],
-      "date": "2026-03-21T20:32:20+00:00"
-    },
-    {
-      "id": "hn-47470773",
-      "source": "hn",
-      "title": "Tinybox – A powerful computer for deep learning",
-      "url": "https://tinygrad.org/#tinybox",
-      "score": 561,
-      "comments": 325,
-      "author": "albelfio",
-      "tags": [],
-      "date": "2026-03-21T20:08:37+00:00"
-    },
-    {
-      "id": "hn-47470750",
-      "source": "hn",
-      "title": "No evidence cannabis helps anxiety, depression, or PTSD",
-      "url": "https://www.sciencedaily.com/releases/2026/03/260319044656.htm",
-      "score": 129,
-      "comments": 109,
-      "author": "nothrowaways",
-      "tags": [],
-      "date": "2026-03-21T20:05:58+00:00"
-    },
-    {
-      "id": "hn-47470734",
-      "source": "hn",
-      "title": "Common Lisp Development Tooling",
-      "url": "https://www.creativetension.co/posts/common-lisp-development-tooling",
-      "score": 88,
-      "comments": 17,
-      "author": "0bytematt",
-      "tags": [],
-      "date": "2026-03-21T20:04:08+00:00"
     },
     {
       "id": "ghrel-projectdiscovery_nuclei-293442537",

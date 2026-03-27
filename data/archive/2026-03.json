@@ -1,15 +1,15 @@
 {
   "month": "2026-03",
-  "generated_at": "2026-03-27T17:25:28.309986+00:00",
+  "generated_at": "2026-03-27T18:10:21.206468+00:00",
   "total_articles": 451,
   "source_counts": {
-    "hn": 358,
-    "zennqiita": 92,
+    "hn": 359,
+    "zennqiita": 91,
     "project": 1
   },
   "severity_counts": {
+    "critical": 7,
     "medium": 4,
-    "critical": 6,
     "high": 3
   },
   "top_articles": [
@@ -37,7 +37,7 @@
     {
       "title": "Why so many control rooms were seafoam green (2025)",
       "url": "https://bethmathews.substack.com/p/why-so-many-control-rooms-were-seafoam",
-      "score": 964,
+      "score": 971,
       "source": "hn",
       "date": "2026-03-25T15:46:29+00:00"
     },
@@ -140,21 +140,28 @@
       "date": "2026-03-22T15:16:28+00:00"
     },
     {
+      "title": "Apple discontinues the Mac Pro",
+      "url": "https://9to5mac.com/2026/03/26/apple-discontinues-the-mac-pro/",
+      "score": 594,
+      "source": "hn",
+      "date": "2026-03-26T21:04:50+00:00"
+    },
+    {
       "title": "Show HN: I took back Video.js after 16 years and we rewrote it to be 88% smaller",
       "url": "https://videojs.org/blog/videojs-v10-beta-hello-world-again",
       "score": 594,
       "source": "hn",
       "date": "2026-03-24T18:03:48+00:00"
-    },
-    {
-      "title": "Apple discontinues the Mac Pro",
-      "url": "https://9to5mac.com/2026/03/26/apple-discontinues-the-mac-pro/",
-      "score": 577,
-      "source": "hn",
-      "date": "2026-03-26T21:04:50+00:00"
     }
   ],
   "security_highlights": [
+    {
+      "title": "Netflix raises prices for every subscription tier by up to 12.5 percent",
+      "url": "https://arstechnica.com/gadgets/2026/03/netflix-increases-prices-for-all-plans-by-up-to-2-per-month/",
+      "severity": "critical",
+      "source": "hn",
+      "date": "2026-03-27T16:25:50+00:00"
+    },
     {
       "title": "Show HN: Relay – The open-source Claude Cowork for OpenClaw",
       "url": "https://github.com/SeventeenLabs/relay",

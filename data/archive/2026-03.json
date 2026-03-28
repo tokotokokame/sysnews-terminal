@@ -1,6 +1,6 @@
 {
   "month": "2026-03",
-  "generated_at": "2026-03-28T14:28:42.401626+00:00",
+  "generated_at": "2026-03-28T14:59:12.838549+00:00",
   "total_articles": 451,
   "source_counts": {
     "hn": 352,
@@ -8,7 +8,7 @@
     "project": 1
   },
   "severity_counts": {
-    "critical": 5,
+    "critical": 6,
     "medium": 3,
     "high": 3
   },
@@ -155,6 +155,13 @@
     }
   ],
   "security_highlights": [
+    {
+      "title": "AI chatbots are \"Yes-Men\" that reinforce bad relationship decisions, study finds",
+      "url": "https://news.stanford.edu/stories/2026/03/ai-advice-sycophantic-models-research",
+      "severity": "critical",
+      "source": "hn",
+      "date": "2026-03-28T14:08:33+00:00"
+    },
     {
       "title": "Show HN: Open-Source Animal Crossing–Style UI for Claude Code Agents",
       "url": "https://github.com/outworked/outworked/releases/tag/v0.3.0",

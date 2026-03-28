@@ -1,6 +1,6 @@
 {
   "month": "2026-03",
-  "generated_at": "2026-03-28T04:31:51.839646+00:00",
+  "generated_at": "2026-03-28T05:54:13.157512+00:00",
   "total_articles": 451,
   "source_counts": {
     "hn": 359,
@@ -8,7 +8,7 @@
     "project": 1
   },
   "severity_counts": {
-    "critical": 6,
+    "critical": 5,
     "medium": 3,
     "high": 3
   },
@@ -149,7 +149,7 @@
     {
       "title": "People inside Microsoft are fighting to drop mandatory Microsoft Account",
       "url": "https://www.windowscentral.com/microsoft/windows-11/people-inside-microsoft-are-fighting-to-drop-windows-11s-mandatory-microsoft-account-requirements-during-setup",
-      "score": 567,
+      "score": 593,
       "source": "hn",
       "date": "2026-03-27T13:54:35+00:00"
     }
@@ -210,13 +210,6 @@
       "severity": "high",
       "source": "hn",
       "date": "2026-03-22T22:33:13+00:00"
-    },
-    {
-      "title": "HopTab – Open source macOS app switcher and tiler that replaces Cmd+Tab",
-      "url": "https://www.royalbhati.com/hoptab",
-      "severity": "critical",
-      "source": "hn",
-      "date": "2026-03-22T06:23:59+00:00"
     }
   ]
 }

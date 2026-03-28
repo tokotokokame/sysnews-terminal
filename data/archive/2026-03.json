@@ -1,15 +1,15 @@
 {
   "month": "2026-03",
-  "generated_at": "2026-03-28T20:25:36.763905+00:00",
+  "generated_at": "2026-03-28T20:55:08.265848+00:00",
   "total_articles": 451,
   "source_counts": {
-    "hn": 346,
-    "zennqiita": 104,
+    "hn": 348,
+    "zennqiita": 102,
     "project": 1
   },
   "severity_counts": {
+    "critical": 6,
     "medium": 4,
-    "critical": 5,
     "high": 2
   },
   "top_articles": [
@@ -121,7 +121,7 @@
     {
       "title": "Spanish legislation as a Git repo",
       "url": "https://github.com/EnriqueLop/legalize-es",
-      "score": 637,
+      "score": 648,
       "source": "hn",
       "date": "2026-03-28T12:01:27+00:00"
     },
@@ -147,14 +147,21 @@
       "date": "2026-03-26T13:38:25+00:00"
     },
     {
-      "title": "Hold on to Your Hardware",
-      "url": "https://xn--gckvb8fzb.com/hold-on-to-your-hardware/",
-      "score": 552,
+      "title": "Go hard on agents, not on your filesystem",
+      "url": "https://jai.scs.stanford.edu/",
+      "score": 553,
       "source": "hn",
-      "date": "2026-03-27T10:10:41+00:00"
+      "date": "2026-03-28T00:39:54+00:00"
     }
   ],
   "security_highlights": [
+    {
+      "title": "OpenCiv1 – open-source rewrite of Civ1",
+      "url": "https://github.com/rajko-horvat/OpenCiv1",
+      "severity": "critical",
+      "source": "hn",
+      "date": "2026-03-28T18:22:45+00:00"
+    },
     {
       "title": "Show HN: Open-Source Animal Crossing–Style UI for Claude Code Agents",
       "url": "https://github.com/outworked/outworked/releases/tag/v0.3.0",

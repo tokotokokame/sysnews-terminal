@@ -1,7 +1,7 @@
 {
   "date": "2026-03-28",
-  "generated_at": "2026-03-28T14:59:12.795772+00:00",
-  "total_articles": 44,
+  "generated_at": "2026-03-28T15:37:36.769322+00:00",
+  "total_articles": 42,
   "urgent_count": 3,
   "urgent_items": [
     {
@@ -29,12 +29,12 @@
   "categories": [
     {
       "category": "テクノロジー",
-      "count": 38,
+      "count": 37,
       "top_items": [
         {
           "title": "Go hard on agents, not on your filesystem",
           "url": "https://jai.scs.stanford.edu/",
-          "score": 464,
+          "score": 475,
           "source": "hn",
           "severity": null,
           "date": "2026-03-28T00:39:54+00:00"
@@ -42,26 +42,26 @@
         {
           "title": "Make macOS consistently bad unironically",
           "url": "https://lr0.org/blog/p/macos/",
-          "score": 462,
+          "score": 468,
           "source": "hn",
           "severity": null,
           "date": "2026-03-27T19:15:19+00:00"
         },
         {
-          "title": "Desk for people who work at home with a cat",
-          "url": "https://soranews24.com/2026/03/27/japan-now-has-a-special-desk-for-people-who-work-at-home-with-a-pet-catphotos/",
-          "score": 359,
-          "source": "hn",
-          "severity": null,
-          "date": "2026-03-27T15:31:20+00:00"
-        },
-        {
           "title": "I put all 8,642 Spanish laws in Git – every reform is a commit",
           "url": "https://github.com/EnriqueLop/legalize-es",
-          "score": 344,
+          "score": 406,
           "source": "hn",
           "severity": null,
           "date": "2026-03-28T12:01:27+00:00"
+        },
+        {
+          "title": "Britain today generating 90%+ of electricity from renewables",
+          "url": "https://grid.iamkate.com/",
+          "score": 258,
+          "source": "hn",
+          "severity": null,
+          "date": "2026-03-28T11:06:44+00:00"
         },
         {
           "title": "AI got the blame for the Iran school bombing. The truth is more worrying",
@@ -75,7 +75,7 @@
     },
     {
       "category": "日本語技術記事",
-      "count": 6,
+      "count": 5,
       "top_items": [
         {
           "title": "Google TurboQuant入門 — KVキャッシュ3ビット圧縮でLLM推論を8倍高速化",

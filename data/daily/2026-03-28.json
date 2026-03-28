@@ -1,7 +1,7 @@
 {
   "date": "2026-03-28",
-  "generated_at": "2026-03-28T07:42:05.303819+00:00",
-  "total_articles": 46,
+  "generated_at": "2026-03-28T08:34:07.299491+00:00",
+  "total_articles": 54,
   "urgent_count": 2,
   "urgent_items": [
     {
@@ -22,12 +22,12 @@
   "categories": [
     {
       "category": "テクノロジー",
-      "count": 42,
+      "count": 43,
       "top_items": [
         {
           "title": "People inside Microsoft are fighting to drop mandatory Microsoft Account",
           "url": "https://www.windowscentral.com/microsoft/windows-11/people-inside-microsoft-are-fighting-to-drop-windows-11s-mandatory-microsoft-account-requirements-during-setup",
-          "score": 615,
+          "score": 623,
           "source": "hn",
           "severity": null,
           "date": "2026-03-27T13:54:35+00:00"
@@ -41,6 +41,14 @@
           "date": "2026-03-27T10:10:41+00:00"
         },
         {
+          "title": "Anatomy of the .claude/ folder",
+          "url": "https://blog.dailydoseofds.com/p/anatomy-of-the-claude-folder",
+          "score": 477,
+          "source": "hn",
+          "severity": null,
+          "date": "2026-03-27T14:35:45+00:00"
+        },
+        {
           "title": "The 'paperwork flood': How I drowned a bureaucrat before dinner",
           "url": "https://sightlessscribbles.com/posts/the-paperwork-flood/",
           "score": 469,
@@ -49,17 +57,9 @@
           "date": "2026-03-27T12:46:49+00:00"
         },
         {
-          "title": "Anatomy of the .claude/ folder",
-          "url": "https://blog.dailydoseofds.com/p/anatomy-of-the-claude-folder",
-          "score": 463,
-          "source": "hn",
-          "severity": null,
-          "date": "2026-03-27T14:35:45+00:00"
-        },
-        {
           "title": "Make macOS consistently bad unironically",
           "url": "https://lr0.org/blog/p/macos/",
-          "score": 380,
+          "score": 390,
           "source": "hn",
           "severity": null,
           "date": "2026-03-27T19:15:19+00:00"
@@ -68,7 +68,7 @@
     },
     {
       "category": "日本語技術記事",
-      "count": 4,
+      "count": 11,
       "top_items": [
         {
           "title": "Google TurboQuant入門 — KVキャッシュ3ビット圧縮でLLM推論を8倍高速化",
@@ -76,7 +76,31 @@
           "score": null,
           "source": "zennqiita",
           "severity": null,
-          "date": "2026-03-28T14:22:28+09:00"
+          "date": "2026-03-28T16:43:20+09:00"
+        },
+        {
+          "title": "研究効率を爆上げするAIツールまとめ（論文調査〜執筆まで）",
+          "url": "https://qiita.com/Milab_honda/items/8577b96433491173bf4e?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "score": null,
+          "source": "zennqiita",
+          "severity": null,
+          "date": "2026-03-28T12:08:59+09:00"
+        },
+        {
+          "title": "React CompilerはどのようにReact.memoを不要にしているのか",
+          "url": "https://qiita.com/uhyo/items/43d4aafae2c87a12e5ed?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "score": null,
+          "source": "zennqiita",
+          "severity": null,
+          "date": "2026-03-28T10:20:16+09:00"
+        },
+        {
+          "title": "手軽に始める 360° 画像を用いた Gaussian Splatting（クオリティ向上編）",
+          "url": "https://qiita.com/Tks_Yoshinaga/items/1644417ac8aadb130e79?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "score": null,
+          "source": "zennqiita",
+          "severity": null,
+          "date": "2026-03-28T07:06:57+09:00"
         },
         {
           "title": "手軽に始める 360° 画像を用いた Gaussian Splatting（基本手順編）",
@@ -85,22 +109,6 @@
           "source": "zennqiita",
           "severity": null,
           "date": "2026-03-28T07:05:49+09:00"
-        },
-        {
-          "title": "ほぼ2年目エンジニア、AWSとAIに「全振り」した365日からAI時代の新米エンジニアの歩き方を考える",
-          "url": "https://qiita.com/miruky/items/14008906c3772c3305a5?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "score": null,
-          "source": "zennqiita",
-          "severity": null,
-          "date": "2026-03-27T22:30:55+09:00"
-        },
-        {
-          "title": "【Unityユーザー向け】 R3入門 1 ~基礎編~",
-          "url": "https://qiita.com/toRisouP/items/eae3e71c55e8ea4fd09e?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "score": null,
-          "source": "zennqiita",
-          "severity": null,
-          "date": "2026-03-27T21:28:37+09:00"
         }
       ]
     }

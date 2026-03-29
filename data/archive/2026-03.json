@@ -1,6 +1,6 @@
 {
   "month": "2026-03",
-  "generated_at": "2026-03-29T17:02:36.730109+00:00",
+  "generated_at": "2026-03-29T17:56:09.246882+00:00",
   "total_articles": 452,
   "source_counts": {
     "hn": 354,
@@ -8,8 +8,8 @@
     "project": 2
   },
   "severity_counts": {
+    "critical": 8,
     "medium": 6,
-    "critical": 7,
     "high": 2
   },
   "top_articles": [
@@ -23,7 +23,7 @@
     {
       "title": "Founder of GitLab battles cancer by founding companies",
       "url": "https://sytse.com/cancer/",
-      "score": 1267,
+      "score": 1291,
       "source": "hn",
       "date": "2026-03-28T17:39:49+00:00"
     },
@@ -100,7 +100,7 @@
     {
       "title": "AI overly affirms users asking for personal advice",
       "url": "https://news.stanford.edu/stories/2026/03/ai-advice-sycophantic-models-research",
-      "score": 729,
+      "score": 742,
       "source": "hn",
       "date": "2026-03-28T14:08:33+00:00"
     },
@@ -155,6 +155,13 @@
     }
   ],
   "security_highlights": [
+    {
+      "title": "Catching the LiteLLM and Telnyx supply chain zero-days via semantic analysis",
+      "url": "https://point-wild.github.io/who-touched-my-packages/",
+      "severity": "critical",
+      "source": "hn",
+      "date": "2026-03-29T15:49:30+00:00"
+    },
     {
       "title": "OpenYak – An open-source Cowork that runs any model and owns your filesystem",
       "url": "https://github.com/openyak/desktop",

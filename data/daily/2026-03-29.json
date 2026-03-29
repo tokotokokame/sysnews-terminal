@@ -1,9 +1,16 @@
 {
   "date": "2026-03-29",
-  "generated_at": "2026-03-29T17:02:36.687509+00:00",
-  "total_articles": 50,
-  "urgent_count": 2,
+  "generated_at": "2026-03-29T17:56:09.205656+00:00",
+  "total_articles": 53,
+  "urgent_count": 3,
   "urgent_items": [
+    {
+      "title": "Catching the LiteLLM and Telnyx supply chain zero-days via semantic analysis",
+      "url": "https://point-wild.github.io/who-touched-my-packages/",
+      "severity": "critical",
+      "source": "hn",
+      "date": "2026-03-29T15:49:30+00:00"
+    },
     {
       "title": "OpenYak – An open-source Cowork that runs any model and owns your filesystem",
       "url": "https://github.com/openyak/desktop",
@@ -22,20 +29,12 @@
   "categories": [
     {
       "category": "テクノロジー",
-      "count": 43,
+      "count": 47,
       "top_items": [
-        {
-          "title": "Founder of GitLab battles cancer by founding companies",
-          "url": "https://sytse.com/cancer/",
-          "score": 1267,
-          "source": "hn",
-          "severity": null,
-          "date": "2026-03-28T17:39:49+00:00"
-        },
         {
           "title": "CSS is DOOMed",
           "url": "https://nielsleenheer.com/articles/2026/css-is-doomed-rendering-doom-in-3d-with-css/",
-          "score": 444,
+          "score": 450,
           "source": "hn",
           "severity": null,
           "date": "2026-03-28T20:39:01+00:00"
@@ -43,15 +42,15 @@
         {
           "title": "Say No to Palantir in Europe",
           "url": "https://action.wemove.eu/sign/2026-03-palantir-petition-EN",
-          "score": 390,
+          "score": 421,
           "source": "hn",
           "severity": null,
           "date": "2026-03-29T14:51:20+00:00"
         },
         {
-          "title": "Overestimation of microplastics potentially caused by scientists' gloves",
+          "title": "Nitrile and latex gloves may cause overestimation of microplastics",
           "url": "https://news.umich.edu/nitrile-and-latex-gloves-may-cause-overestimation-of-microplastics-u-m-study-reveals/",
-          "score": 383,
+          "score": 400,
           "source": "hn",
           "severity": null,
           "date": "2026-03-29T09:46:58+00:00"
@@ -63,12 +62,20 @@
           "source": "hn",
           "severity": null,
           "date": "2026-03-28T23:29:04+00:00"
+        },
+        {
+          "title": "Further human + AI + proof assistant work on Knuth's \"Claude Cycles\" problem",
+          "url": "https://twitter.com/BoWang87/status/2037648937453232504",
+          "score": 240,
+          "source": "hn",
+          "severity": null,
+          "date": "2026-03-28T18:38:59+00:00"
         }
       ]
     },
     {
       "category": "日本語技術記事",
-      "count": 7,
+      "count": 6,
       "top_items": [
         {
           "title": "手軽に始める 360° 画像を用いた Gaussian Splatting（クオリティ向上編）",

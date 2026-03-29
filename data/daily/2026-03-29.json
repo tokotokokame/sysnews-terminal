@@ -1,8 +1,8 @@
 {
   "date": "2026-03-29",
-  "generated_at": "2026-03-29T19:56:29.535256+00:00",
-  "total_articles": 55,
-  "urgent_count": 2,
+  "generated_at": "2026-03-29T20:30:39.736548+00:00",
+  "total_articles": 65,
+  "urgent_count": 3,
   "urgent_items": [
     {
       "title": "Catching the LiteLLM and Telnyx supply chain zero-days via semantic analysis",
@@ -17,12 +17,19 @@
       "severity": "critical",
       "source": "hn",
       "date": "2026-03-29T04:26:13+00:00"
+    },
+    {
+      "title": "個人開発者がVercelを無料で使い倒す方法【初心者向け完全ガイド】",
+      "url": "https://qiita.com/felix-jp-studio/items/bbf43b4e4fa6b6cf0a10?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "severity": "critical",
+      "source": "zennqiita",
+      "date": "2026-03-29T08:59:05+09:00"
     }
   ],
   "categories": [
     {
       "category": "テクノロジー",
-      "count": 50,
+      "count": 52,
       "top_items": [
         {
           "title": "CSS is DOOMed",
@@ -35,7 +42,7 @@
         {
           "title": "Nitrile and latex gloves may cause overestimation of microplastics",
           "url": "https://news.umich.edu/nitrile-and-latex-gloves-may-cause-overestimation-of-microplastics-u-m-study-reveals/",
-          "score": 449,
+          "score": 457,
           "source": "hn",
           "severity": null,
           "date": "2026-03-29T09:46:58+00:00"
@@ -57,18 +64,18 @@
           "date": "2026-03-28T23:29:04+00:00"
         },
         {
-          "title": "Police used AI facial recognition to wrongly arrest TN woman for crimes in ND",
-          "url": "https://www.cnn.com/2026/03/29/us/angela-lipps-ai-facial-recognition",
-          "score": 234,
+          "title": "Voyager 1 runs on 69 KB of memory and an 8-track tape recorder",
+          "url": "https://techfixated.com/a-1977-time-capsule-voyager-1-runs-on-69-kb-of-memory-and-an-8-track-tape-recorder-4/",
+          "score": 255,
           "source": "hn",
           "severity": null,
-          "date": "2026-03-29T14:20:23+00:00"
+          "date": "2026-03-29T16:12:22+00:00"
         }
       ]
     },
     {
       "category": "日本語技術記事",
-      "count": 5,
+      "count": 13,
       "top_items": [
         {
           "title": "手軽に始める 360° 画像を用いた Gaussian Splatting（クオリティ向上編）",
@@ -87,28 +94,28 @@
           "date": "2026-03-30T01:29:53+09:00"
         },
         {
+          "title": "【M365 Copilot】Teamsでチャットするだけで進捗管理ができた話",
+          "url": "https://qiita.com/yuyanz/items/5d2087dd5500d0689d7e?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "score": null,
+          "source": "zennqiita",
+          "severity": null,
+          "date": "2026-03-29T23:45:48+09:00"
+        },
+        {
+          "title": "AIネイティブな時代への準備",
+          "url": "https://qiita.com/jw-automation/items/c24b6e3d879176b27dff?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "score": null,
+          "source": "zennqiita",
+          "severity": null,
+          "date": "2026-03-29T22:38:32+09:00"
+        },
+        {
           "title": "React CompilerはどのようにReact.memoを不要にしているのか",
           "url": "https://qiita.com/uhyo/items/43d4aafae2c87a12e5ed?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
           "score": null,
           "source": "zennqiita",
           "severity": null,
           "date": "2026-03-29T21:55:32+09:00"
-        },
-        {
-          "title": "研究効率を爆上げするAIツールまとめ（論文調査〜執筆まで）",
-          "url": "https://qiita.com/Milab_honda/items/8577b96433491173bf4e?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "score": null,
-          "source": "zennqiita",
-          "severity": null,
-          "date": "2026-03-29T13:27:36+09:00"
-        },
-        {
-          "title": "商品購入アプリのカートの中身を自動でExcel領収書に転記する",
-          "url": "https://qiita.com/Masayanf/items/ff6fa93746873da7aa91?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "score": null,
-          "source": "zennqiita",
-          "severity": null,
-          "date": "2026-03-29T10:33:11+09:00"
         }
       ]
     }

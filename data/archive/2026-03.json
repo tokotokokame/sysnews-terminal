@@ -1,14 +1,14 @@
 {
   "month": "2026-03",
-  "generated_at": "2026-03-29T19:56:29.683958+00:00",
+  "generated_at": "2026-03-29T20:30:39.776783+00:00",
   "total_articles": 452,
   "source_counts": {
-    "hn": 354,
-    "zennqiita": 96,
+    "hn": 353,
+    "zennqiita": 97,
     "project": 2
   },
   "severity_counts": {
-    "critical": 8,
+    "critical": 9,
     "medium": 5,
     "high": 2
   },
@@ -168,6 +168,13 @@
       "severity": "critical",
       "source": "hn",
       "date": "2026-03-29T04:26:13+00:00"
+    },
+    {
+      "title": "個人開発者がVercelを無料で使い倒す方法【初心者向け完全ガイド】",
+      "url": "https://qiita.com/felix-jp-studio/items/bbf43b4e4fa6b6cf0a10?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "severity": "critical",
+      "source": "zennqiita",
+      "date": "2026-03-29T08:59:05+09:00"
     },
     {
       "title": "OpenCiv1 – open-source rewrite of Civ1",

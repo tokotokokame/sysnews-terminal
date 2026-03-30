@@ -223,29 +223,6 @@
       border-color: #667eea;
     }
     
-    .news-image {
-      width: 100%;
-      height: 180px;
-      background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
-      display: flex;
-      align-items: center;
-      justify-content: center;
-      color: white;
-      font-size: 48px;
-      position: relative;
-      overflow: hidden;
-    }
-    
-    .news-image::before {
-      content: '';
-      position: absolute;
-      top: 0;
-      left: 0;
-      right: 0;
-      bottom: 0;
-      background: radial-gradient(circle at 30% 50%, rgba(255,255,255,0.1) 0%, transparent 60%);
-    }
-    
     .news-content {
       padding: 20px;
     }
@@ -279,10 +256,10 @@
       color: #333;
       line-height: 1.5;
       display: -webkit-box;
-      -webkit-line-clamp: 2;
+      -webkit-line-clamp: 3;
       -webkit-box-orient: vertical;
       overflow: hidden;
-      min-height: 48px;
+      min-height: 72px;
     }
     
     .news-meta {
@@ -372,17 +349,30 @@
     }
     
     /* アーカイブセクション */
+    .archive-section {
+      background: white;
+      border-radius: 12px;
+      padding: 25px;
+      margin-bottom: 20px;
+      box-shadow: 0 2px 10px rgba(0,0,0,0.05);
+    }
+    
+    .archive-section h2 {
+      font-size: 22px;
+      margin-bottom: 20px;
+      color: #333;
+    }
+    
     .archive-grid {
       display: grid;
-      grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
+      grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
       gap: 15px;
     }
     
     .archive-card {
-      background: white;
+      background: #f8f8f8;
       border-radius: 12px;
-      padding: 25px;
-      box-shadow: 0 2px 10px rgba(0,0,0,0.05);
+      padding: 20px;
       transition: all 0.3s;
       cursor: pointer;
       border: 2px solid transparent;
@@ -392,18 +382,26 @@
       transform: translateY(-3px);
       box-shadow: 0 5px 20px rgba(0,0,0,0.1);
       border-color: #667eea;
+      background: white;
     }
     
     .archive-month {
-      font-size: 26px;
+      font-size: 24px;
       font-weight: bold;
       color: #667eea;
       margin-bottom: 10px;
     }
     
-    .archive-count {
+    .archive-stats {
       font-size: 14px;
       color: #666;
+      margin-bottom: 12px;
+    }
+    
+    .archive-summary {
+      font-size: 13px;
+      color: #999;
+      line-height: 1.5;
     }
     
     /* レスポンシブ */
@@ -451,13 +449,13 @@
   <!-- ナビゲーション -->
   <nav class="nav">
     <div class="nav-content">
-      <button class="nav-btn active" data-filter="all">🏠 すべて</button>
-      <button class="nav-btn" data-filter="top">🏆 Top 20</button>
-      <button class="nav-btn" data-filter="security">🔒 セキュリティ</button>
-      <button class="nav-btn" data-filter="ai">🤖 AI</button>
-      <button class="nav-btn" data-filter="pentest">🎯 ペンテスト</button>
-      <button class="nav-btn" data-filter="tech">💻 技術</button>
-      <button class="nav-btn" data-filter="archive">📅 アーカイブ</button>
+      <button class="nav-btn active" data-filter="all">すべて</button>
+      <button class="nav-btn" data-filter="top">Top 20</button>
+      <button class="nav-btn" data-filter="security">セキュリティ</button>
+      <button class="nav-btn" data-filter="ai">AI</button>
+      <button class="nav-btn" data-filter="pentest">ペンテスト</button>
+      <button class="nav-btn" data-filter="tech">技術</button>
+      <button class="nav-btn" data-filter="archive">月次まとめ</button>
     </div>
   </nav>
 
@@ -486,76 +484,77 @@
       const categories = [];
       
       // セキュリティ
-      if (text.match(/security|vulnerability|cve|exploit|malware|ransomware|breach|attack|hack|threat|セキュリティ|脆弱性|攻撃/i)) {
+      if (text.match(/security|vulnerability|cve|exploit|malware|ransomware|breach|attack|hack|threat|phishing|zero-day|セキュリティ|脆弱性|攻撃|侵害/i)) {
         categories.push('security');
       }
       
       // AI
-      if (text.match(/\bai\b|artificial intelligence|machine learning|deep learning|gpt|llm|neural|model|chatbot|人工知能|機械学習/i)) {
+      if (text.match(/\bai\b|artificial intelligence|machine learning|deep learning|gpt|llm|neural|model|chatbot|openai|anthropic|人工知能|機械学習/i)) {
         categories.push('ai');
       }
       
       // ペンテスト
-      if (text.match(/pentest|penetration|metasploit|burp|hack the box|ctf|red team|blue team|kali|ペネトレーション/i)) {
+      if (text.match(/pentest|penetration|metasploit|burp|hack the box|ctf|red team|blue team|kali|nmap|wireshark|ペネトレーション/i)) {
         categories.push('pentest');
       }
       
       // 技術
-      if (text.match(/programming|development|code|software|framework|library|api|database|技術|プログラミング|開発/i)) {
+      if (text.match(/programming|development|code|software|framework|library|api|database|cloud|docker|kubernetes|技術|プログラミング|開発/i)) {
         categories.push('tech');
       }
       
       return categories.length > 0 ? categories : ['news'];
     }
 
-    // タイトル日本語変換
-    function translateTitle(title) {
-      const translations = {
-        'Security': 'セキュリティ',
-        'Vulnerability': '脆弱性',
-        'Vulnerabilities': '脆弱性',
-        'Exploit': 'エクスプロイト',
-        'Critical': '緊急',
-        'Update': 'アップデート',
-        'Release': 'リリース',
-        'Released': 'リリース済',
-        'New': '新規',
-        'Latest': '最新',
-        'CVE': 'CVE',
-        'Zero-Day': 'ゼロデイ',
-        'Ransomware': 'ランサムウェア',
-        'Malware': 'マルウェア',
-        'Patch': 'パッチ',
-        'Patched': 'パッチ適用済',
-        'Bug': 'バグ',
-        'Fix': '修正',
-        'Fixed': '修正済',
-        'Authentication': '認証',
-        'Bypass': 'バイパス',
-        'Remote Code Execution': 'リモートコード実行',
-        'RCE': 'RCE',
-        'SQL Injection': 'SQLインジェクション',
-        'XSS': 'XSS',
-        'CSRF': 'CSRF',
-        'Denial of Service': 'サービス拒否',
-        'DoS': 'DoS',
-        'DDoS': 'DDoS',
-        'Privilege Escalation': '権限昇格',
-        'Data Breach': 'データ侵害',
-        'Leaked': '漏洩',
-        'Disclosure': '開示',
-        'Advisory': 'アドバイザリ',
-        'Warning': '警告',
-        'Alert': 'アラート',
-        'Announcement': '発表',
-        'Breaking': '速報',
+    // Google Translate API代替（ローカル翻訳辞書）
+    async function translateToJapanese(title) {
+      // 基本的な英単語→日本語変換辞書
+      const dict = {
+        // セキュリティ用語
+        'security': 'セキュリティ', 'vulnerability': '脆弱性', 'vulnerabilities': '脆弱性',
+        'exploit': 'エクスプロイト', 'exploits': 'エクスプロイト', 'critical': '緊急',
+        'update': 'アップデート', 'updates': 'アップデート', 'release': 'リリース',
+        'released': 'リリース済', 'new': '新規', 'latest': '最新', 'zero-day': 'ゼロデイ',
+        'ransomware': 'ランサムウェア', 'malware': 'マルウェア', 'patch': 'パッチ',
+        'patched': 'パッチ適用済', 'bug': 'バグ', 'bugs': 'バグ', 'fix': '修正',
+        'fixed': '修正済', 'authentication': '認証', 'bypass': 'バイパス',
+        'remote code execution': 'リモートコード実行', 'rce': 'RCE',
+        'sql injection': 'SQLインジェクション', 'xss': 'XSS', 'csrf': 'CSRF',
+        'denial of service': 'サービス拒否', 'dos': 'DoS', 'ddos': 'DDoS',
+        'privilege escalation': '権限昇格', 'data breach': 'データ侵害',
+        'leaked': '漏洩', 'disclosure': '開示', 'advisory': 'アドバイザリ',
+        'warning': '警告', 'alert': 'アラート', 'announcement': '発表',
+        'breaking': '速報', 'attack': '攻撃', 'attacks': '攻撃',
+        'threat': '脅威', 'threats': '脅威', 'phishing': 'フィッシング',
+        
+        // AI用語
+        'artificial intelligence': '人工知能', 'machine learning': '機械学習',
+        'deep learning': 'ディープラーニング', 'neural network': 'ニューラルネットワーク',
+        'model': 'モデル', 'models': 'モデル', 'training': 'トレーニング',
+        'dataset': 'データセット', 'algorithm': 'アルゴリズム',
+        
+        // 技術用語
+        'programming': 'プログラミング', 'development': '開発',
+        'software': 'ソフトウェア', 'application': 'アプリケーション',
+        'framework': 'フレームワーク', 'library': 'ライブラリ',
+        'database': 'データベース', 'server': 'サーバー',
+        'cloud': 'クラウド', 'api': 'API', 'performance': 'パフォーマンス',
+        
+        // 一般用語
+        'how to': '方法', 'guide': 'ガイド', 'tutorial': 'チュートリアル',
+        'introduction': '入門', 'overview': '概要', 'comparison': '比較',
+        'best practices': 'ベストプラクティス', 'tips': 'ヒント',
+        'analysis': '分析', 'report': 'レポート', 'research': '研究',
       };
       
       let translated = title;
-      for (const [en, ja] of Object.entries(translations)) {
-        const regex = new RegExp('\\b' + en + '\\b', 'gi');
+      
+      // 辞書ベース変換（単語境界を考慮）
+      for (const [en, ja] of Object.entries(dict)) {
+        const regex = new RegExp('\\b' + en.replace(/[.*+?^${}()|[\]\\]/g, '\\$&') + '\\b', 'gi');
         translated = translated.replace(regex, ja);
       }
+      
       return translated;
     }
 
@@ -567,15 +566,17 @@
         
         const data = await response.json();
         
-        // データ構造の正規化
-        allItems = (data.items || []).map(item => ({
+        // データ正規化と翻訳
+        const promises = (data.items || []).map(async item => ({
           ...item,
           categories: detectCategory(item),
-          translatedTitle: translateTitle(item.title || ''),
+          translatedTitle: await translateToJapanese(item.title || ''),
           score: item.score || 0,
           comments: item.comments || 0,
           link: item.url || item.link || '#'
         }));
+        
+        allItems = await Promise.all(promises);
         
         // ヘッダー統計更新
         document.getElementById('headerStats').textContent = 
@@ -598,7 +599,6 @@
       const container = document.getElementById('newsContainer');
       const topSection = document.getElementById('topSection');
       
-      // フィルタリング
       let filtered = allItems;
       
       if (currentFilter === 'top') {
@@ -629,7 +629,6 @@
         );
       }
       
-      // カード生成
       if (filtered.length === 0) {
         container.innerHTML = `
           <div class="empty-state">
@@ -643,7 +642,6 @@
       const grid = document.createElement('div');
       grid.className = 'news-grid';
       
-      // 最新50件まで表示
       filtered.slice(0, 50).forEach(item => {
         const card = createNewsCard(item);
         grid.appendChild(card);
@@ -659,20 +657,7 @@
       card.className = 'news-card';
       card.onclick = () => window.open(item.link, '_blank');
       
-      // カテゴリアイコン
-      const categoryIcon = {
-        'security': '🔒',
-        'ai': '🤖',
-        'pentest': '🎯',
-        'tech': '💻',
-        'news': '📰'
-      };
-      
-      const mainCategory = item.categories[0] || 'news';
-      const icon = categoryIcon[mainCategory] || '📰';
-      
       card.innerHTML = `
-        <div class="news-image">${icon}</div>
         <div class="news-content">
           <div class="news-tags">
             ${item.categories.map(cat => 
@@ -734,7 +719,7 @@
       }).join('');
     }
 
-    // アーカイブ表示
+    // アーカイブ表示（月次まとめ）
     async function renderArchive() {
       const container = document.getElementById('newsContainer');
       
@@ -748,11 +733,15 @@
           container.innerHTML = `
             <div class="empty-state">
               <div class="empty-state-icon">📅</div>
-              <div>アーカイブはまだありません</div>
+              <div>月次アーカイブはまだありません</div>
             </div>
           `;
           return;
         }
+        
+        const section = document.createElement('div');
+        section.className = 'archive-section';
+        section.innerHTML = '<h2>📅 月次アーカイブ</h2>';
         
         const grid = document.createElement('div');
         grid.className = 'archive-grid';
@@ -762,16 +751,21 @@
           card.className = 'archive-card';
           card.onclick = () => window.open(`./data/archive/${month.file}`, '_blank');
           
+          // まとめ文生成
+          const summary = generateMonthlySummary(month);
+          
           card.innerHTML = `
-            <div class="archive-month">📅 ${month.month}</div>
-            <div class="archive-count">総記事数: ${month.total_articles || 0}</div>
+            <div class="archive-month">${month.month}</div>
+            <div class="archive-stats">総記事数: ${month.total_articles || 0}件</div>
+            <div class="archive-summary">${summary}</div>
           `;
           
           grid.appendChild(card);
         });
         
+        section.appendChild(grid);
         container.innerHTML = '';
-        container.appendChild(grid);
+        container.appendChild(section);
         
       } catch (error) {
         container.innerHTML = `
@@ -780,6 +774,21 @@
             ${error.message}
           </div>
         `;
+      }
+    }
+
+    // 月次まとめ文生成
+    function generateMonthlySummary(month) {
+      const count = month.total_articles || 0;
+      
+      if (count === 0) {
+        return '記事はありません';
+      } else if (count < 50) {
+        return `${count}件の記事を収録。セキュリティアップデートや技術トレンドを中心にカバー。`;
+      } else if (count < 200) {
+        return `${count}件の記事を収録。AI、セキュリティ、開発ツールなど幅広いトピックを網羅。`;
+      } else {
+        return `${count}件の記事を収録。セキュリティインシデント、AI技術革新、開発トレンドなど充実のラインナップ。`;
       }
     }
 

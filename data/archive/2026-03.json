@@ -1,6 +1,6 @@
 {
   "month": "2026-03",
-  "generated_at": "2026-03-30T02:03:40.554910+00:00",
+  "generated_at": "2026-03-30T05:10:10.880519+00:00",
   "total_articles": 452,
   "source_counts": {
     "hn": 359,
@@ -8,7 +8,7 @@
     "project": 2
   },
   "severity_counts": {
-    "critical": 9,
+    "critical": 10,
     "medium": 5,
     "high": 2
   },
@@ -155,6 +155,13 @@
     }
   ],
   "security_highlights": [
+    {
+      "title": "DoesItAgeVerify: The age verification status of Open Source Operating Systems",
+      "url": "https://github.com/BryanLunduke/DoesItAgeVerify",
+      "severity": "critical",
+      "source": "hn",
+      "date": "2026-03-30T00:52:06+00:00"
+    },
     {
       "title": "Catching the LiteLLM and Telnyx supply chain zero-days via semantic analysis",
       "url": "https://point-wild.github.io/who-touched-my-packages/",

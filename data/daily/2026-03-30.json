@@ -1,28 +1,28 @@
 {
   "date": "2026-03-30",
-  "generated_at": "2026-03-30T02:03:40.513861+00:00",
-  "total_articles": 59,
+  "generated_at": "2026-03-30T05:10:10.836611+00:00",
+  "total_articles": 58,
   "urgent_count": 2,
   "urgent_items": [
+    {
+      "title": "DoesItAgeVerify: The age verification status of Open Source Operating Systems",
+      "url": "https://github.com/BryanLunduke/DoesItAgeVerify",
+      "severity": "critical",
+      "source": "hn",
+      "date": "2026-03-30T00:52:06+00:00"
+    },
     {
       "title": "Catching the LiteLLM and Telnyx supply chain zero-days via semantic analysis",
       "url": "https://point-wild.github.io/who-touched-my-packages/",
       "severity": "critical",
       "source": "hn",
       "date": "2026-03-29T15:49:30+00:00"
-    },
-    {
-      "title": "OpenYak – An open-source Cowork that runs any model and owns your filesystem",
-      "url": "https://github.com/openyak/desktop",
-      "severity": "critical",
-      "source": "hn",
-      "date": "2026-03-29T04:26:13+00:00"
     }
   ],
   "categories": [
     {
       "category": "テクノロジー",
-      "count": 49,
+      "count": 50,
       "top_items": [
         {
           "title": "Nitrile and latex gloves may cause overestimation of microplastics",
@@ -33,6 +33,14 @@
           "date": "2026-03-29T09:46:58+00:00"
         },
         {
+          "title": "Voyager 1 runs on 69 KB of memory and an 8-track tape recorder",
+          "url": "https://techfixated.com/a-1977-time-capsule-voyager-1-runs-on-69-kb-of-memory-and-an-8-track-tape-recorder-4/",
+          "score": 447,
+          "source": "hn",
+          "severity": null,
+          "date": "2026-03-29T16:12:22+00:00"
+        },
+        {
           "title": "Say No to Palantir in Europe",
           "url": "https://action.wemove.eu/sign/2026-03-palantir-petition-EN",
           "score": 421,
@@ -41,34 +49,26 @@
           "date": "2026-03-29T14:51:20+00:00"
         },
         {
-          "title": "Voyager 1 runs on 69 KB of memory and an 8-track tape recorder",
-          "url": "https://techfixated.com/a-1977-time-capsule-voyager-1-runs-on-69-kb-of-memory-and-an-8-track-tape-recorder-4/",
-          "score": 399,
-          "source": "hn",
-          "severity": null,
-          "date": "2026-03-29T16:12:22+00:00"
-        },
-        {
           "title": "ChatGPT won't let you type until Cloudflare reads your React state",
           "url": "https://www.buchodi.com/chatgpt-wont-let-you-type-until-cloudflare-reads-your-react-state-i-decrypted-the-program-that-does-it/",
-          "score": 340,
+          "score": 412,
           "source": "hn",
           "severity": null,
           "date": "2026-03-29T20:21:05+00:00"
         },
         {
-          "title": "Police used AI facial recognition to wrongly arrest TN woman for crimes in ND",
-          "url": "https://www.cnn.com/2026/03/29/us/angela-lipps-ai-facial-recognition",
-          "score": 313,
+          "title": "The Cognitive Dark Forest",
+          "url": "https://ryelang.org/blog/posts/cognitive-dark-forest/",
+          "score": 356,
           "source": "hn",
           "severity": null,
-          "date": "2026-03-29T14:20:23+00:00"
+          "date": "2026-03-29T19:36:21+00:00"
         }
       ]
     },
     {
       "category": "日本語技術記事",
-      "count": 10,
+      "count": 8,
       "top_items": [
         {
           "title": "AIにロックマンエグゼになり切ってもらい一緒に開発してる話",
@@ -76,7 +76,7 @@
           "score": null,
           "source": "zennqiita",
           "severity": null,
-          "date": "2026-03-30T10:52:30+09:00"
+          "date": "2026-03-30T11:55:29+09:00"
         },
         {
           "title": "手軽に始める 360° 画像を用いた Gaussian Splatting（クオリティ向上編）",

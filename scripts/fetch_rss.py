@@ -293,15 +293,16 @@ def fetch_feed(source: dict, session: requests.Session) -> list:
 
 def deduplicate_items(new_items: list, existing_items: list) -> list:
     """重複除去"""
-    existing_urls = {normalize_url(i["link"]) for i in existing_items}
+    # 既存データが 'link' と 'url' のどちらのキーを持っていても対応可能にする
+    existing_urls = {normalize_url(i.get("link", i.get("url", ""))) for i in existing_items if i.get("link") or i.get("url")}
     unique = []
     for item in new_items:
-        norm_url = normalize_url(item["link"])
-        if norm_url not in existing_urls:
+        norm_url = normalize_url(item.get("link", item.get("url", "")))
+        if norm_url and norm_url not in existing_urls:
             unique.append(item)
             existing_urls.add(norm_url)
     return unique
-
+    
 def rotate_news_json(items: list, max_items: int) -> list:
     """news.jsonローテーション"""
     if len(items) <= max_items:

@@ -1,922 +1,326 @@
 <!DOCTYPE html>
 <html lang="ja">
 <head>
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0">
-<title>SE NEWS // TERMINAL</title>
-<link rel="preconnect" href="https://fonts.googleapis.com">
-<link href="https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@300;400;500;700&family=Outfit:wght@400;600;800&family=JetBrains+Mono:wght@400;600&display=swap" rel="stylesheet">
-<style>
-:root {
-  --bg:#0d0f14; --bg2:#13161d; --bg3:#1a1e27; --bg4:#212737;
-  --border:#252b3b; --border2:#2e3650;
-  --text:#e2e6f0; --text2:#8b93a8; --text3:#4a5270;
-  --accent:#4ade80; --accentb:#22d3ee; --accentc:#a78bfa;
-  --red:#f87171; --orange:#fb923c; --yellow:#fbbf24; --blue:#60a5fa;
-  --hn:#ff6600; --gh:#58a6ff; --zq:#3b82f6;
-  --jpcert:#f87171; --devto:#4ade80; --proj:#a78bfa; --msf:#fb923c;
-}
-*{margin:0;padding:0;box-sizing:border-box;-webkit-tap-highlight-color:transparent}
-body{background:var(--bg);color:var(--text);font-family:'Noto Sans JP',sans-serif;font-size:14px;line-height:1.6;min-height:100vh;overflow-x:hidden}
-body::before{content:'';position:fixed;inset:0;pointer-events:none;z-index:9999;background:repeating-linear-gradient(0deg,transparent,transparent 2px,rgba(0,0,0,0.025) 2px,rgba(0,0,0,0.025) 4px)}
-
-/* HEADER */
-.hdr{position:sticky;top:0;z-index:200;background:rgba(13,15,20,.96);backdrop-filter:blur(20px);border-bottom:1px solid var(--border)}
-.hdr-inner{max-width:1120px;margin:0 auto;display:flex;align-items:center;gap:12px;padding:0 16px;height:54px}
-.logo{font-family:'Outfit',sans-serif;font-size:18px;font-weight:800;letter-spacing:3px;color:var(--accent);display:flex;align-items:center;gap:8px;white-space:nowrap;text-shadow:0 0 20px rgba(74,222,128,.4)}
-.logo-slash{color:var(--text3);font-weight:400}
-.logo-sub{font-family:'JetBrains Mono',monospace;font-size:9px;color:var(--text3);display:block;margin-top:-2px;letter-spacing:2px}
-.hdr-search{flex:1;max-width:320px;display:flex;align-items:center;gap:8px;background:var(--bg3);border:1px solid var(--border);border-radius:6px;padding:7px 12px;transition:all .2s}
-.hdr-search:focus-within{border-color:var(--accent);background:var(--bg2);box-shadow:0 0 0 3px rgba(74,222,128,.08)}
-.hdr-search input{flex:1;border:none;background:transparent;color:var(--text);font-size:13px;font-family:inherit}
-.hdr-search input:focus{outline:none}
-.hdr-search input::placeholder{color:var(--text3)}
-.hdr-right{margin-left:auto;display:flex;gap:6px;align-items:center}
-.icon-btn{width:34px;height:34px;border-radius:6px;border:1px solid transparent;background:transparent;cursor:pointer;display:flex;align-items:center;justify-content:center;font-size:16px;color:var(--text2);transition:all .15s}
-.icon-btn:hover{background:var(--bg3);border-color:var(--border);color:var(--text)}
-.status-dot{width:8px;height:8px;border-radius:50%;background:var(--accent);box-shadow:0 0 6px rgba(74,222,128,.5);animation:pulse 2s infinite}
-.status-dot.loading{background:var(--yellow);box-shadow:0 0 6px rgba(251,191,36,.5)}
-.status-dot.error{background:var(--red);animation:none}
-@keyframes pulse{0%,100%{opacity:1}50%{opacity:.3}}
-
-/* TABS */
-.tab-nav{display:flex;padding:0 16px;max-width:1120px;margin:0 auto;overflow-x:auto;scrollbar-width:none;border-top:1px solid var(--border)}
-.tab-nav::-webkit-scrollbar{display:none}
-.tab-btn{display:flex;align-items:center;gap:6px;padding:10px 14px;border:none;background:transparent;font-size:12px;font-weight:600;color:var(--text3);cursor:pointer;white-space:nowrap;border-bottom:2px solid transparent;margin-bottom:-1px;font-family:'Outfit',sans-serif;letter-spacing:.5px;transition:all .2s}
-.tab-btn:hover{color:var(--text2)}
-.tab-btn.active{color:var(--accent);border-bottom-color:var(--accent)}
-
-/* LAYOUT */
-.app-body{max-width:1120px;margin:0 auto;padding:16px;display:grid;grid-template-columns:1fr 280px;gap:16px}
-@media(max-width:780px){.app-body{grid-template-columns:1fr;padding-bottom:72px}.sidebar{display:none}}
-
-/* CHIPS */
-.chip-row{display:flex;flex-wrap:wrap;gap:6px;margin-bottom:12px}
-.chip{display:flex;align-items:center;gap:5px;padding:4px 10px;border-radius:4px;border:1px solid var(--border2);background:var(--bg3);color:var(--text2);font-size:11px;font-weight:600;cursor:pointer;font-family:'Outfit',sans-serif;letter-spacing:.5px;transition:all .15s}
-.chip:hover{border-color:var(--text3);color:var(--text)}
-.chip.active{background:rgba(74,222,128,.1);border-color:var(--accent);color:var(--accent)}
-.chip[data-s="hn"].active{background:rgba(255,102,0,.12);border-color:var(--hn);color:var(--hn)}
-.chip[data-s="github"].active{background:rgba(88,166,255,.12);border-color:var(--gh);color:var(--gh)}
-.chip[data-s="zennqiita"].active{background:rgba(59,130,246,.12);border-color:var(--zq);color:var(--zq)}
-.chip[data-s="jpcert"].active{background:rgba(248,113,113,.12);border-color:var(--jpcert);color:var(--jpcert)}
-.chip[data-s="devto"].active{background:rgba(74,222,128,.12);border-color:var(--devto);color:var(--devto)}
-.chip[data-s="project"].active{background:rgba(167,139,250,.12);border-color:var(--proj);color:var(--proj)}
-.chip[data-s="msf"].active{background:rgba(251,146,60,.12);border-color:var(--msf);color:var(--msf)}
-.chip-dot{width:5px;height:5px;border-radius:50%}
-
-/* ARTICLE CARD */
-.article-list{display:flex;flex-direction:column;gap:0}
-.article-card{background:var(--bg2);border:1px solid var(--border);border-radius:8px;padding:14px 16px;cursor:pointer;transition:all .2s;position:relative;margin-bottom:6px;animation:fadeUp .3s ease backwards;overflow:hidden}
-.article-card::before{content:'';position:absolute;left:0;top:0;bottom:0;width:3px;border-radius:8px 0 0 8px;opacity:.5;transition:opacity .2s}
-.article-card[data-s="hn"]::before{background:var(--hn)}
-.article-card[data-s="github"]::before{background:var(--gh)}
-.article-card[data-s="zennqiita"]::before{background:var(--zq)}
-.article-card[data-s="jpcert"]::before{background:var(--jpcert)}
-.article-card[data-s="devto"]::before{background:var(--devto)}
-.article-card[data-s="project"]::before{background:var(--proj)}
-.article-card[data-s="msf"]::before{background:var(--msf)}
-@keyframes fadeUp{from{opacity:0;transform:translateY(10px)}to{opacity:1;transform:translateY(0)}}
-.article-card:hover{background:var(--bg3);border-color:var(--border2);box-shadow:0 4px 16px rgba(0,0,0,.5)}
-.article-card:hover::before{opacity:1}
-.article-card.read{opacity:.45}
-.card-top{display:flex;align-items:center;gap:8px;margin-bottom:8px}
-.src-tag{font-family:'JetBrains Mono',monospace;font-size:9px;font-weight:600;padding:2px 7px;border-radius:3px;letter-spacing:.5px;flex-shrink:0}
-.src-tag[data-s="hn"]{background:rgba(255,102,0,.15);color:var(--hn)}
-.src-tag[data-s="github"]{background:rgba(88,166,255,.15);color:var(--gh)}
-.src-tag[data-s="zennqiita"]{background:rgba(59,130,246,.15);color:var(--zq)}
-.src-tag[data-s="jpcert"]{background:rgba(248,113,113,.15);color:var(--jpcert)}
-.src-tag[data-s="devto"]{background:rgba(74,222,128,.15);color:var(--devto)}
-.src-tag[data-s="project"]{background:rgba(167,139,250,.15);color:var(--proj)}
-.src-tag[data-s="msf"]{background:rgba(251,146,60,.15);color:var(--msf)}
-.new-pill{background:rgba(248,113,113,.2);color:var(--red);font-size:8px;font-weight:700;padding:2px 5px;border-radius:3px;font-family:'JetBrains Mono',monospace;animation:blink 2s infinite}
-@keyframes blink{0%,100%{opacity:1}50%{opacity:.4}}
-.card-time{margin-left:auto;font-size:10px;color:var(--text3);font-family:'JetBrains Mono',monospace}
-.card-title{font-size:14px;font-weight:500;line-height:1.55;color:var(--text);margin-bottom:8px;display:-webkit-box;-webkit-line-clamp:3;-webkit-box-orient:vertical;overflow:hidden}
-.card-footer{display:flex;align-items:center;gap:8px;flex-wrap:wrap}
-.meta{font-size:10px;color:var(--text3);font-family:'JetBrains Mono',monospace}
-.pill{font-size:10px;padding:2px 7px;border-radius:3px;background:var(--bg4);border:1px solid var(--border);color:var(--text2);font-family:'JetBrains Mono',monospace}
-.open-btn{margin-left:auto;padding:4px 10px;border-radius:4px;border:1px solid var(--border2);background:transparent;color:var(--text3);font-size:10px;cursor:pointer;font-family:'Outfit',sans-serif;font-weight:600;transition:all .15s}
-.open-btn:hover{border-color:var(--accent);color:var(--accent);background:rgba(74,222,128,.06)}
-
-/* DAILY SUMMARY */
-.summary-header{background:var(--bg2);border:1px solid var(--border);border-radius:8px;padding:16px;margin-bottom:12px}
-.summary-date{font-family:'Outfit',sans-serif;font-size:11px;font-weight:700;letter-spacing:2px;color:var(--accent);margin-bottom:6px}
-.summary-stats{display:flex;gap:16px;flex-wrap:wrap;margin-bottom:12px}
-.stat-box{background:var(--bg3);border-radius:6px;padding:8px 14px;text-align:center}
-.stat-num{font-family:'Outfit',sans-serif;font-size:22px;font-weight:800;color:var(--text);line-height:1}
-.stat-lbl{font-size:10px;color:var(--text3);margin-top:2px;font-family:'JetBrains Mono',monospace}
-.urgent-list{display:flex;flex-direction:column;gap:4px}
-.urgent-item{display:flex;align-items:center;gap:8px;padding:7px 10px;background:var(--bg3);border-radius:5px;cursor:pointer;transition:background .15s}
-.urgent-item:hover{background:var(--bg4)}
-.sev-pill{font-size:9px;font-weight:700;padding:2px 6px;border-radius:3px;font-family:'JetBrains Mono',monospace;flex-shrink:0}
-.sev-critical{background:#7f1d1d;color:#fca5a5}
-.sev-high{background:#991b1b;color:#fca5a5}
-.sev-medium{background:#92400e;color:#fde68a}
-.sev-low{background:#14532d;color:#86efac}
-.sev-info{background:#1e3a5f;color:#93c5fd}
-.cat-section{margin-bottom:16px}
-.cat-hd{font-family:'Outfit',sans-serif;font-size:11px;font-weight:700;letter-spacing:1.5px;color:var(--text2);text-transform:uppercase;margin-bottom:8px;display:flex;align-items:center;gap:6px}
-.cat-hd::after{content:'';flex:1;height:1px;background:var(--border)}
-.cat-cnt{font-size:10px;color:var(--text3);font-weight:400;letter-spacing:0}
-
-/* SECURITY TAB */
-.sev-chips{display:flex;gap:6px;flex-wrap:wrap;margin-bottom:12px}
-.sev-chip{padding:4px 10px;border-radius:4px;border:1px solid var(--border2);background:var(--bg3);color:var(--text2);font-size:11px;font-weight:700;cursor:pointer;font-family:'JetBrains Mono',monospace;transition:all .15s}
-.sev-chip.active[data-sev="all"]{background:var(--bg4);border-color:var(--border2);color:var(--text)}
-.sev-chip.active[data-sev="critical"]{background:#7f1d1d;border-color:#991b1b;color:#fca5a5}
-.sev-chip.active[data-sev="high"]{background:#991b1b;border-color:#ef4444;color:#fca5a5}
-.sev-chip.active[data-sev="medium"]{background:#92400e;border-color:#f59e0b;color:#fde68a}
-.sev-chip.active[data-sev="info"]{background:#1e3a5f;border-color:#3b82f6;color:#93c5fd}
-.sec-card{background:var(--bg2);border:1px solid var(--border);border-radius:8px;overflow:hidden;margin-bottom:6px;cursor:pointer;transition:all .2s;animation:fadeUp .3s ease backwards}
-.sec-card:hover{background:var(--bg3);border-color:var(--border2);box-shadow:0 4px 16px rgba(0,0,0,.5)}
-.sec-card-head{padding:10px 14px;display:flex;align-items:center;gap:8px}
-.sec-card-body{padding:4px 14px 12px}
-.sec-card-title{font-size:13px;font-weight:600;line-height:1.45;margin-bottom:6px}
-.sec-tags{display:flex;flex-wrap:wrap;gap:4px}
-.sec-tag{font-size:9px;padding:2px 6px;border-radius:3px;background:rgba(167,139,250,.1);border:1px solid rgba(167,139,250,.2);color:var(--accentc);font-family:'JetBrains Mono',monospace}
-
-/* TREND */
-.section-hd{font-family:'Outfit',sans-serif;font-size:11px;font-weight:600;letter-spacing:2px;color:var(--text3);text-transform:uppercase;margin-bottom:10px;display:flex;align-items:center;gap:6px}
-.section-hd::after{content:'';flex:1;height:1px;background:var(--border)}
-.trend-item{display:flex;align-items:flex-start;gap:12px;padding:10px 12px;background:var(--bg2);border:1px solid var(--border);border-radius:6px;margin-bottom:4px;cursor:pointer;transition:all .15s}
-.trend-item:hover{background:var(--bg3);border-color:var(--border2);transform:translateX(2px)}
-.trend-rank{font-family:'Outfit',sans-serif;font-size:20px;font-weight:800;color:var(--border2);min-width:26px;line-height:1.1}
-.trend-rank.gold{color:var(--yellow)}
-.trend-rank.silver{color:var(--text2)}
-.trend-rank.bronze{color:var(--orange)}
-.trend-title{font-size:13px;font-weight:500;line-height:1.45;margin-bottom:4px}
-.trend-meta{font-size:10px;color:var(--text3);font-family:'JetBrains Mono',monospace;display:flex;flex-wrap:wrap;gap:8px}
-.kw-cloud{display:flex;flex-wrap:wrap;gap:5px;margin-bottom:20px}
-.kw-item{padding:3px 9px;border-radius:4px;background:var(--bg3);border:1px solid var(--border);color:var(--text2);cursor:pointer;transition:all .15s}
-.kw-item:hover{border-color:var(--accent);color:var(--accent);background:rgba(74,222,128,.08)}
-
-/* ARCHIVE TAB */
-.month-grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(200px,1fr));gap:8px;margin-bottom:20px}
-.month-card{background:var(--bg2);border:1px solid var(--border);border-radius:8px;padding:14px;cursor:pointer;transition:all .15s}
-.month-card:hover{background:var(--bg3);border-color:var(--border2);transform:translateY(-2px);box-shadow:0 4px 16px rgba(0,0,0,.4)}
-.month-card.active{border-color:var(--accent);background:rgba(74,222,128,.06)}
-.month-name{font-family:'Outfit',sans-serif;font-size:16px;font-weight:800;color:var(--text);margin-bottom:6px}
-.month-cnt{font-family:'JetBrains Mono',monospace;font-size:11px;color:var(--text3)}
-.archive-detail{background:var(--bg2);border:1px solid var(--border);border-radius:8px;padding:16px}
-.archive-stat-row{display:flex;gap:8px;flex-wrap:wrap;margin-bottom:16px}
-.archive-stat{background:var(--bg3);border-radius:6px;padding:8px 14px;text-align:center;flex:1;min-width:80px}
-.archive-stat-num{font-family:'Outfit',sans-serif;font-size:20px;font-weight:800;color:var(--text);line-height:1}
-.archive-stat-lbl{font-size:10px;color:var(--text3);font-family:'JetBrains Mono',monospace;margin-top:2px}
-
-/* SIDEBAR */
-.sidebar{display:flex;flex-direction:column;gap:12px}
-.sc{background:var(--bg2);border:1px solid var(--border);border-radius:8px;overflow:hidden}
-.sc-head{padding:10px 14px;border-bottom:1px solid var(--border);font-family:'Outfit',sans-serif;font-size:11px;font-weight:700;letter-spacing:1.5px;color:var(--text2);text-transform:uppercase;display:flex;align-items:center;gap:8px}
-.sc-body{padding:12px 14px}
-.countdown{font-family:'JetBrains Mono',monospace;font-size:11px;color:var(--text3);margin-top:4px}
-.updated-txt{font-family:'JetBrains Mono',monospace;font-size:10px;color:var(--text3);margin-top:8px;padding-top:8px;border-top:1px solid var(--border)}
-.src-stat-row{display:flex;align-items:center;gap:8px;margin-bottom:7px}
-.src-stat-lbl{font-size:10px;color:var(--text2);font-family:'JetBrains Mono',monospace;min-width:64px}
-.src-stat-wrap{flex:1;height:3px;background:var(--bg4);border-radius:2px;overflow:hidden}
-.src-stat-bar{height:100%;border-radius:2px;transition:width 1s ease}
-.src-stat-num{font-size:10px;color:var(--text3);font-family:'JetBrains Mono',monospace;min-width:20px;text-align:right}
-
-/* BOTTOM NAV */
-.bottom-nav{display:none;position:fixed;bottom:0;left:0;right:0;background:rgba(13,15,20,.97);border-top:1px solid var(--border);backdrop-filter:blur(20px);z-index:300;padding:4px 0 env(safe-area-inset-bottom)}
-@media(max-width:780px){.bottom-nav{display:flex}}
-.bnav-item{flex:1;display:flex;flex-direction:column;align-items:center;gap:2px;padding:6px 0;border:none;background:transparent;cursor:pointer;font-size:10px;color:var(--text3);font-family:'Outfit',sans-serif;font-weight:600;transition:color .15s;letter-spacing:.5px}
-.bnav-item.active{color:var(--accent)}
-.bnav-icon{font-size:18px}
-
-/* TOAST */
-.toast{position:fixed;bottom:80px;left:50%;transform:translateX(-50%) translateY(20px);background:var(--bg3);border:1px solid var(--border2);color:var(--text);padding:9px 18px;border-radius:6px;font-size:12px;z-index:600;opacity:0;transition:all .25s;white-space:nowrap;box-shadow:0 8px 32px rgba(0,0,0,.6);font-family:'Outfit',sans-serif}
-.toast.show{opacity:1;transform:translateX(-50%) translateY(0)}
-.toast.ok{border-color:var(--accent);color:var(--accent)}
-.toast.err{border-color:var(--red);color:var(--red)}
-
-/* SKELETON */
-.skel{background:linear-gradient(90deg,var(--bg3) 25%,var(--bg4) 50%,var(--bg3) 75%);background-size:200% 100%;animation:shimmer 1.5s infinite;border-radius:3px}
-@keyframes shimmer{to{background-position:-200% 0}}
-.skel-card{background:var(--bg2);border:1px solid var(--border);border-radius:8px;padding:14px 16px;margin-bottom:6px}
-
-/* PROGRESS */
-.pgbar{position:fixed;top:0;left:0;height:2px;background:linear-gradient(90deg,var(--accent),var(--accentb));z-index:999;pointer-events:none;transition:width .3s,opacity .5s;box-shadow:0 0 10px rgba(74,222,128,.5)}
-
-/* MISC */
-::-webkit-scrollbar{width:4px;height:4px}
-::-webkit-scrollbar-track{background:var(--bg)}
-::-webkit-scrollbar-thumb{background:var(--border2);border-radius:2px}
-.empty{text-align:center;padding:48px 16px;color:var(--text3)}
-.empty-icon{font-size:28px;margin-bottom:8px}
-.empty-msg{font-size:13px;color:var(--text2)}
-</style>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>SE/NEWS - セキュリティニュースターミナル</title>
+  <style>
+    * { margin: 0; padding: 0; box-sizing: border-box; }
+    body {
+      font-family: 'Courier New', monospace;
+      background: #0a0e1a;
+      color: #00ff41;
+      padding: 20px;
+      line-height: 1.6;
+    }
+    
+    .header {
+      border: 2px solid #00ff41;
+      padding: 20px;
+      margin-bottom: 20px;
+      text-align: center;
+      text-transform: uppercase;
+    }
+    
+    .nav {
+      display: flex;
+      gap: 15px;
+      margin-bottom: 20px;
+      flex-wrap: wrap;
+    }
+    
+    .nav-btn {
+      background: transparent;
+      color: #00ff41;
+      border: 1px solid #00ff41;
+      padding: 8px 16px;
+      cursor: pointer;
+      font-family: inherit;
+      transition: all 0.2s;
+    }
+    
+    .nav-btn:hover,
+    .nav-btn.active {
+      background: #00ff41;
+      color: #0a0e1a;
+    }
+    
+    .feed-status {
+      padding: 10px;
+      margin-bottom: 20px;
+      border-left: 3px solid #00ff41;
+      font-size: 14px;
+    }
+    
+    /* 仮想スクロールコンテナ */
+    .virtual-scroll-container {
+      height: calc(100vh - 300px);
+      overflow-y: auto;
+      position: relative;
+    }
+    
+    .virtual-scroll-spacer {
+      height: 0;
+    }
+    
+    .virtual-items {
+      position: relative;
+    }
+    
+    .item {
+      border: 1px solid #00ff41;
+      padding: 15px;
+      margin-bottom: 10px;
+      opacity: 0;
+      animation: fadeIn 0.3s forwards;
+    }
+    
+    @keyframes fadeIn {
+      to { opacity: 1; }
+    }
+    
+    .item-header {
+      display: flex;
+      justify-content: space-between;
+      margin-bottom: 10px;
+      font-size: 13px;
+      flex-wrap: wrap;
+      gap: 10px;
+    }
+    
+    .item-title {
+      font-size: 16px;
+      margin-bottom: 8px;
+      color: #00ff41;
+      text-decoration: none;
+      display: block;
+    }
+    
+    .item-title:hover {
+      text-decoration: underline;
+    }
+    
+    .severity {
+      padding: 2px 8px;
+      font-size: 11px;
+      font-weight: bold;
+    }
+    
+    .severity.critical { background: #ff0000; color: #fff; }
+    .severity.high { background: #ff6600; color: #fff; }
+    .severity.medium { background: #ffaa00; color: #000; }
+    .severity.low { background: #00aa00; color: #fff; }
+    
+    .loading {
+      text-align: center;
+      padding: 20px;
+      font-size: 18px;
+    }
+    
+    .error {
+      border: 2px solid #ff0000;
+      color: #ff0000;
+      padding: 20px;
+      margin: 20px 0;
+    }
+    
+    /* レスポンシブ */
+    @media (max-width: 768px) {
+      body { padding: 10px; }
+      .header { padding: 15px; }
+      .item { padding: 10px; }
+    }
+  </style>
 </head>
 <body>
-
-<div class="pgbar" id="pgbar" style="width:0;opacity:0"></div>
-
-<header class="hdr">
-  <div class="hdr-inner">
-    <div class="logo">SE<span class="logo-slash">/</span>NEWS<span class="logo-sub">INTEL TERMINAL</span></div>
-    <div class="hdr-search">
-      <svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="#4a5270" stroke-width="2"><circle cx="11" cy="11" r="8"/><path d="m21 21-4.35-4.35"/></svg>
-      <input id="searchInput" type="text" placeholder="記事を検索..." oninput="onSearch()">
-    </div>
-    <div class="hdr-right">
-      <div class="status-dot loading" id="statusDot"></div>
-      <button class="icon-btn" title="更新" onclick="loadAll()">↺</button>
-    </div>
+  <div class="header">
+    <h1>SE / NEWS</h1>
+    <p>Security & Engineering News Terminal</p>
   </div>
-  <nav class="tab-nav">
-    <button class="tab-btn active" data-tab="archive"  onclick="switchTab('archive')">◫ 月次まとめ</button>
-    <button class="tab-btn"        data-tab="feed"     onclick="switchTab('feed')">◈ フィード</button>
-    <button class="tab-btn"        data-tab="summary"  onclick="switchTab('summary')">◎ 日次サマリー</button>
-    <button class="tab-btn"        data-tab="security" onclick="switchTab('security')">⚑ セキュリティ</button>
-    <button class="tab-btn"        data-tab="pentest"  onclick="switchTab('pentest')">↯ ペンテスト</button>
-    <button class="tab-btn"        data-tab="trend"    onclick="switchTab('trend')">↑ トレンド</button>
+
+  <nav class="nav">
+    <button class="nav-btn active" data-filter="all">📰 全記事</button>
+    <button class="nav-btn" data-filter="security">🔒 セキュリティ</button>
+    <button class="nav-btn" data-filter="tech">💻 技術</button>
+    <button class="nav-btn" data-filter="月次">📅 月次まとめ</button>
   </nav>
-</header>
 
-<div class="app-body">
-  <main id="mainCol">
-    <div id="tab-feed" style="display:none">
-      <div class="chip-row">
-        <button class="chip active" data-s="all"       onclick="setSource('all')"><span class="chip-dot" style="background:#4a5270"></span>ALL</button>
-        <button class="chip" data-s="hn"               onclick="setSource('hn')"><span class="chip-dot" style="background:var(--hn)"></span>HN</button>
-        <button class="chip" data-s="github"           onclick="setSource('github')"><span class="chip-dot" style="background:var(--gh)"></span>GitHub</button>
-        <button class="chip" data-s="zennqiita"        onclick="setSource('zennqiita')"><span class="chip-dot" style="background:var(--zq)"></span>Zenn/Qiita</button>
-        <button class="chip" data-s="jpcert"           onclick="setSource('jpcert')"><span class="chip-dot" style="background:var(--jpcert)"></span>JPCERT</button>
-        <button class="chip" data-s="devto"            onclick="setSource('devto')"><span class="chip-dot" style="background:var(--devto)"></span>dev.to</button>
-        <button class="chip" data-s="project"          onclick="setSource('project')"><span class="chip-dot" style="background:var(--proj)"></span>Tools</button>
-        <button class="chip" data-s="msf"              onclick="setSource('msf')"><span class="chip-dot" style="background:var(--msf)"></span>CVE</button>
-      </div>
-      <div id="feedList" class="article-list"></div>
-    </div>
+  <div class="feed-status" id="status">
+    ⏳ Loading...
+  </div>
 
-    <div id="tab-summary" style="display:none">
-      <div id="summaryContent"></div>
-    </div>
+  <!-- 仮想スクロールコンテナ -->
+  <div class="virtual-scroll-container" id="scrollContainer">
+    <div class="virtual-scroll-spacer" id="spacerTop"></div>
+    <div class="virtual-items" id="items"></div>
+    <div class="virtual-scroll-spacer" id="spacerBottom"></div>
+  </div>
 
-    <div id="tab-security" style="display:none">
-      <div class="sev-chips">
-        <button class="sev-chip active" data-sev="all"      onclick="setSev('all')">ALL</button>
-        <button class="sev-chip" data-sev="critical"        onclick="setSev('critical')">CRITICAL</button>
-        <button class="sev-chip" data-sev="high"            onclick="setSev('high')">HIGH</button>
-        <button class="sev-chip" data-sev="medium"          onclick="setSev('medium')">MEDIUM</button>
-        <button class="sev-chip" data-sev="info"            onclick="setSev('info')">INFO</button>
-      </div>
-      <div id="secList"></div>
-    </div>
+  <script>
+    // 設定
+    const ITEM_HEIGHT = 120; // 1アイテムの平均高さ（px）
+    const BUFFER_SIZE = 5;   // 上下の余分レンダリング数
+    
+    let allItems = [];
+    let filteredItems = [];
+    let currentFilter = 'all';
+    
+    // 仮想スクロール状態
+    let scrollTop = 0;
+    let containerHeight = 0;
+    let visibleStartIndex = 0;
+    let visibleEndIndex = 0;
 
-    <div id="tab-pentest" style="display:none">
-      <div class="sev-chips">
-        <button class="sev-chip active" data-pt="all"      onclick="setPtFilter('all')">ALL</button>
-        <button class="sev-chip" data-pt="exploit"         onclick="setPtFilter('exploit')" style="border-color:#fb923c;color:#fb923c">EXPLOIT</button>
-        <button class="sev-chip" data-pt="cve"             onclick="setPtFilter('cve')" style="border-color:#f87171;color:#f87171">CVE</button>
-        <button class="sev-chip" data-pt="tool"            onclick="setPtFilter('tool')" style="border-color:#a78bfa;color:#a78bfa">TOOL</button>
-        <button class="sev-chip" data-pt="ctf"             onclick="setPtFilter('ctf')" style="border-color:#4ade80;color:#4ade80">CTF</button>
-      </div>
-      <div id="pentestList"></div>
-    </div>
-
-    <div id="tab-trend" style="display:none">
-      <div style="margin-bottom:20px">
-        <div class="section-hd">↑ HOT ARTICLES</div>
-        <div id="trendList"></div>
-      </div>
-      <div style="margin-bottom:20px">
-        <div class="section-hd">◎ KEYWORD RADAR</div>
-        <div class="kw-cloud" id="kwCloud"></div>
-      </div>
-      <div>
-        <div class="section-hd">◫ SOURCE DISTRIBUTION</div>
-        <div id="srcDist"></div>
-      </div>
-    </div>
-
-    <div id="tab-archive">
-      <div class="section-hd" style="margin-bottom:12px">◫ 月次まとめ</div>
-      <div class="month-grid" id="monthGrid"></div>
-      <div id="archiveDetail"></div>
-    </div>
-  </main>
-
-  <aside class="sidebar">
-    <div class="sc">
-      <div class="sc-head">◉ FEED STATUS</div>
-      <div class="sc-body">
-        <div style="display:flex;align-items:center;gap:8px;margin-bottom:6px">
-          <div class="status-dot loading" id="sideStatusDot"></div>
-          <div style="font-size:12px;color:var(--text2)" id="sideStatusText">読み込み中...</div>
-        </div>
-        <div class="countdown" id="countdown">次回更新: --:--</div>
-        <div class="updated-txt" id="updatedTxt">最終収集: --<br>合計: -- 件</div>
-      </div>
-    </div>
-    <div class="sc">
-      <div class="sc-head">◫ SOURCES</div>
-      <div class="sc-body" id="sidebarSrc"></div>
-    </div>
-  </aside>
-</div>
-
-<nav class="bottom-nav">
-  <button class="bnav-item active" data-tab="archive"  onclick="switchTab('archive')"><span class="bnav-icon">◫</span>MONTHLY</button>
-  <button class="bnav-item"        data-tab="feed"     onclick="switchTab('feed')"><span class="bnav-icon">◈</span>FEED</button>
-  <button class="bnav-item"        data-tab="security" onclick="switchTab('security')"><span class="bnav-icon">⚑</span>SEC</button>
-  <button class="bnav-item"        data-tab="pentest"  onclick="switchTab('pentest')"><span class="bnav-icon">↯</span>PENTEST</button>
-  <button class="bnav-item"        data-tab="trend"    onclick="switchTab('trend')"><span class="bnav-icon">↑</span>TREND</button>
-</nav>
-
-<div class="toast" id="toast"></div>
-
-<script>
-// ════════════════════════════════════════════
-//  STATE
-// ════════════════════════════════════════════
-let allItems = [], summaryData = null, archiveIndex = null;
-let currentTab = 'feed', currentSource = 'all', currentSev = 'all', searchQ = '';
-let selectedMonth = null;
-let reloadTmr, countTmr, nextAt;
-const RELOAD_MS = 5 * 60 * 1000;
-
-const ls = { get: k => { try { return JSON.parse(localStorage.getItem(k)); } catch { return null; } } };
-let readIds = new Set(ls.get('se4_read') || []);
-const saveRead = () => localStorage.setItem('se4_read', JSON.stringify([...readIds]));
-
-const SMETA = {
-  hn:        {name:'Hacker News', icon:'◉', color:'var(--hn)'},
-  github:    {name:'GitHub',      icon:'◈', color:'var(--gh)'},
-  zennqiita: {name:'Zenn/Qiita',  icon:'◧', color:'var(--zq)'},
-  jpcert:    {name:'JPCERT',      icon:'⚑', color:'var(--jpcert)'},
-  devto:     {name:'dev.to',      icon:'◎', color:'var(--devto)'},
-  project:   {name:'Tools',       icon:'⬡', color:'var(--proj)'},
-  msf:       {name:'CVE/Exploit', icon:'↯', color:'var(--msf)'},
-};
-
-// ════════════════════════════════════════════
-//  DATA LOADING（JSONのみ・APIコールなし）
-// ════════════════════════════════════════════
-async function loadAll() {
-  setDot('loading');
-  showPg(10);
-
-  try {
-    // news.json を読む（唯一のデータソース）
-    const r = await fetch(`data/news.json?t=${Date.now()}`);
-    if (!r.ok) throw new Error(`HTTP ${r.status}`);
-    const data = await r.json();
-
-    const prevIds = new Set(allItems.map(i => i.id));
-    allItems = (data.items || []).map(item => ({
-      ...item,
-      isNew: !prevIds.has(item.id) && prevIds.size > 0
-    }));
-
-    showPg(60);
-
-    // summary.json を読む
-    try {
-      const sr = await fetch(`data/summary.json?t=${Date.now()}`);
-      if (sr.ok) {
-        const si = await sr.json();
-        // 最新の日次サマリーを読む
-        if (si.latest) {
-          const dr = await fetch(`data/${si.latest}?t=${Date.now()}`);
-          if (dr.ok) summaryData = await dr.json();
-        }
-        archiveIndex = si;
+    // データ取得
+    async function fetchData() {
+      try {
+        const response = await fetch('./data/news.json');
+        if (!response.ok) throw new Error('Failed to fetch news.json');
+        
+        const data = await response.json();
+        allItems = data.items || [];
+        
+        document.getElementById('status').innerHTML = 
+          `✅ 最終更新: ${new Date(data.last_updated).toLocaleString('ja-JP')} | 
+           総記事数: ${allItems.length}`;
+        
+        applyFilter(currentFilter);
+        
+      } catch (error) {
+        document.getElementById('items').innerHTML = 
+          `<div class="error">❌ データ取得エラー: ${error.message}</div>`;
       }
-    } catch(e) {}
-
-    showPg(100);
-    setDot('ok');
-    updateSidebar();
-    renderCurrentTab();
-    scheduleReload();
-
-    const now = new Date();
-    const updated = data.updated_at ? new Date(data.updated_at) : now;
-    document.getElementById('updatedTxt').innerHTML =
-      `収集: ${updated.toLocaleDateString('ja-JP')} ${updated.toLocaleTimeString('ja-JP',{hour:'2-digit',minute:'2-digit'})}<br>合計: ${allItems.length} 件`;
-
-    const newCnt = allItems.filter(i => i.isNew).length;
-    showToast(newCnt > 0 ? `◈ ${newCnt} 件の新着` : `✓ ${allItems.length} 件 最新`, 'ok');
-
-  } catch(e) {
-    setDot('error');
-    showPg(100);
-    if (allItems.length === 0) {
-      document.getElementById('feedList').innerHTML = `
-        <div class="empty">
-          <div class="empty-icon">⚠</div>
-          <div class="empty-msg">データを読み込めませんでした<br><small style="color:var(--text3)">Actions タブで Run workflow を実行してください</small></div>
-        </div>`;
     }
-    showToast('⚠ 読み込みに失敗しました', 'err');
-  }
-}
 
-function scheduleReload() {
-  if (reloadTmr) clearTimeout(reloadTmr);
-  if (countTmr)  clearInterval(countTmr);
-  nextAt = Date.now() + RELOAD_MS;
-  reloadTmr = setTimeout(loadAll, RELOAD_MS);
-  countTmr = setInterval(() => {
-    const rem = Math.max(0, nextAt - Date.now());
-    const m = String(Math.floor(rem/60000)).padStart(2,'0');
-    const s = String(Math.floor((rem%60000)/1000)).padStart(2,'0');
-    document.getElementById('countdown').textContent = `次回チェック: ${m}:${s}`;
-  }, 1000);
-}
+    // フィルタ適用
+    function applyFilter(filter) {
+      currentFilter = filter;
+      
+      if (filter === 'all') {
+        filteredItems = allItems;
+      } else if (filter === '月次') {
+        showArchive();
+        return;
+      } else {
+        filteredItems = allItems.filter(item => item.category === filter);
+      }
+      
+      // 仮想スクロール初期化
+      const container = document.getElementById('scrollContainer');
+      containerHeight = container.clientHeight;
+      scrollTop = 0;
+      container.scrollTop = 0;
+      
+      updateVirtualScroll();
+    }
 
-// ════════════════════════════════════════════
-//  ROUTING
-// ════════════════════════════════════════════
-function switchTab(tab) {
-  currentTab = tab;
-  document.querySelectorAll('.tab-btn,.bnav-item').forEach(el =>
-    el.classList.toggle('active', el.dataset.tab === tab));
-  ['feed','summary','security','pentest','trend','archive'].forEach(t => {
-    const el = document.getElementById(`tab-${t}`);
-    if (el) el.style.display = t === tab ? '' : 'none';
-  });
-  renderCurrentTab();
-}
-function renderCurrentTab() {
-  if (currentTab==='feed')     renderFeed();
-  if (currentTab==='summary')  renderSummary();
-  if (currentTab==='security') renderSecurity();
-  if (currentTab==='pentest')  renderPentest();
-  if (currentTab==='trend')    renderTrend();
-  if (currentTab==='archive')  renderArchive();
-}
-
-// ════════════════════════════════════════════
-//  FEED
-// ════════════════════════════════════════════
-function setSource(src) {
-  currentSource = src;
-  document.querySelectorAll('.chip[data-s]').forEach(el =>
-    el.classList.toggle('active', el.dataset.s === src));
-  renderFeed();
-}
-function onSearch() {
-  searchQ = document.getElementById('searchInput').value.toLowerCase();
-  renderFeed();
-}
-function getFiltered() {
-  return allItems.filter(item => {
-    const ms = currentSource === 'all' || item.source === currentSource;
-    const mq = !searchQ ||
-      item.title.toLowerCase().includes(searchQ) ||
-      (item.author||'').toLowerCase().includes(searchQ) ||
-      (item.tags||[]).some(t => t.toLowerCase().includes(searchQ));
-    return ms && mq;
-  });
-}
-function renderFeed() {
-  const el = document.getElementById('feedList');
-  if (!allItems.length) { el.innerHTML = skelCards(7); return; }
-  const items = getFiltered();
-  if (!items.length) { el.innerHTML = empty('◈','該当記事なし'); return; }
-  el.innerHTML = items.map((item, i) => card(item, i)).join('');
-}
-
-// ════════════════════════════════════════════
-//  DAILY SUMMARY
-// ════════════════════════════════════════════
-function renderSummary() {
-  const el = document.getElementById('summaryContent');
-  if (!summaryData) {
-    el.innerHTML = `
-      <div class="empty">
-        <div class="empty-icon">◎</div>
-        <div class="empty-msg">日次サマリーはまだ生成されていません<br><small style="color:var(--text3)">毎日 00:00 JST に自動生成されます</small></div>
-      </div>`;
-    return;
-  }
-
-  const d = summaryData;
-  const urgentHtml = d.urgent_items?.length ? `
-    <div style="margin-bottom:12px">
-      <div style="font-family:'Outfit',sans-serif;font-size:11px;font-weight:700;letter-spacing:1px;color:var(--red);margin-bottom:6px">⚑ 重要セキュリティ情報</div>
-      <div class="urgent-list">
-        ${d.urgent_items.map(i => `
-          <div class="urgent-item" onclick="window.open('${esc(i.url)}','_blank','noopener')">
-            <span class="sev-pill sev-${i.severity}">${(i.severity||'').toUpperCase()}</span>
-            <span style="font-size:12px;flex:1;overflow:hidden;text-overflow:ellipsis;white-space:nowrap">${esc(i.title)}</span>
-            <span style="font-size:10px;color:var(--text3);font-family:'JetBrains Mono',monospace;flex-shrink:0">${relT(i.date)}</span>
-          </div>`).join('')}
-      </div>
-    </div>` : '';
-
-  const catsHtml = (d.categories||[]).map(cat => `
-    <div class="cat-section">
-      <div class="cat-hd">${cat.category} <span class="cat-cnt">${cat.count}件</span></div>
-      ${cat.top_items.map(i => `
-        <div class="article-card" data-s="${i.source}" onclick="window.open('${esc(i.url)}','_blank','noopener')" style="animation-delay:0ms">
-          <div class="card-top">
-            <span class="src-tag" data-s="${i.source}">${SMETA[i.source]?.icon||'◉'} ${SMETA[i.source]?.name||i.source}</span>
-            ${i.severity ? `<span class="sev-pill sev-${i.severity}" style="margin-left:4px">${i.severity.toUpperCase()}</span>` : ''}
-            <span class="card-time">${relT(i.date)}</span>
+    // 仮想スクロール更新
+    function updateVirtualScroll() {
+      const totalItems = filteredItems.length;
+      const totalHeight = totalItems * ITEM_HEIGHT;
+      
+      // 表示範囲計算
+      visibleStartIndex = Math.max(0, Math.floor(scrollTop / ITEM_HEIGHT) - BUFFER_SIZE);
+      visibleEndIndex = Math.min(
+        totalItems,
+        Math.ceil((scrollTop + containerHeight) / ITEM_HEIGHT) + BUFFER_SIZE
+      );
+      
+      // スペーサー高さ設定
+      document.getElementById('spacerTop').style.height = 
+        `${visibleStartIndex * ITEM_HEIGHT}px`;
+      document.getElementById('spacerBottom').style.height = 
+        `${(totalItems - visibleEndIndex) * ITEM_HEIGHT}px`;
+      
+      // 表示アイテムレンダリング
+      const itemsContainer = document.getElementById('items');
+      itemsContainer.innerHTML = '';
+      
+      for (let i = visibleStartIndex; i < visibleEndIndex; i++) {
+        const item = filteredItems[i];
+        if (!item) continue;
+        
+        const itemEl = document.createElement('div');
+        itemEl.className = 'item';
+        itemEl.innerHTML = `
+          <div class="item-header">
+            <span>📡 ${item.source}</span>
+            ${item.severity ? 
+              `<span class="severity ${item.severity}">${item.severity.toUpperCase()}</span>` 
+              : ''}
+            <span>🕒 ${new Date(item.date).toLocaleString('ja-JP')}</span>
           </div>
-          <div class="card-title">${esc(i.title)}</div>
-          ${i.score ? `<div class="card-footer"><span class="meta">▲ ${i.score}</span></div>` : ''}
-        </div>`).join('')}
-    </div>`).join('');
+          <a href="${item.link}" target="_blank" class="item-title">
+            ${item.title}
+          </a>
+          ${item.summary ? `<p style="font-size:13px; color:#888;">${item.summary}</p>` : ''}
+        `;
+        itemsContainer.appendChild(itemEl);
+      }
+    }
 
-  el.innerHTML = `
-    <div class="summary-header">
-      <div class="summary-date">${d.date} DAILY SUMMARY</div>
-      <div class="summary-stats">
-        <div class="stat-box"><div class="stat-num">${d.total_articles}</div><div class="stat-lbl">記事数</div></div>
-        ${d.urgent_count > 0 ? `<div class="stat-box"><div class="stat-num" style="color:var(--red)">${d.urgent_count}</div><div class="stat-lbl">重要セキュリティ</div></div>` : ''}
-        <div class="stat-box"><div class="stat-num">${(d.categories||[]).length}</div><div class="stat-lbl">カテゴリ</div></div>
-      </div>
-      ${urgentHtml}
-    </div>
-    ${catsHtml}`;
-}
-
-// ════════════════════════════════════════════
-//  SECURITY
-// ════════════════════════════════════════════
-const SEV_KW = {
-  critical:['rce','remote code execution','critical','zero-day','0day','ransomware','緊急'],
-  high:    ['exploit','vulnerability','cve','privilege escalation','bypass','脆弱性'],
-  medium:  ['patch','update','advisory','warning','threat','malware','phishing'],
-};
-function classifySev(item) {
-  if (item.severity) return item.severity;
-  const t = (item.title+' '+(item.tags||[]).join(' ')).toLowerCase();
-  for (const [s,kws] of Object.entries(SEV_KW)) if (kws.some(k=>t.includes(k))) return s;
-  return null;
-}
-function isSecItem(item) {
-  // セキュリティタブ = 防御側（JPCERT・アドバイザリ・パッチ情報）
-  if (item.source === 'jpcert') return true;
-  const t = (item.title+' '+(item.tags||[]).join(' ')).toLowerCase();
-  const defKws = ['advisory','patch','update','warning','alert','セキュリティ','アラート','脆弱性対策'];
-  return defKws.some(k => t.includes(k));
-}
-
-// ペンテストタブ = 攻撃側（Exploit-DB・CVE・PoC・ツール・CTF）
-const PT_KW = {
-  exploit: ['exploit','rce','poc','remote code','bypass','privilege escalation','sqli','xss','lfi','rfi'],
-  cve:     ['cve-','cvss','nvd','zero-day','0day'],
-  tool:    ['metasploit','burp','nuclei','nmap','sqlmap','impacket','bloodhound','crackmapexec','netexec','hydra','ffuf'],
-  ctf:     ['ctf','htb','hackthebox','tryhackme','writeup','pwn','reversing','forensics'],
-};
-let currentPtFilter = 'all';
-
-function isPentestItem(item) {
-  if (item.source === 'msf') return true;
-  if (item.proj_category === 'CTF') return true;
-  const t = (item.title+' '+(item.tags||[]).join(' ')).toLowerCase();
-  return Object.values(PT_KW).flat().some(k => t.includes(k));
-}
-
-function getPtCategory(item) {
-  if (item.proj_category === 'CTF') return 'ctf';
-  if (item.source === 'msf') {
-    const t = item.title.toLowerCase();
-    if (t.includes('cve-') || t.includes('cvss')) return 'cve';
-    return 'exploit';
-  }
-  const t = (item.title+' '+(item.tags||[]).join(' ')).toLowerCase();
-  for (const [cat, kws] of Object.entries(PT_KW)) {
-    if (kws.some(k => t.includes(k))) return cat;
-  }
-  return 'exploit';
-}
-
-function setPtFilter(filter) {
-  currentPtFilter = filter;
-  document.querySelectorAll('[data-pt]').forEach(el =>
-    el.classList.toggle('active', el.dataset.pt === filter));
-  renderPentest();
-}
-
-function renderPentest() {
-  const el = document.getElementById('pentestList');
-  let items = allItems.filter(isPentestItem);
-  if (currentPtFilter !== 'all') {
-    items = items.filter(i => getPtCategory(i) === currentPtFilter);
-  }
-  items.sort((a,b) => new Date(b.date) - new Date(a.date));
-  if (!items.length) { el.innerHTML = empty('↯','ペンテスト情報を収集中...'); return; }
-  const catColors = {exploit:'var(--msf)',cve:'var(--red)',tool:'var(--proj)',ctf:'var(--accent)'};
-  const catLabels = {exploit:'EXPLOIT',cve:'CVE',tool:'TOOL',ctf:'CTF'};
-  el.innerHTML = items.map((item,i) => {
-    const ptCat = getPtCategory(item);
-    const m = SMETA[item.source]||{name:item.source,icon:'◉'};
-    const sev = item.severity || '';
-    const sevHtml = sev ? `<span class="sev-pill sev-${sev}" style="margin-left:4px">${sev.toUpperCase()}</span>` : '';
-    const tagsHtml = (item.tags||[]).map(t => `<span class="sec-tag">${esc(t)}</span>`).join('');
-    const catColor = catColors[ptCat] || 'var(--msf)';
-    const catLabel = catLabels[ptCat] || ptCat.toUpperCase();
-    return `
-    <div class="sec-card" style="animation-delay:${Math.min(i*20,400)}ms" onclick="window.open('${esc(item.url)}','_blank','noopener')">
-      <div class="sec-card-head">
-        <span class="sev-pill" style="background:rgba(251,146,60,.2);color:${catColor};border:1px solid ${catColor}">${catLabel}</span>
-        ${sevHtml}
-        <span class="src-tag" data-s="${item.source}" style="font-size:9px">${m.icon} ${m.name}</span>
-        <span style="margin-left:auto;font-size:10px;color:var(--text3);font-family:'JetBrains Mono',monospace">${relT(item.date)}</span>
-      </div>
-      <div class="sec-card-body">
-        <div class="sec-card-title">${esc(item.title)}</div>
-        <div class="sec-tags">${tagsHtml}</div>
-      </div>
-    </div>`;
-  }).join('');
-}
-function setSev(sev) {
-  currentSev = sev;
-  document.querySelectorAll('.sev-chip').forEach(el =>
-    el.classList.toggle('active', el.dataset.sev === sev));
-  renderSecurity();
-}
-function renderSecurity() {
-  const el = document.getElementById('secList');
-  let items = allItems.filter(isSecItem);
-  if (currentSev !== 'all') items = items.filter(i => classifySev(i) === currentSev);
-  const sevOrd = {critical:0,high:1,medium:2,low:3,info:4};
-  items.sort((a,b) => (sevOrd[classifySev(a)]??4)-(sevOrd[classifySev(b)]??4));
-  if (!items.length) { el.innerHTML = empty('⚑','セキュリティ情報を収集中...'); return; }
-  el.innerHTML = items.map((item,i) => {
-    const sev = classifySev(item)||'info';
-    const m = SMETA[item.source]||{name:item.source,icon:'◉'};
-    return `
-    <div class="sec-card" style="animation-delay:${Math.min(i*20,400)}ms" onclick="window.open('${esc(item.url)}','_blank','noopener')">
-      <div class="sec-card-head">
-        <span class="sev-pill sev-${sev}">${sev.toUpperCase()}</span>
-        <span class="src-tag" data-s="${item.source}" style="font-size:9px">${m.icon} ${m.name}</span>
-        <span style="margin-left:auto;font-size:10px;color:var(--text3);font-family:'JetBrains Mono',monospace">${relT(item.date)}</span>
-      </div>
-      <div class="sec-card-body">
-        <div class="sec-card-title">${esc(item.title)}</div>
-        <div class="sec-tags">${(item.tags||[]).map(t=>`<span class="sec-tag">${esc(t)}</span>`).join('')}</div>
-      </div>
-    </div>`;
-  }).join('');
-}
-
-// ════════════════════════════════════════════
-//  TREND
-// ════════════════════════════════════════════
-function renderTrend() {
-  const scored = allItems.filter(i=>i.score>0).sort((a,b)=>b.score-a.score).slice(0,15);
-  document.getElementById('trendList').innerHTML = scored.map((item,i) => {
-    const m = SMETA[item.source]||{name:item.source,icon:'◉'};
-    const rc = i===0?'gold':i===1?'silver':i===2?'bronze':'';
-    return `
-    <div class="trend-item" onclick="window.open('${esc(item.url)}','_blank','noopener')">
-      <div class="trend-rank${rc?' '+rc:''}">${i+1}</div>
-      <div><div class="trend-title">${esc(item.title)}</div>
-        <div class="trend-meta"><span>${m.icon} ${m.name}</span><span>▲ ${item.score}</span>${item.comments?`<span>◎ ${item.comments}</span>`:''}<span>${relT(item.date)}</span></div>
-      </div>
-    </div>`;
-  }).join('') || `<div style="color:var(--text3);font-size:12px;padding:12px;font-family:'JetBrains Mono',monospace">データ収集中...</div>`;
-
-  const stop = new Set(['the','a','an','in','of','to','is','and','for','with','how','why','what','from','on','that','this','are','was']);
-  const words = {};
-  allItems.forEach(item => {
-    item.title.toLowerCase().split(/[\s\-_:,.()\/\[\]]+/).forEach(w => {
-      w = w.replace(/[^a-zA-Z0-9\u3040-\u9FAF]/g,'');
-      if (w.length>2 && !stop.has(w)) words[w]=(words[w]||0)+1;
+    // スクロールイベント（スロットリング）
+    let scrollTimeout;
+    document.getElementById('scrollContainer').addEventListener('scroll', (e) => {
+      scrollTop = e.target.scrollTop;
+      
+      clearTimeout(scrollTimeout);
+      scrollTimeout = setTimeout(() => {
+        updateVirtualScroll();
+      }, 50);
     });
-  });
-  const topW = Object.entries(words).sort((a,b)=>b[1]-a[1]).slice(0,35);
-  const maxC = topW[0]?.[1]||1;
-  document.getElementById('kwCloud').innerHTML = topW.map(([w,cnt]) => {
-    const sz = 10+Math.floor((cnt/maxC)*8);
-    return `<span class="kw-item" style="font-size:${sz}px;opacity:${.5+(cnt/maxC)*.5}"
-      onclick="document.getElementById('searchInput').value='${w}';onSearch();switchTab('feed')">${w}</span>`;
-  }).join('');
 
-  const cnts = {};
-  allItems.forEach(i=>cnts[i.source]=(cnts[i.source]||0)+1);
-  const maxCnt = Math.max(...Object.values(cnts),1);
-  document.getElementById('srcDist').innerHTML = Object.entries(cnts).sort((a,b)=>b[1]-a[1]).map(([src,cnt]) => {
-    const m = SMETA[src]||{name:src,icon:'◉',color:'#4a5270'};
-    return `<div class="src-stat-row">
-      <div class="src-stat-lbl">${m.icon} ${m.name.slice(0,8)}</div>
-      <div class="src-stat-wrap"><div class="src-stat-bar" style="width:${(cnt/maxCnt*100).toFixed(0)}%;background:${m.color}"></div></div>
-      <div class="src-stat-num">${cnt}</div>
-    </div>`;
-  }).join('');
-}
+    // ナビゲーションボタン
+    document.querySelectorAll('.nav-btn').forEach(btn => {
+      btn.addEventListener('click', () => {
+        document.querySelectorAll('.nav-btn').forEach(b => b.classList.remove('active'));
+        btn.classList.add('active');
+        applyFilter(btn.dataset.filter);
+      });
+    });
 
-// ════════════════════════════════════════════
-//  ARCHIVE
-// ════════════════════════════════════════════
-function renderArchive() {
-  const grid = document.getElementById('monthGrid');
-  const detail = document.getElementById('archiveDetail');
+    // 月次アーカイブ表示
+    async function showArchive() {
+      try {
+        const response = await fetch('./data/archive/index.json');
+        if (!response.ok) throw new Error('Archive not found');
+        
+        const data = await response.json();
+        const container = document.getElementById('items');
+        
+        container.innerHTML = '<h2 style="margin-bottom:20px;">📅 月次アーカイブ</h2>';
+        
+        data.months.forEach(month => {
+          const monthEl = document.createElement('div');
+          monthEl.className = 'item';
+          monthEl.innerHTML = `
+            <h3>${month.month}</h3>
+            <p>総記事数: ${month.total_articles}</p>
+            <a href="./data/archive/${month.file}" target="_blank" style="color:#00ff41;">
+              詳細を見る →
+            </a>
+          `;
+          container.appendChild(monthEl);
+        });
+        
+        // スペーサーをリセット
+        document.getElementById('spacerTop').style.height = '0';
+        document.getElementById('spacerBottom').style.height = '0';
+        
+      } catch (error) {
+        document.getElementById('items').innerHTML = 
+          `<div class="error">❌ アーカイブ取得エラー: ${error.message}</div>`;
+      }
+    }
 
-  if (!archiveIndex || !archiveIndex.days?.length) {
-    grid.innerHTML = '';
-    detail.innerHTML = empty('◫','アーカイブはまだありません<br><small>毎月データが蓄積されます</small>');
-    return;
-  }
+    // ウィンドウリサイズ対応
+    window.addEventListener('resize', () => {
+      containerHeight = document.getElementById('scrollContainer').clientHeight;
+      updateVirtualScroll();
+    });
 
-  // 月グリッド
-  grid.innerHTML = archiveIndex.days.slice(0,12).map(m => `
-    <div class="month-card${selectedMonth===m.month?' active':''}" onclick="loadArchiveMonth('${m.month}','${m.file}')">
-      <div class="month-name">${m.month}</div>
-      <div class="month-cnt">${m.total_articles} 件</div>
-    </div>`).join('');
-
-  // 初回は最新月を自動表示
-  if (!selectedMonth && archiveIndex.days.length) {
-    const latest = archiveIndex.days[0];
-    loadArchiveMonth(latest.month, latest.file);
-  }
-}
-
-async function loadArchiveMonth(month, file) {
-  selectedMonth = month;
-  document.querySelectorAll('.month-card').forEach(el => {
-    el.classList.toggle('active', el.querySelector('.month-name')?.textContent === month);
-  });
-  const detail = document.getElementById('archiveDetail');
-  detail.innerHTML = `<div style="text-align:center;padding:24px;color:var(--text3);font-family:'JetBrains Mono',monospace;font-size:12px">読み込み中...</div>`;
-  try {
-    const r = await fetch(`data/${file}?t=${Date.now()}`);
-    if (!r.ok) throw new Error();
-    const d = await r.json();
-
-    const srcRows = Object.entries(d.source_counts||{}).map(([src,cnt]) => {
-      const m = SMETA[src]||{name:src,icon:'◉',color:'#4a5270'};
-      const max = Math.max(...Object.values(d.source_counts));
-      return `<div class="src-stat-row">
-        <div class="src-stat-lbl">${m.icon} ${m.name.slice(0,8)}</div>
-        <div class="src-stat-wrap"><div class="src-stat-bar" style="width:${(cnt/max*100).toFixed(0)}%;background:${m.color}"></div></div>
-        <div class="src-stat-num">${cnt}</div>
-      </div>`;
-    }).join('');
-
-    const topHtml = (d.top_articles||[]).slice(0,10).map((a,i) => `
-      <div class="trend-item" onclick="window.open('${esc(a.url)}','_blank','noopener')">
-        <div class="trend-rank${i===0?' gold':i===1?' silver':i===2?' bronze':''}">${i+1}</div>
-        <div><div class="trend-title">${esc(a.title)}</div>
-          <div class="trend-meta"><span>${SMETA[a.source]?.icon||'◉'} ${SMETA[a.source]?.name||a.source}</span>${a.score?`<span>▲ ${a.score}</span>`:''}<span>${relT(a.date)}</span></div>
-        </div>
-      </div>`).join('');
-
-    const secHtml = (d.security_highlights||[]).slice(0,10).map(a => `
-      <div class="urgent-item" onclick="window.open('${esc(a.url)}','_blank','noopener')">
-        <span class="sev-pill sev-${a.severity}">${(a.severity||'').toUpperCase()}</span>
-        <span style="font-size:12px;flex:1;overflow:hidden;text-overflow:ellipsis;white-space:nowrap">${esc(a.title)}</span>
-        <span style="font-size:10px;color:var(--text3);font-family:'JetBrains Mono',monospace;flex-shrink:0">${relT(a.date)}</span>
-      </div>`).join('');
-
-    // Gemini要約セクション
-    const geminiHtml = d.gemini_summary ? (() => {
-      const g = d.gemini_summary;
-      const catsHtml = (g.categories||[]).map(cat => `
-        <div style="margin-bottom:10px;padding:12px;background:var(--bg3);border-radius:6px;border-left:3px solid var(--accentc)">
-          <div style="font-family:'Outfit',sans-serif;font-size:11px;font-weight:700;color:var(--accentc);letter-spacing:1px;margin-bottom:6px">${cat.name}</div>
-          <div style="font-size:13px;color:var(--text);line-height:1.7;margin-bottom:8px">${cat.summary}</div>
-          <div style="display:flex;flex-wrap:wrap;gap:4px">
-            ${(cat.keywords||[]).map(k=>`<span style="font-size:10px;padding:2px 8px;border-radius:3px;background:rgba(167,139,250,.15);border:1px solid rgba(167,139,250,.3);color:var(--accentc);font-family:'JetBrains Mono',monospace">${k}</span>`).join('')}
-          </div>
-        </div>`).join('');
-      return `
-        <div style="margin-bottom:20px">
-          <div class="section-hd" style="margin-bottom:10px">
-            ◎ Gemini 月間トレンド要約
-            <span style="font-size:9px;font-weight:400;color:var(--accent);letter-spacing:0;margin-left:8px;font-family:'JetBrains Mono',monospace">AI生成</span>
-          </div>
-          <div style="padding:14px;background:var(--bg3);border-radius:8px;border:1px solid rgba(167,139,250,.2);margin-bottom:10px">
-            <div style="font-size:13px;color:var(--text2);line-height:1.75">${g.overall}</div>
-          </div>
-          ${catsHtml}
-        </div>`;
-    })() : '';
-
-    detail.innerHTML = `
-      <div class="archive-detail">
-        <div class="section-hd" style="margin-bottom:12px">${d.month} ARCHIVE</div>
-        ${geminiHtml}
-        <div class="archive-stat-row">
-          <div class="archive-stat"><div class="archive-stat-num">${d.total_articles}</div><div class="archive-stat-lbl">総記事数</div></div>
-          <div class="archive-stat"><div class="archive-stat-num" style="color:var(--red)">${(d.security_highlights||[]).length}</div><div class="archive-stat-lbl">セキュリティ</div></div>
-          <div class="archive-stat"><div class="archive-stat-num">${Object.keys(d.source_counts||{}).length}</div><div class="archive-stat-lbl">ソース数</div></div>
-        </div>
-        <div class="section-hd" style="margin:12px 0 8px">ソース別配信数</div>
-        ${srcRows}
-        ${topHtml ? `<div class="section-hd" style="margin:16px 0 8px">月間ホット記事 Top10</div><div>${topHtml}</div>` : ''}
-        ${secHtml ? `<div class="section-hd" style="margin:16px 0 8px">セキュリティハイライト</div><div class="urgent-list">${secHtml}</div>` : ''}
-      </div>`;
-  } catch(e) {
-    detail.innerHTML = empty('◫','アーカイブデータを読み込めませんでした');
-  }
-}
-
-// ════════════════════════════════════════════
-//  CARD
-// ════════════════════════════════════════════
-function card(item, i) {
-  const m = SMETA[item.source]||{name:item.source,icon:'◉'};
-  const delay = Math.min(i*20, 500);
-  const read = readIds.has(item.id);
-  let meta = '';
-  if (item.score!=null) meta += `<span class="meta">▲ ${item.score}</span>`;
-  if (item.comments!=null) meta += `<span class="meta">◎ ${item.comments}</span>`;
-  if (item.stars) meta += `<span class="meta">★ ${item.stars}</span>`;
-  if (item.author) meta += `<span class="meta">@ ${esc(item.author)}</span>`;
-  if (item.subSource) meta += `<span class="meta">▸ ${item.subSource}</span>`;
-  const tags = (item.tags||[]).map(t=>`<span class="pill">${esc(t)}</span>`).join('');
-  return `
-  <div class="article-card${read?' read':''}" data-s="${item.source}"
-       style="animation-delay:${delay}ms"
-       onclick="openArt('${esc(item.id)}','${esc(item.url)}')">
-    <div class="card-top">
-      <span class="src-tag" data-s="${item.source}">${m.icon} ${m.name}</span>
-      ${item.isNew?'<span class="new-pill">NEW</span>':''}
-      <span class="card-time">${relT(item.date)}</span>
-    </div>
-    <div class="card-title">${esc(item.title)}</div>
-    <div class="card-footer">${meta}${tags}
-      <button class="open-btn" onclick="event.stopPropagation();openArt('${esc(item.id)}','${esc(item.url)}')">↗ 開く</button>
-    </div>
-  </div>`;
-}
-
-function openArt(id, url) {
-  readIds.add(id); saveRead();
-  window.open(url, '_blank', 'noopener');
-}
-
-// ════════════════════════════════════════════
-//  SIDEBAR
-// ════════════════════════════════════════════
-function updateSidebar() {
-  const cnts = {};
-  allItems.forEach(i => cnts[i.source]=(cnts[i.source]||0)+1);
-  const maxC = Math.max(...Object.values(cnts),1);
-  document.getElementById('sidebarSrc').innerHTML = Object.entries(cnts)
-    .sort((a,b)=>b[1]-a[1]).map(([src,cnt]) => {
-      const m = SMETA[src]||{name:src,icon:'◉',color:'#4a5270'};
-      return `<div class="src-stat-row">
-        <div class="src-stat-lbl">${m.icon} ${m.name.slice(0,8)}</div>
-        <div class="src-stat-wrap"><div class="src-stat-bar" style="width:${(cnt/maxC*100).toFixed(0)}%;background:${m.color}"></div></div>
-        <div class="src-stat-num">${cnt}</div>
-      </div>`;
-    }).join('');
-}
-
-// ════════════════════════════════════════════
-//  UTILS
-// ════════════════════════════════════════════
-function setDot(s) {
-  ['statusDot','sideStatusDot'].forEach(id => {
-    const d = document.getElementById(id);
-    if (d) d.className = 'status-dot ' + (s==='loading'?'loading':s==='error'?'error':'');
-  });
-  const t = document.getElementById('sideStatusText');
-  if (t) t.textContent = s==='loading'?'取得中...':s==='error'?'エラー':`${allItems.length} 件収集済み`;
-}
-function showPg(pct) {
-  const b = document.getElementById('pgbar');
-  b.style.opacity='1'; b.style.width=pct+'%';
-  if (pct>=100) setTimeout(()=>{b.style.opacity='0';b.style.width='0';},600);
-}
-let toastTmr;
-function showToast(msg, type='') {
-  const el = document.getElementById('toast');
-  el.textContent=msg; el.className='toast '+(type==='ok'?'ok':type==='err'?'err':'')+' show';
-  if (toastTmr) clearTimeout(toastTmr);
-  toastTmr = setTimeout(()=>el.classList.remove('show'), 2800);
-}
-function relT(ds) {
-  try {
-    const d = (Date.now()-new Date(ds))/1000;
-    if (d<60) return '今';
-    if (d<3600) return `${Math.floor(d/60)}分前`;
-    if (d<86400) return `${Math.floor(d/3600)}時間前`;
-    if (d<86400*30) return `${Math.floor(d/86400)}日前`;
-    return new Date(ds).toLocaleDateString('ja-JP',{month:'short',day:'numeric'});
-  } catch { return '--'; }
-}
-function esc(s) {
-  return String(s||'').replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;').replace(/"/g,'&quot;').replace(/'/g,'&#39;');
-}
-function skelCards(n) {
-  return Array(n).fill(0).map(()=>`
-  <div class="skel-card">
-    <div style="display:flex;gap:8px;margin-bottom:8px">
-      <div class="skel" style="width:70px;height:16px"></div>
-      <div class="skel" style="width:50px;height:16px;margin-left:auto"></div>
-    </div>
-    <div class="skel" style="height:14px;margin-bottom:5px"></div>
-    <div class="skel" style="height:14px;width:80%;margin-bottom:10px"></div>
-    <div class="skel" style="height:10px;width:50%"></div>
-  </div>`).join('');
-}
-function empty(icon, msg) {
-  return `<div class="empty"><div class="empty-icon">${icon}</div><div class="empty-msg">${msg}</div></div>`;
-}
-
-// INIT
-loadAll().then(() => switchTab('archive'));
-</script>
+    // 初期化
+    fetchData();
+  </script>
 </body>
 </html>

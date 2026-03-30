@@ -77,10 +77,128 @@ def generate_monthly_summary(month_items: list, month_str: str) -> str:
     security_items = []
     ai_items = []
     tech_items = []
+
+    TECH_EXPLANATIONS = {
+
+# =========================
+# セキュリティ基礎
+# =========================
+
+"zero trust": "【解説】Zero Trustは「内部ネットワークでも信頼しない」という前提でアクセスを検証するセキュリティモデルです。ID、デバイス状態、行動など複数要素でアクセスを制御します。",
+
+"defense in depth": "【解説】多層防御（Defense in Depth）は、単一の防御に依存せず複数のセキュリティ対策を重ねることで侵入成功率を下げる設計思想です。",
+
+"attack surface": "【解説】Attack Surfaceは攻撃者が侵入に利用できるシステムの入口の総量を指します。公開ポート、API、ユーザー権限などが含まれます。",
+
+"threat intelligence": "【解説】Threat Intelligenceはサイバー攻撃の手法、攻撃者、インフラなどの情報を収集・分析し、防御や検知に活用する活動です。",
+
+"ioc": "【解説】IOC（Indicator of Compromise）は侵害の痕跡を示す指標で、IPアドレス、ハッシュ値、ドメインなどが含まれます。",
+
+"ttp": "【解説】TTP（Tactics, Techniques and Procedures）は攻撃者が用いる戦術・技術・手順の体系で、MITRE ATT&CKなどで分類されています。",
+
+"mitre attack": "【解説】MITRE ATT&CKは実際の攻撃者行動を体系化したナレッジベースで、レッドチームやSOCの分析に利用されます。",
+
+# =========================
+# ペネトレーションテスト
+# =========================
+
+"penetration testing": "【解説】Penetration Testingは実際の攻撃者と同様の手法でシステムへ侵入を試み、脆弱性の実被害可能性を評価するセキュリティテストです。",
+
+"red team": "【解説】Red Teamは攻撃者視点で組織の防御能力を評価する専門チームで、実戦的な侵入シナリオを実行します。",
+
+"purple team": "【解説】Purple TeamはRed TeamとBlue Teamの知見を統合し、攻撃と防御の改善サイクルを高速化する協働モデルです。",
+
+"lateral movement": "【解説】Lateral Movementは侵入後にネットワーク内の別システムへ横展開する攻撃フェーズを指します。",
+
+"privilege escalation": "【解説】Privilege Escalationは一般ユーザー権限から管理者権限などの高権限を取得する攻撃手法です。",
+
+"credential dumping": "【解説】Credential Dumpingはメモリやシステムから認証情報（パスワード・ハッシュ）を抽出する攻撃技術です。",
+
+"post exploitation": "【解説】Post Exploitationは侵入成功後に情報収集、横展開、永続化などを行う攻撃フェーズです。",
+
+# =========================
+# 攻撃技術 / クラッキング
+# =========================
+
+"buffer overflow": "【解説】Buffer Overflowはメモリ領域を超えてデータを書き込み、プログラムの実行制御を奪う脆弱性です。",
+
+"rop": "【解説】ROP（Return-Oriented Programming）は既存コード断片を組み合わせて任意コードを実行するエクスプロイト技術です。",
+
+"shellcode": "【解説】Shellcodeは脆弱性を利用してメモリ上で実行される小型プログラムで、シェル取得などに利用されます。",
+
+"command injection": "【解説】Command Injectionはユーザー入力を通じてOSコマンドを実行させるWeb脆弱性です。",
+
+"sql injection": "【解説】SQL Injectionはアプリケーションの入力処理の不備を利用してSQLクエリを改変する攻撃です。",
+
+"xss": "【解説】XSS（Cross-Site Scripting）はWebページに悪意あるJavaScriptを埋め込み、ユーザーのセッションなどを盗む攻撃です。",
+
+"csrf": "【解説】CSRF（Cross-Site Request Forgery）はユーザーの認証状態を悪用し、意図しない操作を実行させる攻撃です。",
+
+"rce": "【解説】RCE（Remote Code Execution）は遠隔から任意コードを実行できる極めて危険な脆弱性です。",
+
+# =========================
+# 防御 / ホワイトハッカー領域
+# =========================
+
+"soc": "【解説】SOC（Security Operations Center）は組織のセキュリティ監視とインシデント対応を担う専門チームです。",
+
+"siem": "【解説】SIEMはログを統合分析し、異常や攻撃の兆候を検出するセキュリティ管理システムです。",
+
+"edr": "【解説】EDR（Endpoint Detection and Response）は端末上の挙動を監視し、攻撃活動を検知・対応するセキュリティ技術です。",
+
+"xdr": "【解説】XDRはエンドポイント・ネットワーク・クラウドなど複数領域の検知データを統合分析する拡張型セキュリティ基盤です。",
+
+"threat hunting": "【解説】Threat Huntingは既知のアラートに依存せず、攻撃の痕跡を能動的に探すセキュリティ分析手法です。",
+
+"incident response": "【解説】Incident Responseはサイバー攻撃発生時に被害を抑え、復旧を行う一連の対応プロセスです。",
+
+# =========================
+# LLM技術
+# =========================
+
+"large language model": "【解説】Large Language Model（LLM）は膨大なテキストデータを学習し、人間に近い自然言語処理能力を持つAIモデルです。",
+
+"transformer": "【解説】Transformerは自己注意機構（Self-Attention）を利用するニューラルネットワーク構造で、現代LLMの基盤となっています。",
+
+"token": "【解説】TokenはLLMが処理する最小単位のテキストで、単語や文字の断片として分割されます。",
+
+"fine tuning": "【解説】Fine-tuningは既存のLLMを特定タスク用データで再学習し、専門能力を向上させる手法です。",
+
+"rag": "【解説】RAG（Retrieval-Augmented Generation）は外部データ検索を組み合わせて回答精度を向上させるLLMアーキテクチャです。",
+
+"prompt engineering": "【解説】Prompt EngineeringはLLMの出力を最適化するために入力プロンプトを設計する技術です。",
+
+"embedding": "【解説】Embeddingはテキストを数値ベクトルへ変換する技術で、意味的検索や類似度計算に利用されます。",
+
+"vector database": "【解説】Vector DatabaseはEmbeddingベクトルを高速検索するためのデータベースで、RAGシステムで広く利用されます。",
+
+# =========================
+# MCP
+# =========================
+
+"model context protocol": "【解説】Model Context Protocol（MCP）はAIモデルが外部ツールやデータソースと安全に接続するための標準プロトコルです。",
+
+"mcp server": "【解説】MCP ServerはAIモデルに対してツール・データ・APIを提供するサービスで、モデルが外部能力を利用できるようにします。",
+
+"mcp client": "【解説】MCP ClientはAIモデル側からMCP Serverへリクエストを送り、ツールや情報を取得するコンポーネントです。",
+
+"tool invocation": "【解説】Tool InvocationはAIモデルが外部ツールを呼び出して計算・検索・操作を実行する仕組みです。",
+
+"context window": "【解説】Context WindowはAIモデルが一度に処理できる入力トークン量の上限を指します。",
+
+"tool chaining": "【解説】Tool Chainingは複数のツール呼び出しを連続させ、複雑な処理フローをAIが実行する仕組みです。",
+
+}
     
-    for item in top_items:
-        title = item.get("title_ja", item.get("title", ""))
-        summary = item.get("summary_ja", item.get("summary", ""))
+    for item in articles:
+    title = item.get("title", "")
+    summary = item.get("summary", "")
+    
+    # --- 追加：キーワードマッチングと肉付け ---
+    combined = (title + summary).lower()
+    explanations = [v for k, v in TECH_EXPLANATIONS.items() if k.lower() in combined]
+    if explanations:
+        summary += "\n" + "\n".join(explanations)
         text = (title + " " + summary).lower()
         
         if any(k in text for k in ["セキュリティ", "security", "vulnerability", "cve", "exploit", "脆弱性", "breach", "attack", "ランサムウェア", "malware"]):

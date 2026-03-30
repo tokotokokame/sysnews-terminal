@@ -1,11 +1,164 @@
 {
   "month": "2026-02",
-  "generated_at": "2026-03-30T07:06:38.695208+00:00",
-  "total_articles": 4,
+  "total_articles": 14,
   "source_counts": {
-    "project": 4
+    "project": 4,
+    "msf": 10
   },
-  "severity_counts": {},
+  "severity_counts": {
+    "high": 10
+  },
   "top_articles": [],
-  "security_highlights": []
+  "security_highlights": [
+    {
+      "id": "edb-264ee764a3",
+      "source": "msf",
+      "title": "[webapps] motionEye 0.43.1b4 - RCE",
+      "url": "https://www.exploit-db.com/exploits/52481",
+      "score": null,
+      "author": "Exploit-DB",
+      "tags": [
+        "Exploit-DB",
+        "CVE",
+        "PoC"
+      ],
+      "severity": "high",
+      "date": "Wed, 11 Feb 2026 00:00:00 +0000"
+    },
+    {
+      "id": "edb-16c218acca",
+      "source": "msf",
+      "title": "[remote] Windows 10.0.17763.7009 - spoofing vulnerability",
+      "url": "https://www.exploit-db.com/exploits/52480",
+      "score": null,
+      "author": "Exploit-DB",
+      "tags": [
+        "Exploit-DB",
+        "CVE",
+        "PoC"
+      ],
+      "severity": "high",
+      "date": "Wed, 11 Feb 2026 00:00:00 +0000"
+    },
+    {
+      "id": "edb-08ba2a1cd5",
+      "source": "msf",
+      "title": "[local] glibc 2.38 - Buffer Overflow",
+      "url": "https://www.exploit-db.com/exploits/52479",
+      "score": null,
+      "author": "Exploit-DB",
+      "tags": [
+        "Exploit-DB",
+        "CVE",
+        "PoC"
+      ],
+      "severity": "high",
+      "date": "Wed, 11 Feb 2026 00:00:00 +0000"
+    },
+    {
+      "id": "edb-e684f84451",
+      "source": "msf",
+      "title": "[remote] windows 10/11 - NTLM Hash Disclosure Spoofing",
+      "url": "https://www.exploit-db.com/exploits/52478",
+      "score": null,
+      "author": "Exploit-DB",
+      "tags": [
+        "Exploit-DB",
+        "CVE",
+        "PoC"
+      ],
+      "severity": "high",
+      "date": "Wed, 04 Feb 2026 00:00:00 +0000"
+    },
+    {
+      "id": "edb-fdac721057",
+      "source": "msf",
+      "title": "[remote] Redis 8.0.2 - RCE",
+      "url": "https://www.exploit-db.com/exploits/52477",
+      "score": null,
+      "author": "Exploit-DB",
+      "tags": [
+        "Exploit-DB",
+        "CVE",
+        "PoC"
+      ],
+      "severity": "high",
+      "date": "Wed, 04 Feb 2026 00:00:00 +0000"
+    },
+    {
+      "id": "edb-b844108c79",
+      "source": "msf",
+      "title": "[webapps] OctoPrint 1.11.2 - File Upload",
+      "url": "https://www.exploit-db.com/exploits/52476",
+      "score": null,
+      "author": "Exploit-DB",
+      "tags": [
+        "Exploit-DB",
+        "CVE",
+        "PoC"
+      ],
+      "severity": "high",
+      "date": "Wed, 04 Feb 2026 00:00:00 +0000"
+    },
+    {
+      "id": "edb-1453e19b6a",
+      "source": "msf",
+      "title": "[remote] Ingress-NGINX Admission Controller v1.11.1 - FD Injection to RCE",
+      "url": "https://www.exploit-db.com/exploits/52475",
+      "score": null,
+      "author": "Exploit-DB",
+      "tags": [
+        "Exploit-DB",
+        "CVE",
+        "PoC"
+      ],
+      "severity": "high",
+      "date": "Wed, 04 Feb 2026 00:00:00 +0000"
+    },
+    {
+      "id": "edb-4430cf019b",
+      "source": "msf",
+      "title": "[webapps] aiohttp 3.9.1 - directory traversal PoC",
+      "url": "https://www.exploit-db.com/exploits/52474",
+      "score": null,
+      "author": "Exploit-DB",
+      "tags": [
+        "Exploit-DB",
+        "CVE",
+        "PoC"
+      ],
+      "severity": "high",
+      "date": "Wed, 04 Feb 2026 00:00:00 +0000"
+    },
+    {
+      "id": "edb-6789a52381",
+      "source": "msf",
+      "title": "[webapps] FortiWeb Fabric Connector 7.6.x - SQL Injection to Remote Code Execution",
+      "url": "https://www.exploit-db.com/exploits/52473",
+      "score": null,
+      "author": "Exploit-DB",
+      "tags": [
+        "Exploit-DB",
+        "CVE",
+        "PoC"
+      ],
+      "severity": "high",
+      "date": "Wed, 04 Feb 2026 00:00:00 +0000"
+    },
+    {
+      "id": "edb-8aa4096ab8",
+      "source": "msf",
+      "title": "[local] Docker Desktop 4.44.3 - Unauthenticated  API Exposure",
+      "url": "https://www.exploit-db.com/exploits/52472",
+      "score": null,
+      "author": "Exploit-DB",
+      "tags": [
+        "Exploit-DB",
+        "CVE",
+        "PoC"
+      ],
+      "severity": "high",
+      "date": "Wed, 04 Feb 2026 00:00:00 +0000"
+    }
+  ]
 }

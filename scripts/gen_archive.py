@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-月次アーカイブ生成スクリプト（安定化版）
+月次アーカイブ生成スクリプト（安定化版・パス修正）
 - 記事0件でもJSON生成
 - 古い月のgzip圧縮（3ヶ月以上前）
 - score文字列を安全にfloatキャスト
@@ -13,9 +13,12 @@ from datetime import datetime, timezone, timedelta
 from collections import Counter
 from dateutil import parser
 
-DATA_DIR = Path(__file__).parent / "data"
+# パス解決を修正（スクリプトの親ディレクトリをベースに）
+SCRIPT_DIR = Path(__file__).resolve().parent
+REPO_DIR = SCRIPT_DIR.parent  # sysnews-terminal/
+DATA_DIR = REPO_DIR / "data"
 ARCHIVE_DIR = DATA_DIR / "archive"
-ARCHIVE_DIR.mkdir(exist_ok=True)
+ARCHIVE_DIR.mkdir(parents=True, exist_ok=True)
 
 # 3ヶ月より古い月はgzip圧縮
 COMPRESS_MONTHS_AGO = 3
@@ -70,7 +73,7 @@ def compress_old_archives(compress_before: datetime):
 def main():
     news_path = DATA_DIR / "news.json"
     if not news_path.exists():
-        print("❌ news.json not found")
+        print(f"❌ news.json not found at {news_path}")
         return
 
     with open(news_path, encoding="utf-8") as f:
@@ -80,6 +83,8 @@ def main():
     if not items:
         print("❌ No items in news.json")
         return
+
+    print(f"📊 Processing {len(items)} items...")
 
     # 月の範囲を自動生成
     dates = [parse_dt(i.get("date", "")) for i in items if i.get("date")]
@@ -111,7 +116,7 @@ def main():
         # ソース別集計
         source_counts = Counter(i.get("source", "") for i in month_items)
         
-        # 重要度別集計
+        # 重要度別集計（severity フィールドがあれば）
         sev_counts = Counter(
             i.get("severity", "") for i in month_items if i.get("severity")
         )
@@ -122,7 +127,7 @@ def main():
             key=lambda x: -safe_float(x.get("score", 0))
         )[:20]
         
-        # セキュリティハイライト
+        # セキュリティハイライト（severity フィールドがあれば）
         security_items = sorted(
             [i for i in month_items if i.get("severity") in ("critical", "high")],
             key=lambda x: parse_dt(x.get("date", "")),
@@ -187,6 +192,7 @@ def main():
         json.dump(index_data, f, ensure_ascii=False, indent=2)
     
     print(f"✅ Generated: index.json ({len(archive_files)} months)")
+    print(f"📂 Archive directory: {ARCHIVE_DIR}")
 
 if __name__ == "__main__":
     main()

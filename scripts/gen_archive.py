@@ -1,13 +1,13 @@
 #!/usr/bin/env python3
 """
-月次アーカイブ生成スクリプト（要約機能付き）
+月次アーカイブ生成スクリプト（HTML出力対応）
 - 記事0件でもJSON生成
 - Top 10記事の要約自動生成
+- 見やすいHTMLレポート生成
 - 古い月のgzip圧縮（3ヶ月以上前）
 """
 import json
 import gzip
-import re
 from pathlib import Path
 from datetime import datetime, timezone, timedelta
 from collections import Counter
@@ -41,39 +41,25 @@ def safe_float(val, default=0.0) -> float:
 
 def extract_keywords(title: str) -> list:
     """タイトルからキーワード抽出"""
-    # 日本語タイトルを優先
     text = title.lower()
-    
-    # 重要キーワード抽出
     keywords = []
     
-    # セキュリティ関連
     security_terms = [
         'セキュリティ', '脆弱性', 'vulnerability', 'security', 'cve', 'exploit',
-        'ransomware', 'malware', 'breach', 'hack', 'attack', 'zero-day',
-        'ランサムウェア', 'マルウェア', '攻撃', '侵害'
+        'ransomware', 'malware', 'breach', 'hack', 'attack', 'zero-day'
     ]
     
-    # AI関連
     ai_terms = [
         'ai', 'gpt', 'llm', 'chatgpt', 'openai', 'anthropic', 'claude',
-        'machine learning', 'deep learning', '人工知能', '機械学習', 'モデル'
+        'machine learning', 'deep learning', '人工知能', '機械学習'
     ]
     
-    # 技術関連
     tech_terms = [
         'python', 'javascript', 'rust', 'go', 'java', 'kubernetes', 'docker',
-        'cloud', 'aws', 'azure', 'gcp', 'react', 'vue', 'api', 'framework'
+        'cloud', 'aws', 'azure', 'react', 'vue', 'api', 'framework'
     ]
     
-    # 製品名・企業名
-    products = [
-        'microsoft', 'apple', 'google', 'amazon', 'meta', 'twitter', 'x',
-        'github', 'gitlab', 'windows', 'linux', 'macos', 'android', 'ios',
-        'chrome', 'firefox', 'safari', 'wordpress', 'apache', 'nginx'
-    ]
-    
-    for term in security_terms + ai_terms + tech_terms + products:
+    for term in security_terms + ai_terms + tech_terms:
         if term in text:
             keywords.append(term)
     
@@ -84,41 +70,23 @@ def generate_monthly_summary(month_items: list, month_str: str) -> str:
     if not month_items:
         return f"{month_str}は記事がありませんでした。"
     
-    # Top 10記事を取得（scoreがNoneでない記事のみ）
+    # Top 10記事を取得
     scored_items = [i for i in month_items if i.get("score") is not None and safe_float(i.get("score", 0)) > 0]
     
     if scored_items:
-        top_items = sorted(
-            scored_items,
-            key=lambda x: -safe_float(x.get("score", 0))
-        )[:10]
+        top_items = sorted(scored_items, key=lambda x: -safe_float(x.get("score", 0)))[:10]
     else:
-        # スコアがない場合は最新10件
-        top_items = sorted(
-            month_items,
-            key=lambda x: parse_dt(x.get("date", "")),
-            reverse=True
-        )[:10]
-    
-    if not top_items:
-        # スコアがない場合は最新10件
-        top_items = sorted(
-            month_items,
-            key=lambda x: parse_dt(x.get("date", "")),
-            reverse=True
-        )[:10]
+        top_items = sorted(month_items, key=lambda x: parse_dt(x.get("date", "")), reverse=True)[:10]
     
     # カテゴリ別集計
     categories = Counter()
     all_keywords = []
     
     for item in top_items:
-        # title_jaを優先、なければtitle
         title = item.get("title_ja", item.get("title", ""))
         keywords = extract_keywords(title)
         all_keywords.extend(keywords)
         
-        # カテゴリ判定（簡易版）
         text = title.lower()
         if any(k in text for k in ['セキュリティ', 'security', 'vulnerability', 'cve', 'exploit', '脆弱性']):
             categories['security'] += 1
@@ -134,32 +102,23 @@ def generate_monthly_summary(month_items: list, month_str: str) -> str:
     # 要約文生成
     summary_parts = []
     
-    # カテゴリ別の傾向
     if categories:
         dominant_cat = categories.most_common(1)[0][0]
-        cat_labels = {
-            'security': 'セキュリティ',
-            'ai': 'AI・機械学習',
-            'tech': '技術・開発'
-        }
+        cat_labels = {'security': 'セキュリティ', 'ai': 'AI・機械学習', 'tech': '技術・開発'}
         dominant_label = cat_labels.get(dominant_cat, '技術')
         summary_parts.append(f"{dominant_label}関連の話題が中心")
     
-    # 主要キーワード
     if top_keywords:
-        # 日本語化
         keyword_ja = {
             'security': 'セキュリティ', 'vulnerability': '脆弱性',
             'ai': 'AI', 'gpt': 'GPT', 'llm': 'LLM',
             'python': 'Python', 'javascript': 'JavaScript',
-            'rust': 'Rust', 'kubernetes': 'Kubernetes',
-            'docker': 'Docker', 'cloud': 'クラウド'
+            'rust': 'Rust', 'kubernetes': 'Kubernetes'
         }
         
         keywords_display = [keyword_ja.get(k.lower(), k.title()) for k in top_keywords[:3]]
         summary_parts.append(f"主要トピック: {', '.join(keywords_display)}")
     
-    # Top記事のタイトル（最も人気の記事）
     if top_items:
         top_title = top_items[0].get("title_ja", top_items[0].get("title", ""))[:60]
         if len(top_title) == 60:
@@ -169,6 +128,136 @@ def generate_monthly_summary(month_items: list, month_str: str) -> str:
     summary = f"{month_str}の月次まとめ: " + "。".join(summary_parts) + "。"
     
     return summary
+
+def generate_html_report(archive_data: dict, month_str: str) -> str:
+    """月次HTMLレポート生成"""
+    
+    top_articles = archive_data.get('top_articles', [])[:10]
+    top_articles_html = ""
+    
+    if top_articles:
+        top_articles_html = '<div class="section"><h2>🏆 Top 10 人気記事</h2><ul class="top-articles">'
+        
+        for i, article in enumerate(top_articles, 1):
+            rank_class = 'gold' if i == 1 else 'silver' if i == 2 else 'bronze' if i == 3 else ''
+            title = article.get('title_ja', article.get('title', ''))
+            link = article.get('link', article.get('url', '#'))
+            source = article.get('source', '')
+            score = article.get('score', 0)
+            
+            top_articles_html += f'''
+        <li>
+          <span class="rank {rank_class}">{i}</span>
+          <div class="article-title">{title}</div>
+          <div class="article-meta">
+            📡 {source} | 👍 {score}
+            <a href="{link}" target="_blank" class="article-link">記事を読む →</a>
+          </div>
+        </li>'''
+        
+        top_articles_html += '</ul></div>'
+    
+    # ソース別統計
+    source_counts = archive_data.get('source_counts', {})
+    source_stats_html = ""
+    
+    if source_counts:
+        top_sources = sorted(source_counts.items(), key=lambda x: -x[1])[:10]
+        source_stats_html = '<div class="section"><h2>📰 情報源別統計（Top 10）</h2><div class="source-list">'
+        
+        for source, count in top_sources:
+            source_stats_html += f'''
+        <div class="source-item">
+          <div class="source-name">{source}</div>
+          <div class="source-count">{count}</div>
+        </div>'''
+        
+        source_stats_html += '</div></div>'
+    
+    html = f'''<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>{month_str} 月次レポート - SE/NEWS</title>
+  <style>
+    * {{ margin: 0; padding: 0; box-sizing: border-box; }}
+    body {{ font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Hiragino Sans', Meiryo, sans-serif; background: #f5f5f5; color: #333; line-height: 1.6; padding: 20px; }}
+    .container {{ max-width: 1000px; margin: 0 auto; background: white; padding: 40px; border-radius: 12px; box-shadow: 0 2px 20px rgba(0,0,0,0.1); }}
+    .header {{ border-bottom: 3px solid #667eea; padding-bottom: 20px; margin-bottom: 30px; }}
+    .header h1 {{ font-size: 32px; color: #667eea; margin-bottom: 10px; }}
+    .header .meta {{ font-size: 14px; color: #999; }}
+    .summary {{ background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); color: white; padding: 25px; border-radius: 8px; margin-bottom: 30px; font-size: 16px; line-height: 1.8; }}
+    .section {{ margin-bottom: 40px; }}
+    .section h2 {{ font-size: 24px; color: #333; margin-bottom: 20px; padding-bottom: 10px; border-bottom: 2px solid #f0f0f0; }}
+    .stats {{ display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 20px; margin-bottom: 30px; }}
+    .stat-card {{ background: #f8f8f8; padding: 20px; border-radius: 8px; text-align: center; }}
+    .stat-card .number {{ font-size: 36px; font-weight: bold; color: #667eea; margin-bottom: 5px; }}
+    .stat-card .label {{ font-size: 14px; color: #666; }}
+    .top-articles {{ list-style: none; }}
+    .top-articles li {{ background: #f8f8f8; padding: 15px; margin-bottom: 10px; border-radius: 8px; border-left: 4px solid #667eea; transition: all 0.2s; }}
+    .top-articles li:hover {{ background: #fff; box-shadow: 0 2px 10px rgba(0,0,0,0.1); transform: translateX(5px); }}
+    .top-articles .rank {{ display: inline-block; width: 30px; height: 30px; background: #667eea; color: white; border-radius: 50%; text-align: center; line-height: 30px; font-weight: bold; margin-right: 10px; }}
+    .top-articles .rank.gold {{ background: #FFD700; color: #333; }}
+    .top-articles .rank.silver {{ background: #C0C0C0; color: #333; }}
+    .top-articles .rank.bronze {{ background: #CD7F32; color: white; }}
+    .article-title {{ font-weight: 600; color: #333; font-size: 15px; margin-bottom: 5px; }}
+    .article-meta {{ font-size: 12px; color: #999; }}
+    .article-link {{ color: #667eea; text-decoration: none; font-size: 12px; }}
+    .article-link:hover {{ text-decoration: underline; }}
+    .source-list {{ display: grid; grid-template-columns: repeat(auto-fill, minmax(200px, 1fr)); gap: 15px; }}
+    .source-item {{ background: #f8f8f8; padding: 15px; border-radius: 8px; }}
+    .source-name {{ font-weight: 600; color: #333; margin-bottom: 5px; }}
+    .source-count {{ font-size: 24px; color: #667eea; font-weight: bold; }}
+    .footer {{ margin-top: 40px; padding-top: 20px; border-top: 2px solid #f0f0f0; text-align: center; color: #999; font-size: 14px; }}
+    .back-link {{ display: inline-block; background: #667eea; color: white; padding: 10px 20px; border-radius: 6px; text-decoration: none; margin-bottom: 20px; }}
+    .back-link:hover {{ background: #5568d3; }}
+  </style>
+</head>
+<body>
+  <div class="container">
+    <a href="../../index.html" class="back-link">← トップページに戻る</a>
+    
+    <div class="header">
+      <h1>📅 {month_str} 月次レポート</h1>
+      <div class="meta">SE/NEWS - セキュリティ・テックニュース</div>
+    </div>
+    
+    <div class="summary">
+      {archive_data.get('summary', '今月のまとめ')}
+    </div>
+    
+    <div class="section">
+      <h2>📊 統計情報</h2>
+      <div class="stats">
+        <div class="stat-card">
+          <div class="number">{archive_data['total_articles']}</div>
+          <div class="label">総記事数</div>
+        </div>
+        <div class="stat-card">
+          <div class="number">{len(archive_data.get('source_counts', {}))}</div>
+          <div class="label">情報源数</div>
+        </div>
+        <div class="stat-card">
+          <div class="number">{len(top_articles)}</div>
+          <div class="label">Top記事</div>
+        </div>
+      </div>
+    </div>
+    
+    {top_articles_html}
+    
+    {source_stats_html}
+    
+    <div class="footer">
+      <p>Generated by SE/NEWS</p>
+      <p><a href="../../index.html" style="color: #667eea;">トップページに戻る</a></p>
+    </div>
+  </div>
+</body>
+</html>'''
+    
+    return html
 
 def compress_old_archives(compress_before: datetime):
     """古い月のアーカイブをgzip圧縮"""
@@ -190,7 +279,7 @@ def compress_old_archives(compress_before: datetime):
                     
                     json_path.unlink()
                     compressed_count += 1
-                    print(f"🗜️  Compressed: {json_path.name} → {gz_path.name}")
+                    print(f"🗜️  Compressed: {json_path.name}")
         except:
             pass
     
@@ -200,7 +289,7 @@ def compress_old_archives(compress_before: datetime):
 def main():
     news_path = DATA_DIR / "news.json"
     if not news_path.exists():
-        print(f"❌ news.json not found at {news_path}")
+        print(f"❌ news.json not found")
         return
 
     with open(news_path, encoding="utf-8") as f:
@@ -208,15 +297,14 @@ def main():
     
     items = data.get("items", [])
     if not items:
-        print("❌ No items in news.json")
+        print("❌ No items")
         return
 
     print(f"📊 Processing {len(items)} items...")
 
-    # 月の範囲を自動生成
     dates = [parse_dt(i.get("date", "")) for i in items if i.get("date")]
     if not dates:
-        print("❌ No valid dates found")
+        print("❌ No valid dates")
         return
 
     min_month = min(dates).replace(day=1, hour=0, minute=0, second=0, microsecond=0)
@@ -231,91 +319,85 @@ def main():
 
         month_str = current.strftime("%Y-%m")
         
-        # 該当月の記事抽出
-        month_items = [
-            i for i in items
-            if current <= parse_dt(i.get("date", "")) < next_month
-        ]
+        month_items = [i for i in items if current <= parse_dt(i.get("date", "")) < next_month]
 
-        # ソース別集計
         source_counts = Counter(i.get("source", "") for i in month_items)
+        sev_counts = Counter(i.get("severity", "") for i in month_items if i.get("severity"))
         
-        # 重要度別集計
-        sev_counts = Counter(
-            i.get("severity", "") for i in month_items if i.get("severity")
-        )
-        
-        # Top記事（scoreがNoneでない記事のみ）
         scored_items = [i for i in month_items if i.get("score") is not None]
-        top_articles = sorted(
-            scored_items,
-            key=lambda x: -safe_float(x.get("score", 0))
-        )[:20]
+        top_articles = sorted(scored_items, key=lambda x: -safe_float(x.get("score", 0)))[:20]
         
-        # セキュリティハイライト
         security_items = sorted(
             [i for i in month_items if i.get("severity") in ("critical", "high")],
             key=lambda x: parse_dt(x.get("date", "")),
             reverse=True
         )[:30]
 
-        # 月次要約生成
         summary = generate_monthly_summary(month_items, month_str)
 
-        # 月次アーカイブJSON生成
         archive_data = {
             "month": month_str,
             "total_articles": len(month_items),
-            "summary": summary,  # 追加
+            "summary": summary,
             "source_counts": dict(source_counts),
             "severity_counts": dict(sev_counts),
             "top_articles": top_articles,
             "security_highlights": security_items
         }
 
+        # JSON保存
         out_path = ARCHIVE_DIR / f"{month_str}.json"
         with open(out_path, "w", encoding="utf-8") as f:
             json.dump(archive_data, f, ensure_ascii=False, indent=2)
         
-        print(f"📅 Generated: {month_str}.json ({len(month_items)} articles)")
-        print(f"   Summary: {summary[:80]}...")
+        # HTML保存
+        html_content = generate_html_report(archive_data, month_str)
+        html_path = ARCHIVE_DIR / f"{month_str}.html"
+        with open(html_path, "w", encoding="utf-8") as f:
+            f.write(html_content)
+        
+        print(f"📅 {month_str}: JSON + HTML ({len(month_items)} articles)")
         
         current = next_month
 
-    # 古いアーカイブをgzip圧縮
     compress_before = datetime.now(timezone.utc) - timedelta(days=30*COMPRESS_MONTHS_AGO)
     compress_old_archives(compress_before)
 
     # index.json生成
     archive_files = []
     
-    # 通常JSON
     for fpath in ARCHIVE_DIR.glob("*.json"):
         if fpath.name == "index.json":
             continue
         with open(fpath, encoding="utf-8") as f:
             arch = json.load(f)
+        
+        month = arch["month"]
+        
         archive_files.append({
-            "month": arch["month"],
+            "month": month,
             "total_articles": arch["total_articles"],
-            "summary": arch.get("summary", ""),  # 追加
+            "summary": arch.get("summary", ""),
             "file": fpath.name,
+            "html_file": f"{month}.html",
             "compressed": False
         })
     
-    # gzip圧縮JSON
     for fpath in ARCHIVE_DIR.glob("*.json.gz"):
         with gzip.open(fpath, "rt", encoding="utf-8") as f:
             arch = json.load(f)
+        
+        month = arch["month"]
+        
         archive_files.append({
-            "month": arch["month"],
+            "month": month,
             "total_articles": arch["total_articles"],
-            "summary": arch.get("summary", ""),  # 追加
+            "summary": arch.get("summary", ""),
             "file": fpath.name,
+            "html_file": f"{month}.html",
             "compressed": True
         })
     
-    # 月降順ソート
     archive_files.sort(key=lambda x: x["month"], reverse=True)
 
     index_data = {"months": archive_files}
@@ -323,8 +405,7 @@ def main():
     with open(index_path, "w", encoding="utf-8") as f:
         json.dump(index_data, f, ensure_ascii=False, indent=2)
     
-    print(f"✅ Generated: index.json ({len(archive_files)} months)")
-    print(f"📂 Archive directory: {ARCHIVE_DIR}")
+    print(f"✅ index.json ({len(archive_files)} months)")
 
 if __name__ == "__main__":
     main()

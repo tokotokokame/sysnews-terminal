@@ -692,9 +692,11 @@
         data.months.forEach(month => {
           const card = document.createElement('div');
           card.className = 'archive-card';
-          card.onclick = () => window.open(`./data/archive/${month.file}`, '_blank');
+          // HTMLファイルへのリンクに変更
+          const htmlFile = month.html_file || `${month.month}.html`;
+          card.onclick = () => window.open(`./data/archive/${htmlFile}`, '_blank');
           
-          const summary = generateMonthlySummary(month);
+          const summary = month.summary || generateMonthlySummary(month);
           
           card.innerHTML = `
             <div class="archive-month">${month.month}</div>

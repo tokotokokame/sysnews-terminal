@@ -1,14 +1,14 @@
 {
   "month": "2026-03",
-  "generated_at": "2026-03-30T05:10:10.880519+00:00",
+  "generated_at": "2026-03-30T07:06:38.695208+00:00",
   "total_articles": 452,
   "source_counts": {
-    "hn": 359,
-    "zennqiita": 91,
+    "hn": 360,
+    "zennqiita": 90,
     "project": 2
   },
   "severity_counts": {
-    "critical": 10,
+    "critical": 11,
     "medium": 5,
     "high": 2
   },
@@ -68,13 +68,6 @@
       "score": 886,
       "source": "hn",
       "date": "2026-03-24T12:06:29+00:00"
-    },
-    {
-      "title": "Microsoft's \"fix\" for Windows 11",
-      "url": "https://www.sambent.com/microsofts-plan-to-fix-windows-11-is-gaslighting/",
-      "score": 855,
-      "source": "hn",
-      "date": "2026-03-24T09:36:29+00:00"
     },
     {
       "title": "We haven't seen the worst of what gambling and prediction markets will do",
@@ -152,6 +145,13 @@
       "score": 571,
       "source": "hn",
       "date": "2026-03-28T00:39:54+00:00"
+    },
+    {
+      "title": "Moving from GitHub to Codeberg, for lazy people",
+      "url": "https://unterwaditzer.net/2025/codeberg.html",
+      "score": 556,
+      "source": "hn",
+      "date": "2026-03-26T13:38:25+00:00"
     }
   ],
   "security_highlights": [
@@ -217,6 +217,13 @@
       "severity": "critical",
       "source": "zennqiita",
       "date": "2026-03-26T15:54:48+09:00"
+    },
+    {
+      "title": "Douglas Lenat's Automated Mathematician Source Code",
+      "url": "https://github.com/white-flame/am",
+      "severity": "critical",
+      "source": "hn",
+      "date": "2026-03-25T16:31:11+00:00"
     },
     {
       "title": "Open source isn't a tip jar – it's time to charge for access",

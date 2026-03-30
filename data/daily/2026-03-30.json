@@ -1,7 +1,7 @@
 {
   "date": "2026-03-30",
-  "generated_at": "2026-03-30T05:10:10.836611+00:00",
-  "total_articles": 58,
+  "generated_at": "2026-03-30T07:06:38.652861+00:00",
+  "total_articles": 62,
   "urgent_count": 2,
   "urgent_items": [
     {
@@ -22,8 +22,24 @@
   "categories": [
     {
       "category": "テクノロジー",
-      "count": 50,
+      "count": 55,
       "top_items": [
+        {
+          "title": "ChatGPT won't let you type until Cloudflare reads your React state",
+          "url": "https://www.buchodi.com/chatgpt-wont-let-you-type-until-cloudflare-reads-your-react-state-i-decrypted-the-program-that-does-it/",
+          "score": 525,
+          "source": "hn",
+          "severity": null,
+          "date": "2026-03-29T20:21:05+00:00"
+        },
+        {
+          "title": "Voyager 1 runs on 69 KB of memory and an 8-track tape recorder",
+          "url": "https://techfixated.com/a-1977-time-capsule-voyager-1-runs-on-69-kb-of-memory-and-an-8-track-tape-recorder-4/",
+          "score": 492,
+          "source": "hn",
+          "severity": null,
+          "date": "2026-03-29T16:12:22+00:00"
+        },
         {
           "title": "Nitrile and latex gloves may cause overestimation of microplastics",
           "url": "https://news.umich.edu/nitrile-and-latex-gloves-may-cause-overestimation-of-microplastics-u-m-study-reveals/",
@@ -31,14 +47,6 @@
           "source": "hn",
           "severity": null,
           "date": "2026-03-29T09:46:58+00:00"
-        },
-        {
-          "title": "Voyager 1 runs on 69 KB of memory and an 8-track tape recorder",
-          "url": "https://techfixated.com/a-1977-time-capsule-voyager-1-runs-on-69-kb-of-memory-and-an-8-track-tape-recorder-4/",
-          "score": 447,
-          "source": "hn",
-          "severity": null,
-          "date": "2026-03-29T16:12:22+00:00"
         },
         {
           "title": "Say No to Palantir in Europe",
@@ -49,17 +57,9 @@
           "date": "2026-03-29T14:51:20+00:00"
         },
         {
-          "title": "ChatGPT won't let you type until Cloudflare reads your React state",
-          "url": "https://www.buchodi.com/chatgpt-wont-let-you-type-until-cloudflare-reads-your-react-state-i-decrypted-the-program-that-does-it/",
-          "score": 412,
-          "source": "hn",
-          "severity": null,
-          "date": "2026-03-29T20:21:05+00:00"
-        },
-        {
           "title": "The Cognitive Dark Forest",
           "url": "https://ryelang.org/blog/posts/cognitive-dark-forest/",
-          "score": 356,
+          "score": 392,
           "source": "hn",
           "severity": null,
           "date": "2026-03-29T19:36:21+00:00"
@@ -68,7 +68,7 @@
     },
     {
       "category": "日本語技術記事",
-      "count": 8,
+      "count": 7,
       "top_items": [
         {
           "title": "AIにロックマンエグゼになり切ってもらい一緒に開発してる話",

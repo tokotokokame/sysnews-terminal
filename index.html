@@ -3,320 +3,816 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>SE/NEWS - セキュリティニュースターミナル</title>
+  <title>SE/NEWS - セキュリティ・テックニュース</title>
   <style>
-    * { margin: 0; padding: 0; box-sizing: border-box; }
+    * {
+      margin: 0;
+      padding: 0;
+      box-sizing: border-box;
+    }
+    
     body {
-      font-family: 'Courier New', monospace;
-      background: #0a0e1a;
-      color: #00ff41;
-      padding: 20px;
+      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Hiragino Sans', 'Hiragino Kaku Gothic ProN', Meiryo, sans-serif;
+      background: #f5f5f5;
+      color: #333;
       line-height: 1.6;
     }
     
+    /* ヘッダー */
     .header {
-      border: 2px solid #00ff41;
-      padding: 20px;
-      margin-bottom: 20px;
-      text-align: center;
-      text-transform: uppercase;
+      background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+      color: white;
+      padding: 20px 0;
+      box-shadow: 0 2px 10px rgba(0,0,0,0.1);
+      position: sticky;
+      top: 0;
+      z-index: 1000;
     }
     
-    .nav {
-      display: flex;
-      gap: 15px;
-      margin-bottom: 20px;
-      flex-wrap: wrap;
-    }
-    
-    .nav-btn {
-      background: transparent;
-      color: #00ff41;
-      border: 1px solid #00ff41;
-      padding: 8px 16px;
-      cursor: pointer;
-      font-family: inherit;
-      transition: all 0.2s;
-    }
-    
-    .nav-btn:hover,
-    .nav-btn.active {
-      background: #00ff41;
-      color: #0a0e1a;
-    }
-    
-    .feed-status {
-      padding: 10px;
-      margin-bottom: 20px;
-      border-left: 3px solid #00ff41;
-      font-size: 14px;
-    }
-    
-    /* 仮想スクロールコンテナ */
-    .virtual-scroll-container {
-      height: calc(100vh - 300px);
-      overflow-y: auto;
-      position: relative;
-    }
-    
-    .virtual-scroll-spacer {
-      height: 0;
-    }
-    
-    .virtual-items {
-      position: relative;
-    }
-    
-    .item {
-      border: 1px solid #00ff41;
-      padding: 15px;
-      margin-bottom: 10px;
-      opacity: 0;
-      animation: fadeIn 0.3s forwards;
-    }
-    
-    @keyframes fadeIn {
-      to { opacity: 1; }
-    }
-    
-    .item-header {
+    .header-content {
+      max-width: 1200px;
+      margin: 0 auto;
+      padding: 0 20px;
       display: flex;
       justify-content: space-between;
-      margin-bottom: 10px;
-      font-size: 13px;
+      align-items: center;
       flex-wrap: wrap;
+      gap: 15px;
+    }
+    
+    .logo {
+      font-size: 24px;
+      font-weight: bold;
+      display: flex;
+      align-items: center;
       gap: 10px;
     }
     
-    .item-title {
-      font-size: 16px;
-      margin-bottom: 8px;
-      color: #00ff41;
-      text-decoration: none;
-      display: block;
+    .search-box {
+      display: flex;
+      background: rgba(255,255,255,0.2);
+      border-radius: 25px;
+      padding: 8px 20px;
+      flex: 1;
+      max-width: 400px;
     }
     
-    .item-title:hover {
-      text-decoration: underline;
+    .search-box input {
+      background: none;
+      border: none;
+      color: white;
+      width: 100%;
+      outline: none;
+      font-size: 14px;
     }
     
-    .severity {
-      padding: 2px 8px;
-      font-size: 11px;
+    .search-box input::placeholder {
+      color: rgba(255,255,255,0.7);
+    }
+    
+    .header-stats {
+      font-size: 12px;
+      opacity: 0.9;
+    }
+    
+    /* ナビゲーション */
+    .nav {
+      background: white;
+      padding: 15px 0;
+      box-shadow: 0 2px 5px rgba(0,0,0,0.05);
+      position: sticky;
+      top: 64px;
+      z-index: 999;
+    }
+    
+    .nav-content {
+      max-width: 1200px;
+      margin: 0 auto;
+      padding: 0 20px;
+      display: flex;
+      gap: 10px;
+      overflow-x: auto;
+    }
+    
+    .nav-btn {
+      background: #f0f0f0;
+      border: none;
+      padding: 8px 20px;
+      border-radius: 20px;
+      cursor: pointer;
+      white-space: nowrap;
+      transition: all 0.3s;
+      font-weight: 500;
+      font-size: 14px;
+    }
+    
+    .nav-btn:hover {
+      background: #e0e0e0;
+    }
+    
+    .nav-btn.active {
+      background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+      color: white;
+    }
+    
+    /* メインコンテンツ */
+    .container {
+      max-width: 1200px;
+      margin: 20px auto;
+      padding: 0 20px;
+    }
+    
+    /* Topセクション */
+    .top-section {
+      background: white;
+      border-radius: 12px;
+      padding: 25px;
+      margin-bottom: 20px;
+      box-shadow: 0 2px 10px rgba(0,0,0,0.05);
+    }
+    
+    .top-section h2 {
+      font-size: 22px;
+      margin-bottom: 20px;
+      display: flex;
+      align-items: center;
+      gap: 10px;
+      color: #333;
+    }
+    
+    .top-list {
+      display: grid;
+      gap: 12px;
+    }
+    
+    .top-item {
+      display: flex;
+      gap: 15px;
+      padding: 15px;
+      border-radius: 8px;
+      transition: all 0.2s;
+      cursor: pointer;
+      border: 1px solid #f0f0f0;
+    }
+    
+    .top-item:hover {
+      background: #f8f8f8;
+      border-color: #667eea;
+      transform: translateX(5px);
+    }
+    
+    .top-rank {
+      font-size: 28px;
       font-weight: bold;
+      color: #667eea;
+      min-width: 40px;
+      text-align: center;
     }
     
-    .severity.critical { background: #ff0000; color: #fff; }
-    .severity.high { background: #ff6600; color: #fff; }
-    .severity.medium { background: #ffaa00; color: #000; }
-    .severity.low { background: #00aa00; color: #fff; }
+    .top-rank.gold { color: #FFD700; }
+    .top-rank.silver { color: #C0C0C0; }
+    .top-rank.bronze { color: #CD7F32; }
     
+    .top-content {
+      flex: 1;
+    }
+    
+    .top-title {
+      font-weight: 600;
+      margin-bottom: 8px;
+      color: #333;
+      font-size: 15px;
+    }
+    
+    .top-meta {
+      font-size: 12px;
+      color: #999;
+      display: flex;
+      gap: 15px;
+      flex-wrap: wrap;
+    }
+    
+    .top-score {
+      display: flex;
+      align-items: center;
+      gap: 5px;
+      font-weight: 600;
+      color: #667eea;
+    }
+    
+    /* ニュースグリッド */
+    .news-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fill, minmax(350px, 1fr));
+      gap: 20px;
+    }
+    
+    .news-card {
+      background: white;
+      border-radius: 12px;
+      overflow: hidden;
+      box-shadow: 0 2px 10px rgba(0,0,0,0.05);
+      transition: all 0.3s;
+      cursor: pointer;
+      border: 2px solid transparent;
+    }
+    
+    .news-card:hover {
+      transform: translateY(-5px);
+      box-shadow: 0 8px 25px rgba(0,0,0,0.15);
+      border-color: #667eea;
+    }
+    
+    .news-image {
+      width: 100%;
+      height: 180px;
+      background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      color: white;
+      font-size: 48px;
+      position: relative;
+      overflow: hidden;
+    }
+    
+    .news-image::before {
+      content: '';
+      position: absolute;
+      top: 0;
+      left: 0;
+      right: 0;
+      bottom: 0;
+      background: radial-gradient(circle at 30% 50%, rgba(255,255,255,0.1) 0%, transparent 60%);
+    }
+    
+    .news-content {
+      padding: 20px;
+    }
+    
+    .news-tags {
+      display: flex;
+      gap: 8px;
+      margin-bottom: 12px;
+      flex-wrap: wrap;
+    }
+    
+    .tag {
+      padding: 4px 12px;
+      border-radius: 12px;
+      font-size: 11px;
+      font-weight: 600;
+      text-transform: uppercase;
+      letter-spacing: 0.5px;
+    }
+    
+    .tag.security { background: #fee; color: #c00; }
+    .tag.ai { background: #eef; color: #00c; }
+    .tag.pentest { background: #ffe; color: #c60; }
+    .tag.tech { background: #efe; color: #060; }
+    .tag.news { background: #f0f0f0; color: #666; }
+    
+    .news-title {
+      font-size: 16px;
+      font-weight: 600;
+      margin-bottom: 10px;
+      color: #333;
+      line-height: 1.5;
+      display: -webkit-box;
+      -webkit-line-clamp: 2;
+      -webkit-box-orient: vertical;
+      overflow: hidden;
+      min-height: 48px;
+    }
+    
+    .news-meta {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      font-size: 12px;
+      color: #999;
+      padding-top: 12px;
+      border-top: 1px solid #f0f0f0;
+    }
+    
+    .news-source {
+      display: flex;
+      align-items: center;
+      gap: 5px;
+      font-weight: 500;
+    }
+    
+    .news-actions {
+      display: flex;
+      gap: 15px;
+    }
+    
+    .action-btn {
+      background: none;
+      border: none;
+      cursor: pointer;
+      color: #999;
+      display: flex;
+      align-items: center;
+      gap: 5px;
+      transition: all 0.2s;
+      font-size: 12px;
+    }
+    
+    .action-btn:hover {
+      color: #667eea;
+      transform: scale(1.1);
+    }
+    
+    /* ローディング */
     .loading {
       text-align: center;
-      padding: 20px;
+      padding: 60px 20px;
       font-size: 18px;
+      color: #999;
     }
     
+    .loading::after {
+      content: '';
+      display: block;
+      width: 40px;
+      height: 40px;
+      margin: 20px auto;
+      border: 4px solid #f0f0f0;
+      border-top-color: #667eea;
+      border-radius: 50%;
+      animation: spin 1s linear infinite;
+    }
+    
+    @keyframes spin {
+      to { transform: rotate(360deg); }
+    }
+    
+    /* エラー */
     .error {
-      border: 2px solid #ff0000;
-      color: #ff0000;
-      padding: 20px;
+      background: #fee;
+      border: 2px solid #c00;
+      color: #c00;
+      padding: 30px;
+      border-radius: 12px;
       margin: 20px 0;
+      text-align: center;
+      font-size: 16px;
+    }
+    
+    .empty-state {
+      text-align: center;
+      padding: 60px 20px;
+      color: #999;
+    }
+    
+    .empty-state-icon {
+      font-size: 64px;
+      margin-bottom: 20px;
+    }
+    
+    /* アーカイブセクション */
+    .archive-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
+      gap: 15px;
+    }
+    
+    .archive-card {
+      background: white;
+      border-radius: 12px;
+      padding: 25px;
+      box-shadow: 0 2px 10px rgba(0,0,0,0.05);
+      transition: all 0.3s;
+      cursor: pointer;
+      border: 2px solid transparent;
+    }
+    
+    .archive-card:hover {
+      transform: translateY(-3px);
+      box-shadow: 0 5px 20px rgba(0,0,0,0.1);
+      border-color: #667eea;
+    }
+    
+    .archive-month {
+      font-size: 26px;
+      font-weight: bold;
+      color: #667eea;
+      margin-bottom: 10px;
+    }
+    
+    .archive-count {
+      font-size: 14px;
+      color: #666;
     }
     
     /* レスポンシブ */
     @media (max-width: 768px) {
-      body { padding: 10px; }
-      .header { padding: 15px; }
-      .item { padding: 10px; }
+      .news-grid {
+        grid-template-columns: 1fr;
+      }
+      
+      .search-box {
+        max-width: 100%;
+      }
+      
+      .logo {
+        font-size: 20px;
+      }
+      
+      .nav-content {
+        gap: 8px;
+      }
+      
+      .nav-btn {
+        padding: 6px 15px;
+        font-size: 13px;
+      }
     }
   </style>
 </head>
 <body>
-  <div class="header">
-    <h1>SE / NEWS</h1>
-    <p>Security & Engineering News Terminal</p>
-  </div>
+  <!-- ヘッダー -->
+  <header class="header">
+    <div class="header-content">
+      <div class="logo">
+        <span>🔒</span>
+        <span>SE/NEWS</span>
+      </div>
+      <div class="search-box">
+        <input type="text" placeholder="キーワードで検索..." id="searchInput">
+      </div>
+      <div class="header-stats" id="headerStats">
+        読み込み中...
+      </div>
+    </div>
+  </header>
 
+  <!-- ナビゲーション -->
   <nav class="nav">
-    <button class="nav-btn active" data-filter="all">📰 全記事</button>
-    <button class="nav-btn" data-filter="security">🔒 セキュリティ</button>
-    <button class="nav-btn" data-filter="tech">💻 技術</button>
-    <button class="nav-btn" data-filter="月次">📅 月次まとめ</button>
+    <div class="nav-content">
+      <button class="nav-btn active" data-filter="all">🏠 すべて</button>
+      <button class="nav-btn" data-filter="top">🏆 Top 20</button>
+      <button class="nav-btn" data-filter="security">🔒 セキュリティ</button>
+      <button class="nav-btn" data-filter="ai">🤖 AI</button>
+      <button class="nav-btn" data-filter="pentest">🎯 ペンテスト</button>
+      <button class="nav-btn" data-filter="tech">💻 技術</button>
+      <button class="nav-btn" data-filter="archive">📅 アーカイブ</button>
+    </div>
   </nav>
 
-  <div class="feed-status" id="status">
-    ⏳ Loading...
-  </div>
+  <!-- メインコンテンツ -->
+  <div class="container">
+    <!-- Topランキングセクション -->
+    <div class="top-section" id="topSection" style="display:none;">
+      <h2>🏆 Top 20 人気記事</h2>
+      <div class="top-list" id="topList"></div>
+    </div>
 
-  <!-- 仮想スクロールコンテナ -->
-  <div class="virtual-scroll-container" id="scrollContainer">
-    <div class="virtual-scroll-spacer" id="spacerTop"></div>
-    <div class="virtual-items" id="items"></div>
-    <div class="virtual-scroll-spacer" id="spacerBottom"></div>
+    <!-- ニュースグリッド -->
+    <div id="newsContainer">
+      <div class="loading">ニュースを読み込んでいます</div>
+    </div>
   </div>
 
   <script>
-    // 設定
-    const ITEM_HEIGHT = 120; // 1アイテムの平均高さ（px）
-    const BUFFER_SIZE = 5;   // 上下の余分レンダリング数
-    
     let allItems = [];
-    let filteredItems = [];
     let currentFilter = 'all';
-    
-    // 仮想スクロール状態
-    let scrollTop = 0;
-    let containerHeight = 0;
-    let visibleStartIndex = 0;
-    let visibleEndIndex = 0;
+    let searchQuery = '';
+
+    // カテゴリ判定
+    function detectCategory(item) {
+      const text = (item.title + ' ' + (item.tags || []).join(' ') + ' ' + item.source).toLowerCase();
+      const categories = [];
+      
+      // セキュリティ
+      if (text.match(/security|vulnerability|cve|exploit|malware|ransomware|breach|attack|hack|threat|セキュリティ|脆弱性|攻撃/i)) {
+        categories.push('security');
+      }
+      
+      // AI
+      if (text.match(/\bai\b|artificial intelligence|machine learning|deep learning|gpt|llm|neural|model|chatbot|人工知能|機械学習/i)) {
+        categories.push('ai');
+      }
+      
+      // ペンテスト
+      if (text.match(/pentest|penetration|metasploit|burp|hack the box|ctf|red team|blue team|kali|ペネトレーション/i)) {
+        categories.push('pentest');
+      }
+      
+      // 技術
+      if (text.match(/programming|development|code|software|framework|library|api|database|技術|プログラミング|開発/i)) {
+        categories.push('tech');
+      }
+      
+      return categories.length > 0 ? categories : ['news'];
+    }
+
+    // タイトル日本語変換
+    function translateTitle(title) {
+      const translations = {
+        'Security': 'セキュリティ',
+        'Vulnerability': '脆弱性',
+        'Vulnerabilities': '脆弱性',
+        'Exploit': 'エクスプロイト',
+        'Critical': '緊急',
+        'Update': 'アップデート',
+        'Release': 'リリース',
+        'Released': 'リリース済',
+        'New': '新規',
+        'Latest': '最新',
+        'CVE': 'CVE',
+        'Zero-Day': 'ゼロデイ',
+        'Ransomware': 'ランサムウェア',
+        'Malware': 'マルウェア',
+        'Patch': 'パッチ',
+        'Patched': 'パッチ適用済',
+        'Bug': 'バグ',
+        'Fix': '修正',
+        'Fixed': '修正済',
+        'Authentication': '認証',
+        'Bypass': 'バイパス',
+        'Remote Code Execution': 'リモートコード実行',
+        'RCE': 'RCE',
+        'SQL Injection': 'SQLインジェクション',
+        'XSS': 'XSS',
+        'CSRF': 'CSRF',
+        'Denial of Service': 'サービス拒否',
+        'DoS': 'DoS',
+        'DDoS': 'DDoS',
+        'Privilege Escalation': '権限昇格',
+        'Data Breach': 'データ侵害',
+        'Leaked': '漏洩',
+        'Disclosure': '開示',
+        'Advisory': 'アドバイザリ',
+        'Warning': '警告',
+        'Alert': 'アラート',
+        'Announcement': '発表',
+        'Breaking': '速報',
+      };
+      
+      let translated = title;
+      for (const [en, ja] of Object.entries(translations)) {
+        const regex = new RegExp('\\b' + en + '\\b', 'gi');
+        translated = translated.replace(regex, ja);
+      }
+      return translated;
+    }
 
     // データ取得
     async function fetchData() {
       try {
         const response = await fetch('./data/news.json');
-        if (!response.ok) throw new Error('Failed to fetch news.json');
+        if (!response.ok) throw new Error('news.json取得失敗');
         
         const data = await response.json();
-        allItems = data.items || [];
         
-        document.getElementById('status').innerHTML = 
-          `✅ 最終更新: ${new Date(data.last_updated).toLocaleString('ja-JP')} | 
-           総記事数: ${allItems.length}`;
+        // データ構造の正規化
+        allItems = (data.items || []).map(item => ({
+          ...item,
+          categories: detectCategory(item),
+          translatedTitle: translateTitle(item.title || ''),
+          score: item.score || 0,
+          comments: item.comments || 0,
+          link: item.url || item.link || '#'
+        }));
         
-        applyFilter(currentFilter);
+        // ヘッダー統計更新
+        document.getElementById('headerStats').textContent = 
+          `総記事数: ${allItems.length} | 最終更新: ${new Date(data.updated_at).toLocaleString('ja-JP')}`;
+        
+        renderNews();
         
       } catch (error) {
-        document.getElementById('items').innerHTML = 
-          `<div class="error">❌ データ取得エラー: ${error.message}</div>`;
+        document.getElementById('newsContainer').innerHTML = 
+          `<div class="error">
+            ❌ データ取得エラー<br>
+            ${error.message}<br><br>
+            <small>data/news.jsonが存在するか確認してください</small>
+          </div>`;
       }
     }
 
-    // フィルタ適用
-    function applyFilter(filter) {
-      currentFilter = filter;
+    // ニュース表示
+    function renderNews() {
+      const container = document.getElementById('newsContainer');
+      const topSection = document.getElementById('topSection');
       
-      if (filter === 'all') {
-        filteredItems = allItems;
-      } else if (filter === '月次') {
-        showArchive();
+      // フィルタリング
+      let filtered = allItems;
+      
+      if (currentFilter === 'top') {
+        topSection.style.display = 'block';
+        renderTopRanking();
+        container.innerHTML = '';
+        return;
+      } else if (currentFilter === 'archive') {
+        topSection.style.display = 'none';
+        renderArchive();
         return;
       } else {
-        filteredItems = allItems.filter(item => item.category === filter);
-      }
-      
-      // 仮想スクロール初期化
-      const container = document.getElementById('scrollContainer');
-      containerHeight = container.clientHeight;
-      scrollTop = 0;
-      container.scrollTop = 0;
-      
-      updateVirtualScroll();
-    }
-
-    // 仮想スクロール更新
-    function updateVirtualScroll() {
-      const totalItems = filteredItems.length;
-      const totalHeight = totalItems * ITEM_HEIGHT;
-      
-      // 表示範囲計算
-      visibleStartIndex = Math.max(0, Math.floor(scrollTop / ITEM_HEIGHT) - BUFFER_SIZE);
-      visibleEndIndex = Math.min(
-        totalItems,
-        Math.ceil((scrollTop + containerHeight) / ITEM_HEIGHT) + BUFFER_SIZE
-      );
-      
-      // スペーサー高さ設定
-      document.getElementById('spacerTop').style.height = 
-        `${visibleStartIndex * ITEM_HEIGHT}px`;
-      document.getElementById('spacerBottom').style.height = 
-        `${(totalItems - visibleEndIndex) * ITEM_HEIGHT}px`;
-      
-      // 表示アイテムレンダリング
-      const itemsContainer = document.getElementById('items');
-      itemsContainer.innerHTML = '';
-      
-      for (let i = visibleStartIndex; i < visibleEndIndex; i++) {
-        const item = filteredItems[i];
-        if (!item) continue;
+        topSection.style.display = 'none';
         
-        const itemEl = document.createElement('div');
-        itemEl.className = 'item';
-        itemEl.innerHTML = `
-          <div class="item-header">
-            <span>📡 ${item.source}</span>
-            ${item.severity ? 
-              `<span class="severity ${item.severity}">${item.severity.toUpperCase()}</span>` 
-              : ''}
-            <span>🕒 ${new Date(item.date).toLocaleString('ja-JP')}</span>
+        if (currentFilter !== 'all') {
+          filtered = filtered.filter(item => 
+            item.categories.includes(currentFilter)
+          );
+        }
+      }
+      
+      // 検索フィルタ
+      if (searchQuery) {
+        filtered = filtered.filter(item =>
+          item.title.toLowerCase().includes(searchQuery) ||
+          item.translatedTitle.toLowerCase().includes(searchQuery) ||
+          (item.author && item.author.toLowerCase().includes(searchQuery))
+        );
+      }
+      
+      // カード生成
+      if (filtered.length === 0) {
+        container.innerHTML = `
+          <div class="empty-state">
+            <div class="empty-state-icon">🔍</div>
+            <div>該当する記事が見つかりませんでした</div>
           </div>
-          <a href="${item.link}" target="_blank" class="item-title">
-            ${item.title}
-          </a>
-          ${item.summary ? `<p style="font-size:13px; color:#888;">${item.summary}</p>` : ''}
         `;
-        itemsContainer.appendChild(itemEl);
+        return;
+      }
+      
+      const grid = document.createElement('div');
+      grid.className = 'news-grid';
+      
+      // 最新50件まで表示
+      filtered.slice(0, 50).forEach(item => {
+        const card = createNewsCard(item);
+        grid.appendChild(card);
+      });
+      
+      container.innerHTML = '';
+      container.appendChild(grid);
+    }
+
+    // ニュースカード作成
+    function createNewsCard(item) {
+      const card = document.createElement('div');
+      card.className = 'news-card';
+      card.onclick = () => window.open(item.link, '_blank');
+      
+      // カテゴリアイコン
+      const categoryIcon = {
+        'security': '🔒',
+        'ai': '🤖',
+        'pentest': '🎯',
+        'tech': '💻',
+        'news': '📰'
+      };
+      
+      const mainCategory = item.categories[0] || 'news';
+      const icon = categoryIcon[mainCategory] || '📰';
+      
+      card.innerHTML = `
+        <div class="news-image">${icon}</div>
+        <div class="news-content">
+          <div class="news-tags">
+            ${item.categories.map(cat => 
+              `<span class="tag ${cat}">${getCategoryLabel(cat)}</span>`
+            ).join('')}
+          </div>
+          <div class="news-title">${item.translatedTitle}</div>
+          <div class="news-meta">
+            <div class="news-source">
+              <span>📡</span>
+              <span>${item.source}</span>
+            </div>
+            <div class="news-actions">
+              <button class="action-btn" onclick="event.stopPropagation()" title="スコア">
+                <span>👍</span>
+                <span>${item.score}</span>
+              </button>
+              <button class="action-btn" onclick="event.stopPropagation()" title="コメント">
+                <span>💬</span>
+                <span>${item.comments}</span>
+              </button>
+            </div>
+          </div>
+        </div>
+      `;
+      
+      return card;
+    }
+
+    // Topランキング表示
+    function renderTopRanking() {
+      const topList = document.getElementById('topList');
+      const topItems = allItems
+        .filter(item => item.score > 0)
+        .sort((a, b) => b.score - a.score)
+        .slice(0, 20);
+      
+      if (topItems.length === 0) {
+        topList.innerHTML = '<div class="empty-state">スコア付き記事がありません</div>';
+        return;
+      }
+      
+      topList.innerHTML = topItems.map((item, index) => {
+        const rankClass = index === 0 ? 'gold' : index === 1 ? 'silver' : index === 2 ? 'bronze' : '';
+        
+        return `
+          <div class="top-item" onclick="window.open('${item.link}', '_blank')">
+            <div class="top-rank ${rankClass}">${index + 1}</div>
+            <div class="top-content">
+              <div class="top-title">${item.translatedTitle}</div>
+              <div class="top-meta">
+                <span>📡 ${item.source}</span>
+                <span class="top-score">👍 ${item.score}</span>
+                <span>💬 ${item.comments}</span>
+              </div>
+            </div>
+          </div>
+        `;
+      }).join('');
+    }
+
+    // アーカイブ表示
+    async function renderArchive() {
+      const container = document.getElementById('newsContainer');
+      
+      try {
+        const response = await fetch('./data/archive/index.json');
+        if (!response.ok) throw new Error('アーカイブが見つかりません');
+        
+        const data = await response.json();
+        
+        if (!data.months || data.months.length === 0) {
+          container.innerHTML = `
+            <div class="empty-state">
+              <div class="empty-state-icon">📅</div>
+              <div>アーカイブはまだありません</div>
+            </div>
+          `;
+          return;
+        }
+        
+        const grid = document.createElement('div');
+        grid.className = 'archive-grid';
+        
+        data.months.forEach(month => {
+          const card = document.createElement('div');
+          card.className = 'archive-card';
+          card.onclick = () => window.open(`./data/archive/${month.file}`, '_blank');
+          
+          card.innerHTML = `
+            <div class="archive-month">📅 ${month.month}</div>
+            <div class="archive-count">総記事数: ${month.total_articles || 0}</div>
+          `;
+          
+          grid.appendChild(card);
+        });
+        
+        container.innerHTML = '';
+        container.appendChild(grid);
+        
+      } catch (error) {
+        container.innerHTML = `
+          <div class="error">
+            ❌ アーカイブ取得エラー<br>
+            ${error.message}
+          </div>
+        `;
       }
     }
 
-    // スクロールイベント（スロットリング）
-    let scrollTimeout;
-    document.getElementById('scrollContainer').addEventListener('scroll', (e) => {
-      scrollTop = e.target.scrollTop;
-      
-      clearTimeout(scrollTimeout);
-      scrollTimeout = setTimeout(() => {
-        updateVirtualScroll();
-      }, 50);
-    });
+    // カテゴリラベル取得
+    function getCategoryLabel(category) {
+      const labels = {
+        security: 'セキュリティ',
+        ai: 'AI',
+        pentest: 'ペンテスト',
+        tech: '技術',
+        news: 'ニュース'
+      };
+      return labels[category] || category;
+    }
 
-    // ナビゲーションボタン
+    // ナビゲーション
     document.querySelectorAll('.nav-btn').forEach(btn => {
       btn.addEventListener('click', () => {
         document.querySelectorAll('.nav-btn').forEach(b => b.classList.remove('active'));
         btn.classList.add('active');
-        applyFilter(btn.dataset.filter);
+        currentFilter = btn.dataset.filter;
+        renderNews();
       });
     });
 
-    // 月次アーカイブ表示
-    async function showArchive() {
-      try {
-        const response = await fetch('./data/archive/index.json');
-        if (!response.ok) throw new Error('Archive not found');
-        
-        const data = await response.json();
-        const container = document.getElementById('items');
-        
-        container.innerHTML = '<h2 style="margin-bottom:20px;">📅 月次アーカイブ</h2>';
-        
-        data.months.forEach(month => {
-          const monthEl = document.createElement('div');
-          monthEl.className = 'item';
-          monthEl.innerHTML = `
-            <h3>${month.month}</h3>
-            <p>総記事数: ${month.total_articles}</p>
-            <a href="./data/archive/${month.file}" target="_blank" style="color:#00ff41;">
-              詳細を見る →
-            </a>
-          `;
-          container.appendChild(monthEl);
-        });
-        
-        // スペーサーをリセット
-        document.getElementById('spacerTop').style.height = '0';
-        document.getElementById('spacerBottom').style.height = '0';
-        
-      } catch (error) {
-        document.getElementById('items').innerHTML = 
-          `<div class="error">❌ アーカイブ取得エラー: ${error.message}</div>`;
-      }
-    }
-
-    // ウィンドウリサイズ対応
-    window.addEventListener('resize', () => {
-      containerHeight = document.getElementById('scrollContainer').clientHeight;
-      updateVirtualScroll();
+    // 検索
+    let searchTimeout;
+    document.getElementById('searchInput').addEventListener('input', (e) => {
+      clearTimeout(searchTimeout);
+      searchTimeout = setTimeout(() => {
+        searchQuery = e.target.value.toLowerCase();
+        renderNews();
+      }, 300);
     });
 
     // 初期化

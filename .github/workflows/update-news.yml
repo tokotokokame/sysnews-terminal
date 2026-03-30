@@ -2,7 +2,7 @@ name: Update News Feed (Stable)
 
 on:
   schedule:
-    - cron: '0 */6 * * *'  # 6時間ごと
+    - cron: '0 */6 * * *'
   workflow_dispatch:
 
 jobs:
@@ -17,15 +17,12 @@ jobs:
       uses: actions/setup-python@v5
       with:
         python-version: '3.11'
+        cache: 'pip'  # キャッシュを有効化
     
     - name: Install dependencies
       run: |
-        pip install --no-cache-dir \
-          feedparser==6.0.10 \
-          python-dateutil==2.8.2 \
-          requests==2.31.0 \
-          urllib3==2.1.0 \
-          deep-translator==1.11.4
+        python -m pip install --upgrade pip
+        pip install --no-cache-dir -r requirements.txt
     
     - name: Acquire lock
       run: |

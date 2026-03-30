@@ -1,15 +1,15 @@
 {
   "month": "2026-03",
   "total_articles": 477,
-  "summary": "2026-03の月次まとめ: AI・機械学習関連の話題が中心。主要トピック: Go, AI, LLM。注目: 「The EU still wants to scan  your private messages and photos...」。",
+  "summary": "2026-03の技術動向: AI・機械学習分野では1件の進展があった。 「Wine 11 rewrites how Linux runs Windows games at kernel with massive speed gains」が話題となった。 技術トレンドとして9件のトピックが取り上げられた。 The、Founder、Gitなどのリリースや機能強化が報告された。",
   "source_counts": {
-    "hn": 360,
-    "zennqiita": 110,
+    "hn": 345,
+    "zennqiita": 125,
     "project": 2,
     "msf": 5
   },
   "severity_counts": {
-    "critical": 11,
+    "critical": 12,
     "medium": 5,
     "high": 7
   },
@@ -92,17 +92,6 @@
       "date": "2026-03-25T21:11:57+00:00"
     },
     {
-      "id": "hn-47501426",
-      "source": "hn",
-      "title": "Tell HN: Litellm 1.82.7 and 1.82.8 on PyPI are compromised",
-      "url": "https://github.com/BerriAI/litellm/issues/24512",
-      "score": 886,
-      "comments": 466,
-      "author": "dot_treo",
-      "tags": [],
-      "date": "2026-03-24T12:06:29+00:00"
-    },
-    {
       "id": "hn-47534848",
       "source": "hn",
       "title": "We haven't seen the worst of what gambling and prediction markets will do",
@@ -158,17 +147,6 @@
       "date": "2026-03-24T15:29:41+00:00"
     },
     {
-      "id": "hn-47501729",
-      "source": "hn",
-      "title": "Malicious litellm_init.pth in litellm 1.82.8 PyPI package – credential stealer",
-      "url": "https://github.com/BerriAI/litellm/issues/24512",
-      "score": 689,
-      "comments": 274,
-      "author": "theanonymousone",
-      "tags": [],
-      "date": "2026-03-24T12:36:20+00:00"
-    },
-    {
       "id": "hn-47542695",
       "source": "hn",
       "title": "People inside Microsoft are fighting to drop mandatory Microsoft Account",
@@ -189,6 +167,17 @@
       "author": "bentocorp",
       "tags": [],
       "date": "2026-03-26T21:04:50+00:00"
+    },
+    {
+      "id": "hn-47566865",
+      "source": "hn",
+      "title": "ChatGPT won't let you type until Cloudflare reads your React state",
+      "url": "https://www.buchodi.com/chatgpt-wont-let-you-type-until-cloudflare-reads-your-react-state-i-decrypted-the-program-that-does-it/",
+      "score": 607,
+      "comments": 394,
+      "author": "alberto-m",
+      "tags": [],
+      "date": "2026-03-29T20:21:05+00:00"
     },
     {
       "id": "hn-47506713",
@@ -233,9 +222,32 @@
       "author": "jslakro",
       "tags": [],
       "date": "2026-03-26T13:38:25+00:00"
+    },
+    {
+      "id": "hn-47540833",
+      "source": "hn",
+      "title": "Hold on to Your Hardware",
+      "url": "https://xn--gckvb8fzb.com/hold-on-to-your-hardware/",
+      "score": 552,
+      "comments": 453,
+      "author": "LucidLynx",
+      "tags": [],
+      "date": "2026-03-27T10:10:41+00:00"
     }
   ],
   "security_highlights": [
+    {
+      "id": "hn-47571495",
+      "source": "hn",
+      "title": "Hamilton-Jacobi-Bellman Equation: Reinforcement Learning and Diffusion Models",
+      "url": "https://dani2442.github.io/posts/continuous-rl/",
+      "score": 18,
+      "comments": 5,
+      "author": "sebzuddas",
+      "tags": [],
+      "date": "2026-03-30T07:34:04+00:00",
+      "severity": "critical"
+    },
     {
       "id": "hn-47569167",
       "source": "hn",
@@ -353,8 +365,8 @@
       "source": "hn",
       "title": "Douglas Lenat's Automated Mathematician Source Code",
       "url": "https://github.com/white-flame/am",
-      "score": 7,
-      "comments": 0,
+      "score": 15,
+      "comments": 1,
       "author": "hydrolox",
       "tags": [],
       "date": "2026-03-25T16:31:11+00:00",

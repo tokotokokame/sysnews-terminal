@@ -1,19 +1,18 @@
 #!/usr/bin/env python3
 """
-月次アーカイブ生成スクリプト（HTML出力対応）
-- 記事0件でもJSON生成
-- Top 10記事の要約自動生成
-- 見やすいHTMLレポート生成
-- 古い月のgzip圧縮（3ヶ月以上前）
+月次アーカイブ生成スクリプト（エンジニア向けレポート）
+- 記事の内容から技術詳細を抽出
+- カテゴリ別にセクション化
+- HTMLレポート生成
 """
 import json
 import gzip
+import re
 from pathlib import Path
 from datetime import datetime, timezone, timedelta
 from collections import Counter
 from dateutil import parser
 
-# パス解決
 SCRIPT_DIR = Path(__file__).resolve().parent
 REPO_DIR = SCRIPT_DIR.parent
 DATA_DIR = REPO_DIR / "data"
@@ -23,7 +22,6 @@ ARCHIVE_DIR.mkdir(parents=True, exist_ok=True)
 COMPRESS_MONTHS_AGO = 3
 
 def parse_dt(s: str) -> datetime:
-    """日付文字列を安全にパース"""
     try:
         dt = parser.parse(s)
         if dt.tzinfo is None:
@@ -33,40 +31,13 @@ def parse_dt(s: str) -> datetime:
         return datetime.now(timezone.utc)
 
 def safe_float(val, default=0.0) -> float:
-    """scoreを安全にfloatキャスト"""
     try:
         return float(val)
     except (TypeError, ValueError):
         return default
 
-def extract_keywords(title: str) -> list:
-    """タイトルからキーワード抽出"""
-    text = title.lower()
-    keywords = []
-    
-    security_terms = [
-        'セキュリティ', '脆弱性', 'vulnerability', 'security', 'cve', 'exploit',
-        'ransomware', 'malware', 'breach', 'hack', 'attack', 'zero-day'
-    ]
-    
-    ai_terms = [
-        'ai', 'gpt', 'llm', 'chatgpt', 'openai', 'anthropic', 'claude',
-        'machine learning', 'deep learning', '人工知能', '機械学習'
-    ]
-    
-    tech_terms = [
-        'python', 'javascript', 'rust', 'go', 'java', 'kubernetes', 'docker',
-        'cloud', 'aws', 'azure', 'react', 'vue', 'api', 'framework'
-    ]
-    
-    for term in security_terms + ai_terms + tech_terms:
-        if term in text:
-            keywords.append(term)
-    
-    return keywords
-
 def generate_monthly_summary(month_items: list, month_str: str) -> str:
-    """月次要約を自動生成"""
+    """エンジニア向け月次レポート生成（完全無料）"""
     if not month_items:
         return f"{month_str}は記事がありませんでした。"
     
@@ -78,56 +49,91 @@ def generate_monthly_summary(month_items: list, month_str: str) -> str:
     else:
         top_items = sorted(month_items, key=lambda x: parse_dt(x.get("date", "")), reverse=True)[:10]
     
-    # カテゴリ別集計
-    categories = Counter()
-    all_keywords = []
+    # カテゴリ別にグループ化
+    security_items = []
+    ai_items = []
+    tech_items = []
     
     for item in top_items:
         title = item.get("title_ja", item.get("title", ""))
-        keywords = extract_keywords(title)
-        all_keywords.extend(keywords)
+        summary = item.get("summary_ja", item.get("summary", ""))
+        text = (title + " " + summary).lower()
         
-        text = title.lower()
-        if any(k in text for k in ['セキュリティ', 'security', 'vulnerability', 'cve', 'exploit', '脆弱性']):
-            categories['security'] += 1
-        elif any(k in text for k in ['ai', 'gpt', 'llm', '人工知能', '機械学習']):
-            categories['ai'] += 1
-        elif any(k in text for k in ['python', 'javascript', 'rust', 'framework', 'プログラミング']):
-            categories['tech'] += 1
+        if any(k in text for k in ["セキュリティ", "security", "vulnerability", "cve", "exploit", "脆弱性", "breach", "attack"]):
+            security_items.append({"title": title, "summary": summary})
+        elif any(k in text for k in ["ai", "gpt", "llm", "人工知能", "機械学習", "openai", "anthropic", "claude", "gemini"]):
+            ai_items.append({"title": title, "summary": summary})
+        else:
+            tech_items.append({"title": title, "summary": summary})
     
-    # 頻出キーワードTop 5
-    keyword_counts = Counter(all_keywords)
-    top_keywords = [k for k, _ in keyword_counts.most_common(5)]
+    # エンジニア向けレポート文生成
+    report_parts = []
     
-    # 要約文生成
-    summary_parts = []
-    
-    if categories:
-        dominant_cat = categories.most_common(1)[0][0]
-        cat_labels = {'security': 'セキュリティ', 'ai': 'AI・機械学習', 'tech': '技術・開発'}
-        dominant_label = cat_labels.get(dominant_cat, '技術')
-        summary_parts.append(f"{dominant_label}関連の話題が中心")
-    
-    if top_keywords:
-        keyword_ja = {
-            'security': 'セキュリティ', 'vulnerability': '脆弱性',
-            'ai': 'AI', 'gpt': 'GPT', 'llm': 'LLM',
-            'python': 'Python', 'javascript': 'JavaScript',
-            'rust': 'Rust', 'kubernetes': 'Kubernetes'
-        }
+    # セキュリティセクション
+    if security_items:
+        sec_text = f"{len(security_items)}件の重要なセキュリティ関連トピックが報告された。"
         
-        keywords_display = [keyword_ja.get(k.lower(), k.title()) for k in top_keywords[:3]]
-        summary_parts.append(f"主要トピック: {', '.join(keywords_display)}")
+        top_sec = security_items[0]
+        sec_detail = top_sec["title"][:80]
+        
+        if top_sec["summary"]:
+            # 要約から重要部分を抽出（最初の1〜2文）
+            sentences = top_sec["summary"].replace("。 ", "。").split("。")
+            summary_text = "。".join(sentences[:2])[:150]
+            if summary_text:
+                sec_text += f" 特に注目すべきは「{sec_detail}」で、{summary_text}。"
+            else:
+                sec_text += f" 特に「{sec_detail}」が注目を集めた。"
+        else:
+            sec_text += f" 特に「{sec_detail}」が注目を集めた。"
+        
+        report_parts.append(sec_text)
     
-    if top_items:
-        top_title = top_items[0].get("title_ja", top_items[0].get("title", ""))[:60]
-        if len(top_title) == 60:
-            top_title += "..."
-        summary_parts.append(f"注目: 「{top_title}」")
+    # AIセクション
+    if ai_items:
+        ai_text = f"AI・機械学習分野では{len(ai_items)}件の進展があった。"
+        
+        top_ai = ai_items[0]
+        ai_detail = top_ai["title"][:80]
+        
+        if top_ai["summary"]:
+            sentences = top_ai["summary"].replace("。 ", "。").split("。")
+            summary_text = "。".join(sentences[:2])[:150]
+            if summary_text:
+                ai_text += f" 「{ai_detail}」では{summary_text}。"
+            else:
+                ai_text += f" 「{ai_detail}」が話題となった。"
+        else:
+            ai_text += f" 「{ai_detail}」が話題となった。"
+        
+        report_parts.append(ai_text)
     
-    summary = f"{month_str}の月次まとめ: " + "。".join(summary_parts) + "。"
+    # 技術セクション
+    if tech_items:
+        tech_text = f"技術トレンドとして{len(tech_items)}件のトピックが取り上げられた。"
+        
+        # 複数の技術トピックから製品名・技術名を抽出
+        tech_keywords = []
+        for item in tech_items[:3]:
+            title = item["title"]
+            # 製品名・技術名っぽいキーワードを抽出（大文字で始まる単語）
+            words = re.findall(r'[A-Z][a-z]+(?:\s+[A-Z][a-z]+)*|\\b[A-Z]{2,}\\b', title)
+            tech_keywords.extend(words[:2])
+        
+        if tech_keywords:
+            unique_tech = list(dict.fromkeys(tech_keywords))[:3]
+            tech_text += f" {'、'.join(unique_tech)}などのリリースや機能強化が報告された。"
+        
+        report_parts.append(tech_text)
     
-    return summary
+    # 最終レポート
+    report = f"{month_str}の技術動向: " + " ".join(report_parts)
+    
+    # 文字数制限
+    if len(report) > 500:
+        report = report[:497] + "..."
+    
+    return report
 
 def generate_html_report(archive_data: dict, month_str: str) -> str:
     """月次HTMLレポート生成"""
@@ -157,7 +163,6 @@ def generate_html_report(archive_data: dict, month_str: str) -> str:
         
         top_articles_html += '</ul></div>'
     
-    # ソース別統計
     source_counts = archive_data.get('source_counts', {})
     source_stats_html = ""
     
@@ -182,12 +187,12 @@ def generate_html_report(archive_data: dict, month_str: str) -> str:
   <title>{month_str} 月次レポート - SE/NEWS</title>
   <style>
     * {{ margin: 0; padding: 0; box-sizing: border-box; }}
-    body {{ font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Hiragino Sans', Meiryo, sans-serif; background: #f5f5f5; color: #333; line-height: 1.6; padding: 20px; }}
+    body {{ font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Hiragino Sans', Meiryo, sans-serif; background: #f5f5f5; color: #333; line-height: 1.8; padding: 20px; }}
     .container {{ max-width: 1000px; margin: 0 auto; background: white; padding: 40px; border-radius: 12px; box-shadow: 0 2px 20px rgba(0,0,0,0.1); }}
     .header {{ border-bottom: 3px solid #667eea; padding-bottom: 20px; margin-bottom: 30px; }}
     .header h1 {{ font-size: 32px; color: #667eea; margin-bottom: 10px; }}
     .header .meta {{ font-size: 14px; color: #999; }}
-    .summary {{ background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); color: white; padding: 25px; border-radius: 8px; margin-bottom: 30px; font-size: 16px; line-height: 1.8; }}
+    .summary {{ background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); color: white; padding: 30px; border-radius: 8px; margin-bottom: 30px; font-size: 16px; line-height: 1.9; }}
     .section {{ margin-bottom: 40px; }}
     .section h2 {{ font-size: 24px; color: #333; margin-bottom: 20px; padding-bottom: 10px; border-bottom: 2px solid #f0f0f0; }}
     .stats {{ display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 20px; margin-bottom: 30px; }}
@@ -345,12 +350,10 @@ def main():
             "security_highlights": security_items
         }
 
-        # JSON保存
         out_path = ARCHIVE_DIR / f"{month_str}.json"
         with open(out_path, "w", encoding="utf-8") as f:
             json.dump(archive_data, f, ensure_ascii=False, indent=2)
         
-        # HTML保存
         html_content = generate_html_report(archive_data, month_str)
         html_path = ARCHIVE_DIR / f"{month_str}.html"
         with open(html_path, "w", encoding="utf-8") as f:
@@ -363,7 +366,6 @@ def main():
     compress_before = datetime.now(timezone.utc) - timedelta(days=30*COMPRESS_MONTHS_AGO)
     compress_old_archives(compress_before)
 
-    # index.json生成
     archive_files = []
     
     for fpath in ARCHIVE_DIR.glob("*.json"):

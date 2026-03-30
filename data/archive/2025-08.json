@@ -1,10 +1,40 @@
 {
   "month": "2025-08",
   "total_articles": 2,
+  "summary": "2025-08の月次まとめ: 主要トピック: Hack, X。注目: 「[Boost]」。",
   "source_counts": {
     "project": 2
   },
   "severity_counts": {},
-  "top_articles": [],
+  "top_articles": [
+    {
+      "id": "ctf-2803921",
+      "source": "project",
+      "proj_category": "CTF",
+      "title": "[Boost]",
+      "url": "https://dev.to/er/-4h53",
+      "score": 0,
+      "author": "CTF Platform",
+      "tags": [
+        "CTF",
+        "Security"
+      ],
+      "date": "2025-08-27T21:48:18Z"
+    },
+    {
+      "id": "ctf-2803891",
+      "source": "project",
+      "proj_category": "CTF",
+      "title": "Hack the box - Dancing (SMB)",
+      "url": "https://dev.to/er/hack-the-box-dancing-2jpo",
+      "score": 0,
+      "author": "CTF Platform",
+      "tags": [
+        "CTF",
+        "Security"
+      ],
+      "date": "2025-08-27T20:39:38Z"
+    }
+  ],
   "security_highlights": []
 }

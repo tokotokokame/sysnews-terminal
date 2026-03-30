@@ -1,6 +1,7 @@
 {
   "month": "2026-02",
   "total_articles": 14,
+  "summary": "2026-02の月次まとめ: セキュリティ関連の話題が中心。主要トピック: X, Hack, Windows。注目: 「Interpreter Machine Writeup | HackTheBox」。",
   "source_counts": {
     "project": 4,
     "msf": 10
@@ -8,7 +9,50 @@
   "severity_counts": {
     "high": 10
   },
-  "top_articles": [],
+  "top_articles": [
+    {
+      "id": "ctf-3279111",
+      "source": "project",
+      "proj_category": "CTF",
+      "title": "Interpreter Machine Writeup | HackTheBox",
+      "url": "https://dev.to/0xjerry__/interpreter-machine-hackthebox-4cbc",
+      "score": 0,
+      "author": "CTF Platform",
+      "tags": [
+        "CTF",
+        "Security"
+      ],
+      "date": "2026-02-23T22:31:22Z"
+    },
+    {
+      "id": "ctf-3246876",
+      "source": "project",
+      "proj_category": "CTF",
+      "title": "HackTheBox Media writeup",
+      "url": "https://dev.to/mohamed_mo_f0979dd80f48c7/hackthebox-media-writeup-58i6",
+      "score": 0,
+      "author": "CTF Platform",
+      "tags": [
+        "CTF",
+        "Security"
+      ],
+      "date": "2026-02-10T15:56:33Z"
+    },
+    {
+      "id": "ctf-3234022",
+      "source": "project",
+      "proj_category": "CTF",
+      "title": "HackTheBox Certified writeup",
+      "url": "https://dev.to/mohamed_mo_f0979dd80f48c7/hackthebox-certified-writeup-1735",
+      "score": 0,
+      "author": "CTF Platform",
+      "tags": [
+        "CTF",
+        "Security"
+      ],
+      "date": "2026-02-05T08:03:30Z"
+    }
+  ],
   "security_highlights": [
     {
       "id": "edb-264ee764a3",

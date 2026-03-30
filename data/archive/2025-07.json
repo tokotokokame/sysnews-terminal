@@ -1,10 +1,54 @@
 {
   "month": "2025-07",
   "total_articles": 3,
+  "summary": "2025-07の月次まとめ: 主要トピック: Hack, X。注目: 「Getting Started - Web Enumeration Walkthrough (Hack The Box)...」。",
   "source_counts": {
     "project": 3
   },
   "severity_counts": {},
-  "top_articles": [],
+  "top_articles": [
+    {
+      "id": "ctf-2741652",
+      "source": "project",
+      "proj_category": "CTF",
+      "title": "Getting Started - Web Enumeration Walkthrough (Hack The Box) [Hindi]",
+      "url": "https://dev.to/madhiashabih/getting-started-web-enumeration-walkthrough-hack-the-box-hindi-3mgm",
+      "score": 0,
+      "author": "CTF Platform",
+      "tags": [
+        "CTF",
+        "Security"
+      ],
+      "date": "2025-07-30T10:37:55Z"
+    },
+    {
+      "id": "ctf-2741534",
+      "source": "project",
+      "proj_category": "CTF",
+      "title": "Getting Started - Web Enumeration Walkthrough (Hack The Box) [Urdu]",
+      "url": "https://dev.to/madhiashabih/getting-started-web-enumeration-walkthrough-hack-the-box-urdu-4jak",
+      "score": 0,
+      "author": "CTF Platform",
+      "tags": [
+        "CTF",
+        "Security"
+      ],
+      "date": "2025-07-30T10:26:04Z"
+    },
+    {
+      "id": "ctf-2741488",
+      "source": "project",
+      "proj_category": "CTF",
+      "title": "Getting Started - Web Enumeration Walkthrough (Hack The Box)",
+      "url": "https://dev.to/madhiashabih/getting-started-web-enumeration-walkthrough-hack-the-box-5h6o",
+      "score": 0,
+      "author": "CTF Platform",
+      "tags": [
+        "CTF",
+        "Security"
+      ],
+      "date": "2025-07-30T09:45:07Z"
+    }
+  ],
   "security_highlights": []
 }

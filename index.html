@@ -719,8 +719,14 @@
       }
     }
 
-    // 月次まとめ文生成
+    // 月次まとめ文取得（サーバー生成の要約を使用）
     function generateMonthlySummary(month) {
+      // サーバー側で生成された要約があればそれを使用
+      if (month.summary) {
+        return month.summary;
+      }
+      
+      // フォールバック（要約がない場合）
       const count = month.total_articles || 0;
       
       if (count === 0) {

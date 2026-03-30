@@ -480,82 +480,26 @@
 
     // カテゴリ判定
     function detectCategory(item) {
-      const text = (item.title + ' ' + (item.tags || []).join(' ') + ' ' + item.source).toLowerCase();
+      const text = (item.title + ' ' + (item.title_ja || '') + ' ' + (item.tags || []).join(' ') + ' ' + item.source).toLowerCase();
       const categories = [];
       
-      // セキュリティ
-      if (text.match(/security|vulnerability|cve|exploit|malware|ransomware|breach|attack|hack|threat|phishing|zero-day|セキュリティ|脆弱性|攻撃|侵害/i)) {
+      if (text.match(/security|vulnerability|cve|exploit|malware|ransomware|breach|attack|hack|threat|セキュリティ|脆弱性|攻撃/i)) {
         categories.push('security');
       }
       
-      // AI
-      if (text.match(/\bai\b|artificial intelligence|machine learning|deep learning|gpt|llm|neural|model|chatbot|openai|anthropic|人工知能|機械学習/i)) {
+      if (text.match(/\bai\b|artificial intelligence|machine learning|deep learning|gpt|llm|neural|人工知能|機械学習/i)) {
         categories.push('ai');
       }
       
-      // ペンテスト
-      if (text.match(/pentest|penetration|metasploit|burp|hack the box|ctf|red team|blue team|kali|nmap|wireshark|ペネトレーション/i)) {
+      if (text.match(/pentest|penetration|metasploit|burp|hack the box|ctf|red team|ペネトレーション/i)) {
         categories.push('pentest');
       }
       
-      // 技術
-      if (text.match(/programming|development|code|software|framework|library|api|database|cloud|docker|kubernetes|技術|プログラミング|開発/i)) {
+      if (text.match(/programming|development|code|software|framework|library|api|database|技術|プログラミング|開発/i)) {
         categories.push('tech');
       }
       
       return categories.length > 0 ? categories : ['news'];
-    }
-
-    // Google Translate API代替（ローカル翻訳辞書）
-    async function translateToJapanese(title) {
-      // 基本的な英単語→日本語変換辞書
-      const dict = {
-        // セキュリティ用語
-        'security': 'セキュリティ', 'vulnerability': '脆弱性', 'vulnerabilities': '脆弱性',
-        'exploit': 'エクスプロイト', 'exploits': 'エクスプロイト', 'critical': '緊急',
-        'update': 'アップデート', 'updates': 'アップデート', 'release': 'リリース',
-        'released': 'リリース済', 'new': '新規', 'latest': '最新', 'zero-day': 'ゼロデイ',
-        'ransomware': 'ランサムウェア', 'malware': 'マルウェア', 'patch': 'パッチ',
-        'patched': 'パッチ適用済', 'bug': 'バグ', 'bugs': 'バグ', 'fix': '修正',
-        'fixed': '修正済', 'authentication': '認証', 'bypass': 'バイパス',
-        'remote code execution': 'リモートコード実行', 'rce': 'RCE',
-        'sql injection': 'SQLインジェクション', 'xss': 'XSS', 'csrf': 'CSRF',
-        'denial of service': 'サービス拒否', 'dos': 'DoS', 'ddos': 'DDoS',
-        'privilege escalation': '権限昇格', 'data breach': 'データ侵害',
-        'leaked': '漏洩', 'disclosure': '開示', 'advisory': 'アドバイザリ',
-        'warning': '警告', 'alert': 'アラート', 'announcement': '発表',
-        'breaking': '速報', 'attack': '攻撃', 'attacks': '攻撃',
-        'threat': '脅威', 'threats': '脅威', 'phishing': 'フィッシング',
-        
-        // AI用語
-        'artificial intelligence': '人工知能', 'machine learning': '機械学習',
-        'deep learning': 'ディープラーニング', 'neural network': 'ニューラルネットワーク',
-        'model': 'モデル', 'models': 'モデル', 'training': 'トレーニング',
-        'dataset': 'データセット', 'algorithm': 'アルゴリズム',
-        
-        // 技術用語
-        'programming': 'プログラミング', 'development': '開発',
-        'software': 'ソフトウェア', 'application': 'アプリケーション',
-        'framework': 'フレームワーク', 'library': 'ライブラリ',
-        'database': 'データベース', 'server': 'サーバー',
-        'cloud': 'クラウド', 'api': 'API', 'performance': 'パフォーマンス',
-        
-        // 一般用語
-        'how to': '方法', 'guide': 'ガイド', 'tutorial': 'チュートリアル',
-        'introduction': '入門', 'overview': '概要', 'comparison': '比較',
-        'best practices': 'ベストプラクティス', 'tips': 'ヒント',
-        'analysis': '分析', 'report': 'レポート', 'research': '研究',
-      };
-      
-      let translated = title;
-      
-      // 辞書ベース変換（単語境界を考慮）
-      for (const [en, ja] of Object.entries(dict)) {
-        const regex = new RegExp('\\b' + en.replace(/[.*+?^${}()|[\]\\]/g, '\\$&') + '\\b', 'gi');
-        translated = translated.replace(regex, ja);
-      }
-      
-      return translated;
     }
 
     // データ取得
@@ -566,17 +510,16 @@
         
         const data = await response.json();
         
-        // データ正規化と翻訳
-        const promises = (data.items || []).map(async item => ({
+        // データ正規化
+        allItems = (data.items || []).map(item => ({
           ...item,
           categories: detectCategory(item),
-          translatedTitle: await translateToJapanese(item.title || ''),
+          // title_jaを優先、なければtitleを使用
+          displayTitle: item.title_ja || item.title || '',
           score: item.score || 0,
           comments: item.comments || 0,
           link: item.url || item.link || '#'
         }));
-        
-        allItems = await Promise.all(promises);
         
         // ヘッダー統計更新
         document.getElementById('headerStats').textContent = 
@@ -624,7 +567,7 @@
       if (searchQuery) {
         filtered = filtered.filter(item =>
           item.title.toLowerCase().includes(searchQuery) ||
-          item.translatedTitle.toLowerCase().includes(searchQuery) ||
+          item.displayTitle.toLowerCase().includes(searchQuery) ||
           (item.author && item.author.toLowerCase().includes(searchQuery))
         );
       }
@@ -664,7 +607,7 @@
               `<span class="tag ${cat}">${getCategoryLabel(cat)}</span>`
             ).join('')}
           </div>
-          <div class="news-title">${item.translatedTitle}</div>
+          <div class="news-title">${item.displayTitle}</div>
           <div class="news-meta">
             <div class="news-source">
               <span>📡</span>
@@ -707,7 +650,7 @@
           <div class="top-item" onclick="window.open('${item.link}', '_blank')">
             <div class="top-rank ${rankClass}">${index + 1}</div>
             <div class="top-content">
-              <div class="top-title">${item.translatedTitle}</div>
+              <div class="top-title">${item.displayTitle}</div>
               <div class="top-meta">
                 <span>📡 ${item.source}</span>
                 <span class="top-score">👍 ${item.score}</span>
@@ -719,7 +662,7 @@
       }).join('');
     }
 
-    // アーカイブ表示（月次まとめ）
+    // アーカイブ表示
     async function renderArchive() {
       const container = document.getElementById('newsContainer');
       
@@ -751,7 +694,6 @@
           card.className = 'archive-card';
           card.onclick = () => window.open(`./data/archive/${month.file}`, '_blank');
           
-          // まとめ文生成
           const summary = generateMonthlySummary(month);
           
           card.innerHTML = `

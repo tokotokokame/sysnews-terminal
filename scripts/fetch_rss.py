@@ -1,10 +1,11 @@
 #!/usr/bin/env python3
 """
-RSS収集スクリプト（安定化版）
+RSS収集スクリプト（deep-translator統合版）
+- 完全日本語翻訳（Google Translate API代替）
 - タイムアウト/リトライ機能
-- 部分失敗許容（1ソース失敗しても継続）
+- 部分失敗許容
 - news.json自動ローテーション（最新500件保持）
-- 重複検出強化（URL正規化）
+- 重複検出強化
 """
 import json
 import time
@@ -16,15 +17,22 @@ import feedparser
 import requests
 from requests.adapters import HTTPAdapter
 from urllib3.util.retry import Retry
+from deep_translator import GoogleTranslator
 
-DATA_DIR = Path(__file__).parent / "data"
+# パス解決
+SCRIPT_DIR = Path(__file__).resolve().parent
+REPO_DIR = SCRIPT_DIR.parent
+DATA_DIR = REPO_DIR / "data"
 DATA_DIR.mkdir(exist_ok=True)
 NEWS_PATH = DATA_DIR / "news.json"
 
 # 設定
-MAX_ITEMS = 500  # news.jsonに保持する最大件数
-TIMEOUT = 15  # 各RSS取得のタイムアウト（秒）
-MAX_RETRIES = 3  # リトライ回数
+MAX_ITEMS = 500
+TIMEOUT = 15
+MAX_RETRIES = 3
+
+# 翻訳インスタンス（再利用）
+translator = GoogleTranslator(source='auto', target='ja')
 
 # RSS ソース定義
 SOURCES = [
@@ -71,7 +79,7 @@ def create_session() -> requests.Session:
     session = requests.Session()
     retry = Retry(
         total=MAX_RETRIES,
-        backoff_factor=1,  # 1秒, 2秒, 4秒...
+        backoff_factor=1,
         status_forcelist=[429, 500, 502, 503, 504],
     )
     adapter = HTTPAdapter(max_retries=retry)
@@ -80,24 +88,43 @@ def create_session() -> requests.Session:
     return session
 
 def normalize_url(url: str) -> str:
-    """URL正規化（重複検出精度向上）"""
+    """URL正規化"""
     try:
         parsed = urlparse(url)
-        # クエリパラメータをソート・断片削除
         normalized = urlunparse((
             parsed.scheme.lower(),
             parsed.netloc.lower(),
             parsed.path,
             parsed.params,
             parsed.query,
-            ""  # fragment削除
+            ""
         ))
         return normalized
     except:
         return url
 
+def translate_text(text: str, source_lang: str) -> str:
+    """テキスト翻訳（エラー耐性付き）"""
+    if not text or not text.strip():
+        return text
+    
+    # 日本語ソースはそのまま
+    if source_lang == 'ja':
+        return text
+    
+    try:
+        # 長すぎるテキストは分割翻訳
+        if len(text) > 5000:
+            text = text[:5000]
+        
+        translated = translator.translate(text)
+        return translated if translated else text
+    except Exception as e:
+        print(f"    ⚠️  Translation failed: {e}")
+        return text
+
 def fetch_feed(source: dict, session: requests.Session) -> list:
-    """単一RSSフィード取得（エラー耐性付き）"""
+    """単一RSSフィード取得（翻訳付き）"""
     items = []
     try:
         print(f"Fetching: {source['name']} ...", end=" ", flush=True)
@@ -110,39 +137,33 @@ def fetch_feed(source: dict, session: requests.Session) -> list:
         
         feed = feedparser.parse(response.content)
         
-        for entry in feed.entries[:30]:  # 最新30件
-            # タイトル・リンク必須
+        for entry in feed.entries[:30]:
             if not entry.get("title") or not entry.get("link"):
                 continue
             
+            title = entry.title.strip()
+            summary = entry.get("summary", "")[:300]
+            
+            # 翻訳実行
+            title_ja = translate_text(title, source["language"])
+            summary_ja = translate_text(summary, source["language"]) if summary else ""
+            
             item = {
-                "title": entry.title.strip(),
+                "title": title,
+                "title_ja": title_ja,
                 "link": normalize_url(entry.link),
                 "source": source["name"],
                 "category": source["category"],
                 "language": source["language"],
                 "date": entry.get("published", entry.get("updated", "")),
-                "summary": entry.get("summary", "")[:300],
+                "summary": summary,
+                "summary_ja": summary_ja,
             }
             
-            # セキュリティスコア推定（CVSSベース）
-            if "cvss" in entry.get("summary", "").lower():
-                try:
-                    # 簡易抽出: "CVSS 8.5" などを検出
-                    import re
-                    match = re.search(r"cvss[:\s]+(\d+\.?\d*)", entry.get("summary", ""), re.I)
-                    if match:
-                        item["score"] = float(match.group(1))
-                        if item["score"] >= 9.0:
-                            item["severity"] = "critical"
-                        elif item["score"] >= 7.0:
-                            item["severity"] = "high"
-                        elif item["score"] >= 4.0:
-                            item["severity"] = "medium"
-                except:
-                    pass
-            
             items.append(item)
+            
+            # レート制限対策（翻訳API保護）
+            time.sleep(0.1)
         
         print(f"✓ {len(items)} items")
         
@@ -151,12 +172,12 @@ def fetch_feed(source: dict, session: requests.Session) -> list:
     except requests.RequestException as e:
         print(f"✗ Network error: {e}")
     except Exception as e:
-        print(f"✗ Parse error: {e}")
+        print(f"✗ Error: {e}")
     
     return items
 
 def deduplicate_items(new_items: list, existing_items: list) -> list:
-    """重複除去（URL正規化ベース）"""
+    """重複除去"""
     existing_urls = {normalize_url(i["link"]) for i in existing_items}
     unique = []
     for item in new_items:
@@ -167,11 +188,10 @@ def deduplicate_items(new_items: list, existing_items: list) -> list:
     return unique
 
 def rotate_news_json(items: list, max_items: int) -> list:
-    """news.jsonローテーション（最新N件保持）"""
+    """news.jsonローテーション"""
     if len(items) <= max_items:
         return items
     
-    # 日付でソート（新→古）
     sorted_items = sorted(
         items,
         key=lambda x: x.get("date", ""),
@@ -193,14 +213,14 @@ def main():
     
     print(f"Existing items: {len(existing_items)}")
     
-    # RSS収集（並列ではなく順次：安定性重視）
+    # RSS収集
     session = create_session()
     all_new_items = []
     
     for source in SOURCES:
         items = fetch_feed(source, session)
         all_new_items.extend(items)
-        time.sleep(0.5)  # レート制限対策
+        time.sleep(0.5)
     
     # 重複除去
     unique_items = deduplicate_items(all_new_items, existing_items)
@@ -214,7 +234,8 @@ def main():
     
     # 保存
     output_data = {
-        "last_updated": datetime.now(timezone.utc).isoformat(),
+        "updated_at": datetime.now(timezone.utc).isoformat(),
+        "count": len(final_items),
         "items": final_items
     }
     

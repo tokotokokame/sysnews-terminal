@@ -1,9 +1,9 @@
 #!/usr/bin/env python3
 """
-月次アーカイブ生成スクリプト（エンジニア向けレポート）
-- 記事の内容から技術詳細を抽出
-- カテゴリ別にセクション化
-- HTMLレポート生成
+月次アーカイブ生成スクリプト（詳細技術レポート版）
+- Top 10記事すべての内容を要約
+- カテゴリ別に詳細を列挙
+- 技術的な影響・対応を含める
 """
 import json
 import gzip
@@ -36,8 +36,32 @@ def safe_float(val, default=0.0) -> float:
     except (TypeError, ValueError):
         return default
 
+def extract_detail(summary: str, max_sentences: int = 3) -> str:
+    """要約から詳細情報を抽出"""
+    if not summary:
+        return ""
+    
+    # 文を分割（。で区切る）
+    sentences = summary.replace("。 ", "。").split("。")
+    
+    # 最初のN文を取得
+    detail_sentences = []
+    char_count = 0
+    
+    for sentence in sentences[:max_sentences]:
+        sentence = sentence.strip()
+        if sentence:
+            detail_sentences.append(sentence)
+            char_count += len(sentence)
+            
+            # 200文字程度で打ち切り
+            if char_count > 200:
+                break
+    
+    return "。".join(detail_sentences) + ("。" if detail_sentences else "")
+
 def generate_monthly_summary(month_items: list, month_str: str) -> str:
-    """エンジニア向け月次レポート生成（完全無料）"""
+    """詳細技術レポート生成（完全無料）"""
     if not month_items:
         return f"{month_str}は記事がありませんでした。"
     
@@ -59,84 +83,92 @@ def generate_monthly_summary(month_items: list, month_str: str) -> str:
         summary = item.get("summary_ja", item.get("summary", ""))
         text = (title + " " + summary).lower()
         
-        if any(k in text for k in ["セキュリティ", "security", "vulnerability", "cve", "exploit", "脆弱性", "breach", "attack"]):
+        if any(k in text for k in ["セキュリティ", "security", "vulnerability", "cve", "exploit", "脆弱性", "breach", "attack", "ランサムウェア", "malware"]):
             security_items.append({"title": title, "summary": summary})
-        elif any(k in text for k in ["ai", "gpt", "llm", "人工知能", "機械学習", "openai", "anthropic", "claude", "gemini"]):
+        elif any(k in text for k in ["ai", "gpt", "llm", "人工知能", "機械学習", "openai", "anthropic", "claude", "gemini", "chatgpt"]):
             ai_items.append({"title": title, "summary": summary})
         else:
             tech_items.append({"title": title, "summary": summary})
     
-    # エンジニア向けレポート文生成
+    # 詳細レポート生成
     report_parts = []
     
-    # セキュリティセクション
+    # ========== セキュリティセクション ==========
     if security_items:
-        sec_text = f"{len(security_items)}件の重要なセキュリティ関連トピックが報告された。"
+        sec_text = f"**セキュリティ動向 ({len(security_items)}件)**\n\n"
         
-        top_sec = security_items[0]
-        sec_detail = top_sec["title"][:80]
-        
-        if top_sec["summary"]:
-            # 要約から重要部分を抽出（最初の1〜2文）
-            sentences = top_sec["summary"].replace("。 ", "。").split("。")
-            summary_text = "。".join(sentences[:2])[:150]
-            if summary_text:
-                sec_text += f" 特に注目すべきは「{sec_detail}」で、{summary_text}。"
+        for i, item in enumerate(security_items, 1):
+            title = item["title"][:100]
+            detail = extract_detail(item["summary"], max_sentences=3)
+            
+            if detail:
+                sec_text += f"{i}. {title}\n   {detail}\n\n"
             else:
-                sec_text += f" 特に「{sec_detail}」が注目を集めた。"
-        else:
-            sec_text += f" 特に「{sec_detail}」が注目を集めた。"
+                sec_text += f"{i}. {title}\n\n"
         
-        report_parts.append(sec_text)
+        report_parts.append(sec_text.strip())
     
-    # AIセクション
+    # ========== AIセクション ==========
     if ai_items:
-        ai_text = f"AI・機械学習分野では{len(ai_items)}件の進展があった。"
+        ai_text = f"**AI・機械学習動向 ({len(ai_items)}件)**\n\n"
         
-        top_ai = ai_items[0]
-        ai_detail = top_ai["title"][:80]
-        
-        if top_ai["summary"]:
-            sentences = top_ai["summary"].replace("。 ", "。").split("。")
-            summary_text = "。".join(sentences[:2])[:150]
-            if summary_text:
-                ai_text += f" 「{ai_detail}」では{summary_text}。"
+        for i, item in enumerate(ai_items, 1):
+            title = item["title"][:100]
+            detail = extract_detail(item["summary"], max_sentences=3)
+            
+            if detail:
+                ai_text += f"{i}. {title}\n   {detail}\n\n"
             else:
-                ai_text += f" 「{ai_detail}」が話題となった。"
-        else:
-            ai_text += f" 「{ai_detail}」が話題となった。"
+                ai_text += f"{i}. {title}\n\n"
         
-        report_parts.append(ai_text)
+        report_parts.append(ai_text.strip())
     
-    # 技術セクション
+    # ========== 技術セクション ==========
     if tech_items:
-        tech_text = f"技術トレンドとして{len(tech_items)}件のトピックが取り上げられた。"
+        tech_text = f"**技術トレンド ({len(tech_items)}件)**\n\n"
         
-        # 複数の技術トピックから製品名・技術名を抽出
-        tech_keywords = []
-        for item in tech_items[:3]:
-            title = item["title"]
-            # 製品名・技術名っぽいキーワードを抽出（大文字で始まる単語）
-            words = re.findall(r'[A-Z][a-z]+(?:\s+[A-Z][a-z]+)*|\\b[A-Z]{2,}\\b', title)
-            tech_keywords.extend(words[:2])
+        for i, item in enumerate(tech_items, 1):
+            title = item["title"][:100]
+            detail = extract_detail(item["summary"], max_sentences=2)
+            
+            if detail:
+                tech_text += f"{i}. {title}\n   {detail}\n\n"
+            else:
+                tech_text += f"{i}. {title}\n\n"
         
-        if tech_keywords:
-            unique_tech = list(dict.fromkeys(tech_keywords))[:3]
-            tech_text += f" {'、'.join(unique_tech)}などのリリースや機能強化が報告された。"
-        
-        report_parts.append(tech_text)
+        report_parts.append(tech_text.strip())
     
     # 最終レポート
-    report = f"{month_str}の技術動向: " + " ".join(report_parts)
-    
-    # 文字数制限
-    if len(report) > 500:
-        report = report[:497] + "..."
+    header = f"# {month_str}の技術動向レポート\n\n"
+    report = header + "\n\n".join(report_parts)
     
     return report
 
 def generate_html_report(archive_data: dict, month_str: str) -> str:
-    """月次HTMLレポート生成"""
+    """月次HTMLレポート生成（マークダウン対応）"""
+    
+    # summaryをHTMLに変換（マークダウン風）
+    summary = archive_data.get('summary', '今月のまとめ')
+    
+    # **太字** → <strong>
+    summary_html = re.sub(r'\*\*(.+?)\*\*', r'<strong>\1</strong>', summary)
+    
+    # 改行を<br>に変換
+    summary_html = summary_html.replace('\n\n', '</p><p>').replace('\n', '<br>')
+    
+    # # 見出し → <h3>
+    summary_html = re.sub(r'^# (.+)$', r'<h2 class="report-title">\1</h2>', summary_html, flags=re.MULTILINE)
+    
+    # 番号付きリスト: 1. → <li>
+    summary_html = re.sub(r'^\d+\.\s+(.+)$', r'<li>\1</li>', summary_html, flags=re.MULTILINE)
+    
+    # <li>をラップ
+    if '<li>' in summary_html:
+        summary_html = re.sub(r'(<li>.+?</li>)', r'<ul>\1</ul>', summary_html, flags=re.DOTALL)
+    
+    # <p>でラップ
+    if not summary_html.startswith('<'):
+        summary_html = f'<p>{summary_html}</p>'
     
     top_articles = archive_data.get('top_articles', [])[:10]
     top_articles_html = ""
@@ -192,7 +224,13 @@ def generate_html_report(archive_data: dict, month_str: str) -> str:
     .header {{ border-bottom: 3px solid #667eea; padding-bottom: 20px; margin-bottom: 30px; }}
     .header h1 {{ font-size: 32px; color: #667eea; margin-bottom: 10px; }}
     .header .meta {{ font-size: 14px; color: #999; }}
-    .summary {{ background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); color: white; padding: 30px; border-radius: 8px; margin-bottom: 30px; font-size: 16px; line-height: 1.9; }}
+    .summary {{ background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); color: white; padding: 30px; border-radius: 8px; margin-bottom: 30px; font-size: 15px; line-height: 1.9; }}
+    .summary h2 {{ color: white; font-size: 22px; margin-bottom: 15px; border-bottom: 2px solid rgba(255,255,255,0.3); padding-bottom: 10px; }}
+    .summary strong {{ color: #FFD700; font-weight: 600; }}
+    .summary ul {{ margin-left: 20px; margin-top: 10px; }}
+    .summary li {{ margin-bottom: 15px; list-style: none; position: relative; padding-left: 25px; }}
+    .summary li:before {{ content: "▸"; position: absolute; left: 0; color: #FFD700; font-weight: bold; }}
+    .summary p {{ margin-bottom: 15px; }}
     .section {{ margin-bottom: 40px; }}
     .section h2 {{ font-size: 24px; color: #333; margin-bottom: 20px; padding-bottom: 10px; border-bottom: 2px solid #f0f0f0; }}
     .stats {{ display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 20px; margin-bottom: 30px; }}
@@ -229,7 +267,7 @@ def generate_html_report(archive_data: dict, month_str: str) -> str:
     </div>
     
     <div class="summary">
-      {archive_data.get('summary', '今月のまとめ')}
+      {summary_html}
     </div>
     
     <div class="section">
@@ -265,7 +303,6 @@ def generate_html_report(archive_data: dict, month_str: str) -> str:
     return html
 
 def compress_old_archives(compress_before: datetime):
-    """古い月のアーカイブをgzip圧縮"""
     compressed_count = 0
     for json_path in ARCHIVE_DIR.glob("*.json"):
         if json_path.name == "index.json":
@@ -284,7 +321,6 @@ def compress_old_archives(compress_before: datetime):
                     
                     json_path.unlink()
                     compressed_count += 1
-                    print(f"🗜️  Compressed: {json_path.name}")
         except:
             pass
     

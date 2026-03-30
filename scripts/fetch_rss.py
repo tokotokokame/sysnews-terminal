@@ -171,7 +171,7 @@ SOURCES = [
     # ── ペンテスト・レッドチーム──────────────────────────
     {
         "name": "Offensive Security Blog",
-        "url": "https://www.offensive-security.com/blog/feed/",
+        "url": "https://www.offsec.com/blog/feed/",
         "category": "pentest",
         "language": "en",
         "quality": "high"

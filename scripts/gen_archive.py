@@ -84,11 +84,21 @@ def generate_monthly_summary(month_items: list, month_str: str) -> str:
     if not month_items:
         return f"{month_str}は記事がありませんでした。"
     
-    # Top 10記事を取得
-    top_items = sorted(
-        [i for i in month_items if i.get("score", 0) > 0],
-        key=lambda x: -safe_float(x.get("score", 0))
-    )[:10]
+    # Top 10記事を取得（scoreがNoneでない記事のみ）
+    scored_items = [i for i in month_items if i.get("score") is not None and safe_float(i.get("score", 0)) > 0]
+    
+    if scored_items:
+        top_items = sorted(
+            scored_items,
+            key=lambda x: -safe_float(x.get("score", 0))
+        )[:10]
+    else:
+        # スコアがない場合は最新10件
+        top_items = sorted(
+            month_items,
+            key=lambda x: parse_dt(x.get("date", "")),
+            reverse=True
+        )[:10]
     
     if not top_items:
         # スコアがない場合は最新10件
@@ -235,9 +245,10 @@ def main():
             i.get("severity", "") for i in month_items if i.get("severity")
         )
         
-        # Top記事
+        # Top記事（scoreがNoneでない記事のみ）
+        scored_items = [i for i in month_items if i.get("score") is not None]
         top_articles = sorted(
-            [i for i in month_items if i.get("score")],
+            scored_items,
             key=lambda x: -safe_float(x.get("score", 0))
         )[:20]
         

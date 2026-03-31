@@ -1,7 +1,52 @@
 {
-  "updated_at": "2026-03-31T04:58:40.188298+00:00",
+  "updated_at": "2026-03-31T06:19:42.154744+00:00",
   "count": 500,
   "items": [
+    {
+      "id": "hn-47583151",
+      "source": "hn",
+      "title": "Show HN: Raincast – Describe an app, get a native desktop app (open source)",
+      "url": "https://github.com/tihiera/raincast",
+      "score": 6,
+      "comments": 3,
+      "author": "tito777",
+      "tags": [],
+      "date": "2026-03-31T05:39:41+00:00",
+      "severity": "critical"
+    },
+    {
+      "id": "hn-47583045",
+      "source": "hn",
+      "title": "Google's 200M-parameter time-series foundation model with 16k context",
+      "url": "https://github.com/google-research/timesfm",
+      "score": 38,
+      "comments": 16,
+      "author": "codepawl",
+      "tags": [],
+      "date": "2026-03-31T05:21:59+00:00"
+    },
+    {
+      "id": "hn-47582990",
+      "source": "hn",
+      "title": "Sony halts memory card shipments due to NAND shortage",
+      "url": "https://www.techzine.eu/news/devices/140058/sony-halts-memory-card-shipments-due-to-nand-shortage/",
+      "score": 17,
+      "comments": 3,
+      "author": "methuselah_in",
+      "tags": [],
+      "date": "2026-03-31T05:12:35+00:00"
+    },
+    {
+      "id": "hn-47582984",
+      "source": "hn",
+      "title": "GitHub backs down, kills Copilot pull-request ads after backlash",
+      "url": "https://www.theregister.com/2026/03/30/github_copilot_ads_pull_requests/",
+      "score": 42,
+      "comments": 11,
+      "author": "_____k",
+      "tags": [],
+      "date": "2026-03-31T05:11:24+00:00"
+    },
     {
       "id": "hn-47582545",
       "source": "hn",
@@ -18,19 +63,30 @@
       "source": "hn",
       "title": "Ollama is now powered by MLX on Apple Silicon in preview",
       "url": "https://ollama.com/blog/mlx",
-      "score": 36,
-      "comments": 5,
+      "score": 109,
+      "comments": 31,
       "author": "redundantly",
       "tags": [],
       "date": "2026-03-31T03:40:45+00:00"
+    },
+    {
+      "id": "hn-47582418",
+      "source": "hn",
+      "title": "Safeguarding cryptocurrency by disclosing quantum vulnerabilities responsibly",
+      "url": "https://research.google/blog/safeguarding-cryptocurrency-by-disclosing-quantum-vulnerabilities-responsibly/",
+      "score": 36,
+      "comments": 4,
+      "author": "madars",
+      "tags": [],
+      "date": "2026-03-31T03:28:03+00:00"
     },
     {
       "id": "hn-47582220",
       "source": "hn",
       "title": "Axios compromised on NPM – Malicious versions drop remote access trojan",
       "url": "https://www.stepsecurity.io/blog/axios-compromised-on-npm-malicious-versions-drop-remote-access-trojan",
-      "score": 242,
-      "comments": 68,
+      "score": 419,
+      "comments": 124,
       "author": "mtud",
       "tags": [],
       "date": "2026-03-31T02:54:17+00:00"
@@ -40,8 +96,8 @@
       "source": "hn",
       "title": "Mr. Chatterbox is a Victorian-era ethically trained model",
       "url": "https://simonwillison.net/2026/Mar/30/mr-chatterbox/",
-      "score": 8,
-      "comments": 0,
+      "score": 22,
+      "comments": 4,
       "author": "y1n0",
       "tags": [],
       "date": "2026-03-31T02:26:15+00:00"
@@ -51,8 +107,8 @@
       "source": "hn",
       "title": "Artemis II is not safe to fly",
       "url": "https://idlewords.com/2026/03/artemis_ii_is_not_safe_to_fly.htm",
-      "score": 115,
-      "comments": 51,
+      "score": 174,
+      "comments": 102,
       "author": "idlewords",
       "tags": [],
       "date": "2026-03-31T02:23:50+00:00"
@@ -62,8 +118,8 @@
       "source": "hn",
       "title": "Incident March 30th, 2026 – Accidental CDN Caching",
       "url": "https://blog.railway.com/p/incident-report-march-30-2026-accidental-cdn-caching",
-      "score": 39,
-      "comments": 13,
+      "score": 42,
+      "comments": 15,
       "author": "cebert",
       "tags": [],
       "date": "2026-03-31T01:28:18+00:00"
@@ -73,8 +129,8 @@
       "source": "hn",
       "title": "Universal Claude.md – cut Claude output tokens",
       "url": "https://github.com/drona23/claude-token-efficient",
-      "score": 195,
-      "comments": 72,
+      "score": 233,
+      "comments": 89,
       "author": "killme2008",
       "tags": [],
       "date": "2026-03-31T01:23:34+00:00"
@@ -84,8 +140,8 @@
       "source": "hn",
       "title": "Show HN: I turned a sketch into a 3D-print pegboard for my kid with an AI agent",
       "url": "https://github.com/virpo/pegboard",
-      "score": 25,
-      "comments": 3,
+      "score": 29,
+      "comments": 5,
       "author": "virpo",
       "tags": [],
       "date": "2026-03-30T23:20:02+00:00"
@@ -106,8 +162,8 @@
       "source": "hn",
       "title": "Android Developer Verification",
       "url": "https://android-developers.googleblog.com/2026/03/android-developer-verification-rolling-out-to-all-developers.html",
-      "score": 188,
-      "comments": 170,
+      "score": 205,
+      "comments": 190,
       "author": "ingve",
       "tags": [],
       "date": "2026-03-30T22:05:21+00:00"
@@ -139,8 +195,8 @@
       "source": "hn",
       "title": "OpenGridWorks: The Electricity Infrasctructure, Mapped",
       "url": "https://www.opengridworks.com",
-      "score": 74,
-      "comments": 6,
+      "score": 88,
+      "comments": 10,
       "author": "jonbraun",
       "tags": [],
       "date": "2026-03-30T21:12:46+00:00"
@@ -194,8 +250,8 @@
       "source": "hn",
       "title": "Turning a MacBook into a touchscreen with $1 of hardware (2018)",
       "url": "https://anishathalye.com/macbook-touchscreen/",
-      "score": 249,
-      "comments": 111,
+      "score": 277,
+      "comments": 128,
       "author": "HughParry",
       "tags": [],
       "date": "2026-03-30T19:22:33+00:00"
@@ -261,8 +317,8 @@
       "source": "hn",
       "title": "Fedware: Government apps that spy harder than the apps they ban",
       "url": "https://www.sambent.com/the-white-house-app-has-huawei-spyware-and-an-ice-tip-line/",
-      "score": 497,
-      "comments": 156,
+      "score": 516,
+      "comments": 163,
       "author": "speckx",
       "tags": [],
       "date": "2026-03-30T18:16:00+00:00"
@@ -415,8 +471,8 @@
       "source": "hn",
       "title": "How to turn anything into a router",
       "url": "https://nbailey.ca/post/router/",
-      "score": 631,
-      "comments": 218,
+      "score": 648,
+      "comments": 225,
       "author": "yabones",
       "tags": [],
       "date": "2026-03-30T13:28:54+00:00"
@@ -426,8 +482,8 @@
       "source": "hn",
       "title": "Bird brains (2023)",
       "url": "https://www.dhanishsemar.com/writing/bird-brains",
-      "score": 305,
-      "comments": 194,
+      "score": 310,
+      "comments": 195,
       "author": "DiffTheEnder",
       "tags": [],
       "date": "2026-03-30T13:14:27+00:00"
@@ -437,8 +493,8 @@
       "source": "hn",
       "title": "Do your own writing",
       "url": "https://alexhwoods.com/dont-let-ai-write-for-you/",
-      "score": 436,
-      "comments": 152,
+      "score": 464,
+      "comments": 168,
       "author": "karimf",
       "tags": [],
       "date": "2026-03-30T12:39:56+00:00"
@@ -1688,6 +1744,17 @@
       "date": "2026-03-28T23:29:04+00:00"
     },
     {
+      "id": "hn-47558867",
+      "source": "hn",
+      "title": "One of the largest salt mines in the world exists under Lake Erie",
+      "url": "https://apnews.com/article/cleveland-salt-mine-winter-road-0daf091e3d56f65766bcf6a597683893",
+      "score": 7,
+      "comments": 0,
+      "author": "1659447091",
+      "tags": [],
+      "date": "2026-03-28T23:07:15+00:00"
+    },
+    {
       "id": "hn-47558843",
       "source": "hn",
       "title": "TreeTrek – A raw Git repository viewer web app",
@@ -2047,6 +2114,17 @@
       "author": "amarcheschi",
       "tags": [],
       "date": "2026-03-28T15:37:17+00:00"
+    },
+    {
+      "id": "hn-47555492",
+      "source": "hn",
+      "title": "Rock Star: Reading the Rosetta Stone",
+      "url": "https://www.historytoday.com/archive/feature/original-rock-star",
+      "score": 7,
+      "comments": 0,
+      "author": "samizdis",
+      "tags": [],
+      "date": "2026-03-28T15:30:40+00:00"
     },
     {
       "id": "qiita-9b29a9dab4",
@@ -2413,8 +2491,8 @@
       "source": "hn",
       "title": "Cherri – programming language that compiles to an Apple Shortuct",
       "url": "https://github.com/electrikmilk/cherri",
-      "score": 281,
-      "comments": 56,
+      "score": 287,
+      "comments": 57,
       "author": "mihau",
       "tags": [],
       "date": "2026-03-27T23:39:44+00:00"
@@ -2501,7 +2579,7 @@
       "source": "hn",
       "title": "Agents of Chaos",
       "url": "https://agentsofchaos.baulab.info/report.html",
-      "score": 90,
+      "score": 94,
       "comments": 10,
       "author": "luu",
       "tags": [],
@@ -3816,7 +3894,7 @@
       "source": "hn",
       "title": "Unit: A self-replicating Forth mesh agent running in a browser tab",
       "url": "https://davidcanhelp.github.io/unit/",
-      "score": 18,
+      "score": 24,
       "comments": 1,
       "author": "DavidCanHelp",
       "tags": [],
@@ -3840,8 +3918,8 @@
       "source": "hn",
       "title": "Clojure: The Documentary, official trailer [video]",
       "url": "https://www.youtube.com/watch?v=JJEyffSdBsk",
-      "score": 79,
-      "comments": 4,
+      "score": 121,
+      "comments": 7,
       "author": "fogus",
       "tags": [],
       "date": "2026-03-26T17:00:54+00:00"
@@ -5099,87 +5177,6 @@
       "date": "2026-03-25T14:07:14+00:00"
     },
     {
-      "id": "hn-47517306",
-      "source": "hn",
-      "title": "The Epistemology of Microphysics",
-      "url": "https://www.edwardfeser.com/unpublishedpapers/microphysics.html",
-      "score": 33,
-      "comments": 19,
-      "author": "danielam",
-      "tags": [],
-      "date": "2026-03-25T13:46:18+00:00"
-    },
-    {
-      "id": "hn-47517076",
-      "source": "hn",
-      "title": "Eclipse GlassFish: This Isn't Your Father's GlassFish",
-      "url": "https://foojay.io/today/eclipse-glassfish-this-isnt-your-fathers-glassfish/",
-      "score": 27,
-      "comments": 24,
-      "author": "henk53",
-      "tags": [],
-      "date": "2026-03-25T13:27:02+00:00"
-    },
-    {
-      "id": "qiita-7a5c4a5d9c",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "Claude Codeで\"AIスクラムチーム\"を構築し、実際にスプリントを実行してみた",
-      "url": "https://qiita.com/nogataka/items/33f192f593fef964e100?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "nogataka",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-03-25T22:09:18+09:00"
-    },
-    {
-      "id": "hn-47516650",
-      "source": "hn",
-      "title": "Ensu – Ente’s Local LLM app",
-      "url": "https://ente.com/blog/ensu/",
-      "score": 335,
-      "comments": 151,
-      "author": "matthiaswh",
-      "tags": [],
-      "date": "2026-03-25T12:49:14+00:00"
-    },
-    {
-      "id": "hn-47516626",
-      "source": "hn",
-      "title": "Modeling what makes paper-folding puzzles hard",
-      "url": "https://www.dailyunfold.com/blog/spatial-difficulty",
-      "score": 14,
-      "comments": 12,
-      "author": "astralasia",
-      "tags": [],
-      "date": "2026-03-25T12:47:04+00:00"
-    },
-    {
-      "id": "hn-47516456",
-      "source": "hn",
-      "title": "Nobody Reads Your Setup Docs",
-      "url": "https://hanzilla.co/blog/mcp-onboarding-ten-agents-one-command/",
-      "score": 20,
-      "comments": 17,
-      "author": "donutshop",
-      "tags": [],
-      "date": "2026-03-25T12:29:58+00:00"
-    },
-    {
-      "id": "qiita-c185464e39",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "【AWS】Lambda Durable Functionsにおける\"ステップ\"の仕様を実感する",
-      "url": "https://qiita.com/yakumi_bass5/items/2c64259c17d855175eae?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "yakumi_bass5",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-03-25T21:05:12+09:00"
-    },
-    {
       "id": "ghrel-projectdiscovery_nuclei-293442537",
       "source": "project",
       "proj_category": "Tools",
@@ -5376,32 +5373,6 @@
       "date": "2023-05-23T17:06:23Z"
     },
     {
-      "id": "zenn-5e603e054c",
-      "source": "zennqiita",
-      "sub_source": "Zenn",
-      "title": "ClaudeCodeと弱者の戦略",
-      "url": "https://zenn.dev/akatuki_me/articles/43eb4604d0675d",
-      "score": null,
-      "author": "暁",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Mon, 30 Mar 2026 10:00:06 GMT"
-    },
-    {
-      "id": "zenn-30d019aa74",
-      "source": "zennqiita",
-      "sub_source": "Zenn",
-      "title": "完全自律のコーディングパイプラインを作った",
-      "url": "https://zenn.dev/theaktky/articles/5f9f18c34950c1",
-      "score": null,
-      "author": "Akatsuki",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Mon, 30 Mar 2026 04:06:52 GMT"
-    },
-    {
       "id": "zenn-80c771fbc0",
       "source": "zennqiita",
       "sub_source": "Zenn",
@@ -5428,32 +5399,6 @@
       "date": "Mon, 30 Mar 2026 01:28:47 GMT"
     },
     {
-      "id": "zenn-370fc31742",
-      "source": "zennqiita",
-      "sub_source": "Zenn",
-      "title": "Goにはなぜ例外がないのか",
-      "url": "https://zenn.dev/tokium_dev/articles/2026-03-30-go-errors",
-      "score": null,
-      "author": "Lapi",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Mon, 30 Mar 2026 00:00:07 GMT"
-    },
-    {
-      "id": "zenn-a77ca4167b",
-      "source": "zennqiita",
-      "sub_source": "Zenn",
-      "title": "ユニットテストは2種類ある。AI時代に壊れないテスト設計",
-      "url": "https://zenn.dev/headwaters/articles/579d5f94907dcd",
-      "score": null,
-      "author": "妹尾悠真",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Sun, 29 Mar 2026 22:40:05 GMT"
-    },
-    {
       "id": "zenn-423b1e9d13",
       "source": "zennqiita",
       "sub_source": "Zenn",
@@ -5478,6 +5423,19 @@
         "Zenn"
       ],
       "date": "Sun, 29 Mar 2026 13:30:11 GMT"
+    },
+    {
+      "id": "zenn-74ccaa1e76",
+      "source": "zennqiita",
+      "sub_source": "Zenn",
+      "title": "エージェントが払う仕組み — AIエージェント決済の6層構造",
+      "url": "https://zenn.dev/komlock_lab/articles/agent-payments-stack-2026",
+      "score": null,
+      "author": "Kobara Toi",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Sun, 29 Mar 2026 10:45:38 GMT"
     },
     {
       "id": "zenn-2fa466534d",
@@ -5517,6 +5475,19 @@
         "Zenn"
       ],
       "date": "Sun, 29 Mar 2026 02:52:29 GMT"
+    },
+    {
+      "id": "zenn-637bf32665",
+      "source": "zennqiita",
+      "sub_source": "Zenn",
+      "title": "Chromeの垂直タブ機能を有効化する",
+      "url": "https://zenn.dev/naopusyu/articles/f1381ed7341574",
+      "score": null,
+      "author": "なお",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Sun, 29 Mar 2026 01:30:00 GMT"
     },
     {
       "id": "zenn-9244f9e4e7",
@@ -5623,6 +5594,19 @@
       "date": "Sat, 28 Mar 2026 00:43:47 GMT"
     },
     {
+      "id": "zenn-0630428a34",
+      "source": "zennqiita",
+      "sub_source": "Zenn",
+      "title": "Reactのフラグ地獄を状態遷移テーブルで解消する — Discriminated Union×テーブル駆動設計の実践",
+      "url": "https://zenn.dev/okamyuji/articles/react-state-pattern-finite-state-machine",
+      "score": null,
+      "author": "okamyuji",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Fri, 27 Mar 2026 23:30:26 GMT"
+    },
+    {
       "id": "zenn-72d4123db2",
       "source": "zennqiita",
       "sub_source": "Zenn",
@@ -5634,6 +5618,19 @@
         "Zenn"
       ],
       "date": "Fri, 27 Mar 2026 13:39:11 GMT"
+    },
+    {
+      "id": "zenn-7a2344a97a",
+      "source": "zennqiita",
+      "sub_source": "Zenn",
+      "title": "社内問い合わせをAIエージェント化して爆速で解決できるようにした",
+      "url": "https://zenn.dev/dinii/articles/18128bd1685e2a",
+      "score": null,
+      "author": "まりる",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Fri, 27 Mar 2026 07:11:20 GMT"
     },
     {
       "id": "edb-bed48c0760",

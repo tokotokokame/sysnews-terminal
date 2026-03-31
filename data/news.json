@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-03-31T16:57:48.176862+00:00",
+  "updated_at": "2026-03-31T17:58:30.885095+00:00",
   "count": 500,
   "items": [
     {
@@ -7,8 +7,8 @@
       "source": "hn",
       "title": "Cohere Transcribe: Speech Recognition",
       "url": "https://cohere.com/blog/transcribe",
-      "score": 13,
-      "comments": 3,
+      "score": 64,
+      "comments": 17,
       "author": "gmays",
       "tags": [],
       "date": "2026-03-31T16:27:02+00:00"
@@ -34,6 +34,17 @@
       "author": "earcar",
       "tags": [],
       "date": "2026-03-31T16:05:20+00:00"
+    },
+    {
+      "id": "hn-47589370",
+      "source": "hn",
+      "title": "Securing Elliptic Curve Cryptocurrencies Against Quantum Vulnerabilities [pdf]",
+      "url": "https://quantumai.google/static/site-assets/downloads/cryptocurrency-whitepaper.pdf",
+      "score": 13,
+      "comments": 4,
+      "author": "jandrewrogers",
+      "tags": [],
+      "date": "2026-03-31T16:00:29+00:00"
     },
     {
       "id": "hn-47589185",
@@ -62,8 +73,8 @@
       "source": "hn",
       "title": "GitHub Monaspace Case Study",
       "url": "https://lettermatic.com/custom/monaspace-case-study",
-      "score": 44,
-      "comments": 14,
+      "score": 60,
+      "comments": 20,
       "author": "homebrewer",
       "tags": [],
       "date": "2026-03-31T15:01:35+00:00"
@@ -84,10 +95,10 @@
     {
       "id": "hn-47587953",
       "source": "hn",
-      "title": "Good Code Will Still Win",
+      "title": "Good code will still win",
       "url": "https://www.greptile.com/blog/ai-slopware-future",
-      "score": 5,
-      "comments": 3,
+      "score": 21,
+      "comments": 24,
       "author": "dakshgupta",
       "tags": [],
       "date": "2026-03-31T14:32:26+00:00"
@@ -97,8 +108,8 @@
       "source": "hn",
       "title": "Oracle slashes 30k jobs",
       "url": "https://rollingout.com/2026/03/31/oracle-slashes-30000-jobs-with-a-cold-6/",
-      "score": 510,
-      "comments": 388,
+      "score": 612,
+      "comments": 515,
       "author": "pje",
       "tags": [],
       "date": "2026-03-31T14:30:48+00:00"
@@ -108,8 +119,8 @@
       "source": "hn",
       "title": "RubyGems Fracture Incident Report",
       "url": "https://rubycentral.org/news/rubygems-fracture-incident-report/",
-      "score": 35,
-      "comments": 1,
+      "score": 45,
+      "comments": 4,
       "author": "schneems",
       "tags": [],
       "date": "2026-03-31T14:08:37+00:00"
@@ -126,12 +137,24 @@
       "date": "2026-03-31T13:07:33+00:00"
     },
     {
+      "id": "hn-47586778",
+      "source": "hn",
+      "title": "The Claude Code Source Leak: fake tools, frustration regexes, undercover mode",
+      "url": "https://alex000kim.com/posts/2026-03-31-claude-code-source-leak/",
+      "score": 4,
+      "comments": 0,
+      "author": "alex000kim",
+      "tags": [],
+      "date": "2026-03-31T13:04:30+00:00",
+      "severity": "critical"
+    },
+    {
       "id": "hn-47586614",
       "source": "hn",
       "title": "Open source CAD in the browser (Solvespace)",
       "url": "https://solvespace.com/webver.pl",
-      "score": 141,
-      "comments": 39,
+      "score": 176,
+      "comments": 54,
       "author": "phkahler",
       "tags": [],
       "date": "2026-03-31T12:50:23+00:00",
@@ -140,10 +163,10 @@
     {
       "id": "hn-47586176",
       "source": "hn",
-      "title": "Anthropic: Claude Code users hitting usage limits 'way faster than expected'",
+      "title": "Claude Code users hitting usage limits 'way faster than expected'",
       "url": "https://www.theregister.com/2026/03/31/anthropic_claude_code_limits/",
-      "score": 79,
-      "comments": 48,
+      "score": 151,
+      "comments": 119,
       "author": "samizdis",
       "tags": [],
       "date": "2026-03-31T12:11:29+00:00"
@@ -153,8 +176,8 @@
       "source": "hn",
       "title": "Combinators",
       "url": "https://tinyapl.rubenverg.com/docs/info/combinators",
-      "score": 82,
-      "comments": 22,
+      "score": 95,
+      "comments": 28,
       "author": "tosh",
       "tags": [],
       "date": "2026-03-31T11:49:03+00:00"
@@ -199,8 +222,8 @@
       "source": "hn",
       "title": "Claude Code's source code has been leaked via a map file in their NPM registry",
       "url": "https://twitter.com/Fried_rice/status/2038894956459290963",
-      "score": 1142,
-      "comments": 609,
+      "score": 1279,
+      "comments": 676,
       "author": "treexs",
       "tags": [],
       "date": "2026-03-31T09:00:40+00:00",
@@ -216,6 +239,17 @@
       "author": "julianrubisch",
       "tags": [],
       "date": "2026-03-31T07:47:50+00:00"
+    },
+    {
+      "id": "hn-47583959",
+      "source": "hn",
+      "title": "Accidentally created my first fork bomb with Claude Code",
+      "url": "https://www.droppedasbaby.com/posts/2602-01/",
+      "score": 9,
+      "comments": 0,
+      "author": "offbyone42",
+      "tags": [],
+      "date": "2026-03-31T07:40:18+00:00"
     },
     {
       "id": "qiita-dfa07a1d11",
@@ -315,8 +349,8 @@
       "source": "hn",
       "title": "Ollama is now powered by MLX on Apple Silicon in preview",
       "url": "https://ollama.com/blog/mlx",
-      "score": 526,
-      "comments": 259,
+      "score": 557,
+      "comments": 281,
       "author": "redundantly",
       "tags": [],
       "date": "2026-03-31T03:40:45+00:00"
@@ -350,8 +384,8 @@
       "source": "hn",
       "title": "Axios compromised on NPM – Malicious versions drop remote access trojan",
       "url": "https://www.stepsecurity.io/blog/axios-compromised-on-npm-malicious-versions-drop-remote-access-trojan",
-      "score": 1529,
-      "comments": 598,
+      "score": 1626,
+      "comments": 639,
       "author": "mtud",
       "tags": [],
       "date": "2026-03-31T02:54:17+00:00"
@@ -372,8 +406,8 @@
       "source": "hn",
       "title": "Artemis II is not safe to fly",
       "url": "https://idlewords.com/2026/03/artemis_ii_is_not_safe_to_fly.htm",
-      "score": 695,
-      "comments": 441,
+      "score": 745,
+      "comments": 474,
       "author": "idlewords",
       "tags": [],
       "date": "2026-03-31T02:23:50+00:00"
@@ -407,8 +441,8 @@
       "source": "hn",
       "title": "Universal Claude.md – cut Claude output tokens",
       "url": "https://github.com/drona23/claude-token-efficient",
-      "score": 412,
-      "comments": 147,
+      "score": 421,
+      "comments": 152,
       "author": "killme2008",
       "tags": [],
       "date": "2026-03-31T01:23:34+00:00"
@@ -2175,6 +2209,17 @@
       "date": "2026-03-28T22:50:49+00:00"
     },
     {
+      "id": "hn-47558733",
+      "source": "hn",
+      "title": "From 300KB to 69KB per Token: How LLM Architectures Solve the KV Cache Problem",
+      "url": "https://news.future-shock.ai/the-weight-of-remembering/",
+      "score": 13,
+      "comments": 0,
+      "author": "future-shock-ai",
+      "tags": [],
+      "date": "2026-03-28T22:42:23+00:00"
+    },
+    {
       "id": "hn-47558657",
       "source": "hn",
       "title": "Why mathematicians are boycotting their biggest conference",
@@ -2452,8 +2497,8 @@
       "source": "hn",
       "title": "What major works of literature were written after age of 85? 75? 65?",
       "url": "https://statmodeling.stat.columbia.edu/2026/03/25/what-major-works-of-literature-were-written-after-age-of-85-75-65/",
-      "score": 77,
-      "comments": 52,
+      "score": 85,
+      "comments": 54,
       "author": "paulpauper",
       "tags": [],
       "date": "2026-03-28T16:29:28+00:00"
@@ -2553,8 +2598,8 @@
       "source": "hn",
       "title": "Audio tapes reveal mass rule-breaking in Milgram's obedience experiments",
       "url": "https://www.psypost.org/audio-tapes-reveal-mass-rule-breaking-in-milgram-s-obedience-experiments-2026-03-26/",
-      "score": 129,
-      "comments": 80,
+      "score": 145,
+      "comments": 89,
       "author": "lentoutcry",
       "tags": [],
       "date": "2026-03-28T15:08:22+00:00"
@@ -2599,8 +2644,8 @@
       "source": "hn",
       "title": "Show HN: Loreline, narrative language transpiled via Haxe: C++/C#/JS/Java/Py/Lua",
       "url": "https://loreline.app/en/docs/technical-overview/",
-      "score": 19,
-      "comments": 6,
+      "score": 26,
+      "comments": 8,
       "author": "jeremyfa",
       "tags": [],
       "date": "2026-03-28T14:41:57+00:00"
@@ -3503,6 +3548,17 @@
       "date": "2026-03-27T21:28:37+09:00"
     },
     {
+      "id": "hn-47541746",
+      "source": "hn",
+      "title": "Show HN: Forkrun – NUMA-aware shell parallelizer (50×–400× faster than parallel)",
+      "url": "https://github.com/jkool702/forkrun",
+      "score": 24,
+      "comments": 6,
+      "author": "jkool702",
+      "tags": [],
+      "date": "2026-03-27T12:12:20+00:00"
+    },
+    {
       "id": "qiita-518daea68f",
       "source": "zennqiita",
       "sub_source": "Qiita",
@@ -3993,8 +4049,8 @@
       "source": "hn",
       "title": "Multiple Sclerosis",
       "url": "https://subfictional.com/multiple-sclerosis/",
-      "score": 42,
-      "comments": 17,
+      "score": 48,
+      "comments": 20,
       "author": "luu",
       "tags": [],
       "date": "2026-03-26T22:37:37+00:00"
@@ -5128,68 +5184,12 @@
       "date": "2026-03-25T22:09:27+00:00"
     },
     {
-      "id": "hn-47523645",
-      "source": "hn",
-      "title": "Show HN: Automate your workflow in plain English",
-      "url": "https://www.operator23.com/",
-      "score": 7,
-      "comments": 2,
-      "author": "Mrakermo",
-      "tags": [],
-      "date": "2026-03-25T21:39:55+00:00"
-    },
-    {
-      "id": "hn-47523330",
-      "source": "hn",
-      "title": "Running Tesla Model 3's computer on my desk using parts from crashed cars",
-      "url": "https://bugs.xdavidhu.me/tesla/2026/03/23/running-tesla-model-3s-computer-on-my-desk-using-parts-from-crashed-cars/",
-      "score": 922,
-      "comments": 320,
-      "author": "driesdep",
-      "tags": [],
-      "date": "2026-03-25T21:11:57+00:00"
-    },
-    {
-      "id": "hn-47523169",
-      "source": "hn",
-      "title": "Health NZ staff told to stop using ChatGPT to write clinical notes",
-      "url": "https://www.rnz.co.nz/news/national/590645/health-nz-staff-told-to-stop-using-chatgpt-to-write-clinical-notes",
-      "score": 59,
-      "comments": 16,
-      "author": "billybuckwheat",
-      "tags": [],
-      "date": "2026-03-25T20:58:43+00:00"
-    },
-    {
-      "id": "hn-47523138",
-      "source": "hn",
-      "title": "Nonfiction Publishing, Under Threat, Is More Important",
-      "url": "https://newrepublic.com/article/207659/non-fiction-publishing-threat-important-ever",
-      "score": 36,
-      "comments": 24,
-      "author": "Hooke",
-      "tags": [],
-      "date": "2026-03-25T20:56:51+00:00",
-      "severity": "medium"
-    },
-    {
-      "id": "hn-47523106",
-      "source": "hn",
-      "title": "China is mass-producing hypersonic missiles for $99,000",
-      "url": "https://kdwalmsley.substack.com/p/on-sale-now-china-is-mass-producing",
-      "score": 154,
-      "comments": 107,
-      "author": "zdw",
-      "tags": [],
-      "date": "2026-03-25T20:55:36+00:00"
-    },
-    {
       "id": "hn-47521813",
       "source": "hn",
       "title": "A Love Letter to 'Girl Games'",
       "url": "https://aftermath.site/a-love-letter-to-girl-games/",
-      "score": 36,
-      "comments": 0,
+      "score": 91,
+      "comments": 68,
       "author": "zdw",
       "tags": [],
       "date": "2026-03-25T19:10:26+00:00"

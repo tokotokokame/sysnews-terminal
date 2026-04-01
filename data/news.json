@@ -1,7 +1,29 @@
 {
-  "updated_at": "2026-04-01T21:41:28.367206+00:00",
+  "updated_at": "2026-04-01T22:37:34.287583+00:00",
   "count": 500,
   "items": [
+    {
+      "id": "hn-47607067",
+      "source": "hn",
+      "title": "Swappa.com for GrapheneOS compatible devices – Stay Away",
+      "url": "https://discuss.grapheneos.org/d/33727-swappacom-for-grapheneos-compatible-devices-stay-away",
+      "score": 22,
+      "comments": 12,
+      "author": "OsrsNeedsf2P",
+      "tags": [],
+      "date": "2026-04-01T21:59:14+00:00"
+    },
+    {
+      "id": "hn-47606840",
+      "source": "hn",
+      "title": "DRAM pricing is killing the hobbyist SBC market",
+      "url": "https://www.jeffgeerling.com/blog/2026/dram-pricing-is-killing-the-hobbyist-sbc-market/",
+      "score": 89,
+      "comments": 35,
+      "author": "ingve",
+      "tags": [],
+      "date": "2026-04-01T21:36:41+00:00"
+    },
     {
       "id": "hn-47606495",
       "source": "hn",
@@ -18,8 +40,8 @@
       "source": "hn",
       "title": "Signing data structures the wrong way",
       "url": "https://blog.foks.pub/posts/domain-separation-in-idl/",
-      "score": 44,
-      "comments": 25,
+      "score": 57,
+      "comments": 32,
       "author": "malgorithms",
       "tags": [],
       "date": "2026-04-01T19:52:00+00:00"
@@ -29,8 +51,8 @@
       "source": "hn",
       "title": "Jax's true calling: Ray-Marching renderers on WebGL",
       "url": "https://benoit.paris/posts/jax-ray-marcher/",
-      "score": 16,
-      "comments": 1,
+      "score": 32,
+      "comments": 4,
       "author": "BenoitP",
       "tags": [],
       "date": "2026-04-01T19:36:07+00:00"
@@ -40,8 +62,8 @@
       "source": "hn",
       "title": "Scientists crack a 20-year nuclear mystery behind the creation of gold",
       "url": "https://www.sciencedaily.com/releases/2026/03/260313002633.htm",
-      "score": 20,
-      "comments": 2,
+      "score": 29,
+      "comments": 6,
       "author": "prabal97",
       "tags": [],
       "date": "2026-04-01T19:26:12+00:00"
@@ -117,8 +139,8 @@
       "source": "hn",
       "title": "Show HN: Flight-Viz – 10K flights on a 3D globe in 3.5MB of Rust+WASM",
       "url": "https://flight-viz.com",
-      "score": 26,
-      "comments": 11,
+      "score": 33,
+      "comments": 18,
       "author": "coolwulf",
       "tags": [],
       "date": "2026-04-01T17:34:16+00:00"
@@ -128,8 +150,8 @@
       "source": "hn",
       "title": "AI for American-produced cement and concrete",
       "url": "https://engineering.fb.com/2026/03/30/data-center-engineering/ai-for-american-produced-cement-and-concrete/",
-      "score": 110,
-      "comments": 93,
+      "score": 117,
+      "comments": 100,
       "author": "latchkey",
       "tags": [],
       "date": "2026-04-01T17:17:24+00:00"
@@ -139,8 +161,8 @@
       "source": "hn",
       "title": "NASA Artemis II moon mission live launch broadcast",
       "url": "https://plus.nasa.gov/scheduled-video/nasas-artemis-ii-crew-launches-to-the-moon-official-broadcast/",
-      "score": 289,
-      "comments": 204,
+      "score": 355,
+      "comments": 249,
       "author": "apitman",
       "tags": [],
       "date": "2026-04-01T17:11:31+00:00"
@@ -183,8 +205,8 @@
       "source": "hn",
       "title": "StepFun 3.5 Flash is #1 cost-effective model for OpenClaw tasks (300 battles)",
       "url": "https://app.uniclaw.ai/arena?tab=costEffectiveness&via=hn",
-      "score": 107,
-      "comments": 48,
+      "score": 122,
+      "comments": 55,
       "author": "skysniper",
       "tags": [],
       "date": "2026-04-01T16:17:35+00:00"
@@ -194,8 +216,8 @@
       "source": "hn",
       "title": "EmDash – a spiritual successor to WordPress that solves plugin security",
       "url": "https://blog.cloudflare.com/emdash-wordpress/",
-      "score": 388,
-      "comments": 278,
+      "score": 410,
+      "comments": 301,
       "author": "elithrar",
       "tags": [],
       "date": "2026-04-01T16:14:38+00:00"
@@ -354,8 +376,8 @@
       "source": "hn",
       "title": "Random numbers, Persian code: A mysterious signal transfixes radio sleuths",
       "url": "https://www.rferl.org/a/mystery-numbers-station-persian-signal-iran-war/33700659.html",
-      "score": 94,
-      "comments": 96,
+      "score": 97,
+      "comments": 101,
       "author": "thinkingemote",
       "tags": [],
       "date": "2026-04-01T11:39:04+00:00"
@@ -461,8 +483,8 @@
       "source": "hn",
       "title": "CERN levels up with new superconducting karts",
       "url": "https://home.cern/news/news/engineering/cern-levels-new-superconducting-karts",
-      "score": 371,
-      "comments": 82,
+      "score": 376,
+      "comments": 85,
       "author": "fnands",
       "tags": [],
       "date": "2026-04-01T07:27:13+00:00"
@@ -520,7 +542,7 @@
       "source": "hn",
       "title": "Claude wrote a full FreeBSD remote kernel RCE with root shell",
       "url": "https://github.com/califio/publications/blob/main/MADBugs/CVE-2026-4747/write-up.md",
-      "score": 224,
+      "score": 233,
       "comments": 100,
       "author": "ishqdehlvi",
       "tags": [],
@@ -1115,6 +1137,17 @@
       "tags": [],
       "date": "2026-03-31T09:00:40+00:00",
       "severity": "critical"
+    },
+    {
+      "id": "hn-47584386",
+      "source": "hn",
+      "title": "Fast and Gorgeous Erosion Filter",
+      "url": "https://blog.runevision.com/2026/03/fast-and-gorgeous-erosion-filter.html",
+      "score": 8,
+      "comments": 2,
+      "author": "runevision",
+      "tags": [],
+      "date": "2026-03-31T08:41:24+00:00"
     },
     {
       "id": "qiita-63b41c72bc",
@@ -1797,8 +1830,8 @@
       "source": "hn",
       "title": "Show HN: Zerobox – Sandbox any command with file, network, credential controls",
       "url": "https://github.com/afshinm/zerobox",
-      "score": 71,
-      "comments": 71,
+      "score": 84,
+      "comments": 75,
       "author": "afshinmeh",
       "tags": [],
       "date": "2026-03-30T14:32:36+00:00"
@@ -1874,7 +1907,7 @@
       "source": "hn",
       "title": "How-to guide: Commissioning a Sensor Physics R&D Lab",
       "url": "https://gist.github.com/nup002/912383615b12dc1ec44ae9004c40b11f",
-      "score": 8,
+      "score": 13,
       "comments": 2,
       "author": "MagneLauritzen",
       "tags": [],
@@ -2698,8 +2731,8 @@
       "source": "hn",
       "title": "An Introduction to Writing Systems and Unicode",
       "url": "https://r12a.github.io/scripts/tutorial/part2",
-      "score": 42,
-      "comments": 8,
+      "score": 45,
+      "comments": 10,
       "author": "mariuz",
       "tags": [],
       "date": "2026-03-29T17:43:52+00:00"
@@ -3475,8 +3508,8 @@
       "source": "hn",
       "title": "Show HN: Git bayesect – Bayesian Git bisection for non-deterministic bugs",
       "url": "https://github.com/hauntsaninja/git_bayesect",
-      "score": 116,
-      "comments": 13,
+      "score": 145,
+      "comments": 19,
       "author": "hauntsaninja",
       "tags": [],
       "date": "2026-03-28T20:32:01+00:00"
@@ -3497,8 +3530,8 @@
       "source": "hn",
       "title": "The revenge of the data scientist",
       "url": "https://hamel.dev/blog/posts/revenge/",
-      "score": 30,
-      "comments": 5,
+      "score": 56,
+      "comments": 8,
       "author": "hamelsmu",
       "tags": [],
       "date": "2026-03-28T19:12:37+00:00"
@@ -5166,43 +5199,6 @@
         "Qiita"
       ],
       "date": "2026-03-27T11:26:14+09:00"
-    },
-    {
-      "id": "qiita-4ee122d643",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "2019年に「HTMLとCSSだけでリアルな眼球を描いた」先輩の職人技を、2026年のAI駆動開発で再現してみた",
-      "url": "https://qiita.com/semba_yui/items/c2b47d27428c2008933b?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "semba_yui",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-03-27T11:26:00+09:00"
-    },
-    {
-      "id": "hn-47538433",
-      "source": "hn",
-      "title": "HandyMKV for MakeMKV and HandBrake Automation",
-      "url": "https://github.com/dmars8047/handymkv",
-      "score": 17,
-      "comments": 1,
-      "author": "geerlingguy",
-      "tags": [],
-      "date": "2026-03-27T02:19:12+00:00"
-    },
-    {
-      "id": "qiita-82886d28f1",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "フロント周り（主にHTML/CSS）ってどう勉強したかなの話",
-      "url": "https://qiita.com/sekappy_official/items/0b0a1b6a3d3b3bab5211?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "sekappy_official",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-03-27T10:52:25+09:00"
     },
     {
       "id": "ghrel-projectdiscovery_nuclei-293442537",

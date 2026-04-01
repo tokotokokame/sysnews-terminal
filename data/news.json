@@ -1,14 +1,39 @@
 {
-  "updated_at": "2026-04-01T13:22:10.456168+00:00",
+  "updated_at": "2026-04-01T14:50:01.243315+00:00",
   "count": 500,
   "items": [
+    {
+      "id": "qiita-d2a4c0cb81",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "Claude Code の流出したソースコードを GitHub に公開した人が著作権違反を回避した方法がヤバすぎ",
+      "url": "https://qiita.com/LostMyCode/items/a867e1954b80e78cf146?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "LostMyCode",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-04-01T23:34:49+09:00"
+    },
+    {
+      "id": "hn-47600434",
+      "source": "hn",
+      "title": "New Patches Allow Building Linux IPv6-Only, Option to Deprecate \"Legacy\" IPv4",
+      "url": "https://www.phoronix.com/news/Linux-IPv6-IPv4-Legacy-Knobs",
+      "score": 42,
+      "comments": 11,
+      "author": "Bender",
+      "tags": [],
+      "date": "2026-04-01T13:15:33+00:00",
+      "severity": "medium"
+    },
     {
       "id": "hn-47600382",
       "source": "hn",
       "title": "Is BGP Safe Yet? No. Test Your ISP",
       "url": "https://isbgpsafeyet.com/",
-      "score": 3,
-      "comments": 0,
+      "score": 83,
+      "comments": 33,
       "author": "janandonly",
       "tags": [],
       "date": "2026-04-01T13:10:29+00:00"
@@ -27,13 +52,24 @@
     {
       "id": "hn-47599956",
       "source": "hn",
-      "title": "Show HN: Sycamore – next gen Rust UI library powered by fine-grained reactivity",
+      "title": "Show HN: Sycamore – next gen Rust web UI library using fine-grained reactivity",
       "url": "https://sycamore.dev",
-      "score": 17,
-      "comments": 10,
+      "score": 50,
+      "comments": 35,
       "author": "lukechu10",
       "tags": [],
       "date": "2026-04-01T12:30:18+00:00"
+    },
+    {
+      "id": "hn-47599771",
+      "source": "hn",
+      "title": "Show HN: Baton – A desktop app for developing with AI agents",
+      "url": "https://getbaton.dev/",
+      "score": 34,
+      "comments": 29,
+      "author": "tordrt",
+      "tags": [],
+      "date": "2026-04-01T12:11:30+00:00"
     },
     {
       "id": "qiita-9cd8244edb",
@@ -88,8 +124,8 @@
       "source": "hn",
       "title": "I Quit. The Clankers Won",
       "url": "https://dbushell.com/2026/04/01/i-quit-the-clankers-won/",
-      "score": 147,
-      "comments": 95,
+      "score": 253,
+      "comments": 259,
       "author": "domysee",
       "tags": [],
       "date": "2026-04-01T09:00:34+00:00"
@@ -110,8 +146,8 @@
       "source": "hn",
       "title": "CERN levels up with new superconducting karts",
       "url": "https://home.cern/news/news/engineering/cern-levels-new-superconducting-karts",
-      "score": 209,
-      "comments": 50,
+      "score": 260,
+      "comments": 54,
       "author": "fnands",
       "tags": [],
       "date": "2026-04-01T07:27:13+00:00"
@@ -169,8 +205,8 @@
       "source": "hn",
       "title": "Claude Wrote a Full FreeBSD Remote Kernel RCE with Root Shell (CVE-2026-4747)",
       "url": "https://github.com/califio/publications/blob/main/MADBugs/CVE-2026-4747/write-up.md",
-      "score": 95,
-      "comments": 31,
+      "score": 137,
+      "comments": 45,
       "author": "ishqdehlvi",
       "tags": [],
       "date": "2026-04-01T05:21:48+00:00",
@@ -181,8 +217,8 @@
       "source": "hn",
       "title": "Claude Code Unpacked : A visual guide",
       "url": "https://ccunpacked.dev/",
-      "score": 661,
-      "comments": 208,
+      "score": 778,
+      "comments": 272,
       "author": "autocracy101",
       "tags": [],
       "date": "2026-04-01T05:15:37+00:00"
@@ -278,8 +314,8 @@
       "source": "hn",
       "title": "Neanderthals survived on a knife's edge for 350k years",
       "url": "https://www.science.org/content/article/neanderthals-survived-knife-s-edge-350-000-years",
-      "score": 179,
-      "comments": 133,
+      "score": 194,
+      "comments": 147,
       "author": "Hooke",
       "tags": [],
       "date": "2026-04-01T01:12:12+00:00"
@@ -298,19 +334,6 @@
       "date": "2026-04-01T08:37:19+09:00"
     },
     {
-      "id": "qiita-d2a4c0cb81",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "Claude Code の流出したソースコードを GitHub に公開した人が著作権違反を回避した方法がヤバすぎ",
-      "url": "https://qiita.com/LostMyCode/items/a867e1954b80e78cf146?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "LostMyCode",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-04-01T07:52:53+09:00"
-    },
-    {
       "id": "hn-47593634",
       "source": "hn",
       "title": "Ordinary Lab Gloves May Have Skewed Microplastic Data",
@@ -326,8 +349,8 @@
       "source": "hn",
       "title": "A dot a day keeps the clutter away",
       "url": "https://scottlawsonbc.com/post/dot-system",
-      "score": 400,
-      "comments": 113,
+      "score": 433,
+      "comments": 128,
       "author": "scottlawson",
       "tags": [],
       "date": "2026-03-31T21:15:01+00:00"
@@ -348,8 +371,8 @@
       "source": "hn",
       "title": "Show HN: 1-Bit Bonsai, the First Commercially Viable 1-Bit LLMs",
       "url": "https://prismml.com/",
-      "score": 313,
-      "comments": 123,
+      "score": 330,
+      "comments": 132,
       "author": "PrismML",
       "tags": [],
       "date": "2026-03-31T21:01:18+00:00"
@@ -359,8 +382,8 @@
       "source": "hn",
       "title": "MiniStack (replacement for LocalStack)",
       "url": "https://ministack.org/",
-      "score": 257,
-      "comments": 48,
+      "score": 263,
+      "comments": 51,
       "author": "kerblang",
       "tags": [],
       "date": "2026-03-31T20:48:15+00:00"
@@ -381,8 +404,8 @@
       "source": "hn",
       "title": "OpenAI closes funding round at an $852B valuation",
       "url": "https://www.cnbc.com/2026/03/31/openai-funding-round-ipo.html",
-      "score": 473,
-      "comments": 426,
+      "score": 487,
+      "comments": 448,
       "author": "surprisetalk",
       "tags": [],
       "date": "2026-03-31T20:07:30+00:00"
@@ -583,8 +606,8 @@
       "source": "hn",
       "title": "Slop is not necessarily the future",
       "url": "https://www.greptile.com/blog/ai-slopware-future",
-      "score": 264,
-      "comments": 423,
+      "score": 278,
+      "comments": 449,
       "author": "dakshgupta",
       "tags": [],
       "date": "2026-03-31T14:32:26+00:00"
@@ -640,8 +663,8 @@
       "source": "hn",
       "title": "The Claude Code Source Leak: fake tools, frustration regexes, undercover mode",
       "url": "https://alex000kim.com/posts/2026-03-31-claude-code-source-leak/",
-      "score": 1245,
-      "comments": 504,
+      "score": 1276,
+      "comments": 519,
       "author": "alex000kim",
       "tags": [],
       "date": "2026-03-31T13:04:30+00:00",
@@ -1466,8 +1489,8 @@
       "source": "hn",
       "title": "Intuiting Pratt Parsing",
       "url": "https://louis.co.nz/2026/03/26/pratt-parsing.html",
-      "score": 60,
-      "comments": 13,
+      "score": 81,
+      "comments": 18,
       "author": "signa11",
       "tags": [],
       "date": "2026-03-30T12:31:52+00:00"
@@ -1653,8 +1676,8 @@
       "source": "hn",
       "title": "Show HN: CLI to order groceries via reverse-engineered REWE API (Haskell)",
       "url": "https://github.com/yannick-cw/korb",
-      "score": 128,
-      "comments": 48,
+      "score": 146,
+      "comments": 58,
       "author": "wazHFsRy",
       "tags": [],
       "date": "2026-03-30T06:45:58+00:00"
@@ -2586,8 +2609,8 @@
       "source": "hn",
       "title": "Chess in SQL",
       "url": "https://www.dbpro.app/blog/chess-in-pure-sql",
-      "score": 98,
-      "comments": 21,
+      "score": 119,
+      "comments": 24,
       "author": "upmostly",
       "tags": [],
       "date": "2026-03-29T13:25:16+00:00"
@@ -3032,8 +3055,8 @@
       "source": "hn",
       "title": "Bring Back MiniDV with This Raspberry Pi FireWire Hat",
       "url": "https://www.jeffgeerling.com/blog/2026/minidv-with-raspberry-pi-firewire-hat/",
-      "score": 76,
-      "comments": 14,
+      "score": 88,
+      "comments": 16,
       "author": "ingve",
       "tags": [],
       "date": "2026-03-28T21:04:06+00:00"
@@ -3122,8 +3145,8 @@
       "source": "hn",
       "title": "TruffleRuby",
       "url": "https://chrisseaton.com/truffleruby/",
-      "score": 150,
-      "comments": 16,
+      "score": 162,
+      "comments": 20,
       "author": "tosh",
       "tags": [],
       "date": "2026-03-28T18:39:39+00:00"
@@ -3795,8 +3818,8 @@
       "source": "hn",
       "title": "4D Doom",
       "url": "https://github.com/danieldugas/HYPERHELL",
-      "score": 232,
-      "comments": 57,
+      "score": 246,
+      "comments": 58,
       "author": "chronolitus",
       "tags": [],
       "date": "2026-03-27T22:19:34+00:00"
@@ -4380,8 +4403,8 @@
       "source": "hn",
       "title": "TinyLoRA – Learning to Reason in 13 Parameters",
       "url": "https://arxiv.org/abs/2602.04118",
-      "score": 200,
-      "comments": 26,
+      "score": 208,
+      "comments": 34,
       "author": "sorenjan",
       "tags": [],
       "date": "2026-03-27T12:11:12+00:00"
@@ -4537,8 +4560,8 @@
       "source": "hn",
       "title": "Consider the Greenland Shark (2020)",
       "url": "https://www.lrb.co.uk/the-paper/v42/n09/katherine-rundell/consider-the-greenland-shark",
-      "score": 5,
-      "comments": 0,
+      "score": 32,
+      "comments": 5,
       "author": "mooreds",
       "tags": [],
       "date": "2026-03-27T07:39:40+00:00"
@@ -5181,28 +5204,6 @@
       "author": "mad44",
       "tags": [],
       "date": "2026-03-26T17:51:42+00:00"
-    },
-    {
-      "id": "hn-47533324",
-      "source": "hn",
-      "title": "Siclair Microvision (1977)",
-      "url": "https://r-type.org/articles/art-452.htm",
-      "score": 43,
-      "comments": 16,
-      "author": "joebig",
-      "tags": [],
-      "date": "2026-03-26T17:33:25+00:00"
-    },
-    {
-      "id": "hn-47533297",
-      "source": "hn",
-      "title": "$500 GPU outperforms Claude Sonnet on coding benchmarks",
-      "url": "https://github.com/itigges22/ATLAS",
-      "score": 429,
-      "comments": 232,
-      "author": "yogthos",
-      "tags": [],
-      "date": "2026-03-26T17:31:24+00:00"
     },
     {
       "id": "ghrel-projectdiscovery_nuclei-293442537",

@@ -1,14 +1,27 @@
 {
-  "updated_at": "2026-04-01T08:20:12.521132+00:00",
+  "updated_at": "2026-04-01T09:46:01.611448+00:00",
   "count": 500,
   "items": [
+    {
+      "id": "qiita-0f9457d192",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "GitHub Copilot CLI の公式ハンズオンざっくり和訳 (第2章/7章) 出力例付き",
+      "url": "https://qiita.com/chomado/items/7ac245bde821ec80a1b2?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "chomado",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-04-01T18:37:11+09:00"
+    },
     {
       "id": "hn-47597935",
       "source": "hn",
       "title": "CERN levels up with new superconducting karts",
       "url": "https://home.cern/news/news/engineering/cern-levels-new-superconducting-karts",
-      "score": 45,
-      "comments": 7,
+      "score": 100,
+      "comments": 17,
       "author": "fnands",
       "tags": [],
       "date": "2026-04-01T07:27:13+00:00"
@@ -18,7 +31,7 @@
       "source": "hn",
       "title": "Remembering Magnetic Memories and the Apollo AGC",
       "url": "https://2earth.github.io/website/20260304.html",
-      "score": 5,
+      "score": 7,
       "comments": 1,
       "author": "2earth",
       "tags": [],
@@ -62,12 +75,24 @@
       "date": "2026-04-01T06:05:57+00:00"
     },
     {
+      "id": "hn-47597119",
+      "source": "hn",
+      "title": "Claude Wrote a Full FreeBSD Remote Kernel RCE with Root Shell (CVE-2026-4747)",
+      "url": "https://github.com/califio/publications/blob/main/MADBugs/CVE-2026-4747/write-up.md",
+      "score": 10,
+      "comments": 0,
+      "author": "ishqdehlvi",
+      "tags": [],
+      "date": "2026-04-01T05:21:48+00:00",
+      "severity": "critical"
+    },
+    {
       "id": "hn-47597085",
       "source": "hn",
       "title": "Claude Code Unpacked : A visual guide",
       "url": "https://ccunpacked.dev/",
-      "score": 268,
-      "comments": 51,
+      "score": 375,
+      "comments": 99,
       "author": "autocracy101",
       "tags": [],
       "date": "2026-04-01T05:15:37+00:00"
@@ -90,7 +115,7 @@
       "source": "hn",
       "title": "Analyzing Geekbench 6 under Intel's BOT",
       "url": "https://www.geekbench.com/blog/2026/03/analyzing-geekbench-6-under-intels-bot/",
-      "score": 22,
+      "score": 27,
       "comments": 13,
       "author": "hajile",
       "tags": [],
@@ -176,8 +201,8 @@
       "source": "hn",
       "title": "Neanderthals survived on a knife's edge for 350k years",
       "url": "https://www.science.org/content/article/neanderthals-survived-knife-s-edge-350-000-years",
-      "score": 125,
-      "comments": 81,
+      "score": 143,
+      "comments": 98,
       "author": "Hooke",
       "tags": [],
       "date": "2026-04-01T01:12:12+00:00"
@@ -213,8 +238,8 @@
       "source": "hn",
       "title": "Ordinary Lab Gloves May Have Skewed Microplastic Data",
       "url": "https://nautil.us/ordinary-lab-gloves-may-have-skewed-microplastic-data-1279386",
-      "score": 99,
-      "comments": 38,
+      "score": 106,
+      "comments": 40,
       "author": "WaitWaitWha",
       "tags": [],
       "date": "2026-03-31T21:22:48+00:00"
@@ -224,8 +249,8 @@
       "source": "hn",
       "title": "A dot a day keeps the clutter away",
       "url": "https://scottlawsonbc.com/post/dot-system",
-      "score": 288,
-      "comments": 82,
+      "score": 314,
+      "comments": 88,
       "author": "scottlawson",
       "tags": [],
       "date": "2026-03-31T21:15:01+00:00"
@@ -246,8 +271,8 @@
       "source": "hn",
       "title": "Show HN: 1-Bit Bonsai, the First Commercially Viable 1-Bit LLMs",
       "url": "https://prismml.com/",
-      "score": 229,
-      "comments": 98,
+      "score": 248,
+      "comments": 109,
       "author": "PrismML",
       "tags": [],
       "date": "2026-03-31T21:01:18+00:00"
@@ -257,8 +282,8 @@
       "source": "hn",
       "title": "MiniStack (replacement for LocalStack)",
       "url": "https://ministack.org/",
-      "score": 208,
-      "comments": 40,
+      "score": 223,
+      "comments": 41,
       "author": "kerblang",
       "tags": [],
       "date": "2026-03-31T20:48:15+00:00"
@@ -279,8 +304,8 @@
       "source": "hn",
       "title": "OpenAI closes funding round at an $852B valuation",
       "url": "https://www.cnbc.com/2026/03/31/openai-funding-round-ipo.html",
-      "score": 429,
-      "comments": 372,
+      "score": 445,
+      "comments": 387,
       "author": "surprisetalk",
       "tags": [],
       "date": "2026-03-31T20:07:30+00:00"
@@ -481,8 +506,8 @@
       "source": "hn",
       "title": "Slop is not necessarily the future",
       "url": "https://www.greptile.com/blog/ai-slopware-future",
-      "score": 226,
-      "comments": 385,
+      "score": 239,
+      "comments": 397,
       "author": "dakshgupta",
       "tags": [],
       "date": "2026-03-31T14:32:26+00:00"
@@ -538,8 +563,8 @@
       "source": "hn",
       "title": "The Claude Code Source Leak: fake tools, frustration regexes, undercover mode",
       "url": "https://alex000kim.com/posts/2026-03-31-claude-code-source-leak/",
-      "score": 1139,
-      "comments": 451,
+      "score": 1172,
+      "comments": 467,
       "author": "alex000kim",
       "tags": [],
       "date": "2026-03-31T13:04:30+00:00",
@@ -550,7 +575,7 @@
       "source": "hn",
       "title": "Open source CAD in the browser (Solvespace)",
       "url": "https://solvespace.com/webver.pl",
-      "score": 325,
+      "score": 337,
       "comments": 103,
       "author": "phkahler",
       "tags": [],
@@ -632,8 +657,8 @@
       "source": "hn",
       "title": "Why the US Navy won't blast the Iranians and 'open' Strait of Hormuz",
       "url": "https://responsiblestatecraft.org/iran-strait-of-hormuz/",
-      "score": 288,
-      "comments": 767,
+      "score": 312,
+      "comments": 846,
       "author": "KoftaBob",
       "tags": [],
       "date": "2026-03-31T09:30:43+00:00"
@@ -662,19 +687,6 @@
         "Qiita"
       ],
       "date": "2026-03-31T17:32:23+09:00"
-    },
-    {
-      "id": "qiita-0f9457d192",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "GitHub Copilot CLI の公式ハンズオンざっくり和訳 (第2章/7章) 出力例付き",
-      "url": "https://qiita.com/chomado/items/7ac245bde821ec80a1b2?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "chomado",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-03-31T17:22:37+09:00"
     },
     {
       "id": "qiita-27f238721f",
@@ -845,8 +857,8 @@
       "source": "hn",
       "title": "Axios compromised on NPM – Malicious versions drop remote access trojan",
       "url": "https://www.stepsecurity.io/blog/axios-compromised-on-npm-malicious-versions-drop-remote-access-trojan",
-      "score": 1817,
-      "comments": 735,
+      "score": 1843,
+      "comments": 739,
       "author": "mtud",
       "tags": [],
       "date": "2026-03-31T02:54:17+00:00"
@@ -1318,6 +1330,17 @@
       "date": "2026-03-30T14:49:58+00:00"
     },
     {
+      "id": "hn-47575039",
+      "source": "hn",
+      "title": "In Case of Emergency, Make Burrito Bison 3",
+      "url": "https://juicybeast.com/2017/08/03/in-case-of-emergency-make-burrito-bison-3/",
+      "score": 5,
+      "comments": 1,
+      "author": "amarcheschi",
+      "tags": [],
+      "date": "2026-03-30T14:45:35+00:00"
+    },
+    {
       "id": "hn-47574960",
       "source": "hn",
       "title": "Inside the 'self-driving' lab revolution",
@@ -1542,8 +1565,8 @@
       "source": "hn",
       "title": "Show HN: CLI to order groceries via reverse-engineered REWE API (Haskell)",
       "url": "https://github.com/yannick-cw/korb",
-      "score": 29,
-      "comments": 3,
+      "score": 64,
+      "comments": 12,
       "author": "wazHFsRy",
       "tags": [],
       "date": "2026-03-30T06:45:58+00:00"
@@ -2475,8 +2498,8 @@
       "source": "hn",
       "title": "Chess in SQL",
       "url": "https://www.dbpro.app/blog/chess-in-pure-sql",
-      "score": 34,
-      "comments": 10,
+      "score": 54,
+      "comments": 15,
       "author": "upmostly",
       "tags": [],
       "date": "2026-03-29T13:25:16+00:00"
@@ -2523,7 +2546,7 @@
       "source": "hn",
       "title": "Digitizing photos from the 1998 Game Boy Camera",
       "url": "https://swiftrocks.com/digitizing-photos-from-the-1998-game-boy-camera",
-      "score": 40,
+      "score": 47,
       "comments": 6,
       "author": "rockbruno",
       "tags": [],
@@ -2921,8 +2944,8 @@
       "source": "hn",
       "title": "Bring Back MiniDV with This Raspberry Pi FireWire Hat",
       "url": "https://www.jeffgeerling.com/blog/2026/minidv-with-raspberry-pi-firewire-hat/",
-      "score": 48,
-      "comments": 8,
+      "score": 59,
+      "comments": 10,
       "author": "ingve",
       "tags": [],
       "date": "2026-03-28T21:04:06+00:00"
@@ -3011,8 +3034,8 @@
       "source": "hn",
       "title": "TruffleRuby",
       "url": "https://chrisseaton.com/truffleruby/",
-      "score": 115,
-      "comments": 6,
+      "score": 127,
+      "comments": 11,
       "author": "tosh",
       "tags": [],
       "date": "2026-03-28T18:39:39+00:00"
@@ -3684,8 +3707,8 @@
       "source": "hn",
       "title": "4D Doom",
       "url": "https://github.com/danieldugas/HYPERHELL",
-      "score": 195,
-      "comments": 45,
+      "score": 205,
+      "comments": 46,
       "author": "chronolitus",
       "tags": [],
       "date": "2026-03-27T22:19:34+00:00"
@@ -3819,8 +3842,8 @@
       "source": "hn",
       "title": "Back to FreeBSD – Part 2 – Jails",
       "url": "https://hypha.pub/back-to-freebsd-part-2",
-      "score": 81,
-      "comments": 14,
+      "score": 87,
+      "comments": 18,
       "author": "vermaden",
       "tags": [],
       "date": "2026-03-27T18:55:02+00:00"
@@ -4269,7 +4292,7 @@
       "source": "hn",
       "title": "TinyLoRA – Learning to Reason in 13 Parameters",
       "url": "https://arxiv.org/abs/2602.04118",
-      "score": 161,
+      "score": 173,
       "comments": 19,
       "author": "sorenjan",
       "tags": [],
@@ -5182,28 +5205,6 @@
       "author": "tanelpoder",
       "tags": [],
       "date": "2026-03-26T16:14:56+00:00"
-    },
-    {
-      "id": "hn-47532338",
-      "source": "hn",
-      "title": "Gonon: Building a Clock with No Numerals",
-      "url": "https://tonygaeta.com/perceptor/code/gonon",
-      "score": 27,
-      "comments": 18,
-      "author": "nullpath",
-      "tags": [],
-      "date": "2026-03-26T16:14:48+00:00"
-    },
-    {
-      "id": "hn-47532212",
-      "source": "hn",
-      "title": "The Hackers Who Tracked My Sleep Cycle",
-      "url": "https://glama.ai/blog/2026-03-26-the-hackers-who-tracked-my-sleep-cycle",
-      "score": 13,
-      "comments": 3,
-      "author": "statements",
-      "tags": [],
-      "date": "2026-03-26T16:06:14+00:00"
     },
     {
       "id": "ghrel-projectdiscovery_nuclei-293442537",

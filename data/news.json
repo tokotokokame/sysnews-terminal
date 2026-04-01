@@ -1,14 +1,25 @@
 {
-  "updated_at": "2026-04-01T19:37:25.504296+00:00",
+  "updated_at": "2026-04-01T20:43:15.176067+00:00",
   "count": 500,
   "items": [
+    {
+      "id": "hn-47605677",
+      "source": "hn",
+      "title": "Signing data structures the wrong way",
+      "url": "https://blog.foks.pub/posts/domain-separation-in-idl/",
+      "score": 23,
+      "comments": 7,
+      "author": "malgorithms",
+      "tags": [],
+      "date": "2026-04-01T19:52:00+00:00"
+    },
     {
       "id": "hn-47604897",
       "source": "hn",
       "title": "Apple at 50",
       "url": "https://www.apple.com/",
-      "score": 23,
-      "comments": 4,
+      "score": 65,
+      "comments": 31,
       "author": "janandonly",
       "tags": [],
       "date": "2026-04-01T18:48:30+00:00"
@@ -18,8 +29,8 @@
       "source": "hn",
       "title": "TurboQuant KV Compression and SSD Expert Streaming for M5 Pro and IOS",
       "url": "https://github.com/SharpAI/SwiftLM",
-      "score": 39,
-      "comments": 12,
+      "score": 66,
+      "comments": 37,
       "author": "aegis_camera",
       "tags": [],
       "date": "2026-04-01T18:06:00+00:00"
@@ -27,10 +38,10 @@
     {
       "id": "hn-47604245",
       "source": "hn",
-      "title": "Ukrainian Drone Holds Position for 6 Weeks",
+      "title": "Ukrainian drone holds position for 6 weeks",
       "url": "https://defenceleaders.com/news/ukrainian-combat-robot-holds-frontline-position-for-six-weeks-in-sign-of-growing-ugv-maturity/",
-      "score": 63,
-      "comments": 26,
+      "score": 92,
+      "comments": 64,
       "author": "AftHurrahWinch",
       "tags": [],
       "date": "2026-04-01T17:57:40+00:00"
@@ -40,8 +51,8 @@
       "source": "hn",
       "title": "The AI Marketing BS Index",
       "url": "https://bastian.rieck.me/blog/2026/bs/",
-      "score": 46,
-      "comments": 5,
+      "score": 68,
+      "comments": 9,
       "author": "speckx",
       "tags": [],
       "date": "2026-04-01T17:55:12+00:00"
@@ -51,8 +62,8 @@
       "source": "hn",
       "title": "AI for American-produced cement and concrete",
       "url": "https://engineering.fb.com/2026/03/30/data-center-engineering/ai-for-american-produced-cement-and-concrete/",
-      "score": 77,
-      "comments": 63,
+      "score": 99,
+      "comments": 82,
       "author": "latchkey",
       "tags": [],
       "date": "2026-04-01T17:17:24+00:00"
@@ -62,8 +73,8 @@
       "source": "hn",
       "title": "NASA Artemis II moon mission live launch broadcast",
       "url": "https://plus.nasa.gov/scheduled-video/nasas-artemis-ii-crew-launches-to-the-moon-official-broadcast/",
-      "score": 189,
-      "comments": 96,
+      "score": 245,
+      "comments": 152,
       "author": "apitman",
       "tags": [],
       "date": "2026-04-01T17:11:31+00:00"
@@ -95,8 +106,8 @@
       "source": "hn",
       "title": "Show HN: Real-time dashboard for Claude Code agent teams",
       "url": "https://github.com/simple10/agents-observe",
-      "score": 51,
-      "comments": 17,
+      "score": 57,
+      "comments": 21,
       "author": "simple10",
       "tags": [],
       "date": "2026-04-01T16:24:28+00:00"
@@ -106,8 +117,8 @@
       "source": "hn",
       "title": "StepFun 3.5 Flash is #1 cost-effective model for OpenClaw tasks (300 battles)",
       "url": "https://app.uniclaw.ai/arena?tab=costEffectiveness&via=hn",
-      "score": 89,
-      "comments": 35,
+      "score": 99,
+      "comments": 39,
       "author": "skysniper",
       "tags": [],
       "date": "2026-04-01T16:17:35+00:00"
@@ -117,8 +128,8 @@
       "source": "hn",
       "title": "EmDash – a spiritual successor to WordPress that solves plugin security",
       "url": "https://blog.cloudflare.com/emdash-wordpress/",
-      "score": 291,
-      "comments": 184,
+      "score": 352,
+      "comments": 250,
       "author": "elithrar",
       "tags": [],
       "date": "2026-04-01T16:14:38+00:00"
@@ -209,8 +220,8 @@
       "source": "hn",
       "title": "Is BGP safe yet?",
       "url": "https://isbgpsafeyet.com/",
-      "score": 200,
-      "comments": 69,
+      "score": 213,
+      "comments": 75,
       "author": "janandonly",
       "tags": [],
       "date": "2026-04-01T13:10:29+00:00"
@@ -277,8 +288,8 @@
       "source": "hn",
       "title": "Random numbers, Persian code: A mysterious signal transfixes radio sleuths",
       "url": "https://www.rferl.org/a/mystery-numbers-station-persian-signal-iran-war/33700659.html",
-      "score": 80,
-      "comments": 83,
+      "score": 91,
+      "comments": 91,
       "author": "thinkingemote",
       "tags": [],
       "date": "2026-04-01T11:39:04+00:00"
@@ -293,6 +304,32 @@
       "author": "hackernewsblues",
       "tags": [],
       "date": "2026-04-01T11:09:11+00:00"
+    },
+    {
+      "id": "qiita-d128edb68d",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "Claude Codeのコード流出から考える開発者の倫理",
+      "url": "https://qiita.com/mosaxiv/items/f6fa910cb0c7efe2defc?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "mosaxiv",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-04-01T19:35:29+09:00"
+    },
+    {
+      "id": "qiita-74ac72a665",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "Claude Codeのカスタムスキルを \"育てる\" 自動監査スキル \"/audit-skills\" を作成した",
+      "url": "https://qiita.com/k_izutani/items/3501b63f345f79246e4c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "k_izutani",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-04-01T19:04:24+09:00"
     },
     {
       "id": "hn-47598803",
@@ -330,6 +367,19 @@
       "date": "2026-04-01T09:00:34+00:00"
     },
     {
+      "id": "qiita-1e30a9c6a5",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "AWS Community Builders（AI Engineering）に選出されました",
+      "url": "https://qiita.com/yosuke-suzuki/items/4e3fcd08b0f69a02797a?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "yosuke-suzuki",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-04-01T17:56:16+09:00"
+    },
+    {
       "id": "hn-47598378",
       "source": "hn",
       "title": "Solar panels at Lidl? Plug-in versions set to appear in shops",
@@ -345,8 +395,8 @@
       "source": "hn",
       "title": "CERN levels up with new superconducting karts",
       "url": "https://home.cern/news/news/engineering/cern-levels-new-superconducting-karts",
-      "score": 353,
-      "comments": 79,
+      "score": 365,
+      "comments": 80,
       "author": "fnands",
       "tags": [],
       "date": "2026-04-01T07:27:13+00:00"
@@ -402,10 +452,10 @@
     {
       "id": "hn-47597119",
       "source": "hn",
-      "title": "Claude Wrote a Full FreeBSD Remote Kernel RCE with Root Shell (CVE-2026-4747)",
+      "title": "Claude wrote a full FreeBSD remote kernel RCE with root shell",
       "url": "https://github.com/califio/publications/blob/main/MADBugs/CVE-2026-4747/write-up.md",
-      "score": 208,
-      "comments": 92,
+      "score": 217,
+      "comments": 97,
       "author": "ishqdehlvi",
       "tags": [],
       "date": "2026-04-01T05:21:48+00:00",
@@ -421,6 +471,19 @@
       "author": "autocracy101",
       "tags": [],
       "date": "2026-04-01T05:15:37+00:00"
+    },
+    {
+      "id": "qiita-3ccd014cf8",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "「axiosのサプライチェーン攻撃、大丈夫そう？」— まさにリリース作業をしていた日の話",
+      "url": "https://qiita.com/imamu123/items/021174919dcea46c5ed9?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "imamu123",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-04-01T13:26:31+09:00"
     },
     {
       "id": "qiita-8389a873e0",
@@ -483,6 +546,19 @@
       "tags": [],
       "date": "2026-04-01T01:58:45+00:00",
       "severity": "critical"
+    },
+    {
+      "id": "qiita-adcce21ebc",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "Claude Codeで「イベント駆動型ワークフロー自動化」ー Hooks × Scheduler × Skills 3つの基本機能を組み合わせる実践ガイド",
+      "url": "https://qiita.com/nogataka/items/9af38e7279f553f13e50?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "nogataka",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-04-01T10:36:57+09:00"
     },
     {
       "id": "qiita-9a01518ee3",
@@ -1655,8 +1731,8 @@
       "source": "hn",
       "title": "Show HN: Zerobox – Sandbox any command with file, network, credential controls",
       "url": "https://github.com/afshinm/zerobox",
-      "score": 44,
-      "comments": 43,
+      "score": 63,
+      "comments": 65,
       "author": "afshinmeh",
       "tags": [],
       "date": "2026-03-30T14:32:36+00:00"
@@ -1699,8 +1775,8 @@
       "source": "hn",
       "title": "Intuiting Pratt Parsing",
       "url": "https://louis.co.nz/2026/03/26/pratt-parsing.html",
-      "score": 122,
-      "comments": 40,
+      "score": 129,
+      "comments": 42,
       "author": "signa11",
       "tags": [],
       "date": "2026-03-30T12:31:52+00:00"
@@ -1963,6 +2039,19 @@
         "Qiita"
       ],
       "date": "2026-03-30T14:15:06+09:00"
+    },
+    {
+      "id": "qiita-cd10bbdabd",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "ベンダー管理のやり方：事業側PMが持つべき3つの軸とフェーズ別ポイント",
+      "url": "https://qiita.com/atsushi_0000/items/cda0b336c19537607aff?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "atsushi_0000",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-03-30T14:12:00+09:00"
     },
     {
       "id": "hn-47570547",
@@ -2532,8 +2621,8 @@
       "source": "hn",
       "title": "An Introduction to Writing Systems and Unicode",
       "url": "https://r12a.github.io/scripts/tutorial/part2",
-      "score": 19,
-      "comments": 5,
+      "score": 36,
+      "comments": 7,
       "author": "mariuz",
       "tags": [],
       "date": "2026-03-29T17:43:52+00:00"
@@ -3309,8 +3398,8 @@
       "source": "hn",
       "title": "Show HN: Git bayesect – Bayesian Git bisection for non-deterministic bugs",
       "url": "https://github.com/hauntsaninja/git_bayesect",
-      "score": 23,
-      "comments": 5,
+      "score": 65,
+      "comments": 6,
       "author": "hauntsaninja",
       "tags": [],
       "date": "2026-03-28T20:32:01+00:00"
@@ -3899,8 +3988,8 @@
       "source": "hn",
       "title": "Ada and Spark on ARM Cortex-M – A Tutorial with Arduino and Nucleo Examples",
       "url": "http://inspirel.com/articles/Ada_On_Cortex.html",
-      "score": 39,
-      "comments": 9,
+      "score": 47,
+      "comments": 15,
       "author": "swq115",
       "tags": [],
       "date": "2026-03-28T06:26:42+00:00"
@@ -4825,8 +4914,8 @@
       "source": "hn",
       "title": "Consider the Greenland Shark (2020)",
       "url": "https://www.lrb.co.uk/the-paper/v42/n09/katherine-rundell/consider-the-greenland-shark",
-      "score": 71,
-      "comments": 28,
+      "score": 74,
+      "comments": 31,
       "author": "mooreds",
       "tags": [],
       "date": "2026-03-27T07:39:40+00:00"
@@ -5122,87 +5211,6 @@
       "author": "prawn",
       "tags": [],
       "date": "2026-03-26T23:33:53+00:00"
-    },
-    {
-      "id": "hn-47537106",
-      "source": "hn",
-      "title": "Chicago artist creates tourism posters for city's neighborhoods",
-      "url": "https://www.chicagotribune.com/2026/03/25/chicago-neighborhood-posters/",
-      "score": 81,
-      "comments": 40,
-      "author": "NaOH",
-      "tags": [],
-      "date": "2026-03-26T23:18:38+00:00"
-    },
-    {
-      "id": "qiita-af944e2f61",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "Amazon Bedrock AgentCoreで実践するコンテキストエンジニアリング技法",
-      "url": "https://qiita.com/nasuvitz/items/d7daf916d2b3a47c1e87?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "nasuvitz",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-03-27T08:12:12+09:00"
-    },
-    {
-      "id": "hn-47537051",
-      "source": "hn",
-      "title": "Order Granting Preliminary Injunction – Anthropic vs. U.S. Department of War [pdf]",
-      "url": "https://storage.courtlistener.com/recap/gov.uscourts.cand.465515/gov.uscourts.cand.465515.134.0.pdf",
-      "score": 110,
-      "comments": 15,
-      "author": "theindieman",
-      "tags": [],
-      "date": "2026-03-26T23:11:45+00:00"
-    },
-    {
-      "id": "qiita-da855a480f",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "AIに「いい感じに作って」と言うのをやめたら、開発が回り出した — Spec-Driven Development 実践ガイド",
-      "url": "https://qiita.com/akira_papa_AI/items/5f66b2b289994e4a0256?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "akira_papa_AI",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-03-27T07:52:14+09:00"
-    },
-    {
-      "id": "hn-47536761",
-      "source": "hn",
-      "title": "Show HN: I put an AI agent on a $7/month VPS with IRC as its transport layer",
-      "url": "https://georgelarson.me/writing/2026-03-23-nullclaw-doorman/",
-      "score": 305,
-      "comments": 88,
-      "author": "j0rg3",
-      "tags": [],
-      "date": "2026-03-26T22:41:25+00:00"
-    },
-    {
-      "id": "hn-47536719",
-      "source": "hn",
-      "title": "Multiple Sclerosis",
-      "url": "https://subfictional.com/multiple-sclerosis/",
-      "score": 48,
-      "comments": 20,
-      "author": "luu",
-      "tags": [],
-      "date": "2026-03-26T22:37:37+00:00"
-    },
-    {
-      "id": "hn-47536712",
-      "source": "hn",
-      "title": "We rewrote JSONata with AI in a day, saved $500k/year",
-      "url": "https://www.reco.ai/blog/we-rewrote-jsonata-with-ai",
-      "score": 242,
-      "comments": 224,
-      "author": "cjlm",
-      "tags": [],
-      "date": "2026-03-26T22:36:41+00:00"
     },
     {
       "id": "ghrel-projectdiscovery_nuclei-293442537",

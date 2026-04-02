@@ -1,14 +1,59 @@
 {
-  "updated_at": "2026-04-02T12:06:38.185506+00:00",
+  "updated_at": "2026-04-02T14:02:15.216529+00:00",
   "count": 500,
   "items": [
+    {
+      "id": "hn-47613981",
+      "source": "hn",
+      "title": "LinkedIn Is Illegally Searching Your Computer",
+      "url": "https://browsergate.eu/",
+      "score": 248,
+      "comments": 102,
+      "author": "digitalWestie",
+      "tags": [],
+      "date": "2026-04-02T13:09:09+00:00"
+    },
+    {
+      "id": "hn-47613156",
+      "source": "hn",
+      "title": "ReactOS Shows Improved Stability and 64-Bit Support at Chemnitz Linux Days 2026",
+      "url": "https://old.reddit.com/r/reactos/comments/1sa26yu/back_from_chemnitz_linux_days_2026/",
+      "score": 30,
+      "comments": 8,
+      "author": "jeditobe",
+      "tags": [],
+      "date": "2026-04-02T11:49:01+00:00"
+    },
+    {
+      "id": "hn-47613078",
+      "source": "hn",
+      "title": "Inside Nepal's Fake Rescue Racket",
+      "url": "https://kathmandupost.com/money/2026/03/27/inside-nepal-s-fake-rescue-racket",
+      "score": 88,
+      "comments": 21,
+      "author": "lode",
+      "tags": [],
+      "date": "2026-04-02T11:40:41+00:00"
+    },
+    {
+      "id": "hn-47612724",
+      "source": "hn",
+      "title": "Lemonade by AMD: a fast and open source local LLM server using GPU and NPU",
+      "url": "https://lemonade-server.ai",
+      "score": 134,
+      "comments": 28,
+      "author": "AbuAssar",
+      "tags": [],
+      "date": "2026-04-02T11:04:51+00:00",
+      "severity": "critical"
+    },
     {
       "id": "hn-47612601",
       "source": "hn",
       "title": "Sweden goes back to basics, swapping screens for books in the classroom",
       "url": "https://undark.org/2026/04/01/sweden-schools-books/",
-      "score": 93,
-      "comments": 39,
+      "score": 285,
+      "comments": 160,
       "author": "novaRom",
       "tags": [],
       "date": "2026-04-02T10:50:00+00:00"
@@ -18,19 +63,30 @@
       "source": "hn",
       "title": "Enabling Codex to Analyze Two Decades of Hacker News Data",
       "url": "https://modolap.com/publication/hn-analysis-1",
-      "score": 8,
-      "comments": 1,
+      "score": 23,
+      "comments": 7,
       "author": "ronfriedhaber",
       "tags": [],
       "date": "2026-04-02T10:42:23+00:00"
+    },
+    {
+      "id": "hn-47612321",
+      "source": "hn",
+      "title": "Show HN: I built a DNS resolver from scratch in Rust – no DNS libraries",
+      "url": "https://github.com/razvandimescu/numa",
+      "score": 22,
+      "comments": 13,
+      "author": "rdme",
+      "tags": [],
+      "date": "2026-04-02T10:07:57+00:00"
     },
     {
       "id": "hn-47611921",
       "source": "hn",
       "title": "Significant Raise of Reports",
       "url": "https://lwn.net/Articles/1065620/",
-      "score": 37,
-      "comments": 14,
+      "score": 96,
+      "comments": 49,
       "author": "stratos123",
       "tags": [],
       "date": "2026-04-02T09:14:18+00:00"
@@ -40,8 +96,8 @@
       "source": "hn",
       "title": "New laws to make it easier to cancel subscriptions and get refunds",
       "url": "https://www.bbc.co.uk/news/articles/cvg0v36ek2go",
-      "score": 66,
-      "comments": 23,
+      "score": 101,
+      "comments": 40,
       "author": "chrisjj",
       "tags": [],
       "date": "2026-04-02T09:00:26+00:00"
@@ -51,8 +107,8 @@
       "source": "hn",
       "title": "IBM Announces Strategic Collaboration with Arm",
       "url": "https://newsroom.ibm.com/2026-04-02-ibm-announces-strategic-collaboration-with-arm-to-shape-the-future-of-enterprise-computing",
-      "score": 110,
-      "comments": 60,
+      "score": 164,
+      "comments": 98,
       "author": "bonzini",
       "tags": [],
       "date": "2026-04-02T08:48:44+00:00"
@@ -73,8 +129,8 @@
       "source": "hn",
       "title": "Bringing Clojure programming to Enterprise (2021)",
       "url": "https://blogit.michelin.io/clojure-programming/",
-      "score": 77,
-      "comments": 12,
+      "score": 109,
+      "comments": 49,
       "author": "smartmic",
       "tags": [],
       "date": "2026-04-02T08:19:11+00:00"
@@ -132,8 +188,8 @@
       "source": "hn",
       "title": "Subscription bombing and how to mitigate it",
       "url": "https://bytemash.net/posts/subscription-bombing-your-signup-form-is-a-weapon/",
-      "score": 185,
-      "comments": 119,
+      "score": 221,
+      "comments": 143,
       "author": "homelessdino",
       "tags": [],
       "date": "2026-04-02T04:08:05+00:00"
@@ -204,8 +260,8 @@
       "source": "hn",
       "title": "Email obfuscation: What works in 2026?",
       "url": "https://spencermortensen.com/articles/email-obfuscation/",
-      "score": 177,
-      "comments": 54,
+      "score": 221,
+      "comments": 68,
       "author": "jaden",
       "tags": [],
       "date": "2026-04-02T03:35:33+00:00"
@@ -228,8 +284,8 @@
       "source": "hn",
       "title": "Steam on Linux Use Skyrocketed Above 5% in March",
       "url": "https://www.phoronix.com/news/Steam-On-Linux-Tops-5p",
-      "score": 456,
-      "comments": 213,
+      "score": 542,
+      "comments": 257,
       "author": "hkmaxpro",
       "tags": [],
       "date": "2026-04-02T03:12:24+00:00"
@@ -311,8 +367,8 @@
       "source": "hn",
       "title": "Quantum computing bombshells that are not April Fools",
       "url": "https://scottaaronson.blog/?p=9665",
-      "score": 199,
-      "comments": 64,
+      "score": 217,
+      "comments": 70,
       "author": "Strilanc",
       "tags": [],
       "date": "2026-04-02T00:24:43+00:00"
@@ -333,8 +389,8 @@
       "source": "hn",
       "title": "A new C++ back end for ocamlc",
       "url": "https://github.com/ocaml/ocaml/pull/14701",
-      "score": 197,
-      "comments": 17,
+      "score": 211,
+      "comments": 18,
       "author": "glittershark",
       "tags": [],
       "date": "2026-04-01T23:35:02+00:00"
@@ -401,8 +457,8 @@
       "source": "hn",
       "title": "DRAM pricing is killing the hobbyist SBC market",
       "url": "https://www.jeffgeerling.com/blog/2026/dram-pricing-is-killing-the-hobbyist-sbc-market/",
-      "score": 506,
-      "comments": 438,
+      "score": 542,
+      "comments": 463,
       "author": "ingve",
       "tags": [],
       "date": "2026-04-01T21:36:41+00:00"
@@ -555,8 +611,8 @@
       "source": "hn",
       "title": "Artemis II Launch Day Updates",
       "url": "https://www.nasa.gov/blogs/missions/2026/04/01/live-artemis-ii-launch-day-updates/",
-      "score": 963,
-      "comments": 818,
+      "score": 991,
+      "comments": 854,
       "author": "apitman",
       "tags": [],
       "date": "2026-04-01T17:11:31+00:00",
@@ -611,8 +667,8 @@
       "source": "hn",
       "title": "EmDash – A spiritual successor to WordPress that solves plugin security",
       "url": "https://blog.cloudflare.com/emdash-wordpress/",
-      "score": 593,
-      "comments": 443,
+      "score": 617,
+      "comments": 463,
       "author": "elithrar",
       "tags": [],
       "date": "2026-04-01T16:14:38+00:00"
@@ -1025,8 +1081,8 @@
       "source": "hn",
       "title": "Mercor says it was hit by cyberattack tied to compromise LiteLLM",
       "url": "https://techcrunch.com/2026/03/31/mercor-says-it-was-hit-by-cyberattack-tied-to-compromise-of-open-source-litellm-project/",
-      "score": 65,
-      "comments": 21,
+      "score": 89,
+      "comments": 27,
       "author": "jackson-mcd",
       "tags": [],
       "date": "2026-04-01T04:14:41+00:00"
@@ -1754,8 +1810,8 @@
       "source": "hn",
       "title": "Gone (Almost) Phishin'",
       "url": "https://ma.tt/2026/03/gone-almost-phishin/",
-      "score": 62,
-      "comments": 29,
+      "score": 89,
+      "comments": 41,
       "author": "luu",
       "tags": [],
       "date": "2026-03-31T05:11:39+00:00"
@@ -2436,6 +2492,17 @@
       "author": "surprisetalk",
       "tags": [],
       "date": "2026-03-30T11:59:53+00:00"
+    },
+    {
+      "id": "hn-47573137",
+      "source": "hn",
+      "title": "Order and Tension",
+      "url": "https://slab.org/2026/03/22/order-and-tension/",
+      "score": 11,
+      "comments": 0,
+      "author": "surprisetalk",
+      "tags": [],
+      "date": "2026-03-30T11:59:52+00:00"
     },
     {
       "id": "hn-47572910",
@@ -3475,6 +3542,17 @@
         "Qiita"
       ],
       "date": "2026-03-29T23:45:48+09:00"
+    },
+    {
+      "id": "hn-47563486",
+      "source": "hn",
+      "title": "Emacs-libgterm: Terminal emulator for Emacs using libghostty-vt",
+      "url": "https://github.com/rwc9u/emacs-libgterm",
+      "score": 25,
+      "comments": 4,
+      "author": "signa11",
+      "tags": [],
+      "date": "2026-03-29T14:32:04+00:00"
     },
     {
       "id": "hn-47563384",
@@ -5102,91 +5180,12 @@
       "severity": "critical"
     },
     {
-      "id": "hn-47544614",
-      "source": "hn",
-      "title": "Apple says no one using Lockdown Mode has been hacked with spyware",
-      "url": "https://techcrunch.com/2026/03/27/apple-says-no-one-using-lockdown-mode-has-been-hacked-with-spyware/",
-      "score": 74,
-      "comments": 44,
-      "author": "jbegley",
-      "tags": [],
-      "date": "2026-03-27T16:11:27+00:00"
-    },
-    {
-      "id": "qiita-619eed1791",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "TLS・IPsec・SSHに横断する特許リスク？ — ML-KEM標準化を揺るがすIPR disclosure問題を徹底解説",
-      "url": "https://qiita.com/yumi-sakemi/items/d4a8f94cb1cb7a27a037?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "yumi-sakemi",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-03-28T01:03:28+09:00"
-    },
-    {
-      "id": "hn-47544388",
-      "source": "hn",
-      "title": "What Construction at a Train Station Taught Me About Software Engineering",
-      "url": "https://engineering.leanix.net/blog/engineering/",
-      "score": 8,
-      "comments": 2,
-      "author": "vinhnx",
-      "tags": [],
-      "date": "2026-03-27T15:55:26+00:00"
-    },
-    {
-      "id": "hn-47544238",
-      "source": "hn",
-      "title": "The Future of SCIP",
-      "url": "https://sourcegraph.com/blog/the-future-of-scip",
-      "score": 78,
-      "comments": 22,
-      "author": "jdorfman",
-      "tags": [],
-      "date": "2026-03-27T15:46:50+00:00"
-    },
-    {
-      "id": "hn-47544114",
-      "source": "hn",
-      "title": "When Coupled Volcanoes Talk, These Researchers Listen",
-      "url": "https://www.quantamagazine.org/when-coupled-volcanoes-talk-these-researchers-listen-20260327/",
-      "score": 9,
-      "comments": 0,
-      "author": "ibobev",
-      "tags": [],
-      "date": "2026-03-27T15:40:23+00:00"
-    },
-    {
-      "id": "hn-47544006",
-      "source": "hn",
-      "title": "SimpleX Chat",
-      "url": "https://simplex.chat/",
-      "score": 6,
-      "comments": 1,
-      "author": "Cider9986",
-      "tags": [],
-      "date": "2026-03-27T15:33:54+00:00"
-    },
-    {
-      "id": "hn-47543943",
-      "source": "hn",
-      "title": "Desk for people who work at home with a cat",
-      "url": "https://soranews24.com/2026/03/27/japan-now-has-a-special-desk-for-people-who-work-at-home-with-a-pet-catphotos/",
-      "score": 359,
-      "comments": 132,
-      "author": "zdw",
-      "tags": [],
-      "date": "2026-03-27T15:31:20+00:00"
-    },
-    {
       "id": "hn-47540441",
       "source": "hn",
       "title": "Reinventing the Pull Request",
       "url": "https://lubeno.dev/blog/reinventing-the-pull-request",
-      "score": 16,
-      "comments": 11,
+      "score": 37,
+      "comments": 27,
       "author": "bkolobara",
       "tags": [],
       "date": "2026-03-27T09:04:29+00:00"
@@ -5388,6 +5387,45 @@
       "date": "2023-05-23T17:06:23Z"
     },
     {
+      "id": "zenn-d768c6fcca",
+      "source": "zennqiita",
+      "sub_source": "Zenn",
+      "title": "Claude Code、最初にこれやっとき｜7つの設定で世界変わるで",
+      "url": "https://zenn.dev/masayan1126/books/claude-code-initial-settings",
+      "score": null,
+      "author": "まさやん",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Thu, 02 Apr 2026 08:41:59 GMT"
+    },
+    {
+      "id": "zenn-1d2b48f22c",
+      "source": "zennqiita",
+      "sub_source": "Zenn",
+      "title": "WordPress後継CMS「EmDash」を触ってみる",
+      "url": "https://zenn.dev/z4ck_key/articles/try-emdash-cms",
+      "score": null,
+      "author": "Zaki",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Thu, 02 Apr 2026 01:25:28 GMT"
+    },
+    {
+      "id": "zenn-4f1920b9bf",
+      "source": "zennqiita",
+      "sub_source": "Zenn",
+      "title": "ハーネスエンジニアリングを極めたら、IssueからAIエージェントが動き、人間の役割は要件定義だけになった",
+      "url": "https://zenn.dev/aicon_kato/articles/harness-engineering-startup",
+      "score": null,
+      "author": "加藤 | 株式会社Aicon",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Wed, 01 Apr 2026 11:51:41 GMT"
+    },
+    {
       "id": "zenn-0d3b607028",
       "source": "zennqiita",
       "sub_source": "Zenn",
@@ -5399,19 +5437,6 @@
         "Zenn"
       ],
       "date": "Wed, 01 Apr 2026 07:30:48 GMT"
-    },
-    {
-      "id": "zenn-76dbf3d83d",
-      "source": "zennqiita",
-      "sub_source": "Zenn",
-      "title": "ReAct (Reason+Act) パターンを TypeScript だけで実装する",
-      "url": "https://zenn.dev/kt3k/articles/74785af8436b1e",
-      "score": null,
-      "author": "Yoshiya Hinosawa",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Wed, 01 Apr 2026 05:14:52 GMT"
     },
     {
       "id": "zenn-b9baa8dc83",
@@ -5479,6 +5504,19 @@
       "date": "Tue, 31 Mar 2026 18:45:49 GMT"
     },
     {
+      "id": "zenn-3a7acd18ed",
+      "source": "zennqiita",
+      "sub_source": "Zenn",
+      "title": "ユーザーが使うほど成長するAIエージェントを作る（最適化パイプライン編）",
+      "url": "https://zenn.dev/porche1223/articles/90287ab85bba43",
+      "score": null,
+      "author": "ぽるしぇ",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Tue, 31 Mar 2026 14:59:28 GMT"
+    },
+    {
       "id": "zenn-aa7dd84357",
       "source": "zennqiita",
       "sub_source": "Zenn",
@@ -5490,32 +5528,6 @@
         "Zenn"
       ],
       "date": "Tue, 31 Mar 2026 08:41:07 GMT"
-    },
-    {
-      "id": "zenn-9733657749",
-      "source": "zennqiita",
-      "sub_source": "Zenn",
-      "title": "セキュリティ採用で混同される6職種を、採用コンサルが現場目線で整理する",
-      "url": "https://zenn.dev/shotakada/articles/e94e3d7fc88463",
-      "score": null,
-      "author": "高田祥",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Tue, 31 Mar 2026 08:32:41 GMT"
-    },
-    {
-      "id": "zenn-852bde31be",
-      "source": "zennqiita",
-      "sub_source": "Zenn",
-      "title": "axiosにサプライチェーン攻撃が発生した話と、担当プロジェクトでやっていた備え",
-      "url": "https://zenn.dev/rescuenow/articles/880bf865235aaf",
-      "score": null,
-      "author": "しもち",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Tue, 31 Mar 2026 06:54:31 GMT"
     },
     {
       "id": "zenn-9905548e3f",
@@ -5610,6 +5622,19 @@
       "date": "Mon, 30 Mar 2026 15:28:50 GMT"
     },
     {
+      "id": "zenn-5e603e054c",
+      "source": "zennqiita",
+      "sub_source": "Zenn",
+      "title": "ClaudeCodeと弱者の戦略",
+      "url": "https://zenn.dev/akatuki_me/articles/43eb4604d0675d",
+      "score": null,
+      "author": "暁",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Mon, 30 Mar 2026 10:00:06 GMT"
+    },
+    {
       "id": "zenn-23bb44cf60",
       "source": "zennqiita",
       "sub_source": "Zenn",
@@ -5621,32 +5646,6 @@
         "Zenn"
       ],
       "date": "Mon, 30 Mar 2026 05:45:52 GMT"
-    },
-    {
-      "id": "zenn-c6f898c335",
-      "source": "zennqiita",
-      "sub_source": "Zenn",
-      "title": "Claude Code Skillsで開発ワークフローを効率化している話",
-      "url": "https://zenn.dev/berry_blog/articles/8d1b2c9216b4e9",
-      "score": null,
-      "author": "浅沼　敬",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Mon, 30 Mar 2026 04:21:34 GMT"
-    },
-    {
-      "id": "zenn-30d019aa74",
-      "source": "zennqiita",
-      "sub_source": "Zenn",
-      "title": "完全自律のコーディングパイプラインを作った",
-      "url": "https://zenn.dev/theaktky/articles/5f9f18c34950c1",
-      "score": null,
-      "author": "Akatsuki",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Mon, 30 Mar 2026 04:06:52 GMT"
     },
     {
       "id": "edb-bed48c0760",

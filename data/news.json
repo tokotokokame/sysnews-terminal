@@ -1,14 +1,25 @@
 {
-  "updated_at": "2026-04-03T19:11:57.964056+00:00",
+  "updated_at": "2026-04-03T19:59:22.996909+00:00",
   "count": 500,
   "items": [
+    {
+      "id": "hn-47630893",
+      "source": "hn",
+      "title": "Age Verification on Systemd and Flatpak",
+      "url": "https://cybrkyd.com/post/age-verification-on-systemd-and-flatpak/",
+      "score": 26,
+      "comments": 12,
+      "author": "londonanon",
+      "tags": [],
+      "date": "2026-04-03T19:17:28+00:00"
+    },
     {
       "id": "hn-47630592",
       "source": "hn",
       "title": "Async Python Is Secretly Deterministic",
       "url": "https://www.dbos.dev/blog/async-python-is-secretly-deterministic",
-      "score": 4,
-      "comments": 0,
+      "score": 18,
+      "comments": 9,
       "author": "KraftyOne",
       "tags": [],
       "date": "2026-04-03T18:55:12+00:00"
@@ -18,11 +29,34 @@
       "source": "hn",
       "title": "How to Make a Sliding, Self-Locking, and Predator-Proof Chicken Coop Door (2020)",
       "url": "https://www.backyardchickens.com/articles/how-to-make-a-sliding-self-locking-and-predator-proof-chicken-coop-door.75906/",
-      "score": 3,
-      "comments": 1,
+      "score": 19,
+      "comments": 4,
       "author": "uticus",
       "tags": [],
       "date": "2026-04-03T18:54:11+00:00"
+    },
+    {
+      "id": "hn-47630136",
+      "source": "hn",
+      "title": "Update on the eBay Scam",
+      "url": "https://kevquirk.com/update-on-the-ebay-scam",
+      "score": 6,
+      "comments": 8,
+      "author": "speckx",
+      "tags": [],
+      "date": "2026-04-03T18:22:07+00:00",
+      "severity": "medium"
+    },
+    {
+      "id": "hn-47630109",
+      "source": "hn",
+      "title": "Firm boosts H.264 streaming license fees from $100k up to staggering $4.5M",
+      "url": "https://www.tomshardware.com/service-providers/streaming/h264-streaming-license-fees-jump-from-100000-to-4-5-million",
+      "score": 42,
+      "comments": 30,
+      "author": "MaximilianEmel",
+      "tags": [],
+      "date": "2026-04-03T18:20:16+00:00"
     },
     {
       "id": "hn-47629905",
@@ -51,8 +85,8 @@
       "source": "hn",
       "title": "iNaturalist",
       "url": "https://www.inaturalist.org/",
-      "score": 140,
-      "comments": 43,
+      "score": 190,
+      "comments": 55,
       "author": "bookofjoe",
       "tags": [],
       "date": "2026-04-03T17:22:20+00:00"
@@ -62,8 +96,8 @@
       "source": "hn",
       "title": "Go on Embedded Systems and WebAssembly",
       "url": "https://tinygo.org/",
-      "score": 36,
-      "comments": 5,
+      "score": 59,
+      "comments": 9,
       "author": "uticus",
       "tags": [],
       "date": "2026-04-03T16:57:09+00:00"
@@ -84,8 +118,8 @@
       "source": "hn",
       "title": "If you're running OpenClaw, you probably got hacked in the last week",
       "url": "https://old.reddit.com/r/sysadmin/comments/1sbdw29/if_youre_running_openclaw_you_probably_got_hacked/",
-      "score": 168,
-      "comments": 102,
+      "score": 188,
+      "comments": 128,
       "author": "kykeonaut",
       "tags": [],
       "date": "2026-04-03T16:21:32+00:00"
@@ -95,8 +129,8 @@
       "source": "hn",
       "title": "F-15E jet shot down over Iran",
       "url": "https://www.theguardian.com/world/2026/apr/03/us-fighter-jet-confirmed-shot-down-over-iran",
-      "score": 79,
-      "comments": 199,
+      "score": 143,
+      "comments": 335,
       "author": "tjwds",
       "tags": [],
       "date": "2026-04-03T16:00:44+00:00"
@@ -106,8 +140,8 @@
       "source": "hn",
       "title": "Build your own Dial-up ISP with a Raspberry Pi",
       "url": "https://www.jeffgeerling.com/blog/2026/build-your-own-dial-up-isp-with-a-raspberry-pi/",
-      "score": 40,
-      "comments": 11,
+      "score": 54,
+      "comments": 15,
       "author": "arjunbajaj",
       "tags": [],
       "date": "2026-04-03T15:08:16+00:00"
@@ -161,8 +195,8 @@
       "source": "hn",
       "title": "Big-Endian Testing with QEMU",
       "url": "https://www.hanshq.net/big-endian-qemu.html",
-      "score": 65,
-      "comments": 58,
+      "score": 71,
+      "comments": 64,
       "author": "jandeboevrie",
       "tags": [],
       "date": "2026-04-03T13:28:58+00:00"
@@ -183,8 +217,8 @@
       "source": "hn",
       "title": "Show HN: I built a frontpage for personal blogs",
       "url": "https://text.blogosphere.app/",
-      "score": 491,
-      "comments": 138,
+      "score": 521,
+      "comments": 147,
       "author": "ramkarthikk",
       "tags": [],
       "date": "2026-04-03T12:33:45+00:00"
@@ -194,8 +228,8 @@
       "source": "hn",
       "title": "TDF ejects its core developers",
       "url": "https://meeksfamily.uk/~michael/blog/2026-04-02-tdf-ejects-core-devs.html",
-      "score": 131,
-      "comments": 85,
+      "score": 134,
+      "comments": 89,
       "author": "janvdberg",
       "tags": [],
       "date": "2026-04-03T11:53:32+00:00"
@@ -260,8 +294,8 @@
       "source": "hn",
       "title": "SSH certificates: the better SSH experience",
       "url": "https://jpmens.net/2026/04/03/ssh-certificates-the-better-ssh-experience/",
-      "score": 150,
-      "comments": 66,
+      "score": 160,
+      "comments": 68,
       "author": "jandeboevrie",
       "tags": [],
       "date": "2026-04-03T09:52:20+00:00"
@@ -271,7 +305,7 @@
       "source": "hn",
       "title": "Category Theory Illustrated – Types",
       "url": "https://abuseofnotation.github.io/category-theory-illustrated/06_type/",
-      "score": 46,
+      "score": 67,
       "comments": 1,
       "author": "boris_m",
       "tags": [],
@@ -304,8 +338,8 @@
       "source": "hn",
       "title": "April 2026 TLDR Setup for Ollama and Gemma 4 26B on a Mac mini",
       "url": "https://gist.github.com/greenstevester/fc49b4e60a4fef9effc79066c1033ae5",
-      "score": 241,
-      "comments": 100,
+      "score": 254,
+      "comments": 102,
       "author": "greenstevester",
       "tags": [],
       "date": "2026-04-03T09:35:16+00:00"
@@ -315,8 +349,8 @@
       "source": "hn",
       "title": "Show HN: Apfel – The free AI already on your Mac",
       "url": "https://apfel.franzai.com",
-      "score": 566,
-      "comments": 129,
+      "score": 583,
+      "comments": 133,
       "author": "franze",
       "tags": [],
       "date": "2026-04-03T09:15:34+00:00"
@@ -385,8 +419,8 @@
       "source": "hn",
       "title": "The Technocracy Movement of the 1930s",
       "url": "https://donotresearch.substack.com/p/welcome-to-the-technocracy",
-      "score": 43,
-      "comments": 24,
+      "score": 56,
+      "comments": 44,
       "author": "lazydogbrownfox",
       "tags": [],
       "date": "2026-04-03T02:29:22+00:00"
@@ -519,8 +553,8 @@
       "source": "hn",
       "title": "We replaced RAG with a virtual filesystem for our AI documentation assistant",
       "url": "https://www.mintlify.com/blog/how-we-built-a-virtual-filesystem-for-our-assistant",
-      "score": 73,
-      "comments": 41,
+      "score": 116,
+      "comments": 58,
       "author": "denssumesh",
       "tags": [],
       "date": "2026-04-02T18:24:29+00:00"
@@ -2825,6 +2859,17 @@
       "date": "2026-03-31T05:11:24+00:00"
     },
     {
+      "id": "hn-47582792",
+      "source": "hn",
+      "title": "You can now run a full Linux operating system inside a 6mb PDF",
+      "url": "https://twitter.com/oliviscusAI/status/2038563166431346865",
+      "score": 30,
+      "comments": 6,
+      "author": "matthewsinclair",
+      "tags": [],
+      "date": "2026-03-31T04:34:11+00:00"
+    },
+    {
       "id": "hn-47582545",
       "source": "hn",
       "title": "Semantic – Reducing LLM \"Agent Loops\" by 27.78% via AST Logic Graphs",
@@ -4218,8 +4263,8 @@
       "source": "hn",
       "title": "Samsung Magician disk utility takes 18 steps and two reboots to uninstall",
       "url": "https://chalmovsky.com/2026/03/29/samsung-magician.html",
-      "score": 287,
-      "comments": 151,
+      "score": 325,
+      "comments": 166,
       "author": "chalmovsky",
       "tags": [],
       "date": "2026-03-29T20:55:46+00:00"
@@ -4841,8 +4886,8 @@
       "source": "hn",
       "title": "Show HN: TurboQuant for vector search – 2-4 bit compression",
       "url": "https://github.com/RyanCodrai/py-turboquant",
-      "score": 51,
-      "comments": 4,
+      "score": 64,
+      "comments": 5,
       "author": "justsomeguy1996",
       "tags": [],
       "date": "2026-03-29T11:10:44+00:00"
@@ -4885,8 +4930,8 @@
       "source": "hn",
       "title": "ESP32-S31: Dual-Core RISC-V SoC with Wi-Fi 6, Bluetooth 5.4, and Advanced HMI",
       "url": "https://www.espressif.com/en/news/ESP32_S31_Release",
-      "score": 167,
-      "comments": 94,
+      "score": 173,
+      "comments": 102,
       "author": "topspin",
       "tags": [],
       "date": "2026-03-29T09:39:23+00:00"
@@ -4953,7 +4998,7 @@
       "source": "hn",
       "title": "What Category Theory Teaches Us About DataFrames",
       "url": "https://mchav.github.io/what-category-theory-teaches-us-about-dataframes/",
-      "score": 152,
+      "score": 155,
       "comments": 48,
       "author": "mchav",
       "tags": [],
@@ -4997,8 +5042,8 @@
       "source": "hn",
       "title": "A Recipe for Steganogravy",
       "url": "https://theo.lol/python/ai/steganography/seo/recipes/2026/03/27/a-recipe-for-steganogravy.html",
-      "score": 103,
-      "comments": 27,
+      "score": 112,
+      "comments": 28,
       "author": "tbrockman",
       "tags": [],
       "date": "2026-03-29T06:56:45+00:00"
@@ -5125,55 +5170,6 @@
       "author": "bookofjoe",
       "tags": [],
       "date": "2026-03-29T00:53:30+00:00"
-    },
-    {
-      "id": "qiita-ccd9d4c434",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "個人開発者がVercelを無料で使い倒す方法【初心者向け完全ガイド】",
-      "url": "https://qiita.com/felix-jp-studio/items/bbf43b4e4fa6b6cf0a10?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "felix-jp-studio",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-03-29T08:59:05+09:00",
-      "severity": "critical"
-    },
-    {
-      "id": "qiita-d3e95975e5",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "【AI活用個人用セキュリティLPICレベル３学習教材】LPIC-3 メルヘンセキュリティ学習図解アプリの全体像とポイント",
-      "url": "https://qiita.com/yukikoblog8376/items/02959512f3c887aaac65?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "yukikoblog8376",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-03-29T08:56:12+09:00"
-    },
-    {
-      "id": "hn-47558997",
-      "source": "hn",
-      "title": "South Korea Mandates Solar Panels for Public Parking Lots",
-      "url": "https://www.reutersconnect.com/item/south-korea-mandates-solar-panels-for-public-parking-lots/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX01UMU5VUlBITzAwMFZKRjFZQQ",
-      "score": 284,
-      "comments": 163,
-      "author": "_____k",
-      "tags": [],
-      "date": "2026-03-28T23:29:04+00:00"
-    },
-    {
-      "id": "hn-47558867",
-      "source": "hn",
-      "title": "One of the largest salt mines in the world exists under Lake Erie",
-      "url": "https://apnews.com/article/cleveland-salt-mine-winter-road-0daf091e3d56f65766bcf6a597683893",
-      "score": 39,
-      "comments": 30,
-      "author": "1659447091",
-      "tags": [],
-      "date": "2026-03-28T23:07:15+00:00"
     },
     {
       "id": "ctf-3420191",

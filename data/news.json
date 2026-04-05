@@ -1,28 +1,92 @@
 {
-  "updated_at": "2026-04-05T07:54:54.267821+00:00",
+  "updated_at": "2026-04-05T08:43:07.145812+00:00",
   "count": 500,
   "items": [
+    {
+      "id": "qiita-f5dcd4d08b",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "FPGAの入出力タイミング制約を可視化するシミュレータを作った",
+      "url": "https://qiita.com/MameMame777/items/9d6e19d36a3f49dc0dae?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "MameMame777",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-04-05T16:06:35+09:00"
+    },
     {
       "id": "hn-47646843",
       "source": "hn",
       "title": "Lisette a little language inspired by Rust that compiles to Go",
       "url": "https://lisette.run/",
-      "score": 4,
-      "comments": 2,
+      "score": 14,
+      "comments": 7,
       "author": "jspdown",
       "tags": [],
       "date": "2026-04-05T06:57:19+00:00"
+    },
+    {
+      "id": "hn-47646472",
+      "source": "hn",
+      "title": "Aegis – open-source FPGA silicon",
+      "url": "https://github.com/MidstallSoftware/aegis",
+      "score": 8,
+      "comments": 0,
+      "author": "rosscomputerguy",
+      "tags": [],
+      "date": "2026-04-05T05:50:04+00:00",
+      "severity": "critical"
+    },
+    {
+      "id": "qiita-67ce6328bf",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "新登場の OCI Enterprise AI Agents で MCPを使ったエージェントを作ろう！",
+      "url": "https://qiita.com/yuji-arakawa/items/d97ded3a9321aaeeb042?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "yuji-arakawa",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-04-05T14:42:03+09:00"
     },
     {
       "id": "hn-47646363",
       "source": "hn",
       "title": "Modern Generic SVGA driver for Windows 3.1",
       "url": "https://github.com/PluMGMK/vbesvga.drv",
-      "score": 15,
-      "comments": 1,
+      "score": 29,
+      "comments": 5,
       "author": "userbinator",
       "tags": [],
       "date": "2026-04-05T05:28:41+00:00"
+    },
+    {
+      "id": "qiita-c962e5ba1a",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "画像AI大全　1-1　AIの全体像",
+      "url": "https://qiita.com/c60evaporator/items/a606c4c3fde199689afc?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "c60evaporator",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-04-05T13:48:34+09:00"
+    },
+    {
+      "id": "qiita-5c33288f12",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "「このボタンどこ？」をAIが解決する。AIリアルタイム操作ナビゲーション「Waylume」をリリース",
+      "url": "https://qiita.com/yoshikim1467/items/382bd11e374df6774ec4?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "yoshikim1467",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-04-05T13:12:19+09:00"
     },
     {
       "id": "hn-47645976",
@@ -51,8 +115,8 @@
       "source": "hn",
       "title": "Introduction to Computer Music (2009) [pdf]",
       "url": "https://composerprogrammer.com/introductiontocomputermusic.pdf",
-      "score": 129,
-      "comments": 37,
+      "score": 137,
+      "comments": 44,
       "author": "luu",
       "tags": [],
       "date": "2026-04-05T01:54:29+00:00"
@@ -84,8 +148,8 @@
       "source": "hn",
       "title": "Show HN: Contrapunk – Real-time counterpoint harmony from guitar input, in Rust",
       "url": "https://contrapunk.com/",
-      "score": 50,
-      "comments": 17,
+      "score": 61,
+      "comments": 20,
       "author": "waveywaves",
       "tags": [],
       "date": "2026-04-05T00:40:18+00:00"
@@ -95,8 +159,8 @@
       "source": "hn",
       "title": "AWS engineer reports PostgreSQL perf halved by Linux 7.0, fix may not be easy",
       "url": "https://www.phoronix.com/news/Linux-7.0-AWS-PostgreSQL-Drop",
-      "score": 251,
-      "comments": 61,
+      "score": 267,
+      "comments": 70,
       "author": "crcastle",
       "tags": [],
       "date": "2026-04-05T00:13:55+00:00"
@@ -106,8 +170,8 @@
       "source": "hn",
       "title": "Nvim-treesitter (13K+ Stars) is Archived",
       "url": "https://github.com/nvim-treesitter/nvim-treesitter/discussions/8627",
-      "score": 85,
-      "comments": 17,
+      "score": 105,
+      "comments": 26,
       "author": "RohanAdwankar",
       "tags": [],
       "date": "2026-04-04T23:39:44+00:00"
@@ -130,8 +194,8 @@
       "source": "hn",
       "title": "Advice to young people, the lies I tell myself (2024)",
       "url": "https://jxnl.co/writing/2024/06/01/advice-to-young-people/",
-      "score": 92,
-      "comments": 25,
+      "score": 97,
+      "comments": 27,
       "author": "mooreds",
       "tags": [],
       "date": "2026-04-04T23:18:54+00:00"
@@ -141,8 +205,8 @@
       "source": "hn",
       "title": "German implementation of eIDAS will require an Apple/Google account to function",
       "url": "https://bmi.usercontent.opencode.de/eudi-wallet/wallet-development-documentation-public/latest/architecture-concept/06-mobile-devices/02-mdvm/",
-      "score": 165,
-      "comments": 112,
+      "score": 211,
+      "comments": 140,
       "author": "DyslexicAtheist",
       "tags": [],
       "date": "2026-04-04T22:57:44+00:00"
@@ -164,7 +228,7 @@
       "source": "hn",
       "title": "Show HN: M. C. Escher spiral in WebGL inspired by 3Blue1Brown",
       "url": "https://static.laszlokorte.de/escher/",
-      "score": 66,
+      "score": 72,
       "comments": 12,
       "author": "laszlokorte",
       "tags": [],
@@ -175,8 +239,8 @@
       "source": "hn",
       "title": "How many products does Microsoft have named 'Copilot'?",
       "url": "https://teybannerman.com/strategy/2026/03/31/how-many-microsoft-copilot-are-there.html",
-      "score": 584,
-      "comments": 288,
+      "score": 614,
+      "comments": 297,
       "author": "gpi",
       "tags": [],
       "date": "2026-04-04T19:39:43+00:00"
@@ -248,12 +312,25 @@
       "date": "2026-04-04T17:20:39+00:00"
     },
     {
+      "id": "qiita-cfa661dd92",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "Gemma 4 完全解説：Googleの最新OSSモデルはDeepSeekやQwenと戦えるか？",
+      "url": "https://qiita.com/rikiza1989/items/dcb7e801065706853cfd?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "rikiza1989",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-04-05T02:11:04+09:00"
+    },
+    {
       "id": "hn-47640875",
       "source": "hn",
       "title": "LLM Wiki – example of an \"idea file\"",
       "url": "https://gist.github.com/karpathy/442a6bf555914893e9891c11519de94f",
-      "score": 158,
-      "comments": 45,
+      "score": 172,
+      "comments": 47,
       "author": "tamnd",
       "tags": [],
       "date": "2026-04-04T16:57:45+00:00"
@@ -274,8 +351,8 @@
       "source": "hn",
       "title": "Show HN: A game where you build a GPU",
       "url": "https://jaso1024.com/mvidia/",
-      "score": 667,
-      "comments": 149,
+      "score": 697,
+      "comments": 150,
       "author": "Jaso1024",
       "tags": [],
       "date": "2026-04-04T16:45:54+00:00"
@@ -343,8 +420,8 @@
       "source": "hn",
       "title": "Show HN: sllm – Split a GPU node with other developers, unlimited tokens",
       "url": "https://sllm.cloud",
-      "score": 152,
-      "comments": 75,
+      "score": 155,
+      "comments": 77,
       "author": "jrandolf",
       "tags": [],
       "date": "2026-04-04T15:18:58+00:00"
@@ -385,6 +462,19 @@
       "date": "2026-04-04T14:53:16+00:00"
     },
     {
+      "id": "qiita-ff63254a9c",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "Raspberry Pi 4 で地デジ録画サーバーを構築する（Mirakurun + EPGStation + HWエンコード）",
+      "url": "https://qiita.com/YMatsubara/items/62c9ec8a9fd0f06311ec?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "YMatsubara",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-04-04T23:48:59+09:00"
+    },
+    {
       "id": "hn-47639524",
       "source": "hn",
       "title": "Author of \"Careless People\" banned from saying anything negative about Meta",
@@ -400,8 +490,8 @@
       "source": "hn",
       "title": "Show HN: I made open source, zero power PCB hackathon badges",
       "url": "https://github.com/KaiPereira/Overglade-Badges",
-      "score": 87,
-      "comments": 9,
+      "score": 94,
+      "comments": 10,
       "author": "kaipereira",
       "tags": [],
       "date": "2026-04-04T14:20:21+00:00",
@@ -412,7 +502,7 @@
       "source": "hn",
       "title": "The Indie Internet Index – submit your favorite sites",
       "url": "https://iii.social",
-      "score": 134,
+      "score": 139,
       "comments": 27,
       "author": "freshman_dev",
       "tags": [],
@@ -423,7 +513,7 @@
       "source": "hn",
       "title": "Components of a Coding Agent",
       "url": "https://magazine.sebastianraschka.com/p/components-of-a-coding-agent",
-      "score": 227,
+      "score": 232,
       "comments": 71,
       "author": "MindGods",
       "tags": [],
@@ -498,6 +588,19 @@
       "date": "2026-04-04T06:30:25+00:00"
     },
     {
+      "id": "qiita-eb98a58cc2",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "【AI-DLC】AWSが提唱する「AI-DLC」とは？〜AIファーストの開発ライフサイクルを理解する〜",
+      "url": "https://qiita.com/ryu-ki/items/a70ec13e4b622a37cd6f?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "ryu-ki",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-04-04T15:17:30+09:00"
+    },
+    {
       "id": "qiita-d34483fc92",
       "source": "zennqiita",
       "sub_source": "Qiita",
@@ -533,6 +636,19 @@
         "Qiita"
       ],
       "date": "2026-04-04T12:21:51+09:00"
+    },
+    {
+      "id": "qiita-5c48f00a05",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "ODBCドライバーは何をしているのか？ ─ DB接続の「見えない翻訳者」を理解する",
+      "url": "https://qiita.com/ktdatascience/items/6fff369a0f20223a821f?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "ktdatascience",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-04-04T12:15:00+09:00"
     },
     {
       "id": "hn-47635056",
@@ -1399,6 +1515,19 @@
       "date": "2026-04-03T04:09:50+00:00"
     },
     {
+      "id": "qiita-efbd75f70c",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "バイブコーディングの光と影 — 工数87%削減の裏にあるバグ密度1.7倍問題",
+      "url": "https://qiita.com/nogataka/items/e619153909786c432314?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "nogataka",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-04-03T12:29:36+09:00"
+    },
+    {
       "id": "qiita-7a3857e88c",
       "source": "zennqiita",
       "sub_source": "Qiita",
@@ -1410,6 +1539,19 @@
         "Qiita"
       ],
       "date": "2026-04-03T12:28:57+09:00"
+    },
+    {
+      "id": "qiita-ecdb29dada",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "axios乗っ取り事件の全容 — 39分間で何が起きたか、そして今すぐやるべき防御策",
+      "url": "https://qiita.com/nogataka/items/17c497375ed2c6c3d054?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "nogataka",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-04-03T12:28:33+09:00"
     },
     {
       "id": "hn-47622616",
@@ -1754,8 +1896,8 @@
       "source": "hn",
       "title": "Software never had a soul",
       "url": "https://www.jmduke.com/posts/software-never-had-a-soul.html",
-      "score": 9,
-      "comments": 1,
+      "score": 12,
+      "comments": 5,
       "author": "firloop",
       "tags": [],
       "date": "2026-04-02T15:53:45+00:00"
@@ -1878,8 +2020,8 @@
       "source": "hn",
       "title": "Ruckus: Racket for iOS",
       "url": "https://ruckus.defn.io/",
-      "score": 119,
-      "comments": 9,
+      "score": 121,
+      "comments": 10,
       "author": "nsm",
       "tags": [],
       "date": "2026-04-02T13:54:12+00:00"
@@ -1948,8 +2090,8 @@
       "source": "hn",
       "title": "Show HN: I built a small app for FSI German Course",
       "url": "https://detawk.com/",
-      "score": 22,
-      "comments": 5,
+      "score": 26,
+      "comments": 6,
       "author": "syedmsawaid",
       "tags": [],
       "date": "2026-04-02T11:44:01+00:00"
@@ -2555,6 +2697,17 @@
       "date": "2026-04-01T22:38:25+00:00"
     },
     {
+      "id": "hn-47607408",
+      "source": "hn",
+      "title": "Scientists Figured Out How Eels Reproduce (2022)",
+      "url": "https://www.intelligentliving.co/scientists-finally-figured-out-how-eels-reproduce/",
+      "score": 10,
+      "comments": 0,
+      "author": "thunderbong",
+      "tags": [],
+      "date": "2026-04-01T22:33:54+00:00"
+    },
+    {
       "id": "hn-47607326",
       "source": "hn",
       "title": "The Windows equivalents of the most used Linux commands",
@@ -3066,8 +3219,8 @@
       "source": "hn",
       "title": "Rubysyn: Clarifying Ruby's Syntax and Semantics",
       "url": "https://github.com/squadette/rubysyn/blob/master/README.md",
-      "score": 30,
-      "comments": 0,
+      "score": 35,
+      "comments": 2,
       "author": "petalmind",
       "tags": [],
       "date": "2026-04-01T09:54:18+00:00"
@@ -3402,8 +3555,8 @@
       "source": "hn",
       "title": "OpenScreen is an open-source alternative to Screen Studio",
       "url": "https://github.com/siddharthvaddem/openscreen",
-      "score": 237,
-      "comments": 43,
+      "score": 257,
+      "comments": 47,
       "author": "jskopek",
       "tags": [],
       "date": "2026-04-01T01:31:46+00:00",
@@ -3851,8 +4004,8 @@
       "source": "hn",
       "title": "Zml-smi: universal monitoring tool for GPUs, TPUs and NPUs",
       "url": "https://zml.ai/posts/zml-smi/",
-      "score": 29,
-      "comments": 4,
+      "score": 40,
+      "comments": 6,
       "author": "steeve",
       "tags": [],
       "date": "2026-03-31T13:29:53+00:00"
@@ -5027,147 +5180,6 @@
       "author": "bookofjoe",
       "tags": [],
       "date": "2026-03-30T09:18:47+00:00"
-    },
-    {
-      "id": "hn-47572000",
-      "source": "hn",
-      "title": "Stripe is down",
-      "url": "https://status.stripe.com/",
-      "score": 27,
-      "comments": 9,
-      "author": "tompccs",
-      "tags": [],
-      "date": "2026-03-30T08:51:18+00:00"
-    },
-    {
-      "id": "qiita-7d9cc52e8a",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "暗号技術のユーザビリティに関する研究にて山下記念研究賞を受賞しました",
-      "url": "https://qiita.com/melkdr/items/43d923fbb0e03bb474a1?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "melkdr",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-03-30T17:08:41+09:00"
-    },
-    {
-      "id": "qiita-2c7db794b4",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "Pythonで実装して理解する RDBパフォーマンスチューニング入門 ─ フルスキャンとインデックスの仕組み",
-      "url": "https://qiita.com/take-yoda/items/ecc6e9b174b2e5e97406?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "take-yoda",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-03-30T17:00:48+09:00"
-    },
-    {
-      "id": "qiita-6f5085e9aa",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "【初心者・非エンジニア向け】Google Workspace x Gemini で社内ツールを作成 & 社内向け公開する方法",
-      "url": "https://qiita.com/Ryo-Nakano/items/19f9ccafa4008aec8340?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "Ryo-Nakano",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-03-30T16:58:01+09:00"
-    },
-    {
-      "id": "hn-47571495",
-      "source": "hn",
-      "title": "Hamilton-Jacobi-Bellman Equation: Reinforcement Learning and Diffusion Models",
-      "url": "https://dani2442.github.io/posts/continuous-rl/",
-      "score": 131,
-      "comments": 38,
-      "author": "sebzuddas",
-      "tags": [],
-      "date": "2026-03-30T07:34:04+00:00",
-      "severity": "critical"
-    },
-    {
-      "id": "hn-47571376",
-      "source": "hn",
-      "title": "I use Excalidraw to manage my diagrams for my blog",
-      "url": "https://blog.lysk.tech/excalidraw-frame-export/",
-      "score": 235,
-      "comments": 99,
-      "author": "mlysk",
-      "tags": [],
-      "date": "2026-03-30T07:17:06+00:00"
-    },
-    {
-      "id": "hn-47571330",
-      "source": "hn",
-      "title": "Good CTE, Bad CTE",
-      "url": "https://boringsql.com/posts/good-cte-bad-cte/",
-      "score": 128,
-      "comments": 28,
-      "author": "radimm",
-      "tags": [],
-      "date": "2026-03-30T07:11:11+00:00"
-    },
-    {
-      "id": "hn-47571279",
-      "source": "hn",
-      "title": "I am definitely missing the pre-AI writing era",
-      "url": "https://www.lesswrong.com/posts/BJ4pnropWdnzzgeJc/i-am-definitely-missing-the-pre-ai-writing-era",
-      "score": 273,
-      "comments": 208,
-      "author": "joozio",
-      "tags": [],
-      "date": "2026-03-30T07:03:18+00:00"
-    },
-    {
-      "id": "hn-47571183",
-      "source": "hn",
-      "title": "Show HN: CLI to order groceries via reverse-engineered REWE API (Haskell)",
-      "url": "https://github.com/yannick-cw/korb",
-      "score": 181,
-      "comments": 78,
-      "author": "wazHFsRy",
-      "tags": [],
-      "date": "2026-03-30T06:45:58+00:00"
-    },
-    {
-      "id": "qiita-dff1afb642",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "これからのスキルについて",
-      "url": "https://qiita.com/185shingeki/items/6207ad9caa6062d21f7b?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "185shingeki",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-03-30T15:40:19+09:00"
-    },
-    {
-      "id": "hn-47571064",
-      "source": "hn",
-      "title": "AI and bots have officially taken over the internet",
-      "url": "https://www.cnbc.com/2026/03/26/ai-bots-humans-internet.html",
-      "score": 8,
-      "comments": 3,
-      "author": "zaikunzhang",
-      "tags": [],
-      "date": "2026-03-30T06:29:17+00:00"
-    },
-    {
-      "id": "hn-47570940",
-      "source": "hn",
-      "title": "15 years, one server, 8GB RAM and 500k users – how Webminal refuses to die",
-      "url": "https://community.webminal.org/t/15-years-one-server-8gb-ram-and-500k-users-how-webminal-refuses-to-die/8803",
-      "score": 148,
-      "comments": 29,
-      "author": "giis",
-      "tags": [],
-      "date": "2026-03-30T06:08:53+00:00"
     },
     {
       "id": "ctf-3420191",

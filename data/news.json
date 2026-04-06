@@ -1,7 +1,98 @@
 {
-  "updated_at": "2026-04-06T02:31:18.534805+00:00",
+  "updated_at": "2026-04-06T05:24:21.353681+00:00",
   "count": 500,
   "items": [
+    {
+      "id": "qiita-67ce6328bf",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "新登場の OCI Enterprise AI Agents で MCPを使ったエージェントを作ろう！",
+      "url": "https://qiita.com/yuji-arakawa/items/d97ded3a9321aaeeb042?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "yuji-arakawa",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-04-06T14:03:04+09:00"
+    },
+    {
+      "id": "hn-47656682",
+      "source": "hn",
+      "title": "Winners of the 2026 Kokuyo Design Awards",
+      "url": "https://spoon-tamago.com/winners-of-the-2026-kokuyo-design-awards/",
+      "score": 10,
+      "comments": 0,
+      "author": "zdw",
+      "tags": [],
+      "date": "2026-04-06T03:32:23+00:00"
+    },
+    {
+      "id": "hn-47656659",
+      "source": "hn",
+      "title": "Media scraper Gallery-dl is moving to Codeberg after receiving a DMCA notice",
+      "url": "https://github.com/mikf/gallery-dl/discussions/9304",
+      "score": 88,
+      "comments": 28,
+      "author": "MoltenMonster",
+      "tags": [],
+      "date": "2026-04-06T03:28:04+00:00"
+    },
+    {
+      "id": "hn-47656622",
+      "source": "hn",
+      "title": "An open-source 240-antenna array to bounce signals off the Moon",
+      "url": "https://moonrf.com/",
+      "score": 25,
+      "comments": 5,
+      "author": "hillcrestenigma",
+      "tags": [],
+      "date": "2026-04-06T03:22:42+00:00",
+      "severity": "critical"
+    },
+    {
+      "id": "hn-47656501",
+      "source": "hn",
+      "title": "The 1987 game \"The Last Ninja\" was 40 kilobytes",
+      "url": "https://twitter.com/exQUIZitely/status/2040777977521398151",
+      "score": 27,
+      "comments": 9,
+      "author": "keepamovin",
+      "tags": [],
+      "date": "2026-04-06T03:03:22+00:00"
+    },
+    {
+      "id": "hn-47656303",
+      "source": "hn",
+      "title": "Case study: recovery of a corrupted 12 TB multi-device pool",
+      "url": "https://github.com/kdave/btrfs-progs/issues/1107",
+      "score": 19,
+      "comments": 0,
+      "author": "salt4034",
+      "tags": [],
+      "date": "2026-04-06T02:28:40+00:00"
+    },
+    {
+      "id": "hn-47656114",
+      "source": "hn",
+      "title": "We replaced Node.js with Bun for 5x throughput",
+      "url": "https://trigger.dev/blog/firebun",
+      "score": 25,
+      "comments": 7,
+      "author": "pier25",
+      "tags": [],
+      "date": "2026-04-06T01:57:59+00:00"
+    },
+    {
+      "id": "hn-47655905",
+      "source": "hn",
+      "title": "Usenet Archives",
+      "url": "https://usenetarchives.com",
+      "score": 13,
+      "comments": 1,
+      "author": "myth_drannon",
+      "tags": [],
+      "date": "2026-04-06T01:33:00+00:00"
+    },
     {
       "id": "hn-47655618",
       "source": "hn",
@@ -31,32 +122,19 @@
       "source": "hn",
       "title": "Employers use your personal data to figure out the lowest salary you'll accept",
       "url": "https://www.marketwatch.com/story/employers-are-using-your-personal-data-to-figure-out-the-lowest-salary-youll-accept-c2b968fb",
-      "score": 67,
-      "comments": 14,
+      "score": 142,
+      "comments": 61,
       "author": "thisislife2",
       "tags": [],
       "date": "2026-04-06T00:29:08+00:00"
-    },
-    {
-      "id": "qiita-67ce6328bf",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "新登場の OCI Enterprise AI Agents で MCPを使ったエージェントを作ろう！",
-      "url": "https://qiita.com/yuji-arakawa/items/d97ded3a9321aaeeb042?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "yuji-arakawa",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-04-06T09:28:28+09:00"
     },
     {
       "id": "hn-47655408",
       "source": "hn",
       "title": "Show HN: I built a tiny LLM to demystify how language models work",
       "url": "https://github.com/arman-bd/guppylm",
-      "score": 56,
-      "comments": 4,
+      "score": 208,
+      "comments": 16,
       "author": "armanified",
       "tags": [],
       "date": "2026-04-06T00:20:12+00:00"
@@ -66,8 +144,8 @@
       "source": "hn",
       "title": "Show HN: YouTube search barely works, I made a search form with advanced filters",
       "url": "https://playlists.at/youtube/search/",
-      "score": 68,
-      "comments": 43,
+      "score": 147,
+      "comments": 94,
       "author": "nevernothing",
       "tags": [],
       "date": "2026-04-06T00:18:26+00:00"
@@ -77,8 +155,8 @@
       "source": "hn",
       "title": "Show HN: Gemma Gem – AI model embedded in a browser – no API keys, no cloud",
       "url": "https://github.com/kessler/gemma-gem",
-      "score": 9,
-      "comments": 0,
+      "score": 38,
+      "comments": 4,
       "author": "ikessler",
       "tags": [],
       "date": "2026-04-06T00:14:37+00:00"
@@ -99,8 +177,8 @@
       "source": "hn",
       "title": "Copilot is 'for entertainment purposes only', per Microsoft's terms of use",
       "url": "https://techcrunch.com/2026/04/05/copilot-is-for-entertainment-purposes-only-according-to-microsofts-terms-of-service/",
-      "score": 13,
-      "comments": 2,
+      "score": 106,
+      "comments": 17,
       "author": "airstrike",
       "tags": [],
       "date": "2026-04-06T00:07:54+00:00"
@@ -110,8 +188,8 @@
       "source": "hn",
       "title": "Show HN: Modo – I built an open-source alternative to Kiro, Cursor, and Windsurf",
       "url": "https://github.com/mohshomis/modo",
-      "score": 12,
-      "comments": 1,
+      "score": 30,
+      "comments": 3,
       "author": "mohshomis",
       "tags": [],
       "date": "2026-04-05T23:59:10+00:00",
@@ -157,8 +235,8 @@
       "source": "hn",
       "title": "In Japan, the robot isn't coming for your job; it's filling the one nobody wants",
       "url": "https://techcrunch.com/2026/04/05/japan-is-proving-experimental-physical-ai-is-ready-for-the-real-world/",
-      "score": 125,
-      "comments": 133,
+      "score": 146,
+      "comments": 166,
       "author": "rbanffy",
       "tags": [],
       "date": "2026-04-05T22:31:16+00:00"
@@ -212,8 +290,8 @@
       "source": "hn",
       "title": "Gemma 4 on iPhone",
       "url": "https://apps.apple.com/nl/app/google-ai-edge-gallery/id6749645337",
-      "score": 438,
-      "comments": 119,
+      "score": 517,
+      "comments": 133,
       "author": "janandonly",
       "tags": [],
       "date": "2026-04-05T18:45:53+00:00"
@@ -256,8 +334,8 @@
       "source": "hn",
       "title": "Why Switzerland has 25 Gbit internet and America doesn't",
       "url": "https://sschueller.github.io/posts/the-free-market-lie/",
-      "score": 251,
-      "comments": 195,
+      "score": 337,
+      "comments": 263,
       "author": "sschueller",
       "tags": [],
       "date": "2026-04-05T18:29:47+00:00"
@@ -289,8 +367,8 @@
       "source": "hn",
       "title": "Microsoft hasn't had a coherent GUI strategy since Petzold",
       "url": "https://www.jsnover.com/blog/2026/03/13/microsoft-hasnt-had-a-coherent-gui-strategy-since-petzold/",
-      "score": 223,
-      "comments": 125,
+      "score": 310,
+      "comments": 177,
       "author": "naves",
       "tags": [],
       "date": "2026-04-05T17:27:41+00:00"
@@ -311,8 +389,8 @@
       "source": "hn",
       "title": "Running Gemma 4 locally with LM Studio's new headless CLI and Claude Code",
       "url": "https://ai.georgeliu.com/p/running-google-gemma-4-locally-with",
-      "score": 202,
-      "comments": 54,
+      "score": 226,
+      "comments": 56,
       "author": "vbtechguy",
       "tags": [],
       "date": "2026-04-05T17:13:51+00:00"
@@ -456,8 +534,8 @@
       "source": "hn",
       "title": "Artemis II crew see first glimpse of far side of Moon [video]",
       "url": "https://www.bbc.com/news/videos/ce3d5gkd2geo",
-      "score": 420,
-      "comments": 320,
+      "score": 454,
+      "comments": 352,
       "author": "mooreds",
       "tags": [],
       "date": "2026-04-05T14:18:12+00:00"
@@ -511,8 +589,8 @@
       "source": "hn",
       "title": "Eight years of wanting, three months of building with AI",
       "url": "https://lalitm.com/post/building-syntaqlite-ai/",
-      "score": 632,
-      "comments": 204,
+      "score": 713,
+      "comments": 218,
       "author": "brilee",
       "tags": [],
       "date": "2026-04-05T12:43:47+00:00"
@@ -1219,6 +1297,17 @@
       "date": "2026-04-04T11:24:30+00:00"
     },
     {
+      "id": "hn-47638043",
+      "source": "hn",
+      "title": "Rendering arbitrary-scale emojis using the Slug algorithm",
+      "url": "https://leduyquang753.name.vn/blog/2026/4/4/rendering-arbitrary-scale-emojis-using-the-slug-algorithm",
+      "score": 5,
+      "comments": 0,
+      "author": "leduyquang753",
+      "tags": [],
+      "date": "2026-04-04T11:18:44+00:00"
+    },
+    {
       "id": "hn-47637757",
       "source": "hn",
       "title": "Embarrassingly simple self-distillation improves code generation",
@@ -1245,8 +1334,8 @@
       "source": "hn",
       "title": "LÖVE: 2D Game Framework for Lua",
       "url": "https://github.com/love2d/love",
-      "score": 215,
-      "comments": 90,
+      "score": 244,
+      "comments": 98,
       "author": "cl3misch",
       "tags": [],
       "date": "2026-04-04T09:20:34+00:00"
@@ -1263,15 +1352,37 @@
       "date": "2026-04-04T09:04:19+00:00"
     },
     {
+      "id": "hn-47637116",
+      "source": "hn",
+      "title": "Signals, the push-pull based algorithm",
+      "url": "https://willybrauner.com/journal/signal-the-push-pull-based-algorithm",
+      "score": 3,
+      "comments": 0,
+      "author": "mpweiher",
+      "tags": [],
+      "date": "2026-04-04T08:31:20+00:00"
+    },
+    {
       "id": "hn-47636765",
       "source": "hn",
       "title": "Endian wars and anti-portability: this again?",
       "url": "https://dalmatian.life/2026/04/03/endian-wars-and-anti-portability-this-again/",
-      "score": 14,
-      "comments": 9,
+      "score": 37,
+      "comments": 38,
       "author": "awilfox",
       "tags": [],
       "date": "2026-04-04T07:29:41+00:00"
+    },
+    {
+      "id": "hn-47636456",
+      "source": "hn",
+      "title": "Sheets Spreadsheets in Your Terminal",
+      "url": "https://github.com/maaslalani/sheets",
+      "score": 27,
+      "comments": 6,
+      "author": "_____k",
+      "tags": [],
+      "date": "2026-04-04T06:34:12+00:00"
     },
     {
       "id": "hn-47636435",
@@ -5060,122 +5171,6 @@
       "author": "julianrubisch",
       "tags": [],
       "date": "2026-03-31T07:47:50+00:00"
-    },
-    {
-      "id": "hn-47583959",
-      "source": "hn",
-      "title": "Accidentally created my first fork bomb with Claude Code",
-      "url": "https://www.droppedasbaby.com/posts/2602-01/",
-      "score": 44,
-      "comments": 11,
-      "author": "offbyone42",
-      "tags": [],
-      "date": "2026-03-31T07:40:18+00:00"
-    },
-    {
-      "id": "qiita-dfa07a1d11",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "未経験からITエンジニアを目指しているけど、内定先を決めきれない人へ。後悔しにくい考え方を整理してみる",
-      "url": "https://qiita.com/prum_iha/items/1592158be6ca86837429?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "prum_iha",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-03-31T16:34:07+09:00"
-    },
-    {
-      "id": "qiita-6c1599778e",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "【緊急】axiosがサプライチェーン攻撃を受けました 今すぐ確認・対処してください（2026/03/31）",
-      "url": "https://qiita.com/kawabe0201/items/b51cd76daa2fec5029f1?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "kawabe0201",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-03-31T16:13:55+09:00",
-      "severity": "critical"
-    },
-    {
-      "id": "hn-47583712",
-      "source": "hn",
-      "title": "RamAIn (YC W26) Is Hiring",
-      "url": "https://www.ycombinator.com/companies/ramain/jobs/jezgwo5-ai-ml-research-engineer",
-      "score": 1,
-      "comments": 0,
-      "author": "svee",
-      "tags": [],
-      "date": "2026-03-31T07:01:15+00:00"
-    },
-    {
-      "id": "hn-47583151",
-      "source": "hn",
-      "title": "Show HN: Raincast – Describe an app, get a native desktop app (open source)",
-      "url": "https://github.com/tihiera/raincast",
-      "score": 6,
-      "comments": 3,
-      "author": "tito777",
-      "tags": [],
-      "date": "2026-03-31T05:39:41+00:00",
-      "severity": "critical"
-    },
-    {
-      "id": "hn-47583045",
-      "source": "hn",
-      "title": "Google's 200M-parameter time-series foundation model with 16k context",
-      "url": "https://github.com/google-research/timesfm",
-      "score": 253,
-      "comments": 95,
-      "author": "codepawl",
-      "tags": [],
-      "date": "2026-03-31T05:21:59+00:00"
-    },
-    {
-      "id": "hn-47582990",
-      "source": "hn",
-      "title": "Sony halts memory card shipments due to NAND shortage",
-      "url": "https://www.techzine.eu/news/devices/140058/sony-halts-memory-card-shipments-due-to-nand-shortage/",
-      "score": 37,
-      "comments": 10,
-      "author": "methuselah_in",
-      "tags": [],
-      "date": "2026-03-31T05:12:35+00:00"
-    },
-    {
-      "id": "hn-47582987",
-      "source": "hn",
-      "title": "Gone (Almost) Phishin'",
-      "url": "https://ma.tt/2026/03/gone-almost-phishin/",
-      "score": 146,
-      "comments": 68,
-      "author": "luu",
-      "tags": [],
-      "date": "2026-03-31T05:11:39+00:00"
-    },
-    {
-      "id": "hn-47582984",
-      "source": "hn",
-      "title": "GitHub backs down, kills Copilot pull-request ads after backlash",
-      "url": "https://www.theregister.com/2026/03/30/github_copilot_ads_pull_requests/",
-      "score": 455,
-      "comments": 274,
-      "author": "_____k",
-      "tags": [],
-      "date": "2026-03-31T05:11:24+00:00"
-    },
-    {
-      "id": "hn-47582792",
-      "source": "hn",
-      "title": "You can now run a full Linux operating system inside a 6mb PDF",
-      "url": "https://twitter.com/oliviscusAI/status/2038563166431346865",
-      "score": 68,
-      "comments": 17,
-      "author": "matthewsinclair",
-      "tags": [],
-      "date": "2026-03-31T04:34:11+00:00"
     },
     {
       "id": "ctf-3420191",

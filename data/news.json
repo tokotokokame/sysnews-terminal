@@ -1,14 +1,37 @@
 {
-  "updated_at": "2026-04-07T20:06:03.630958+00:00",
+  "updated_at": "2026-04-07T21:11:11.655340+00:00",
   "count": 500,
   "items": [
+    {
+      "id": "hn-47681274",
+      "source": "hn",
+      "title": "Bitcoin and Quantum Computing",
+      "url": "https://nehanarula.org/2026/04/03/bitcoin-and-quantum-computing.html",
+      "score": 5,
+      "comments": 1,
+      "author": "nehan",
+      "tags": [],
+      "date": "2026-04-07T20:56:23+00:00"
+    },
+    {
+      "id": "hn-47680532",
+      "source": "hn",
+      "title": "Cells for NetBSD: kernel-enforced, jail-like isolation",
+      "url": "https://netbsd-cells.petermann-digital.de/",
+      "score": 11,
+      "comments": 2,
+      "author": "akagusu",
+      "tags": [],
+      "date": "2026-04-07T19:54:06+00:00",
+      "severity": "critical"
+    },
     {
       "id": "hn-47680404",
       "source": "hn",
       "title": "S3 Files and the changing face of S3",
       "url": "https://www.allthingsdistributed.com/2026/04/s3-files-and-the-changing-face-of-s3.html",
-      "score": 18,
-      "comments": 1,
+      "score": 82,
+      "comments": 20,
       "author": "werner",
       "tags": [],
       "date": "2026-04-07T19:44:01+00:00"
@@ -18,11 +41,22 @@
       "source": "hn",
       "title": "Show HN: Gemma 4 Multimodal Fine-Tuner for Apple Silicon",
       "url": "https://github.com/mattmireles/gemma-tuner-multimodal",
-      "score": 14,
-      "comments": 2,
+      "score": 58,
+      "comments": 7,
       "author": "MediaSquirrel",
       "tags": [],
       "date": "2026-04-07T19:37:05+00:00"
+    },
+    {
+      "id": "hn-47680023",
+      "source": "hn",
+      "title": "Tailslayer: Library for reducing tail latency in RAM reads",
+      "url": "https://github.com/LaurieWired/tailslayer",
+      "score": 21,
+      "comments": 3,
+      "author": "hasheddan",
+      "tags": [],
+      "date": "2026-04-07T19:16:10+00:00"
     },
     {
       "id": "hn-47679979",
@@ -41,8 +75,8 @@
       "source": "hn",
       "title": "System Card: Claude Mythos Preview [pdf]",
       "url": "https://www-cdn.anthropic.com/53566bf5440a10affd749724787c8913a2ae0841.pdf",
-      "score": 228,
-      "comments": 150,
+      "score": 339,
+      "comments": 231,
       "author": "be7a",
       "tags": [],
       "date": "2026-04-07T18:18:36+00:00"
@@ -52,8 +86,8 @@
       "source": "hn",
       "title": "Assessing Claude Mythos Preview's cybersecurity capabilities",
       "url": "https://red.anthropic.com/2026/mythos-preview/",
-      "score": 127,
-      "comments": 12,
+      "score": 183,
+      "comments": 25,
       "author": "sweis",
       "tags": [],
       "date": "2026-04-07T18:11:31+00:00"
@@ -63,8 +97,8 @@
       "source": "hn",
       "title": "Project Glasswing: Securing critical software for the AI era",
       "url": "https://www.anthropic.com/glasswing",
-      "score": 351,
-      "comments": 136,
+      "score": 529,
+      "comments": 209,
       "author": "Ryan5453",
       "tags": [],
       "date": "2026-04-07T18:09:34+00:00",
@@ -75,19 +109,32 @@
       "source": "hn",
       "title": "Cambodia unveils a statue of famous landmine-sniffing rat Magawa",
       "url": "https://www.bbc.com/news/articles/c0rx7xzd10xo",
-      "score": 151,
-      "comments": 30,
+      "score": 189,
+      "comments": 42,
       "author": "speckx",
       "tags": [],
       "date": "2026-04-07T17:23:43+00:00"
+    },
+    {
+      "id": "qiita-7cf77730b0",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "マルチベンダー開発でAPIの管理責任の所在が曖昧になってしまった話",
+      "url": "https://qiita.com/km23/items/f3deaf3a5c9f31b0e1f9?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "km23",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-04-08T01:38:13+09:00"
     },
     {
       "id": "hn-47677885",
       "source": "hn",
       "title": "Rescuing old printers with an in-browser Linux VM bridged to WebUSB over USB/IP",
       "url": "https://printervention.app/details",
-      "score": 86,
-      "comments": 29,
+      "score": 113,
+      "comments": 37,
       "author": "gmac",
       "tags": [],
       "date": "2026-04-07T16:33:57+00:00"
@@ -97,8 +144,8 @@
       "source": "hn",
       "title": "GLM-5.1: Towards Long-Horizon Tasks",
       "url": "https://z.ai/blog/glm-5.1",
-      "score": 270,
-      "comments": 83,
+      "score": 319,
+      "comments": 94,
       "author": "zixuanlimit",
       "tags": [],
       "date": "2026-04-07T16:32:15+00:00"
@@ -108,8 +155,8 @@
       "source": "hn",
       "title": "Taste in the age of AI and LLMs",
       "url": "https://rajnandan.com/posts/taste-in-the-age-of-ai-and-llms/",
-      "score": 166,
-      "comments": 147,
+      "score": 181,
+      "comments": 166,
       "author": "speckx",
       "tags": [],
       "date": "2026-04-07T15:54:16+00:00"
@@ -163,8 +210,8 @@
       "source": "hn",
       "title": "How a blind man made it possible for others with low vision to build Lego sets",
       "url": "https://apnews.com/article/lego-bricks-for-blind-audio-braille-instructions-5a2a27de4354a0b1443171c3f24f29e4",
-      "score": 5,
-      "comments": 0,
+      "score": 20,
+      "comments": 4,
       "author": "speckx",
       "tags": [],
       "date": "2026-04-07T14:24:30+00:00"
@@ -174,8 +221,8 @@
       "source": "hn",
       "title": "Cloudflare targets 2029 for full post-quantum security",
       "url": "https://blog.cloudflare.com/post-quantum-roadmap/",
-      "score": 200,
-      "comments": 65,
+      "score": 223,
+      "comments": 74,
       "author": "ilreb",
       "tags": [],
       "date": "2026-04-07T14:07:34+00:00"
@@ -207,8 +254,8 @@
       "source": "hn",
       "title": "Google open-sources experimental agent orchestration testbed Scion",
       "url": "https://www.infoq.com/news/2026/04/google-agent-testbed-scion/",
-      "score": 99,
-      "comments": 30,
+      "score": 115,
+      "comments": 37,
       "author": "timbilt",
       "tags": [],
       "date": "2026-04-07T13:39:15+00:00",
@@ -224,6 +271,19 @@
       "author": "goodoldneon",
       "tags": [],
       "date": "2026-04-07T13:34:33+00:00"
+    },
+    {
+      "id": "qiita-a233d203e4",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "自作の短縮URLを社内Slackに貼ったら「フィッシングです」とセキュリティチームに通報された",
+      "url": "https://qiita.com/kojin_dev_hub/items/e8803a092dd192543fb4?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "kojin_dev_hub",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-04-07T22:28:02+09:00"
     },
     {
       "id": "hn-47675013",
@@ -329,8 +389,8 @@
       "source": "hn",
       "title": "Show HN: Brutalist Concrete Laptop Stand (2024)",
       "url": "https://sam-burns.com/posts/concrete-laptop-stand/",
-      "score": 620,
-      "comments": 197,
+      "score": 651,
+      "comments": 200,
       "author": "sam-bee",
       "tags": [],
       "date": "2026-04-07T11:07:44+00:00"
@@ -340,8 +400,8 @@
       "source": "hn",
       "title": "We found an undocumented bug in the Apollo 11 guidance computer code",
       "url": "https://www.juxt.pro/blog/a-bug-on-the-dark-side-of-the-moon/",
-      "score": 341,
-      "comments": 172,
+      "score": 353,
+      "comments": 174,
       "author": "henrygarner",
       "tags": [],
       "date": "2026-04-07T10:25:12+00:00"
@@ -356,6 +416,19 @@
       "author": "nelson687",
       "tags": [],
       "date": "2026-04-07T10:08:25+00:00"
+    },
+    {
+      "id": "qiita-48f113248b",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "Java Stream APIをfor文と比較【初心者向け】",
+      "url": "https://qiita.com/w_pechi/items/27ca37ee66931f3a39b4?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "w_pechi",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-04-07T19:07:34+09:00"
     },
     {
       "id": "hn-47672818",
@@ -378,6 +451,32 @@
       "author": "sprado",
       "tags": [],
       "date": "2026-04-07T09:51:28+00:00"
+    },
+    {
+      "id": "qiita-9526ad7177",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "React の state とは何かを改めて整理した",
+      "url": "https://qiita.com/ryo_sh/items/ef1af33a71b1e4ead816?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "ryo_sh",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-04-07T18:43:47+09:00"
+    },
+    {
+      "id": "qiita-f7710c5115",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "【Git】実務でよく使うGitコマンドまとめ",
+      "url": "https://qiita.com/yuto-vj/items/0752494aae131cc07359?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "yuto-vj",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-04-07T18:35:04+09:00"
     },
     {
       "id": "hn-47672642",
@@ -441,8 +540,8 @@
       "source": "hn",
       "title": "John Coltrane Illustrates the Mathematics of Jazz",
       "url": "https://www.americanjazzmusicsociety.com/blog/john-coltrane-draws",
-      "score": 60,
-      "comments": 4,
+      "score": 74,
+      "comments": 5,
       "author": "luu",
       "tags": [],
       "date": "2026-04-07T05:58:01+00:00"
@@ -719,8 +818,8 @@
       "source": "hn",
       "title": "AI helps add 10k more photos to OldNYC",
       "url": "https://www.danvk.org/2026/03/08/oldnyc-updates.html",
-      "score": 70,
-      "comments": 20,
+      "score": 88,
+      "comments": 30,
       "author": "evakhoury",
       "tags": [],
       "date": "2026-04-06T18:24:32+00:00"
@@ -769,6 +868,32 @@
       "tags": [],
       "date": "2026-04-06T17:37:38+00:00",
       "severity": "critical"
+    },
+    {
+      "id": "qiita-aa4eba4fbb",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "動かして検証する新世代ローカルLLM対決 on Windows　1Bit LLM Bonsai-8b vs Gemma4",
+      "url": "https://qiita.com/mi-ta/items/0ea828992c96075e9563?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "mi-ta",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-04-07T02:32:27+09:00"
+    },
+    {
+      "id": "qiita-04938b37ff",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "1-bit LLM の Bonsai を Google Pixel 7aのLinuxターミナルで試す",
+      "url": "https://qiita.com/revsystem/items/d1573be74bdd4b04b1fb?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "revsystem",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-04-07T02:07:32+09:00"
     },
     {
       "id": "hn-47663207",
@@ -984,6 +1109,19 @@
       "date": "2026-04-06T11:39:03+00:00"
     },
     {
+      "id": "qiita-9ce010e7ce",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "API GatewayからDynamoDB/S3へダイレクト統合できる「AWSサービス統合」の概要",
+      "url": "https://qiita.com/hiroki2712/items/b70395e19d1f0891b3df?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "hiroki2712",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-04-06T20:30:38+09:00"
+    },
+    {
       "id": "hn-47659252",
       "source": "hn",
       "title": "Is Germany's gold safe in New York ?",
@@ -1134,8 +1272,8 @@
       "source": "hn",
       "title": "The Image Boards of Hayao Miyazaki",
       "url": "https://animationobsessive.substack.com/p/the-image-boards-of-hayao-miyazaki",
-      "score": 16,
-      "comments": 3,
+      "score": 37,
+      "comments": 6,
       "author": "vinhnx",
       "tags": [],
       "date": "2026-04-06T07:56:34+00:00"
@@ -1182,8 +1320,8 @@
       "source": "hn",
       "title": "A truck driver spent 20 years making a scale model of every building in NYC",
       "url": "https://www.smithsonianmag.com/smart-news/a-truck-drive-spent-20-years-making-this-astonishing-scale-model-of-every-single-building-in-new-york-city-180988443/",
-      "score": 90,
-      "comments": 10,
+      "score": 155,
+      "comments": 22,
       "author": "1659447091",
       "tags": [],
       "date": "2026-04-06T05:22:24+00:00"
@@ -1737,6 +1875,17 @@
       "author": "thunderbong",
       "tags": [],
       "date": "2026-04-05T16:21:51+00:00"
+    },
+    {
+      "id": "hn-47650887",
+      "source": "hn",
+      "title": "How to Get Better at Guitar",
+      "url": "https://www.jakeworth.com/posts/how-to-get-better-at-guitar/",
+      "score": 47,
+      "comments": 12,
+      "author": "jwworth",
+      "tags": [],
+      "date": "2026-04-05T16:14:12+00:00"
     },
     {
       "id": "hn-47650726",
@@ -3165,8 +3314,8 @@
       "source": "hn",
       "title": "A new Postcrossing stamp from the USA",
       "url": "https://www.postcrossing.com/blog/2026/03/31/a-new-postcrossing-stamp-from-the-usa",
-      "score": 57,
-      "comments": 16,
+      "score": 62,
+      "comments": 21,
       "author": "Tomte",
       "tags": [],
       "date": "2026-04-03T20:04:05+00:00"
@@ -3402,8 +3551,8 @@
       "source": "hn",
       "title": "Boneyard: Generate pixel-perfect skeleton screens from your real DOM",
       "url": "https://github.com/0xGF/boneyard",
-      "score": 8,
-      "comments": 1,
+      "score": 18,
+      "comments": 7,
       "author": "steveharing1",
       "tags": [],
       "date": "2026-04-03T15:49:08+00:00"
@@ -5016,144 +5165,6 @@
         "Qiita"
       ],
       "date": "2026-04-02T12:16:38+09:00"
-    },
-    {
-      "id": "hn-47609564",
-      "source": "hn",
-      "title": "Steam on Linux Use Skyrocketed Above 5% in March",
-      "url": "https://www.phoronix.com/news/Steam-On-Linux-Tops-5p",
-      "score": 593,
-      "comments": 273,
-      "author": "hkmaxpro",
-      "tags": [],
-      "date": "2026-04-02T03:12:24+00:00"
-    },
-    {
-      "id": "qiita-6f02d5b57a",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "GitHub Desktopの『ボタン』をGitコマンドで理解する ~ブラックボックスを脱却する初級編~",
-      "url": "https://qiita.com/chaochire/items/d3722678d307e0253957?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "chaochire",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-04-02T12:09:08+09:00"
-    },
-    {
-      "id": "hn-47609356",
-      "source": "hn",
-      "title": "Artemis II's toilet is a moon mission milestone",
-      "url": "https://www.scientificamerican.com/article/artemis-iis-toilet-is-a-moon-mission-milestone/",
-      "score": 311,
-      "comments": 148,
-      "author": "1659447091",
-      "tags": [],
-      "date": "2026-04-02T02:37:12+00:00"
-    },
-    {
-      "id": "hn-47609294",
-      "source": "hn",
-      "title": "The Claude Code Leak",
-      "url": "https://build.ms/2026/4/1/the-claude-code-leak/",
-      "score": 127,
-      "comments": 86,
-      "author": "mergesort",
-      "tags": [],
-      "date": "2026-04-02T02:26:05+00:00"
-    },
-    {
-      "id": "hn-47609241",
-      "source": "hn",
-      "title": "Trinity Large Thinking",
-      "url": "https://openrouter.ai/arcee-ai/trinity-large-thinking",
-      "score": 28,
-      "comments": 12,
-      "author": "kristianp",
-      "tags": [],
-      "date": "2026-04-02T02:15:28+00:00"
-    },
-    {
-      "id": "hn-47609090",
-      "source": "hn",
-      "title": "Weather.com/Retro",
-      "url": "https://weather.com/retro/",
-      "score": 202,
-      "comments": 34,
-      "author": "typeofhuman",
-      "tags": [],
-      "date": "2026-04-02T01:48:18+00:00"
-    },
-    {
-      "id": "qiita-2c54581df1",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "【35歳未経験でも理解できた】Webシステムの全体像",
-      "url": "https://qiita.com/wata-sho/items/a185ecd13bf4be6cf65c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "wata-sho",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-04-02T10:31:49+09:00"
-    },
-    {
-      "id": "qiita-ad8c70ddfa",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "【Private Agent Factory】Select AI（NL2SQL）をGUIでセットアップしてAIエージェントを作ろう",
-      "url": "https://qiita.com/yushibats/items/38f702c584c057a0650c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "yushibats",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-04-02T09:53:49+09:00"
-    },
-    {
-      "id": "hn-47608604",
-      "source": "hn",
-      "title": "Why LLM-Generated Passwords Are Dangerously Insecure",
-      "url": "https://www.irregular.com/publications/vibe-password-generation",
-      "score": 11,
-      "comments": 2,
-      "author": "zdw",
-      "tags": [],
-      "date": "2026-04-02T00:39:53+00:00"
-    },
-    {
-      "id": "hn-47608602",
-      "source": "hn",
-      "title": "The beginning of programming as we'll know it?",
-      "url": "https://bitsplitting.org/2026/04/01/the-beginning-of-programming-as-well-know-it/",
-      "score": 47,
-      "comments": 33,
-      "author": "zdw",
-      "tags": [],
-      "date": "2026-04-02T00:39:26+00:00"
-    },
-    {
-      "id": "hn-47608495",
-      "source": "hn",
-      "title": "Quantum computing bombshells that are not April Fools",
-      "url": "https://scottaaronson.blog/?p=9665",
-      "score": 232,
-      "comments": 72,
-      "author": "Strilanc",
-      "tags": [],
-      "date": "2026-04-02T00:24:43+00:00"
-    },
-    {
-      "id": "hn-47608155",
-      "source": "hn",
-      "title": "ZomboCom stolen by a hacker, sold, now replaced with AI-generated makeover",
-      "url": "https://old.reddit.com/r/oldinternet/comments/1raiz8v/zombocom_was_stolen_by_hacker_put_up_for_sale_and/",
-      "score": 47,
-      "comments": 19,
-      "author": "bananaboy",
-      "tags": [],
-      "date": "2026-04-01T23:45:03+00:00"
     },
     {
       "id": "ctf-3420191",

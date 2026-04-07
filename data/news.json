@@ -1,25 +1,91 @@
 {
-  "updated_at": "2026-04-07T11:54:39.415050+00:00",
+  "updated_at": "2026-04-07T13:19:44.873367+00:00",
   "count": 500,
   "items": [
     {
+      "id": "hn-47674234",
+      "source": "hn",
+      "title": "\"The new Copilot app for Windows 11 is really just Microsoft Edge\"",
+      "url": "https://twitter.com/i/status/2041112541909205001",
+      "score": 24,
+      "comments": 7,
+      "author": "bundie",
+      "tags": [],
+      "date": "2026-04-07T12:27:59+00:00"
+    },
+    {
+      "id": "hn-47674027",
+      "source": "hn",
+      "title": "Show HN: A cartographer's attempt to realistically map Tolkien's world",
+      "url": "https://www.intofarlands.com/atlasofarda",
+      "score": 25,
+      "comments": 3,
+      "author": "intofarlands",
+      "tags": [],
+      "date": "2026-04-07T12:12:15+00:00"
+    },
+    {
+      "id": "hn-47673919",
+      "source": "hn",
+      "title": "AI agents can communicate with each other, and can't be caught",
+      "url": "https://arxiv.org/abs/2604.04757",
+      "score": 6,
+      "comments": 0,
+      "author": "cryptohell",
+      "tags": [],
+      "date": "2026-04-07T12:04:34+00:00"
+    },
+    {
+      "id": "hn-47673880",
+      "source": "hn",
+      "title": "Show HN: Pion/handoff – Move WebRTC out of browser and into Go",
+      "url": "https://github.com/pion/handoff",
+      "score": 18,
+      "comments": 1,
+      "author": "Sean-Der",
+      "tags": [],
+      "date": "2026-04-07T12:01:51+00:00"
+    },
+    {
       "id": "hn-47673541",
       "source": "hn",
-      "title": "LLM may be standardizing human expression – and subtly influencing how we think",
+      "title": "AI may be making us think and write more alike",
       "url": "https://dornsife.usc.edu/news/stories/ai-may-be-making-us-think-and-write-more-alike/",
-      "score": 11,
-      "comments": 1,
+      "score": 87,
+      "comments": 65,
       "author": "giuliomagnifico",
       "tags": [],
       "date": "2026-04-07T11:29:02+00:00"
+    },
+    {
+      "id": "hn-47673394",
+      "source": "hn",
+      "title": "Show HN: Stop paying for Dropbox/Google Drive, use your own S3 bucket instead",
+      "url": "https://locker.dev",
+      "score": 66,
+      "comments": 64,
+      "author": "Zm44",
+      "tags": [],
+      "date": "2026-04-07T11:12:17+00:00"
+    },
+    {
+      "id": "hn-47673379",
+      "source": "hn",
+      "title": "DeiMOS – A Superoptimizer for the MOS 6502",
+      "url": "https://aransentin.github.io/deimos/",
+      "score": 16,
+      "comments": 2,
+      "author": "Aransentin",
+      "tags": [],
+      "date": "2026-04-07T11:10:22+00:00"
     },
     {
       "id": "hn-47673360",
       "source": "hn",
       "title": "Show HN: Brutalist Concrete Laptop Stand (2024)",
       "url": "https://sam-burns.com/posts/concrete-laptop-stand/",
-      "score": 16,
-      "comments": 2,
+      "score": 71,
+      "comments": 15,
       "author": "sam-bee",
       "tags": [],
       "date": "2026-04-07T11:07:44+00:00"
@@ -29,8 +95,8 @@
       "source": "hn",
       "title": "We found an undocumented bug in the Apollo 11 guidance computer code",
       "url": "https://www.juxt.pro/blog/a-bug-on-the-dark-side-of-the-moon/",
-      "score": 54,
-      "comments": 22,
+      "score": 134,
+      "comments": 67,
       "author": "henrygarner",
       "tags": [],
       "date": "2026-04-07T10:25:12+00:00"
@@ -40,8 +106,8 @@
       "source": "hn",
       "title": "Identify a London Underground Line just by listening to it",
       "url": "https://tubesoundquiz.com/",
-      "score": 37,
-      "comments": 10,
+      "score": 68,
+      "comments": 17,
       "author": "nelson687",
       "tags": [],
       "date": "2026-04-07T10:08:25+00:00"
@@ -62,8 +128,8 @@
       "source": "hn",
       "title": "Breaking the console: a brief history of video game security",
       "url": "https://sergioprado.blog/breaking-the-console-a-brief-history-of-video-game-security/",
-      "score": 20,
-      "comments": 2,
+      "score": 42,
+      "comments": 7,
       "author": "sprado",
       "tags": [],
       "date": "2026-04-07T09:51:28+00:00"
@@ -85,8 +151,8 @@
       "source": "hn",
       "title": "Blackholing My Email",
       "url": "https://www.johnsto.co.uk/blog/blackholing-my-email/",
-      "score": 35,
-      "comments": 0,
+      "score": 72,
+      "comments": 1,
       "author": "semyonsh",
       "tags": [],
       "date": "2026-04-07T08:42:05+00:00"
@@ -96,8 +162,8 @@
       "source": "hn",
       "title": "Every GPU That Mattered",
       "url": "https://sheets.works/data-viz/every-gpu",
-      "score": 125,
-      "comments": 64,
+      "score": 152,
+      "comments": 84,
       "author": "jonbaer",
       "tags": [],
       "date": "2026-04-07T08:38:17+00:00"
@@ -143,8 +209,8 @@
       "source": "hn",
       "title": "Three hundred synths, 3 hardware projects, and one app",
       "url": "https://midi.guide/blog/three-hunded-synths-one-app/",
-      "score": 63,
-      "comments": 2,
+      "score": 77,
+      "comments": 7,
       "author": "ductionist",
       "tags": [],
       "date": "2026-04-07T05:12:25+00:00"
@@ -254,7 +320,7 @@
       "source": "hn",
       "title": "Solod – A subset of Go that translates to C",
       "url": "https://github.com/solod-dev/solod",
-      "score": 143,
+      "score": 151,
       "comments": 36,
       "author": "TheWiggles",
       "tags": [],
@@ -331,8 +397,8 @@
       "source": "hn",
       "title": "Show HN: Ghost Pepper – Local hold-to-talk speech-to-text for macOS",
       "url": "https://github.com/matthartman/ghost-pepper",
-      "score": 408,
-      "comments": 180,
+      "score": 415,
+      "comments": 185,
       "author": "MattHart88",
       "tags": [],
       "date": "2026-04-06T19:50:16+00:00"
@@ -454,7 +520,7 @@
       "title": "Launch HN: Freestyle – Sandboxes for Coding Agents",
       "url": "https://www.freestyle.sh/",
       "score": 291,
-      "comments": 148,
+      "comments": 150,
       "author": "benswerd",
       "tags": [],
       "date": "2026-04-06T16:32:11+00:00"
@@ -519,8 +585,8 @@
       "source": "hn",
       "title": "A cryptography engineer's perspective on quantum computing timelines",
       "url": "https://words.filippo.io/crqc-timeline/",
-      "score": 499,
-      "comments": 200,
+      "score": 511,
+      "comments": 204,
       "author": "thadt",
       "tags": [],
       "date": "2026-04-06T15:31:20+00:00"
@@ -599,8 +665,8 @@
       "source": "hn",
       "title": "Issue: Claude Code is unusable for complex engineering tasks with Feb updates",
       "url": "https://github.com/anthropics/claude-code/issues/42796",
-      "score": 1152,
-      "comments": 632,
+      "score": 1195,
+      "comments": 641,
       "author": "StanAngeloff",
       "tags": [],
       "date": "2026-04-06T13:50:35+00:00",
@@ -666,8 +732,8 @@
       "source": "hn",
       "title": "Sam Altman may control our future – can he be trusted?",
       "url": "https://www.newyorker.com/magazine/2026/04/13/sam-altman-may-control-our-future-can-he-be-trusted",
-      "score": 1521,
-      "comments": 619,
+      "score": 1585,
+      "comments": 640,
       "author": "adrianhon",
       "tags": [],
       "date": "2026-04-06T10:36:57+00:00"
@@ -1998,8 +2064,8 @@
       "source": "hn",
       "title": "Floating point from scratch: Hard Mode",
       "url": "https://essenceia.github.io/projects/floating_dragon/",
-      "score": 25,
-      "comments": 1,
+      "score": 43,
+      "comments": 6,
       "author": "random__duck",
       "tags": [],
       "date": "2026-04-04T17:53:40+00:00"
@@ -3099,8 +3165,8 @@
       "source": "hn",
       "title": "Running Out of Disk Space in Production",
       "url": "https://alt-romes.github.io/posts/2026-04-01-running-out-of-disk-space-on-launch.html",
-      "score": 14,
-      "comments": 1,
+      "score": 45,
+      "comments": 17,
       "author": "romes",
       "tags": [],
       "date": "2026-04-03T14:42:28+00:00"
@@ -3202,8 +3268,8 @@
       "source": "hn",
       "title": "Second Revision of 6502 Laptop",
       "url": "https://codeberg.org/TechPaula/LT6502b",
-      "score": 65,
-      "comments": 9,
+      "score": 73,
+      "comments": 16,
       "author": "uticus",
       "tags": [],
       "date": "2026-04-03T13:06:27+00:00"
@@ -3835,6 +3901,17 @@
       "date": "2026-04-02T17:15:33+00:00"
     },
     {
+      "id": "hn-47617103",
+      "source": "hn",
+      "title": "Wi-Fi That Can Withstand a Nuclear Reactor: This receiver chip can take it",
+      "url": "https://spectrum.ieee.org/robotics-in-nuclear-industry",
+      "score": 14,
+      "comments": 0,
+      "author": "voxadam",
+      "tags": [],
+      "date": "2026-04-02T17:05:36+00:00"
+    },
+    {
       "id": "hn-47617027",
       "source": "hn",
       "title": "A forecast of the fair market value of SpaceX's businesses",
@@ -4051,8 +4128,8 @@
       "source": "hn",
       "title": "My Experience as a Rice Farmer",
       "url": "https://xd009642.github.io/2026/04/01/My-Experience-as-a-Rice-Farmer.html",
-      "score": 198,
-      "comments": 83,
+      "score": 218,
+      "comments": 100,
       "author": "surprisetalk",
       "tags": [],
       "date": "2026-04-02T13:53:55+00:00"
@@ -5081,86 +5158,6 @@
       "date": "2026-04-01T15:57:28+00:00"
     },
     {
-      "id": "hn-47602500",
-      "source": "hn",
-      "title": "We Built It with Slide Rules. Then We Forgot How",
-      "url": "https://unmitigatedrisk.com/?p=1227",
-      "score": 6,
-      "comments": 0,
-      "author": "speckx",
-      "tags": [],
-      "date": "2026-04-01T15:50:23+00:00"
-    },
-    {
-      "id": "hn-47602301",
-      "source": "hn",
-      "title": "Marc Andreessen's Dangerously Unexamined Life",
-      "url": "https://www.thenation.com/article/society/marc-andreessen-silicon-valley-military-tech/",
-      "score": 12,
-      "comments": 3,
-      "author": "cassidius",
-      "tags": [],
-      "date": "2026-04-01T15:34:59+00:00"
-    },
-    {
-      "id": "hn-47601992",
-      "source": "hn",
-      "title": "The smallest ELF executable (2021)",
-      "url": "https://nathanotterness.com/2021/10/tiny_elf_modernized.html",
-      "score": 29,
-      "comments": 1,
-      "author": "michelangelo",
-      "tags": [],
-      "date": "2026-04-01T15:12:24+00:00"
-    },
-    {
-      "id": "qiita-d2a4c0cb81",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "Claude Code の流出したソースコードを GitHub に公開した人が著作権違反を回避した方法がヤバすぎ",
-      "url": "https://qiita.com/LostMyCode/items/a867e1954b80e78cf146?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "LostMyCode",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-04-02T00:02:13+09:00"
-    },
-    {
-      "id": "hn-47601570",
-      "source": "hn",
-      "title": "Csp-toolkit – Python library to parse, analyze, and find bypasses in CSP headers",
-      "url": "https://chs.us/2026/03/csp-toolkit/",
-      "score": 6,
-      "comments": 1,
-      "author": "bitscraper",
-      "tags": [],
-      "date": "2026-04-01T14:37:50+00:00",
-      "severity": "high"
-    },
-    {
-      "id": "hn-47601310",
-      "source": "hn",
-      "title": "Iran war sparks renewables boom as Europeans rush to buy solar, heat pumps, EVs",
-      "url": "https://www.euronews.com/2026/03/31/iran-war-sparks-renewables-boom-as-europeans-rush-to-buy-solar-heat-pumps-and-evs",
-      "score": 25,
-      "comments": 15,
-      "author": "vrganj",
-      "tags": [],
-      "date": "2026-04-01T14:19:25+00:00"
-    },
-    {
-      "id": "hn-47601237",
-      "source": "hn",
-      "title": "Puzzlehunts",
-      "url": "https://www.vikramsaraph.com/blog/2026/04/01/puzzlehunts/",
-      "score": 4,
-      "comments": 0,
-      "author": "surprisetalk",
-      "tags": [],
-      "date": "2026-04-01T14:16:12+00:00"
-    },
-    {
       "id": "ctf-3420191",
       "source": "project",
       "proj_category": "CTF",
@@ -5371,6 +5368,45 @@
       "date": "2023-05-23T17:06:23Z"
     },
     {
+      "id": "zenn-0915b6af68",
+      "source": "zennqiita",
+      "sub_source": "Zenn",
+      "title": "Prime Intellect Labで始めるAgentic RL ―― 4BモデルでGPT-5を超える",
+      "url": "https://zenn.dev/mkj/articles/prime-rl-20260401",
+      "score": null,
+      "author": "Taisei Ozaki",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Tue, 07 Apr 2026 02:50:05 GMT"
+    },
+    {
+      "id": "zenn-e2808de7af",
+      "source": "zennqiita",
+      "sub_source": "Zenn",
+      "title": "1件の問い合わせから、3万件/日のユーザ体験を改善したCREの取り組み",
+      "url": "https://zenn.dev/mitene/articles/37670f812485b3",
+      "score": null,
+      "author": "ささたつ",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Tue, 07 Apr 2026 01:59:18 GMT"
+    },
+    {
+      "id": "zenn-f36d2f9d85",
+      "source": "zennqiita",
+      "sub_source": "Zenn",
+      "title": "WASM×グラフDB — ブラウザで動くグラフデータベース",
+      "url": "https://zenn.dev/toyb0x/articles/d9288185baecdc",
+      "score": null,
+      "author": "toyb0x",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Tue, 07 Apr 2026 00:28:29 GMT"
+    },
+    {
       "id": "zenn-762791d2dc",
       "source": "zennqiita",
       "sub_source": "Zenn",
@@ -5423,17 +5459,17 @@
       "date": "Mon, 06 Apr 2026 03:01:05 GMT"
     },
     {
-      "id": "zenn-a54c892456",
+      "id": "zenn-6349f6905a",
       "source": "zennqiita",
       "sub_source": "Zenn",
-      "title": "Vanilla CSSでもデザインシステムを構築したい！：css-var-kitによるtype-awareな補完とLint",
-      "url": "https://zenn.dev/jo16oh/articles/fa8080edc388b3",
+      "title": "Gemma 4がリリース！ローカルLLM勢に嬉しい話",
+      "url": "https://zenn.dev/ap_com/articles/gemma4-release-local-llm-20260406",
       "score": null,
-      "author": "Joichiro Hayashi",
+      "author": "9mak",
       "tags": [
         "Zenn"
       ],
-      "date": "Mon, 06 Apr 2026 02:14:43 GMT"
+      "date": "Mon, 06 Apr 2026 03:00:00 GMT"
     },
     {
       "id": "zenn-f799ba37e4",
@@ -5488,19 +5524,6 @@
       "date": "Sun, 05 Apr 2026 19:52:17 GMT"
     },
     {
-      "id": "zenn-ec9754c422",
-      "source": "zennqiita",
-      "sub_source": "Zenn",
-      "title": "SEなら知っておきたい、OSの\"ルーツ\"の話――Windows / macOS / Linuxの設計思想と歴史【前編】",
-      "url": "https://zenn.dev/kirilab/articles/os-roots-windows-macos-linux",
-      "score": null,
-      "author": "きりラボ",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Sun, 05 Apr 2026 15:57:54 GMT"
-    },
-    {
       "id": "zenn-dd2aa3822e",
       "source": "zennqiita",
       "sub_source": "Zenn",
@@ -5525,19 +5548,6 @@
         "Zenn"
       ],
       "date": "Sun, 05 Apr 2026 11:39:58 GMT"
-    },
-    {
-      "id": "zenn-1ca33678c7",
-      "source": "zennqiita",
-      "sub_source": "Zenn",
-      "title": "git diff --color-wordsが日本語だと見づらい問題への対処",
-      "url": "https://zenn.dev/hnw/articles/e0168f5b2c8115",
-      "score": null,
-      "author": "hnw",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Sun, 05 Apr 2026 11:23:13 GMT"
     },
     {
       "id": "zenn-f6c6deb5c5",
@@ -5616,19 +5626,6 @@
         "Zenn"
       ],
       "date": "Sat, 04 Apr 2026 10:52:04 GMT"
-    },
-    {
-      "id": "zenn-476cd76442",
-      "source": "zennqiita",
-      "sub_source": "Zenn",
-      "title": "Claude Codeスラッシュコマンド、Tier別に全部解説するで｜S〜分析まで完全攻略",
-      "url": "https://zenn.dev/masayan1126/books/claude-code-slash-commands",
-      "score": null,
-      "author": "まさやん",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Sat, 04 Apr 2026 05:52:06 GMT"
     },
     {
       "id": "edb-710535e63d",

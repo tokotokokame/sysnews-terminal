@@ -1,14 +1,25 @@
 {
-  "updated_at": "2026-04-08T22:06:52.350002+00:00",
+  "updated_at": "2026-04-08T23:08:05.395092+00:00",
   "count": 500,
   "items": [
+    {
+      "id": "hn-47696760",
+      "source": "hn",
+      "title": "Show HN: Tired of logic in useEffect, I built a class-based React state manager",
+      "url": "https://thales.me/posts/why-i-built-snapstate/",
+      "score": 5,
+      "comments": 2,
+      "author": "thalesfp",
+      "tags": [],
+      "date": "2026-04-08T21:53:36+00:00"
+    },
     {
       "id": "hn-47696562",
       "source": "hn",
       "title": "Show HN: Is Hormuz open yet?",
       "url": "https://www.ishormuzopenyet.com/",
-      "score": 84,
-      "comments": 29,
+      "score": 149,
+      "comments": 50,
       "author": "anonfunction",
       "tags": [],
       "date": "2026-04-08T21:33:06+00:00"
@@ -18,8 +29,8 @@
       "source": "hn",
       "title": "John Deere to pay $99M in right-to-repair settlement",
       "url": "https://www.thedrive.com/news/john-deere-to-pay-99-million-in-monumental-right-to-repair-settlement",
-      "score": 47,
-      "comments": 8,
+      "score": 92,
+      "comments": 22,
       "author": "CharlesW",
       "tags": [],
       "date": "2026-04-08T20:46:27+00:00"
@@ -40,8 +51,8 @@
       "source": "hn",
       "title": "USB for Software Developers: An introduction to writing userspace USB drivers",
       "url": "https://werwolv.net/posts/usb_for_sw_devs/",
-      "score": 96,
-      "comments": 15,
+      "score": 123,
+      "comments": 21,
       "author": "WerWolv",
       "tags": [],
       "date": "2026-04-08T19:23:34+00:00"
@@ -51,8 +62,8 @@
       "source": "hn",
       "title": "Expanding Swift's IDE Support",
       "url": "https://swift.org/blog/expanding-swift-ide-support/",
-      "score": 48,
-      "comments": 26,
+      "score": 61,
+      "comments": 31,
       "author": "frizlab",
       "tags": [],
       "date": "2026-04-08T19:21:41+00:00"
@@ -73,8 +84,8 @@
       "source": "hn",
       "title": "Show HN: Orange Juice – Small UX improvements that make HN easier to read",
       "url": "http://oj-hn.com/",
-      "score": 59,
-      "comments": 83,
+      "score": 68,
+      "comments": 93,
       "author": "latchkey",
       "tags": [],
       "date": "2026-04-08T18:08:52+00:00"
@@ -84,8 +95,8 @@
       "source": "hn",
       "title": "I've been waiting over a month for Anthropic to respond to my billing issue",
       "url": "https://nickvecchioni.github.io/thoughts/2026/04/08/anthropic-support-doesnt-exist/",
-      "score": 207,
-      "comments": 109,
+      "score": 230,
+      "comments": 118,
       "author": "nickvec",
       "tags": [],
       "date": "2026-04-08T17:44:25+00:00"
@@ -95,8 +106,8 @@
       "source": "hn",
       "title": "Understanding the Kalman filter with a simple radar example",
       "url": "https://kalmanfilter.net",
-      "score": 148,
-      "comments": 23,
+      "score": 170,
+      "comments": 29,
       "author": "alex_be",
       "tags": [],
       "date": "2026-04-08T17:11:46+00:00"
@@ -139,8 +150,8 @@
       "source": "hn",
       "title": "Muse Spark: Scaling towards personal superintelligence",
       "url": "https://ai.meta.com/blog/introducing-muse-spark-msl/?_fb_noscript=1",
-      "score": 207,
-      "comments": 254,
+      "score": 231,
+      "comments": 269,
       "author": "chabons",
       "tags": [],
       "date": "2026-04-08T16:01:32+00:00"
@@ -150,8 +161,8 @@
       "source": "hn",
       "title": "I ported Mac OS X to the Nintendo Wii",
       "url": "https://bryankeller.github.io/2026/04/08/porting-mac-os-x-nintendo-wii.html",
-      "score": 995,
-      "comments": 189,
+      "score": 1099,
+      "comments": 203,
       "author": "blkhp19",
       "tags": [],
       "date": "2026-04-08T15:40:00+00:00"
@@ -172,8 +183,8 @@
       "source": "hn",
       "title": "Microsoft terminates VeraCrypt account, halting Windows updates",
       "url": "https://www.404media.co/microsoft-abruptly-terminates-veracrypt-account-halting-windows-updates/",
-      "score": 404,
-      "comments": 162,
+      "score": 429,
+      "comments": 171,
       "author": "donohoe",
       "tags": [],
       "date": "2026-04-08T14:46:15+00:00",
@@ -206,8 +217,8 @@
       "source": "hn",
       "title": "ML promises to be profoundly weird",
       "url": "https://aphyr.com/posts/411-the-future-of-everything-is-lies-i-guess",
-      "score": 306,
-      "comments": 353,
+      "score": 327,
+      "comments": 370,
       "author": "pabs3",
       "tags": [],
       "date": "2026-04-08T13:06:33+00:00"
@@ -228,7 +239,7 @@
       "source": "hn",
       "title": "Show HN: Skrun – Deploy any agent skill as an API",
       "url": "https://github.com/skrun-dev/skrun",
-      "score": 32,
+      "score": 37,
       "comments": 9,
       "author": "frizull",
       "tags": [],
@@ -250,8 +261,8 @@
       "source": "hn",
       "title": "MegaTrain: Full Precision Training of 100B+ Parameter LLMs on a Single GPU",
       "url": "https://arxiv.org/abs/2604.05091",
-      "score": 238,
-      "comments": 44,
+      "score": 246,
+      "comments": 47,
       "author": "chrsw",
       "tags": [],
       "date": "2026-04-08T12:19:00+00:00"
@@ -272,8 +283,8 @@
       "source": "hn",
       "title": "They're made out of meat (1991)",
       "url": "http://www.terrybisson.com/theyre-made-out-of-meat-2/",
-      "score": 337,
-      "comments": 98,
+      "score": 357,
+      "comments": 101,
       "author": "surprisetalk",
       "tags": [],
       "date": "2026-04-08T11:20:50+00:00"
@@ -342,8 +353,8 @@
       "source": "hn",
       "title": "Git commands I run before reading any code",
       "url": "https://piechowski.io/post/git-commands-before-reading-code/",
-      "score": 1637,
-      "comments": 352,
+      "score": 1697,
+      "comments": 368,
       "author": "grepsedawk",
       "tags": [],
       "date": "2026-04-08T08:53:42+00:00"
@@ -366,8 +377,8 @@
       "source": "hn",
       "title": "Škoda DuoBell: A bicycle bell that penetrates noise-cancelling headphones",
       "url": "https://www.skoda-storyboard.com/en/skoda-world/skoda-duobell-a-bicycle-bell-that-outsmarts-even-smart-headphones/",
-      "score": 469,
-      "comments": 506,
+      "score": 494,
+      "comments": 518,
       "author": "ra",
       "tags": [],
       "date": "2026-04-08T08:50:37+00:00"
@@ -430,8 +441,8 @@
       "source": "hn",
       "title": "Veracrypt project update",
       "url": "https://sourceforge.net/p/veracrypt/discussion/general/thread/9620d7a4b3/",
-      "score": 1072,
-      "comments": 401,
+      "score": 1099,
+      "comments": 409,
       "author": "super256",
       "tags": [],
       "date": "2026-04-08T07:23:39+00:00",
@@ -453,8 +464,8 @@
       "source": "hn",
       "title": "We moved Railway's frontend off Next.js. Builds went from 10+ mins to under 2",
       "url": "https://blog.railway.com/p/moving-railways-frontend-off-nextjs",
-      "score": 155,
-      "comments": 148,
+      "score": 163,
+      "comments": 152,
       "author": "bundie",
       "tags": [],
       "date": "2026-04-08T06:01:00+00:00"
@@ -1671,6 +1682,17 @@
       "date": "2026-04-07T02:07:32+09:00"
     },
     {
+      "id": "hn-47663285",
+      "source": "hn",
+      "title": "Why do Macs ask you to press random keys when connecting a new keyboard?",
+      "url": "https://unsung.aresluna.org/why-do-macs-ask-you-to-press-random-keys-when-connecting-a-new-keyboard/",
+      "score": 27,
+      "comments": 29,
+      "author": "zdw",
+      "tags": [],
+      "date": "2026-04-06T16:40:46+00:00"
+    },
+    {
       "id": "hn-47663207",
       "source": "hn",
       "title": "Show HN: I Built Paul Graham's Intellectual Captcha Idea",
@@ -2152,8 +2174,8 @@
       "source": "hn",
       "title": "Understanding Traceroute",
       "url": "https://tech.stonecharioteer.com/posts/2026/traceroute/",
-      "score": 61,
-      "comments": 5,
+      "score": 68,
+      "comments": 6,
       "author": "stonecharioteer",
       "tags": [],
       "date": "2026-04-06T03:40:31+00:00"
@@ -2935,8 +2957,8 @@
       "source": "hn",
       "title": "Pgit: I Imported the Linux Kernel into PostgreSQL",
       "url": "https://oseifert.ch/blog/linux-kernel-pgit",
-      "score": 45,
-      "comments": 4,
+      "score": 54,
+      "comments": 7,
       "author": "ImGajeed76",
       "tags": [],
       "date": "2026-04-05T12:08:55+00:00"
@@ -3082,8 +3104,8 @@
       "source": "hn",
       "title": "What does ⍋⍋ even mean? (2023)",
       "url": "https://blog.wilsonb.com/posts/2023-08-04-what-does-grade-grade-even-mean.html",
-      "score": 12,
-      "comments": 2,
+      "score": 23,
+      "comments": 10,
       "author": "tosh",
       "tags": [],
       "date": "2026-04-05T06:25:30+00:00"
@@ -5162,28 +5184,6 @@
       "date": "2026-04-03T00:00:19+00:00"
     },
     {
-      "id": "hn-47621518",
-      "source": "hn",
-      "title": "Tor Alva: The Tallest 3D-Printed Building in the World",
-      "url": "https://cacm.acm.org/blogcacm/tor-alva-the-tallest-3d-printed-building-in-the-world/",
-      "score": 16,
-      "comments": 4,
-      "author": "sohkamyung",
-      "tags": [],
-      "date": "2026-04-02T23:26:01+00:00"
-    },
-    {
-      "id": "hn-47621448",
-      "source": "hn",
-      "title": "A Few Good Magazines From the 70s and 80s",
-      "url": "https://www.bi6.us/CO/MG.HTML",
-      "score": 59,
-      "comments": 18,
-      "author": "OhMeadhbh",
-      "tags": [],
-      "date": "2026-04-02T23:17:26+00:00"
-    },
-    {
       "id": "ctf-3420191",
       "source": "project",
       "proj_category": "CTF",
@@ -5380,6 +5380,32 @@
       "date": "2023-05-23T17:06:23Z"
     },
     {
+      "id": "zenn-435b443e94",
+      "source": "zennqiita",
+      "sub_source": "Zenn",
+      "title": "Terraformを使わずにGitHubをコードで管理する",
+      "url": "https://zenn.dev/babarot/articles/github-as-code-with-gh-infra",
+      "score": null,
+      "author": "babarot",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Wed, 08 Apr 2026 11:51:11 GMT"
+    },
+    {
+      "id": "zenn-0569928625",
+      "source": "zennqiita",
+      "sub_source": "Zenn",
+      "title": "Vim の春コーデ — 透け見せの着こなし",
+      "url": "https://zenn.dev/mattn/articles/9f95d185fe356d",
+      "score": null,
+      "author": "mattn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Wed, 08 Apr 2026 04:24:37 GMT"
+    },
+    {
       "id": "zenn-0fca835a0e",
       "source": "zennqiita",
       "sub_source": "Zenn",
@@ -5472,6 +5498,19 @@
       "date": "Tue, 07 Apr 2026 03:37:22 GMT"
     },
     {
+      "id": "zenn-436e741ff4",
+      "source": "zennqiita",
+      "sub_source": "Zenn",
+      "title": "その開発、本当にアジャイルですか？「ビルド＆フィックス」を避ける仕組みと習慣",
+      "url": "https://zenn.dev/loglass/articles/54a2f2c8823ba2",
+      "score": null,
+      "author": "yukihomma_tokuuti",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Tue, 07 Apr 2026 03:20:05 GMT"
+    },
+    {
       "id": "zenn-0915b6af68",
       "source": "zennqiita",
       "sub_source": "Zenn",
@@ -5537,19 +5576,6 @@
       "date": "Mon, 06 Apr 2026 22:59:46 GMT"
     },
     {
-      "id": "zenn-b608a32a2e",
-      "source": "zennqiita",
-      "sub_source": "Zenn",
-      "title": "誰も教えてくれないソフトウェアの社会学",
-      "url": "https://zenn.dev/acntechjp/articles/20260406_software_sociology",
-      "score": null,
-      "author": "Inoue, Takuya",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Mon, 06 Apr 2026 12:08:14 GMT"
-    },
-    {
       "id": "zenn-c621a39786",
       "source": "zennqiita",
       "sub_source": "Zenn",
@@ -5561,6 +5587,19 @@
         "Zenn"
       ],
       "date": "Mon, 06 Apr 2026 05:53:33 GMT"
+    },
+    {
+      "id": "zenn-6349f6905a",
+      "source": "zennqiita",
+      "sub_source": "Zenn",
+      "title": "Gemma 4がリリース！ローカルLLM勢に嬉しい話",
+      "url": "https://zenn.dev/ap_com/articles/gemma4-release-local-llm-20260406",
+      "score": null,
+      "author": "9mak",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Mon, 06 Apr 2026 03:00:00 GMT"
     },
     {
       "id": "zenn-f799ba37e4",
@@ -5600,45 +5639,6 @@
         "Zenn"
       ],
       "date": "Sun, 05 Apr 2026 23:06:48 GMT"
-    },
-    {
-      "id": "zenn-dd2aa3822e",
-      "source": "zennqiita",
-      "sub_source": "Zenn",
-      "title": "GitHub Copilot は自ら学ぶ: Copilot Memory 入門",
-      "url": "https://zenn.dev/microsoft/articles/50863342150992",
-      "score": null,
-      "author": "Junya Yamaguchi",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Sun, 05 Apr 2026 14:25:14 GMT"
-    },
-    {
-      "id": "zenn-e0cd04876d",
-      "source": "zennqiita",
-      "sub_source": "Zenn",
-      "title": "AIがコードを書くほど、要件定義は上に移動する――Spec・Context・Harness三層設計",
-      "url": "https://zenn.dev/gvatech_blog/articles/30f79910d111bb",
-      "score": null,
-      "author": "てるさん",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Sun, 05 Apr 2026 11:39:58 GMT"
-    },
-    {
-      "id": "zenn-b590723291",
-      "source": "zennqiita",
-      "sub_source": "Zenn",
-      "title": "誰もがGitを触る時代に、やさしい入門サイトを作った",
-      "url": "https://zenn.dev/nabewata/articles/d5261127bdd3c5",
-      "score": null,
-      "author": "easegis",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Sun, 05 Apr 2026 00:12:59 GMT"
     },
     {
       "id": "edb-3da8771542",

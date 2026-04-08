@@ -1,17 +1,42 @@
 {
-  "updated_at": "2026-04-08T03:39:01.021176+00:00",
+  "updated_at": "2026-04-08T05:46:56.583990+00:00",
   "count": 500,
   "items": [
     {
+      "id": "ghrel-chroma-core_chroma-306390095",
+      "source": "project",
+      "proj_category": "Tools",
+      "title": "ChromaDB cli-1.4.3 — cli-1.4.3",
+      "url": "https://github.com/chroma-core/chroma/releases/tag/cli-1.4.3",
+      "score": null,
+      "author": "ChromaDB",
+      "tags": [
+        "ChromaDB",
+        "Release"
+      ],
+      "date": "2026-04-08T04:25:36Z"
+    },
+    {
       "id": "hn-47684514",
       "source": "hn",
-      "title": "Protect Your Shed",
+      "title": "Protect your shed",
       "url": "https://dylanbutler.dev/blog/protect-your-shed/",
-      "score": 7,
-      "comments": 1,
+      "score": 68,
+      "comments": 10,
       "author": "baely",
       "tags": [],
       "date": "2026-04-08T03:03:33+00:00"
+    },
+    {
+      "id": "hn-47684506",
+      "source": "hn",
+      "title": "LLM scraper bots are overloading acme.com's HTTPS server",
+      "url": "http://acme.com/updates/archive/229.html",
+      "score": 28,
+      "comments": 23,
+      "author": "mjyut",
+      "tags": [],
+      "date": "2026-04-08T03:02:56+00:00"
     },
     {
       "id": "hn-47684326",
@@ -29,8 +54,8 @@
       "source": "hn",
       "title": "JSIR: A High-Level IR for JavaScript",
       "url": "https://discourse.llvm.org/t/rfc-jsir-a-high-level-ir-for-javascript/90456",
-      "score": 21,
-      "comments": 6,
+      "score": 30,
+      "comments": 8,
       "author": "nnx",
       "tags": [],
       "date": "2026-04-08T00:59:05+00:00"
@@ -40,8 +65,8 @@
       "source": "hn",
       "title": "Xilem – An experimental Rust native UI framework",
       "url": "https://github.com/linebender/xilem",
-      "score": 42,
-      "comments": 8,
+      "score": 55,
+      "comments": 15,
       "author": "Levitating",
       "tags": [],
       "date": "2026-04-07T23:36:15+00:00"
@@ -51,8 +76,8 @@
       "source": "hn",
       "title": "US and Iran agree to provisional ceasefire",
       "url": "https://www.theguardian.com/us-news/2026/apr/07/trump-iran-war-ceasefire",
-      "score": 289,
-      "comments": 737,
+      "score": 368,
+      "comments": 998,
       "author": "g-b-r",
       "tags": [],
       "date": "2026-04-07T22:41:02+00:00"
@@ -106,8 +131,8 @@
       "source": "hn",
       "title": "Show HN: An interactive map of Tolkien's Middle-earth",
       "url": "https://middle-earth-interactive-map.web.app/",
-      "score": 112,
-      "comments": 22,
+      "score": 146,
+      "comments": 27,
       "author": "frasermarlow",
       "tags": [],
       "date": "2026-04-07T20:42:37+00:00"
@@ -129,8 +154,8 @@
       "source": "hn",
       "title": "S3 Files",
       "url": "https://www.allthingsdistributed.com/2026/04/s3-files-and-the-changing-face-of-s3.html",
-      "score": 229,
-      "comments": 65,
+      "score": 254,
+      "comments": 75,
       "author": "werner",
       "tags": [],
       "date": "2026-04-07T19:44:01+00:00"
@@ -140,8 +165,8 @@
       "source": "hn",
       "title": "Show HN: Gemma 4 Multimodal Fine-Tuner for Apple Silicon",
       "url": "https://github.com/mattmireles/gemma-tuner-multimodal",
-      "score": 132,
-      "comments": 20,
+      "score": 149,
+      "comments": 22,
       "author": "MediaSquirrel",
       "tags": [],
       "date": "2026-04-07T19:37:05+00:00"
@@ -174,8 +199,8 @@
       "source": "hn",
       "title": "System Card: Claude Mythos Preview [pdf]",
       "url": "https://www-cdn.anthropic.com/53566bf5440a10affd749724787c8913a2ae0841.pdf",
-      "score": 572,
-      "comments": 420,
+      "score": 625,
+      "comments": 447,
       "author": "be7a",
       "tags": [],
       "date": "2026-04-07T18:18:36+00:00"
@@ -196,8 +221,8 @@
       "source": "hn",
       "title": "Project Glasswing: Securing critical software for the AI era",
       "url": "https://www.anthropic.com/glasswing",
-      "score": 983,
-      "comments": 436,
+      "score": 1097,
+      "comments": 505,
       "author": "Ryan5453",
       "tags": [],
       "date": "2026-04-07T18:09:34+00:00",
@@ -208,8 +233,8 @@
       "source": "hn",
       "title": "Cambodia unveils statue to honour famous landmine-sniffing rat",
       "url": "https://www.bbc.com/news/articles/c0rx7xzd10xo",
-      "score": 310,
-      "comments": 65,
+      "score": 338,
+      "comments": 68,
       "author": "speckx",
       "tags": [],
       "date": "2026-04-07T17:23:43+00:00"
@@ -232,8 +257,8 @@
       "source": "hn",
       "title": "Rescuing old printers with an in-browser Linux VM bridged to WebUSB over USB/IP",
       "url": "https://printervention.app/details",
-      "score": 158,
-      "comments": 72,
+      "score": 175,
+      "comments": 79,
       "author": "gmac",
       "tags": [],
       "date": "2026-04-07T16:33:57+00:00"
@@ -243,8 +268,8 @@
       "source": "hn",
       "title": "GLM-5.1: Towards Long-Horizon Tasks",
       "url": "https://z.ai/blog/glm-5.1",
-      "score": 447,
-      "comments": 170,
+      "score": 477,
+      "comments": 191,
       "author": "zixuanlimit",
       "tags": [],
       "date": "2026-04-07T16:32:15+00:00"
@@ -298,8 +323,8 @@
       "source": "hn",
       "title": "Lunar Flyby",
       "url": "https://www.nasa.gov/gallery/lunar-flyby/",
-      "score": 460,
-      "comments": 112,
+      "score": 544,
+      "comments": 129,
       "author": "kipi",
       "tags": [],
       "date": "2026-04-07T15:03:18+00:00"
@@ -331,8 +356,8 @@
       "source": "hn",
       "title": "Cloudflare targets 2029 for full post-quantum security",
       "url": "https://blog.cloudflare.com/post-quantum-roadmap/",
-      "score": 290,
-      "comments": 93,
+      "score": 302,
+      "comments": 95,
       "author": "ilreb",
       "tags": [],
       "date": "2026-04-07T14:07:34+00:00"
@@ -499,8 +524,8 @@
       "source": "hn",
       "title": "Show HN: Brutalist Concrete Laptop Stand (2024)",
       "url": "https://sam-burns.com/posts/concrete-laptop-stand/",
-      "score": 712,
-      "comments": 218,
+      "score": 731,
+      "comments": 223,
       "author": "sam-bee",
       "tags": [],
       "date": "2026-04-07T11:07:44+00:00"
@@ -1430,8 +1455,8 @@
       "source": "hn",
       "title": "A truck driver spent 20 years making a scale model of every building in NYC",
       "url": "https://www.smithsonianmag.com/smart-news/a-truck-drive-spent-20-years-making-this-astonishing-scale-model-of-every-single-building-in-new-york-city-180988443/",
-      "score": 269,
-      "comments": 45,
+      "score": 295,
+      "comments": 47,
       "author": "1659447091",
       "tags": [],
       "date": "2026-04-06T05:22:24+00:00"
@@ -1769,8 +1794,8 @@
       "source": "hn",
       "title": "A whole boss fight in 256 bytes",
       "url": "https://hellmood.111mb.de//A_whole_boss_fight_in_256_bytes.html",
-      "score": 73,
-      "comments": 17,
+      "score": 83,
+      "comments": 20,
       "author": "HellMood",
       "tags": [],
       "date": "2026-04-05T22:32:12+00:00"
@@ -1824,8 +1849,8 @@
       "source": "hn",
       "title": "Binary obfuscation used in AAA Games",
       "url": "https://blog.farzon.org/2026/04/binary-obfuscation-that-doesnt-kill-lto.html",
-      "score": 30,
-      "comments": 3,
+      "score": 60,
+      "comments": 17,
       "author": "noztol",
       "tags": [],
       "date": "2026-04-05T20:37:55+00:00"
@@ -2013,8 +2038,8 @@
       "source": "hn",
       "title": "How to get better at guitar",
       "url": "https://www.jakeworth.com/posts/how-to-get-better-at-guitar/",
-      "score": 217,
-      "comments": 109,
+      "score": 260,
+      "comments": 124,
       "author": "jwworth",
       "tags": [],
       "date": "2026-04-05T16:14:12+00:00"
@@ -2528,6 +2553,17 @@
       "date": "2026-04-04T22:57:44+00:00"
     },
     {
+      "id": "hn-47643779",
+      "source": "hn",
+      "title": "ACE on a USB-HDMI Adapter",
+      "url": "https://blazelight.dev/blog/ms2160.mdx",
+      "score": 4,
+      "comments": 1,
+      "author": "theblazehen",
+      "tags": [],
+      "date": "2026-04-04T21:44:55+00:00"
+    },
+    {
       "id": "qiita-4a81422c3d",
       "source": "zennqiita",
       "sub_source": "Qiita",
@@ -3002,8 +3038,8 @@
       "source": "hn",
       "title": "The Clock",
       "url": "https://blog.senko.net/the-clock",
-      "score": 26,
-      "comments": 1,
+      "score": 42,
+      "comments": 8,
       "author": "senko",
       "tags": [],
       "date": "2026-04-04T10:08:31+00:00"
@@ -3272,6 +3308,17 @@
         "Qiita"
       ],
       "date": "2026-04-04T10:26:00+09:00"
+    },
+    {
+      "id": "hn-47634422",
+      "source": "hn",
+      "title": "Native Americans had dice 12k years ago",
+      "url": "https://www.nbcnews.com/science/science-news/native-americans-dice-games-probability-study-rcna266426",
+      "score": 32,
+      "comments": 5,
+      "author": "delichon",
+      "tags": [],
+      "date": "2026-04-04T00:59:08+00:00"
     },
     {
       "id": "hn-47633947",
@@ -4110,8 +4157,8 @@
       "source": "hn",
       "title": "A database of analog cameras that can be 3D printed",
       "url": "https://printed.analogcamera.space/",
-      "score": 45,
-      "comments": 5,
+      "score": 74,
+      "comments": 8,
       "author": "thomasjb",
       "tags": [],
       "date": "2026-04-03T09:02:21+00:00"
@@ -4269,8 +4316,8 @@
       "source": "hn",
       "title": "Slightly safer vibecoding by adopting old hacker habits",
       "url": "http://addxorrol.blogspot.com/2026/03/slightly-safer-vibecoding-by-adopting.html",
-      "score": 11,
-      "comments": 1,
+      "score": 58,
+      "comments": 25,
       "author": "transpute",
       "tags": [],
       "date": "2026-04-03T01:53:15+00:00"
@@ -5116,41 +5163,6 @@
       "date": "2026-04-02T08:21:35+00:00"
     },
     {
-      "id": "hn-47611481",
-      "source": "hn",
-      "title": "Bringing Clojure programming to Enterprise (2021)",
-      "url": "https://blogit.michelin.io/clojure-programming/",
-      "score": 168,
-      "comments": 96,
-      "author": "smartmic",
-      "tags": [],
-      "date": "2026-04-02T08:19:11+00:00"
-    },
-    {
-      "id": "qiita-1d9b3a3a62",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "📝LINQ を使い始める人に向けて：よく使う基本操作をわかりやすくまとめてみる",
-      "url": "https://qiita.com/hiroki_notes/items/6b4f4b5ccfa1b42c98fc?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "hiroki_notes",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-04-02T16:34:45+09:00"
-    },
-    {
-      "id": "hn-47611044",
-      "source": "hn",
-      "title": "Telli (YC F24) is hiring engineers, designers, and more (on-site, Berlin)",
-      "url": "http://hi.telli.com/join-us",
-      "score": 1,
-      "comments": 0,
-      "author": "sebselassie",
-      "tags": [],
-      "date": "2026-04-02T07:17:50+00:00"
-    },
-    {
       "id": "ctf-3420191",
       "source": "project",
       "proj_category": "CTF",
@@ -5247,20 +5259,6 @@
         "Security"
       ],
       "date": "2025-08-27T20:39:38Z"
-    },
-    {
-      "id": "ghrel-chroma-core_chroma-209726505",
-      "source": "project",
-      "proj_category": "Tools",
-      "title": "ChromaDB latest — Latest",
-      "url": "https://github.com/chroma-core/chroma/releases/tag/latest",
-      "score": null,
-      "author": "ChromaDB",
-      "tags": [
-        "ChromaDB",
-        "Release"
-      ],
-      "date": "2025-04-01T23:29:39Z"
     },
     {
       "id": "ctf-1917888",

@@ -1,14 +1,69 @@
 {
-  "updated_at": "2026-04-09T19:07:12.031106+00:00",
+  "updated_at": "2026-04-09T20:12:30.609358+00:00",
   "count": 500,
   "items": [
+    {
+      "id": "hn-47708818",
+      "source": "hn",
+      "title": "Native Instant Space Switching on macOS",
+      "url": "https://arhan.sh/blog/native-instant-space-switching-on-macos/",
+      "score": 19,
+      "comments": 8,
+      "author": "PaulHoule",
+      "tags": [],
+      "date": "2026-04-09T19:48:26+00:00"
+    },
+    {
+      "id": "hn-47708817",
+      "source": "hn",
+      "title": "Maine Is About to Become the First State to Ban Major New Data Centers",
+      "url": "https://www.gadgetreview.com/maine-is-about-to-become-the-first-state-to-ban-major-new-data-centers",
+      "score": 30,
+      "comments": 10,
+      "author": "rmason",
+      "tags": [],
+      "date": "2026-04-09T19:48:25+00:00"
+    },
+    {
+      "id": "hn-47708593",
+      "source": "hn",
+      "title": "OpenAI puts Stargate UK on ice, blames energy costs and red tape",
+      "url": "https://www.theregister.com/2026/04/09/openai_puts_stargate_uk_on/",
+      "score": 14,
+      "comments": 4,
+      "author": "Bender",
+      "tags": [],
+      "date": "2026-04-09T19:29:59+00:00"
+    },
+    {
+      "id": "hn-47708411",
+      "source": "hn",
+      "title": "Bitmap fonts make computers feel like computers again",
+      "url": "https://korigamik.dev/blog/bitmap_fonts/",
+      "score": 22,
+      "comments": 10,
+      "author": "speckx",
+      "tags": [],
+      "date": "2026-04-09T19:17:05+00:00"
+    },
+    {
+      "id": "hn-47708041",
+      "source": "hn",
+      "title": "PicoZ80 – Drop-In Z80 Replacement",
+      "url": "https://eaw.app/picoz80/",
+      "score": 43,
+      "comments": 3,
+      "author": "rickcarlino",
+      "tags": [],
+      "date": "2026-04-09T18:53:20+00:00"
+    },
     {
       "id": "hn-47707762",
       "source": "hn",
       "title": "Hegel, a universal property-based testing protocol and family of PBT libraries",
       "url": "https://hegel.dev",
-      "score": 12,
-      "comments": 0,
+      "score": 46,
+      "comments": 13,
       "author": "PaulHoule",
       "tags": [],
       "date": "2026-04-09T18:37:45+00:00"
@@ -40,8 +95,8 @@
       "source": "hn",
       "title": "EFF is leaving X",
       "url": "https://www.eff.org/deeplinks/2026/04/eff-leaving-x",
-      "score": 533,
-      "comments": 484,
+      "score": 735,
+      "comments": 620,
       "author": "gregsadetsky",
       "tags": [],
       "date": "2026-04-09T17:08:04+00:00"
@@ -51,8 +106,8 @@
       "source": "hn",
       "title": "Research-Driven Agents: What Happens When Your Agent Reads Before It Codes",
       "url": "https://blog.skypilot.co/research-driven-agents/",
-      "score": 33,
-      "comments": 7,
+      "score": 64,
+      "comments": 29,
       "author": "hopechong",
       "tags": [],
       "date": "2026-04-09T16:58:49+00:00"
@@ -62,8 +117,8 @@
       "source": "hn",
       "title": "Unfolder for Mac – A 3D model unfolding tool for creating papercraft",
       "url": "https://www.unfolder.app/",
-      "score": 14,
-      "comments": 2,
+      "score": 38,
+      "comments": 6,
       "author": "codazoda",
       "tags": [],
       "date": "2026-04-09T16:58:46+00:00"
@@ -96,8 +151,8 @@
       "source": "hn",
       "title": "Little Snitch comes to Linux, but the core logic is closed source",
       "url": "https://the.unknown-universe.co.uk/privacy-security/little-snitch-linux/",
-      "score": 12,
-      "comments": 3,
+      "score": 35,
+      "comments": 8,
       "author": "TheIPW",
       "tags": [],
       "date": "2026-04-09T16:36:56+00:00",
@@ -108,8 +163,8 @@
       "source": "hn",
       "title": "Show HN: I built a Cargo-like build tool for C/C++",
       "url": "https://github.com/randerson112/craft",
-      "score": 64,
-      "comments": 62,
+      "score": 82,
+      "comments": 76,
       "author": "randerson_112",
       "tags": [],
       "date": "2026-04-09T16:04:54+00:00"
@@ -138,12 +193,23 @@
       "severity": "critical"
     },
     {
+      "id": "hn-47703528",
+      "source": "hn",
+      "title": "The Future of Everything Is Lies, I Guess: Part 3 – Culture",
+      "url": "https://aphyr.com/posts/413-the-future-of-everything-is-lies-i-guess-culture",
+      "score": 34,
+      "comments": 14,
+      "author": "aphyr",
+      "tags": [],
+      "date": "2026-04-09T13:33:33+00:00"
+    },
+    {
       "id": "hn-47703419",
       "source": "hn",
       "title": "Meta removes ads for social media addiction litigation",
       "url": "https://www.axios.com/2026/04/09/meta-social-media-addiction-ads",
-      "score": 426,
-      "comments": 175,
+      "score": 459,
+      "comments": 186,
       "author": "giuliomagnifico",
       "tags": [],
       "date": "2026-04-09T13:23:50+00:00"
@@ -208,8 +274,8 @@
       "source": "hn",
       "title": "A WebGPU implementation of Augmented Vertex Block Descent",
       "url": "https://github.com/jure/webphysics",
-      "score": 98,
-      "comments": 9,
+      "score": 104,
+      "comments": 11,
       "author": "juretriglav",
       "tags": [],
       "date": "2026-04-09T12:01:31+00:00"
@@ -232,8 +298,8 @@
       "source": "hn",
       "title": "Lichess and Take Take Take Sign Cooperation Agreement",
       "url": "https://lichess.org/@/Lichess/blog/lichess-and-take-take-take-sign-cooperation-agreement/DZS0S0Dy",
-      "score": 145,
-      "comments": 35,
+      "score": 155,
+      "comments": 44,
       "author": "stevage",
       "tags": [],
       "date": "2026-04-09T11:56:56+00:00"
@@ -243,8 +309,8 @@
       "source": "hn",
       "title": "Show HN: CSS Studio. Design by hand, code by agent",
       "url": "https://cssstudio.ai",
-      "score": 108,
-      "comments": 79,
+      "score": 118,
+      "comments": 82,
       "author": "SirHound",
       "tags": [],
       "date": "2026-04-09T11:23:31+00:00"
@@ -254,11 +320,37 @@
       "source": "hn",
       "title": "Wit, unker, Git: The lost medieval pronouns of English intimacy",
       "url": "https://www.bbc.com/future/article/20260408-the-extinct-english-words-for-just-the-two-of-us",
-      "score": 139,
-      "comments": 79,
+      "score": 156,
+      "comments": 90,
       "author": "eigenspace",
       "tags": [],
       "date": "2026-04-09T10:10:19+00:00"
+    },
+    {
+      "id": "qiita-2736dd17be",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "equals()とhashCode()をオーバーライドしないと何が起きるか",
+      "url": "https://qiita.com/S_kamon/items/e80c066455beca2e344e?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "S_kamon",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-04-09T18:39:06+09:00"
+    },
+    {
+      "id": "qiita-667c68b55a",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "AIエージェントの仕組みと振る舞いを整理してみた",
+      "url": "https://qiita.com/aito1234/items/d7003fc8f8941f886caf?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "aito1234",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-04-09T18:36:33+09:00"
     },
     {
       "id": "hn-47701233",
@@ -276,8 +368,8 @@
       "source": "hn",
       "title": "Top laptops to use with FreeBSD",
       "url": "https://freebsdfoundation.github.io/freebsd-laptop-testing/",
-      "score": 196,
-      "comments": 98,
+      "score": 226,
+      "comments": 126,
       "author": "fork-bomber",
       "tags": [],
       "date": "2026-04-09T09:17:25+00:00"
@@ -298,8 +390,8 @@
       "source": "hn",
       "title": "Reallocating $100/Month Claude Code Spend to Zed and OpenRouter",
       "url": "https://braw.dev/blog/2026-04-06-reallocating-100-month-claude-spend/",
-      "score": 206,
-      "comments": 159,
+      "score": 235,
+      "comments": 174,
       "author": "kisamoto",
       "tags": [],
       "date": "2026-04-09T08:55:18+00:00"
@@ -329,6 +421,19 @@
       "date": "2026-04-09T07:27:25+00:00"
     },
     {
+      "id": "qiita-1edf01417e",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "初心者こそ知っておきたい「単一責任の原則」",
+      "url": "https://qiita.com/hiroki_notes/items/76eb3df7fbc26059c03c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "hiroki_notes",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-04-09T16:24:00+09:00"
+    },
+    {
       "id": "hn-47699814",
       "source": "hn",
       "title": "Process Manager for Autonomous AI Agents",
@@ -344,8 +449,8 @@
       "source": "hn",
       "title": "Open source security at Astral",
       "url": "https://astral.sh/blog/open-source-security-at-astral",
-      "score": 324,
-      "comments": 77,
+      "score": 329,
+      "comments": 84,
       "author": "vinhnx",
       "tags": [],
       "date": "2026-04-09T04:11:55+00:00",
@@ -578,6 +683,19 @@
       "author": "chabons",
       "tags": [],
       "date": "2026-04-08T16:01:32+00:00"
+    },
+    {
+      "id": "qiita-50a7c43f45",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "日本発、LLMの推論を「桁違い」に効率化する新アーキテクチャ「PHOTON」の論文が面白かったのでまとめてみた",
+      "url": "https://qiita.com/yuji-arakawa/items/2ad0240c56eb7507b261?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "yuji-arakawa",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-04-09T00:40:23+09:00"
     },
     {
       "id": "hn-47691730",
@@ -918,6 +1036,19 @@
       "date": "2026-04-08T06:01:00+00:00"
     },
     {
+      "id": "qiita-534ecebbd8",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "新米データサイエンティストが守るコードの３つの原則",
+      "url": "https://qiita.com/ALeX_EXVS/items/d12d120ffa743127b05c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "ALeX_EXVS",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-04-08T14:49:10+09:00"
+    },
+    {
       "id": "hn-47685739",
       "source": "hn",
       "title": "Revision Demoparty 2026: Razor1911 [video]",
@@ -933,8 +1064,8 @@
       "source": "hn",
       "title": "Introduction to Nintendo DS Programming",
       "url": "https://www.patater.com/files/projects/manual/manual.html",
-      "score": 175,
-      "comments": 30,
+      "score": 184,
+      "comments": 33,
       "author": "medbar",
       "tags": [],
       "date": "2026-04-08T05:22:42+00:00"
@@ -1241,8 +1372,8 @@
       "source": "hn",
       "title": "Building a framework-agnostic Ruby gem (and making sure it doesn't break)",
       "url": "https://newsletter.masilotti.com/p/on-building-a-framework-agnostic",
-      "score": 24,
-      "comments": 2,
+      "score": 41,
+      "comments": 5,
       "author": "joemasilotti",
       "tags": [],
       "date": "2026-04-07T19:18:29+00:00"
@@ -2357,7 +2488,7 @@
       "source": "hn",
       "title": "Doing Impressions: Monet's Early Caricatures (ca. late 1850s)",
       "url": "https://publicdomainreview.org/collection/claude-monet-caricatures/",
-      "score": 33,
+      "score": 35,
       "comments": 1,
       "author": "prismatic",
       "tags": [],
@@ -5013,139 +5144,15 @@
       "date": "2026-04-03T18:55:12+00:00"
     },
     {
-      "id": "hn-47630576",
+      "id": "hn-47626965",
       "source": "hn",
-      "title": "How to make a sliding, self-locking, and predator-proof chicken coop door (2020)",
-      "url": "https://www.backyardchickens.com/articles/how-to-make-a-sliding-self-locking-and-predator-proof-chicken-coop-door.75906/",
-      "score": 116,
-      "comments": 50,
-      "author": "uticus",
+      "title": "Aggro Is the Foundation (2022)",
+      "url": "https://radimentary.wordpress.com/2022/11/07/aggro-is-the-foundation/",
+      "score": 8,
+      "comments": 0,
+      "author": "surprisetalk",
       "tags": [],
-      "date": "2026-04-03T18:54:11+00:00"
-    },
-    {
-      "id": "hn-47630136",
-      "source": "hn",
-      "title": "Update on the eBay Scam",
-      "url": "https://kevquirk.com/update-on-the-ebay-scam",
-      "score": 24,
-      "comments": 30,
-      "author": "speckx",
-      "tags": [],
-      "date": "2026-04-03T18:22:07+00:00",
-      "severity": "medium"
-    },
-    {
-      "id": "hn-47630109",
-      "source": "hn",
-      "title": "Firm boosts H.264 streaming license fees from $100k up to staggering $4.5M",
-      "url": "https://www.tomshardware.com/service-providers/streaming/h264-streaming-license-fees-jump-from-100000-to-4-5-million",
-      "score": 111,
-      "comments": 50,
-      "author": "MaximilianEmel",
-      "tags": [],
-      "date": "2026-04-03T18:20:16+00:00"
-    },
-    {
-      "id": "hn-47629905",
-      "source": "hn",
-      "title": "Show HN: An evidence-rated encyclopedia of peptides",
-      "url": "https://www.whatthepeptide.org/",
-      "score": 12,
-      "comments": 2,
-      "author": "uelbably",
-      "tags": [],
-      "date": "2026-04-03T18:03:34+00:00"
-    },
-    {
-      "id": "hn-47629903",
-      "source": "hn",
-      "title": "Why are we still using Markdown?",
-      "url": "https://bgslabs.org/blog/why-are-we-using-markdown/",
-      "score": 120,
-      "comments": 182,
-      "author": "veqq",
-      "tags": [],
-      "date": "2026-04-03T18:03:10+00:00"
-    },
-    {
-      "id": "hn-47629505",
-      "source": "hn",
-      "title": "Solana Drift Protocol drained of $285M via fake token and governance hijack",
-      "url": "https://anonhaven.com/en/news/drift-protocol-hack-285-million-solana/",
-      "score": 50,
-      "comments": 22,
-      "author": "anonhaven",
-      "tags": [],
-      "date": "2026-04-03T17:29:21+00:00"
-    },
-    {
-      "id": "hn-47629485",
-      "source": "hn",
-      "title": "A case study in testing with 100+ Claude agents in parallel",
-      "url": "https://imbue.com/product/mngr_part_2/",
-      "score": 43,
-      "comments": 33,
-      "author": "thejash",
-      "tags": [],
-      "date": "2026-04-03T17:27:41+00:00"
-    },
-    {
-      "id": "hn-47629433",
-      "source": "hn",
-      "title": "iNaturalist",
-      "url": "https://www.inaturalist.org/",
-      "score": 498,
-      "comments": 118,
-      "author": "bookofjoe",
-      "tags": [],
-      "date": "2026-04-03T17:22:20+00:00"
-    },
-    {
-      "id": "hn-47629116",
-      "source": "hn",
-      "title": "Go on Embedded Systems and WebAssembly",
-      "url": "https://tinygo.org/",
-      "score": 182,
-      "comments": 25,
-      "author": "uticus",
-      "tags": [],
-      "date": "2026-04-03T16:57:09+00:00"
-    },
-    {
-      "id": "hn-47629021",
-      "source": "hn",
-      "title": "Global Physics Photowalk: 2025 winners revealed",
-      "url": "https://www.quantamagazine.org/global-physics-photowalk-2025-winners-revealed-20260401/",
-      "score": 18,
-      "comments": 1,
-      "author": "ibobev",
-      "tags": [],
-      "date": "2026-04-03T16:48:33+00:00"
-    },
-    {
-      "id": "hn-47629013",
-      "source": "hn",
-      "title": "Mercurial Dyson – a plan for the disassembly of planet Mercury",
-      "url": "https://github.com/RokoMijic/MercurialDyson/blob/main/written_report.md",
-      "score": 35,
-      "comments": 25,
-      "author": "indy",
-      "tags": [],
-      "date": "2026-04-03T16:47:46+00:00"
-    },
-    {
-      "id": "qiita-feea593700",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "現代スポーツアナリティックス",
-      "url": "https://qiita.com/Nospare_Inc/items/f3da19588b7ec5799d90?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "Nospare_Inc",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-04-04T01:36:29+09:00"
+      "date": "2026-04-03T14:21:03+00:00"
     },
     {
       "id": "ctf-3420191",

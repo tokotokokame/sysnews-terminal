@@ -1,14 +1,27 @@
 {
-  "updated_at": "2026-04-09T06:57:26.171396+00:00",
+  "updated_at": "2026-04-09T08:22:13.454781+00:00",
   "count": 500,
   "items": [
+    {
+      "id": "qiita-52152b8f7c",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "GitHub Copilot CLI の公式ハンズオンざっくり和訳 (第3章/7章) 開発ワークフロー編",
+      "url": "https://qiita.com/chomado/items/74e0361cf92bc5335723?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "chomado",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-04-09T16:38:22+09:00"
+    },
     {
       "id": "hn-47699814",
       "source": "hn",
       "title": "Process Manager for Autonomous AI Agents",
       "url": "https://botctl.dev/",
-      "score": 4,
-      "comments": 0,
+      "score": 21,
+      "comments": 4,
       "author": "ankitg12",
       "tags": [],
       "date": "2026-04-09T06:00:55+00:00"
@@ -18,12 +31,51 @@
       "source": "hn",
       "title": "Open Source Security at Astral",
       "url": "https://astral.sh/blog/open-source-security-at-astral",
-      "score": 108,
-      "comments": 13,
+      "score": 151,
+      "comments": 23,
       "author": "vinhnx",
       "tags": [],
       "date": "2026-04-09T04:11:55+00:00",
       "severity": "critical"
+    },
+    {
+      "id": "qiita-d620e55ce4",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "「なぜこの言語で開発するの？」と聞かれた時に、納得してもらう説明の方法",
+      "url": "https://qiita.com/ssaita/items/6dda0b4e6d018cc6aa14?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "ssaita",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-04-09T12:30:45+09:00"
+    },
+    {
+      "id": "qiita-b465d89299",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "脱・セキュリティ初心者。現場の信頼を勝ち取るための「3つの原則」と「1つの習慣」",
+      "url": "https://qiita.com/masa20057/items/be5d46e82f7301747e86?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "masa20057",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-04-09T11:44:26+09:00"
+    },
+    {
+      "id": "qiita-715d8e8ed6",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "【35歳未経験でも理解できた】SPAへの進化",
+      "url": "https://qiita.com/wata-sho/items/e38b3523685367108b68?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "wata-sho",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-04-09T10:24:10+09:00"
     },
     {
       "id": "hn-47698082",
@@ -37,12 +89,25 @@
       "date": "2026-04-09T00:55:46+00:00"
     },
     {
+      "id": "qiita-2d3fee73fd",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "ローカル環境のS3をlocalstackからRustFSへ",
+      "url": "https://qiita.com/michi-yzrh/items/66c01a87e57b148212b0?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "michi-yzrh",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-04-09T09:42:54+09:00"
+    },
+    {
       "id": "hn-47697870",
       "source": "hn",
       "title": "LittleSnitch for Linux",
       "url": "https://obdev.at/products/littlesnitch-linux/index.html",
-      "score": 494,
-      "comments": 157,
+      "score": 626,
+      "comments": 187,
       "author": "pluc",
       "tags": [],
       "date": "2026-04-09T00:26:08+00:00"
@@ -74,8 +139,8 @@
       "source": "hn",
       "title": "John Deere to pay $99M in right-to-repair settlement",
       "url": "https://www.thedrive.com/news/john-deere-to-pay-99-million-in-monumental-right-to-repair-settlement",
-      "score": 270,
-      "comments": 70,
+      "score": 295,
+      "comments": 85,
       "author": "CharlesW",
       "tags": [],
       "date": "2026-04-08T20:46:27+00:00"
@@ -96,8 +161,8 @@
       "source": "hn",
       "title": "USB for Software Developers: An introduction to writing userspace USB drivers",
       "url": "https://werwolv.net/posts/usb_for_sw_devs/",
-      "score": 263,
-      "comments": 31,
+      "score": 280,
+      "comments": 32,
       "author": "WerWolv",
       "tags": [],
       "date": "2026-04-08T19:23:34+00:00"
@@ -107,8 +172,8 @@
       "source": "hn",
       "title": "Expanding Swift's IDE Support",
       "url": "https://swift.org/blog/expanding-swift-ide-support/",
-      "score": 105,
-      "comments": 46,
+      "score": 110,
+      "comments": 52,
       "author": "frizlab",
       "tags": [],
       "date": "2026-04-08T19:21:41+00:00"
@@ -151,8 +216,8 @@
       "source": "hn",
       "title": "Understanding the Kalman filter with a simple radar example",
       "url": "https://kalmanfilter.net",
-      "score": 306,
-      "comments": 39,
+      "score": 324,
+      "comments": 42,
       "author": "alex_be",
       "tags": [],
       "date": "2026-04-08T17:11:46+00:00"
@@ -195,7 +260,7 @@
       "source": "hn",
       "title": "Muse Spark: Scaling towards personal superintelligence",
       "url": "https://ai.meta.com/blog/introducing-muse-spark-msl/?_fb_noscript=1",
-      "score": 319,
+      "score": 331,
       "comments": 324,
       "author": "chabons",
       "tags": [],
@@ -206,8 +271,8 @@
       "source": "hn",
       "title": "I ported Mac OS X to the Nintendo Wii",
       "url": "https://bryankeller.github.io/2026/04/08/porting-mac-os-x-nintendo-wii.html",
-      "score": 1462,
-      "comments": 255,
+      "score": 1520,
+      "comments": 265,
       "author": "blkhp19",
       "tags": [],
       "date": "2026-04-08T15:40:00+00:00"
@@ -262,8 +327,8 @@
       "source": "hn",
       "title": "ML promises to be profoundly weird",
       "url": "https://aphyr.com/posts/411-the-future-of-everything-is-lies-i-guess",
-      "score": 464,
-      "comments": 465,
+      "score": 484,
+      "comments": 479,
       "author": "pabs3",
       "tags": [],
       "date": "2026-04-08T13:06:33+00:00"
@@ -306,8 +371,8 @@
       "source": "hn",
       "title": "MegaTrain: Full Precision Training of 100B+ Parameter LLMs on a Single GPU",
       "url": "https://arxiv.org/abs/2604.05091",
-      "score": 287,
-      "comments": 51,
+      "score": 292,
+      "comments": 52,
       "author": "chrsw",
       "tags": [],
       "date": "2026-04-08T12:19:00+00:00"
@@ -328,11 +393,37 @@
       "source": "hn",
       "title": "They're made out of meat (1991)",
       "url": "http://www.terrybisson.com/theyre-made-out-of-meat-2/",
-      "score": 493,
-      "comments": 143,
+      "score": 520,
+      "comments": 146,
       "author": "surprisetalk",
       "tags": [],
       "date": "2026-04-08T11:20:50+00:00"
+    },
+    {
+      "id": "qiita-9c6518a393",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "Java経験者がLaravel(PHP)の文法を整理【超基本】",
+      "url": "https://qiita.com/w_pechi/items/ee594fcff8a5b4e9ea2a?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "w_pechi",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-04-08T19:20:42+09:00"
+    },
+    {
+      "id": "qiita-11b28aba67",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "障害調査中にviewコマンドで巨大ログを開いてアプリを全停止させたお話",
+      "url": "https://qiita.com/km23/items/a9d75de3677bdd22dced?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "km23",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-04-08T18:57:08+09:00"
     },
     {
       "id": "qiita-dd316604a1",
@@ -398,8 +489,8 @@
       "source": "hn",
       "title": "Git commands I run before reading any code",
       "url": "https://piechowski.io/post/git-commands-before-reading-code/",
-      "score": 1960,
-      "comments": 408,
+      "score": 2003,
+      "comments": 419,
       "author": "grepsedawk",
       "tags": [],
       "date": "2026-04-08T08:53:42+00:00"
@@ -663,6 +754,19 @@
       "date": "2026-04-08T00:59:05+00:00"
     },
     {
+      "id": "qiita-8b0f4bcb73",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "国産LLM「LLM-jp-4」が日本語MT-BenchでGPT-4oを上回った ── 技術的背景と実用性を検証する",
+      "url": "https://qiita.com/nogataka/items/6821e5d530938d269e58?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "nogataka",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-04-08T09:50:20+09:00"
+    },
+    {
       "id": "qiita-32e1f3a8a1",
       "source": "zennqiita",
       "sub_source": "Qiita",
@@ -861,8 +965,8 @@
       "source": "hn",
       "title": "Six (and a half) intuitions for KL divergence",
       "url": "https://www.perfectlynormal.co.uk/blog-kl-divergence",
-      "score": 62,
-      "comments": 4,
+      "score": 72,
+      "comments": 7,
       "author": "jxmorris12",
       "tags": [],
       "date": "2026-04-07T17:34:13+00:00"
@@ -940,8 +1044,8 @@
       "source": "hn",
       "title": "Teardown of unreleased LG Rollable shows why rollable phones aren't a thing",
       "url": "https://arstechnica.com/gadgets/2026/04/teardown-of-unreleased-lg-rollable-shows-why-rollable-phones-arent-a-thing/",
-      "score": 97,
-      "comments": 41,
+      "score": 104,
+      "comments": 45,
       "author": "DamnInteresting",
       "tags": [],
       "date": "2026-04-07T15:07:45+00:00"
@@ -1583,8 +1687,8 @@
       "source": "hn",
       "title": "The Importance of Being Idle",
       "url": "https://theamericanscholar.org/the-importance-of-being-idle/",
-      "score": 127,
-      "comments": 28,
+      "score": 157,
+      "comments": 61,
       "author": "Caiero",
       "tags": [],
       "date": "2026-04-06T20:33:03+00:00"
@@ -1605,8 +1709,8 @@
       "source": "hn",
       "title": "Show HN: A (marginally) useful x86-64 ELF executable in 301 bytes",
       "url": "https://github.com/meribold/btry",
-      "score": 25,
-      "comments": 7,
+      "score": 28,
+      "comments": 8,
       "author": "meribold",
       "tags": [],
       "date": "2026-04-06T20:14:16+00:00"
@@ -2067,8 +2171,8 @@
       "source": "hn",
       "title": "Haunted Paper Toys",
       "url": "http://ravensblight.com/papertoys.html",
-      "score": 12,
-      "comments": 0,
+      "score": 50,
+      "comments": 1,
       "author": "exvi",
       "tags": [],
       "date": "2026-04-06T10:09:00+00:00"
@@ -2285,7 +2389,7 @@
       "source": "hn",
       "title": "Understanding Traceroute",
       "url": "https://tech.stonecharioteer.com/posts/2026/traceroute/",
-      "score": 117,
+      "score": 122,
       "comments": 19,
       "author": "stonecharioteer",
       "tags": [],
@@ -3068,8 +3172,8 @@
       "source": "hn",
       "title": "I imported the full Linux kernel git history into pgit",
       "url": "https://oseifert.ch/blog/linux-kernel-pgit",
-      "score": 106,
-      "comments": 13,
+      "score": 120,
+      "comments": 14,
       "author": "ImGajeed76",
       "tags": [],
       "date": "2026-04-05T12:08:55+00:00"
@@ -3383,6 +3487,17 @@
       "date": "2026-04-05T00:40:18+00:00"
     },
     {
+      "id": "hn-47645010",
+      "source": "hn",
+      "title": "Dr. Dobb's Developer Library DVD 6",
+      "url": "https://archive.org/details/DDJDVD6",
+      "score": 15,
+      "comments": 1,
+      "author": "kristianp",
+      "tags": [],
+      "date": "2026-04-05T00:37:57+00:00"
+    },
+    {
       "id": "hn-47644864",
       "source": "hn",
       "title": "AWS engineer reports PostgreSQL perf halved by Linux 7.0, fix may not be easy",
@@ -3444,8 +3559,8 @@
       "source": "hn",
       "title": "Map Gesture Controls - Control maps with your hands",
       "url": "https://sanderdesnaijer.github.io/map-gesture-controls/",
-      "score": 21,
-      "comments": 2,
+      "score": 24,
+      "comments": 4,
       "author": "hebelehubele",
       "tags": [],
       "date": "2026-04-04T21:50:53+00:00"
@@ -4376,6 +4491,17 @@
       "date": "2026-04-03T21:09:24+00:00"
     },
     {
+      "id": "hn-47632157",
+      "source": "hn",
+      "title": "Improving storage efficiency in Magic Pocket, Dropbox's immutable blob store",
+      "url": "https://dropbox.tech/infrastructure/improving-storage-efficiency-in-magic-pocket-our-immutable-blob-store",
+      "score": 5,
+      "comments": 0,
+      "author": "laluser",
+      "tags": [],
+      "date": "2026-04-03T20:56:25+00:00"
+    },
+    {
       "id": "hn-47631929",
       "source": "hn",
       "title": "Show HN: We're building an AI hedge fund",
@@ -5047,128 +5173,6 @@
       "author": "franze",
       "tags": [],
       "date": "2026-04-03T09:15:34+00:00"
-    },
-    {
-      "id": "qiita-4fb6efa70f",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "【Excel】よく使う便利な関数まとめ（中級編）",
-      "url": "https://qiita.com/yuto-vj/items/ad4b2fa1b6554257ac33?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "yuto-vj",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-04-03T18:06:11+09:00"
-    },
-    {
-      "id": "hn-47624572",
-      "source": "hn",
-      "title": "A database of analog cameras that can be 3D printed",
-      "url": "https://printed.analogcamera.space/",
-      "score": 113,
-      "comments": 15,
-      "author": "thomasjb",
-      "tags": [],
-      "date": "2026-04-03T09:02:21+00:00"
-    },
-    {
-      "id": "hn-47624558",
-      "source": "hn",
-      "title": "Proton meet isn't what they told you it was",
-      "url": "https://www.sambent.com/proton-meet-isnt-what-they-told-you/",
-      "score": 132,
-      "comments": 116,
-      "author": "bundie",
-      "tags": [],
-      "date": "2026-04-03T08:59:45+00:00"
-    },
-    {
-      "id": "qiita-b851619dcb",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "【AWS】StrandsAgentsのBidiエージェントで作る、爆速翻訳AIエージェント作ってみた",
-      "url": "https://qiita.com/na7na/items/4fad15ca09551a8809b8?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "na7na",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-04-03T17:15:58+09:00"
-    },
-    {
-      "id": "hn-47624317",
-      "source": "hn",
-      "title": "New Rowhammer attacks give complete control of machines running Nvidia GPUs",
-      "url": "https://arstechnica.com/security/2026/04/new-rowhammer-attacks-give-complete-control-of-machines-running-nvidia-gpus/",
-      "score": 72,
-      "comments": 5,
-      "author": "01-_-",
-      "tags": [],
-      "date": "2026-04-03T08:15:12+00:00"
-    },
-    {
-      "id": "qiita-ca8792c3ac",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "はじめての Git 実務ガイド：ブランチ運用からトラブル対処まで",
-      "url": "https://qiita.com/hiroki_notes/items/6358c8f99b66baba8655?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "hiroki_notes",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-04-03T16:25:33+09:00"
-    },
-    {
-      "id": "qiita-4069dfe3db",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "Gemma 4 徹底解説：Googleのオープンモデル最新版で何ができるのか",
-      "url": "https://qiita.com/TaichiEndoh/items/0b06c96326e0f41912b1?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "TaichiEndoh",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-04-03T16:18:52+09:00"
-    },
-    {
-      "id": "qiita-9a5734fb06",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "Struts1入門まとめ｜基本構造・つまずきポイント",
-      "url": "https://qiita.com/w_pechi/items/55647422c8ba22bbdab5?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "w_pechi",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-04-03T15:38:27+09:00"
-    },
-    {
-      "id": "qiita-bb328d107d",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "灰色コーダーを入茶させたい（入茶記事）.atcoder",
-      "url": "https://qiita.com/tanekei/items/bc32242e0794c43d4fbc?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "tanekei",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-04-03T15:07:46+09:00"
-    },
-    {
-      "id": "hn-47623101",
-      "source": "hn",
-      "title": "A Rave Review of Superpowers (For Claude Code)",
-      "url": "https://emschwartz.me/a-rave-review-of-superpowers-for-claude-code/",
-      "score": 23,
-      "comments": 9,
-      "author": "emschwartz",
-      "tags": [],
-      "date": "2026-04-03T04:09:50+00:00"
     },
     {
       "id": "ctf-3420191",

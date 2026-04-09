@@ -1,17 +1,72 @@
 {
-  "updated_at": "2026-04-09T17:36:54.619692+00:00",
+  "updated_at": "2026-04-09T19:07:12.031106+00:00",
   "count": 500,
   "items": [
     {
+      "id": "hn-47707762",
+      "source": "hn",
+      "title": "Hegel, a universal property-based testing protocol and family of PBT libraries",
+      "url": "https://hegel.dev",
+      "score": 12,
+      "comments": 0,
+      "author": "PaulHoule",
+      "tags": [],
+      "date": "2026-04-09T18:37:45+00:00"
+    },
+    {
+      "id": "hn-47707269",
+      "source": "hn",
+      "title": "What Game Engines Know About Data That Databases Forgot",
+      "url": "https://nockawa.github.io/blog/what-game-engines-know-about-data/",
+      "score": 27,
+      "comments": 12,
+      "author": "speckx",
+      "tags": [],
+      "date": "2026-04-09T18:10:33+00:00"
+    },
+    {
+      "id": "hn-47707253",
+      "source": "hn",
+      "title": "ChatGPT Pro now starts at $100/month",
+      "url": "https://chatgpt.com/pricing/",
+      "score": 98,
+      "comments": 102,
+      "author": "strongpigeon",
+      "tags": [],
+      "date": "2026-04-09T18:09:19+00:00"
+    },
+    {
       "id": "hn-47706268",
       "source": "hn",
-      "title": "EFF Is Leaving X",
+      "title": "EFF is leaving X",
       "url": "https://www.eff.org/deeplinks/2026/04/eff-leaving-x",
-      "score": 65,
-      "comments": 12,
+      "score": 533,
+      "comments": 484,
       "author": "gregsadetsky",
       "tags": [],
       "date": "2026-04-09T17:08:04+00:00"
+    },
+    {
+      "id": "hn-47706141",
+      "source": "hn",
+      "title": "Research-Driven Agents: What Happens When Your Agent Reads Before It Codes",
+      "url": "https://blog.skypilot.co/research-driven-agents/",
+      "score": 33,
+      "comments": 7,
+      "author": "hopechong",
+      "tags": [],
+      "date": "2026-04-09T16:58:49+00:00"
+    },
+    {
+      "id": "hn-47706140",
+      "source": "hn",
+      "title": "Unfolder for Mac – A 3D model unfolding tool for creating papercraft",
+      "url": "https://www.unfolder.app/",
+      "score": 14,
+      "comments": 2,
+      "author": "codazoda",
+      "tags": [],
+      "date": "2026-04-09T16:58:46+00:00"
     },
     {
       "id": "hn-47706120",
@@ -37,6 +92,29 @@
       "severity": "medium"
     },
     {
+      "id": "hn-47705834",
+      "source": "hn",
+      "title": "Little Snitch comes to Linux, but the core logic is closed source",
+      "url": "https://the.unknown-universe.co.uk/privacy-security/little-snitch-linux/",
+      "score": 12,
+      "comments": 3,
+      "author": "TheIPW",
+      "tags": [],
+      "date": "2026-04-09T16:36:56+00:00",
+      "severity": "critical"
+    },
+    {
+      "id": "hn-47705413",
+      "source": "hn",
+      "title": "Show HN: I built a Cargo-like build tool for C/C++",
+      "url": "https://github.com/randerson112/craft",
+      "score": 64,
+      "comments": 62,
+      "author": "randerson_112",
+      "tags": [],
+      "date": "2026-04-09T16:04:54+00:00"
+    },
+    {
       "id": "hn-47705324",
       "source": "hn",
       "title": "Emperor penguin and Antarctic fur seal now endangered",
@@ -50,10 +128,10 @@
     {
       "id": "hn-47704881",
       "source": "hn",
-      "title": "Vercel Claude Code plugin wants to read your prompt",
+      "title": "The Vercel plugin on Claude Code wants to read your prompts",
       "url": "https://akshaychugh.xyz/writings/png/vercel-plugin-telemetry",
-      "score": 182,
-      "comments": 49,
+      "score": 231,
+      "comments": 83,
       "author": "akshay2603",
       "tags": [],
       "date": "2026-04-09T15:17:27+00:00",
@@ -64,8 +142,8 @@
       "source": "hn",
       "title": "Meta removes ads for social media addiction litigation",
       "url": "https://www.axios.com/2026/04/09/meta-social-media-addiction-ads",
-      "score": 348,
-      "comments": 148,
+      "score": 426,
+      "comments": 175,
       "author": "giuliomagnifico",
       "tags": [],
       "date": "2026-04-09T13:23:50+00:00"
@@ -75,8 +153,8 @@
       "source": "hn",
       "title": "How Pizza Tycoon simulated traffic on a 25 MHz CPU",
       "url": "https://pizzalegacy.nl/blog/traffic-system.html",
-      "score": 199,
-      "comments": 40,
+      "score": 229,
+      "comments": 46,
       "author": "FinnKuhn",
       "tags": [],
       "date": "2026-04-09T12:57:10+00:00"
@@ -119,8 +197,8 @@
       "source": "hn",
       "title": "Launch HN: Relvy (YC F24) – On-call runbooks, automated",
       "url": "https://www.relvy.ai",
-      "score": 29,
-      "comments": 16,
+      "score": 34,
+      "comments": 22,
       "author": "behat",
       "tags": [],
       "date": "2026-04-09T12:11:56+00:00"
@@ -128,10 +206,10 @@
     {
       "id": "hn-47702541",
       "source": "hn",
-      "title": "A WebGPU Implementation of Augmented Vertex Block Descent",
+      "title": "A WebGPU implementation of Augmented Vertex Block Descent",
       "url": "https://github.com/jure/webphysics",
-      "score": 78,
-      "comments": 7,
+      "score": 98,
+      "comments": 9,
       "author": "juretriglav",
       "tags": [],
       "date": "2026-04-09T12:01:31+00:00"
@@ -154,8 +232,8 @@
       "source": "hn",
       "title": "Lichess and Take Take Take Sign Cooperation Agreement",
       "url": "https://lichess.org/@/Lichess/blog/lichess-and-take-take-take-sign-cooperation-agreement/DZS0S0Dy",
-      "score": 124,
-      "comments": 29,
+      "score": 145,
+      "comments": 35,
       "author": "stevage",
       "tags": [],
       "date": "2026-04-09T11:56:56+00:00"
@@ -165,8 +243,8 @@
       "source": "hn",
       "title": "Show HN: CSS Studio. Design by hand, code by agent",
       "url": "https://cssstudio.ai",
-      "score": 92,
-      "comments": 70,
+      "score": 108,
+      "comments": 79,
       "author": "SirHound",
       "tags": [],
       "date": "2026-04-09T11:23:31+00:00"
@@ -176,8 +254,8 @@
       "source": "hn",
       "title": "Wit, unker, Git: The lost medieval pronouns of English intimacy",
       "url": "https://www.bbc.com/future/article/20260408-the-extinct-english-words-for-just-the-two-of-us",
-      "score": 122,
-      "comments": 66,
+      "score": 139,
+      "comments": 79,
       "author": "eigenspace",
       "tags": [],
       "date": "2026-04-09T10:10:19+00:00"
@@ -196,10 +274,10 @@
     {
       "id": "hn-47701148",
       "source": "hn",
-      "title": "FreeBSD Laptop Compatibility: Top Laptops to Use with FreeBSD",
+      "title": "Top laptops to use with FreeBSD",
       "url": "https://freebsdfoundation.github.io/freebsd-laptop-testing/",
-      "score": 131,
-      "comments": 77,
+      "score": 196,
+      "comments": 98,
       "author": "fork-bomber",
       "tags": [],
       "date": "2026-04-09T09:17:25+00:00"
@@ -220,8 +298,8 @@
       "source": "hn",
       "title": "Reallocating $100/Month Claude Code Spend to Zed and OpenRouter",
       "url": "https://braw.dev/blog/2026-04-06-reallocating-100-month-claude-spend/",
-      "score": 149,
-      "comments": 133,
+      "score": 206,
+      "comments": 159,
       "author": "kisamoto",
       "tags": [],
       "date": "2026-04-09T08:55:18+00:00"
@@ -244,8 +322,8 @@
       "source": "hn",
       "title": "Help Keep Thunderbird Alive",
       "url": "https://updates.thunderbird.net/en-US/thunderbird/140.0/apr26-1e/donate/",
-      "score": 375,
-      "comments": 272,
+      "score": 413,
+      "comments": 294,
       "author": "playfultones",
       "tags": [],
       "date": "2026-04-09T07:27:25+00:00"
@@ -264,10 +342,10 @@
     {
       "id": "hn-47699181",
       "source": "hn",
-      "title": "Open Source Security at Astral",
+      "title": "Open source security at Astral",
       "url": "https://astral.sh/blog/open-source-security-at-astral",
-      "score": 311,
-      "comments": 74,
+      "score": 324,
+      "comments": 77,
       "author": "vinhnx",
       "tags": [],
       "date": "2026-04-09T04:11:55+00:00",
@@ -558,6 +636,17 @@
       "date": "2026-04-08T14:06:03+00:00"
     },
     {
+      "id": "hn-47690060",
+      "source": "hn",
+      "title": "Where does all the milk go?",
+      "url": "https://www.dhanishsemar.com/writing/dairy-production-process",
+      "score": 28,
+      "comments": 19,
+      "author": "DiffTheEnder",
+      "tags": [],
+      "date": "2026-04-08T13:37:31+00:00"
+    },
+    {
       "id": "hn-47689648",
       "source": "hn",
       "title": "ML promises to be profoundly weird",
@@ -844,8 +933,8 @@
       "source": "hn",
       "title": "Introduction to Nintendo DS Programming",
       "url": "https://www.patater.com/files/projects/manual/manual.html",
-      "score": 134,
-      "comments": 20,
+      "score": 175,
+      "comments": 30,
       "author": "medbar",
       "tags": [],
       "date": "2026-04-08T05:22:42+00:00"
@@ -895,8 +984,8 @@
       "source": "hn",
       "title": "One Brain to Query: Wiring a 60-Person Company into a Single Slack Bot",
       "url": "https://merylldindin.com/thoughts/company-brain/",
-      "score": 25,
-      "comments": 31,
+      "score": 32,
+      "comments": 35,
       "author": "meryll_dindin",
       "tags": [],
       "date": "2026-04-08T03:35:21+00:00"
@@ -2268,7 +2357,7 @@
       "source": "hn",
       "title": "Doing Impressions: Monet's Early Caricatures (ca. late 1850s)",
       "url": "https://publicdomainreview.org/collection/claude-monet-caricatures/",
-      "score": 18,
+      "score": 33,
       "comments": 1,
       "author": "prismatic",
       "tags": [],
@@ -2481,8 +2570,8 @@
       "source": "hn",
       "title": "Haunted Paper Toys",
       "url": "http://ravensblight.com/papertoys.html",
-      "score": 197,
-      "comments": 24,
+      "score": 209,
+      "comments": 28,
       "author": "exvi",
       "tags": [],
       "date": "2026-04-06T10:09:00+00:00"
@@ -5059,112 +5148,6 @@
       "date": "2026-04-04T01:36:29+09:00"
     },
     {
-      "id": "hn-47628608",
-      "source": "hn",
-      "title": "OpenClaw privilege escalation vulnerability",
-      "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-33579",
-      "score": 483,
-      "comments": 222,
-      "author": "kykeonaut",
-      "tags": [],
-      "date": "2026-04-03T16:21:32+00:00",
-      "severity": "high"
-    },
-    {
-      "id": "hn-47628326",
-      "source": "hn",
-      "title": "F-15E jet shot down over Iran",
-      "url": "https://www.theguardian.com/world/2026/apr/03/us-fighter-jet-confirmed-shot-down-over-iran",
-      "score": 539,
-      "comments": 1201,
-      "author": "tjwds",
-      "tags": [],
-      "date": "2026-04-03T16:00:44+00:00"
-    },
-    {
-      "id": "hn-47628163",
-      "source": "hn",
-      "title": "Boneyard: Generate pixel-perfect skeleton screens from your real DOM",
-      "url": "https://github.com/0xGF/boneyard",
-      "score": 18,
-      "comments": 7,
-      "author": "steveharing1",
-      "tags": [],
-      "date": "2026-04-03T15:49:08+00:00"
-    },
-    {
-      "id": "hn-47627998",
-      "source": "hn",
-      "title": "VOID: Video Object and Interaction Deletion",
-      "url": "https://github.com/Netflix/void-model",
-      "score": 157,
-      "comments": 47,
-      "author": "bobsoap",
-      "tags": [],
-      "date": "2026-04-03T15:38:53+00:00"
-    },
-    {
-      "id": "qiita-e439483e4c",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "【文書検索において高速(200~800x)・高性能な独自の静的埋め込み機構】SSE: Stable Static Embedding Technical Report",
-      "url": "https://qiita.com/peony_snow/items/5051dd4e32cf5735bebb?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "peony_snow",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-04-04T00:34:13+09:00"
-    },
-    {
-      "id": "qiita-73528c8d14",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "Claude Codeの首位陥落。CodexがシェアNo.1へ。 ～データで見る2026年3月のAI Codingの動向まとめ～",
-      "url": "https://qiita.com/kotauchisunsun/items/ab78bb338500b4c71103?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "kotauchisunsun",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-04-04T00:17:52+09:00"
-    },
-    {
-      "id": "hn-47627595",
-      "source": "hn",
-      "title": "Porting Go's strings package to C",
-      "url": "https://antonz.org/porting-go-strings/",
-      "score": 42,
-      "comments": 4,
-      "author": "ingve",
-      "tags": [],
-      "date": "2026-04-03T15:12:45+00:00"
-    },
-    {
-      "id": "hn-47627527",
-      "source": "hn",
-      "title": "Build your own Dial-up ISP with a Raspberry Pi",
-      "url": "https://www.jeffgeerling.com/blog/2026/build-your-own-dial-up-isp-with-a-raspberry-pi/",
-      "score": 181,
-      "comments": 32,
-      "author": "arjunbajaj",
-      "tags": [],
-      "date": "2026-04-03T15:08:16+00:00"
-    },
-    {
-      "id": "qiita-3dcc4de116",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "【コマンド集】LPIC-3 300 Mixed Environments 試験対策まとめ！全トピック解説",
-      "url": "https://qiita.com/miruky/items/2a033c5632753719f8af?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "miruky",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-04-04T00:05:51+09:00"
-    },
-    {
       "id": "ctf-3420191",
       "source": "project",
       "proj_category": "CTF",
@@ -5261,6 +5244,20 @@
         "Security"
       ],
       "date": "2025-08-27T20:39:38Z"
+    },
+    {
+      "id": "ghrel-chroma-core_chroma-209726505",
+      "source": "project",
+      "proj_category": "Tools",
+      "title": "ChromaDB latest — Latest",
+      "url": "https://github.com/chroma-core/chroma/releases/tag/latest",
+      "score": null,
+      "author": "ChromaDB",
+      "tags": [
+        "ChromaDB",
+        "Release"
+      ],
+      "date": "2025-04-01T23:29:39Z"
     },
     {
       "id": "ctf-1917888",
@@ -5622,6 +5619,36 @@
       "date": "Mon, 06 Apr 2026 12:08:14 GMT"
     },
     {
+      "id": "edb-3ba70635b7",
+      "source": "msf",
+      "title": "[webapps] React Server 19.2.0 - Remote Code Execution",
+      "url": "https://www.exploit-db.com/exploits/52506",
+      "score": null,
+      "author": "Exploit-DB",
+      "tags": [
+        "Exploit-DB",
+        "CVE",
+        "PoC"
+      ],
+      "severity": "high",
+      "date": "Thu, 09 Apr 2026 00:00:00 +0000"
+    },
+    {
+      "id": "edb-d82e6e3152",
+      "source": "msf",
+      "title": "[webapps] RomM  4.4.0 -  XSS_CSRF Chain",
+      "url": "https://www.exploit-db.com/exploits/52505",
+      "score": null,
+      "author": "Exploit-DB",
+      "tags": [
+        "Exploit-DB",
+        "CVE",
+        "PoC"
+      ],
+      "severity": "high",
+      "date": "Thu, 09 Apr 2026 00:00:00 +0000"
+    },
+    {
       "id": "edb-e8afe43df5",
       "source": "msf",
       "title": "[webapps] Jumbo Website Manager  - Remote Code Execution",
@@ -5806,36 +5833,6 @@
       "source": "msf",
       "title": "[webapps] ASP.net  8.0.10 - Bypass",
       "url": "https://www.exploit-db.com/exploits/52492",
-      "score": null,
-      "author": "Exploit-DB",
-      "tags": [
-        "Exploit-DB",
-        "CVE",
-        "PoC"
-      ],
-      "severity": "high",
-      "date": "Mon, 06 Apr 2026 00:00:00 +0000"
-    },
-    {
-      "id": "edb-3e5b114d13",
-      "source": "msf",
-      "title": "[webapps] Grafana 11.6.0 - SSRF",
-      "url": "https://www.exploit-db.com/exploits/52491",
-      "score": null,
-      "author": "Exploit-DB",
-      "tags": [
-        "Exploit-DB",
-        "CVE",
-        "PoC"
-      ],
-      "severity": "high",
-      "date": "Mon, 06 Apr 2026 00:00:00 +0000"
-    },
-    {
-      "id": "edb-5a9e1c5ac4",
-      "source": "msf",
-      "title": "[webapps] Zhiyuan OA - arbitrary file upload leading",
-      "url": "https://www.exploit-db.com/exploits/52490",
       "score": null,
       "author": "Exploit-DB",
       "tags": [

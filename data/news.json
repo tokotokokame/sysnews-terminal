@@ -1,14 +1,38 @@
 {
-  "updated_at": "2026-04-10T13:10:20.418742+00:00",
+  "updated_at": "2026-04-10T14:34:16.628367+00:00",
   "count": 500,
   "items": [
+    {
+      "id": "hn-47717973",
+      "source": "hn",
+      "title": "The effects of caffeine consumption do not decay with a ~5 hour half-life",
+      "url": "https://www.lesswrong.com/posts/vefsxkGWkEMmDcZ7v/the-effects-of-caffeine-consumption-do-not-decay-with-a-5",
+      "score": 29,
+      "comments": 20,
+      "author": "swah",
+      "tags": [],
+      "date": "2026-04-10T13:38:39+00:00"
+    },
+    {
+      "id": "qiita-50a7c43f45",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "日本発、LLMの推論を「桁違い」に効率化する新アーキテクチャ「PHOTON」の論文が面白かったのでまとめてみた",
+      "url": "https://qiita.com/yuji-arakawa/items/2ad0240c56eb7507b261?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "yuji-arakawa",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-04-10T22:15:57+09:00"
+    },
     {
       "id": "hn-47716809",
       "source": "hn",
       "title": "Intel 486 CPU announced April 10, 1989",
       "url": "https://dfarq.homeip.net/intel-486-cpu-announced-april-10-1989/",
-      "score": 44,
-      "comments": 21,
+      "score": 92,
+      "comments": 61,
       "author": "jnord",
       "tags": [],
       "date": "2026-04-10T12:03:34+00:00"
@@ -29,8 +53,8 @@
       "source": "hn",
       "title": "FBI used iPhone notification data to retrieve deleted Signal messages",
       "url": "https://9to5mac.com/2026/04/09/fbi-used-iphone-notification-data-to-retrieve-deleted-signal-messages/",
-      "score": 99,
-      "comments": 38,
+      "score": 215,
+      "comments": 84,
       "author": "01-_-",
       "tags": [],
       "date": "2026-04-10T11:29:04+00:00"
@@ -46,6 +70,17 @@
       "tags": [],
       "date": "2026-04-10T11:20:51+00:00",
       "severity": "critical"
+    },
+    {
+      "id": "hn-47716063",
+      "source": "hn",
+      "title": "Ads in ChatGPT",
+      "url": "https://help.openai.com/en/articles/20001047-ads-in-chatgpt",
+      "score": 23,
+      "comments": 12,
+      "author": "cbility",
+      "tags": [],
+      "date": "2026-04-10T10:40:27+00:00"
     },
     {
       "id": "hn-47716043",
@@ -76,8 +111,8 @@
       "source": "hn",
       "title": "Show HN: Keeper – embedded secret store for Go (help me break it)",
       "url": "https://github.com/agberohq/keeper",
-      "score": 39,
-      "comments": 22,
+      "score": 45,
+      "comments": 25,
       "author": "babawere",
       "tags": [],
       "date": "2026-04-10T08:53:33+00:00"
@@ -120,8 +155,8 @@
       "source": "hn",
       "title": "Artemis II and the invisible hazard on the way to the Moon",
       "url": "https://www.ansto.gov.au/news/artemis-ii-and-invisible-hazard-on-way-to-moon-part-1",
-      "score": 38,
-      "comments": 36,
+      "score": 53,
+      "comments": 40,
       "author": "zeristor",
       "tags": [],
       "date": "2026-04-10T07:04:17+00:00"
@@ -131,8 +166,8 @@
       "source": "hn",
       "title": "Penguin 'Toxicologists' Find PFAS Chemicals in Remote Patagonia",
       "url": "https://www.ucdavis.edu/health/news/penguin-toxicologists-find-pfas-chemicals-remote-patagonia",
-      "score": 48,
-      "comments": 12,
+      "score": 66,
+      "comments": 21,
       "author": "giuliomagnifico",
       "tags": [],
       "date": "2026-04-10T06:15:46+00:00"
@@ -186,10 +221,10 @@
     {
       "id": "hn-47713495",
       "source": "hn",
-      "title": "ETH Zurich demonstrates 17,000 qubit array with 99.91% fidelity",
+      "title": "Protected quantum gates using qubit doublons in dynamical optical lattices",
       "url": "https://ethz.ch/en/news-and-events/eth-news/news/2026/04/a-new-trick-brings-stability-to-quantum-operations.html",
-      "score": 160,
-      "comments": 33,
+      "score": 185,
+      "comments": 43,
       "author": "joko42",
       "tags": [],
       "date": "2026-04-10T04:04:57+00:00"
@@ -236,8 +271,8 @@
       "source": "hn",
       "title": "I still prefer MCP over skills",
       "url": "https://david.coffee/i-still-prefer-mcp-over-skills/",
-      "score": 272,
-      "comments": 229,
+      "score": 305,
+      "comments": 261,
       "author": "gmays",
       "tags": [],
       "date": "2026-04-10T02:01:48+00:00"
@@ -247,8 +282,8 @@
       "source": "hn",
       "title": "We've raised $17M to build what comes after Git",
       "url": "https://blog.gitbutler.com/series-a",
-      "score": 193,
-      "comments": 422,
+      "score": 217,
+      "comments": 473,
       "author": "ellieh",
       "tags": [],
       "date": "2026-04-10T01:52:58+00:00"
@@ -432,8 +467,8 @@
       "source": "hn",
       "title": "Charcuterie – Visual similarity Unicode explorer",
       "url": "https://charcuterie.elastiq.ch/",
-      "score": 263,
-      "comments": 57,
+      "score": 274,
+      "comments": 63,
       "author": "rickcarlino",
       "tags": [],
       "date": "2026-04-09T20:12:07+00:00"
@@ -454,8 +489,8 @@
       "source": "hn",
       "title": "Native Instant Space Switching on macOS",
       "url": "https://arhan.sh/blog/native-instant-space-switching-on-macos/",
-      "score": 559,
-      "comments": 268,
+      "score": 576,
+      "comments": 273,
       "author": "PaulHoule",
       "tags": [],
       "date": "2026-04-09T19:48:26+00:00"
@@ -531,8 +566,8 @@
       "source": "hn",
       "title": "Old laptops in a colo as low cost servers",
       "url": "https://colaptop.pages.dev/",
-      "score": 330,
-      "comments": 186,
+      "score": 347,
+      "comments": 202,
       "author": "argentum47",
       "tags": [],
       "date": "2026-04-09T18:22:39+00:00"
@@ -586,8 +621,8 @@
       "source": "hn",
       "title": "Unfolder for Mac – A 3D model unfolding tool for creating papercraft",
       "url": "https://www.unfolder.app/",
-      "score": 261,
-      "comments": 48,
+      "score": 281,
+      "comments": 55,
       "author": "codazoda",
       "tags": [],
       "date": "2026-04-09T16:58:46+00:00"
@@ -666,8 +701,8 @@
       "source": "hn",
       "title": "How NASA built Artemis II’s fault-tolerant computer",
       "url": "https://cacm.acm.org/news/how-nasa-built-artemis-iis-fault-tolerant-computer/",
-      "score": 460,
-      "comments": 176,
+      "score": 487,
+      "comments": 187,
       "author": "speckx",
       "tags": [],
       "date": "2026-04-09T15:12:40+00:00"
@@ -1228,19 +1263,6 @@
       "date": "2026-04-08T16:01:32+00:00"
     },
     {
-      "id": "qiita-50a7c43f45",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "日本発、LLMの推論を「桁違い」に効率化する新アーキテクチャ「PHOTON」の論文が面白かったのでまとめてみた",
-      "url": "https://qiita.com/yuji-arakawa/items/2ad0240c56eb7507b261?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "yuji-arakawa",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-04-09T00:40:23+09:00"
-    },
-    {
       "id": "hn-47691730",
       "source": "hn",
       "title": "I ported Mac OS X to the Nintendo Wii",
@@ -1284,6 +1306,17 @@
       "author": "rvitorper",
       "tags": [],
       "date": "2026-04-08T14:33:30+00:00"
+    },
+    {
+      "id": "hn-47690609",
+      "source": "hn",
+      "title": "Deterministic Primality Testing for Limited Bit Width",
+      "url": "https://www.jeremykun.com/2026/04/07/deterministic-miller-rabin/",
+      "score": 3,
+      "comments": 0,
+      "author": "ibobev",
+      "tags": [],
+      "date": "2026-04-08T14:19:39+00:00"
     },
     {
       "id": "hn-47690415",
@@ -1572,8 +1605,8 @@
       "source": "hn",
       "title": "The Art of Risk Management (2017)",
       "url": "https://www.bcg.com/publications/2017/finance-function-excellence-corporate-development-art-risk-management",
-      "score": 26,
-      "comments": 6,
+      "score": 33,
+      "comments": 9,
       "author": "walterbell",
       "tags": [],
       "date": "2026-04-08T06:15:44+00:00"
@@ -1972,8 +2005,8 @@
       "source": "hn",
       "title": "RAM Has a Design Flaw from 1966. I Bypassed It [video]",
       "url": "https://www.youtube.com/watch?v=KKbgulTp3FE",
-      "score": 293,
-      "comments": 100,
+      "score": 316,
+      "comments": 111,
       "author": "surprisetalk",
       "tags": [],
       "date": "2026-04-07T19:14:32+00:00",
@@ -2030,8 +2063,8 @@
       "source": "hn",
       "title": "Show HN: Marimo pair – Reactive Python notebooks as environments for agents",
       "url": "https://github.com/marimo-team/marimo-pair",
-      "score": 34,
-      "comments": 2,
+      "score": 55,
+      "comments": 8,
       "author": "manzt",
       "tags": [],
       "date": "2026-04-07T17:47:46+00:00"
@@ -2160,6 +2193,17 @@
       "date": "2026-04-07T15:03:18+00:00"
     },
     {
+      "id": "hn-47676174",
+      "source": "hn",
+      "title": "Mysteries of Dropbox: Property-Based Testing of a Distributed Sync Service [pdf]",
+      "url": "https://www.cis.upenn.edu/~bcpierce/papers/mysteriesofdropbox.pdf",
+      "score": 18,
+      "comments": 3,
+      "author": "JackeJR",
+      "tags": [],
+      "date": "2026-04-07T14:41:08+00:00"
+    },
+    {
       "id": "hn-47676044",
       "source": "hn",
       "title": "Show HN: Finalrun – Spec-driven testing using English and vision for mobile apps",
@@ -2175,8 +2219,8 @@
       "source": "hn",
       "title": "Generative art over the years",
       "url": "https://blog.veitheller.de/Generative_art_over_the_years.html",
-      "score": 178,
-      "comments": 45,
+      "score": 200,
+      "comments": 50,
       "author": "evakhoury",
       "tags": [],
       "date": "2026-04-07T14:25:23+00:00"
@@ -2332,8 +2376,8 @@
       "source": "hn",
       "title": "Model-Based Testing for Dungeons & Dragons",
       "url": "https://www.loskutoff.com/blog/model-based-testing-dnd/",
-      "score": 53,
-      "comments": 12,
+      "score": 74,
+      "comments": 22,
       "author": "Firfi",
       "tags": [],
       "date": "2026-04-07T13:15:41+00:00"
@@ -5786,66 +5830,6 @@
       "source": "msf",
       "title": "[local] is-localhost-ip 2.0.0 - SSRF",
       "url": "https://www.exploit-db.com/exploits/52496",
-      "score": null,
-      "author": "Exploit-DB",
-      "tags": [
-        "Exploit-DB",
-        "CVE",
-        "PoC"
-      ],
-      "severity": "high",
-      "date": "Mon, 06 Apr 2026 00:00:00 +0000"
-    },
-    {
-      "id": "edb-0003c10d59",
-      "source": "msf",
-      "title": "[webapps] Fortinet FortiWeb v8.0.1 - Auth Bypass",
-      "url": "https://www.exploit-db.com/exploits/52495",
-      "score": null,
-      "author": "Exploit-DB",
-      "tags": [
-        "Exploit-DB",
-        "CVE",
-        "PoC"
-      ],
-      "severity": "high",
-      "date": "Mon, 06 Apr 2026 00:00:00 +0000"
-    },
-    {
-      "id": "edb-3a24fa28ce",
-      "source": "msf",
-      "title": "[local] Windows Kernel - Elevation of Privilege",
-      "url": "https://www.exploit-db.com/exploits/52494",
-      "score": null,
-      "author": "Exploit-DB",
-      "tags": [
-        "Exploit-DB",
-        "CVE",
-        "PoC"
-      ],
-      "severity": "high",
-      "date": "Mon, 06 Apr 2026 00:00:00 +0000"
-    },
-    {
-      "id": "edb-91f6ba4739",
-      "source": "msf",
-      "title": "[local] Desktop Window Manager Core Library 10.0.10240.0 - Privilege Escalation",
-      "url": "https://www.exploit-db.com/exploits/52493",
-      "score": null,
-      "author": "Exploit-DB",
-      "tags": [
-        "Exploit-DB",
-        "CVE",
-        "PoC"
-      ],
-      "severity": "high",
-      "date": "Mon, 06 Apr 2026 00:00:00 +0000"
-    },
-    {
-      "id": "edb-5a9a2cb875",
-      "source": "msf",
-      "title": "[webapps] ASP.net  8.0.10 - Bypass",
-      "url": "https://www.exploit-db.com/exploits/52492",
       "score": null,
       "author": "Exploit-DB",
       "tags": [

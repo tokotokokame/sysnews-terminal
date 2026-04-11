@@ -1,25 +1,59 @@
 {
-  "updated_at": "2026-04-11T19:35:09.581693+00:00",
+  "updated_at": "2026-04-11T20:34:11.943967+00:00",
   "count": 500,
   "items": [
+    {
+      "id": "hn-47733385",
+      "source": "hn",
+      "title": "Show HN: Editing 2000 photos made me build a macOS bulk photo editor",
+      "url": "https://apps.apple.com/us/app/rapidphoto-batch-crop-edit/id6758485661?mt=12",
+      "score": 7,
+      "comments": 5,
+      "author": "om202",
+      "tags": [],
+      "date": "2026-04-11T19:41:46+00:00"
+    },
+    {
+      "id": "hn-47733217",
+      "source": "hn",
+      "title": "How We Broke Top AI Agent Benchmarks: And What Comes Next",
+      "url": "https://rdi.berkeley.edu/blog/trustworthy-benchmarks-cont/",
+      "score": 49,
+      "comments": 16,
+      "author": "Anon84",
+      "tags": [],
+      "date": "2026-04-11T19:15:56+00:00"
+    },
     {
       "id": "hn-47732697",
       "source": "hn",
       "title": "How to build a `Git diff` driver",
       "url": "https://www.jvt.me/posts/2026/04/11/how-git-diff-driver/",
-      "score": 14,
-      "comments": 0,
+      "score": 32,
+      "comments": 2,
       "author": "zdw",
       "tags": [],
       "date": "2026-04-11T18:07:49+00:00"
+    },
+    {
+      "id": "hn-47732402",
+      "source": "hn",
+      "title": "The APL programming language source code (2012)",
+      "url": "https://computerhistory.org/blog/the-apl-programming-language-source-code/",
+      "score": 15,
+      "comments": 1,
+      "author": "tosh",
+      "tags": [],
+      "date": "2026-04-11T17:34:10+00:00",
+      "severity": "critical"
     },
     {
       "id": "hn-47732020",
       "source": "hn",
       "title": "Small models also found the vulnerabilities that Mythos found",
       "url": "https://aisle.com/blog/ai-cybersecurity-after-mythos-the-jagged-frontier",
-      "score": 382,
-      "comments": 112,
+      "score": 491,
+      "comments": 146,
       "author": "dominicq",
       "tags": [],
       "date": "2026-04-11T16:47:28+00:00"
@@ -29,7 +63,7 @@
       "source": "hn",
       "title": "Phone Trips",
       "url": "http://www.wideweb.com/phonetrips/",
-      "score": 35,
+      "score": 46,
       "comments": 3,
       "author": "bookofjoe",
       "tags": [],
@@ -51,8 +85,8 @@
       "source": "hn",
       "title": "Keeping a Postgres Queue Healthy",
       "url": "https://planetscale.com/blog/keeping-a-postgres-queue-healthy",
-      "score": 41,
-      "comments": 7,
+      "score": 54,
+      "comments": 14,
       "author": "tanelpoder",
       "tags": [],
       "date": "2026-04-11T16:24:08+00:00"
@@ -74,8 +108,8 @@
       "source": "hn",
       "title": "Advanced Mac Substitute is an API-level reimplementation of 1980s-era Mac OS",
       "url": "https://www.v68k.org/advanced-mac-substitute/",
-      "score": 115,
-      "comments": 23,
+      "score": 135,
+      "comments": 33,
       "author": "zdw",
       "tags": [],
       "date": "2026-04-11T15:39:19+00:00"
@@ -85,8 +119,8 @@
       "source": "hn",
       "title": "The future of everything is lies, I guess – Part 5: Annoyances",
       "url": "https://aphyr.com/posts/415-the-future-of-everything-is-lies-i-guess-annoyances",
-      "score": 149,
-      "comments": 81,
+      "score": 164,
+      "comments": 94,
       "author": "aphyr",
       "tags": [],
       "date": "2026-04-11T14:32:39+00:00"
@@ -96,8 +130,8 @@
       "source": "hn",
       "title": "The Problem That Built an Industry",
       "url": "https://ajitem.com/blog/iron-core-part-1-the-problem-that-built-an-industry/",
-      "score": 67,
-      "comments": 29,
+      "score": 75,
+      "comments": 32,
       "author": "ShaggyHotDog",
       "tags": [],
       "date": "2026-04-11T14:03:03+00:00"
@@ -107,8 +141,8 @@
       "source": "hn",
       "title": "South Korea introduces universal basic mobile data access",
       "url": "https://www.theregister.com/2026/04/10/south_korea_data_access_universal/",
-      "score": 219,
-      "comments": 66,
+      "score": 249,
+      "comments": 69,
       "author": "saikatsg",
       "tags": [],
       "date": "2026-04-11T13:27:16+00:00"
@@ -118,8 +152,8 @@
       "source": "hn",
       "title": "Bitcoin miners are losing on every coin produced as difficulty drops",
       "url": "https://www.coindesk.com/markets/2026/03/22/bitcoin-miners-are-losing-usd19-000-on-every-btc-produced-as-difficulty-drops-7-8",
-      "score": 163,
-      "comments": 147,
+      "score": 182,
+      "comments": 168,
       "author": "PaulHoule",
       "tags": [],
       "date": "2026-04-11T13:22:25+00:00"
@@ -151,8 +185,8 @@
       "source": "hn",
       "title": "Cirrus Labs to join OpenAI",
       "url": "https://cirruslabs.org/",
-      "score": 190,
-      "comments": 93,
+      "score": 200,
+      "comments": 100,
       "author": "seekdeep",
       "tags": [],
       "date": "2026-04-11T13:01:34+00:00"
@@ -178,6 +212,19 @@
       "author": "kupadapuku",
       "tags": [],
       "date": "2026-04-11T10:58:36+00:00"
+    },
+    {
+      "id": "qiita-1b70a4794f",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "【ズバッと解説】データメッシュとは？背景と考え方・4原則・関連ワードを整理",
+      "url": "https://qiita.com/yushibats/items/fa3789c26e832c80ada0?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "yushibats",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-04-11T19:39:11+09:00"
     },
     {
       "id": "hn-47729069",
@@ -295,6 +342,19 @@
       "date": "2026-04-11T04:25:31+00:00"
     },
     {
+      "id": "qiita-815295723c",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "EDRは有効だが万能ではない : SOC運用の視点で整理する",
+      "url": "https://qiita.com/yasuo-dev/items/e071ed4fa444e12686da?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "yasuo-dev",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-04-11T12:36:11+09:00"
+    },
+    {
       "id": "hn-47727076",
       "source": "hn",
       "title": "Quien – A better WHOIS lookup tool",
@@ -328,6 +388,19 @@
       "date": "2026-04-10T23:48:07+00:00"
     },
     {
+      "id": "qiita-8152825fe6",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "初心者でもわかる！ Python で学ぶマクロ経済学入門 全70回 総復習",
+      "url": "https://qiita.com/maskot1977/items/36a9458ee2b8bbb62794?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "maskot1977",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-04-11T08:45:17+09:00"
+    },
+    {
       "id": "hn-47724957",
       "source": "hn",
       "title": "Has Mythos just broken the deal that kept the internet safe?",
@@ -354,8 +427,8 @@
       "source": "hn",
       "title": "Filing the corners off my MacBooks",
       "url": "https://kentwalters.com/posts/corners/",
-      "score": 1221,
-      "comments": 564,
+      "score": 1248,
+      "comments": 575,
       "author": "normanvalentine",
       "tags": [],
       "date": "2026-04-10T22:16:40+00:00"
@@ -365,7 +438,7 @@
       "source": "hn",
       "title": "Installing every* Firefox extension",
       "url": "https://jack.cab/blog/every-firefox-extension",
-      "score": 588,
+      "score": 597,
       "comments": 73,
       "author": "RohanAdwankar",
       "tags": [],
@@ -409,8 +482,8 @@
       "source": "hn",
       "title": "Chimpanzees in Uganda locked in eight-year 'civil war', say researchers",
       "url": "https://www.bbc.com/news/articles/cr71lkzv49po",
-      "score": 401,
-      "comments": 240,
+      "score": 404,
+      "comments": 243,
       "author": "neversaydie",
       "tags": [],
       "date": "2026-04-10T19:10:22+00:00"
@@ -843,6 +916,19 @@
       "date": "2026-04-10T18:55:51+09:00"
     },
     {
+      "id": "qiita-893e3a1c13",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "【Git】実務で使うPull Request運用ルールまとめ",
+      "url": "https://qiita.com/yuto-vj/items/9631a596b5590e9ee7b8?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "yuto-vj",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-04-10T18:45:08+09:00"
+    },
+    {
       "id": "qiita-7153764c13",
       "source": "zennqiita",
       "sub_source": "Qiita",
@@ -1127,6 +1213,19 @@
       "date": "2026-04-10T01:09:06+00:00"
     },
     {
+      "id": "qiita-b5d40a73c2",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "Oracle DatabaseでエンジンBOMをProperty Graph化（基礎編）",
+      "url": "https://qiita.com/kanakani/items/6d8a1f87ecd51e9be4ca?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "kanakani",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-04-10T10:02:19+09:00"
+    },
+    {
       "id": "qiita-e516ca844a",
       "source": "zennqiita",
       "sub_source": "Qiita",
@@ -1156,8 +1255,8 @@
       "source": "hn",
       "title": "Mexican surveillance company Grupo Seguritech watches the U.S. border",
       "url": "https://restofworld.org/2026/mexico-seguritech-government-surveillance-profile/",
-      "score": 21,
-      "comments": 1,
+      "score": 36,
+      "comments": 11,
       "author": "classichasclass",
       "tags": [],
       "date": "2026-04-10T00:36:21+00:00"
@@ -1749,6 +1848,19 @@
       "date": "2026-04-09T10:28:28+00:00"
     },
     {
+      "id": "qiita-bfe5b8bab7",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "有名なプロジェクト管理ツールについてまとめてみた",
+      "url": "https://qiita.com/MetroOsamu/items/d7df93f2c70af788d9b9?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "MetroOsamu",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-04-09T19:27:13+09:00"
+    },
+    {
       "id": "qiita-ca1430a243",
       "source": "zennqiita",
       "sub_source": "Qiita",
@@ -1871,6 +1983,19 @@
       "author": "fork-bomber",
       "tags": [],
       "date": "2026-04-09T09:17:25+00:00"
+    },
+    {
+      "id": "qiita-3073bac8f7",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "GitをインストールしようとしたらHomebrewに出会ったお話【MacOS】",
+      "url": "https://qiita.com/inorin__62/items/67362a2d75c36d9632aa?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "inorin__62",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-04-09T18:15:44+09:00"
     },
     {
       "id": "hn-47701100",
@@ -2022,8 +2147,8 @@
       "source": "hn",
       "title": "Starfling: A one-tap endless orbital slingshot game in a single HTML file",
       "url": "https://playstarfling.com",
-      "score": 474,
-      "comments": 121,
+      "score": 496,
+      "comments": 123,
       "author": "iceberger2001",
       "tags": [],
       "date": "2026-04-09T01:52:47+00:00"
@@ -2040,6 +2165,19 @@
         "Qiita"
       ],
       "date": "2026-04-09T10:24:10+09:00"
+    },
+    {
+      "id": "qiita-7805e4a4bb",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "Claude Code vs Codex vs Cursor — 同一リファクタリングタスクを3ツールで検証した速度・精度・コスト比較",
+      "url": "https://qiita.com/hikariclaude01/items/d2efb6f12f4fdf360a3c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "hikariclaude01",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-04-09T10:01:39+09:00"
     },
     {
       "id": "hn-47698111",
@@ -2063,6 +2201,17 @@
       "author": "mitchbob",
       "tags": [],
       "date": "2026-04-09T00:55:46+00:00"
+    },
+    {
+      "id": "hn-47698046",
+      "source": "hn",
+      "title": "Layoff Thinking",
+      "url": "https://blogs.newardassociates.com/blog/2026/layoff-thinking.html",
+      "score": 18,
+      "comments": 14,
+      "author": "zdw",
+      "tags": [],
+      "date": "2026-04-09T00:52:19+00:00"
     },
     {
       "id": "qiita-2d3fee73fd",
@@ -2170,7 +2319,7 @@
       "source": "hn",
       "title": "Optimal Strategy for Connect 4",
       "url": "https://2swap.github.io/WeakC4/explanation/",
-      "score": 222,
+      "score": 227,
       "comments": 28,
       "author": "marvinborner",
       "tags": [],
@@ -2214,8 +2363,8 @@
       "source": "hn",
       "title": "Every plane you see in the sky – you can now follow it from the cockpit in 3D",
       "url": "https://flight-viz.com/cockpit.html?lat=40.64&lon=-73.78&alt=3000&hdg=220&spd=130&cs=DAL123",
-      "score": 98,
-      "comments": 22,
+      "score": 139,
+      "comments": 29,
       "author": "coolwulf",
       "tags": [],
       "date": "2026-04-08T18:10:52+00:00"
@@ -2258,8 +2407,8 @@
       "source": "hn",
       "title": "Surelock: Deadlock-Free Mutexes for Rust",
       "url": "https://notes.brooklynzelenka.com/Blog/Surelock",
-      "score": 108,
-      "comments": 36,
+      "score": 122,
+      "comments": 41,
       "author": "codetheweb",
       "tags": [],
       "date": "2026-04-08T17:36:19+00:00"
@@ -2621,8 +2770,8 @@
       "source": "hn",
       "title": "Volunteers turn a fan's recordings of 10K concerts into an online treasure trove",
       "url": "https://apnews.com/article/aadam-jacobs-collection-concerts-internet-archive-chicago-b1c9c4466a2db409a83523ad84b79d62",
-      "score": 290,
-      "comments": 52,
+      "score": 301,
+      "comments": 55,
       "author": "geox",
       "tags": [],
       "date": "2026-04-08T09:11:10+00:00"
@@ -5033,147 +5182,6 @@
       "author": "andmerm",
       "tags": [],
       "date": "2026-04-06T00:50:32+00:00"
-    },
-    {
-      "id": "qiita-19fa01b4a8",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "AWS AIFに1,000点満点で合格した勉強方法",
-      "url": "https://qiita.com/yuki01_a/items/b7f5cac745d374e64360?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "yuki01_a",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-04-06T09:31:51+09:00"
-    },
-    {
-      "id": "hn-47655466",
-      "source": "hn",
-      "title": "Employers use your personal data to figure out the lowest salary you'll accept",
-      "url": "https://www.marketwatch.com/story/employers-are-using-your-personal-data-to-figure-out-the-lowest-salary-youll-accept-c2b968fb",
-      "score": 261,
-      "comments": 144,
-      "author": "thisislife2",
-      "tags": [],
-      "date": "2026-04-06T00:29:08+00:00"
-    },
-    {
-      "id": "hn-47655408",
-      "source": "hn",
-      "title": "Show HN: I built a tiny LLM to demystify how language models work",
-      "url": "https://github.com/arman-bd/guppylm",
-      "score": 827,
-      "comments": 125,
-      "author": "armanified",
-      "tags": [],
-      "date": "2026-04-06T00:20:12+00:00"
-    },
-    {
-      "id": "hn-47655392",
-      "source": "hn",
-      "title": "Show HN: I made a YouTube search form with advanced filters",
-      "url": "https://playlists.at/youtube/search/",
-      "score": 281,
-      "comments": 174,
-      "author": "nevernothing",
-      "tags": [],
-      "date": "2026-04-06T00:18:26+00:00"
-    },
-    {
-      "id": "hn-47655367",
-      "source": "hn",
-      "title": "Show HN: Gemma Gem – AI model embedded in a browser – no API keys, no cloud",
-      "url": "https://github.com/kessler/gemma-gem",
-      "score": 118,
-      "comments": 18,
-      "author": "ikessler",
-      "tags": [],
-      "date": "2026-04-06T00:14:37+00:00"
-    },
-    {
-      "id": "hn-47655335",
-      "source": "hn",
-      "title": "Recall – local multimodal semantic search for your files",
-      "url": "https://github.com/aayu22809/Recall",
-      "score": 9,
-      "comments": 4,
-      "author": "patel_aayushya",
-      "tags": [],
-      "date": "2026-04-06T00:09:14+00:00"
-    },
-    {
-      "id": "hn-47655329",
-      "source": "hn",
-      "title": "Copilot is 'for entertainment purposes only', per Microsoft's terms of use",
-      "url": "https://techcrunch.com/2026/04/05/copilot-is-for-entertainment-purposes-only-according-to-microsofts-terms-of-service/",
-      "score": 106,
-      "comments": 17,
-      "author": "airstrike",
-      "tags": [],
-      "date": "2026-04-06T00:07:54+00:00"
-    },
-    {
-      "id": "qiita-d22d42ca69",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "ローカルLLM（Gemma4）× AIVIS Speech で音声チャットの応答を「1秒未満」にした話",
-      "url": "https://qiita.com/kikuziro/items/35f8fd0f56e63b25854f?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "kikuziro",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-04-06T09:00:18+09:00"
-    },
-    {
-      "id": "hn-47655268",
-      "source": "hn",
-      "title": "Show HN: Modo – I built an open-source alternative to Kiro, Cursor, and Windsurf",
-      "url": "https://github.com/mohshomis/modo",
-      "score": 74,
-      "comments": 16,
-      "author": "mohshomis",
-      "tags": [],
-      "date": "2026-04-05T23:59:10+00:00",
-      "severity": "critical"
-    },
-    {
-      "id": "qiita-aafa78140d",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "【初心者完全版】0からNext.js開発して2時間で基礎をマスターする最強チュートリアル【図解解説】",
-      "url": "https://qiita.com/Sicut_study/items/2c9df846e96a47900e6d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "Sicut_study",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-04-06T08:40:34+09:00"
-    },
-    {
-      "id": "hn-47655058",
-      "source": "hn",
-      "title": "OpenAI's fall from grace as investors race to Anthropic",
-      "url": "https://www.latimes.com/business/story/2026-04-01/openais-shocking-fall-from-grace-as-investors-race-to-anthropic",
-      "score": 79,
-      "comments": 47,
-      "author": "1vuio0pswjnm7",
-      "tags": [],
-      "date": "2026-04-05T23:33:01+00:00"
-    },
-    {
-      "id": "qiita-e60ffdd73c",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "IPA高度区分試験攻略法：PMその⑦：午後Ⅰ実況：令和7年問1を解いてみた（後編）",
-      "url": "https://qiita.com/dais_cw/items/570c36f20fc0f3c67cc0?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "dais_cw",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-04-06T07:55:44+09:00"
     },
     {
       "id": "ctf-3420191",

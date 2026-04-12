@@ -1,7 +1,19 @@
 {
-  "updated_at": "2026-04-12T10:07:03.238716+00:00",
+  "updated_at": "2026-04-12T11:06:40.340391+00:00",
   "count": 500,
   "items": [
+    {
+      "id": "hn-47737928",
+      "source": "hn",
+      "title": "MiniMax M2.7 Is Now Open Source",
+      "url": "https://firethering.com/minimax-m2-7-agentic-model/",
+      "score": 21,
+      "comments": 3,
+      "author": "steveharing1",
+      "tags": [],
+      "date": "2026-04-12T10:07:33+00:00",
+      "severity": "critical"
+    },
     {
       "id": "hn-47737563",
       "source": "hn",
@@ -18,12 +30,23 @@
       "source": "hn",
       "title": "Apple update looks like Czech mate for locked-out iPhone user",
       "url": "https://www.theregister.com/2026/04/12/ios_passcode_bug/",
-      "score": 72,
-      "comments": 26,
+      "score": 124,
+      "comments": 56,
       "author": "OuterVale",
       "tags": [],
       "date": "2026-04-12T08:38:56+00:00",
       "severity": "medium"
+    },
+    {
+      "id": "hn-47737376",
+      "source": "hn",
+      "title": "Phyphox – Physical Experiments Using a Smartphone",
+      "url": "https://phyphox.org/",
+      "score": 17,
+      "comments": 4,
+      "author": "_Microft",
+      "tags": [],
+      "date": "2026-04-12T08:38:11+00:00"
     },
     {
       "id": "hn-47736907",
@@ -54,8 +77,8 @@
       "source": "hn",
       "title": "I run multiple $10K MRR companies on a $20/month tech stack",
       "url": "https://stevehanov.ca/blog/how-i-run-multiple-10k-mrr-companies-on-a-20month-tech-stack",
-      "score": 200,
-      "comments": 132,
+      "score": 251,
+      "comments": 187,
       "author": "tradertef",
       "tags": [],
       "date": "2026-04-12T06:00:00+00:00"
@@ -89,8 +112,8 @@
       "source": "hn",
       "title": "US appeals court declares 158-year-old home distilling ban unconstitutional",
       "url": "https://www.theguardian.com/law/2026/apr/11/appeals-court-ruling-home-distilling-ban-unconstitutional",
-      "score": 154,
-      "comments": 109,
+      "score": 173,
+      "comments": 133,
       "author": "Jimmc414",
       "tags": [],
       "date": "2026-04-12T05:08:03+00:00"
@@ -173,8 +196,8 @@
       "source": "hn",
       "title": "Why meaningful days look like nothing while you are living them",
       "url": "https://pilgrima.ge/p/the-grand-line",
-      "score": 44,
-      "comments": 29,
+      "score": 50,
+      "comments": 33,
       "author": "momentmaker",
       "tags": [],
       "date": "2026-04-12T03:04:05+00:00"
@@ -219,7 +242,7 @@
       "source": "hn",
       "title": "How a dancer with ALS used brainwaves to perform live",
       "url": "https://www.electronicspecifier.com/products/sensors/how-a-dancer-with-als-used-brainwaves-to-perform-live/",
-      "score": 46,
+      "score": 47,
       "comments": 8,
       "author": "1659447091",
       "tags": [],
@@ -230,8 +253,8 @@
       "source": "hn",
       "title": "The End of Eleventy",
       "url": "https://brennan.day/the-end-of-eleventy/",
-      "score": 166,
-      "comments": 120,
+      "score": 172,
+      "comments": 124,
       "author": "ValentineC",
       "tags": [],
       "date": "2026-04-12T01:55:48+00:00"
@@ -298,8 +321,8 @@
       "source": "hn",
       "title": "Apple Silicon and Virtual Machines: Beating the 2 VM Limit (2023)",
       "url": "https://khronokernel.com/macos/2023/08/08/AS-VM.html",
-      "score": 202,
-      "comments": 142,
+      "score": 204,
+      "comments": 141,
       "author": "krackers",
       "tags": [],
       "date": "2026-04-11T20:58:48+00:00"
@@ -309,8 +332,8 @@
       "source": "hn",
       "title": "447 TB/cm² at zero retention energy – atomic-scale memory on fluorographane",
       "url": "https://zenodo.org/records/19513269",
-      "score": 216,
-      "comments": 103,
+      "score": 218,
+      "comments": 111,
       "author": "iliatoli",
       "tags": [],
       "date": "2026-04-11T20:08:46+00:00"
@@ -320,7 +343,7 @@
       "source": "hn",
       "title": "Dark Castle",
       "url": "https://darkcastle.co.uk/",
-      "score": 183,
+      "score": 187,
       "comments": 24,
       "author": "evo_9",
       "tags": [],
@@ -342,8 +365,8 @@
       "source": "hn",
       "title": "How We Broke Top AI Agent Benchmarks: And What Comes Next",
       "url": "https://rdi.berkeley.edu/blog/trustworthy-benchmarks-cont/",
-      "score": 381,
-      "comments": 97,
+      "score": 392,
+      "comments": 98,
       "author": "Anon84",
       "tags": [],
       "date": "2026-04-11T19:15:56+00:00"
@@ -364,7 +387,7 @@
       "source": "hn",
       "title": "How to build a `Git diff` driver",
       "url": "https://www.jvt.me/posts/2026/04/11/how-git-diff-driver/",
-      "score": 115,
+      "score": 118,
       "comments": 12,
       "author": "zdw",
       "tags": [],
@@ -387,8 +410,8 @@
       "source": "hn",
       "title": "Small models also found the vulnerabilities that Mythos found",
       "url": "https://aisle.com/blog/ai-cybersecurity-after-mythos-the-jagged-frontier",
-      "score": 1109,
-      "comments": 297,
+      "score": 1120,
+      "comments": 298,
       "author": "dominicq",
       "tags": [],
       "date": "2026-04-11T16:47:28+00:00"
@@ -443,7 +466,7 @@
       "source": "hn",
       "title": "Advanced Mac Substitute is an API-level reimplementation of 1980s-era Mac OS",
       "url": "https://www.v68k.org/advanced-mac-substitute/",
-      "score": 243,
+      "score": 245,
       "comments": 62,
       "author": "zdw",
       "tags": [],
@@ -521,7 +544,7 @@
       "title": "Cirrus Labs to join OpenAI",
       "url": "https://cirruslabs.org/",
       "score": 267,
-      "comments": 127,
+      "comments": 128,
       "author": "seekdeep",
       "tags": [],
       "date": "2026-04-11T13:01:34+00:00"
@@ -1988,8 +2011,8 @@
       "source": "hn",
       "title": "An Interview with Pat Gelsinger",
       "url": "https://morethanmoore.substack.com/p/an-interview-with-pat-gelsinger-2026",
-      "score": 27,
-      "comments": 6,
+      "score": 39,
+      "comments": 16,
       "author": "zdw",
       "tags": [],
       "date": "2026-04-09T17:19:10+00:00"
@@ -2879,7 +2902,7 @@
       "source": "hn",
       "title": "Surelock: Deadlock-Free Mutexes for Rust",
       "url": "https://notes.brooklynzelenka.com/Blog/Surelock",
-      "score": 214,
+      "score": 218,
       "comments": 71,
       "author": "codetheweb",
       "tags": [],
@@ -4177,8 +4200,8 @@
       "source": "hn",
       "title": "The Miller Principle",
       "url": "https://puredanger.github.io/tech.puredanger.com/2007/07/11/miller-principle/",
-      "score": 8,
-      "comments": 1,
+      "score": 23,
+      "comments": 20,
       "author": "FelipeCortez",
       "tags": [],
       "date": "2026-04-07T13:16:36+00:00"
@@ -4204,6 +4227,17 @@
       "author": "PatrickVuscan",
       "tags": [],
       "date": "2026-04-07T12:57:25+00:00"
+    },
+    {
+      "id": "hn-47674473",
+      "source": "hn",
+      "title": "Stewart Brand on How Progress Happens",
+      "url": "https://www.newyorker.com/books/book-currents/stewart-brand-on-how-progress-happens",
+      "score": 5,
+      "comments": 1,
+      "author": "bookofjoe",
+      "tags": [],
+      "date": "2026-04-07T12:47:02+00:00"
     },
     {
       "id": "hn-47674273",
@@ -4344,8 +4378,8 @@
       "source": "hn",
       "title": "How Complex is my Code?",
       "url": "https://philodev.one/posts/2026-04-code-complexity/",
-      "score": 126,
-      "comments": 29,
+      "score": 132,
+      "comments": 30,
       "author": "speckx",
       "tags": [],
       "date": "2026-04-07T10:44:55+00:00"
@@ -4366,8 +4400,8 @@
       "source": "hn",
       "title": "Pijul a FOSS distributed version control system",
       "url": "https://pijul.org/",
-      "score": 151,
-      "comments": 23,
+      "score": 158,
+      "comments": 24,
       "author": "kouosi",
       "tags": [],
       "date": "2026-04-07T10:16:38+00:00"
@@ -4447,8 +4481,8 @@
       "source": "hn",
       "title": "Tofolli gates are all you need",
       "url": "https://www.johndcook.com/blog/2026/04/06/tofolli-gates/",
-      "score": 53,
-      "comments": 6,
+      "score": 66,
+      "comments": 11,
       "author": "ibobev",
       "tags": [],
       "date": "2026-04-07T09:40:57+00:00"
@@ -4538,7 +4572,7 @@
       "source": "hn",
       "title": "Network Flow Algorithms",
       "url": "https://www.networkflowalgs.com/",
-      "score": 12,
+      "score": 21,
       "comments": 0,
       "author": "teleforce",
       "tags": [],
@@ -5150,39 +5184,6 @@
       "date": "2026-04-06T15:11:45+00:00"
     },
     {
-      "id": "hn-47661972",
-      "source": "hn",
-      "title": "Small Engines",
-      "url": "https://scottlocklin.wordpress.com/2026/03/25/very-small-engines/",
-      "score": 50,
-      "comments": 10,
-      "author": "surprisetalk",
-      "tags": [],
-      "date": "2026-04-06T15:11:24+00:00"
-    },
-    {
-      "id": "hn-47661439",
-      "source": "hn",
-      "title": "I won't download your app. The web version is a-ok",
-      "url": "https://www.0xsid.com/blog/wont-download-your-app",
-      "score": 714,
-      "comments": 401,
-      "author": "ssiddharth",
-      "tags": [],
-      "date": "2026-04-06T14:31:29+00:00"
-    },
-    {
-      "id": "hn-47661300",
-      "source": "hn",
-      "title": "Knit File Formats",
-      "url": "https://soup.agnescameron.info//2026/03/25/kniterate-waste-section.html",
-      "score": 6,
-      "comments": 0,
-      "author": "surprisetalk",
-      "tags": [],
-      "date": "2026-04-06T14:22:54+00:00"
-    },
-    {
       "id": "ctf-3420191",
       "source": "project",
       "proj_category": "CTF",
@@ -5392,6 +5393,19 @@
       "date": "Sat, 11 Apr 2026 15:37:00 GMT"
     },
     {
+      "id": "zenn-a19f0d6b9b",
+      "source": "zennqiita",
+      "sub_source": "Zenn",
+      "title": "【CTF】cryptoの始め方（入門）",
+      "url": "https://zenn.dev/kurenaif/articles/d316c2ffa784f8",
+      "score": null,
+      "author": "kurenaif",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Sat, 11 Apr 2026 11:43:08 GMT"
+    },
+    {
       "id": "zenn-ccd72805ae",
       "source": "zennqiita",
       "sub_source": "Zenn",
@@ -5444,6 +5458,19 @@
       "date": "Sat, 11 Apr 2026 06:55:36 GMT"
     },
     {
+      "id": "zenn-19b13c3d8f",
+      "source": "zennqiita",
+      "sub_source": "Zenn",
+      "title": "CDNを活用した画像配信の設計と最適化",
+      "url": "https://zenn.dev/catatsuy/articles/43b5cf583fac76",
+      "score": null,
+      "author": "catatsuy",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Sat, 11 Apr 2026 06:23:48 GMT"
+    },
+    {
       "id": "zenn-110c79f303",
       "source": "zennqiita",
       "sub_source": "Zenn",
@@ -5455,32 +5482,6 @@
         "Zenn"
       ],
       "date": "Sat, 11 Apr 2026 05:47:45 GMT"
-    },
-    {
-      "id": "zenn-f3e8550207",
-      "source": "zennqiita",
-      "sub_source": "Zenn",
-      "title": "Go + Reactで現場レベルの状態遷移を1つのテーブルに統合する — 13状態×15イベントを型で閉じ込める",
-      "url": "https://zenn.dev/okamyuji/articles/golang-react-state-machine-transition-table",
-      "score": null,
-      "author": "okamyuji",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Sat, 11 Apr 2026 04:20:22 GMT"
-    },
-    {
-      "id": "zenn-c4fa0c719f",
-      "source": "zennqiita",
-      "sub_source": "Zenn",
-      "title": "GitHub Copilot CLIの画像レビューをスキル化したらUI改善が捗った",
-      "url": "https://zenn.dev/soyukke/articles/opencode-gpt54-screenshot-review-skill",
-      "score": null,
-      "author": "そゆっけ",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Sat, 11 Apr 2026 03:59:50 GMT"
     },
     {
       "id": "zenn-871183e57e",
@@ -5587,6 +5588,19 @@
       "date": "Fri, 10 Apr 2026 03:00:10 GMT"
     },
     {
+      "id": "zenn-b5008c42ec",
+      "source": "zennqiita",
+      "sub_source": "Zenn",
+      "title": "GitHub Copilot SDKを使えばユーザーのサブスクを使ってAIサービスが作れるのでは…？",
+      "url": "https://zenn.dev/sun_asterisk/articles/c1d02fe074d20b",
+      "score": null,
+      "author": "Kurogoma4D",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Fri, 10 Apr 2026 01:19:07 GMT"
+    },
+    {
       "id": "zenn-7101cb87af",
       "source": "zennqiita",
       "sub_source": "Zenn",
@@ -5600,6 +5614,19 @@
       "date": "Fri, 10 Apr 2026 00:26:31 GMT"
     },
     {
+      "id": "zenn-cf30029dca",
+      "source": "zennqiita",
+      "sub_source": "Zenn",
+      "title": "\"なんとなく改善\"からの脱却。Langfuseで作る、精度を改善し続けられるAI開発基盤",
+      "url": "https://zenn.dev/layerx/articles/cd04dd1350bac5",
+      "score": null,
+      "author": "yata",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Thu, 09 Apr 2026 11:00:04 GMT"
+    },
+    {
       "id": "zenn-fef08d604d",
       "source": "zennqiita",
       "sub_source": "Zenn",
@@ -5611,32 +5638,6 @@
         "Zenn"
       ],
       "date": "Thu, 09 Apr 2026 09:53:08 GMT"
-    },
-    {
-      "id": "zenn-948d1bcbd9",
-      "source": "zennqiita",
-      "sub_source": "Zenn",
-      "title": "Claude Codeが書いたコードを、チームのコードにするためにやったこと — 理解負債とどう向き合ったか",
-      "url": "https://zenn.dev/dely_jp/articles/b8b41a4202efda",
-      "score": null,
-      "author": "mightee",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Thu, 09 Apr 2026 09:21:21 GMT"
-    },
-    {
-      "id": "zenn-ae8f3c2dba",
-      "source": "zennqiita",
-      "sub_source": "Zenn",
-      "title": "転職してエクセルファイルを読み解いてHTMLに変換する仕事をしていたが、悪役令嬢は出てこないし、勇者パーティーも追放されなかった話",
-      "url": "https://zenn.dev/aldagram_tech/articles/c472e358412864",
-      "score": null,
-      "author": "hiroyahorai",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Thu, 09 Apr 2026 09:00:13 GMT"
     },
     {
       "id": "edb-43819ec761",

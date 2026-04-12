@@ -1,14 +1,36 @@
 {
-  "updated_at": "2026-04-12T06:55:35.513813+00:00",
+  "updated_at": "2026-04-12T08:03:02.688920+00:00",
   "count": 500,
   "items": [
+    {
+      "id": "hn-47736907",
+      "source": "hn",
+      "title": "Pope Leo XIV denounces the 'delusion of omnipotence' he says fuels the Iran war",
+      "url": "https://www.politico.com/news/2026/04/11/pope-leo-xiv-denounces-the-delusion-of-omnipotence-he-says-fuels-the-us-israeli-war-in-iran-00868142",
+      "score": 25,
+      "comments": 2,
+      "author": "achierius",
+      "tags": [],
+      "date": "2026-04-12T07:13:55+00:00"
+    },
+    {
+      "id": "hn-47736555",
+      "source": "hn",
+      "title": "I run multiple $10K MRR companies on a $20/month tech stack",
+      "url": "https://stevehanov.ca/blog/how-i-run-multiple-10k-mrr-companies-on-a-20month-tech-stack",
+      "score": 60,
+      "comments": 20,
+      "author": "tradertef",
+      "tags": [],
+      "date": "2026-04-12T06:00:00+00:00"
+    },
     {
       "id": "hn-47736298",
       "source": "hn",
       "title": "US appeals court declares 158-year-old home distilling ban unconstitutional",
       "url": "https://www.theguardian.com/law/2026/apr/11/appeals-court-ruling-home-distilling-ban-unconstitutional",
-      "score": 71,
-      "comments": 38,
+      "score": 104,
+      "comments": 74,
       "author": "Jimmc414",
       "tags": [],
       "date": "2026-04-12T05:08:03+00:00"
@@ -64,8 +86,8 @@
       "source": "hn",
       "title": "Why meaningful days look like nothing while you are living them",
       "url": "https://pilgrima.ge/p/the-grand-line",
-      "score": 18,
-      "comments": 7,
+      "score": 30,
+      "comments": 16,
       "author": "momentmaker",
       "tags": [],
       "date": "2026-04-12T03:04:05+00:00"
@@ -97,8 +119,8 @@
       "source": "hn",
       "title": "How a dancer with ALS used brainwaves to perform live",
       "url": "https://www.electronicspecifier.com/products/sensors/how-a-dancer-with-als-used-brainwaves-to-perform-live/",
-      "score": 27,
-      "comments": 1,
+      "score": 34,
+      "comments": 6,
       "author": "1659447091",
       "tags": [],
       "date": "2026-04-12T02:09:13+00:00"
@@ -108,8 +130,8 @@
       "source": "hn",
       "title": "The End of Eleventy",
       "url": "https://brennan.day/the-end-of-eleventy/",
-      "score": 126,
-      "comments": 70,
+      "score": 141,
+      "comments": 91,
       "author": "ValentineC",
       "tags": [],
       "date": "2026-04-12T01:55:48+00:00"
@@ -130,8 +152,8 @@
       "source": "hn",
       "title": "Software Preservation Group: C++ History Collection",
       "url": "https://softwarepreservation.computerhistory.org/c_plus_plus/",
-      "score": 16,
-      "comments": 1,
+      "score": 21,
+      "comments": 2,
       "author": "quuxplusone",
       "tags": [],
       "date": "2026-04-12T01:24:25+00:00"
@@ -148,12 +170,23 @@
       "date": "2026-04-11T23:37:43+00:00"
     },
     {
+      "id": "hn-47734878",
+      "source": "hn",
+      "title": "High-Level Rust: Getting 80% of the Benefits with 20% of the Pain",
+      "url": "https://hamy.xyz/blog/2026-01_high-level-rust",
+      "score": 32,
+      "comments": 17,
+      "author": "maxloh",
+      "tags": [],
+      "date": "2026-04-11T23:30:40+00:00"
+    },
+    {
       "id": "hn-47733971",
       "source": "hn",
       "title": "Apple Silicon and Virtual Machines: Beating the 2 VM Limit (2023)",
       "url": "https://khronokernel.com/macos/2023/08/08/AS-VM.html",
-      "score": 182,
-      "comments": 128,
+      "score": 191,
+      "comments": 130,
       "author": "krackers",
       "tags": [],
       "date": "2026-04-11T20:58:48+00:00"
@@ -163,8 +196,8 @@
       "source": "hn",
       "title": "447 TB/cm² at zero retention energy – atomic-scale memory on fluorographane",
       "url": "https://zenodo.org/records/19513269",
-      "score": 193,
-      "comments": 98,
+      "score": 205,
+      "comments": 99,
       "author": "iliatoli",
       "tags": [],
       "date": "2026-04-11T20:08:46+00:00"
@@ -174,8 +207,8 @@
       "source": "hn",
       "title": "Dark Castle",
       "url": "https://darkcastle.co.uk/",
-      "score": 170,
-      "comments": 21,
+      "score": 177,
+      "comments": 23,
       "author": "evo_9",
       "tags": [],
       "date": "2026-04-11T20:01:59+00:00"
@@ -196,8 +229,8 @@
       "source": "hn",
       "title": "How We Broke Top AI Agent Benchmarks: And What Comes Next",
       "url": "https://rdi.berkeley.edu/blog/trustworthy-benchmarks-cont/",
-      "score": 333,
-      "comments": 86,
+      "score": 354,
+      "comments": 92,
       "author": "Anon84",
       "tags": [],
       "date": "2026-04-11T19:15:56+00:00"
@@ -218,7 +251,7 @@
       "source": "hn",
       "title": "How to build a `Git diff` driver",
       "url": "https://www.jvt.me/posts/2026/04/11/how-git-diff-driver/",
-      "score": 103,
+      "score": 109,
       "comments": 12,
       "author": "zdw",
       "tags": [],
@@ -241,8 +274,8 @@
       "source": "hn",
       "title": "Small models also found the vulnerabilities that Mythos found",
       "url": "https://aisle.com/blog/ai-cybersecurity-after-mythos-the-jagged-frontier",
-      "score": 985,
-      "comments": 267,
+      "score": 1035,
+      "comments": 280,
       "author": "dominicq",
       "tags": [],
       "date": "2026-04-11T16:47:28+00:00"
@@ -297,8 +330,8 @@
       "source": "hn",
       "title": "Advanced Mac Substitute is an API-level reimplementation of 1980s-era Mac OS",
       "url": "https://www.v68k.org/advanced-mac-substitute/",
-      "score": 230,
-      "comments": 60,
+      "score": 235,
+      "comments": 61,
       "author": "zdw",
       "tags": [],
       "date": "2026-04-11T15:39:19+00:00"
@@ -374,8 +407,8 @@
       "source": "hn",
       "title": "Cirrus Labs to join OpenAI",
       "url": "https://cirruslabs.org/",
-      "score": 255,
-      "comments": 125,
+      "score": 263,
+      "comments": 126,
       "author": "seekdeep",
       "tags": [],
       "date": "2026-04-11T13:01:34+00:00"
@@ -2605,7 +2638,7 @@
       "source": "hn",
       "title": "Surelock: Deadlock-Free Mutexes for Rust",
       "url": "https://notes.brooklynzelenka.com/Blog/Surelock",
-      "score": 201,
+      "score": 206,
       "comments": 66,
       "author": "codetheweb",
       "tags": [],
@@ -3925,8 +3958,8 @@
       "source": "hn",
       "title": "The Soul of an Old Machine",
       "url": "https://skalski.dev/the-soul-of-an-old-machine/",
-      "score": 45,
-      "comments": 10,
+      "score": 51,
+      "comments": 11,
       "author": "mskalski",
       "tags": [],
       "date": "2026-04-07T12:30:49+00:00"
@@ -3947,8 +3980,8 @@
       "source": "hn",
       "title": "What is a property?",
       "url": "https://alperenkeles.com/posts/what-is-a-property/",
-      "score": 67,
-      "comments": 19,
+      "score": 71,
+      "comments": 20,
       "author": "alpaylan",
       "tags": [],
       "date": "2026-04-07T12:16:27+00:00"
@@ -4059,8 +4092,8 @@
       "source": "hn",
       "title": "How Complex is my Code?",
       "url": "https://philodev.one/posts/2026-04-code-complexity/",
-      "score": 88,
-      "comments": 15,
+      "score": 105,
+      "comments": 20,
       "author": "speckx",
       "tags": [],
       "date": "2026-04-07T10:44:55+00:00"
@@ -4081,7 +4114,7 @@
       "source": "hn",
       "title": "Pijul a FOSS distributed version control system",
       "url": "https://pijul.org/",
-      "score": 121,
+      "score": 136,
       "comments": 22,
       "author": "kouosi",
       "tags": [],
@@ -4162,8 +4195,8 @@
       "source": "hn",
       "title": "Tofolli gates are all you need",
       "url": "https://www.johndcook.com/blog/2026/04/06/tofolli-gates/",
-      "score": 13,
-      "comments": 0,
+      "score": 28,
+      "comments": 3,
       "author": "ibobev",
       "tags": [],
       "date": "2026-04-07T09:40:57+00:00"
@@ -4173,8 +4206,8 @@
       "source": "hn",
       "title": "Simplest Hash Functions",
       "url": "https://purplesyringa.moe/blog/simplest-hash-functions/",
-      "score": 19,
-      "comments": 12,
+      "score": 34,
+      "comments": 27,
       "author": "ibobev",
       "tags": [],
       "date": "2026-04-07T09:40:08+00:00"
@@ -4247,6 +4280,17 @@
       "author": "zimpenfish",
       "tags": [],
       "date": "2026-04-07T08:23:16+00:00"
+    },
+    {
+      "id": "hn-47671814",
+      "source": "hn",
+      "title": "Network Flow Algorithms",
+      "url": "https://www.networkflowalgs.com/",
+      "score": 4,
+      "comments": 0,
+      "author": "teleforce",
+      "tags": [],
+      "date": "2026-04-07T07:27:14+00:00"
     },
     {
       "id": "hn-47671527",
@@ -5115,93 +5159,6 @@
       "date": "2026-04-06T19:06:18+09:00"
     },
     {
-      "id": "qiita-f9c322adce",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "開発エンジニアが保守・運用から学んだこと",
-      "url": "https://qiita.com/km23/items/ea7aeeefc58078392311?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "km23",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-04-06T19:03:02+09:00"
-    },
-    {
-      "id": "hn-47658743",
-      "source": "hn",
-      "title": "Number in man page titles e.g. sleep(3)",
-      "url": "https://lalitm.com/til-number-in-man-page-titles-e-g-sleep-3/",
-      "score": 86,
-      "comments": 36,
-      "author": "thunderbong",
-      "tags": [],
-      "date": "2026-04-06T09:39:17+00:00"
-    },
-    {
-      "id": "qiita-6e8d22ec87",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "Reactで「useEffectを使わなくてよいパターン」をReact公式より整理する",
-      "url": "https://qiita.com/ryo_sh/items/537094e2ad68f9275710?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "ryo_sh",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-04-06T18:38:43+09:00"
-    },
-    {
-      "id": "qiita-cc35aa970f",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "DNSの仕組みを理解する — 名前解決の流れをステップで追う",
-      "url": "https://qiita.com/S_kamon/items/be2bf6a687cda95b48b2?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "S_kamon",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-04-06T18:32:02+09:00"
-    },
-    {
-      "id": "qiita-5c33288f12",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "【優しいAI】「このボタンどこ？」をAIが解決する。AIリアルタイム操作ナビゲーション「Waylume」をリリース【Next.js✖️Chrome拡張機能】",
-      "url": "https://qiita.com/yoshikim1467/items/382bd11e374df6774ec4?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "yoshikim1467",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-04-06T17:08:32+09:00"
-    },
-    {
-      "id": "hn-47658146",
-      "source": "hn",
-      "title": "France pulls last gold held in US for $15B gain",
-      "url": "https://www.mining.com/france-pulls-last-gold-held-in-us-for-15b-gain/",
-      "score": 510,
-      "comments": 280,
-      "author": "teleforce",
-      "tags": [],
-      "date": "2026-04-06T08:03:43+00:00"
-    },
-    {
-      "id": "qiita-ee820218fd",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "ラムダ式に戸惑った時の備忘録",
-      "url": "https://qiita.com/aito1234/items/1506a98b6cb2d05a12c3?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "aito1234",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-04-06T17:02:05+09:00"
-    },
-    {
       "id": "ctf-3420191",
       "source": "project",
       "proj_category": "CTF",
@@ -5836,6 +5793,51 @@
       ],
       "severity": "high",
       "date": "Wed, 08 Apr 2026 00:00:00 +0000"
+    },
+    {
+      "id": "edb-710535e63d",
+      "source": "msf",
+      "title": "[local] is-localhost-ip 2.0.0 - SSRF",
+      "url": "https://www.exploit-db.com/exploits/52496",
+      "score": null,
+      "author": "Exploit-DB",
+      "tags": [
+        "Exploit-DB",
+        "CVE",
+        "PoC"
+      ],
+      "severity": "high",
+      "date": "Mon, 06 Apr 2026 00:00:00 +0000"
+    },
+    {
+      "id": "edb-0003c10d59",
+      "source": "msf",
+      "title": "[webapps] Fortinet FortiWeb v8.0.1 - Auth Bypass",
+      "url": "https://www.exploit-db.com/exploits/52495",
+      "score": null,
+      "author": "Exploit-DB",
+      "tags": [
+        "Exploit-DB",
+        "CVE",
+        "PoC"
+      ],
+      "severity": "high",
+      "date": "Mon, 06 Apr 2026 00:00:00 +0000"
+    },
+    {
+      "id": "edb-3a24fa28ce",
+      "source": "msf",
+      "title": "[local] Windows Kernel - Elevation of Privilege",
+      "url": "https://www.exploit-db.com/exploits/52494",
+      "score": null,
+      "author": "Exploit-DB",
+      "tags": [
+        "Exploit-DB",
+        "CVE",
+        "PoC"
+      ],
+      "severity": "high",
+      "date": "Mon, 06 Apr 2026 00:00:00 +0000"
     }
   ]
 }

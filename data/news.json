@@ -1,14 +1,27 @@
 {
-  "updated_at": "2026-04-12T23:35:09.441819+00:00",
+  "updated_at": "2026-04-13T02:39:58.890660+00:00",
   "count": 500,
   "items": [
+    {
+      "id": "qiita-02c9871b8c",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "エンジニア歴20年の私が、素人バイブコーディング勢に物申す",
+      "url": "https://qiita.com/Akira-Isegawa/items/00f23d206c504db2ac3b?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "Akira-Isegawa",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-04-13T11:07:41+09:00"
+    },
     {
       "id": "hn-47745284",
       "source": "hn",
       "title": "Taking on CUDA with ROCm: 'One Step After Another'",
       "url": "https://www.eetimes.com/taking-on-cuda-with-rocm-one-step-after-another/",
-      "score": 9,
-      "comments": 2,
+      "score": 66,
+      "comments": 52,
       "author": "mindcrime",
       "tags": [],
       "date": "2026-04-12T22:38:45+00:00"
@@ -42,8 +55,8 @@
       "source": "hn",
       "title": "A Perfectable Programming Language",
       "url": "https://alok.github.io/lean-pages/perfectable-lean/",
-      "score": 15,
-      "comments": 2,
+      "score": 62,
+      "comments": 17,
       "author": "yuppiemephisto",
       "tags": [],
       "date": "2026-04-12T21:11:24+00:00"
@@ -53,8 +66,8 @@
       "source": "hn",
       "title": "Uncharted island soon to appear on nautical charts",
       "url": "https://www.awi.de/en/about-us/service/press/single-view/unkartierte-insel-demnaechst-auf-seekarten-verzeichnet.html",
-      "score": 24,
-      "comments": 6,
+      "score": 48,
+      "comments": 19,
       "author": "tannhaeuser",
       "tags": [],
       "date": "2026-04-12T20:30:11+00:00"
@@ -97,8 +110,8 @@
       "source": "hn",
       "title": "Google removes \"Doki Doki Literature Club\" from Google Play",
       "url": "https://bsky.app/profile/serenityforge.com/post/3mj3r4nbiws2t",
-      "score": 223,
-      "comments": 89,
+      "score": 315,
+      "comments": 147,
       "author": "super256",
       "tags": [],
       "date": "2026-04-12T19:53:08+00:00"
@@ -119,8 +132,8 @@
       "source": "hn",
       "title": "The peril of laziness lost",
       "url": "https://bcantrill.dtrace.org/2026/04/12/the-peril-of-laziness-lost/",
-      "score": 243,
-      "comments": 76,
+      "score": 322,
+      "comments": 109,
       "author": "gpm",
       "tags": [],
       "date": "2026-04-12T19:44:40+00:00"
@@ -176,8 +189,8 @@
       "source": "hn",
       "title": "Show HN: boringBar – a taskbar-style dock replacement for macOS",
       "url": "https://boringbar.app/",
-      "score": 203,
-      "comments": 125,
+      "score": 241,
+      "comments": 154,
       "author": "a-ve",
       "tags": [],
       "date": "2026-04-12T17:25:44+00:00"
@@ -209,8 +222,8 @@
       "source": "hn",
       "title": "Show HN: Claudraband – Claude Code for the Power User",
       "url": "https://github.com/halfwhey/claudraband",
-      "score": 82,
-      "comments": 20,
+      "score": 92,
+      "comments": 30,
       "author": "halfwhey",
       "tags": [],
       "date": "2026-04-12T16:55:20+00:00"
@@ -220,8 +233,8 @@
       "source": "hn",
       "title": "DIY Soft Drinks",
       "url": "https://blinry.org/diy-soft-drinks/",
-      "score": 187,
-      "comments": 38,
+      "score": 266,
+      "comments": 70,
       "author": "_Microft",
       "tags": [],
       "date": "2026-04-12T16:38:43+00:00"
@@ -253,8 +266,8 @@
       "source": "hn",
       "title": "Investigating How Long-Distance Couples Use Digital Games to Facilitate Intimacy",
       "url": "https://arxiv.org/abs/2505.09509",
-      "score": 49,
-      "comments": 10,
+      "score": 67,
+      "comments": 18,
       "author": "radeeyate",
       "tags": [],
       "date": "2026-04-12T16:17:59+00:00"
@@ -314,8 +327,8 @@
       "source": "hn",
       "title": "Seven countries now generate 100% of their electricity from renewable energy",
       "url": "https://www.the-independent.com/tech/renewable-energy-solar-nepal-bhutan-iceland-b2533699.html",
-      "score": 456,
-      "comments": 223,
+      "score": 507,
+      "comments": 261,
       "author": "mpweiher",
       "tags": [],
       "date": "2026-04-12T13:21:39+00:00"
@@ -325,8 +338,8 @@
       "source": "hn",
       "title": "Pro Max 5x quota exhausted in 1.5 hours despite moderate usage",
       "url": "https://github.com/anthropics/claude-code/issues/45756",
-      "score": 457,
-      "comments": 412,
+      "score": 525,
+      "comments": 488,
       "author": "cmaster11",
       "tags": [],
       "date": "2026-04-12T13:15:31+00:00"
@@ -336,7 +349,7 @@
       "source": "hn",
       "title": "Show HN: Oberon System 3 runs natively on Raspberry Pi 3 (with ready SD card)",
       "url": "https://github.com/rochus-keller/OberonSystem3Native/releases",
-      "score": 155,
+      "score": 168,
       "comments": 36,
       "author": "Rochus",
       "tags": [],
@@ -357,10 +370,10 @@
     {
       "id": "hn-47738978",
       "source": "hn",
-      "title": "We have a 99% email reputation. Gmail disagrees",
+      "title": "We have a 99% email reputation, but Gmail disagrees",
       "url": "https://blogfontawesome.wpcomstaging.com/we-have-a-99-email-reputation-gmail-disagrees/",
-      "score": 134,
-      "comments": 124,
+      "score": 177,
+      "comments": 176,
       "author": "em-bee",
       "tags": [],
       "date": "2026-04-12T12:42:25+00:00"
@@ -379,10 +392,10 @@
     {
       "id": "hn-47738827",
       "source": "hn",
-      "title": "Bring Back Idiomatic Design",
+      "title": "Bring Back Idiomatic Design (2023)",
       "url": "https://essays.johnloeber.com/p/4-bring-back-idiomatic-design",
-      "score": 425,
-      "comments": 210,
+      "score": 472,
+      "comments": 243,
       "author": "phil294",
       "tags": [],
       "date": "2026-04-12T12:21:26+00:00"
@@ -449,8 +462,8 @@
       "source": "hn",
       "title": "JVM Options Explorer",
       "url": "https://chriswhocodes.com/vm-options-explorer.html",
-      "score": 166,
-      "comments": 71,
+      "score": 174,
+      "comments": 75,
       "author": "0x54MUR41",
       "tags": [],
       "date": "2026-04-12T10:29:26+00:00"
@@ -490,6 +503,17 @@
       "date": "2026-04-12T09:16:35+00:00"
     },
     {
+      "id": "hn-47737542",
+      "source": "hn",
+      "title": "Optimization of 32-bit Unsigned Division by Constants on 64-bit Targets",
+      "url": "https://arxiv.org/abs/2604.07902",
+      "score": 7,
+      "comments": 0,
+      "author": "mpweiher",
+      "tags": [],
+      "date": "2026-04-12T09:14:30+00:00"
+    },
+    {
       "id": "hn-47737383",
       "source": "hn",
       "title": "Apple update looks like Czech mate for locked-out iPhone user",
@@ -506,11 +530,22 @@
       "source": "hn",
       "title": "Phyphox – Physical Experiments Using a Smartphone",
       "url": "https://phyphox.org/",
-      "score": 173,
+      "score": 192,
       "comments": 30,
       "author": "_Microft",
       "tags": [],
       "date": "2026-04-12T08:38:11+00:00"
+    },
+    {
+      "id": "hn-47737292",
+      "source": "hn",
+      "title": "Is Math Big or Small?",
+      "url": "https://chessapig.github.io/talks/Big-Small",
+      "score": 13,
+      "comments": 2,
+      "author": "robinhouston",
+      "tags": [],
+      "date": "2026-04-12T08:25:03+00:00"
     },
     {
       "id": "hn-47736907",
@@ -730,8 +765,8 @@
       "source": "hn",
       "title": "The End of Eleventy",
       "url": "https://brennan.day/the-end-of-eleventy/",
-      "score": 181,
-      "comments": 145,
+      "score": 202,
+      "comments": 175,
       "author": "ValentineC",
       "tags": [],
       "date": "2026-04-12T01:55:48+00:00"
@@ -814,6 +849,19 @@
       "author": "iliatoli",
       "tags": [],
       "date": "2026-04-11T20:08:46+00:00"
+    },
+    {
+      "id": "qiita-cec46bbe40",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "プラレールで脱線処理が面倒なので自動列車停止装置をつくってみた",
+      "url": "https://qiita.com/masaki7022/items/5ff6bac99eabfd87b096?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "masaki7022",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-04-12T05:03:18+09:00"
     },
     {
       "id": "hn-47733521",
@@ -1677,8 +1725,8 @@
       "source": "hn",
       "title": "I gave every train in New York an instrument",
       "url": "https://www.trainjazz.com/",
-      "score": 180,
-      "comments": 36,
+      "score": 219,
+      "comments": 42,
       "author": "joshuawolk",
       "tags": [],
       "date": "2026-04-10T15:21:07+00:00"
@@ -1805,19 +1853,6 @@
         "Qiita"
       ],
       "date": "2026-04-10T22:15:57+09:00"
-    },
-    {
-      "id": "qiita-02c9871b8c",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "エンジニア歴20年の私が、素人バイブコーディング勢に物申す",
-      "url": "https://qiita.com/Akira-Isegawa/items/00f23d206c504db2ac3b?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "Akira-Isegawa",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-04-10T21:40:06+09:00"
     },
     {
       "id": "hn-47716809",
@@ -2829,8 +2864,8 @@
       "source": "hn",
       "title": "Most people can't juggle one ball",
       "url": "https://www.lesswrong.com/posts/jTGbKKGqs5EdyYoRc/most-people-can-t-juggle-one-ball",
-      "score": 197,
-      "comments": 70,
+      "score": 249,
+      "comments": 85,
       "author": "surprisetalk",
       "tags": [],
       "date": "2026-04-09T12:35:20+00:00"
@@ -4668,8 +4703,8 @@
       "source": "hn",
       "title": "Happy Map",
       "url": "https://pudding.cool/2026/02/happy-map/",
-      "score": 206,
-      "comments": 32,
+      "score": 219,
+      "comments": 36,
       "author": "surprisetalk",
       "tags": [],
       "date": "2026-04-07T13:55:11+00:00"
@@ -5147,40 +5182,6 @@
       "author": "jonbaer",
       "tags": [],
       "date": "2026-04-07T08:38:17+00:00"
-    },
-    {
-      "id": "hn-47672187",
-      "source": "hn",
-      "title": "Building Slogbox",
-      "url": "https://alexrios.me/blog/slogbox-devlog/",
-      "score": 5,
-      "comments": 1,
-      "author": "zimpenfish",
-      "tags": [],
-      "date": "2026-04-07T08:23:16+00:00"
-    },
-    {
-      "id": "hn-47671814",
-      "source": "hn",
-      "title": "Network Flow Algorithms",
-      "url": "https://www.networkflowalgs.com/",
-      "score": 28,
-      "comments": 0,
-      "author": "teleforce",
-      "tags": [],
-      "date": "2026-04-07T07:27:14+00:00"
-    },
-    {
-      "id": "hn-47671527",
-      "source": "hn",
-      "title": "Some iPhone Apps Receive Mysterious Update 'From Apple'",
-      "url": "https://www.macrumors.com/2026/04/06/iphone-apps-from-apple-update/",
-      "score": 38,
-      "comments": 8,
-      "author": "tosh",
-      "tags": [],
-      "date": "2026-04-07T06:45:08+00:00",
-      "severity": "medium"
     },
     {
       "id": "ctf-3420191",

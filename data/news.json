@@ -1,14 +1,82 @@
 {
-  "updated_at": "2026-04-13T11:50:05.779660+00:00",
+  "updated_at": "2026-04-13T13:26:03.761786+00:00",
   "count": 500,
   "items": [
+    {
+      "id": "qiita-08d83922c9",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "AIコーディング時代にvimへ戻れなかった話。結局Emacsに残った理由",
+      "url": "https://qiita.com/nobuyuki86/items/a7c81557c1ccefe55215?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "nobuyuki86",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-04-13T22:17:43+09:00"
+    },
+    {
+      "id": "hn-47751032",
+      "source": "hn",
+      "title": "AI could be the end of the digital wave, not the next big thing",
+      "url": "https://thenextwavefutures.wordpress.com/2026/04/07/ai-end-digital-wave-technology-innovation-perez/",
+      "score": 49,
+      "comments": 15,
+      "author": "surprisetalk",
+      "tags": [],
+      "date": "2026-04-13T12:29:39+00:00"
+    },
+    {
+      "id": "hn-47751029",
+      "source": "hn",
+      "title": "I went to America's worst national parks so you don't have to",
+      "url": "https://substack.com/home/post/p-193626949",
+      "score": 77,
+      "comments": 23,
+      "author": "surprisetalk",
+      "tags": [],
+      "date": "2026-04-13T12:29:35+00:00"
+    },
+    {
+      "id": "hn-47750821",
+      "source": "hn",
+      "title": "Michigan 'digital age' bills pulled after privacy concerns raised",
+      "url": "https://www.thecentersquare.com/michigan/article_7ca4e268-4a68-42fb-9042-f9d8604ebd7f.html",
+      "score": 28,
+      "comments": 14,
+      "author": "iamnothere",
+      "tags": [],
+      "date": "2026-04-13T12:05:35+00:00"
+    },
+    {
+      "id": "hn-47750669",
+      "source": "hn",
+      "title": "Android now stops you sharing your location in photos",
+      "url": "https://shkspr.mobi/blog/2026/04/android-now-stops-you-sharing-your-location-in-photos/",
+      "score": 112,
+      "comments": 54,
+      "author": "edent",
+      "tags": [],
+      "date": "2026-04-13T11:48:15+00:00"
+    },
+    {
+      "id": "hn-47750259",
+      "source": "hn",
+      "title": "Point Cloud Allemansrätten",
+      "url": "https://digitalflapjack.com/weeknotes/point-cloud-allemansr%C3%A4tten/",
+      "score": 21,
+      "comments": 1,
+      "author": "ColinWright",
+      "tags": [],
+      "date": "2026-04-13T10:55:10+00:00"
+    },
     {
       "id": "hn-47749674",
       "source": "hn",
       "title": "Show HN: I built a social media management tool in 3 weeks with Claude and Codex",
       "url": "https://github.com/brightbeanxyz/brightbean-studio",
-      "score": 48,
-      "comments": 40,
+      "score": 96,
+      "comments": 70,
       "author": "JanSchu",
       "tags": [],
       "date": "2026-04-13T09:26:56+00:00"
@@ -66,10 +134,10 @@
     {
       "id": "hn-47748064",
       "source": "hn",
-      "title": "The Economics of Software Teams: Why Most Engineering Orgs Are Flying Blind",
+      "title": "The economics of software teams: Why most engineering orgs are flying blind",
       "url": "https://www.viktorcessan.com/the-economics-of-software-teams/",
-      "score": 181,
-      "comments": 94,
+      "score": 242,
+      "comments": 124,
       "author": "kiyanwang",
       "tags": [],
       "date": "2026-04-13T05:45:32+00:00"
@@ -126,8 +194,8 @@
       "source": "hn",
       "title": "Apple's accidental moat: How the \"AI Loser\" may end up winning",
       "url": "https://adlrocha.substack.com/p/adlrocha-how-the-ai-loser-may-end",
-      "score": 235,
-      "comments": 221,
+      "score": 282,
+      "comments": 264,
       "author": "walterbell",
       "tags": [],
       "date": "2026-04-13T02:53:10+00:00"
@@ -202,8 +270,8 @@
       "source": "hn",
       "title": "All elementary functions from a single binary operator",
       "url": "https://arxiv.org/abs/2603.21852",
-      "score": 486,
-      "comments": 124,
+      "score": 577,
+      "comments": 150,
       "author": "pizza",
       "tags": [],
       "date": "2026-04-13T01:49:32+00:00"
@@ -250,8 +318,8 @@
       "source": "hn",
       "title": "Taking on CUDA with ROCm: 'One Step After Another'",
       "url": "https://www.eetimes.com/taking-on-cuda-with-rocm-one-step-after-another/",
-      "score": 187,
-      "comments": 146,
+      "score": 209,
+      "comments": 160,
       "author": "mindcrime",
       "tags": [],
       "date": "2026-04-12T22:38:45+00:00"
@@ -272,8 +340,8 @@
       "source": "hn",
       "title": "A perfectable programming language",
       "url": "https://alok.github.io/lean-pages/perfectable-lean/",
-      "score": 138,
-      "comments": 49,
+      "score": 162,
+      "comments": 64,
       "author": "yuppiemephisto",
       "tags": [],
       "date": "2026-04-12T21:11:24+00:00"
@@ -283,8 +351,8 @@
       "source": "hn",
       "title": "I ran Gemma 4 as a local model in Codex CLI",
       "url": "https://blog.danielvaughan.com/i-ran-gemma-4-as-a-local-model-in-codex-cli-7fda754dc0d4",
-      "score": 89,
-      "comments": 41,
+      "score": 113,
+      "comments": 54,
       "author": "dvaughan",
       "tags": [],
       "date": "2026-04-12T20:43:08+00:00"
@@ -430,8 +498,8 @@
       "source": "hn",
       "title": "Show HN: boringBar – a taskbar-style dock replacement for macOS",
       "url": "https://boringbar.app/",
-      "score": 393,
-      "comments": 212,
+      "score": 418,
+      "comments": 233,
       "author": "a-ve",
       "tags": [],
       "date": "2026-04-12T17:25:44+00:00"
@@ -474,8 +542,8 @@
       "source": "hn",
       "title": "DIY Soft Drinks",
       "url": "https://blinry.org/diy-soft-drinks/",
-      "score": 501,
-      "comments": 143,
+      "score": 548,
+      "comments": 164,
       "author": "_Microft",
       "tags": [],
       "date": "2026-04-12T16:38:43+00:00"
@@ -507,8 +575,8 @@
       "source": "hn",
       "title": "How long-distance couples use digital games to facilitate intimacy (2025)",
       "url": "https://arxiv.org/abs/2505.09509",
-      "score": 104,
-      "comments": 34,
+      "score": 114,
+      "comments": 35,
       "author": "radeeyate",
       "tags": [],
       "date": "2026-04-12T16:17:59+00:00"
@@ -564,19 +632,6 @@
       "date": "2026-04-12T23:05:45+09:00"
     },
     {
-      "id": "qiita-08d83922c9",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "AIコーディング時代にvimへ戻れなかった話。結局Emacsに残った理由",
-      "url": "https://qiita.com/nobuyuki86/items/a7c81557c1ccefe55215?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "nobuyuki86",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-04-12T22:57:08+09:00"
-    },
-    {
       "id": "hn-47739313",
       "source": "hn",
       "title": "Seven countries now generate nearly all their electricity from renewables (2024)",
@@ -603,8 +658,8 @@
       "source": "hn",
       "title": "Show HN: Oberon System 3 runs natively on Raspberry Pi 3 (with ready SD card)",
       "url": "https://github.com/rochus-keller/OberonSystem3Native/releases",
-      "score": 202,
-      "comments": 55,
+      "score": 208,
+      "comments": 59,
       "author": "Rochus",
       "tags": [],
       "date": "2026-04-12T13:06:44+00:00"
@@ -626,8 +681,8 @@
       "source": "hn",
       "title": "We have a 99% email reputation, but Gmail disagrees",
       "url": "https://blogfontawesome.wpcomstaging.com/we-have-a-99-email-reputation-gmail-disagrees/",
-      "score": 270,
-      "comments": 242,
+      "score": 292,
+      "comments": 255,
       "author": "em-bee",
       "tags": [],
       "date": "2026-04-12T12:42:25+00:00"
@@ -648,8 +703,8 @@
       "source": "hn",
       "title": "Bring Back Idiomatic Design (2023)",
       "url": "https://essays.johnloeber.com/p/4-bring-back-idiomatic-design",
-      "score": 573,
-      "comments": 329,
+      "score": 594,
+      "comments": 339,
       "author": "phil294",
       "tags": [],
       "date": "2026-04-12T12:21:26+00:00"
@@ -761,7 +816,7 @@
       "source": "hn",
       "title": "Optimization of 32-bit Unsigned Division by Constants on 64-bit Targets",
       "url": "https://arxiv.org/abs/2604.07902",
-      "score": 90,
+      "score": 95,
       "comments": 12,
       "author": "mpweiher",
       "tags": [],
@@ -795,8 +850,8 @@
       "source": "hn",
       "title": "Is math big or small?",
       "url": "https://chessapig.github.io/talks/Big-Small",
-      "score": 52,
-      "comments": 17,
+      "score": 58,
+      "comments": 23,
       "author": "robinhouston",
       "tags": [],
       "date": "2026-04-12T08:25:03+00:00"
@@ -1170,7 +1225,7 @@
       "source": "hn",
       "title": "Exploiting the most prominent AI agent benchmarks",
       "url": "https://rdi.berkeley.edu/blog/trustworthy-benchmarks-cont/",
-      "score": 534,
+      "score": 541,
       "comments": 134,
       "author": "Anon84",
       "tags": [],
@@ -2005,8 +2060,8 @@
       "source": "hn",
       "title": "I gave every train in New York an instrument",
       "url": "https://www.trainjazz.com/",
-      "score": 298,
-      "comments": 60,
+      "score": 319,
+      "comments": 63,
       "author": "joshuawolk",
       "tags": [],
       "date": "2026-04-10T15:21:07+00:00"
@@ -3144,8 +3199,8 @@
       "source": "hn",
       "title": "Most people can't juggle one ball",
       "url": "https://www.lesswrong.com/posts/jTGbKKGqs5EdyYoRc/most-people-can-t-juggle-one-ball",
-      "score": 387,
-      "comments": 128,
+      "score": 409,
+      "comments": 137,
       "author": "surprisetalk",
       "tags": [],
       "date": "2026-04-09T12:35:20+00:00"
@@ -5147,61 +5202,6 @@
       "date": "2026-04-07T12:30:49+00:00"
     },
     {
-      "id": "hn-47674234",
-      "source": "hn",
-      "title": "\"The new Copilot app for Windows 11 is really just Microsoft Edge\"",
-      "url": "https://twitter.com/i/status/2041112541909205001",
-      "score": 24,
-      "comments": 7,
-      "author": "bundie",
-      "tags": [],
-      "date": "2026-04-07T12:27:59+00:00"
-    },
-    {
-      "id": "hn-47674075",
-      "source": "hn",
-      "title": "What is a property?",
-      "url": "https://alperenkeles.com/posts/what-is-a-property/",
-      "score": 71,
-      "comments": 20,
-      "author": "alpaylan",
-      "tags": [],
-      "date": "2026-04-07T12:16:27+00:00"
-    },
-    {
-      "id": "hn-47674027",
-      "source": "hn",
-      "title": "Show HN: A cartographer's attempt to realistically map Tolkien's world",
-      "url": "https://www.intofarlands.com/atlasofarda",
-      "score": 129,
-      "comments": 24,
-      "author": "intofarlands",
-      "tags": [],
-      "date": "2026-04-07T12:12:15+00:00"
-    },
-    {
-      "id": "hn-47673928",
-      "source": "hn",
-      "title": "Record wind and solar saved UK from gas imports worth £1B in March 2026",
-      "url": "https://www.carbonbrief.org/analysis-record-wind-and-solar-saved-uk-from-gas-imports-worth-1bn-in-march-2026/",
-      "score": 54,
-      "comments": 15,
-      "author": "mindracer",
-      "tags": [],
-      "date": "2026-04-07T12:05:23+00:00"
-    },
-    {
-      "id": "hn-47673919",
-      "source": "hn",
-      "title": "AI agents can communicate with each other, and can't be caught",
-      "url": "https://arxiv.org/abs/2604.04757",
-      "score": 6,
-      "comments": 0,
-      "author": "cryptohell",
-      "tags": [],
-      "date": "2026-04-07T12:04:34+00:00"
-    },
-    {
       "id": "ctf-3420191",
       "source": "project",
       "proj_category": "CTF",
@@ -5398,111 +5398,6 @@
       "date": "2023-05-23T17:06:23Z"
     },
     {
-      "id": "zenn-a09af13847",
-      "source": "zennqiita",
-      "sub_source": "Zenn",
-      "title": "SREを「努力」から「仕組み」へ — Platform Engineeringという選択",
-      "url": "https://zenn.dev/loglass/articles/f4dda877788337",
-      "score": null,
-      "author": "mekka",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Mon, 13 Apr 2026 02:48:27 GMT"
-    },
-    {
-      "id": "zenn-5e271ef579",
-      "source": "zennqiita",
-      "sub_source": "Zenn",
-      "title": "try! Swift Tokyo 2026 Day1 Workshop｜High-Performance Swift 参加レポート",
-      "url": "https://zenn.dev/miharun/articles/8f17dc140bd244",
-      "score": null,
-      "author": "みはるん",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Mon, 13 Apr 2026 02:08:01 GMT"
-    },
-    {
-      "id": "zenn-efa0be3773",
-      "source": "zennqiita",
-      "sub_source": "Zenn",
-      "title": "Claude Max 20xプランでも足りないので、トークン節約のためにやったこと8選",
-      "url": "https://zenn.dev/acntechjp/articles/1396e20b5167ce",
-      "score": null,
-      "author": "sohei.inoue",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Sun, 12 Apr 2026 23:00:07 GMT"
-    },
-    {
-      "id": "zenn-fa1adbaba1",
-      "source": "zennqiita",
-      "sub_source": "Zenn",
-      "title": "DevContainerで完結！Claude Code + Playwright MCPを使ったブラウザ操作自動化の構築手順",
-      "url": "https://zenn.dev/secondselection/articles/claude_playwright",
-      "score": null,
-      "author": "Sakaguchi Kou",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Sun, 12 Apr 2026 21:00:12 GMT"
-    },
-    {
-      "id": "zenn-36f1dc453b",
-      "source": "zennqiita",
-      "sub_source": "Zenn",
-      "title": "2026年3月のIMEに関するできごと",
-      "url": "https://zenn.dev/komatsuh/articles/komatsuh_ime_news_2026_03",
-      "score": null,
-      "author": "Hiroyuki Komatsu",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Sun, 12 Apr 2026 17:30:00 GMT"
-    },
-    {
-      "id": "zenn-0df8fd5c16",
-      "source": "zennqiita",
-      "sub_source": "Zenn",
-      "title": "axiosで発見された重大な脆弱性 - 2026.04.12",
-      "url": "https://zenn.dev/ashunar0/articles/108d06e3f99efb",
-      "score": null,
-      "author": "あさひ",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Sun, 12 Apr 2026 15:15:55 GMT",
-      "severity": "high"
-    },
-    {
-      "id": "zenn-dc5b7ec735",
-      "source": "zennqiita",
-      "sub_source": "Zenn",
-      "title": "仕様駆動開発のための軽量デスクトップアプリを作った",
-      "url": "https://zenn.dev/third_tech/articles/spec-prompt-introduction",
-      "score": null,
-      "author": "sakamotchi8",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Sun, 12 Apr 2026 13:13:23 GMT"
-    },
-    {
-      "id": "zenn-d82bfa30ff",
-      "source": "zennqiita",
-      "sub_source": "Zenn",
-      "title": "Laravel Starter Kit が 21 種類に増えて破綻しかけたので「Maestro」が導入された話",
-      "url": "https://zenn.dev/catatsumuri/articles/ed872ea1d650b9",
-      "score": null,
-      "author": "ﾓｯ",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Sun, 12 Apr 2026 12:58:21 GMT"
-    },
-    {
       "id": "zenn-b28eeee911",
       "source": "zennqiita",
       "sub_source": "Zenn",
@@ -5528,19 +5423,6 @@
         "Zenn"
       ],
       "date": "Sun, 12 Apr 2026 06:50:38 GMT"
-    },
-    {
-      "id": "zenn-0303882acc",
-      "source": "zennqiita",
-      "sub_source": "Zenn",
-      "title": "「とりあえずAxios」のその先へ。通信層を「信頼性ポリシー」で設計する pureq",
-      "url": "https://zenn.dev/shihiro/articles/ac228db387717c",
-      "score": null,
-      "author": "しひろ",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Sun, 12 Apr 2026 02:30:05 GMT"
     },
     {
       "id": "zenn-98d07dfb3d",
@@ -5595,6 +5477,19 @@
       "date": "Sat, 11 Apr 2026 09:22:10 GMT"
     },
     {
+      "id": "zenn-95b7c667fd",
+      "source": "zennqiita",
+      "sub_source": "Zenn",
+      "title": "agent-browser入門：Claude Codeからブラウザを自在に操る！導入＆他ツール使い分けガイド",
+      "url": "https://zenn.dev/shinyaa31/articles/082457e115885c",
+      "score": null,
+      "author": "しんや",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Sat, 11 Apr 2026 07:19:21 GMT"
+    },
+    {
       "id": "zenn-fcd90ebf12",
       "source": "zennqiita",
       "sub_source": "Zenn",
@@ -5619,6 +5514,58 @@
         "Zenn"
       ],
       "date": "Sat, 11 Apr 2026 06:55:36 GMT"
+    },
+    {
+      "id": "zenn-19b13c3d8f",
+      "source": "zennqiita",
+      "sub_source": "Zenn",
+      "title": "CDNを活用した画像配信の設計と最適化",
+      "url": "https://zenn.dev/catatsuy/articles/43b5cf583fac76",
+      "score": null,
+      "author": "catatsuy",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Sat, 11 Apr 2026 06:23:48 GMT"
+    },
+    {
+      "id": "zenn-110c79f303",
+      "source": "zennqiita",
+      "sub_source": "Zenn",
+      "title": "Claude Managed Agents を試してみた",
+      "url": "https://zenn.dev/kumamo_tone/articles/365845d65e6cf4",
+      "score": null,
+      "author": "Kazumasa KUMAMOTO",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Sat, 11 Apr 2026 05:47:45 GMT"
+    },
+    {
+      "id": "zenn-f3e8550207",
+      "source": "zennqiita",
+      "sub_source": "Zenn",
+      "title": "Go + Reactで現場レベルの状態遷移を1つのテーブルに統合する — 13状態×15イベントを型で閉じ込める",
+      "url": "https://zenn.dev/okamyuji/articles/golang-react-state-machine-transition-table",
+      "score": null,
+      "author": "okamyuji",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Sat, 11 Apr 2026 04:20:22 GMT"
+    },
+    {
+      "id": "zenn-c4fa0c719f",
+      "source": "zennqiita",
+      "sub_source": "Zenn",
+      "title": "GitHub Copilot CLIの画像レビューをスキル化したらUI改善が捗った",
+      "url": "https://zenn.dev/soyukke/articles/opencode-gpt54-screenshot-review-skill",
+      "score": null,
+      "author": "そゆっけ",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Sat, 11 Apr 2026 03:59:50 GMT"
     },
     {
       "id": "zenn-871183e57e",
@@ -5658,6 +5605,58 @@
         "Zenn"
       ],
       "date": "Fri, 10 Apr 2026 13:40:55 GMT"
+    },
+    {
+      "id": "zenn-2dee0f30df",
+      "source": "zennqiita",
+      "sub_source": "Zenn",
+      "title": "Claude Code + Obsidian — Daily Note の下書きを自動生成し、週次・月次レビューまで積み上げる仕組みを作った",
+      "url": "https://zenn.dev/dely_jp/articles/b8da42a57bbc39",
+      "score": null,
+      "author": "s_hamabata",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Fri, 10 Apr 2026 09:32:22 GMT"
+    },
+    {
+      "id": "zenn-bfc03fda78",
+      "source": "zennqiita",
+      "sub_source": "Zenn",
+      "title": "分析エージェントの問題点と、セマンティックレイヤーという打ち手──AIにSQLを書かせない設計",
+      "url": "https://zenn.dev/gixo/articles/semantic-layer-agent-bigquery",
+      "score": null,
+      "author": "Kouma Nakashima",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Fri, 10 Apr 2026 09:23:42 GMT"
+    },
+    {
+      "id": "zenn-ebbc7dc152",
+      "source": "zennqiita",
+      "sub_source": "Zenn",
+      "title": "Jujutsu はなぜ AI 時代に急に評価され始めたのか",
+      "url": "https://zenn.dev/oukayuka/books/353ad112b88613",
+      "score": null,
+      "author": "oukayuka",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Fri, 10 Apr 2026 04:35:15 GMT"
+    },
+    {
+      "id": "zenn-403ee422f4",
+      "source": "zennqiita",
+      "sub_source": "Zenn",
+      "title": "ベクトル検索は不要なのか",
+      "url": "https://zenn.dev/nttdata_tech/articles/694e39ceff58b7",
+      "score": null,
+      "author": "Tatsuhiro Eguchi",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Fri, 10 Apr 2026 04:22:55 GMT"
     },
     {
       "id": "edb-43819ec761",

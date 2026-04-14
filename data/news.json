@@ -1,25 +1,48 @@
 {
-  "updated_at": "2026-04-14T09:01:30.827999+00:00",
+  "updated_at": "2026-04-14T10:45:00.200328+00:00",
   "count": 500,
   "items": [
+    {
+      "id": "hn-47762994",
+      "source": "hn",
+      "title": "Ransomware Is Growing Three Times Faster Than the Spending Meant to Stop It",
+      "url": "https://ciphercue.com/blog/ransomware-claims-grew-faster-than-security-spend-2025",
+      "score": 11,
+      "comments": 2,
+      "author": "adulion",
+      "tags": [],
+      "date": "2026-04-14T08:52:12+00:00",
+      "severity": "critical"
+    },
     {
       "id": "hn-47762901",
       "source": "hn",
       "title": "An AI Vibe Coding Horror Story",
       "url": "https://www.tobru.ch/an-ai-vibe-coding-horror-story/",
-      "score": 19,
-      "comments": 1,
+      "score": 138,
+      "comments": 117,
       "author": "teichmann",
       "tags": [],
       "date": "2026-04-14T08:35:45+00:00"
+    },
+    {
+      "id": "hn-47762864",
+      "source": "hn",
+      "title": "Backblaze has stopped backing up your data",
+      "url": "https://rareese.com/posts/backblaze/",
+      "score": 166,
+      "comments": 90,
+      "author": "rrreese",
+      "tags": [],
+      "date": "2026-04-14T08:30:27+00:00"
     },
     {
       "id": "hn-47762641",
       "source": "hn",
       "title": "Introspective Diffusion Language Models",
       "url": "https://introspective-diffusion.github.io/",
-      "score": 20,
-      "comments": 4,
+      "score": 51,
+      "comments": 13,
       "author": "zagwdt",
       "tags": [],
       "date": "2026-04-14T07:57:33+00:00"
@@ -29,8 +52,8 @@
       "source": "hn",
       "title": "The secrets of the Shinkansen",
       "url": "https://www.worksinprogress.news/p/the-secret-behind-japans-railways",
-      "score": 61,
-      "comments": 39,
+      "score": 89,
+      "comments": 76,
       "author": "WillDaSilva",
       "tags": [],
       "date": "2026-04-14T06:41:01+00:00"
@@ -51,8 +74,8 @@
       "source": "hn",
       "title": "Distributed DuckDB Instance",
       "url": "https://github.com/citguru/openduck",
-      "score": 44,
-      "comments": 7,
+      "score": 65,
+      "comments": 14,
       "author": "citguru",
       "tags": [],
       "date": "2026-04-14T06:31:44+00:00"
@@ -99,8 +122,8 @@
       "source": "hn",
       "title": "MOS tech 6502 8-bit microprocessor in pure SQL powered by Postgres",
       "url": "https://github.com/lasect/pg_6502",
-      "score": 11,
-      "comments": 0,
+      "score": 24,
+      "comments": 2,
       "author": "adunk",
       "tags": [],
       "date": "2026-04-14T05:46:49+00:00"
@@ -110,8 +133,8 @@
       "source": "hn",
       "title": "Multi-Agentic Software Development Is a Distributed Systems Problem",
       "url": "https://kirancodes.me/posts/log-distributed-llms.html",
-      "score": 28,
-      "comments": 7,
+      "score": 41,
+      "comments": 11,
       "author": "tie-in",
       "tags": [],
       "date": "2026-04-14T05:32:48+00:00"
@@ -180,8 +203,8 @@
       "source": "hn",
       "title": "A new spam policy for “back button hijacking”",
       "url": "https://developers.google.com/search/blog/2026/04/back-button-hijacking",
-      "score": 319,
-      "comments": 188,
+      "score": 378,
+      "comments": 232,
       "author": "zdw",
       "tags": [],
       "date": "2026-04-14T03:06:27+00:00"
@@ -202,8 +225,8 @@
       "source": "hn",
       "title": "DaVinci Resolve – Photo",
       "url": "https://www.blackmagicdesign.com/products/davinciresolve/photo",
-      "score": 523,
-      "comments": 122,
+      "score": 601,
+      "comments": 150,
       "author": "thebiblelover7",
       "tags": [],
       "date": "2026-04-14T02:25:15+00:00"
@@ -226,8 +249,8 @@
       "source": "hn",
       "title": "Lean proved this program correct; then I found a bug",
       "url": "https://kirancodes.me/posts/log-who-watches-the-watchers.html",
-      "score": 239,
-      "comments": 117,
+      "score": 264,
+      "comments": 129,
       "author": "bumbledraven",
       "tags": [],
       "date": "2026-04-14T00:25:08+00:00"
@@ -237,8 +260,8 @@
       "source": "hn",
       "title": "WiiFin – Jellyfin Client for Nintendo Wii",
       "url": "https://github.com/fabienmillet/WiiFin",
-      "score": 147,
-      "comments": 66,
+      "score": 163,
+      "comments": 71,
       "author": "throwawayk7h",
       "tags": [],
       "date": "2026-04-13T23:33:18+00:00"
@@ -285,8 +308,8 @@
       "source": "hn",
       "title": "N-Day-Bench – Can LLMs find real vulnerabilities in real codebases?",
       "url": "https://ndaybench.winfunc.com",
-      "score": 63,
-      "comments": 18,
+      "score": 73,
+      "comments": 20,
       "author": "mufeedvh",
       "tags": [],
       "date": "2026-04-13T21:54:03+00:00"
@@ -329,8 +352,8 @@
       "source": "hn",
       "title": "GitHub Stacked PRs",
       "url": "https://github.github.com/gh-stack/",
-      "score": 702,
-      "comments": 369,
+      "score": 723,
+      "comments": 383,
       "author": "ezekg",
       "tags": [],
       "date": "2026-04-13T20:36:49+00:00"
@@ -374,8 +397,8 @@
       "source": "hn",
       "title": "How to make Firefox builds 17% faster",
       "url": "https://blog.farre.se/posts/2026/04/10/caching-webidl-codegen/",
-      "score": 164,
-      "comments": 30,
+      "score": 182,
+      "comments": 34,
       "author": "mbitsnbites",
       "tags": [],
       "date": "2026-04-13T18:50:08+00:00"
@@ -407,8 +430,8 @@
       "source": "hn",
       "title": "Someone bought 30 WordPress plugins and planted a backdoor in all of them",
       "url": "https://anchor.host/someone-bought-30-wordpress-plugins-and-planted-a-backdoor-in-all-of-them/",
-      "score": 926,
-      "comments": 263,
+      "score": 963,
+      "comments": 269,
       "author": "speckx",
       "tags": [],
       "date": "2026-04-13T17:54:39+00:00"
@@ -517,8 +540,8 @@
       "source": "hn",
       "title": "Nothing Ever Happens: Polymarket bot that always buys No on non-sports markets",
       "url": "https://github.com/sterlingcrispin/nothing-ever-happens",
-      "score": 414,
-      "comments": 234,
+      "score": 423,
+      "comments": 236,
       "author": "m-hodges",
       "tags": [],
       "date": "2026-04-13T15:31:06+00:00"
@@ -539,8 +562,8 @@
       "source": "hn",
       "title": "Make tmux pretty and usable (2024)",
       "url": "https://hamvocke.com/blog/a-guide-to-customizing-your-tmux-conf/",
-      "score": 375,
-      "comments": 234,
+      "score": 385,
+      "comments": 238,
       "author": "speckx",
       "tags": [],
       "date": "2026-04-13T14:48:55+00:00"
@@ -585,8 +608,8 @@
       "source": "hn",
       "title": "US appeals court declares 158-year-old home distilling ban unconstitutional",
       "url": "https://nypost.com/2026/04/11/us-news/us-appeals-court-declares-158-year-old-home-distilling-ban-unconstitutional/",
-      "score": 380,
-      "comments": 255,
+      "score": 389,
+      "comments": 265,
       "author": "t-3",
       "tags": [],
       "date": "2026-04-13T13:37:33+00:00"
@@ -2322,8 +2345,8 @@
       "source": "hn",
       "title": "Write less code, be more responsible",
       "url": "https://blog.orhun.dev/code-responsibly/",
-      "score": 87,
-      "comments": 54,
+      "score": 93,
+      "comments": 57,
       "author": "orhunp_",
       "tags": [],
       "date": "2026-04-11T09:20:45+00:00"
@@ -2653,6 +2676,17 @@
       "author": "joeax",
       "tags": [],
       "date": "2026-04-10T20:24:56+00:00"
+    },
+    {
+      "id": "hn-47722629",
+      "source": "hn",
+      "title": "Franklin's bad ads for Apple ][ clones and the beloved impersonator they depict",
+      "url": "https://buttondown.com/suchbadtechads/archive/franklin-ace-1000/",
+      "score": 13,
+      "comments": 0,
+      "author": "rfarley04",
+      "tags": [],
+      "date": "2026-04-10T19:33:08+00:00"
     },
     {
       "id": "hn-47722566",
@@ -3004,7 +3038,7 @@
       "source": "hn",
       "title": "Design and implementation of DuckDB internals",
       "url": "https://duckdb.org/library/design-and-implementation-of-duckdb-internals/",
-      "score": 117,
+      "score": 125,
       "comments": 8,
       "author": "mpweiher",
       "tags": [],
@@ -3596,8 +3630,8 @@
       "source": "hn",
       "title": "A soft robot has no problem moving with no motor and no gears",
       "url": "https://engineering.princeton.edu/news/2026/04/08/soft-robot-has-no-problem-moving-no-motor-and-no-gears",
-      "score": 24,
-      "comments": 1,
+      "score": 34,
+      "comments": 5,
       "author": "hhs",
       "tags": [],
       "date": "2026-04-09T22:33:41+00:00"
@@ -3774,8 +3808,8 @@
       "source": "hn",
       "title": "Rust Threads on the GPU",
       "url": "https://www.vectorware.com/blog/threads-on-gpu/",
-      "score": 64,
-      "comments": 18,
+      "score": 77,
+      "comments": 22,
       "author": "PaulHoule",
       "tags": [],
       "date": "2026-04-09T19:20:10+00:00"
@@ -3977,8 +4011,8 @@
       "source": "hn",
       "title": "Lumina – a statically typed web-native language for JavaScript and WASM",
       "url": "https://github.com/nyigoro/lumina-lang",
-      "score": 8,
-      "comments": 2,
+      "score": 13,
+      "comments": 5,
       "author": "light_ideas",
       "tags": [],
       "date": "2026-04-09T16:02:11+00:00"
@@ -5167,43 +5201,6 @@
       "date": "2026-04-08T08:53:42+00:00"
     },
     {
-      "id": "qiita-29139cd488",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "JUnitでMockを使用した単体テストの書き方",
-      "url": "https://qiita.com/S_kamon/items/09dcce1e1c0f12bbfb6a?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "S_kamon",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-04-08T17:51:00+09:00"
-    },
-    {
-      "id": "hn-47687248",
-      "source": "hn",
-      "title": "Škoda DuoBell: A bicycle bell that penetrates noise-cancelling headphones",
-      "url": "https://www.skoda-storyboard.com/en/skoda-world/skoda-duobell-a-bicycle-bell-that-outsmarts-even-smart-headphones/",
-      "score": 501,
-      "comments": 530,
-      "author": "ra",
-      "tags": [],
-      "date": "2026-04-08T08:50:37+00:00"
-    },
-    {
-      "id": "qiita-7ebda55e2e",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "後編：Claude Codeで便利だと感じた点（使い方）",
-      "url": "https://qiita.com/aito1234/items/a9c6e8cf81d76b596ca7?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "aito1234",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-04-08T17:20:23+09:00"
-    },
-    {
       "id": "ctf-3420191",
       "source": "project",
       "proj_category": "CTF",
@@ -5426,6 +5423,19 @@
       "date": "Mon, 13 Apr 2026 15:24:43 GMT"
     },
     {
+      "id": "zenn-c52cbd994d",
+      "source": "zennqiita",
+      "sub_source": "Zenn",
+      "title": "AIエージェントと組んだら、データサイエンスプロジェクトはどう変わる？実験してみた（前半戦）",
+      "url": "https://zenn.dev/mimochiz/articles/2c27b16a3e03fd",
+      "score": null,
+      "author": "mochi",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Mon, 13 Apr 2026 12:26:13 GMT"
+    },
+    {
       "id": "zenn-32f14521a0",
       "source": "zennqiita",
       "sub_source": "Zenn",
@@ -5465,6 +5475,19 @@
       "date": "Mon, 13 Apr 2026 08:38:33 GMT"
     },
     {
+      "id": "zenn-d9c966f5c8",
+      "source": "zennqiita",
+      "sub_source": "Zenn",
+      "title": "Coding AgentをRustで自作してみた",
+      "url": "https://zenn.dev/epicai_techblog/articles/0fb630fc14af7e",
+      "score": null,
+      "author": "Swkima",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Mon, 13 Apr 2026 08:30:05 GMT"
+    },
+    {
       "id": "zenn-c1b00d5fcd",
       "source": "zennqiita",
       "sub_source": "Zenn",
@@ -5502,6 +5525,19 @@
         "Zenn"
       ],
       "date": "Mon, 13 Apr 2026 04:49:15 GMT"
+    },
+    {
+      "id": "zenn-30482866c1",
+      "source": "zennqiita",
+      "sub_source": "Zenn",
+      "title": "Ingress NGINXのretirementに伴うGateway API + Envoy Gatewayへの移行",
+      "url": "https://zenn.dev/mitene/articles/202604-ingress-nginx-to-envoy-gateway",
+      "score": null,
+      "author": "kohbis",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Mon, 13 Apr 2026 03:44:32 GMT"
     },
     {
       "id": "zenn-a09af13847",
@@ -5597,19 +5633,6 @@
       "severity": "high"
     },
     {
-      "id": "zenn-f5f74882b2",
-      "source": "zennqiita",
-      "sub_source": "Zenn",
-      "title": "Claude Codeのマルチセッション管理にジョブキューの概念を取り入れる",
-      "url": "https://zenn.dev/mh4gf/articles/claude-code-multi-session-job-queue",
-      "score": null,
-      "author": "Hirotaka Miyagi",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Sun, 12 Apr 2026 06:50:38 GMT"
-    },
-    {
       "id": "zenn-98d07dfb3d",
       "source": "zennqiita",
       "sub_source": "Zenn",
@@ -5634,32 +5657,6 @@
         "Zenn"
       ],
       "date": "Sat, 11 Apr 2026 09:22:10 GMT"
-    },
-    {
-      "id": "zenn-fcd90ebf12",
-      "source": "zennqiita",
-      "sub_source": "Zenn",
-      "title": "DESIGN.md + 壊れたら気づくハーネス - AI向けデザインシステムを「維持できる仕組み」にした記録",
-      "url": "https://zenn.dev/tsubotax/articles/7f0d3693f70e2f",
-      "score": null,
-      "author": "tsubotax",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Sat, 11 Apr 2026 07:06:21 GMT"
-    },
-    {
-      "id": "zenn-61d72f8e05",
-      "source": "zennqiita",
-      "sub_source": "Zenn",
-      "title": "GitHub Copilot CLI で個人タスク管理をやってみる",
-      "url": "https://zenn.dev/microsoft/articles/copilot-task-management",
-      "score": null,
-      "author": "Kazuki Ota",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Sat, 11 Apr 2026 06:55:36 GMT"
     },
     {
       "id": "edb-43819ec761",

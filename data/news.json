@@ -1,14 +1,47 @@
 {
-  "updated_at": "2026-04-13T23:42:30.365058+00:00",
+  "updated_at": "2026-04-14T02:33:43.813763+00:00",
   "count": 500,
   "items": [
+    {
+      "id": "hn-47759709",
+      "source": "hn",
+      "title": "Lean proved this program correct; then I found a bug",
+      "url": "https://kirancodes.me/posts/log-who-watches-the-watchers.html",
+      "score": 99,
+      "comments": 54,
+      "author": "bumbledraven",
+      "tags": [],
+      "date": "2026-04-14T00:25:08+00:00"
+    },
+    {
+      "id": "hn-47759341",
+      "source": "hn",
+      "title": "WiiFin – Jellyfin Client for Nintendo Wii",
+      "url": "https://github.com/fabienmillet/WiiFin",
+      "score": 62,
+      "comments": 19,
+      "author": "throwawayk7h",
+      "tags": [],
+      "date": "2026-04-13T23:33:18+00:00"
+    },
+    {
+      "id": "hn-47759292",
+      "source": "hn",
+      "title": "The AI revolution in math has arrived",
+      "url": "https://www.quantamagazine.org/the-ai-revolution-in-math-has-arrived-20260413/",
+      "score": 17,
+      "comments": 2,
+      "author": "sonabinu",
+      "tags": [],
+      "date": "2026-04-13T23:26:04+00:00"
+    },
     {
       "id": "hn-47758347",
       "source": "hn",
       "title": "N-Day-Bench – Can LLMs find real vulnerabilities in real codebases?",
       "url": "https://ndaybench.winfunc.com",
-      "score": 22,
-      "comments": 6,
+      "score": 36,
+      "comments": 10,
       "author": "mufeedvh",
       "tags": [],
       "date": "2026-04-13T21:54:03+00:00"
@@ -51,8 +84,8 @@
       "source": "hn",
       "title": "GitHub Stacked PRs",
       "url": "https://github.github.com/gh-stack/",
-      "score": 335,
-      "comments": 203,
+      "score": 443,
+      "comments": 257,
       "author": "ezekg",
       "tags": [],
       "date": "2026-04-13T20:36:49+00:00"
@@ -71,21 +104,22 @@
     {
       "id": "hn-47756772",
       "source": "hn",
-      "title": "(AMD) Build AI Agents That Run Locally",
+      "title": "GAIA – Open-source framework for building AI agents that run on local hardware",
       "url": "https://amd-gaia.ai/docs",
-      "score": 64,
-      "comments": 13,
+      "score": 101,
+      "comments": 24,
       "author": "galaxyLogic",
       "tags": [],
-      "date": "2026-04-13T19:28:41+00:00"
+      "date": "2026-04-13T19:28:41+00:00",
+      "severity": "critical"
     },
     {
       "id": "hn-47756569",
       "source": "hn",
       "title": "Show HN: Ithihāsas – a character explorer for Hindu epics, built in a few hours",
       "url": "https://www.ithihasas.in",
-      "score": 83,
-      "comments": 22,
+      "score": 113,
+      "comments": 24,
       "author": "cvrajeesh",
       "tags": [],
       "date": "2026-04-13T19:10:07+00:00"
@@ -95,8 +129,8 @@
       "source": "hn",
       "title": "How to make Firefox builds 17% faster",
       "url": "https://blog.farre.se/posts/2026/04/10/caching-webidl-codegen/",
-      "score": 114,
-      "comments": 11,
+      "score": 140,
+      "comments": 22,
       "author": "mbitsnbites",
       "tags": [],
       "date": "2026-04-13T18:50:08+00:00"
@@ -106,7 +140,7 @@
       "source": "hn",
       "title": "Visualizing CPU Pipelining (2024)",
       "url": "https://timmastny.com/blog/visualizing-cpu-pipelining/",
-      "score": 47,
+      "score": 63,
       "comments": 9,
       "author": "flipacholas",
       "tags": [],
@@ -126,10 +160,10 @@
     {
       "id": "hn-47755629",
       "source": "hn",
-      "title": "Someone Bought 30 WordPress Plugins and Planted a Backdoor in All of Them",
+      "title": "Someone bought 30 WordPress plugins and planted a backdoor in all of them",
       "url": "https://anchor.host/someone-bought-30-wordpress-plugins-and-planted-a-backdoor-in-all-of-them/",
-      "score": 593,
-      "comments": 164,
+      "score": 714,
+      "comments": 203,
       "author": "speckx",
       "tags": [],
       "date": "2026-04-13T17:54:39+00:00"
@@ -161,8 +195,8 @@
       "source": "hn",
       "title": "B-trees and database indexes (2024)",
       "url": "https://planetscale.com/blog/btrees-and-database-indexes",
-      "score": 67,
-      "comments": 27,
+      "score": 87,
+      "comments": 37,
       "author": "tosh",
       "tags": [],
       "date": "2026-04-13T17:22:31+00:00"
@@ -214,10 +248,10 @@
     {
       "id": "hn-47753689",
       "source": "hn",
-      "title": "Building a CLI for All of Cloudflare",
+      "title": "Building a CLI for all of Cloudflare",
       "url": "https://blog.cloudflare.com/cf-cli-local-explorer/",
-      "score": 231,
-      "comments": 69,
+      "score": 262,
+      "comments": 84,
       "author": "soheilpro",
       "tags": [],
       "date": "2026-04-13T15:44:02+00:00"
@@ -238,8 +272,8 @@
       "source": "hn",
       "title": "Nothing Ever Happens: Polymarket bot that always buys No on non-sports markets",
       "url": "https://github.com/sterlingcrispin/nothing-ever-happens",
-      "score": 339,
-      "comments": 155,
+      "score": 362,
+      "comments": 177,
       "author": "m-hodges",
       "tags": [],
       "date": "2026-04-13T15:31:06+00:00"
@@ -260,8 +294,8 @@
       "source": "hn",
       "title": "Make tmux pretty and usable (2024)",
       "url": "https://hamvocke.com/blog/a-guide-to-customizing-your-tmux-conf/",
-      "score": 269,
-      "comments": 184,
+      "score": 319,
+      "comments": 204,
       "author": "speckx",
       "tags": [],
       "date": "2026-04-13T14:48:55+00:00"
@@ -293,8 +327,8 @@
       "source": "hn",
       "title": "US appeals court declares 158-year-old home distilling ban unconstitutional",
       "url": "https://nypost.com/2026/04/11/us-news/us-appeals-court-declares-158-year-old-home-distilling-ban-unconstitutional/",
-      "score": 274,
-      "comments": 210,
+      "score": 306,
+      "comments": 232,
       "author": "t-3",
       "tags": [],
       "date": "2026-04-13T13:37:33+00:00"
@@ -372,8 +406,8 @@
       "source": "hn",
       "title": "Servo is now available on crates.io",
       "url": "https://servo.org/blog/2026/04/13/servo-0.1.0-release/",
-      "score": 405,
-      "comments": 136,
+      "score": 429,
+      "comments": 139,
       "author": "ffin",
       "tags": [],
       "date": "2026-04-13T12:12:22+00:00"
@@ -394,8 +428,8 @@
       "source": "hn",
       "title": "Android now stops you sharing your location in photos",
       "url": "https://shkspr.mobi/blog/2026/04/android-now-stops-you-sharing-your-location-in-photos/",
-      "score": 263,
-      "comments": 232,
+      "score": 304,
+      "comments": 274,
       "author": "edent",
       "tags": [],
       "date": "2026-04-13T11:48:15+00:00"
@@ -837,7 +871,7 @@
       "source": "hn",
       "title": "Tracking down a 25% Regression on LLVM RISC-V",
       "url": "https://blog.kaving.me/blog/tracking-down-a-25-regression-on-llvm-risc-v/",
-      "score": 86,
+      "score": 100,
       "comments": 19,
       "author": "luu",
       "tags": [],
@@ -1942,10 +1976,10 @@
     {
       "id": "hn-47729350",
       "source": "hn",
-      "title": "I Just Want Simple S3",
+      "title": "I just want simple S3",
       "url": "https://blog.feld.me/posts/2026/04/i-just-want-simple-s3/",
-      "score": 78,
-      "comments": 41,
+      "score": 107,
+      "comments": 60,
       "author": "g0xA52A2A",
       "tags": [],
       "date": "2026-04-11T10:36:15+00:00"
@@ -1967,11 +2001,22 @@
       "source": "hn",
       "title": "Air Powered Segment Display? [video]",
       "url": "https://www.youtube.com/watch?v=E1BLGpE5zH0",
-      "score": 19,
-      "comments": 3,
+      "score": 49,
+      "comments": 9,
       "author": "ProfDreamer",
       "tags": [],
       "date": "2026-04-11T09:32:17+00:00"
+    },
+    {
+      "id": "hn-47728970",
+      "source": "hn",
+      "title": "Write less code, be more responsible",
+      "url": "https://blog.orhun.dev/code-responsibly/",
+      "score": 32,
+      "comments": 15,
+      "author": "orhunp_",
+      "tags": [],
+      "date": "2026-04-11T09:20:45+00:00"
     },
     {
       "id": "hn-47728879",
@@ -1987,10 +2032,10 @@
     {
       "id": "hn-47728823",
       "source": "hn",
-      "title": "What We Learned Building a Rust Runtime for TypeScript",
+      "title": "What we learned building a Rust runtime for TypeScript",
       "url": "https://encore.dev/blog/rust-runtime",
-      "score": 28,
-      "comments": 3,
+      "score": 42,
+      "comments": 9,
       "author": "vinhnx",
       "tags": [],
       "date": "2026-04-11T08:53:16+00:00"
@@ -2046,8 +2091,8 @@
       "source": "hn",
       "title": "If you started a company two years ago, many assumptions are no longer true",
       "url": "https://steveblank.com/2026/03/17/your-startup-is-probably-dead-on-arrival/",
-      "score": 106,
-      "comments": 88,
+      "score": 145,
+      "comments": 116,
       "author": "tie-in",
       "tags": [],
       "date": "2026-04-11T06:58:59+00:00"
@@ -2645,6 +2690,17 @@
       "date": "2026-04-10T14:12:48+00:00"
     },
     {
+      "id": "hn-47718284",
+      "source": "hn",
+      "title": "Design and implementation of DuckDB internals",
+      "url": "https://duckdb.org/library/design-and-implementation-of-duckdb-internals/",
+      "score": 19,
+      "comments": 3,
+      "author": "mpweiher",
+      "tags": [],
+      "date": "2026-04-10T13:59:26+00:00"
+    },
+    {
       "id": "hn-47718114",
       "source": "hn",
       "title": "US summons bank bosses over cyber risks from Anthropic's latest AI model",
@@ -2906,6 +2962,17 @@
       "author": "latexr",
       "tags": [],
       "date": "2026-04-10T08:44:37+00:00"
+    },
+    {
+      "id": "hn-47715256",
+      "source": "hn",
+      "title": "Tool to explore regularly sampled time series",
+      "url": "https://github.com/rajivsam/tseda",
+      "score": 3,
+      "comments": 0,
+      "author": "rsva",
+      "tags": [],
+      "date": "2026-04-10T08:39:51+00:00"
     },
     {
       "id": "hn-47715088",
@@ -5142,75 +5209,6 @@
       "date": "2026-04-07T21:41:06+00:00"
     },
     {
-      "id": "hn-47681566",
-      "source": "hn",
-      "title": "USD Purchasing Power in Real Time Since 2000",
-      "url": "https://onedollar.today/",
-      "score": 50,
-      "comments": 46,
-      "author": "traviswingo",
-      "tags": [],
-      "date": "2026-04-07T21:27:03+00:00"
-    },
-    {
-      "id": "qiita-ac882771d4",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "あの頃の自分へ――社会人6年目のエンジニアが、新人だった自分に伝えたいこと",
-      "url": "https://qiita.com/ay-T/items/aa2596a8233b76478d59?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "ay-T",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-04-08T06:07:33+09:00"
-    },
-    {
-      "id": "hn-47681361",
-      "source": "hn",
-      "title": "Move Detroit",
-      "url": "https://www.movedetroit.com/program",
-      "score": 27,
-      "comments": 30,
-      "author": "rmason",
-      "tags": [],
-      "date": "2026-04-07T21:04:53+00:00"
-    },
-    {
-      "id": "hn-47681274",
-      "source": "hn",
-      "title": "Bitcoin and quantum computing",
-      "url": "https://nehanarula.org/2026/04/03/bitcoin-and-quantum-computing.html",
-      "score": 115,
-      "comments": 74,
-      "author": "nehan",
-      "tags": [],
-      "date": "2026-04-07T20:56:23+00:00"
-    },
-    {
-      "id": "hn-47681112",
-      "source": "hn",
-      "title": "Show HN: An interactive map of Tolkien's Middle-earth",
-      "url": "https://middle-earth-interactive-map.web.app/",
-      "score": 235,
-      "comments": 47,
-      "author": "frasermarlow",
-      "tags": [],
-      "date": "2026-04-07T20:42:37+00:00"
-    },
-    {
-      "id": "hn-47680532",
-      "source": "hn",
-      "title": "Cells for NetBSD: kernel-enforced, jail-like isolation",
-      "url": "https://netbsd-cells.petermann-digital.de/",
-      "score": 23,
-      "comments": 5,
-      "author": "akagusu",
-      "tags": [],
-      "date": "2026-04-07T19:54:06+00:00",
-      "severity": "critical"
-    },
-    {
       "id": "ctf-3420191",
       "source": "project",
       "proj_category": "CTF",
@@ -5407,6 +5405,71 @@
       "date": "2023-05-23T17:06:23Z"
     },
     {
+      "id": "zenn-32f14521a0",
+      "source": "zennqiita",
+      "sub_source": "Zenn",
+      "title": "技術書典に初参加して3冊しか売れなかったので、AIと振り返りした",
+      "url": "https://zenn.dev/ma_me/articles/909e4eece32175",
+      "score": null,
+      "author": "ma_me",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Mon, 13 Apr 2026 11:27:34 GMT"
+    },
+    {
+      "id": "zenn-96298a5a30",
+      "source": "zennqiita",
+      "sub_source": "Zenn",
+      "title": "予測市場を見るために最低限知っておきたい金融知識",
+      "url": "https://zenn.dev/komlock_lab/articles/prediction-market-finance-basics-2026",
+      "score": null,
+      "author": "Kobara Toi",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Mon, 13 Apr 2026 08:38:33 GMT"
+    },
+    {
+      "id": "zenn-1344a6de74",
+      "source": "zennqiita",
+      "sub_source": "Zenn",
+      "title": "AWS Frontier Agentsで変わるSREの仕事、変わらないSREの仕事",
+      "url": "https://zenn.dev/genda_jp/articles/349257b6d83fd2",
+      "score": null,
+      "author": "ikenyal",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Mon, 13 Apr 2026 06:57:59 GMT"
+    },
+    {
+      "id": "zenn-aa811271aa",
+      "source": "zennqiita",
+      "sub_source": "Zenn",
+      "title": "東京都の団体用宿泊施設が一ヶ月に倍に？パブリックデータの扱いからデータエンジニアリングを学ぶ",
+      "url": "https://zenn.dev/estie/articles/2ac12b0f52c44c",
+      "score": null,
+      "author": "akira-john",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Mon, 13 Apr 2026 04:49:15 GMT"
+    },
+    {
+      "id": "zenn-30482866c1",
+      "source": "zennqiita",
+      "sub_source": "Zenn",
+      "title": "Ingress NGINXのretirementに伴うGateway API + Envoy Gatewayへの移行",
+      "url": "https://zenn.dev/mitene/articles/202604-ingress-nginx-to-envoy-gateway",
+      "score": null,
+      "author": "kohbis",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Mon, 13 Apr 2026 03:44:32 GMT"
+    },
+    {
       "id": "zenn-a09af13847",
       "source": "zennqiita",
       "sub_source": "Zenn",
@@ -5420,17 +5483,43 @@
       "date": "Mon, 13 Apr 2026 02:48:27 GMT"
     },
     {
-      "id": "zenn-5e271ef579",
+      "id": "zenn-c444bc5e18",
       "source": "zennqiita",
       "sub_source": "Zenn",
       "title": "try! Swift Tokyo 2026 Day1 Workshop｜High-Performance Swift 参加レポート",
-      "url": "https://zenn.dev/miharun/articles/8f17dc140bd244",
+      "url": "https://zenn.dev/unite_techblog/articles/8f17dc140bd244",
       "score": null,
       "author": "みはるん",
       "tags": [
         "Zenn"
       ],
       "date": "Mon, 13 Apr 2026 02:08:01 GMT"
+    },
+    {
+      "id": "zenn-c6984d579c",
+      "source": "zennqiita",
+      "sub_source": "Zenn",
+      "title": "GitHub Copilot CLI で分析業務を半自動化する（フェーズ分割×サブエージェント×シェルスクリプトの設計）",
+      "url": "https://zenn.dev/mtec_blog/articles/288cab828f6773",
+      "score": null,
+      "author": "K. SUZUKI",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Mon, 13 Apr 2026 00:32:36 GMT"
+    },
+    {
+      "id": "zenn-2f645496f8",
+      "source": "zennqiita",
+      "sub_source": "Zenn",
+      "title": "Python開発環境をスッキリ整える：uv / Ruff / Taskfile",
+      "url": "https://zenn.dev/zaspa/articles/3cc9a01f0d69f6",
+      "score": null,
+      "author": "zaspa",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Sun, 12 Apr 2026 23:00:08 GMT"
     },
     {
       "id": "zenn-efa0be3773",
@@ -5459,19 +5548,6 @@
       "date": "Sun, 12 Apr 2026 21:00:12 GMT"
     },
     {
-      "id": "zenn-36f1dc453b",
-      "source": "zennqiita",
-      "sub_source": "Zenn",
-      "title": "2026年3月のIMEに関するできごと",
-      "url": "https://zenn.dev/komatsuh/articles/komatsuh_ime_news_2026_03",
-      "score": null,
-      "author": "Hiroyuki Komatsu",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Sun, 12 Apr 2026 17:30:00 GMT"
-    },
-    {
       "id": "zenn-0df8fd5c16",
       "source": "zennqiita",
       "sub_source": "Zenn",
@@ -5484,32 +5560,6 @@
       ],
       "date": "Sun, 12 Apr 2026 15:15:55 GMT",
       "severity": "high"
-    },
-    {
-      "id": "zenn-dc5b7ec735",
-      "source": "zennqiita",
-      "sub_source": "Zenn",
-      "title": "仕様駆動開発のための軽量デスクトップアプリを作った",
-      "url": "https://zenn.dev/third_tech/articles/spec-prompt-introduction",
-      "score": null,
-      "author": "sakamotchi8",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Sun, 12 Apr 2026 13:13:23 GMT"
-    },
-    {
-      "id": "zenn-d82bfa30ff",
-      "source": "zennqiita",
-      "sub_source": "Zenn",
-      "title": "Laravel Starter Kit が 21 種類に増えて破綻しかけたので「Maestro」が導入された話",
-      "url": "https://zenn.dev/catatsumuri/articles/ed872ea1d650b9",
-      "score": null,
-      "author": "ﾓｯ",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Sun, 12 Apr 2026 12:58:21 GMT"
     },
     {
       "id": "zenn-b28eeee911",
@@ -5550,45 +5600,6 @@
         "Zenn"
       ],
       "date": "Sun, 12 Apr 2026 02:30:05 GMT"
-    },
-    {
-      "id": "zenn-98d07dfb3d",
-      "source": "zennqiita",
-      "sub_source": "Zenn",
-      "title": "Laravelで安易にRepositoryやServiceを作らない方が良いと思う",
-      "url": "https://zenn.dev/condy/articles/2b44f40bb58ad1",
-      "score": null,
-      "author": "YutoKitano",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Sat, 11 Apr 2026 15:56:24 GMT"
-    },
-    {
-      "id": "zenn-5e82aa4bc8",
-      "source": "zennqiita",
-      "sub_source": "Zenn",
-      "title": "「AI時代に良い問いを立てる人が優秀」は本当なのか？をクーンのパラダイム論から考える",
-      "url": "https://zenn.dev/acntechjp/articles/ac59a66d0e58d6",
-      "score": null,
-      "author": "kaito.abe",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Sat, 11 Apr 2026 15:37:00 GMT"
-    },
-    {
-      "id": "zenn-f95ab07c7c",
-      "source": "zennqiita",
-      "sub_source": "Zenn",
-      "title": "Terraformインフラ管理の設計観点と選択肢の比較",
-      "url": "https://zenn.dev/toutou/articles/terraform-infra-design-overview",
-      "score": null,
-      "author": "toutou node",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Sat, 11 Apr 2026 11:41:12 GMT"
     },
     {
       "id": "zenn-ccd72805ae",
@@ -5654,19 +5665,6 @@
         "Zenn"
       ],
       "date": "Sat, 11 Apr 2026 02:20:47 GMT"
-    },
-    {
-      "id": "zenn-544ee7882e",
-      "source": "zennqiita",
-      "sub_source": "Zenn",
-      "title": "関数型って結局なんやねん！どないして活用せえっちゅうねん！",
-      "url": "https://zenn.dev/sonneko/articles/004b051a805687",
-      "score": null,
-      "author": "Sonneko",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Fri, 10 Apr 2026 13:40:55 GMT"
     },
     {
       "id": "edb-43819ec761",

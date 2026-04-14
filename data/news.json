@@ -1,7 +1,29 @@
 {
-  "updated_at": "2026-04-14T05:23:39.054735+00:00",
+  "updated_at": "2026-04-14T07:09:26.747097+00:00",
   "count": 500,
   "items": [
+    {
+      "id": "hn-47762006",
+      "source": "hn",
+      "title": "Can Claude Fly a Plane?",
+      "url": "https://so.long.thanks.fish/can-claude-fly-a-plane/",
+      "score": 24,
+      "comments": 14,
+      "author": "casi",
+      "tags": [],
+      "date": "2026-04-14T06:32:45+00:00"
+    },
+    {
+      "id": "hn-47761997",
+      "source": "hn",
+      "title": "Distributed DuckDB Instance",
+      "url": "https://github.com/citguru/openduck",
+      "score": 18,
+      "comments": 2,
+      "author": "citguru",
+      "tags": [],
+      "date": "2026-04-14T06:31:44+00:00"
+    },
     {
       "id": "qiita-1b39bf2961",
       "source": "zennqiita",
@@ -13,7 +35,51 @@
       "tags": [
         "Qiita"
       ],
-      "date": "2026-04-14T13:13:27+09:00"
+      "date": "2026-04-14T15:27:40+09:00"
+    },
+    {
+      "id": "hn-47761825",
+      "source": "hn",
+      "title": "Roblox devs now need a subscription to share their games freely",
+      "url": "https://devforum.roblox.com/t/new-publishing-requirements-evaluation-process-for-games/4573166",
+      "score": 18,
+      "comments": 3,
+      "author": "hallole",
+      "tags": [],
+      "date": "2026-04-14T06:04:31+00:00"
+    },
+    {
+      "id": "hn-47761625",
+      "source": "hn",
+      "title": "Multi-Agentic Software Development Is a Distributed Systems Problem",
+      "url": "https://kirancodes.me/posts/log-distributed-llms.html",
+      "score": 12,
+      "comments": 2,
+      "author": "tie-in",
+      "tags": [],
+      "date": "2026-04-14T05:32:48+00:00"
+    },
+    {
+      "id": "hn-47761613",
+      "source": "hn",
+      "title": "UpDown: Efficient Manycore based on Many Threading & Scalable Memory Parallelism",
+      "url": "https://people.cs.uchicago.edu/~aachien/lssg/research/10x10/ics26-single-chip-updown.pdf",
+      "score": 7,
+      "comments": 0,
+      "author": "matt_d",
+      "tags": [],
+      "date": "2026-04-14T05:29:30+00:00"
+    },
+    {
+      "id": "hn-47761609",
+      "source": "hn",
+      "title": "TanStack Start Now Support React Server Components",
+      "url": "https://tanstack.com/blog/react-server-components",
+      "score": 32,
+      "comments": 21,
+      "author": "polywock",
+      "tags": [],
+      "date": "2026-04-14T05:28:51+00:00"
     },
     {
       "id": "hn-47760925",
@@ -31,8 +97,8 @@
       "source": "hn",
       "title": "A new spam policy for \"back button hijacking\"",
       "url": "https://developers.google.com/search/blog/2026/04/back-button-hijacking",
-      "score": 117,
-      "comments": 58,
+      "score": 225,
+      "comments": 118,
       "author": "zdw",
       "tags": [],
       "date": "2026-04-14T03:06:27+00:00"
@@ -42,8 +108,8 @@
       "source": "hn",
       "title": "Sometimes powerful people just do dumb shit",
       "url": "https://www.joanwestenberg.com/sometimes-powerful-people-just-do-dumb-shit/",
-      "score": 6,
-      "comments": 0,
+      "score": 137,
+      "comments": 46,
       "author": "zdw",
       "tags": [],
       "date": "2026-04-14T03:04:20+00:00"
@@ -53,8 +119,8 @@
       "source": "hn",
       "title": "DaVinci Resolve releases Photo Editor",
       "url": "https://www.blackmagicdesign.com/products/davinciresolve/photo",
-      "score": 205,
-      "comments": 48,
+      "score": 372,
+      "comments": 82,
       "author": "thebiblelover7",
       "tags": [],
       "date": "2026-04-14T02:25:15+00:00"
@@ -64,8 +130,8 @@
       "source": "hn",
       "title": "Lean proved this program correct; then I found a bug",
       "url": "https://kirancodes.me/posts/log-who-watches-the-watchers.html",
-      "score": 172,
-      "comments": 90,
+      "score": 214,
+      "comments": 107,
       "author": "bumbledraven",
       "tags": [],
       "date": "2026-04-14T00:25:08+00:00"
@@ -75,8 +141,8 @@
       "source": "hn",
       "title": "WiiFin – Jellyfin Client for Nintendo Wii",
       "url": "https://github.com/fabienmillet/WiiFin",
-      "score": 109,
-      "comments": 44,
+      "score": 132,
+      "comments": 56,
       "author": "throwawayk7h",
       "tags": [],
       "date": "2026-04-13T23:33:18+00:00"
@@ -97,8 +163,8 @@
       "source": "hn",
       "title": "N-Day-Bench – Can LLMs find real vulnerabilities in real codebases?",
       "url": "https://ndaybench.winfunc.com",
-      "score": 36,
-      "comments": 10,
+      "score": 57,
+      "comments": 15,
       "author": "mufeedvh",
       "tags": [],
       "date": "2026-04-13T21:54:03+00:00"
@@ -141,8 +207,8 @@
       "source": "hn",
       "title": "GitHub Stacked PRs",
       "url": "https://github.github.com/gh-stack/",
-      "score": 578,
-      "comments": 323,
+      "score": 639,
+      "comments": 351,
       "author": "ezekg",
       "tags": [],
       "date": "2026-04-13T20:36:49+00:00"
@@ -186,8 +252,8 @@
       "source": "hn",
       "title": "How to make Firefox builds 17% faster",
       "url": "https://blog.farre.se/posts/2026/04/10/caching-webidl-codegen/",
-      "score": 151,
-      "comments": 25,
+      "score": 164,
+      "comments": 30,
       "author": "mbitsnbites",
       "tags": [],
       "date": "2026-04-13T18:50:08+00:00"
@@ -219,8 +285,8 @@
       "source": "hn",
       "title": "Someone bought 30 WordPress plugins and planted a backdoor in all of them",
       "url": "https://anchor.host/someone-bought-30-wordpress-plugins-and-planted-a-backdoor-in-all-of-them/",
-      "score": 813,
-      "comments": 232,
+      "score": 873,
+      "comments": 246,
       "author": "speckx",
       "tags": [],
       "date": "2026-04-13T17:54:39+00:00"
@@ -307,8 +373,8 @@
       "source": "hn",
       "title": "Building a CLI for all of Cloudflare",
       "url": "https://blog.cloudflare.com/cf-cli-local-explorer/",
-      "score": 282,
-      "comments": 91,
+      "score": 292,
+      "comments": 97,
       "author": "soheilpro",
       "tags": [],
       "date": "2026-04-13T15:44:02+00:00"
@@ -329,8 +395,8 @@
       "source": "hn",
       "title": "Nothing Ever Happens: Polymarket bot that always buys No on non-sports markets",
       "url": "https://github.com/sterlingcrispin/nothing-ever-happens",
-      "score": 387,
-      "comments": 204,
+      "score": 402,
+      "comments": 221,
       "author": "m-hodges",
       "tags": [],
       "date": "2026-04-13T15:31:06+00:00"
@@ -351,8 +417,8 @@
       "source": "hn",
       "title": "Make tmux pretty and usable (2024)",
       "url": "https://hamvocke.com/blog/a-guide-to-customizing-your-tmux-conf/",
-      "score": 342,
-      "comments": 214,
+      "score": 354,
+      "comments": 223,
       "author": "speckx",
       "tags": [],
       "date": "2026-04-13T14:48:55+00:00"
@@ -384,8 +450,8 @@
       "source": "hn",
       "title": "US appeals court declares 158-year-old home distilling ban unconstitutional",
       "url": "https://nypost.com/2026/04/11/us-news/us-appeals-court-declares-158-year-old-home-distilling-ban-unconstitutional/",
-      "score": 350,
-      "comments": 246,
+      "score": 369,
+      "comments": 251,
       "author": "t-3",
       "tags": [],
       "date": "2026-04-13T13:37:33+00:00"
@@ -2056,8 +2122,8 @@
       "source": "hn",
       "title": "Write less code, be more responsible",
       "url": "https://blog.orhun.dev/code-responsibly/",
-      "score": 55,
-      "comments": 33,
+      "score": 71,
+      "comments": 39,
       "author": "orhunp_",
       "tags": [],
       "date": "2026-04-11T09:20:45+00:00"
@@ -2738,8 +2804,8 @@
       "source": "hn",
       "title": "Design and implementation of DuckDB internals",
       "url": "https://duckdb.org/library/design-and-implementation-of-duckdb-internals/",
-      "score": 73,
-      "comments": 6,
+      "score": 100,
+      "comments": 8,
       "author": "mpweiher",
       "tags": [],
       "date": "2026-04-10T13:59:26+00:00"
@@ -2817,8 +2883,8 @@
       "source": "hn",
       "title": "Anastasia (1997) live action reference material",
       "url": "https://lostmediawiki.com/Anastasia_(partially_found_live-action_reference_material_for_Don_Bluth_animated_film;_1997)",
-      "score": 4,
-      "comments": 0,
+      "score": 15,
+      "comments": 2,
       "author": "hyperific",
       "tags": [],
       "date": "2026-04-10T12:03:16+00:00"
@@ -2975,8 +3041,8 @@
       "source": "hn",
       "title": "I shipped a transaction bug, so I built a linter",
       "url": "https://leonh.fr/posts/go-transaction-linter/",
-      "score": 22,
-      "comments": 1,
+      "score": 32,
+      "comments": 4,
       "author": "leonhfr",
       "tags": [],
       "date": "2026-04-10T09:01:05+00:00"
@@ -3326,6 +3392,17 @@
       "date": "2026-04-10T09:33:30+09:00"
     },
     {
+      "id": "hn-47711148",
+      "source": "hn",
+      "title": "A soft robot has no problem moving with no motor and no gears",
+      "url": "https://engineering.princeton.edu/news/2026/04/08/soft-robot-has-no-problem-moving-no-motor-and-no-gears",
+      "score": 8,
+      "comments": 0,
+      "author": "hhs",
+      "tags": [],
+      "date": "2026-04-09T22:33:41+00:00"
+    },
+    {
       "id": "hn-47710919",
       "source": "hn",
       "title": "How the Trivy supply chain attack harvested credentials from secrets managers",
@@ -3497,8 +3574,8 @@
       "source": "hn",
       "title": "Rust Threads on the GPU",
       "url": "https://www.vectorware.com/blog/threads-on-gpu/",
-      "score": 25,
-      "comments": 10,
+      "score": 45,
+      "comments": 13,
       "author": "PaulHoule",
       "tags": [],
       "date": "2026-04-09T19:20:10+00:00"
@@ -5401,6 +5478,32 @@
       "date": "2023-05-23T17:06:23Z"
     },
     {
+      "id": "zenn-f9e9a81982",
+      "source": "zennqiita",
+      "sub_source": "Zenn",
+      "title": "データプロダクトマネジメント始めました。SWEの原則でAI時代のデータ品質に向き合う",
+      "url": "https://zenn.dev/ubie_dev/articles/ad3f556639d44e",
+      "score": null,
+      "author": "glassmonkey",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Tue, 14 Apr 2026 00:49:45 GMT"
+    },
+    {
+      "id": "zenn-8f87a42097",
+      "source": "zennqiita",
+      "sub_source": "Zenn",
+      "title": "ところで、Rustのtrait/型システムもチューリング完全らしいのでフィボナッチ数列求めてみた",
+      "url": "https://zenn.dev/saqula/articles/2361ce8de47570",
+      "score": null,
+      "author": "桜海 / Saqula",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Mon, 13 Apr 2026 15:24:43 GMT"
+    },
+    {
       "id": "zenn-32f14521a0",
       "source": "zennqiita",
       "sub_source": "Zenn",
@@ -5414,6 +5517,19 @@
       "date": "Mon, 13 Apr 2026 11:27:34 GMT"
     },
     {
+      "id": "zenn-9ec582f017",
+      "source": "zennqiita",
+      "sub_source": "Zenn",
+      "title": "【週末2日】Claude Codeでコミュニティポータルサイトを構築・リリースするまでの全記録",
+      "url": "https://zenn.dev/easy_easy/articles/89318e4d0acb4f",
+      "score": null,
+      "author": "星影",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Mon, 13 Apr 2026 11:23:12 GMT"
+    },
+    {
       "id": "zenn-96298a5a30",
       "source": "zennqiita",
       "sub_source": "Zenn",
@@ -5425,6 +5541,19 @@
         "Zenn"
       ],
       "date": "Mon, 13 Apr 2026 08:38:33 GMT"
+    },
+    {
+      "id": "zenn-c1b00d5fcd",
+      "source": "zennqiita",
+      "sub_source": "Zenn",
+      "title": "FlutterからReact Nativeへ。物流アプリのリプレイスに挑んでいる話",
+      "url": "https://zenn.dev/hacobu/articles/d1a97a77b94766",
+      "score": null,
+      "author": "mau",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Mon, 13 Apr 2026 07:02:01 GMT"
     },
     {
       "id": "zenn-1344a6de74",
@@ -5453,19 +5582,6 @@
       "date": "Mon, 13 Apr 2026 04:49:15 GMT"
     },
     {
-      "id": "zenn-30482866c1",
-      "source": "zennqiita",
-      "sub_source": "Zenn",
-      "title": "Ingress NGINXのretirementに伴うGateway API + Envoy Gatewayへの移行",
-      "url": "https://zenn.dev/mitene/articles/202604-ingress-nginx-to-envoy-gateway",
-      "score": null,
-      "author": "kohbis",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Mon, 13 Apr 2026 03:44:32 GMT"
-    },
-    {
       "id": "zenn-a09af13847",
       "source": "zennqiita",
       "sub_source": "Zenn",
@@ -5490,19 +5606,6 @@
         "Zenn"
       ],
       "date": "Mon, 13 Apr 2026 02:08:01 GMT"
-    },
-    {
-      "id": "zenn-c6984d579c",
-      "source": "zennqiita",
-      "sub_source": "Zenn",
-      "title": "GitHub Copilot CLI で分析業務を半自動化する（フェーズ分割×サブエージェント×シェルスクリプトの設計）",
-      "url": "https://zenn.dev/mtec_blog/articles/288cab828f6773",
-      "score": null,
-      "author": "K. SUZUKI",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Mon, 13 Apr 2026 00:32:36 GMT"
     },
     {
       "id": "zenn-2f645496f8",
@@ -5585,17 +5688,17 @@
       "date": "Sun, 12 Apr 2026 06:50:38 GMT"
     },
     {
-      "id": "zenn-0303882acc",
+      "id": "zenn-98d07dfb3d",
       "source": "zennqiita",
       "sub_source": "Zenn",
-      "title": "「とりあえずAxios」のその先へ。通信層を「信頼性ポリシー」で設計する pureq",
-      "url": "https://zenn.dev/shihiro/articles/ac228db387717c",
+      "title": "Laravelで安易にRepositoryやServiceを作らない方が良いと思う",
+      "url": "https://zenn.dev/condy/articles/2b44f40bb58ad1",
       "score": null,
-      "author": "しひろ",
+      "author": "YutoKitano",
       "tags": [
         "Zenn"
       ],
-      "date": "Sun, 12 Apr 2026 02:30:05 GMT"
+      "date": "Sat, 11 Apr 2026 15:56:24 GMT"
     },
     {
       "id": "zenn-ccd72805ae",
@@ -5635,6 +5738,45 @@
         "Zenn"
       ],
       "date": "Sat, 11 Apr 2026 06:55:36 GMT"
+    },
+    {
+      "id": "zenn-30482866c1",
+      "source": "zennqiita",
+      "sub_source": "Zenn",
+      "title": "Ingress NGINXのretirementに伴うGateway API + Envoy Gatewayへの移行",
+      "url": "https://zenn.dev/mitene/articles/202604-ingress-nginx-to-envoy-gateway",
+      "score": null,
+      "author": "kohbis",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Mon, 13 Apr 2026 03:44:32 GMT"
+    },
+    {
+      "id": "zenn-c6984d579c",
+      "source": "zennqiita",
+      "sub_source": "Zenn",
+      "title": "GitHub Copilot CLI で分析業務を半自動化する（フェーズ分割×サブエージェント×シェルスクリプトの設計）",
+      "url": "https://zenn.dev/mtec_blog/articles/288cab828f6773",
+      "score": null,
+      "author": "K. SUZUKI",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Mon, 13 Apr 2026 00:32:36 GMT"
+    },
+    {
+      "id": "zenn-0303882acc",
+      "source": "zennqiita",
+      "sub_source": "Zenn",
+      "title": "「とりあえずAxios」のその先へ。通信層を「信頼性ポリシー」で設計する pureq",
+      "url": "https://zenn.dev/shihiro/articles/ac228db387717c",
+      "score": null,
+      "author": "しひろ",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Sun, 12 Apr 2026 02:30:05 GMT"
     },
     {
       "id": "zenn-871183e57e",
@@ -5706,186 +5848,6 @@
       ],
       "severity": "high",
       "date": "Thu, 09 Apr 2026 00:00:00 +0000"
-    },
-    {
-      "id": "edb-d82e6e3152",
-      "source": "msf",
-      "title": "[webapps] RomM  4.4.0 -  XSS_CSRF Chain",
-      "url": "https://www.exploit-db.com/exploits/52505",
-      "score": null,
-      "author": "Exploit-DB",
-      "tags": [
-        "Exploit-DB",
-        "CVE",
-        "PoC"
-      ],
-      "severity": "high",
-      "date": "Thu, 09 Apr 2026 00:00:00 +0000"
-    },
-    {
-      "id": "edb-e8afe43df5",
-      "source": "msf",
-      "title": "[webapps] Jumbo Website Manager  - Remote Code Execution",
-      "url": "https://www.exploit-db.com/exploits/52504",
-      "score": null,
-      "author": "Exploit-DB",
-      "tags": [
-        "Exploit-DB",
-        "CVE",
-        "PoC"
-      ],
-      "severity": "high",
-      "date": "Thu, 09 Apr 2026 00:00:00 +0000"
-    },
-    {
-      "id": "edb-2564d5cc7c",
-      "source": "msf",
-      "title": "[local] ZSH 5.9 - RCE",
-      "url": "https://www.exploit-db.com/exploits/52503",
-      "score": null,
-      "author": "Exploit-DB",
-      "tags": [
-        "Exploit-DB",
-        "CVE",
-        "PoC"
-      ],
-      "severity": "high",
-      "date": "Thu, 09 Apr 2026 00:00:00 +0000"
-    },
-    {
-      "id": "edb-3da8771542",
-      "source": "msf",
-      "title": "[webapps] FortiWeb  8.0.2 - Remote Code Execution",
-      "url": "https://www.exploit-db.com/exploits/52502",
-      "score": null,
-      "author": "Exploit-DB",
-      "tags": [
-        "Exploit-DB",
-        "CVE",
-        "PoC"
-      ],
-      "severity": "high",
-      "date": "Wed, 08 Apr 2026 00:00:00 +0000"
-    },
-    {
-      "id": "edb-96d524fcf4",
-      "source": "msf",
-      "title": "[local] 7-Zip 24.00 - Directory Traversal",
-      "url": "https://www.exploit-db.com/exploits/52501",
-      "score": null,
-      "author": "Exploit-DB",
-      "tags": [
-        "Exploit-DB",
-        "CVE",
-        "PoC"
-      ],
-      "severity": "high",
-      "date": "Wed, 08 Apr 2026 00:00:00 +0000"
-    },
-    {
-      "id": "edb-ce01cff88a",
-      "source": "msf",
-      "title": "[webapps] xibocms 3.3.4 - RCE",
-      "url": "https://www.exploit-db.com/exploits/52500",
-      "score": null,
-      "author": "Exploit-DB",
-      "tags": [
-        "Exploit-DB",
-        "CVE",
-        "PoC"
-      ],
-      "severity": "high",
-      "date": "Wed, 08 Apr 2026 00:00:00 +0000"
-    },
-    {
-      "id": "edb-4ae497cd58",
-      "source": "msf",
-      "title": "[local] SQLite 3.50.1 - Heap Overflow",
-      "url": "https://www.exploit-db.com/exploits/52499",
-      "score": null,
-      "author": "Exploit-DB",
-      "tags": [
-        "Exploit-DB",
-        "CVE",
-        "PoC"
-      ],
-      "severity": "high",
-      "date": "Wed, 08 Apr 2026 00:00:00 +0000"
-    },
-    {
-      "id": "edb-605b174f8f",
-      "source": "msf",
-      "title": "[local] Microsoft MMC MSC EvilTwin - Local Admin Creation",
-      "url": "https://www.exploit-db.com/exploits/52498",
-      "score": null,
-      "author": "Exploit-DB",
-      "tags": [
-        "Exploit-DB",
-        "CVE",
-        "PoC"
-      ],
-      "severity": "high",
-      "date": "Wed, 08 Apr 2026 00:00:00 +0000"
-    },
-    {
-      "id": "edb-1e7dd77ea0",
-      "source": "msf",
-      "title": "[webapps] Horilla v1.3 - RCE",
-      "url": "https://www.exploit-db.com/exploits/52497",
-      "score": null,
-      "author": "Exploit-DB",
-      "tags": [
-        "Exploit-DB",
-        "CVE",
-        "PoC"
-      ],
-      "severity": "high",
-      "date": "Wed, 08 Apr 2026 00:00:00 +0000"
-    },
-    {
-      "id": "edb-710535e63d",
-      "source": "msf",
-      "title": "[local] is-localhost-ip 2.0.0 - SSRF",
-      "url": "https://www.exploit-db.com/exploits/52496",
-      "score": null,
-      "author": "Exploit-DB",
-      "tags": [
-        "Exploit-DB",
-        "CVE",
-        "PoC"
-      ],
-      "severity": "high",
-      "date": "Mon, 06 Apr 2026 00:00:00 +0000"
-    },
-    {
-      "id": "edb-0003c10d59",
-      "source": "msf",
-      "title": "[webapps] Fortinet FortiWeb v8.0.1 - Auth Bypass",
-      "url": "https://www.exploit-db.com/exploits/52495",
-      "score": null,
-      "author": "Exploit-DB",
-      "tags": [
-        "Exploit-DB",
-        "CVE",
-        "PoC"
-      ],
-      "severity": "high",
-      "date": "Mon, 06 Apr 2026 00:00:00 +0000"
-    },
-    {
-      "id": "edb-3a24fa28ce",
-      "source": "msf",
-      "title": "[local] Windows Kernel - Elevation of Privilege",
-      "url": "https://www.exploit-db.com/exploits/52494",
-      "score": null,
-      "author": "Exploit-DB",
-      "tags": [
-        "Exploit-DB",
-        "CVE",
-        "PoC"
-      ],
-      "severity": "high",
-      "date": "Mon, 06 Apr 2026 00:00:00 +0000"
     }
   ]
 }

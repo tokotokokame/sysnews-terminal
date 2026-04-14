@@ -1,14 +1,48 @@
 {
-  "updated_at": "2026-04-14T11:57:07.787727+00:00",
+  "updated_at": "2026-04-14T13:54:29.004345+00:00",
   "count": 500,
   "items": [
+    {
+      "id": "hn-47765458",
+      "source": "hn",
+      "title": "Two Months After I Gave an AI $100 and No Instructions",
+      "url": "https://www.sebastian-jais.de/blog/two-months-alma-experiment",
+      "score": 26,
+      "comments": 12,
+      "author": "gleipnircode",
+      "tags": [],
+      "date": "2026-04-14T13:34:24+00:00"
+    },
+    {
+      "id": "hn-47764265",
+      "source": "hn",
+      "title": "The exponential curve behind open source backlogs",
+      "url": "https://armanckeser.com/writing/jellyfin-flow",
+      "score": 13,
+      "comments": 3,
+      "author": "armanckeser",
+      "tags": [],
+      "date": "2026-04-14T11:37:56+00:00",
+      "severity": "critical"
+    },
+    {
+      "id": "hn-47764164",
+      "source": "hn",
+      "title": "The Case Against Gameplay Loops",
+      "url": "https://blog.joeyschutz.com/the-case-against-gameplay-loops/",
+      "score": 17,
+      "comments": 8,
+      "author": "coinfused",
+      "tags": [],
+      "date": "2026-04-14T11:26:25+00:00"
+    },
     {
       "id": "hn-47764098",
       "source": "hn",
       "title": "NimConf 2026: Dates Announced, Registrations Open",
       "url": "https://nim-lang.org/blog/2026/04/07/nimconf-2026.html",
-      "score": 9,
-      "comments": 0,
+      "score": 49,
+      "comments": 9,
       "author": "moigagoo",
       "tags": [],
       "date": "2026-04-14T11:19:10+00:00"
@@ -18,8 +52,8 @@
       "source": "hn",
       "title": "What is jj and why should I care?",
       "url": "https://steveklabnik.github.io/jujutsu-tutorial/introduction/what-is-jj-and-why-should-i-care.html",
-      "score": 15,
-      "comments": 2,
+      "score": 179,
+      "comments": 94,
       "author": "tigerlily",
       "tags": [],
       "date": "2026-04-14T10:33:39+00:00"
@@ -29,8 +63,8 @@
       "source": "hn",
       "title": "Ransomware Is Growing Three Times Faster Than the Spending Meant to Stop It",
       "url": "https://ciphercue.com/blog/ransomware-claims-grew-faster-than-security-spend-2025",
-      "score": 21,
-      "comments": 16,
+      "score": 48,
+      "comments": 38,
       "author": "adulion",
       "tags": [],
       "date": "2026-04-14T08:52:12+00:00",
@@ -52,8 +86,8 @@
       "source": "hn",
       "title": "Backblaze has stopped backing up your data",
       "url": "https://rareese.com/posts/backblaze/",
-      "score": 253,
-      "comments": 172,
+      "score": 411,
+      "comments": 253,
       "author": "rrreese",
       "tags": [],
       "date": "2026-04-14T08:30:27+00:00"
@@ -63,8 +97,8 @@
       "source": "hn",
       "title": "Introspective Diffusion Language Models",
       "url": "https://introspective-diffusion.github.io/",
-      "score": 77,
-      "comments": 22,
+      "score": 119,
+      "comments": 30,
       "author": "zagwdt",
       "tags": [],
       "date": "2026-04-14T07:57:33+00:00"
@@ -96,8 +130,8 @@
       "source": "hn",
       "title": "Distributed DuckDB Instance",
       "url": "https://github.com/citguru/openduck",
-      "score": 83,
-      "comments": 18,
+      "score": 102,
+      "comments": 21,
       "author": "citguru",
       "tags": [],
       "date": "2026-04-14T06:31:44+00:00"
@@ -144,8 +178,8 @@
       "source": "hn",
       "title": "MOS tech 6502 8-bit microprocessor in pure SQL powered by Postgres",
       "url": "https://github.com/lasect/pg_6502",
-      "score": 33,
-      "comments": 3,
+      "score": 46,
+      "comments": 5,
       "author": "adunk",
       "tags": [],
       "date": "2026-04-14T05:46:49+00:00"
@@ -155,8 +189,8 @@
       "source": "hn",
       "title": "Multi-Agentic Software Development Is a Distributed Systems Problem",
       "url": "https://kirancodes.me/posts/log-distributed-llms.html",
-      "score": 48,
-      "comments": 16,
+      "score": 63,
+      "comments": 27,
       "author": "tie-in",
       "tags": [],
       "date": "2026-04-14T05:32:48+00:00"
@@ -225,8 +259,8 @@
       "source": "hn",
       "title": "A new spam policy for “back button hijacking”",
       "url": "https://developers.google.com/search/blog/2026/04/back-button-hijacking",
-      "score": 433,
-      "comments": 258,
+      "score": 537,
+      "comments": 318,
       "author": "zdw",
       "tags": [],
       "date": "2026-04-14T03:06:27+00:00"
@@ -247,8 +281,8 @@
       "source": "hn",
       "title": "DaVinci Resolve – Photo",
       "url": "https://www.blackmagicdesign.com/products/davinciresolve/photo",
-      "score": 663,
-      "comments": 173,
+      "score": 762,
+      "comments": 201,
       "author": "thebiblelover7",
       "tags": [],
       "date": "2026-04-14T02:25:15+00:00"
@@ -271,8 +305,8 @@
       "source": "hn",
       "title": "Lean proved this program correct; then I found a bug",
       "url": "https://kirancodes.me/posts/log-who-watches-the-watchers.html",
-      "score": 279,
-      "comments": 133,
+      "score": 305,
+      "comments": 143,
       "author": "bumbledraven",
       "tags": [],
       "date": "2026-04-14T00:25:08+00:00"
@@ -282,8 +316,8 @@
       "source": "hn",
       "title": "WiiFin – Jellyfin Client for Nintendo Wii",
       "url": "https://github.com/fabienmillet/WiiFin",
-      "score": 178,
-      "comments": 76,
+      "score": 197,
+      "comments": 91,
       "author": "throwawayk7h",
       "tags": [],
       "date": "2026-04-13T23:33:18+00:00"
@@ -374,8 +408,8 @@
       "source": "hn",
       "title": "GitHub Stacked PRs",
       "url": "https://github.github.com/gh-stack/",
-      "score": 744,
-      "comments": 397,
+      "score": 789,
+      "comments": 427,
       "author": "ezekg",
       "tags": [],
       "date": "2026-04-13T20:36:49+00:00"
@@ -452,8 +486,8 @@
       "source": "hn",
       "title": "Someone bought 30 WordPress plugins and planted a backdoor in all of them",
       "url": "https://anchor.host/someone-bought-30-wordpress-plugins-and-planted-a-backdoor-in-all-of-them/",
-      "score": 993,
-      "comments": 278,
+      "score": 1049,
+      "comments": 299,
       "author": "speckx",
       "tags": [],
       "date": "2026-04-13T17:54:39+00:00"
@@ -562,8 +596,8 @@
       "source": "hn",
       "title": "Nothing Ever Happens: Polymarket bot that always buys No on non-sports markets",
       "url": "https://github.com/sterlingcrispin/nothing-ever-happens",
-      "score": 433,
-      "comments": 242,
+      "score": 450,
+      "comments": 243,
       "author": "m-hodges",
       "tags": [],
       "date": "2026-04-13T15:31:06+00:00"
@@ -630,8 +664,8 @@
       "source": "hn",
       "title": "US appeals court declares 158-year-old home distilling ban unconstitutional",
       "url": "https://nypost.com/2026/04/11/us-news/us-appeals-court-declares-158-year-old-home-distilling-ban-unconstitutional/",
-      "score": 397,
-      "comments": 267,
+      "score": 417,
+      "comments": 282,
       "author": "t-3",
       "tags": [],
       "date": "2026-04-13T13:37:33+00:00"
@@ -2667,6 +2701,17 @@
       "date": "2026-04-10T23:05:48+00:00"
     },
     {
+      "id": "hn-47724408",
+      "source": "hn",
+      "title": "The Great Majority: Body Snatching and Burial Reform in 19th-Century Britain",
+      "url": "https://publicdomainreview.org/essay/the-great-majority/",
+      "score": 10,
+      "comments": 1,
+      "author": "apollinaire",
+      "tags": [],
+      "date": "2026-04-10T22:23:03+00:00"
+    },
+    {
       "id": "hn-47724352",
       "source": "hn",
       "title": "Filing the corners off my MacBooks",
@@ -2704,8 +2749,8 @@
       "source": "hn",
       "title": "Franklin's bad ads for Apple ][ clones and the beloved impersonator they depict",
       "url": "https://buttondown.com/suchbadtechads/archive/franklin-ace-1000/",
-      "score": 29,
-      "comments": 7,
+      "score": 60,
+      "comments": 31,
       "author": "rfarley04",
       "tags": [],
       "date": "2026-04-10T19:33:08+00:00"
@@ -3122,6 +3167,17 @@
         "Qiita"
       ],
       "date": "2026-04-10T22:15:57+09:00"
+    },
+    {
+      "id": "hn-47717192",
+      "source": "hn",
+      "title": "The acyclic e-graph: Cranelift's mid-end optimizer",
+      "url": "https://cfallin.org/blog/2026/04/09/aegraph/",
+      "score": 17,
+      "comments": 1,
+      "author": "tekknolagi",
+      "tags": [],
+      "date": "2026-04-10T12:37:27+00:00"
     },
     {
       "id": "hn-47716809",
@@ -3652,8 +3708,8 @@
       "source": "hn",
       "title": "A soft robot has no problem moving with no motor and no gears",
       "url": "https://engineering.princeton.edu/news/2026/04/08/soft-robot-has-no-problem-moving-no-motor-and-no-gears",
-      "score": 41,
-      "comments": 6,
+      "score": 51,
+      "comments": 13,
       "author": "hhs",
       "tags": [],
       "date": "2026-04-09T22:33:41+00:00"
@@ -4033,8 +4089,8 @@
       "source": "hn",
       "title": "Lumina – a statically typed web-native language for JavaScript and WASM",
       "url": "https://github.com/nyigoro/lumina-lang",
-      "score": 21,
-      "comments": 7,
+      "score": 31,
+      "comments": 12,
       "author": "light_ideas",
       "tags": [],
       "date": "2026-04-09T16:02:11+00:00"
@@ -4089,8 +4145,8 @@
       "source": "hn",
       "title": "The M×N problem of tool calling and open-source models",
       "url": "https://www.thetypicalset.com/blog/grammar-parser-maintenance-contract",
-      "score": 12,
-      "comments": 1,
+      "score": 38,
+      "comments": 12,
       "author": "remilouf",
       "tags": [],
       "date": "2026-04-09T15:07:13+00:00",
@@ -5139,67 +5195,6 @@
         "Qiita"
       ],
       "date": "2026-04-08T19:20:42+09:00"
-    },
-    {
-      "id": "qiita-11b28aba67",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "障害調査中にviewコマンドで巨大ログを開いてアプリを全停止させたお話",
-      "url": "https://qiita.com/km23/items/a9d75de3677bdd22dced?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "km23",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-04-08T18:57:08+09:00"
-    },
-    {
-      "id": "qiita-dd316604a1",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "React で ref をどう扱うかを整理する",
-      "url": "https://qiita.com/ryo_sh/items/3271d742da296e6a4622?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "ryo_sh",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-04-08T18:45:48+09:00"
-    },
-    {
-      "id": "hn-47687755",
-      "source": "hn",
-      "title": "Struggle Against the Gods",
-      "url": "https://firstthings.com/struggle-against-the-gods/",
-      "score": 7,
-      "comments": 0,
-      "author": "marcofloriano",
-      "tags": [],
-      "date": "2026-04-08T09:41:56+00:00"
-    },
-    {
-      "id": "hn-47687533",
-      "source": "hn",
-      "title": "I've sold out",
-      "url": "https://mariozechner.at/posts/2026-04-08-ive-sold-out/",
-      "score": 173,
-      "comments": 109,
-      "author": "doppp",
-      "tags": [],
-      "date": "2026-04-08T09:21:38+00:00"
-    },
-    {
-      "id": "qiita-2141ce9606",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "【Git】実務でよくあるGitエラーと対処法まとめ",
-      "url": "https://qiita.com/yuto-vj/items/402d4a9c414354220ba3?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "yuto-vj",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-04-08T18:14:01+09:00"
     },
     {
       "id": "ctf-3420191",

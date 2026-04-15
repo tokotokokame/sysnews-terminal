@@ -1,7 +1,40 @@
 {
-  "updated_at": "2026-04-15T17:39:06.503393+00:00",
+  "updated_at": "2026-04-15T19:17:53.380001+00:00",
   "count": 500,
   "items": [
+    {
+      "id": "hn-47783024",
+      "source": "hn",
+      "title": "AI-Assisted Cognition Endangers Human Development",
+      "url": "https://heidenstedt.org/posts/2026/ai-assisted-cognition-endangers-human-development/",
+      "score": 95,
+      "comments": 34,
+      "author": "i5heu",
+      "tags": [],
+      "date": "2026-04-15T18:16:50+00:00"
+    },
+    {
+      "id": "hn-47782972",
+      "source": "hn",
+      "title": "Kalshi CEO expects US DOJ to prosecute insider trading cases",
+      "url": "https://www.semafor.com/article/04/15/2026/kalshi-ceo-tarek-mansour-expects-us-doj-to-prosecute-insider-trading-cases",
+      "score": 48,
+      "comments": 37,
+      "author": "thm",
+      "tags": [],
+      "date": "2026-04-15T18:11:24+00:00"
+    },
+    {
+      "id": "hn-47782570",
+      "source": "hn",
+      "title": "Google Broke Its Promise to Me. Now ICE Has My Data",
+      "url": "https://www.eff.org/deeplinks/2026/04/google-broke-its-promise-me-now-ice-has-my-data",
+      "score": 334,
+      "comments": 128,
+      "author": "Brajeshwar",
+      "tags": [],
+      "date": "2026-04-15T17:44:26+00:00"
+    },
     {
       "id": "hn-47781912",
       "source": "hn",
@@ -40,8 +73,8 @@
       "source": "hn",
       "title": "Show HN: Libretto – Making AI browser automations deterministic",
       "url": "https://github.com/saffron-health/libretto",
-      "score": 17,
-      "comments": 3,
+      "score": 44,
+      "comments": 9,
       "author": "muchael",
       "tags": [],
       "date": "2026-04-15T15:57:54+00:00"
@@ -51,11 +84,23 @@
       "source": "hn",
       "title": "Open Source Isn't Dead. Cal.com Just Learned the Wrong Lesson",
       "url": "https://www.strix.ai/blog/cal-com-is-closing-its-code-due-to-ai-threats",
-      "score": 134,
-      "comments": 86,
+      "score": 225,
+      "comments": 133,
       "author": "bearsyankees",
       "tags": [],
       "date": "2026-04-15T15:43:37+00:00",
+      "severity": "critical"
+    },
+    {
+      "id": "hn-47780456",
+      "source": "hn",
+      "title": "Cal.com is going closed source",
+      "url": "https://cal.com/blog/cal-com-goes-closed-source-why",
+      "score": 63,
+      "comments": 88,
+      "author": "Benjamin_Dobell",
+      "tags": [],
+      "date": "2026-04-15T15:26:46+00:00",
       "severity": "critical"
     },
     {
@@ -74,8 +119,8 @@
       "source": "hn",
       "title": "Gemini Robotics-ER 1.6",
       "url": "https://deepmind.google/blog/gemini-robotics-er-1-6/",
-      "score": 136,
-      "comments": 37,
+      "score": 166,
+      "comments": 52,
       "author": "markerbrod",
       "tags": [],
       "date": "2026-04-15T14:02:31+00:00"
@@ -107,8 +152,8 @@
       "source": "hn",
       "title": "The Future of Everything Is Lies, I Guess: New Jobs",
       "url": "https://aphyr.com/posts/419-the-future-of-everything-is-lies-i-guess-new-jobs",
-      "score": 171,
-      "comments": 107,
+      "score": 200,
+      "comments": 139,
       "author": "aphyr",
       "tags": [],
       "date": "2026-04-15T13:34:11+00:00"
@@ -129,8 +174,8 @@
       "source": "hn",
       "title": "God Sleeps in the Minerals",
       "url": "https://wchambliss.wordpress.com/2026/03/03/god-sleeps-in-the-minerals/",
-      "score": 283,
-      "comments": 68,
+      "score": 349,
+      "comments": 77,
       "author": "speckx",
       "tags": [],
       "date": "2026-04-15T13:08:10+00:00"
@@ -174,8 +219,8 @@
       "source": "hn",
       "title": "Do you even need a database?",
       "url": "https://www.dbpro.app/blog/do-you-even-need-a-database",
-      "score": 79,
-      "comments": 141,
+      "score": 116,
+      "comments": 190,
       "author": "upmostly",
       "tags": [],
       "date": "2026-04-15T12:26:11+00:00"
@@ -264,8 +309,8 @@
       "source": "hn",
       "title": "Want to Write a Compiler? Just Read These Two Papers (2008)",
       "url": "https://prog21.dadgum.com/30.html",
-      "score": 354,
-      "comments": 108,
+      "score": 384,
+      "comments": 120,
       "author": "downbad_",
       "tags": [],
       "date": "2026-04-15T09:41:19+00:00"
@@ -310,8 +355,8 @@
       "source": "hn",
       "title": "Good Sleep, Good Learning (2012)",
       "url": "https://super-memory.com/articles/sleep.htm",
-      "score": 268,
-      "comments": 121,
+      "score": 296,
+      "comments": 138,
       "author": "downbad_",
       "tags": [],
       "date": "2026-04-15T09:11:18+00:00"
@@ -321,8 +366,8 @@
       "source": "hn",
       "title": "Anna's Archive loses $322M Spotify piracy case without a fight",
       "url": "https://torrentfreak.com/annas-archive-loses-322-million-spotify-piracy-case-without-a-fight/",
-      "score": 133,
-      "comments": 141,
+      "score": 196,
+      "comments": 216,
       "author": "askl",
       "tags": [],
       "date": "2026-04-15T08:05:18+00:00"
@@ -367,8 +412,8 @@
       "source": "hn",
       "title": "Wacli – WhatsApp CLI",
       "url": "https://github.com/steipete/wacli",
-      "score": 199,
-      "comments": 134,
+      "score": 209,
+      "comments": 142,
       "author": "dinakars777",
       "tags": [],
       "date": "2026-04-15T07:04:45+00:00"
@@ -400,8 +445,8 @@
       "source": "hn",
       "title": "Google Gemma 4 Runs Natively on iPhone with Full Offline AI Inference",
       "url": "https://www.gizmoweek.com/gemma-4-runs-iphone/",
-      "score": 219,
-      "comments": 144,
+      "score": 241,
+      "comments": 158,
       "author": "takumi123",
       "tags": [],
       "date": "2026-04-15T05:19:06+00:00"
@@ -411,8 +456,8 @@
       "source": "hn",
       "title": "Fixing a 20-year-old bug in Enlightenment E16",
       "url": "https://iczelia.net/posts/e16-20-year-old-bug/",
-      "score": 229,
-      "comments": 129,
+      "score": 240,
+      "comments": 139,
       "author": "snoofydude",
       "tags": [],
       "date": "2026-04-15T04:47:00+00:00"
@@ -2398,8 +2443,8 @@
       "source": "hn",
       "title": "Costasiella kuroshimae – Solar Powered animals, that do indirect photosynthesis",
       "url": "https://en.wikipedia.org/wiki/Costasiella_kuroshimae",
-      "score": 113,
-      "comments": 47,
+      "score": 116,
+      "comments": 49,
       "author": "vinnyglennon",
       "tags": [],
       "date": "2026-04-12T15:26:24+00:00"
@@ -2627,8 +2672,8 @@
       "source": "hn",
       "title": "Fix monitor that goes black, off or blinks due to static electricity in chair",
       "url": "https://aalonso.dev/blog/2023/how-to-fix-monitor-that-goes-black-off-due-to-static-electricity-in-chair/",
-      "score": 7,
-      "comments": 3,
+      "score": 40,
+      "comments": 21,
       "author": "cyclopeanutopia",
       "tags": [],
       "date": "2026-04-12T10:27:08+00:00"
@@ -3163,8 +3208,8 @@
       "source": "hn",
       "title": "We ran Doom on a 40 year old printer controller (Agfa Compugraphic 9000PS) [video]",
       "url": "https://www.youtube.com/watch?v=cltnlks2-uU",
-      "score": 39,
-      "comments": 12,
+      "score": 49,
+      "comments": 18,
       "author": "zdw",
       "tags": [],
       "date": "2026-04-11T17:59:14+00:00"
@@ -3402,8 +3447,8 @@
       "source": "hn",
       "title": "How do Wake-On-LAN works",
       "url": "https://blog.xaner.dev/post/wake-on-lan/",
-      "score": 24,
-      "comments": 8,
+      "score": 50,
+      "comments": 18,
       "author": "swq115",
       "tags": [],
       "date": "2026-04-11T11:03:58+00:00"
@@ -4052,8 +4097,8 @@
       "source": "hn",
       "title": "Forcing an inversion of control on the SaaS stack",
       "url": "https://www.100x.bot/a/client-side-injection-inversion-of-control-saas",
-      "score": 26,
-      "comments": 23,
+      "score": 47,
+      "comments": 33,
       "author": "shardullavekar",
       "tags": [],
       "date": "2026-04-10T17:01:26+00:00"
@@ -4654,6 +4699,17 @@
       "date": "2026-04-10T06:15:46+00:00"
     },
     {
+      "id": "hn-47714142",
+      "source": "hn",
+      "title": "Show HN: GNU Grep as a PHP Extension",
+      "url": "https://github.com/hparadiz/ext-gnu-grep",
+      "score": 15,
+      "comments": 0,
+      "author": "hparadiz",
+      "tags": [],
+      "date": "2026-04-10T05:54:15+00:00"
+    },
+    {
       "id": "hn-47713839",
       "source": "hn",
       "title": "YouTube locked my accounts and I can't cancel my subscription",
@@ -5066,8 +5122,8 @@
       "source": "hn",
       "title": "Metro stop is Ancient Rome's new attraction",
       "url": "https://www.bbc.com/travel/article/20260408-a-150-metro-ticket-to-ancient-rome",
-      "score": 83,
-      "comments": 20,
+      "score": 91,
+      "comments": 24,
       "author": "Stevvo",
       "tags": [],
       "date": "2026-04-09T19:39:06+00:00"
@@ -5077,8 +5133,8 @@
       "source": "hn",
       "title": "Pretty Fish: A better mermaid diagram editor",
       "url": "https://pretty.fish/",
-      "score": 84,
-      "comments": 18,
+      "score": 112,
+      "comments": 22,
       "author": "pastelsky",
       "tags": [],
       "date": "2026-04-09T19:32:20+00:00"
@@ -5115,61 +5171,6 @@
       "author": "speckx",
       "tags": [],
       "date": "2026-04-09T19:17:05+00:00"
-    },
-    {
-      "id": "hn-47708041",
-      "source": "hn",
-      "title": "PicoZ80 – Drop-In Z80 Replacement",
-      "url": "https://eaw.app/picoz80/",
-      "score": 209,
-      "comments": 32,
-      "author": "rickcarlino",
-      "tags": [],
-      "date": "2026-04-09T18:53:20+00:00"
-    },
-    {
-      "id": "hn-47707762",
-      "source": "hn",
-      "title": "Hegel, a universal property-based testing protocol and family of PBT libraries",
-      "url": "https://hegel.dev",
-      "score": 113,
-      "comments": 32,
-      "author": "PaulHoule",
-      "tags": [],
-      "date": "2026-04-09T18:37:45+00:00"
-    },
-    {
-      "id": "hn-47707632",
-      "source": "hn",
-      "title": "Instant 1.0, a backend for AI-coded apps",
-      "url": "https://www.instantdb.com/essays/architecture",
-      "score": 176,
-      "comments": 89,
-      "author": "stopachka",
-      "tags": [],
-      "date": "2026-04-09T18:30:59+00:00"
-    },
-    {
-      "id": "hn-47707477",
-      "source": "hn",
-      "title": "Old laptops in a colo as low cost servers",
-      "url": "https://colaptop.pages.dev/",
-      "score": 347,
-      "comments": 202,
-      "author": "argentum47",
-      "tags": [],
-      "date": "2026-04-09T18:22:39+00:00"
-    },
-    {
-      "id": "hn-47707382",
-      "source": "hn",
-      "title": "Guide.world: A compendium of travel guides",
-      "url": "https://guide.world/",
-      "score": 100,
-      "comments": 17,
-      "author": "firloop",
-      "tags": [],
-      "date": "2026-04-09T18:17:32+00:00"
     },
     {
       "id": "ctf-3477546",

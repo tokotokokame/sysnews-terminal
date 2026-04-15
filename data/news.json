@@ -1,25 +1,80 @@
 {
-  "updated_at": "2026-04-15T22:10:46.704745+00:00",
+  "updated_at": "2026-04-15T23:10:20.142706+00:00",
   "count": 500,
   "items": [
+    {
+      "id": "hn-47786183",
+      "source": "hn",
+      "title": "The Rise of the Em-Dash in Hacker News Comments",
+      "url": "https://boazsobrado.com/blog/2026/04/15/the-rise-of-the-em-dash-in-hacker-news-comments/",
+      "score": 11,
+      "comments": 12,
+      "author": "sobradob",
+      "tags": [],
+      "date": "2026-04-15T22:29:40+00:00"
+    },
+    {
+      "id": "hn-47786164",
+      "source": "hn",
+      "title": "I made a terminal pager",
+      "url": "https://theleo.zone/posts/pager/",
+      "score": 13,
+      "comments": 1,
+      "author": "speckx",
+      "tags": [],
+      "date": "2026-04-15T22:27:54+00:00"
+    },
+    {
+      "id": "hn-47785948",
+      "source": "hn",
+      "title": "Ohio prison inmates 'built computers and hid them in ceiling",
+      "url": "https://www.bbc.com/news/technology-39576394",
+      "score": 8,
+      "comments": 0,
+      "author": "harambae",
+      "tags": [],
+      "date": "2026-04-15T22:05:44+00:00"
+    },
     {
       "id": "hn-47785738",
       "source": "hn",
       "title": "The buns in McDonald's Japan's burger photos are all slightly askew",
       "url": "https://www.mcdonalds.co.jp/en/menu/burger/",
-      "score": 41,
-      "comments": 12,
+      "score": 113,
+      "comments": 43,
       "author": "bckygldstn",
       "tags": [],
       "date": "2026-04-15T21:48:18+00:00"
+    },
+    {
+      "id": "hn-47785582",
+      "source": "hn",
+      "title": "Hacker News CLI",
+      "url": "https://pythonhosted.org/hackernews-cli/commands.html",
+      "score": 11,
+      "comments": 0,
+      "author": "rolph",
+      "tags": [],
+      "date": "2026-04-15T21:35:38+00:00"
+    },
+    {
+      "id": "hn-47785397",
+      "source": "hn",
+      "title": "ChatGPT for Excel",
+      "url": "https://chatgpt.com/apps/spreadsheets/",
+      "score": 48,
+      "comments": 17,
+      "author": "armcat",
+      "tags": [],
+      "date": "2026-04-15T21:21:05+00:00"
     },
     {
       "id": "hn-47785053",
       "source": "hn",
       "title": "Does Gas Town 'steal' usage from users' LLM credits to improve itself?",
       "url": "https://github.com/gastownhall/gastown/issues/3649",
-      "score": 126,
-      "comments": 60,
+      "score": 171,
+      "comments": 84,
       "author": "rektomatic",
       "tags": [],
       "date": "2026-04-15T20:49:48+00:00"
@@ -29,7 +84,7 @@
       "source": "hn",
       "title": "PiCore - Raspberry Pi Port of Tiny Core Linux",
       "url": "http://tinycorelinux.net/5.x/armv6/releases/README",
-      "score": 41,
+      "score": 54,
       "comments": 3,
       "author": "gregsadetsky",
       "tags": [],
@@ -95,8 +150,8 @@
       "source": "hn",
       "title": "Google broke its promise to me – now ICE has my data",
       "url": "https://www.eff.org/deeplinks/2026/04/google-broke-its-promise-me-now-ice-has-my-data",
-      "score": 853,
-      "comments": 367,
+      "score": 923,
+      "comments": 399,
       "author": "Brajeshwar",
       "tags": [],
       "date": "2026-04-15T17:44:26+00:00"
@@ -106,8 +161,8 @@
       "source": "hn",
       "title": "The Gemini app is now on Mac",
       "url": "https://blog.google/innovation-and-ai/products/gemini-app/gemini-app-now-on-mac-os/",
-      "score": 34,
-      "comments": 9,
+      "score": 47,
+      "comments": 22,
       "author": "thm",
       "tags": [],
       "date": "2026-04-15T17:25:52+00:00"
@@ -173,8 +228,8 @@
       "source": "hn",
       "title": "Cal.com is going closed source",
       "url": "https://cal.com/blog/cal-com-goes-closed-source-why",
-      "score": 150,
-      "comments": 129,
+      "score": 162,
+      "comments": 138,
       "author": "Benjamin_Dobell",
       "tags": [],
       "date": "2026-04-15T15:26:46+00:00",
@@ -251,8 +306,8 @@
       "source": "hn",
       "title": "God sleeps in the minerals",
       "url": "https://wchambliss.wordpress.com/2026/03/03/god-sleeps-in-the-minerals/",
-      "score": 408,
-      "comments": 88,
+      "score": 422,
+      "comments": 90,
       "author": "speckx",
       "tags": [],
       "date": "2026-04-15T13:08:10+00:00"
@@ -296,8 +351,8 @@
       "source": "hn",
       "title": "Do you even need a database?",
       "url": "https://www.dbpro.app/blog/do-you-even-need-a-database",
-      "score": 167,
-      "comments": 223,
+      "score": 177,
+      "comments": 228,
       "author": "upmostly",
       "tags": [],
       "date": "2026-04-15T12:26:11+00:00"
@@ -334,6 +389,17 @@
       "author": "pablo24602",
       "tags": [],
       "date": "2026-04-15T12:00:44+00:00"
+    },
+    {
+      "id": "hn-47777897",
+      "source": "hn",
+      "title": "Retrofitting JIT Compilers into C Interpreters",
+      "url": "https://tratt.net/laurie/blog/2026/retrofitting_jit_compilers_into_c_interpreters.html",
+      "score": 8,
+      "comments": 1,
+      "author": "ltratt",
+      "tags": [],
+      "date": "2026-04-15T12:00:24+00:00"
     },
     {
       "id": "hn-47777882",
@@ -399,8 +465,8 @@
       "source": "hn",
       "title": "Want to write a compiler? Just read these two papers (2008)",
       "url": "https://prog21.dadgum.com/30.html",
-      "score": 432,
-      "comments": 131,
+      "score": 443,
+      "comments": 134,
       "author": "downbad_",
       "tags": [],
       "date": "2026-04-15T09:41:19+00:00"
@@ -445,8 +511,8 @@
       "source": "hn",
       "title": "Good sleep, good learning, good life (2012)",
       "url": "https://super-memory.com/articles/sleep.htm",
-      "score": 338,
-      "comments": 167,
+      "score": 346,
+      "comments": 171,
       "author": "downbad_",
       "tags": [],
       "date": "2026-04-15T09:11:18+00:00"
@@ -469,8 +535,8 @@
       "source": "hn",
       "title": "Anna's Archive loses $322M Spotify piracy case without a fight",
       "url": "https://torrentfreak.com/annas-archive-loses-322-million-spotify-piracy-case-without-a-fight/",
-      "score": 277,
-      "comments": 297,
+      "score": 297,
+      "comments": 330,
       "author": "askl",
       "tags": [],
       "date": "2026-04-15T08:05:18+00:00"
@@ -827,8 +893,8 @@
       "source": "hn",
       "title": "How can I keep from singing?",
       "url": "https://blog.danieljanus.pl/singing/",
-      "score": 17,
-      "comments": 2,
+      "score": 27,
+      "comments": 4,
       "author": "nathell",
       "tags": [],
       "date": "2026-04-14T18:18:39+00:00"
@@ -838,8 +904,8 @@
       "source": "hn",
       "title": "Cybersecurity looks like proof of work now",
       "url": "https://www.dbreunig.com/2026/04/14/cybersecurity-is-proof-of-work-now.html",
-      "score": 86,
-      "comments": 43,
+      "score": 129,
+      "comments": 59,
       "author": "dbreunig",
       "tags": [],
       "date": "2026-04-14T18:08:14+00:00"
@@ -2790,8 +2856,8 @@
       "source": "hn",
       "title": "Golden eagles' return to English skies",
       "url": "https://www.bbc.co.uk/news/articles/cje4zlxqkqdo",
-      "score": 28,
-      "comments": 16,
+      "score": 32,
+      "comments": 19,
       "author": "techterrier",
       "tags": [],
       "date": "2026-04-12T11:24:18+00:00"
@@ -2832,10 +2898,10 @@
     {
       "id": "hn-47738081",
       "source": "hn",
-      "title": "Fix monitor that goes black, off or blinks due to static electricity in chair",
+      "title": "Fixing a monitor that goes black, off or blinks due to static electricity (2023)",
       "url": "https://aalonso.dev/blog/2023/how-to-fix-monitor-that-goes-black-off-due-to-static-electricity-in-chair/",
-      "score": 97,
-      "comments": 52,
+      "score": 103,
+      "comments": 55,
       "author": "cyclopeanutopia",
       "tags": [],
       "date": "2026-04-12T10:27:08+00:00"
@@ -4270,8 +4336,8 @@
       "source": "hn",
       "title": "Forcing an inversion of control on the SaaS stack",
       "url": "https://www.100x.bot/a/client-side-injection-inversion-of-control-saas",
-      "score": 62,
-      "comments": 39,
+      "score": 65,
+      "comments": 41,
       "author": "shardullavekar",
       "tags": [],
       "date": "2026-04-10T17:01:26+00:00"
@@ -5111,74 +5177,6 @@
       "date": "2026-04-10T09:33:47+09:00"
     },
     {
-      "id": "qiita-47450d44c5",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "【保存版】読書→即アウトプット→記事化までを完全自動化する方法（AI活用）",
-      "url": "https://qiita.com/Nao52/items/847105d460df6531da7d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "Nao52",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-04-10T09:33:30+09:00"
-    },
-    {
-      "id": "hn-47711148",
-      "source": "hn",
-      "title": "A soft robot has no problem moving with no motor and no gears",
-      "url": "https://engineering.princeton.edu/news/2026/04/08/soft-robot-has-no-problem-moving-no-motor-and-no-gears",
-      "score": 51,
-      "comments": 13,
-      "author": "hhs",
-      "tags": [],
-      "date": "2026-04-09T22:33:41+00:00"
-    },
-    {
-      "id": "hn-47710919",
-      "source": "hn",
-      "title": "How the Trivy supply chain attack harvested credentials from secrets managers",
-      "url": "https://vaultproof.dev/blog/trivy-supply-chain-attack",
-      "score": 7,
-      "comments": 1,
-      "author": "Rial_Labs",
-      "tags": [],
-      "date": "2026-04-09T22:10:53+00:00"
-    },
-    {
-      "id": "hn-47710907",
-      "source": "hn",
-      "title": "Many African families spend fortunes burying their dead",
-      "url": "https://davidoks.blog/p/how-funerals-keep-africa-poor",
-      "score": 175,
-      "comments": 160,
-      "author": "powera",
-      "tags": [],
-      "date": "2026-04-09T22:10:10+00:00"
-    },
-    {
-      "id": "hn-47710845",
-      "source": "hn",
-      "title": "BunnyCDN has been silently losing our production files for 15 months",
-      "url": "https://old.reddit.com/r/webdev/comments/1sglytg/bunnycdn_has_been_silently_losing_our_production/",
-      "score": 65,
-      "comments": 7,
-      "author": "speckx",
-      "tags": [],
-      "date": "2026-04-09T22:04:09+00:00"
-    },
-    {
-      "id": "hn-47710835",
-      "source": "hn",
-      "title": "Show HN: Rust based eBook library for Python, with MIT license",
-      "url": "https://github.com/arc53/fast-ebook",
-      "score": 17,
-      "comments": 1,
-      "author": "larry-the-agent",
-      "tags": [],
-      "date": "2026-04-09T22:03:15+00:00"
-    },
-    {
       "id": "ctf-3477546",
       "source": "project",
       "proj_category": "CTF",
@@ -5415,6 +5413,19 @@
       "date": "Tue, 14 Apr 2026 23:24:32 GMT"
     },
     {
+      "id": "zenn-b060596d67",
+      "source": "zennqiita",
+      "sub_source": "Zenn",
+      "title": "Cloudflare Workers Python を楽に書きたい！！",
+      "url": "https://zenn.dev/t3tra/articles/96019c46972bda",
+      "score": null,
+      "author": "t3tra",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Tue, 14 Apr 2026 21:47:45 GMT"
+    },
+    {
       "id": "zenn-6ed5de0b17",
       "source": "zennqiita",
       "sub_source": "Zenn",
@@ -5439,19 +5450,6 @@
         "Zenn"
       ],
       "date": "Tue, 14 Apr 2026 12:36:48 GMT"
-    },
-    {
-      "id": "zenn-c637201987",
-      "source": "zennqiita",
-      "sub_source": "Zenn",
-      "title": "技術書典20 初出展レポート",
-      "url": "https://zenn.dev/yuduru/articles/6aa49514d4cb9b",
-      "score": null,
-      "author": "ゆづる",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Tue, 14 Apr 2026 09:48:31 GMT"
     },
     {
       "id": "zenn-c6791af146",
@@ -5571,19 +5569,6 @@
       "date": "Tue, 14 Apr 2026 00:19:30 GMT"
     },
     {
-      "id": "zenn-8f87a42097",
-      "source": "zennqiita",
-      "sub_source": "Zenn",
-      "title": "ところで、Rustのtrait/型システムもチューリング完全らしいのでフィボナッチ数列求めてみた",
-      "url": "https://zenn.dev/saqula/articles/2361ce8de47570",
-      "score": null,
-      "author": "桜海 / Saqula",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Mon, 13 Apr 2026 15:24:43 GMT"
-    },
-    {
       "id": "zenn-7e689488f7",
       "source": "zennqiita",
       "sub_source": "Zenn",
@@ -5634,6 +5619,19 @@
         "Zenn"
       ],
       "date": "Mon, 13 Apr 2026 02:48:27 GMT"
+    },
+    {
+      "id": "zenn-2f645496f8",
+      "source": "zennqiita",
+      "sub_source": "Zenn",
+      "title": "Python開発環境をスッキリ整える：uv / Ruff / Taskfile",
+      "url": "https://zenn.dev/zaspa/articles/3cc9a01f0d69f6",
+      "score": null,
+      "author": "zaspa",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Sun, 12 Apr 2026 23:00:08 GMT"
     },
     {
       "id": "zenn-efa0be3773",

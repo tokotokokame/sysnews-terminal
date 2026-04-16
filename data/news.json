@@ -1,18 +1,62 @@
 {
-  "updated_at": "2026-04-16T21:10:39.515563+00:00",
+  "updated_at": "2026-04-16T22:06:50.079467+00:00",
   "count": 500,
   "items": [
+    {
+      "id": "hn-47800033",
+      "source": "hn",
+      "title": "Guy builds AI driven hardware hacker arm from duct tape, old cam and CNC machine",
+      "url": "https://github.com/gainsec/autoprober",
+      "score": 10,
+      "comments": 1,
+      "author": "scaredpelican",
+      "tags": [],
+      "date": "2026-04-16T21:56:37+00:00"
+    },
+    {
+      "id": "hn-47799573",
+      "source": "hn",
+      "title": "A Better R Programming Experience Thanks to Tree-sitter",
+      "url": "https://ropensci.org/blog/2026/04/02/tree-sitter-overview/",
+      "score": 21,
+      "comments": 0,
+      "author": "sebg",
+      "tags": [],
+      "date": "2026-04-16T21:14:02+00:00"
+    },
+    {
+      "id": "hn-47799322",
+      "source": "hn",
+      "title": "The Beginning of Scarcity in AI",
+      "url": "https://tomtunguz.com/ai-compute-crisis-2026/",
+      "score": 24,
+      "comments": 29,
+      "author": "gmays",
+      "tags": [],
+      "date": "2026-04-16T20:49:35+00:00"
+    },
     {
       "id": "hn-47798456",
       "source": "hn",
       "title": "European civil servants are being forced off WhatsApp",
       "url": "https://www.politico.eu/article/european-civil-servants-new-messaging-services/",
-      "score": 36,
-      "comments": 14,
+      "score": 60,
+      "comments": 35,
       "author": "aa_is_op",
       "tags": [],
       "date": "2026-04-16T19:40:14+00:00",
       "severity": "critical"
+    },
+    {
+      "id": "hn-47798345",
+      "source": "hn",
+      "title": "Official Clojure Documentary page with Video, Shownotes, and Links",
+      "url": "https://clojure.org/about/documentary",
+      "score": 26,
+      "comments": 2,
+      "author": "adityaathalye",
+      "tags": [],
+      "date": "2026-04-16T19:32:18+00:00"
     },
     {
       "id": "hn-47798258",
@@ -24,6 +68,17 @@
       "author": "rolph",
       "tags": [],
       "date": "2026-04-16T19:26:03+00:00"
+    },
+    {
+      "id": "hn-47798244",
+      "source": "hn",
+      "title": "GPT‑Rosalind for life sciences research",
+      "url": "https://openai.com/index/introducing-gpt-rosalind/",
+      "score": 24,
+      "comments": 2,
+      "author": "babelfish",
+      "tags": [],
+      "date": "2026-04-16T19:24:50+00:00"
     },
     {
       "id": "hn-47797911",
@@ -41,8 +96,8 @@
       "source": "hn",
       "title": "Android CLI: Build Android apps 3x faster using any agent",
       "url": "https://android-developers.googleblog.com/2026/04/build-android-apps-3x-faster-using-any-agent.html",
-      "score": 19,
-      "comments": 4,
+      "score": 45,
+      "comments": 12,
       "author": "ingve",
       "tags": [],
       "date": "2026-04-16T18:39:59+00:00"
@@ -52,8 +107,8 @@
       "source": "hn",
       "title": "Qwen3.6-35B-A3B on my laptop drew me a better pelican than Claude Opus 4.7",
       "url": "https://simonwillison.net/2026/Apr/16/qwen-beats-opus/",
-      "score": 156,
-      "comments": 33,
+      "score": 204,
+      "comments": 53,
       "author": "simonw",
       "tags": [],
       "date": "2026-04-16T17:37:20+00:00"
@@ -63,8 +118,8 @@
       "source": "hn",
       "title": "Codex for almost everything",
       "url": "https://openai.com/index/codex-for-almost-everything/",
-      "score": 488,
-      "comments": 253,
+      "score": 561,
+      "comments": 302,
       "author": "mikeevans",
       "tags": [],
       "date": "2026-04-16T17:12:19+00:00"
@@ -81,12 +136,23 @@
       "date": "2026-04-16T16:53:32+00:00"
     },
     {
+      "id": "hn-47795468",
+      "source": "hn",
+      "title": "Show HN: Marky – A lightweight Markdown viewer for agentic coding",
+      "url": "https://github.com/GRVYDEV/marky",
+      "score": 7,
+      "comments": 1,
+      "author": "GRVYDEV",
+      "tags": [],
+      "date": "2026-04-16T16:08:05+00:00"
+    },
+    {
       "id": "hn-47794514",
       "source": "hn",
       "title": "Launch HN: Kampala (YC W26) – Reverse-Engineer Apps into APIs",
       "url": "https://www.zatanna.ai/kampala",
-      "score": 56,
-      "comments": 55,
+      "score": 59,
+      "comments": 57,
       "author": "alexblackwell_",
       "tags": [],
       "date": "2026-04-16T15:19:54+00:00"
@@ -164,8 +230,8 @@
       "source": "hn",
       "title": "Claude Opus 4.7",
       "url": "https://www.anthropic.com/news/claude-opus-4-7",
-      "score": 1197,
-      "comments": 894,
+      "score": 1274,
+      "comments": 930,
       "author": "meetpateltech",
       "tags": [],
       "date": "2026-04-16T14:23:50+00:00"
@@ -175,8 +241,8 @@
       "source": "hn",
       "title": "Qwen3.6-35B-A3B: Agentic coding power, now open to all",
       "url": "https://qwen.ai/blog?id=qwen3.6-35b-a3b",
-      "score": 765,
-      "comments": 357,
+      "score": 806,
+      "comments": 376,
       "author": "cmitsakis",
       "tags": [],
       "date": "2026-04-16T13:36:27+00:00"
@@ -186,8 +252,8 @@
       "source": "hn",
       "title": "The future of everything is lies, I guess: Where do we go from here?",
       "url": "https://aphyr.com/posts/420-the-future-of-everything-is-lies-i-guess-where-do-we-go-from-here",
-      "score": 416,
-      "comments": 431,
+      "score": 440,
+      "comments": 467,
       "author": "aphyr",
       "tags": [],
       "date": "2026-04-16T13:32:13+00:00"
@@ -197,8 +263,8 @@
       "source": "hn",
       "title": "Cloudflare Email Service",
       "url": "https://blog.cloudflare.com/email-for-agents/",
-      "score": 360,
-      "comments": 162,
+      "score": 374,
+      "comments": 172,
       "author": "jilles",
       "tags": [],
       "date": "2026-04-16T13:21:53+00:00"
@@ -208,8 +274,8 @@
       "source": "hn",
       "title": "Cloudflare's AI Platform: an inference layer designed for agents",
       "url": "https://blog.cloudflare.com/ai-platform/",
-      "score": 207,
-      "comments": 48,
+      "score": 215,
+      "comments": 53,
       "author": "nikitoci",
       "tags": [],
       "date": "2026-04-16T13:17:37+00:00"
@@ -219,8 +285,8 @@
       "source": "hn",
       "title": "Show HN: MacMind – A transformer neural network in HyperCard on a 1989 Macintosh",
       "url": "https://github.com/SeanFDZ/macmind",
-      "score": 97,
-      "comments": 28,
+      "score": 102,
+      "comments": 29,
       "author": "hammer32",
       "tags": [],
       "date": "2026-04-16T13:16:29+00:00"
@@ -230,7 +296,7 @@
       "source": "hn",
       "title": "Artifacts: Versioned storage that speaks Git",
       "url": "https://blog.cloudflare.com/artifacts-git-for-agents-beta/",
-      "score": 112,
+      "score": 122,
       "comments": 9,
       "author": "jgrahamc",
       "tags": [],
@@ -311,8 +377,8 @@
       "source": "hn",
       "title": "Codex Hacked a Samsung TV",
       "url": "https://blog.calif.io/p/codex-hacked-a-samsung-tv",
-      "score": 174,
-      "comments": 102,
+      "score": 186,
+      "comments": 106,
       "author": "campuscodi",
       "tags": [],
       "date": "2026-04-16T10:44:45+00:00"
@@ -1079,8 +1145,8 @@
       "source": "hn",
       "title": "IPv6 traffic crosses the 50% mark",
       "url": "https://www.google.com/intl/en/ipv6/statistics.html?yzh=28197",
-      "score": 742,
-      "comments": 526,
+      "score": 755,
+      "comments": 542,
       "author": "Aaronmacaron",
       "tags": [],
       "date": "2026-04-15T11:59:49+00:00"
@@ -2294,7 +2360,7 @@
       "source": "hn",
       "title": "Show HN: CodeBurn – Analyze Claude Code token usage by task",
       "url": "https://github.com/AgentSeal/codeburn",
-      "score": 53,
+      "score": 63,
       "comments": 13,
       "author": "agentseal",
       "tags": [],
@@ -2506,8 +2572,8 @@
       "source": "hn",
       "title": "Circuit Transformations, Loop Fusion, and Inductive Proof",
       "url": "https://natetyoung.github.io/carry_save_fusion/",
-      "score": 7,
-      "comments": 0,
+      "score": 13,
+      "comments": 1,
       "author": "matt_d",
       "tags": [],
       "date": "2026-04-13T16:23:23+00:00"
@@ -2848,8 +2914,8 @@
       "source": "hn",
       "title": "Six Characters",
       "url": "https://ajitem.com/blog/iron-core-part-2-six-characters/",
-      "score": 69,
-      "comments": 12,
+      "score": 76,
+      "comments": 13,
       "author": "Airplanepasta",
       "tags": [],
       "date": "2026-04-13T09:24:44+00:00"
@@ -2971,6 +3037,17 @@
       "author": "luu",
       "tags": [],
       "date": "2026-04-13T04:26:15+00:00"
+    },
+    {
+      "id": "hn-47747407",
+      "source": "hn",
+      "title": "IBM AP-101 general-purpose computer [pdf]",
+      "url": "https://gandalfddi.z19.web.core.windows.net/Shuttle/IBM%20AP-101S%20General%20Purpose%20Computer%20With%20Shuttle%20Instruction%20Set.pdf",
+      "score": 5,
+      "comments": 0,
+      "author": "__patchbit__",
+      "tags": [],
+      "date": "2026-04-13T03:56:41+00:00"
     },
     {
       "id": "hn-47747330",
@@ -5095,85 +5172,6 @@
       "author": "zdw",
       "tags": [],
       "date": "2026-04-10T21:13:12+00:00"
-    },
-    {
-      "id": "hn-47723243",
-      "source": "hn",
-      "title": "Combining spicy foods with mint boosts anti-inflammatory effects 100x or more",
-      "url": "https://scitechdaily.com/this-spice-combo-could-slash-inflammation-hundreds-of-times-more-effectively/",
-      "score": 50,
-      "comments": 26,
-      "author": "joeax",
-      "tags": [],
-      "date": "2026-04-10T20:24:56+00:00"
-    },
-    {
-      "id": "hn-47722731",
-      "source": "hn",
-      "title": "PCBWay sponsorship: full-size SD module for Arduino projects",
-      "url": "https://www.colino.net/wordpress/archives/2026/04/10/pcbway-sponsorship-full-size-sd-module-for-arduino-projects/",
-      "score": 17,
-      "comments": 10,
-      "author": "ibobev",
-      "tags": [],
-      "date": "2026-04-10T19:41:45+00:00"
-    },
-    {
-      "id": "hn-47722629",
-      "source": "hn",
-      "title": "Franklin's bad ads for Apple II clones and the beloved impersonator they depict",
-      "url": "https://buttondown.com/suchbadtechads/archive/franklin-ace-1000/",
-      "score": 108,
-      "comments": 62,
-      "author": "rfarley04",
-      "tags": [],
-      "date": "2026-04-10T19:33:08+00:00"
-    },
-    {
-      "id": "hn-47722566",
-      "source": "hn",
-      "title": "DOJ Wants to Scrap Watergate-Era Rule That Makes Presidential Records Public",
-      "url": "https://theintercept.com/2026/04/09/trump-documents-library-presidential-records-act/",
-      "score": 36,
-      "comments": 5,
-      "author": "tlhunter",
-      "tags": [],
-      "date": "2026-04-10T19:28:09+00:00"
-    },
-    {
-      "id": "hn-47722562",
-      "source": "hn",
-      "title": "Nowhere is safe",
-      "url": "https://steveblank.com/2026/04/09/nowhere-is-safe/",
-      "score": 155,
-      "comments": 192,
-      "author": "sblank",
-      "tags": [],
-      "date": "2026-04-10T19:27:58+00:00"
-    },
-    {
-      "id": "qiita-839dd4895d",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "企業向けセルフホストツールおすすめ：データを完全に管理できる20以上のツール",
-      "url": "https://qiita.com/TianqiYuan/items/a61e52553064446df7db?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "TianqiYuan",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-04-11T04:11:15+09:00"
-    },
-    {
-      "id": "hn-47722333",
-      "source": "hn",
-      "title": "Chimpanzees in Uganda locked in eight-year 'civil war', say researchers",
-      "url": "https://www.bbc.com/news/articles/cr71lkzv49po",
-      "score": 404,
-      "comments": 243,
-      "author": "neversaydie",
-      "tags": [],
-      "date": "2026-04-10T19:10:22+00:00"
     },
     {
       "id": "ctf-3477546",

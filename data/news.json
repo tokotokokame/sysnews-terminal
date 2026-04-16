@@ -1,7 +1,30 @@
 {
-  "updated_at": "2026-04-16T19:14:27.522453+00:00",
+  "updated_at": "2026-04-16T20:09:53.852298+00:00",
   "count": 500,
   "items": [
+    {
+      "id": "hn-47798456",
+      "source": "hn",
+      "title": "European civil servants are being forced off WhatsApp",
+      "url": "https://www.politico.eu/article/european-civil-servants-new-messaging-services/",
+      "score": 11,
+      "comments": 1,
+      "author": "aa_is_op",
+      "tags": [],
+      "date": "2026-04-16T19:40:14+00:00",
+      "severity": "critical"
+    },
+    {
+      "id": "hn-47798258",
+      "source": "hn",
+      "title": "German Dog Commands",
+      "url": "https://www.fluentu.com/blog/german/german-dog-commands/",
+      "score": 10,
+      "comments": 7,
+      "author": "rolph",
+      "tags": [],
+      "date": "2026-04-16T19:26:03+00:00"
+    },
     {
       "id": "hn-47797911",
       "source": "hn",
@@ -18,8 +41,8 @@
       "source": "hn",
       "title": "Qwen3.6-35B-A3B on my laptop drew me a better pelican than Claude Opus 4.7",
       "url": "https://simonwillison.net/2026/Apr/16/qwen-beats-opus/",
-      "score": 35,
-      "comments": 3,
+      "score": 85,
+      "comments": 18,
       "author": "simonw",
       "tags": [],
       "date": "2026-04-16T17:37:20+00:00"
@@ -27,10 +50,10 @@
     {
       "id": "hn-47796469",
       "source": "hn",
-      "title": "Codex for Almost Everything",
+      "title": "Codex for almost everything",
       "url": "https://openai.com/index/codex-for-almost-everything/",
-      "score": 290,
-      "comments": 139,
+      "score": 392,
+      "comments": 199,
       "author": "mikeevans",
       "tags": [],
       "date": "2026-04-16T17:12:19+00:00"
@@ -40,8 +63,8 @@
       "source": "hn",
       "title": "Japan implements language proficiency requirements for certain visa applicants",
       "url": "https://www.japantimes.co.jp/news/2026/04/15/japan/society/jlpt-visa-requirement/",
-      "score": 54,
-      "comments": 29,
+      "score": 79,
+      "comments": 41,
       "author": "mikhael",
       "tags": [],
       "date": "2026-04-16T16:53:32+00:00"
@@ -51,8 +74,8 @@
       "source": "hn",
       "title": "Launch HN: Kampala (YC W26) – Reverse-Engineer Apps into APIs",
       "url": "https://www.zatanna.ai/kampala",
-      "score": 38,
-      "comments": 37,
+      "score": 46,
+      "comments": 47,
       "author": "alexblackwell_",
       "tags": [],
       "date": "2026-04-16T15:19:54+00:00"
@@ -75,8 +98,8 @@
       "source": "hn",
       "title": "We gave an AI a 3 year retail lease and asked it to make a profit",
       "url": "https://andonlabs.com/blog/andon-market-launch",
-      "score": 136,
-      "comments": 194,
+      "score": 154,
+      "comments": 224,
       "author": "lukaspetersson",
       "tags": [],
       "date": "2026-04-16T15:13:13+00:00"
@@ -130,8 +153,8 @@
       "source": "hn",
       "title": "Claude Opus 4.7",
       "url": "https://www.anthropic.com/news/claude-opus-4-7",
-      "score": 1011,
-      "comments": 787,
+      "score": 1113,
+      "comments": 834,
       "author": "meetpateltech",
       "tags": [],
       "date": "2026-04-16T14:23:50+00:00"
@@ -141,8 +164,8 @@
       "source": "hn",
       "title": "Qwen3.6-35B-A3B: Agentic coding power, now open to all",
       "url": "https://qwen.ai/blog?id=qwen3.6-35b-a3b",
-      "score": 652,
-      "comments": 313,
+      "score": 704,
+      "comments": 337,
       "author": "cmitsakis",
       "tags": [],
       "date": "2026-04-16T13:36:27+00:00"
@@ -152,8 +175,8 @@
       "source": "hn",
       "title": "The future of everything is lies, I guess: Where do we go from here?",
       "url": "https://aphyr.com/posts/420-the-future-of-everything-is-lies-i-guess-where-do-we-go-from-here",
-      "score": 352,
-      "comments": 333,
+      "score": 382,
+      "comments": 383,
       "author": "aphyr",
       "tags": [],
       "date": "2026-04-16T13:32:13+00:00"
@@ -163,8 +186,8 @@
       "source": "hn",
       "title": "Cloudflare Email Service",
       "url": "https://blog.cloudflare.com/email-for-agents/",
-      "score": 331,
-      "comments": 142,
+      "score": 344,
+      "comments": 154,
       "author": "jilles",
       "tags": [],
       "date": "2026-04-16T13:21:53+00:00"
@@ -174,8 +197,8 @@
       "source": "hn",
       "title": "Cloudflare's AI Platform: an inference layer designed for agents",
       "url": "https://blog.cloudflare.com/ai-platform/",
-      "score": 165,
-      "comments": 41,
+      "score": 185,
+      "comments": 44,
       "author": "nikitoci",
       "tags": [],
       "date": "2026-04-16T13:17:37+00:00"
@@ -185,8 +208,8 @@
       "source": "hn",
       "title": "Show HN: MacMind – A transformer neural network in HyperCard on a 1989 Macintosh",
       "url": "https://github.com/SeanFDZ/macmind",
-      "score": 81,
-      "comments": 21,
+      "score": 90,
+      "comments": 26,
       "author": "hammer32",
       "tags": [],
       "date": "2026-04-16T13:16:29+00:00"
@@ -196,8 +219,8 @@
       "source": "hn",
       "title": "Artifacts: Versioned storage that speaks Git",
       "url": "https://blog.cloudflare.com/artifacts-git-for-agents-beta/",
-      "score": 81,
-      "comments": 5,
+      "score": 95,
+      "comments": 6,
       "author": "jgrahamc",
       "tags": [],
       "date": "2026-04-16T13:02:03+00:00"
@@ -253,8 +276,8 @@
       "source": "hn",
       "title": "AI cybersecurity is not proof of work",
       "url": "https://antirez.com/news/163",
-      "score": 160,
-      "comments": 71,
+      "score": 164,
+      "comments": 73,
       "author": "surprisetalk",
       "tags": [],
       "date": "2026-04-16T10:48:00+00:00"
@@ -264,8 +287,8 @@
       "source": "hn",
       "title": "Codex Hacked a Samsung TV",
       "url": "https://blog.calif.io/p/codex-hacked-a-samsung-tv",
-      "score": 169,
-      "comments": 97,
+      "score": 174,
+      "comments": 102,
       "author": "campuscodi",
       "tags": [],
       "date": "2026-04-16T10:44:45+00:00"
@@ -354,8 +377,8 @@
       "source": "hn",
       "title": "Darkbloom – Private inference on idle Macs",
       "url": "https://darkbloom.dev",
-      "score": 436,
-      "comments": 212,
+      "score": 447,
+      "comments": 220,
       "author": "twapi",
       "tags": [],
       "date": "2026-04-16T04:06:39+00:00"
@@ -377,8 +400,8 @@
       "source": "hn",
       "title": "FSF trying to contact Google about spammer sending 10k+ mails from Gmail account",
       "url": "https://daedal.io/@thomzane/116410863009847575",
-      "score": 334,
-      "comments": 195,
+      "score": 344,
+      "comments": 196,
       "author": "pabs3",
       "tags": [],
       "date": "2026-04-16T03:44:38+00:00"
@@ -941,8 +964,8 @@
       "source": "hn",
       "title": "IPv6 traffic crosses the 50% mark",
       "url": "https://www.google.com/intl/en/ipv6/statistics.html?yzh=28197",
-      "score": 708,
-      "comments": 488,
+      "score": 722,
+      "comments": 514,
       "author": "Aaronmacaron",
       "tags": [],
       "date": "2026-04-15T11:59:49+00:00"
@@ -2143,8 +2166,8 @@
       "source": "hn",
       "title": "Show HN: CodeBurn – Analyze Claude Code token usage by task",
       "url": "https://github.com/AgentSeal/codeburn",
-      "score": 38,
-      "comments": 11,
+      "score": 47,
+      "comments": 13,
       "author": "agentseal",
       "tags": [],
       "date": "2026-04-13T22:57:05+00:00"
@@ -2686,8 +2709,8 @@
       "source": "hn",
       "title": "Six Characters",
       "url": "https://ajitem.com/blog/iron-core-part-2-six-characters/",
-      "score": 51,
-      "comments": 7,
+      "score": 63,
+      "comments": 9,
       "author": "Airplanepasta",
       "tags": [],
       "date": "2026-04-13T09:24:44+00:00"
@@ -2793,8 +2816,8 @@
       "source": "hn",
       "title": "The paper computer",
       "url": "https://jsomers.net/blog/the-paper-computer",
-      "score": 247,
-      "comments": 74,
+      "score": 254,
+      "comments": 81,
       "author": "jsomers",
       "tags": [],
       "date": "2026-04-13T04:57:48+00:00"
@@ -3538,8 +3561,8 @@
       "source": "hn",
       "title": "Put your SSH keys in your TPM chip",
       "url": "https://raymii.org/s/tutorials/Put_your_SSH_keys_in_your_TPM_chip.html",
-      "score": 10,
-      "comments": 0,
+      "score": 62,
+      "comments": 61,
       "author": "type0",
       "tags": [],
       "date": "2026-04-12T11:38:46+00:00"
@@ -3819,6 +3842,17 @@
         "Qiita"
       ],
       "date": "2026-04-12T14:36:58+09:00"
+    },
+    {
+      "id": "hn-47736331",
+      "source": "hn",
+      "title": "TigerBeetle: A Trillion Transactions [video]",
+      "url": "https://www.youtube.com/watch?v=y2_BqkKTbD8",
+      "score": 24,
+      "comments": 7,
+      "author": "adityaathalye",
+      "tags": [],
+      "date": "2026-04-12T05:14:52+00:00"
     },
     {
       "id": "hn-47736308",
@@ -4173,8 +4207,8 @@
       "source": "hn",
       "title": "PCI Express over Fiber [video]",
       "url": "https://www.youtube.com/watch?v=XaDa9bBucEI",
-      "score": 35,
-      "comments": 4,
+      "score": 64,
+      "comments": 15,
       "author": "mmastrac",
       "tags": [],
       "date": "2026-04-11T18:54:58+00:00"
@@ -5122,39 +5156,6 @@
       "author": "bookofjoe",
       "tags": [],
       "date": "2026-04-10T17:02:35+00:00"
-    },
-    {
-      "id": "hn-47720926",
-      "source": "hn",
-      "title": "Forcing an inversion of control on the SaaS stack",
-      "url": "https://www.100x.bot/a/client-side-injection-inversion-of-control-saas",
-      "score": 65,
-      "comments": 41,
-      "author": "shardullavekar",
-      "tags": [],
-      "date": "2026-04-10T17:01:26+00:00"
-    },
-    {
-      "id": "hn-47720918",
-      "source": "hn",
-      "title": "Bild AI (YC W25) Is Hiring a Founding Product Engineer",
-      "url": "https://www.ycombinator.com/companies/bild-ai/jobs/dDMaxVN-founding-product-engineer",
-      "score": 1,
-      "comments": 0,
-      "author": "rooppal",
-      "tags": [],
-      "date": "2026-04-10T17:01:07+00:00"
-    },
-    {
-      "id": "hn-47720827",
-      "source": "hn",
-      "title": "A compelling title that is cryptic enough to get you to take action on it",
-      "url": "https://ericwbailey.website/published/a-compelling-title-that-is-cryptic-enough-to-get-you-to-take-action-on-it/",
-      "score": 183,
-      "comments": 104,
-      "author": "mooreds",
-      "tags": [],
-      "date": "2026-04-10T16:53:55+00:00"
     },
     {
       "id": "ctf-3477546",

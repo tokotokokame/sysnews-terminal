@@ -1,14 +1,38 @@
 {
-  "updated_at": "2026-04-16T14:55:45.847760+00:00",
+  "updated_at": "2026-04-16T16:23:11.840201+00:00",
   "count": 500,
   "items": [
+    {
+      "id": "hn-47794514",
+      "source": "hn",
+      "title": "Launch HN: Kampala (YC W26) – Reverse-Engineer Apps into APIs",
+      "url": "https://www.zatanna.ai/kampala",
+      "score": 19,
+      "comments": 12,
+      "author": "alexblackwell_",
+      "tags": [],
+      "date": "2026-04-16T15:19:54+00:00"
+    },
+    {
+      "id": "qiita-6f37ab28b9",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "新人エンジニアが言いがちな「明日中に終わります」が危ない理由",
+      "url": "https://qiita.com/hitomin_poke/items/b2bb7163d278ee8cae42?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "hitomin_poke",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-04-17T00:15:21+09:00"
+    },
     {
       "id": "hn-47793926",
       "source": "hn",
       "title": "Laravel raised money and now injects ads directly into your agent",
       "url": "https://techstackups.com/articles/laravel-raised-money-and-now-injects-ads-directly-into-your-agent/",
-      "score": 2,
-      "comments": 0,
+      "score": 104,
+      "comments": 59,
       "author": "mooreds",
       "tags": [],
       "date": "2026-04-16T14:51:13+00:00"
@@ -18,8 +42,8 @@
       "source": "hn",
       "title": "Claude Opus 4.7 Model Card",
       "url": "https://anthropic.com/claude-opus-4-7-system-card",
-      "score": 26,
-      "comments": 6,
+      "score": 75,
+      "comments": 36,
       "author": "adocomplete",
       "tags": [],
       "date": "2026-04-16T14:32:24+00:00"
@@ -47,12 +71,23 @@
       "date": "2026-04-16T14:29:09+00:00"
     },
     {
+      "id": "hn-47793411",
+      "source": "hn",
+      "title": "Claude Opus 4.7",
+      "url": "https://www.anthropic.com/news/claude-opus-4-7",
+      "score": 551,
+      "comments": 444,
+      "author": "meetpateltech",
+      "tags": [],
+      "date": "2026-04-16T14:23:50+00:00"
+    },
+    {
       "id": "hn-47792764",
       "source": "hn",
       "title": "Qwen3.6-35B-A3B: Agentic Coding Power, Now Open to All",
       "url": "https://qwen.ai/blog?id=qwen3.6-35b-a3b",
-      "score": 242,
-      "comments": 117,
+      "score": 409,
+      "comments": 209,
       "author": "cmitsakis",
       "tags": [],
       "date": "2026-04-16T13:36:27+00:00"
@@ -60,10 +95,10 @@
     {
       "id": "hn-47792718",
       "source": "hn",
-      "title": "The Future of Everything Is Lies, I Guess: Where Do We Go from Here?",
+      "title": "The future of everything is lies, I guess: Where do we go from here?",
       "url": "https://aphyr.com/posts/420-the-future-of-everything-is-lies-i-guess-where-do-we-go-from-here",
-      "score": 129,
-      "comments": 76,
+      "score": 205,
+      "comments": 195,
       "author": "aphyr",
       "tags": [],
       "date": "2026-04-16T13:32:13+00:00"
@@ -71,10 +106,10 @@
     {
       "id": "hn-47792593",
       "source": "hn",
-      "title": "Cloudflare Email Service: now in public beta. Ready for your agents",
+      "title": "Cloudflare Email Service",
       "url": "https://blog.cloudflare.com/email-for-agents/",
-      "score": 59,
-      "comments": 28,
+      "score": 207,
+      "comments": 91,
       "author": "jilles",
       "tags": [],
       "date": "2026-04-16T13:21:53+00:00"
@@ -84,8 +119,8 @@
       "source": "hn",
       "title": "Cloudflare's AI Platform: an inference layer designed for agents",
       "url": "https://blog.cloudflare.com/ai-platform/",
-      "score": 52,
-      "comments": 16,
+      "score": 90,
+      "comments": 22,
       "author": "nikitoci",
       "tags": [],
       "date": "2026-04-16T13:17:37+00:00"
@@ -95,8 +130,8 @@
       "source": "hn",
       "title": "Show HN: MacMind – A transformer neural network in HyperCard on a 1989 Macintosh",
       "url": "https://github.com/SeanFDZ/macmind",
-      "score": 12,
-      "comments": 1,
+      "score": 43,
+      "comments": 5,
       "author": "hammer32",
       "tags": [],
       "date": "2026-04-16T13:16:29+00:00"
@@ -106,8 +141,8 @@
       "source": "hn",
       "title": "Mozilla Thunderbolt",
       "url": "https://www.thunderbolt.io/",
-      "score": 61,
-      "comments": 53,
+      "score": 175,
+      "comments": 149,
       "author": "dabinat",
       "tags": [],
       "date": "2026-04-16T13:01:36+00:00"
@@ -117,8 +152,8 @@
       "source": "hn",
       "title": "€54k spike in 13h from unrestricted Firebase browser key accessing Gemini APIs",
       "url": "https://discuss.ai.google.dev/t/unexpected-54k-billing-spike-in-13-hours-firebase-browser-key-without-api-restrictions-used-for-gemini-requests/140262",
-      "score": 292,
-      "comments": 197,
+      "score": 325,
+      "comments": 233,
       "author": "zanbezi",
       "tags": [],
       "date": "2026-04-16T12:13:30+00:00"
@@ -141,8 +176,8 @@
       "source": "hn",
       "title": "Ancient DNA reveals pervasive directional selection across West Eurasia [pdf]",
       "url": "https://reich.hms.harvard.edu/sites/reich.hms.harvard.edu/files/inline-files/2026_Akbari_Nature_selection_0.pdf",
-      "score": 44,
-      "comments": 23,
+      "score": 48,
+      "comments": 33,
       "author": "Metacelsus",
       "tags": [],
       "date": "2026-04-16T10:57:13+00:00"
@@ -152,8 +187,8 @@
       "source": "hn",
       "title": "AI cybersecurity is not proof of work",
       "url": "https://antirez.com/news/163",
-      "score": 82,
-      "comments": 37,
+      "score": 124,
+      "comments": 57,
       "author": "surprisetalk",
       "tags": [],
       "date": "2026-04-16T10:48:00+00:00"
@@ -163,8 +198,8 @@
       "source": "hn",
       "title": "Codex Hacked a Samsung TV",
       "url": "https://blog.calif.io/p/codex-hacked-a-samsung-tv",
-      "score": 109,
-      "comments": 75,
+      "score": 137,
+      "comments": 80,
       "author": "campuscodi",
       "tags": [],
       "date": "2026-04-16T10:44:45+00:00"
@@ -253,8 +288,8 @@
       "source": "hn",
       "title": "Darkbloom – Private inference on idle Macs",
       "url": "https://darkbloom.dev",
-      "score": 377,
-      "comments": 184,
+      "score": 399,
+      "comments": 195,
       "author": "twapi",
       "tags": [],
       "date": "2026-04-16T04:06:39+00:00"
@@ -264,8 +299,8 @@
       "source": "hn",
       "title": "RedSun: System user access on Win 11/10 and Server with the April 2026 Update",
       "url": "https://github.com/Nightmare-Eclipse/RedSun",
-      "score": 131,
-      "comments": 32,
+      "score": 140,
+      "comments": 33,
       "author": "airhangerf15",
       "tags": [],
       "date": "2026-04-16T03:54:21+00:00",
@@ -276,8 +311,8 @@
       "source": "hn",
       "title": "FSF trying to contact Google about spammer sending 10k+ mails from Gmail account",
       "url": "https://daedal.io/@thomzane/116410863009847575",
-      "score": 266,
-      "comments": 168,
+      "score": 289,
+      "comments": 177,
       "author": "pabs3",
       "tags": [],
       "date": "2026-04-16T03:44:38+00:00"
@@ -287,8 +322,8 @@
       "source": "hn",
       "title": "North American English Dialects",
       "url": "https://aschmann.net/AmEng/",
-      "score": 53,
-      "comments": 22,
+      "score": 108,
+      "comments": 60,
       "author": "skogstokig",
       "tags": [],
       "date": "2026-04-16T03:38:45+00:00"
@@ -840,8 +875,8 @@
       "source": "hn",
       "title": "IPv6 traffic crosses the 50% mark",
       "url": "https://www.google.com/intl/en/ipv6/statistics.html?yzh=28197",
-      "score": 552,
-      "comments": 354,
+      "score": 619,
+      "comments": 419,
       "author": "Aaronmacaron",
       "tags": [],
       "date": "2026-04-15T11:59:49+00:00"
@@ -1127,19 +1162,6 @@
       "date": "2026-04-15T04:45:37+00:00"
     },
     {
-      "id": "qiita-6f37ab28b9",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "【時間感覚論 #1】新人エンジニアの「明日中に終わります」って、結局いつやねん！！問題",
-      "url": "https://qiita.com/hitomin_poke/items/b2bb7163d278ee8cae42?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "hitomin_poke",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-04-15T12:49:58+09:00"
-    },
-    {
       "id": "qiita-a60620587f",
       "source": "zennqiita",
       "sub_source": "Qiita",
@@ -1386,8 +1408,8 @@
       "source": "hn",
       "title": "Cybersecurity looks like proof of work now",
       "url": "https://www.dbreunig.com/2026/04/14/cybersecurity-is-proof-of-work-now.html",
-      "score": 501,
-      "comments": 182,
+      "score": 512,
+      "comments": 189,
       "author": "dbreunig",
       "tags": [],
       "date": "2026-04-14T18:08:14+00:00"
@@ -1643,8 +1665,8 @@
       "source": "hn",
       "title": "PHP 8.6 Closure Optimizations",
       "url": "https://wiki.php.net/rfc/closure-optimizations",
-      "score": 36,
-      "comments": 5,
+      "score": 51,
+      "comments": 6,
       "author": "moebrowne",
       "tags": [],
       "date": "2026-04-14T10:59:33+00:00"
@@ -2583,6 +2605,17 @@
       "date": "2026-04-13T09:26:56+00:00"
     },
     {
+      "id": "hn-47749659",
+      "source": "hn",
+      "title": "Six Characters",
+      "url": "https://ajitem.com/blog/iron-core-part-2-six-characters/",
+      "score": 17,
+      "comments": 0,
+      "author": "Airplanepasta",
+      "tags": [],
+      "date": "2026-04-13T09:24:44+00:00"
+    },
+    {
       "id": "qiita-9e8ce488e4",
       "source": "zennqiita",
       "sub_source": "Qiita",
@@ -3424,6 +3457,17 @@
       "date": "2026-04-12T11:49:33+00:00"
     },
     {
+      "id": "hn-47738520",
+      "source": "hn",
+      "title": "Put your SSH keys in your TPM chip",
+      "url": "https://raymii.org/s/tutorials/Put_your_SSH_keys_in_your_TPM_chip.html",
+      "score": 10,
+      "comments": 0,
+      "author": "type0",
+      "tags": [],
+      "date": "2026-04-12T11:38:46+00:00"
+    },
+    {
       "id": "hn-47738514",
       "source": "hn",
       "title": "Internet outage in Iran reaches 1,008 hours",
@@ -3562,9 +3606,9 @@
       "id": "hn-47737499",
       "source": "hn",
       "title": "Modern Microprocessors – A 90-Minute Guide",
-      "url": "https://www.lighterra.com/articles/",
-      "score": 95,
-      "comments": 11,
+      "url": "https://www.lighterra.com/papers/modernmicroprocessors/",
+      "score": 119,
+      "comments": 15,
       "author": "Flex247A",
       "tags": [],
       "date": "2026-04-12T09:05:29+00:00"
@@ -5113,50 +5157,6 @@
         "Qiita"
       ],
       "date": "2026-04-11T00:49:30+09:00"
-    },
-    {
-      "id": "hn-47719740",
-      "source": "hn",
-      "title": "1D Chess",
-      "url": "https://rowan441.github.io/1dchess/chess.html",
-      "score": 941,
-      "comments": 154,
-      "author": "burnt-resistor",
-      "tags": [],
-      "date": "2026-04-10T15:37:28+00:00"
-    },
-    {
-      "id": "hn-47719602",
-      "source": "hn",
-      "title": "You can't trust macOS Privacy and Security settings",
-      "url": "https://eclecticlight.co/2026/04/10/why-you-cant-trust-privacy-security/",
-      "score": 409,
-      "comments": 143,
-      "author": "zdw",
-      "tags": [],
-      "date": "2026-04-10T15:28:24+00:00"
-    },
-    {
-      "id": "hn-47719490",
-      "source": "hn",
-      "title": "I gave every train in New York an instrument",
-      "url": "https://www.trainjazz.com/",
-      "score": 367,
-      "comments": 70,
-      "author": "joshuawolk",
-      "tags": [],
-      "date": "2026-04-10T15:21:07+00:00"
-    },
-    {
-      "id": "hn-47719486",
-      "source": "hn",
-      "title": "France to ditch Windows for Linux to reduce reliance on US tech",
-      "url": "https://techcrunch.com/2026/04/10/france-to-ditch-windows-for-linux-to-reduce-reliance-on-us-tech/",
-      "score": 308,
-      "comments": 132,
-      "author": "Teever",
-      "tags": [],
-      "date": "2026-04-10T15:20:48+00:00"
     },
     {
       "id": "ctf-3477546",

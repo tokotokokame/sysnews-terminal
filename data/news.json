@@ -1,14 +1,81 @@
 {
-  "updated_at": "2026-04-17T14:40:52.654639+00:00",
+  "updated_at": "2026-04-17T16:01:34.954155+00:00",
   "count": 500,
   "items": [
+    {
+      "id": "hn-47807006",
+      "source": "hn",
+      "title": "Claude Opus 4.7 costs 20–30% more per session",
+      "url": "https://www.claudecodecamp.com/p/i-measured-claude-4-7-s-new-tokenizer-here-s-what-it-costs-you",
+      "score": 6,
+      "comments": 2,
+      "author": "aray07",
+      "tags": [],
+      "date": "2026-04-17T15:29:36+00:00"
+    },
+    {
+      "id": "hn-47806777",
+      "source": "hn",
+      "title": "NIST gives up enriching most CVEs",
+      "url": "https://risky.biz/risky-bulletin-nist-gives-up-enriching-most-cves/",
+      "score": 21,
+      "comments": 2,
+      "author": "mooreds",
+      "tags": [],
+      "date": "2026-04-17T15:09:14+00:00",
+      "severity": "high"
+    },
+    {
+      "id": "hn-47806725",
+      "source": "hn",
+      "title": "Claude Design",
+      "url": "https://www.anthropic.com/news/claude-design-anthropic-labs",
+      "score": 169,
+      "comments": 91,
+      "author": "meetpateltech",
+      "tags": [],
+      "date": "2026-04-17T15:04:09+00:00"
+    },
+    {
+      "id": "hn-47806484",
+      "source": "hn",
+      "title": "Middle schooler finds coin from Troy in Berlin",
+      "url": "https://www.thehistoryblog.com/archives/75848",
+      "score": 50,
+      "comments": 6,
+      "author": "speckx",
+      "tags": [],
+      "date": "2026-04-17T14:41:49+00:00"
+    },
+    {
+      "id": "hn-47806440",
+      "source": "hn",
+      "title": "Iceye Open Data",
+      "url": "https://www.iceye.com/open-data-initiative",
+      "score": 26,
+      "comments": 0,
+      "author": "marklit",
+      "tags": [],
+      "date": "2026-04-17T14:37:16+00:00"
+    },
+    {
+      "id": "hn-47806379",
+      "source": "hn",
+      "title": "IETF draft-meow-mrrp-00",
+      "url": "https://www.ietf.org/archive/id/draft-meow-mrrp-00.html",
+      "score": 15,
+      "comments": 8,
+      "author": "varun_ch",
+      "tags": [],
+      "date": "2026-04-17T14:32:22+00:00"
+    },
     {
       "id": "hn-47806348",
       "source": "hn",
       "title": "Healthchecks.io Now Uses Self-Hosted Object Storage",
       "url": "https://blog.healthchecks.io/2026/04/healthchecks-io-now-uses-self-hosted-object-storage/",
-      "score": 4,
-      "comments": 0,
+      "score": 46,
+      "comments": 30,
       "author": "zdw",
       "tags": [],
       "date": "2026-04-17T14:29:11+00:00"
@@ -18,8 +85,8 @@
       "source": "hn",
       "title": "It Is Time to Ban the Sale of Precise Geolocation",
       "url": "https://www.lawfaremedia.org/article/it-is-time-to-ban-the-sale-of-precise-geolocation",
-      "score": 14,
-      "comments": 0,
+      "score": 190,
+      "comments": 53,
       "author": "hn_acker",
       "tags": [],
       "date": "2026-04-17T14:25:46+00:00"
@@ -38,10 +105,10 @@
     {
       "id": "hn-47805998",
       "source": "hn",
-      "title": "Is Your Site Agent-Ready? (By Cloudflare)",
+      "title": "Scan your website to see how ready it is for AI agents",
       "url": "https://isitagentready.com",
-      "score": 18,
-      "comments": 36,
+      "score": 41,
+      "comments": 73,
       "author": "WesSouza",
       "tags": [],
       "date": "2026-04-17T13:55:25+00:00"
@@ -49,10 +116,10 @@
     {
       "id": "hn-47804965",
       "source": "hn",
-      "title": "Isaac Asimov: The Last Question",
+      "title": "Isaac Asimov: The Last Question (1956)",
       "url": "https://hex.ooo/library/last_question.html",
-      "score": 247,
-      "comments": 84,
+      "score": 362,
+      "comments": 127,
       "author": "ColinWright",
       "tags": [],
       "date": "2026-04-17T12:01:19+00:00"
@@ -70,12 +137,23 @@
       "severity": "high"
     },
     {
+      "id": "hn-47803992",
+      "source": "hn",
+      "title": "Teddy Roosevelt and Abraham Lincoln in the same photo (2010)",
+      "url": "https://prologue.blogs.archives.gov/2010/11/09/teddy-roosevelt-and-abraham-lincoln-in-the-same-photo/",
+      "score": 63,
+      "comments": 4,
+      "author": "bryanrasmussen",
+      "tags": [],
+      "date": "2026-04-17T09:18:16+00:00"
+    },
+    {
       "id": "hn-47803844",
       "source": "hn",
       "title": "Ada, Its Design, and the Language That Built the Languages",
       "url": "https://www.iqiipi.com/the-quiet-colossus.html",
-      "score": 167,
-      "comments": 99,
+      "score": 190,
+      "comments": 117,
       "author": "mpweiher",
       "tags": [],
       "date": "2026-04-17T08:51:38+00:00"
@@ -96,8 +174,8 @@
       "source": "hn",
       "title": "FIM – Linux framebuffer image viewer",
       "url": "https://www.nongnu.org/fbi-improved/",
-      "score": 99,
-      "comments": 53,
+      "score": 108,
+      "comments": 54,
       "author": "Mr_Minderbinder",
       "tags": [],
       "date": "2026-04-17T07:20:46+00:00"
@@ -195,8 +273,8 @@
       "source": "hn",
       "title": "Human Accelerated Region 1",
       "url": "https://en.wikipedia.org/wiki/Human_accelerated_region_1",
-      "score": 83,
-      "comments": 47,
+      "score": 92,
+      "comments": 50,
       "author": "apollinaire",
       "tags": [],
       "date": "2026-04-17T03:55:54+00:00"
@@ -417,8 +495,8 @@
       "source": "hn",
       "title": "Official Clojure Documentary page with Video, Shownotes, and Links",
       "url": "https://clojure.org/about/documentary",
-      "score": 278,
-      "comments": 75,
+      "score": 292,
+      "comments": 85,
       "author": "adityaathalye",
       "tags": [],
       "date": "2026-04-16T19:32:18+00:00"
@@ -472,8 +550,8 @@
       "source": "hn",
       "title": "Android CLI: Build Android apps 3x faster using any agent",
       "url": "https://android-developers.googleblog.com/2026/04/build-android-apps-3x-faster-using-any-agent.html",
-      "score": 273,
-      "comments": 114,
+      "score": 284,
+      "comments": 116,
       "author": "ingve",
       "tags": [],
       "date": "2026-04-16T18:39:59+00:00"
@@ -494,8 +572,8 @@
       "source": "hn",
       "title": "Show HN: Stage – Putting humans back in control of code review",
       "url": "https://stagereview.app/",
-      "score": 26,
-      "comments": 19,
+      "score": 41,
+      "comments": 38,
       "author": "cpan22",
       "tags": [],
       "date": "2026-04-16T17:36:29+00:00"
@@ -505,8 +583,8 @@
       "source": "hn",
       "title": "Codex for almost everything",
       "url": "https://openai.com/index/codex-for-almost-everything/",
-      "score": 939,
-      "comments": 497,
+      "score": 951,
+      "comments": 506,
       "author": "mikeevans",
       "tags": [],
       "date": "2026-04-16T17:12:19+00:00"
@@ -643,8 +721,8 @@
       "source": "hn",
       "title": "Claude Opus 4.7",
       "url": "https://www.anthropic.com/news/claude-opus-4-7",
-      "score": 1873,
-      "comments": 1357,
+      "score": 1891,
+      "comments": 1373,
       "author": "meetpateltech",
       "tags": [],
       "date": "2026-04-16T14:23:50+00:00"
@@ -1428,6 +1506,17 @@
       "date": "2026-04-15T13:22:10+00:00"
     },
     {
+      "id": "hn-47778524",
+      "source": "hn",
+      "title": "Designing the Transport Typeface",
+      "url": "https://www.thamesandhudson.com/blogs/all-news-features/designing-the-transport-typeface-margaret-calvert-on-the-making-of-britain-s-road-signs",
+      "score": 6,
+      "comments": 0,
+      "author": "speckx",
+      "tags": [],
+      "date": "2026-04-15T13:13:20+00:00"
+    },
+    {
       "id": "hn-47778475",
       "source": "hn",
       "title": "God sleeps in the minerals",
@@ -1940,8 +2029,8 @@
       "source": "hn",
       "title": "CadQuery is an open-source Python library for building 3D CAD models",
       "url": "https://cadquery.github.io/",
-      "score": 183,
-      "comments": 48,
+      "score": 192,
+      "comments": 52,
       "author": "gregsadetsky",
       "tags": [],
       "date": "2026-04-14T23:20:39+00:00",
@@ -2733,10 +2822,10 @@
     {
       "id": "hn-47759436",
       "source": "hn",
-      "title": "30 Years of HPC: many hardware advances, little adoption of new languages",
+      "title": "Reflections on 30 Years of HPC Programming",
       "url": "https://chapel-lang.org/blog/posts/30years/",
-      "score": 86,
-      "comments": 65,
+      "score": 100,
+      "comments": 71,
       "author": "matt_d",
       "tags": [],
       "date": "2026-04-13T23:45:58+00:00"
@@ -2993,8 +3082,8 @@
       "source": "hn",
       "title": "A Python Interpreter Written in Python",
       "url": "https://aosabook.org/en/500L/a-python-interpreter-written-in-python.html",
-      "score": 105,
-      "comments": 29,
+      "score": 115,
+      "comments": 33,
       "author": "xk3",
       "tags": [],
       "date": "2026-04-13T17:25:50+00:00"
@@ -3177,6 +3266,17 @@
       "date": "2026-04-13T13:48:24+00:00"
     },
     {
+      "id": "hn-47751830",
+      "source": "hn",
+      "title": "The Utopia of the Family Computer",
+      "url": "https://mudmapmagazine.com/the-utopia-of-the-family-computer/",
+      "score": 27,
+      "comments": 6,
+      "author": "surprisetalk",
+      "tags": [],
+      "date": "2026-04-13T13:41:25+00:00"
+    },
+    {
       "id": "hn-47751781",
       "source": "hn",
       "title": "US appeals court declares 158-year-old home distilling ban unconstitutional",
@@ -3287,8 +3387,8 @@
       "source": "hn",
       "title": "中文 Literacy Speedrun II: Character Cyclotron",
       "url": "https://blog.kevinzwu.com/character-cyclotron/",
-      "score": 55,
-      "comments": 23,
+      "score": 63,
+      "comments": 28,
       "author": "surprisetalk",
       "tags": [],
       "date": "2026-04-13T12:28:35+00:00"
@@ -5085,105 +5185,6 @@
       "tags": [],
       "date": "2026-04-11T16:04:52+00:00",
       "severity": "medium"
-    },
-    {
-      "id": "hn-47731506",
-      "source": "hn",
-      "title": "Advanced Mac Substitute is an API-level reimplementation of 1980s-era Mac OS",
-      "url": "https://www.v68k.org/advanced-mac-substitute/",
-      "score": 248,
-      "comments": 62,
-      "author": "zdw",
-      "tags": [],
-      "date": "2026-04-11T15:39:19+00:00"
-    },
-    {
-      "id": "hn-47731254",
-      "source": "hn",
-      "title": "Long Instruction Word architectures and the ELI-512",
-      "url": "https://dl.acm.org/doi/10.1145/800046.801649",
-      "score": 14,
-      "comments": 1,
-      "author": "rbanffy",
-      "tags": [],
-      "date": "2026-04-11T15:04:31+00:00"
-    },
-    {
-      "id": "hn-47730981",
-      "source": "hn",
-      "title": "The future of everything is lies, I guess – Part 5: Annoyances",
-      "url": "https://aphyr.com/posts/415-the-future-of-everything-is-lies-i-guess-annoyances",
-      "score": 196,
-      "comments": 121,
-      "author": "aphyr",
-      "tags": [],
-      "date": "2026-04-11T14:32:39+00:00"
-    },
-    {
-      "id": "hn-47730799",
-      "source": "hn",
-      "title": "Rewriting a 20-year-old Python library",
-      "url": "https://www.b-list.org/weblog/2026/mar/23/20-year-library/",
-      "score": 12,
-      "comments": 1,
-      "author": "PaulHoule",
-      "tags": [],
-      "date": "2026-04-11T14:12:45+00:00"
-    },
-    {
-      "id": "hn-47730712",
-      "source": "hn",
-      "title": "The Problem That Built an Industry",
-      "url": "https://ajitem.com/blog/iron-core-part-1-the-problem-that-built-an-industry/",
-      "score": 109,
-      "comments": 37,
-      "author": "ShaggyHotDog",
-      "tags": [],
-      "date": "2026-04-11T14:03:03+00:00"
-    },
-    {
-      "id": "hn-47730407",
-      "source": "hn",
-      "title": "South Korea introduces universal basic mobile data access",
-      "url": "https://www.theregister.com/2026/04/10/south_korea_data_access_universal/",
-      "score": 287,
-      "comments": 81,
-      "author": "saikatsg",
-      "tags": [],
-      "date": "2026-04-11T13:27:16+00:00"
-    },
-    {
-      "id": "hn-47730370",
-      "source": "hn",
-      "title": "Bitcoin miners are losing on every coin produced as difficulty drops",
-      "url": "https://www.coindesk.com/markets/2026/03/22/bitcoin-miners-are-losing-usd19-000-on-every-btc-produced-as-difficulty-drops-7-8",
-      "score": 182,
-      "comments": 168,
-      "author": "PaulHoule",
-      "tags": [],
-      "date": "2026-04-11T13:22:25+00:00"
-    },
-    {
-      "id": "hn-47730229",
-      "source": "hn",
-      "title": "Borges' cartographers and the tacit skill of reading LM output",
-      "url": "https://galsapir.github.io/sparse-thoughts/2026/04/11/map-and-territory/",
-      "score": 13,
-      "comments": 0,
-      "author": "galsapir",
-      "tags": [],
-      "date": "2026-04-11T13:06:34+00:00"
-    },
-    {
-      "id": "hn-47730196",
-      "source": "hn",
-      "title": "How to breathe in fewer microplastics in your home",
-      "url": "https://www.bbc.com/future/article/20260410-how-to-breathe-in-fewer-microplastics-in-your-home",
-      "score": 53,
-      "comments": 34,
-      "author": "vinni2",
-      "tags": [],
-      "date": "2026-04-11T13:01:36+00:00"
     },
     {
       "id": "ctf-3477546",

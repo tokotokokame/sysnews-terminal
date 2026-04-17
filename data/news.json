@@ -1,14 +1,58 @@
 {
-  "updated_at": "2026-04-17T13:22:12.135248+00:00",
+  "updated_at": "2026-04-17T14:40:52.654639+00:00",
   "count": 500,
   "items": [
+    {
+      "id": "hn-47806348",
+      "source": "hn",
+      "title": "Healthchecks.io Now Uses Self-Hosted Object Storage",
+      "url": "https://blog.healthchecks.io/2026/04/healthchecks-io-now-uses-self-hosted-object-storage/",
+      "score": 4,
+      "comments": 0,
+      "author": "zdw",
+      "tags": [],
+      "date": "2026-04-17T14:29:11+00:00"
+    },
+    {
+      "id": "hn-47806304",
+      "source": "hn",
+      "title": "It Is Time to Ban the Sale of Precise Geolocation",
+      "url": "https://www.lawfaremedia.org/article/it-is-time-to-ban-the-sale-of-precise-geolocation",
+      "score": 14,
+      "comments": 0,
+      "author": "hn_acker",
+      "tags": [],
+      "date": "2026-04-17T14:25:46+00:00"
+    },
+    {
+      "id": "hn-47806116",
+      "source": "hn",
+      "title": "We Reproduced Anthropic's Mythos Findings with Public Models",
+      "url": "https://blog.vidocsecurity.com/blog/we-reproduced-anthropics-mythos-findings-with-public-models",
+      "score": 15,
+      "comments": 1,
+      "author": "__natty__",
+      "tags": [],
+      "date": "2026-04-17T14:09:32+00:00"
+    },
+    {
+      "id": "hn-47805998",
+      "source": "hn",
+      "title": "Is Your Site Agent-Ready? (By Cloudflare)",
+      "url": "https://isitagentready.com",
+      "score": 18,
+      "comments": 36,
+      "author": "WesSouza",
+      "tags": [],
+      "date": "2026-04-17T13:55:25+00:00"
+    },
     {
       "id": "hn-47804965",
       "source": "hn",
       "title": "Isaac Asimov: The Last Question",
       "url": "https://hex.ooo/library/last_question.html",
-      "score": 78,
-      "comments": 25,
+      "score": 247,
+      "comments": 84,
       "author": "ColinWright",
       "tags": [],
       "date": "2026-04-17T12:01:19+00:00"
@@ -30,8 +74,8 @@
       "source": "hn",
       "title": "Ada, Its Design, and the Language That Built the Languages",
       "url": "https://www.iqiipi.com/the-quiet-colossus.html",
-      "score": 139,
-      "comments": 76,
+      "score": 167,
+      "comments": 99,
       "author": "mpweiher",
       "tags": [],
       "date": "2026-04-17T08:51:38+00:00"
@@ -41,8 +85,8 @@
       "source": "hn",
       "title": "How Big Tech wrote secrecy into EU law to hide data centres' environmental toll",
       "url": "https://www.investigate-europe.eu/posts/big-tech-data-centres-secrecy-eu-law-environment-footprint",
-      "score": 93,
-      "comments": 30,
+      "score": 137,
+      "comments": 55,
       "author": "cyberlimerence",
       "tags": [],
       "date": "2026-04-17T08:32:54+00:00"
@@ -52,8 +96,8 @@
       "source": "hn",
       "title": "FIM – Linux framebuffer image viewer",
       "url": "https://www.nongnu.org/fbi-improved/",
-      "score": 90,
-      "comments": 45,
+      "score": 99,
+      "comments": 53,
       "author": "Mr_Minderbinder",
       "tags": [],
       "date": "2026-04-17T07:20:46+00:00"
@@ -151,8 +195,8 @@
       "source": "hn",
       "title": "Human Accelerated Region 1",
       "url": "https://en.wikipedia.org/wiki/Human_accelerated_region_1",
-      "score": 70,
-      "comments": 39,
+      "score": 83,
+      "comments": 47,
       "author": "apollinaire",
       "tags": [],
       "date": "2026-04-17T03:55:54+00:00"
@@ -222,8 +266,8 @@
       "source": "hn",
       "title": "Show HN: SPICE simulation → oscilloscope → verification with Claude Code",
       "url": "https://lucasgerads.com/blog/lecroy-mcp-spice-demo/",
-      "score": 96,
-      "comments": 20,
+      "score": 102,
+      "comments": 21,
       "author": "_fizz_buzz_",
       "tags": [],
       "date": "2026-04-17T00:37:47+00:00"
@@ -317,7 +361,7 @@
       "source": "hn",
       "title": "Guy builds AI driven hardware hacker arm from duct tape, old cam and CNC machine",
       "url": "https://github.com/gainsec/autoprober",
-      "score": 203,
+      "score": 206,
       "comments": 40,
       "author": "scaredpelican",
       "tags": [],
@@ -373,8 +417,8 @@
       "source": "hn",
       "title": "Official Clojure Documentary page with Video, Shownotes, and Links",
       "url": "https://clojure.org/about/documentary",
-      "score": 259,
-      "comments": 67,
+      "score": 278,
+      "comments": 75,
       "author": "adityaathalye",
       "tags": [],
       "date": "2026-04-16T19:32:18+00:00"
@@ -406,8 +450,8 @@
       "source": "hn",
       "title": "Playdate’s handheld changed how Duke University teaches game design",
       "url": "https://news.play.date/news/duke-playdate-education/",
-      "score": 187,
-      "comments": 87,
+      "score": 208,
+      "comments": 99,
       "author": "Ivoah",
       "tags": [],
       "date": "2026-04-16T19:18:31+00:00"
@@ -428,8 +472,8 @@
       "source": "hn",
       "title": "Android CLI: Build Android apps 3x faster using any agent",
       "url": "https://android-developers.googleblog.com/2026/04/build-android-apps-3x-faster-using-any-agent.html",
-      "score": 264,
-      "comments": 103,
+      "score": 273,
+      "comments": 114,
       "author": "ingve",
       "tags": [],
       "date": "2026-04-16T18:39:59+00:00"
@@ -446,12 +490,23 @@
       "date": "2026-04-16T17:37:20+00:00"
     },
     {
+      "id": "hn-47796818",
+      "source": "hn",
+      "title": "Show HN: Stage – Putting humans back in control of code review",
+      "url": "https://stagereview.app/",
+      "score": 26,
+      "comments": 19,
+      "author": "cpan22",
+      "tags": [],
+      "date": "2026-04-16T17:36:29+00:00"
+    },
+    {
       "id": "hn-47796469",
       "source": "hn",
       "title": "Codex for almost everything",
       "url": "https://openai.com/index/codex-for-almost-everything/",
-      "score": 921,
-      "comments": 483,
+      "score": 939,
+      "comments": 497,
       "author": "mikeevans",
       "tags": [],
       "date": "2026-04-16T17:12:19+00:00"
@@ -588,8 +643,8 @@
       "source": "hn",
       "title": "Claude Opus 4.7",
       "url": "https://www.anthropic.com/news/claude-opus-4-7",
-      "score": 1829,
-      "comments": 1319,
+      "score": 1873,
+      "comments": 1357,
       "author": "meetpateltech",
       "tags": [],
       "date": "2026-04-16T14:23:50+00:00"
@@ -1885,8 +1940,8 @@
       "source": "hn",
       "title": "CadQuery is an open-source Python library for building 3D CAD models",
       "url": "https://cadquery.github.io/",
-      "score": 170,
-      "comments": 46,
+      "score": 183,
+      "comments": 48,
       "author": "gregsadetsky",
       "tags": [],
       "date": "2026-04-14T23:20:39+00:00",
@@ -2264,6 +2319,17 @@
       "tags": [],
       "date": "2026-04-14T11:37:56+00:00",
       "severity": "critical"
+    },
+    {
+      "id": "hn-47764240",
+      "source": "hn",
+      "title": "The missing catalogue: why finding books in translation is still so hard",
+      "url": "https://blogs.lse.ac.uk/impactofsocialsciences/2026/04/13/the-missing-catalogue-why-finding-books-in-translation-is-still-so-hard/",
+      "score": 9,
+      "comments": 2,
+      "author": "AusiasTsel",
+      "tags": [],
+      "date": "2026-04-14T11:35:25+00:00"
     },
     {
       "id": "hn-47764164",
@@ -2669,8 +2735,8 @@
       "source": "hn",
       "title": "30 Years of HPC: many hardware advances, little adoption of new languages",
       "url": "https://chapel-lang.org/blog/posts/30years/",
-      "score": 73,
-      "comments": 44,
+      "score": 86,
+      "comments": 65,
       "author": "matt_d",
       "tags": [],
       "date": "2026-04-13T23:45:58+00:00"
@@ -2927,8 +2993,8 @@
       "source": "hn",
       "title": "A Python Interpreter Written in Python",
       "url": "https://aosabook.org/en/500L/a-python-interpreter-written-in-python.html",
-      "score": 92,
-      "comments": 24,
+      "score": 105,
+      "comments": 29,
       "author": "xk3",
       "tags": [],
       "date": "2026-04-13T17:25:50+00:00"
@@ -3221,8 +3287,8 @@
       "source": "hn",
       "title": "中文 Literacy Speedrun II: Character Cyclotron",
       "url": "https://blog.kevinzwu.com/character-cyclotron/",
-      "score": 35,
-      "comments": 16,
+      "score": 55,
+      "comments": 23,
       "author": "surprisetalk",
       "tags": [],
       "date": "2026-04-13T12:28:35+00:00"
@@ -3289,8 +3355,8 @@
       "source": "hn",
       "title": "ReBot-DevArm: open-source Robotic Arm",
       "url": "https://github.com/Seeed-Projects/reBot-DevArm",
-      "score": 73,
-      "comments": 18,
+      "score": 80,
+      "comments": 20,
       "author": "rickcarlino",
       "tags": [],
       "date": "2026-04-13T11:39:12+00:00",
@@ -3500,8 +3566,8 @@
       "source": "hn",
       "title": "Taking a Look at Compression Algorithms – Moncef Abboud",
       "url": "https://cefboud.com/posts/compression/",
-      "score": 4,
-      "comments": 1,
+      "score": 17,
+      "comments": 5,
       "author": "fagnerbrack",
       "tags": [],
       "date": "2026-04-13T05:32:33+00:00"
@@ -5120,124 +5186,6 @@
       "date": "2026-04-11T13:01:36+00:00"
     },
     {
-      "id": "hn-47730194",
-      "source": "hn",
-      "title": "Cirrus Labs to join OpenAI",
-      "url": "https://cirruslabs.org/",
-      "score": 271,
-      "comments": 132,
-      "author": "seekdeep",
-      "tags": [],
-      "date": "2026-04-11T13:01:34+00:00"
-    },
-    {
-      "id": "qiita-faf6a64f09",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "GitHub公開リポジトリだけで「転職市場価値」を算出する実装 — レートリミット回避とスコア設計の話",
-      "url": "https://qiita.com/aiwork_log/items/f727bccc866de2bba158?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "aiwork_log",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-04-11T21:48:43+09:00"
-    },
-    {
-      "id": "hn-47729994",
-      "source": "hn",
-      "title": "Polymarket gamblers betting millions on war",
-      "url": "https://www.theguardian.com/business/2026/apr/11/polymarket-gamblers-betting-iran-war-ukraine-news-truth",
-      "score": 98,
-      "comments": 55,
-      "author": "sandebert",
-      "tags": [],
-      "date": "2026-04-11T12:28:04+00:00"
-    },
-    {
-      "id": "qiita-32eb74c003",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "Claude Codeの「アドバイザー」と「サブエージェント」── Maxプランでの使い方",
-      "url": "https://qiita.com/ussu_ussu_ussu/items/fec4e0859bf102dfa6d8?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "ussu_ussu_ussu",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-04-11T21:23:31+09:00"
-    },
-    {
-      "id": "hn-47729925",
-      "source": "hn",
-      "title": "Show HN: I rebuilt a 2000s browser strategy game on Cloudflare's edge",
-      "url": "https://kampfinsel.com/",
-      "score": 22,
-      "comments": 21,
-      "author": "parzivalt",
-      "tags": [],
-      "date": "2026-04-11T12:17:29+00:00"
-    },
-    {
-      "id": "qiita-3056f110b5",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "Directusを使ってデータベースアクセスを簡単にする",
-      "url": "https://qiita.com/poruruba/items/dead1688f3ca1df2b10e?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "poruruba",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-04-11T20:58:00+09:00"
-    },
-    {
-      "id": "hn-47729694",
-      "source": "hn",
-      "title": "An Introduction to Obsidian",
-      "url": "https://bryanhogan.com/blog/obsidian-introduction",
-      "score": 107,
-      "comments": 80,
-      "author": "bryanhogan",
-      "tags": [],
-      "date": "2026-04-11T11:35:02+00:00"
-    },
-    {
-      "id": "hn-47729507",
-      "source": "hn",
-      "title": "How Wake-On-LAN works (2020)",
-      "url": "https://blog.xaner.dev/post/wake-on-lan/",
-      "score": 75,
-      "comments": 25,
-      "author": "swq115",
-      "tags": [],
-      "date": "2026-04-11T11:03:58+00:00"
-    },
-    {
-      "id": "hn-47729477",
-      "source": "hn",
-      "title": "Show HN: Hormuz Havoc, a satirical game that got overrun by AI bots in 24 hours",
-      "url": "https://www.hormuz-havoc.com/",
-      "score": 21,
-      "comments": 4,
-      "author": "kupadapuku",
-      "tags": [],
-      "date": "2026-04-11T10:58:36+00:00"
-    },
-    {
-      "id": "qiita-1b70a4794f",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "【ズバッと解説】データメッシュとは？背景と考え方・4原則・関連ワードを整理",
-      "url": "https://qiita.com/yushibats/items/fa3789c26e832c80ada0?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "yushibats",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-04-11T19:39:11+09:00"
-    },
-    {
       "id": "ctf-3477546",
       "source": "project",
       "proj_category": "CTF",
@@ -5694,97 +5642,6 @@
       "date": "Tue, 14 Apr 2026 23:24:32 GMT"
     },
     {
-      "id": "zenn-47f3cf60bc",
-      "source": "zennqiita",
-      "sub_source": "Zenn",
-      "title": "そのAI臭を消す努力は、誰のためにやっているのか",
-      "url": "https://zenn.dev/acntechjp/articles/54ab3f84e567a6",
-      "score": null,
-      "author": "kaito.abe",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Thu, 16 Apr 2026 11:23:44 GMT"
-    },
-    {
-      "id": "zenn-5733c8f26c",
-      "source": "zennqiita",
-      "sub_source": "Zenn",
-      "title": "いいですよね、コミュニケーション。わたしもだいすきです。今日から変わるコミュニケーション術",
-      "url": "https://zenn.dev/coconala/articles/8b214521aa1ed8",
-      "score": null,
-      "author": "株式会社ココナラ",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Thu, 16 Apr 2026 10:33:16 GMT"
-    },
-    {
-      "id": "zenn-df586019ca",
-      "source": "zennqiita",
-      "sub_source": "Zenn",
-      "title": "Gemma 4の音声認識機能でリアルタイム文字起こしを試してみた",
-      "url": "https://zenn.dev/kozoka_ai/articles/3c17156f9f660e",
-      "score": null,
-      "author": "@rtoshima",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Thu, 16 Apr 2026 05:06:21 GMT"
-    },
-    {
-      "id": "zenn-891931ce9b",
-      "source": "zennqiita",
-      "sub_source": "Zenn",
-      "title": "AHC063参加記 (最終4位)",
-      "url": "https://zenn.dev/through/articles/d95a7007ea77ce",
-      "score": null,
-      "author": "through",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Wed, 15 Apr 2026 12:08:44 GMT"
-    },
-    {
-      "id": "zenn-cbac71c926",
-      "source": "zennqiita",
-      "sub_source": "Zenn",
-      "title": "takt 入門 - AI マルチエージェントオーケストレーションで開発ワークフローを自動化する",
-      "url": "https://zenn.dev/rasshii/articles/dc19793edab99a",
-      "score": null,
-      "author": "らっしー",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Wed, 15 Apr 2026 06:03:08 GMT"
-    },
-    {
-      "id": "zenn-6ed5de0b17",
-      "source": "zennqiita",
-      "sub_source": "Zenn",
-      "title": "\"use server\" も \"use client\" も要らない —TanStack Start が示す新しいRSCの形",
-      "url": "https://zenn.dev/sc30gsw/articles/e656fa295deb3f",
-      "score": null,
-      "author": "kaito",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Tue, 14 Apr 2026 14:55:20 GMT"
-    },
-    {
-      "id": "zenn-b08a79b4e0",
-      "source": "zennqiita",
-      "sub_source": "Zenn",
-      "title": "VRAM(ビデオメモリ)32GBのローカルLLM環境(AI PC)をコスパ重視で構築してみる",
-      "url": "https://zenn.dev/playree/articles/2376eee1d9d24d",
-      "score": null,
-      "author": "playree",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Tue, 14 Apr 2026 12:36:48 GMT"
-    },
-    {
       "id": "edb-43819ec761",
       "source": "msf",
       "title": "[local] NetBT e-Fatura - Privilege Escalation",
@@ -5843,6 +5700,171 @@
       ],
       "severity": "high",
       "date": "Thu, 09 Apr 2026 00:00:00 +0000"
+    },
+    {
+      "id": "edb-e8afe43df5",
+      "source": "msf",
+      "title": "[webapps] Jumbo Website Manager  - Remote Code Execution",
+      "url": "https://www.exploit-db.com/exploits/52504",
+      "score": null,
+      "author": "Exploit-DB",
+      "tags": [
+        "Exploit-DB",
+        "CVE",
+        "PoC"
+      ],
+      "severity": "high",
+      "date": "Thu, 09 Apr 2026 00:00:00 +0000"
+    },
+    {
+      "id": "edb-2564d5cc7c",
+      "source": "msf",
+      "title": "[local] ZSH 5.9 - RCE",
+      "url": "https://www.exploit-db.com/exploits/52503",
+      "score": null,
+      "author": "Exploit-DB",
+      "tags": [
+        "Exploit-DB",
+        "CVE",
+        "PoC"
+      ],
+      "severity": "high",
+      "date": "Thu, 09 Apr 2026 00:00:00 +0000"
+    },
+    {
+      "id": "edb-3da8771542",
+      "source": "msf",
+      "title": "[webapps] FortiWeb  8.0.2 - Remote Code Execution",
+      "url": "https://www.exploit-db.com/exploits/52502",
+      "score": null,
+      "author": "Exploit-DB",
+      "tags": [
+        "Exploit-DB",
+        "CVE",
+        "PoC"
+      ],
+      "severity": "high",
+      "date": "Wed, 08 Apr 2026 00:00:00 +0000"
+    },
+    {
+      "id": "edb-96d524fcf4",
+      "source": "msf",
+      "title": "[local] 7-Zip 24.00 - Directory Traversal",
+      "url": "https://www.exploit-db.com/exploits/52501",
+      "score": null,
+      "author": "Exploit-DB",
+      "tags": [
+        "Exploit-DB",
+        "CVE",
+        "PoC"
+      ],
+      "severity": "high",
+      "date": "Wed, 08 Apr 2026 00:00:00 +0000"
+    },
+    {
+      "id": "edb-ce01cff88a",
+      "source": "msf",
+      "title": "[webapps] xibocms 3.3.4 - RCE",
+      "url": "https://www.exploit-db.com/exploits/52500",
+      "score": null,
+      "author": "Exploit-DB",
+      "tags": [
+        "Exploit-DB",
+        "CVE",
+        "PoC"
+      ],
+      "severity": "high",
+      "date": "Wed, 08 Apr 2026 00:00:00 +0000"
+    },
+    {
+      "id": "edb-4ae497cd58",
+      "source": "msf",
+      "title": "[local] SQLite 3.50.1 - Heap Overflow",
+      "url": "https://www.exploit-db.com/exploits/52499",
+      "score": null,
+      "author": "Exploit-DB",
+      "tags": [
+        "Exploit-DB",
+        "CVE",
+        "PoC"
+      ],
+      "severity": "high",
+      "date": "Wed, 08 Apr 2026 00:00:00 +0000"
+    },
+    {
+      "id": "edb-605b174f8f",
+      "source": "msf",
+      "title": "[local] Microsoft MMC MSC EvilTwin - Local Admin Creation",
+      "url": "https://www.exploit-db.com/exploits/52498",
+      "score": null,
+      "author": "Exploit-DB",
+      "tags": [
+        "Exploit-DB",
+        "CVE",
+        "PoC"
+      ],
+      "severity": "high",
+      "date": "Wed, 08 Apr 2026 00:00:00 +0000"
+    },
+    {
+      "id": "edb-1e7dd77ea0",
+      "source": "msf",
+      "title": "[webapps] Horilla v1.3 - RCE",
+      "url": "https://www.exploit-db.com/exploits/52497",
+      "score": null,
+      "author": "Exploit-DB",
+      "tags": [
+        "Exploit-DB",
+        "CVE",
+        "PoC"
+      ],
+      "severity": "high",
+      "date": "Wed, 08 Apr 2026 00:00:00 +0000"
+    },
+    {
+      "id": "edb-710535e63d",
+      "source": "msf",
+      "title": "[local] is-localhost-ip 2.0.0 - SSRF",
+      "url": "https://www.exploit-db.com/exploits/52496",
+      "score": null,
+      "author": "Exploit-DB",
+      "tags": [
+        "Exploit-DB",
+        "CVE",
+        "PoC"
+      ],
+      "severity": "high",
+      "date": "Mon, 06 Apr 2026 00:00:00 +0000"
+    },
+    {
+      "id": "edb-0003c10d59",
+      "source": "msf",
+      "title": "[webapps] Fortinet FortiWeb v8.0.1 - Auth Bypass",
+      "url": "https://www.exploit-db.com/exploits/52495",
+      "score": null,
+      "author": "Exploit-DB",
+      "tags": [
+        "Exploit-DB",
+        "CVE",
+        "PoC"
+      ],
+      "severity": "high",
+      "date": "Mon, 06 Apr 2026 00:00:00 +0000"
+    },
+    {
+      "id": "edb-3a24fa28ce",
+      "source": "msf",
+      "title": "[local] Windows Kernel - Elevation of Privilege",
+      "url": "https://www.exploit-db.com/exploits/52494",
+      "score": null,
+      "author": "Exploit-DB",
+      "tags": [
+        "Exploit-DB",
+        "CVE",
+        "PoC"
+      ],
+      "severity": "high",
+      "date": "Mon, 06 Apr 2026 00:00:00 +0000"
     }
   ]
 }

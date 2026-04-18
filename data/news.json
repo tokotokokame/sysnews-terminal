@@ -1,14 +1,39 @@
 {
-  "updated_at": "2026-04-17T23:39:17.915034+00:00",
+  "updated_at": "2026-04-18T02:25:34.449833+00:00",
   "count": 500,
   "items": [
+    {
+      "id": "ghrel-projectdiscovery_nuclei-310617486",
+      "source": "project",
+      "proj_category": "Tools",
+      "title": "Nuclei v3.8.0 — v3.8.0",
+      "url": "https://github.com/projectdiscovery/nuclei/releases/tag/v3.8.0",
+      "score": null,
+      "author": "Nuclei",
+      "tags": [
+        "Nuclei",
+        "Release"
+      ],
+      "date": "2026-04-18T01:47:59Z"
+    },
+    {
+      "id": "hn-47812331",
+      "source": "hn",
+      "title": "Casus Belli Engineering",
+      "url": "https://marcosmagueta.com/blog/casus-belli-engineering/",
+      "score": 4,
+      "comments": 0,
+      "author": "b-man",
+      "tags": [],
+      "date": "2026-04-18T01:14:02+00:00"
+    },
     {
       "id": "hn-47811442",
       "source": "hn",
       "title": "How to Host a Blog on a Subdirectory Instead of a Subdomain",
       "url": "https://www.davidma.org/blog/2025-11-14-host-your-blog-on-a-subdirectory/",
-      "score": 7,
-      "comments": 6,
+      "score": 17,
+      "comments": 13,
       "author": "taikon",
       "tags": [],
       "date": "2026-04-17T22:53:18+00:00"
@@ -18,8 +43,8 @@
       "source": "hn",
       "title": "Landmark ancient-genome study shows surprise acceleration of human evolution",
       "url": "https://www.nature.com/articles/d41586-026-01204-5",
-      "score": 22,
-      "comments": 3,
+      "score": 52,
+      "comments": 39,
       "author": "unsuspecting",
       "tags": [],
       "date": "2026-04-17T22:30:28+00:00"
@@ -29,8 +54,8 @@
       "source": "hn",
       "title": "A simplified model of Fil-C",
       "url": "https://www.corsix.org/content/simplified-model-of-fil-c",
-      "score": 73,
-      "comments": 34,
+      "score": 118,
+      "comments": 58,
       "author": "aw1621107",
       "tags": [],
       "date": "2026-04-17T21:38:20+00:00"
@@ -62,8 +87,8 @@
       "source": "hn",
       "title": "Even \"cat readme.txt\" is not safe",
       "url": "https://blog.calif.io/p/mad-bugs-even-cat-readmetxt-is-not",
-      "score": 58,
-      "comments": 26,
+      "score": 99,
+      "comments": 44,
       "author": "arkadiyt",
       "tags": [],
       "date": "2026-04-17T18:43:32+00:00"
@@ -73,8 +98,8 @@
       "source": "hn",
       "title": "All 12 moonwalkers had \"lunar hay fever\" from dust smelling like gunpowder (2018)",
       "url": "https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/The_toxic_side_of_the_Moon",
-      "score": 194,
-      "comments": 105,
+      "score": 237,
+      "comments": 134,
       "author": "cybermango",
       "tags": [],
       "date": "2026-04-17T18:17:01+00:00"
@@ -84,8 +109,8 @@
       "source": "hn",
       "title": "Show HN: Smol machines – subsecond coldstart, portable virtual machines",
       "url": "https://github.com/smol-machines/smolvm",
-      "score": 191,
-      "comments": 81,
+      "score": 231,
+      "comments": 89,
       "author": "binsquare",
       "tags": [],
       "date": "2026-04-17T17:18:58+00:00"
@@ -106,8 +131,8 @@
       "source": "hn",
       "title": "Show HN: PanicLock – Close your MacBook lid disable TouchID –> password unlock",
       "url": "https://github.com/paniclock/paniclock/",
-      "score": 93,
-      "comments": 39,
+      "score": 138,
+      "comments": 58,
       "author": "seanieb",
       "tags": [],
       "date": "2026-04-17T16:38:44+00:00"
@@ -117,8 +142,8 @@
       "source": "hn",
       "title": "Hyperscalers have already outspent most famous US megaprojects",
       "url": "https://twitter.com/finmoorhouse/status/2044933442236776794",
-      "score": 100,
-      "comments": 80,
+      "score": 131,
+      "comments": 108,
       "author": "nowflux",
       "tags": [],
       "date": "2026-04-17T16:23:22+00:00"
@@ -126,10 +151,10 @@
     {
       "id": "hn-47807583",
       "source": "hn",
-      "title": "I'm spending 3 months coding the old way",
+      "title": "Spending 3 months coding by hand",
       "url": "https://miguelconner.substack.com/p/im-coding-by-hand",
-      "score": 107,
-      "comments": 105,
+      "score": 140,
+      "comments": 146,
       "author": "evakhoury",
       "tags": [],
       "date": "2026-04-17T16:19:53+00:00"
@@ -150,8 +175,8 @@
       "source": "hn",
       "title": "NASA Force",
       "url": "https://nasaforce.gov/",
-      "score": 201,
-      "comments": 219,
+      "score": 235,
+      "comments": 245,
       "author": "LorenDB",
       "tags": [],
       "date": "2026-04-17T15:47:41+00:00",
@@ -162,8 +187,8 @@
       "source": "hn",
       "title": "Measuring Claude 4.7's tokenizer costs",
       "url": "https://www.claudecodecamp.com/p/i-measured-claude-4-7-s-new-tokenizer-here-s-what-it-costs-you",
-      "score": 513,
-      "comments": 347,
+      "score": 545,
+      "comments": 377,
       "author": "aray07",
       "tags": [],
       "date": "2026-04-17T15:29:36+00:00"
@@ -184,8 +209,8 @@
       "source": "hn",
       "title": "Slop Cop",
       "url": "https://awnist.com/slop-cop",
-      "score": 40,
-      "comments": 17,
+      "score": 87,
+      "comments": 62,
       "author": "ericHosick",
       "tags": [],
       "date": "2026-04-17T15:15:24+00:00"
@@ -195,7 +220,7 @@
       "source": "hn",
       "title": "NIST gives up enriching most CVEs",
       "url": "https://risky.biz/risky-bulletin-nist-gives-up-enriching-most-cves/",
-      "score": 160,
+      "score": 177,
       "comments": 37,
       "author": "mooreds",
       "tags": [],
@@ -207,8 +232,8 @@
       "source": "hn",
       "title": "Claude Design",
       "url": "https://www.anthropic.com/news/claude-design-anthropic-labs",
-      "score": 777,
-      "comments": 523,
+      "score": 856,
+      "comments": 572,
       "author": "meetpateltech",
       "tags": [],
       "date": "2026-04-17T15:04:09+00:00"
@@ -218,8 +243,8 @@
       "source": "hn",
       "title": "Middle schooler finds coin from Troy in Berlin",
       "url": "https://www.thehistoryblog.com/archives/75848",
-      "score": 187,
-      "comments": 86,
+      "score": 207,
+      "comments": 91,
       "author": "speckx",
       "tags": [],
       "date": "2026-04-17T14:41:49+00:00"
@@ -262,8 +287,8 @@
       "source": "hn",
       "title": "Ban the sale of precise geolocation",
       "url": "https://www.lawfaremedia.org/article/it-is-time-to-ban-the-sale-of-precise-geolocation",
-      "score": 558,
-      "comments": 155,
+      "score": 608,
+      "comments": 167,
       "author": "hn_acker",
       "tags": [],
       "date": "2026-04-17T14:25:46+00:00"
@@ -295,8 +320,8 @@
       "source": "hn",
       "title": "Isaac Asimov: The Last Question (1956)",
       "url": "https://hex.ooo/library/last_question.html",
-      "score": 594,
-      "comments": 237,
+      "score": 628,
+      "comments": 261,
       "author": "ColinWright",
       "tags": [],
       "date": "2026-04-17T12:01:19+00:00"
@@ -872,8 +897,8 @@
       "source": "hn",
       "title": "Nintendo's Empire of Secrets with Keza MacDonald – Factually with Adam Conover",
       "url": "https://art19.com/shows/factually--with-adam-conover/episodes/5154e9af-8885-4149-9721-173c02c46bb7/",
-      "score": 6,
-      "comments": 0,
+      "score": 18,
+      "comments": 3,
       "author": "tpoindex",
       "tags": [],
       "date": "2026-04-16T16:40:49+00:00"
@@ -955,8 +980,8 @@
       "source": "hn",
       "title": "The Unix Executable as a Smalltalk Method [video]",
       "url": "https://www.youtube.com/watch?v=sZjPQ7vtLNA",
-      "score": 14,
-      "comments": 0,
+      "score": 30,
+      "comments": 1,
       "author": "surprisetalk",
       "tags": [],
       "date": "2026-04-16T15:09:07+00:00"
@@ -1580,6 +1605,17 @@
       "date": "2026-04-15T19:30:52+00:00"
     },
     {
+      "id": "hn-47783062",
+      "source": "hn",
+      "title": "Generating a color spectrum for an image",
+      "url": "https://amandahinton.com/blog/generating-a-color-spectrum-for-an-image",
+      "score": 18,
+      "comments": 3,
+      "author": "evakhoury",
+      "tags": [],
+      "date": "2026-04-15T18:20:03+00:00"
+    },
+    {
       "id": "hn-47783024",
       "source": "hn",
       "title": "AI-Assisted Cognition Endangers Human Development",
@@ -1639,8 +1675,8 @@
       "source": "hn",
       "title": "Introducing: ShaderPad",
       "url": "https://rileyjshaw.com/blog/introducing-shaderpad/",
-      "score": 26,
-      "comments": 6,
+      "score": 45,
+      "comments": 7,
       "author": "evakhoury",
       "tags": [],
       "date": "2026-04-15T16:59:08+00:00"
@@ -1766,8 +1802,8 @@
       "source": "hn",
       "title": "I built a 3D printing business and ran it for 8 months",
       "url": "https://www.wespiser.com/posts/2026-04-12-3D-Printing-Biz.html",
-      "score": 65,
-      "comments": 59,
+      "score": 86,
+      "comments": 80,
       "author": "wespiser_2018",
       "tags": [],
       "date": "2026-04-15T13:59:07+00:00"
@@ -1788,8 +1824,8 @@
       "source": "hn",
       "title": "Are the costs of AI agents also rising exponentially? (2025)",
       "url": "https://www.tobyord.com/writing/hourly-costs-for-ai-agents",
-      "score": 50,
-      "comments": 3,
+      "score": 111,
+      "comments": 17,
       "author": "louiereederson",
       "tags": [],
       "date": "2026-04-15T13:47:58+00:00"
@@ -5150,31 +5186,6 @@
       "date": "2026-04-12T13:06:06+09:00"
     },
     {
-      "id": "hn-47735927",
-      "source": "hn",
-      "title": "Excellence Is a Habit",
-      "url": "https://www.flyingbarron.com/2026/04/excellence-is-habit.html",
-      "score": 17,
-      "comments": 1,
-      "author": "mooreds",
-      "tags": [],
-      "date": "2026-04-12T03:34:13+00:00"
-    },
-    {
-      "id": "qiita-47c60eba32",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "【徳丸本まとめ】Webアプリの脆弱性と対策を一気に整理する",
-      "url": "https://qiita.com/nkngtic/items/6ac857cdbbd13a363f4d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "nkngtic",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-04-12T12:17:06+09:00",
-      "severity": "high"
-    },
-    {
       "id": "ctf-3477546",
       "source": "project",
       "proj_category": "CTF",
@@ -5201,20 +5212,6 @@
         "Security"
       ],
       "date": "2026-03-28T11:22:18Z"
-    },
-    {
-      "id": "ghrel-projectdiscovery_nuclei-293442537",
-      "source": "project",
-      "proj_category": "Tools",
-      "title": "Nuclei v3.7.1 — v3.7.1",
-      "url": "https://github.com/projectdiscovery/nuclei/releases/tag/v3.7.1",
-      "score": null,
-      "author": "Nuclei",
-      "tags": [
-        "Nuclei",
-        "Release"
-      ],
-      "date": "2026-03-05T11:00:12Z"
     },
     {
       "id": "ghrel-Pennyw0rth_NetExec-289454548",

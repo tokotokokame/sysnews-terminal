@@ -1,7 +1,40 @@
 {
-  "updated_at": "2026-04-20T10:15:27.945157+00:00",
+  "updated_at": "2026-04-20T11:51:40.058922+00:00",
   "count": 500,
   "items": [
+    {
+      "id": "hn-47832366",
+      "source": "hn",
+      "title": "Figma's woes compound with Claude Design",
+      "url": "https://martinalderson.com/posts/figmas-woes-compound-with-claude-design/",
+      "score": 11,
+      "comments": 1,
+      "author": "martinald",
+      "tags": [],
+      "date": "2026-04-20T10:26:35+00:00"
+    },
+    {
+      "id": "hn-47832248",
+      "source": "hn",
+      "title": "M 7.4 earthquake – 100 km ENE of Miyako, Japan",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000sri7/",
+      "score": 30,
+      "comments": 10,
+      "author": "Someone",
+      "tags": [],
+      "date": "2026-04-20T10:04:40+00:00"
+    },
+    {
+      "id": "hn-47832222",
+      "source": "hn",
+      "title": "NSA is using Anthropic's Mythos despite blacklist",
+      "url": "https://www.reuters.com/business/us-security-agency-is-using-anthropics-mythos-despite-blacklist-axios-reports-2026-04-19/",
+      "score": 79,
+      "comments": 43,
+      "author": "Palmik",
+      "tags": [],
+      "date": "2026-04-20T10:00:35+00:00"
+    },
     {
       "id": "qiita-b35e0d46d7",
       "source": "zennqiita",
@@ -20,8 +53,8 @@
       "source": "hn",
       "title": "GitHub's Fake Star Economy",
       "url": "https://awesomeagents.ai/news/github-fake-stars-investigation/",
-      "score": 86,
-      "comments": 58,
+      "score": 200,
+      "comments": 117,
       "author": "Liriel",
       "tags": [],
       "date": "2026-04-20T08:26:52+00:00"
@@ -31,8 +64,8 @@
       "source": "hn",
       "title": "OpenClaw isn't fooling me. I remember MS-DOS",
       "url": "https://www.flyingpenguin.com/build-an-openclaw-free-secure-always-on-local-ai-agent/",
-      "score": 86,
-      "comments": 48,
+      "score": 116,
+      "comments": 130,
       "author": "feigewalnuss",
       "tags": [],
       "date": "2026-04-20T07:49:48+00:00"
@@ -91,8 +124,8 @@
       "source": "hn",
       "title": "Stripe's Payment APIs: the first 10 years (2020)",
       "url": "https://stripe.dev/blog/payment-api-design",
-      "score": 48,
-      "comments": 25,
+      "score": 59,
+      "comments": 31,
       "author": "tibbar",
       "tags": [],
       "date": "2026-04-20T05:05:43+00:00"
@@ -141,8 +174,8 @@
       "source": "hn",
       "title": "A cache-friendly IPv6 LPM with AVX-512 (linearized B+-tree, real BGP benchmarks)",
       "url": "https://github.com/esutcu/planb-lpm",
-      "score": 37,
-      "comments": 15,
+      "score": 39,
+      "comments": 17,
       "author": "debugga",
       "tags": [],
       "date": "2026-04-20T03:24:21+00:00"
@@ -202,8 +235,8 @@
       "source": "hn",
       "title": "Claude Token Counter, now with model comparisons",
       "url": "https://simonwillison.net/2026/Apr/20/claude-token-counts/",
-      "score": 114,
-      "comments": 43,
+      "score": 132,
+      "comments": 49,
       "author": "twapi",
       "tags": [],
       "date": "2026-04-20T00:56:40+00:00"
@@ -323,8 +356,8 @@
       "source": "hn",
       "title": "Stop trying to engineer your way out of listening to people",
       "url": "https://ashley.rolfmore.com/stop-trying-to-engineer-your-way-out-of-listening-to-people/",
-      "score": 225,
-      "comments": 97,
+      "score": 264,
+      "comments": 120,
       "author": "walterbell",
       "tags": [],
       "date": "2026-04-19T20:09:09+00:00"
@@ -378,8 +411,8 @@
       "source": "hn",
       "title": "Scientific datasets are riddled with copy-paste errors",
       "url": "https://www.sciencedetective.org/scientific-datasets-are-riddled-with-copy-paste-errors/",
-      "score": 107,
-      "comments": 28,
+      "score": 119,
+      "comments": 32,
       "author": "jruohonen",
       "tags": [],
       "date": "2026-04-19T19:18:57+00:00"
@@ -422,8 +455,8 @@
       "source": "hn",
       "title": "The Bromine Chokepoint",
       "url": "https://warontherocks.com/cogs-of-war/the-bromine-chokepoint-how-strife-in-the-middle-east-could-halt-production-of-the-worlds-memory-chips/",
-      "score": 199,
-      "comments": 104,
+      "score": 201,
+      "comments": 118,
       "author": "crescit_eundo",
       "tags": [],
       "date": "2026-04-19T17:44:03+00:00"
@@ -446,8 +479,8 @@
       "source": "hn",
       "title": "Turtle WoW classic server announces shutdown after Blizzard wins injunction",
       "url": "https://www.pcgamer.com/games/world-of-warcraft/turtle-wow-classic-server-announces-shutdown-after-blizzard-wins-injunction/",
-      "score": 240,
-      "comments": 199,
+      "score": 252,
+      "comments": 223,
       "author": "Brajeshwar",
       "tags": [],
       "date": "2026-04-19T15:48:40+00:00"
@@ -560,8 +593,8 @@
       "source": "hn",
       "title": "Vercel April 2026 security incident",
       "url": "https://www.bleepingcomputer.com/news/security/vercel-confirms-breach-as-hackers-claim-to-be-selling-stolen-data/",
-      "score": 749,
-      "comments": 432,
+      "score": 766,
+      "comments": 437,
       "author": "colesantiago",
       "tags": [],
       "date": "2026-04-19T14:14:38+00:00",
@@ -642,8 +675,8 @@
       "source": "hn",
       "title": "Changes in the system prompt between Claude Opus 4.6 and 4.7",
       "url": "https://simonwillison.net/2026/Apr/18/opus-system-prompt/",
-      "score": 322,
-      "comments": 182,
+      "score": 335,
+      "comments": 186,
       "author": "pretext",
       "tags": [],
       "date": "2026-04-19T10:36:29+00:00"
@@ -675,8 +708,8 @@
       "source": "hn",
       "title": "A Brief History of Fish Sauce",
       "url": "https://www.legalnomads.com/fish-sauce/",
-      "score": 181,
-      "comments": 72,
+      "score": 188,
+      "comments": 79,
       "author": "vinhnx",
       "tags": [],
       "date": "2026-04-19T08:32:53+00:00"
@@ -850,8 +883,8 @@
       "source": "hn",
       "title": "SDF Public Access Unix System",
       "url": "https://sdf.org/?ssh",
-      "score": 73,
-      "comments": 28,
+      "score": 87,
+      "comments": 34,
       "author": "neehao",
       "tags": [],
       "date": "2026-04-18T20:48:35+00:00"
@@ -1475,6 +1508,17 @@
       "date": "2026-04-17T22:53:18+00:00"
     },
     {
+      "id": "hn-47811391",
+      "source": "hn",
+      "title": "Who Is Blake Whiting?",
+      "url": "https://theamericanscholar.org/who-is-blake-whiting/",
+      "score": 13,
+      "comments": 2,
+      "author": "Caiero",
+      "tags": [],
+      "date": "2026-04-17T22:46:03+00:00"
+    },
+    {
       "id": "hn-47811283",
       "source": "hn",
       "title": "Landmark ancient-genome study shows surprise acceleration of human evolution",
@@ -1512,8 +1556,8 @@
       "source": "hn",
       "title": "Focused microwaves allow 3D printers to fuse circuits onto almost anything",
       "url": "https://newatlas.com/electronics/meta-nfc-focused-microwaves-circuits/",
-      "score": 12,
-      "comments": 0,
+      "score": 38,
+      "comments": 5,
       "author": "breve",
       "tags": [],
       "date": "2026-04-17T21:03:09+00:00"
@@ -1528,6 +1572,17 @@
       "author": "gkamradt_",
       "tags": [],
       "date": "2026-04-17T21:00:08+00:00"
+    },
+    {
+      "id": "hn-47810211",
+      "source": "hn",
+      "title": "Two Motorola Transistors Became the Default NPNs",
+      "url": "https://www.allaboutcircuits.com/news/how-two-motorola-transistors-became-the-worlds-default-npns/",
+      "score": 34,
+      "comments": 13,
+      "author": "ChuckMcM",
+      "tags": [],
+      "date": "2026-04-17T20:27:49+00:00"
     },
     {
       "id": "hn-47810109",
@@ -1545,8 +1600,8 @@
       "source": "hn",
       "title": "Up to 8M Bees Are Living in an Underground Network Beneath This Cemetery",
       "url": "https://www.discovermagazine.com/up-to-8-million-bees-are-living-in-an-underground-network-beneath-this-cemetery-48977",
-      "score": 51,
-      "comments": 6,
+      "score": 73,
+      "comments": 10,
       "author": "janandonly",
       "tags": [],
       "date": "2026-04-17T20:14:30+00:00"
@@ -1970,8 +2025,8 @@
       "source": "hn",
       "title": "Monumental ship burial beneath ancient Norwegian mound predates the Viking Age",
       "url": "https://phys.org/news/2026-04-monumental-ship-burial-beneath-ancient.html",
-      "score": 60,
-      "comments": 15,
+      "score": 64,
+      "comments": 17,
       "author": "pseudolus",
       "tags": [],
       "date": "2026-04-17T09:50:53+00:00"
@@ -2614,8 +2669,8 @@
       "source": "hn",
       "title": "I Made the \"Next-Level\" Camera and I love it",
       "url": "https://thelibre.news/i-made-the-next-level-camera-and-i-love-it/",
-      "score": 43,
-      "comments": 1,
+      "score": 73,
+      "comments": 9,
       "author": "ndr",
       "tags": [],
       "date": "2026-04-16T18:19:24+00:00"
@@ -3140,8 +3195,8 @@
       "source": "hn",
       "title": "Ben Lerner's Big Feelings",
       "url": "https://www.vulture.com/article/ben-lerner-transcription-interview.html",
-      "score": 28,
-      "comments": 14,
+      "score": 34,
+      "comments": 17,
       "author": "prismatic",
       "tags": [],
       "date": "2026-04-16T05:43:09+00:00"
@@ -3715,8 +3770,8 @@
       "source": "hn",
       "title": "Mechanical Keyboard Sounds – A listening Museum",
       "url": "https://sheets.works/data-viz/keyboard-sounds",
-      "score": 125,
-      "comments": 38,
+      "score": 144,
+      "comments": 42,
       "author": "akashwadhwani35",
       "tags": [],
       "date": "2026-04-15T15:45:45+00:00"
@@ -5138,65 +5193,6 @@
       "date": "2026-04-14T06:32:45+00:00"
     },
     {
-      "id": "hn-47761997",
-      "source": "hn",
-      "title": "Distributed DuckDB Instance",
-      "url": "https://github.com/citguru/openduck",
-      "score": 125,
-      "comments": 27,
-      "author": "citguru",
-      "tags": [],
-      "date": "2026-04-14T06:31:44+00:00"
-    },
-    {
-      "id": "qiita-1b39bf2961",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "【AWS全冠】新卒1年目が半年でAWS認定資格を全冠して希望を叶えた話",
-      "url": "https://qiita.com/yucn_qiita/items/60510c583819fdaca92e?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "yucn_qiita",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-04-14T15:27:40+09:00"
-    },
-    {
-      "id": "qiita-d2562f3697",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "【小ネタ】RDS/AuroraのバックアップをAWS Backupで行う時の注意点",
-      "url": "https://qiita.com/YutoSekine/items/ff0e78ef4028538c7bb7?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "YutoSekine",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-04-14T15:18:58+09:00"
-    },
-    {
-      "id": "hn-47761825",
-      "source": "hn",
-      "title": "Roblox devs now need a subscription to share their games freely",
-      "url": "https://devforum.roblox.com/t/new-publishing-requirements-evaluation-process-for-games/4573166",
-      "score": 44,
-      "comments": 39,
-      "author": "hallole",
-      "tags": [],
-      "date": "2026-04-14T06:04:31+00:00"
-    },
-    {
-      "id": "hn-47761723",
-      "source": "hn",
-      "title": "MOS tech 6502 8-bit microprocessor in pure SQL powered by Postgres",
-      "url": "https://github.com/lasect/pg_6502",
-      "score": 46,
-      "comments": 5,
-      "author": "adunk",
-      "tags": [],
-      "date": "2026-04-14T05:46:49+00:00"
-    },
-    {
       "id": "ctf-3477546",
       "source": "project",
       "proj_category": "CTF",
@@ -5406,6 +5402,32 @@
       "date": "Sun, 19 Apr 2026 23:00:07 GMT"
     },
     {
+      "id": "zenn-255d8a1d33",
+      "source": "zennqiita",
+      "sub_source": "Zenn",
+      "title": "ブラウザで日本語入力中にIMEが勝手に切り替わると思ったらNeovimのLSPが原因だった",
+      "url": "https://zenn.dev/ultimatile/articles/neovim-lsp-ime-switch-autocmd-conflict",
+      "score": null,
+      "author": "ultimatile",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Sun, 19 Apr 2026 14:55:05 GMT"
+    },
+    {
+      "id": "zenn-50bd5a0f7e",
+      "source": "zennqiita",
+      "sub_source": "Zenn",
+      "title": "GoのWebフレームワークEcho のコードを読んでみた",
+      "url": "https://zenn.dev/aki_artisan/articles/2ef58663ecf20b",
+      "score": null,
+      "author": "あき",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Sun, 19 Apr 2026 12:27:01 GMT"
+    },
+    {
       "id": "zenn-23ebdd16a4",
       "source": "zennqiita",
       "sub_source": "Zenn",
@@ -5458,6 +5480,19 @@
       "date": "Sun, 19 Apr 2026 06:46:40 GMT"
     },
     {
+      "id": "zenn-b0845ac610",
+      "source": "zennqiita",
+      "sub_source": "Zenn",
+      "title": "バージョン管理システム Jujutsu",
+      "url": "https://zenn.dev/usamik26/articles/jj-version-control",
+      "score": null,
+      "author": "USAMI Kosuke",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Sun, 19 Apr 2026 05:56:38 GMT"
+    },
+    {
       "id": "zenn-e65f6e65d1",
       "source": "zennqiita",
       "sub_source": "Zenn",
@@ -5469,6 +5504,19 @@
         "Zenn"
       ],
       "date": "Sun, 19 Apr 2026 05:13:59 GMT"
+    },
+    {
+      "id": "zenn-7cda8558ac",
+      "source": "zennqiita",
+      "sub_source": "Zenn",
+      "title": "GuiguiとGhosttyを組み合わせてターミナルGUIを作ってみた",
+      "url": "https://zenn.dev/rinrin_yuuki/articles/448d45e7df01ee",
+      "score": null,
+      "author": "rin2yh",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Sun, 19 Apr 2026 03:44:11 GMT"
     },
     {
       "id": "zenn-db96a2cc68",
@@ -5510,20 +5558,6 @@
       "date": "Sat, 18 Apr 2026 19:34:38 GMT"
     },
     {
-      "id": "zenn-eee1643d2e",
-      "source": "zennqiita",
-      "sub_source": "Zenn",
-      "title": "正しく脆弱性を怖がるために資格の過去問を通して、実際に指標値を確かめてみた",
-      "url": "https://zenn.dev/moneyforward/articles/6caab074328d02",
-      "score": null,
-      "author": "bun913",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Sat, 18 Apr 2026 12:07:19 GMT",
-      "severity": "high"
-    },
-    {
       "id": "zenn-88b7314258",
       "source": "zennqiita",
       "sub_source": "Zenn",
@@ -5535,19 +5569,6 @@
         "Zenn"
       ],
       "date": "Sat, 18 Apr 2026 12:00:32 GMT"
-    },
-    {
-      "id": "zenn-eaaa580225",
-      "source": "zennqiita",
-      "sub_source": "Zenn",
-      "title": "Async React時代の宣言的UI 2: トランジション対応のuseDebouncedフックを作る",
-      "url": "https://zenn.dev/uhyo/articles/async-react-debounce-2",
-      "score": null,
-      "author": "uhyo",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Sat, 18 Apr 2026 08:54:05 GMT"
     },
     {
       "id": "zenn-ae99d80692",
@@ -5626,32 +5647,6 @@
         "Zenn"
       ],
       "date": "Fri, 17 Apr 2026 04:26:19 GMT"
-    },
-    {
-      "id": "zenn-0efc49fb5f",
-      "source": "zennqiita",
-      "sub_source": "Zenn",
-      "title": "古典ドメインモデルパターンの解脱",
-      "url": "https://zenn.dev/kawasima/books/ddd-detachment",
-      "score": null,
-      "author": "kawasima",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Fri, 17 Apr 2026 04:14:47 GMT"
-    },
-    {
-      "id": "zenn-4a6323d901",
-      "source": "zennqiita",
-      "sub_source": "Zenn",
-      "title": "社内SQLチューニングコンテストの開催にあたって得られた知見",
-      "url": "https://zenn.dev/forcia_tech/articles/202604_devsemi_sql",
-      "score": null,
-      "author": "FORCIA Tech Blog 運営チーム",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Fri, 17 Apr 2026 04:00:10 GMT"
     },
     {
       "id": "edb-43819ec761",

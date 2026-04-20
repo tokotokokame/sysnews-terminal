@@ -1,7 +1,18 @@
 {
-  "updated_at": "2026-04-20T02:40:18.269714+00:00",
+  "updated_at": "2026-04-20T05:42:10.259347+00:00",
   "count": 500,
   "items": [
+    {
+      "id": "hn-47830071",
+      "source": "hn",
+      "title": "A cache-friendly IPv6 LPM with AVX-512 (linearized B+-tree, real BGP benchmarks)",
+      "url": "https://github.com/esutcu/planb-lpm",
+      "score": 8,
+      "comments": 1,
+      "author": "debugga",
+      "tags": [],
+      "date": "2026-04-20T03:24:21+00:00"
+    },
     {
       "id": "hn-47829486",
       "source": "hn",
@@ -12,6 +23,17 @@
       "author": "blondie9x",
       "tags": [],
       "date": "2026-04-20T01:50:35+00:00"
+    },
+    {
+      "id": "hn-47829178",
+      "source": "hn",
+      "title": "Claude Token Counter, now with model comparisons",
+      "url": "https://simonwillison.net/2026/Apr/20/claude-token-counts/",
+      "score": 43,
+      "comments": 11,
+      "author": "twapi",
+      "tags": [],
+      "date": "2026-04-20T00:56:40+00:00"
     },
     {
       "id": "hn-47829058",
@@ -40,8 +62,8 @@
       "source": "hn",
       "title": "Show HN: A lightweight way to make agents talk without paying for API usage",
       "url": "https://juanpabloaj.com/2026/04/16/a-lightweight-way-to-make-agents-talk-without-paying-for-api-usage/",
-      "score": 7,
-      "comments": 3,
+      "score": 21,
+      "comments": 5,
       "author": "juanpabloaj",
       "tags": [],
       "date": "2026-04-20T00:21:24+00:00"
@@ -49,21 +71,32 @@
     {
       "id": "hn-47828896",
       "source": "hn",
-      "title": "Show HN: TRELLIS.2 image-to-3D running on Mac Silicon – no Nvidia GPU needed",
+      "title": "Show HN: Run TRELLIS.2 Image-to-3D generation natively on Apple Silicon",
       "url": "https://github.com/shivampkumar/trellis-mac",
-      "score": 52,
-      "comments": 4,
+      "score": 129,
+      "comments": 21,
       "author": "shivampkumar",
       "tags": [],
       "date": "2026-04-20T00:07:16+00:00"
+    },
+    {
+      "id": "hn-47828853",
+      "source": "hn",
+      "title": "Sudo for Windows (2024)",
+      "url": "https://github.com/microsoft/sudo",
+      "score": 54,
+      "comments": 26,
+      "author": "luispa",
+      "tags": [],
+      "date": "2026-04-19T23:59:51+00:00"
     },
     {
       "id": "hn-47828444",
       "source": "hn",
       "title": "Swiss AI Initiative (2023)",
       "url": "https://www.swiss-ai.org",
-      "score": 20,
-      "comments": 6,
+      "score": 40,
+      "comments": 13,
       "author": "doener",
       "tags": [],
       "date": "2026-04-19T22:58:35+00:00"
@@ -73,8 +106,8 @@
       "source": "hn",
       "title": "2,100 Swiss municipalities showing which provider handles their official email",
       "url": "https://mxmap.ch/",
-      "score": 75,
-      "comments": 21,
+      "score": 109,
+      "comments": 34,
       "author": "doener",
       "tags": [],
       "date": "2026-04-19T22:55:47+00:00"
@@ -117,8 +150,8 @@
       "source": "hn",
       "title": "Stop trying to engineer your way out of listening to people",
       "url": "https://ashley.rolfmore.com/stop-trying-to-engineer-your-way-out-of-listening-to-people/",
-      "score": 29,
-      "comments": 3,
+      "score": 114,
+      "comments": 31,
       "author": "walterbell",
       "tags": [],
       "date": "2026-04-19T20:09:09+00:00"
@@ -161,8 +194,8 @@
       "source": "hn",
       "title": "I wrote a CHIP-8 emulator in my own programming language",
       "url": "https://github.com/navid-m/chip8emu",
-      "score": 47,
-      "comments": 13,
+      "score": 61,
+      "comments": 14,
       "author": "pizza_man",
       "tags": [],
       "date": "2026-04-19T19:21:22+00:00"
@@ -172,8 +205,8 @@
       "source": "hn",
       "title": "Scientific datasets are riddled with copy-paste errors",
       "url": "https://www.sciencedetective.org/scientific-datasets-are-riddled-with-copy-paste-errors/",
-      "score": 38,
-      "comments": 3,
+      "score": 67,
+      "comments": 10,
       "author": "jruohonen",
       "tags": [],
       "date": "2026-04-19T19:18:57+00:00"
@@ -183,8 +216,8 @@
       "source": "hn",
       "title": "Six Levels of Dark Mode (2024)",
       "url": "https://cssence.com/2024/six-levels-of-dark-mode/",
-      "score": 52,
-      "comments": 20,
+      "score": 65,
+      "comments": 30,
       "author": "Akcium",
       "tags": [],
       "date": "2026-04-19T18:36:00+00:00"
@@ -216,8 +249,8 @@
       "source": "hn",
       "title": "The Bromine Chokepoint",
       "url": "https://warontherocks.com/cogs-of-war/the-bromine-chokepoint-how-strife-in-the-middle-east-could-halt-production-of-the-worlds-memory-chips/",
-      "score": 162,
-      "comments": 76,
+      "score": 181,
+      "comments": 88,
       "author": "crescit_eundo",
       "tags": [],
       "date": "2026-04-19T17:44:03+00:00"
@@ -227,8 +260,8 @@
       "source": "hn",
       "title": "Turtle WoW classic server announces shutdown after Blizzard wins injunction",
       "url": "https://www.pcgamer.com/games/world-of-warcraft/turtle-wow-classic-server-announces-shutdown-after-blizzard-wins-injunction/",
-      "score": 130,
-      "comments": 105,
+      "score": 182,
+      "comments": 155,
       "author": "Brajeshwar",
       "tags": [],
       "date": "2026-04-19T15:48:40+00:00"
@@ -341,8 +374,8 @@
       "source": "hn",
       "title": "Vercel April 2026 security incident",
       "url": "https://www.bleepingcomputer.com/news/security/vercel-confirms-breach-as-hackers-claim-to-be-selling-stolen-data/",
-      "score": 560,
-      "comments": 327,
+      "score": 647,
+      "comments": 367,
       "author": "colesantiago",
       "tags": [],
       "date": "2026-04-19T14:14:38+00:00",
@@ -423,8 +456,8 @@
       "source": "hn",
       "title": "Changes in the system prompt between Claude Opus 4.6 and 4.7",
       "url": "https://simonwillison.net/2026/Apr/18/opus-system-prompt/",
-      "score": 226,
-      "comments": 127,
+      "score": 262,
+      "comments": 155,
       "author": "pretext",
       "tags": [],
       "date": "2026-04-19T10:36:29+00:00"
@@ -456,8 +489,8 @@
       "source": "hn",
       "title": "A Brief History of Fish Sauce",
       "url": "https://www.legalnomads.com/fish-sauce/",
-      "score": 85,
-      "comments": 40,
+      "score": 142,
+      "comments": 58,
       "author": "vinhnx",
       "tags": [],
       "date": "2026-04-19T08:32:53+00:00"
@@ -467,8 +500,8 @@
       "source": "hn",
       "title": "The seven programming ur-languages (2022)",
       "url": "https://madhadron.com/programming/seven_ur_languages.html",
-      "score": 294,
-      "comments": 113,
+      "score": 321,
+      "comments": 122,
       "author": "helloplanets",
       "tags": [],
       "date": "2026-04-19T07:38:08+00:00"
@@ -478,8 +511,8 @@
       "source": "hn",
       "title": "The RAM shortage could last years",
       "url": "https://www.theverge.com/ai-artificial-intelligence/914672/the-ram-shortage-could-last-years",
-      "score": 202,
-      "comments": 221,
+      "score": 245,
+      "comments": 278,
       "author": "omer_k",
       "tags": [],
       "date": "2026-04-19T07:18:44+00:00"
@@ -1030,7 +1063,7 @@
       "source": "hn",
       "title": "Interesting Map Geometry and Mathematics",
       "url": "https://www.markrjohnsongames.com/2026/04/11/ultima-ratio-regum-0-11-update-57-interesting-map-geometry-and-mathematics/",
-      "score": 10,
+      "score": 18,
       "comments": 0,
       "author": "Hooke",
       "tags": [],
@@ -1261,6 +1294,17 @@
       "author": "gkamradt_",
       "tags": [],
       "date": "2026-04-17T21:00:08+00:00"
+    },
+    {
+      "id": "hn-47810109",
+      "source": "hn",
+      "title": "A Common MVP Evolution: Service to System Integration to Product (2017)",
+      "url": "https://www.skmurphy.com/blog/2017/08/07/a-common-evolution-service-to-system-integration-to-product/",
+      "score": 8,
+      "comments": 2,
+      "author": "skmurphy",
+      "tags": [],
+      "date": "2026-04-17T20:15:40+00:00"
     },
     {
       "id": "hn-47809347",
@@ -1522,8 +1566,8 @@
       "source": "hn",
       "title": "Archive of BYTE magazine, starting with issue #1 in 1975",
       "url": "https://archive.org/details/byte-magazine-1975-09",
-      "score": 538,
-      "comments": 140,
+      "score": 561,
+      "comments": 147,
       "author": "DamnInteresting",
       "tags": [],
       "date": "2026-04-17T14:07:28+00:00"
@@ -1675,6 +1719,17 @@
         "Qiita"
       ],
       "date": "2026-04-17T19:01:28+09:00"
+    },
+    {
+      "id": "hn-47804178",
+      "source": "hn",
+      "title": "Monumental ship burial beneath ancient Norwegian mound predates the Viking Age",
+      "url": "https://phys.org/news/2026-04-monumental-ship-burial-beneath-ancient.html",
+      "score": 15,
+      "comments": 1,
+      "author": "pseudolus",
+      "tags": [],
+      "date": "2026-04-17T09:50:53+00:00"
     },
     {
       "id": "qiita-cde9fea46e",
@@ -3305,8 +3360,8 @@
       "source": "hn",
       "title": "Prove you are a robot: CAPTCHAs for agents",
       "url": "https://browser-use.com/posts/prove-you-are-a-robot",
-      "score": 53,
-      "comments": 28,
+      "score": 79,
+      "comments": 38,
       "author": "lukasec",
       "tags": [],
       "date": "2026-04-15T17:03:39+00:00"
@@ -3391,10 +3446,10 @@
     {
       "id": "hn-47780743",
       "source": "hn",
-      "title": "Mechanical Keyboard Sounds - A listening Museum",
+      "title": "Mechanical Keyboard Sounds – A listening Museum",
       "url": "https://sheets.works/data-viz/keyboard-sounds",
-      "score": 32,
-      "comments": 1,
+      "score": 73,
+      "comments": 29,
       "author": "akashwadhwani35",
       "tags": [],
       "date": "2026-04-15T15:45:45+00:00"
@@ -4517,8 +4572,8 @@
       "source": "hn",
       "title": "Recovering Windows Live Writer Files",
       "url": "https://benovermyer.com/blog/2026/04/recovering-windows-live-writer-files/",
-      "score": 10,
-      "comments": 2,
+      "score": 18,
+      "comments": 6,
       "author": "bovermyer",
       "tags": [],
       "date": "2026-04-14T14:32:39+00:00"
@@ -5127,61 +5182,6 @@
       "author": "zdw",
       "tags": [],
       "date": "2026-04-13T22:41:19+00:00"
-    },
-    {
-      "id": "hn-47758347",
-      "source": "hn",
-      "title": "N-Day-Bench – Can LLMs find real vulnerabilities in real codebases?",
-      "url": "https://ndaybench.winfunc.com",
-      "score": 78,
-      "comments": 26,
-      "author": "mufeedvh",
-      "tags": [],
-      "date": "2026-04-13T21:54:03+00:00"
-    },
-    {
-      "id": "hn-47758309",
-      "source": "hn",
-      "title": "Webloc: Analysis of Penlink's Ad-Based Geolocation Surveillance Tech",
-      "url": "https://citizenlab.ca/research/analysis-of-penlinks-ad-based-geolocation-surveillance-tech/",
-      "score": 51,
-      "comments": 0,
-      "author": "Cider9986",
-      "tags": [],
-      "date": "2026-04-13T21:51:30+00:00"
-    },
-    {
-      "id": "hn-47758028",
-      "source": "hn",
-      "title": "Stanford report highlights growing disconnect between AI insiders and everyone",
-      "url": "https://techcrunch.com/2026/04/13/stanford-report-highlights-growing-disconnect-between-ai-insiders-and-everyone-else/",
-      "score": 160,
-      "comments": 202,
-      "author": "ZeidJ",
-      "tags": [],
-      "date": "2026-04-13T21:25:38+00:00"
-    },
-    {
-      "id": "hn-47757595",
-      "source": "hn",
-      "title": "Mathematical Minimalism",
-      "url": "https://www.johndcook.com/blog/2026/04/13/the-smallest-math-library/",
-      "score": 13,
-      "comments": 1,
-      "author": "chmaynard",
-      "tags": [],
-      "date": "2026-04-13T20:45:39+00:00"
-    },
-    {
-      "id": "hn-47757552",
-      "source": "hn",
-      "title": "Show HN: Continual Learning with .md",
-      "url": "https://github.com/SunAndClouds/ReadMe",
-      "score": 14,
-      "comments": 4,
-      "author": "wenhan_zhou",
-      "tags": [],
-      "date": "2026-04-13T20:42:19+00:00"
     },
     {
       "id": "ctf-3477546",

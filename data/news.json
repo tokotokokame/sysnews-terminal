@@ -1,25 +1,59 @@
 {
-  "updated_at": "2026-04-21T18:39:19.496341+00:00",
+  "updated_at": "2026-04-21T20:02:55.506843+00:00",
   "count": 500,
   "items": [
+    {
+      "id": "hn-47852835",
+      "source": "hn",
+      "title": "OpenAI Livestream",
+      "url": "https://openai.com/live/",
+      "score": 53,
+      "comments": 38,
+      "author": "wahnfrieden",
+      "tags": [],
+      "date": "2026-04-21T18:50:00+00:00"
+    },
     {
       "id": "hn-47852177",
       "source": "hn",
       "title": "Framework Laptop 13 Pro",
       "url": "https://frame.work/laptop13pro",
-      "score": 74,
-      "comments": 21,
+      "score": 387,
+      "comments": 211,
       "author": "Trollmann",
       "tags": [],
       "date": "2026-04-21T18:00:34+00:00"
+    },
+    {
+      "id": "hn-47852155",
+      "source": "hn",
+      "title": "Cal.diy: open-source community edition of cal.com",
+      "url": "https://github.com/calcom/cal.diy",
+      "score": 58,
+      "comments": 12,
+      "author": "petecooper",
+      "tags": [],
+      "date": "2026-04-21T17:58:21+00:00",
+      "severity": "critical"
+    },
+    {
+      "id": "hn-47851948",
+      "source": "hn",
+      "title": "Meta capturing employee mouse movements, keystrokes for AI training data",
+      "url": "https://economictimes.indiatimes.com/tech/technology/meta-to-start-capturing-employee-mouse-movements-keystrokes-for-ai-training-data/articleshow/130422612.cms?from=mdr",
+      "score": 87,
+      "comments": 47,
+      "author": "dlx",
+      "tags": [],
+      "date": "2026-04-21T17:40:39+00:00"
     },
     {
       "id": "hn-47851885",
       "source": "hn",
       "title": "Britannica11.org – a structured edition of the 1911 Encyclopædia Britannica",
       "url": "https://britannica11.org/",
-      "score": 40,
-      "comments": 27,
+      "score": 105,
+      "comments": 57,
       "author": "ahaspel",
       "tags": [],
       "date": "2026-04-21T17:33:50+00:00"
@@ -29,12 +63,23 @@
       "source": "hn",
       "title": "The Vercel breach: OAuth attack exposes risk in platform environment variables",
       "url": "https://www.trendmicro.com/en_us/research/26/d/vercel-breach-oauth-supply-chain.html",
-      "score": 71,
-      "comments": 25,
+      "score": 146,
+      "comments": 56,
       "author": "queenelvis",
       "tags": [],
       "date": "2026-04-21T17:14:35+00:00",
       "severity": "critical"
+    },
+    {
+      "id": "hn-47851630",
+      "source": "hn",
+      "title": "Ibuilt a tiny Unix‑like 'OS' with shell and filesystem for Arduino UNO (2KB RAM)",
+      "url": "https://github.com/Arc1011/KernelUNO",
+      "score": 28,
+      "comments": 3,
+      "author": "Arc1011",
+      "tags": [],
+      "date": "2026-04-21T17:14:26+00:00"
     },
     {
       "id": "hn-47851456",
@@ -52,8 +97,8 @@
       "source": "hn",
       "title": "A Periodic Map of Cheese",
       "url": "https://cheesemap.netlify.app/",
-      "score": 56,
-      "comments": 26,
+      "score": 93,
+      "comments": 50,
       "author": "sfrechtling",
       "tags": [],
       "date": "2026-04-21T16:31:21+00:00"
@@ -74,7 +119,7 @@
       "source": "hn",
       "title": "Kasane: New drop-in Kakoune front end with GPU rendering and WASM Plugins",
       "url": "https://github.com/Yus314/kasane",
-      "score": 26,
+      "score": 31,
       "comments": 3,
       "author": "nsagent",
       "tags": [],
@@ -107,8 +152,8 @@
       "source": "hn",
       "title": "Fusion Power Plant Simulator",
       "url": "https://www.fusionenergybase.com/fusion-power-plant-simulator",
-      "score": 91,
-      "comments": 34,
+      "score": 111,
+      "comments": 55,
       "author": "sam",
       "tags": [],
       "date": "2026-04-21T14:26:52+00:00"
@@ -129,8 +174,8 @@
       "source": "hn",
       "title": "Show HN: GoModel – an open-source AI gateway in Go",
       "url": "https://github.com/ENTERPILOT/GOModel/",
-      "score": 107,
-      "comments": 37,
+      "score": 127,
+      "comments": 47,
       "author": "santiago-pl",
       "tags": [],
       "date": "2026-04-21T14:11:53+00:00",
@@ -185,8 +230,8 @@
       "source": "hn",
       "title": "Show HN: VidStudio, a browser based video editor that doesn't upload your files",
       "url": "https://vidstudio.app/video-editor",
-      "score": 196,
-      "comments": 72,
+      "score": 207,
+      "comments": 73,
       "author": "kolx",
       "tags": [],
       "date": "2026-04-21T11:58:16+00:00"
@@ -207,8 +252,8 @@
       "source": "hn",
       "title": "Laws of Software Engineering",
       "url": "https://lawsofsoftwareengineering.com",
-      "score": 632,
-      "comments": 326,
+      "score": 693,
+      "comments": 355,
       "author": "milanm081",
       "tags": [],
       "date": "2026-04-21T11:04:56+00:00"
@@ -229,8 +274,8 @@
       "source": "hn",
       "title": "A type-safe, realtime collaborative Graph Database in a CRDT",
       "url": "https://codemix.com/graph",
-      "score": 117,
-      "comments": 32,
+      "score": 123,
+      "comments": 34,
       "author": "phpnode",
       "tags": [],
       "date": "2026-04-21T10:33:24+00:00"
@@ -433,8 +478,8 @@
       "source": "hn",
       "title": "Anthropic says OpenClaw-style Claude CLI usage is allowed again",
       "url": "https://docs.openclaw.ai/providers/anthropic",
-      "score": 416,
-      "comments": 240,
+      "score": 443,
+      "comments": 248,
       "author": "jmsflknr",
       "tags": [],
       "date": "2026-04-21T03:43:03+00:00"
@@ -736,8 +781,8 @@
       "source": "hn",
       "title": "Show HN: Ctx – a /resume that works across Claude Code and Codex",
       "url": "https://github.com/dchu917/ctx",
-      "score": 20,
-      "comments": 8,
+      "score": 36,
+      "comments": 16,
       "author": "dchu17",
       "tags": [],
       "date": "2026-04-20T16:35:05+00:00"
@@ -799,6 +844,17 @@
       "severity": "critical"
     },
     {
+      "id": "hn-47835728",
+      "source": "hn",
+      "title": "My practitioner view of program analysis",
+      "url": "https://sawyer.dev/posts/practitioner-program-analysis/",
+      "score": 4,
+      "comments": 0,
+      "author": "evakhoury",
+      "tags": [],
+      "date": "2026-04-20T15:27:30+00:00"
+    },
+    {
       "id": "hn-47835646",
       "source": "hn",
       "title": "I prompted ChatGPT, Claude, Perplexity, and Gemini and watched my Nginx logs",
@@ -838,8 +894,8 @@
       "source": "hn",
       "title": "MNT Reform is an open hardware laptop, designed and assembled in Germany",
       "url": "http://mnt.stanleylieber.com/reform/",
-      "score": 220,
-      "comments": 87,
+      "score": 240,
+      "comments": 89,
       "author": "speckx",
       "tags": [],
       "date": "2026-04-20T14:14:52+00:00"
@@ -1161,6 +1217,17 @@
         "Qiita"
       ],
       "date": "2026-04-20T13:40:52+09:00"
+    },
+    {
+      "id": "hn-47830332",
+      "source": "hn",
+      "title": "Theseus, a Static Windows Emulator",
+      "url": "https://neugierig.org/software/blog/2026/04/theseus.html",
+      "score": 28,
+      "comments": 2,
+      "author": "zdw",
+      "tags": [],
+      "date": "2026-04-20T04:14:48+00:00"
     },
     {
       "id": "qiita-5a6c422e04",
@@ -1694,8 +1761,8 @@
       "source": "hn",
       "title": "Modern Front end Complexity: essential or accidental?",
       "url": "https://binaryigor.com/modern-frontend-complexity.html",
-      "score": 23,
-      "comments": 11,
+      "score": 39,
+      "comments": 24,
       "author": "gsky",
       "tags": [],
       "date": "2026-04-19T13:10:51+00:00"
@@ -1764,8 +1831,8 @@
       "source": "hn",
       "title": "Clojure: Transducers",
       "url": "https://clojure.org/reference/transducers",
-      "score": 95,
-      "comments": 27,
+      "score": 111,
+      "comments": 46,
       "author": "tosh",
       "tags": [],
       "date": "2026-04-19T10:56:20+00:00"
@@ -1830,8 +1897,8 @@
       "source": "hn",
       "title": "Edit store price tags using Flipper Zero",
       "url": "https://github.com/i12bp8/TagTinker",
-      "score": 143,
-      "comments": 154,
+      "score": 189,
+      "comments": 195,
       "author": "trueduke",
       "tags": [],
       "date": "2026-04-19T09:26:04+00:00"
@@ -2400,8 +2467,8 @@
       "source": "hn",
       "title": "Running a Minecraft Server and More on a 1960s Univac Computer",
       "url": "https://farlow.dev/2026/04/17/running-a-minecraft-server-and-more-on-a-1960s-univac-computer",
-      "score": 132,
-      "comments": 22,
+      "score": 148,
+      "comments": 24,
       "author": "brilee",
       "tags": [],
       "date": "2026-04-18T12:41:00+00:00"
@@ -2475,6 +2542,17 @@
         "Qiita"
       ],
       "date": "2026-04-18T20:09:16+09:00"
+    },
+    {
+      "id": "hn-47814874",
+      "source": "hn",
+      "title": "10 years: Stephen's Sausage Roll still one of the most influential puzzle games",
+      "url": "https://thinkygames.com/features/10-years-of-grilling-stephens-sausage-roll-remains-one-of-the-most-influential-puzzle-games-ever-created/",
+      "score": 6,
+      "comments": 0,
+      "author": "tobr",
+      "tags": [],
+      "date": "2026-04-18T10:53:42+00:00"
     },
     {
       "id": "hn-47814073",
@@ -5106,85 +5184,6 @@
       "author": "bachmeier",
       "tags": [],
       "date": "2026-04-15T16:13:10+00:00"
-    },
-    {
-      "id": "hn-47780971",
-      "source": "hn",
-      "title": "Show HN: Libretto – Making AI browser automations deterministic",
-      "url": "https://github.com/saffron-health/libretto",
-      "score": 104,
-      "comments": 39,
-      "author": "muchael",
-      "tags": [],
-      "date": "2026-04-15T15:57:54+00:00"
-    },
-    {
-      "id": "hn-47780743",
-      "source": "hn",
-      "title": "Mechanical Keyboard Sounds – A listening Museum",
-      "url": "https://sheets.works/data-viz/keyboard-sounds",
-      "score": 144,
-      "comments": 42,
-      "author": "akashwadhwani35",
-      "tags": [],
-      "date": "2026-04-15T15:45:45+00:00"
-    },
-    {
-      "id": "hn-47780712",
-      "source": "hn",
-      "title": "Open Source Isn't Dead. Cal.com Just Learned the Wrong Lesson",
-      "url": "https://www.strix.ai/blog/cal-com-is-closing-its-code-due-to-ai-threats",
-      "score": 285,
-      "comments": 160,
-      "author": "bearsyankees",
-      "tags": [],
-      "date": "2026-04-15T15:43:37+00:00",
-      "severity": "critical"
-    },
-    {
-      "id": "hn-47780456",
-      "source": "hn",
-      "title": "Cal.com is going closed source",
-      "url": "https://cal.com/blog/cal-com-goes-closed-source-why",
-      "score": 332,
-      "comments": 264,
-      "author": "Benjamin_Dobell",
-      "tags": [],
-      "date": "2026-04-15T15:26:46+00:00",
-      "severity": "critical"
-    },
-    {
-      "id": "hn-47779730",
-      "source": "hn",
-      "title": "Elevated errors on Claude.ai, API, Claude Code",
-      "url": "https://claudestatus.com/",
-      "score": 173,
-      "comments": 145,
-      "author": "redm",
-      "tags": [],
-      "date": "2026-04-15T14:44:00+00:00"
-    },
-    {
-      "id": "hn-47779659",
-      "source": "hn",
-      "title": "Modern Common Lisp with FSet",
-      "url": "https://fset.common-lisp.dev/Modern-CL/Top_html/index.html",
-      "score": 171,
-      "comments": 21,
-      "author": "larve",
-      "tags": [],
-      "date": "2026-04-15T14:38:38+00:00"
-    },
-    {
-      "id": "hn-47779372",
-      "source": "hn",
-      "title": "It's cool to care (2025)",
-      "url": "https://alexwlchan.net/2025/cool-to-care/",
-      "score": 51,
-      "comments": 26,
-      "author": "surprisetalk",
-      "tags": [],
-      "date": "2026-04-15T14:20:42+00:00"
     },
     {
       "id": "ctf-3477546",

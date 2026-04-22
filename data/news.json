@@ -1,14 +1,70 @@
 {
-  "updated_at": "2026-04-22T17:01:09.698352+00:00",
+  "updated_at": "2026-04-22T18:37:36.539253+00:00",
   "count": 500,
   "items": [
     {
+      "id": "hn-47867085",
+      "source": "hn",
+      "title": "OpenAI: Workspace Agents for Business",
+      "url": "https://openai.com/business/workspace-agents/",
+      "score": 12,
+      "comments": 2,
+      "author": "tosh",
+      "tags": [],
+      "date": "2026-04-22T18:04:07+00:00"
+    },
+    {
+      "id": "hn-47866913",
+      "source": "hn",
+      "title": "Coding Models Are Doing Too Much",
+      "url": "https://nrehiew.github.io/blog/minimal_editing/",
+      "score": 64,
+      "comments": 25,
+      "author": "pella",
+      "tags": [],
+      "date": "2026-04-22T17:51:17+00:00"
+    },
+    {
+      "id": "hn-47866860",
+      "source": "hn",
+      "title": "Workspace Agents in ChatGPT",
+      "url": "https://openai.com/index/introducing-workspace-agents-in-chatgpt/",
+      "score": 19,
+      "comments": 4,
+      "author": "mfiguiere",
+      "tags": [],
+      "date": "2026-04-22T17:47:07+00:00"
+    },
+    {
+      "id": "hn-47866750",
+      "source": "hn",
+      "title": "Parallel Agents in Zed",
+      "url": "https://zed.dev/blog/parallel-agents",
+      "score": 41,
+      "comments": 9,
+      "author": "ajeetdsouza",
+      "tags": [],
+      "date": "2026-04-22T17:38:57+00:00"
+    },
+    {
+      "id": "hn-47866395",
+      "source": "hn",
+      "title": "Surveillance Pricing: Exploiting Information Asymmetries",
+      "url": "https://lpeproject.org/blog/surveillance-pricing-exploiting-information-asymmetries/",
+      "score": 19,
+      "comments": 5,
+      "author": "cainxinth",
+      "tags": [],
+      "date": "2026-04-22T17:13:19+00:00",
+      "severity": "high"
+    },
+    {
       "id": "hn-47865868",
       "source": "hn",
-      "title": "Alberta Startup Sells No-Tech Tractors for Half Price",
+      "title": "Alberta startup sells no-tech tractors for half price",
       "url": "https://wheelfront.com/this-alberta-startup-sells-no-tech-tractors-for-half-price/",
-      "score": 96,
-      "comments": 17,
+      "score": 472,
+      "comments": 165,
       "author": "Kaibeezy",
       "tags": [],
       "date": "2026-04-22T16:29:25+00:00"
@@ -25,12 +81,23 @@
       "date": "2026-04-22T16:26:41+00:00"
     },
     {
+      "id": "hn-47865661",
+      "source": "hn",
+      "title": "Martin Fowler: Technical, Cognitive, and Intent Debt",
+      "url": "https://martinfowler.com/fragments/2026-04-14.html",
+      "score": 68,
+      "comments": 13,
+      "author": "theorchid",
+      "tags": [],
+      "date": "2026-04-22T16:11:23+00:00"
+    },
+    {
       "id": "hn-47865642",
       "source": "hn",
       "title": "Show HN: Broccoli, one shot coding agent on the cloud",
       "url": "https://github.com/besimple-oss/broccoli",
-      "score": 7,
-      "comments": 0,
+      "score": 18,
+      "comments": 13,
       "author": "yzhong94",
       "tags": [],
       "date": "2026-04-22T16:09:56+00:00"
@@ -51,8 +118,8 @@
       "source": "hn",
       "title": "DuckDB 1.5.2 – SQL database that runs on laptop, server, in the browser",
       "url": "https://duckdb.org/2026/04/13/announcing-duckdb-152",
-      "score": 59,
-      "comments": 13,
+      "score": 89,
+      "comments": 25,
       "author": "janandonly",
       "tags": [],
       "date": "2026-04-22T14:49:02+00:00"
@@ -60,10 +127,10 @@
     {
       "id": "hn-47864393",
       "source": "hn",
-      "title": "Show HN submissions tripled and now mostly share the same vibe-coded look",
+      "title": "Scoring Show HN submissions for AI design patterns",
       "url": "https://www.adriankrebs.ch/blog/design-slop/",
-      "score": 194,
-      "comments": 147,
+      "score": 222,
+      "comments": 171,
       "author": "hubraumhugo",
       "tags": [],
       "date": "2026-04-22T14:44:32+00:00"
@@ -84,10 +151,10 @@
     {
       "id": "hn-47863324",
       "source": "hn",
-      "title": "Treetops glowing during storms captured on film for first time",
+      "title": "Ultraviolet corona discharges on treetops",
       "url": "https://www.psu.edu/news/earth-and-mineral-sciences/story/treetops-glowing-during-storms-captured-film-first-time",
-      "score": 111,
-      "comments": 24,
+      "score": 149,
+      "comments": 40,
       "author": "t-3",
       "tags": [],
       "date": "2026-04-22T13:28:40+00:00"
@@ -97,8 +164,8 @@
       "source": "hn",
       "title": "Qwen3.6-27B: Flagship-Level Coding in a 27B Dense Model",
       "url": "https://qwen.ai/blog?id=qwen3.6-27b",
-      "score": 223,
-      "comments": 117,
+      "score": 357,
+      "comments": 204,
       "author": "mfiguiere",
       "tags": [],
       "date": "2026-04-22T13:19:58+00:00"
@@ -108,8 +175,8 @@
       "source": "hn",
       "title": "Columnar Storage Is Normalization",
       "url": "https://buttondown.com/jaffray/archive/columnar-storage-is-normalization/",
-      "score": 64,
-      "comments": 23,
+      "score": 78,
+      "comments": 29,
       "author": "ibobev",
       "tags": [],
       "date": "2026-04-22T12:30:14+00:00"
@@ -130,8 +197,8 @@
       "source": "hn",
       "title": "Our eighth generation TPUs: two chips for the agentic era",
       "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/eighth-generation-tpu-agentic-era/",
-      "score": 246,
-      "comments": 131,
+      "score": 296,
+      "comments": 147,
       "author": "xnx",
       "tags": [],
       "date": "2026-04-22T12:15:29+00:00"
@@ -141,8 +208,8 @@
       "source": "hn",
       "title": "3.4M Solar Panels",
       "url": "https://tech.marksblogg.com/american-solar-farms-v2.html",
-      "score": 210,
-      "comments": 125,
+      "score": 233,
+      "comments": 161,
       "author": "marklit",
       "tags": [],
       "date": "2026-04-22T12:04:30+00:00"
@@ -152,8 +219,8 @@
       "source": "hn",
       "title": "GitHub CLI now collects pseudoanonymous telemetry",
       "url": "https://cli.github.com/telemetry",
-      "score": 269,
-      "comments": 208,
+      "score": 316,
+      "comments": 243,
       "author": "ingve",
       "tags": [],
       "date": "2026-04-22T11:58:58+00:00"
@@ -196,8 +263,8 @@
       "source": "hn",
       "title": "Windows 9x Subsystem for Linux",
       "url": "https://social.hails.org/@hailey/116446826733136456",
-      "score": 656,
-      "comments": 159,
+      "score": 728,
+      "comments": 168,
       "author": "sohkamyung",
       "tags": [],
       "date": "2026-04-22T09:52:52+00:00"
@@ -207,8 +274,8 @@
       "source": "hn",
       "title": "How does GPS work?",
       "url": "https://perthirtysix.com/how-the-heck-does-gps-work",
-      "score": 161,
-      "comments": 34,
+      "score": 183,
+      "comments": 37,
       "author": "alfanick",
       "tags": [],
       "date": "2026-04-22T09:22:05+00:00"
@@ -372,8 +439,8 @@
       "source": "hn",
       "title": "Another Day Has Come",
       "url": "https://daringfireball.net/2026/04/another_day_has_come",
-      "score": 120,
-      "comments": 106,
+      "score": 139,
+      "comments": 118,
       "author": "ndr42",
       "tags": [],
       "date": "2026-04-21T20:52:19+00:00"
@@ -1058,8 +1125,8 @@
       "source": "hn",
       "title": "Making RAM at Home [video]",
       "url": "https://www.youtube.com/watch?v=h6GWikWlAQA",
-      "score": 528,
-      "comments": 152,
+      "score": 554,
+      "comments": 156,
       "author": "kaipereira",
       "tags": [],
       "date": "2026-04-20T23:35:06+00:00"
@@ -1129,6 +1196,17 @@
       "author": "zeroecco",
       "tags": [],
       "date": "2026-04-20T21:13:49+00:00"
+    },
+    {
+      "id": "hn-47840618",
+      "source": "hn",
+      "title": "Who Killed the Florida Orange?",
+      "url": "https://slate.com/business/2026/04/florida-state-orange-food-houses-real-estate.html",
+      "score": 49,
+      "comments": 26,
+      "author": "danso",
+      "tags": [],
+      "date": "2026-04-20T21:00:43+00:00"
     },
     {
       "id": "hn-47840570",
@@ -2310,6 +2388,17 @@
       "author": "Tiberium",
       "tags": [],
       "date": "2026-04-19T15:20:01+00:00"
+    },
+    {
+      "id": "hn-47824943",
+      "source": "hn",
+      "title": "5x5 Pixel font for tiny screens",
+      "url": "https://maurycyz.com/projects/mcufont/",
+      "score": 111,
+      "comments": 28,
+      "author": "zdw",
+      "tags": [],
+      "date": "2026-04-19T15:19:28+00:00"
     },
     {
       "id": "hn-47824874",
@@ -3554,8 +3643,8 @@
       "source": "hn",
       "title": "Bodega Cats of New York",
       "url": "https://bodegacatsofnewyork.com",
-      "score": 26,
-      "comments": 7,
+      "score": 72,
+      "comments": 33,
       "author": "zdw",
       "tags": [],
       "date": "2026-04-18T02:26:57+00:00"
@@ -5103,94 +5192,6 @@
       "author": "AlphaWeaver",
       "tags": [],
       "date": "2026-04-16T14:29:09+00:00"
-    },
-    {
-      "id": "hn-47793411",
-      "source": "hn",
-      "title": "Claude Opus 4.7",
-      "url": "https://www.anthropic.com/news/claude-opus-4-7",
-      "score": 1922,
-      "comments": 1403,
-      "author": "meetpateltech",
-      "tags": [],
-      "date": "2026-04-16T14:23:50+00:00"
-    },
-    {
-      "id": "hn-47793161",
-      "source": "hn",
-      "title": "Game devs explain the tricks involved with letting you pause a game",
-      "url": "https://kotaku.com/video-game-devs-explain-how-pausing-works-and-sometimes-it-gets-weird-2000686339",
-      "score": 399,
-      "comments": 221,
-      "author": "speckx",
-      "tags": [],
-      "date": "2026-04-16T14:05:10+00:00"
-    },
-    {
-      "id": "hn-47792764",
-      "source": "hn",
-      "title": "Qwen3.6-35B-A3B: Agentic coding power, now open to all",
-      "url": "https://qwen.ai/blog?id=qwen3.6-35b-a3b",
-      "score": 1164,
-      "comments": 489,
-      "author": "cmitsakis",
-      "tags": [],
-      "date": "2026-04-16T13:36:27+00:00"
-    },
-    {
-      "id": "hn-47792718",
-      "source": "hn",
-      "title": "The future of everything is lies, I guess: Where do we go from here?",
-      "url": "https://aphyr.com/posts/420-the-future-of-everything-is-lies-i-guess-where-do-we-go-from-here",
-      "score": 601,
-      "comments": 631,
-      "author": "aphyr",
-      "tags": [],
-      "date": "2026-04-16T13:32:13+00:00"
-    },
-    {
-      "id": "hn-47792593",
-      "source": "hn",
-      "title": "Cloudflare Email Service",
-      "url": "https://blog.cloudflare.com/email-for-agents/",
-      "score": 391,
-      "comments": 180,
-      "author": "jilles",
-      "tags": [],
-      "date": "2026-04-16T13:21:53+00:00"
-    },
-    {
-      "id": "hn-47792538",
-      "source": "hn",
-      "title": "Cloudflare's AI Platform: an inference layer designed for agents",
-      "url": "https://blog.cloudflare.com/ai-platform/",
-      "score": 289,
-      "comments": 73,
-      "author": "nikitoci",
-      "tags": [],
-      "date": "2026-04-16T13:17:37+00:00"
-    },
-    {
-      "id": "hn-47792525",
-      "source": "hn",
-      "title": "Show HN: MacMind – A transformer neural network in HyperCard on a 1989 Macintosh",
-      "url": "https://github.com/SeanFDZ/macmind",
-      "score": 105,
-      "comments": 31,
-      "author": "hammer32",
-      "tags": [],
-      "date": "2026-04-16T13:16:29+00:00"
-    },
-    {
-      "id": "hn-47792374",
-      "source": "hn",
-      "title": "Artifacts: Versioned storage that speaks Git",
-      "url": "https://blog.cloudflare.com/artifacts-git-for-agents-beta/",
-      "score": 173,
-      "comments": 20,
-      "author": "jgrahamc",
-      "tags": [],
-      "date": "2026-04-16T13:02:03+00:00"
     },
     {
       "id": "ctf-3477546",

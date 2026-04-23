@@ -1,14 +1,36 @@
 {
-  "updated_at": "2026-04-23T20:08:22.822472+00:00",
+  "updated_at": "2026-04-23T21:12:47.562123+00:00",
   "count": 500,
   "items": [
+    {
+      "id": "hn-47881805",
+      "source": "hn",
+      "title": "Microsoft offers buyouts up to 7% of US employees",
+      "url": "https://techcrunch.com/2026/04/23/microsoft-offers-buyout-for-up-to-7-of-u-s-employees/",
+      "score": 30,
+      "comments": 31,
+      "author": "darth_avocado",
+      "tags": [],
+      "date": "2026-04-23T20:54:22+00:00"
+    },
+    {
+      "id": "hn-47881198",
+      "source": "hn",
+      "title": "Using the internet like it's 1999",
+      "url": "https://joshblais.com/blog/using-the-internet-like-its-1999/",
+      "score": 31,
+      "comments": 12,
+      "author": "joshuablais",
+      "tags": [],
+      "date": "2026-04-23T20:14:29+00:00"
+    },
     {
       "id": "hn-47880189",
       "source": "hn",
       "title": "Girl, 10, finds rare Mexican axolotl under Welsh bridge",
       "url": "https://www.bbc.com/news/articles/c9d4zgnqpqeo",
-      "score": 41,
-      "comments": 16,
+      "score": 107,
+      "comments": 58,
       "author": "codezero",
       "tags": [],
       "date": "2026-04-23T19:09:40+00:00"
@@ -16,10 +38,10 @@
     {
       "id": "hn-47879986",
       "source": "hn",
-      "title": "Meta to cut 10% of jobs, or 8k employees",
+      "title": "Meta to cut 10% of jobs",
       "url": "https://techcrunch.com/2026/04/23/meta-job-cuts-10-percent-8000-employees/",
-      "score": 169,
-      "comments": 102,
+      "score": 306,
+      "comments": 233,
       "author": "Vaslo",
       "tags": [],
       "date": "2026-04-23T18:55:32+00:00"
@@ -27,10 +49,10 @@
     {
       "id": "hn-47879239",
       "source": "hn",
-      "title": "Astronomers Find the Edge of the Milky Way",
+      "title": "Astronomers find the edge of the Milky Way",
       "url": "https://skyandtelescope.org/astronomy-news/astronomers-find-the-edge-of-the-milky-way/",
-      "score": 13,
-      "comments": 0,
+      "score": 39,
+      "comments": 5,
       "author": "bookofjoe",
       "tags": [],
       "date": "2026-04-23T18:11:29+00:00"
@@ -40,8 +62,8 @@
       "source": "hn",
       "title": "GPT-5.5",
       "url": "https://openai.com/index/introducing-gpt-5-5/",
-      "score": 621,
-      "comments": 268,
+      "score": 778,
+      "comments": 404,
       "author": "rd",
       "tags": [],
       "date": "2026-04-23T18:01:39+00:00"
@@ -51,8 +73,8 @@
       "source": "hn",
       "title": "An update on recent Claude Code quality reports",
       "url": "https://www.anthropic.com/engineering/april-23-postmortem",
-      "score": 330,
-      "comments": 202,
+      "score": 407,
+      "comments": 288,
       "author": "mfiguiere",
       "tags": [],
       "date": "2026-04-23T17:48:38+00:00",
@@ -74,22 +96,46 @@
       "source": "hn",
       "title": "MeshCore development team splits over trademark dispute and AI-generated code",
       "url": "https://blog.meshcore.io/2026/04/23/the-split",
-      "score": 67,
-      "comments": 46,
+      "score": 86,
+      "comments": 57,
       "author": "wielebny",
       "tags": [],
       "date": "2026-04-23T16:55:13+00:00"
+    },
+    {
+      "id": "hn-47877715",
+      "source": "hn",
+      "title": "My phone replaced a brass plug",
+      "url": "https://drobinin.com/posts/my-phone-replaced-a-brass-plug/",
+      "score": 14,
+      "comments": 1,
+      "author": "valzevul",
+      "tags": [],
+      "date": "2026-04-23T16:27:07+00:00"
     },
     {
       "id": "hn-47877644",
       "source": "hn",
       "title": "Incident with multple GitHub services",
       "url": "https://www.githubstatus.com/incidents/myrbk7jvvs6p",
-      "score": 131,
-      "comments": 63,
+      "score": 147,
+      "comments": 70,
       "author": "bwannasek",
       "tags": [],
       "date": "2026-04-23T16:21:55+00:00"
+    },
+    {
+      "id": "qiita-42ee491604",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "Opus4.7の登場により、Claude Codeの開発者と公式が「これはもうやめろ」と言い始めた6つのこと",
+      "url": "https://qiita.com/ot12/items/06420caf41a34a910c53?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "ot12",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-04-24T01:09:02+09:00"
     },
     {
       "id": "hn-47877429",
@@ -107,8 +153,8 @@
       "source": "hn",
       "title": "French government agency confirms breach as hacker offers to sell data",
       "url": "https://www.bleepingcomputer.com/news/security/french-govt-agency-confirms-breach-as-hacker-offers-to-sell-data/",
-      "score": 316,
-      "comments": 106,
+      "score": 325,
+      "comments": 113,
       "author": "robtherobber",
       "tags": [],
       "date": "2026-04-23T15:59:55+00:00"
@@ -129,11 +175,22 @@
       "source": "hn",
       "title": "Bitwarden CLI compromised in ongoing Checkmarx supply chain campaign",
       "url": "https://socket.dev/blog/bitwarden-cli-compromised",
-      "score": 468,
-      "comments": 223,
+      "score": 508,
+      "comments": 237,
       "author": "tosh",
       "tags": [],
       "date": "2026-04-23T14:17:08+00:00"
+    },
+    {
+      "id": "hn-47875843",
+      "source": "hn",
+      "title": "UK Biobank health data keeps ending up on GitHub",
+      "url": "https://biobank.rocher.lc",
+      "score": 9,
+      "comments": 2,
+      "author": "Cynddl",
+      "tags": [],
+      "date": "2026-04-23T13:58:03+00:00"
     },
     {
       "id": "hn-47875629",
@@ -162,8 +219,8 @@
       "source": "hn",
       "title": "I spent years trying to make CSS states predictable",
       "url": "https://tenphi.me/blog/why-i-spent-years-trying-to-make-css-states-predictable/",
-      "score": 23,
-      "comments": 3,
+      "score": 31,
+      "comments": 6,
       "author": "tenphi",
       "tags": [],
       "date": "2026-04-23T12:37:18+00:00"
@@ -206,8 +263,8 @@
       "source": "hn",
       "title": "Show HN: Honker – Postgres NOTIFY/LISTEN Semantics for SQLite",
       "url": "https://github.com/russellromney/honker",
-      "score": 197,
-      "comments": 28,
+      "score": 208,
+      "comments": 43,
       "author": "russellthehippo",
       "tags": [],
       "date": "2026-04-23T11:53:11+00:00"
@@ -235,11 +292,37 @@
       "date": "2026-04-23T10:14:46+00:00"
     },
     {
+      "id": "qiita-83b2421501",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "n8nで「ランチ自動提案Bot」を作ってみた（Google Maps × Discord）",
+      "url": "https://qiita.com/wan-code/items/71b3c3188d19e2429ee0?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "wan-code",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-04-23T18:56:20+09:00"
+    },
+    {
+      "id": "qiita-79fc069505",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "[Frontend Performance - Part 6] メインスレッドとブロッキング：なぜUIは止まるのか",
+      "url": "https://qiita.com/tuanphan/items/20fe25fc0cda3137dba2?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "tuanphan",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-04-23T18:38:37+09:00"
+    },
+    {
       "id": "hn-47873694",
       "source": "hn",
       "title": "Writing a C Compiler, in Zig (2025)",
       "url": "https://ar-ms.me/thoughts/c-compiler-1-zig/",
-      "score": 108,
+      "score": 118,
       "comments": 35,
       "author": "tosh",
       "tags": [],
@@ -285,8 +368,8 @@
       "source": "hn",
       "title": "I am building a cloud",
       "url": "https://crawshaw.io/blog/building-a-cloud",
-      "score": 895,
-      "comments": 449,
+      "score": 921,
+      "comments": 456,
       "author": "bumbledraven",
       "tags": [],
       "date": "2026-04-23T04:44:19+00:00"
@@ -301,6 +384,19 @@
       "author": "jen729w",
       "tags": [],
       "date": "2026-04-23T04:40:31+00:00"
+    },
+    {
+      "id": "qiita-144fdd5ff3",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "【2026年4月最新】Google Cloud 認定「全冠」達成まとめ 〜今だけ15冠〜",
+      "url": "https://qiita.com/tomokoro/items/eebc8142a85c80873028?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "tomokoro",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-04-23T13:03:39+09:00"
     },
     {
       "id": "qiita-10d97d8d2c",
@@ -480,8 +576,8 @@
       "source": "hn",
       "title": "Apple fixes bug that cops used to extract deleted chat messages from iPhones",
       "url": "https://techcrunch.com/2026/04/22/apple-fixes-bug-that-cops-used-to-extract-deleted-chat-messages-from-iphones/",
-      "score": 807,
-      "comments": 180,
+      "score": 823,
+      "comments": 181,
       "author": "cdrnsf",
       "tags": [],
       "date": "2026-04-22T20:27:31+00:00"
@@ -631,6 +727,18 @@
       "author": "speckx",
       "tags": [],
       "date": "2026-04-22T16:26:41+00:00"
+    },
+    {
+      "id": "hn-47865822",
+      "source": "hn",
+      "title": "Show HN: Agent Vault – Open-source credential proxy and vault for agents",
+      "url": "https://github.com/Infisical/agent-vault",
+      "score": 13,
+      "comments": 4,
+      "author": "dangtony98",
+      "tags": [],
+      "date": "2026-04-22T16:25:28+00:00",
+      "severity": "critical"
     },
     {
       "id": "hn-47865661",
@@ -1126,6 +1234,17 @@
       "date": "2026-04-21T22:13:18+00:00"
     },
     {
+      "id": "hn-47854710",
+      "source": "hn",
+      "title": "WireGuard for Windows Reaches v1.0",
+      "url": "https://lists.zx2c4.com/pipermail/wireguard/2026-April/009580.html",
+      "score": 40,
+      "comments": 0,
+      "author": "zx2c4",
+      "tags": [],
+      "date": "2026-04-21T21:26:25+00:00"
+    },
+    {
       "id": "hn-47854477",
       "source": "hn",
       "title": "Claude Code to be removed from Anthropic's Pro plan?",
@@ -1354,7 +1473,7 @@
       "source": "hn",
       "title": "Advanced Packaging Limits Come into Focus",
       "url": "https://semiengineering.com/advanced-packaging-limits-come-into-focus/",
-      "score": 10,
+      "score": 13,
       "comments": 0,
       "author": "PaulHoule",
       "tags": [],
@@ -1578,8 +1697,8 @@
       "source": "hn",
       "title": "Your hex editor should color-code bytes",
       "url": "https://simonomi.dev/blog/color-code-your-bytes/",
-      "score": 427,
-      "comments": 124,
+      "score": 442,
+      "comments": 128,
       "author": "tobr",
       "tags": [],
       "date": "2026-04-21T09:52:09+00:00"
@@ -1602,8 +1721,8 @@
       "source": "hn",
       "title": "A DIY Watch You Can Actually Wear",
       "url": "https://www.hackster.io/news/a-diy-watch-you-can-actually-wear-8f91c2dac682",
-      "score": 90,
-      "comments": 44,
+      "score": 102,
+      "comments": 48,
       "author": "sarusso",
       "tags": [],
       "date": "2026-04-21T08:52:33+00:00"
@@ -1805,6 +1924,19 @@
         "Qiita"
       ],
       "date": "2026-04-21T14:42:15+09:00"
+    },
+    {
+      "id": "qiita-3263907334",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "Claude Codeのノウハウをサンプルコードで学ぶ ── 入門編（初心者向け）",
+      "url": "https://qiita.com/nogataka/items/59cc72e55e037d77225f?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "nogataka",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-04-21T14:41:53+09:00"
     },
     {
       "id": "hn-47844890",
@@ -5037,187 +5169,6 @@
       "date": "2026-04-17T14:09:32+00:00"
     },
     {
-      "id": "hn-47806096",
-      "source": "hn",
-      "title": "Archive of BYTE magazine, starting with issue #1 in 1975",
-      "url": "https://archive.org/details/byte-magazine-1975-09",
-      "score": 561,
-      "comments": 147,
-      "author": "DamnInteresting",
-      "tags": [],
-      "date": "2026-04-17T14:07:28+00:00"
-    },
-    {
-      "id": "qiita-e3d67f61e4",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "クオンツ実務の必須装備――Kelly・ATR・DD制御・HRPと、それぞれの「壊れ方」",
-      "url": "https://qiita.com/tikeda123/items/f5447e5b470ae6aedd2a?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "tikeda123",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-04-17T23:03:21+09:00"
-    },
-    {
-      "id": "hn-47806021",
-      "source": "hn",
-      "title": "What are skiplists good for?",
-      "url": "https://antithesis.com/blog/2026/skiptrees/",
-      "score": 254,
-      "comments": 61,
-      "author": "mfiguiere",
-      "tags": [],
-      "date": "2026-04-17T13:57:27+00:00"
-    },
-    {
-      "id": "hn-47805998",
-      "source": "hn",
-      "title": "Scan your website to see how ready it is for AI agents",
-      "url": "https://isitagentready.com",
-      "score": 71,
-      "comments": 123,
-      "author": "WesSouza",
-      "tags": [],
-      "date": "2026-04-17T13:55:25+00:00"
-    },
-    {
-      "id": "qiita-0b3e007ebd",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "Claude Code モデル別に追加耐性テストをしてみた",
-      "url": "https://qiita.com/aito1234/items/11c70a0b2a2362a5c913?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "aito1234",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-04-17T22:38:32+09:00"
-    },
-    {
-      "id": "hn-47805632",
-      "source": "hn",
-      "title": "Larry Tesler: A Personal History of Modeless Text Editing and Cut/Copy-Paste (2012)",
-      "url": "https://dl.acm.org/doi/epdf/10.1145/2212877.2212896",
-      "score": 32,
-      "comments": 7,
-      "author": "aragonite",
-      "tags": [],
-      "date": "2026-04-17T13:20:31+00:00"
-    },
-    {
-      "id": "qiita-a2b47f52b4",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "ブラウザだけでテキスト暗号化する仕組み — Web Crypto API × AES-256-GCM の実装解説",
-      "url": "https://qiita.com/sakutto-panda/items/6e8573a2ed3939ab475c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "sakutto-panda",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-04-17T21:43:56+09:00"
-    },
-    {
-      "id": "hn-47804965",
-      "source": "hn",
-      "title": "Isaac Asimov: The Last Question (1956)",
-      "url": "https://hex.ooo/library/last_question.html",
-      "score": 704,
-      "comments": 279,
-      "author": "ColinWright",
-      "tags": [],
-      "date": "2026-04-17T12:01:19+00:00"
-    },
-    {
-      "id": "qiita-566a63ab26",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "【Jr. Champions Meetup - April/Final】LT・Feedback",
-      "url": "https://qiita.com/amixedcolor/items/81eba0aafc9edc27ce35?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "amixedcolor",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-04-17T20:33:55+09:00"
-    },
-    {
-      "id": "qiita-dad0896414",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "日本語性能世界一の音声認識モデルを作った",
-      "url": "https://qiita.com/holotherapper/items/53190c4cd9825ad825b5?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "holotherapper",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-04-17T20:23:29+09:00"
-    },
-    {
-      "id": "hn-47804708",
-      "source": "hn",
-      "title": "How Silicon Valley Is Turning Scientists into Exploited Gig Workers",
-      "url": "https://www.thenation.com/article/society/ai-silicon-valley-andreesen-thiel-stem/",
-      "score": 61,
-      "comments": 29,
-      "author": "ZunarJ5",
-      "tags": [],
-      "date": "2026-04-17T11:22:05+00:00",
-      "severity": "high"
-    },
-    {
-      "id": "hn-47804423",
-      "source": "hn",
-      "title": "Floating Point Fun on Cortex-M Processors",
-      "url": "https://danielmangum.com/posts/floating-point-cortex-m/",
-      "score": 46,
-      "comments": 5,
-      "author": "hasheddan",
-      "tags": [],
-      "date": "2026-04-17T10:32:49+00:00"
-    },
-    {
-      "id": "qiita-ff4722362b",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "【こわい】Google APIキーの脆弱性により13時間で約900万円請求される事案が発生！ Firebase×Geminiで今すぐやるべきセキュリティ対策",
-      "url": "https://qiita.com/miruky/items/fde2d0747358cd7870d7?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "miruky",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-04-17T19:29:09+09:00",
-      "severity": "high"
-    },
-    {
-      "id": "qiita-0e8f00ae79",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "【n8n】Gmailの領収書を自動でGoogle Driveに日付別保存する仕組みを作ってみた",
-      "url": "https://qiita.com/wan-code/items/b0984991f051e1ca6d79?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "wan-code",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-04-17T19:01:28+09:00"
-    },
-    {
-      "id": "hn-47804178",
-      "source": "hn",
-      "title": "Monumental ship burial beneath ancient Norwegian mound predates the Viking Age",
-      "url": "https://phys.org/news/2026-04-monumental-ship-burial-beneath-ancient.html",
-      "score": 72,
-      "comments": 19,
-      "author": "pseudolus",
-      "tags": [],
-      "date": "2026-04-17T09:50:53+00:00"
-    },
-    {
       "id": "ctf-3477546",
       "source": "project",
       "proj_category": "CTF",
@@ -5828,6 +5779,66 @@
       "source": "msf",
       "title": "[local] 7-Zip 24.00 - Directory Traversal",
       "url": "https://www.exploit-db.com/exploits/52501",
+      "score": null,
+      "author": "Exploit-DB",
+      "tags": [
+        "Exploit-DB",
+        "CVE",
+        "PoC"
+      ],
+      "severity": "high",
+      "date": "Wed, 08 Apr 2026 00:00:00 +0000"
+    },
+    {
+      "id": "edb-ce01cff88a",
+      "source": "msf",
+      "title": "[webapps] xibocms 3.3.4 - RCE",
+      "url": "https://www.exploit-db.com/exploits/52500",
+      "score": null,
+      "author": "Exploit-DB",
+      "tags": [
+        "Exploit-DB",
+        "CVE",
+        "PoC"
+      ],
+      "severity": "high",
+      "date": "Wed, 08 Apr 2026 00:00:00 +0000"
+    },
+    {
+      "id": "edb-4ae497cd58",
+      "source": "msf",
+      "title": "[local] SQLite 3.50.1 - Heap Overflow",
+      "url": "https://www.exploit-db.com/exploits/52499",
+      "score": null,
+      "author": "Exploit-DB",
+      "tags": [
+        "Exploit-DB",
+        "CVE",
+        "PoC"
+      ],
+      "severity": "high",
+      "date": "Wed, 08 Apr 2026 00:00:00 +0000"
+    },
+    {
+      "id": "edb-605b174f8f",
+      "source": "msf",
+      "title": "[local] Microsoft MMC MSC EvilTwin - Local Admin Creation",
+      "url": "https://www.exploit-db.com/exploits/52498",
+      "score": null,
+      "author": "Exploit-DB",
+      "tags": [
+        "Exploit-DB",
+        "CVE",
+        "PoC"
+      ],
+      "severity": "high",
+      "date": "Wed, 08 Apr 2026 00:00:00 +0000"
+    },
+    {
+      "id": "edb-1e7dd77ea0",
+      "source": "msf",
+      "title": "[webapps] Horilla v1.3 - RCE",
+      "url": "https://www.exploit-db.com/exploits/52497",
       "score": null,
       "author": "Exploit-DB",
       "tags": [

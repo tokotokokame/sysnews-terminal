@@ -1,14 +1,36 @@
 {
-  "updated_at": "2026-04-23T13:29:07.891723+00:00",
+  "updated_at": "2026-04-23T15:26:48.544716+00:00",
   "count": 500,
   "items": [
+    {
+      "id": "hn-47876043",
+      "source": "hn",
+      "title": "Bitwarden CLI Compromised in Ongoing Checkmarx Supply Chain Campaign",
+      "url": "https://socket.dev/blog/bitwarden-cli-compromised",
+      "score": 81,
+      "comments": 10,
+      "author": "tosh",
+      "tags": [],
+      "date": "2026-04-23T14:17:08+00:00"
+    },
+    {
+      "id": "hn-47875629",
+      "source": "hn",
+      "title": "US Department of Justice has officially reclassified cannabis as less dangerous",
+      "url": "https://www.bbc.com/news/articles/cdxd0xxp0jko",
+      "score": 93,
+      "comments": 84,
+      "author": "kaycebasques",
+      "tags": [],
+      "date": "2026-04-23T13:37:48+00:00"
+    },
     {
       "id": "hn-47874854",
       "source": "hn",
       "title": "Raylib v6.0",
       "url": "https://github.com/raysan5/raylib/releases/tag/6.0",
-      "score": 9,
-      "comments": 0,
+      "score": 86,
+      "comments": 7,
       "author": "rydgel",
       "tags": [],
       "date": "2026-04-23T12:16:16+00:00"
@@ -16,10 +38,10 @@
     {
       "id": "hn-47874814",
       "source": "hn",
-      "title": "Surveillance vendors caught abusing access to telcos to track people's locations",
+      "title": "Investigation uncovers two sophisticated telecom surveillance campaigns",
       "url": "https://techcrunch.com/2026/04/23/surveillance-vendors-caught-abusing-access-to-telcos-to-track-peoples-phone-locations-researchers-say/",
-      "score": 109,
-      "comments": 28,
+      "score": 270,
+      "comments": 77,
       "author": "mentalgear",
       "tags": [],
       "date": "2026-04-23T12:12:03+00:00"
@@ -40,8 +62,8 @@
       "source": "hn",
       "title": "Show HN: Honker – Postgres NOTIFY/LISTEN Semantics for SQLite",
       "url": "https://github.com/russellromney/honker",
-      "score": 52,
-      "comments": 9,
+      "score": 117,
+      "comments": 19,
       "author": "russellthehippo",
       "tags": [],
       "date": "2026-04-23T11:53:11+00:00"
@@ -49,10 +71,10 @@
     {
       "id": "hn-47874631",
       "source": "hn",
-      "title": "Sneaky spam in conversational replies to blog posts",
+      "title": "Spam in conversational replies to blog posts",
       "url": "https://shkspr.mobi/blog/2026/04/sneaky-spam-in-conversational-replies-to-blog-posts/",
-      "score": 36,
-      "comments": 12,
+      "score": 73,
+      "comments": 55,
       "author": "ColinWright",
       "tags": [],
       "date": "2026-04-23T11:50:25+00:00"
@@ -71,10 +93,10 @@
     {
       "id": "hn-47873694",
       "source": "hn",
-      "title": "Writing a C Compiler, in Zig",
+      "title": "Writing a C Compiler, in Zig (2025)",
       "url": "https://ar-ms.me/thoughts/c-compiler-1-zig/",
-      "score": 44,
-      "comments": 7,
+      "score": 68,
+      "comments": 20,
       "author": "tosh",
       "tags": [],
       "date": "2026-04-23T09:20:47+00:00"
@@ -108,8 +130,8 @@
       "source": "hn",
       "title": "Our newsroom AI policy",
       "url": "https://arstechnica.com/staff/2026/04/our-newsroom-ai-policy/",
-      "score": 97,
-      "comments": 70,
+      "score": 123,
+      "comments": 89,
       "author": "zdw",
       "tags": [],
       "date": "2026-04-23T05:14:05+00:00"
@@ -119,8 +141,8 @@
       "source": "hn",
       "title": "I am building a cloud",
       "url": "https://crawshaw.io/blog/building-a-cloud",
-      "score": 573,
-      "comments": 289,
+      "score": 708,
+      "comments": 360,
       "author": "bumbledraven",
       "tags": [],
       "date": "2026-04-23T04:44:19+00:00"
@@ -202,8 +224,8 @@
       "source": "hn",
       "title": "Arch Linux Now Has a Bit-for-Bit Reproducible Docker Image",
       "url": "https://antiz.fr/blog/archlinux-now-has-a-reproducible-docker-image/",
-      "score": 129,
-      "comments": 50,
+      "score": 170,
+      "comments": 59,
       "author": "maxloh",
       "tags": [],
       "date": "2026-04-23T01:59:08+00:00"
@@ -314,8 +336,8 @@
       "source": "hn",
       "title": "Apple fixes bug that cops used to extract deleted chat messages from iPhones",
       "url": "https://techcrunch.com/2026/04/22/apple-fixes-bug-that-cops-used-to-extract-deleted-chat-messages-from-iphones/",
-      "score": 670,
-      "comments": 167,
+      "score": 728,
+      "comments": 175,
       "author": "cdrnsf",
       "tags": [],
       "date": "2026-04-22T20:27:31+00:00"
@@ -382,8 +404,8 @@
       "source": "hn",
       "title": "Website streamed live directly from a model",
       "url": "https://flipbook.page/",
-      "score": 333,
-      "comments": 88,
+      "score": 360,
+      "comments": 94,
       "author": "sethbannon",
       "tags": [],
       "date": "2026-04-22T18:01:18+00:00"
@@ -393,8 +415,8 @@
       "source": "hn",
       "title": "Over-editing refers to a model modifying code beyond what is necessary",
       "url": "https://nrehiew.github.io/blog/minimal_editing/",
-      "score": 385,
-      "comments": 222,
+      "score": 391,
+      "comments": 230,
       "author": "pella",
       "tags": [],
       "date": "2026-04-22T17:51:17+00:00"
@@ -426,8 +448,8 @@
       "source": "hn",
       "title": "We found a stable Firefox identifier linking all your private Tor identities",
       "url": "https://fingerprint.com/blog/firefox-tor-indexeddb-privacy-vulnerability/",
-      "score": 779,
-      "comments": 232,
+      "score": 820,
+      "comments": 237,
       "author": "danpinto",
       "tags": [],
       "date": "2026-04-22T17:35:03+00:00"
@@ -449,8 +471,8 @@
       "source": "hn",
       "title": "Alberta startup sells no-tech tractors for half price",
       "url": "https://wheelfront.com/this-alberta-startup-sells-no-tech-tractors-for-half-price/",
-      "score": 1892,
-      "comments": 627,
+      "score": 1972,
+      "comments": 664,
       "author": "Kaibeezy",
       "tags": [],
       "date": "2026-04-22T16:29:25+00:00"
@@ -1277,8 +1299,8 @@
       "source": "hn",
       "title": "A Renaissance gambling dispute spawned probability theory",
       "url": "https://www.scientificamerican.com/article/how-a-renaissance-gambling-dispute-spawned-probability-theory/",
-      "score": 7,
-      "comments": 0,
+      "score": 45,
+      "comments": 2,
       "author": "sohkamyung",
       "tags": [],
       "date": "2026-04-21T12:59:59+00:00"
@@ -1332,8 +1354,8 @@
       "source": "hn",
       "title": "An amateur historian's favorite books about the Silk Road",
       "url": "https://bookdna.com/best-books/silk-road",
-      "score": 39,
-      "comments": 14,
+      "score": 56,
+      "comments": 22,
       "author": "bwb",
       "tags": [],
       "date": "2026-04-21T11:01:37+00:00"
@@ -1376,8 +1398,8 @@
       "source": "hn",
       "title": "A True Life Hack: What Physical 'Life Force' Turns Biology's Wheels?",
       "url": "https://www.quantamagazine.org/what-physical-life-force-turns-biologys-wheels-20260420/",
-      "score": 125,
-      "comments": 23,
+      "score": 149,
+      "comments": 27,
       "author": "Prof_Sigmund",
       "tags": [],
       "date": "2026-04-21T09:55:49+00:00",
@@ -1401,8 +1423,8 @@
       "source": "hn",
       "title": "Your hex editor should color-code bytes",
       "url": "https://simonomi.dev/blog/color-code-your-bytes/",
-      "score": 214,
-      "comments": 62,
+      "score": 303,
+      "comments": 98,
       "author": "tobr",
       "tags": [],
       "date": "2026-04-21T09:52:09+00:00"
@@ -1866,8 +1888,8 @@
       "source": "hn",
       "title": "Isopods of the world",
       "url": "https://isopod.site/",
-      "score": 48,
-      "comments": 18,
+      "score": 75,
+      "comments": 35,
       "author": "debesyla",
       "tags": [],
       "date": "2026-04-20T20:56:02+00:00"
@@ -2009,7 +2031,7 @@
       "source": "hn",
       "title": "A History of Erasures Learning to Write Like Leylâ Erbil",
       "url": "https://thepointmag.com/criticism/a-history-of-erasures/",
-      "score": 5,
+      "score": 13,
       "comments": 0,
       "author": "lermontov",
       "tags": [],
@@ -2020,8 +2042,8 @@
       "source": "hn",
       "title": "Highlights from Git 2.54",
       "url": "https://github.blog/open-source/git/highlights-from-git-2-54/",
-      "score": 51,
-      "comments": 26,
+      "score": 84,
+      "comments": 43,
       "author": "ingve",
       "tags": [],
       "date": "2026-04-20T17:29:51+00:00"
@@ -3135,8 +3157,8 @@
       "source": "hn",
       "title": "5x5 Pixel font for tiny screens",
       "url": "https://maurycyz.com/projects/mcufont/",
-      "score": 694,
-      "comments": 141,
+      "score": 726,
+      "comments": 148,
       "author": "zdw",
       "tags": [],
       "date": "2026-04-19T15:19:28+00:00"
@@ -5163,32 +5185,6 @@
       "author": "Mr_Minderbinder",
       "tags": [],
       "date": "2026-04-17T07:20:46+00:00"
-    },
-    {
-      "id": "qiita-64b154ee2b",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "# PostgreSQLのSlow Queryを改善した話：たった1行の変更でパフォーマンスが劇的に改善したケーススタディ",
-      "url": "https://qiita.com/hoatms/items/ca6689d53ef787f435d0?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "hoatms",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-04-17T16:18:52+09:00"
-    },
-    {
-      "id": "qiita-a5e5b0041d",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "AIエンジニアリングの進化：プロンプトからコンテキスト、そしてハーネスへ（2022 - 2026）",
-      "url": "https://qiita.com/TOMOSIA-LinhND/items/574cf3810f6532c71a4b?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "TOMOSIA-LinhND",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-04-17T15:34:01+09:00"
     },
     {
       "id": "ctf-3477546",

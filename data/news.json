@@ -1,17 +1,94 @@
 {
-  "updated_at": "2026-04-23T11:39:42.815720+00:00",
+  "updated_at": "2026-04-23T13:29:07.891723+00:00",
   "count": 500,
   "items": [
+    {
+      "id": "hn-47874854",
+      "source": "hn",
+      "title": "Raylib v6.0",
+      "url": "https://github.com/raysan5/raylib/releases/tag/6.0",
+      "score": 9,
+      "comments": 0,
+      "author": "rydgel",
+      "tags": [],
+      "date": "2026-04-23T12:16:16+00:00"
+    },
+    {
+      "id": "hn-47874814",
+      "source": "hn",
+      "title": "Surveillance vendors caught abusing access to telcos to track people's locations",
+      "url": "https://techcrunch.com/2026/04/23/surveillance-vendors-caught-abusing-access-to-telcos-to-track-peoples-phone-locations-researchers-say/",
+      "score": 109,
+      "comments": 28,
+      "author": "mentalgear",
+      "tags": [],
+      "date": "2026-04-23T12:12:03+00:00"
+    },
+    {
+      "id": "hn-47874734",
+      "source": "hn",
+      "title": "Jiga (YC W21) Is Hiring",
+      "url": "https://jiga.io/about-us/",
+      "score": 1,
+      "comments": 0,
+      "author": "grmmph",
+      "tags": [],
+      "date": "2026-04-23T12:02:44+00:00"
+    },
+    {
+      "id": "hn-47874647",
+      "source": "hn",
+      "title": "Show HN: Honker – Postgres NOTIFY/LISTEN Semantics for SQLite",
+      "url": "https://github.com/russellromney/honker",
+      "score": 52,
+      "comments": 9,
+      "author": "russellthehippo",
+      "tags": [],
+      "date": "2026-04-23T11:53:11+00:00"
+    },
+    {
+      "id": "hn-47874631",
+      "source": "hn",
+      "title": "Sneaky spam in conversational replies to blog posts",
+      "url": "https://shkspr.mobi/blog/2026/04/sneaky-spam-in-conversational-replies-to-blog-posts/",
+      "score": 36,
+      "comments": 12,
+      "author": "ColinWright",
+      "tags": [],
+      "date": "2026-04-23T11:50:25+00:00"
+    },
+    {
+      "id": "hn-47873966",
+      "source": "hn",
+      "title": "Show HN: Built a daily game where you sort historical events chronologically",
+      "url": "https://hisorty.app/",
+      "score": 20,
+      "comments": 26,
+      "author": "damiannn",
+      "tags": [],
+      "date": "2026-04-23T10:14:46+00:00"
+    },
     {
       "id": "hn-47873694",
       "source": "hn",
       "title": "Writing a C Compiler, in Zig",
       "url": "https://ar-ms.me/thoughts/c-compiler-1-zig/",
-      "score": 15,
-      "comments": 3,
+      "score": 44,
+      "comments": 7,
       "author": "tosh",
       "tags": [],
       "date": "2026-04-23T09:20:47+00:00"
+    },
+    {
+      "id": "hn-47873323",
+      "source": "hn",
+      "title": "Email could have been X.400 times better",
+      "url": "https://buttondown.com/blog/x400-vs-smtp-email",
+      "score": 26,
+      "comments": 26,
+      "author": "maguay",
+      "tags": [],
+      "date": "2026-04-23T08:10:09+00:00"
     },
     {
       "id": "qiita-19925ce2d2",
@@ -31,8 +108,8 @@
       "source": "hn",
       "title": "Our newsroom AI policy",
       "url": "https://arstechnica.com/staff/2026/04/our-newsroom-ai-policy/",
-      "score": 72,
-      "comments": 48,
+      "score": 97,
+      "comments": 70,
       "author": "zdw",
       "tags": [],
       "date": "2026-04-23T05:14:05+00:00"
@@ -42,8 +119,8 @@
       "source": "hn",
       "title": "I am building a cloud",
       "url": "https://crawshaw.io/blog/building-a-cloud",
-      "score": 448,
-      "comments": 216,
+      "score": 573,
+      "comments": 289,
       "author": "bumbledraven",
       "tags": [],
       "date": "2026-04-23T04:44:19+00:00"
@@ -125,8 +202,8 @@
       "source": "hn",
       "title": "Arch Linux Now Has a Bit-for-Bit Reproducible Docker Image",
       "url": "https://antiz.fr/blog/archlinux-now-has-a-reproducible-docker-image/",
-      "score": 86,
-      "comments": 29,
+      "score": 129,
+      "comments": 50,
       "author": "maxloh",
       "tags": [],
       "date": "2026-04-23T01:59:08+00:00"
@@ -237,8 +314,8 @@
       "source": "hn",
       "title": "Apple fixes bug that cops used to extract deleted chat messages from iPhones",
       "url": "https://techcrunch.com/2026/04/22/apple-fixes-bug-that-cops-used-to-extract-deleted-chat-messages-from-iphones/",
-      "score": 628,
-      "comments": 155,
+      "score": 670,
+      "comments": 167,
       "author": "cdrnsf",
       "tags": [],
       "date": "2026-04-22T20:27:31+00:00"
@@ -305,8 +382,8 @@
       "source": "hn",
       "title": "Website streamed live directly from a model",
       "url": "https://flipbook.page/",
-      "score": 305,
-      "comments": 81,
+      "score": 333,
+      "comments": 88,
       "author": "sethbannon",
       "tags": [],
       "date": "2026-04-22T18:01:18+00:00"
@@ -316,8 +393,8 @@
       "source": "hn",
       "title": "Over-editing refers to a model modifying code beyond what is necessary",
       "url": "https://nrehiew.github.io/blog/minimal_editing/",
-      "score": 374,
-      "comments": 211,
+      "score": 385,
+      "comments": 222,
       "author": "pella",
       "tags": [],
       "date": "2026-04-22T17:51:17+00:00"
@@ -349,8 +426,8 @@
       "source": "hn",
       "title": "We found a stable Firefox identifier linking all your private Tor identities",
       "url": "https://fingerprint.com/blog/firefox-tor-indexeddb-privacy-vulnerability/",
-      "score": 742,
-      "comments": 217,
+      "score": 779,
+      "comments": 232,
       "author": "danpinto",
       "tags": [],
       "date": "2026-04-22T17:35:03+00:00"
@@ -372,8 +449,8 @@
       "source": "hn",
       "title": "Alberta startup sells no-tech tractors for half price",
       "url": "https://wheelfront.com/this-alberta-startup-sells-no-tech-tractors-for-half-price/",
-      "score": 1826,
-      "comments": 592,
+      "score": 1892,
+      "comments": 627,
       "author": "Kaibeezy",
       "tags": [],
       "date": "2026-04-22T16:29:25+00:00"
@@ -1030,6 +1107,17 @@
       "date": "2026-04-21T17:14:26+00:00"
     },
     {
+      "id": "hn-47851613",
+      "source": "hn",
+      "title": "Work with the Garage Door Up",
+      "url": "https://notes.andymatuschak.org/Work_with_the_garage_door_up",
+      "score": 16,
+      "comments": 8,
+      "author": "jxmorris12",
+      "tags": [],
+      "date": "2026-04-21T17:13:29+00:00"
+    },
+    {
       "id": "hn-47851456",
       "source": "hn",
       "title": "Trellis AI (YC W24) Is hiring engineers to build self-improving agents",
@@ -1185,6 +1273,17 @@
       "date": "2026-04-21T13:02:00+00:00"
     },
     {
+      "id": "hn-47848162",
+      "source": "hn",
+      "title": "A Renaissance gambling dispute spawned probability theory",
+      "url": "https://www.scientificamerican.com/article/how-a-renaissance-gambling-dispute-spawned-probability-theory/",
+      "score": 7,
+      "comments": 0,
+      "author": "sohkamyung",
+      "tags": [],
+      "date": "2026-04-21T12:59:59+00:00"
+    },
+    {
       "id": "hn-47847928",
       "source": "hn",
       "title": "The abandoned war: Why no one is stopping the genocide in Sudan",
@@ -1233,8 +1332,8 @@
       "source": "hn",
       "title": "An amateur historian's favorite books about the Silk Road",
       "url": "https://bookdna.com/best-books/silk-road",
-      "score": 29,
-      "comments": 12,
+      "score": 39,
+      "comments": 14,
       "author": "bwb",
       "tags": [],
       "date": "2026-04-21T11:01:37+00:00"
@@ -1277,8 +1376,8 @@
       "source": "hn",
       "title": "A True Life Hack: What Physical 'Life Force' Turns Biology's Wheels?",
       "url": "https://www.quantamagazine.org/what-physical-life-force-turns-biologys-wheels-20260420/",
-      "score": 96,
-      "comments": 18,
+      "score": 125,
+      "comments": 23,
       "author": "Prof_Sigmund",
       "tags": [],
       "date": "2026-04-21T09:55:49+00:00",
@@ -1302,8 +1401,8 @@
       "source": "hn",
       "title": "Your hex editor should color-code bytes",
       "url": "https://simonomi.dev/blog/color-code-your-bytes/",
-      "score": 141,
-      "comments": 35,
+      "score": 214,
+      "comments": 62,
       "author": "tobr",
       "tags": [],
       "date": "2026-04-21T09:52:09+00:00"
@@ -1767,8 +1866,8 @@
       "source": "hn",
       "title": "Isopods of the world",
       "url": "https://isopod.site/",
-      "score": 23,
-      "comments": 7,
+      "score": 48,
+      "comments": 18,
       "author": "debesyla",
       "tags": [],
       "date": "2026-04-20T20:56:02+00:00"
@@ -1921,8 +2020,8 @@
       "source": "hn",
       "title": "Highlights from Git 2.54",
       "url": "https://github.blog/open-source/git/highlights-from-git-2-54/",
-      "score": 15,
-      "comments": 2,
+      "score": 51,
+      "comments": 26,
       "author": "ingve",
       "tags": [],
       "date": "2026-04-20T17:29:51+00:00"
@@ -3036,8 +3135,8 @@
       "source": "hn",
       "title": "5x5 Pixel font for tiny screens",
       "url": "https://maurycyz.com/projects/mcufont/",
-      "score": 659,
-      "comments": 138,
+      "score": 694,
+      "comments": 141,
       "author": "zdw",
       "tags": [],
       "date": "2026-04-19T15:19:28+00:00"
@@ -5090,122 +5189,6 @@
         "Qiita"
       ],
       "date": "2026-04-17T15:34:01+09:00"
-    },
-    {
-      "id": "qiita-220a756d23",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "イベント駆動アーキテクチャ（EDA）とは？",
-      "url": "https://qiita.com/luan_nguyen/items/f049ee330e6dac02cf51?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "luan_nguyen",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-04-17T15:20:55+09:00"
-    },
-    {
-      "id": "hn-47802971",
-      "source": "hn",
-      "title": "PROBoter – Open-source platform for automated PCB analysis",
-      "url": "https://www.schutzwerk.com/en/blog/proboter-01/",
-      "score": 14,
-      "comments": 0,
-      "author": "kuizu",
-      "tags": [],
-      "date": "2026-04-17T06:19:45+00:00",
-      "severity": "critical"
-    },
-    {
-      "id": "qiita-be0be97c1e",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "【HTML】ボタンの見本市サイトを作った話",
-      "url": "https://qiita.com/uni928/items/968635f6dbc6094d98c7?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "uni928",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-04-17T15:06:49+09:00"
-    },
-    {
-      "id": "qiita-627e83dcd3",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "会議が時間通りに始まらないのは、スキルじゃなくて“習慣”の問題です。",
-      "url": "https://qiita.com/hitomin_poke/items/24aa3a6728220a112716?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "hitomin_poke",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-04-17T14:41:40+09:00"
-    },
-    {
-      "id": "qiita-287b9761bd",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "「その仕様、イケてないと思ってない？」-エンジニアがハマりがちな勘違いの話-",
-      "url": "https://qiita.com/prum_hitomi/items/1bb8894c149a3af9944d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "prum_hitomi",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-04-17T14:40:27+09:00"
-    },
-    {
-      "id": "qiita-50417642db",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "Claude Codeで実際に起きたセキュリティ事故7選と防止策",
-      "url": "https://qiita.com/masa_ClaudeCodeLab/items/8c22966fbd3c125c53dc?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "masa_ClaudeCodeLab",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-04-17T14:38:44+09:00"
-    },
-    {
-      "id": "qiita-33630dc4c3",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "ClaudeでSEOチェッカーとQiita自動いいねツールを作ってみた",
-      "url": "https://qiita.com/aito1234/items/3fdc666366cf99fd1116?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "aito1234",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-04-17T13:59:37+09:00"
-    },
-    {
-      "id": "qiita-0061d2c807",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "Claude × Codex × Gemini を\"併用\"する設計 ─ セカンドオピニオン運用フレーム",
-      "url": "https://qiita.com/nogataka/items/b2b4a84ba611ccaf8447?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "nogataka",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-04-17T13:20:50+09:00"
-    },
-    {
-      "id": "qiita-5540c783b5",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "Claude Code Agent Teams 設計 ─ 役割を分けて複数プロジェクトを並列管理する",
-      "url": "https://qiita.com/nogataka/items/4787c956aeb547b1421c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "nogataka",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-04-17T13:20:21+09:00"
     },
     {
       "id": "ctf-3477546",

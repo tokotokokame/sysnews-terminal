@@ -1,14 +1,84 @@
 {
-  "updated_at": "2026-04-23T00:09:46.658206+00:00",
+  "updated_at": "2026-04-23T03:53:46.633541+00:00",
   "count": 500,
   "items": [
+    {
+      "id": "hn-47871817",
+      "source": "hn",
+      "title": "Borrow-checking without type-checking",
+      "url": "https://www.scattered-thoughts.net/writing/borrow-checking-without-type-checking/",
+      "score": 4,
+      "comments": 0,
+      "author": "jamii",
+      "tags": [],
+      "date": "2026-04-23T02:55:17+00:00"
+    },
+    {
+      "id": "hn-47871800",
+      "source": "hn",
+      "title": "Flow Map Learning via Nongradient Vector Flow [pdf]",
+      "url": "https://openreview.net/pdf?id=C1bkDPqvDW",
+      "score": 4,
+      "comments": 0,
+      "author": "E-Reverance",
+      "tags": [],
+      "date": "2026-04-23T02:52:00+00:00"
+    },
+    {
+      "id": "qiita-19925ce2d2",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "Oracle Exadata@AWS を作成してみてみた",
+      "url": "https://qiita.com/shirok/items/92cf7e55a955be1a4bbd?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "shirok",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-04-23T11:43:14+09:00"
+    },
+    {
+      "id": "qiita-7745258f5e",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "[Frontend Performance - Part 4] 描画パフォーマンス最適化：ブラウザの仕事を減らす設計とは？",
+      "url": "https://qiita.com/tuanphan/items/f5e23af90951e53a78ca?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "tuanphan",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-04-23T10:46:59+09:00"
+    },
+    {
+      "id": "hn-47871195",
+      "source": "hn",
+      "title": "Tempest vs. Tempest: The Making and Remaking of Atari's Iconic Video Game",
+      "url": "https://tempest.homemade.systems",
+      "score": 30,
+      "comments": 9,
+      "author": "mwenge",
+      "tags": [],
+      "date": "2026-04-23T01:02:32+00:00"
+    },
+    {
+      "id": "hn-47871077",
+      "source": "hn",
+      "title": "OpenAI's response to the Axios developer tool compromise",
+      "url": "https://openai.com/index/axios-developer-tool-compromise/",
+      "score": 35,
+      "comments": 9,
+      "author": "shpat",
+      "tags": [],
+      "date": "2026-04-23T00:45:01+00:00"
+    },
     {
       "id": "hn-47870709",
       "source": "hn",
       "title": "Approximating Hyperbolic Tangent",
       "url": "https://jtomschroeder.com/blog/approximating-tanh/",
-      "score": 4,
-      "comments": 0,
+      "score": 30,
+      "comments": 4,
       "author": "jtomschroeder",
       "tags": [],
       "date": "2026-04-22T23:46:38+00:00"
@@ -23,6 +93,17 @@
       "author": "cdrnsf",
       "tags": [],
       "date": "2026-04-22T23:31:25+00:00"
+    },
+    {
+      "id": "hn-47870108",
+      "source": "hn",
+      "title": "Bring your own Agent to MS Teams",
+      "url": "https://microsoft.github.io/teams-sdk/blog/bring-your-agent-to-teams/",
+      "score": 26,
+      "comments": 14,
+      "author": "umangsehgal93",
+      "tags": [],
+      "date": "2026-04-22T22:25:28+00:00"
     },
     {
       "id": "hn-47869496",
@@ -51,8 +132,8 @@
       "source": "hn",
       "title": "Apple fixes bug that cops used to extract deleted chat messages from iPhones",
       "url": "https://techcrunch.com/2026/04/22/apple-fixes-bug-that-cops-used-to-extract-deleted-chat-messages-from-iphones/",
-      "score": 269,
-      "comments": 75,
+      "score": 437,
+      "comments": 109,
       "author": "cdrnsf",
       "tags": [],
       "date": "2026-04-22T20:27:31+00:00"
@@ -119,8 +200,8 @@
       "source": "hn",
       "title": "Website streamed live directly from a model",
       "url": "https://flipbook.page/",
-      "score": 115,
-      "comments": 43,
+      "score": 192,
+      "comments": 63,
       "author": "sethbannon",
       "tags": [],
       "date": "2026-04-22T18:01:18+00:00"
@@ -130,8 +211,8 @@
       "source": "hn",
       "title": "Over-editing refers to a model modifying code beyond what is necessary",
       "url": "https://nrehiew.github.io/blog/minimal_editing/",
-      "score": 272,
-      "comments": 157,
+      "score": 315,
+      "comments": 177,
       "author": "pella",
       "tags": [],
       "date": "2026-04-22T17:51:17+00:00"
@@ -152,8 +233,8 @@
       "source": "hn",
       "title": "Parallel agents in Zed",
       "url": "https://zed.dev/blog/parallel-agents",
-      "score": 138,
-      "comments": 89,
+      "score": 189,
+      "comments": 107,
       "author": "ajeetdsouza",
       "tags": [],
       "date": "2026-04-22T17:38:57+00:00"
@@ -163,8 +244,8 @@
       "source": "hn",
       "title": "We found a stable Firefox identifier linking all your private Tor identities",
       "url": "https://fingerprint.com/blog/firefox-tor-indexeddb-privacy-vulnerability/",
-      "score": 351,
-      "comments": 102,
+      "score": 502,
+      "comments": 148,
       "author": "danpinto",
       "tags": [],
       "date": "2026-04-22T17:35:03+00:00"
@@ -186,8 +267,8 @@
       "source": "hn",
       "title": "Alberta startup sells no-tech tractors for half price",
       "url": "https://wheelfront.com/this-alberta-startup-sells-no-tech-tractors-for-half-price/",
-      "score": 1203,
-      "comments": 421,
+      "score": 1445,
+      "comments": 495,
       "author": "Kaibeezy",
       "tags": [],
       "date": "2026-04-22T16:29:25+00:00"
@@ -208,8 +289,8 @@
       "source": "hn",
       "title": "Technical, cognitive, and intent debt",
       "url": "https://martinfowler.com/fragments/2026-04-02.html",
-      "score": 177,
-      "comments": 39,
+      "score": 220,
+      "comments": 54,
       "author": "theorchid",
       "tags": [],
       "date": "2026-04-22T16:11:23+00:00"
@@ -241,8 +322,8 @@
       "source": "hn",
       "title": "Ping-pong robot beats top-level human players",
       "url": "https://www.reuters.com/sports/ping-pong-robot-ace-makes-history-by-beating-top-level-human-players-2026-04-22/",
-      "score": 55,
-      "comments": 60,
+      "score": 87,
+      "comments": 94,
       "author": "wslh",
       "tags": [],
       "date": "2026-04-22T15:13:48+00:00"
@@ -263,32 +344,30 @@
       "source": "hn",
       "title": "Scoring Show HN submissions for AI design patterns",
       "url": "https://www.adriankrebs.ch/blog/design-slop/",
-      "score": 261,
-      "comments": 190,
+      "score": 284,
+      "comments": 210,
       "author": "hubraumhugo",
       "tags": [],
       "date": "2026-04-22T14:44:32+00:00"
     },
     {
-      "id": "qiita-19925ce2d2",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "Oracle Exadata@AWS を作成してみてみた",
-      "url": "https://qiita.com/shirok/items/92cf7e55a955be1a4bbd?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "shirok",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-04-22T23:21:59+09:00"
+      "id": "hn-47864011",
+      "source": "hn",
+      "title": "The handmade beauty of Machine Age data visualizations",
+      "url": "https://resobscura.substack.com/p/the-handmade-beauty-of-machine-age",
+      "score": 18,
+      "comments": 1,
+      "author": "benbreen",
+      "tags": [],
+      "date": "2026-04-22T14:15:44+00:00"
     },
     {
       "id": "hn-47863324",
       "source": "hn",
       "title": "Ultraviolet corona discharges on treetops during storms",
       "url": "https://www.psu.edu/news/earth-and-mineral-sciences/story/treetops-glowing-during-storms-captured-film-first-time",
-      "score": 189,
-      "comments": 53,
+      "score": 210,
+      "comments": 62,
       "author": "t-3",
       "tags": [],
       "date": "2026-04-22T13:28:40+00:00"
@@ -298,8 +377,8 @@
       "source": "hn",
       "title": "Qwen3.6-27B: Flagship-Level Coding in a 27B Dense Model",
       "url": "https://qwen.ai/blog?id=qwen3.6-27b",
-      "score": 631,
-      "comments": 322,
+      "score": 747,
+      "comments": 362,
       "author": "mfiguiere",
       "tags": [],
       "date": "2026-04-22T13:19:58+00:00"
@@ -331,8 +410,8 @@
       "source": "hn",
       "title": "Our eighth generation TPUs: two chips for the agentic era",
       "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/eighth-generation-tpu-agentic-era/",
-      "score": 383,
-      "comments": 184,
+      "score": 420,
+      "comments": 208,
       "author": "xnx",
       "tags": [],
       "date": "2026-04-22T12:15:29+00:00"
@@ -502,19 +581,6 @@
       "date": "2026-04-22T16:06:15+09:00"
     },
     {
-      "id": "qiita-7745258f5e",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "[Frontend Performance - Part 4] 描画パフォーマンス最適化：ブラウザの仕事を減らす設計とは？",
-      "url": "https://qiita.com/tuanphan/items/f5e23af90951e53a78ca?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "tuanphan",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-04-22T15:29:31+09:00"
-    },
-    {
       "id": "qiita-0e8e9defef",
       "source": "zennqiita",
       "sub_source": "Qiita",
@@ -662,8 +728,8 @@
       "source": "hn",
       "title": "Another Day Has Come",
       "url": "https://daringfireball.net/2026/04/another_day_has_come",
-      "score": 139,
-      "comments": 118,
+      "score": 209,
+      "comments": 147,
       "author": "ndr42",
       "tags": [],
       "date": "2026-04-21T20:52:19+00:00"
@@ -1449,8 +1515,8 @@
       "source": "hn",
       "title": "What killed the Florida orange?",
       "url": "https://slate.com/business/2026/04/florida-state-orange-food-houses-real-estate.html",
-      "score": 95,
-      "comments": 89,
+      "score": 134,
+      "comments": 117,
       "author": "danso",
       "tags": [],
       "date": "2026-04-20T21:00:43+00:00"
@@ -1465,6 +1531,17 @@
       "author": "Vortigaunt",
       "tags": [],
       "date": "2026-04-20T20:58:08+00:00"
+    },
+    {
+      "id": "hn-47840252",
+      "source": "hn",
+      "title": "Verus is a tool for verifying the correctness of code written in Rust",
+      "url": "https://verus-lang.github.io/verus/guide/",
+      "score": 27,
+      "comments": 5,
+      "author": "fanf2",
+      "tags": [],
+      "date": "2026-04-20T20:42:05+00:00"
     },
     {
       "id": "hn-47840219",
@@ -1703,8 +1780,8 @@
       "source": "hn",
       "title": "Effectful Recursion Schemes",
       "url": "https://effekt-lang.org/blog/recursion-schemes/",
-      "score": 5,
-      "comments": 0,
+      "score": 19,
+      "comments": 1,
       "author": "marvinborner",
       "tags": [],
       "date": "2026-04-20T15:48:19+00:00"
@@ -1808,6 +1885,17 @@
       "author": "sanity",
       "tags": [],
       "date": "2026-04-20T15:07:04+00:00"
+    },
+    {
+      "id": "hn-47835366",
+      "source": "hn",
+      "title": "How the Heck does Shazam work?",
+      "url": "https://perthirtysix.com/how-the-heck-does-shazam-work",
+      "score": 39,
+      "comments": 1,
+      "author": "datadrivenangel",
+      "tags": [],
+      "date": "2026-04-20T15:04:04+00:00"
     },
     {
       "id": "qiita-b35e0d46d7",
@@ -2696,8 +2784,8 @@
       "source": "hn",
       "title": "5x5 Pixel font for tiny screens",
       "url": "https://maurycyz.com/projects/mcufont/",
-      "score": 373,
-      "comments": 97,
+      "score": 474,
+      "comments": 110,
       "author": "zdw",
       "tags": [],
       "date": "2026-04-19T15:19:28+00:00"
@@ -5111,95 +5199,6 @@
       "author": "gmays",
       "tags": [],
       "date": "2026-04-16T20:49:35+00:00"
-    },
-    {
-      "id": "hn-47799120",
-      "source": "hn",
-      "title": "The \"Passive Income\" trap ate a generation of entrepreneurs",
-      "url": "https://www.joanwestenberg.com/the-passive-income-trap-ate-a-generation-of-entrepreneurs/",
-      "score": 196,
-      "comments": 153,
-      "author": "devonnull",
-      "tags": [],
-      "date": "2026-04-16T20:31:52+00:00"
-    },
-    {
-      "id": "hn-47798456",
-      "source": "hn",
-      "title": "European civil servants are being forced off WhatsApp",
-      "url": "https://www.politico.eu/article/european-civil-servants-new-messaging-services/",
-      "score": 74,
-      "comments": 46,
-      "author": "aa_is_op",
-      "tags": [],
-      "date": "2026-04-16T19:40:14+00:00",
-      "severity": "critical"
-    },
-    {
-      "id": "hn-47798376",
-      "source": "hn",
-      "title": "Pairwise Order of a Sequence of Elements",
-      "url": "https://morwenn.github.io//presortedness/2026/04/11/TSB010-pairwise-order-of-a-sequence-of-elements.html",
-      "score": 17,
-      "comments": 0,
-      "author": "ibobev",
-      "tags": [],
-      "date": "2026-04-16T19:34:28+00:00"
-    },
-    {
-      "id": "hn-47798345",
-      "source": "hn",
-      "title": "Official Clojure Documentary page with Video, Shownotes, and Links",
-      "url": "https://clojure.org/about/documentary",
-      "score": 292,
-      "comments": 85,
-      "author": "adityaathalye",
-      "tags": [],
-      "date": "2026-04-16T19:32:18+00:00"
-    },
-    {
-      "id": "hn-47798258",
-      "source": "hn",
-      "title": "German Dog Commands",
-      "url": "https://www.fluentu.com/blog/german/german-dog-commands/",
-      "score": 31,
-      "comments": 35,
-      "author": "rolph",
-      "tags": [],
-      "date": "2026-04-16T19:26:03+00:00"
-    },
-    {
-      "id": "hn-47798244",
-      "source": "hn",
-      "title": "GPT‑Rosalind for life sciences research",
-      "url": "https://openai.com/index/introducing-gpt-rosalind/",
-      "score": 83,
-      "comments": 22,
-      "author": "babelfish",
-      "tags": [],
-      "date": "2026-04-16T19:24:50+00:00"
-    },
-    {
-      "id": "hn-47798176",
-      "source": "hn",
-      "title": "Playdate’s handheld changed how Duke University teaches game design",
-      "url": "https://news.play.date/news/duke-playdate-education/",
-      "score": 208,
-      "comments": 99,
-      "author": "Ivoah",
-      "tags": [],
-      "date": "2026-04-16T19:18:31+00:00"
-    },
-    {
-      "id": "hn-47797987",
-      "source": "hn",
-      "title": "Binary Dependencies: Identifying the Hidden Packages We All Depend On",
-      "url": "https://vlad.website/binary-dependencies-identifying-the-hidden-packages-we-all-depend-on/",
-      "score": 46,
-      "comments": 8,
-      "author": "PaulHoule",
-      "tags": [],
-      "date": "2026-04-16T19:05:20+00:00"
     },
     {
       "id": "ctf-3477546",

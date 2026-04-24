@@ -1,14 +1,36 @@
 {
-  "updated_at": "2026-04-24T08:31:04.374888+00:00",
+  "updated_at": "2026-04-24T10:21:24.525568+00:00",
   "count": 500,
   "items": [
+    {
+      "id": "hn-47887683",
+      "source": "hn",
+      "title": "S. Korea police arrest man over AI image of runaway wolf that misled authorities",
+      "url": "https://www.bbc.com/news/articles/c4gx1n0dl9no",
+      "score": 38,
+      "comments": 14,
+      "author": "giuliomagnifico",
+      "tags": [],
+      "date": "2026-04-24T09:17:57+00:00"
+    },
+    {
+      "id": "hn-47887334",
+      "source": "hn",
+      "title": "Spinel: Ruby AOT Native Compiler",
+      "url": "https://github.com/matz/spinel",
+      "score": 45,
+      "comments": 9,
+      "author": "dluan",
+      "tags": [],
+      "date": "2026-04-24T08:28:47+00:00"
+    },
     {
       "id": "hn-47886773",
       "source": "hn",
       "title": "Composition Shouldn't be this Hard",
       "url": "https://www.cambra.dev/blog/announcement/",
-      "score": 30,
-      "comments": 14,
+      "score": 55,
+      "comments": 34,
       "author": "larelli",
       "tags": [],
       "date": "2026-04-24T07:22:31+00:00"
@@ -18,8 +40,8 @@
       "source": "hn",
       "title": "Show HN: How LLMs Work – Interactive visual guide based on Karpathy's lecture",
       "url": "https://ynarwal.github.io/how-llms-work/",
-      "score": 10,
-      "comments": 1,
+      "score": 45,
+      "comments": 8,
       "author": "ynarwal__",
       "tags": [],
       "date": "2026-04-24T06:48:53+00:00"
@@ -29,8 +51,8 @@
       "source": "hn",
       "title": "Show HN: Gova – The declarative GUI framework for Go",
       "url": "https://github.com/NV404/gova",
-      "score": 11,
-      "comments": 1,
+      "score": 33,
+      "comments": 9,
       "author": "aliezsid",
       "tags": [],
       "date": "2026-04-24T06:16:47+00:00"
@@ -53,8 +75,8 @@
       "source": "hn",
       "title": "Why Not Venus?",
       "url": "https://mceglowski.substack.com/p/why-not-venus",
-      "score": 19,
-      "comments": 2,
+      "score": 58,
+      "comments": 34,
       "author": "zdw",
       "tags": [],
       "date": "2026-04-24T05:01:10+00:00"
@@ -64,8 +86,8 @@
       "source": "hn",
       "title": "Familiarity is the enemy: On why Enterprise systems have failed for 60 years",
       "url": "https://felixbarbalet.com/familiarity-is-the-enemy/",
-      "score": 34,
-      "comments": 17,
+      "score": 45,
+      "comments": 19,
       "author": "adityaathalye",
       "tags": [],
       "date": "2026-04-24T04:48:54+00:00"
@@ -75,8 +97,8 @@
       "source": "hn",
       "title": "Ubuntu 26.04",
       "url": "https://lwn.net/Articles/1069399/",
-      "score": 177,
-      "comments": 92,
+      "score": 220,
+      "comments": 132,
       "author": "lxst",
       "tags": [],
       "date": "2026-04-24T04:38:37+00:00"
@@ -99,8 +121,8 @@
       "source": "hn",
       "title": "Habitual coffee intake shapes the microbiome, modifies physiology and cognition",
       "url": "https://www.nature.com/articles/s41467-026-71264-8",
-      "score": 135,
-      "comments": 65,
+      "score": 152,
+      "comments": 87,
       "author": "scubakid",
       "tags": [],
       "date": "2026-04-24T04:04:42+00:00"
@@ -147,8 +169,8 @@
       "source": "hn",
       "title": "DeepSeek v4",
       "url": "https://api-docs.deepseek.com/",
-      "score": 813,
-      "comments": 472,
+      "score": 987,
+      "comments": 639,
       "author": "impact_sy",
       "tags": [],
       "date": "2026-04-24T03:01:21+00:00"
@@ -182,8 +204,8 @@
       "source": "hn",
       "title": "Why I Write (1946)",
       "url": "https://www.orwellfoundation.com/the-orwell-foundation/orwell/essays-and-other-works/why-i-write/",
-      "score": 155,
-      "comments": 31,
+      "score": 171,
+      "comments": 44,
       "author": "RyanShook",
       "tags": [],
       "date": "2026-04-24T02:26:23+00:00"
@@ -267,8 +289,8 @@
       "source": "hn",
       "title": "Show HN: Tolaria – Open-source macOS app to manage Markdown knowledge bases",
       "url": "https://github.com/refactoringhq/tolaria",
-      "score": 188,
-      "comments": 70,
+      "score": 206,
+      "comments": 81,
       "author": "lucaronin",
       "tags": [],
       "date": "2026-04-23T22:01:59+00:00",
@@ -279,8 +301,8 @@
       "source": "hn",
       "title": "US special forces soldier arrested after allegedly winning $400k on Maduro raid",
       "url": "https://www.cnn.com/2026/04/23/politics/us-special-forces-soldier-arrested-maduro-raid-trade",
-      "score": 208,
-      "comments": 255,
+      "score": 262,
+      "comments": 305,
       "author": "nkrisc",
       "tags": [],
       "date": "2026-04-23T21:56:15+00:00",
@@ -302,8 +324,8 @@
       "source": "hn",
       "title": "TorchTPU: Running PyTorch Natively on TPUs at Google Scale",
       "url": "https://developers.googleblog.com/torchtpu-running-pytorch-natively-on-tpus-at-google-scale/",
-      "score": 131,
-      "comments": 6,
+      "score": 138,
+      "comments": 10,
       "author": "mji",
       "tags": [],
       "date": "2026-04-23T20:53:27+00:00"
@@ -324,8 +346,8 @@
       "source": "hn",
       "title": "Using the internet like it's 1999",
       "url": "https://joshblais.com/blog/using-the-internet-like-its-1999/",
-      "score": 153,
-      "comments": 96,
+      "score": 166,
+      "comments": 102,
       "author": "joshuablais",
       "tags": [],
       "date": "2026-04-23T20:14:29+00:00"
@@ -379,8 +401,8 @@
       "source": "hn",
       "title": "GPT-5.5",
       "url": "https://openai.com/index/introducing-gpt-5-5/",
-      "score": 1343,
-      "comments": 886,
+      "score": 1381,
+      "comments": 906,
       "author": "rd",
       "tags": [],
       "date": "2026-04-23T18:01:39+00:00"
@@ -390,8 +412,8 @@
       "source": "hn",
       "title": "An update on recent Claude Code quality reports",
       "url": "https://www.anthropic.com/engineering/april-23-postmortem",
-      "score": 719,
-      "comments": 532,
+      "score": 745,
+      "comments": 557,
       "author": "mfiguiere",
       "tags": [],
       "date": "2026-04-23T17:48:38+00:00",
@@ -413,8 +435,8 @@
       "source": "hn",
       "title": "MeshCore development team splits over trademark dispute and AI-generated code",
       "url": "https://blog.meshcore.io/2026/04/23/the-split",
-      "score": 212,
-      "comments": 111,
+      "score": 223,
+      "comments": 119,
       "author": "wielebny",
       "tags": [],
       "date": "2026-04-23T16:55:13+00:00"
@@ -424,8 +446,8 @@
       "source": "hn",
       "title": "My phone replaced a brass plug",
       "url": "https://drobinin.com/posts/my-phone-replaced-a-brass-plug/",
-      "score": 128,
-      "comments": 26,
+      "score": 142,
+      "comments": 32,
       "author": "valzevul",
       "tags": [],
       "date": "2026-04-23T16:27:07+00:00"
@@ -479,8 +501,8 @@
       "source": "hn",
       "title": "Bitwarden CLI compromised in ongoing Checkmarx supply chain campaign",
       "url": "https://socket.dev/blog/bitwarden-cli-compromised",
-      "score": 748,
-      "comments": 365,
+      "score": 757,
+      "comments": 366,
       "author": "tosh",
       "tags": [],
       "date": "2026-04-23T14:17:08+00:00"
@@ -490,8 +512,8 @@
       "source": "hn",
       "title": "UK Biobank health data keeps ending up on GitHub",
       "url": "https://biobank.rocher.lc",
-      "score": 119,
-      "comments": 29,
+      "score": 133,
+      "comments": 33,
       "author": "Cynddl",
       "tags": [],
       "date": "2026-04-23T13:58:03+00:00"
@@ -580,8 +602,8 @@
       "source": "hn",
       "title": "Show HN: Honker – Postgres NOTIFY/LISTEN Semantics for SQLite",
       "url": "https://github.com/russellromney/honker",
-      "score": 256,
-      "comments": 62,
+      "score": 261,
+      "comments": 65,
       "author": "russellthehippo",
       "tags": [],
       "date": "2026-04-23T11:53:11+00:00"
@@ -1050,8 +1072,8 @@
       "source": "hn",
       "title": "Show HN: Agent Vault – Open-source credential proxy and vault for agents",
       "url": "https://github.com/Infisical/agent-vault",
-      "score": 105,
-      "comments": 36,
+      "score": 107,
+      "comments": 37,
       "author": "dangtony98",
       "tags": [],
       "date": "2026-04-22T16:25:28+00:00",
@@ -2038,8 +2060,8 @@
       "source": "hn",
       "title": "A programmable watch you can actually wear",
       "url": "https://www.hackster.io/news/a-diy-watch-you-can-actually-wear-8f91c2dac682",
-      "score": 181,
-      "comments": 84,
+      "score": 189,
+      "comments": 88,
       "author": "sarusso",
       "tags": [],
       "date": "2026-04-21T08:52:33+00:00"
@@ -5165,28 +5187,6 @@
       "date": "2026-04-17T21:03:09+00:00"
     },
     {
-      "id": "hn-47810507",
-      "source": "hn",
-      "title": "Arc Prize Foundation (YC W26) Is Hiring a Platform Engineer for ARC-AGI-4",
-      "url": "https://www.ycombinator.com/companies/arc-prize-foundation/jobs/AKZRZDN-platform-engineer-benchmark-lead",
-      "score": 1,
-      "comments": 0,
-      "author": "gkamradt_",
-      "tags": [],
-      "date": "2026-04-17T21:00:08+00:00"
-    },
-    {
-      "id": "hn-47810211",
-      "source": "hn",
-      "title": "Two Motorola Transistors Became the Default NPNs",
-      "url": "https://www.allaboutcircuits.com/news/how-two-motorola-transistors-became-the-worlds-default-npns/",
-      "score": 34,
-      "comments": 13,
-      "author": "ChuckMcM",
-      "tags": [],
-      "date": "2026-04-17T20:27:49+00:00"
-    },
-    {
       "id": "ctf-3477546",
       "source": "project",
       "proj_category": "CTF",
@@ -5396,6 +5396,19 @@
       "date": "Thu, 23 Apr 2026 22:30:26 GMT"
     },
     {
+      "id": "zenn-6641522536",
+      "source": "zennqiita",
+      "sub_source": "Zenn",
+      "title": "【超速報】エージェント、本番へ。Google Cloud Next '26 ラスベガス 1日目参加レポート",
+      "url": "https://zenn.dev/mbk_digital/articles/0b04152f08658f",
+      "score": null,
+      "author": "Kazuki Furuhata",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Thu, 23 Apr 2026 14:38:56 GMT"
+    },
+    {
       "id": "zenn-ee45b437ca",
       "source": "zennqiita",
       "sub_source": "Zenn",
@@ -5446,19 +5459,6 @@
         "Zenn"
       ],
       "date": "Thu, 23 Apr 2026 05:40:12 GMT"
-    },
-    {
-      "id": "zenn-383175a363",
-      "source": "zennqiita",
-      "sub_source": "Zenn",
-      "title": "改善要望開発ワークフローをClaude Codeで構築する 〜Agentic Workflow実践事例〜",
-      "url": "https://zenn.dev/masarufuruya/articles/9e277188780755",
-      "score": null,
-      "author": "古家大 | EM | AI開発オペレーションマネージャー",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Thu, 23 Apr 2026 00:56:39 GMT"
     },
     {
       "id": "zenn-69b5370377",

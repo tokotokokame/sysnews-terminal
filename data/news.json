@@ -1,7 +1,40 @@
 {
-  "updated_at": "2026-04-24T00:08:25.783751+00:00",
+  "updated_at": "2026-04-24T03:57:27.999661+00:00",
   "count": 500,
   "items": [
+    {
+      "id": "hn-47884971",
+      "source": "hn",
+      "title": "DeepSeek v4",
+      "url": "https://api-docs.deepseek.com/",
+      "score": 75,
+      "comments": 15,
+      "author": "impact_sy",
+      "tags": [],
+      "date": "2026-04-24T03:01:21+00:00"
+    },
+    {
+      "id": "hn-47884967",
+      "source": "hn",
+      "title": "2026 Ruby on Rails Community Survey",
+      "url": "https://railsdeveloper.com/survey/",
+      "score": 12,
+      "comments": 0,
+      "author": "mooreds",
+      "tags": [],
+      "date": "2026-04-24T03:00:54+00:00"
+    },
+    {
+      "id": "hn-47884768",
+      "source": "hn",
+      "title": "Why I Write (1946)",
+      "url": "https://www.orwellfoundation.com/the-orwell-foundation/orwell/essays-and-other-works/why-i-write/",
+      "score": 58,
+      "comments": 10,
+      "author": "RyanShook",
+      "tags": [],
+      "date": "2026-04-24T02:26:23+00:00"
+    },
     {
       "id": "qiita-42ee491604",
       "source": "zennqiita",
@@ -40,13 +73,25 @@
     {
       "id": "hn-47882697",
       "source": "hn",
-      "title": "Show HN: Tolaria – open-source macOS app to manage Markdown knowledge bases",
+      "title": "Show HN: Tolaria – Open-source macOS app to manage Markdown knowledge bases",
       "url": "https://github.com/refactoringhq/tolaria",
-      "score": 51,
-      "comments": 21,
+      "score": 128,
+      "comments": 42,
       "author": "lucaronin",
       "tags": [],
       "date": "2026-04-23T22:01:59+00:00",
+      "severity": "critical"
+    },
+    {
+      "id": "hn-47882645",
+      "source": "hn",
+      "title": "US special forces soldier arrested after allegedly winning $400k on Maduro raid",
+      "url": "https://www.cnn.com/2026/04/23/politics/us-special-forces-soldier-arrested-maduro-raid-trade",
+      "score": 46,
+      "comments": 129,
+      "author": "nkrisc",
+      "tags": [],
+      "date": "2026-04-23T21:56:15+00:00",
       "severity": "critical"
     },
     {
@@ -65,8 +110,8 @@
       "source": "hn",
       "title": "TorchTPU: Running PyTorch Natively on TPUs at Google Scale",
       "url": "https://developers.googleblog.com/torchtpu-running-pytorch-natively-on-tpus-at-google-scale/",
-      "score": 25,
-      "comments": 2,
+      "score": 82,
+      "comments": 3,
       "author": "mji",
       "tags": [],
       "date": "2026-04-23T20:53:27+00:00"
@@ -131,8 +176,8 @@
       "source": "hn",
       "title": "Astronomers find the edge of the Milky Way",
       "url": "https://skyandtelescope.org/astronomy-news/astronomers-find-the-edge-of-the-milky-way/",
-      "score": 70,
-      "comments": 13,
+      "score": 94,
+      "comments": 17,
       "author": "bookofjoe",
       "tags": [],
       "date": "2026-04-23T18:11:29+00:00"
@@ -142,8 +187,8 @@
       "source": "hn",
       "title": "GPT-5.5",
       "url": "https://openai.com/index/introducing-gpt-5-5/",
-      "score": 1005,
-      "comments": 654,
+      "score": 1175,
+      "comments": 802,
       "author": "rd",
       "tags": [],
       "date": "2026-04-23T18:01:39+00:00"
@@ -153,8 +198,8 @@
       "source": "hn",
       "title": "An update on recent Claude Code quality reports",
       "url": "https://www.anthropic.com/engineering/april-23-postmortem",
-      "score": 525,
-      "comments": 397,
+      "score": 602,
+      "comments": 471,
       "author": "mfiguiere",
       "tags": [],
       "date": "2026-04-23T17:48:38+00:00",
@@ -176,8 +221,8 @@
       "source": "hn",
       "title": "MeshCore development team splits over trademark dispute and AI-generated code",
       "url": "https://blog.meshcore.io/2026/04/23/the-split",
-      "score": 142,
-      "comments": 82,
+      "score": 177,
+      "comments": 100,
       "author": "wielebny",
       "tags": [],
       "date": "2026-04-23T16:55:13+00:00"
@@ -187,8 +232,8 @@
       "source": "hn",
       "title": "My phone replaced a brass plug",
       "url": "https://drobinin.com/posts/my-phone-replaced-a-brass-plug/",
-      "score": 64,
-      "comments": 9,
+      "score": 96,
+      "comments": 16,
       "author": "valzevul",
       "tags": [],
       "date": "2026-04-23T16:27:07+00:00"
@@ -198,8 +243,8 @@
       "source": "hn",
       "title": "Incident with multple GitHub services",
       "url": "https://www.githubstatus.com/incidents/myrbk7jvvs6p",
-      "score": 194,
-      "comments": 97,
+      "score": 221,
+      "comments": 109,
       "author": "bwannasek",
       "tags": [],
       "date": "2026-04-23T16:21:55+00:00"
@@ -220,8 +265,8 @@
       "source": "hn",
       "title": "French government agency confirms breach as hacker offers to sell data",
       "url": "https://www.bleepingcomputer.com/news/security/french-govt-agency-confirms-breach-as-hacker-offers-to-sell-data/",
-      "score": 343,
-      "comments": 121,
+      "score": 364,
+      "comments": 123,
       "author": "robtherobber",
       "tags": [],
       "date": "2026-04-23T15:59:55+00:00"
@@ -242,8 +287,8 @@
       "source": "hn",
       "title": "Bitwarden CLI compromised in ongoing Checkmarx supply chain campaign",
       "url": "https://socket.dev/blog/bitwarden-cli-compromised",
-      "score": 612,
-      "comments": 286,
+      "score": 678,
+      "comments": 337,
       "author": "tosh",
       "tags": [],
       "date": "2026-04-23T14:17:08+00:00"
@@ -253,8 +298,8 @@
       "source": "hn",
       "title": "UK Biobank health data keeps ending up on GitHub",
       "url": "https://biobank.rocher.lc",
-      "score": 53,
-      "comments": 14,
+      "score": 87,
+      "comments": 23,
       "author": "Cynddl",
       "tags": [],
       "date": "2026-04-23T13:58:03+00:00"
@@ -286,8 +331,8 @@
       "source": "hn",
       "title": "I spent years trying to make CSS states predictable",
       "url": "https://tenphi.me/blog/why-i-spent-years-trying-to-make-css-states-predictable/",
-      "score": 40,
-      "comments": 9,
+      "score": 54,
+      "comments": 22,
       "author": "tenphi",
       "tags": [],
       "date": "2026-04-23T12:37:18+00:00"
@@ -330,8 +375,8 @@
       "source": "hn",
       "title": "Show HN: Honker – Postgres NOTIFY/LISTEN Semantics for SQLite",
       "url": "https://github.com/russellromney/honker",
-      "score": 222,
-      "comments": 51,
+      "score": 239,
+      "comments": 60,
       "author": "russellthehippo",
       "tags": [],
       "date": "2026-04-23T11:53:11+00:00"
@@ -435,8 +480,8 @@
       "source": "hn",
       "title": "I am building a cloud",
       "url": "https://crawshaw.io/blog/building-a-cloud",
-      "score": 963,
-      "comments": 481,
+      "score": 1028,
+      "comments": 508,
       "author": "bumbledraven",
       "tags": [],
       "date": "2026-04-23T04:44:19+00:00"
@@ -531,8 +576,8 @@
       "source": "hn",
       "title": "Arch Linux Now Has a Bit-for-Bit Reproducible Docker Image",
       "url": "https://antiz.fr/blog/archlinux-now-has-a-reproducible-docker-image/",
-      "score": 295,
-      "comments": 103,
+      "score": 319,
+      "comments": 108,
       "author": "maxloh",
       "tags": [],
       "date": "2026-04-23T01:59:08+00:00"
@@ -778,8 +823,8 @@
       "source": "hn",
       "title": "Alberta startup sells no-tech tractors for half price",
       "url": "https://wheelfront.com/this-alberta-startup-sells-no-tech-tractors-for-half-price/",
-      "score": 2088,
-      "comments": 713,
+      "score": 2160,
+      "comments": 739,
       "author": "Kaibeezy",
       "tags": [],
       "date": "2026-04-22T16:29:25+00:00"
@@ -800,8 +845,8 @@
       "source": "hn",
       "title": "Show HN: Agent Vault – Open-source credential proxy and vault for agents",
       "url": "https://github.com/Infisical/agent-vault",
-      "score": 53,
-      "comments": 14,
+      "score": 82,
+      "comments": 31,
       "author": "dangtony98",
       "tags": [],
       "date": "2026-04-22T16:25:28+00:00",
@@ -1764,8 +1809,8 @@
       "source": "hn",
       "title": "Your hex editor should color-code bytes",
       "url": "https://simonomi.dev/blog/color-code-your-bytes/",
-      "score": 484,
-      "comments": 141,
+      "score": 526,
+      "comments": 147,
       "author": "tobr",
       "tags": [],
       "date": "2026-04-21T09:52:09+00:00"
@@ -1788,8 +1833,8 @@
       "source": "hn",
       "title": "A programmable watch you can actually wear",
       "url": "https://www.hackster.io/news/a-diy-watch-you-can-actually-wear-8f91c2dac682",
-      "score": 123,
-      "comments": 65,
+      "score": 151,
+      "comments": 76,
       "author": "sarusso",
       "tags": [],
       "date": "2026-04-21T08:52:33+00:00"
@@ -5125,51 +5170,6 @@
       "date": "2026-04-17T15:20:45+00:00"
     },
     {
-      "id": "hn-47806845",
-      "source": "hn",
-      "title": "Slop Cop",
-      "url": "https://awnist.com/slop-cop",
-      "score": 214,
-      "comments": 138,
-      "author": "ericHosick",
-      "tags": [],
-      "date": "2026-04-17T15:15:24+00:00"
-    },
-    {
-      "id": "hn-47806777",
-      "source": "hn",
-      "title": "NIST gives up enriching most CVEs",
-      "url": "https://risky.biz/risky-bulletin-nist-gives-up-enriching-most-cves/",
-      "score": 198,
-      "comments": 51,
-      "author": "mooreds",
-      "tags": [],
-      "date": "2026-04-17T15:09:14+00:00",
-      "severity": "high"
-    },
-    {
-      "id": "hn-47806725",
-      "source": "hn",
-      "title": "Claude Design",
-      "url": "https://www.anthropic.com/news/claude-design-anthropic-labs",
-      "score": 1158,
-      "comments": 730,
-      "author": "meetpateltech",
-      "tags": [],
-      "date": "2026-04-17T15:04:09+00:00"
-    },
-    {
-      "id": "hn-47806484",
-      "source": "hn",
-      "title": "Middle schooler finds coin from Troy in Berlin",
-      "url": "https://www.thehistoryblog.com/archives/75848",
-      "score": 246,
-      "comments": 115,
-      "author": "speckx",
-      "tags": [],
-      "date": "2026-04-17T14:41:49+00:00"
-    },
-    {
       "id": "ctf-3477546",
       "source": "project",
       "proj_category": "CTF",
@@ -5364,6 +5364,19 @@
         "Release"
       ],
       "date": "2023-05-23T17:06:23Z"
+    },
+    {
+      "id": "zenn-bab38db7d8",
+      "source": "zennqiita",
+      "sub_source": "Zenn",
+      "title": "Claude Managed Agents、ハンズオンでぜんぶ教えたるで｜CLI×Web 2本立てで3層アーキテクチャ完全攻略",
+      "url": "https://zenn.dev/masayan1126/books/claude-managed-agents-handson",
+      "score": null,
+      "author": "まさやん",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Thu, 23 Apr 2026 22:30:26 GMT"
     },
     {
       "id": "zenn-a36394f35d",
@@ -5611,19 +5624,6 @@
         "Zenn"
       ],
       "date": "Tue, 21 Apr 2026 01:26:39 GMT"
-    },
-    {
-      "id": "zenn-75e7ba2a28",
-      "source": "zennqiita",
-      "sub_source": "Zenn",
-      "title": "AIスクラムチームは嘘をつく",
-      "url": "https://zenn.dev/microsoft/articles/2a952ed44e3873",
-      "score": null,
-      "author": "shuji yamaguchi",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Mon, 20 Apr 2026 23:15:54 GMT"
     },
     {
       "id": "edb-8bdc8c3b50",

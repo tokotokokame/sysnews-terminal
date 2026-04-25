@@ -1,14 +1,36 @@
 {
-  "updated_at": "2026-04-25T18:04:40.349875+00:00",
+  "updated_at": "2026-04-25T19:25:59.072031+00:00",
   "count": 500,
   "items": [
+    {
+      "id": "hn-47903737",
+      "source": "hn",
+      "title": "IPv7: Identity-Centric Network Protocol – IETF Draft and Rust Implementation",
+      "url": "https://datatracker.ietf.org/doc/draft-subbiah-ipv7/",
+      "score": 10,
+      "comments": 2,
+      "author": "arunkumarunique",
+      "tags": [],
+      "date": "2026-04-25T19:11:10+00:00"
+    },
+    {
+      "id": "hn-47902993",
+      "source": "hn",
+      "title": "Hokusai and Tesselations",
+      "url": "https://dl.ndl.go.jp/pid/1899550/1/11/",
+      "score": 36,
+      "comments": 4,
+      "author": "srean",
+      "tags": [],
+      "date": "2026-04-25T17:21:22+00:00"
+    },
     {
       "id": "hn-47902816",
       "source": "hn",
       "title": "Framework Laptop 13 Pro: Major Upgrades and Linux Front and Center",
       "url": "https://boilingsteam.com/framework-laptop-13-pro-announced/",
-      "score": 22,
-      "comments": 1,
+      "score": 94,
+      "comments": 56,
       "author": "ekianjo",
       "tags": [],
       "date": "2026-04-25T16:54:28+00:00"
@@ -27,10 +49,10 @@
     {
       "id": "hn-47902416",
       "source": "hn",
-      "title": "Niri 26.04 was just released (scrollable-tiling Wayland compositor)",
+      "title": "Niri 26.04: Scrollable-tiling Wayland compositor",
       "url": "https://github.com/niri-wm/niri/releases/tag/v26.04",
-      "score": 90,
-      "comments": 15,
+      "score": 147,
+      "comments": 39,
       "author": "nickjj",
       "tags": [],
       "date": "2026-04-25T15:59:15+00:00"
@@ -38,10 +60,10 @@
     {
       "id": "hn-47902339",
       "source": "hn",
-      "title": "What's Missing in the 'Agentic' Story",
+      "title": "What's missing in the 'agentic' story: a well-defined user agent role",
       "url": "https://www.mnot.net/blog/2026/04/24/agents_as_collective_bargains",
-      "score": 47,
-      "comments": 33,
+      "score": 54,
+      "comments": 50,
       "author": "ingve",
       "tags": [],
       "date": "2026-04-25T15:51:11+00:00"
@@ -62,8 +84,8 @@
       "source": "hn",
       "title": "GPT 5.5 biosafety bounty",
       "url": "https://openai.com/index/gpt-5-5-bio-bug-bounty/",
-      "score": 65,
-      "comments": 58,
+      "score": 81,
+      "comments": 73,
       "author": "Murfalo",
       "tags": [],
       "date": "2026-04-25T14:17:31+00:00"
@@ -86,8 +108,8 @@
       "source": "hn",
       "title": "A Collection of Chronic Medical Conditions Common in Autistic and ADHD Adults [pdf] (2023)",
       "url": "https://allbrainsbelong.org/wp-content/uploads/2023/08/CLINICIAN-GUIDE-Everything-is-Connected-to-Everything-Project-All-Brains-Belong-VT-8.15.23.pdf",
-      "score": 33,
-      "comments": 14,
+      "score": 57,
+      "comments": 38,
       "author": "AndrewDucker",
       "tags": [],
       "date": "2026-04-25T13:34:46+00:00"
@@ -97,8 +119,8 @@
       "source": "hn",
       "title": "HEALPix",
       "url": "https://en.wikipedia.org/wiki/HEALPix",
-      "score": 29,
-      "comments": 4,
+      "score": 34,
+      "comments": 5,
       "author": "hyperific",
       "tags": [],
       "date": "2026-04-25T13:11:18+00:00"
@@ -108,8 +130,8 @@
       "source": "hn",
       "title": "Lambda Calculus Benchmark for AI",
       "url": "https://victortaelin.github.io/lambench/",
-      "score": 88,
-      "comments": 28,
+      "score": 99,
+      "comments": 31,
       "author": "marvinborner",
       "tags": [],
       "date": "2026-04-25T11:16:23+00:00"
@@ -119,8 +141,8 @@
       "source": "hn",
       "title": "Discret 11, the French TV encryption of the 80s",
       "url": "https://fabiensanglard.net/discret11/",
-      "score": 69,
-      "comments": 11,
+      "score": 92,
+      "comments": 13,
       "author": "adunk",
       "tags": [],
       "date": "2026-04-25T11:10:41+00:00"
@@ -130,8 +152,8 @@
       "source": "hn",
       "title": "Only One Side Will Be the True Successor to MS-DOS – Windows 2.x",
       "url": "https://blisscast.wordpress.com/2026/04/21/windows-2-gui-wonderland-12a/",
-      "score": 46,
-      "comments": 29,
+      "score": 53,
+      "comments": 38,
       "author": "keepamovin",
       "tags": [],
       "date": "2026-04-25T11:03:15+00:00"
@@ -141,8 +163,8 @@
       "source": "hn",
       "title": "A web-based RDP client built with Go WebAssembly and grdp",
       "url": "https://github.com/nakagami/grdpwasm",
-      "score": 72,
-      "comments": 31,
+      "score": 85,
+      "comments": 34,
       "author": "mariuz",
       "tags": [],
       "date": "2026-04-25T10:59:29+00:00"
@@ -152,7 +174,7 @@
       "source": "hn",
       "title": "Martin Galway's music source files from 1980's Commodore 64 games",
       "url": "https://github.com/MartinGalway/C64_music",
-      "score": 112,
+      "score": 125,
       "comments": 16,
       "author": "ingve",
       "tags": [],
@@ -186,8 +208,8 @@
       "source": "hn",
       "title": "New 10 GbE USB adapters are cooler, smaller, cheaper",
       "url": "https://www.jeffgeerling.com/blog/2026/new-10-gbe-usb-adapters-cooler-smaller-cheaper/",
-      "score": 434,
-      "comments": 255,
+      "score": 463,
+      "comments": 270,
       "author": "calcifer",
       "tags": [],
       "date": "2026-04-25T05:56:12+00:00"
@@ -318,8 +340,8 @@
       "source": "hn",
       "title": "Plain text has been around for decades and it’s here to stay",
       "url": "https://unsung.aresluna.org/plain-text-has-been-around-for-decades-and-its-here-to-stay/",
-      "score": 216,
-      "comments": 109,
+      "score": 225,
+      "comments": 113,
       "author": "rbanffy",
       "tags": [],
       "date": "2026-04-25T01:03:09+00:00"
@@ -329,8 +351,8 @@
       "source": "hn",
       "title": "Replace IBM Quantum back end with /dev/urandom",
       "url": "https://github.com/yuvadm/quantumslop/blob/25ad2e76ae58baa96f6219742459407db9dd17f5/URANDOM_DEMO.md",
-      "score": 273,
-      "comments": 40,
+      "score": 288,
+      "comments": 42,
       "author": "pigeons",
       "tags": [],
       "date": "2026-04-25T00:58:38+00:00"
@@ -563,7 +585,7 @@
       "source": "hn",
       "title": "Which one is more important: more parameters or more computation? (2021)",
       "url": "https://parl.ai/projects/params_vs_compute/",
-      "score": 15,
+      "score": 23,
       "comments": 1,
       "author": "jxmorris12",
       "tags": [],
@@ -651,8 +673,8 @@
       "source": "hn",
       "title": "Sabotaging projects by overthinking, scope creep, and structural diffing",
       "url": "https://kevinlynagh.com/newsletter/2026_04_overthinking/",
-      "score": 489,
-      "comments": 121,
+      "score": 493,
+      "comments": 122,
       "author": "alcazar",
       "tags": [],
       "date": "2026-04-24T14:28:52+00:00"
@@ -1852,8 +1874,8 @@
       "source": "hn",
       "title": "Insights into firewood use by early Middle Pleistocene hominins",
       "url": "https://www.sciencedirect.com/science/article/pii/S0277379126001824",
-      "score": 24,
-      "comments": 6,
+      "score": 32,
+      "comments": 8,
       "author": "wslh",
       "tags": [],
       "date": "2026-04-22T20:42:06+00:00"
@@ -2168,8 +2190,8 @@
       "source": "hn",
       "title": "1-Bit Hokusai's \"The Great Wave\" (2023)",
       "url": "https://www.hypertalking.com/2023/05/08/1-bit-pixel-art-of-hokusais-the-great-wave-off-kanagawa/",
-      "score": 329,
-      "comments": 62,
+      "score": 392,
+      "comments": 69,
       "author": "stephen-hill",
       "tags": [],
       "date": "2026-04-22T13:46:23+00:00"
@@ -2247,8 +2269,8 @@
       "source": "hn",
       "title": "A 3D Body from Eight Questions – No Photo, No GPU",
       "url": "https://clad.you/blog/posts/questionnaire-mlp/",
-      "score": 119,
-      "comments": 21,
+      "score": 121,
+      "comments": 23,
       "author": "arkadiuss",
       "tags": [],
       "date": "2026-04-22T12:20:01+00:00"
@@ -2457,8 +2479,8 @@
       "source": "hn",
       "title": "The Free Universal Construction Kit",
       "url": "https://fffff.at/free-universal-construction-kit/",
-      "score": 39,
-      "comments": 7,
+      "score": 86,
+      "comments": 16,
       "author": "robinhouston",
       "tags": [],
       "date": "2026-04-22T07:20:23+00:00"
@@ -2982,8 +3004,8 @@
       "source": "hn",
       "title": "The mail sent to a video game publisher",
       "url": "https://www.gamefile.news/p/panic-mail-arco-despelote-time-flies-thank-goodness-teeth",
-      "score": 85,
-      "comments": 1,
+      "score": 120,
+      "comments": 3,
       "author": "colinprince",
       "tags": [],
       "date": "2026-04-21T14:39:04+00:00"
@@ -5142,30 +5164,6 @@
         "Qiita"
       ],
       "date": "2026-04-19T20:27:01+09:00"
-    },
-    {
-      "id": "hn-47823460",
-      "source": "hn",
-      "title": "Show HN: Prompt-to-Excalidraw demo with Gemma 4 E2B in the browser (3.1GB)",
-      "url": "https://teamchong.github.io/turboquant-wasm/draw.html",
-      "score": 80,
-      "comments": 41,
-      "author": "teamchong",
-      "tags": [],
-      "date": "2026-04-19T11:17:27+00:00"
-    },
-    {
-      "id": "qiita-bbc784d698",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "個人開発者がClaude Codeで気をつけたい3つのセキュリティ事故 — CLAUDE.mdで防ぐ実践パターン",
-      "url": "https://qiita.com/ennagara128/items/835b1870f8d1d5fe0b14?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "ennagara128",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-04-19T20:09:30+09:00"
     },
     {
       "id": "ghrel-projectdiscovery_nuclei-310617486",

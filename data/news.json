@@ -1,14 +1,95 @@
 {
-  "updated_at": "2026-04-27T14:34:02.988618+00:00",
+  "updated_at": "2026-04-27T16:26:26.182050+00:00",
   "count": 500,
   "items": [
+    {
+      "id": "hn-47923357",
+      "source": "hn",
+      "title": "GitHub Copilot is moving to usage-based billing",
+      "url": "https://github.blog/news-insights/company-news/github-copilot-is-moving-to-usage-based-billing/",
+      "score": 51,
+      "comments": 19,
+      "author": "frizlab",
+      "tags": [],
+      "date": "2026-04-27T16:03:08+00:00"
+    },
+    {
+      "id": "hn-47923010",
+      "source": "hn",
+      "title": "Apple is dropping AFP/TimeCapsule support in macOS 27",
+      "url": "https://eclecticlight.co/2026/04/23/networking-changes-coming-in-macos-27/",
+      "score": 38,
+      "comments": 24,
+      "author": "pvtmert",
+      "tags": [],
+      "date": "2026-04-27T15:36:12+00:00"
+    },
+    {
+      "id": "hn-47922957",
+      "source": "hn",
+      "title": "The Woes of Sanitizing SVGs",
+      "url": "https://muffin.ink/blog/scratch-svg-sanitization/",
+      "score": 41,
+      "comments": 9,
+      "author": "varun_ch",
+      "tags": [],
+      "date": "2026-04-27T15:31:36+00:00"
+    },
+    {
+      "id": "qiita-62809bb933",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "コードを1行も読ませずに、AIに脆弱性を100%特定させる方法（理論編）",
+      "url": "https://qiita.com/harupython/items/ed256553d10578cfec2a?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "harupython",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-04-28T00:27:25+09:00",
+      "severity": "high"
+    },
+    {
+      "id": "hn-47922712",
+      "source": "hn",
+      "title": "Dutch central bank ditches AWS and chooses Lidl for European Cloud",
+      "url": "https://www.techzine.eu/news/infrastructure/140634/dutch-central-bank-chooses-lidl-for-european-cloud/",
+      "score": 43,
+      "comments": 19,
+      "author": "benterix",
+      "tags": [],
+      "date": "2026-04-27T15:12:41+00:00"
+    },
+    {
+      "id": "hn-47922079",
+      "source": "hn",
+      "title": "\"Why not just use Lean?\"",
+      "url": "https://lawrencecpaulson.github.io//2026/04/23/Why_not_Lean.html",
+      "score": 105,
+      "comments": 36,
+      "author": "ibobev",
+      "tags": [],
+      "date": "2026-04-27T14:24:53+00:00"
+    },
+    {
+      "id": "hn-47921626",
+      "source": "hn",
+      "title": "Show HN: Utilyze – an open source GPU monitoring tool more accurate than nvtop",
+      "url": "https://www.systalyze.com/utilyze",
+      "score": 9,
+      "comments": 0,
+      "author": "ManyaGhobadi",
+      "tags": [],
+      "date": "2026-04-27T13:55:43+00:00",
+      "severity": "critical"
+    },
     {
       "id": "hn-47921377",
       "source": "hn",
       "title": "Tendril – a self-extending agent that builds and registers its own tools",
       "url": "https://github.com/serverless-dna/tendril",
-      "score": 5,
-      "comments": 1,
+      "score": 34,
+      "comments": 12,
       "author": "walmsles",
       "tags": [],
       "date": "2026-04-27T13:34:48+00:00"
@@ -16,10 +97,10 @@
     {
       "id": "hn-47921064",
       "source": "hn",
-      "title": "Running Local LLMs Offline on a Ten-Hour Flight",
+      "title": "Running local LLMs offline on a ten-hour flight",
       "url": "https://deploy.live/blog/running-local-llms-offline-on-a-ten-hour-flight/",
-      "score": 3,
-      "comments": 0,
+      "score": 63,
+      "comments": 44,
       "author": "darccio",
       "tags": [],
       "date": "2026-04-27T13:05:59+00:00"
@@ -40,8 +121,8 @@
       "source": "hn",
       "title": "Show HN: OSS Agent I built topped the TerminalBench on Gemini-3-flash-preview",
       "url": "https://github.com/dirac-run/dirac",
-      "score": 90,
-      "comments": 28,
+      "score": 170,
+      "comments": 64,
       "author": "GodelNumbering",
       "tags": [],
       "date": "2026-04-27T12:35:55+00:00"
@@ -51,8 +132,8 @@
       "source": "hn",
       "title": "Show HN: A terminal spreadsheet editor with Vim keybindings",
       "url": "https://github.com/garritfra/cell",
-      "score": 30,
-      "comments": 12,
+      "score": 48,
+      "comments": 24,
       "author": "garritfra",
       "tags": [],
       "date": "2026-04-27T11:39:49+00:00"
@@ -60,10 +141,10 @@
     {
       "id": "hn-47920074",
       "source": "hn",
-      "title": "Men Who Stare at Walls",
+      "title": "Men who stare at walls",
       "url": "https://www.alexselimov.com/posts/men_who_stare_at_walls/",
-      "score": 101,
-      "comments": 52,
+      "score": 193,
+      "comments": 100,
       "author": "aselimov3",
       "tags": [],
       "date": "2026-04-27T11:08:26+00:00"
@@ -73,8 +154,8 @@
       "source": "hn",
       "title": "Pgbackrest is no longer being maintained",
       "url": "https://github.com/pgbackrest/pgbackrest",
-      "score": 237,
-      "comments": 106,
+      "score": 315,
+      "comments": 151,
       "author": "c0l0",
       "tags": [],
       "date": "2026-04-27T10:56:34+00:00"
@@ -84,8 +165,8 @@
       "source": "hn",
       "title": "FDA Approves First-Ever Gene Therapy for Treatment of Genetic Hearing Loss",
       "url": "https://www.fda.gov/news-events/press-announcements/fda-approves-first-ever-gene-therapy-treatment-genetic-hearing-loss-under-national-priority-voucher",
-      "score": 51,
-      "comments": 12,
+      "score": 103,
+      "comments": 41,
       "author": "JeanKage",
       "tags": [],
       "date": "2026-04-27T10:15:17+00:00"
@@ -95,8 +176,8 @@
       "source": "hn",
       "title": "4TB of voice samples just stolen from 40k AI contractors at Mercor",
       "url": "https://app.oravys.com/blog/mercor-breach-2026",
-      "score": 91,
-      "comments": 22,
+      "score": 214,
+      "comments": 83,
       "author": "Oravys",
       "tags": [],
       "date": "2026-04-27T09:57:10+00:00"
@@ -117,8 +198,8 @@
       "source": "hn",
       "title": "Quarkdown – Markdown with Superpowers",
       "url": "https://quarkdown.com/",
-      "score": 73,
-      "comments": 12,
+      "score": 129,
+      "comments": 21,
       "author": "amai",
       "tags": [],
       "date": "2026-04-27T08:54:57+00:00"
@@ -433,8 +514,8 @@
       "source": "hn",
       "title": "AI should elevate your thinking, not replace it",
       "url": "https://www.koshyjohn.com/blog/ai-should-elevate-your-thinking-not-replace-it/",
-      "score": 677,
-      "comments": 482,
+      "score": 728,
+      "comments": 516,
       "author": "koshyjohn",
       "tags": [],
       "date": "2026-04-26T20:03:12+00:00"
@@ -671,20 +752,6 @@
       "author": "elisaado",
       "tags": [],
       "date": "2026-04-26T10:50:32+00:00"
-    },
-    {
-      "id": "qiita-62809bb933",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "コードを1行も読ませずに、AIに脆弱性を100%特定させる方法（理論編）",
-      "url": "https://qiita.com/harupython/items/ed256553d10578cfec2a?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "harupython",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-04-26T19:08:51+09:00",
-      "severity": "high"
     },
     {
       "id": "hn-47908833",
@@ -1028,8 +1095,8 @@
       "source": "hn",
       "title": "Understanding the short circuit in solid-state batteries",
       "url": "https://www.mpie.de/5151287/short-circuit-solid-state-batteries",
-      "score": 11,
-      "comments": 0,
+      "score": 28,
+      "comments": 4,
       "author": "hhs",
       "tags": [],
       "date": "2026-04-25T23:43:19+00:00"
@@ -1383,8 +1450,8 @@
       "source": "hn",
       "title": "Fully Featured Audio DSP Firmware for the Raspberry Pi Pico",
       "url": "https://github.com/WeebLabs/DSPi",
-      "score": 133,
-      "comments": 27,
+      "score": 180,
+      "comments": 35,
       "author": "BoingBoomTschak",
       "tags": [],
       "date": "2026-04-25T13:28:29+00:00"
@@ -1442,8 +1509,8 @@
       "source": "hn",
       "title": "Getting my daily news from a dot matrix printer 2024",
       "url": "https://aschmelyun.com/blog/getting-my-daily-news-from-a-dot-matrix-printer/",
-      "score": 34,
-      "comments": 5,
+      "score": 61,
+      "comments": 9,
       "author": "xupybd",
       "tags": [],
       "date": "2026-04-25T11:39:53+00:00"
@@ -1577,6 +1644,17 @@
         "Qiita"
       ],
       "date": "2026-04-25T17:32:21+09:00"
+    },
+    {
+      "id": "hn-47899399",
+      "source": "hn",
+      "title": "Managing the Unmanaged Switch",
+      "url": "https://watchmysys.com/blog/2026/03/managing-the-unmanaged-switch/",
+      "score": 22,
+      "comments": 5,
+      "author": "luu",
+      "tags": [],
+      "date": "2026-04-25T07:11:55+00:00"
     },
     {
       "id": "hn-47899334",
@@ -2048,6 +2126,17 @@
       "author": "qainsights",
       "tags": [],
       "date": "2026-04-24T17:48:28+00:00"
+    },
+    {
+      "id": "hn-47893516",
+      "source": "hn",
+      "title": "Den stora Älgvandringen – The great moose migration (live)",
+      "url": "https://www.svtplay.se/video/jXv3A5G/den-stora-algvandringen/idag-00-00",
+      "score": 26,
+      "comments": 2,
+      "author": "donjoe",
+      "tags": [],
+      "date": "2026-04-24T17:45:52+00:00"
     },
     {
       "id": "hn-47893427",
@@ -3164,8 +3253,8 @@
       "source": "hn",
       "title": "Flipdiscs",
       "url": "https://flipdisc.io",
-      "score": 403,
-      "comments": 68,
+      "score": 453,
+      "comments": 76,
       "author": "skogstokig",
       "tags": [],
       "date": "2026-04-23T13:54:31+00:00"
@@ -5099,85 +5188,6 @@
       "date": "2026-04-21T17:51:05+09:00"
     },
     {
-      "id": "qiita-caad9f25ff",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "== と equals() の違いを完全に理解する — なぜStringの比較は equals() を使うのか",
-      "url": "https://qiita.com/S_kamon/items/8935a8d000920c12cf08?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "S_kamon",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-04-21T17:49:43+09:00"
-    },
-    {
-      "id": "qiita-d7d0d3cfe0",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "記憶を持たないLLMの記憶 ― コンテキスト/メモリー/ハーネスエンジニアリング入門の前に",
-      "url": "https://qiita.com/yuji-arakawa/items/da4d5eec968b92ebc26d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "yuji-arakawa",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-04-21T17:40:07+09:00"
-    },
-    {
-      "id": "qiita-4f2428ec23",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "【徹底解説】DBスペシャリストなりぞこないが教える、データベースの教科書（設計もあるよ）",
-      "url": "https://qiita.com/miruky/items/f67bd754c1f7a5116a7c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "miruky",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-04-21T17:12:46+09:00"
-    },
-    {
-      "id": "qiita-c112856116",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "レイヤードアーキテクチャを図とコードでやさしく理解する（C# / ASP.NET Core）",
-      "url": "https://qiita.com/hiroki_notes/items/e83b2285948cc712ca67?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "hiroki_notes",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-04-21T16:43:53+09:00"
-    },
-    {
-      "id": "qiita-ab8a28c22f",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "[TypeScriptシリーズ - Part 6] Dependency Injection in TypeScript",
-      "url": "https://qiita.com/TOMOSIA-HieuNT/items/89178f80ed63ee6161dc?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "TOMOSIA-HieuNT",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-04-21T16:09:07+09:00"
-    },
-    {
-      "id": "ghrel-projectdiscovery_nuclei-310617486",
-      "source": "project",
-      "proj_category": "Tools",
-      "title": "Nuclei v3.8.0 — v3.8.0",
-      "url": "https://github.com/projectdiscovery/nuclei/releases/tag/v3.8.0",
-      "score": null,
-      "author": "Nuclei",
-      "tags": [
-        "Nuclei",
-        "Release"
-      ],
-      "date": "2026-04-18T01:47:59Z"
-    },
-    {
       "id": "ctf-3477546",
       "source": "project",
       "proj_category": "CTF",
@@ -5206,20 +5216,6 @@
       "date": "2026-03-28T11:22:18Z"
     },
     {
-      "id": "ghrel-Pennyw0rth_NetExec-289454548",
-      "source": "project",
-      "proj_category": "Tools",
-      "title": "NetExec v1.5.1 — v1.5.1",
-      "url": "https://github.com/Pennyw0rth/NetExec/releases/tag/v1.5.1",
-      "score": null,
-      "author": "NetExec",
-      "tags": [
-        "NetExec",
-        "Release"
-      ],
-      "date": "2026-02-23T14:52:17Z"
-    },
-    {
       "id": "ctf-3246876",
       "source": "project",
       "proj_category": "CTF",
@@ -5232,20 +5228,6 @@
         "Security"
       ],
       "date": "2026-02-10T15:56:33Z"
-    },
-    {
-      "id": "ghrel-fortra_impacket-256408744",
-      "source": "project",
-      "proj_category": "Tools",
-      "title": "Impacket impacket_0_13_0 — Impacket 0.13.0",
-      "url": "https://github.com/fortra/impacket/releases/tag/impacket_0_13_0",
-      "score": null,
-      "author": "Impacket",
-      "tags": [
-        "Impacket",
-        "Release"
-      ],
-      "date": "2025-10-22T15:53:06Z"
     },
     {
       "id": "ctf-2812798",

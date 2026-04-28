@@ -1,7 +1,30 @@
 {
-  "updated_at": "2026-04-28T08:43:00.909716+00:00",
+  "updated_at": "2026-04-28T11:05:24.395292+00:00",
   "count": 500,
   "items": [
+    {
+      "id": "hn-47932446",
+      "source": "hn",
+      "title": "The Social Edge of Intellgience: Individual Gain, Collective Loss",
+      "url": "https://www.theideasletter.org/essay/the-social-edge-of-intelligence/",
+      "score": 14,
+      "comments": 4,
+      "author": "ForHackernews",
+      "tags": [],
+      "date": "2026-04-28T10:08:38+00:00"
+    },
+    {
+      "id": "hn-47932422",
+      "source": "hn",
+      "title": "An Update on GitHub Availability",
+      "url": "https://github.blog/news-insights/company-news/an-update-on-github-availability/",
+      "score": 61,
+      "comments": 26,
+      "author": "salkahfi",
+      "tags": [],
+      "date": "2026-04-28T10:05:03+00:00",
+      "severity": "medium"
+    },
     {
       "id": "qiita-c7d4e23110",
       "source": "zennqiita",
@@ -31,8 +54,8 @@
       "source": "hn",
       "title": "GTFOBins",
       "url": "https://gtfobins.org/",
-      "score": 118,
-      "comments": 42,
+      "score": 218,
+      "comments": 62,
       "author": "StefanBatory",
       "tags": [],
       "date": "2026-04-28T06:27:39+00:00"
@@ -68,8 +91,8 @@
       "source": "hn",
       "title": "WASM is not quite a stack machine",
       "url": "https://purplesyringa.moe/blog/wasm-is-not-quite-a-stack-machine/",
-      "score": 20,
-      "comments": 2,
+      "score": 53,
+      "comments": 15,
       "author": "signa11",
       "tags": [],
       "date": "2026-04-28T04:34:29+00:00"
@@ -92,7 +115,7 @@
       "source": "hn",
       "title": "LingBot-Map: Streaming 3D reconstruction with geometric context transformer",
       "url": "https://technology.robbyant.com/lingbot-map",
-      "score": 23,
+      "score": 33,
       "comments": 2,
       "author": "nateb2022",
       "tags": [],
@@ -155,8 +178,8 @@
       "source": "hn",
       "title": "High Performance Git",
       "url": "https://gitperf.com/",
-      "score": 119,
-      "comments": 22,
+      "score": 158,
+      "comments": 33,
       "author": "gnabgib",
       "tags": [],
       "date": "2026-04-28T00:32:04+00:00"
@@ -190,8 +213,8 @@
       "source": "hn",
       "title": "Talkie: a 13B vintage language model from 1930",
       "url": "https://talkie-lm.com/introducing-talkie",
-      "score": 334,
-      "comments": 110,
+      "score": 389,
+      "comments": 141,
       "author": "jekude",
       "tags": [],
       "date": "2026-04-27T21:55:48+00:00"
@@ -212,8 +235,8 @@
       "source": "hn",
       "title": "Three men are facing charges in Toronto SMS Blaster arrests",
       "url": "https://www.tps.ca/media-centre/stories/unprecedented-sms-blaster-arrests/",
-      "score": 154,
-      "comments": 72,
+      "score": 168,
+      "comments": 78,
       "author": "gnabgib",
       "tags": [],
       "date": "2026-04-27T20:44:16+00:00"
@@ -223,8 +246,8 @@
       "source": "hn",
       "title": "Is my blue your blue?",
       "url": "https://ismy.blue/",
-      "score": 512,
-      "comments": 350,
+      "score": 567,
+      "comments": 383,
       "author": "theogravity",
       "tags": [],
       "date": "2026-04-27T20:24:33+00:00"
@@ -289,8 +312,8 @@
       "source": "hn",
       "title": "Easyduino: Open Source PCB Devboards for KiCad",
       "url": "https://github.com/Hanqaqa/Easyduino",
-      "score": 205,
-      "comments": 31,
+      "score": 222,
+      "comments": 35,
       "author": "Hanqaqa",
       "tags": [],
       "date": "2026-04-27T17:45:02+00:00",
@@ -345,8 +368,8 @@
       "source": "hn",
       "title": "Networking changes coming in macOS 27",
       "url": "https://eclecticlight.co/2026/04/23/networking-changes-coming-in-macos-27/",
-      "score": 226,
-      "comments": 200,
+      "score": 229,
+      "comments": 211,
       "author": "pvtmert",
       "tags": [],
       "date": "2026-04-27T15:36:12+00:00"
@@ -370,8 +393,8 @@
       "source": "hn",
       "title": "The woes of sanitizing SVGs",
       "url": "https://muffin.ink/blog/scratch-svg-sanitization/",
-      "score": 214,
-      "comments": 89,
+      "score": 222,
+      "comments": 92,
       "author": "varun_ch",
       "tags": [],
       "date": "2026-04-27T15:31:36+00:00"
@@ -508,8 +531,8 @@
       "source": "hn",
       "title": "Men who stare at walls",
       "url": "https://www.alexselimov.com/posts/men_who_stare_at_walls/",
-      "score": 567,
-      "comments": 249,
+      "score": 596,
+      "comments": 275,
       "author": "aselimov3",
       "tags": [],
       "date": "2026-04-27T11:08:26+00:00"
@@ -519,8 +542,8 @@
       "source": "hn",
       "title": "Pgbackrest is no longer being maintained",
       "url": "https://github.com/pgbackrest/pgbackrest",
-      "score": 391,
-      "comments": 198,
+      "score": 430,
+      "comments": 221,
       "author": "c0l0",
       "tags": [],
       "date": "2026-04-27T10:56:34+00:00"
@@ -530,8 +553,8 @@
       "source": "hn",
       "title": "FDA approves first gene therapy for treatment of genetic hearing loss",
       "url": "https://www.fda.gov/news-events/press-announcements/fda-approves-first-ever-gene-therapy-treatment-genetic-hearing-loss-under-national-priority-voucher",
-      "score": 240,
-      "comments": 88,
+      "score": 245,
+      "comments": 91,
       "author": "JeanKage",
       "tags": [],
       "date": "2026-04-27T10:15:17+00:00"
@@ -554,8 +577,8 @@
       "source": "hn",
       "title": "4TB of voice samples just stolen from 40k AI contractors at Mercor",
       "url": "https://app.oravys.com/blog/mercor-breach-2026",
-      "score": 515,
-      "comments": 191,
+      "score": 541,
+      "comments": 206,
       "author": "Oravys",
       "tags": [],
       "date": "2026-04-27T09:57:10+00:00"
@@ -637,8 +660,8 @@
       "source": "hn",
       "title": "Can You Find the Comet?",
       "url": "https://apod.nasa.gov/apod/ap260427.html",
-      "score": 17,
-      "comments": 4,
+      "score": 51,
+      "comments": 15,
       "author": "ColinWright",
       "tags": [],
       "date": "2026-04-27T07:59:37+00:00"
@@ -951,6 +974,17 @@
       "author": "mmcclure",
       "tags": [],
       "date": "2026-04-26T20:40:50+00:00"
+    },
+    {
+      "id": "hn-47914118",
+      "source": "hn",
+      "title": "In Kannauj, perfumers have been making monsoon-infused mitti attar for centuries",
+      "url": "https://www.atlasobscura.com/articles/smell-of-rain-kannauj-perfume-mitti-attar-india",
+      "score": 5,
+      "comments": 0,
+      "author": "bcaulfield",
+      "tags": [],
+      "date": "2026-04-26T20:37:19+00:00"
     },
     {
       "id": "hn-47913855",
@@ -1615,8 +1649,8 @@
       "source": "hn",
       "title": "How I leared what a decoupling capacitor is for, the hard way",
       "url": "https://nbelakovski.substack.com/p/how-i-learned-what-a-decoupling-capacitor",
-      "score": 91,
-      "comments": 48,
+      "score": 103,
+      "comments": 59,
       "author": "actinium226",
       "tags": [],
       "date": "2026-04-25T22:27:44+00:00"
@@ -1747,8 +1781,8 @@
       "source": "hn",
       "title": "The quiet resurgence of RF engineering",
       "url": "https://atempleton.bearblog.dev/quiet-resurgence-of-rf-engineering/",
-      "score": 188,
-      "comments": 104,
+      "score": 202,
+      "comments": 113,
       "author": "merlinq",
       "tags": [],
       "date": "2026-04-25T18:25:54+00:00"
@@ -1907,8 +1941,8 @@
       "source": "hn",
       "title": "Mo RAM, Mo Problems (2025)",
       "url": "https://fabiensanglard.net/curse/",
-      "score": 121,
-      "comments": 18,
+      "score": 141,
+      "comments": 23,
       "author": "blfr",
       "tags": [],
       "date": "2026-04-25T15:41:54+00:00"
@@ -2025,8 +2059,8 @@
       "source": "hn",
       "title": "Fully Featured Audio DSP Firmware for the Raspberry Pi Pico",
       "url": "https://github.com/WeebLabs/DSPi",
-      "score": 289,
-      "comments": 80,
+      "score": 296,
+      "comments": 83,
       "author": "BoingBoomTschak",
       "tags": [],
       "date": "2026-04-25T13:28:29+00:00"
@@ -2054,6 +2088,17 @@
         "Qiita"
       ],
       "date": "2026-04-25T22:00:32+09:00"
+    },
+    {
+      "id": "hn-47901064",
+      "source": "hn",
+      "title": "The World's Most Complex Machine",
+      "url": "https://worksinprogress.co/issue/the-worlds-most-complex-machine/",
+      "score": 59,
+      "comments": 17,
+      "author": "mellosouls",
+      "tags": [],
+      "date": "2026-04-25T12:47:32+00:00"
     },
     {
       "id": "hn-47900820",
@@ -2225,8 +2270,8 @@
       "source": "hn",
       "title": "Pgrx: Build Postgres Extensions with Rust",
       "url": "https://github.com/pgcentralfoundation/pgrx",
-      "score": 69,
-      "comments": 3,
+      "score": 104,
+      "comments": 5,
       "author": "luu",
       "tags": [],
       "date": "2026-04-25T08:16:19+00:00"
@@ -5128,53 +5173,6 @@
       "date": "2026-04-22T02:49:40+00:00"
     },
     {
-      "id": "qiita-dd838007c0",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "【便利ツール紹介】Googleも推奨！シェルスクリプトを書くなら必ず導入したい静的解析ツール",
-      "url": "https://qiita.com/tomo-2525/items/848cbd21f769de6ed15c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "tomo-2525",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-04-22T10:40:43+09:00"
-    },
-    {
-      "id": "hn-47857563",
-      "source": "hn",
-      "title": "How to Implement an FPS Counter",
-      "url": "https://vplesko.com/posts/how_to_implement_an_fps_counter.html",
-      "score": 103,
-      "comments": 18,
-      "author": "vplesko",
-      "tags": [],
-      "date": "2026-04-22T01:31:17+00:00"
-    },
-    {
-      "id": "hn-47857509",
-      "source": "hn",
-      "title": "Global growth in solar \"the largest ever observed for any source\"",
-      "url": "https://arstechnica.com/science/2026/04/global-growth-in-solar-the-largest-ever-observed-for-any-source/",
-      "score": 59,
-      "comments": 4,
-      "author": "tambourine_man",
-      "tags": [],
-      "date": "2026-04-22T01:25:04+00:00",
-      "severity": "critical"
-    },
-    {
-      "id": "hn-47857477",
-      "source": "hn",
-      "title": "San Diego rents declined more than 19 of 20 top US markets after surge in supply",
-      "url": "https://www.kpbs.org/news/economy/2026/03/27/san-diego-rents-declined-more-than-19-of-nations-top-20-markets-following-surge-in-supply",
-      "score": 134,
-      "comments": 88,
-      "author": "littlexsparkee",
-      "tags": [],
-      "date": "2026-04-22T01:21:09+00:00"
-    },
-    {
       "id": "ghrel-projectdiscovery_nuclei-310617486",
       "source": "project",
       "proj_category": "Tools",
@@ -5385,6 +5383,32 @@
       "date": "2023-05-23T17:06:23Z"
     },
     {
+      "id": "zenn-ac3cc7ec92",
+      "source": "zennqiita",
+      "sub_source": "Zenn",
+      "title": "AIに会社のGoogleアカウントを渡していませんか",
+      "url": "https://zenn.dev/finatext/articles/mcp-gateway-google-sa",
+      "score": null,
+      "author": "techan",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Tue, 28 Apr 2026 02:30:02 GMT"
+    },
+    {
+      "id": "zenn-587d59872d",
+      "source": "zennqiita",
+      "sub_source": "Zenn",
+      "title": "ベクトルを使わないRAG。全てのナレッジを階層化する手法",
+      "url": "https://zenn.dev/knowledgesense/articles/7dddae04a7d828",
+      "score": null,
+      "author": "Atsushi Kadowaki",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Tue, 28 Apr 2026 00:01:05 GMT"
+    },
+    {
       "id": "zenn-13be0d6071",
       "source": "zennqiita",
       "sub_source": "Zenn",
@@ -5409,6 +5433,19 @@
         "Zenn"
       ],
       "date": "Mon, 27 Apr 2026 23:02:32 GMT"
+    },
+    {
+      "id": "zenn-8342ed0660",
+      "source": "zennqiita",
+      "sub_source": "Zenn",
+      "title": "Hono × Inertia.js が作る新しい型貫通体験に触れてみた",
+      "url": "https://zenn.dev/ashunar0/articles/d4a23d3579331a",
+      "score": null,
+      "author": "あさひ",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Mon, 27 Apr 2026 14:10:54 GMT"
     },
     {
       "id": "zenn-e5f6b6afa6",
@@ -5555,17 +5592,17 @@
       "date": "Sun, 26 Apr 2026 09:52:13 GMT"
     },
     {
-      "id": "zenn-92c204f5cf",
+      "id": "zenn-e7e13bbfca",
       "source": "zennqiita",
       "sub_source": "Zenn",
-      "title": "LLMアプリケーションにおける設計Principal - LLMのCAP定理",
-      "url": "https://zenn.dev/hsaki/articles/llm-cap-theorem",
+      "title": "Figma開かんでもデザインできる時代がきたで｜Claude Designで初稿まで爆速ガイド",
+      "url": "https://zenn.dev/masayan1126/books/claude-design",
       "score": null,
-      "author": "さき(H.Saki)",
+      "author": "まさやん",
       "tags": [
         "Zenn"
       ],
-      "date": "Sun, 26 Apr 2026 08:00:14 GMT"
+      "date": "Sun, 26 Apr 2026 07:02:06 GMT"
     },
     {
       "id": "zenn-c3cf8dbe97",
@@ -5581,32 +5618,6 @@
       "date": "Sun, 26 Apr 2026 06:34:35 GMT"
     },
     {
-      "id": "zenn-cf54b61144",
-      "source": "zennqiita",
-      "sub_source": "Zenn",
-      "title": "GitHub Copilot CLI で考える複数エージェント設計",
-      "url": "https://zenn.dev/tomokusaba/articles/a599cb645ca2c5",
-      "score": null,
-      "author": "くさば",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Sun, 26 Apr 2026 05:58:33 GMT"
-    },
-    {
-      "id": "zenn-0a916993fb",
-      "source": "zennqiita",
-      "sub_source": "Zenn",
-      "title": "DESIGN.mdは「どんなサイトもスキャンして再構築できる」のか — advanced-design-mdによる既存3手段の検証と再設計",
-      "url": "https://zenn.dev/marycache/articles/03011f881e36f7",
-      "score": null,
-      "author": "C",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Sun, 26 Apr 2026 05:42:53 GMT"
-    },
-    {
       "id": "zenn-f28c2b5dc4",
       "source": "zennqiita",
       "sub_source": "Zenn",
@@ -5620,30 +5631,17 @@
       "date": "Sat, 25 Apr 2026 20:02:09 GMT"
     },
     {
-      "id": "zenn-d880c93774",
+      "id": "zenn-4a9e95452f",
       "source": "zennqiita",
       "sub_source": "Zenn",
-      "title": "ハーネスエンジニアリングを楽にする Microsoft 製の新ツール「APM」ハンズオン",
-      "url": "https://zenn.dev/microsoft/articles/agent-package-manager-handson",
+      "title": "2026年にCGIでWebアプリを作る",
+      "url": "https://zenn.dev/alarky/articles/cgi-modern-web-app-2026",
       "score": null,
-      "author": "momosuke | Ryosuke Hyakuta",
+      "author": "alarky",
       "tags": [
         "Zenn"
       ],
-      "date": "Sat, 25 Apr 2026 13:16:58 GMT"
-    },
-    {
-      "id": "zenn-3015bc5e03",
-      "source": "zennqiita",
-      "sub_source": "Zenn",
-      "title": "Claude Codeより安く開発できるOpenCodeを使ってみよう",
-      "url": "https://zenn.dev/xxishan/articles/9cb47819f835fa",
-      "score": null,
-      "author": "nishiyama",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Sat, 25 Apr 2026 07:00:17 GMT"
+      "date": "Sat, 25 Apr 2026 18:32:08 GMT"
     },
     {
       "id": "edb-8bdc8c3b50",

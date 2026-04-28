@@ -1,7 +1,85 @@
 {
-  "updated_at": "2026-04-28T17:46:57.143908+00:00",
+  "updated_at": "2026-04-28T19:41:29.673597+00:00",
   "count": 500,
   "items": [
+    {
+      "id": "hn-47939320",
+      "source": "hn",
+      "title": "Interview with OpenAI and AWS CEOs about Bedrock Managed Agents",
+      "url": "https://stratechery.com/2026/an-interview-with-openai-ceo-sam-altman-and-aws-ceo-matt-garman-about-bedrock-managed-agents/",
+      "score": 12,
+      "comments": 0,
+      "author": "translocator",
+      "tags": [],
+      "date": "2026-04-28T19:24:43+00:00"
+    },
+    {
+      "id": "hn-47939105",
+      "source": "hn",
+      "title": "C, Just In Time!",
+      "url": "https://dyne.org/cjit/",
+      "score": 11,
+      "comments": 2,
+      "author": "smartmic",
+      "tags": [],
+      "date": "2026-04-28T19:10:14+00:00"
+    },
+    {
+      "id": "hn-47939079",
+      "source": "hn",
+      "title": "DOOM running in ChatGPT and Claude",
+      "url": "https://chrisnager.com/blog/doom-runs-in-chatgpt-and-claude/",
+      "score": 35,
+      "comments": 9,
+      "author": "chrisnager",
+      "tags": [],
+      "date": "2026-04-28T19:08:47+00:00"
+    },
+    {
+      "id": "hn-47938756",
+      "source": "hn",
+      "title": "Bankruptcies increase 11.9 percent",
+      "url": "https://www.uscourts.gov/data-news/judiciary-news/2026/04/23/bankruptcies-increase-119-percent",
+      "score": 101,
+      "comments": 46,
+      "author": "jaredwiener",
+      "tags": [],
+      "date": "2026-04-28T18:47:09+00:00",
+      "severity": "critical"
+    },
+    {
+      "id": "hn-47938417",
+      "source": "hn",
+      "title": "A good AGENTS.md is a model upgrade. A bad one is worse than no docs at all",
+      "url": "https://www.augmentcode.com/blog/how-to-write-good-agents-dot-md-files",
+      "score": 26,
+      "comments": 1,
+      "author": "gmays",
+      "tags": [],
+      "date": "2026-04-28T18:26:53+00:00"
+    },
+    {
+      "id": "hn-47938184",
+      "source": "hn",
+      "title": "Waymo in Portland",
+      "url": "https://waymo.com/blog/shorts/waymo-in-portland/",
+      "score": 128,
+      "comments": 121,
+      "author": "xnx",
+      "tags": [],
+      "date": "2026-04-28T18:08:13+00:00"
+    },
+    {
+      "id": "hn-47938097",
+      "source": "hn",
+      "title": "Claude.ai unavailable and elevated errors on the API",
+      "url": "https://status.claude.com/incidents/9l93x2ht4s5w",
+      "score": 153,
+      "comments": 124,
+      "author": "shorsher",
+      "tags": [],
+      "date": "2026-04-28T18:01:21+00:00"
+    },
     {
       "id": "hn-47937641",
       "source": "hn",
@@ -12,6 +90,18 @@
       "author": "RadiozRadioz",
       "tags": [],
       "date": "2026-04-28T17:29:11+00:00"
+    },
+    {
+      "id": "hn-47937349",
+      "source": "hn",
+      "title": "Warp is now Open-Source",
+      "url": "https://github.com/warpdotdev/warp",
+      "score": 36,
+      "comments": 6,
+      "author": "doppp",
+      "tags": [],
+      "date": "2026-04-28T17:09:41+00:00",
+      "severity": "critical"
     },
     {
       "id": "hn-47937203",
@@ -40,11 +130,23 @@
       "source": "hn",
       "title": "Laguna XS.2 and M.1",
       "url": "https://poolside.ai/blog/laguna-a-deeper-dive",
-      "score": 40,
-      "comments": 14,
+      "score": 70,
+      "comments": 29,
       "author": "tosh",
       "tags": [],
       "date": "2026-04-28T16:17:55+00:00"
+    },
+    {
+      "id": "hn-47936479",
+      "source": "hn",
+      "title": "GitHub RCE Vulnerability: CVE-2026-3854 Breakdown",
+      "url": "https://www.wiz.io/blog/github-rce-vulnerability-cve-2026-3854",
+      "score": 96,
+      "comments": 29,
+      "author": "bo0tzz",
+      "tags": [],
+      "date": "2026-04-28T16:15:43+00:00",
+      "severity": "critical"
     },
     {
       "id": "hn-47936370",
@@ -60,14 +162,14 @@
     {
       "id": "hn-47936347",
       "source": "hn",
-      "title": "AI uncovers 38 vulnerabilities in largest open source medical record software",
+      "title": "AISLE Discovers 38 CVEs in OpenEMR Healthcare Software",
       "url": "https://aisle.com/blog/aisle-discovers-38-critical-security-vulnerabilities-in-healthcare-software-used-by-100000-providers",
-      "score": 95,
-      "comments": 65,
+      "score": 147,
+      "comments": 93,
       "author": "mmsc",
       "tags": [],
       "date": "2026-04-28T16:06:01+00:00",
-      "severity": "critical"
+      "severity": "high"
     },
     {
       "id": "hn-47936236",
@@ -85,8 +187,8 @@
       "source": "hn",
       "title": "FCC Funding Application Notes Paramount Will Be 49.5% Foreign-Owned Post-Merger",
       "url": "https://deadline.com/2026/04/paramount-fcc-request-wbd-merger-middle-east-1236873732/",
-      "score": 89,
-      "comments": 35,
+      "score": 158,
+      "comments": 99,
       "author": "throw0101c",
       "tags": [],
       "date": "2026-04-28T15:54:21+00:00"
@@ -129,8 +231,8 @@
       "source": "hn",
       "title": "Show HN: Live Sun and Moon Dashboard with NASA Footage",
       "url": "https://www.lumara-space.app/",
-      "score": 97,
-      "comments": 23,
+      "score": 133,
+      "comments": 45,
       "author": "beeswaxpat",
       "tags": [],
       "date": "2026-04-28T13:25:48+00:00"
@@ -151,8 +253,8 @@
       "source": "hn",
       "title": "GitHub Actions is the weakest link",
       "url": "https://nesbitt.io/2026/04/28/github-actions-is-the-weakest-link.html",
-      "score": 98,
-      "comments": 20,
+      "score": 153,
+      "comments": 38,
       "author": "dochtman",
       "tags": [],
       "date": "2026-04-28T11:58:14+00:00"
@@ -162,8 +264,8 @@
       "source": "hn",
       "title": "Microsoft VibeVoice: Open-Source Frontier Voice AI",
       "url": "https://github.com/microsoft/VibeVoice",
-      "score": 224,
-      "comments": 141,
+      "score": 272,
+      "comments": 160,
       "author": "tosh",
       "tags": [],
       "date": "2026-04-28T11:56:04+00:00",
@@ -174,8 +276,8 @@
       "source": "hn",
       "title": "Localsend: An open-source cross-platform alternative to AirDrop",
       "url": "https://github.com/localsend/localsend",
-      "score": 520,
-      "comments": 180,
+      "score": 644,
+      "comments": 212,
       "author": "bilsbie",
       "tags": [],
       "date": "2026-04-28T11:54:20+00:00",
@@ -197,8 +299,8 @@
       "source": "hn",
       "title": "Who owns the code Claude Code wrote?",
       "url": "https://legallayer.substack.com/p/who-owns-the-claude-code-wrote",
-      "score": 75,
-      "comments": 107,
+      "score": 169,
+      "comments": 178,
       "author": "senaevren",
       "tags": [],
       "date": "2026-04-28T11:24:52+00:00"
@@ -231,8 +333,8 @@
       "source": "hn",
       "title": "GitHub Copilot code review will start consuming GitHub Actions minutes",
       "url": "https://github.blog/changelog/2026-04-27-github-copilot-code-review-will-start-consuming-github-actions-minutes-on-june-1-2026/",
-      "score": 151,
-      "comments": 112,
+      "score": 189,
+      "comments": 137,
       "author": "whtsky",
       "tags": [],
       "date": "2026-04-28T09:01:05+00:00"
@@ -425,8 +527,8 @@
       "source": "hn",
       "title": "Talkie: a 13B vintage language model from 1930",
       "url": "https://talkie-lm.com/introducing-talkie",
-      "score": 564,
-      "comments": 232,
+      "score": 593,
+      "comments": 239,
       "author": "jekude",
       "tags": [],
       "date": "2026-04-27T21:55:48+00:00"
@@ -990,6 +1092,18 @@
       "date": "2026-04-27T12:34:45+09:00"
     },
     {
+      "id": "hn-47917250",
+      "source": "hn",
+      "title": "Patch applies fake diffs from commit messages",
+      "url": "https://samizdat.dev/phantom-patch/",
+      "score": 14,
+      "comments": 1,
+      "author": "reconquestio",
+      "tags": [],
+      "date": "2026-04-27T03:00:54+00:00",
+      "severity": "medium"
+    },
+    {
       "id": "qiita-3e9e1af417",
       "source": "zennqiita",
       "sub_source": "Qiita",
@@ -1148,8 +1262,8 @@
       "source": "hn",
       "title": "Deep under Antarctic ice, a long-predicted cosmic whisper breaks through",
       "url": "https://phys.org/news/2026-04-deep-antarctic-ice-cosmic-strange.html",
-      "score": 76,
-      "comments": 34,
+      "score": 94,
+      "comments": 38,
       "author": "rbanffy",
       "tags": [],
       "date": "2026-04-26T21:51:54+00:00"
@@ -1488,6 +1602,17 @@
       "date": "2026-04-26T13:45:03+00:00"
     },
     {
+      "id": "hn-47910201",
+      "source": "hn",
+      "title": "Things C++26 define_static_array can't do",
+      "url": "https://quuxplusone.github.io/blog/2026/04/24/define-static-array/",
+      "score": 28,
+      "comments": 5,
+      "author": "jandeboevrie",
+      "tags": [],
+      "date": "2026-04-26T13:32:28+00:00"
+    },
+    {
       "id": "hn-47909979",
       "source": "hn",
       "title": "The fastest Linux timestamps",
@@ -1812,8 +1937,8 @@
       "source": "hn",
       "title": "I have officially retired from Emacs",
       "url": "https://nullprogram.com/blog/2026/04/26/",
-      "score": 54,
-      "comments": 25,
+      "score": 119,
+      "comments": 64,
       "author": "Fudgel",
       "tags": [],
       "date": "2026-04-26T02:12:13+00:00"
@@ -2384,8 +2509,8 @@
       "source": "hn",
       "title": "ASML became the chokepoint for cutting-edge chips",
       "url": "https://worksinprogress.co/issue/the-worlds-most-complex-machine/",
-      "score": 248,
-      "comments": 143,
+      "score": 282,
+      "comments": 171,
       "author": "mellosouls",
       "tags": [],
       "date": "2026-04-25T12:47:32+00:00"
@@ -5032,131 +5157,6 @@
       "author": "stephen-hill",
       "tags": [],
       "date": "2026-04-22T13:46:23+00:00"
-    },
-    {
-      "id": "qiita-b96eefbea8",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "Claude Code のスキルを「中央集権しない」で配る、chezmoi dotfiles スターターキット",
-      "url": "https://qiita.com/kamo-shika/items/6c4e74972eeb0d1a6fb2?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "kamo-shika",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-04-22T22:32:13+09:00"
-    },
-    {
-      "id": "hn-47863324",
-      "source": "hn",
-      "title": "Ultraviolet corona discharges on treetops during storms",
-      "url": "https://www.psu.edu/news/earth-and-mineral-sciences/story/treetops-glowing-during-storms-captured-film-first-time",
-      "score": 240,
-      "comments": 65,
-      "author": "t-3",
-      "tags": [],
-      "date": "2026-04-22T13:28:40+00:00"
-    },
-    {
-      "id": "hn-47863217",
-      "source": "hn",
-      "title": "Qwen3.6-27B: Flagship-Level Coding in a 27B Dense Model",
-      "url": "https://qwen.ai/blog?id=qwen3.6-27b",
-      "score": 869,
-      "comments": 402,
-      "author": "mfiguiere",
-      "tags": [],
-      "date": "2026-04-22T13:19:58+00:00"
-    },
-    {
-      "id": "hn-47863103",
-      "source": "hn",
-      "title": "Cheating at Tetris",
-      "url": "https://chalkdustmagazine.com/features/cheating-at-tetris/",
-      "score": 53,
-      "comments": 20,
-      "author": "t-3",
-      "tags": [],
-      "date": "2026-04-22T13:12:57+00:00"
-    },
-    {
-      "id": "hn-47862870",
-      "source": "hn",
-      "title": "The SPLC indictment, the Klan history behind it, and ignominy of Todd Blanche",
-      "url": "https://www.lawdork.com/p/splc-indictment-united-klans-of-america",
-      "score": 8,
-      "comments": 0,
-      "author": "bryanrasmussen",
-      "tags": [],
-      "date": "2026-04-22T12:53:20+00:00"
-    },
-    {
-      "id": "hn-47862626",
-      "source": "hn",
-      "title": "Columnar Storage Is Normalization",
-      "url": "https://buttondown.com/jaffray/archive/columnar-storage-is-normalization/",
-      "score": 83,
-      "comments": 32,
-      "author": "ibobev",
-      "tags": [],
-      "date": "2026-04-22T12:30:14+00:00"
-    },
-    {
-      "id": "hn-47862608",
-      "source": "hn",
-      "title": "The eighth-generation TPU: An architecture deep dive",
-      "url": "https://cloud.google.com/blog/products/compute/tpu-8t-and-tpu-8i-technical-deep-dive",
-      "score": 45,
-      "comments": 5,
-      "author": "meetpateltech",
-      "tags": [],
-      "date": "2026-04-22T12:28:00+00:00"
-    },
-    {
-      "id": "hn-47862541",
-      "source": "hn",
-      "title": "A 3D Body from Eight Questions – No Photo, No GPU",
-      "url": "https://clad.you/blog/posts/questionnaire-mlp/",
-      "score": 123,
-      "comments": 24,
-      "author": "arkadiuss",
-      "tags": [],
-      "date": "2026-04-22T12:20:01+00:00"
-    },
-    {
-      "id": "hn-47862497",
-      "source": "hn",
-      "title": "Our eighth generation TPUs: two chips for the agentic era",
-      "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/eighth-generation-tpu-agentic-era/",
-      "score": 420,
-      "comments": 208,
-      "author": "xnx",
-      "tags": [],
-      "date": "2026-04-22T12:15:29+00:00"
-    },
-    {
-      "id": "hn-47862386",
-      "source": "hn",
-      "title": "3.4M Solar Panels",
-      "url": "https://tech.marksblogg.com/american-solar-farms-v2.html",
-      "score": 284,
-      "comments": 213,
-      "author": "marklit",
-      "tags": [],
-      "date": "2026-04-22T12:04:30+00:00"
-    },
-    {
-      "id": "qiita-b946dbb357",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "RubyKaigi2026 セッションレポート(Day1)",
-      "url": "https://qiita.com/qqq-yaruki/items/9438d4a280e21172c16c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "qqq-yaruki",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-04-22T21:00:14+09:00"
     },
     {
       "id": "ghrel-projectdiscovery_nuclei-310617486",

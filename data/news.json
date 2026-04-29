@@ -1,7 +1,73 @@
 {
-  "updated_at": "2026-04-29T12:02:09.162024+00:00",
+  "updated_at": "2026-04-29T14:37:37.139512+00:00",
   "count": 500,
   "items": [
+    {
+      "id": "hn-47948603",
+      "source": "hn",
+      "title": "Tangled – We need a federation of forges",
+      "url": "https://blog.tangled.org/federation/",
+      "score": 92,
+      "comments": 44,
+      "author": "icy",
+      "tags": [],
+      "date": "2026-04-29T14:00:59+00:00"
+    },
+    {
+      "id": "hn-47947834",
+      "source": "hn",
+      "title": "Improving ICU handovers by learning from Scuderia Ferrari F1 team",
+      "url": "https://healthmanagement.org/c/icu/IssueArticle/improving-handovers-by-learning-from-scuderia-ferrari",
+      "score": 10,
+      "comments": 5,
+      "author": "embedding-shape",
+      "tags": [],
+      "date": "2026-04-29T13:05:44+00:00"
+    },
+    {
+      "id": "hn-47947525",
+      "source": "hn",
+      "title": "Letting AI play my game – building an agentic test harness to help play-testing",
+      "url": "https://blog.jeffschomay.com/letting-ai-play-my-game",
+      "score": 36,
+      "comments": 1,
+      "author": "jschomay",
+      "tags": [],
+      "date": "2026-04-29T12:43:12+00:00"
+    },
+    {
+      "id": "hn-47947490",
+      "source": "hn",
+      "title": "He asked AI to count carbs 27000 times. It couldn't give the same answer twice",
+      "url": "https://www.diabettech.com/i-asked-ai-to-count-my-carbs-27000-times-it-couldnt-give-me-the-same-answer-twice/",
+      "score": 168,
+      "comments": 203,
+      "author": "sarusso",
+      "tags": [],
+      "date": "2026-04-29T12:38:50+00:00"
+    },
+    {
+      "id": "hn-47947369",
+      "source": "hn",
+      "title": "Show HN: Adblock-rust Manager – Firefox extension to enable the Brave ad blocker",
+      "url": "https://github.com/electricant/adblock-rust-manager",
+      "score": 23,
+      "comments": 12,
+      "author": "electricant",
+      "tags": [],
+      "date": "2026-04-29T12:24:53+00:00"
+    },
+    {
+      "id": "hn-47947318",
+      "source": "hn",
+      "title": "Coffee with a splash of physics: how to make the most out of your brew",
+      "url": "https://physicsworld.com/a/coffee-with-a-splash-of-physics-how-to-make-the-most-out-of-your-brew/",
+      "score": 37,
+      "comments": 21,
+      "author": "sohkamyung",
+      "tags": [],
+      "date": "2026-04-29T12:18:59+00:00"
+    },
     {
       "id": "hn-47947125",
       "source": "hn",
@@ -18,11 +84,22 @@
       "source": "hn",
       "title": "HashiCorp co-founder says GitHub 'no longer a place for serious work'",
       "url": "https://www.theregister.com/2026/04/29/mitchell_hashimoto_ghostty_quitting_github/",
-      "score": 12,
-      "comments": 1,
+      "score": 302,
+      "comments": 157,
       "author": "terminalbraid",
       "tags": [],
       "date": "2026-04-29T11:42:46+00:00"
+    },
+    {
+      "id": "hn-47946813",
+      "source": "hn",
+      "title": "GitHub – DOS 1.0: Transcription of Tim Paterson's DOS Printouts",
+      "url": "https://github.com/DOS-History/Paterson-Listings",
+      "score": 30,
+      "comments": 1,
+      "author": "s2l",
+      "tags": [],
+      "date": "2026-04-29T11:25:12+00:00"
     },
     {
       "id": "hn-47946657",
@@ -40,8 +117,8 @@
       "source": "hn",
       "title": "Show HN: Rip.so – a graveyard for dead internet things",
       "url": "https://rip.so",
-      "score": 79,
-      "comments": 47,
+      "score": 124,
+      "comments": 88,
       "author": "bozdemir",
       "tags": [],
       "date": "2026-04-29T09:21:32+00:00"
@@ -51,8 +128,8 @@
       "source": "hn",
       "title": "Soft launch of open-source code platform for government",
       "url": "https://www.nldigitalgovernment.nl/news/soft-launch-for-government-open-source-code-platform/",
-      "score": 169,
-      "comments": 68,
+      "score": 346,
+      "comments": 101,
       "author": "e12e",
       "tags": [],
       "date": "2026-04-29T09:14:37+00:00",
@@ -85,8 +162,8 @@
       "source": "hn",
       "title": "Low-Compilation-Cost Register Allocation in LLVM-Based Binary Translation",
       "url": "https://dl.acm.org/doi/abs/10.1145/3767295.3803591",
-      "score": 35,
-      "comments": 0,
+      "score": 46,
+      "comments": 1,
       "author": "matt_d",
       "tags": [],
       "date": "2026-04-29T06:47:53+00:00"
@@ -107,8 +184,8 @@
       "source": "hn",
       "title": "HardenedBSD Is Now Officially on Radicle",
       "url": "https://hardenedbsd.org/article/shawn-webb/2026-04-26/hardenedbsd-officially-radicle",
-      "score": 88,
-      "comments": 18,
+      "score": 113,
+      "comments": 24,
       "author": "lftherios",
       "tags": [],
       "date": "2026-04-29T06:38:44+00:00"
@@ -157,8 +234,8 @@
       "source": "hn",
       "title": "Bugs Rust won't catch",
       "url": "https://corrode.dev/blog/bugs-rust-wont-catch/",
-      "score": 358,
-      "comments": 176,
+      "score": 444,
+      "comments": 239,
       "author": "lwhsiao",
       "tags": [],
       "date": "2026-04-29T02:19:11+00:00"
@@ -215,8 +292,8 @@
       "source": "hn",
       "title": "How ChatGPT serves ads",
       "url": "https://www.buchodi.com/how-chatgpt-serves-ads-heres-the-full-attribution-loop/",
-      "score": 377,
-      "comments": 251,
+      "score": 420,
+      "comments": 281,
       "author": "lmbbuchodi",
       "tags": [],
       "date": "2026-04-28T23:54:14+00:00"
@@ -259,8 +336,8 @@
       "source": "hn",
       "title": "Before GitHub",
       "url": "https://lucumr.pocoo.org/2026/4/28/before-github/",
-      "score": 509,
-      "comments": 155,
+      "score": 565,
+      "comments": 180,
       "author": "mlex",
       "tags": [],
       "date": "2026-04-28T21:17:40+00:00"
@@ -281,8 +358,8 @@
       "source": "hn",
       "title": "I won a championship that doesn't exist",
       "url": "https://ron.stoner.com/How_I_Won_a_Championship_That_Doesnt_Exist/",
-      "score": 181,
-      "comments": 99,
+      "score": 210,
+      "comments": 113,
       "author": "SEJeff",
       "tags": [],
       "date": "2026-04-28T20:38:21+00:00"
@@ -303,8 +380,8 @@
       "source": "hn",
       "title": "Ghostty is leaving GitHub",
       "url": "https://mitchellh.com/writing/ghostty-leaving-github",
-      "score": 2756,
-      "comments": 810,
+      "score": 2991,
+      "comments": 897,
       "author": "WadeGrimridge",
       "tags": [],
       "date": "2026-04-28T19:44:52+00:00"
@@ -314,8 +391,8 @@
       "source": "hn",
       "title": "OpenAI models coming to Amazon Bedrock: Interview with OpenAI and AWS CEOs",
       "url": "https://stratechery.com/2026/an-interview-with-openai-ceo-sam-altman-and-aws-ceo-matt-garman-about-bedrock-managed-agents/",
-      "score": 283,
-      "comments": 93,
+      "score": 300,
+      "comments": 97,
       "author": "translocator",
       "tags": [],
       "date": "2026-04-28T19:24:43+00:00"
@@ -403,8 +480,8 @@
       "source": "hn",
       "title": "Show HN: Auto-Architecture: Karpathy's Loop, pointed at a CPU",
       "url": "https://github.com/FeSens/auto-arch-tournament/blob/main/docs/auto-arch-tournament-blog-post.md",
-      "score": 175,
-      "comments": 41,
+      "score": 198,
+      "comments": 58,
       "author": "fesens",
       "tags": [],
       "date": "2026-04-28T17:12:30+00:00"
@@ -459,8 +536,8 @@
       "source": "hn",
       "title": "GitHub RCE Vulnerability: CVE-2026-3854 Breakdown",
       "url": "https://www.wiz.io/blog/github-rce-vulnerability-cve-2026-3854",
-      "score": 384,
-      "comments": 82,
+      "score": 404,
+      "comments": 87,
       "author": "bo0tzz",
       "tags": [],
       "date": "2026-04-28T16:15:43+00:00",
@@ -574,8 +651,8 @@
       "source": "hn",
       "title": "Show HN: Rocky – Rust SQL engine with branches, replay, column lineage",
       "url": "https://github.com/rocky-data/rocky",
-      "score": 67,
-      "comments": 10,
+      "score": 90,
+      "comments": 26,
       "author": "hugocorreia90",
       "tags": [],
       "date": "2026-04-28T14:35:59+00:00"
@@ -690,8 +767,8 @@
       "source": "hn",
       "title": "Who owns the code Claude Code wrote?",
       "url": "https://legallayer.substack.com/p/who-owns-the-claude-code-wrote",
-      "score": 431,
-      "comments": 397,
+      "score": 472,
+      "comments": 442,
       "author": "senaevren",
       "tags": [],
       "date": "2026-04-28T11:24:52+00:00"
@@ -1009,8 +1086,8 @@
       "source": "hn",
       "title": "Talkie: a 13B vintage language model from 1930",
       "url": "https://talkie-lm.com/introducing-talkie",
-      "score": 711,
-      "comments": 293,
+      "score": 720,
+      "comments": 311,
       "author": "jekude",
       "tags": [],
       "date": "2026-04-27T21:55:48+00:00"
@@ -1075,8 +1152,8 @@
       "source": "hn",
       "title": "Withnail's Coat and I",
       "url": "https://ontherow.substack.com/p/withnails-coat-and-i",
-      "score": 93,
-      "comments": 11,
+      "score": 113,
+      "comments": 14,
       "author": "apollinaire",
       "tags": [],
       "date": "2026-04-27T19:27:47+00:00"
@@ -5089,89 +5166,6 @@
       "author": "jgrodziski",
       "tags": [],
       "date": "2026-04-23T07:50:17+00:00"
-    },
-    {
-      "id": "hn-47872452",
-      "source": "hn",
-      "title": "Our newsroom AI policy",
-      "url": "https://arstechnica.com/staff/2026/04/our-newsroom-ai-policy/",
-      "score": 144,
-      "comments": 99,
-      "author": "zdw",
-      "tags": [],
-      "date": "2026-04-23T05:14:05+00:00"
-    },
-    {
-      "id": "hn-47872418",
-      "source": "hn",
-      "title": "A disabled kea parrot is the alpha male of his circus",
-      "url": "https://www.cell.com/current-biology/fulltext/S0960-9822(26)00259-9",
-      "score": 27,
-      "comments": 8,
-      "author": "zdw",
-      "tags": [],
-      "date": "2026-04-23T05:07:51+00:00"
-    },
-    {
-      "id": "hn-47872324",
-      "source": "hn",
-      "title": "I am building a cloud",
-      "url": "https://crawshaw.io/blog/building-a-cloud",
-      "score": 1028,
-      "comments": 508,
-      "author": "bumbledraven",
-      "tags": [],
-      "date": "2026-04-23T04:44:19+00:00"
-    },
-    {
-      "id": "hn-47872306",
-      "source": "hn",
-      "title": "MacBook Neo and how the iPad should be",
-      "url": "https://craigmod.com/essays/ipad_neo/",
-      "score": 280,
-      "comments": 164,
-      "author": "jen729w",
-      "tags": [],
-      "date": "2026-04-23T04:40:31+00:00"
-    },
-    {
-      "id": "qiita-e8e4241eb7",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "面接官を半年やって、\"評価する人\"をやめた話",
-      "url": "https://qiita.com/KoutaKawaguchi1101/items/d67e608d9ce9f1f5dd7b?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "KoutaKawaguchi1101",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-04-23T13:10:22+09:00"
-    },
-    {
-      "id": "qiita-144fdd5ff3",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "【2026年4月最新】Google Cloud 認定「全冠」達成まとめ 〜今だけ15冠〜",
-      "url": "https://qiita.com/tomokoro/items/eebc8142a85c80873028?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "tomokoro",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-04-23T13:03:39+09:00"
-    },
-    {
-      "id": "qiita-10d97d8d2c",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "[Frontend Performance - Part 5] なぜ UI は止まるのか？JavaScript の実行モデルと Event Loop を理解する",
-      "url": "https://qiita.com/tuanphan/items/8c4a7ad8271232ae9d30?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "tuanphan",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-04-23T12:32:06+09:00"
     },
     {
       "id": "ghrel-projectdiscovery_nuclei-310617486",

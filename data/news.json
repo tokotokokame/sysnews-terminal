@@ -1,7 +1,77 @@
 {
-  "updated_at": "2026-04-29T23:54:44.192985+00:00",
+  "updated_at": "2026-04-30T02:53:44.305058+00:00",
   "count": 500,
   "items": [
+    {
+      "id": "qiita-cce567ec8d",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "WAFは安心を買う装置ではない",
+      "url": "https://qiita.com/mochi_cron/items/9ce527df39e7dd6e75fe?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "mochi_cron",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-04-30T11:27:27+09:00"
+    },
+    {
+      "id": "hn-47957116",
+      "source": "hn",
+      "title": "A Grounded Conceptual Model for Ownership Types in Rust",
+      "url": "https://cacm.acm.org/research-highlights/a-grounded-conceptual-model-for-ownership-types-in-rust/",
+      "score": 6,
+      "comments": 0,
+      "author": "tkhattra",
+      "tags": [],
+      "date": "2026-04-30T01:47:19+00:00"
+    },
+    {
+      "id": "hn-47957101",
+      "source": "hn",
+      "title": "Craig Venter has died",
+      "url": "https://www.jcvi.org/media-center/j-craig-venter-genomics-pioneer-and-founder-jcvi-and-diploid-genomics-inc-dies-79",
+      "score": 71,
+      "comments": 13,
+      "author": "rdl",
+      "tags": [],
+      "date": "2026-04-30T01:44:56+00:00"
+    },
+    {
+      "id": "hn-47956895",
+      "source": "hn",
+      "title": "Claude.ai and API unavailable [fixed]",
+      "url": "https://status.claude.com/incidents/2gf1jpyty350",
+      "score": 93,
+      "comments": 81,
+      "author": "rob",
+      "tags": [],
+      "date": "2026-04-30T01:21:03+00:00"
+    },
+    {
+      "id": "qiita-0035845dca",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "Aurora Serverless v2 のゼロスケール再開時間を Platform Version 4 で再計測してみた",
+      "url": "https://qiita.com/asahide/items/39952bbc3c587aa792f0?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "asahide",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-04-30T10:02:19+09:00"
+    },
+    {
+      "id": "hn-47956781",
+      "source": "hn",
+      "title": "Joby Kicks Off NYC Electric Air Taxi Demos with Historic JFK Flight",
+      "url": "https://www.flyingmag.com/joby-nyc-electric-air-taxi-jfk-airport/",
+      "score": 17,
+      "comments": 13,
+      "author": "Jblx2",
+      "tags": [],
+      "date": "2026-04-30T01:01:55+00:00"
+    },
     {
       "id": "hn-47955655",
       "source": "hn",
@@ -40,11 +110,22 @@
       "source": "hn",
       "title": "Vera: a programming language designed for machines to write",
       "url": "https://github.com/aallan/vera",
-      "score": 22,
-      "comments": 9,
+      "score": 59,
+      "comments": 43,
       "author": "unignorant",
       "tags": [],
       "date": "2026-04-29T21:41:32+00:00"
+    },
+    {
+      "id": "hn-47954745",
+      "source": "hn",
+      "title": "I benchmarked Claude Code's caveman plugin against \"be brief.\"",
+      "url": "https://www.maxtaylor.me/articles/i-benchmarked-caveman-against-two-words",
+      "score": 68,
+      "comments": 45,
+      "author": "max-t-dev",
+      "tags": [],
+      "date": "2026-04-29T21:11:57+00:00"
     },
     {
       "id": "hn-47954638",
@@ -96,8 +177,8 @@
       "source": "hn",
       "title": "OpenTrafficMap",
       "url": "https://opentrafficmap.org/",
-      "score": 122,
-      "comments": 26,
+      "score": 161,
+      "comments": 36,
       "author": "moooo99",
       "tags": [],
       "date": "2026-04-29T19:49:30+00:00"
@@ -107,8 +188,8 @@
       "source": "hn",
       "title": "Kyoto cherry blossoms now bloom earlier than at any point in 1,200 years",
       "url": "https://jivx.com/kyoto-bloom",
-      "score": 204,
-      "comments": 56,
+      "score": 261,
+      "comments": 73,
       "author": "momentmaker",
       "tags": [],
       "date": "2026-04-29T19:32:36+00:00"
@@ -129,8 +210,8 @@
       "source": "hn",
       "title": "HERMES.md in commit messages causes requests to route to extra usage billing",
       "url": "https://github.com/anthropics/claude-code/issues/53262",
-      "score": 929,
-      "comments": 376,
+      "score": 1000,
+      "comments": 427,
       "author": "homebrewer",
       "tags": [],
       "date": "2026-04-29T18:54:31+00:00"
@@ -138,22 +219,21 @@
     {
       "id": "hn-47952181",
       "source": "hn",
-      "title": "Copy Fail – CVE-2026-31431",
+      "title": "Copy Fail",
       "url": "https://copy.fail/",
-      "score": 471,
-      "comments": 220,
+      "score": 641,
+      "comments": 274,
       "author": "unsnap_biceps",
       "tags": [],
-      "date": "2026-04-29T18:13:53+00:00",
-      "severity": "high"
+      "date": "2026-04-29T18:13:53+00:00"
     },
     {
       "id": "hn-47951786",
       "source": "hn",
       "title": "Ramp's Sheets AI Exfiltrates Financials",
       "url": "https://www.promptarmor.com/resources/ramps-sheets-ai-exfiltrates-financials",
-      "score": 95,
-      "comments": 30,
+      "score": 112,
+      "comments": 34,
       "author": "takira",
       "tags": [],
       "date": "2026-04-29T17:44:21+00:00"
@@ -185,8 +265,8 @@
       "source": "hn",
       "title": "Laws of UX",
       "url": "https://lawsofux.com/",
-      "score": 156,
-      "comments": 26,
+      "score": 200,
+      "comments": 31,
       "author": "bobbiechen",
       "tags": [],
       "date": "2026-04-29T16:58:13+00:00"
@@ -240,8 +320,8 @@
       "source": "hn",
       "title": "FastCGI: 30 years old and still the better protocol for reverse proxies",
       "url": "https://www.agwa.name/blog/post/fastcgi_is_the_better_protocol_for_reverse_proxies",
-      "score": 219,
-      "comments": 49,
+      "score": 261,
+      "comments": 66,
       "author": "agwa",
       "tags": [],
       "date": "2026-04-29T16:16:39+00:00"
@@ -273,8 +353,8 @@
       "source": "hn",
       "title": "Online age verification is the hill to die on",
       "url": "https://x.com/GlennMeder/status/2049088498163216560",
-      "score": 693,
-      "comments": 435,
+      "score": 792,
+      "comments": 497,
       "author": "Cider9986",
       "tags": [],
       "date": "2026-04-29T15:49:57+00:00"
@@ -295,8 +375,8 @@
       "source": "hn",
       "title": "Cursor Camp",
       "url": "https://neal.fun/cursor-camp/",
-      "score": 527,
-      "comments": 94,
+      "score": 687,
+      "comments": 111,
       "author": "bpierre",
       "tags": [],
       "date": "2026-04-29T15:39:43+00:00"
@@ -350,8 +430,8 @@
       "source": "hn",
       "title": "An open-source stethoscope that costs between $2.5 and $5 to produce",
       "url": "https://github.com/GliaX/Stethoscope",
-      "score": 174,
-      "comments": 73,
+      "score": 210,
+      "comments": 84,
       "author": "0x54MUR41",
       "tags": [],
       "date": "2026-04-29T14:47:31+00:00",
@@ -362,8 +442,8 @@
       "source": "hn",
       "title": "Zed 1.0",
       "url": "https://zed.dev/blog/zed-1-0",
-      "score": 1445,
-      "comments": 456,
+      "score": 1578,
+      "comments": 503,
       "author": "salkahfi",
       "tags": [],
       "date": "2026-04-29T14:34:19+00:00"
@@ -384,8 +464,8 @@
       "source": "hn",
       "title": "We need a federation of forges",
       "url": "https://blog.tangled.org/federation/",
-      "score": 507,
-      "comments": 319,
+      "score": 525,
+      "comments": 333,
       "author": "icy",
       "tags": [],
       "date": "2026-04-29T14:00:59+00:00"
@@ -554,8 +634,8 @@
       "source": "hn",
       "title": "Why I still reach for Lisp and Scheme instead of Haskell",
       "url": "https://jointhefreeworld.org/blog/articles/lisps/why-i-still-reach-for-scheme-instead-of-haskell/index.html",
-      "score": 149,
-      "comments": 43,
+      "score": 171,
+      "comments": 64,
       "author": "jjba23",
       "tags": [],
       "date": "2026-04-29T08:43:17+00:00"
@@ -657,19 +737,6 @@
       "date": "2026-04-29T13:11:02+09:00"
     },
     {
-      "id": "qiita-cce567ec8d",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "WAFは安心を買う装置ではない",
-      "url": "https://qiita.com/mochi_cron/items/9ce527df39e7dd6e75fe?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "mochi_cron",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-04-29T12:37:21+09:00"
-    },
-    {
       "id": "qiita-16fd0f05bc",
       "source": "zennqiita",
       "sub_source": "Qiita",
@@ -692,19 +759,6 @@
       "author": "lwhsiao",
       "tags": [],
       "date": "2026-04-29T02:19:11+00:00"
-    },
-    {
-      "id": "qiita-0035845dca",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "Aurora Serverless v2 のゼロスケール再開時間を Platform Version 4 で再計測してみた",
-      "url": "https://qiita.com/asahide/items/39952bbc3c587aa792f0?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "asahide",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-04-29T10:43:47+09:00"
     },
     {
       "id": "hn-47943190",
@@ -998,6 +1052,17 @@
       "date": "2026-04-28T16:39:53+00:00"
     },
     {
+      "id": "hn-47936610",
+      "source": "hn",
+      "title": "Creating a Color Palette from an Image",
+      "url": "https://amandahinton.com/blog/creating-a-color-palette-from-an-image",
+      "score": 9,
+      "comments": 0,
+      "author": "evakhoury",
+      "tags": [],
+      "date": "2026-04-28T16:23:50+00:00"
+    },
+    {
       "id": "hn-47936511",
       "source": "hn",
       "title": "Laguna XS.2 and M.1",
@@ -1135,6 +1200,17 @@
       "date": "2026-04-28T14:35:59+00:00"
     },
     {
+      "id": "hn-47934880",
+      "source": "hn",
+      "title": "The Lingua Franca of LaTeX (2019)",
+      "url": "https://increment.com/open-source/the-lingua-franca-of-latex/",
+      "score": 16,
+      "comments": 3,
+      "author": "ripe",
+      "tags": [],
+      "date": "2026-04-28T14:10:27+00:00"
+    },
+    {
       "id": "qiita-901149a1bc",
       "source": "zennqiita",
       "sub_source": "Qiita",
@@ -1211,8 +1287,8 @@
       "source": "hn",
       "title": "DRAM Crunch: Lessons for System Design",
       "url": "https://www.eetimes.com/what-the-dram-crunch-teaches-us-about-system-design/",
-      "score": 15,
-      "comments": 0,
+      "score": 36,
+      "comments": 3,
       "author": "giuliomagnifico",
       "tags": [],
       "date": "2026-04-28T12:07:55+00:00"
@@ -1849,8 +1925,8 @@
       "source": "hn",
       "title": "Postgres's lateral joins allow for quite the good eDSL",
       "url": "https://bensimms.moe/postgres-lateral-makes-quite-a-good-dsl/",
-      "score": 40,
-      "comments": 3,
+      "score": 64,
+      "comments": 10,
       "author": "nitros",
       "tags": [],
       "date": "2026-04-27T14:07:25+00:00"
@@ -5095,88 +5171,6 @@
       "date": "2026-04-24T10:29:35+09:00"
     },
     {
-      "id": "qiita-f01bdfce88",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "その“親切な設計”、たぶん無駄です  - エンジニアがハマる「やりすぎ問題」-",
-      "url": "https://qiita.com/prum_hitomi/items/f94803dd326ef7c3eb25?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "prum_hitomi",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-04-24T09:58:46+09:00"
-    },
-    {
-      "id": "hn-47884225",
-      "source": "hn",
-      "title": "Physicists revive 1990s laser concept to propose a next-generation atomic clock",
-      "url": "https://phys.org/news/2026-04-physicists-revive-1990s-laser-concept.html",
-      "score": 44,
-      "comments": 5,
-      "author": "wglb",
-      "tags": [],
-      "date": "2026-04-24T00:57:05+00:00"
-    },
-    {
-      "id": "hn-47883839",
-      "source": "hn",
-      "title": "Magic: The Gathering took me from N2 to Japanese fluency",
-      "url": "https://www.tokyodev.com/articles/how-magic-the-gathering-took-me-from-n2-to-japanese-fluency",
-      "score": 137,
-      "comments": 61,
-      "author": "pwim",
-      "tags": [],
-      "date": "2026-04-24T00:03:20+00:00"
-    },
-    {
-      "id": "qiita-5ef66a7009",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "QA事業部の勉強会コンテンツ情報",
-      "url": "https://qiita.com/s-kishi/items/a4840e6ce5e0b93acb6c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "s-kishi",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-04-24T08:34:21+09:00"
-    },
-    {
-      "id": "hn-47883205",
-      "source": "hn",
-      "title": "How tolls saved Britain from pothole hell in the Industrial Revolution",
-      "url": "https://www.cam.ac.uk/stories/fixing-the-roads-turnpikes",
-      "score": 4,
-      "comments": 0,
-      "author": "hhs",
-      "tags": [],
-      "date": "2026-04-23T22:45:34+00:00"
-    },
-    {
-      "id": "hn-47883108",
-      "source": "hn",
-      "title": "U.S. Soldier Charged with Using Classified Info to Profit from Prediction Market",
-      "url": "https://www.justice.gov/usao-sdny/pr/us-soldier-charged-using-classified-information-profit-prediction-market-bets?bm-verify=AAQAAAAN_____y6To7sZYZ502biZwIHXlr-7zXZUqV4H0xLTfW__wDA3SjNLqifXRaQwsikyuz6IJknyuL8xfVYRkesxcDk5V10m-HoXl2K93f17rygBphL77WVFoQ_XvlmUo922IwM_DQ66137X6wWMtpdHslcEjpJG7KbBmUw9Su4kDENpDt_yv2spThQZehgv-X1Adk5U2VHfp41co2s_QJGjRj4y0KmL1mhSCyVaE7MC1LHG0mtP-xYmD0xBOQwn6PlHkPiP5Nt46h5ZIjLGXgCZDEVD42i7rIEM379DKLPUPX0PDNmOAwFSuTqcTDVnT_UUV8vxpHLRMb7rUxPxKUPcIB23iZTRJddWDDtPHMXadpwv67xr-f1sKDLZT9NgHCO4iuC2EthmAt0",
-      "score": 90,
-      "comments": 29,
-      "author": "paulpauper",
-      "tags": [],
-      "date": "2026-04-23T22:37:01+00:00"
-    },
-    {
-      "id": "hn-47882697",
-      "source": "hn",
-      "title": "Show HN: Tolaria – Open-source macOS app to manage Markdown knowledge bases",
-      "url": "https://github.com/refactoringhq/tolaria",
-      "score": 235,
-      "comments": 98,
-      "author": "lucaronin",
-      "tags": [],
-      "date": "2026-04-23T22:01:59+00:00",
-      "severity": "critical"
-    },
-    {
       "id": "ghrel-projectdiscovery_nuclei-310617486",
       "source": "project",
       "proj_category": "Tools",
@@ -5387,17 +5381,17 @@
       "date": "2023-05-23T17:06:23Z"
     },
     {
-      "id": "zenn-a10d006fc2",
+      "id": "zenn-3231218cbc",
       "source": "zennqiita",
       "sub_source": "Zenn",
-      "title": "Deno に DOMMatrix を入れるために Rust で CSS Values and Units の構文解析、計算をした話",
-      "url": "https://zenn.dev/pixiv/articles/69638446455b0d",
+      "title": "1m精度の標高データを使って、全国の前方後円墳を探してみた",
+      "url": "https://zenn.dev/tasuku/articles/73bf8c7274208f",
       "score": null,
-      "author": "petamoriken",
+      "author": "Tasuku Suzuki",
       "tags": [
         "Zenn"
       ],
-      "date": "Tue, 28 Apr 2026 17:22:24 GMT"
+      "date": "Wed, 29 Apr 2026 10:02:35 GMT"
     },
     {
       "id": "zenn-d00e533b06",
@@ -5413,19 +5407,6 @@
       "date": "Tue, 28 Apr 2026 10:14:55 GMT"
     },
     {
-      "id": "zenn-109cb94d2b",
-      "source": "zennqiita",
-      "sub_source": "Zenn",
-      "title": "DIDP の Rust インターフェース RPID で柔軟な数理最適化モデリング + Wasm",
-      "url": "https://zenn.dev/espeon011/articles/3022342eb6f2ba",
-      "score": null,
-      "author": "espeon011",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Tue, 28 Apr 2026 10:04:54 GMT"
-    },
-    {
       "id": "zenn-307da90f60",
       "source": "zennqiita",
       "sub_source": "Zenn",
@@ -5437,6 +5418,58 @@
         "Zenn"
       ],
       "date": "Tue, 28 Apr 2026 09:23:21 GMT"
+    },
+    {
+      "id": "zenn-2276dd8c1c",
+      "source": "zennqiita",
+      "sub_source": "Zenn",
+      "title": "エージェントコスト対策としてローカルLLMはアリ？— Ollamaで試してみた",
+      "url": "https://zenn.dev/headwaters/articles/509a1f83c693ce",
+      "score": null,
+      "author": "Renly",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Tue, 28 Apr 2026 08:45:05 GMT"
+    },
+    {
+      "id": "zenn-4b701eb283",
+      "source": "zennqiita",
+      "sub_source": "Zenn",
+      "title": "LM Studioで国産OSS大規模言語モデルLLM-jp4を使う",
+      "url": "https://zenn.dev/hi/articles/64f106cd145fa8",
+      "score": null,
+      "author": "hi",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Tue, 28 Apr 2026 07:56:22 GMT"
+    },
+    {
+      "id": "zenn-ec34691182",
+      "source": "zennqiita",
+      "sub_source": "Zenn",
+      "title": "Claude Code に仕事を譲った日——残ったのは「判断」と「責任」だった",
+      "url": "https://zenn.dev/tokium_dev/articles/ca6f30192f6379",
+      "score": null,
+      "author": "Kokoichi",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Tue, 28 Apr 2026 04:37:45 GMT"
+    },
+    {
+      "id": "zenn-638882583a",
+      "source": "zennqiita",
+      "sub_source": "Zenn",
+      "title": "Copilot Pro は月300回制限からトークン課金へ—GPT-5.4 × Copilot CLI の実コストを試算した",
+      "url": "https://zenn.dev/toki_mwc/articles/copilot-pro-token-billing-gpt54",
+      "score": null,
+      "author": "toki_mwc",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Tue, 28 Apr 2026 04:34:49 GMT"
     },
     {
       "id": "zenn-25a554609a",
@@ -5596,32 +5629,6 @@
       "severity": "high"
     },
     {
-      "id": "zenn-ae52697b6e",
-      "source": "zennqiita",
-      "sub_source": "Zenn",
-      "title": "コードを1行も書く前にバグを潰す — 生成AIが「理想論」だったシフトレフトを現実にする",
-      "url": "https://zenn.dev/tokium_dev/articles/c0e6e9aca98a85",
-      "score": null,
-      "author": "ynis_qa",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Sun, 26 Apr 2026 23:00:08 GMT"
-    },
-    {
-      "id": "zenn-17950ee8cc",
-      "source": "zennqiita",
-      "sub_source": "Zenn",
-      "title": "仕様駆動を取り入れて4ヶ月ほど経ったので思うことなど",
-      "url": "https://zenn.dev/dress_code/articles/6ff2a65a02d2f7",
-      "score": null,
-      "author": "anizozina",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Sun, 26 Apr 2026 14:34:50 GMT"
-    },
-    {
       "id": "zenn-fbb8d09bab",
       "source": "zennqiita",
       "sub_source": "Zenn",
@@ -5633,19 +5640,6 @@
         "Zenn"
       ],
       "date": "Sun, 26 Apr 2026 14:29:03 GMT"
-    },
-    {
-      "id": "zenn-a71a118400",
-      "source": "zennqiita",
-      "sub_source": "Zenn",
-      "title": "QAエンジニアのためのAI時代Playwright実践ガイド",
-      "url": "https://zenn.dev/yuden/books/playwright-pom-fixtures-ai-era",
-      "score": null,
-      "author": "yuden",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Sun, 26 Apr 2026 09:52:13 GMT"
     },
     {
       "id": "edb-76261ae332",

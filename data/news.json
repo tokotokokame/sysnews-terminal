@@ -1,17 +1,95 @@
 {
-  "updated_at": "2026-04-30T16:19:01.407262+00:00",
+  "updated_at": "2026-04-30T17:50:21.568521+00:00",
   "count": 500,
   "items": [
+    {
+      "id": "hn-47965503",
+      "source": "hn",
+      "title": "I built a Game Boy emulator in F#",
+      "url": "https://nickkossolapov.github.io/fame-boy/building-a-game-boy-emulator-in-fsharp/",
+      "score": 15,
+      "comments": 2,
+      "author": "elvis70",
+      "tags": [],
+      "date": "2026-04-30T17:14:21+00:00"
+    },
+    {
+      "id": "hn-47965161",
+      "source": "hn",
+      "title": "Show HN: TRiP – a complete transformer engine in C built from scratch just by me",
+      "url": "https://github.com/carlovalenti/TRiP",
+      "score": 7,
+      "comments": 1,
+      "author": "carlovalenti",
+      "tags": [],
+      "date": "2026-04-30T16:48:17+00:00"
+    },
+    {
+      "id": "hn-47965108",
+      "source": "hn",
+      "title": "CopyFail Was Not Disclosed to Distros",
+      "url": "https://www.openwall.com/lists/oss-security/2026/04/30/10",
+      "score": 11,
+      "comments": 0,
+      "author": "ori_b",
+      "tags": [],
+      "date": "2026-04-30T16:43:47+00:00"
+    },
+    {
+      "id": "hn-47965060",
+      "source": "hn",
+      "title": "The Whistleblower Who Uncovered the NSA's 'Big Brother Machine'",
+      "url": "https://thereader.mitpress.mit.edu/the-whistleblower-who-uncovered-the-nsas-big-brother-machine/",
+      "score": 90,
+      "comments": 8,
+      "author": "the-mitr",
+      "tags": [],
+      "date": "2026-04-30T16:41:00+00:00"
+    },
+    {
+      "id": "hn-47964897",
+      "source": "hn",
+      "title": "SatoshiGuesser – Roll for Bitcoin",
+      "url": "https://github.com/Pathos0925/SatoshiGuesser",
+      "score": 34,
+      "comments": 29,
+      "author": "ilarum",
+      "tags": [],
+      "date": "2026-04-30T16:29:58+00:00"
+    },
+    {
+      "id": "hn-47964617",
+      "source": "hn",
+      "title": "Shai-Hulud Themed Malware Found in the PyTorch Lightning AI Training Library",
+      "url": "https://semgrep.dev/blog/2026/malicious-dependency-in-pytorch-lightning-used-for-ai-training/",
+      "score": 82,
+      "comments": 15,
+      "author": "j12y",
+      "tags": [],
+      "date": "2026-04-30T16:09:26+00:00",
+      "severity": "medium"
+    },
     {
       "id": "hn-47964034",
       "source": "hn",
       "title": "Spain's parliament will act against massive IP blockages by LaLiga",
       "url": "https://www.democrata.es/en/politics/congress-and-senate/congress-will-act-against-massive-ip-blockages-by-laliga/",
-      "score": 13,
-      "comments": 1,
+      "score": 212,
+      "comments": 74,
       "author": "akyuu",
       "tags": [],
       "date": "2026-04-30T15:31:40+00:00"
+    },
+    {
+      "id": "hn-47963868",
+      "source": "hn",
+      "title": "A 1960s art school experiment that redefined creativity",
+      "url": "https://thereader.mitpress.mit.edu/the-1960s-art-school-experiment-that-redefined-creativity/",
+      "score": 30,
+      "comments": 3,
+      "author": "pseudolus",
+      "tags": [],
+      "date": "2026-04-30T15:20:49+00:00"
     },
     {
       "id": "hn-47963499",
@@ -29,8 +107,8 @@
       "source": "hn",
       "title": "Durable queues, streams, pub/sub, and a cron scheduler – inside your SQLite file",
       "url": "https://honker.dev/",
-      "score": 8,
-      "comments": 0,
+      "score": 62,
+      "comments": 8,
       "author": "ferriswil",
       "tags": [],
       "date": "2026-04-30T14:43:02+00:00"
@@ -40,19 +118,30 @@
       "source": "hn",
       "title": "Claude Code refuses requests or charges extra if your commits mention \"OpenClaw\"",
       "url": "https://twitter.com/theo/status/2049645973350363168",
-      "score": 137,
-      "comments": 80,
+      "score": 375,
+      "comments": 257,
       "author": "elmean",
       "tags": [],
       "date": "2026-04-30T14:36:58+00:00"
+    },
+    {
+      "id": "hn-47963026",
+      "source": "hn",
+      "title": "I scraped 1.94M Airbnb photos for opium dens, pet cameos, and messy kitchens",
+      "url": "https://burla-cloud.github.io/examples/airbnb-burla-demo/",
+      "score": 31,
+      "comments": 4,
+      "author": "jmp1062",
+      "tags": [],
+      "date": "2026-04-30T14:26:38+00:00"
     },
     {
       "id": "hn-47962548",
       "source": "hn",
       "title": "How an Oil Refinery Works",
       "url": "https://www.construction-physics.com/p/how-an-oil-refinery-works",
-      "score": 120,
-      "comments": 21,
+      "score": 164,
+      "comments": 35,
       "author": "chmaynard",
       "tags": [],
       "date": "2026-04-30T13:54:20+00:00"
@@ -73,8 +162,8 @@
       "source": "hn",
       "title": "The Science Behind Honey's Eternal Shelf Life (2013)",
       "url": "https://www.smithsonianmag.com/science-nature/the-science-behind-honeys-eternal-shelf-life-1218690/",
-      "score": 21,
-      "comments": 15,
+      "score": 41,
+      "comments": 22,
       "author": "downbad_",
       "tags": [],
       "date": "2026-04-30T13:15:04+00:00"
@@ -95,8 +184,8 @@
       "source": "hn",
       "title": "I aggregated 28 US Government auction sites into one search",
       "url": "https://bidprowl.com",
-      "score": 140,
-      "comments": 42,
+      "score": 163,
+      "comments": 48,
       "author": "scarsam",
       "tags": [],
       "date": "2026-04-30T12:24:53+00:00"
@@ -106,8 +195,8 @@
       "source": "hn",
       "title": "Belgium stops decommissioning nuclear power plants",
       "url": "https://dpa-international.com/general-news/urn:newsml:dpa.com:20090101:260430-930-14717/",
-      "score": 450,
-      "comments": 355,
+      "score": 550,
+      "comments": 445,
       "author": "mpweiher",
       "tags": [],
       "date": "2026-04-30T12:17:14+00:00"
@@ -150,8 +239,8 @@
       "source": "hn",
       "title": "Granite 4.1: IBM's 8B Model Matching 32B MoE",
       "url": "https://firethering.com/granite-4-1-ibm-open-source-model-family/",
-      "score": 215,
-      "comments": 128,
+      "score": 231,
+      "comments": 144,
       "author": "steveharing1",
       "tags": [],
       "date": "2026-04-30T10:31:17+00:00"
@@ -170,10 +259,10 @@
     {
       "id": "hn-47959463",
       "source": "hn",
-      "title": "Mozilla's Opposition to Chrome's Prompt API",
+      "title": "Mozilla's opposition to Chrome's Prompt API",
       "url": "https://github.com/mozilla/standards-positions/issues/1213",
-      "score": 385,
-      "comments": 156,
+      "score": 427,
+      "comments": 172,
       "author": "jaffathecake",
       "tags": [],
       "date": "2026-04-30T07:43:55+00:00"
@@ -255,8 +344,8 @@
       "source": "hn",
       "title": "Where the goblins came from",
       "url": "https://openai.com/index/where-the-goblins-came-from/",
-      "score": 912,
-      "comments": 540,
+      "score": 954,
+      "comments": 573,
       "author": "ilreb",
       "tags": [],
       "date": "2026-04-30T03:21:04+00:00"
@@ -340,8 +429,8 @@
       "source": "hn",
       "title": "The Zig project's rationale for their anti-AI contribution policy",
       "url": "https://simonwillison.net/2026/Apr/30/zig-anti-ai/",
-      "score": 532,
-      "comments": 290,
+      "score": 569,
+      "comments": 345,
       "author": "lumpa",
       "tags": [],
       "date": "2026-04-30T02:15:47+00:00"
@@ -375,7 +464,7 @@
       "source": "hn",
       "title": "Craig Venter has died",
       "url": "https://www.jcvi.org/media-center/j-craig-venter-genomics-pioneer-and-founder-jcvi-and-diploid-genomics-inc-dies-79",
-      "score": 297,
+      "score": 313,
       "comments": 74,
       "author": "rdl",
       "tags": [],
@@ -875,6 +964,17 @@
       "author": "icy",
       "tags": [],
       "date": "2026-04-29T14:00:59+00:00"
+    },
+    {
+      "id": "hn-47947944",
+      "source": "hn",
+      "title": "10Gb/s Ethernet: what I did to get it working in my home",
+      "url": "https://www.gilesthomas.com/2026/04/10g-ethernet-what-i-did",
+      "score": 32,
+      "comments": 2,
+      "author": "gpjt",
+      "tags": [],
+      "date": "2026-04-29T13:15:46+00:00"
     },
     {
       "id": "hn-47947834",
@@ -1726,8 +1826,8 @@
       "source": "hn",
       "title": "A Primer on Bézier Curves – So What Makes a Bézier Curve?",
       "url": "https://pomax.github.io/bezierinfo/",
-      "score": 71,
-      "comments": 18,
+      "score": 87,
+      "comments": 19,
       "author": "mostlyk",
       "tags": [],
       "date": "2026-04-28T12:57:53+00:00"
@@ -2161,8 +2261,8 @@
       "source": "hn",
       "title": "Noctua releases official 3D CAD models for its cooling fans",
       "url": "https://www.noctua.at/en/3d-cad-models",
-      "score": 414,
-      "comments": 92,
+      "score": 437,
+      "comments": 97,
       "author": "embedding-shape",
       "tags": [],
       "date": "2026-04-27T21:35:07+00:00"
@@ -2249,8 +2349,8 @@
       "source": "hn",
       "title": "My Stratum-0 Atomic Clock",
       "url": "https://coverclock.blogspot.com/2017/05/my-stratum-0-atomic-clock_9.html",
-      "score": 43,
-      "comments": 12,
+      "score": 54,
+      "comments": 14,
       "author": "g0xA52A2A",
       "tags": [],
       "date": "2026-04-27T19:02:14+00:00"
@@ -2282,8 +2382,8 @@
       "source": "hn",
       "title": "You can beat the binary search",
       "url": "https://lemire.me/blog/2026/04/27/you-can-beat-the-binary-search/",
-      "score": 82,
-      "comments": 43,
+      "score": 127,
+      "comments": 63,
       "author": "vok",
       "tags": [],
       "date": "2026-04-27T17:52:12+00:00"
@@ -5061,107 +5161,6 @@
       "author": "speckx",
       "tags": [],
       "date": "2026-04-24T15:48:16+00:00"
-    },
-    {
-      "id": "hn-47891801",
-      "source": "hn",
-      "title": "I'm done making desktop applications (2009)",
-      "url": "https://www.kalzumeus.com/2009/09/05/desktop-aps-versus-web-apps/",
-      "score": 149,
-      "comments": 176,
-      "author": "claxo",
-      "tags": [],
-      "date": "2026-04-24T15:44:03+00:00"
-    },
-    {
-      "id": "qiita-902a8aa6b9",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "PDF4LLM：LLM前処理ドキュメント処理レイヤー",
-      "url": "https://qiita.com/jamie-lemon/items/1b4a5c771cd8c1638915?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "jamie-lemon",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-04-25T00:09:58+09:00"
-    },
-    {
-      "id": "hn-47890873",
-      "source": "hn",
-      "title": "Different Language Models Learn Similar Number Representations",
-      "url": "https://arxiv.org/abs/2604.20817",
-      "score": 87,
-      "comments": 35,
-      "author": "Anon84",
-      "tags": [],
-      "date": "2026-04-24T14:34:23+00:00"
-    },
-    {
-      "id": "hn-47890841",
-      "source": "hn",
-      "title": "Show HN: Browser Harness – Gives LLM freedom to complete any browser task",
-      "url": "https://github.com/browser-use/browser-harness",
-      "score": 74,
-      "comments": 28,
-      "author": "gregpr07",
-      "tags": [],
-      "date": "2026-04-24T14:31:38+00:00"
-    },
-    {
-      "id": "hn-47890799",
-      "source": "hn",
-      "title": "Sabotaging projects by overthinking, scope creep, and structural diffing",
-      "url": "https://kevinlynagh.com/newsletter/2026_04_overthinking/",
-      "score": 498,
-      "comments": 125,
-      "author": "alcazar",
-      "tags": [],
-      "date": "2026-04-24T14:28:52+00:00"
-    },
-    {
-      "id": "hn-47890456",
-      "source": "hn",
-      "title": "Machine Learning Reveals Unknown Transient Phenomena in Historic Images",
-      "url": "https://arxiv.org/abs/2604.18799",
-      "score": 43,
-      "comments": 34,
-      "author": "solarist",
-      "tags": [],
-      "date": "2026-04-24T14:01:43+00:00"
-    },
-    {
-      "id": "hn-47890365",
-      "source": "hn",
-      "title": "Linux 7.1 Removes Drivers for Bus Mouse Support",
-      "url": "https://www.phoronix.com/news/Linux-7.1-Input",
-      "score": 30,
-      "comments": 24,
-      "author": "speckx",
-      "tags": [],
-      "date": "2026-04-24T13:54:53+00:00"
-    },
-    {
-      "id": "hn-47890339",
-      "source": "hn",
-      "title": "Sloppy Copies",
-      "url": "https://www.markround.com/blog/2026/04/19/sloppy-copies/",
-      "score": 48,
-      "comments": 12,
-      "author": "dev_hugepages",
-      "tags": [],
-      "date": "2026-04-24T13:52:58+00:00"
-    },
-    {
-      "id": "hn-47890094",
-      "source": "hn",
-      "title": "The pope moves to police AI",
-      "url": "https://www.axios.com/2026/04/24/catholics-pope-vatican-artificial-intelligence",
-      "score": 17,
-      "comments": 7,
-      "author": "giuliomagnifico",
-      "tags": [],
-      "date": "2026-04-24T13:36:42+00:00"
     },
     {
       "id": "ghrel-projectdiscovery_nuclei-310617486",

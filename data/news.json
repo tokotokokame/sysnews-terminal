@@ -1,14 +1,62 @@
 {
-  "updated_at": "2026-04-30T23:53:00.744250+00:00",
+  "updated_at": "2026-05-01T03:22:48.017445+00:00",
   "count": 500,
   "items": [
+    {
+      "id": "hn-47970690",
+      "source": "hn",
+      "title": "Show HN: Winpodx – run Windows apps on Linux as native windows",
+      "url": "https://github.com/kernalix7/winpodx",
+      "score": 11,
+      "comments": 2,
+      "author": "kernalix7",
+      "tags": [],
+      "date": "2026-05-01T02:23:43+00:00"
+    },
+    {
+      "id": "hn-47970622",
+      "source": "hn",
+      "title": "OpenWarp",
+      "url": "https://openwarp.zerx.dev",
+      "score": 40,
+      "comments": 34,
+      "author": "zero-lab",
+      "tags": [],
+      "date": "2026-05-01T02:10:46+00:00"
+    },
+    {
+      "id": "ghrel-chroma-core_chroma-316228938",
+      "source": "project",
+      "proj_category": "Tools",
+      "title": "ChromaDB foundation-cli-v0.1.0-alpha.3 — foundation-cli-v0.1.0-alpha.3",
+      "url": "https://github.com/chroma-core/chroma/releases/tag/foundation-cli-v0.1.0-alpha.3",
+      "score": null,
+      "author": "ChromaDB",
+      "tags": [
+        "ChromaDB",
+        "Release"
+      ],
+      "date": "2026-05-01T00:44:16Z"
+    },
+    {
+      "id": "hn-47969288",
+      "source": "hn",
+      "title": "CPanel and WHM Authentication Bypass – CVE-2026-41940",
+      "url": "https://labs.watchtowr.com/the-internet-is-falling-down-falling-down-falling-down-cpanel-whm-authentication-bypass-cve-2026-41940/",
+      "score": 55,
+      "comments": 18,
+      "author": "zikani_03",
+      "tags": [],
+      "date": "2026-04-30T22:48:51+00:00",
+      "severity": "high"
+    },
     {
       "id": "hn-47968982",
       "source": "hn",
       "title": "Snowball Earth may hide a far stranger climate cycle than anyone expected",
       "url": "https://sciencex.com/news/2026-04-snowball-earth-stranger-climate.html",
-      "score": 15,
-      "comments": 1,
+      "score": 48,
+      "comments": 6,
       "author": "wglb",
       "tags": [],
       "date": "2026-04-30T22:18:57+00:00"
@@ -49,10 +97,10 @@
     {
       "id": "hn-47967786",
       "source": "hn",
-      "title": "Rivian allows you to disable all internet connectivity",
+      "title": "Can I disable all data collection from my vehicle?",
       "url": "https://rivian.com/support/article/can-i-disable-all-data-collection-from-my-vehicle",
-      "score": 371,
-      "comments": 147,
+      "score": 532,
+      "comments": 205,
       "author": "Cider9986",
       "tags": [],
       "date": "2026-04-30T20:27:22+00:00"
@@ -60,10 +108,10 @@
     {
       "id": "hn-47967508",
       "source": "hn",
-      "title": "The upsell game – Vercel upselling tactics revealed",
+      "title": "Vercel’s pricing page",
       "url": "https://theupsellgame.com/",
-      "score": 61,
-      "comments": 10,
+      "score": 127,
+      "comments": 26,
       "author": "bartoindahouse",
       "tags": [],
       "date": "2026-04-30T20:02:35+00:00",
@@ -96,8 +144,8 @@
       "source": "hn",
       "title": "Does Postgres Scale?",
       "url": "https://www.dbos.dev/blog/benchmarking-workflow-execution-scalability-on-postgres",
-      "score": 66,
-      "comments": 30,
+      "score": 96,
+      "comments": 45,
       "author": "KraftyOne",
       "tags": [],
       "date": "2026-04-30T18:45:22+00:00"
@@ -107,8 +155,8 @@
       "source": "hn",
       "title": "Full-Text Search with DuckDB",
       "url": "https://peterdohertys.website/blog-posts/full-text-search-w-duckdb.html",
-      "score": 73,
-      "comments": 18,
+      "score": 103,
+      "comments": 23,
       "author": "ethagnawl",
       "tags": [],
       "date": "2026-04-30T18:14:18+00:00"
@@ -129,8 +177,8 @@
       "source": "hn",
       "title": "I built a Game Boy emulator in F#",
       "url": "https://nickkossolapov.github.io/fame-boy/building-a-game-boy-emulator-in-fsharp/",
-      "score": 183,
-      "comments": 46,
+      "score": 230,
+      "comments": 49,
       "author": "elvis70",
       "tags": [],
       "date": "2026-04-30T17:14:21+00:00"
@@ -160,10 +208,10 @@
     {
       "id": "hn-47965108",
       "source": "hn",
-      "title": "CopyFail was not disclosed to distro developers?",
+      "title": "For Linux kernel vulnerabilities, there is no heads-up to distributions",
       "url": "https://www.openwall.com/lists/oss-security/2026/04/30/10",
-      "score": 323,
-      "comments": 269,
+      "score": 397,
+      "comments": 318,
       "author": "ori_b",
       "tags": [],
       "date": "2026-04-30T16:43:47+00:00"
@@ -173,8 +221,8 @@
       "source": "hn",
       "title": "How Mark Klein told the EFF about Room 641A [book excerpt]",
       "url": "https://thereader.mitpress.mit.edu/the-whistleblower-who-uncovered-the-nsas-big-brother-machine/",
-      "score": 389,
-      "comments": 116,
+      "score": 460,
+      "comments": 152,
       "author": "the-mitr",
       "tags": [],
       "date": "2026-04-30T16:41:00+00:00"
@@ -206,8 +254,8 @@
       "source": "hn",
       "title": "Shai-Hulud Themed Malware Found in the PyTorch Lightning AI Training Library",
       "url": "https://semgrep.dev/blog/2026/malicious-dependency-in-pytorch-lightning-used-for-ai-training/",
-      "score": 303,
-      "comments": 99,
+      "score": 337,
+      "comments": 115,
       "author": "j12y",
       "tags": [],
       "date": "2026-04-30T16:09:26+00:00",
@@ -251,8 +299,8 @@
       "source": "hn",
       "title": "Durable queues, streams, pub/sub, and a cron scheduler – inside your SQLite file",
       "url": "https://honker.dev/",
-      "score": 163,
-      "comments": 49,
+      "score": 185,
+      "comments": 51,
       "author": "ferriswil",
       "tags": [],
       "date": "2026-04-30T14:43:02+00:00"
@@ -262,8 +310,8 @@
       "source": "hn",
       "title": "Claude Code refuses requests or charges extra if your commits mention \"OpenClaw\"",
       "url": "https://twitter.com/theo/status/2049645973350363168",
-      "score": 893,
-      "comments": 509,
+      "score": 998,
+      "comments": 563,
       "author": "elmean",
       "tags": [],
       "date": "2026-04-30T14:36:58+00:00"
@@ -297,8 +345,8 @@
       "source": "hn",
       "title": "How an oil refinery works",
       "url": "https://www.construction-physics.com/p/how-an-oil-refinery-works",
-      "score": 296,
-      "comments": 88,
+      "score": 350,
+      "comments": 106,
       "author": "chmaynard",
       "tags": [],
       "date": "2026-04-30T13:54:20+00:00"
@@ -341,8 +389,8 @@
       "source": "hn",
       "title": "I aggregated 28 US Government auction sites into one search",
       "url": "https://bidprowl.com",
-      "score": 222,
-      "comments": 69,
+      "score": 257,
+      "comments": 73,
       "author": "scarsam",
       "tags": [],
       "date": "2026-04-30T12:24:53+00:00"
@@ -352,8 +400,8 @@
       "source": "hn",
       "title": "Belgium stops decommissioning nuclear power plants",
       "url": "https://dpa-international.com/general-news/urn:newsml:dpa.com:20090101:260430-930-14717/",
-      "score": 719,
-      "comments": 675,
+      "score": 766,
+      "comments": 730,
       "author": "mpweiher",
       "tags": [],
       "date": "2026-04-30T12:17:14+00:00"
@@ -945,8 +993,8 @@
       "source": "hn",
       "title": "Opus 4.7 knows the real Kelsey",
       "url": "https://www.theargumentmag.com/p/i-can-never-talk-to-an-ai-anonymously",
-      "score": 91,
-      "comments": 42,
+      "score": 205,
+      "comments": 113,
       "author": "ilamont",
       "tags": [],
       "date": "2026-04-29T17:09:03+00:00"
@@ -1177,8 +1225,8 @@
       "source": "hn",
       "title": "10Gb/s Ethernet: what I did to get it working in my home",
       "url": "https://www.gilesthomas.com/2026/04/10g-ethernet-what-i-did",
-      "score": 109,
-      "comments": 79,
+      "score": 160,
+      "comments": 111,
       "author": "gpjt",
       "tags": [],
       "date": "2026-04-29T13:15:46+00:00"
@@ -1533,6 +1581,17 @@
       "date": "2026-04-29T00:57:12+00:00"
     },
     {
+      "id": "hn-47942863",
+      "source": "hn",
+      "title": "Maladaptive Frugality",
+      "url": "https://herbertlui.net/maladaptive-frugality/",
+      "score": 30,
+      "comments": 10,
+      "author": "herbertl",
+      "tags": [],
+      "date": "2026-04-29T00:50:15+00:00"
+    },
+    {
       "id": "hn-47942492",
       "source": "hn",
       "title": "Regression: malware reminder on every read still causes subagent refusals",
@@ -1692,8 +1751,8 @@
       "source": "hn",
       "title": "The Church Rock Uranium Mill Spill",
       "url": "https://en.wikipedia.org/wiki/Church_Rock_uranium_mill_spill",
-      "score": 44,
-      "comments": 4,
+      "score": 69,
+      "comments": 5,
       "author": "Sir_Twist",
       "tags": [],
       "date": "2026-04-28T19:13:26+00:00"
@@ -1770,8 +1829,8 @@
       "source": "hn",
       "title": "Reverse Engineering SimTower",
       "url": "https://phulin.me/blog/simtower",
-      "score": 83,
-      "comments": 14,
+      "score": 148,
+      "comments": 23,
       "author": "patrickhulin",
       "tags": [],
       "date": "2026-04-28T17:41:38+00:00"
@@ -1837,8 +1896,8 @@
       "source": "hn",
       "title": "New mechanical panoramic film camera from Jeff Bridges",
       "url": "https://wideluxx.com",
-      "score": 54,
-      "comments": 17,
+      "score": 96,
+      "comments": 39,
       "author": "armadsen",
       "tags": [],
       "date": "2026-04-28T16:49:12+00:00"
@@ -2642,6 +2701,17 @@
       "date": "2026-04-27T19:27:47+00:00"
     },
     {
+      "id": "hn-47926128",
+      "source": "hn",
+      "title": "Show HN: What happens when you load a webpage (Interactive)",
+      "url": "https://toolkit.whysonil.dev/how-it-works/internet-timeline/",
+      "score": 10,
+      "comments": 2,
+      "author": "otterwilde2",
+      "tags": [],
+      "date": "2026-04-27T19:26:00+00:00"
+    },
+    {
       "id": "hn-47925792",
       "source": "hn",
       "title": "My Stratum-0 Atomic Clock",
@@ -2679,8 +2749,8 @@
       "source": "hn",
       "title": "You can beat the binary search",
       "url": "https://lemire.me/blog/2026/04/27/you-can-beat-the-binary-search/",
-      "score": 231,
-      "comments": 112,
+      "score": 271,
+      "comments": 125,
       "author": "vok",
       "tags": [],
       "date": "2026-04-27T17:52:12+00:00"
@@ -5114,63 +5184,6 @@
       "date": "2026-04-25T00:11:43+00:00"
     },
     {
-      "id": "hn-47897140",
-      "source": "hn",
-      "title": "Databases Were Not Designed for This",
-      "url": "https://arpitbhayani.me/blogs/defensive-databases/",
-      "score": 41,
-      "comments": 31,
-      "author": "mooreds",
-      "tags": [],
-      "date": "2026-04-24T23:41:38+00:00"
-    },
-    {
-      "id": "hn-47896670",
-      "source": "hn",
-      "title": "FusionCore: ROS 2 sensor fusion (IMU and GPS and encoders)",
-      "url": "https://github.com/manankharwar/fusioncore",
-      "score": 12,
-      "comments": 6,
-      "author": "kharwarm",
-      "tags": [],
-      "date": "2026-04-24T22:36:38+00:00"
-    },
-    {
-      "id": "hn-47896163",
-      "source": "hn",
-      "title": "Show HN: I've built a nice home server OS",
-      "url": "https://lightwhale.asklandd.dk/",
-      "score": 113,
-      "comments": 46,
-      "author": "Zta77",
-      "tags": [],
-      "date": "2026-04-24T21:42:26+00:00"
-    },
-    {
-      "id": "hn-47895765",
-      "source": "hn",
-      "title": "Google Flow Music",
-      "url": "https://www.flowmusic.app/",
-      "score": 123,
-      "comments": 100,
-      "author": "hmokiguess",
-      "tags": [],
-      "date": "2026-04-24T21:01:50+00:00"
-    },
-    {
-      "id": "qiita-efa791c20a",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "Windows 11 の素の状態では .rtf ファイルが開けないので Delphi でワードパッドを作る",
-      "url": "https://qiita.com/ht_deko/items/4ad3092868ddc52f7180?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "ht_deko",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-04-25T05:53:18+09:00"
-    },
-    {
       "id": "ghrel-projectdiscovery_nuclei-310617486",
       "source": "project",
       "proj_category": "Tools",
@@ -5297,20 +5310,6 @@
       "date": "2025-08-27T20:39:38Z"
     },
     {
-      "id": "ghrel-chroma-core_chroma-209726505",
-      "source": "project",
-      "proj_category": "Tools",
-      "title": "ChromaDB latest — Latest",
-      "url": "https://github.com/chroma-core/chroma/releases/tag/latest",
-      "score": null,
-      "author": "ChromaDB",
-      "tags": [
-        "ChromaDB",
-        "Release"
-      ],
-      "date": "2025-04-01T23:29:39Z"
-    },
-    {
       "id": "ctf-1917888",
       "source": "project",
       "proj_category": "CTF",
@@ -5395,6 +5394,32 @@
       "severity": "high"
     },
     {
+      "id": "zenn-992c15b51b",
+      "source": "zennqiita",
+      "sub_source": "Zenn",
+      "title": "全てを可視化する「全部入り走行データビューア」を実現するデータパイプラインとフロントエンド実装スタック",
+      "url": "https://zenn.dev/turing_motors/articles/38d06cc13690bb",
+      "score": null,
+      "author": "ito",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Thu, 30 Apr 2026 06:00:05 GMT"
+    },
+    {
+      "id": "zenn-bb07fc1219",
+      "source": "zennqiita",
+      "sub_source": "Zenn",
+      "title": "宣言的スキーマ管理ツール pistachio を作成しました",
+      "url": "https://zenn.dev/kanmu_dev/articles/16789ef1f4283a",
+      "score": null,
+      "author": "Genki Sugawara",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Thu, 30 Apr 2026 03:52:05 GMT"
+    },
+    {
       "id": "zenn-7a8ac79a6e",
       "source": "zennqiita",
       "sub_source": "Zenn",
@@ -5419,6 +5444,19 @@
         "Zenn"
       ],
       "date": "Wed, 29 Apr 2026 17:11:45 GMT"
+    },
+    {
+      "id": "zenn-6fabd3cd4a",
+      "source": "zennqiita",
+      "sub_source": "Zenn",
+      "title": "【Claude Code】CLAUDE.md・skills・agents を整備して開発体験が劇的に変わった話",
+      "url": "https://zenn.dev/linkedge/articles/27c38cdd9bedc6",
+      "score": null,
+      "author": "RyoyaOkuma",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Wed, 29 Apr 2026 13:16:33 GMT"
     },
     {
       "id": "zenn-3231218cbc",
@@ -5525,19 +5563,6 @@
       "date": "Tue, 28 Apr 2026 03:52:37 GMT"
     },
     {
-      "id": "zenn-000de93afe",
-      "source": "zennqiita",
-      "sub_source": "Zenn",
-      "title": "AIエージェントを安全に動かすための技術——サンドボックスについて調べてみる",
-      "url": "https://zenn.dev/layerx/articles/a99cd11af487fc",
-      "score": null,
-      "author": "Sotamaki",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Tue, 28 Apr 2026 03:51:17 GMT"
-    },
-    {
       "id": "zenn-ac3cc7ec92",
       "source": "zennqiita",
       "sub_source": "Zenn",
@@ -5614,32 +5639,6 @@
         "Zenn"
       ],
       "date": "Mon, 27 Apr 2026 23:02:32 GMT"
-    },
-    {
-      "id": "zenn-8342ed0660",
-      "source": "zennqiita",
-      "sub_source": "Zenn",
-      "title": "Hono × Inertia.js が作る新しい型貫通体験に触れてみた",
-      "url": "https://zenn.dev/ashunar0/articles/d4a23d3579331a",
-      "score": null,
-      "author": "あさひ",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Mon, 27 Apr 2026 14:10:54 GMT"
-    },
-    {
-      "id": "zenn-fbb8d09bab",
-      "source": "zennqiita",
-      "sub_source": "Zenn",
-      "title": "国立国会図書館のOCR技術を使って、完全オフラインOCRのChrome拡張を作ってみた",
-      "url": "https://zenn.dev/lecto/articles/a2ee65243b02b3",
-      "score": null,
-      "author": "tamoco",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Sun, 26 Apr 2026 14:29:03 GMT"
     },
     {
       "id": "edb-fb4512c26e",

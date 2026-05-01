@@ -1,14 +1,58 @@
 {
-  "updated_at": "2026-05-01T11:38:51.759602+00:00",
+  "updated_at": "2026-05-01T13:18:13.401027+00:00",
   "count": 500,
   "items": [
+    {
+      "id": "hn-47973755",
+      "source": "hn",
+      "title": "Running Adobe's 1991 PostScript Interpreter in the Browser",
+      "url": "https://www.pagetable.com/?p=1854",
+      "score": 23,
+      "comments": 10,
+      "author": "ingve",
+      "tags": [],
+      "date": "2026-05-01T11:58:11+00:00"
+    },
+    {
+      "id": "hn-47973559",
+      "source": "hn",
+      "title": "Show HN: Site Mogging",
+      "url": "https://sitemogging.com",
+      "score": 23,
+      "comments": 24,
+      "author": "jilles",
+      "tags": [],
+      "date": "2026-05-01T11:32:48+00:00"
+    },
+    {
+      "id": "hn-47973378",
+      "source": "hn",
+      "title": "Apple accidentally left Claude.md files Apple Support app",
+      "url": "https://xcancel.com/aaronp613/status/2049986504617820551",
+      "score": 92,
+      "comments": 46,
+      "author": "andruby",
+      "tags": [],
+      "date": "2026-05-01T11:08:32+00:00"
+    },
+    {
+      "id": "hn-47973376",
+      "source": "hn",
+      "title": "Your Website Is Not for You",
+      "url": "https://websmith.studio/blog/your-website-is-not-for-you/",
+      "score": 87,
+      "comments": 52,
+      "author": "pumbaa",
+      "tags": [],
+      "date": "2026-05-01T11:08:20+00:00"
+    },
     {
       "id": "hn-47973108",
       "source": "hn",
       "title": "After dissing Anthropic for limiting Mythos, OpenAI restricts access to Cyber",
       "url": "https://techcrunch.com/2026/04/30/after-dissing-anthropic-for-limiting-mythos-openai-restricts-access-to-cyber-too/",
-      "score": 45,
-      "comments": 24,
+      "score": 83,
+      "comments": 62,
       "author": "gbourne1",
       "tags": [],
       "date": "2026-05-01T10:28:12+00:00"
@@ -18,8 +62,8 @@
       "source": "hn",
       "title": "A beginner's guide to Sourcehut (2025)",
       "url": "https://btxx.org/posts/beginners-guide-sourcehut/",
-      "score": 22,
-      "comments": 3,
+      "score": 33,
+      "comments": 9,
       "author": "bradley_taunt",
       "tags": [],
       "date": "2026-05-01T10:23:52+00:00",
@@ -28,21 +72,32 @@
     {
       "id": "hn-47972807",
       "source": "hn",
-      "title": "The Rotary Un-Smartphone",
+      "title": "The Rotary Un-Smartphone (2023)",
       "url": "https://skysedge.com/telecom/RUSP/index.html",
-      "score": 32,
-      "comments": 4,
+      "score": 43,
+      "comments": 8,
       "author": "tzury",
       "tags": [],
       "date": "2026-05-01T09:39:07+00:00"
+    },
+    {
+      "id": "hn-47972659",
+      "source": "hn",
+      "title": "Advanced Quantization Algorithm for LLMs",
+      "url": "https://github.com/intel/auto-round",
+      "score": 12,
+      "comments": 1,
+      "author": "lastdong",
+      "tags": [],
+      "date": "2026-05-01T09:10:02+00:00"
     },
     {
       "id": "hn-47972511",
       "source": "hn",
       "title": "Show HN: WhatCable, a tiny menu bar app for inspecting USB-C cables",
       "url": "https://github.com/darrylmorley/whatcable",
-      "score": 126,
-      "comments": 36,
+      "score": 183,
+      "comments": 66,
       "author": "sleepingNomad",
       "tags": [],
       "date": "2026-05-01T08:43:45+00:00"
@@ -52,11 +107,22 @@
       "source": "hn",
       "title": "Grok 4.3",
       "url": "https://docs.x.ai/developers/models/grok-4.3",
-      "score": 121,
-      "comments": 139,
+      "score": 172,
+      "comments": 231,
       "author": "simianwords",
       "tags": [],
       "date": "2026-05-01T08:29:31+00:00"
+    },
+    {
+      "id": "hn-47972367",
+      "source": "hn",
+      "title": "Our agent found a bug with WireGuard in Google Kubernetes Engine",
+      "url": "https://lovable.dev/blog/hunting-networking-bugs-in-kubernetes",
+      "score": 32,
+      "comments": 5,
+      "author": "vikeri",
+      "tags": [],
+      "date": "2026-05-01T08:14:07+00:00"
     },
     {
       "id": "qiita-44582eee7f",
@@ -170,8 +236,8 @@
       "source": "hn",
       "title": "OpenWarp",
       "url": "https://openwarp.zerx.dev",
-      "score": 104,
-      "comments": 86,
+      "score": 120,
+      "comments": 99,
       "author": "zero-lab",
       "tags": [],
       "date": "2026-05-01T02:10:46+00:00"
@@ -232,7 +298,7 @@
       "source": "hn",
       "title": "CPanel and WHM Authentication Bypass – CVE-2026-41940",
       "url": "https://labs.watchtowr.com/the-internet-is-falling-down-falling-down-falling-down-cpanel-whm-authentication-bypass-cve-2026-41940/",
-      "score": 116,
+      "score": 124,
       "comments": 48,
       "author": "zikani_03",
       "tags": [],
@@ -399,8 +465,8 @@
       "source": "hn",
       "title": "For Linux kernel vulnerabilities, there is no heads-up to distributions",
       "url": "https://www.openwall.com/lists/oss-security/2026/04/30/10",
-      "score": 516,
-      "comments": 404,
+      "score": 538,
+      "comments": 437,
       "author": "ori_b",
       "tags": [],
       "date": "2026-04-30T16:43:47+00:00"
@@ -410,8 +476,8 @@
       "source": "hn",
       "title": "How Mark Klein told the EFF about Room 641A [book excerpt]",
       "url": "https://thereader.mitpress.mit.edu/the-whistleblower-who-uncovered-the-nsas-big-brother-machine/",
-      "score": 613,
-      "comments": 207,
+      "score": 637,
+      "comments": 215,
       "author": "the-mitr",
       "tags": [],
       "date": "2026-04-30T16:41:00+00:00"
@@ -443,8 +509,8 @@
       "source": "hn",
       "title": "Shai-Hulud Themed Malware Found in the PyTorch Lightning AI Training Library",
       "url": "https://semgrep.dev/blog/2026/malicious-dependency-in-pytorch-lightning-used-for-ai-training/",
-      "score": 405,
-      "comments": 146,
+      "score": 411,
+      "comments": 153,
       "author": "j12y",
       "tags": [],
       "date": "2026-04-30T16:09:26+00:00",
@@ -525,8 +591,8 @@
       "source": "hn",
       "title": "Claude Code refuses requests or charges extra if your commits mention \"OpenClaw\"",
       "url": "https://twitter.com/theo/status/2049645973350363168",
-      "score": 1186,
-      "comments": 656,
+      "score": 1211,
+      "comments": 666,
       "author": "elmean",
       "tags": [],
       "date": "2026-04-30T14:36:58+00:00"
@@ -560,8 +626,8 @@
       "source": "hn",
       "title": "How an oil refinery works",
       "url": "https://www.construction-physics.com/p/how-an-oil-refinery-works",
-      "score": 436,
-      "comments": 136,
+      "score": 452,
+      "comments": 140,
       "author": "chmaynard",
       "tags": [],
       "date": "2026-04-30T13:54:20+00:00"
@@ -582,8 +648,8 @@
       "source": "hn",
       "title": "If I could make my own GitHub",
       "url": "https://matduggan.com/if-i-could-make-my-own-github/",
-      "score": 14,
-      "comments": 48,
+      "score": 39,
+      "comments": 75,
       "author": "matricaria",
       "tags": [],
       "date": "2026-04-30T13:38:38+00:00"
@@ -1245,8 +1311,8 @@
       "source": "hn",
       "title": "Opus 4.7 knows the real Kelsey",
       "url": "https://www.theargumentmag.com/p/i-can-never-talk-to-an-ai-anonymously",
-      "score": 366,
-      "comments": 191,
+      "score": 381,
+      "comments": 200,
       "author": "ilamont",
       "tags": [],
       "date": "2026-04-29T17:09:03+00:00"
@@ -1611,8 +1677,8 @@
       "source": "hn",
       "title": "New copy of earliest poem in English, written 1,3k years ago, discovered in Rome",
       "url": "https://www.tcd.ie/news_events/articles/2026/caedmons-hymn-discovery/",
-      "score": 78,
-      "comments": 49,
+      "score": 100,
+      "comments": 62,
       "author": "giuliomagnifico",
       "tags": [],
       "date": "2026-04-29T11:35:40+00:00"
@@ -1870,8 +1936,8 @@
       "source": "hn",
       "title": "Maladaptive Frugality",
       "url": "https://herbertlui.net/maladaptive-frugality/",
-      "score": 113,
-      "comments": 91,
+      "score": 133,
+      "comments": 108,
       "author": "herbertl",
       "tags": [],
       "date": "2026-04-29T00:50:15+00:00"
@@ -2036,8 +2102,8 @@
       "source": "hn",
       "title": "I Got Sick of Remembering Port Numbers",
       "url": "https://gregraiz.com/blog/local-vibe/",
-      "score": 59,
-      "comments": 52,
+      "score": 97,
+      "comments": 90,
       "author": "graiz",
       "tags": [],
       "date": "2026-04-28T19:19:06+00:00"
@@ -2994,8 +3060,8 @@
       "source": "hn",
       "title": "Softmax, can you derive the Jacobian? And should you care?",
       "url": "https://idlemachines.co.uk/essays/softmax",
-      "score": 59,
-      "comments": 6,
+      "score": 71,
+      "comments": 10,
       "author": "smaddrellmander",
       "tags": [],
       "date": "2026-04-27T20:38:22+00:00"
@@ -5115,76 +5181,6 @@
       "date": "2026-04-25T12:14:26+00:00"
     },
     {
-      "id": "qiita-3c7af566d4",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "売上予測WebアプリをFastAPI + Prophet + Reactで個人開発してリリースした話",
-      "url": "https://qiita.com/Mecharhythm/items/71f9e7c92d7ee0892a10?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "Mecharhythm",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-04-25T20:58:29+09:00"
-    },
-    {
-      "id": "hn-47900649",
-      "source": "hn",
-      "title": "Getting my daily news from a dot matrix printer 2024",
-      "url": "https://aschmelyun.com/blog/getting-my-daily-news-from-a-dot-matrix-printer/",
-      "score": 61,
-      "comments": 9,
-      "author": "xupybd",
-      "tags": [],
-      "date": "2026-04-25T11:39:53+00:00"
-    },
-    {
-      "id": "hn-47900506",
-      "source": "hn",
-      "title": "Lambda Calculus Benchmark for AI",
-      "url": "https://victortaelin.github.io/lambench/",
-      "score": 112,
-      "comments": 35,
-      "author": "marvinborner",
-      "tags": [],
-      "date": "2026-04-25T11:16:23+00:00"
-    },
-    {
-      "id": "hn-47900478",
-      "source": "hn",
-      "title": "Discret 11, the French TV encryption of the 80s",
-      "url": "https://fabiensanglard.net/discret11/",
-      "score": 143,
-      "comments": 24,
-      "author": "adunk",
-      "tags": [],
-      "date": "2026-04-25T11:10:41+00:00"
-    },
-    {
-      "id": "hn-47900451",
-      "source": "hn",
-      "title": "Only one side will be the true successor to MS-DOS – Windows 2.x",
-      "url": "https://blisscast.wordpress.com/2026/04/21/windows-2-gui-wonderland-12a/",
-      "score": 68,
-      "comments": 55,
-      "author": "keepamovin",
-      "tags": [],
-      "date": "2026-04-25T11:03:15+00:00"
-    },
-    {
-      "id": "qiita-d508405228",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "SO101をGR00T N1.6で学習から実機を用い推論動作まで確認した話し。",
-      "url": "https://qiita.com/takahasr_rs/items/f86616aa65ebfd53a48f?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "takahasr_rs",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-04-25T20:02:55+09:00"
-    },
-    {
       "id": "ghrel-projectdiscovery_nuclei-310617486",
       "source": "project",
       "proj_category": "Tools",
@@ -5394,6 +5390,32 @@
       "date": "Fri, 01 May 2026 01:10:07 GMT"
     },
     {
+      "id": "zenn-746bf3e76a",
+      "source": "zennqiita",
+      "sub_source": "Zenn",
+      "title": "RubyKaigi 2026 に参加しました",
+      "url": "https://zenn.dev/tsukulink/articles/2026-04-rubykaigi-2026",
+      "score": null,
+      "author": "あっきー",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Fri, 01 May 2026 00:00:07 GMT"
+    },
+    {
+      "id": "zenn-83c375b80f",
+      "source": "zennqiita",
+      "sub_source": "Zenn",
+      "title": "TypeScript で実装したワークフローの「正しさ」を Lean とランダムテストで検証する",
+      "url": "https://zenn.dev/aishift/articles/a4bdf225a348e5",
+      "score": null,
+      "author": "amata1219",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Thu, 30 Apr 2026 14:00:05 GMT"
+    },
+    {
       "id": "zenn-9ac7e10d50",
       "source": "zennqiita",
       "sub_source": "Zenn",
@@ -5436,7 +5458,7 @@
       "id": "zenn-243a1a68d2",
       "source": "zennqiita",
       "sub_source": "Zenn",
-      "title": "Linuxカーネルの脆弱性「CopyFail (CVE-2026-31431)」をEC2のUbuntu 22.04で実証してみた",
+      "title": "Linuxカーネルの脆弱性「Copy Fail (CVE-2026-31431)」をEC2のUbuntu 22.04で実証してみた",
       "url": "https://zenn.dev/aeyesec/articles/7e4a1e3c83e81b",
       "score": null,
       "author": "はるぷ",
@@ -5499,6 +5521,19 @@
       "date": "Wed, 29 Apr 2026 17:11:45 GMT"
     },
     {
+      "id": "zenn-c8bda3dbac",
+      "source": "zennqiita",
+      "sub_source": "Zenn",
+      "title": "OAuth 2.0 / OIDC を“動く IdP”で理解する：認可コード＋PKCE、JWT/JWKS、リソースサーバー検証まで",
+      "url": "https://zenn.dev/yuki_tu/articles/fcb7a2e18d9043",
+      "score": null,
+      "author": "nerusan",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Wed, 29 Apr 2026 15:05:48 GMT"
+    },
+    {
       "id": "zenn-6fabd3cd4a",
       "source": "zennqiita",
       "sub_source": "Zenn",
@@ -5538,19 +5573,6 @@
       "date": "Wed, 29 Apr 2026 06:30:14 GMT"
     },
     {
-      "id": "zenn-0c8a84ccdd",
-      "source": "zennqiita",
-      "sub_source": "Zenn",
-      "title": "シェル起動時と cd のたびにダッシュボードを描く CLI「splashboard」を作りました",
-      "url": "https://zenn.dev/unhappychoice/articles/splashboard-introduction",
-      "score": null,
-      "author": "Yuji Ueki",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Wed, 29 Apr 2026 05:45:05 GMT"
-    },
-    {
       "id": "zenn-5b16cebfc9",
       "source": "zennqiita",
       "sub_source": "Zenn",
@@ -5577,45 +5599,6 @@
       "date": "Tue, 28 Apr 2026 10:14:55 GMT"
     },
     {
-      "id": "zenn-307da90f60",
-      "source": "zennqiita",
-      "sub_source": "Zenn",
-      "title": "97%のPermission確認を自動化するCoding Agent用OSS「ccgate」が誕生した",
-      "url": "https://zenn.dev/layerx/articles/20260428-ccgate",
-      "score": null,
-      "author": "TAK848",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Tue, 28 Apr 2026 09:23:21 GMT"
-    },
-    {
-      "id": "zenn-2276dd8c1c",
-      "source": "zennqiita",
-      "sub_source": "Zenn",
-      "title": "エージェントコスト対策としてローカルLLMはアリ？— Ollamaで試してみた",
-      "url": "https://zenn.dev/headwaters/articles/509a1f83c693ce",
-      "score": null,
-      "author": "Renly",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Tue, 28 Apr 2026 08:45:05 GMT"
-    },
-    {
-      "id": "zenn-ec34691182",
-      "source": "zennqiita",
-      "sub_source": "Zenn",
-      "title": "Claude Code に仕事を譲った日——残ったのは「判断」と「責任」だった",
-      "url": "https://zenn.dev/tokium_dev/articles/ca6f30192f6379",
-      "score": null,
-      "author": "Kokoichi",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Tue, 28 Apr 2026 04:37:45 GMT"
-    },
-    {
       "id": "zenn-25a554609a",
       "source": "zennqiita",
       "sub_source": "Zenn",
@@ -5627,6 +5610,19 @@
         "Zenn"
       ],
       "date": "Tue, 28 Apr 2026 03:52:37 GMT"
+    },
+    {
+      "id": "zenn-587d59872d",
+      "source": "zennqiita",
+      "sub_source": "Zenn",
+      "title": "ベクトルDBを使わないRAG。全てのナレッジを階層化する手法",
+      "url": "https://zenn.dev/knowledgesense/articles/7dddae04a7d828",
+      "score": null,
+      "author": "Atsushi Kadowaki",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Tue, 28 Apr 2026 00:01:05 GMT"
     },
     {
       "id": "zenn-4ad8a3cdc0",

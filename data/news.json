@@ -1,17 +1,41 @@
 {
-  "updated_at": "2026-05-03T06:05:47.721073+00:00",
+  "updated_at": "2026-05-03T08:18:43.092544+00:00",
   "count": 500,
   "items": [
+    {
+      "id": "hn-47994012",
+      "source": "hn",
+      "title": "Specsmaxxing – On overcoming AI psychosis, and why I write specs in YAML",
+      "url": "https://acai.sh/blog/specsmaxxing",
+      "score": 53,
+      "comments": 31,
+      "author": "brendanmc6",
+      "tags": [],
+      "date": "2026-05-03T06:33:38+00:00"
+    },
     {
       "id": "hn-47993235",
       "source": "hn",
       "title": "Kimi K2.6 just beat Claude, GPT-5.5, and Gemini in a coding challenge",
       "url": "https://thinkpol.ca/2026/04/30/an-open-weights-chinese-model-just-beat-claude-gpt-5-5-and-gemini-in-a-programming-challenge/",
-      "score": 140,
-      "comments": 59,
+      "score": 248,
+      "comments": 110,
       "author": "bazlightyear",
       "tags": [],
       "date": "2026-05-03T04:05:28+00:00"
+    },
+    {
+      "id": "qiita-f0235ea34f",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "Strands AgentsのTypeScript版がv1.0.0に到達したのでAI SDK用のアダプターを作ってみた",
+      "url": "https://qiita.com/moritalous/items/132f9e20661289f1abc9?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "moritalous",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-05-03T13:01:24+09:00"
     },
     {
       "id": "qiita-fb2a63823d",
@@ -38,6 +62,17 @@
       "date": "2026-05-03T02:53:29+00:00"
     },
     {
+      "id": "hn-47992802",
+      "source": "hn",
+      "title": "AI, Intimacy, and the Data You Never Meant to Share",
+      "url": "https://fshot.org/techzone/the-algorithm-knows.php",
+      "score": 20,
+      "comments": 1,
+      "author": "victorkulla",
+      "tags": [],
+      "date": "2026-05-03T02:42:43+00:00"
+    },
+    {
       "id": "hn-47992772",
       "source": "hn",
       "title": "Open source does not imply open community",
@@ -52,24 +87,50 @@
     {
       "id": "hn-47992446",
       "source": "hn",
-      "title": "Care Homes and Hotels in Japan Shut as Expansion Strategy Unravels",
+      "title": "Care homes and hotels in Japan shut as expansion strategy unravels",
       "url": "https://www.newsonjapan.com/article/149075.php",
-      "score": 17,
-      "comments": 2,
+      "score": 33,
+      "comments": 6,
       "author": "mikhael",
       "tags": [],
       "date": "2026-05-03T01:38:38+00:00"
     },
     {
+      "id": "qiita-db3e214dc0",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "Claude Code入りのDockerイメージをDevContainerで動かす",
+      "url": "https://qiita.com/sour23/items/a86a42a675e27853299b?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "sour23",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-05-03T10:31:14+09:00"
+    },
+    {
       "id": "hn-47992338",
       "source": "hn",
-      "title": "Clandestine network smuggling Starlink tech into Iran to beat internet blackout",
+      "title": "A network smuggling Starlink tech into Iran to beat internet blackout",
       "url": "https://www.bbc.com/news/articles/cvgzk91leweo",
-      "score": 125,
-      "comments": 59,
+      "score": 162,
+      "comments": 96,
       "author": "1659447091",
       "tags": [],
       "date": "2026-05-03T01:22:41+00:00"
+    },
+    {
+      "id": "qiita-367bbd6968",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "市場は本当に予測不能なのか？――ランダムウォーク仮説とクオンツが探す「小さな歪み」",
+      "url": "https://qiita.com/tikeda123/items/e777dcadbc850c357419?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "tikeda123",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-05-03T10:11:19+09:00"
     },
     {
       "id": "hn-47991995",
@@ -87,8 +148,8 @@
       "source": "hn",
       "title": "A Couple Million Lines of Haskell: Production Engineering at Mercury",
       "url": "https://blog.haskell.org/a-couple-million-lines-of-haskell/",
-      "score": 129,
-      "comments": 48,
+      "score": 177,
+      "comments": 66,
       "author": "unignorant",
       "tags": [],
       "date": "2026-05-03T00:01:14+00:00"
@@ -131,8 +192,8 @@
       "source": "hn",
       "title": "Clojurists Together – Q2 2026 Open Source Funding Announcement",
       "url": "https://www.clojuriststogether.org/news/q2-2026-funding-announcement/",
-      "score": 81,
-      "comments": 8,
+      "score": 98,
+      "comments": 10,
       "author": "dragandj",
       "tags": [],
       "date": "2026-05-02T21:34:49+00:00",
@@ -143,8 +204,8 @@
       "source": "hn",
       "title": "Show HN: State of the Art of Coding Models, According to Hacker News Commenters",
       "url": "https://hnup.date/hn-sota",
-      "score": 83,
-      "comments": 42,
+      "score": 96,
+      "comments": 50,
       "author": "yunusabd",
       "tags": [],
       "date": "2026-05-02T21:25:05+00:00"
@@ -154,8 +215,8 @@
       "source": "hn",
       "title": "The agent harness belongs outside the sandbox",
       "url": "https://www.mendral.com/blog/agent-harness-belongs-outside-sandbox",
-      "score": 88,
-      "comments": 69,
+      "score": 96,
+      "comments": 75,
       "author": "shad42",
       "tags": [],
       "date": "2026-05-02T21:21:27+00:00"
@@ -165,8 +226,8 @@
       "source": "hn",
       "title": "Six Years Perfecting Maps on WatchOS",
       "url": "https://www.david-smith.org/blog/2026/04/29/maps-on-watchos/",
-      "score": 240,
-      "comments": 51,
+      "score": 271,
+      "comments": 59,
       "author": "valzevul",
       "tags": [],
       "date": "2026-05-02T21:14:29+00:00"
@@ -176,8 +237,8 @@
       "source": "hn",
       "title": "This Month in Ladybird - April 2026",
       "url": "https://ladybird.org/newsletter/2026-04-30/",
-      "score": 240,
-      "comments": 38,
+      "score": 296,
+      "comments": 53,
       "author": "richardboegli",
       "tags": [],
       "date": "2026-05-02T20:46:30+00:00"
@@ -187,8 +248,8 @@
       "source": "hn",
       "title": "Neanderthals ran 'fat factories' 125,000 years ago (2025)",
       "url": "https://www.universiteitleiden.nl/en/news/2025/07/neanderthals-ran-fat-factories-125000-years-ago",
-      "score": 147,
-      "comments": 52,
+      "score": 176,
+      "comments": 68,
       "author": "andsoitis",
       "tags": [],
       "date": "2026-05-02T20:42:20+00:00"
@@ -209,8 +270,8 @@
       "source": "hn",
       "title": "VS Code inserting 'Co-Authored-by Copilot' into commits regardless of usage",
       "url": "https://github.com/microsoft/vscode/pull/310226",
-      "score": 1017,
-      "comments": 487,
+      "score": 1122,
+      "comments": 553,
       "author": "indrora",
       "tags": [],
       "date": "2026-05-02T19:57:26+00:00"
@@ -264,8 +325,8 @@
       "source": "hn",
       "title": "Do_not_track",
       "url": "https://donottrack.sh/",
-      "score": 262,
-      "comments": 86,
+      "score": 297,
+      "comments": 97,
       "author": "RubyGuy",
       "tags": [],
       "date": "2026-05-02T17:40:55+00:00"
@@ -275,8 +336,8 @@
       "source": "hn",
       "title": "Dav2d",
       "url": "https://code.videolan.org/videolan/dav2d",
-      "score": 417,
-      "comments": 119,
+      "score": 455,
+      "comments": 122,
       "author": "dabinat",
       "tags": [],
       "date": "2026-05-02T17:32:29+00:00"
@@ -315,6 +376,19 @@
       "date": "2026-05-02T17:10:18+00:00"
     },
     {
+      "id": "qiita-9b0c6bca0d",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "React/TypeScript + Vite + Supabase + Chakra　UI で学習記録アプリを作ってみた",
+      "url": "https://qiita.com/ken4ro111/items/f2a9c2e1a5294752c466?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "ken4ro111",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-05-03T01:56:37+09:00"
+    },
+    {
       "id": "hn-47987931",
       "source": "hn",
       "title": "Modern C++ Programming: Busato",
@@ -335,6 +409,19 @@
       "author": "FossAndFurious",
       "tags": [],
       "date": "2026-05-02T16:34:09+00:00"
+    },
+    {
+      "id": "qiita-97aa0e2244",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "AIエージェントを会社で使いたい！→「え、セキュリティどうするの？」　企業導入への技術的アプローチ",
+      "url": "https://qiita.com/sharu389no/items/ede7d1c0be4a14024857?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "sharu389no",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-05-03T01:20:31+09:00"
     },
     {
       "id": "hn-47987333",
@@ -394,6 +481,19 @@
         "Qiita"
       ],
       "date": "2026-05-02T23:06:14+09:00"
+    },
+    {
+      "id": "qiita-83bacc9ccd",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "【Claude Code】/insights のレポートが上書きされないように逃がしておきたい",
+      "url": "https://qiita.com/ryu-ki/items/1fd91c4c68ef3f0a33d7?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "ryu-ki",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-05-02T23:05:22+09:00"
     },
     {
       "id": "hn-47986390",
@@ -512,7 +612,7 @@
       "source": "hn",
       "title": "How fast is a macOS VM, and how small could it be?",
       "url": "https://eclecticlight.co/2026/05/02/how-fast-is-a-macos-vm-and-how-small-could-it-be/",
-      "score": 237,
+      "score": 246,
       "comments": 86,
       "author": "moosia",
       "tags": [],
@@ -655,6 +755,19 @@
       "date": "2026-05-02T04:12:35+00:00"
     },
     {
+      "id": "qiita-b74375a88e",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "セキュリティを後付けにしないための実践ガイド",
+      "url": "https://qiita.com/ryucciarati/items/b61f080466c760e5ecc2?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "ryucciarati",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-05-02T13:06:20+09:00"
+    },
+    {
       "id": "hn-47983176",
       "source": "hn",
       "title": "K3k: Kubernetes in Kubernetes",
@@ -664,6 +777,19 @@
       "author": "jzebedee",
       "tags": [],
       "date": "2026-05-02T04:00:42+00:00"
+    },
+    {
+      "id": "qiita-65f932fa1b",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "Claude Code のトークン消費を抑える実務テクニック5選 — Skills / .claudeignore / Subagentの使い分け",
+      "url": "https://qiita.com/ennagara128/items/26e7168007e80024cf54?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "ennagara128",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-05-02T11:35:59+09:00"
     },
     {
       "id": "hn-47982763",
@@ -725,10 +851,10 @@
     {
       "id": "hn-47981979",
       "source": "hn",
-      "title": "A Physics Engine with Incremental Rollback for Multiplayer Games",
+      "title": "A physics engine with incremental rollback for multiplayer games",
       "url": "https://easel.games/blog/2026-rollback-physics",
-      "score": 69,
-      "comments": 22,
+      "score": 82,
+      "comments": 26,
       "author": "BSTRhino",
       "tags": [],
       "date": "2026-05-02T00:12:00+00:00"
@@ -1332,8 +1458,8 @@
       "source": "hn",
       "title": "When Dawkins met Claude – Could this AI be conscious?",
       "url": "https://unherd.com/2026/04/is-ai-the-next-phase-of-evolution/",
-      "score": 16,
-      "comments": 88,
+      "score": 28,
+      "comments": 139,
       "author": "pentestercrab",
       "tags": [],
       "date": "2026-05-01T08:36:19+00:00"
@@ -1389,8 +1515,8 @@
       "source": "hn",
       "title": "A more efficient implementation of Shor's algorithm",
       "url": "https://lwn.net/Articles/1066156/",
-      "score": 54,
-      "comments": 5,
+      "score": 72,
+      "comments": 13,
       "author": "signa11",
       "tags": [],
       "date": "2026-05-01T07:28:55+00:00"
@@ -1595,9 +1721,9 @@
     {
       "id": "hn-47969850",
       "source": "hn",
-      "title": "Simple and Correct Snapshot Isolation",
+      "title": "Simple and correct snapshot isolation",
       "url": "https://remy.wang/blog/si.html",
-      "score": 14,
+      "score": 21,
       "comments": 1,
       "author": "remywang",
       "tags": [],
@@ -1646,8 +1772,8 @@
       "source": "hn",
       "title": "San Francisco streets with confusingly similar names",
       "url": "https://j-nelson.net/san-francisco-streets-with-similar-names/",
-      "score": 8,
-      "comments": 9,
+      "score": 23,
+      "comments": 31,
       "author": "SeenNotHeard",
       "tags": [],
       "date": "2026-04-30T22:25:16+00:00"
@@ -2039,8 +2165,8 @@
       "source": "hn",
       "title": "The IBM Granite 4.1 family of models",
       "url": "https://research.ibm.com/blog/granite-4-1-ai-foundation-models",
-      "score": 33,
-      "comments": 4,
+      "score": 74,
+      "comments": 10,
       "author": "wglb",
       "tags": [],
       "date": "2026-04-30T14:01:26+00:00"
@@ -2295,8 +2421,8 @@
       "source": "hn",
       "title": "Inventions for battery reuse and recycling increase seven-fold in last decade",
       "url": "https://www.epo.org/en/news-events/news/inventions-battery-reuse-and-recycling-increase-more-seven-fold-last-decade",
-      "score": 179,
-      "comments": 11,
+      "score": 194,
+      "comments": 12,
       "author": "JeanKage",
       "tags": [],
       "date": "2026-04-30T09:12:23+00:00"
@@ -2970,8 +3096,8 @@
       "source": "hn",
       "title": "Because It Doesn't Have To",
       "url": "https://blog.computationalcomplexity.org/2026/04/because-it-doesnt-have-to.html",
-      "score": 7,
-      "comments": 0,
+      "score": 44,
+      "comments": 12,
       "author": "zdw",
       "tags": [],
       "date": "2026-04-29T16:42:13+00:00"
@@ -5042,118 +5168,6 @@
       "tags": [],
       "date": "2026-04-27T13:55:43+00:00",
       "severity": "critical"
-    },
-    {
-      "id": "hn-47921610",
-      "source": "hn",
-      "title": "Behavioral timescale synaptic plasticity rewires the brain after an experience",
-      "url": "https://www.quantamagazine.org/a-new-type-of-neuroplasticity-rewires-the-brain-after-a-single-experience-20260424/",
-      "score": 128,
-      "comments": 5,
-      "author": "ibobev",
-      "tags": [],
-      "date": "2026-04-27T13:54:47+00:00"
-    },
-    {
-      "id": "hn-47921377",
-      "source": "hn",
-      "title": "Tendril – a self-extending agent that builds and registers its own tools",
-      "url": "https://github.com/serverless-dna/tendril",
-      "score": 46,
-      "comments": 18,
-      "author": "walmsles",
-      "tags": [],
-      "date": "2026-04-27T13:34:48+00:00"
-    },
-    {
-      "id": "hn-47921251",
-      "source": "hn",
-      "title": "Building a Hamiltonian Path Puzzle",
-      "url": "https://www.4rknova.com//blog/2026/04/24/number-trail",
-      "score": 7,
-      "comments": 0,
-      "author": "ibobev",
-      "tags": [],
-      "date": "2026-04-27T13:22:52+00:00"
-    },
-    {
-      "id": "hn-47921064",
-      "source": "hn",
-      "title": "Running local LLMs offline on a ten-hour flight",
-      "url": "https://deploy.live/blog/running-local-llms-offline-on-a-ten-hour-flight/",
-      "score": 63,
-      "comments": 44,
-      "author": "darccio",
-      "tags": [],
-      "date": "2026-04-27T13:05:59+00:00"
-    },
-    {
-      "id": "hn-47920973",
-      "source": "hn",
-      "title": "Windows 11's second-chance setup dialogs hurt IT, drain productivity",
-      "url": "https://www.theregister.com/2026/04/26/windows_second_chance_setup/",
-      "score": 49,
-      "comments": 24,
-      "author": "geekinchief",
-      "tags": [],
-      "date": "2026-04-27T12:55:39+00:00"
-    },
-    {
-      "id": "hn-47920787",
-      "source": "hn",
-      "title": "Show HN: OSS Agent I built topped the TerminalBench on Gemini-3-flash-preview",
-      "url": "https://github.com/dirac-run/dirac",
-      "score": 289,
-      "comments": 116,
-      "author": "GodelNumbering",
-      "tags": [],
-      "date": "2026-04-27T12:35:55+00:00"
-    },
-    {
-      "id": "hn-47920599",
-      "source": "hn",
-      "title": "We still don't have a more precise value for \"Big G\"",
-      "url": "https://arstechnica.com/science/2026/04/we-still-dont-have-a-more-precise-value-for-big-g/",
-      "score": 69,
-      "comments": 43,
-      "author": "rbanffy",
-      "tags": [],
-      "date": "2026-04-27T12:17:19+00:00"
-    },
-    {
-      "id": "hn-47920315",
-      "source": "hn",
-      "title": "China blocks Meta's acquisition of AI startup Manus",
-      "url": "https://www.cnbc.com/2026/04/27/meta-manus-china-blocks-acquisition-ai-startup.html",
-      "score": 313,
-      "comments": 208,
-      "author": "yakkomajuri",
-      "tags": [],
-      "date": "2026-04-27T11:43:59+00:00"
-    },
-    {
-      "id": "qiita-abef9d2406",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "【AgentCore】簡単にエージェントを作成・デプロイすることができるようになったらしい",
-      "url": "https://qiita.com/ryu-ki/items/7437eb2403875bbd3c49?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "ryu-ki",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-04-27T20:42:22+09:00"
-    },
-    {
-      "id": "hn-47920289",
-      "source": "hn",
-      "title": "Show HN: A terminal spreadsheet editor with Vim keybindings",
-      "url": "https://github.com/garritfra/cell",
-      "score": 48,
-      "comments": 24,
-      "author": "garritfra",
-      "tags": [],
-      "date": "2026-04-27T11:39:49+00:00"
     },
     {
       "id": "ghrel-projectdiscovery_nuclei-310617486",

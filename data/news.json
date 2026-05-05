@@ -1,14 +1,28 @@
 {
-  "updated_at": "2026-05-05T18:53:28.166550+00:00",
+  "updated_at": "2026-05-05T20:07:33.551342+00:00",
   "count": 500,
   "items": [
+    {
+      "id": "qiita-afd527945a",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "【緊急】Cursorに「git clone」するだけでPCが乗っ取られる脆弱性！CVSS 9.9のヤバすぎる攻撃手法",
+      "url": "https://qiita.com/emi_ndk/items/8e6607a09cb8ff86c298?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "emi_ndk",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-05-06T04:23:23+09:00",
+      "severity": "critical"
+    },
     {
       "id": "hn-48026349",
       "source": "hn",
       "title": "California farmers to destroy 420k peach trees following Del Monte bankruptcy",
       "url": "https://www.sfgate.com/centralcoast/article/usda-aid-california-farmers-22240694.php",
-      "score": 38,
-      "comments": 18,
+      "score": 109,
+      "comments": 110,
       "author": "littlexsparkee",
       "tags": [],
       "date": "2026-05-05T18:13:47+00:00"
@@ -18,8 +32,8 @@
       "source": "hn",
       "title": "Show HN: Explore color palettes inspired by 3000 master painter artworks",
       "url": "https://paletteinspiration.com/",
-      "score": 3,
-      "comments": 0,
+      "score": 32,
+      "comments": 13,
       "author": "ouli",
       "tags": [],
       "date": "2026-05-05T18:13:14+00:00"
@@ -40,8 +54,8 @@
       "source": "hn",
       "title": "GLM-5V-Turbo: Toward a Native Foundation Model for Multimodal Agents",
       "url": "https://arxiv.org/abs/2604.26752",
-      "score": 33,
-      "comments": 5,
+      "score": 62,
+      "comments": 15,
       "author": "gmays",
       "tags": [],
       "date": "2026-05-05T17:52:31+00:00"
@@ -51,8 +65,8 @@
       "source": "hn",
       "title": "Quantum Key Distribution (QKD) and Quantum Cryptography (QC)",
       "url": "https://www.nsa.gov/Cybersecurity/Quantum-Key-Distribution-QKD-and-Quantum-Cryptography-QC/",
-      "score": 19,
-      "comments": 2,
+      "score": 29,
+      "comments": 6,
       "author": "mooreds",
       "tags": [],
       "date": "2026-05-05T17:38:17+00:00"
@@ -84,10 +98,10 @@
     {
       "id": "hn-48024859",
       "source": "hn",
-      "title": "Computer Use Is 45x More Expensive Than Structured APIs",
+      "title": "Computer Use is 45x more expensive than structured APIs",
       "url": "https://reflex.dev/blog/computer-use-is-45x-more-expensive-than-structured-apis/",
-      "score": 106,
-      "comments": 72,
+      "score": 159,
+      "comments": 97,
       "author": "palashawas",
       "tags": [],
       "date": "2026-05-05T16:34:48+00:00"
@@ -97,8 +111,8 @@
       "source": "hn",
       "title": "Accelerating Gemma 4: faster inference with multi-token prediction drafters",
       "url": "https://blog.google/innovation-and-ai/technology/developers-tools/multi-token-prediction-gemma-4/",
-      "score": 174,
-      "comments": 60,
+      "score": 261,
+      "comments": 99,
       "author": "amrrs",
       "tags": [],
       "date": "2026-05-05T16:14:17+00:00"
@@ -108,8 +122,8 @@
       "source": "hn",
       "title": "UK: Two millionth electric car registered as market rebounds strongly",
       "url": "https://www.smmt.co.uk/two-millionth-electric-car-registered-as-market-rebounds-strongly-from-tax-changes/",
-      "score": 125,
-      "comments": 141,
+      "score": 144,
+      "comments": 201,
       "author": "kieranmaine",
       "tags": [],
       "date": "2026-05-05T16:03:17+00:00"
@@ -117,10 +131,10 @@
     {
       "id": "hn-48024358",
       "source": "hn",
-      "title": "I'm Scared About Biological Computing",
+      "title": "I'm scared about biological computing",
       "url": "https://kuber.studio/blog/Reflections/I%27m-Scared-About-Biological-Computing",
-      "score": 54,
-      "comments": 41,
+      "score": 93,
+      "comments": 68,
       "author": "kuberwastaken",
       "tags": [],
       "date": "2026-05-05T16:03:06+00:00"
@@ -139,10 +153,10 @@
     {
       "id": "hn-48024129",
       "source": "hn",
-      "title": "EEVblog: The 555 Timer is 55 years old",
+      "title": "EEVblog: The 555 Timer is 55 years old [video]",
       "url": "https://www.youtube.com/watch?v=6JhK8iCQuqI",
-      "score": 114,
-      "comments": 26,
+      "score": 143,
+      "comments": 36,
       "author": "brudgers",
       "tags": [],
       "date": "2026-05-05T15:47:18+00:00"
@@ -152,8 +166,8 @@
       "source": "hn",
       "title": "Three Inverse Laws of AI",
       "url": "https://susam.net/inverse-laws-of-robotics.html",
-      "score": 235,
-      "comments": 149,
+      "score": 271,
+      "comments": 174,
       "author": "blenderob",
       "tags": [],
       "date": "2026-05-05T15:27:18+00:00"
@@ -174,8 +188,8 @@
       "source": "hn",
       "title": "Agents for financial services and insurance",
       "url": "https://www.anthropic.com/news/finance-agents",
-      "score": 85,
-      "comments": 66,
+      "score": 137,
+      "comments": 110,
       "author": "louiereederson",
       "tags": [],
       "date": "2026-05-05T15:05:47+00:00"
@@ -242,8 +256,8 @@
       "source": "hn",
       "title": "iOS 27 is adding a 'Create a Pass' button to Apple Wallet",
       "url": "https://walletwallet.alen.ro/blog/ios-27-wallet-create-pass/",
-      "score": 309,
-      "comments": 253,
+      "score": 330,
+      "comments": 263,
       "author": "alentodorov",
       "tags": [],
       "date": "2026-05-05T12:28:28+00:00"
@@ -253,8 +267,8 @@
       "source": "hn",
       "title": "Today I've made the difficult decision to reduce the size of Coinbase by ~14%",
       "url": "https://twitter.com/brian_armstrong/status/2051616759145185723",
-      "score": 36,
-      "comments": 39,
+      "score": 108,
+      "comments": 110,
       "author": "adrianmsmith",
       "tags": [],
       "date": "2026-05-05T12:10:24+00:00"
@@ -264,8 +278,8 @@
       "source": "hn",
       "title": "When everyone has AI and the company still learns nothing",
       "url": "https://www.robert-glaser.de/when-everyone-has-ai-and-the-company-still-learns-nothing/",
-      "score": 227,
-      "comments": 153,
+      "score": 246,
+      "comments": 173,
       "author": "youngbrioche",
       "tags": [],
       "date": "2026-05-05T09:30:22+00:00"
@@ -299,8 +313,8 @@
       "source": "hn",
       "title": "Google Chrome silently installs a 4 GB AI model on your device without consent",
       "url": "https://www.thatprivacyguy.com/blog/chrome-silent-nano-install/",
-      "score": 785,
-      "comments": 559,
+      "score": 954,
+      "comments": 651,
       "author": "john-doe",
       "tags": [],
       "date": "2026-05-05T07:34:55+00:00"
@@ -321,8 +335,8 @@
       "source": "hn",
       "title": "Async Rust never left the MVP state",
       "url": "https://tweedegolf.nl/en/blog/237/async-rust-never-left-the-mvp-state",
-      "score": 390,
-      "comments": 212,
+      "score": 396,
+      "comments": 217,
       "author": "pjmlp",
       "tags": [],
       "date": "2026-05-05T07:26:03+00:00"
@@ -382,8 +396,8 @@
       "source": "hn",
       "title": "Empty Screenings – Finds AMC movie screenings with few or no tickets sold",
       "url": "https://walzr.com/empty-screenings",
-      "score": 280,
-      "comments": 238,
+      "score": 293,
+      "comments": 245,
       "author": "MrBuddyCasino",
       "tags": [],
       "date": "2026-05-05T04:33:22+00:00"
@@ -1435,10 +1449,10 @@
     {
       "id": "hn-47999391",
       "source": "hn",
-      "title": "Collaborative Editing in CodeMirror",
+      "title": "Collaborative Editing in CodeMirror (2020)",
       "url": "https://marijnhaverbeke.nl/blog/collaborative-editing-cm.html",
-      "score": 32,
-      "comments": 2,
+      "score": 39,
+      "comments": 3,
       "author": "luu",
       "tags": [],
       "date": "2026-05-03T17:39:17+00:00"
@@ -1760,6 +1774,17 @@
       "date": "2026-05-03T09:14:56+00:00"
     },
     {
+      "id": "hn-47994946",
+      "source": "hn",
+      "title": "Researchers print structural colour with an inkjet printer",
+      "url": "https://physicsworld.com/a/researchers-print-structural-colour-with-an-inkjet-printer/",
+      "score": 15,
+      "comments": 1,
+      "author": "zeristor",
+      "tags": [],
+      "date": "2026-05-03T08:58:50+00:00"
+    },
+    {
       "id": "qiita-6ded22c7b2",
       "source": "zennqiita",
       "sub_source": "Qiita",
@@ -1771,20 +1796,6 @@
         "Qiita"
       ],
       "date": "2026-05-03T16:32:59+09:00"
-    },
-    {
-      "id": "qiita-afd527945a",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "【緊急】Cursorに「git clone」するだけでPCが乗っ取られる脆弱性！CVSS 9.9のヤバすぎる攻撃手法",
-      "url": "https://qiita.com/emi_ndk/items/8e6607a09cb8ff86c298?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "emi_ndk",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-05-03T16:32:16+09:00",
-      "severity": "critical"
     },
     {
       "id": "hn-47994012",
@@ -1839,8 +1850,8 @@
       "source": "hn",
       "title": "Comparing the Z80 and 6502 to Their Relatives",
       "url": "https://bumbershootsoft.wordpress.com/2026/05/02/comparing-the-z80-and-6502-to-their-relatives/",
-      "score": 79,
-      "comments": 6,
+      "score": 89,
+      "comments": 11,
       "author": "ibobev",
       "tags": [],
       "date": "2026-05-03T04:06:08+00:00"
@@ -2514,8 +2525,8 @@
       "source": "hn",
       "title": "Docker 29 has changed its default image store for new installs",
       "url": "https://docs.docker.com/engine/storage/containerd",
-      "score": 95,
-      "comments": 46,
+      "score": 105,
+      "comments": 56,
       "author": "neitsab",
       "tags": [],
       "date": "2026-05-02T13:41:43+00:00"
@@ -4551,8 +4562,8 @@
       "source": "hn",
       "title": "Should I Run Plain Docker Compose in Production in 2026?",
       "url": "https://distr.sh/blog/running-docker-in-production/",
-      "score": 275,
-      "comments": 209,
+      "score": 295,
+      "comments": 220,
       "author": "pmig",
       "tags": [],
       "date": "2026-04-30T13:21:43+00:00"
@@ -5163,17 +5174,6 @@
       "author": "doener",
       "tags": [],
       "date": "2026-04-29T21:58:46+00:00"
-    },
-    {
-      "id": "hn-47955226",
-      "source": "hn",
-      "title": "Gooseworks (YC W23) Is Hiring a Founding Growth Engineer",
-      "url": "https://www.ycombinator.com/companies/gooseworks/jobs/ztgY6bD-founding-growth-engineer",
-      "score": 1,
-      "comments": 0,
-      "author": "shivsak",
-      "tags": [],
-      "date": "2026-04-29T21:50:57+00:00"
     },
     {
       "id": "ghrel-projectdiscovery_nuclei-310617486",

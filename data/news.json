@@ -1,14 +1,92 @@
 {
-  "updated_at": "2026-05-05T01:11:32.298343+00:00",
+  "updated_at": "2026-05-05T04:40:59.490941+00:00",
   "count": 500,
   "items": [
+    {
+      "id": "hn-48017813",
+      "source": "hn",
+      "title": "CVE-2026-31431: Copy Fail vs. rootless containers",
+      "url": "https://www.dragonsreach.it/2026/05/04/cve-2026-31431-copy-fail-rootless-containers/",
+      "score": 23,
+      "comments": 5,
+      "author": "averi",
+      "tags": [],
+      "date": "2026-05-05T03:43:08+00:00",
+      "severity": "high"
+    },
+    {
+      "id": "hn-48017602",
+      "source": "hn",
+      "title": "An LLM agent that runs on any Linux box",
+      "url": "https://getclaw.site/#demo",
+      "score": 11,
+      "comments": 2,
+      "author": "kilian-ai",
+      "tags": [],
+      "date": "2026-05-05T03:00:50+00:00"
+    },
+    {
+      "id": "hn-48017399",
+      "source": "hn",
+      "title": "Pulitzer Prize Winner in International Reporting",
+      "url": "https://www.pulitzer.org/winners/dake-kang-garance-burke-byron-tau-aniruddha-ghosal-and-yael-grauer-contributor-associated",
+      "score": 43,
+      "comments": 2,
+      "author": "jay_kyburz",
+      "tags": [],
+      "date": "2026-05-05T02:22:21+00:00"
+    },
+    {
+      "id": "hn-48017298",
+      "source": "hn",
+      "title": "What I'm Hearing About Cognitive Debt (So Far)",
+      "url": "https://margaretstorey.com/blog/2026/02/18/cognitive-debt-revisited/",
+      "score": 96,
+      "comments": 39,
+      "author": "raphaelcosta",
+      "tags": [],
+      "date": "2026-05-05T02:08:21+00:00"
+    },
+    {
+      "id": "hn-48017251",
+      "source": "hn",
+      "title": "The Car That Watches You Back: The Advertising Infrastructure of Modern Cars",
+      "url": "https://nobodyaskedforthis.lol/posts/connected-car/",
+      "score": 23,
+      "comments": 10,
+      "author": "cadito",
+      "tags": [],
+      "date": "2026-05-05T02:01:15+00:00"
+    },
+    {
+      "id": "hn-48016880",
+      "source": "hn",
+      "title": "Bun is being ported from Zig to Rust",
+      "url": "https://github.com/oven-sh/bun/commit/46d3bc29f270fa881dd5730ef1549e88407701a5",
+      "score": 286,
+      "comments": 194,
+      "author": "SergeAx",
+      "tags": [],
+      "date": "2026-05-05T01:08:17+00:00"
+    },
+    {
+      "id": "hn-48016534",
+      "source": "hn",
+      "title": "Y Combinator's Stake in OpenAI (0.6%)",
+      "url": "https://daringfireball.net/2026/05/y_combinators_stake_in_openai",
+      "score": 195,
+      "comments": 16,
+      "author": "gyomu",
+      "tags": [],
+      "date": "2026-05-05T00:09:01+00:00"
+    },
     {
       "id": "hn-48015397",
       "source": "hn",
       "title": "Agent Skills",
       "url": "https://addyosmani.com/blog/agent-skills/",
-      "score": 84,
-      "comments": 25,
+      "score": 179,
+      "comments": 65,
       "author": "BOOSTERHIDROGEN",
       "tags": [],
       "date": "2026-05-04T21:40:42+00:00"
@@ -36,12 +114,23 @@
       "date": "2026-05-04T21:14:38+00:00"
     },
     {
+      "id": "hn-48014868",
+      "source": "hn",
+      "title": "When Networking Doesn't Work",
+      "url": "https://www.os2museum.com/wp/when-networking-doesnt-work/",
+      "score": 29,
+      "comments": 4,
+      "author": "kencausey",
+      "tags": [],
+      "date": "2026-05-04T20:56:19+00:00"
+    },
+    {
       "id": "hn-48014325",
       "source": "hn",
       "title": "Formatting a 25M-line codebase overnight",
       "url": "https://stripe.dev/blog/formatting-an-entire-25-million-line-codebase-overnight-the-rubyfmt-story",
-      "score": 113,
-      "comments": 60,
+      "score": 143,
+      "comments": 73,
       "author": "r00k",
       "tags": [],
       "date": "2026-05-04T20:11:53+00:00"
@@ -51,7 +140,7 @@
       "source": "hn",
       "title": "Transformers Are Inherently Succinct (2025)",
       "url": "https://arxiv.org/abs/2510.19315",
-      "score": 28,
+      "score": 43,
       "comments": 6,
       "author": "bearseascape",
       "tags": [],
@@ -62,8 +151,8 @@
       "source": "hn",
       "title": "How OpenAI delivers low-latency voice AI at scale",
       "url": "https://openai.com/index/delivering-low-latency-voice-ai-at-scale/",
-      "score": 265,
-      "comments": 96,
+      "score": 334,
+      "comments": 110,
       "author": "Sean-Der",
       "tags": [],
       "date": "2026-05-04T19:42:47+00:00"
@@ -73,8 +162,8 @@
       "source": "hn",
       "title": "Microsoft Edge stores all passwords in memory in clear text, even when unused",
       "url": "https://twitter.com/L1v1ng0ffTh3L4N/status/2051308329880719730",
-      "score": 395,
-      "comments": 143,
+      "score": 469,
+      "comments": 162,
       "author": "cft",
       "tags": [],
       "date": "2026-05-04T18:22:42+00:00"
@@ -106,8 +195,8 @@
       "source": "hn",
       "title": "Securing a DoD contractor: Finding a multi-tenant authorization vulnerability",
       "url": "https://www.strix.ai/blog/how-strix-found-zero-auth-vulnerability-dod-backed-startup",
-      "score": 165,
-      "comments": 73,
+      "score": 185,
+      "comments": 78,
       "author": "bearsyankees",
       "tags": [],
       "date": "2026-05-04T17:46:32+00:00",
@@ -184,8 +273,8 @@
       "source": "hn",
       "title": "I am worried about Bun",
       "url": "https://wwj.dev/posts/i-am-worried-about-bun/",
-      "score": 398,
-      "comments": 268,
+      "score": 442,
+      "comments": 296,
       "author": "remote-dev",
       "tags": [],
       "date": "2026-05-04T16:45:00+00:00"
@@ -250,8 +339,8 @@
       "source": "hn",
       "title": "Does Employment Slow Cognitive Decline? Evidence from Labor Market Shocks",
       "url": "https://www.nber.org/papers/w35117",
-      "score": 206,
-      "comments": 196,
+      "score": 247,
+      "comments": 225,
       "author": "littlexsparkee",
       "tags": [],
       "date": "2026-05-04T15:32:46+00:00"
@@ -261,8 +350,8 @@
       "source": "hn",
       "title": "1966 Ford Mustang Converted into a Tesla with Working 'Full Self-Driving'",
       "url": "https://electrek.co/2026/05/02/tesla-1966-mustang-ev-conversion-full-self-driving/",
-      "score": 121,
-      "comments": 93,
+      "score": 152,
+      "comments": 111,
       "author": "Brajeshwar",
       "tags": [],
       "date": "2026-05-04T15:22:53+00:00"
@@ -294,8 +383,8 @@
       "source": "hn",
       "title": "Pomiferous: The most extensive apples (pommes) database",
       "url": "https://pomiferous.com/",
-      "score": 100,
-      "comments": 43,
+      "score": 112,
+      "comments": 44,
       "author": "Ariarule",
       "tags": [],
       "date": "2026-05-04T14:47:41+00:00"
@@ -305,8 +394,8 @@
       "source": "hn",
       "title": "Redis array: short story of a long development process",
       "url": "https://antirez.com/news/164",
-      "score": 225,
-      "comments": 79,
+      "score": 256,
+      "comments": 83,
       "author": "antirez",
       "tags": [],
       "date": "2026-05-04T14:23:07+00:00"
@@ -316,8 +405,8 @@
       "source": "hn",
       "title": "How Monero’s proof of work works",
       "url": "https://blog.alcazarsec.com/tech/posts/how-moneros-proof-of-work-works",
-      "score": 229,
-      "comments": 177,
+      "score": 258,
+      "comments": 186,
       "author": "alcazar",
       "tags": [],
       "date": "2026-05-04T14:10:50+00:00"
@@ -334,12 +423,23 @@
       "date": "2026-05-04T13:13:52+00:00"
     },
     {
+      "id": "hn-48008104",
+      "source": "hn",
+      "title": "Gaps in national food production, worldwide",
+      "url": "https://www.nature.com/articles/s43016-025-01173-4",
+      "score": 11,
+      "comments": 0,
+      "author": "simonebrunozzi",
+      "tags": [],
+      "date": "2026-05-04T12:55:16+00:00"
+    },
+    {
       "id": "hn-48008083",
       "source": "hn",
       "title": "PyInfra 3.8.0",
       "url": "https://github.com/pyinfra-dev/pyinfra/releases/tag/v3.8.0",
-      "score": 214,
-      "comments": 81,
+      "score": 244,
+      "comments": 85,
       "author": "wowi42",
       "tags": [],
       "date": "2026-05-04T12:53:46+00:00"
@@ -371,8 +471,8 @@
       "source": "hn",
       "title": "Talking to strangers at the gym",
       "url": "https://thienantran.com/talking-to-35-strangers-at-the-gym/",
-      "score": 1121,
-      "comments": 528,
+      "score": 1253,
+      "comments": 582,
       "author": "thitran",
       "tags": [],
       "date": "2026-05-04T11:41:02+00:00"
@@ -885,8 +985,8 @@
       "source": "hn",
       "title": "Testing macOS on the Apple Network Server 2.0 ROMs",
       "url": "http://oldvcr.blogspot.com/2026/05/testing-macos-on-apple-network-server.html",
-      "score": 52,
-      "comments": 8,
+      "score": 71,
+      "comments": 13,
       "author": "zdw",
       "tags": [],
       "date": "2026-05-03T15:49:33+00:00"
@@ -1625,6 +1725,17 @@
       "author": "denysvitali",
       "tags": [],
       "date": "2026-05-02T17:25:54+00:00"
+    },
+    {
+      "id": "hn-47988439",
+      "source": "hn",
+      "title": "pgxbackup: Continuity Support for pgBackRest",
+      "url": "https://thebuild.com/blog/2026/05/01/pgxbackup-continuity-support-for-pgbackrest/",
+      "score": 16,
+      "comments": 0,
+      "author": "Wingy",
+      "tags": [],
+      "date": "2026-05-02T17:25:43+00:00"
     },
     {
       "id": "hn-47988261",
@@ -5036,119 +5147,6 @@
       "date": "2026-04-29T12:18:59+00:00"
     },
     {
-      "id": "hn-47947125",
-      "source": "hn",
-      "title": "Stardex Is Hiring a Founding Customer Success Lead",
-      "url": "https://www.ycombinator.com/companies/stardex/jobs/6GCK1HC-founding-customer-success-lead",
-      "score": 1,
-      "comments": 0,
-      "author": "sanketc",
-      "tags": [],
-      "date": "2026-04-29T12:00:17+00:00"
-    },
-    {
-      "id": "hn-47946990",
-      "source": "hn",
-      "title": "Compositing and Blending – Exploring the math and intuition behind blend modes",
-      "url": "https://nik.digital/posts/compositing-blending",
-      "score": 6,
-      "comments": 0,
-      "author": "OuterVale",
-      "tags": [],
-      "date": "2026-04-29T11:46:05+00:00"
-    },
-    {
-      "id": "hn-47946958",
-      "source": "hn",
-      "title": "HashiCorp co-founder says GitHub 'no longer a place for serious work'",
-      "url": "https://www.theregister.com/2026/04/29/mitchell_hashimoto_ghostty_quitting_github/",
-      "score": 302,
-      "comments": 157,
-      "author": "terminalbraid",
-      "tags": [],
-      "date": "2026-04-29T11:42:46+00:00"
-    },
-    {
-      "id": "hn-47946899",
-      "source": "hn",
-      "title": "New copy of earliest poem in English, written 1,3k years ago, discovered in Rome",
-      "url": "https://www.tcd.ie/news_events/articles/2026/caedmons-hymn-discovery/",
-      "score": 189,
-      "comments": 115,
-      "author": "giuliomagnifico",
-      "tags": [],
-      "date": "2026-04-29T11:35:40+00:00"
-    },
-    {
-      "id": "hn-47946813",
-      "source": "hn",
-      "title": "GitHub – DOS 1.0: Transcription of Tim Paterson's DOS Printouts",
-      "url": "https://github.com/DOS-History/Paterson-Listings",
-      "score": 92,
-      "comments": 5,
-      "author": "s2l",
-      "tags": [],
-      "date": "2026-04-29T11:25:12+00:00"
-    },
-    {
-      "id": "qiita-fec2e4adde",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "ClaudeでAdobeツールを使える！「Adobe for creativity connector」でできることまとめ＋試してみた",
-      "url": "https://qiita.com/katoriko/items/d3d6fa09e226999a6dd1?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "katoriko",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-04-29T20:13:59+09:00"
-    },
-    {
-      "id": "hn-47946657",
-      "source": "hn",
-      "title": "Two-thirds of babies watch screens – some for eight hours a day",
-      "url": "https://www.thetimes.com/uk/technology-uk/article/babies-and-under-2s-screen-time-6jbdmnjlg",
-      "score": 29,
-      "comments": 37,
-      "author": "oj2828",
-      "tags": [],
-      "date": "2026-04-29T11:05:16+00:00"
-    },
-    {
-      "id": "hn-47945955",
-      "source": "hn",
-      "title": "Show HN: Rip.so – a graveyard for dead internet things",
-      "url": "https://rip.so",
-      "score": 143,
-      "comments": 100,
-      "author": "bozdemir",
-      "tags": [],
-      "date": "2026-04-29T09:21:32+00:00"
-    },
-    {
-      "id": "hn-47945918",
-      "source": "hn",
-      "title": "Soft launch of open-source code platform for government",
-      "url": "https://www.nldigitalgovernment.nl/news/soft-launch-for-government-open-source-code-platform/",
-      "score": 516,
-      "comments": 117,
-      "author": "e12e",
-      "tags": [],
-      "date": "2026-04-29T09:14:37+00:00",
-      "severity": "critical"
-    },
-    {
-      "id": "hn-47945861",
-      "source": "hn",
-      "title": "Why Law Is Law-Shaped",
-      "url": "https://lawvm.org/why-law-is-law-shaped/",
-      "score": 41,
-      "comments": 17,
-      "author": "ekns",
-      "tags": [],
-      "date": "2026-04-29T09:03:31+00:00"
-    },
-    {
       "id": "ghrel-projectdiscovery_nuclei-310617486",
       "source": "project",
       "proj_category": "Tools",
@@ -5411,19 +5409,6 @@
       "date": "Mon, 04 May 2026 06:14:04 GMT"
     },
     {
-      "id": "zenn-872d10de21",
-      "source": "zennqiita",
-      "sub_source": "Zenn",
-      "title": "goroutineは「非同期」でもある――仕組み、進化",
-      "url": "https://zenn.dev/torisan7500/articles/27226650fe8aac",
-      "score": null,
-      "author": "torisan",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Mon, 04 May 2026 02:13:01 GMT"
-    },
-    {
       "id": "zenn-b4db2f93a8",
       "source": "zennqiita",
       "sub_source": "Zenn",
@@ -5552,6 +5537,19 @@
         "Zenn"
       ],
       "date": "Sat, 02 May 2026 14:25:44 GMT"
+    },
+    {
+      "id": "zenn-a0f2eb29a1",
+      "source": "zennqiita",
+      "sub_source": "Zenn",
+      "title": "次の大きな作業は GitHub Copilot CLI から始めたくなる理由",
+      "url": "https://zenn.dev/tomokusaba/articles/051dd7f79c1791",
+      "score": null,
+      "author": "くさば",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Sat, 02 May 2026 11:35:39 GMT"
     },
     {
       "id": "zenn-57e84f7e18",

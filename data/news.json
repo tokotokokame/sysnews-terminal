@@ -1,14 +1,36 @@
 {
-  "updated_at": "2026-05-06T19:45:52.386606+00:00",
+  "updated_at": "2026-05-06T21:11:06.638939+00:00",
   "count": 500,
   "items": [
+    {
+      "id": "hn-48041009",
+      "source": "hn",
+      "title": "MIT’s virtual violin offers luthiers a new design tool",
+      "url": "https://arstechnica.com/science/2026/05/mits-virtual-violin-offers-luthiers-a-new-design-tool/",
+      "score": 6,
+      "comments": 1,
+      "author": "smushy",
+      "tags": [],
+      "date": "2026-05-06T20:02:42+00:00"
+    },
+    {
+      "id": "hn-48040622",
+      "source": "hn",
+      "title": "Inkscape 1.4.4",
+      "url": "https://inkscape.org/doc/release_notes/1.4.4/Inkscape_1.4.4.html",
+      "score": 105,
+      "comments": 19,
+      "author": "s1291",
+      "tags": [],
+      "date": "2026-05-06T19:33:25+00:00"
+    },
     {
       "id": "hn-48040002",
       "source": "hn",
       "title": "Learning the Integral of a Diffusion Model",
       "url": "https://sander.ai/2026/05/06/flow-maps.html",
-      "score": 12,
-      "comments": 0,
+      "score": 32,
+      "comments": 6,
       "author": "benanne",
       "tags": [],
       "date": "2026-05-06T18:46:27+00:00"
@@ -40,8 +62,8 @@
       "source": "hn",
       "title": "Google Cloud fraud defense, the next evolution of reCAPTCHA",
       "url": "https://cloud.google.com/blog/products/identity-security/introducing-google-cloud-fraud-defense-the-next-evolution-of-recaptcha/",
-      "score": 41,
-      "comments": 29,
+      "score": 89,
+      "comments": 80,
       "author": "unforgivenpasta",
       "tags": [],
       "date": "2026-05-06T17:59:33+00:00"
@@ -51,8 +73,8 @@
       "source": "hn",
       "title": "Going Full Time on Open Source",
       "url": "https://jdx.dev/posts/2026-04-17-going-full-time-on-open-source/",
-      "score": 76,
-      "comments": 7,
+      "score": 112,
+      "comments": 16,
       "author": "thunderbong",
       "tags": [],
       "date": "2026-05-06T17:22:49+00:00",
@@ -63,8 +85,8 @@
       "source": "hn",
       "title": "From Supabase to Clerk to Better Auth",
       "url": "https://blog.val.town/better-auth",
-      "score": 95,
-      "comments": 38,
+      "score": 129,
+      "comments": 74,
       "author": "stevekrouse",
       "tags": [],
       "date": "2026-05-06T17:19:34+00:00"
@@ -92,12 +114,23 @@
       "date": "2026-05-06T16:54:21+00:00"
     },
     {
+      "id": "hn-48038307",
+      "source": "hn",
+      "title": "Life During Class Wartime",
+      "url": "https://www.tbray.org/ongoing/When/202x/2026/05/03/Life-During-Class-Wartime",
+      "score": 89,
+      "comments": 47,
+      "author": "AndrewDucker",
+      "tags": [],
+      "date": "2026-05-06T16:41:30+00:00"
+    },
+    {
       "id": "hn-48038257",
       "source": "hn",
       "title": "Show HN: Hallucinopedia",
       "url": "http://halupedia.com/",
-      "score": 26,
-      "comments": 16,
+      "score": 59,
+      "comments": 58,
       "author": "bstrama",
       "tags": [],
       "date": "2026-05-06T16:37:52+00:00"
@@ -118,8 +151,8 @@
       "source": "hn",
       "title": "Show HN: I built an open-source email builder, alternative to Beefree/Unlayer",
       "url": "https://play.templatical.com",
-      "score": 47,
-      "comments": 15,
+      "score": 64,
+      "comments": 18,
       "author": "oahmadov",
       "tags": [],
       "date": "2026-05-06T16:20:00+00:00",
@@ -128,10 +161,10 @@
     {
       "id": "hn-48038001",
       "source": "hn",
-      "title": "Appearing Productive in the Workplace",
+      "title": "Appearing productive in the workplace",
       "url": "https://nooneshappy.com/article/appearing-productive-in-the-workplace/",
-      "score": 283,
-      "comments": 94,
+      "score": 418,
+      "comments": 152,
       "author": "diebillionaires",
       "tags": [],
       "date": "2026-05-06T16:18:29+00:00"
@@ -141,8 +174,8 @@
       "source": "hn",
       "title": "Higher usage limits for Claude and a compute deal with SpaceX",
       "url": "https://www.anthropic.com/news/higher-limits-spacex",
-      "score": 144,
-      "comments": 89,
+      "score": 254,
+      "comments": 191,
       "author": "meetpateltech",
       "tags": [],
       "date": "2026-05-06T16:17:33+00:00"
@@ -150,10 +183,10 @@
     {
       "id": "hn-48037724",
       "source": "hn",
-      "title": "Show HN: Tilde.run – Agent Sandbox with a Transactional, Versioned Filesystem",
+      "title": "Show HN: Tilde.run – Agent sandbox with a transactional, versioned filesystem",
       "url": "https://tilde.run/",
-      "score": 63,
-      "comments": 40,
+      "score": 94,
+      "comments": 80,
       "author": "ozkatz",
       "tags": [],
       "date": "2026-05-06T15:58:34+00:00"
@@ -163,8 +196,8 @@
       "source": "hn",
       "title": "Valve releases Steam Controller CAD files under Creative Commons license",
       "url": "https://www.digitalfoundry.net/news/2026/05/valve-releases-steam-controller-cad-files-under-creative-commons-license",
-      "score": 606,
-      "comments": 193,
+      "score": 746,
+      "comments": 248,
       "author": "haunter",
       "tags": [],
       "date": "2026-05-06T15:44:13+00:00"
@@ -174,8 +207,8 @@
       "source": "hn",
       "title": "Vibe coding and agentic engineering are getting closer than I'd like",
       "url": "https://simonwillison.net/2026/May/6/vibe-coding-and-agentic-engineering/",
-      "score": 127,
-      "comments": 161,
+      "score": 209,
+      "comments": 264,
       "author": "e12e",
       "tags": [],
       "date": "2026-05-06T15:06:37+00:00"
@@ -183,10 +216,10 @@
     {
       "id": "hn-48037009",
       "source": "hn",
-      "title": "CNN founder Ted Turner, a pioneer of cable TV news, dies at 87",
+      "title": "Ted Turner has died",
       "url": "https://www.cnn.com/2026/05/06/us/ted-turner-death",
-      "score": 123,
-      "comments": 92,
+      "score": 164,
+      "comments": 140,
       "author": "pseudolus",
       "tags": [],
       "date": "2026-05-06T14:56:37+00:00"
@@ -242,8 +275,8 @@
       "source": "hn",
       "title": "Setting up a Sun Ray server on OpenIndiana Hipster 2025.10",
       "url": "https://catstret.ch/202605/srss-hipster202510/",
-      "score": 108,
-      "comments": 32,
+      "score": 114,
+      "comments": 36,
       "author": "jandeboevrie",
       "tags": [],
       "date": "2026-05-06T10:53:52+00:00"
@@ -293,6 +326,32 @@
       "date": "2026-05-06T08:23:43+00:00"
     },
     {
+      "id": "qiita-44fd37efef",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "React + Python + Supabase で AI 株価予測 × ポートフォリオ最適化のフルスタックアプリを作ってみた",
+      "url": "https://qiita.com/tetsu3-accord/items/6807dc6c7d2543ac19d3?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "tetsu3-accord",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-05-06T17:00:05+09:00"
+    },
+    {
+      "id": "qiita-e29b6d2c4c",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "【公式】レトロゲームエンジンPyxelが動く仕組み",
+      "url": "https://qiita.com/kitao/items/5361d45554872a39da92?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "kitao",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-05-06T16:44:51+09:00"
+    },
+    {
       "id": "qiita-bf3e6d73c4",
       "source": "zennqiita",
       "sub_source": "Qiita",
@@ -323,8 +382,8 @@
       "source": "hn",
       "title": "Reverse-engineering the 1998 Ultima Online demo server",
       "url": "https://draxinar.github.io/articles/2026-05-01-uodemo-reverse-engineering.html",
-      "score": 196,
-      "comments": 51,
+      "score": 214,
+      "comments": 54,
       "author": "notsentient",
       "tags": [],
       "date": "2026-05-06T06:31:29+00:00"
@@ -345,8 +404,8 @@
       "source": "hn",
       "title": "Knitting bullshit",
       "url": "https://katedaviesdesigns.com/2026/04/29/knitting-bullshit/",
-      "score": 376,
-      "comments": 159,
+      "score": 396,
+      "comments": 165,
       "author": "ColinEberhardt",
       "tags": [],
       "date": "2026-05-06T05:13:58+00:00"
@@ -356,8 +415,8 @@
       "source": "hn",
       "title": "Multi-stroke text effect in CSS",
       "url": "https://yuanchuan.dev/multi-stroke-text-effect-in-css",
-      "score": 268,
-      "comments": 37,
+      "score": 303,
+      "comments": 39,
       "author": "cheeaun",
       "tags": [],
       "date": "2026-05-06T04:43:25+00:00"
@@ -367,8 +426,8 @@
       "source": "hn",
       "title": "Google tools for customizing searches",
       "url": "https://cardcatalogforlife.substack.com/p/google-has-a-secret-reference-desk",
-      "score": 47,
-      "comments": 9,
+      "score": 58,
+      "comments": 16,
       "author": "maxutility",
       "tags": [],
       "date": "2026-05-06T04:40:19+00:00"
@@ -518,6 +577,19 @@
       "date": "2026-05-06T01:15:31+00:00"
     },
     {
+      "id": "qiita-e999c3ccb4",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "Dataverse に Business skills を登録して、Copilot Stuio のエージェントから呼び出せるようになったので試してみました",
+      "url": "https://qiita.com/Takashi_Masumori/items/0a3091cdd0465ce0ad6b?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "Takashi_Masumori",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-05-06T08:26:46+09:00"
+    },
+    {
       "id": "hn-48029334",
       "source": "hn",
       "title": "Zuckerberg 'personally authorized' Meta's copyright infringement, publishers say",
@@ -601,8 +673,8 @@
       "source": "hn",
       "title": "A Theory of Deep Learning",
       "url": "https://elonlit.com/scrivings/a-theory-of-deep-learning/",
-      "score": 35,
-      "comments": 8,
+      "score": 72,
+      "comments": 18,
       "author": "elonlit",
       "tags": [],
       "date": "2026-05-05T19:38:48+00:00"
@@ -626,8 +698,8 @@
       "source": "hn",
       "title": "What makes a good smartphone camera?",
       "url": "https://cadence.moe/blog/2026-05-05-what-makes-a-good-smartphone-camera",
-      "score": 46,
-      "comments": 26,
+      "score": 56,
+      "comments": 43,
       "author": "zdw",
       "tags": [],
       "date": "2026-05-05T18:49:02+00:00"
@@ -894,6 +966,19 @@
       "date": "2026-05-05T22:18:52+09:00"
     },
     {
+      "id": "qiita-c476d47aaf",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "大量のSkillを効率的に管理する特化型CLIツール「sklock」を作りました",
+      "url": "https://qiita.com/artie/items/980b1b48f943e096b46c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "artie",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-05-05T22:15:45+09:00"
+    },
+    {
       "id": "hn-48021968",
       "source": "hn",
       "title": "AI Product Graveyard",
@@ -938,6 +1023,19 @@
         "Qiita"
       ],
       "date": "2026-05-05T21:08:08+09:00"
+    },
+    {
+      "id": "qiita-ce6f3d8357",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "Claude 開発ワークフロー — Explore → Plan → Code → Commit の4段階",
+      "url": "https://qiita.com/teppei19980914/items/b1d48d9624831519cbbf?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "teppei19980914",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-05-05T20:12:18+09:00"
     },
     {
       "id": "hn-48020063",
@@ -1125,6 +1223,19 @@
       "tags": [],
       "date": "2026-05-05T03:43:08+00:00",
       "severity": "high"
+    },
+    {
+      "id": "qiita-a1f5b92da4",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "物理ペネトレーションテストの実態 社内侵入から初期侵害まで解説",
+      "url": "https://qiita.com/amu-kuroneko/items/44075a3cb70efa390880?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "amu-kuroneko",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-05-05T12:42:06+09:00"
     },
     {
       "id": "qiita-53dd816d6c",
@@ -1726,8 +1837,8 @@
       "source": "hn",
       "title": "The bottleneck was never the code",
       "url": "https://www.thetypicalset.com/blog/thoughts-on-coding-agents",
-      "score": 399,
-      "comments": 273,
+      "score": 429,
+      "comments": 289,
       "author": "Anon84",
       "tags": [],
       "date": "2026-05-04T10:46:15+00:00"
@@ -1807,8 +1918,8 @@
       "source": "hn",
       "title": "CARA 2.0 – “I Built a Better Robot Dog”",
       "url": "https://www.aaedmusa.com/projects/cara2",
-      "score": 407,
-      "comments": 49,
+      "score": 432,
+      "comments": 51,
       "author": "hakonjdjohnsen",
       "tags": [],
       "date": "2026-05-04T06:46:10+00:00"
@@ -5052,105 +5163,6 @@
       "author": "KraftyOne",
       "tags": [],
       "date": "2026-04-30T18:45:22+00:00"
-    },
-    {
-      "id": "hn-47966392",
-      "source": "hn",
-      "title": "Haskell: Debugging",
-      "url": "https://wiki.haskell.org/Debugging",
-      "score": 23,
-      "comments": 1,
-      "author": "tosh",
-      "tags": [],
-      "date": "2026-04-30T18:25:18+00:00"
-    },
-    {
-      "id": "hn-47966254",
-      "source": "hn",
-      "title": "Full-Text Search with DuckDB",
-      "url": "https://peterdohertys.website/blog-posts/full-text-search-w-duckdb.html",
-      "score": 127,
-      "comments": 30,
-      "author": "ethagnawl",
-      "tags": [],
-      "date": "2026-04-30T18:14:18+00:00"
-    },
-    {
-      "id": "hn-47966084",
-      "source": "hn",
-      "title": "SFO Gate Explorer",
-      "url": "https://www.flysfo.com/passengers/services/gate-explorer",
-      "score": 26,
-      "comments": 31,
-      "author": "CaliforniaKarl",
-      "tags": [],
-      "date": "2026-04-30T18:01:14+00:00"
-    },
-    {
-      "id": "hn-47965835",
-      "source": "hn",
-      "title": "Recovering files from beyond the grave using PhotoRec",
-      "url": "https://lost-number.bearblog.dev/recovering-files-from-beyond-the-grave-using-photorec/",
-      "score": 43,
-      "comments": 6,
-      "author": "speckx",
-      "tags": [],
-      "date": "2026-04-30T17:42:11+00:00"
-    },
-    {
-      "id": "hn-47965503",
-      "source": "hn",
-      "title": "I built a Game Boy emulator in F#",
-      "url": "https://nickkossolapov.github.io/fame-boy/building-a-game-boy-emulator-in-fsharp/",
-      "score": 304,
-      "comments": 71,
-      "author": "elvis70",
-      "tags": [],
-      "date": "2026-04-30T17:14:21+00:00"
-    },
-    {
-      "id": "hn-47965227",
-      "source": "hn",
-      "title": "Kubereboot/Kured: Kubernetes Reboot Daemon",
-      "url": "https://github.com/kubereboot/kured",
-      "score": 10,
-      "comments": 2,
-      "author": "ankitg12",
-      "tags": [],
-      "date": "2026-04-30T16:53:44+00:00"
-    },
-    {
-      "id": "hn-47965161",
-      "source": "hn",
-      "title": "Show HN: TRiP – a complete transformer engine in C built from scratch just by me",
-      "url": "https://github.com/carlovalenti/TRiP",
-      "score": 7,
-      "comments": 1,
-      "author": "carlovalenti",
-      "tags": [],
-      "date": "2026-04-30T16:48:17+00:00"
-    },
-    {
-      "id": "hn-47965108",
-      "source": "hn",
-      "title": "For Linux kernel vulnerabilities, there is no heads-up to distributions",
-      "url": "https://www.openwall.com/lists/oss-security/2026/04/30/10",
-      "score": 559,
-      "comments": 464,
-      "author": "ori_b",
-      "tags": [],
-      "date": "2026-04-30T16:43:47+00:00"
-    },
-    {
-      "id": "hn-47965060",
-      "source": "hn",
-      "title": "How Mark Klein told the EFF about Room 641A [book excerpt]",
-      "url": "https://thereader.mitpress.mit.edu/the-whistleblower-who-uncovered-the-nsas-big-brother-machine/",
-      "score": 651,
-      "comments": 217,
-      "author": "the-mitr",
-      "tags": [],
-      "date": "2026-04-30T16:41:00+00:00"
     },
     {
       "id": "ghrel-projectdiscovery_nuclei-310617486",

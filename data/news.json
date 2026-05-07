@@ -1,7 +1,32 @@
 {
-  "updated_at": "2026-05-07T21:57:49.933811+00:00",
+  "updated_at": "2026-05-07T23:03:48.614920+00:00",
   "count": 500,
   "items": [
+    {
+      "id": "qiita-c66c3482da",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "はじめての Zephyr(1) nRF54L15-DK で LチカとLグル",
+      "url": "https://qiita.com/kikuyuta/items/155448b3d2d1e8b9166c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "kikuyuta",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-05-08T07:33:00+09:00"
+    },
+    {
+      "id": "hn-48055913",
+      "source": "hn",
+      "title": "Canvas (Instructure) LMS Down in Ongoing Ransomware Attack",
+      "url": "https://www.theverge.com/tech/926458/canvas-shinyhunters-breach",
+      "score": 25,
+      "comments": 2,
+      "author": "stefanpie",
+      "tags": [],
+      "date": "2026-05-07T22:22:21+00:00",
+      "severity": "critical"
+    },
     {
       "id": "hn-48054423",
       "source": "hn",
@@ -14,12 +39,34 @@
       "date": "2026-05-07T20:23:37+00:00"
     },
     {
+      "id": "hn-48054293",
+      "source": "hn",
+      "title": "Draw Marc Andreessen on an Egg",
+      "url": "https://eieio.games/blog/marc-andreessen-egg-game/",
+      "score": 19,
+      "comments": 3,
+      "author": "LorenDB",
+      "tags": [],
+      "date": "2026-05-07T20:15:33+00:00"
+    },
+    {
+      "id": "hn-48053842",
+      "source": "hn",
+      "title": "Two Home Affairs officials suspended after AI 'hallucinations' found",
+      "url": "https://www.citizen.co.za/news/home-affairs-officials-suspended-ai-hallucinations/",
+      "score": 15,
+      "comments": 1,
+      "author": "jruohonen",
+      "tags": [],
+      "date": "2026-05-07T19:38:36+00:00"
+    },
+    {
       "id": "hn-48053770",
       "source": "hn",
       "title": "Creating for a niche",
       "url": "https://www.davesnider.com/posts/working-in-a-niche",
-      "score": 7,
-      "comments": 0,
+      "score": 18,
+      "comments": 1,
       "author": "snide",
       "tags": [],
       "date": "2026-05-07T19:32:33+00:00"
@@ -29,8 +76,8 @@
       "source": "hn",
       "title": "Dirtyfrag: Universal Linux LPE",
       "url": "https://www.openwall.com/lists/oss-security/2026/05/07/8",
-      "score": 222,
-      "comments": 98,
+      "score": 298,
+      "comments": 139,
       "author": "flipped",
       "tags": [],
       "date": "2026-05-07T19:21:32+00:00"
@@ -40,8 +87,8 @@
       "source": "hn",
       "title": "Colored Shadow Penumbra",
       "url": "https://chosker.github.io/blog/colored-shadow-penumbra",
-      "score": 24,
-      "comments": 9,
+      "score": 30,
+      "comments": 11,
       "author": "ibobev",
       "tags": [],
       "date": "2026-05-07T19:04:30+00:00"
@@ -51,8 +98,8 @@
       "source": "hn",
       "title": "AI slop is killing online communities",
       "url": "https://rmoff.net/2026/05/06/ai-slop-is-killing-online-communities/",
-      "score": 252,
-      "comments": 242,
+      "score": 343,
+      "comments": 323,
       "author": "thm",
       "tags": [],
       "date": "2026-05-07T18:46:25+00:00"
@@ -62,8 +109,8 @@
       "source": "hn",
       "title": "Natural Language Autoencoders: Turning Claude's Thoughts into Text",
       "url": "https://www.anthropic.com/research/natural-language-autoencoders",
-      "score": 125,
-      "comments": 41,
+      "score": 149,
+      "comments": 47,
       "author": "instagraham",
       "tags": [],
       "date": "2026-05-07T17:54:02+00:00"
@@ -84,8 +131,8 @@
       "source": "hn",
       "title": "Principles for agent-native CLIs",
       "url": "https://twitter.com/trevin/status/2051316002730991795",
-      "score": 38,
-      "comments": 20,
+      "score": 46,
+      "comments": 28,
       "author": "blumpy22",
       "tags": [],
       "date": "2026-05-07T17:40:05+00:00"
@@ -106,8 +153,8 @@
       "source": "hn",
       "title": "Agents need control flow, not more prompts",
       "url": "https://bsuh.bearblog.dev/agents-need-control-flow/",
-      "score": 229,
-      "comments": 132,
+      "score": 261,
+      "comments": 147,
       "author": "bsuh",
       "tags": [],
       "date": "2026-05-07T16:43:35+00:00"
@@ -141,8 +188,8 @@
       "source": "hn",
       "title": "Chrome removes claim of On-device Al not sending data to Google Servers",
       "url": "https://old.reddit.com/r/chrome/comments/1t5qayz/chrome_removes_claim_of_ondevice_al_not_sending/",
-      "score": 373,
-      "comments": 144,
+      "score": 402,
+      "comments": 154,
       "author": "newsoftheday",
       "tags": [],
       "date": "2026-05-07T15:56:33+00:00"
@@ -152,8 +199,8 @@
       "source": "hn",
       "title": "DeepSeek 4 Flash local inference engine for Metal",
       "url": "https://github.com/antirez/ds4",
-      "score": 223,
-      "comments": 68,
+      "score": 248,
+      "comments": 72,
       "author": "tamnd",
       "tags": [],
       "date": "2026-05-07T15:40:24+00:00"
@@ -185,8 +232,8 @@
       "source": "hn",
       "title": "I want to live like Costco people",
       "url": "https://tastecooking.com/i-want-to-live-like-costco-people/",
-      "score": 152,
-      "comments": 371,
+      "score": 179,
+      "comments": 404,
       "author": "speckx",
       "tags": [],
       "date": "2026-05-07T15:19:27+00:00"
@@ -196,8 +243,8 @@
       "source": "hn",
       "title": "AlphaEvolve: Gemini-powered coding agent scaling impact across fields",
       "url": "https://deepmind.google/blog/alphaevolve-impact/",
-      "score": 221,
-      "comments": 84,
+      "score": 232,
+      "comments": 89,
       "author": "berlianta",
       "tags": [],
       "date": "2026-05-07T15:02:20+00:00"
@@ -218,8 +265,8 @@
       "source": "hn",
       "title": "The Self-Cancelling Subscription",
       "url": "https://predr.ag/blog/the-self-cancelling-subscription/",
-      "score": 126,
-      "comments": 58,
+      "score": 134,
+      "comments": 60,
       "author": "surprisetalk",
       "tags": [],
       "date": "2026-05-07T14:15:16+00:00"
@@ -229,8 +276,8 @@
       "source": "hn",
       "title": "The Burning Man MOOP Map",
       "url": "https://www.not-ship.com/burning-man-moop/",
-      "score": 482,
-      "comments": 251,
+      "score": 500,
+      "comments": 268,
       "author": "speckx",
       "tags": [],
       "date": "2026-05-07T14:06:10+00:00"
@@ -240,8 +287,8 @@
       "source": "hn",
       "title": "Child marriages plunged when girls stayed in school in Nigeria",
       "url": "https://www.nature.com/articles/d41586-026-00720-8",
-      "score": 310,
-      "comments": 227,
+      "score": 319,
+      "comments": 241,
       "author": "surprisetalk",
       "tags": [],
       "date": "2026-05-07T13:30:04+00:00"
@@ -429,8 +476,8 @@
       "source": "hn",
       "title": "Show HN: TRUST – Coding Rust like it's 1989",
       "url": "https://github.com/wojtczyk/trust",
-      "score": 102,
-      "comments": 66,
+      "score": 108,
+      "comments": 70,
       "author": "wojtczyk",
       "tags": [],
       "date": "2026-05-07T05:58:52+00:00"
@@ -744,8 +791,8 @@
       "source": "hn",
       "title": "OpenBSD Stories: The closest thing to cute kittens (OpenBSD/zaurus)",
       "url": "http://miod.online.fr/software/openbsd/stories/zaurus1.html",
-      "score": 55,
-      "comments": 6,
+      "score": 57,
+      "comments": 7,
       "author": "zdw",
       "tags": [],
       "date": "2026-05-06T19:21:18+00:00"
@@ -771,19 +818,6 @@
       "author": "benanne",
       "tags": [],
       "date": "2026-05-06T18:46:27+00:00"
-    },
-    {
-      "id": "qiita-c66c3482da",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "はじめての Zephyr(1) nRF54L15-DK で LチカとLグル",
-      "url": "https://qiita.com/kikuyuta/items/155448b3d2d1e8b9166c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "kikuyuta",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-05-07T03:45:28+09:00"
     },
     {
       "id": "hn-48039739",
@@ -1016,8 +1050,8 @@
       "source": "hn",
       "title": "OurCar: What I learned making an app for my family",
       "url": "https://mendelgreenberg.com/posts/ourcar/",
-      "score": 88,
-      "comments": 66,
+      "score": 96,
+      "comments": 68,
       "author": "chabad360",
       "tags": [],
       "date": "2026-05-06T13:44:59+00:00"
@@ -1612,8 +1646,8 @@
       "source": "hn",
       "title": "PySimpleGUI 6",
       "url": "https://github.com/PySimpleGUI/PySimpleGUI",
-      "score": 81,
-      "comments": 35,
+      "score": 84,
+      "comments": 39,
       "author": "geophph",
       "tags": [],
       "date": "2026-05-05T18:18:42+00:00"
@@ -1713,7 +1747,7 @@
       "source": "hn",
       "title": "Easy Random Trees",
       "url": "https://blog.wilsonb.com/posts/2026-02-27-easy-random-trees.html",
-      "score": 7,
+      "score": 15,
       "comments": 1,
       "author": "aebtebeten",
       "tags": [],
@@ -1968,6 +2002,17 @@
       "author": "adrianmsmith",
       "tags": [],
       "date": "2026-05-05T12:10:24+00:00"
+    },
+    {
+      "id": "hn-48021240",
+      "source": "hn",
+      "title": "Rolling the Root Key",
+      "url": "https://blog.apnic.net/2026/05/05/rolling-the-root-key/",
+      "score": 5,
+      "comments": 0,
+      "author": "jandeboevrie",
+      "tags": [],
+      "date": "2026-05-05T11:56:59+00:00"
     },
     {
       "id": "qiita-ce6f3d8357",
@@ -2369,8 +2414,8 @@
       "source": "hn",
       "title": "Boris Cherny: TI-83 Plus Basic Programming Tutorial (2004)",
       "url": "https://www.ticalc.org/programming/columns/83plus-bas/cherny/",
-      "score": 166,
-      "comments": 73,
+      "score": 180,
+      "comments": 80,
       "author": "suoken",
       "tags": [],
       "date": "2026-05-04T20:28:24+00:00"
@@ -2612,8 +2657,8 @@
       "source": "hn",
       "title": "RaTeX: KaTeX-compatible LaTeX rendering engine in pure Rust",
       "url": "https://ratex.lites.dev/",
-      "score": 148,
-      "comments": 84,
+      "score": 153,
+      "comments": 85,
       "author": "atilimcetin",
       "tags": [],
       "date": "2026-05-04T16:19:31+00:00"
@@ -5119,50 +5164,6 @@
       "date": "2026-05-01T18:38:55+00:00"
     },
     {
-      "id": "hn-47978370",
-      "source": "hn",
-      "title": "City Learns Flock Accessed Cameras in Children's Gymnastics Room as a Sales Demo",
-      "url": "https://www.404media.co/city-learns-flock-accessed-cameras-in-childrens-gymnastics-room-as-a-sales-pitch-demo-renews-contract-anyway/",
-      "score": 348,
-      "comments": 97,
-      "author": "joshcsimmons",
-      "tags": [],
-      "date": "2026-05-01T18:37:47+00:00"
-    },
-    {
-      "id": "hn-47977990",
-      "source": "hn",
-      "title": "Using “underdrawings” for accurate text and numbers",
-      "url": "https://samcollins.blog/underdrawings/",
-      "score": 339,
-      "comments": 124,
-      "author": "samcollins",
-      "tags": [],
-      "date": "2026-05-01T18:07:28+00:00"
-    },
-    {
-      "id": "hn-47977748",
-      "source": "hn",
-      "title": "New research suggests people can communicate and practice skills while dreaming",
-      "url": "https://www.newyorker.com/culture/annals-of-inquiry/its-possible-to-learn-in-our-sleep-should-we",
-      "score": 418,
-      "comments": 244,
-      "author": "XzetaU8",
-      "tags": [],
-      "date": "2026-05-01T17:47:42+00:00"
-    },
-    {
-      "id": "hn-47977694",
-      "source": "hn",
-      "title": "Show HN: AI CAD Harness",
-      "url": "https://fusion.adam.new/install",
-      "score": 73,
-      "comments": 74,
-      "author": "zachdive",
-      "tags": [],
-      "date": "2026-05-01T17:43:53+00:00"
-    },
-    {
       "id": "ghrel-projectdiscovery_nuclei-310617486",
       "source": "project",
       "proj_category": "Tools",
@@ -5373,6 +5374,32 @@
       "date": "2023-05-23T17:06:23Z"
     },
     {
+      "id": "zenn-a8f0303d02",
+      "source": "zennqiita",
+      "sub_source": "Zenn",
+      "title": "Web 標準動向 2026年4月版",
+      "url": "https://zenn.dev/cybozu_frontend/articles/web_standards_trends_202604",
+      "score": null,
+      "author": "Saji",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Thu, 07 May 2026 03:38:32 GMT"
+    },
+    {
+      "id": "zenn-0e5ad30e28",
+      "source": "zennqiita",
+      "sub_source": "Zenn",
+      "title": "AIのPlan Modeをなんとなく承認しないために",
+      "url": "https://zenn.dev/lv/articles/9438e1678c873a",
+      "score": null,
+      "author": "oga_aiichiro（大賀愛一郎）",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Thu, 07 May 2026 00:30:01 GMT"
+    },
+    {
       "id": "zenn-e599d15fe7",
       "source": "zennqiita",
       "sub_source": "Zenn",
@@ -5384,6 +5411,19 @@
         "Zenn"
       ],
       "date": "Thu, 07 May 2026 00:00:09 GMT"
+    },
+    {
+      "id": "zenn-9761eca049",
+      "source": "zennqiita",
+      "sub_source": "Zenn",
+      "title": "Agentic Graph RAG MCPのススメ — Graph RAGは「単発」ではなく「対話」になった",
+      "url": "https://zenn.dev/aircloset/articles/341dffee42f454",
+      "score": null,
+      "author": "辻 亮佑",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Wed, 06 May 2026 23:58:38 GMT"
     },
     {
       "id": "zenn-d4dce26d9d",
@@ -5451,6 +5491,19 @@
       "date": "Wed, 06 May 2026 04:19:02 GMT"
     },
     {
+      "id": "zenn-7ff2447319",
+      "source": "zennqiita",
+      "sub_source": "Zenn",
+      "title": "寝てる間に開発を全自動化したい、ってどんな開発の話なんだろう",
+      "url": "https://zenn.dev/jeeee/articles/2026-05-06-auto-dev-doubt",
+      "score": null,
+      "author": "jeeee",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Wed, 06 May 2026 03:08:52 GMT"
+    },
+    {
       "id": "zenn-812eed39f1",
       "source": "zennqiita",
       "sub_source": "Zenn",
@@ -5516,56 +5569,17 @@
       "date": "Tue, 05 May 2026 14:51:53 GMT"
     },
     {
-      "id": "zenn-7b5eb2f274",
+      "id": "zenn-e0644928df",
       "source": "zennqiita",
       "sub_source": "Zenn",
-      "title": "インフラ知識ゼロの学生が、イベントNOCで監視システム諸々をキメてきた話",
-      "url": "https://zenn.dev/toramutton/articles/uec-enoc2026",
+      "title": "C#でJavaScriptEngine+ブラウザ自作した",
+      "url": "https://zenn.dev/aakei/articles/my-scratch-browser",
       "score": null,
-      "author": "トラマト",
+      "author": "akeit0",
       "tags": [
         "Zenn"
       ],
-      "date": "Tue, 05 May 2026 13:20:03 GMT"
-    },
-    {
-      "id": "zenn-16a06301c2",
-      "source": "zennqiita",
-      "sub_source": "Zenn",
-      "title": "iOS26に向けてナビゲーションバーを整理しよう",
-      "url": "https://zenn.dev/noppe/articles/925fa230b2a8ca",
-      "score": null,
-      "author": "noppe",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Tue, 05 May 2026 12:19:55 GMT"
-    },
-    {
-      "id": "zenn-fe5958542b",
-      "source": "zennqiita",
-      "sub_source": "Zenn",
-      "title": "自分なりのCSSアニメーションとの向き合い方",
-      "url": "https://zenn.dev/yui540/articles/8d19020640582d",
-      "score": null,
-      "author": "yui540",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Tue, 05 May 2026 10:56:26 GMT"
-    },
-    {
-      "id": "zenn-ccda344c13",
-      "source": "zennqiita",
-      "sub_source": "Zenn",
-      "title": "Codex appを使ってみた。CLIより「作業の見通し」が良くてけっこう好きだった",
-      "url": "https://zenn.dev/dokusy/articles/b528905b1cbb1a",
-      "score": null,
-      "author": "どぅくし",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Tue, 05 May 2026 10:20:24 GMT"
+      "date": "Tue, 05 May 2026 08:17:48 GMT"
     },
     {
       "id": "zenn-e9d29d73f3",
@@ -5618,19 +5632,6 @@
         "Zenn"
       ],
       "date": "Mon, 04 May 2026 07:01:11 GMT"
-    },
-    {
-      "id": "zenn-faabe2827c",
-      "source": "zennqiita",
-      "sub_source": "Zenn",
-      "title": "中学生が趣味で開発しているOS、mochiOS",
-      "url": "https://zenn.dev/nekogakure/articles/5d88b39258e144",
-      "score": null,
-      "author": "たそ",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Mon, 04 May 2026 06:14:04 GMT"
     },
     {
       "id": "edb-6a1be6a4e3",

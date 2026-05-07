@@ -1,14 +1,47 @@
 {
-  "updated_at": "2026-05-07T19:14:01.132803+00:00",
+  "updated_at": "2026-05-07T20:47:36.127157+00:00",
   "count": 500,
   "items": [
+    {
+      "id": "hn-48054423",
+      "source": "hn",
+      "title": "Building for the Future",
+      "url": "https://blog.cloudflare.com/building-for-the-future/",
+      "score": 29,
+      "comments": 6,
+      "author": "PriorityLeft",
+      "tags": [],
+      "date": "2026-05-07T20:23:37+00:00"
+    },
+    {
+      "id": "hn-48053623",
+      "source": "hn",
+      "title": "Dirtyfrag: Universal Linux LPE",
+      "url": "https://www.openwall.com/lists/oss-security/2026/05/07/8",
+      "score": 98,
+      "comments": 45,
+      "author": "flipped",
+      "tags": [],
+      "date": "2026-05-07T19:21:32+00:00"
+    },
+    {
+      "id": "hn-48053435",
+      "source": "hn",
+      "title": "Colored Shadow Penumbra",
+      "url": "https://chosker.github.io/blog/colored-shadow-penumbra",
+      "score": 17,
+      "comments": 3,
+      "author": "ibobev",
+      "tags": [],
+      "date": "2026-05-07T19:04:30+00:00"
+    },
     {
       "id": "hn-48053203",
       "source": "hn",
       "title": "AI Slop Is Killing Online Communities",
       "url": "https://rmoff.net/2026/05/06/ai-slop-is-killing-online-communities/",
-      "score": 24,
-      "comments": 0,
+      "score": 172,
+      "comments": 154,
       "author": "thm",
       "tags": [],
       "date": "2026-05-07T18:46:25+00:00"
@@ -18,8 +51,8 @@
       "source": "hn",
       "title": "Natural Language Autoencoders: Turning Claude's Thoughts into Text",
       "url": "https://www.anthropic.com/research/natural-language-autoencoders",
-      "score": 32,
-      "comments": 7,
+      "score": 91,
+      "comments": 28,
       "author": "instagraham",
       "tags": [],
       "date": "2026-05-07T17:54:02+00:00"
@@ -40,8 +73,8 @@
       "source": "hn",
       "title": "Principles for agent-native CLIs",
       "url": "https://twitter.com/trevin/status/2051316002730991795",
-      "score": 12,
-      "comments": 1,
+      "score": 29,
+      "comments": 13,
       "author": "blumpy22",
       "tags": [],
       "date": "2026-05-07T17:40:05+00:00"
@@ -51,19 +84,32 @@
       "source": "hn",
       "title": "Agents need control flow, not more prompts",
       "url": "https://bsuh.bearblog.dev/agents-need-control-flow/",
-      "score": 106,
-      "comments": 51,
+      "score": 183,
+      "comments": 91,
       "author": "bsuh",
       "tags": [],
       "date": "2026-05-07T16:43:35+00:00"
+    },
+    {
+      "id": "qiita-b6c0ddbdee",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "現場1、2年目に伝えたい、Viコマンドが自分のエンジニア人生を変えた話",
+      "url": "https://qiita.com/y_arashi/items/f6e22db9ecb9550e37f6?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "y_arashi",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-05-08T01:17:00+09:00"
     },
     {
       "id": "hn-48050964",
       "source": "hn",
       "title": "Chrome removes claim of On-device Al not sending data to Google Servers",
       "url": "https://old.reddit.com/r/chrome/comments/1t5qayz/chrome_removes_claim_of_ondevice_al_not_sending/",
-      "score": 231,
-      "comments": 78,
+      "score": 318,
+      "comments": 119,
       "author": "newsoftheday",
       "tags": [],
       "date": "2026-05-07T15:56:33+00:00"
@@ -73,8 +119,8 @@
       "source": "hn",
       "title": "DeepSeek 4 Flash local inference engine for Metal",
       "url": "https://github.com/antirez/ds4",
-      "score": 134,
-      "comments": 41,
+      "score": 184,
+      "comments": 58,
       "author": "tamnd",
       "tags": [],
       "date": "2026-05-07T15:40:24+00:00"
@@ -95,8 +141,8 @@
       "source": "hn",
       "title": "Motherboard sales 'collapse' amid unprecedented shortages fueled by AI",
       "url": "https://www.tomshardware.com/pc-components/motherboards/motherboard-sales-collapse-by-more-than-25-percent-as-chipmakers-strangle-enthusiast-pc-market-to-build-more-ai-chips-asus-projected-to-sell-5-million-fewer-boards-in-2025-gigabyte-msi-and-asrock-also-expected-to-see-reduced-sales-numbers",
-      "score": 154,
-      "comments": 153,
+      "score": 193,
+      "comments": 225,
       "author": "speckx",
       "tags": [],
       "date": "2026-05-07T15:23:23+00:00"
@@ -106,8 +152,8 @@
       "source": "hn",
       "title": "I want to live like Costco people",
       "url": "https://tastecooking.com/i-want-to-live-like-costco-people/",
-      "score": 75,
-      "comments": 180,
+      "score": 122,
+      "comments": 292,
       "author": "speckx",
       "tags": [],
       "date": "2026-05-07T15:19:27+00:00"
@@ -117,8 +163,8 @@
       "source": "hn",
       "title": "AlphaEvolve: Gemini-powered coding agent scaling impact across fields",
       "url": "https://deepmind.google/blog/alphaevolve-impact/",
-      "score": 179,
-      "comments": 67,
+      "score": 205,
+      "comments": 80,
       "author": "berlianta",
       "tags": [],
       "date": "2026-05-07T15:02:20+00:00"
@@ -128,8 +174,8 @@
       "source": "hn",
       "title": "MPEG-2 Transport Stream Packaging for Media over QUIC Transport",
       "url": "https://www.ietf.org/archive/id/draft-gregoire-moq-msfts-00.html",
-      "score": 40,
-      "comments": 9,
+      "score": 48,
+      "comments": 14,
       "author": "mondainx",
       "tags": [],
       "date": "2026-05-07T14:32:25+00:00"
@@ -139,8 +185,8 @@
       "source": "hn",
       "title": "The Self-Cancelling Subscription",
       "url": "https://predr.ag/blog/the-self-cancelling-subscription/",
-      "score": 105,
-      "comments": 44,
+      "score": 123,
+      "comments": 54,
       "author": "surprisetalk",
       "tags": [],
       "date": "2026-05-07T14:15:16+00:00"
@@ -148,10 +194,10 @@
     {
       "id": "hn-48049653",
       "source": "hn",
-      "title": "The map that keeps Burning Man honest",
+      "title": "The Burning Man MOOP Map",
       "url": "https://www.not-ship.com/burning-man-moop/",
-      "score": 393,
-      "comments": 174,
+      "score": 457,
+      "comments": 219,
       "author": "speckx",
       "tags": [],
       "date": "2026-05-07T14:06:10+00:00"
@@ -161,8 +207,8 @@
       "source": "hn",
       "title": "Child marriages plunged when girls stayed in school in Nigeria",
       "url": "https://www.nature.com/articles/d41586-026-00720-8",
-      "score": 258,
-      "comments": 170,
+      "score": 294,
+      "comments": 209,
       "author": "surprisetalk",
       "tags": [],
       "date": "2026-05-07T13:30:04+00:00"
@@ -189,6 +235,19 @@
       "author": "owalerys",
       "tags": [],
       "date": "2026-05-07T12:01:13+00:00"
+    },
+    {
+      "id": "qiita-79c12c0839",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "Microsoft Purviewを本気で使うための記事①ー情報漏洩防止編（1/3）",
+      "url": "https://qiita.com/f_0000/items/f6ab1da9cfb6f8578c9e?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "f_0000",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-05-07T20:23:51+09:00"
     },
     {
       "id": "hn-48047981",
@@ -224,6 +283,32 @@
       "date": "2026-05-07T10:45:59+00:00"
     },
     {
+      "id": "qiita-3614ba2c3f",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "Azure 上で Active Directory を構築＆ドメイン参加（Windows Server 2025 対応）",
+      "url": "https://qiita.com/carol0226/items/6ecfb5840fa700971a1f?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "carol0226",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-05-07T19:21:38+09:00"
+    },
+    {
+      "id": "qiita-79ec15fb2a",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "AWS MCPサーバー超進化してGAしたらしい",
+      "url": "https://qiita.com/Syoitu/items/5022be3615ecd8b5337c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "Syoitu",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-05-07T19:18:36+09:00"
+    },
+    {
       "id": "hn-48047082",
       "source": "hn",
       "title": "ZAYA1-8B: An 8B Moe Model with 760M Active Params Matching DeepSeek-R1 on Math",
@@ -257,6 +342,19 @@
         "Qiita"
       ],
       "date": "2026-05-07T17:16:02+09:00"
+    },
+    {
+      "id": "qiita-6eb6dab09d",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "Codexでコマンドが自動承認される設定をする",
+      "url": "https://qiita.com/ry-harada/items/a673260fe45346ed37a9?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "ry-harada",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-05-07T16:27:03+09:00"
     },
     {
       "id": "hn-48046397",
@@ -298,11 +396,24 @@
       "source": "hn",
       "title": "Show HN: TRUST – Coding Rust like it's 1989",
       "url": "https://github.com/wojtczyk/trust",
-      "score": 84,
-      "comments": 55,
+      "score": 93,
+      "comments": 61,
       "author": "wojtczyk",
       "tags": [],
       "date": "2026-05-07T05:58:52+00:00"
+    },
+    {
+      "id": "qiita-e932aae531",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "skillsに全振りしてdocs,rules,commandsを削るコスパ重視のハーネス実装案",
+      "url": "https://qiita.com/artie/items/939ea8718a97cc83d7e1?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "artie",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-05-07T13:40:10+09:00"
     },
     {
       "id": "hn-48045384",
@@ -318,10 +429,10 @@
     {
       "id": "hn-48045174",
       "source": "hn",
-      "title": "ProgramBench: Can Language Models Rebuild Programs from Scratch?",
+      "title": "ProgramBench: Can language models rebuild programs from scratch?",
       "url": "https://arxiv.org/abs/2605.03546",
-      "score": 102,
-      "comments": 58,
+      "score": 127,
+      "comments": 70,
       "author": "jonbaer",
       "tags": [],
       "date": "2026-05-07T03:46:15+00:00"
@@ -377,6 +488,19 @@
       "date": "2026-05-07T11:36:12+09:00"
     },
     {
+      "id": "qiita-8cc6b3ec74",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "最小努力と最短時間でAI-901受験記",
+      "url": "https://qiita.com/ponponmikankan/items/15af1660f2c661761eb8?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "ponponmikankan",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-05-07T11:29:26+09:00"
+    },
+    {
       "id": "hn-48044638",
       "source": "hn",
       "title": "Permacomputing Principles",
@@ -386,6 +510,19 @@
       "author": "andsoitis",
       "tags": [],
       "date": "2026-05-07T02:18:23+00:00"
+    },
+    {
+      "id": "qiita-4ceb3957ac",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "Azure Functions 開発の初歩（.NET 8 / Isolated Worker）",
+      "url": "https://qiita.com/takahashih_imagitech/items/126a8f1e5eef624a41f1?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "takahashih_imagitech",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-05-07T10:59:55+09:00"
     },
     {
       "id": "qiita-7213bb26dd",
@@ -563,8 +700,8 @@
       "source": "hn",
       "title": "OpenBSD Stories: The closest thing to cute kittens (OpenBSD/zaurus)",
       "url": "http://miod.online.fr/software/openbsd/stories/zaurus1.html",
-      "score": 38,
-      "comments": 5,
+      "score": 50,
+      "comments": 6,
       "author": "zdw",
       "tags": [],
       "date": "2026-05-06T19:21:18+00:00"
@@ -590,6 +727,19 @@
       "author": "benanne",
       "tags": [],
       "date": "2026-05-06T18:46:27+00:00"
+    },
+    {
+      "id": "qiita-c66c3482da",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "はじめての Zephyr(1) nRF54L15-DK で LチカとLグル",
+      "url": "https://qiita.com/kikuyuta/items/155448b3d2d1e8b9166c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "kikuyuta",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-05-07T03:45:28+09:00"
     },
     {
       "id": "hn-48039739",
@@ -822,8 +972,8 @@
       "source": "hn",
       "title": "OurCar: What I learned making an app for my family",
       "url": "https://mendelgreenberg.com/posts/ourcar/",
-      "score": 77,
-      "comments": 54,
+      "score": 82,
+      "comments": 58,
       "author": "chabad360",
       "tags": [],
       "date": "2026-05-06T13:44:59+00:00"
@@ -943,6 +1093,17 @@
         "Qiita"
       ],
       "date": "2026-05-06T17:59:46+09:00"
+    },
+    {
+      "id": "hn-48033705",
+      "source": "hn",
+      "title": "The Deletion Test – The Phoenix Architecture",
+      "url": "https://aicoding.leaflet.pub/3md5ftetaes2e",
+      "score": 4,
+      "comments": 0,
+      "author": "fagnerbrack",
+      "tags": [],
+      "date": "2026-05-06T08:25:50+00:00"
     },
     {
       "id": "hn-48033689",
@@ -1407,8 +1568,8 @@
       "source": "hn",
       "title": "PySimpleGUI 6",
       "url": "https://github.com/PySimpleGUI/PySimpleGUI",
-      "score": 56,
-      "comments": 17,
+      "score": 69,
+      "comments": 25,
       "author": "geophph",
       "tags": [],
       "date": "2026-05-05T18:18:42+00:00"
@@ -2153,8 +2314,8 @@
       "source": "hn",
       "title": "Boris Cherny: TI-83 Plus Basic Programming Tutorial (2004)",
       "url": "https://www.ticalc.org/programming/columns/83plus-bas/cherny/",
-      "score": 144,
-      "comments": 64,
+      "score": 166,
+      "comments": 73,
       "author": "suoken",
       "tags": [],
       "date": "2026-05-04T20:28:24+00:00"
@@ -2396,8 +2557,8 @@
       "source": "hn",
       "title": "RaTeX: KaTeX-compatible LaTeX rendering engine in pure Rust",
       "url": "https://ratex.lites.dev/",
-      "score": 126,
-      "comments": 77,
+      "score": 140,
+      "comments": 81,
       "author": "atilimcetin",
       "tags": [],
       "date": "2026-05-04T16:19:31+00:00"
@@ -5000,152 +5161,6 @@
       "author": "taubek",
       "tags": [],
       "date": "2026-05-01T17:27:03+00:00"
-    },
-    {
-      "id": "hn-47977450",
-      "source": "hn",
-      "title": "Flock cameras keep telling police a man who doesn't have a warrant has a warrant",
-      "url": "https://www.youtube.com/watch?v=nHwxV0Sd9V8",
-      "score": 105,
-      "comments": 66,
-      "author": "johnbarron",
-      "tags": [],
-      "date": "2026-05-01T17:25:36+00:00"
-    },
-    {
-      "id": "hn-47977383",
-      "source": "hn",
-      "title": "AI uses less water than the public thinks",
-      "url": "https://californiawaterblog.com/2026/04/26/ai-water-use-distractions-and-lessons-for-california/",
-      "score": 328,
-      "comments": 291,
-      "author": "hirpslop",
-      "tags": [],
-      "date": "2026-05-01T17:18:58+00:00"
-    },
-    {
-      "id": "hn-47977134",
-      "source": "hn",
-      "title": "The gay jailbreak technique (2025)",
-      "url": "https://github.com/Exocija/ZetaLib/blob/main/The%20Gay%20Jailbreak/The%20Gay%20Jailbreak.md",
-      "score": 439,
-      "comments": 178,
-      "author": "bobsmooth",
-      "tags": [],
-      "date": "2026-05-01T16:59:35+00:00"
-    },
-    {
-      "id": "hn-47977026",
-      "source": "hn",
-      "title": "DeepSeek V4–almost on the frontier, a fraction of the price",
-      "url": "https://simonwillison.net/2026/Apr/24/deepseek-v4/",
-      "score": 378,
-      "comments": 243,
-      "author": "indigodaddy",
-      "tags": [],
-      "date": "2026-05-01T16:52:43+00:00"
-    },
-    {
-      "id": "hn-47976856",
-      "source": "hn",
-      "title": "Spotify adds 'Verified' badges to distinguish human artists from AI",
-      "url": "https://www.bbc.com/news/articles/c5yerr4m1yno",
-      "score": 197,
-      "comments": 216,
-      "author": "reconnecting",
-      "tags": [],
-      "date": "2026-05-01T16:42:41+00:00"
-    },
-    {
-      "id": "hn-47976566",
-      "source": "hn",
-      "title": "Apocalypse Early Warning System",
-      "url": "https://ews.kylemcdonald.net/",
-      "score": 180,
-      "comments": 94,
-      "author": "carlsborg",
-      "tags": [],
-      "date": "2026-05-01T16:21:23+00:00",
-      "severity": "medium"
-    },
-    {
-      "id": "hn-47976529",
-      "source": "hn",
-      "title": "Police Have Used License Plate Readers at Least 14x to Stalk Romantic Interests",
-      "url": "https://ij.org/police-have-reportedly-used-license-plate-readers-to-stalk-romantic-interests-at-least-14-times-in-recent-years/",
-      "score": 77,
-      "comments": 31,
-      "author": "loteck",
-      "tags": [],
-      "date": "2026-05-01T16:17:55+00:00"
-    },
-    {
-      "id": "hn-47976415",
-      "source": "hn",
-      "title": "Uber Torches 2026 AI Budget on Claude Code in Four Months",
-      "url": "https://www.briefs.co/news/uber-torches-entire-2026-ai-budget-on-claude-code-in-four-months/",
-      "score": 287,
-      "comments": 298,
-      "author": "lwhsiao",
-      "tags": [],
-      "date": "2026-05-01T16:08:53+00:00"
-    },
-    {
-      "id": "hn-47976125",
-      "source": "hn",
-      "title": "Using group theory to explore the space of positional encodings for attention",
-      "url": "https://blog.janestreet.com/using-group-theory-to-explore-positional-encodings-attention/",
-      "score": 3,
-      "comments": 0,
-      "author": "jxmorris12",
-      "tags": [],
-      "date": "2026-05-01T15:45:30+00:00"
-    },
-    {
-      "id": "hn-47976081",
-      "source": "hn",
-      "title": "A treasure trove of fossils rewrites the story of early life",
-      "url": "https://www.quantamagazine.org/a-treasure-trove-of-cambrian-fossils-rewrites-the-story-of-early-life-20260501/",
-      "score": 84,
-      "comments": 18,
-      "author": "worldvoyageur",
-      "tags": [],
-      "date": "2026-05-01T15:42:32+00:00"
-    },
-    {
-      "id": "qiita-1725129aa4",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "人口政策と少子化・貧困・年金・医療をつなぐ経済構造 : Pythonで学ぶ マクロ経済学入門 (77)",
-      "url": "https://qiita.com/maskot1977/items/b805a0ecf3be390b297d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "maskot1977",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-05-02T00:37:09+09:00"
-    },
-    {
-      "id": "hn-47975785",
-      "source": "hn",
-      "title": "An open letter asking NHS England to keep its code open",
-      "url": "https://keepthingsopen.com",
-      "score": 165,
-      "comments": 11,
-      "author": "tvararu",
-      "tags": [],
-      "date": "2026-05-01T15:15:36+00:00"
-    },
-    {
-      "id": "hn-47975759",
-      "source": "hn",
-      "title": "How did Banksy erect a statue in Central London?",
-      "url": "https://www.bbc.co.uk/news/articles/cn4pvyw82exo",
-      "score": 57,
-      "comments": 24,
-      "author": "monooso",
-      "tags": [],
-      "date": "2026-05-01T15:13:56+00:00"
     },
     {
       "id": "ghrel-projectdiscovery_nuclei-310617486",

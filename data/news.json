@@ -1,25 +1,80 @@
 {
-  "updated_at": "2026-05-07T15:11:56.264334+00:00",
+  "updated_at": "2026-05-07T17:15:59.880499+00:00",
   "count": 500,
   "items": [
+    {
+      "id": "hn-48051562",
+      "source": "hn",
+      "title": "Agents need control flow, not more prompts",
+      "url": "https://bsuh.bearblog.dev/agents-need-control-flow/",
+      "score": 11,
+      "comments": 5,
+      "author": "bsuh",
+      "tags": [],
+      "date": "2026-05-07T16:43:35+00:00"
+    },
+    {
+      "id": "hn-48050964",
+      "source": "hn",
+      "title": "Chrome removes claim of On-device Al not sending data to Google Servers",
+      "url": "https://old.reddit.com/r/chrome/comments/1t5qayz/chrome_removes_claim_of_ondevice_al_not_sending/",
+      "score": 69,
+      "comments": 7,
+      "author": "newsoftheday",
+      "tags": [],
+      "date": "2026-05-07T15:56:33+00:00"
+    },
+    {
+      "id": "hn-48050751",
+      "source": "hn",
+      "title": "DeepSeek 4 Flash local inference engine for Metal",
+      "url": "https://github.com/antirez/ds4",
+      "score": 12,
+      "comments": 2,
+      "author": "tamnd",
+      "tags": [],
+      "date": "2026-05-07T15:40:24+00:00"
+    },
+    {
+      "id": "hn-48050540",
+      "source": "hn",
+      "title": "Motherboard sales are now collapsing amid unprecedented shortages fueled by AI",
+      "url": "https://www.tomshardware.com/pc-components/motherboards/motherboard-sales-collapse-by-more-than-25-percent-as-chipmakers-strangle-enthusiast-pc-market-to-build-more-ai-chips-asus-projected-to-sell-5-million-fewer-boards-in-2025-gigabyte-msi-and-asrock-also-expected-to-see-reduced-sales-numbers",
+      "score": 93,
+      "comments": 58,
+      "author": "speckx",
+      "tags": [],
+      "date": "2026-05-07T15:23:23+00:00"
+    },
     {
       "id": "hn-48050278",
       "source": "hn",
       "title": "AlphaEvolve: Gemini-powered coding agent scaling impact across fields",
       "url": "https://deepmind.google/blog/alphaevolve-impact/",
-      "score": 10,
-      "comments": 0,
+      "score": 111,
+      "comments": 30,
       "author": "berlianta",
       "tags": [],
       "date": "2026-05-07T15:02:20+00:00"
+    },
+    {
+      "id": "hn-48049963",
+      "source": "hn",
+      "title": "MPEG-2 Transport Stream Packaging for Media over QUIC Transport",
+      "url": "https://www.ietf.org/archive/id/draft-gregoire-moq-msfts-00.html",
+      "score": 23,
+      "comments": 3,
+      "author": "mondainx",
+      "tags": [],
+      "date": "2026-05-07T14:32:25+00:00"
     },
     {
       "id": "hn-48049764",
       "source": "hn",
       "title": "The Self-Cancelling Subscription",
       "url": "https://predr.ag/blog/the-self-cancelling-subscription/",
-      "score": 7,
-      "comments": 0,
+      "score": 63,
+      "comments": 27,
       "author": "surprisetalk",
       "tags": [],
       "date": "2026-05-07T14:15:16+00:00"
@@ -29,8 +84,8 @@
       "source": "hn",
       "title": "The map that keeps Burning Man honest",
       "url": "https://www.not-ship.com/burning-man-moop/",
-      "score": 133,
-      "comments": 21,
+      "score": 293,
+      "comments": 115,
       "author": "speckx",
       "tags": [],
       "date": "2026-05-07T14:06:10+00:00"
@@ -40,8 +95,8 @@
       "source": "hn",
       "title": "Child marriages plunged when girls stayed in school in Nigeria",
       "url": "https://www.nature.com/articles/d41586-026-00796-2",
-      "score": 55,
-      "comments": 14,
+      "score": 174,
+      "comments": 101,
       "author": "surprisetalk",
       "tags": [],
       "date": "2026-05-07T13:30:04+00:00"
@@ -96,8 +151,8 @@
       "source": "hn",
       "title": "Agent-harness-kit scaffolding for multi-agent workflows (MCP, provider-agnostic)",
       "url": "https://ahk.cardor.dev",
-      "score": 50,
-      "comments": 11,
+      "score": 57,
+      "comments": 17,
       "author": "enmanuelmag",
       "tags": [],
       "date": "2026-05-07T10:45:59+00:00"
@@ -223,8 +278,8 @@
       "source": "hn",
       "title": "Diskless Linux boot using ZFS, iSCSI and PXE",
       "url": "https://aniket.foo/posts/20260505-netboot/",
-      "score": 144,
-      "comments": 81,
+      "score": 165,
+      "comments": 89,
       "author": "stereo-highway",
       "tags": [],
       "date": "2026-05-07T03:13:24+00:00"
@@ -308,8 +363,8 @@
       "source": "hn",
       "title": "RSS feeds send me more traffic than Google",
       "url": "https://shkspr.mobi/blog/2026/05/rss-feeds-send-me-more-traffic-than-google/",
-      "score": 195,
-      "comments": 43,
+      "score": 224,
+      "comments": 49,
       "author": "SpyCoder77",
       "tags": [],
       "date": "2026-05-07T00:40:06+00:00"
@@ -376,8 +431,8 @@
       "source": "hn",
       "title": "SQLite Is a Library of Congress Recommended Storage Format",
       "url": "https://sqlite.org/locrsf.html",
-      "score": 452,
-      "comments": 142,
+      "score": 510,
+      "comments": 159,
       "author": "whatisabcdefgh",
       "tags": [],
       "date": "2026-05-06T21:58:43+00:00"
@@ -436,6 +491,17 @@
       "author": "s1291",
       "tags": [],
       "date": "2026-05-06T19:33:25+00:00"
+    },
+    {
+      "id": "hn-48040465",
+      "source": "hn",
+      "title": "OpenBSD Stories: The closest thing to cute kittens (OpenBSD/zaurus)",
+      "url": "http://miod.online.fr/software/openbsd/stories/zaurus1.html",
+      "score": 11,
+      "comments": 2,
+      "author": "zdw",
+      "tags": [],
+      "date": "2026-05-06T19:21:18+00:00"
     },
     {
       "id": "hn-48040269",
@@ -613,8 +679,8 @@
       "source": "hn",
       "title": "Appearing productive in the workplace",
       "url": "https://nooneshappy.com/article/appearing-productive-in-the-workplace/",
-      "score": 1416,
-      "comments": 567,
+      "score": 1457,
+      "comments": 593,
       "author": "diebillionaires",
       "tags": [],
       "date": "2026-05-06T16:18:29+00:00"
@@ -646,8 +712,8 @@
       "source": "hn",
       "title": "Valve releases Steam Controller CAD files under Creative Commons license",
       "url": "https://www.digitalfoundry.net/news/2026/05/valve-releases-steam-controller-cad-files-under-creative-commons-license",
-      "score": 1619,
-      "comments": 535,
+      "score": 1651,
+      "comments": 554,
       "author": "haunter",
       "tags": [],
       "date": "2026-05-06T15:44:13+00:00"
@@ -657,8 +723,8 @@
       "source": "hn",
       "title": "Vibe coding and agentic engineering are getting closer than I'd like",
       "url": "https://simonwillison.net/2026/May/6/vibe-coding-and-agentic-engineering/",
-      "score": 689,
-      "comments": 770,
+      "score": 718,
+      "comments": 809,
       "author": "e12e",
       "tags": [],
       "date": "2026-05-06T15:06:37+00:00"
@@ -1127,8 +1193,8 @@
       "source": "hn",
       "title": "SingleRide: Longest route on NYC Subway without visiting the same station twice",
       "url": "https://singleride.nyc/",
-      "score": 64,
-      "comments": 26,
+      "score": 77,
+      "comments": 42,
       "author": "TMWNN",
       "tags": [],
       "date": "2026-05-05T22:02:35+00:00"
@@ -1258,6 +1324,17 @@
       "author": "PaulHoule",
       "tags": [],
       "date": "2026-05-05T18:43:14+00:00"
+    },
+    {
+      "id": "hn-48026412",
+      "source": "hn",
+      "title": "PySimpleGUI 6",
+      "url": "https://github.com/PySimpleGUI/PySimpleGUI",
+      "score": 21,
+      "comments": 4,
+      "author": "geophph",
+      "tags": [],
+      "date": "2026-05-05T18:18:42+00:00"
     },
     {
       "id": "hn-48026349",
@@ -1999,8 +2076,8 @@
       "source": "hn",
       "title": "Boris Cherny: TI-83 Plus Basic Programming Tutorial (2004)",
       "url": "https://www.ticalc.org/programming/columns/83plus-bas/cherny/",
-      "score": 107,
-      "comments": 48,
+      "score": 144,
+      "comments": 64,
       "author": "suoken",
       "tags": [],
       "date": "2026-05-04T20:28:24+00:00"
@@ -2098,8 +2175,8 @@
       "source": "hn",
       "title": "Chevrolet Performance eCrate package (400v/200hp)",
       "url": "https://www.chevrolet.com/performance-parts/crate-engines/ecrate",
-      "score": 105,
-      "comments": 80,
+      "score": 133,
+      "comments": 111,
       "author": "mindcrime",
       "tags": [],
       "date": "2026-05-04T18:17:22+00:00"
@@ -2118,10 +2195,10 @@
     {
       "id": "hn-48012342",
       "source": "hn",
-      "title": "37x Speedup in Lattice Boltzmann Cylinder Flow",
+      "title": "Speedup in Lattice Boltzmann Cylinder Flow",
       "url": "https://github.com/alikamp/Parks-KPBM-Scaling",
-      "score": 8,
-      "comments": 2,
+      "score": 34,
+      "comments": 3,
       "author": "kauai1",
       "tags": [],
       "date": "2026-05-04T17:57:13+00:00"
@@ -2242,8 +2319,8 @@
       "source": "hn",
       "title": "RaTeX: KaTeX-compatible LaTeX rendering engine in pure Rust",
       "url": "https://ratex.lites.dev/",
-      "score": 80,
-      "comments": 35,
+      "score": 107,
+      "comments": 58,
       "author": "atilimcetin",
       "tags": [],
       "date": "2026-05-04T16:19:31+00:00"
@@ -2374,8 +2451,8 @@
       "source": "hn",
       "title": "Indian matchbox labels as a visual archive",
       "url": "https://www.itsnicethat.com/features/the-view-from-mumbai-matchbook-graphic-design-130426",
-      "score": 83,
-      "comments": 22,
+      "score": 115,
+      "comments": 28,
       "author": "sahar_builds",
       "tags": [],
       "date": "2026-05-04T14:08:27+00:00"
@@ -5071,87 +5148,6 @@
       "author": "LolWolf",
       "tags": [],
       "date": "2026-05-01T14:24:27+00:00"
-    },
-    {
-      "id": "hn-47975069",
-      "source": "hn",
-      "title": "K3sup – bootstrap K3s over SSH in < 60s",
-      "url": "https://github.com/alexellis/k3sup",
-      "score": 69,
-      "comments": 30,
-      "author": "rickcarlino",
-      "tags": [],
-      "date": "2026-05-01T14:16:38+00:00"
-    },
-    {
-      "id": "hn-47974682",
-      "source": "hn",
-      "title": "US–Indian space mission maps extreme subsidence in Mexico City",
-      "url": "https://phys.org/news/2026-04-usindian-space-mission-extreme-subsidence.html",
-      "score": 190,
-      "comments": 70,
-      "author": "leopoldj",
-      "tags": [],
-      "date": "2026-05-01T13:38:27+00:00"
-    },
-    {
-      "id": "hn-47974307",
-      "source": "hn",
-      "title": "Embedded Rust or C Firmware? Lessons from an Industrial Microcontroller Use Case",
-      "url": "https://arxiv.org/abs/2604.25679",
-      "score": 132,
-      "comments": 120,
-      "author": "mrtz",
-      "tags": [],
-      "date": "2026-05-01T13:02:30+00:00"
-    },
-    {
-      "id": "qiita-dae93eb675",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "Claude Opusの1786分の1!? DeepSeek V4のAPI価格がバグってるので全部計算してみた",
-      "url": "https://qiita.com/lumichy/items/0252c195b4d0df797592?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "lumichy",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-05-01T21:41:28+09:00"
-    },
-    {
-      "id": "hn-47973755",
-      "source": "hn",
-      "title": "Running Adobe's 1991 PostScript Interpreter in the Browser",
-      "url": "https://www.pagetable.com/?p=1854",
-      "score": 119,
-      "comments": 27,
-      "author": "ingve",
-      "tags": [],
-      "date": "2026-05-01T11:58:11+00:00"
-    },
-    {
-      "id": "hn-47973635",
-      "source": "hn",
-      "title": "A Letter from Dijkstra on APL",
-      "url": "https://www.jsoftware.com/papers/Dijkstra_Letter.htm",
-      "score": 13,
-      "comments": 3,
-      "author": "tosh",
-      "tags": [],
-      "date": "2026-05-01T11:42:12+00:00"
-    },
-    {
-      "id": "qiita-33dc4c5133",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "SPA・SSR・SSGを理解して「使い分ける」までの話",
-      "url": "https://qiita.com/hayashihiroki-paya/items/55043a3aa41cc7961a09?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "hayashihiroki-paya",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-05-01T20:33:51+09:00"
     },
     {
       "id": "ghrel-projectdiscovery_nuclei-310617486",

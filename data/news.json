@@ -1,14 +1,59 @@
 {
-  "updated_at": "2026-05-08T11:53:20.742572+00:00",
+  "updated_at": "2026-05-08T13:47:43.628610+00:00",
   "count": 500,
   "items": [
+    {
+      "id": "hn-48062117",
+      "source": "hn",
+      "title": "Poland is now among the 20 largest economies. How it happened",
+      "url": "https://apnews.com/article/poland-economy-growth-g20-gdp-26fe06e120398410f8d773ba5661e7aa",
+      "score": 198,
+      "comments": 190,
+      "author": "surprisetalk",
+      "tags": [],
+      "date": "2026-05-08T12:30:05+00:00"
+    },
+    {
+      "id": "hn-48062035",
+      "source": "hn",
+      "title": "Hackers breach JDownloader website to serve malware-laced downloads",
+      "url": "https://www.neowin.net/news/if-you-downloaded-this-popular-software-recently-you-might-have-installed-malware/",
+      "score": 30,
+      "comments": 8,
+      "author": "bundie",
+      "tags": [],
+      "date": "2026-05-08T12:20:01+00:00",
+      "severity": "medium"
+    },
+    {
+      "id": "hn-48061938",
+      "source": "hn",
+      "title": "US Government releases first batch of UAP documents and videos",
+      "url": "https://www.war.gov/UFO/",
+      "score": 19,
+      "comments": 7,
+      "author": "david-gpu",
+      "tags": [],
+      "date": "2026-05-08T12:10:25+00:00"
+    },
+    {
+      "id": "hn-48061566",
+      "source": "hn",
+      "title": "An Introduction to Meshtastic",
+      "url": "https://meshtastic.org/docs/introduction/",
+      "score": 64,
+      "comments": 25,
+      "author": "ColinWright",
+      "tags": [],
+      "date": "2026-05-08T11:22:11+00:00"
+    },
     {
       "id": "hn-48060918",
       "source": "hn",
       "title": "GeoJSON",
       "url": "https://geojson.org/",
-      "score": 6,
-      "comments": 0,
+      "score": 45,
+      "comments": 25,
       "author": "tosh",
       "tags": [],
       "date": "2026-05-08T09:55:37+00:00"
@@ -18,19 +63,30 @@
       "source": "hn",
       "title": "ClojureScript Gets Async/Await",
       "url": "https://clojurescript.org/news/2026-05-07-release",
-      "score": 90,
-      "comments": 23,
+      "score": 145,
+      "comments": 40,
       "author": "Borkdude",
       "tags": [],
       "date": "2026-05-08T07:04:24+00:00"
+    },
+    {
+      "id": "hn-48059633",
+      "source": "hn",
+      "title": "QBE – Compiler Back End",
+      "url": "https://c9x.me/compile/",
+      "score": 21,
+      "comments": 0,
+      "author": "smartmic",
+      "tags": [],
+      "date": "2026-05-08T07:00:25+00:00"
     },
     {
       "id": "hn-48059606",
       "source": "hn",
       "title": "Nintendo announces price increases for Nintendo Switch 2",
       "url": "https://www.nintendo.co.jp/corporate/release/en/2026/260508.html",
-      "score": 63,
-      "comments": 48,
+      "score": 143,
+      "comments": 120,
       "author": "razorbeamz",
       "tags": [],
       "date": "2026-05-08T06:56:13+00:00"
@@ -66,8 +122,8 @@
       "source": "hn",
       "title": "Blaise – A modern self-hosting zero-legacy Object Pascal compiler targeting QBE",
       "url": "https://github.com/graemeg/blaise",
-      "score": 54,
-      "comments": 18,
+      "score": 71,
+      "comments": 29,
       "author": "peter_d_sherman",
       "tags": [],
       "date": "2026-05-08T04:44:02+00:00"
@@ -259,8 +315,8 @@
       "source": "hn",
       "title": "Maybe you shouldn't install new software for a bit",
       "url": "https://xeiaso.net/blog/2026/abstain-from-install/",
-      "score": 581,
-      "comments": 317,
+      "score": 648,
+      "comments": 356,
       "author": "psxuaw",
       "tags": [],
       "date": "2026-05-07T23:02:11+00:00"
@@ -305,8 +361,8 @@
       "source": "hn",
       "title": "Canvas is down as ShinyHunters threatens to leak schools’ data",
       "url": "https://www.theverge.com/tech/926458/canvas-shinyhunters-breach",
-      "score": 709,
-      "comments": 431,
+      "score": 786,
+      "comments": 501,
       "author": "stefanpie",
       "tags": [],
       "date": "2026-05-07T22:22:21+00:00",
@@ -317,8 +373,8 @@
       "source": "hn",
       "title": "Cloudflare to cut about 20% workforce",
       "url": "https://www.reuters.com/business/world-at-work/cloudflare-cut-over-1100-jobs-2026-05-07/",
-      "score": 856,
-      "comments": 573,
+      "score": 963,
+      "comments": 664,
       "author": "PriorityLeft",
       "tags": [],
       "date": "2026-05-07T20:23:37+00:00",
@@ -362,8 +418,8 @@
       "source": "hn",
       "title": "Dirtyfrag: Universal Linux LPE",
       "url": "https://www.openwall.com/lists/oss-security/2026/05/07/8",
-      "score": 674,
-      "comments": 276,
+      "score": 699,
+      "comments": 294,
       "author": "flipped",
       "tags": [],
       "date": "2026-05-07T19:21:32+00:00"
@@ -408,8 +464,8 @@
       "source": "hn",
       "title": "Natural Language Autoencoders: Turning Claude's Thoughts into Text",
       "url": "https://www.anthropic.com/research/natural-language-autoencoders",
-      "score": 298,
-      "comments": 99,
+      "score": 322,
+      "comments": 100,
       "author": "instagraham",
       "tags": [],
       "date": "2026-05-07T17:54:02+00:00"
@@ -419,8 +475,8 @@
       "source": "hn",
       "title": "Brazil's Pix payment system faces pressure from Visa and Mastercard",
       "url": "https://www.elciudadano.com/en/brazils-pix-payment-system-faces-pressure-from-visa-and-mastercard/04/04/",
-      "score": 234,
-      "comments": 201,
+      "score": 275,
+      "comments": 237,
       "author": "wslh",
       "tags": [],
       "date": "2026-05-07T17:42:58+00:00"
@@ -452,8 +508,8 @@
       "source": "hn",
       "title": "Agents need control flow, not more prompts",
       "url": "https://bsuh.bearblog.dev/agents-need-control-flow/",
-      "score": 487,
-      "comments": 242,
+      "score": 513,
+      "comments": 252,
       "author": "bsuh",
       "tags": [],
       "date": "2026-05-07T16:43:35+00:00"
@@ -476,8 +532,8 @@
       "source": "hn",
       "title": "Hardening Firefox with Claude Mythos Preview",
       "url": "https://hacks.mozilla.org/2026/05/behind-the-scenes-hardening-firefox/",
-      "score": 225,
-      "comments": 104,
+      "score": 252,
+      "comments": 116,
       "author": "HieronymusBosch",
       "tags": [],
       "date": "2026-05-07T16:05:33+00:00"
@@ -522,8 +578,8 @@
       "source": "hn",
       "title": "DeepSeek 4 Flash local inference engine for Metal",
       "url": "https://github.com/antirez/ds4",
-      "score": 416,
-      "comments": 119,
+      "score": 433,
+      "comments": 124,
       "author": "tamnd",
       "tags": [],
       "date": "2026-05-07T15:40:24+00:00"
@@ -566,8 +622,8 @@
       "source": "hn",
       "title": "AlphaEvolve: Gemini-powered coding agent scaling impact across fields",
       "url": "https://deepmind.google/blog/alphaevolve-impact/",
-      "score": 301,
-      "comments": 126,
+      "score": 308,
+      "comments": 132,
       "author": "berlianta",
       "tags": [],
       "date": "2026-05-07T15:02:20+00:00"
@@ -599,8 +655,8 @@
       "source": "hn",
       "title": "The map that keeps Burning Man honest",
       "url": "https://www.not-ship.com/burning-man-moop/",
-      "score": 667,
-      "comments": 321,
+      "score": 688,
+      "comments": 326,
       "author": "speckx",
       "tags": [],
       "date": "2026-05-07T14:06:10+00:00"
@@ -1461,8 +1517,8 @@
       "source": "hn",
       "title": "Pinocchio is weirder than you remembered",
       "url": "https://storica.club/blog/pinocchio-in-italian/",
-      "score": 177,
-      "comments": 82,
+      "score": 216,
+      "comments": 91,
       "author": "cemsakarya",
       "tags": [],
       "date": "2026-05-06T12:27:07+00:00"
@@ -1638,8 +1694,8 @@
       "source": "hn",
       "title": "Singapore introduces caning for boys who bully others at school",
       "url": "https://www.theguardian.com/world/2026/may/06/singapore-caning-school-bullies",
-      "score": 214,
-      "comments": 306,
+      "score": 247,
+      "comments": 359,
       "author": "rustoo",
       "tags": [],
       "date": "2026-05-06T06:29:53+00:00"
@@ -2439,8 +2495,8 @@
       "source": "hn",
       "title": "A polynomial autoencoder beats PCA on transformer embeddings",
       "url": "https://ivanpleshkov.dev/blog/polynomial-autoencoder/",
-      "score": 52,
-      "comments": 15,
+      "score": 63,
+      "comments": 17,
       "author": "timvisee",
       "tags": [],
       "date": "2026-05-05T11:31:12+00:00"
@@ -3154,8 +3210,8 @@
       "source": "hn",
       "title": "Dithering with CSS",
       "url": "https://ikesau.co/blog/dithering-with-css/",
-      "score": 37,
-      "comments": 14,
+      "score": 62,
+      "comments": 18,
       "author": "speckx",
       "tags": [],
       "date": "2026-05-04T15:26:18+00:00"
@@ -5112,62 +5168,6 @@
       "date": "2026-05-02T12:16:16+00:00"
     },
     {
-      "id": "hn-47985725",
-      "source": "hn",
-      "title": "The Century-Long Pause in Fundamental Physics",
-      "url": "https://danieltan.weblog.lol/2026/05/the-century-long-pause-in-fundamental-physics",
-      "score": 15,
-      "comments": 1,
-      "author": "danieltanfh95",
-      "tags": [],
-      "date": "2026-05-02T12:13:11+00:00"
-    },
-    {
-      "id": "hn-47985589",
-      "source": "hn",
-      "title": "From CVS to Git, thirty years of source control",
-      "url": "https://evilgeniuslabs.ca/blog/from-cvs-to-git-thirty-years-of-source-control",
-      "score": 42,
-      "comments": 38,
-      "author": "andsoitis",
-      "tags": [],
-      "date": "2026-05-02T11:51:31+00:00",
-      "severity": "critical"
-    },
-    {
-      "id": "hn-47985353",
-      "source": "hn",
-      "title": "Pushed by Trump policies, top U.S. battery scientist is moving to Singapore",
-      "url": "https://www.science.org/content/article/pushed-trump-policies-top-u-s-battery-scientist-moving-singapore",
-      "score": 24,
-      "comments": 3,
-      "author": "Metacelsus",
-      "tags": [],
-      "date": "2026-05-02T11:11:58+00:00"
-    },
-    {
-      "id": "hn-47985210",
-      "source": "hn",
-      "title": "Show HN: Piruetas – A self-hosted diary app I built for my girlfriend",
-      "url": "https://piruet.app",
-      "score": 31,
-      "comments": 32,
-      "author": "patillacode",
-      "tags": [],
-      "date": "2026-05-02T10:42:55+00:00"
-    },
-    {
-      "id": "hn-47985077",
-      "source": "hn",
-      "title": "Show HN: Mljar Studio – local AI data analyst that saves analysis as notebooks",
-      "url": "https://mljar.com/",
-      "score": 53,
-      "comments": 10,
-      "author": "pplonski86",
-      "tags": [],
-      "date": "2026-05-02T10:21:31+00:00"
-    },
-    {
       "id": "ghrel-projectdiscovery_nuclei-310617486",
       "source": "project",
       "proj_category": "Tools",
@@ -5378,6 +5378,19 @@
       "date": "2023-05-23T17:06:23Z"
     },
     {
+      "id": "zenn-4307b9e3d6",
+      "source": "zennqiita",
+      "sub_source": "Zenn",
+      "title": "Cortex Codeを組織で活用する際のポイント",
+      "url": "https://zenn.dev/intage_tech/articles/art018-intage-tech",
+      "score": null,
+      "author": "kodama",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Thu, 07 May 2026 10:00:10 GMT"
+    },
+    {
       "id": "zenn-f49c258653",
       "source": "zennqiita",
       "sub_source": "Zenn",
@@ -5389,6 +5402,19 @@
         "Zenn"
       ],
       "date": "Thu, 07 May 2026 06:08:20 GMT"
+    },
+    {
+      "id": "zenn-1b3261f03a",
+      "source": "zennqiita",
+      "sub_source": "Zenn",
+      "title": "1年間の育休に備えて「勝手に賢くなる」AI情報収集基盤を作った",
+      "url": "https://zenn.dev/tokium_dev/articles/20260427_ai_tech_researcher",
+      "score": null,
+      "author": "sk",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Thu, 07 May 2026 06:00:09 GMT"
     },
     {
       "id": "zenn-a8f0303d02",
@@ -5495,6 +5521,19 @@
       "date": "Wed, 06 May 2026 12:33:03 GMT"
     },
     {
+      "id": "zenn-9525195b18",
+      "source": "zennqiita",
+      "sub_source": "Zenn",
+      "title": "サイゼリヤAPI/CLI 騒動まとめ",
+      "url": "https://zenn.dev/puddle/articles/13471879e86986",
+      "score": null,
+      "author": "Puddle",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Wed, 06 May 2026 11:01:55 GMT"
+    },
+    {
       "id": "zenn-3d40201816",
       "source": "zennqiita",
       "sub_source": "Zenn",
@@ -5597,45 +5636,6 @@
         "Zenn"
       ],
       "date": "Tue, 05 May 2026 02:58:09 GMT"
-    },
-    {
-      "id": "zenn-0a97b43e5e",
-      "source": "zennqiita",
-      "sub_source": "Zenn",
-      "title": "韓非子 主道篇から学ぶClaude Codeの高度な使いこなし",
-      "url": "https://zenn.dev/tomfook/articles/e4613c2f2fbb28",
-      "score": null,
-      "author": "tomfook",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Mon, 04 May 2026 11:20:00 GMT"
-    },
-    {
-      "id": "zenn-8142899d7e",
-      "source": "zennqiita",
-      "sub_source": "Zenn",
-      "title": "あなたのClaude CodeのWebFetch、実はWebをちゃんと読んでいない",
-      "url": "https://zenn.dev/zhizhiarv/articles/claude-code-webfetch-haiku-summary",
-      "score": null,
-      "author": "sherry",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Mon, 04 May 2026 10:39:09 GMT"
-    },
-    {
-      "id": "zenn-9a67834989",
-      "source": "zennqiita",
-      "sub_source": "Zenn",
-      "title": "視座を上げる・視野を広げるということ",
-      "url": "https://zenn.dev/penginpenguin/articles/3071ad1d93507f",
-      "score": null,
-      "author": "ぺんぎん",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Mon, 04 May 2026 07:01:11 GMT"
     },
     {
       "id": "edb-6a1be6a4e3",

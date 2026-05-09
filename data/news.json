@@ -1,7 +1,19 @@
 {
-  "updated_at": "2026-05-09T19:40:27.380569+00:00",
+  "updated_at": "2026-05-09T20:42:40.711925+00:00",
   "count": 500,
   "items": [
+    {
+      "id": "hn-48077314",
+      "source": "hn",
+      "title": "\"Dirty Frag\" (CVE-2026-43284): The Second Linux Root Exploit in Eight Days",
+      "url": "https://www.copahost.com/blog/dirty-frag-cve-2026-43284/",
+      "score": 12,
+      "comments": 5,
+      "author": "ggallas",
+      "tags": [],
+      "date": "2026-05-09T18:59:49+00:00",
+      "severity": "high"
+    },
     {
       "id": "hn-48077231",
       "source": "hn",
@@ -18,8 +30,8 @@
       "source": "hn",
       "title": "Zed Editor Theme-Builder",
       "url": "https://zed.dev/theme-builder",
-      "score": 44,
-      "comments": 19,
+      "score": 80,
+      "comments": 27,
       "author": "cuechan",
       "tags": [],
       "date": "2026-05-09T17:30:39+00:00"
@@ -29,8 +41,8 @@
       "source": "hn",
       "title": "CPanel's Black Week: 3 New Vulnerabilities Patched After Attack on 44k Servers",
       "url": "https://www.copahost.com/blog/cpanels-black-week-three-new-vulnerabilities-patched-after-ransomware-attack-on-44000-servers/",
-      "score": 53,
-      "comments": 28,
+      "score": 71,
+      "comments": 37,
       "author": "ggallas",
       "tags": [],
       "date": "2026-05-09T17:06:46+00:00",
@@ -39,10 +51,10 @@
     {
       "id": "hn-48076173",
       "source": "hn",
-      "title": "I Will Not Add Query Strings to Your URLs",
-      "url": "https://susam.net/no-query-strings.html",
-      "score": 64,
-      "comments": 23,
+      "title": "I’ve banned query strings",
+      "url": "https://chrismorgan.info/no-query-strings",
+      "score": 116,
+      "comments": 55,
       "author": "susam",
       "tags": [],
       "date": "2026-05-09T16:28:36+00:00"
@@ -59,6 +71,19 @@
         "Qiita"
       ],
       "date": "2026-05-10T01:05:32+09:00"
+    },
+    {
+      "id": "qiita-27f22f0926",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "PRを出す前にコミット履歴を整えろと先輩に叩き込まれた話 〜git rebase -i 入門〜",
+      "url": "https://qiita.com/shimitaro/items/c63073fef7fb87d9f472?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "shimitaro",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-05-10T01:02:45+09:00"
     },
     {
       "id": "hn-48076009",
@@ -87,8 +112,8 @@
       "source": "hn",
       "title": "PipeDream on the Acorn Archimedes",
       "url": "https://stonetools.ghost.io/pipedream-archimedes/",
-      "score": 55,
-      "comments": 18,
+      "score": 62,
+      "comments": 19,
       "author": "msephton",
       "tags": [],
       "date": "2026-05-09T15:01:16+00:00"
@@ -98,8 +123,8 @@
       "source": "hn",
       "title": "Distributing Mac software is increasing my cortisol levels",
       "url": "https://blog.kronis.dev/blog/apple-is-increasing-my-cortisol-levels",
-      "score": 59,
-      "comments": 30,
+      "score": 103,
+      "comments": 50,
       "author": "LorenDB",
       "tags": [],
       "date": "2026-05-09T14:40:58+00:00"
@@ -131,12 +156,25 @@
       "source": "hn",
       "title": "GrapheneOS fixes Android VPN leak Google refused to patch",
       "url": "https://cyberinsider.com/grapheneos-fixes-android-vpn-leak-google-refused-to-patch/",
-      "score": 163,
-      "comments": 49,
+      "score": 194,
+      "comments": 56,
       "author": "Georgelemental",
       "tags": [],
       "date": "2026-05-09T14:11:10+00:00",
       "severity": "medium"
+    },
+    {
+      "id": "qiita-4c81a9aaf9",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "LangflowでLangfuse(self-host)を使ってLLMOps試す・前編",
+      "url": "https://qiita.com/mizuk1013/items/7f555a2e8f79f15db813?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "mizuk1013",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-05-09T23:09:24+09:00"
     },
     {
       "id": "hn-48075059",
@@ -154,8 +192,8 @@
       "source": "hn",
       "title": "The hypocrisy of cyberlibertarianism",
       "url": "https://matduggan.com/the-intolerable-hypocrisy-of-cyberlibertarianism/",
-      "score": 175,
-      "comments": 127,
+      "score": 199,
+      "comments": 154,
       "author": "ColinWright",
       "tags": [],
       "date": "2026-05-09T13:48:32+00:00"
@@ -172,15 +210,41 @@
       "date": "2026-05-09T13:31:53+00:00"
     },
     {
+      "id": "qiita-20cbcdffc2",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "「AWS環境にデプロイした際に、Webサーバーって何のためにいるの？」という疑問について調べてみた",
+      "url": "https://qiita.com/hosomatu/items/9545ee09b2ffbe25057c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "hosomatu",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-05-09T21:11:18+09:00"
+    },
+    {
       "id": "hn-48074265",
       "source": "hn",
       "title": "Internet Archive Switzerland",
-      "url": "https://internetarchive.ch/",
-      "score": 407,
-      "comments": 58,
+      "url": "https://blog.archive.org/2026/05/06/internet-archive-switzerland-expanding-a-global-mission-to-preserve-knowledge/",
+      "score": 441,
+      "comments": 68,
       "author": "hggh",
       "tags": [],
       "date": "2026-05-09T12:00:30+00:00"
+    },
+    {
+      "id": "qiita-c8084c3f16",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "「冷蔵と冷凍と常温を分けて！」：超新人エンジニア向け クラス設計の話",
+      "url": "https://qiita.com/kimagurehero98/items/3242437ac35fb9a7e5b0?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "kimagurehero98",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-05-09T20:33:17+09:00"
     },
     {
       "id": "hn-48074087",
@@ -192,6 +256,30 @@
       "author": "wrxd",
       "tags": [],
       "date": "2026-05-09T11:33:07+00:00"
+    },
+    {
+      "id": "qiita-ed3163957f",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "絵が描けない人が気合で３Dモデルを作る方法",
+      "url": "https://qiita.com/Rin5/items/99fbf5587fb9bd2f4a48?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "Rin5",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-05-09T20:18:42+09:00"
+    },
+    {
+      "id": "hn-48073680",
+      "source": "hn",
+      "title": "Bun's experimental Rust rewrite hits 99.8% test compatibility on Linux x64 glibc",
+      "url": "https://twitter.com/jarredsumner/status/2053047748191232310",
+      "score": 130,
+      "comments": 168,
+      "author": "heldrida",
+      "tags": [],
+      "date": "2026-05-09T10:12:55+00:00"
     },
     {
       "id": "hn-48073394",
@@ -209,8 +297,8 @@
       "source": "hn",
       "title": "LLMs corrupt your documents when you delegate",
       "url": "https://arxiv.org/abs/2604.15597",
-      "score": 266,
-      "comments": 102,
+      "score": 288,
+      "comments": 108,
       "author": "rbanffy",
       "tags": [],
       "date": "2026-05-09T08:44:34+00:00"
@@ -255,8 +343,8 @@
       "source": "hn",
       "title": "Using Claude Code: The unreasonable effectiveness of HTML",
       "url": "https://twitter.com/trq212/status/2052809885763747935",
-      "score": 369,
-      "comments": 223,
+      "score": 378,
+      "comments": 228,
       "author": "pretext",
       "tags": [],
       "date": "2026-05-09T04:53:52+00:00"
@@ -275,6 +363,19 @@
       "date": "2026-05-09T13:43:32+09:00"
     },
     {
+      "id": "qiita-1e54bc39f3",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "ウクレレに学ぶ調和の幾何学 〜リサージュ曲線からTonnetzまで〜",
+      "url": "https://qiita.com/ken_aizawa/items/f8ea52e54b2661f257bb?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "ken_aizawa",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-05-09T13:20:12+09:00"
+    },
+    {
       "id": "hn-48071496",
       "source": "hn",
       "title": "Over 97% of the 'Linux' Foundation's Budget Goes Not to Linux",
@@ -286,15 +387,42 @@
       "date": "2026-05-09T03:21:06+00:00"
     },
     {
+      "id": "qiita-2929de405b",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "【ゼロデイ解説】DirtyFlag脆弱性の全貌・Dirty COW・Dirty Pipe・Dirty Fragのエクスプロイトコードを完全分解する",
+      "url": "https://qiita.com/harupython/items/f877d277a209abc86c87?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "harupython",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-05-09T11:58:48+09:00",
+      "severity": "high"
+    },
+    {
       "id": "hn-48071262",
       "source": "hn",
       "title": "A recent experience with ChatGPT 5.5 Pro",
       "url": "https://gowers.wordpress.com/2026/05/08/a-recent-experience-with-chatgpt-5-5-pro/",
-      "score": 535,
-      "comments": 394,
+      "score": 550,
+      "comments": 400,
       "author": "_alternator_",
       "tags": [],
       "date": "2026-05-09T02:41:42+00:00"
+    },
+    {
+      "id": "qiita-ec4a4daef0",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "クオンツトレード入門者のための確率過程――価格予測ではなく、分布・リスク・エッジを見るために",
+      "url": "https://qiita.com/tikeda123/items/ac378f83a4e7911392d4?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "tikeda123",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-05-09T10:12:54+09:00"
     },
     {
       "id": "qiita-42a36498a4",
@@ -332,6 +460,19 @@
       "author": "amanaplanacanal",
       "tags": [],
       "date": "2026-05-08T23:37:55+00:00"
+    },
+    {
+      "id": "qiita-d7363afef7",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "処理は追えるのに「なぜそれをしているのか」が分からない人へ ｜ コードから目的を読み解く考え方",
+      "url": "https://qiita.com/k-shimaoka-dev/items/7cc255f9424b0e2adb69?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "k-shimaoka-dev",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-05-09T08:14:39+09:00"
     },
     {
       "id": "hn-48069354",
@@ -434,6 +575,17 @@
       "date": "2026-05-08T19:52:06+00:00"
     },
     {
+      "id": "hn-48067786",
+      "source": "hn",
+      "title": "Production engineering when trading billions of dollars a day [video]",
+      "url": "https://www.youtube.com/watch?v=zR9PpXWsKFQ",
+      "score": 19,
+      "comments": 0,
+      "author": "abstrus",
+      "tags": [],
+      "date": "2026-05-08T19:45:21+00:00"
+    },
+    {
       "id": "hn-48067764",
       "source": "hn",
       "title": "Roadside Attraction",
@@ -482,8 +634,8 @@
       "source": "hn",
       "title": "Google broke reCAPTCHA for de-googled Android users",
       "url": "https://reclaimthenet.org/google-broke-recaptcha-for-de-googled-android-users",
-      "score": 1377,
-      "comments": 499,
+      "score": 1394,
+      "comments": 501,
       "author": "anonymousiam",
       "tags": [],
       "date": "2026-05-08T18:45:58+00:00"
@@ -707,8 +859,8 @@
       "source": "hn",
       "title": "David Attenborough's 100th Birthday",
       "url": "https://www.bbc.com/news/articles/cp3pww9g0p5o",
-      "score": 801,
-      "comments": 154,
+      "score": 823,
+      "comments": 155,
       "author": "defrost",
       "tags": [],
       "date": "2026-05-08T12:03:26+00:00"
@@ -1235,7 +1387,7 @@
       "source": "hn",
       "title": "OpenAI’s WebRTC problem",
       "url": "https://moq.dev/blog/webrtc-is-the-problem/",
-      "score": 434,
+      "score": 451,
       "comments": 137,
       "author": "atgctg",
       "tags": [],
@@ -1382,8 +1534,8 @@
       "source": "hn",
       "title": "The ROKR wooden typewriter: a closer look",
       "url": "http://writingball.blogspot.com/2026/05/the-rokr-wooden-typewriter-closer-look.html",
-      "score": 7,
-      "comments": 0,
+      "score": 13,
+      "comments": 2,
       "author": "speckx",
       "tags": [],
       "date": "2026-05-07T14:25:16+00:00"
@@ -1449,8 +1601,8 @@
       "source": "hn",
       "title": "How LEDs are made (2014)",
       "url": "https://learn.sparkfun.com/tutorials/how-leds-are-made/all",
-      "score": 104,
-      "comments": 14,
+      "score": 110,
+      "comments": 15,
       "author": "smig0",
       "tags": [],
       "date": "2026-05-07T12:39:45+00:00"
@@ -1600,8 +1752,8 @@
       "source": "hn",
       "title": "Mythical Man Month",
       "url": "https://martinfowler.com/bliki/MythicalManMonth.html",
-      "score": 306,
-      "comments": 178,
+      "score": 313,
+      "comments": 179,
       "author": "ingve",
       "tags": [],
       "date": "2026-05-07T07:20:55+00:00"
@@ -1703,8 +1855,8 @@
       "source": "hn",
       "title": "Building the TD4 4-Bit CPU",
       "url": "https://jayakody2000lk.blogspot.com/2026/05/building-td4-4-bit-cpu.html",
-      "score": 39,
-      "comments": 11,
+      "score": 43,
+      "comments": 12,
       "author": "zdw",
       "tags": [],
       "date": "2026-05-07T04:25:43+00:00"
@@ -1976,8 +2128,8 @@
       "source": "hn",
       "title": "Show HN: I wrote a flight simulator in my own programming language",
       "url": "https://github.com/navid-m/flightsim",
-      "score": 50,
-      "comments": 13,
+      "score": 61,
+      "comments": 16,
       "author": "pizza_man",
       "tags": [],
       "date": "2026-05-06T21:58:05+00:00"
@@ -2367,8 +2519,8 @@
       "source": "hn",
       "title": "What causes lightning? The answer keeps getting more interesting",
       "url": "https://www.quantamagazine.org/what-causes-lightning-the-answer-keeps-getting-more-interesting-20260506/",
-      "score": 163,
-      "comments": 40,
+      "score": 174,
+      "comments": 42,
       "author": "Tomte",
       "tags": [],
       "date": "2026-05-06T15:41:06+00:00"
@@ -2378,8 +2530,8 @@
       "source": "hn",
       "title": "America's carpet capital: an empire and its toxic legacy",
       "url": "https://apnews.com/projects/pfas-forever-stained/",
-      "score": 137,
-      "comments": 81,
+      "score": 142,
+      "comments": 87,
       "author": "rawgabbit",
       "tags": [],
       "date": "2026-05-06T15:17:44+00:00"
@@ -5020,140 +5172,6 @@
         "Qiita"
       ],
       "date": "2026-05-04T01:34:12+09:00"
-    },
-    {
-      "id": "hn-47998638",
-      "source": "hn",
-      "title": "Batteries Not Included, or Required, for These Smart Home Sensors",
-      "url": "https://coe.gatech.edu/news/2026/04/batteries-not-included-or-required-these-smart-home-sensors",
-      "score": 170,
-      "comments": 61,
-      "author": "gnabgib",
-      "tags": [],
-      "date": "2026-05-03T16:32:34+00:00"
-    },
-    {
-      "id": "hn-47998601",
-      "source": "hn",
-      "title": "Uncle Bob: It's Over",
-      "url": "https://old.reddit.com/r/vibecoding/comments/1srfqm0/uncle_bob_its_over/",
-      "score": 34,
-      "comments": 26,
-      "author": "lopespm",
-      "tags": [],
-      "date": "2026-05-03T16:29:07+00:00"
-    },
-    {
-      "id": "hn-47998449",
-      "source": "hn",
-      "title": "Bad Connection: Global telecom exploitation by covert surveillance actors",
-      "url": "https://citizenlab.ca/research/uncovering-global-telecom-exploitation-by-covert-surveillance-actors/",
-      "score": 183,
-      "comments": 19,
-      "author": "miohtama",
-      "tags": [],
-      "date": "2026-05-03T16:15:49+00:00",
-      "severity": "high"
-    },
-    {
-      "id": "hn-47998225",
-      "source": "hn",
-      "title": "For thirty years I programmed with Phish on, every day",
-      "url": "https://christophermeiklejohn.com/ai/personal/phish/flow/agents/2026/05/03/rift.html",
-      "score": 120,
-      "comments": 84,
-      "author": "azhenley",
-      "tags": [],
-      "date": "2026-05-03T15:55:59+00:00"
-    },
-    {
-      "id": "hn-47998158",
-      "source": "hn",
-      "title": "Testing macOS on the Apple Network Server 2.0 ROMs",
-      "url": "http://oldvcr.blogspot.com/2026/05/testing-macos-on-apple-network-server.html",
-      "score": 83,
-      "comments": 17,
-      "author": "zdw",
-      "tags": [],
-      "date": "2026-05-03T15:49:33+00:00"
-    },
-    {
-      "id": "hn-47997947",
-      "source": "hn",
-      "title": "A desktop made for one",
-      "url": "https://isene.org/2026/05/Audience-of-One.html",
-      "score": 377,
-      "comments": 211,
-      "author": "xngbuilds",
-      "tags": [],
-      "date": "2026-05-03T15:32:05+00:00"
-    },
-    {
-      "id": "hn-47997915",
-      "source": "hn",
-      "title": "Wiki Builder: Skill to Build LLM Knowledge Bases",
-      "url": "https://academy.dair.ai/blog/wiki-builder-claude-code-plugin",
-      "score": 52,
-      "comments": 6,
-      "author": "omarsar",
-      "tags": [],
-      "date": "2026-05-03T15:28:48+00:00"
-    },
-    {
-      "id": "hn-47997679",
-      "source": "hn",
-      "title": "Business Owners Are Worst Clients",
-      "url": "https://zencapital.substack.com/p/business-owners-are-worst-clients",
-      "score": 25,
-      "comments": 28,
-      "author": "zenincognito",
-      "tags": [],
-      "date": "2026-05-03T15:06:16+00:00"
-    },
-    {
-      "id": "hn-47997486",
-      "source": "hn",
-      "title": "Security through obscurity is not bad",
-      "url": "https://mobeigi.com/blog/security/security-through-obscurity-is-not-bad/",
-      "score": 122,
-      "comments": 145,
-      "author": "mobeigi",
-      "tags": [],
-      "date": "2026-05-03T14:49:56+00:00"
-    },
-    {
-      "id": "hn-47997468",
-      "source": "hn",
-      "title": "Redistricting and the Supreme Court have cut voters out of US House races",
-      "url": "https://www.reuters.com/legal/government/how-redistricting-supreme-court-have-cut-voters-out-us-house-races-2026-05-03/",
-      "score": 14,
-      "comments": 0,
-      "author": "Propelloni",
-      "tags": [],
-      "date": "2026-05-03T14:48:32+00:00"
-    },
-    {
-      "id": "hn-47997418",
-      "source": "hn",
-      "title": "Mercedes-Benz commits to bringing back physical buttons",
-      "url": "https://www.drive.com.au/news/mercedes-benz-commits-to-bringing-back-phycial-buttons/",
-      "score": 696,
-      "comments": 390,
-      "author": "teleforce",
-      "tags": [],
-      "date": "2026-05-03T14:43:27+00:00",
-      "severity": "critical"
-    },
-    {
-      "id": "hn-47997403",
-      "source": "hn",
-      "title": "The Hiddn Financial Bubble in AI Infrastructure [pdf]",
-      "url": "https://financial-ai-bubble.pagey.site/The-Hidden-Financial-Bubble-in-AI-Infrastructure.pdf",
-      "score": 6,
-      "comments": 5,
-      "author": "freakynit",
-      "tags": [],
-      "date": "2026-05-03T14:42:27+00:00"
     },
     {
       "id": "ghrel-projectdiscovery_nuclei-310617486",

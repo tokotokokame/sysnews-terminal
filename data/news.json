@@ -1,7 +1,18 @@
 {
-  "updated_at": "2026-05-08T23:29:38.840933+00:00",
+  "updated_at": "2026-05-09T01:17:12.790911+00:00",
   "count": 500,
   "items": [
+    {
+      "id": "hn-48070115",
+      "source": "hn",
+      "title": "Tesla Model Y Passes NHTSA's New 'Advanced Driver Assistance System' Tests",
+      "url": "https://www.nhtsa.gov/press-releases/tesla-model-y-first-vehicle-pass-nhtsa-new-advanced-driver-assistance-system-tests",
+      "score": 36,
+      "comments": 25,
+      "author": "amanaplanacanal",
+      "tags": [],
+      "date": "2026-05-08T23:37:55+00:00"
+    },
     {
       "id": "hn-48069354",
       "source": "hn",
@@ -18,7 +29,7 @@
       "source": "hn",
       "title": "Compound drivers of Antarctic sea ice loss and Southern Ocean destratification",
       "url": "https://www.science.org/doi/10.1126/sciadv.aeb0166",
-      "score": 14,
+      "score": 21,
       "comments": 0,
       "author": "littlexsparkee",
       "tags": [],
@@ -29,8 +40,8 @@
       "source": "hn",
       "title": "Meta Shuts Down End-to-End Encryption for Instagram Messaging",
       "url": "https://www.pcmag.com/news/meta-shuts-down-end-to-end-encryption-for-instagram-dms-messaging",
-      "score": 57,
-      "comments": 36,
+      "score": 136,
+      "comments": 94,
       "author": "tcp_handshaker",
       "tags": [],
       "date": "2026-05-08T21:47:47+00:00"
@@ -51,8 +62,8 @@
       "source": "hn",
       "title": "Non-determinism is an issue with patching CVEs",
       "url": "https://flox.dev/blog/achieving-rapid-cve-remediation-in-an-era-of-escalating-vulnerabilities/",
-      "score": 25,
-      "comments": 7,
+      "score": 36,
+      "comments": 11,
       "author": "mathewpregasen",
       "tags": [],
       "date": "2026-05-08T21:23:07+00:00",
@@ -81,6 +92,17 @@
       "date": "2026-05-08T20:36:51+00:00"
     },
     {
+      "id": "hn-48068254",
+      "source": "hn",
+      "title": "When is your birthday? The math behind hash collisions",
+      "url": "https://0xkrt26.github.io/math_behind_security/2026/05/08/birthday-problem.html",
+      "score": 14,
+      "comments": 0,
+      "author": "denismenace",
+      "tags": [],
+      "date": "2026-05-08T20:18:39+00:00"
+    },
+    {
       "id": "hn-48067870",
       "source": "hn",
       "title": "Discord Incident",
@@ -107,8 +129,8 @@
       "source": "hn",
       "title": "You gave me a u32. I gave you root. (io_uring ZCRX freelist LPE)",
       "url": "https://ze3tar.github.io/post-zcrx.html",
-      "score": 98,
-      "comments": 62,
+      "score": 129,
+      "comments": 81,
       "author": "MrBruh",
       "tags": [],
       "date": "2026-05-08T19:40:39+00:00"
@@ -140,8 +162,8 @@
       "source": "hn",
       "title": "Google broke reCAPTCHA for de-googled Android users",
       "url": "https://reclaimthenet.org/google-broke-recaptcha-for-de-googled-android-users",
-      "score": 389,
-      "comments": 132,
+      "score": 573,
+      "comments": 195,
       "author": "anonymousiam",
       "tags": [],
       "date": "2026-05-08T18:45:58+00:00"
@@ -151,8 +173,8 @@
       "source": "hn",
       "title": "Teaching Claude Why",
       "url": "https://www.anthropic.com/research/teaching-claude-why",
-      "score": 50,
-      "comments": 9,
+      "score": 81,
+      "comments": 19,
       "author": "pretext",
       "tags": [],
       "date": "2026-05-08T17:59:41+00:00"
@@ -162,8 +184,8 @@
       "source": "hn",
       "title": "AI is breaking two vulnerability cultures",
       "url": "https://www.jefftk.com/p/ai-is-breaking-two-vulnerability-cultures",
-      "score": 184,
-      "comments": 78,
+      "score": 225,
+      "comments": 98,
       "author": "speckx",
       "tags": [],
       "date": "2026-05-08T17:55:08+00:00",
@@ -192,15 +214,37 @@
       "date": "2026-05-08T17:06:59+00:00"
     },
     {
+      "id": "hn-48065511",
+      "source": "hn",
+      "title": "The React2Shell Story",
+      "url": "https://lachlan.nz/blog/the-react2shell-story/",
+      "score": 17,
+      "comments": 1,
+      "author": "mufeedvh",
+      "tags": [],
+      "date": "2026-05-08T16:39:48+00:00"
+    },
+    {
       "id": "hn-48065360",
       "source": "hn",
       "title": "Cartoon Network Flash Games",
       "url": "https://www.webdesignmuseum.org/flash-game-exhibitions/cartoon-network-flash-games",
-      "score": 253,
-      "comments": 86,
+      "score": 274,
+      "comments": 96,
       "author": "willmeyers",
       "tags": [],
       "date": "2026-05-08T16:29:52+00:00"
+    },
+    {
+      "id": "hn-48065254",
+      "source": "hn",
+      "title": "Can LLMs model real-world systems in TLA+?",
+      "url": "https://www.sigops.org/2026/can-llms-model-real-world-systems-in-tla/",
+      "score": 21,
+      "comments": 0,
+      "author": "mad",
+      "tags": [],
+      "date": "2026-05-08T16:21:56+00:00"
     },
     {
       "id": "qiita-9967d27a10",
@@ -231,8 +275,8 @@
       "source": "hn",
       "title": "Serving a website on a Raspberry Pi Zero running in RAM",
       "url": "https://btxx.org/posts/memory/",
-      "score": 181,
-      "comments": 74,
+      "score": 190,
+      "comments": 77,
       "author": "xngbuilds",
       "tags": [],
       "date": "2026-05-08T15:10:35+00:00"
@@ -332,8 +376,8 @@
       "source": "hn",
       "title": "US Government releases first batch of UAP documents and videos",
       "url": "https://www.war.gov/UFO/",
-      "score": 209,
-      "comments": 323,
+      "score": 229,
+      "comments": 338,
       "author": "david-gpu",
       "tags": [],
       "date": "2026-05-08T12:10:25+00:00"
@@ -343,8 +387,8 @@
       "source": "hn",
       "title": "David Attenborough's 100th Birthday",
       "url": "https://www.bbc.com/news/articles/cp3pww9g0p5o",
-      "score": 382,
-      "comments": 74,
+      "score": 434,
+      "comments": 85,
       "author": "defrost",
       "tags": [],
       "date": "2026-05-08T12:03:26+00:00"
@@ -354,8 +398,8 @@
       "source": "hn",
       "title": "An Introduction to Meshtastic",
       "url": "https://meshtastic.org/docs/introduction/",
-      "score": 359,
-      "comments": 135,
+      "score": 368,
+      "comments": 147,
       "author": "ColinWright",
       "tags": [],
       "date": "2026-05-08T11:22:11+00:00"
@@ -494,10 +538,10 @@
     {
       "id": "hn-48058197",
       "source": "hn",
-      "title": "AWS says data center overheating in North Virginia disrupts services",
-      "url": "https://www.reuters.com/business/retail-consumer/amazon-cloud-unit-says-data-center-overheating-north-virginia-disrupts-services-2026-05-08/",
-      "score": 71,
-      "comments": 34,
+      "title": "AWS North Virginia data center outage – recovery to take hours",
+      "url": "https://www.cnbc.com/2026/05/08/aws-outage-data-center-fanduel-coinbase.html",
+      "score": 120,
+      "comments": 72,
       "author": "christhecaribou",
       "tags": [],
       "date": "2026-05-08T03:31:58+00:00"
@@ -520,8 +564,8 @@
       "source": "hn",
       "title": "Mojo 1.0 Beta",
       "url": "https://mojolang.org/",
-      "score": 261,
-      "comments": 170,
+      "score": 281,
+      "comments": 182,
       "author": "sbt567",
       "tags": [],
       "date": "2026-05-08T02:49:01+00:00"
@@ -867,6 +911,17 @@
       "date": "2026-05-08T02:34:46+09:00"
     },
     {
+      "id": "hn-48051951",
+      "source": "hn",
+      "title": "OpenAI's WebRTC problem",
+      "url": "https://moq.dev/blog/webrtc-is-the-problem/",
+      "score": 59,
+      "comments": 10,
+      "author": "atgctg",
+      "tags": [],
+      "date": "2026-05-07T17:11:59+00:00"
+    },
+    {
       "id": "hn-48051562",
       "source": "hn",
       "title": "Agents need control flow, not more prompts",
@@ -1052,8 +1107,8 @@
       "source": "hn",
       "title": "Looking at the data behind prediction markets",
       "url": "https://asteriskmag.com/issues/14/are-prediction-markets-good-for-anything",
-      "score": 38,
-      "comments": 12,
+      "score": 52,
+      "comments": 27,
       "author": "kqr",
       "tags": [],
       "date": "2026-05-07T13:12:39+00:00"
@@ -1573,6 +1628,17 @@
       "date": "2026-05-06T19:33:25+00:00"
     },
     {
+      "id": "hn-48040470",
+      "source": "hn",
+      "title": "Light without electricity? Glowing algae could make it possible",
+      "url": "https://www.colorado.edu/today/2026/05/06/light-without-electricity-glowing-algae-could-make-it-possible",
+      "score": 14,
+      "comments": 0,
+      "author": "geox",
+      "tags": [],
+      "date": "2026-05-06T19:21:34+00:00"
+    },
+    {
       "id": "hn-48040465",
       "source": "hn",
       "title": "OpenBSD Stories: The closest thing to cute kittens (OpenBSD/zaurus)",
@@ -1781,8 +1847,8 @@
       "source": "hn",
       "title": "Wi is Fi: Understanding Wi-Fi 4/5/6/6E/7/8 (802.11 n/AC/ax/be/bn)",
       "url": "https://www.wiisfi.com/",
-      "score": 17,
-      "comments": 2,
+      "score": 69,
+      "comments": 28,
       "author": "homebrewer",
       "tags": [],
       "date": "2026-05-06T16:01:50+00:00"
@@ -1803,8 +1869,8 @@
       "source": "hn",
       "title": "All means are fair except solving the problem",
       "url": "https://yosefk.com/blog/all-means-are-fair-except-solving-the-problem.html",
-      "score": 24,
-      "comments": 24,
+      "score": 31,
+      "comments": 37,
       "author": "akkartik",
       "tags": [],
       "date": "2026-05-06T15:52:25+00:00"
@@ -5099,72 +5165,6 @@
       "author": "yunusabd",
       "tags": [],
       "date": "2026-05-02T21:25:05+00:00"
-    },
-    {
-      "id": "hn-47990695",
-      "source": "hn",
-      "title": "Frizbee is a tool you may throw a tag at and it comes back with a checksum",
-      "url": "https://github.com/stacklok/frizbee",
-      "score": 4,
-      "comments": 0,
-      "author": "mooreds",
-      "tags": [],
-      "date": "2026-05-02T21:23:11+00:00"
-    },
-    {
-      "id": "hn-47990675",
-      "source": "hn",
-      "title": "The agent harness belongs outside the sandbox",
-      "url": "https://www.mendral.com/blog/agent-harness-belongs-outside-sandbox",
-      "score": 130,
-      "comments": 97,
-      "author": "shad42",
-      "tags": [],
-      "date": "2026-05-02T21:21:27+00:00"
-    },
-    {
-      "id": "hn-47990606",
-      "source": "hn",
-      "title": "Six Years Perfecting Maps on WatchOS",
-      "url": "https://www.david-smith.org/blog/2026/04/29/maps-on-watchos/",
-      "score": 407,
-      "comments": 102,
-      "author": "valzevul",
-      "tags": [],
-      "date": "2026-05-02T21:14:29+00:00"
-    },
-    {
-      "id": "hn-47990528",
-      "source": "hn",
-      "title": "Show HN: I Built a Museum Exhibit",
-      "url": "https://knhash.in/built-an-exhibit/",
-      "score": 6,
-      "comments": 0,
-      "author": "kn81198",
-      "tags": [],
-      "date": "2026-05-02T21:07:41+00:00"
-    },
-    {
-      "id": "hn-47990491",
-      "source": "hn",
-      "title": "Farewell to a Giant of Botany",
-      "url": "https://nautil.us/farewell-to-a-giant-of-botany-1280409",
-      "score": 51,
-      "comments": 2,
-      "author": "Brajeshwar",
-      "tags": [],
-      "date": "2026-05-02T21:03:48+00:00"
-    },
-    {
-      "id": "hn-47990318",
-      "source": "hn",
-      "title": "This Month in Ladybird – April 2026",
-      "url": "https://ladybird.org/newsletter/2026-04-30/",
-      "score": 458,
-      "comments": 131,
-      "author": "richardboegli",
-      "tags": [],
-      "date": "2026-05-02T20:46:30+00:00"
     },
     {
       "id": "ghrel-projectdiscovery_nuclei-310617486",

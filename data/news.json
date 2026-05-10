@@ -1,14 +1,62 @@
 {
-  "updated_at": "2026-05-10T11:59:02.528339+00:00",
+  "updated_at": "2026-05-10T13:48:00.585933+00:00",
   "count": 500,
   "items": [
+    {
+      "id": "qiita-20cbcdffc2",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "「AWS環境にデプロイした際に、Webサーバーって何のためにいるの？」という疑問について調べてみた",
+      "url": "https://qiita.com/hosomatu/items/9545ee09b2ffbe25057c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "hosomatu",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-05-10T21:44:32+09:00"
+    },
+    {
+      "id": "qiita-d8e5321ffb",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "Git初心者の頃わからなかった「pullするな」の意味",
+      "url": "https://qiita.com/shimitaro/items/bdd7cedde03974a94406?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "shimitaro",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-05-10T21:27:46+09:00"
+    },
+    {
+      "id": "hn-48083251",
+      "source": "hn",
+      "title": "9 Mothers (YC P26) Is Hiring",
+      "url": "https://jobs.ashbyhq.com/9-mothers?utm_source=x8pZ4B3P3Q",
+      "score": 1,
+      "comments": 0,
+      "author": "ukd1",
+      "tags": [],
+      "date": "2026-05-10T12:00:11+00:00"
+    },
+    {
+      "id": "hn-48083007",
+      "source": "hn",
+      "title": "What's a Mathematician to Do?",
+      "url": "https://mathoverflow.net/questions/43690/whats-a-mathematician-to-do",
+      "score": 16,
+      "comments": 1,
+      "author": "ipnon",
+      "tags": [],
+      "date": "2026-05-10T11:26:50+00:00"
+    },
     {
       "id": "hn-48082968",
       "source": "hn",
       "title": "Space Cadet Pinball on Linux",
       "url": "https://brennan.io/2026/05/09/pinball-and-escrow/",
-      "score": 30,
-      "comments": 3,
+      "score": 107,
+      "comments": 32,
       "author": "jandeboevrie",
       "tags": [],
       "date": "2026-05-10T11:22:02+00:00"
@@ -18,8 +66,8 @@
       "source": "hn",
       "title": "Replacing a 3 GB SQLite db with a 10 MB FST (finite state transducer) binary",
       "url": "https://til.andrew-quinn.me/posts/replacing-a-3-gb-sqlite-database-with-a-7-mb-fst-finite-state-trandsucer-binary/",
-      "score": 22,
-      "comments": 0,
+      "score": 69,
+      "comments": 9,
       "author": "hiAndrewQuinn",
       "tags": [],
       "date": "2026-05-10T10:33:06+00:00"
@@ -27,9 +75,9 @@
     {
       "id": "hn-48082396",
       "source": "hn",
-      "title": "Think Linear Algebra",
+      "title": "Think Linear Algebra (2023)",
       "url": "https://allendowney.github.io/ThinkLinearAlgebra/index.html",
-      "score": 3,
+      "score": 24,
       "comments": 0,
       "author": "tamnd",
       "tags": [],
@@ -62,8 +110,8 @@
       "source": "hn",
       "title": "LLMorphism: When humans come to see themselves as language models",
       "url": "https://arxiv.org/abs/2605.05419",
-      "score": 24,
-      "comments": 11,
+      "score": 40,
+      "comments": 17,
       "author": "okey",
       "tags": [],
       "date": "2026-05-10T08:22:12+00:00"
@@ -84,8 +132,8 @@
       "source": "hn",
       "title": "Task Paralysis and AI",
       "url": "https://g5t.de/articles/20260510-task-paralysis-and-ai/index.html",
-      "score": 33,
-      "comments": 21,
+      "score": 67,
+      "comments": 47,
       "author": "MrGilbert",
       "tags": [],
       "date": "2026-05-10T06:20:50+00:00"
@@ -95,8 +143,8 @@
       "source": "hn",
       "title": "Debian must ship reproducible packages",
       "url": "https://lists.debian.org/debian-devel-announce/2026/05/msg00001.html",
-      "score": 193,
-      "comments": 70,
+      "score": 243,
+      "comments": 87,
       "author": "robalni",
       "tags": [],
       "date": "2026-05-10T05:26:03+00:00"
@@ -143,8 +191,8 @@
       "source": "hn",
       "title": "Gemini API File Search is now multimodal",
       "url": "https://blog.google/innovation-and-ai/technology/developers-tools/expanded-gemini-api-file-search-multimodal-rag/",
-      "score": 109,
-      "comments": 18,
+      "score": 126,
+      "comments": 24,
       "author": "gmays",
       "tags": [],
       "date": "2026-05-10T03:22:02+00:00"
@@ -154,24 +202,11 @@
       "source": "hn",
       "title": "Show HN: Building a web server in assembly to give my life (a lack of) meaning",
       "url": "https://github.com/imtomt/ymawky",
-      "score": 303,
-      "comments": 144,
+      "score": 329,
+      "comments": 161,
       "author": "imtomt",
       "tags": [],
       "date": "2026-05-10T03:01:44+00:00"
-    },
-    {
-      "id": "qiita-20cbcdffc2",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "「AWS環境にデプロイした際に、Webサーバーって何のためにいるの？」という疑問について調べてみた",
-      "url": "https://qiita.com/hosomatu/items/9545ee09b2ffbe25057c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "hosomatu",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-05-10T11:53:52+09:00"
     },
     {
       "id": "hn-48080221",
@@ -222,19 +257,6 @@
       "date": "2026-05-10T07:19:04+09:00"
     },
     {
-      "id": "qiita-d8e5321ffb",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "Git初心者の頃わからなかった「pullするな」の意味",
-      "url": "https://qiita.com/shimitaro/items/bdd7cedde03974a94406?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "shimitaro",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-05-10T07:16:28+09:00"
-    },
-    {
       "id": "hn-48078811",
       "source": "hn",
       "title": "France Moves to Break Encrypted Messaging",
@@ -283,8 +305,8 @@
       "source": "hn",
       "title": "Local privilege escalation via execve()",
       "url": "https://www.freebsd.org/security/advisories/FreeBSD-SA-26:13.exec.asc",
-      "score": 163,
-      "comments": 80,
+      "score": 178,
+      "comments": 82,
       "author": "Deeg9rie9usi",
       "tags": [],
       "date": "2026-05-09T20:31:21+00:00",
@@ -351,8 +373,8 @@
       "source": "hn",
       "title": "Zed Editor Theme-Builder",
       "url": "https://zed.dev/theme-builder",
-      "score": 234,
-      "comments": 70,
+      "score": 250,
+      "comments": 75,
       "author": "cuechan",
       "tags": [],
       "date": "2026-05-09T17:30:39+00:00"
@@ -374,8 +396,8 @@
       "source": "hn",
       "title": "I’ve banned query strings",
       "url": "https://chrismorgan.info/no-query-strings",
-      "score": 436,
-      "comments": 234,
+      "score": 462,
+      "comments": 239,
       "author": "susam",
       "tags": [],
       "date": "2026-05-09T16:28:36+00:00"
@@ -431,8 +453,8 @@
       "source": "hn",
       "title": "Distributing Mac software is increasing my cortisol levels",
       "url": "https://blog.kronis.dev/blog/apple-is-increasing-my-cortisol-levels",
-      "score": 315,
-      "comments": 214,
+      "score": 334,
+      "comments": 232,
       "author": "LorenDB",
       "tags": [],
       "date": "2026-05-09T14:40:58+00:00"
@@ -522,8 +544,8 @@
       "source": "hn",
       "title": "Internet Archive Switzerland",
       "url": "https://blog.archive.org/2026/05/06/internet-archive-switzerland-expanding-a-global-mission-to-preserve-knowledge/",
-      "score": 627,
-      "comments": 103,
+      "score": 643,
+      "comments": 106,
       "author": "hggh",
       "tags": [],
       "date": "2026-05-09T12:00:30+00:00"
@@ -583,8 +605,8 @@
       "source": "hn",
       "title": "Bun's experimental Rust rewrite hits 99.8% test compatibility on Linux x64 glibc",
       "url": "https://twitter.com/jarredsumner/status/2053047748191232310",
-      "score": 594,
-      "comments": 573,
+      "score": 620,
+      "comments": 597,
       "author": "heldrida",
       "tags": [],
       "date": "2026-05-09T10:12:55+00:00"
@@ -618,8 +640,8 @@
       "source": "hn",
       "title": "LLMs corrupt your documents when you delegate",
       "url": "https://arxiv.org/abs/2604.15597",
-      "score": 422,
-      "comments": 168,
+      "score": 435,
+      "comments": 171,
       "author": "rbanffy",
       "tags": [],
       "date": "2026-05-09T08:44:34+00:00"
@@ -636,6 +658,17 @@
         "Qiita"
       ],
       "date": "2026-05-09T17:38:34+09:00"
+    },
+    {
+      "id": "hn-48073201",
+      "source": "hn",
+      "title": "I returned to AWS, and was reminded why I left",
+      "url": "http://fourlightyears.blogspot.com/2026/05/i-returned-to-aws-and-was-reminded-hard.html",
+      "score": 138,
+      "comments": 79,
+      "author": "andrewstuart",
+      "tags": [],
+      "date": "2026-05-09T08:37:41+00:00"
     },
     {
       "id": "hn-48072720",
@@ -726,8 +759,8 @@
       "source": "hn",
       "title": "A recent experience with ChatGPT 5.5 Pro",
       "url": "https://gowers.wordpress.com/2026/05/08/a-recent-experience-with-chatgpt-5-5-pro/",
-      "score": 642,
-      "comments": 470,
+      "score": 655,
+      "comments": 478,
       "author": "_alternator_",
       "tags": [],
       "date": "2026-05-09T02:41:42+00:00"
@@ -1906,12 +1939,23 @@
       "date": "2026-05-07T14:06:10+00:00"
     },
     {
+      "id": "hn-48049577",
+      "source": "hn",
+      "title": "The River Otter's Remarkable Comeback",
+      "url": "https://www.rewildingmag.com/the-river-otters-remarkable-comeback/",
+      "score": 11,
+      "comments": 0,
+      "author": "surprisetalk",
+      "tags": [],
+      "date": "2026-05-07T14:00:29+00:00"
+    },
+    {
       "id": "hn-48049343",
       "source": "hn",
       "title": "From Buffon's Needle to Buffon's Noodle",
       "url": "https://mbmccoy.dev/posts/buffons-noodle/",
-      "score": 7,
-      "comments": 0,
+      "score": 12,
+      "comments": 2,
       "author": "_alternator_",
       "tags": [],
       "date": "2026-05-07T13:42:15+00:00"
@@ -1966,8 +2010,8 @@
       "source": "hn",
       "title": "The One Dollar Counterfeiter",
       "url": "https://www.amusingplanet.com/2026/05/emerich-juettner-one-dollar.html",
-      "score": 173,
-      "comments": 49,
+      "score": 210,
+      "comments": 77,
       "author": "cainxinth",
       "tags": [],
       "date": "2026-05-07T12:40:35+00:00"
@@ -1988,8 +2032,8 @@
       "source": "hn",
       "title": "Casio S100X Japanese Lacquer Edition (JP Page Only)",
       "url": "https://www.casio.com/jp/basic-calculators/premium/en-s100x-jc1-u/",
-      "score": 165,
-      "comments": 69,
+      "score": 196,
+      "comments": 85,
       "author": "dr_kiszonka",
       "tags": [],
       "date": "2026-05-07T12:09:47+00:00"
@@ -2045,8 +2089,8 @@
       "source": "hn",
       "title": "Idempotency Is Easy Until the Second Request Is Different",
       "url": "https://blog.dochia.dev/blog/idempotency/",
-      "score": 93,
-      "comments": 41,
+      "score": 150,
+      "comments": 69,
       "author": "ludovicianul",
       "tags": [],
       "date": "2026-05-07T11:02:28+00:00"
@@ -2961,8 +3005,8 @@
       "source": "hn",
       "title": "We see something that works, and then we understand it",
       "url": "https://lemire.me/blog/2025/12/04/we-see-something-that-works-and-then-we-understand-it/",
-      "score": 118,
-      "comments": 38,
+      "score": 138,
+      "comments": 50,
       "author": "surprisetalk",
       "tags": [],
       "date": "2026-05-06T15:15:23+00:00"
@@ -5110,54 +5154,6 @@
       "author": "taubek",
       "tags": [],
       "date": "2026-05-04T08:40:41+00:00"
-    },
-    {
-      "id": "hn-48005432",
-      "source": "hn",
-      "title": "CARA 2.0 – “I Built a Better Robot Dog”",
-      "url": "https://www.aaedmusa.com/projects/cara2",
-      "score": 432,
-      "comments": 51,
-      "author": "hakonjdjohnsen",
-      "tags": [],
-      "date": "2026-05-04T06:46:10+00:00"
-    },
-    {
-      "id": "qiita-8bdcb61cd7",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "Claude Coworkで「Qiita自動投稿bot」を1日で組んだ話",
-      "url": "https://qiita.com/Ngen/items/8b91b3302a24e1429ccc?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "Ngen",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-05-04T15:43:14+09:00"
-    },
-    {
-      "id": "qiita-14d094f82b",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "写真1枚から場所と時間を特定する技術：PythonでOSINT入門【コピペで動く5実装】",
-      "url": "https://qiita.com/etale_cohomology/items/e31907c8250dfb6ff145?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "etale_cohomology",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-05-04T15:40:14+09:00"
-    },
-    {
-      "id": "hn-48004992",
-      "source": "hn",
-      "title": "Feds Fine Durham Energy Efficiency Co $722M",
-      "url": "https://www.theassemblync.com/news/business/american-efficient-ferc-durham-fine/",
-      "score": 14,
-      "comments": 7,
-      "author": "ChuckMcM",
-      "tags": [],
-      "date": "2026-05-04T05:32:21+00:00"
     },
     {
       "id": "ghrel-projectdiscovery_nuclei-310617486",

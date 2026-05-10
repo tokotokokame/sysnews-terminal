@@ -1,14 +1,37 @@
 {
-  "updated_at": "2026-05-10T17:52:59.948278+00:00",
+  "updated_at": "2026-05-10T19:03:56.444929+00:00",
   "count": 500,
   "items": [
+    {
+      "id": "hn-48086190",
+      "source": "hn",
+      "title": "Hardware Attestation as Monopoly Enabler",
+      "url": "https://grapheneos.social/@GrapheneOS/116550899908879585",
+      "score": 202,
+      "comments": 51,
+      "author": "ChuckMcM",
+      "tags": [],
+      "date": "2026-05-10T17:54:02+00:00"
+    },
+    {
+      "id": "hn-48086082",
+      "source": "hn",
+      "title": "Incident Report: CVE-2024-YIKES",
+      "url": "https://nesbitt.io/2026/02/03/incident-report-cve-2024-yikes.html",
+      "score": 83,
+      "comments": 21,
+      "author": "miniBill",
+      "tags": [],
+      "date": "2026-05-10T17:43:10+00:00",
+      "severity": "high"
+    },
     {
       "id": "hn-48085782",
       "source": "hn",
       "title": "Tracesofhumanity.org by Joanna Rutkowska",
       "url": "https://tracesofhumanity.org/hello-world/",
-      "score": 10,
-      "comments": 0,
+      "score": 55,
+      "comments": 7,
       "author": "alex77456",
       "tags": [],
       "date": "2026-05-10T17:15:10+00:00"
@@ -29,8 +52,8 @@
       "source": "hn",
       "title": "Spain just became one of Europe's cheapest power markets. Here is how",
       "url": "https://janrosenow.substack.com/p/spain-just-became-one-of-europes",
-      "score": 17,
-      "comments": 1,
+      "score": 52,
+      "comments": 25,
       "author": "marc__1",
       "tags": [],
       "date": "2026-05-10T16:31:51+00:00"
@@ -51,13 +74,24 @@
     {
       "id": "hn-48085095",
       "source": "hn",
-      "title": "GitHub Is Sinking",
+      "title": "GitHub is sinking",
       "url": "https://dbushell.com/2026/04/29/github-is-sinking/",
-      "score": 29,
-      "comments": 9,
+      "score": 106,
+      "comments": 72,
       "author": "herbertl",
       "tags": [],
       "date": "2026-05-10T16:07:26+00:00"
+    },
+    {
+      "id": "hn-48085055",
+      "source": "hn",
+      "title": "The Locals Don't Know",
+      "url": "https://www.quarter--mile.com/The-Locals-Dont-Know",
+      "score": 17,
+      "comments": 12,
+      "author": "herbertl",
+      "tags": [],
+      "date": "2026-05-10T16:03:37+00:00"
     },
     {
       "id": "hn-48084836",
@@ -86,8 +120,8 @@
       "source": "hn",
       "title": "Shunting-Yard Animation",
       "url": "https://somethingorotherwhatever.com/shunting-yard-animation/",
-      "score": 23,
-      "comments": 5,
+      "score": 26,
+      "comments": 10,
       "author": "s1291",
       "tags": [],
       "date": "2026-05-10T15:00:40+00:00"
@@ -95,13 +129,14 @@
     {
       "id": "hn-48084432",
       "source": "hn",
-      "title": "Louis Rossmann tells 3D printer maker Bambu Lab to 'Go (Bleep) yourself'",
+      "title": "Louis Rossmann offers to pay legal fees for a threatened OrcaSlicer developer",
       "url": "https://www.tomshardware.com/3d-printing/louis-rossmann-tells-3d-printer-maker-bambu-lab-to-go-bleep-yourself-over-its-lawsuit-against-enthusiast-right-to-repair-advocate-offers-to-pay-the-legal-fees-for-a-threatened-orcaslicer-developer",
-      "score": 206,
-      "comments": 151,
+      "score": 266,
+      "comments": 171,
       "author": "iancmceachern",
       "tags": [],
-      "date": "2026-05-10T14:47:05+00:00"
+      "date": "2026-05-10T14:47:05+00:00",
+      "severity": "medium"
     },
     {
       "id": "hn-48084350",
@@ -141,8 +176,8 @@
       "source": "hn",
       "title": "Show HN: An index of indie web/blog indexes",
       "url": "https://theindex.fyi",
-      "score": 25,
-      "comments": 11,
+      "score": 37,
+      "comments": 15,
       "author": "rocketpastsix",
       "tags": [],
       "date": "2026-05-10T12:50:31+00:00"
@@ -187,10 +222,10 @@
     {
       "id": "hn-48083007",
       "source": "hn",
-      "title": "What's a Mathematician to Do?",
+      "title": "What's a mathematician to do? (2010)",
       "url": "https://mathoverflow.net/questions/43690/whats-a-mathematician-to-do",
-      "score": 98,
-      "comments": 50,
+      "score": 110,
+      "comments": 57,
       "author": "ipnon",
       "tags": [],
       "date": "2026-05-10T11:26:50+00:00"
@@ -200,8 +235,8 @@
       "source": "hn",
       "title": "Space Cadet Pinball on Linux",
       "url": "https://brennan.io/2026/05/09/pinball-and-escrow/",
-      "score": 236,
-      "comments": 76,
+      "score": 257,
+      "comments": 86,
       "author": "jandeboevrie",
       "tags": [],
       "date": "2026-05-10T11:22:02+00:00"
@@ -222,8 +257,8 @@
       "source": "hn",
       "title": "Think Linear Algebra (2023)",
       "url": "https://allendowney.github.io/ThinkLinearAlgebra/index.html",
-      "score": 93,
-      "comments": 9,
+      "score": 110,
+      "comments": 11,
       "author": "tamnd",
       "tags": [],
       "date": "2026-05-10T09:40:33+00:00"
@@ -277,8 +312,8 @@
       "source": "hn",
       "title": "Task Paralysis and AI",
       "url": "https://g5t.de/articles/20260510-task-paralysis-and-ai/index.html",
-      "score": 121,
-      "comments": 72,
+      "score": 130,
+      "comments": 80,
       "author": "MrGilbert",
       "tags": [],
       "date": "2026-05-10T06:20:50+00:00"
@@ -347,8 +382,8 @@
       "source": "hn",
       "title": "Show HN: Building a web server in assembly to give my life (a lack of) meaning",
       "url": "https://github.com/imtomt/ymawky",
-      "score": 344,
-      "comments": 182,
+      "score": 358,
+      "comments": 192,
       "author": "imtomt",
       "tags": [],
       "date": "2026-05-10T03:01:44+00:00"
@@ -541,8 +576,8 @@
       "source": "hn",
       "title": "I’ve banned query strings",
       "url": "https://chrismorgan.info/no-query-strings",
-      "score": 506,
-      "comments": 265,
+      "score": 513,
+      "comments": 268,
       "author": "susam",
       "tags": [],
       "date": "2026-05-09T16:28:36+00:00"
@@ -794,10 +829,10 @@
     {
       "id": "hn-48073201",
       "source": "hn",
-      "title": "I returned to AWS, and was reminded why I left",
+      "title": "I returned to AWS and was reminded why I left",
       "url": "http://fourlightyears.blogspot.com/2026/05/i-returned-to-aws-and-was-reminded-hard.html",
-      "score": 435,
-      "comments": 343,
+      "score": 479,
+      "comments": 377,
       "author": "andrewstuart",
       "tags": [],
       "date": "2026-05-09T08:37:41+00:00"
@@ -1233,8 +1268,8 @@
       "source": "hn",
       "title": "5x perf increase on writes with FPW disabled in Postgres",
       "url": "https://www.databricks.com/blog/how-lakebase-architecture-delivers-5x-faster-postgres-writes",
-      "score": 13,
-      "comments": 1,
+      "score": 38,
+      "comments": 5,
       "author": "sp_from_db",
       "tags": [],
       "date": "2026-05-08T15:46:12+00:00"
@@ -1361,6 +1396,17 @@
       "author": "defrost",
       "tags": [],
       "date": "2026-05-08T12:03:26+00:00"
+    },
+    {
+      "id": "hn-48061602",
+      "source": "hn",
+      "title": "Stop MitM on the first SSH connection, on any VPS or cloud provider",
+      "url": "https://www.joachimschipper.nl/Stop%20MITM%20on%20the%20first%20SSH%20connection,%20on%20any%20VPS%20or%20cloud%20provider.html",
+      "score": 11,
+      "comments": 3,
+      "author": "JoachimSchipper",
+      "tags": [],
+      "date": "2026-05-08T11:26:38+00:00"
     },
     {
       "id": "hn-48061566",
@@ -2086,8 +2132,8 @@
       "source": "hn",
       "title": "The River Otter's Remarkable Comeback",
       "url": "https://www.rewildingmag.com/the-river-otters-remarkable-comeback/",
-      "score": 56,
-      "comments": 12,
+      "score": 63,
+      "comments": 13,
       "author": "surprisetalk",
       "tags": [],
       "date": "2026-05-07T14:00:29+00:00"
@@ -2153,8 +2199,8 @@
       "source": "hn",
       "title": "The One Dollar Counterfeiter",
       "url": "https://www.amusingplanet.com/2026/05/emerich-juettner-one-dollar.html",
-      "score": 267,
-      "comments": 118,
+      "score": 281,
+      "comments": 120,
       "author": "cainxinth",
       "tags": [],
       "date": "2026-05-07T12:40:35+00:00"
@@ -2175,8 +2221,8 @@
       "source": "hn",
       "title": "Casio S100X Japanese Lacquer Edition (JP Page Only)",
       "url": "https://www.casio.com/jp/basic-calculators/premium/en-s100x-jc1-u/",
-      "score": 263,
-      "comments": 115,
+      "score": 267,
+      "comments": 125,
       "author": "dr_kiszonka",
       "tags": [],
       "date": "2026-05-07T12:09:47+00:00"
@@ -2230,10 +2276,10 @@
     {
       "id": "hn-48047930",
       "source": "hn",
-      "title": "Idempotency Is Easy Until the Second Request Is Different",
+      "title": "Idempotency is easy until the second request is different",
       "url": "https://blog.dochia.dev/blog/idempotency/",
-      "score": 225,
-      "comments": 130,
+      "score": 233,
+      "comments": 142,
       "author": "ludovicianul",
       "tags": [],
       "date": "2026-05-07T11:02:28+00:00"
@@ -5103,52 +5149,6 @@
         "Qiita"
       ],
       "date": "2026-05-04T23:02:41+09:00"
-    },
-    {
-      "id": "hn-48008685",
-      "source": "hn",
-      "title": "A Simpler Parametrization for Modern Optimizers",
-      "url": "https://jiha-kim.github.io/posts/a-simpler-parametrization-for-modern-optimizers/",
-      "score": 7,
-      "comments": 3,
-      "author": "ibobev",
-      "tags": [],
-      "date": "2026-05-04T13:44:20+00:00"
-    },
-    {
-      "id": "qiita-9db7636889",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "【Next.js App Router】キャッシュ機構について",
-      "url": "https://qiita.com/Geek-3340/items/d28fc783a12bfb72c5c5?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "Geek-3340",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-05-04T22:17:16+09:00"
-    },
-    {
-      "id": "hn-48008326",
-      "source": "hn",
-      "title": "Someone allegedly used a hairdryer to rig Polymarket weather bets",
-      "url": "https://www.engadget.com/big-tech/someone-allegedly-used-a-hairdryer-to-rig-polymarket-weather-bets-155312411.html",
-      "score": 73,
-      "comments": 34,
-      "author": "cdrnsf",
-      "tags": [],
-      "date": "2026-05-04T13:13:52+00:00"
-    },
-    {
-      "id": "hn-48008104",
-      "source": "hn",
-      "title": "Gap between national food production and food-based dietary guidance (2025)",
-      "url": "https://www.nature.com/articles/s43016-025-01173-4",
-      "score": 64,
-      "comments": 44,
-      "author": "simonebrunozzi",
-      "tags": [],
-      "date": "2026-05-04T12:55:16+00:00"
     },
     {
       "id": "ghrel-projectdiscovery_nuclei-310617486",

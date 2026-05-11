@@ -1,14 +1,60 @@
 {
-  "updated_at": "2026-05-11T21:16:37.454797+00:00",
+  "updated_at": "2026-05-11T22:32:47.800112+00:00",
   "count": 500,
   "items": [
+    {
+      "id": "hn-48100706",
+      "source": "hn",
+      "title": "TanStack NPM Packages Compromised",
+      "url": "https://github.com/TanStack/router/issues/7383",
+      "score": 208,
+      "comments": 53,
+      "author": "varunsharma07",
+      "tags": [],
+      "date": "2026-05-11T21:08:25+00:00"
+    },
+    {
+      "id": "hn-48100524",
+      "source": "hn",
+      "title": "Interaction Models",
+      "url": "https://thinkingmachines.ai/blog/interaction-models/",
+      "score": 37,
+      "comments": 3,
+      "author": "smhx",
+      "tags": [],
+      "date": "2026-05-11T20:53:37+00:00"
+    },
+    {
+      "id": "hn-48100500",
+      "source": "hn",
+      "title": "GitLab Announces Workforce Reduction and End of Their CREDIT Values",
+      "url": "https://about.gitlab.com/blog/gitlab-act-2/",
+      "score": 132,
+      "comments": 76,
+      "author": "AnonGitLabEmpl",
+      "tags": [],
+      "date": "2026-05-11T20:51:57+00:00",
+      "severity": "critical"
+    },
+    {
+      "id": "hn-48100227",
+      "source": "hn",
+      "title": "Show HN: E2a – Open-source email gateway for AI agents",
+      "url": "https://github.com/Mnexa-AI/e2a",
+      "score": 10,
+      "comments": 1,
+      "author": "mnexa",
+      "tags": [],
+      "date": "2026-05-11T20:26:17+00:00",
+      "severity": "critical"
+    },
     {
       "id": "hn-48100192",
       "source": "hn",
       "title": "Show HN: OpenGravity – A zero-install, BYOK vanilla JS clone of Antigravity",
       "url": "https://github.com/ab-613/opengravity",
-      "score": 3,
-      "comments": 0,
+      "score": 22,
+      "comments": 8,
       "author": "ab613",
       "tags": [],
       "date": "2026-05-11T20:23:25+00:00"
@@ -18,8 +64,8 @@
       "source": "hn",
       "title": "Linux Terminal Memory Usage",
       "url": "https://gilesorr.com/blog/linux-terminal-memory-usage.html",
-      "score": 15,
-      "comments": 12,
+      "score": 27,
+      "comments": 22,
       "author": "speckx",
       "tags": [],
       "date": "2026-05-11T19:49:39+00:00"
@@ -29,8 +75,8 @@
       "source": "hn",
       "title": "Library for fast mapping of Java records to native memory",
       "url": "https://github.com/mamba-studio/TypedMemory",
-      "score": 51,
-      "comments": 15,
+      "score": 78,
+      "comments": 21,
       "author": "joe_mwangi",
       "tags": [],
       "date": "2026-05-11T19:33:31+00:00"
@@ -38,10 +84,10 @@
     {
       "id": "hn-48098537",
       "source": "hn",
-      "title": "Can Someone Please Explain Whether Cloudflare Blackmailed Canonical?",
+      "title": "Can someone please explain whether Cloudflare blackmailed Canonical?",
       "url": "https://www.flyingpenguin.com/can-someone-please-explain-whether-cloudflare-blackmailed-canonical/",
-      "score": 143,
-      "comments": 66,
+      "score": 194,
+      "comments": 107,
       "author": "speckx",
       "tags": [],
       "date": "2026-05-11T18:12:38+00:00"
@@ -51,8 +97,8 @@
       "source": "hn",
       "title": "UCLA discovers first stroke rehabilitation drug to repair brain damage (2025)",
       "url": "https://stemcell.ucla.edu/news/ucla-discovers-first-stroke-rehabilitation-drug-repair-brain-damage",
-      "score": 58,
-      "comments": 16,
+      "score": 110,
+      "comments": 27,
       "author": "bookofjoe",
       "tags": [],
       "date": "2026-05-11T17:53:08+00:00"
@@ -97,8 +143,8 @@
       "source": "hn",
       "title": "Interfaze: A new model architecture built for high accuracy at scale",
       "url": "https://interfaze.ai/blog/interfaze-a-new-model-architecture-built-for-high-accuracy-at-scale",
-      "score": 76,
-      "comments": 17,
+      "score": 91,
+      "comments": 19,
       "author": "yoeven",
       "tags": [],
       "date": "2026-05-11T16:22:31+00:00"
@@ -119,8 +165,8 @@
       "source": "hn",
       "title": "CUDA-oxide: Nvidia's official Rust to CUDA compiler",
       "url": "https://nvlabs.github.io/cuda-oxide/index.html",
-      "score": 313,
-      "comments": 97,
+      "score": 333,
+      "comments": 102,
       "author": "adamnemecek",
       "tags": [],
       "date": "2026-05-11T15:55:07+00:00"
@@ -198,8 +244,8 @@
       "source": "hn",
       "title": "Ratty – A terminal emulator with inline 3D graphics",
       "url": "https://ratty-term.org/",
-      "score": 566,
-      "comments": 181,
+      "score": 582,
+      "comments": 188,
       "author": "orhunp_",
       "tags": [],
       "date": "2026-05-11T10:13:04+00:00"
@@ -233,8 +279,8 @@
       "source": "hn",
       "title": "Gmail registration now requires scanning a QR code and sending a text message",
       "url": "https://discuss.privacyguides.net/t/google-account-registration-now-requires-sending-an-sms-via-phone-instead-of-receiving-an-sms/36082",
-      "score": 484,
-      "comments": 335,
+      "score": 513,
+      "comments": 360,
       "author": "negura",
       "tags": [],
       "date": "2026-05-11T07:26:54+00:00"
@@ -613,8 +659,8 @@
       "source": "hn",
       "title": "Training an LLM in Swift, Part 1: Taking matrix mult from Gflop/s to Tflop/s",
       "url": "https://www.cocoawithlove.com/blog/matrix-multiplications-swift.html",
-      "score": 188,
-      "comments": 9,
+      "score": 200,
+      "comments": 10,
       "author": "zdw",
       "tags": [],
       "date": "2026-05-10T17:05:05+00:00"
@@ -1020,6 +1066,17 @@
       "author": "imtomt",
       "tags": [],
       "date": "2026-05-10T03:01:44+00:00"
+    },
+    {
+      "id": "hn-48080316",
+      "source": "hn",
+      "title": "Silverback Imfura took a chance, and ended up alone",
+      "url": "https://gorillafund.org/mountain-gorillas/silverback-imfura-took-a-chance-and-ended-up-alone/",
+      "score": 4,
+      "comments": 0,
+      "author": "alex000kim",
+      "tags": [],
+      "date": "2026-05-10T02:06:19+00:00"
     },
     {
       "id": "hn-48080221",
@@ -1552,7 +1609,7 @@
       "source": "hn",
       "title": "Counting Fast in Erlang with:counters and:atomics",
       "url": "https://andrealeopardi.com/posts/erlang-counters-and-atomics/",
-      "score": 47,
+      "score": 59,
       "comments": 2,
       "author": "malmz",
       "tags": [],
@@ -1734,8 +1791,8 @@
       "source": "hn",
       "title": "The Boston library where you still can borrow a giant puppet",
       "url": "https://binj.news/2026/05/06/the-boston-library-where-you-still-can-borrow-a-giant-puppet/",
-      "score": 29,
-      "comments": 2,
+      "score": 37,
+      "comments": 3,
       "author": "gnabgib",
       "tags": [],
       "date": "2026-05-08T22:47:06+00:00"
@@ -2011,8 +2068,8 @@
       "source": "hn",
       "title": "AMÁLIA and the future of European Portuguese LLMs",
       "url": "https://duarteocarmo.com/blog/amalia-and-the-future-of-european-portuguese-llms",
-      "score": 100,
-      "comments": 49,
+      "score": 105,
+      "comments": 53,
       "author": "johnbarron",
       "tags": [],
       "date": "2026-05-08T16:34:45+00:00"
@@ -2307,11 +2364,22 @@
       "source": "hn",
       "title": "Nullsoft, 1997-2004 (2004)",
       "url": "https://slate.com/technology/2004/11/the-death-of-the-last-maverick-tech-company.html",
-      "score": 173,
-      "comments": 55,
+      "score": 198,
+      "comments": 62,
       "author": "downbad_",
       "tags": [],
       "date": "2026-05-08T08:00:44+00:00"
+    },
+    {
+      "id": "hn-48059831",
+      "source": "hn",
+      "title": "I hate soldering existentially",
+      "url": "https://user8.bearblog.dev/rant/",
+      "score": 25,
+      "comments": 27,
+      "author": "James72689",
+      "tags": [],
+      "date": "2026-05-08T07:26:37+00:00"
     },
     {
       "id": "hn-48059761",
@@ -2882,6 +2950,17 @@
       "date": "2026-05-07T16:43:35+00:00"
     },
     {
+      "id": "hn-48051555",
+      "source": "hn",
+      "title": "The rise and fall of snake oil",
+      "url": "https://www.historytoday.com/archive/history-matters/rise-and-fall-snake-oil",
+      "score": 14,
+      "comments": 4,
+      "author": "samizdis",
+      "tags": [],
+      "date": "2026-05-07T16:43:11+00:00"
+    },
+    {
       "id": "qiita-b6c0ddbdee",
       "source": "zennqiita",
       "sub_source": "Qiita",
@@ -3088,7 +3167,7 @@
       "source": "hn",
       "title": "From Buffon's Needle to Buffon's Noodle",
       "url": "https://mbmccoy.dev/posts/buffons-noodle/",
-      "score": 19,
+      "score": 20,
       "comments": 6,
       "author": "_alternator_",
       "tags": [],
@@ -5094,87 +5173,6 @@
       "author": "fraXis",
       "tags": [],
       "date": "2026-05-05T15:49:34+00:00"
-    },
-    {
-      "id": "hn-48024129",
-      "source": "hn",
-      "title": "EEVblog: The 555 Timer is 55 years old [video]",
-      "url": "https://www.youtube.com/watch?v=6JhK8iCQuqI",
-      "score": 313,
-      "comments": 83,
-      "author": "brudgers",
-      "tags": [],
-      "date": "2026-05-05T15:47:18+00:00"
-    },
-    {
-      "id": "hn-48023861",
-      "source": "hn",
-      "title": "Three Inverse Laws of AI",
-      "url": "https://susam.net/inverse-laws-of-robotics.html",
-      "score": 501,
-      "comments": 330,
-      "author": "blenderob",
-      "tags": [],
-      "date": "2026-05-05T15:27:18+00:00"
-    },
-    {
-      "id": "hn-48023691",
-      "source": "hn",
-      "title": "New Landing Page for Awesome PaaS",
-      "url": "https://debarshibasak.github.io/awesome-paas/",
-      "score": 6,
-      "comments": 5,
-      "author": "debarshri",
-      "tags": [],
-      "date": "2026-05-05T15:15:55+00:00"
-    },
-    {
-      "id": "qiita-56f5bfff5e",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "人口減少と \"置き換え\" をどう防ぐか―所得・子育て・移民政策の構造を読み解く : Pythonで学ぶ マクロ経済学入門 (78)",
-      "url": "https://qiita.com/maskot1977/items/f693fc76db8406b5ac6b?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "maskot1977",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-05-06T00:08:06+09:00"
-    },
-    {
-      "id": "hn-48023533",
-      "source": "hn",
-      "title": "Agents for financial services and insurance",
-      "url": "https://www.anthropic.com/news/finance-agents",
-      "score": 236,
-      "comments": 171,
-      "author": "louiereederson",
-      "tags": [],
-      "date": "2026-05-05T15:05:47+00:00"
-    },
-    {
-      "id": "hn-48022900",
-      "source": "hn",
-      "title": "Incident with Actions",
-      "url": "https://www.githubstatus.com/incidents/1j40g94rn22j",
-      "score": 136,
-      "comments": 71,
-      "author": "pera",
-      "tags": [],
-      "date": "2026-05-05T14:21:18+00:00"
-    },
-    {
-      "id": "qiita-94f259f801",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "ハードウェアバディでClaudeとおともだち",
-      "url": "https://qiita.com/moritalous/items/cd53aec76db1dec20862?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "moritalous",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-05-05T23:19:24+09:00"
     },
     {
       "id": "ghrel-projectdiscovery_nuclei-310617486",

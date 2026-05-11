@@ -1,7 +1,62 @@
 {
-  "updated_at": "2026-05-11T19:46:38.294541+00:00",
+  "updated_at": "2026-05-11T21:16:37.454797+00:00",
   "count": 500,
   "items": [
+    {
+      "id": "hn-48100192",
+      "source": "hn",
+      "title": "Show HN: OpenGravity – A zero-install, BYOK vanilla JS clone of Antigravity",
+      "url": "https://github.com/ab-613/opengravity",
+      "score": 3,
+      "comments": 0,
+      "author": "ab613",
+      "tags": [],
+      "date": "2026-05-11T20:23:25+00:00"
+    },
+    {
+      "id": "hn-48099790",
+      "source": "hn",
+      "title": "Linux Terminal Memory Usage",
+      "url": "https://gilesorr.com/blog/linux-terminal-memory-usage.html",
+      "score": 15,
+      "comments": 12,
+      "author": "speckx",
+      "tags": [],
+      "date": "2026-05-11T19:49:39+00:00"
+    },
+    {
+      "id": "hn-48099616",
+      "source": "hn",
+      "title": "Library for fast mapping of Java records to native memory",
+      "url": "https://github.com/mamba-studio/TypedMemory",
+      "score": 51,
+      "comments": 15,
+      "author": "joe_mwangi",
+      "tags": [],
+      "date": "2026-05-11T19:33:31+00:00"
+    },
+    {
+      "id": "hn-48098537",
+      "source": "hn",
+      "title": "Can Someone Please Explain Whether Cloudflare Blackmailed Canonical?",
+      "url": "https://www.flyingpenguin.com/can-someone-please-explain-whether-cloudflare-blackmailed-canonical/",
+      "score": 143,
+      "comments": 66,
+      "author": "speckx",
+      "tags": [],
+      "date": "2026-05-11T18:12:38+00:00"
+    },
+    {
+      "id": "hn-48098261",
+      "source": "hn",
+      "title": "UCLA discovers first stroke rehabilitation drug to repair brain damage (2025)",
+      "url": "https://stemcell.ucla.edu/news/ucla-discovers-first-stroke-rehabilitation-drug-repair-brain-damage",
+      "score": 58,
+      "comments": 16,
+      "author": "bookofjoe",
+      "tags": [],
+      "date": "2026-05-11T17:53:08+00:00"
+    },
     {
       "id": "hn-48098122",
       "source": "hn",
@@ -12,6 +67,17 @@
       "author": "rooppal",
       "tags": [],
       "date": "2026-05-11T17:43:12+00:00"
+    },
+    {
+      "id": "hn-48097796",
+      "source": "hn",
+      "title": "Microsoft Israel chief leaves amid ethical controversy",
+      "url": "https://en.globes.co.il/en/article-microsoft-israel-chief-leaves-amid-ethical-controversy-1001542602",
+      "score": 114,
+      "comments": 118,
+      "author": "bhouston",
+      "tags": [],
+      "date": "2026-05-11T17:18:11+00:00"
     },
     {
       "id": "qiita-001186601b",
@@ -31,8 +97,8 @@
       "source": "hn",
       "title": "Interfaze: A new model architecture built for high accuracy at scale",
       "url": "https://interfaze.ai/blog/interfaze-a-new-model-architecture-built-for-high-accuracy-at-scale",
-      "score": 47,
-      "comments": 9,
+      "score": 76,
+      "comments": 17,
       "author": "yoeven",
       "tags": [],
       "date": "2026-05-11T16:22:31+00:00"
@@ -53,8 +119,8 @@
       "source": "hn",
       "title": "CUDA-oxide: Nvidia's official Rust to CUDA compiler",
       "url": "https://nvlabs.github.io/cuda-oxide/index.html",
-      "score": 267,
-      "comments": 79,
+      "score": 313,
+      "comments": 97,
       "author": "adamnemecek",
       "tags": [],
       "date": "2026-05-11T15:55:07+00:00"
@@ -82,12 +148,25 @@
       "date": "2026-05-11T15:39:37+00:00"
     },
     {
+      "id": "qiita-c7f84d3390",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "\"国の借金\"とは何なのか？ ― 財源幻想・財政法・マクロ経済学の基本から日本経済を考える : Pythonで学ぶ マクロ経済学入門 (80)",
+      "url": "https://qiita.com/maskot1977/items/c4d369cb72aabcf26d77?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "maskot1977",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-05-12T00:04:50+09:00"
+    },
+    {
       "id": "hn-48095550",
       "source": "hn",
       "title": "Software engineering may no longer be a lifetime career",
       "url": "https://www.seangoedecke.com/software-engineering-may-no-longer-be-a-lifetime-career/",
-      "score": 214,
-      "comments": 399,
+      "score": 279,
+      "comments": 481,
       "author": "movis",
       "tags": [],
       "date": "2026-05-11T14:34:08+00:00"
@@ -119,11 +198,24 @@
       "source": "hn",
       "title": "Ratty – A terminal emulator with inline 3D graphics",
       "url": "https://ratty-term.org/",
-      "score": 522,
-      "comments": 173,
+      "score": 566,
+      "comments": 181,
       "author": "orhunp_",
       "tags": [],
       "date": "2026-05-11T10:13:04+00:00"
+    },
+    {
+      "id": "qiita-46fc313572",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "AIが書くpandasコード、だいたい地雷が混じっている話",
+      "url": "https://qiita.com/ALeX_EXVS/items/cd2c603abf8b48fc23a8?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "ALeX_EXVS",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-05-11T17:45:56+09:00"
     },
     {
       "id": "hn-48092367",
@@ -141,8 +233,8 @@
       "source": "hn",
       "title": "Gmail registration now requires scanning a QR code and sending a text message",
       "url": "https://discuss.privacyguides.net/t/google-account-registration-now-requires-sending-an-sms-via-phone-instead-of-receiving-an-sms/36082",
-      "score": 418,
-      "comments": 274,
+      "score": 484,
+      "comments": 335,
       "author": "negura",
       "tags": [],
       "date": "2026-05-11T07:26:54+00:00"
@@ -236,12 +328,38 @@
       "date": "2026-05-11T12:04:10+09:00"
     },
     {
+      "id": "qiita-4b773fff0c",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "【Amazon Quick 入門】Freeプランで使用できる4つの機能を体験してみた！",
+      "url": "https://qiita.com/yosuke-suzuki/items/54d5272459334faa6fa4?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "yosuke-suzuki",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-05-11T11:58:43+09:00"
+    },
+    {
+      "id": "qiita-44b7a7b3fe",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "Copilot Studio を使って問い合わせ文章から不足情報を自動抽出・追加入力させる仕組みを作ってみた",
+      "url": "https://qiita.com/sonooh/items/a8255796822ae652cd8c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "sonooh",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-05-11T11:50:35+09:00"
+    },
+    {
       "id": "hn-48090521",
       "source": "hn",
       "title": "The greatest shot in television: James Burke had one chance to nail this scene (2024)",
       "url": "https://www.openculture.com/2024/10/the-greatest-shot-in-television.html",
-      "score": 312,
-      "comments": 175,
+      "score": 326,
+      "comments": 181,
       "author": "susam",
       "tags": [],
       "date": "2026-05-11T02:43:34+00:00"
@@ -374,6 +492,19 @@
       "date": "2026-05-10T23:02:31+00:00"
     },
     {
+      "id": "qiita-982bbc4e42",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "【個人開発者必見】CodexとRemotionを使って動画編集未経験者が3日でプロモーションビデオを作った",
+      "url": "https://qiita.com/yoshikim1467/items/eccd50ba2e3ff24b70e3?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "yoshikim1467",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-05-11T08:01:42+09:00"
+    },
+    {
       "id": "qiita-a80f15ab73",
       "source": "zennqiita",
       "sub_source": "Qiita",
@@ -437,8 +568,8 @@
       "source": "hn",
       "title": "Hardware Attestation as Monopoly Enabler",
       "url": "https://grapheneos.social/@GrapheneOS/116550899908879585",
-      "score": 2022,
-      "comments": 680,
+      "score": 2044,
+      "comments": 690,
       "author": "ChuckMcM",
       "tags": [],
       "date": "2026-05-10T17:54:02+00:00"
@@ -482,8 +613,8 @@
       "source": "hn",
       "title": "Training an LLM in Swift, Part 1: Taking matrix mult from Gflop/s to Tflop/s",
       "url": "https://www.cocoawithlove.com/blog/matrix-multiplications-swift.html",
-      "score": 176,
-      "comments": 8,
+      "score": 188,
+      "comments": 9,
       "author": "zdw",
       "tags": [],
       "date": "2026-05-10T17:05:05+00:00"
@@ -1421,8 +1552,8 @@
       "source": "hn",
       "title": "Counting Fast in Erlang with:counters and:atomics",
       "url": "https://andrealeopardi.com/posts/erlang-counters-and-atomics/",
-      "score": 12,
-      "comments": 0,
+      "score": 47,
+      "comments": 2,
       "author": "malmz",
       "tags": [],
       "date": "2026-05-09T08:26:57+00:00"
@@ -1601,10 +1732,10 @@
     {
       "id": "hn-48069685",
       "source": "hn",
-      "title": "The Boston Library Where You Still Can Borrow a Giant Puppet",
+      "title": "The Boston library where you still can borrow a giant puppet",
       "url": "https://binj.news/2026/05/06/the-boston-library-where-you-still-can-borrow-a-giant-puppet/",
-      "score": 17,
-      "comments": 0,
+      "score": 29,
+      "comments": 2,
       "author": "gnabgib",
       "tags": [],
       "date": "2026-05-08T22:47:06+00:00"
@@ -1880,8 +2011,8 @@
       "source": "hn",
       "title": "AMÁLIA and the future of European Portuguese LLMs",
       "url": "https://duarteocarmo.com/blog/amalia-and-the-future-of-european-portuguese-llms",
-      "score": 86,
-      "comments": 38,
+      "score": 100,
+      "comments": 49,
       "author": "johnbarron",
       "tags": [],
       "date": "2026-05-08T16:34:45+00:00"
@@ -2003,8 +2134,8 @@
       "source": "hn",
       "title": "Building a web server in aarch64 assembly to give my life (a lack of) meaning",
       "url": "https://imtomt.github.io/ymawky/",
-      "score": 75,
-      "comments": 26,
+      "score": 83,
+      "comments": 29,
       "author": "theanonymousone",
       "tags": [],
       "date": "2026-05-08T13:39:26+00:00"
@@ -2026,8 +2157,8 @@
       "source": "hn",
       "title": "Holding Community Space",
       "url": "https://supernuclear.substack.com/p/building-a-space-people-never-want",
-      "score": 20,
-      "comments": 14,
+      "score": 34,
+      "comments": 21,
       "author": "surprisetalk",
       "tags": [],
       "date": "2026-05-08T13:15:14+00:00"
@@ -2176,8 +2307,8 @@
       "source": "hn",
       "title": "Nullsoft, 1997-2004 (2004)",
       "url": "https://slate.com/technology/2004/11/the-death-of-the-last-maverick-tech-company.html",
-      "score": 137,
-      "comments": 42,
+      "score": 173,
+      "comments": 55,
       "author": "downbad_",
       "tags": [],
       "date": "2026-05-08T08:00:44+00:00"
@@ -2290,8 +2421,8 @@
       "source": "hn",
       "title": "Guitar tuner that uses phone accelerometer",
       "url": "https://tautme.github.io/phone-sensors/accel-tuner.html",
-      "score": 133,
-      "comments": 76,
+      "score": 139,
+      "comments": 83,
       "author": "adm4",
       "tags": [],
       "date": "2026-05-08T03:43:08+00:00"
@@ -2957,8 +3088,8 @@
       "source": "hn",
       "title": "From Buffon's Needle to Buffon's Noodle",
       "url": "https://mbmccoy.dev/posts/buffons-noodle/",
-      "score": 12,
-      "comments": 2,
+      "score": 19,
+      "comments": 6,
       "author": "_alternator_",
       "tags": [],
       "date": "2026-05-07T13:42:15+00:00"
@@ -5044,133 +5175,6 @@
         "Qiita"
       ],
       "date": "2026-05-05T23:19:24+09:00"
-    },
-    {
-      "id": "hn-48022742",
-      "source": "hn",
-      "title": "AI didn't delete your database, you did",
-      "url": "https://idiallo.com/blog/ai-didnt-delete-your-database-you-did",
-      "score": 333,
-      "comments": 172,
-      "author": "Brajeshwar",
-      "tags": [],
-      "date": "2026-05-05T14:07:50+00:00"
-    },
-    {
-      "id": "hn-48022596",
-      "source": "hn",
-      "title": "Simple Meta-Harness on Islo.dev",
-      "url": "https://zozo123.github.io/meta-harness-on-islo-page/",
-      "score": 34,
-      "comments": 17,
-      "author": "zozo123-IB",
-      "tags": [],
-      "date": "2026-05-05T13:55:45+00:00"
-    },
-    {
-      "id": "qiita-95c066a543",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "【QRadar × Kali Linux】サイバー攻撃の検知方法",
-      "url": "https://qiita.com/ohtsuka-shota/items/29c395ac8776a25515a2?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "ohtsuka-shota",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-05-05T22:18:52+09:00"
-    },
-    {
-      "id": "qiita-c476d47aaf",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "大量のSkillを効率的に管理する特化型CLIツール「sklock」を作りました",
-      "url": "https://qiita.com/artie/items/980b1b48f943e096b46c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "artie",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-05-05T22:15:45+09:00"
-    },
-    {
-      "id": "hn-48021968",
-      "source": "hn",
-      "title": "AI Product Graveyard",
-      "url": "https://tooldirectory.ai/ai-graveyard",
-      "score": 190,
-      "comments": 77,
-      "author": "StriverGuy",
-      "tags": [],
-      "date": "2026-05-05T13:00:47+00:00"
-    },
-    {
-      "id": "hn-48021901",
-      "source": "hn",
-      "title": "Community firmware for the Xteink X4 e-paper reader",
-      "url": "https://github.com/crosspoint-reader/crosspoint-reader",
-      "score": 103,
-      "comments": 29,
-      "author": "dmos62",
-      "tags": [],
-      "date": "2026-05-05T12:56:16+00:00"
-    },
-    {
-      "id": "hn-48021561",
-      "source": "hn",
-      "title": "iOS 27 is adding a 'Create a Pass' button to Apple Wallet",
-      "url": "https://walletwallet.alen.ro/blog/ios-27-wallet-create-pass/",
-      "score": 354,
-      "comments": 266,
-      "author": "alentodorov",
-      "tags": [],
-      "date": "2026-05-05T12:28:28+00:00"
-    },
-    {
-      "id": "hn-48021368",
-      "source": "hn",
-      "title": "Today I've made the difficult decision to reduce the size of Coinbase by ~14%",
-      "url": "https://twitter.com/brian_armstrong/status/2051616759145185723",
-      "score": 357,
-      "comments": 545,
-      "author": "adrianmsmith",
-      "tags": [],
-      "date": "2026-05-05T12:10:24+00:00"
-    },
-    {
-      "id": "hn-48021240",
-      "source": "hn",
-      "title": "Rolling the Root Key",
-      "url": "https://blog.apnic.net/2026/05/05/rolling-the-root-key/",
-      "score": 12,
-      "comments": 2,
-      "author": "jandeboevrie",
-      "tags": [],
-      "date": "2026-05-05T11:56:59+00:00"
-    },
-    {
-      "id": "hn-48021023",
-      "source": "hn",
-      "title": "A polynomial autoencoder beats PCA on transformer embeddings",
-      "url": "https://ivanpleshkov.dev/blog/polynomial-autoencoder/",
-      "score": 76,
-      "comments": 18,
-      "author": "timvisee",
-      "tags": [],
-      "date": "2026-05-05T11:31:12+00:00"
-    },
-    {
-      "id": "qiita-ce6f3d8357",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "Claude 開発ワークフロー — Explore → Plan → Code → Commit の4段階",
-      "url": "https://qiita.com/teppei19980914/items/b1d48d9624831519cbbf?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "teppei19980914",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-05-05T20:12:18+09:00"
     },
     {
       "id": "ghrel-projectdiscovery_nuclei-310617486",

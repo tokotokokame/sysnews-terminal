@@ -1,26 +1,81 @@
 {
-  "updated_at": "2026-05-12T18:55:34.873025+00:00",
+  "updated_at": "2026-05-12T20:28:36.123078+00:00",
   "count": 500,
   "items": [
+    {
+      "id": "hn-48113895",
+      "source": "hn",
+      "title": "How to make your text look futuristic",
+      "url": "https://typesetinthefuture.com/2016/02/18/futuristic/",
+      "score": 6,
+      "comments": 0,
+      "author": "_vaporwave_",
+      "tags": [],
+      "date": "2026-05-12T20:16:26+00:00"
+    },
+    {
+      "id": "hn-48113425",
+      "source": "hn",
+      "title": "Snowflake Postgres, Lakebase, HorizonDB: Picking the Lock-In You Want",
+      "url": "https://thebuild.com/blog/2026/05/12/snowflake-postgres-lakebase-horizondb-picking-the-lock-in-you-want/",
+      "score": 12,
+      "comments": 0,
+      "author": "samaysharma",
+      "tags": [],
+      "date": "2026-05-12T19:45:02+00:00"
+    },
+    {
+      "id": "hn-48113079",
+      "source": "hn",
+      "title": "The Rise of the Bullshittery",
+      "url": "https://xn--gckvb8fzb.com/the-rise-of-the-bullshittery/",
+      "score": 88,
+      "comments": 50,
+      "author": "dxs",
+      "tags": [],
+      "date": "2026-05-12T19:18:30+00:00"
+    },
     {
       "id": "hn-48112042",
       "source": "hn",
       "title": "CERT is releasing six CVEs for serious security vulnerabilities in dnsmasq",
       "url": "https://lists.thekelleys.org.uk/pipermail/dnsmasq-discuss/2026q2/018471.html",
-      "score": 22,
-      "comments": 1,
+      "score": 123,
+      "comments": 32,
       "author": "chizhik-pyzhik",
       "tags": [],
       "date": "2026-05-12T18:12:28+00:00",
       "severity": "high"
     },
     {
+      "id": "hn-48111896",
+      "source": "hn",
+      "title": "Show HN: Needle: We Distilled Gemini Tool Calling into a 26M Model",
+      "url": "https://github.com/cactus-compute/needle",
+      "score": 98,
+      "comments": 23,
+      "author": "HenryNdubuaku",
+      "tags": [],
+      "date": "2026-05-12T18:03:11+00:00"
+    },
+    {
+      "id": "hn-48111765",
+      "source": "hn",
+      "title": "Quack: The DuckDB Client-Server Protocol",
+      "url": "https://duckdb.org/2026/05/12/quack-remote-protocol",
+      "score": 65,
+      "comments": 9,
+      "author": "aduffy",
+      "tags": [],
+      "date": "2026-05-12T17:54:12+00:00"
+    },
+    {
       "id": "hn-48111748",
       "source": "hn",
       "title": "Dead.Letter (CVE-2026-45185) – How XBOW found an unauthenticated RCE on Exim",
       "url": "https://xbow.com/blog/dead-letter-cve-2026-45185-xbow-found-rce-exim",
-      "score": 19,
-      "comments": 8,
+      "score": 41,
+      "comments": 14,
       "author": "fedek_",
       "tags": [],
       "date": "2026-05-12T17:52:34+00:00",
@@ -42,8 +97,8 @@
       "source": "hn",
       "title": "Googlebook",
       "url": "https://googlebook.google/",
-      "score": 152,
-      "comments": 176,
+      "score": 334,
+      "comments": 495,
       "author": "tambourine_man",
       "tags": [],
       "date": "2026-05-12T17:37:36+00:00"
@@ -53,8 +108,8 @@
       "source": "hn",
       "title": "Canada’s Bill C-22 Is a Repackaged Version of Last Year’s Surveillance Nightmare",
       "url": "https://www.eff.org/deeplinks/2026/05/canadas-bill-c-22-repackaged-version-last-years-surveillance-nightmare",
-      "score": 53,
-      "comments": 21,
+      "score": 114,
+      "comments": 39,
       "author": "Brajeshwar",
       "tags": [],
       "date": "2026-05-12T17:35:58+00:00"
@@ -64,11 +119,22 @@
       "source": "hn",
       "title": "Show HN: Agentic interface for mainframes and COBOL",
       "url": "https://www.hypercubic.ai/hopper",
-      "score": 24,
-      "comments": 5,
+      "score": 29,
+      "comments": 12,
       "author": "sai18",
       "tags": [],
       "date": "2026-05-12T17:10:22+00:00"
+    },
+    {
+      "id": "hn-48110858",
+      "source": "hn",
+      "title": "Testing UPS Output Waveforms",
+      "url": "https://www.lttlabs.com/articles/2026/05/12/ups-exploration",
+      "score": 34,
+      "comments": 28,
+      "author": "LabsLucas",
+      "tags": [],
+      "date": "2026-05-12T16:50:59+00:00"
     },
     {
       "id": "hn-48110529",
@@ -86,8 +152,8 @@
       "source": "hn",
       "title": "The Future of Obsidian Plugins",
       "url": "https://obsidian.md/blog/future-of-plugins/",
-      "score": 134,
-      "comments": 62,
+      "score": 196,
+      "comments": 76,
       "author": "xz18r",
       "tags": [],
       "date": "2026-05-12T15:45:54+00:00"
@@ -119,8 +185,8 @@
       "source": "hn",
       "title": "Why senior developers fail to communicate their expertise",
       "url": "https://www.nair.sh/guides-and-opinions/communicating-your-expertise/why-senior-developers-fail-to-communicate-their-expertise",
-      "score": 110,
-      "comments": 43,
+      "score": 204,
+      "comments": 93,
       "author": "nilirl",
       "tags": [],
       "date": "2026-05-12T15:08:40+00:00"
@@ -130,8 +196,8 @@
       "source": "hn",
       "title": "Bambu Lab is abusing the open source social contract",
       "url": "https://www.jeffgeerling.com/blog/2026/bambu-lab-abusing-open-source-social-contract/",
-      "score": 747,
-      "comments": 259,
+      "score": 885,
+      "comments": 304,
       "author": "rubenbe",
       "tags": [],
       "date": "2026-05-12T14:54:41+00:00",
@@ -142,8 +208,8 @@
       "source": "hn",
       "title": "Show HN: Statewright – Visual state machines that make AI agents reliable",
       "url": "https://github.com/statewright/statewright",
-      "score": 13,
-      "comments": 4,
+      "score": 31,
+      "comments": 7,
       "author": "azurewraith",
       "tags": [],
       "date": "2026-05-12T14:24:55+00:00"
@@ -177,11 +243,24 @@
       "source": "hn",
       "title": "Rendering the Sky, Sunsets, and Planets",
       "url": "https://blog.maximeheckel.com/posts/on-rendering-the-sky-sunsets-and-planets/",
-      "score": 306,
-      "comments": 26,
+      "score": 338,
+      "comments": 30,
       "author": "ibobev",
       "tags": [],
       "date": "2026-05-12T13:26:46+00:00"
+    },
+    {
+      "id": "qiita-caa3ffd8ff",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "ここがすごいよClaude Platform on AWS",
+      "url": "https://qiita.com/moritalous/items/6ccba964655e83336f96?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "moritalous",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-05-12T21:47:26+09:00"
     },
     {
       "id": "hn-48107404",
@@ -204,6 +283,19 @@
       "author": "scottfr",
       "tags": [],
       "date": "2026-05-12T12:00:46+00:00"
+    },
+    {
+      "id": "qiita-0058496963",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "脳科学から見る、AI時代のエンジニアが成長する考え方",
+      "url": "https://qiita.com/Toyo_m/items/4e1dd272f6bd4b78131e?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "Toyo_m",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-05-12T20:17:59+09:00"
     },
     {
       "id": "hn-48106534",
@@ -243,8 +335,8 @@
       "source": "hn",
       "title": "Learning Software Architecture",
       "url": "https://matklad.github.io/2026/05/12/software-architecture.html",
-      "score": 440,
-      "comments": 81,
+      "score": 467,
+      "comments": 97,
       "author": "surprisetalk",
       "tags": [],
       "date": "2026-05-12T09:30:21+00:00"
@@ -302,8 +394,8 @@
       "source": "hn",
       "title": "Screenshots of Old Desktop OSes",
       "url": "http://www.typewritten.org/Media/",
-      "score": 572,
-      "comments": 293,
+      "score": 594,
+      "comments": 309,
       "author": "adunk",
       "tags": [],
       "date": "2026-05-12T05:11:24+00:00"
@@ -320,6 +412,19 @@
         "Qiita"
       ],
       "date": "2026-05-12T13:58:06+09:00"
+    },
+    {
+      "id": "qiita-c0773aabb4",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "流行りのUIをそのまま使わないために：5つのUIスタイルをUXとアクセシビリティで比較する",
+      "url": "https://qiita.com/issy345/items/411c02d36c36bd323cc7?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "issy345",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-05-12T13:47:48+09:00"
     },
     {
       "id": "qiita-6316fd414b",
@@ -387,8 +492,8 @@
       "source": "hn",
       "title": "Instructure pays ransom to Canvas hackers",
       "url": "https://www.insidehighered.com/news/tech-innovation/administrative-tech/2026/05/11/instructure-pays-ransom-canvas-hackers",
-      "score": 135,
-      "comments": 105,
+      "score": 176,
+      "comments": 158,
       "author": "Cider9986",
       "tags": [],
       "date": "2026-05-12T02:56:31+00:00"
@@ -407,6 +512,32 @@
       "date": "2026-05-12T11:48:44+09:00"
     },
     {
+      "id": "qiita-768d3a3735",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "PostgreSQL→Cloud Spanner大規模移行トラブル詳解 — 18時間ずれの解消と240テーブルPDML補正、Dataflow高速化の実戦",
+      "url": "https://qiita.com/kane_ryu/items/c96e6f0ab2b2dbab6ad8?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "kane_ryu",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-05-12T11:40:07+09:00"
+    },
+    {
+      "id": "qiita-7bb4feef43",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "マイグレーションの『バグ密度』は何%でアウトか？IPA白書との比較とAI想定問答の活用",
+      "url": "https://qiita.com/sh-ohtani/items/95f07f9a9e440b9099c5?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "sh-ohtani",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-05-12T11:38:20+09:00"
+    },
+    {
       "id": "qiita-4ddf6b5379",
       "source": "zennqiita",
       "sub_source": "Qiita",
@@ -418,6 +549,19 @@
         "Qiita"
       ],
       "date": "2026-05-12T11:36:38+09:00"
+    },
+    {
+      "id": "qiita-5c83148010",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "AIとの設計レビューを資産にする — 移行設計書の「4つの連動箇所」チェックとMarkdown永続化ワークフロー",
+      "url": "https://qiita.com/kane_ryu/items/c463c0cfb2e0f598f800?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "kane_ryu",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-05-12T11:29:55+09:00"
     },
     {
       "id": "hn-48103511",
@@ -564,8 +708,8 @@
       "source": "hn",
       "title": "Postmortem: TanStack NPM supply-chain compromise",
       "url": "https://tanstack.com/blog/npm-supply-chain-compromise-postmortem",
-      "score": 1027,
-      "comments": 433,
+      "score": 1044,
+      "comments": 434,
       "author": "varunsharma07",
       "tags": [],
       "date": "2026-05-11T21:08:25+00:00"
@@ -901,6 +1045,19 @@
       "tags": [],
       "date": "2026-05-11T06:39:08+00:00",
       "severity": "high"
+    },
+    {
+      "id": "qiita-c0a10fd7f1",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "開発の意図がひと目で伝わる！RaycastでGitmojiとバッジをサクッと入力する環境構築",
+      "url": "https://qiita.com/Yamashita_Sosuke/items/1ca158a9ce0b4346728e?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "Yamashita_Sosuke",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-05-11T14:54:26+09:00"
     },
     {
       "id": "hn-48091085",
@@ -1324,6 +1481,17 @@
       "author": "herbertl",
       "tags": [],
       "date": "2026-05-10T16:03:37+00:00"
+    },
+    {
+      "id": "hn-48084852",
+      "source": "hn",
+      "title": "We accidentally recreated old Facebook",
+      "url": "https://amrshawky.com/posts/we-accidentally-recreated-fb/",
+      "score": 19,
+      "comments": 4,
+      "author": "amr_shawky",
+      "tags": [],
+      "date": "2026-05-10T15:41:31+00:00"
     },
     {
       "id": "hn-48084836",
@@ -2515,8 +2683,8 @@
       "source": "hn",
       "title": "The Moth Story Map",
       "url": "https://themoth.org/dispatches/story-map",
-      "score": 5,
-      "comments": 0,
+      "score": 15,
+      "comments": 1,
       "author": "jxmorris12",
       "tags": [],
       "date": "2026-05-08T22:30:23+00:00"
@@ -2570,8 +2738,8 @@
       "source": "hn",
       "title": "When life gives you lemons, write better error messages",
       "url": "https://wix-ux.com/when-life-gives-you-lemons-write-better-error-messages-46c5223e1a2f",
-      "score": 43,
-      "comments": 9,
+      "score": 71,
+      "comments": 21,
       "author": "luispa",
       "tags": [],
       "date": "2026-05-08T21:31:44+00:00"
@@ -5013,164 +5181,6 @@
       "author": "pseudolus",
       "tags": [],
       "date": "2026-05-06T14:56:37+00:00"
-    },
-    {
-      "id": "hn-48036923",
-      "source": "hn",
-      "title": "Floats Don't Agree with Themselves",
-      "url": "https://docs.merca.earth/blog/floats-dont-agree-with-themselves",
-      "score": 29,
-      "comments": 12,
-      "author": "cremer",
-      "tags": [],
-      "date": "2026-05-06T14:48:03+00:00"
-    },
-    {
-      "id": "hn-48036746",
-      "source": "hn",
-      "title": "How to make SSE token streams resumable, cancellable, and multi-device",
-      "url": "https://zknill.io/posts/everyone-said-sse-token-streaming-was-easy/",
-      "score": 21,
-      "comments": 2,
-      "author": "zknill",
-      "tags": [],
-      "date": "2026-05-06T14:31:42+00:00"
-    },
-    {
-      "id": "hn-48036650",
-      "source": "hn",
-      "title": "Mythos is the best cybersecurity news in a decade",
-      "url": "https://sfstandard.com/opinion/2026/05/06/mythos-cybersecurity-ai/",
-      "score": 16,
-      "comments": 19,
-      "author": "littlexsparkee",
-      "tags": [],
-      "date": "2026-05-06T14:24:33+00:00"
-    },
-    {
-      "id": "hn-48036622",
-      "source": "hn",
-      "title": "Los Alamos and the long path to detecting neutrinos",
-      "url": "https://www.lanl.gov/media/publications/1663/from-ghost-particle-to-cosmic-messenger",
-      "score": 28,
-      "comments": 3,
-      "author": "LAsteNERD",
-      "tags": [],
-      "date": "2026-05-06T14:21:07+00:00"
-    },
-    {
-      "id": "hn-48036356",
-      "source": "hn",
-      "title": "Random tie knots (2014)",
-      "url": "https://tieknots.how/",
-      "score": 9,
-      "comments": 1,
-      "author": "surprisetalk",
-      "tags": [],
-      "date": "2026-05-06T14:00:10+00:00"
-    },
-    {
-      "id": "hn-48036289",
-      "source": "hn",
-      "title": "Man finds $1M worth of Yu-Gi-Oh cards in a dumpster",
-      "url": "https://www.404media.co/man-finds-1-million-worth-of-yu-gi-oh-cards-in-a-dumpster/",
-      "score": 93,
-      "comments": 31,
-      "author": "danso",
-      "tags": [],
-      "date": "2026-05-06T13:54:20+00:00"
-    },
-    {
-      "id": "hn-48036190",
-      "source": "hn",
-      "title": "OurCar: What I learned making an app for my family",
-      "url": "https://mendelgreenberg.com/posts/ourcar/",
-      "score": 96,
-      "comments": 68,
-      "author": "chabad360",
-      "tags": [],
-      "date": "2026-05-06T13:44:59+00:00"
-    },
-    {
-      "id": "qiita-42ac089083",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "未経験エンジニア向け記事まとめ｜つまずきポイントを構造から整理",
-      "url": "https://qiita.com/hitomin_poke/items/c19ea7a172218a86307b?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "hitomin_poke",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-05-06T22:25:05+09:00"
-    },
-    {
-      "id": "hn-48035677",
-      "source": "hn",
-      "title": "Show HN: Adam – An embeddable cross-platform AI agent library",
-      "url": "https://github.com/sqliteai/adam",
-      "score": 17,
-      "comments": 2,
-      "author": "marcobambini",
-      "tags": [],
-      "date": "2026-05-06T12:56:29+00:00"
-    },
-    {
-      "id": "hn-48035617",
-      "source": "hn",
-      "title": "Shrinkflation Is Quietly Making All Gadgets Worse",
-      "url": "https://gizmodo.com/shrinkflation-is-quietly-making-all-gadgets-worse-2000754565",
-      "score": 39,
-      "comments": 25,
-      "author": "cainxinth",
-      "tags": [],
-      "date": "2026-05-06T12:50:27+00:00"
-    },
-    {
-      "id": "hn-48035420",
-      "source": "hn",
-      "title": "Pinocchio is weirder than you remembered",
-      "url": "https://storica.club/blog/pinocchio-in-italian/",
-      "score": 254,
-      "comments": 103,
-      "author": "cemsakarya",
-      "tags": [],
-      "date": "2026-05-06T12:27:07+00:00"
-    },
-    {
-      "id": "hn-48035223",
-      "source": "hn",
-      "title": "Coverage Cat (YC S22) Seeks Fractional Engineer to Build AI Growth Toolkit",
-      "url": "https://www.coveragecat.com/careers/engineering/fractional-growth-engineer",
-      "score": 1,
-      "comments": 0,
-      "author": "botacode",
-      "tags": [],
-      "date": "2026-05-06T12:00:24+00:00"
-    },
-    {
-      "id": "qiita-ce8e9e0eaa",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "ラズベリーパイ用　24V入力　UPS基板作ってみた",
-      "url": "https://qiita.com/RaspiKoubou/items/077cca5602e2f54044dc?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "RaspiKoubou",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-05-06T20:56:54+09:00"
-    },
-    {
-      "id": "hn-48034762",
-      "source": "hn",
-      "title": "Setting up a Sun Ray server on OpenIndiana Hipster 2025.10",
-      "url": "https://catstret.ch/202605/srss-hipster202510/",
-      "score": 122,
-      "comments": 44,
-      "author": "jandeboevrie",
-      "tags": [],
-      "date": "2026-05-06T10:53:52+00:00"
     },
     {
       "id": "ghrel-projectdiscovery_nuclei-310617486",

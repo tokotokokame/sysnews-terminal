@@ -1,14 +1,93 @@
 {
-  "updated_at": "2026-05-12T16:37:30.258541+00:00",
+  "updated_at": "2026-05-12T18:55:34.873025+00:00",
   "count": 500,
   "items": [
+    {
+      "id": "hn-48112042",
+      "source": "hn",
+      "title": "CERT is releasing six CVEs for serious security vulnerabilities in dnsmasq",
+      "url": "https://lists.thekelleys.org.uk/pipermail/dnsmasq-discuss/2026q2/018471.html",
+      "score": 22,
+      "comments": 1,
+      "author": "chizhik-pyzhik",
+      "tags": [],
+      "date": "2026-05-12T18:12:28+00:00",
+      "severity": "high"
+    },
+    {
+      "id": "hn-48111748",
+      "source": "hn",
+      "title": "Dead.Letter (CVE-2026-45185) – How XBOW found an unauthenticated RCE on Exim",
+      "url": "https://xbow.com/blog/dead-letter-cve-2026-45185-xbow-found-rce-exim",
+      "score": 19,
+      "comments": 8,
+      "author": "fedek_",
+      "tags": [],
+      "date": "2026-05-12T17:52:34+00:00",
+      "severity": "critical"
+    },
+    {
+      "id": "hn-48111581",
+      "source": "hn",
+      "title": "Reimagining the mouse pointer for the AI era",
+      "url": "https://deepmind.google/blog/ai-pointer/",
+      "score": 32,
+      "comments": 17,
+      "author": "devhouse",
+      "tags": [],
+      "date": "2026-05-12T17:40:13+00:00"
+    },
+    {
+      "id": "hn-48111545",
+      "source": "hn",
+      "title": "Googlebook",
+      "url": "https://googlebook.google/",
+      "score": 152,
+      "comments": 176,
+      "author": "tambourine_man",
+      "tags": [],
+      "date": "2026-05-12T17:37:36+00:00"
+    },
+    {
+      "id": "hn-48111531",
+      "source": "hn",
+      "title": "Canada’s Bill C-22 Is a Repackaged Version of Last Year’s Surveillance Nightmare",
+      "url": "https://www.eff.org/deeplinks/2026/05/canadas-bill-c-22-repackaged-version-last-years-surveillance-nightmare",
+      "score": 53,
+      "comments": 21,
+      "author": "Brajeshwar",
+      "tags": [],
+      "date": "2026-05-12T17:35:58+00:00"
+    },
+    {
+      "id": "hn-48111143",
+      "source": "hn",
+      "title": "Show HN: Agentic interface for mainframes and COBOL",
+      "url": "https://www.hypercubic.ai/hopper",
+      "score": 24,
+      "comments": 5,
+      "author": "sai18",
+      "tags": [],
+      "date": "2026-05-12T17:10:22+00:00"
+    },
+    {
+      "id": "hn-48110529",
+      "source": "hn",
+      "title": "Amazon employees are \"tokenmaxxing\" due to pressure to use AI tools",
+      "url": "https://arstechnica.com/ai/2026/05/amazon-employees-are-tokenmaxxing-due-to-pressure-to-use-ai-tools/",
+      "score": 166,
+      "comments": 141,
+      "author": "Bender",
+      "tags": [],
+      "date": "2026-05-12T16:29:21+00:00"
+    },
     {
       "id": "hn-48109970",
       "source": "hn",
       "title": "The Future of Obsidian Plugins",
       "url": "https://obsidian.md/blog/future-of-plugins/",
-      "score": 27,
-      "comments": 3,
+      "score": 134,
+      "comments": 62,
       "author": "xz18r",
       "tags": [],
       "date": "2026-05-12T15:45:54+00:00"
@@ -18,8 +97,8 @@
       "source": "hn",
       "title": "Launch HN: Voker (YC S24) – Analytics for AI Agents",
       "url": "https://voker.ai",
-      "score": 9,
-      "comments": 3,
+      "score": 28,
+      "comments": 13,
       "author": "ttpost",
       "tags": [],
       "date": "2026-05-12T15:45:20+00:00"
@@ -36,16 +115,38 @@
       "date": "2026-05-12T15:13:01+00:00"
     },
     {
+      "id": "hn-48109460",
+      "source": "hn",
+      "title": "Why senior developers fail to communicate their expertise",
+      "url": "https://www.nair.sh/guides-and-opinions/communicating-your-expertise/why-senior-developers-fail-to-communicate-their-expertise",
+      "score": 110,
+      "comments": 43,
+      "author": "nilirl",
+      "tags": [],
+      "date": "2026-05-12T15:08:40+00:00"
+    },
+    {
       "id": "hn-48109224",
       "source": "hn",
       "title": "Bambu Lab is abusing the open source social contract",
       "url": "https://www.jeffgeerling.com/blog/2026/bambu-lab-abusing-open-source-social-contract/",
-      "score": 410,
-      "comments": 146,
+      "score": 747,
+      "comments": 259,
       "author": "rubenbe",
       "tags": [],
       "date": "2026-05-12T14:54:41+00:00",
       "severity": "critical"
+    },
+    {
+      "id": "hn-48108778",
+      "source": "hn",
+      "title": "Show HN: Statewright – Visual state machines that make AI agents reliable",
+      "url": "https://github.com/statewright/statewright",
+      "score": 13,
+      "comments": 4,
+      "author": "azurewraith",
+      "tags": [],
+      "date": "2026-05-12T14:24:55+00:00"
     },
     {
       "id": "qiita-ee74dabb35",
@@ -76,8 +177,8 @@
       "source": "hn",
       "title": "Rendering the Sky, Sunsets, and Planets",
       "url": "https://blog.maximeheckel.com/posts/on-rendering-the-sky-sunsets-and-planets/",
-      "score": 200,
-      "comments": 15,
+      "score": 306,
+      "comments": 26,
       "author": "ibobev",
       "tags": [],
       "date": "2026-05-12T13:26:46+00:00"
@@ -142,8 +243,8 @@
       "source": "hn",
       "title": "Learning Software Architecture",
       "url": "https://matklad.github.io/2026/05/12/software-architecture.html",
-      "score": 390,
-      "comments": 73,
+      "score": 440,
+      "comments": 81,
       "author": "surprisetalk",
       "tags": [],
       "date": "2026-05-12T09:30:21+00:00"
@@ -201,8 +302,8 @@
       "source": "hn",
       "title": "Screenshots of Old Desktop OSes",
       "url": "http://www.typewritten.org/Media/",
-      "score": 518,
-      "comments": 254,
+      "score": 572,
+      "comments": 293,
       "author": "adunk",
       "tags": [],
       "date": "2026-05-12T05:11:24+00:00"
@@ -280,6 +381,17 @@
       "author": "gx",
       "tags": [],
       "date": "2026-05-12T03:28:48+00:00"
+    },
+    {
+      "id": "hn-48103668",
+      "source": "hn",
+      "title": "Instructure pays ransom to Canvas hackers",
+      "url": "https://www.insidehighered.com/news/tech-innovation/administrative-tech/2026/05/11/instructure-pays-ransom-canvas-hackers",
+      "score": 135,
+      "comments": 105,
+      "author": "Cider9986",
+      "tags": [],
+      "date": "2026-05-12T02:56:31+00:00"
     },
     {
       "id": "qiita-244db9083b",
@@ -397,8 +509,8 @@
       "source": "hn",
       "title": "They Live (1988) inspired Adblocker",
       "url": "https://github.com/davmlaw/they_live_adblocker",
-      "score": 471,
-      "comments": 149,
+      "score": 500,
+      "comments": 159,
       "author": "tokenburner",
       "tags": [],
       "date": "2026-05-12T00:37:54+00:00"
@@ -452,8 +564,8 @@
       "source": "hn",
       "title": "Postmortem: TanStack NPM supply-chain compromise",
       "url": "https://tanstack.com/blog/npm-supply-chain-compromise-postmortem",
-      "score": 990,
-      "comments": 417,
+      "score": 1027,
+      "comments": 433,
       "author": "varunsharma07",
       "tags": [],
       "date": "2026-05-11T21:08:25+00:00"
@@ -667,8 +779,8 @@
       "source": "hn",
       "title": "The Surprisingly Long Life of the Vacuum Tube",
       "url": "https://www.construction-physics.com/p/the-surprisingly-long-life-of-the",
-      "score": 28,
-      "comments": 12,
+      "score": 45,
+      "comments": 26,
       "author": "surprisetalk",
       "tags": [],
       "date": "2026-05-11T15:30:17+00:00"
@@ -1379,8 +1491,8 @@
       "source": "hn",
       "title": "Profiling.sampling – Statistical Profiler",
       "url": "https://docs.python.org/3.15/library/profiling.sampling.html#module-profiling.sampling",
-      "score": 61,
-      "comments": 17,
+      "score": 73,
+      "comments": 20,
       "author": "djoldman",
       "tags": [],
       "date": "2026-05-10T11:19:03+00:00"
@@ -1651,6 +1763,17 @@
         "Qiita"
       ],
       "date": "2026-05-10T08:46:54+09:00"
+    },
+    {
+      "id": "hn-48079202",
+      "source": "hn",
+      "title": "The Real Story of Troy",
+      "url": "https://storica.club/blog/troy-was-real/",
+      "score": 23,
+      "comments": 13,
+      "author": "cemsakarya",
+      "tags": [],
+      "date": "2026-05-09T23:10:54+00:00"
     },
     {
       "id": "hn-48079114",
@@ -2388,6 +2511,17 @@
       "date": "2026-05-08T22:47:06+00:00"
     },
     {
+      "id": "hn-48069562",
+      "source": "hn",
+      "title": "The Moth Story Map",
+      "url": "https://themoth.org/dispatches/story-map",
+      "score": 5,
+      "comments": 0,
+      "author": "jxmorris12",
+      "tags": [],
+      "date": "2026-05-08T22:30:23+00:00"
+    },
+    {
       "id": "hn-48069354",
       "source": "hn",
       "title": "Judge rules DOGE cancellation of humanities grants was unconstitutional",
@@ -2430,6 +2564,17 @@
       "author": "bigflern",
       "tags": [],
       "date": "2026-05-08T21:37:45+00:00"
+    },
+    {
+      "id": "hn-48069032",
+      "source": "hn",
+      "title": "When life gives you lemons, write better error messages",
+      "url": "https://wix-ux.com/when-life-gives-you-lemons-write-better-error-messages-46c5223e1a2f",
+      "score": 43,
+      "comments": 9,
+      "author": "luispa",
+      "tags": [],
+      "date": "2026-05-08T21:31:44+00:00"
     },
     {
       "id": "hn-48068947",
@@ -5026,159 +5171,6 @@
       "author": "jandeboevrie",
       "tags": [],
       "date": "2026-05-06T10:53:52+00:00"
-    },
-    {
-      "id": "hn-48034587",
-      "source": "hn",
-      "title": "Show HN: Red Squares – GitHub outages as contributions",
-      "url": "https://red-squares.cian.lol/",
-      "score": 638,
-      "comments": 139,
-      "author": "cianmm",
-      "tags": [],
-      "date": "2026-05-06T10:28:40+00:00"
-    },
-    {
-      "id": "hn-48034372",
-      "source": "hn",
-      "title": "NZ Government to Disestablish the BSA",
-      "url": "https://www.beehive.govt.nz/release/government-disestablish-bsa",
-      "score": 5,
-      "comments": 2,
-      "author": "xupybd",
-      "tags": [],
-      "date": "2026-05-06T09:57:58+00:00"
-    },
-    {
-      "id": "hn-48033952",
-      "source": "hn",
-      "title": "The AI operator: Biggest role in Silicon Valley",
-      "url": "https://www.rishgupta.com/blog/the-ai-operator-biggest-role-in-silicon-valley",
-      "score": 6,
-      "comments": 0,
-      "author": "nreece",
-      "tags": [],
-      "date": "2026-05-06T09:00:07+00:00"
-    },
-    {
-      "id": "qiita-5897fd866d",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "Enterprise 利用で組織外部の人とコラボレーションをする方法を考える(外部 ID で AVD 利用編)",
-      "url": "https://qiita.com/iboy/items/4e1593282d497ea28abb?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "iboy",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-05-06T17:59:46+09:00"
-    },
-    {
-      "id": "hn-48033705",
-      "source": "hn",
-      "title": "The Deletion Test – The Phoenix Architecture",
-      "url": "https://aicoding.leaflet.pub/3md5ftetaes2e",
-      "score": 4,
-      "comments": 0,
-      "author": "fagnerbrack",
-      "tags": [],
-      "date": "2026-05-06T08:25:50+00:00"
-    },
-    {
-      "id": "hn-48033689",
-      "source": "hn",
-      "title": "The Boring Internet",
-      "url": "https://www.terrygodier.com/the-boring-internet",
-      "score": 26,
-      "comments": 29,
-      "author": "crowdhailer",
-      "tags": [],
-      "date": "2026-05-06T08:23:43+00:00"
-    },
-    {
-      "id": "qiita-44fd37efef",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "React + Python + Supabase で AI 株価予測 × ポートフォリオ最適化のフルスタックアプリを作ってみた",
-      "url": "https://qiita.com/tetsu3-accord/items/6807dc6c7d2543ac19d3?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "tetsu3-accord",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-05-06T17:00:05+09:00"
-    },
-    {
-      "id": "qiita-e29b6d2c4c",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "【公式】レトロゲームエンジンPyxelが動く仕組み",
-      "url": "https://qiita.com/kitao/items/5361d45554872a39da92?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "kitao",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-05-06T16:44:51+09:00"
-    },
-    {
-      "id": "qiita-bf3e6d73c4",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "AWSのハーネスエンジニアリングを使って簡単にAIエージェントを構築しよう！(Amazon Bedrock Agentcore Harness)",
-      "url": "https://qiita.com/tkazuaki0820/items/a0a84c38e2a88ba84a64?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "tkazuaki0820",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-05-06T16:26:45+09:00"
-    },
-    {
-      "id": "qiita-8d297bd21d",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "MinIOからRustFSへの移行：Docker ComposeでのS3互換ストレージ構築ガイド",
-      "url": "https://qiita.com/hoatms/items/75ede10cb8aaff7a71ed?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "hoatms",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-05-06T15:53:32+09:00"
-    },
-    {
-      "id": "hn-48032976",
-      "source": "hn",
-      "title": "Reverse-engineering the 1998 Ultima Online demo server",
-      "url": "https://draxinar.github.io/articles/2026-05-01-uodemo-reverse-engineering.html",
-      "score": 224,
-      "comments": 60,
-      "author": "notsentient",
-      "tags": [],
-      "date": "2026-05-06T06:31:29+00:00"
-    },
-    {
-      "id": "hn-48032968",
-      "source": "hn",
-      "title": "Singapore introduces caning for boys who bully others at school",
-      "url": "https://www.theguardian.com/world/2026/may/06/singapore-caning-school-bullies",
-      "score": 273,
-      "comments": 399,
-      "author": "rustoo",
-      "tags": [],
-      "date": "2026-05-06T06:29:53+00:00"
-    },
-    {
-      "id": "hn-48032617",
-      "source": "hn",
-      "title": "Behavior-Oriented Concurrency for Python",
-      "url": "https://microsoft.github.io/bocpy/",
-      "score": 27,
-      "comments": 2,
-      "author": "mpweiher",
-      "tags": [],
-      "date": "2026-05-06T05:34:48+00:00"
     },
     {
       "id": "ghrel-projectdiscovery_nuclei-310617486",

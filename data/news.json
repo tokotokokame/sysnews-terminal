@@ -1,7 +1,62 @@
 {
-  "updated_at": "2026-05-11T23:57:53.819516+00:00",
+  "updated_at": "2026-05-12T03:48:08.550711+00:00",
   "count": 500,
   "items": [
+    {
+      "id": "hn-48103511",
+      "source": "hn",
+      "title": "Software Internals Book Club",
+      "url": "https://eatonphil.com/bookclub.html",
+      "score": 9,
+      "comments": 0,
+      "author": "aragonite",
+      "tags": [],
+      "date": "2026-05-12T02:28:11+00:00"
+    },
+    {
+      "id": "hn-48103459",
+      "source": "hn",
+      "title": "Fake building: Claude wrote 3k lines instead of import pywikibot",
+      "url": "https://fireflysentinel.github.io/posts/fake-building-claude-3000-lines/",
+      "score": 31,
+      "comments": 15,
+      "author": "firef1y1203",
+      "tags": [],
+      "date": "2026-05-12T02:22:04+00:00"
+    },
+    {
+      "id": "hn-48103042",
+      "source": "hn",
+      "title": "Claude Platform on AWS",
+      "url": "https://claude.com/blog/claude-platform-on-aws",
+      "score": 49,
+      "comments": 26,
+      "author": "matrixhelix",
+      "tags": [],
+      "date": "2026-05-12T01:24:29+00:00"
+    },
+    {
+      "id": "hn-48102700",
+      "source": "hn",
+      "title": "They Live (1988) inspired Adblocker",
+      "url": "https://github.com/davmlaw/they_live_adblocker",
+      "score": 36,
+      "comments": 2,
+      "author": "tokenburner",
+      "tags": [],
+      "date": "2026-05-12T00:37:54+00:00"
+    },
+    {
+      "id": "hn-48102636",
+      "source": "hn",
+      "title": "Show HN: Safe-install – safer NPM installs with trusted build dependencies",
+      "url": "https://www.npmjs.com/package/@gkiely/safe-install",
+      "score": 10,
+      "comments": 1,
+      "author": "gkiely",
+      "tags": [],
+      "date": "2026-05-12T00:30:10+00:00"
+    },
     {
       "id": "hn-48102198",
       "source": "hn",
@@ -18,8 +73,8 @@
       "source": "hn",
       "title": "Griffin PowerMate driver for modern macOS",
       "url": "https://github.com/jameslockman/Griffin-PowerMate-Driver",
-      "score": 17,
-      "comments": 5,
+      "score": 54,
+      "comments": 19,
       "author": "classichasclass",
       "tags": [],
       "date": "2026-05-11T21:35:38+00:00"
@@ -27,21 +82,32 @@
     {
       "id": "hn-48100706",
       "source": "hn",
-      "title": "TanStack NPM Packages Compromised",
-      "url": "https://github.com/TanStack/router/issues/7383",
-      "score": 406,
-      "comments": 123,
+      "title": "Postmortem: TanStack npm supply-chain compromise",
+      "url": "https://tanstack.com/blog/npm-supply-chain-compromise-postmortem",
+      "score": 604,
+      "comments": 228,
       "author": "varunsharma07",
       "tags": [],
       "date": "2026-05-11T21:08:25+00:00"
+    },
+    {
+      "id": "hn-48100662",
+      "source": "hn",
+      "title": "I let AI build a tool to help me figure out what was waking me up at night",
+      "url": "https://martin.sh/i-let-ai-build-a-tool-to-help-me-figure-out-what-was-waking-me-up-at-night/",
+      "score": 99,
+      "comments": 106,
+      "author": "showmypost",
+      "tags": [],
+      "date": "2026-05-11T21:04:10+00:00"
     },
     {
       "id": "hn-48100524",
       "source": "hn",
       "title": "Interaction Models",
       "url": "https://thinkingmachines.ai/blog/interaction-models/",
-      "score": 63,
-      "comments": 8,
+      "score": 121,
+      "comments": 13,
       "author": "smhx",
       "tags": [],
       "date": "2026-05-11T20:53:37+00:00"
@@ -49,10 +115,10 @@
     {
       "id": "hn-48100500",
       "source": "hn",
-      "title": "GitLab Announces Workforce Reduction and End of Their CREDIT Values",
+      "title": "GitLab announces workforce reduction and end of their CREDIT values",
       "url": "https://about.gitlab.com/blog/gitlab-act-2/",
-      "score": 236,
-      "comments": 204,
+      "score": 374,
+      "comments": 374,
       "author": "AnonGitLabEmpl",
       "tags": [],
       "date": "2026-05-11T20:51:57+00:00",
@@ -75,8 +141,8 @@
       "source": "hn",
       "title": "Show HN: OpenGravity – A zero-install, BYOK vanilla JS clone of Antigravity",
       "url": "https://github.com/ab-613/opengravity",
-      "score": 35,
-      "comments": 13,
+      "score": 62,
+      "comments": 19,
       "author": "ab613",
       "tags": [],
       "date": "2026-05-11T20:23:25+00:00"
@@ -97,8 +163,8 @@
       "source": "hn",
       "title": "Library for fast mapping of Java records to native memory",
       "url": "https://github.com/mamba-studio/TypedMemory",
-      "score": 91,
-      "comments": 23,
+      "score": 116,
+      "comments": 26,
       "author": "joe_mwangi",
       "tags": [],
       "date": "2026-05-11T19:33:31+00:00"
@@ -119,8 +185,8 @@
       "source": "hn",
       "title": "UCLA discovers first stroke rehabilitation drug to repair brain damage (2025)",
       "url": "https://stemcell.ucla.edu/news/ucla-discovers-first-stroke-rehabilitation-drug-repair-brain-damage",
-      "score": 170,
-      "comments": 32,
+      "score": 266,
+      "comments": 52,
       "author": "bookofjoe",
       "tags": [],
       "date": "2026-05-11T17:53:08+00:00"
@@ -165,8 +231,8 @@
       "source": "hn",
       "title": "Interfaze: A new model architecture built for high accuracy at scale",
       "url": "https://interfaze.ai/blog/interfaze-a-new-model-architecture-built-for-high-accuracy-at-scale",
-      "score": 99,
-      "comments": 27,
+      "score": 119,
+      "comments": 31,
       "author": "yoeven",
       "tags": [],
       "date": "2026-05-11T16:22:31+00:00"
@@ -187,8 +253,8 @@
       "source": "hn",
       "title": "CUDA-oxide: Nvidia's official Rust to CUDA compiler",
       "url": "https://nvlabs.github.io/cuda-oxide/index.html",
-      "score": 347,
-      "comments": 107,
+      "score": 373,
+      "comments": 108,
       "author": "adamnemecek",
       "tags": [],
       "date": "2026-05-11T15:55:07+00:00"
@@ -681,7 +747,7 @@
       "source": "hn",
       "title": "Training an LLM in Swift, Part 1: Taking matrix mult from Gflop/s to Tflop/s",
       "url": "https://www.cocoawithlove.com/blog/matrix-multiplications-swift.html",
-      "score": 208,
+      "score": 223,
       "comments": 11,
       "author": "zdw",
       "tags": [],
@@ -1094,8 +1160,8 @@
       "source": "hn",
       "title": "Silverback Imfura took a chance, and ended up alone",
       "url": "https://gorillafund.org/mountain-gorillas/silverback-imfura-took-a-chance-and-ended-up-alone/",
-      "score": 20,
-      "comments": 5,
+      "score": 42,
+      "comments": 12,
       "author": "alex000kim",
       "tags": [],
       "date": "2026-05-10T02:06:19+00:00"
@@ -1298,6 +1364,17 @@
       "author": "marcingas",
       "tags": [],
       "date": "2026-05-09T17:52:13+00:00"
+    },
+    {
+      "id": "hn-48076798",
+      "source": "hn",
+      "title": "VGA Memory Access Is Complicated",
+      "url": "https://www.os2museum.com/wp/learn-something-old-every-day-part-xxi-vga-memory-access-is-complicated/",
+      "score": 16,
+      "comments": 4,
+      "author": "ingve",
+      "tags": [],
+      "date": "2026-05-09T17:49:44+00:00"
     },
     {
       "id": "hn-48076651",
@@ -1507,6 +1584,17 @@
       "author": "birdculture",
       "tags": [],
       "date": "2026-05-09T13:31:53+00:00"
+    },
+    {
+      "id": "hn-48074668",
+      "source": "hn",
+      "title": "Show HN: A modern Music Player Daemon based on Rockbox firmware",
+      "url": "https://github.com/tsirysndr/rockbox-zig",
+      "score": 33,
+      "comments": 2,
+      "author": "tsiry",
+      "tags": [],
+      "date": "2026-05-09T13:03:33+00:00"
     },
     {
       "id": "hn-48074265",
@@ -2090,7 +2178,7 @@
       "source": "hn",
       "title": "AMÁLIA and the future of European Portuguese LLMs",
       "url": "https://duarteocarmo.com/blog/amalia-and-the-future-of-european-portuguese-llms",
-      "score": 112,
+      "score": 120,
       "comments": 57,
       "author": "johnbarron",
       "tags": [],
@@ -2386,8 +2474,8 @@
       "source": "hn",
       "title": "Nullsoft, 1997-2004 (2004)",
       "url": "https://slate.com/technology/2004/11/the-death-of-the-last-maverick-tech-company.html",
-      "score": 209,
-      "comments": 69,
+      "score": 241,
+      "comments": 74,
       "author": "downbad_",
       "tags": [],
       "date": "2026-05-08T08:00:44+00:00"
@@ -2882,6 +2970,17 @@
       "date": "2026-05-08T03:09:22+09:00"
     },
     {
+      "id": "hn-48052710",
+      "source": "hn",
+      "title": "A lost ancient script reveals how writing as we know it began",
+      "url": "https://www.newscientist.com/article/2524042-a-lost-ancient-script-reveals-how-writing-as-we-know-it-really-began/",
+      "score": 15,
+      "comments": 2,
+      "author": "emot",
+      "tags": [],
+      "date": "2026-05-07T18:07:30+00:00"
+    },
+    {
       "id": "hn-48052656",
       "source": "hn",
       "title": "A construction of the Hat tilings by a Markov partition",
@@ -2976,8 +3075,8 @@
       "source": "hn",
       "title": "The rise and fall of snake oil",
       "url": "https://www.historytoday.com/archive/history-matters/rise-and-fall-snake-oil",
-      "score": 22,
-      "comments": 12,
+      "score": 39,
+      "comments": 21,
       "author": "samizdis",
       "tags": [],
       "date": "2026-05-07T16:43:11+00:00"
@@ -5074,107 +5173,6 @@
       "date": "2026-05-05T17:52:31+00:00"
     },
     {
-      "id": "hn-48025828",
-      "source": "hn",
-      "title": "Quantum Key Distribution (QKD) and Quantum Cryptography (QC)",
-      "url": "https://www.nsa.gov/Cybersecurity/Quantum-Key-Distribution-QKD-and-Quantum-Cryptography-QC/",
-      "score": 36,
-      "comments": 11,
-      "author": "mooreds",
-      "tags": [],
-      "date": "2026-05-05T17:38:17+00:00"
-    },
-    {
-      "id": "qiita-9b38d303e5",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "【Delphi】インターネットから DL したファイルを開こうとすると出る警告を消す",
-      "url": "https://qiita.com/ht_deko/items/96d8fcda69701f1e75c1?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "ht_deko",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-05-06T02:32:59+09:00"
-    },
-    {
-      "id": "hn-48025540",
-      "source": "hn",
-      "title": "Building my own Vi text editor in BASIC",
-      "url": "https://leetusman.com/nosebook/yvi",
-      "score": 51,
-      "comments": 23,
-      "author": "zeech",
-      "tags": [],
-      "date": "2026-05-05T17:18:21+00:00"
-    },
-    {
-      "id": "hn-48025374",
-      "source": "hn",
-      "title": "Easy Random Trees",
-      "url": "https://blog.wilsonb.com/posts/2026-02-27-easy-random-trees.html",
-      "score": 18,
-      "comments": 1,
-      "author": "aebtebeten",
-      "tags": [],
-      "date": "2026-05-05T17:08:24+00:00"
-    },
-    {
-      "id": "hn-48025244",
-      "source": "hn",
-      "title": "Proliferate (YC S25) Is Hiring- 200k for junior engineers",
-      "url": "https://www.ycombinator.com/companies/proliferate/jobs/L3copvK-founding-engineer",
-      "score": 1,
-      "comments": 0,
-      "author": "pablo24602",
-      "tags": [],
-      "date": "2026-05-05T17:00:16+00:00"
-    },
-    {
-      "id": "hn-48024859",
-      "source": "hn",
-      "title": "Computer Use is 45x more expensive than structured APIs",
-      "url": "https://reflex.dev/blog/computer-use-is-45x-more-expensive-than-structured-apis/",
-      "score": 449,
-      "comments": 247,
-      "author": "palashawas",
-      "tags": [],
-      "date": "2026-05-05T16:34:48+00:00"
-    },
-    {
-      "id": "hn-48024540",
-      "source": "hn",
-      "title": "Accelerating Gemma 4: faster inference with multi-token prediction drafters",
-      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/multi-token-prediction-gemma-4/",
-      "score": 630,
-      "comments": 303,
-      "author": "amrrs",
-      "tags": [],
-      "date": "2026-05-05T16:14:17+00:00"
-    },
-    {
-      "id": "hn-48024364",
-      "source": "hn",
-      "title": "UK: Two millionth electric car registered as market rebounds strongly",
-      "url": "https://www.smmt.co.uk/two-millionth-electric-car-registered-as-market-rebounds-strongly-from-tax-changes/",
-      "score": 144,
-      "comments": 201,
-      "author": "kieranmaine",
-      "tags": [],
-      "date": "2026-05-05T16:03:17+00:00"
-    },
-    {
-      "id": "hn-48024358",
-      "source": "hn",
-      "title": "I'm scared about biological computing",
-      "url": "https://kuber.studio/blog/Reflections/I%27m-Scared-About-Biological-Computing",
-      "score": 209,
-      "comments": 170,
-      "author": "kuberwastaken",
-      "tags": [],
-      "date": "2026-05-05T16:03:06+00:00"
-    },
-    {
       "id": "ghrel-projectdiscovery_nuclei-310617486",
       "source": "project",
       "proj_category": "Tools",
@@ -5388,7 +5386,7 @@
       "id": "zenn-3cea125e5c",
       "source": "zennqiita",
       "sub_source": "Zenn",
-      "title": "Claude Code に「前に〇〇って言ってたよね」って言ってほしい",
+      "title": "Claude Code に「確か前に〇〇って言ってたよね」って言ってほしい",
       "url": "https://zenn.dev/flinters_blog/articles/d824ce0576dcf2",
       "score": null,
       "author": "のざき",

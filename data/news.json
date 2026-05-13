@@ -1,7 +1,29 @@
 {
-  "updated_at": "2026-05-13T11:06:10.789857+00:00",
+  "updated_at": "2026-05-13T13:35:51.072315+00:00",
   "count": 500,
   "items": [
+    {
+      "id": "hn-48121299",
+      "source": "hn",
+      "title": "Dutch suicide prevention website shares data with tech companies without consent",
+      "url": "https://nltimes.nl/2026/05/13/dutch-suicide-prevention-hotline-shares-visitor-data-tech-companies",
+      "score": 20,
+      "comments": 11,
+      "author": "giuliomagnifico",
+      "tags": [],
+      "date": "2026-05-13T12:57:42+00:00"
+    },
+    {
+      "id": "hn-48121266",
+      "source": "hn",
+      "title": "Why I'm leaving GitHub for Forgejo",
+      "url": "https://jorijn.com/en/blog/leaving-github-for-forgejo/",
+      "score": 60,
+      "comments": 26,
+      "author": "jorijn",
+      "tags": [],
+      "date": "2026-05-13T12:54:00+00:00"
+    },
     {
       "id": "qiita-10724a95da",
       "source": "zennqiita",
@@ -13,15 +35,59 @@
       "tags": [
         "Qiita"
       ],
-      "date": "2026-05-13T17:55:23+09:00"
+      "date": "2026-05-13T21:17:03+09:00"
+    },
+    {
+      "id": "hn-48120776",
+      "source": "hn",
+      "title": "Substrate (YC S24) Is Hiring a Technical Success Manager",
+      "url": "https://www.ycombinator.com/companies/substrate/jobs/T2fMBhD-technical-success-manager",
+      "score": 1,
+      "comments": 0,
+      "author": "kunle",
+      "tags": [],
+      "date": "2026-05-13T12:00:30+00:00"
+    },
+    {
+      "id": "hn-48120629",
+      "source": "hn",
+      "title": "I Moved My Digital Stack to Europe",
+      "url": "https://monokai.com/articles/how-i-moved-my-digital-stack-to-europe/",
+      "score": 290,
+      "comments": 192,
+      "author": "monokai_nl",
+      "tags": [],
+      "date": "2026-05-13T11:42:20+00:00"
+    },
+    {
+      "id": "hn-48120351",
+      "source": "hn",
+      "title": "Using OR-Tools CP-SAT for Scheduling Problems",
+      "url": "https://atalaykutlay.com/or-tools-cp-sat-for-scheduling-problems.html",
+      "score": 22,
+      "comments": 4,
+      "author": "akutlay",
+      "tags": [],
+      "date": "2026-05-13T11:02:57+00:00"
+    },
+    {
+      "id": "hn-48119326",
+      "source": "hn",
+      "title": "Cost of enum-to-string: C++26 reflection vs. the old ways",
+      "url": "https://vittorioromeo.com/index/blog/refl_enum_to_string.html",
+      "score": 28,
+      "comments": 17,
+      "author": "sagacity",
+      "tags": [],
+      "date": "2026-05-13T08:41:30+00:00"
     },
     {
       "id": "hn-48118763",
       "source": "hn",
       "title": "SecurityBaseline.eu",
       "url": "https://internetcleanup.foundation/2026/05/european-governments-3000-tracking-sites-1000-phpmyadmins-and-99pct-poorly-encrypted-email-introducing-securitybaseline-eu/",
-      "score": 168,
-      "comments": 78,
+      "score": 194,
+      "comments": 99,
       "author": "aequitas",
       "tags": [],
       "date": "2026-05-13T07:11:17+00:00"
@@ -44,8 +110,8 @@
       "source": "hn",
       "title": "Deterministic Fully-Static Whole-Binary Translation Without Heuristics",
       "url": "https://arxiv.org/abs/2605.08419",
-      "score": 203,
-      "comments": 49,
+      "score": 236,
+      "comments": 54,
       "author": "matt_d",
       "tags": [],
       "date": "2026-05-13T04:25:03+00:00"
@@ -179,8 +245,8 @@
       "source": "hn",
       "title": "When “idle” isn't idle: how a Linux kernel optimization became a QUIC bug",
       "url": "https://blog.cloudflare.com/quic-death-spiral-fix/",
-      "score": 100,
-      "comments": 11,
+      "score": 121,
+      "comments": 17,
       "author": "sbulaev",
       "tags": [],
       "date": "2026-05-12T23:46:28+00:00"
@@ -225,8 +291,8 @@
       "source": "hn",
       "title": "Restore full BambuNetwork support for Bambu Lab printers",
       "url": "https://github.com/FULU-Foundation/OrcaSlicer-bambulab",
-      "score": 460,
-      "comments": 196,
+      "score": 525,
+      "comments": 234,
       "author": "Murfalo",
       "tags": [],
       "date": "2026-05-12T21:55:21+00:00"
@@ -247,8 +313,8 @@
       "source": "hn",
       "title": "Scrcpy v4.0",
       "url": "https://github.com/Genymobile/scrcpy/releases/tag/v4.0",
-      "score": 214,
-      "comments": 28,
+      "score": 264,
+      "comments": 39,
       "author": "xnx",
       "tags": [],
       "date": "2026-05-12T20:50:02+00:00"
@@ -258,8 +324,8 @@
       "source": "hn",
       "title": "How to make your text look futuristic (2016)",
       "url": "https://typesetinthefuture.com/2016/02/18/futuristic/",
-      "score": 369,
-      "comments": 48,
+      "score": 406,
+      "comments": 54,
       "author": "_vaporwave_",
       "tags": [],
       "date": "2026-05-12T20:16:26+00:00"
@@ -302,8 +368,8 @@
       "source": "hn",
       "title": "CERT is releasing six CVEs for serious security vulnerabilities in dnsmasq",
       "url": "https://lists.thekelleys.org.uk/pipermail/dnsmasq-discuss/2026q2/018471.html",
-      "score": 323,
-      "comments": 162,
+      "score": 339,
+      "comments": 178,
       "author": "chizhik-pyzhik",
       "tags": [],
       "date": "2026-05-12T18:12:28+00:00",
@@ -314,8 +380,8 @@
       "source": "hn",
       "title": "Show HN: Needle: We Distilled Gemini Tool Calling into a 26M Model",
       "url": "https://github.com/cactus-compute/needle",
-      "score": 485,
-      "comments": 154,
+      "score": 528,
+      "comments": 157,
       "author": "HenryNdubuaku",
       "tags": [],
       "date": "2026-05-12T18:03:11+00:00"
@@ -325,8 +391,8 @@
       "source": "hn",
       "title": "Quack: The DuckDB Client-Server Protocol",
       "url": "https://duckdb.org/2026/05/12/quack-remote-protocol",
-      "score": 295,
-      "comments": 60,
+      "score": 325,
+      "comments": 69,
       "author": "aduffy",
       "tags": [],
       "date": "2026-05-12T17:54:12+00:00"
@@ -359,8 +425,8 @@
       "source": "hn",
       "title": "Googlebook",
       "url": "https://googlebook.google/",
-      "score": 800,
-      "comments": 1310,
+      "score": 840,
+      "comments": 1377,
       "author": "tambourine_man",
       "tags": [],
       "date": "2026-05-12T17:37:36+00:00"
@@ -458,8 +524,8 @@
       "source": "hn",
       "title": "Why senior developers fail to communicate their expertise",
       "url": "https://www.nair.sh/guides-and-opinions/communicating-your-expertise/why-senior-developers-fail-to-communicate-their-expertise",
-      "score": 602,
-      "comments": 265,
+      "score": 658,
+      "comments": 287,
       "author": "nilirl",
       "tags": [],
       "date": "2026-05-12T15:08:40+00:00"
@@ -516,8 +582,8 @@
       "source": "hn",
       "title": "Rendering the Sky, Sunsets, and Planets",
       "url": "https://blog.maximeheckel.com/posts/on-rendering-the-sky-sunsets-and-planets/",
-      "score": 482,
-      "comments": 39,
+      "score": 502,
+      "comments": 40,
       "author": "ibobev",
       "tags": [],
       "date": "2026-05-12T13:26:46+00:00"
@@ -1299,6 +1365,17 @@
       "date": "2026-05-11T11:27:08+00:00"
     },
     {
+      "id": "hn-48093578",
+      "source": "hn",
+      "title": "An idiot's guide to lead optimisation for proteins",
+      "url": "https://magnusross.github.io/posts/protein-lead-optimisation-1/",
+      "score": 9,
+      "comments": 0,
+      "author": "magni121",
+      "tags": [],
+      "date": "2026-05-11T11:21:33+00:00"
+    },
+    {
       "id": "hn-48093100",
       "source": "hn",
       "title": "Ratty – A terminal emulator with inline 3D graphics",
@@ -1349,8 +1426,8 @@
       "source": "hn",
       "title": "Traceway: MIT-licensed observability stack you can self-host in ~90s",
       "url": "https://github.com/tracewayapp/traceway",
-      "score": 119,
-      "comments": 12,
+      "score": 135,
+      "comments": 28,
       "author": "sebakubisz",
       "tags": [],
       "date": "2026-05-11T07:05:01+00:00"
@@ -1360,8 +1437,8 @@
       "source": "hn",
       "title": "Preserving Fisher-Price Pixter",
       "url": "https://dmitry.gr/?r=05.Projects&proj=37.%20Pixter",
-      "score": 6,
-      "comments": 0,
+      "score": 82,
+      "comments": 6,
       "author": "dmitrygr",
       "tags": [],
       "date": "2026-05-11T06:52:48+00:00"
@@ -1553,8 +1630,8 @@
       "source": "hn",
       "title": "New stainless steel can survive conditions for hydrogen production in seawater",
       "url": "https://www.sciencedaily.com/releases/2026/05/260510030950.htm",
-      "score": 69,
-      "comments": 25,
+      "score": 138,
+      "comments": 50,
       "author": "HardwareLust",
       "tags": [],
       "date": "2026-05-11T01:05:59+00:00"
@@ -2417,6 +2494,17 @@
       "author": "unknownhad",
       "tags": [],
       "date": "2026-05-09T21:42:50+00:00"
+    },
+    {
+      "id": "hn-48078452",
+      "source": "hn",
+      "title": "Web Server on a Nintendo Wii",
+      "url": "http://wii.sjmulder.nl/",
+      "score": 42,
+      "comments": 3,
+      "author": "adunk",
+      "tags": [],
+      "date": "2026-05-09T21:32:16+00:00"
     },
     {
       "id": "hn-48077971",
@@ -3579,8 +3667,8 @@
       "source": "hn",
       "title": "The Boring Part of Bell Labs (2025)",
       "url": "https://acesounderglass.com/2025/11/15/the-boring-part-of-bell-labs/",
-      "score": 14,
-      "comments": 2,
+      "score": 54,
+      "comments": 6,
       "author": "surprisetalk",
       "tags": [],
       "date": "2026-05-08T13:00:19+00:00"
@@ -5100,100 +5188,12 @@
       "date": "2026-05-06T23:04:05+00:00"
     },
     {
-      "id": "hn-48043002",
-      "source": "hn",
-      "title": "Show HN: Free tool to mark points and polygon regions",
-      "url": "https://tack.pics",
-      "score": 4,
-      "comments": 1,
-      "author": "magikMaker",
-      "tags": [],
-      "date": "2026-05-06T22:59:07+00:00"
-    },
-    {
-      "id": "hn-48042918",
-      "source": "hn",
-      "title": "UK businesses brace for jet fuel rationing",
-      "url": "https://bmmagazine.co.uk/news/uk-jet-fuel-shortage-rationing-goldman-sachs-warning/",
-      "score": 61,
-      "comments": 62,
-      "author": "OgsyedIE",
-      "tags": [],
-      "date": "2026-05-06T22:48:11+00:00"
-    },
-    {
-      "id": "hn-48042842",
-      "source": "hn",
-      "title": "David Sacks crashed and burned in the White House",
-      "url": "https://www.theverge.com/column/925487/david-sacks-trump-administration-ai-model-review",
-      "score": 42,
-      "comments": 10,
-      "author": "PhotonHunter",
-      "tags": [],
-      "date": "2026-05-06T22:38:51+00:00"
-    },
-    {
-      "id": "hn-48042817",
-      "source": "hn",
-      "title": "The Disappearance of the Public Bench",
-      "url": "https://placesjournal.org/article/the-disappearance-of-the-public-bench/",
-      "score": 94,
-      "comments": 111,
-      "author": "cainxinth",
-      "tags": [],
-      "date": "2026-05-06T22:36:17+00:00"
-    },
-    {
-      "id": "hn-48042434",
-      "source": "hn",
-      "title": "SQLite Is a Library of Congress Recommended Storage Format",
-      "url": "https://sqlite.org/locrsf.html",
-      "score": 560,
-      "comments": 170,
-      "author": "whatisabcdefgh",
-      "tags": [],
-      "date": "2026-05-06T21:58:43+00:00"
-    },
-    {
-      "id": "hn-48042427",
-      "source": "hn",
-      "title": "Show HN: I wrote a flight simulator in my own programming language",
-      "url": "https://github.com/navid-m/flightsim",
-      "score": 61,
-      "comments": 16,
-      "author": "pizza_man",
-      "tags": [],
-      "date": "2026-05-06T21:58:05+00:00"
-    },
-    {
-      "id": "hn-48042204",
-      "source": "hn",
-      "title": "Making Julia as Fast as C++ (2019)",
-      "url": "https://flow.byu.edu/posts/julia-c++",
-      "score": 60,
-      "comments": 42,
-      "author": "d_tr",
-      "tags": [],
-      "date": "2026-05-06T21:36:42+00:00"
-    },
-    {
-      "id": "hn-48042099",
-      "source": "hn",
-      "title": "Apple is enforcing an old App Store rule against a new kind of software",
-      "url": "https://adaptivesoftware.substack.com/p/the-wrapper-and-the-code",
-      "score": 39,
-      "comments": 8,
-      "author": "iristenteije",
-      "tags": [],
-      "date": "2026-05-06T21:26:53+00:00"
-    },
-    {
       "id": "hn-48033483",
       "source": "hn",
       "title": "The vi family",
       "url": "https://lpar.ATH0.com/posts/2026/05/the-vi-family/",
-      "score": 183,
-      "comments": 112,
+      "score": 217,
+      "comments": 135,
       "author": "hggh",
       "tags": [],
       "date": "2026-05-06T07:51:16+00:00"
@@ -5422,6 +5422,19 @@
       "date": "Tue, 12 May 2026 14:08:30 GMT"
     },
     {
+      "id": "zenn-7b357a4726",
+      "source": "zennqiita",
+      "sub_source": "Zenn",
+      "title": "AI と一緒に開発するときにも便利な Aspire の好きなところ",
+      "url": "https://zenn.dev/microsoft/articles/aspire-favorite-points",
+      "score": null,
+      "author": "Kazuki Ota",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Tue, 12 May 2026 13:47:40 GMT"
+    },
+    {
       "id": "zenn-39580a2a25",
       "source": "zennqiita",
       "sub_source": "Zenn",
@@ -5461,6 +5474,19 @@
       "date": "Tue, 12 May 2026 02:05:57 GMT"
     },
     {
+      "id": "zenn-5920f96e7e",
+      "source": "zennqiita",
+      "sub_source": "Zenn",
+      "title": "手を動かして学ぶ Claude Code 入門ワークショップを公開しました〜！",
+      "url": "https://zenn.dev/aws_japan/articles/introduction-to-claude-code-workshop",
+      "score": null,
+      "author": "Yamary  /  Ryosuke Yamazawa",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Tue, 12 May 2026 01:45:14 GMT"
+    },
+    {
       "id": "zenn-15a40347ea",
       "source": "zennqiita",
       "sub_source": "Zenn",
@@ -5487,6 +5513,19 @@
       "date": "Tue, 12 May 2026 00:04:43 GMT"
     },
     {
+      "id": "zenn-bf185bfa56",
+      "source": "zennqiita",
+      "sub_source": "Zenn",
+      "title": "30日後にサービスをリリースして不労所得を得る開発者 (1日目) ― Claude Code 全活用で楽したい開発者の基盤構築",
+      "url": "https://zenn.dev/tempeso/articles/900ea8ade4c165",
+      "score": null,
+      "author": "てん",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Mon, 11 May 2026 23:50:57 GMT"
+    },
+    {
       "id": "zenn-23636bde0a",
       "source": "zennqiita",
       "sub_source": "Zenn",
@@ -5511,32 +5550,6 @@
         "Zenn"
       ],
       "date": "Mon, 11 May 2026 09:55:53 GMT"
-    },
-    {
-      "id": "zenn-ad5a8846b6",
-      "source": "zennqiita",
-      "sub_source": "Zenn",
-      "title": "個人GoogleアカウントをGoogle Workspace化して困ったこと",
-      "url": "https://zenn.dev/uguisu/articles/47563d4785287f",
-      "score": null,
-      "author": "うぐいす",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Mon, 11 May 2026 09:31:02 GMT"
-    },
-    {
-      "id": "zenn-8a44f344f8",
-      "source": "zennqiita",
-      "sub_source": "Zenn",
-      "title": "Claude Code にAWSのコスト調査をさせたら数千万円分の改善ポイントが見つかった",
-      "url": "https://zenn.dev/geniee/articles/claude-code-aws-cost-optimization",
-      "score": null,
-      "author": "S. Hamamura",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Mon, 11 May 2026 04:00:06 GMT"
     },
     {
       "id": "zenn-d263c90044",
@@ -5656,17 +5669,64 @@
       "date": "Sun, 10 May 2026 01:07:34 GMT"
     },
     {
-      "id": "zenn-2352c6fc32",
-      "source": "zennqiita",
-      "sub_source": "Zenn",
-      "title": "シャドーITのススメ",
-      "url": "https://zenn.dev/yuta_enginner/articles/08b775eb6873df",
+      "id": "edb-c9d233bcf3",
+      "source": "msf",
+      "title": "[webapps] Ninja Forms Uploads - Unauthenticated PHP File Upload",
+      "url": "https://www.exploit-db.com/exploits/52560",
       "score": null,
-      "author": "Yuta",
+      "author": "Exploit-DB",
       "tags": [
-        "Zenn"
+        "Exploit-DB",
+        "CVE",
+        "PoC"
       ],
-      "date": "Sat, 09 May 2026 04:07:20 GMT"
+      "severity": "high",
+      "date": "Wed, 13 May 2026 00:00:00 +0000"
+    },
+    {
+      "id": "edb-3b43aa40d1",
+      "source": "msf",
+      "title": "[webapps] glances 4.5.2 - command injection",
+      "url": "https://www.exploit-db.com/exploits/52559",
+      "score": null,
+      "author": "Exploit-DB",
+      "tags": [
+        "Exploit-DB",
+        "CVE",
+        "PoC"
+      ],
+      "severity": "high",
+      "date": "Wed, 13 May 2026 00:00:00 +0000"
+    },
+    {
+      "id": "edb-a3c800d115",
+      "source": "msf",
+      "title": "[webapps] coreruleset 4.21.0 - Firewall Bypass",
+      "url": "https://www.exploit-db.com/exploits/52558",
+      "score": null,
+      "author": "Exploit-DB",
+      "tags": [
+        "Exploit-DB",
+        "CVE",
+        "PoC"
+      ],
+      "severity": "high",
+      "date": "Wed, 13 May 2026 00:00:00 +0000"
+    },
+    {
+      "id": "edb-b15fd1ccc3",
+      "source": "msf",
+      "title": "[webapps] Flowise < 3.0.5 - Missing Authentication for Critical Function",
+      "url": "https://www.exploit-db.com/exploits/52557",
+      "score": null,
+      "author": "Exploit-DB",
+      "tags": [
+        "Exploit-DB",
+        "CVE",
+        "PoC"
+      ],
+      "severity": "high",
+      "date": "Wed, 13 May 2026 00:00:00 +0000"
     },
     {
       "id": "edb-6a1be6a4e3",
@@ -5832,66 +5892,6 @@
       ],
       "severity": "high",
       "date": "Mon, 04 May 2026 00:00:00 +0000"
-    },
-    {
-      "id": "edb-ddcf66aea2",
-      "source": "msf",
-      "title": "[webapps] Traccar GPS Tracking System 6.11.1 - Cross-Site WebSocket Hijacking (CSWSH)",
-      "url": "https://www.exploit-db.com/exploits/52545",
-      "score": null,
-      "author": "Exploit-DB",
-      "tags": [
-        "Exploit-DB",
-        "CVE",
-        "PoC"
-      ],
-      "severity": "high",
-      "date": "Mon, 04 May 2026 00:00:00 +0000"
-    },
-    {
-      "id": "edb-fb4512c26e",
-      "source": "msf",
-      "title": "[webapps] FUXA 1.2.8 - Authentication Bypass + RCE Exploit",
-      "url": "https://www.exploit-db.com/exploits/52544",
-      "score": null,
-      "author": "Exploit-DB",
-      "tags": [
-        "Exploit-DB",
-        "CVE",
-        "PoC"
-      ],
-      "severity": "high",
-      "date": "Thu, 30 Apr 2026 00:00:00 +0000"
-    },
-    {
-      "id": "edb-73e0ebceb1",
-      "source": "msf",
-      "title": "[webapps] Python-Multipart 0.0.22 - Path Traversal",
-      "url": "https://www.exploit-db.com/exploits/52543",
-      "score": null,
-      "author": "Exploit-DB",
-      "tags": [
-        "Exploit-DB",
-        "CVE",
-        "PoC"
-      ],
-      "severity": "high",
-      "date": "Thu, 30 Apr 2026 00:00:00 +0000"
-    },
-    {
-      "id": "edb-e1b40a2756",
-      "source": "msf",
-      "title": "[local] Google Chrome  145.0.7632.75 - CSSFontFeatureValuesMap",
-      "url": "https://www.exploit-db.com/exploits/52542",
-      "score": null,
-      "author": "Exploit-DB",
-      "tags": [
-        "Exploit-DB",
-        "CVE",
-        "PoC"
-      ],
-      "severity": "high",
-      "date": "Thu, 30 Apr 2026 00:00:00 +0000"
     }
   ]
 }

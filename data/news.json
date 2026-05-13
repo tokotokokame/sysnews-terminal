@@ -1,25 +1,82 @@
 {
-  "updated_at": "2026-05-12T23:01:11.552918+00:00",
+  "updated_at": "2026-05-13T01:23:32.843115+00:00",
   "count": 500,
   "items": [
+    {
+      "id": "hn-48116207",
+      "source": "hn",
+      "title": "My graduation cap runs Rust",
+      "url": "https://ericswpark.com/blog/2026/2026-05-12-my-graduation-cap-runs-rust/",
+      "score": 31,
+      "comments": 4,
+      "author": "ericswpark",
+      "tags": [],
+      "date": "2026-05-13T00:04:21+00:00"
+    },
+    {
+      "id": "qiita-03142c3c7b",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "【エンジニアの教養】なぜかエンジニア界隈で有名な◯◯の法則的なやつをまとめてみた",
+      "url": "https://qiita.com/miruky/items/cef8169b4a10cdd790b5?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "miruky",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-05-13T08:53:48+09:00"
+    },
+    {
+      "id": "hn-48115823",
+      "source": "hn",
+      "title": "Kraftwerk's radical 1976 track",
+      "url": "https://www.bbc.com/culture/article/20260511-kraftwerks-radical-1976-track-radioactivity-became-an-anti-nuclear-anthem",
+      "score": 54,
+      "comments": 18,
+      "author": "tcp_handshaker",
+      "tags": [],
+      "date": "2026-05-12T23:13:01+00:00"
+    },
+    {
+      "id": "hn-48115807",
+      "source": "hn",
+      "title": "Tell NYT, Atlantic, USA Today to Keep Wayback Machine",
+      "url": "https://www.savethearchive.com/newsleaders/",
+      "score": 71,
+      "comments": 10,
+      "author": "doener",
+      "tags": [],
+      "date": "2026-05-12T23:11:40+00:00"
+    },
     {
       "id": "hn-48115127",
       "source": "hn",
       "title": "Restore full BambuNetwork support for Bambu Lab printers",
       "url": "https://github.com/FULU-Foundation/OrcaSlicer-bambulab",
-      "score": 15,
-      "comments": 1,
+      "score": 132,
+      "comments": 55,
       "author": "Murfalo",
       "tags": [],
       "date": "2026-05-12T21:55:21+00:00"
+    },
+    {
+      "id": "hn-48115059",
+      "source": "hn",
+      "title": "EFF to 4th Circuit: Electronic Device Searches at the Border Require a Warrant",
+      "url": "https://www.eff.org/deeplinks/2026/05/eff-fourth-circuit-electronic-device-searches-border-require-warrant",
+      "score": 69,
+      "comments": 8,
+      "author": "hn_acker",
+      "tags": [],
+      "date": "2026-05-12T21:48:24+00:00"
     },
     {
       "id": "hn-48113895",
       "source": "hn",
       "title": "How to make your text look futuristic (2016)",
       "url": "https://typesetinthefuture.com/2016/02/18/futuristic/",
-      "score": 139,
-      "comments": 14,
+      "score": 201,
+      "comments": 24,
       "author": "_vaporwave_",
       "tags": [],
       "date": "2026-05-12T20:16:26+00:00"
@@ -62,8 +119,8 @@
       "source": "hn",
       "title": "CERT is releasing six CVEs for serious security vulnerabilities in dnsmasq",
       "url": "https://lists.thekelleys.org.uk/pipermail/dnsmasq-discuss/2026q2/018471.html",
-      "score": 189,
-      "comments": 83,
+      "score": 226,
+      "comments": 112,
       "author": "chizhik-pyzhik",
       "tags": [],
       "date": "2026-05-12T18:12:28+00:00",
@@ -74,8 +131,8 @@
       "source": "hn",
       "title": "Show HN: Needle: We Distilled Gemini Tool Calling into a 26M Model",
       "url": "https://github.com/cactus-compute/needle",
-      "score": 216,
-      "comments": 69,
+      "score": 269,
+      "comments": 97,
       "author": "HenryNdubuaku",
       "tags": [],
       "date": "2026-05-12T18:03:11+00:00"
@@ -85,8 +142,8 @@
       "source": "hn",
       "title": "Quack: The DuckDB Client-Server Protocol",
       "url": "https://duckdb.org/2026/05/12/quack-remote-protocol",
-      "score": 138,
-      "comments": 31,
+      "score": 176,
+      "comments": 36,
       "author": "aduffy",
       "tags": [],
       "date": "2026-05-12T17:54:12+00:00"
@@ -96,8 +153,8 @@
       "source": "hn",
       "title": "Dead.Letter (CVE-2026-45185) – How XBOW found an unauthenticated RCE on Exim",
       "url": "https://xbow.com/blog/dead-letter-cve-2026-45185-xbow-found-rce-exim",
-      "score": 48,
-      "comments": 23,
+      "score": 58,
+      "comments": 31,
       "author": "fedek_",
       "tags": [],
       "date": "2026-05-12T17:52:34+00:00",
@@ -108,8 +165,8 @@
       "source": "hn",
       "title": "Reimagining the mouse pointer for the AI era",
       "url": "https://deepmind.google/blog/ai-pointer/",
-      "score": 99,
-      "comments": 87,
+      "score": 131,
+      "comments": 112,
       "author": "devhouse",
       "tags": [],
       "date": "2026-05-12T17:40:13+00:00"
@@ -119,8 +176,8 @@
       "source": "hn",
       "title": "Googlebook",
       "url": "https://googlebook.google/",
-      "score": 500,
-      "comments": 829,
+      "score": 595,
+      "comments": 1001,
       "author": "tambourine_man",
       "tags": [],
       "date": "2026-05-12T17:37:36+00:00"
@@ -130,8 +187,8 @@
       "source": "hn",
       "title": "Canada’s Bill C-22 Is a Repackaged Version of Last Year’s Surveillance Nightmare",
       "url": "https://www.eff.org/deeplinks/2026/05/canadas-bill-c-22-repackaged-version-last-years-surveillance-nightmare",
-      "score": 208,
-      "comments": 64,
+      "score": 266,
+      "comments": 85,
       "author": "Brajeshwar",
       "tags": [],
       "date": "2026-05-12T17:35:58+00:00"
@@ -152,8 +209,8 @@
       "source": "hn",
       "title": "Show HN: Agentic interface for mainframes and COBOL",
       "url": "https://www.hypercubic.ai/hopper",
-      "score": 41,
-      "comments": 25,
+      "score": 53,
+      "comments": 30,
       "author": "sai18",
       "tags": [],
       "date": "2026-05-12T17:10:22+00:00"
@@ -185,8 +242,8 @@
       "source": "hn",
       "title": "The Future of Obsidian Plugins",
       "url": "https://obsidian.md/blog/future-of-plugins/",
-      "score": 269,
-      "comments": 105,
+      "score": 297,
+      "comments": 121,
       "author": "xz18r",
       "tags": [],
       "date": "2026-05-12T15:45:54+00:00"
@@ -196,7 +253,7 @@
       "source": "hn",
       "title": "Launch HN: Voker (YC S24) – Analytics for AI Agents",
       "url": "https://voker.ai",
-      "score": 34,
+      "score": 37,
       "comments": 19,
       "author": "ttpost",
       "tags": [],
@@ -218,8 +275,8 @@
       "source": "hn",
       "title": "Why senior developers fail to communicate their expertise",
       "url": "https://www.nair.sh/guides-and-opinions/communicating-your-expertise/why-senior-developers-fail-to-communicate-their-expertise",
-      "score": 305,
-      "comments": 150,
+      "score": 362,
+      "comments": 173,
       "author": "nilirl",
       "tags": [],
       "date": "2026-05-12T15:08:40+00:00"
@@ -229,8 +286,8 @@
       "source": "hn",
       "title": "Bambu Lab is abusing the open source social contract",
       "url": "https://www.jeffgeerling.com/blog/2026/bambu-lab-abusing-open-source-social-contract/",
-      "score": 1002,
-      "comments": 343,
+      "score": 1083,
+      "comments": 360,
       "author": "rubenbe",
       "tags": [],
       "date": "2026-05-12T14:54:41+00:00",
@@ -241,8 +298,8 @@
       "source": "hn",
       "title": "Show HN: Statewright – Visual state machines that make AI agents reliable",
       "url": "https://github.com/statewright/statewright",
-      "score": 53,
-      "comments": 16,
+      "score": 71,
+      "comments": 24,
       "author": "azurewraith",
       "tags": [],
       "date": "2026-05-12T14:24:55+00:00"
@@ -276,7 +333,7 @@
       "source": "hn",
       "title": "Rendering the Sky, Sunsets, and Planets",
       "url": "https://blog.maximeheckel.com/posts/on-rendering-the-sky-sunsets-and-planets/",
-      "score": 382,
+      "score": 407,
       "comments": 34,
       "author": "ibobev",
       "tags": [],
@@ -368,8 +425,8 @@
       "source": "hn",
       "title": "Learning Software Architecture",
       "url": "https://matklad.github.io/2026/05/12/software-architecture.html",
-      "score": 500,
-      "comments": 101,
+      "score": 525,
+      "comments": 107,
       "author": "surprisetalk",
       "tags": [],
       "date": "2026-05-12T09:30:21+00:00"
@@ -782,6 +839,17 @@
       "severity": "critical"
     },
     {
+      "id": "hn-48100364",
+      "source": "hn",
+      "title": "Foucault's Order of Things Explained with Trading Cards [video]",
+      "url": "https://www.youtube.com/watch?v=1TbHYjGvS68",
+      "score": 16,
+      "comments": 1,
+      "author": "surprisetalk",
+      "tags": [],
+      "date": "2026-05-11T20:38:40+00:00"
+    },
+    {
       "id": "hn-48100227",
       "source": "hn",
       "title": "Show HN: E2a – Open-source email gateway for AI agents",
@@ -1018,19 +1086,6 @@
       "author": "orhunp_",
       "tags": [],
       "date": "2026-05-11T10:13:04+00:00"
-    },
-    {
-      "id": "qiita-03142c3c7b",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "【エンジニアの教養】なぜかエンジニア界隈で有名な◯◯の法則的なやつをまとめてみた",
-      "url": "https://qiita.com/miruky/items/cef8169b4a10cdd790b5?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "miruky",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-05-11T19:02:44+09:00"
     },
     {
       "id": "qiita-46fc313572",
@@ -1732,6 +1787,17 @@
       "date": "2026-05-10T10:33:06+00:00"
     },
     {
+      "id": "hn-48082586",
+      "source": "hn",
+      "title": "Fc, a lossless compressor for floating-point streams",
+      "url": "https://github.com/xtellect/fc",
+      "score": 10,
+      "comments": 4,
+      "author": "enduku",
+      "tags": [],
+      "date": "2026-05-10T10:14:20+00:00"
+    },
+    {
       "id": "hn-48082396",
       "source": "hn",
       "title": "Think Linear Algebra (2023)",
@@ -2117,8 +2183,8 @@
       "source": "hn",
       "title": "Lanzaboote – NixOS Secure Boot",
       "url": "https://x86.lol/generic/2022/11/26/lanzaboote.html",
-      "score": 9,
-      "comments": 1,
+      "score": 37,
+      "comments": 6,
       "author": "evilmonkey19",
       "tags": [],
       "date": "2026-05-09T18:55:59+00:00"
@@ -2804,8 +2870,8 @@
       "source": "hn",
       "title": "When life gives you lemons, write better error messages",
       "url": "https://wix-ux.com/when-life-gives-you-lemons-write-better-error-messages-46c5223e1a2f",
-      "score": 92,
-      "comments": 28,
+      "score": 108,
+      "comments": 37,
       "author": "luispa",
       "tags": [],
       "date": "2026-05-08T21:31:44+00:00"
@@ -5116,73 +5182,6 @@
       "date": "2026-05-06T16:21:03+00:00"
     },
     {
-      "id": "hn-48038019",
-      "source": "hn",
-      "title": "Show HN: I built an open-source email builder, alternative to Beefree/Unlayer",
-      "url": "https://play.templatical.com",
-      "score": 112,
-      "comments": 29,
-      "author": "oahmadov",
-      "tags": [],
-      "date": "2026-05-06T16:20:00+00:00",
-      "severity": "critical"
-    },
-    {
-      "id": "hn-48038001",
-      "source": "hn",
-      "title": "Appearing productive in the workplace",
-      "url": "https://nooneshappy.com/article/appearing-productive-in-the-workplace/",
-      "score": 1457,
-      "comments": 593,
-      "author": "diebillionaires",
-      "tags": [],
-      "date": "2026-05-06T16:18:29+00:00"
-    },
-    {
-      "id": "hn-48037986",
-      "source": "hn",
-      "title": "Higher usage limits for Claude and a compute deal with SpaceX",
-      "url": "https://www.anthropic.com/news/higher-limits-spacex",
-      "score": 354,
-      "comments": 291,
-      "author": "meetpateltech",
-      "tags": [],
-      "date": "2026-05-06T16:17:33+00:00"
-    },
-    {
-      "id": "hn-48037760",
-      "source": "hn",
-      "title": "Wi is Fi: Understanding Wi-Fi 4/5/6/6E/7/8 (802.11 n/AC/ax/be/bn)",
-      "url": "https://www.wiisfi.com/",
-      "score": 321,
-      "comments": 88,
-      "author": "homebrewer",
-      "tags": [],
-      "date": "2026-05-06T16:01:50+00:00"
-    },
-    {
-      "id": "hn-48037724",
-      "source": "hn",
-      "title": "Show HN: Tilde.run – Agent sandbox with a transactional, versioned filesystem",
-      "url": "https://tilde.run/",
-      "score": 162,
-      "comments": 116,
-      "author": "ozkatz",
-      "tags": [],
-      "date": "2026-05-06T15:58:34+00:00"
-    },
-    {
-      "id": "hn-48037655",
-      "source": "hn",
-      "title": "All means are fair except solving the problem",
-      "url": "https://yosefk.com/blog/all-means-are-fair-except-solving-the-problem.html",
-      "score": 62,
-      "comments": 47,
-      "author": "akkartik",
-      "tags": [],
-      "date": "2026-05-06T15:52:25+00:00"
-    },
-    {
       "id": "ghrel-projectdiscovery_nuclei-310617486",
       "source": "project",
       "proj_category": "Tools",
@@ -5393,6 +5392,45 @@
       "date": "2023-05-23T17:06:23Z"
     },
     {
+      "id": "zenn-919531972b",
+      "source": "zennqiita",
+      "sub_source": "Zenn",
+      "title": "ちょっとしたアイデアをAIで長文記事にして公開するのをやめろ",
+      "url": "https://zenn.dev/todesking/articles/fba4cc93baf0a9",
+      "score": null,
+      "author": "todesking",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Tue, 12 May 2026 14:08:30 GMT"
+    },
+    {
+      "id": "zenn-246598fd52",
+      "source": "zennqiita",
+      "sub_source": "Zenn",
+      "title": "コンパニオンAIの記憶を、普通のRAGじゃない設計にした話",
+      "url": "https://zenn.dev/haru0416/articles/843c6c29c04c7c",
+      "score": null,
+      "author": "Haru",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Tue, 12 May 2026 02:05:57 GMT"
+    },
+    {
+      "id": "zenn-15a40347ea",
+      "source": "zennqiita",
+      "sub_source": "Zenn",
+      "title": "AIのハーネスを徹底的に整えたら、レビューもシステム運用も自動化され、非エンジニアも開発に参加できるようになった話 ── 連載総論",
+      "url": "https://zenn.dev/aircloset/articles/d416342f46f16b",
+      "score": null,
+      "author": "辻 亮佑",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Tue, 12 May 2026 00:31:05 GMT"
+    },
+    {
       "id": "zenn-2037a0aff3",
       "source": "zennqiita",
       "sub_source": "Zenn",
@@ -5404,6 +5442,45 @@
         "Zenn"
       ],
       "date": "Tue, 12 May 2026 00:04:43 GMT"
+    },
+    {
+      "id": "zenn-bf185bfa56",
+      "source": "zennqiita",
+      "sub_source": "Zenn",
+      "title": "30日後にサービスをリリースして不労所得を得る開発者 (1日目) ― Claude Code 全活用で楽したい開発者の基盤構築",
+      "url": "https://zenn.dev/tempeso/articles/900ea8ade4c165",
+      "score": null,
+      "author": "てん",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Mon, 11 May 2026 23:50:57 GMT"
+    },
+    {
+      "id": "zenn-2e97b88971",
+      "source": "zennqiita",
+      "sub_source": "Zenn",
+      "title": "Slack上でインフラのトラブルシューティングができるAgentの設計と実装",
+      "url": "https://zenn.dev/ubie_dev/articles/b712ec880ac038",
+      "score": null,
+      "author": "Teruya Ono",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Mon, 11 May 2026 09:55:53 GMT"
+    },
+    {
+      "id": "zenn-ad5a8846b6",
+      "source": "zennqiita",
+      "sub_source": "Zenn",
+      "title": "個人GoogleアカウントをGoogle Workspace化して困ったこと",
+      "url": "https://zenn.dev/uguisu/articles/47563d4785287f",
+      "score": null,
+      "author": "うぐいす",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Mon, 11 May 2026 09:31:02 GMT"
     },
     {
       "id": "zenn-3cea125e5c",
@@ -5485,32 +5562,6 @@
       "date": "Sun, 10 May 2026 22:00:06 GMT"
     },
     {
-      "id": "zenn-7b86d41c5a",
-      "source": "zennqiita",
-      "sub_source": "Zenn",
-      "title": "LLM に日本の法令・法規を正しく引かせるために、日本の法規 MCP ファミリーを作った話",
-      "url": "https://zenn.dev/shuji_bonji/articles/ad1ec6c65ac45a",
-      "score": null,
-      "author": "shuji",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Sun, 10 May 2026 21:29:13 GMT"
-    },
-    {
-      "id": "zenn-0824b998a9",
-      "source": "zennqiita",
-      "sub_source": "Zenn",
-      "title": "クリーンアーキテクチャは変更コストが高い！ YAGNI原則を適用して軽量化する",
-      "url": "https://zenn.dev/takakiriy/articles/f28aee009d0044",
-      "score": null,
-      "author": "Takakiri",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Sun, 10 May 2026 15:46:21 GMT"
-    },
-    {
       "id": "zenn-e4f521e33b",
       "source": "zennqiita",
       "sub_source": "Zenn",
@@ -5537,19 +5588,6 @@
       "date": "Sun, 10 May 2026 13:17:33 GMT"
     },
     {
-      "id": "zenn-7a63018b30",
-      "source": "zennqiita",
-      "sub_source": "Zenn",
-      "title": "Next.jsからQwikへ丸ごと移行してみた - 個人開発した動的Webアプリのリアーキテクチャ実録",
-      "url": "https://zenn.dev/connect0459/articles/rearchitect-from-next-to-qwik",
-      "score": null,
-      "author": "Akira",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Sun, 10 May 2026 12:00:18 GMT"
-    },
-    {
       "id": "zenn-498247cf92",
       "source": "zennqiita",
       "sub_source": "Zenn",
@@ -5574,19 +5612,6 @@
         "Zenn"
       ],
       "date": "Sun, 10 May 2026 07:47:08 GMT"
-    },
-    {
-      "id": "zenn-48e65a0fd7",
-      "source": "zennqiita",
-      "sub_source": "Zenn",
-      "title": "Claude Codeでの個人開発とセキュリティ管理",
-      "url": "https://zenn.dev/btiw/articles/4420d8b95d3e09",
-      "score": null,
-      "author": "btiw",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Sun, 10 May 2026 02:53:33 GMT"
     },
     {
       "id": "zenn-58d44043f9",
@@ -5626,32 +5651,6 @@
         "Zenn"
       ],
       "date": "Sat, 09 May 2026 04:07:20 GMT"
-    },
-    {
-      "id": "zenn-3f02f45c3c",
-      "source": "zennqiita",
-      "sub_source": "Zenn",
-      "title": "Claude Codeを\"使いこなす\"ための個人ルール設定 - 実際にやって効果が高かった設定",
-      "url": "https://zenn.dev/dotdtech_blog/articles/92348ee48cc692",
-      "score": null,
-      "author": "koki yamamoto",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Fri, 08 May 2026 12:38:57 GMT"
-    },
-    {
-      "id": "zenn-ff457ae751",
-      "source": "zennqiita",
-      "sub_source": "Zenn",
-      "title": "AI時代こそ、エンジニアは「師匠」が要る",
-      "url": "https://zenn.dev/acntechjp/articles/2e8d38ad383dd3",
-      "score": null,
-      "author": "kaito.abe",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Fri, 08 May 2026 10:19:21 GMT"
     },
     {
       "id": "edb-6a1be6a4e3",

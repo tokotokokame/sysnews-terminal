@@ -1,14 +1,27 @@
 {
-  "updated_at": "2026-05-13T08:15:47.116580+00:00",
+  "updated_at": "2026-05-13T11:06:10.789857+00:00",
   "count": 500,
   "items": [
     {
+      "id": "qiita-10724a95da",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "OCI X12 Standard Acceleron Computeで Intel AMXの効果を oneDNNと OpenVINO GenAIで確認してみてみた",
+      "url": "https://qiita.com/shirok/items/e6f8f5f7867d335814dd?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "shirok",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-05-13T17:55:23+09:00"
+    },
+    {
       "id": "hn-48118763",
       "source": "hn",
-      "title": "European governments: 3.000 tracking sites, 1.000 phpMyAdmins, and 99% poorly",
+      "title": "SecurityBaseline.eu",
       "url": "https://internetcleanup.foundation/2026/05/european-governments-3000-tracking-sites-1000-phpmyadmins-and-99pct-poorly-encrypted-email-introducing-securitybaseline-eu/",
-      "score": 54,
-      "comments": 12,
+      "score": 168,
+      "comments": 78,
       "author": "aequitas",
       "tags": [],
       "date": "2026-05-13T07:11:17+00:00"
@@ -31,24 +44,11 @@
       "source": "hn",
       "title": "Deterministic Fully-Static Whole-Binary Translation Without Heuristics",
       "url": "https://arxiv.org/abs/2605.08419",
-      "score": 143,
-      "comments": 30,
+      "score": 203,
+      "comments": 49,
       "author": "matt_d",
       "tags": [],
       "date": "2026-05-13T04:25:03+00:00"
-    },
-    {
-      "id": "qiita-10724a95da",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "OCI X12 Standard Acceleron Computeで Intel AMXの効果を oneDNNと OpenVINO GenAIで確認してみてみた",
-      "url": "https://qiita.com/shirok/items/e6f8f5f7867d335814dd?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "shirok",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-05-13T13:09:32+09:00"
     },
     {
       "id": "qiita-e046caa4b7",
@@ -155,8 +155,8 @@
       "source": "hn",
       "title": "My graduation cap runs Rust",
       "url": "https://ericswpark.com/blog/2026/2026-05-12-my-graduation-cap-runs-rust/",
-      "score": 143,
-      "comments": 42,
+      "score": 157,
+      "comments": 59,
       "author": "ericswpark",
       "tags": [],
       "date": "2026-05-13T00:04:21+00:00"
@@ -177,10 +177,10 @@
     {
       "id": "hn-48116064",
       "source": "hn",
-      "title": "When \"idle\" isn't idle: how a Linux kernel optimization became a QUIC bug",
+      "title": "When “idle” isn't idle: how a Linux kernel optimization became a QUIC bug",
       "url": "https://blog.cloudflare.com/quic-death-spiral-fix/",
-      "score": 80,
-      "comments": 5,
+      "score": 100,
+      "comments": 11,
       "author": "sbulaev",
       "tags": [],
       "date": "2026-05-12T23:46:28+00:00"
@@ -203,8 +203,8 @@
       "source": "hn",
       "title": "Kraftwerk's radical 1976 track",
       "url": "https://www.bbc.com/culture/article/20260511-kraftwerks-radical-1976-track-radioactivity-became-an-anti-nuclear-anthem",
-      "score": 144,
-      "comments": 80,
+      "score": 168,
+      "comments": 116,
       "author": "tcp_handshaker",
       "tags": [],
       "date": "2026-05-12T23:13:01+00:00"
@@ -225,8 +225,8 @@
       "source": "hn",
       "title": "Restore full BambuNetwork support for Bambu Lab printers",
       "url": "https://github.com/FULU-Foundation/OrcaSlicer-bambulab",
-      "score": 390,
-      "comments": 172,
+      "score": 460,
+      "comments": 196,
       "author": "Murfalo",
       "tags": [],
       "date": "2026-05-12T21:55:21+00:00"
@@ -247,8 +247,8 @@
       "source": "hn",
       "title": "Scrcpy v4.0",
       "url": "https://github.com/Genymobile/scrcpy/releases/tag/v4.0",
-      "score": 152,
-      "comments": 21,
+      "score": 214,
+      "comments": 28,
       "author": "xnx",
       "tags": [],
       "date": "2026-05-12T20:50:02+00:00"
@@ -258,8 +258,8 @@
       "source": "hn",
       "title": "How to make your text look futuristic (2016)",
       "url": "https://typesetinthefuture.com/2016/02/18/futuristic/",
-      "score": 322,
-      "comments": 36,
+      "score": 369,
+      "comments": 48,
       "author": "_vaporwave_",
       "tags": [],
       "date": "2026-05-12T20:16:26+00:00"
@@ -302,8 +302,8 @@
       "source": "hn",
       "title": "CERT is releasing six CVEs for serious security vulnerabilities in dnsmasq",
       "url": "https://lists.thekelleys.org.uk/pipermail/dnsmasq-discuss/2026q2/018471.html",
-      "score": 305,
-      "comments": 145,
+      "score": 323,
+      "comments": 162,
       "author": "chizhik-pyzhik",
       "tags": [],
       "date": "2026-05-12T18:12:28+00:00",
@@ -314,8 +314,8 @@
       "source": "hn",
       "title": "Show HN: Needle: We Distilled Gemini Tool Calling into a 26M Model",
       "url": "https://github.com/cactus-compute/needle",
-      "score": 427,
-      "comments": 145,
+      "score": 485,
+      "comments": 154,
       "author": "HenryNdubuaku",
       "tags": [],
       "date": "2026-05-12T18:03:11+00:00"
@@ -325,8 +325,8 @@
       "source": "hn",
       "title": "Quack: The DuckDB Client-Server Protocol",
       "url": "https://duckdb.org/2026/05/12/quack-remote-protocol",
-      "score": 273,
-      "comments": 54,
+      "score": 295,
+      "comments": 60,
       "author": "aduffy",
       "tags": [],
       "date": "2026-05-12T17:54:12+00:00"
@@ -348,8 +348,8 @@
       "source": "hn",
       "title": "Reimagining the mouse pointer for the AI era",
       "url": "https://deepmind.google/blog/ai-pointer/",
-      "score": 191,
-      "comments": 161,
+      "score": 210,
+      "comments": 178,
       "author": "devhouse",
       "tags": [],
       "date": "2026-05-12T17:40:13+00:00"
@@ -359,8 +359,8 @@
       "source": "hn",
       "title": "Googlebook",
       "url": "https://googlebook.google/",
-      "score": 752,
-      "comments": 1257,
+      "score": 800,
+      "comments": 1310,
       "author": "tambourine_man",
       "tags": [],
       "date": "2026-05-12T17:37:36+00:00"
@@ -379,10 +379,10 @@
     {
       "id": "hn-48111243",
       "source": "hn",
-      "title": "Is this why science advances one funeral at a time?",
+      "title": "As researchers age, they produce less disruptive work",
       "url": "https://nautil.us/is-this-why-science-advances-one-funeral-at-a-time-1280650",
-      "score": 21,
-      "comments": 25,
+      "score": 81,
+      "comments": 83,
       "author": "Brajeshwar",
       "tags": [],
       "date": "2026-05-12T17:16:59+00:00"
@@ -425,8 +425,8 @@
       "source": "hn",
       "title": "The Future of Obsidian Plugins",
       "url": "https://obsidian.md/blog/future-of-plugins/",
-      "score": 366,
-      "comments": 138,
+      "score": 384,
+      "comments": 145,
       "author": "xz18r",
       "tags": [],
       "date": "2026-05-12T15:45:54+00:00"
@@ -458,8 +458,8 @@
       "source": "hn",
       "title": "Why senior developers fail to communicate their expertise",
       "url": "https://www.nair.sh/guides-and-opinions/communicating-your-expertise/why-senior-developers-fail-to-communicate-their-expertise",
-      "score": 541,
-      "comments": 232,
+      "score": 602,
+      "comments": 265,
       "author": "nilirl",
       "tags": [],
       "date": "2026-05-12T15:08:40+00:00"
@@ -516,8 +516,8 @@
       "source": "hn",
       "title": "Rendering the Sky, Sunsets, and Planets",
       "url": "https://blog.maximeheckel.com/posts/on-rendering-the-sky-sunsets-and-planets/",
-      "score": 466,
-      "comments": 38,
+      "score": 482,
+      "comments": 39,
       "author": "ibobev",
       "tags": [],
       "date": "2026-05-12T13:26:46+00:00"
@@ -1349,11 +1349,22 @@
       "source": "hn",
       "title": "Traceway: MIT-licensed observability stack you can self-host in ~90s",
       "url": "https://github.com/tracewayapp/traceway",
-      "score": 89,
-      "comments": 6,
+      "score": 119,
+      "comments": 12,
       "author": "sebakubisz",
       "tags": [],
       "date": "2026-05-11T07:05:01+00:00"
+    },
+    {
+      "id": "hn-48091812",
+      "source": "hn",
+      "title": "Preserving Fisher-Price Pixter",
+      "url": "https://dmitry.gr/?r=05.Projects&proj=37.%20Pixter",
+      "score": 6,
+      "comments": 0,
+      "author": "dmitrygr",
+      "tags": [],
+      "date": "2026-05-11T06:52:48+00:00"
     },
     {
       "id": "hn-48091737",
@@ -1509,8 +1520,8 @@
       "source": "hn",
       "title": "Up in Smoke",
       "url": "https://thebaffler.com/odds-and-ends/the-profession-that-does-not-exist-symposium",
-      "score": 16,
-      "comments": 0,
+      "score": 28,
+      "comments": 9,
       "author": "NaOH",
       "tags": [],
       "date": "2026-05-11T02:13:02+00:00"
@@ -1536,6 +1547,17 @@
       "author": "dropbox_miner",
       "tags": [],
       "date": "2026-05-11T01:23:51+00:00"
+    },
+    {
+      "id": "hn-48089921",
+      "source": "hn",
+      "title": "New stainless steel can survive conditions for hydrogen production in seawater",
+      "url": "https://www.sciencedaily.com/releases/2026/05/260510030950.htm",
+      "score": 69,
+      "comments": 25,
+      "author": "HardwareLust",
+      "tags": [],
+      "date": "2026-05-11T01:05:59+00:00"
     },
     {
       "id": "qiita-150f18ada9",
@@ -2055,8 +2077,8 @@
       "source": "hn",
       "title": "Fc, a lossless compressor for floating-point streams",
       "url": "https://github.com/xtellect/fc",
-      "score": 59,
-      "comments": 13,
+      "score": 73,
+      "comments": 20,
       "author": "enduku",
       "tags": [],
       "date": "2026-05-10T10:14:20+00:00"
@@ -2777,10 +2799,10 @@
     {
       "id": "hn-48074226",
       "source": "hn",
-      "title": "What if there was no BASIC in EndBASIC? – by Julio Merino",
+      "title": "What if there was no BASIC in EndBASIC?",
       "url": "https://blogsystem5.substack.com/p/no-basic-in-endbasic",
-      "score": 13,
-      "comments": 1,
+      "score": 24,
+      "comments": 5,
       "author": "rbanffy",
       "tags": [],
       "date": "2026-05-09T11:55:29+00:00"
@@ -3551,6 +3573,17 @@
       "author": "surprisetalk",
       "tags": [],
       "date": "2026-05-08T13:15:14+00:00"
+    },
+    {
+      "id": "hn-48062447",
+      "source": "hn",
+      "title": "The Boring Part of Bell Labs (2025)",
+      "url": "https://acesounderglass.com/2025/11/15/the-boring-part-of-bell-labs/",
+      "score": 14,
+      "comments": 2,
+      "author": "surprisetalk",
+      "tags": [],
+      "date": "2026-05-08T13:00:19+00:00"
     },
     {
       "id": "hn-48062178",
@@ -5155,45 +5188,12 @@
       "date": "2026-05-06T21:26:53+00:00"
     },
     {
-      "id": "hn-48041953",
-      "source": "hn",
-      "title": "Mickey Mouse is watching you: Disneyland deploys facial recognition",
-      "url": "https://www.theguardian.com/us-news/2026/apr/28/disneyland-entrance-facial-recognition",
-      "score": 30,
-      "comments": 6,
-      "author": "Cider9986",
-      "tags": [],
-      "date": "2026-05-06T21:14:30+00:00"
-    },
-    {
-      "id": "hn-48041316",
-      "source": "hn",
-      "title": "Show HN: PHP-fts – Full-text search engine in pure PHP, no extensions",
-      "url": "https://github.com/olivier-ls/php-fts",
-      "score": 24,
-      "comments": 7,
-      "author": "asmodios",
-      "tags": [],
-      "date": "2026-05-06T20:28:17+00:00"
-    },
-    {
-      "id": "hn-48041009",
-      "source": "hn",
-      "title": "MIT’s virtual violin offers luthiers a new design tool",
-      "url": "https://arstechnica.com/science/2026/05/mits-virtual-violin-offers-luthiers-a-new-design-tool/",
-      "score": 22,
-      "comments": 2,
-      "author": "smushy",
-      "tags": [],
-      "date": "2026-05-06T20:02:42+00:00"
-    },
-    {
       "id": "hn-48033483",
       "source": "hn",
       "title": "The vi family",
       "url": "https://lpar.ATH0.com/posts/2026/05/the-vi-family/",
-      "score": 133,
-      "comments": 64,
+      "score": 183,
+      "comments": 112,
       "author": "hggh",
       "tags": [],
       "date": "2026-05-06T07:51:16+00:00"

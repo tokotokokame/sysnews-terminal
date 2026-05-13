@@ -1,14 +1,36 @@
 {
-  "updated_at": "2026-05-13T16:19:21.508480+00:00",
+  "updated_at": "2026-05-13T18:23:05.387013+00:00",
   "count": 500,
   "items": [
+    {
+      "id": "hn-48124436",
+      "source": "hn",
+      "title": "Launch HN: Ardent (YC P26) – Postgres sandboxes in seconds with zero migration",
+      "url": "https://www.tryardent.com/",
+      "score": 29,
+      "comments": 14,
+      "author": "vc289",
+      "tags": [],
+      "date": "2026-05-13T16:54:03+00:00"
+    },
+    {
+      "id": "hn-48124002",
+      "source": "hn",
+      "title": "Haiku",
+      "url": "https://www.haiku-os.org",
+      "score": 110,
+      "comments": 50,
+      "author": "tosh",
+      "tags": [],
+      "date": "2026-05-13T16:22:10+00:00"
+    },
     {
       "id": "hn-48123546",
       "source": "hn",
       "title": "S-100 Virtual Workbench",
       "url": "https://grantmestrength.github.io/S100/",
-      "score": 9,
-      "comments": 1,
+      "score": 51,
+      "comments": 10,
       "author": "rbanffy",
       "tags": [],
       "date": "2026-05-13T15:52:00+00:00"
@@ -41,8 +63,8 @@
       "source": "hn",
       "title": "Open Source Resistance: keep OSS alive on company time",
       "url": "https://ossresistance.com/",
-      "score": 25,
-      "comments": 6,
+      "score": 141,
+      "comments": 54,
       "author": "mikemcquaid",
       "tags": [],
       "date": "2026-05-13T15:13:37+00:00",
@@ -77,11 +99,22 @@
       "source": "hn",
       "title": "Setting up a free *.city.state.us locality domain",
       "url": "https://fredchan.org/blog/locality-domains-guide/",
-      "score": 140,
-      "comments": 27,
+      "score": 300,
+      "comments": 83,
       "author": "speckx",
       "tags": [],
       "date": "2026-05-13T14:45:18+00:00"
+    },
+    {
+      "id": "hn-48121929",
+      "source": "hn",
+      "title": "The US is winning the AI race where it matters most: commercialization",
+      "url": "https://avkcode.github.io/blog/us-winning-ai-race.html",
+      "score": 65,
+      "comments": 178,
+      "author": "akrylov",
+      "tags": [],
+      "date": "2026-05-13T13:53:53+00:00"
     },
     {
       "id": "hn-48121299",
@@ -97,10 +130,10 @@
     {
       "id": "hn-48121266",
       "source": "hn",
-      "title": "Why I'm leaving GitHub for Forgejo",
+      "title": "Leaving GitHub for Forgejo",
       "url": "https://jorijn.com/en/blog/leaving-github-for-forgejo/",
-      "score": 324,
-      "comments": 170,
+      "score": 411,
+      "comments": 222,
       "author": "jorijn",
       "tags": [],
       "date": "2026-05-13T12:54:00+00:00"
@@ -119,10 +152,10 @@
     {
       "id": "hn-48120629",
       "source": "hn",
-      "title": "I Moved My Digital Stack to Europe",
+      "title": "I moved my digital stack to Europe",
       "url": "https://monokai.com/articles/how-i-moved-my-digital-stack-to-europe/",
-      "score": 599,
-      "comments": 410,
+      "score": 698,
+      "comments": 462,
       "author": "monokai_nl",
       "tags": [],
       "date": "2026-05-13T11:42:20+00:00"
@@ -132,8 +165,8 @@
       "source": "hn",
       "title": "Using OR-Tools CP-SAT for Scheduling Problems",
       "url": "https://atalaykutlay.com/or-tools-cp-sat-for-scheduling-problems.html",
-      "score": 49,
-      "comments": 10,
+      "score": 61,
+      "comments": 22,
       "author": "akutlay",
       "tags": [],
       "date": "2026-05-13T11:02:57+00:00"
@@ -161,6 +194,17 @@
       "date": "2026-05-13T07:11:17+00:00"
     },
     {
+      "id": "hn-48118727",
+      "source": "hn",
+      "title": "The Emacsification of Software",
+      "url": "https://sockpuppet.org/blog/2026/05/12/emacsification/",
+      "score": 52,
+      "comments": 7,
+      "author": "rdslw",
+      "tags": [],
+      "date": "2026-05-13T07:06:14+00:00"
+    },
+    {
       "id": "qiita-8998e8ab04",
       "source": "zennqiita",
       "sub_source": "Qiita",
@@ -178,8 +222,8 @@
       "source": "hn",
       "title": "Deterministic Fully-Static Whole-Binary Translation Without Heuristics",
       "url": "https://arxiv.org/abs/2605.08419",
-      "score": 263,
-      "comments": 63,
+      "score": 274,
+      "comments": 65,
       "author": "matt_d",
       "tags": [],
       "date": "2026-05-13T04:25:03+00:00"
@@ -355,12 +399,23 @@
       "date": "2026-05-12T23:11:40+00:00"
     },
     {
+      "id": "hn-48115438",
+      "source": "hn",
+      "title": "Twin brothers wipe 96 government databases minutes after being fired",
+      "url": "https://arstechnica.com/tech-policy/2026/05/drop-database-what-not-to-do-after-losing-an-it-job/",
+      "score": 71,
+      "comments": 25,
+      "author": "jnord",
+      "tags": [],
+      "date": "2026-05-12T22:28:07+00:00"
+    },
+    {
       "id": "hn-48115127",
       "source": "hn",
       "title": "Restore full BambuNetwork support for Bambu Lab printers",
       "url": "https://github.com/FULU-Foundation/OrcaSlicer-bambulab",
-      "score": 599,
-      "comments": 263,
+      "score": 621,
+      "comments": 279,
       "author": "Murfalo",
       "tags": [],
       "date": "2026-05-12T21:55:21+00:00"
@@ -448,8 +503,8 @@
       "source": "hn",
       "title": "Show HN: Needle: We Distilled Gemini Tool Calling into a 26M Model",
       "url": "https://github.com/cactus-compute/needle",
-      "score": 575,
-      "comments": 165,
+      "score": 591,
+      "comments": 172,
       "author": "HenryNdubuaku",
       "tags": [],
       "date": "2026-05-12T18:03:11+00:00"
@@ -581,8 +636,8 @@
       "source": "hn",
       "title": "Heritability of human life span is ~50% when heritability is redefined",
       "url": "https://dynomight.net/lifespan/",
-      "score": 17,
-      "comments": 9,
+      "score": 51,
+      "comments": 29,
       "author": "surprisetalk",
       "tags": [],
       "date": "2026-05-12T15:30:05+00:00"
@@ -1448,8 +1503,8 @@
       "source": "hn",
       "title": "An idiot's guide to lead optimisation for proteins",
       "url": "https://magnusross.github.io/posts/protein-lead-optimisation-1/",
-      "score": 69,
-      "comments": 1,
+      "score": 99,
+      "comments": 8,
       "author": "magni121",
       "tags": [],
       "date": "2026-05-11T11:21:33+00:00"
@@ -1516,8 +1571,8 @@
       "source": "hn",
       "title": "Preserving Fisher-Price Pixter",
       "url": "https://dmitry.gr/?r=05.Projects&proj=37.%20Pixter",
-      "score": 143,
-      "comments": 22,
+      "score": 169,
+      "comments": 39,
       "author": "dmitrygr",
       "tags": [],
       "date": "2026-05-11T06:52:48+00:00"
@@ -1709,8 +1764,8 @@
       "source": "hn",
       "title": "New stainless steel can survive conditions for hydrogen production in seawater",
       "url": "https://www.sciencedaily.com/releases/2026/05/260510030950.htm",
-      "score": 210,
-      "comments": 85,
+      "score": 243,
+      "comments": 108,
       "author": "HardwareLust",
       "tags": [],
       "date": "2026-05-11T01:05:59+00:00"
@@ -1887,6 +1942,17 @@
       "author": "lemonberry",
       "tags": [],
       "date": "2026-05-10T21:16:58+00:00"
+    },
+    {
+      "id": "hn-48087887",
+      "source": "hn",
+      "title": "Linux gaming is faster because Windows APIs are becoming Linux kernel features",
+      "url": "https://www.xda-developers.com/linux-gaming-is-getting-faster-because-windows-apis-are-becoming-linux-kernel-features/",
+      "score": 33,
+      "comments": 14,
+      "author": "haunter",
+      "tags": [],
+      "date": "2026-05-10T20:54:06+00:00"
     },
     {
       "id": "hn-48087643",
@@ -2382,8 +2448,8 @@
       "source": "hn",
       "title": "Xs of Y – roguelike that names itself every run. Written in 4kLoC",
       "url": "https://github.com/nooga/xsofy",
-      "score": 18,
-      "comments": 0,
+      "score": 69,
+      "comments": 31,
       "author": "andsoitis",
       "tags": [],
       "date": "2026-05-10T03:32:59+00:00"
@@ -2590,8 +2656,8 @@
       "source": "hn",
       "title": "Web Server on a Nintendo Wii",
       "url": "http://wii.sjmulder.nl/",
-      "score": 71,
-      "comments": 15,
+      "score": 83,
+      "comments": 31,
       "author": "adunk",
       "tags": [],
       "date": "2026-05-09T21:32:16+00:00"
@@ -2624,8 +2690,8 @@
       "source": "hn",
       "title": "Reverting the incremental GC in Python 3.14 and 3.15",
       "url": "https://discuss.python.org/t/reverting-the-incremental-gc-in-python-3-14-and-3-15/107014",
-      "score": 100,
-      "comments": 24,
+      "score": 136,
+      "comments": 43,
       "author": "curiousgal",
       "tags": [],
       "date": "2026-05-09T20:25:55+00:00"
@@ -2761,8 +2827,8 @@
       "source": "hn",
       "title": "Nailing jelly to a wall: is it possible? (2005)",
       "url": "https://greem.co.uk/otherbits/jelly.html",
-      "score": 30,
-      "comments": 7,
+      "score": 47,
+      "comments": 17,
       "author": "microsoftedging",
       "tags": [],
       "date": "2026-05-09T16:50:51+00:00"
@@ -3043,6 +3109,17 @@
         "Qiita"
       ],
       "date": "2026-05-09T20:18:42+09:00"
+    },
+    {
+      "id": "hn-48073979",
+      "source": "hn",
+      "title": "A History of IDEs at Google",
+      "url": "https://laurent.le-brun.eu/blog/a-history-of-ides-at-google",
+      "score": 71,
+      "comments": 41,
+      "author": "laurentlb",
+      "tags": [],
+      "date": "2026-05-09T11:14:18+00:00"
     },
     {
       "id": "hn-48073680",
@@ -5102,93 +5179,6 @@
       "author": "jonbaer",
       "tags": [],
       "date": "2026-05-07T03:46:15+00:00"
-    },
-    {
-      "id": "qiita-bfe5f7d783",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "API課金ゼロで米国ニュース要約デスクトップアプリを作った（Tauri × ローカルLLM）",
-      "url": "https://qiita.com/chaochire/items/46df03c9c3bf56670e05?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "chaochire",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-05-07T12:37:20+09:00"
-    },
-    {
-      "id": "hn-48045012",
-      "source": "hn",
-      "title": "Diskless Linux boot using ZFS, iSCSI and PXE",
-      "url": "https://aniket.foo/posts/20260505-netboot/",
-      "score": 165,
-      "comments": 89,
-      "author": "stereo-highway",
-      "tags": [],
-      "date": "2026-05-07T03:13:24+00:00"
-    },
-    {
-      "id": "qiita-0906ee5088",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "[Frontend Performance - Part 13] 初期ロード最適化：Code SplittingとLazy Loading設計",
-      "url": "https://qiita.com/tuanphan/items/fb0e061b31545cb3c0c4?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "tuanphan",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-05-07T12:07:57+09:00"
-    },
-    {
-      "id": "qiita-b930bbc681",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "Copilot StudioをClaude Code化したら、Copilot Studio自身でPower Platformを構築できた話",
-      "url": "https://qiita.com/katohiro_fi/items/9acccd181ca2f1a75f3c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "katohiro_fi",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-05-07T11:36:12+09:00"
-    },
-    {
-      "id": "qiita-8cc6b3ec74",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "最小努力と最短時間でAI-901受験記",
-      "url": "https://qiita.com/ponponmikankan/items/15af1660f2c661761eb8?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "ponponmikankan",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-05-07T11:29:26+09:00"
-    },
-    {
-      "id": "hn-48044638",
-      "source": "hn",
-      "title": "Permacomputing Principles",
-      "url": "https://permacomputing.net/principles/",
-      "score": 209,
-      "comments": 130,
-      "author": "andsoitis",
-      "tags": [],
-      "date": "2026-05-07T02:18:23+00:00"
-    },
-    {
-      "id": "qiita-4ceb3957ac",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "Azure Functions 開発の初歩（.NET 8 / Isolated Worker）",
-      "url": "https://qiita.com/takahashih_imagitech/items/126a8f1e5eef624a41f1?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "takahashih_imagitech",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-05-07T10:59:55+09:00"
     },
     {
       "id": "ghrel-projectdiscovery_nuclei-310617486",

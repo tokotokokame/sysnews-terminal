@@ -1,17 +1,54 @@
 {
-  "updated_at": "2026-05-13T05:09:20.476432+00:00",
+  "updated_at": "2026-05-13T08:15:47.116580+00:00",
   "count": 500,
   "items": [
+    {
+      "id": "hn-48118763",
+      "source": "hn",
+      "title": "European governments: 3.000 tracking sites, 1.000 phpMyAdmins, and 99% poorly",
+      "url": "https://internetcleanup.foundation/2026/05/european-governments-3000-tracking-sites-1000-phpmyadmins-and-99pct-poorly-encrypted-email-introducing-securitybaseline-eu/",
+      "score": 54,
+      "comments": 12,
+      "author": "aequitas",
+      "tags": [],
+      "date": "2026-05-13T07:11:17+00:00"
+    },
+    {
+      "id": "qiita-8998e8ab04",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "1割の \"信頼される\" エンジニアが実行している 『止めないコミュニケーション』",
+      "url": "https://qiita.com/hitomin_poke/items/296886c435ebc79a667c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "hitomin_poke",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-05-13T13:42:28+09:00"
+    },
     {
       "id": "hn-48117810",
       "source": "hn",
       "title": "Deterministic Fully-Static Whole-Binary Translation Without Heuristics",
       "url": "https://arxiv.org/abs/2605.08419",
-      "score": 8,
-      "comments": 0,
+      "score": 143,
+      "comments": 30,
       "author": "matt_d",
       "tags": [],
       "date": "2026-05-13T04:25:03+00:00"
+    },
+    {
+      "id": "qiita-10724a95da",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "OCI X12 Standard Acceleron Computeで Intel AMXの効果を oneDNNと OpenVINO GenAIで確認してみてみた",
+      "url": "https://qiita.com/shirok/items/e6f8f5f7867d335814dd?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "shirok",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-05-13T13:09:32+09:00"
     },
     {
       "id": "qiita-e046caa4b7",
@@ -27,6 +64,45 @@
       "date": "2026-05-13T11:48:40+09:00"
     },
     {
+      "id": "qiita-1ce7fbb59b",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "[Frontend Performance - Part 15] 配信最適化：CDNとネットワークで表示速度を改善する",
+      "url": "https://qiita.com/tuanphan/items/03ab0f5fff1073d5604d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "tuanphan",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-05-13T11:37:31+09:00"
+    },
+    {
+      "id": "qiita-f54ec1fc02",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "いつも使っている Claude Code の裏側を覗いてみた",
+      "url": "https://qiita.com/sapeet-lin/items/f9143a90094601631b6b?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "sapeet-lin",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-05-13T11:04:17+09:00"
+    },
+    {
+      "id": "qiita-8b9f4ddccd",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "React開発者注意：TanStack Router攻撃事件まとめ",
+      "url": "https://qiita.com/tuanphan/items/c7f5838aef1afea9f631?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "tuanphan",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-05-13T10:58:54+09:00"
+    },
+    {
       "id": "hn-48116873",
       "source": "hn",
       "title": "Zero-native – Build native desktop apps with web UI",
@@ -38,12 +114,49 @@
       "date": "2026-05-13T01:45:02+00:00"
     },
     {
+      "id": "qiita-8c64f7673e",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "Whisperベースの無料音声入力ツール「Whispering」のセットアップ方法（Mac）",
+      "url": "https://qiita.com/akasateru/items/0d2577bf1d1d127033d9?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "akasateru",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-05-13T10:36:15+09:00"
+    },
+    {
+      "id": "hn-48116781",
+      "source": "hn",
+      "title": "Starship V3",
+      "url": "https://www.spacex.com/updates#starship-v3",
+      "score": 205,
+      "comments": 269,
+      "author": "fprog",
+      "tags": [],
+      "date": "2026-05-13T01:29:31+00:00"
+    },
+    {
+      "id": "qiita-a3c621f67d",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "OpenAI の Plugin と Skill の違いを整理する",
+      "url": "https://qiita.com/engchina/items/b6a65c4534882c1d0892?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "engchina",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-05-13T10:11:36+09:00"
+    },
+    {
       "id": "hn-48116207",
       "source": "hn",
       "title": "My graduation cap runs Rust",
       "url": "https://ericswpark.com/blog/2026/2026-05-12-my-graduation-cap-runs-rust/",
-      "score": 113,
-      "comments": 29,
+      "score": 143,
+      "comments": 42,
       "author": "ericswpark",
       "tags": [],
       "date": "2026-05-13T00:04:21+00:00"
@@ -66,19 +179,32 @@
       "source": "hn",
       "title": "When \"idle\" isn't idle: how a Linux kernel optimization became a QUIC bug",
       "url": "https://blog.cloudflare.com/quic-death-spiral-fix/",
-      "score": 48,
-      "comments": 1,
+      "score": 80,
+      "comments": 5,
       "author": "sbulaev",
       "tags": [],
       "date": "2026-05-12T23:46:28+00:00"
+    },
+    {
+      "id": "qiita-aa3537fa15",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "リサイズをスムーズに行うFigmaデータの作成方法",
+      "url": "https://qiita.com/hamada_yzrh/items/bdc316e82f878815da0f?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "hamada_yzrh",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-05-13T08:42:38+09:00"
     },
     {
       "id": "hn-48115823",
       "source": "hn",
       "title": "Kraftwerk's radical 1976 track",
       "url": "https://www.bbc.com/culture/article/20260511-kraftwerks-radical-1976-track-radioactivity-became-an-anti-nuclear-anthem",
-      "score": 101,
-      "comments": 39,
+      "score": 144,
+      "comments": 80,
       "author": "tcp_handshaker",
       "tags": [],
       "date": "2026-05-12T23:13:01+00:00"
@@ -88,8 +214,8 @@
       "source": "hn",
       "title": "Tell NYT, Atlantic, USA Today to keep Wayback Machine",
       "url": "https://www.savethearchive.com/newsleaders/",
-      "score": 248,
-      "comments": 59,
+      "score": 314,
+      "comments": 88,
       "author": "doener",
       "tags": [],
       "date": "2026-05-12T23:11:40+00:00"
@@ -99,8 +225,8 @@
       "source": "hn",
       "title": "Restore full BambuNetwork support for Bambu Lab printers",
       "url": "https://github.com/FULU-Foundation/OrcaSlicer-bambulab",
-      "score": 290,
-      "comments": 121,
+      "score": 390,
+      "comments": 172,
       "author": "Murfalo",
       "tags": [],
       "date": "2026-05-12T21:55:21+00:00"
@@ -121,8 +247,8 @@
       "source": "hn",
       "title": "Scrcpy v4.0",
       "url": "https://github.com/Genymobile/scrcpy/releases/tag/v4.0",
-      "score": 84,
-      "comments": 14,
+      "score": 152,
+      "comments": 21,
       "author": "xnx",
       "tags": [],
       "date": "2026-05-12T20:50:02+00:00"
@@ -132,8 +258,8 @@
       "source": "hn",
       "title": "How to make your text look futuristic (2016)",
       "url": "https://typesetinthefuture.com/2016/02/18/futuristic/",
-      "score": 270,
-      "comments": 33,
+      "score": 322,
+      "comments": 36,
       "author": "_vaporwave_",
       "tags": [],
       "date": "2026-05-12T20:16:26+00:00"
@@ -176,8 +302,8 @@
       "source": "hn",
       "title": "CERT is releasing six CVEs for serious security vulnerabilities in dnsmasq",
       "url": "https://lists.thekelleys.org.uk/pipermail/dnsmasq-discuss/2026q2/018471.html",
-      "score": 272,
-      "comments": 125,
+      "score": 305,
+      "comments": 145,
       "author": "chizhik-pyzhik",
       "tags": [],
       "date": "2026-05-12T18:12:28+00:00",
@@ -188,8 +314,8 @@
       "source": "hn",
       "title": "Show HN: Needle: We Distilled Gemini Tool Calling into a 26M Model",
       "url": "https://github.com/cactus-compute/needle",
-      "score": 350,
-      "comments": 124,
+      "score": 427,
+      "comments": 145,
       "author": "HenryNdubuaku",
       "tags": [],
       "date": "2026-05-12T18:03:11+00:00"
@@ -199,8 +325,8 @@
       "source": "hn",
       "title": "Quack: The DuckDB Client-Server Protocol",
       "url": "https://duckdb.org/2026/05/12/quack-remote-protocol",
-      "score": 231,
-      "comments": 49,
+      "score": 273,
+      "comments": 54,
       "author": "aduffy",
       "tags": [],
       "date": "2026-05-12T17:54:12+00:00"
@@ -222,8 +348,8 @@
       "source": "hn",
       "title": "Reimagining the mouse pointer for the AI era",
       "url": "https://deepmind.google/blog/ai-pointer/",
-      "score": 172,
-      "comments": 143,
+      "score": 191,
+      "comments": 161,
       "author": "devhouse",
       "tags": [],
       "date": "2026-05-12T17:40:13+00:00"
@@ -233,8 +359,8 @@
       "source": "hn",
       "title": "Googlebook",
       "url": "https://googlebook.google/",
-      "score": 683,
-      "comments": 1159,
+      "score": 752,
+      "comments": 1257,
       "author": "tambourine_man",
       "tags": [],
       "date": "2026-05-12T17:37:36+00:00"
@@ -299,8 +425,8 @@
       "source": "hn",
       "title": "The Future of Obsidian Plugins",
       "url": "https://obsidian.md/blog/future-of-plugins/",
-      "score": 336,
-      "comments": 133,
+      "score": 366,
+      "comments": 138,
       "author": "xz18r",
       "tags": [],
       "date": "2026-05-12T15:45:54+00:00"
@@ -332,8 +458,8 @@
       "source": "hn",
       "title": "Why senior developers fail to communicate their expertise",
       "url": "https://www.nair.sh/guides-and-opinions/communicating-your-expertise/why-senior-developers-fail-to-communicate-their-expertise",
-      "score": 465,
-      "comments": 204,
+      "score": 541,
+      "comments": 232,
       "author": "nilirl",
       "tags": [],
       "date": "2026-05-12T15:08:40+00:00"
@@ -390,7 +516,7 @@
       "source": "hn",
       "title": "Rendering the Sky, Sunsets, and Planets",
       "url": "https://blog.maximeheckel.com/posts/on-rendering-the-sky-sunsets-and-planets/",
-      "score": 436,
+      "score": 466,
       "comments": 38,
       "author": "ibobev",
       "tags": [],
@@ -585,6 +711,19 @@
         "Qiita"
       ],
       "date": "2026-05-12T13:37:59+09:00"
+    },
+    {
+      "id": "qiita-771cabb71e",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "現在地付近の東京の電車・バスをスマートグラスに「スカウター」として映す — Even G2 plugin を作った話",
+      "url": "https://qiita.com/oic0310/items/47b810a2d9c8c51fac90?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "oic0310",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-05-12T13:18:23+09:00"
     },
     {
       "id": "hn-48104041",
@@ -1101,6 +1240,19 @@
       "date": "2026-05-12T00:04:50+09:00"
     },
     {
+      "id": "qiita-3c05e94edb",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "Sokhotski-Plemelj の公式を物理のために理解する：主値積分、デルタ関数、因果性の入口",
+      "url": "https://qiita.com/yamadasuzaku/items/3f59bfe8ba5712c23d63?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "yamadasuzaku",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-05-12T00:02:54+09:00"
+    },
+    {
       "id": "hn-48095550",
       "source": "hn",
       "title": "Software engineering may no longer be a lifetime career",
@@ -1110,6 +1262,19 @@
       "author": "movis",
       "tags": [],
       "date": "2026-05-11T14:34:08+00:00"
+    },
+    {
+      "id": "qiita-da7683def5",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "「あ、これAIが書いたな」と一瞬でバレる技術記事の6つの特徴",
+      "url": "https://qiita.com/gorie-site/items/4ff2efbaa38575edd6a8?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "gorie-site",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-05-11T23:34:03+09:00"
     },
     {
       "id": "hn-48094521",
@@ -1184,8 +1349,8 @@
       "source": "hn",
       "title": "Traceway: MIT-licensed observability stack you can self-host in ~90s",
       "url": "https://github.com/tracewayapp/traceway",
-      "score": 40,
-      "comments": 3,
+      "score": 89,
+      "comments": 6,
       "author": "sebakubisz",
       "tags": [],
       "date": "2026-05-11T07:05:01+00:00"
@@ -1338,6 +1503,17 @@
       "author": "gmays",
       "tags": [],
       "date": "2026-05-11T02:14:54+00:00"
+    },
+    {
+      "id": "hn-48090321",
+      "source": "hn",
+      "title": "Up in Smoke",
+      "url": "https://thebaffler.com/odds-and-ends/the-profession-that-does-not-exist-symposium",
+      "score": 16,
+      "comments": 0,
+      "author": "NaOH",
+      "tags": [],
+      "date": "2026-05-11T02:13:02+00:00"
     },
     {
       "id": "hn-48090276",
@@ -1539,8 +1715,8 @@
       "source": "hn",
       "title": "Referer Reality",
       "url": "https://www.robinsloan.com/lab/referer/",
-      "score": 22,
-      "comments": 4,
+      "score": 35,
+      "comments": 9,
       "author": "tobr",
       "tags": [],
       "date": "2026-05-10T20:31:10+00:00"
@@ -1726,6 +1902,17 @@
       "severity": "medium"
     },
     {
+      "id": "hn-48084415",
+      "source": "hn",
+      "title": "I made rust's cargo copy but for CPP",
+      "url": "https://github.com/user-with-username/crow",
+      "score": 7,
+      "comments": 2,
+      "author": "anybodyy",
+      "tags": [],
+      "date": "2026-05-10T14:44:17+00:00"
+    },
+    {
       "id": "hn-48084350",
       "source": "hn",
       "title": "Taxpayers May Be Eligible for Significant Tax Refunds – If They Act by July 10",
@@ -1868,8 +2055,8 @@
       "source": "hn",
       "title": "Fc, a lossless compressor for floating-point streams",
       "url": "https://github.com/xtellect/fc",
-      "score": 37,
-      "comments": 8,
+      "score": 59,
+      "comments": 13,
       "author": "enduku",
       "tags": [],
       "date": "2026-05-10T10:14:20+00:00"
@@ -2586,6 +2773,17 @@
       "author": "hggh",
       "tags": [],
       "date": "2026-05-09T12:00:30+00:00"
+    },
+    {
+      "id": "hn-48074226",
+      "source": "hn",
+      "title": "What if there was no BASIC in EndBASIC? – by Julio Merino",
+      "url": "https://blogsystem5.substack.com/p/no-basic-in-endbasic",
+      "score": 13,
+      "comments": 1,
+      "author": "rbanffy",
+      "tags": [],
+      "date": "2026-05-09T11:55:29+00:00"
     },
     {
       "id": "qiita-c8084c3f16",
@@ -4990,189 +5188,12 @@
       "date": "2026-05-06T20:02:42+00:00"
     },
     {
-      "id": "hn-48040622",
-      "source": "hn",
-      "title": "Inkscape 1.4.4",
-      "url": "https://inkscape.org/doc/release_notes/1.4.4/Inkscape_1.4.4.html",
-      "score": 244,
-      "comments": 69,
-      "author": "s1291",
-      "tags": [],
-      "date": "2026-05-06T19:33:25+00:00"
-    },
-    {
-      "id": "hn-48040522",
-      "source": "hn",
-      "title": "How to Optimize MongoDB Query Performance with Indexes",
-      "url": "https://visualeaf.com/blog/mongodb-query-optimization-indexes/",
-      "score": 6,
-      "comments": 0,
-      "author": "RoxiHaidi",
-      "tags": [],
-      "date": "2026-05-06T19:25:24+00:00"
-    },
-    {
-      "id": "hn-48040470",
-      "source": "hn",
-      "title": "Light without electricity? Glowing algae could make it possible",
-      "url": "https://www.colorado.edu/today/2026/05/06/light-without-electricity-glowing-algae-could-make-it-possible",
-      "score": 79,
-      "comments": 24,
-      "author": "geox",
-      "tags": [],
-      "date": "2026-05-06T19:21:34+00:00"
-    },
-    {
-      "id": "hn-48040465",
-      "source": "hn",
-      "title": "OpenBSD Stories: The closest thing to cute kittens (OpenBSD/zaurus)",
-      "url": "http://miod.online.fr/software/openbsd/stories/zaurus1.html",
-      "score": 57,
-      "comments": 7,
-      "author": "zdw",
-      "tags": [],
-      "date": "2026-05-06T19:21:18+00:00"
-    },
-    {
-      "id": "hn-48040412",
-      "source": "hn",
-      "title": "Reviving the IBM Selectric Composer Fonts (2023)",
-      "url": "https://www.kutilek.de/selectric/",
-      "score": 58,
-      "comments": 5,
-      "author": "tangus",
-      "tags": [],
-      "date": "2026-05-06T19:16:49+00:00"
-    },
-    {
-      "id": "hn-48040306",
-      "source": "hn",
-      "title": "Bitter Lessons from the ISSpresso",
-      "url": "https://mceglowski.substack.com/p/bitter-lessons-from-the-isspresso",
-      "score": 101,
-      "comments": 26,
-      "author": "zdw",
-      "tags": [],
-      "date": "2026-05-06T19:09:29+00:00"
-    },
-    {
-      "id": "hn-48040269",
-      "source": "hn",
-      "title": "Programming Still Sucks",
-      "url": "https://www.stvn.sh/writing/programming-still-sucks-fqffhyp",
-      "score": 307,
-      "comments": 126,
-      "author": "jeromechoo",
-      "tags": [],
-      "date": "2026-05-06T19:06:41+00:00"
-    },
-    {
-      "id": "hn-48040002",
-      "source": "hn",
-      "title": "Learning the Integral of a Diffusion Model",
-      "url": "https://sander.ai/2026/05/06/flow-maps.html",
-      "score": 130,
-      "comments": 21,
-      "author": "benanne",
-      "tags": [],
-      "date": "2026-05-06T18:46:27+00:00"
-    },
-    {
-      "id": "hn-48039739",
-      "source": "hn",
-      "title": "BYD overtakes Tesla and Kia as the best-selling EV brand in key overseas markets",
-      "url": "https://electrek.co/2026/05/05/byd-overtakes-tesla-kia-best-selling-ev-brand-key-overseas-markets/",
-      "score": 121,
-      "comments": 139,
-      "author": "doener",
-      "tags": [],
-      "date": "2026-05-06T18:25:06+00:00"
-    },
-    {
-      "id": "hn-48039674",
-      "source": "hn",
-      "title": "Proton Meet",
-      "url": "https://proton.me/business/blog/introducing-proton-meet",
-      "score": 35,
-      "comments": 6,
-      "author": "Einenlum",
-      "tags": [],
-      "date": "2026-05-06T18:19:49+00:00"
-    },
-    {
-      "id": "hn-48039362",
-      "source": "hn",
-      "title": "Google Cloud fraud defense, the next evolution of reCAPTCHA",
-      "url": "https://cloud.google.com/blog/products/identity-security/introducing-google-cloud-fraud-defense-the-next-evolution-of-recaptcha/",
-      "score": 331,
-      "comments": 332,
-      "author": "unforgivenpasta",
-      "tags": [],
-      "date": "2026-05-06T17:59:33+00:00"
-    },
-    {
-      "id": "hn-48039249",
-      "source": "hn",
-      "title": "I'm writing a history of Visual Basic, Chapter 1 is up",
-      "url": "https://evilgeniuslabs.ca/blog/visual-basic-history-chapter-1-launch",
-      "score": 118,
-      "comments": 42,
-      "author": "speckx",
-      "tags": [],
-      "date": "2026-05-06T17:52:29+00:00"
-    },
-    {
-      "id": "hn-48039150",
-      "source": "hn",
-      "title": "Boosting multimodal inference performance by >10% with a single Python dict",
-      "url": "https://modal.com/blog/boosting-multimodal-inference-performance-by-greater-than-10-with-a-single-python-dictionary",
-      "score": 5,
-      "comments": 0,
-      "author": "jxmorris12",
-      "tags": [],
-      "date": "2026-05-06T17:45:00+00:00"
-    },
-    {
-      "id": "hn-48038864",
-      "source": "hn",
-      "title": "Going Full Time on Open Source",
-      "url": "https://jdx.dev/posts/2026-04-17-going-full-time-on-open-source/",
-      "score": 112,
-      "comments": 16,
-      "author": "thunderbong",
-      "tags": [],
-      "date": "2026-05-06T17:22:49+00:00",
-      "severity": "critical"
-    },
-    {
-      "id": "hn-48038827",
-      "source": "hn",
-      "title": "From Supabase to Clerk to Better Auth",
-      "url": "https://blog.val.town/better-auth",
-      "score": 267,
-      "comments": 193,
-      "author": "stevekrouse",
-      "tags": [],
-      "date": "2026-05-06T17:19:34+00:00"
-    },
-    {
-      "id": "hn-48038750",
-      "source": "hn",
-      "title": "SoundOff: Low-Cost Passive Ultrasound Tags",
-      "url": "https://yibo-fu.com/SoundOff-Low-cost-Passive-Ultrasound-Tags-for-Non-invasive-and-Non",
-      "score": 49,
-      "comments": 1,
-      "author": "jonbaer",
-      "tags": [],
-      "date": "2026-05-06T17:13:54+00:00"
-    },
-    {
       "id": "hn-48033483",
       "source": "hn",
       "title": "The vi family",
       "url": "https://lpar.ATH0.com/posts/2026/05/the-vi-family/",
-      "score": 48,
-      "comments": 13,
+      "score": 133,
+      "comments": 64,
       "author": "hggh",
       "tags": [],
       "date": "2026-05-06T07:51:16+00:00"

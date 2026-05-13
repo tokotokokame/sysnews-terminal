@@ -1,14 +1,38 @@
 {
-  "updated_at": "2026-05-13T21:51:47.321691+00:00",
+  "updated_at": "2026-05-13T23:05:00.250551+00:00",
   "count": 500,
   "items": [
+    {
+      "id": "qiita-10724a95da",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "Intel AMXの効果を oneDNNと OpenVINO GenAIで確認してみてみた",
+      "url": "https://qiita.com/shirok/items/e6f8f5f7867d335814dd?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "shirok",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-05-14T07:52:15+09:00"
+    },
+    {
+      "id": "hn-48127815",
+      "source": "hn",
+      "title": "Medicare's new payment model is built for AI. Most of the tech world has no idea",
+      "url": "https://techcrunch.com/2026/05/12/medicares-new-payment-model-is-built-for-ai-and-most-of-the-tech-world-has-no-idea/",
+      "score": 22,
+      "comments": 13,
+      "author": "brandonb",
+      "tags": [],
+      "date": "2026-05-13T21:24:14+00:00"
+    },
     {
       "id": "hn-48126981",
       "source": "hn",
       "title": "Meta won't let you block its AI account on Threads",
       "url": "https://www.theverge.com/tech/929091/meta-ai-threads-account-block",
-      "score": 35,
-      "comments": 10,
+      "score": 57,
+      "comments": 22,
       "author": "logickkk1",
       "tags": [],
       "date": "2026-05-13T20:22:21+00:00"
@@ -18,8 +42,8 @@
       "source": "hn",
       "title": "In-person examinations at Princeton will be proctored starting July 1",
       "url": "https://www.dailyprincetonian.com/article/2026/05/princeton-news-adpol-proctoring-in-person-examinations-passed-faculty-133-years-precedent",
-      "score": 143,
-      "comments": 174,
+      "score": 178,
+      "comments": 233,
       "author": "bookofjoe",
       "tags": [],
       "date": "2026-05-13T20:12:16+00:00"
@@ -40,8 +64,8 @@
       "source": "hn",
       "title": "Making the news available at no cost is a victory",
       "url": "https://www.sltrib.com/opinion/commentary/2026/05/12/just-days-tribune-reporting/",
-      "score": 82,
-      "comments": 92,
+      "score": 90,
+      "comments": 100,
       "author": "danso",
       "tags": [],
       "date": "2026-05-13T19:14:47+00:00"
@@ -51,8 +75,8 @@
       "source": "hn",
       "title": "\"Not Medically Necessary\": Helping America's Health Insurers Deny Coverage",
       "url": "https://www.propublica.org/article/evicore-health-insurance-denials-cigna-unitedhealthcare-aetna-prior-authorizations",
-      "score": 97,
-      "comments": 48,
+      "score": 135,
+      "comments": 94,
       "author": "ceejayoz",
       "tags": [],
       "date": "2026-05-13T19:01:54+00:00"
@@ -62,8 +86,8 @@
       "source": "hn",
       "title": "MacBook Neo Deep Dive: Benchmarks, Wafer Economics, and the 8GB Gamble",
       "url": "https://www.jdhodges.com/blog/macbook-neo-benchmarks-analysis/",
-      "score": 93,
-      "comments": 44,
+      "score": 126,
+      "comments": 90,
       "author": "tosh",
       "tags": [],
       "date": "2026-05-13T18:30:51+00:00"
@@ -73,8 +97,8 @@
       "source": "hn",
       "title": "A sentimental tour of late 1990s and early 2000s hacking tools",
       "url": "https://andreafortuna.org/2026/05/13/amarcord/",
-      "score": 26,
-      "comments": 9,
+      "score": 33,
+      "comments": 12,
       "author": "speckx",
       "tags": [],
       "date": "2026-05-13T18:25:09+00:00"
@@ -95,7 +119,7 @@
       "source": "hn",
       "title": "Launch HN: Ardent (YC P26) – Postgres sandboxes in seconds with zero migration",
       "url": "https://www.tryardent.com/",
-      "score": 51,
+      "score": 55,
       "comments": 20,
       "author": "vc289",
       "tags": [],
@@ -117,8 +141,8 @@
       "source": "hn",
       "title": "S-100 Virtual Workbench",
       "url": "https://grantmestrength.github.io/S100/",
-      "score": 81,
-      "comments": 18,
+      "score": 90,
+      "comments": 19,
       "author": "rbanffy",
       "tags": [],
       "date": "2026-05-13T15:52:00+00:00"
@@ -159,19 +183,6 @@
       "severity": "critical"
     },
     {
-      "id": "qiita-10724a95da",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "OCI X12 Standard Acceleron Computeで Intel AMXの効果を oneDNNと OpenVINO GenAIで確認してみてみた",
-      "url": "https://qiita.com/shirok/items/e6f8f5f7867d335814dd?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "shirok",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-05-14T00:11:51+09:00"
-    },
-    {
       "id": "hn-48122954",
       "source": "hn",
       "title": "The limits of Rust, or why you should probably not follow Amazon and Cloudflare",
@@ -187,8 +198,8 @@
       "source": "hn",
       "title": "Setting up a free *.city.state.us locality domain (2025)",
       "url": "https://fredchan.org/blog/locality-domains-guide/",
-      "score": 422,
-      "comments": 135,
+      "score": 445,
+      "comments": 142,
       "author": "speckx",
       "tags": [],
       "date": "2026-05-13T14:45:18+00:00"
@@ -198,8 +209,8 @@
       "source": "hn",
       "title": "The US is winning the AI race where it matters most: commercialization",
       "url": "https://avkcode.github.io/blog/us-winning-ai-race.html",
-      "score": 131,
-      "comments": 355,
+      "score": 142,
+      "comments": 387,
       "author": "akrylov",
       "tags": [],
       "date": "2026-05-13T13:53:53+00:00"
@@ -220,8 +231,8 @@
       "source": "hn",
       "title": "Leaving GitHub for Forgejo",
       "url": "https://jorijn.com/en/blog/leaving-github-for-forgejo/",
-      "score": 486,
-      "comments": 259,
+      "score": 506,
+      "comments": 268,
       "author": "jorijn",
       "tags": [],
       "date": "2026-05-13T12:54:00+00:00"
@@ -297,8 +308,8 @@
       "source": "hn",
       "title": "The Emacsification of Software",
       "url": "https://sockpuppet.org/blog/2026/05/12/emacsification/",
-      "score": 129,
-      "comments": 84,
+      "score": 145,
+      "comments": 100,
       "author": "rdslw",
       "tags": [],
       "date": "2026-05-13T07:06:14+00:00"
@@ -528,8 +539,8 @@
       "source": "hn",
       "title": "Twin brothers wipe 96 government databases minutes after being fired",
       "url": "https://arstechnica.com/tech-policy/2026/05/drop-database-what-not-to-do-after-losing-an-it-job/",
-      "score": 208,
-      "comments": 140,
+      "score": 243,
+      "comments": 166,
       "author": "jnord",
       "tags": [],
       "date": "2026-05-12T22:28:07+00:00"
@@ -1525,8 +1536,8 @@
       "source": "hn",
       "title": "Chess puzzle I found in my dad's old book",
       "url": "https://ardoedo.it/kempelen/",
-      "score": 28,
-      "comments": 4,
+      "score": 46,
+      "comments": 8,
       "author": "Eswo",
       "tags": [],
       "date": "2026-05-11T16:00:19+00:00"
@@ -1602,6 +1613,17 @@
       "date": "2026-05-12T00:02:54+09:00"
     },
     {
+      "id": "hn-48095782",
+      "source": "hn",
+      "title": "Marco Polo: Finding a friend with only distance and motion",
+      "url": "https://www.jackhogan.me/blog/marco-polo",
+      "score": 3,
+      "comments": 0,
+      "author": "jackhogan11",
+      "tags": [],
+      "date": "2026-05-11T14:52:25+00:00"
+    },
+    {
       "id": "hn-48095680",
       "source": "hn",
       "title": "Exploring 8 Shaft Weaving",
@@ -1639,10 +1661,10 @@
     {
       "id": "hn-48094986",
       "source": "hn",
-      "title": "The great memory panic of 2026 – Asymco",
+      "title": "How can Apple deal with the memory shortage?",
       "url": "https://asymco.com/2026/05/11/the-great-memory-panic-of-2026/",
-      "score": 45,
-      "comments": 18,
+      "score": 58,
+      "comments": 26,
       "author": "tambourine_man",
       "tags": [],
       "date": "2026-05-11T13:49:23+00:00"
@@ -1674,7 +1696,7 @@
       "source": "hn",
       "title": "An idiot's guide to lead optimisation for proteins",
       "url": "https://magnusross.github.io/posts/protein-lead-optimisation-1/",
-      "score": 125,
+      "score": 131,
       "comments": 10,
       "author": "magni121",
       "tags": [],
@@ -1935,8 +1957,8 @@
       "source": "hn",
       "title": "New stainless steel can survive conditions for hydrogen production in seawater",
       "url": "https://www.sciencedaily.com/releases/2026/05/260510030950.htm",
-      "score": 272,
-      "comments": 128,
+      "score": 279,
+      "comments": 135,
       "author": "HardwareLust",
       "tags": [],
       "date": "2026-05-11T01:05:59+00:00"
@@ -2119,8 +2141,8 @@
       "source": "hn",
       "title": "Linux gaming is faster because Windows APIs are becoming Linux kernel features",
       "url": "https://www.xda-developers.com/linux-gaming-is-getting-faster-because-windows-apis-are-becoming-linux-kernel-features/",
-      "score": 289,
-      "comments": 208,
+      "score": 388,
+      "comments": 252,
       "author": "haunter",
       "tags": [],
       "date": "2026-05-10T20:54:06+00:00"
@@ -2619,8 +2641,8 @@
       "source": "hn",
       "title": "Xs of Y – roguelike that names itself every run. Written in 4kLoC",
       "url": "https://github.com/nooga/xsofy",
-      "score": 130,
-      "comments": 56,
+      "score": 137,
+      "comments": 60,
       "author": "andsoitis",
       "tags": [],
       "date": "2026-05-10T03:32:59+00:00"
@@ -2861,8 +2883,8 @@
       "source": "hn",
       "title": "Reverting the incremental GC in Python 3.14 and 3.15",
       "url": "https://discuss.python.org/t/reverting-the-incremental-gc-in-python-3-14-and-3-15/107014",
-      "score": 176,
-      "comments": 61,
+      "score": 184,
+      "comments": 71,
       "author": "curiousgal",
       "tags": [],
       "date": "2026-05-09T20:25:55+00:00"
@@ -3286,8 +3308,8 @@
       "source": "hn",
       "title": "A History of IDEs at Google",
       "url": "https://laurent.le-brun.eu/blog/a-history-of-ides-at-google",
-      "score": 183,
-      "comments": 155,
+      "score": 217,
+      "comments": 172,
       "author": "laurentlb",
       "tags": [],
       "date": "2026-05-09T11:14:18+00:00"
@@ -5155,28 +5177,6 @@
         "Qiita"
       ],
       "date": "2026-05-07T19:18:36+09:00"
-    },
-    {
-      "id": "hn-48047528",
-      "source": "hn",
-      "title": "A new hash table for Lwan",
-      "url": "https://tia.mat.br/posts/2026/05/06/a-new-hash-table-for-lwan.html",
-      "score": 4,
-      "comments": 0,
-      "author": "g0xA52A2A",
-      "tags": [],
-      "date": "2026-05-07T10:05:27+00:00"
-    },
-    {
-      "id": "hn-48047280",
-      "source": "hn",
-      "title": "Removing fsync from our local storage engine",
-      "url": "https://fractalbits.com/blog/remove-fsync/",
-      "score": 41,
-      "comments": 31,
-      "author": "zzsheng",
-      "tags": [],
-      "date": "2026-05-07T09:25:58+00:00"
     },
     {
       "id": "ghrel-projectdiscovery_nuclei-310617486",

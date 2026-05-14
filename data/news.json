@@ -1,25 +1,115 @@
 {
-  "updated_at": "2026-05-14T20:52:37.498663+00:00",
+  "updated_at": "2026-05-14T22:11:56.786173+00:00",
   "count": 500,
   "items": [
+    {
+      "id": "hn-48141732",
+      "source": "hn",
+      "title": "OVMS: Open source electric vehicle remote monitoring, diagnosis and control",
+      "url": "https://www.openvehicles.com/home",
+      "score": 5,
+      "comments": 1,
+      "author": "BHSPitMonkey",
+      "tags": [],
+      "date": "2026-05-14T21:50:17+00:00",
+      "severity": "critical"
+    },
+    {
+      "id": "hn-48141234",
+      "source": "hn",
+      "title": "Claude for Legal",
+      "url": "https://github.com/anthropics/claude-for-legal",
+      "score": 26,
+      "comments": 14,
+      "author": "Einenlum",
+      "tags": [],
+      "date": "2026-05-14T21:05:05+00:00"
+    },
+    {
+      "id": "hn-48141206",
+      "source": "hn",
+      "title": "Show HN: I built a Web-Scraper API that is 6-7x more efficient than current ones",
+      "url": "https://scrapewithruno.com/",
+      "score": 12,
+      "comments": 6,
+      "author": "polaritymaking",
+      "tags": [],
+      "date": "2026-05-14T21:02:01+00:00"
+    },
+    {
+      "id": "hn-48141191",
+      "source": "hn",
+      "title": "Infracost (YC W21) Is Hiring Sr Dev Advocate to make agents cloud cost-aware",
+      "url": "https://www.ycombinator.com/companies/infracost/jobs/NzwUQ7c-senior-developer-advocate",
+      "score": 1,
+      "comments": 0,
+      "author": "akh",
+      "tags": [],
+      "date": "2026-05-14T21:00:37+00:00"
+    },
+    {
+      "id": "hn-48140953",
+      "source": "hn",
+      "title": "Tesla Wall Connector bootloader bypasses the firmware downgrade ratchet",
+      "url": "https://www.synacktiv.com/en/publications/exploiting-the-tesla-wall-connector-from-its-charge-port-connector-part-2-bypassing",
+      "score": 24,
+      "comments": 0,
+      "author": "p_stuart82",
+      "tags": [],
+      "date": "2026-05-14T20:41:48+00:00",
+      "severity": "high"
+    },
+    {
+      "id": "hn-48140922",
+      "source": "hn",
+      "title": "New arXiv policy: 1-year ban for hallucinated references",
+      "url": "https://twitter.com/tdietterich/status/2055000956144935055",
+      "score": 94,
+      "comments": 9,
+      "author": "gjuggler",
+      "tags": [],
+      "date": "2026-05-14T20:39:12+00:00"
+    },
+    {
+      "id": "hn-48140730",
+      "source": "hn",
+      "title": "Amazonbot is finally respecting robots.txt",
+      "url": "https://xeiaso.net/notes/2026/amazonbot-respecting-robots-txt/",
+      "score": 62,
+      "comments": 11,
+      "author": "xena",
+      "tags": [],
+      "date": "2026-05-14T20:22:35+00:00"
+    },
     {
       "id": "hn-48140541",
       "source": "hn",
       "title": "RISC-V Router",
       "url": "https://router.start9.com/",
-      "score": 5,
-      "comments": 1,
+      "score": 31,
+      "comments": 14,
       "author": "janandonly",
       "tags": [],
       "date": "2026-05-14T20:06:53+00:00"
+    },
+    {
+      "id": "hn-48140529",
+      "source": "hn",
+      "title": "Work with Codex from Anywhere",
+      "url": "https://openai.com/index/work-with-codex-from-anywhere/",
+      "score": 51,
+      "comments": 13,
+      "author": "mikeevans",
+      "tags": [],
+      "date": "2026-05-14T20:06:14+00:00"
     },
     {
       "id": "hn-48139704",
       "source": "hn",
       "title": "WinUI 3 Performance: A Leap Forward",
       "url": "https://github.com/microsoft/microsoft-ui-xaml/discussions/11096",
-      "score": 38,
-      "comments": 14,
+      "score": 69,
+      "comments": 50,
       "author": "whatever3",
       "tags": [],
       "date": "2026-05-14T19:01:58+00:00"
@@ -40,8 +130,8 @@
       "source": "hn",
       "title": "The Power of a Free Popsicle (2018)",
       "url": "https://www.gsb.stanford.edu/insights/power-free-popsicle",
-      "score": 39,
-      "comments": 9,
+      "score": 51,
+      "comments": 17,
       "author": "NaOH",
       "tags": [],
       "date": "2026-05-14T18:33:47+00:00"
@@ -51,8 +141,8 @@
       "source": "hn",
       "title": "Understanding the Linux Kernel: The Linux Kernel Startup",
       "url": "https://internals-for-interns.com/posts/linux-kernel-startup/",
-      "score": 47,
-      "comments": 6,
+      "score": 66,
+      "comments": 10,
       "author": "valyala",
       "tags": [],
       "date": "2026-05-14T18:25:10+00:00"
@@ -62,8 +152,8 @@
       "source": "hn",
       "title": "First public macOS kernel memory corruption exploit on Apple M5",
       "url": "https://blog.calif.io/p/first-public-kernel-memory-corruption",
-      "score": 85,
-      "comments": 11,
+      "score": 144,
+      "comments": 22,
       "author": "quadrige",
       "tags": [],
       "date": "2026-05-14T18:25:09+00:00",
@@ -74,8 +164,8 @@
       "source": "hn",
       "title": "AI is making me dumb",
       "url": "https://jpain.io/god-damn-ai-is-making-me-dumb/",
-      "score": 269,
-      "comments": 179,
+      "score": 327,
+      "comments": 212,
       "author": "Eighth",
       "tags": [],
       "date": "2026-05-14T18:19:28+00:00"
@@ -85,8 +175,8 @@
       "source": "hn",
       "title": "You Don't Align an AI, You Align with It",
       "url": "https://danieltan.weblog.lol/2026/05/you-dont-align-an-ai-you-align-with-it",
-      "score": 47,
-      "comments": 22,
+      "score": 73,
+      "comments": 35,
       "author": "danieltanfh95",
       "tags": [],
       "date": "2026-05-14T18:19:13+00:00"
@@ -108,8 +198,8 @@
       "source": "hn",
       "title": "What's in a GGUF, besides the weights – and what's still missing?",
       "url": "https://nobodywho.ooo/posts/whats-in-a-gguf/",
-      "score": 43,
-      "comments": 15,
+      "score": 60,
+      "comments": 24,
       "author": "bashbjorn",
       "tags": [],
       "date": "2026-05-14T17:21:49+00:00"
@@ -119,8 +209,8 @@
       "source": "hn",
       "title": "New Nginx Exploit",
       "url": "https://github.com/DepthFirstDisclosures/Nginx-Rift",
-      "score": 194,
-      "comments": 46,
+      "score": 224,
+      "comments": 53,
       "author": "hetsaraiya",
       "tags": [],
       "date": "2026-05-14T17:17:48+00:00",
@@ -131,8 +221,8 @@
       "source": "hn",
       "title": "Removing the modem and GPS from my 2024 RAV4 hybrid",
       "url": "https://arkadiyt.com/2026/05/13/removing-the-modem-and-gps-from-my-rav4/",
-      "score": 363,
-      "comments": 178,
+      "score": 447,
+      "comments": 251,
       "author": "arkadiyt",
       "tags": [],
       "date": "2026-05-14T17:08:00+00:00"
@@ -153,8 +243,8 @@
       "source": "hn",
       "title": "HDD Firmware Hacking",
       "url": "https://icode4.coffee/?p=1465",
-      "score": 77,
-      "comments": 6,
+      "score": 97,
+      "comments": 9,
       "author": "jsploit",
       "tags": [],
       "date": "2026-05-14T16:19:29+00:00"
@@ -188,8 +278,8 @@
       "source": "hn",
       "title": "RTX 5090 and M4 MacBook Air: Can It Game?",
       "url": "https://scottjg.com/posts/2026-05-05-egpu-mac-gaming/",
-      "score": 380,
-      "comments": 100,
+      "score": 422,
+      "comments": 112,
       "author": "allenleee",
       "tags": [],
       "date": "2026-05-14T15:47:31+00:00"
@@ -234,8 +324,8 @@
       "source": "hn",
       "title": "A message from President Kornbluth about funding and the talent pipeline",
       "url": "https://president.mit.edu/writing-speeches/video-transcript-message-president-kornbluth-about-funding-and-talent-pipeline",
-      "score": 527,
-      "comments": 561,
+      "score": 548,
+      "comments": 605,
       "author": "dmayo",
       "tags": [],
       "date": "2026-05-14T14:51:14+00:00"
@@ -267,8 +357,8 @@
       "source": "hn",
       "title": "Computer Hobby Movement in Canada",
       "url": "https://museum.eecs.yorku.ca/exhibits/show/hobby_canada/hobby_canada",
-      "score": 159,
-      "comments": 50,
+      "score": 169,
+      "comments": 54,
       "author": "rbanffy",
       "tags": [],
       "date": "2026-05-14T12:57:27+00:00"
@@ -1568,8 +1658,8 @@
       "source": "hn",
       "title": "Int a = 5; a = a++ + ++a; a =? (2011)",
       "url": "https://gynvael.coldwind.pl/?id=372",
-      "score": 50,
-      "comments": 86,
+      "score": 67,
+      "comments": 123,
       "author": "e-topy",
       "tags": [],
       "date": "2026-05-12T14:14:04+00:00"
@@ -2315,8 +2405,8 @@
       "source": "hn",
       "title": "Porting 3D Movie Maker to Linux",
       "url": "https://benstoneonline.com/posts/porting-3d-movie-maker-to-linux/",
-      "score": 14,
-      "comments": 0,
+      "score": 39,
+      "comments": 8,
       "author": "speckx",
       "tags": [],
       "date": "2026-05-11T17:17:20+00:00"
@@ -2482,6 +2572,17 @@
         "Qiita"
       ],
       "date": "2026-05-11T23:34:03+09:00"
+    },
+    {
+      "id": "hn-48095490",
+      "source": "hn",
+      "title": "The Biochemical Beauty of Retatrutide: How GLP-1s Work",
+      "url": "https://acesounderglass.com/2025/10/13/the-biochemical-beauty-of-retatrutide-how-glp-1s-actually-work/",
+      "score": 21,
+      "comments": 8,
+      "author": "surprisetalk",
+      "tags": [],
+      "date": "2026-05-11T14:30:02+00:00"
     },
     {
       "id": "hn-48094986",
@@ -5084,109 +5185,6 @@
         "Qiita"
       ],
       "date": "2026-05-08T17:01:07+09:00"
-    },
-    {
-      "id": "hn-48060077",
-      "source": "hn",
-      "title": "Nullsoft, 1997-2004 (2004)",
-      "url": "https://slate.com/technology/2004/11/the-death-of-the-last-maverick-tech-company.html",
-      "score": 289,
-      "comments": 82,
-      "author": "downbad_",
-      "tags": [],
-      "date": "2026-05-08T08:00:44+00:00"
-    },
-    {
-      "id": "hn-48059831",
-      "source": "hn",
-      "title": "I hate soldering",
-      "url": "https://user8.bearblog.dev/rant/",
-      "score": 174,
-      "comments": 148,
-      "author": "James72689",
-      "tags": [],
-      "date": "2026-05-08T07:26:37+00:00"
-    },
-    {
-      "id": "hn-48059761",
-      "source": "hn",
-      "title": "Phel v0.36.0 – Lisp on PHP, now with numeric tower and first-class Vars",
-      "url": "https://github.com/phel-lang/phel-lang/releases/tag/v0.36.0",
-      "score": 31,
-      "comments": 4,
-      "author": "Chemaclass",
-      "tags": [],
-      "date": "2026-05-08T07:18:24+00:00"
-    },
-    {
-      "id": "hn-48059662",
-      "source": "hn",
-      "title": "ClojureScript Gets Async/Await",
-      "url": "https://clojurescript.org/news/2026-05-07-release",
-      "score": 242,
-      "comments": 58,
-      "author": "Borkdude",
-      "tags": [],
-      "date": "2026-05-08T07:04:24+00:00"
-    },
-    {
-      "id": "hn-48059633",
-      "source": "hn",
-      "title": "QBE – Compiler Back End",
-      "url": "https://c9x.me/compile/",
-      "score": 45,
-      "comments": 5,
-      "author": "smartmic",
-      "tags": [],
-      "date": "2026-05-08T07:00:25+00:00"
-    },
-    {
-      "id": "hn-48059606",
-      "source": "hn",
-      "title": "Nintendo announces price increases for Nintendo Switch 2",
-      "url": "https://www.nintendo.co.jp/corporate/release/en/2026/260508.html",
-      "score": 191,
-      "comments": 170,
-      "author": "razorbeamz",
-      "tags": [],
-      "date": "2026-05-08T06:56:13+00:00"
-    },
-    {
-      "id": "qiita-23013f685f",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "「自分にエンジニアなんて無理かも」と思ってる人へ。最初に知ってほしい“仕事の進め方”",
-      "url": "https://qiita.com/prum_hitomi/items/30ed3d885da5bb605460?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "prum_hitomi",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-05-08T14:11:51+09:00"
-    },
-    {
-      "id": "hn-48058757",
-      "source": "hn",
-      "title": "dBase: 1979-2026",
-      "url": "https://delphinightmares.substack.com/p/dbase-1979-2026",
-      "score": 72,
-      "comments": 23,
-      "author": "deeaceofbase",
-      "tags": [],
-      "date": "2026-05-08T05:00:05+00:00"
-    },
-    {
-      "id": "qiita-254bfcc659",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "パスキーやブロックチェーンの裏側にある「デジタル署名」の仕組みを直感的に理解する",
-      "url": "https://qiita.com/yamaken315/items/c69ca014b75ed68e3aa1?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "yamaken315",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-05-08T13:45:13+09:00"
     },
     {
       "id": "ghrel-projectdiscovery_nuclei-310617486",

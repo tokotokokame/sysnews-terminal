@@ -1,7 +1,97 @@
 {
-  "updated_at": "2026-05-14T17:19:23.029038+00:00",
+  "updated_at": "2026-05-14T19:17:57.224579+00:00",
   "count": 500,
   "items": [
+    {
+      "id": "hn-48139316",
+      "source": "hn",
+      "title": "The Power of a Free Popsicle (2018)",
+      "url": "https://www.gsb.stanford.edu/insights/power-free-popsicle",
+      "score": 9,
+      "comments": 0,
+      "author": "NaOH",
+      "tags": [],
+      "date": "2026-05-14T18:33:47+00:00"
+    },
+    {
+      "id": "hn-48139220",
+      "source": "hn",
+      "title": "Understanding the Linux Kernel: The Linux Kernel Startup",
+      "url": "https://internals-for-interns.com/posts/linux-kernel-startup/",
+      "score": 13,
+      "comments": 0,
+      "author": "valyala",
+      "tags": [],
+      "date": "2026-05-14T18:25:10+00:00"
+    },
+    {
+      "id": "hn-48139219",
+      "source": "hn",
+      "title": "First public macOS kernel memory corruption exploit on Apple M5",
+      "url": "https://blog.calif.io/p/first-public-kernel-memory-corruption",
+      "score": 21,
+      "comments": 4,
+      "author": "quadrige",
+      "tags": [],
+      "date": "2026-05-14T18:25:09+00:00",
+      "severity": "high"
+    },
+    {
+      "id": "hn-48139148",
+      "source": "hn",
+      "title": "God Damn AI is making me dumb",
+      "url": "https://jpain.io/god-damn-ai-is-making-me-dumb/",
+      "score": 134,
+      "comments": 79,
+      "author": "Eighth",
+      "tags": [],
+      "date": "2026-05-14T18:19:28+00:00"
+    },
+    {
+      "id": "hn-48139144",
+      "source": "hn",
+      "title": "You Don't Align an AI, You Align with It",
+      "url": "https://danieltan.weblog.lol/2026/05/you-dont-align-an-ai-you-align-with-it",
+      "score": 11,
+      "comments": 1,
+      "author": "danieltanfh95",
+      "tags": [],
+      "date": "2026-05-14T18:19:13+00:00"
+    },
+    {
+      "id": "hn-48138332",
+      "source": "hn",
+      "title": "What's in a GGUF, besides the weights – and what's still missing?",
+      "url": "https://nobodywho.ooo/posts/whats-in-a-gguf/",
+      "score": 17,
+      "comments": 9,
+      "author": "bashbjorn",
+      "tags": [],
+      "date": "2026-05-14T17:21:49+00:00"
+    },
+    {
+      "id": "hn-48138268",
+      "source": "hn",
+      "title": "New Nginx Exploit",
+      "url": "https://github.com/DepthFirstDisclosures/Nginx-Rift",
+      "score": 133,
+      "comments": 33,
+      "author": "hetsaraiya",
+      "tags": [],
+      "date": "2026-05-14T17:17:48+00:00",
+      "severity": "high"
+    },
+    {
+      "id": "hn-48138136",
+      "source": "hn",
+      "title": "Removing the modem and GPS from my 2024 RAV4 hybrid",
+      "url": "https://arkadiyt.com/2026/05/13/removing-the-modem-and-gps-from-my-rav4/",
+      "score": 211,
+      "comments": 82,
+      "author": "arkadiyt",
+      "tags": [],
+      "date": "2026-05-14T17:08:00+00:00"
+    },
     {
       "id": "hn-48138063",
       "source": "hn",
@@ -12,6 +102,17 @@
       "author": "jadecheclair",
       "tags": [],
       "date": "2026-05-14T17:01:16+00:00"
+    },
+    {
+      "id": "hn-48137553",
+      "source": "hn",
+      "title": "HDD Firmware Hacking",
+      "url": "https://icode4.coffee/?p=1465",
+      "score": 49,
+      "comments": 4,
+      "author": "jsploit",
+      "tags": [],
+      "date": "2026-05-14T16:19:29+00:00"
     },
     {
       "id": "qiita-10724a95da",
@@ -42,8 +143,8 @@
       "source": "hn",
       "title": "RTX 5090 and M4 MacBook Air: Can It Game?",
       "url": "https://scottjg.com/posts/2026-05-05-egpu-mac-gaming/",
-      "score": 144,
-      "comments": 38,
+      "score": 294,
+      "comments": 81,
       "author": "allenleee",
       "tags": [],
       "date": "2026-05-14T15:47:31+00:00"
@@ -51,10 +152,10 @@
     {
       "id": "hn-48136992",
       "source": "hn",
-      "title": "On The Conflation of Money and Things",
+      "title": "The conflation of money and things",
       "url": "https://lithub.com/is-it-even-real-on-the-conflation-of-money-and-things/",
-      "score": 20,
-      "comments": 3,
+      "score": 46,
+      "comments": 11,
       "author": "bookofjoe",
       "tags": [],
       "date": "2026-05-14T15:36:24+00:00"
@@ -73,10 +174,10 @@
     {
       "id": "hn-48136262",
       "source": "hn",
-      "title": "MIT: 20% drop in incoming graduate students",
+      "title": "A message from President Kornbluth about funding and the talent pipeline",
       "url": "https://president.mit.edu/writing-speeches/video-transcript-message-president-kornbluth-about-funding-and-talent-pipeline",
-      "score": 355,
-      "comments": 348,
+      "score": 491,
+      "comments": 497,
       "author": "dmayo",
       "tags": [],
       "date": "2026-05-14T14:51:14+00:00"
@@ -86,8 +187,8 @@
       "source": "hn",
       "title": "Claude AI recovers an 11 yrs old BTC wallet holding 400k USD",
       "url": "https://www.tomshardware.com/tech-industry/cryptocurrency/bitcoin-trader-recovers-usd400-000-using-claude-ai-after-losing-wallet-password-11-years-ago-bot-tried-3-5-trillion-passwords-before-decrypting-an-old-wallet-backup",
-      "score": 203,
-      "comments": 89,
+      "score": 290,
+      "comments": 147,
       "author": "cednore",
       "tags": [],
       "date": "2026-05-14T14:49:48+00:00"
@@ -108,8 +209,8 @@
       "source": "hn",
       "title": "Computer Hobby Movement in Canada",
       "url": "https://museum.eecs.yorku.ca/exhibits/show/hobby_canada/hobby_canada",
-      "score": 119,
-      "comments": 33,
+      "score": 148,
+      "comments": 40,
       "author": "rbanffy",
       "tags": [],
       "date": "2026-05-14T12:57:27+00:00"
@@ -141,8 +242,8 @@
       "source": "hn",
       "title": "Myths about /dev/urandom (2014)",
       "url": "https://www.2uo.de/myths-about-urandom/",
-      "score": 64,
-      "comments": 33,
+      "score": 73,
+      "comments": 39,
       "author": "signa11",
       "tags": [],
       "date": "2026-05-14T11:26:22+00:00"
@@ -163,8 +264,8 @@
       "source": "hn",
       "title": "Show HN: Running the second public ODoH relay",
       "url": "https://numa.rs/blog/posts/odoh-anonymous-dns-without-an-account.html",
-      "score": 98,
-      "comments": 32,
+      "score": 103,
+      "comments": 34,
       "author": "rdme",
       "tags": [],
       "date": "2026-05-14T10:44:50+00:00"
@@ -179,6 +280,17 @@
       "author": "tosh",
       "tags": [],
       "date": "2026-05-14T10:37:54+00:00"
+    },
+    {
+      "id": "hn-48132488",
+      "source": "hn",
+      "title": "Rewrite Bun in Rust has been merged",
+      "url": "https://github.com/oven-sh/bun/pull/30412",
+      "score": 268,
+      "comments": 327,
+      "author": "Chaoses",
+      "tags": [],
+      "date": "2026-05-14T08:15:31+00:00"
     },
     {
       "id": "qiita-4b8948457d",
@@ -222,8 +334,8 @@
       "source": "hn",
       "title": "Claude for Small Business",
       "url": "https://www.anthropic.com/news/claude-for-small-business",
-      "score": 465,
-      "comments": 421,
+      "score": 490,
+      "comments": 440,
       "author": "neilfrndes",
       "tags": [],
       "date": "2026-05-14T03:59:35+00:00"
@@ -456,7 +568,7 @@
       "source": "hn",
       "title": "EditLens: Quantifying the extent of AI editing in text (2025)",
       "url": "https://arxiv.org/abs/2510.03154",
-      "score": 5,
+      "score": 19,
       "comments": 0,
       "author": "horseradish",
       "tags": [],
@@ -1885,7 +1997,7 @@
       "source": "hn",
       "title": "Fossils show millipede and centipede ancestors evolved legs underwater",
       "url": "https://phys.org/news/2026-05-ancient-sea-fossils-millipede-centipede.html",
-      "score": 15,
+      "score": 49,
       "comments": 2,
       "author": "gmays",
       "tags": [],
@@ -1941,8 +2053,8 @@
       "source": "hn",
       "title": "The Tree House: A voyage to the source of a backyard dream",
       "url": "https://www.laphamsquarterly.org/roundtable/tree-house",
-      "score": 51,
-      "comments": 5,
+      "score": 60,
+      "comments": 10,
       "author": "Caiero",
       "tags": [],
       "date": "2026-05-11T19:41:02+00:00",
@@ -1982,6 +2094,17 @@
       "author": "PaulHoule",
       "tags": [],
       "date": "2026-05-11T19:12:34+00:00"
+    },
+    {
+      "id": "hn-48099240",
+      "source": "hn",
+      "title": "London's Smallest Public Sculptures",
+      "url": "https://lookup.london/londons-smallest-public-sculptures/",
+      "score": 3,
+      "comments": 0,
+      "author": "susam",
+      "tags": [],
+      "date": "2026-05-11T19:03:01+00:00"
     },
     {
       "id": "hn-48098537",
@@ -2940,8 +3063,8 @@
       "source": "hn",
       "title": "Leaving the Physical World",
       "url": "https://www.eff.org/pages/leaving-physical-world",
-      "score": 136,
-      "comments": 58,
+      "score": 164,
+      "comments": 74,
       "author": "andsoitis",
       "tags": [],
       "date": "2026-05-10T13:54:54+00:00"
@@ -3306,8 +3429,8 @@
       "source": "hn",
       "title": "60fps Video on a CGA? – The GlyphBlaster",
       "url": "https://martypc.blogspot.com/2026/05/60fps-video-on-cga-glyphblaster.html",
-      "score": 30,
-      "comments": 4,
+      "score": 45,
+      "comments": 6,
       "author": "tambourine_man",
       "tags": [],
       "date": "2026-05-10T01:01:23+00:00"
@@ -5061,134 +5184,6 @@
       "date": "2026-05-08T00:55:25+00:00"
     },
     {
-      "id": "hn-48056804",
-      "source": "hn",
-      "title": "Komai: a fine Matrix chat app you can get to love",
-      "url": "https://etke.cc/blog/introducing-komai",
-      "score": 42,
-      "comments": 19,
-      "author": "anotherevan",
-      "tags": [],
-      "date": "2026-05-08T00:10:44+00:00"
-    },
-    {
-      "id": "hn-48056749",
-      "source": "hn",
-      "title": "GNU IFUNC is the real culprit behind CVE-2024-3094",
-      "url": "https://github.com/robertdfrench/ifuncd-up",
-      "score": 93,
-      "comments": 43,
-      "author": "foltik",
-      "tags": [],
-      "date": "2026-05-08T00:03:38+00:00",
-      "severity": "high"
-    },
-    {
-      "id": "hn-48056639",
-      "source": "hn",
-      "title": "The people preserving the scientific practice of bird banding",
-      "url": "https://thenarwhal.ca/bird-banding-ontario/",
-      "score": 53,
-      "comments": 0,
-      "author": "bookofjoe",
-      "tags": [],
-      "date": "2026-05-07T23:49:51+00:00"
-    },
-    {
-      "id": "qiita-86436ea139",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "Claude Codeにオレたち流のコードを書かせる（中編）— 組織のルールを共有する",
-      "url": "https://qiita.com/hiropon122/items/e6b293961d72bd099ede?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "hiropon122",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-05-08T08:38:48+09:00"
-    },
-    {
-      "id": "qiita-4e04117bc1",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "Power Apps のデータグリッドコントロールが凄く便利！",
-      "url": "https://qiita.com/Takashi_Masumori/items/6921934b6618cd24e1df?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "Takashi_Masumori",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-05-08T08:30:02+09:00"
-    },
-    {
-      "id": "hn-48056359",
-      "source": "hn",
-      "title": "Gambling ads on social media reach more than twice as many men as women: study",
-      "url": "https://www.cam.ac.uk/research/news/gambling-ads-on-social-media-reach-more-than-twice-as-many-men-as-women",
-      "score": 58,
-      "comments": 47,
-      "author": "hhs",
-      "tags": [],
-      "date": "2026-05-07T23:17:03+00:00"
-    },
-    {
-      "id": "hn-48056268",
-      "source": "hn",
-      "title": "Plasticity and language in the anaesthetized human hippocampus",
-      "url": "https://www.bcm.edu/news/researchers-discover-advanced-language-processing-in-the-unconscious-human-brain",
-      "score": 118,
-      "comments": 43,
-      "author": "hhs",
-      "tags": [],
-      "date": "2026-05-07T23:06:44+00:00"
-    },
-    {
-      "id": "hn-48056227",
-      "source": "hn",
-      "title": "Maybe you shouldn't install new software for a bit",
-      "url": "https://xeiaso.net/blog/2026/abstain-from-install/",
-      "score": 812,
-      "comments": 427,
-      "author": "psxuaw",
-      "tags": [],
-      "date": "2026-05-07T23:02:11+00:00"
-    },
-    {
-      "id": "hn-48056158",
-      "source": "hn",
-      "title": "Nonprofit hospitals spend billions on consultants with no clear effect",
-      "url": "https://www.uchicagomedicine.org/forefront/research-and-discoveries-articles/nonprofit-hospitals-spend-billions-on-management-consultants",
-      "score": 123,
-      "comments": 34,
-      "author": "hhs",
-      "tags": [],
-      "date": "2026-05-07T22:54:34+00:00"
-    },
-    {
-      "id": "hn-48056003",
-      "source": "hn",
-      "title": "OpenClaw Had a Rough Week",
-      "url": "https://openclaw.ai/blog/openclaw-rough-week",
-      "score": 20,
-      "comments": 27,
-      "author": "kevincortes",
-      "tags": [],
-      "date": "2026-05-07T22:33:11+00:00"
-    },
-    {
-      "id": "qiita-c66c3482da",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "はじめての Zephyr(1) nRF54L15-DK で LチカとLグル",
-      "url": "https://qiita.com/kikuyuta/items/155448b3d2d1e8b9166c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "kikuyuta",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-05-08T07:33:00+09:00"
-    },
-    {
       "id": "ghrel-projectdiscovery_nuclei-310617486",
       "source": "project",
       "proj_category": "Tools",
@@ -5397,6 +5392,19 @@
         "Release"
       ],
       "date": "2023-05-23T17:06:23Z"
+    },
+    {
+      "id": "zenn-1ddfb9bf93",
+      "source": "zennqiita",
+      "sub_source": "Zenn",
+      "title": "AI×Unityゲーム開発スターターキット",
+      "url": "https://zenn.dev/ohbashunsuke/books/unity-ai-starter-kit",
+      "score": null,
+      "author": "オオバ@破壊的スピード開発",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Thu, 14 May 2026 12:00:20 GMT"
     },
     {
       "id": "zenn-14308ee02c",
@@ -5644,19 +5652,6 @@
         "Zenn"
       ],
       "date": "Mon, 11 May 2026 04:00:06 GMT"
-    },
-    {
-      "id": "zenn-fa824364c4",
-      "source": "zennqiita",
-      "sub_source": "Zenn",
-      "title": "ソフトウェアの「設計原則」を、なぜ一部のエンジニアは生理的に嫌うのか",
-      "url": "https://zenn.dev/torao/articles/20260502-differences-in-engrs-cognitive-strategies",
-      "score": null,
-      "author": "Takami Torao",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Sun, 10 May 2026 22:00:06 GMT"
     },
     {
       "id": "edb-9a1e3d7806",

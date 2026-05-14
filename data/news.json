@@ -1,7 +1,29 @@
 {
-  "updated_at": "2026-05-13T23:05:00.250551+00:00",
+  "updated_at": "2026-05-14T01:25:17.028550+00:00",
   "count": 500,
   "items": [
+    {
+      "id": "hn-48129694",
+      "source": "hn",
+      "title": "Scorched Earth 2000 is back",
+      "url": "http://www.scorch2000.com/web/",
+      "score": 9,
+      "comments": 3,
+      "author": "meshko",
+      "tags": [],
+      "date": "2026-05-14T00:41:29+00:00"
+    },
+    {
+      "id": "hn-48129561",
+      "source": "hn",
+      "title": "The Other Half of AI Safety",
+      "url": "https://personalaisafety.com/p/the-other-half-of-ai-safety",
+      "score": 30,
+      "comments": 15,
+      "author": "sofiaqt",
+      "tags": [],
+      "date": "2026-05-14T00:27:20+00:00"
+    },
     {
       "id": "qiita-10724a95da",
       "source": "zennqiita",
@@ -31,8 +53,8 @@
       "source": "hn",
       "title": "Meta won't let you block its AI account on Threads",
       "url": "https://www.theverge.com/tech/929091/meta-ai-threads-account-block",
-      "score": 57,
-      "comments": 22,
+      "score": 107,
+      "comments": 39,
       "author": "logickkk1",
       "tags": [],
       "date": "2026-05-13T20:22:21+00:00"
@@ -40,10 +62,10 @@
     {
       "id": "hn-48126848",
       "source": "hn",
-      "title": "In-person examinations at Princeton will be proctored starting July 1",
+      "title": "Princeton mandates proctoring for in-person exams, upending 133 year precedent",
       "url": "https://www.dailyprincetonian.com/article/2026/05/princeton-news-adpol-proctoring-in-person-examinations-passed-faculty-133-years-precedent",
-      "score": 178,
-      "comments": 233,
+      "score": 236,
+      "comments": 339,
       "author": "bookofjoe",
       "tags": [],
       "date": "2026-05-13T20:12:16+00:00"
@@ -97,8 +119,8 @@
       "source": "hn",
       "title": "A sentimental tour of late 1990s and early 2000s hacking tools",
       "url": "https://andreafortuna.org/2026/05/13/amarcord/",
-      "score": 33,
-      "comments": 12,
+      "score": 44,
+      "comments": 15,
       "author": "speckx",
       "tags": [],
       "date": "2026-05-13T18:25:09+00:00"
@@ -119,8 +141,8 @@
       "source": "hn",
       "title": "Launch HN: Ardent (YC P26) – Postgres sandboxes in seconds with zero migration",
       "url": "https://www.tryardent.com/",
-      "score": 55,
-      "comments": 20,
+      "score": 64,
+      "comments": 26,
       "author": "vc289",
       "tags": [],
       "date": "2026-05-13T16:54:03+00:00"
@@ -141,8 +163,8 @@
       "source": "hn",
       "title": "S-100 Virtual Workbench",
       "url": "https://grantmestrength.github.io/S100/",
-      "score": 90,
-      "comments": 19,
+      "score": 97,
+      "comments": 20,
       "author": "rbanffy",
       "tags": [],
       "date": "2026-05-13T15:52:00+00:00"
@@ -198,8 +220,8 @@
       "source": "hn",
       "title": "Setting up a free *.city.state.us locality domain (2025)",
       "url": "https://fredchan.org/blog/locality-domains-guide/",
-      "score": 445,
-      "comments": 142,
+      "score": 483,
+      "comments": 154,
       "author": "speckx",
       "tags": [],
       "date": "2026-05-13T14:45:18+00:00"
@@ -209,11 +231,22 @@
       "source": "hn",
       "title": "The US is winning the AI race where it matters most: commercialization",
       "url": "https://avkcode.github.io/blog/us-winning-ai-race.html",
-      "score": 142,
-      "comments": 387,
+      "score": 162,
+      "comments": 458,
       "author": "akrylov",
       "tags": [],
       "date": "2026-05-13T13:53:53+00:00"
+    },
+    {
+      "id": "hn-48121824",
+      "source": "hn",
+      "title": "Show HN: Rotunda - A browser built for agents with simulated typing",
+      "url": "https://github.com/monkeysee-ai/rotunda",
+      "score": 11,
+      "comments": 0,
+      "author": "icyfox",
+      "tags": [],
+      "date": "2026-05-13T13:44:01+00:00"
     },
     {
       "id": "hn-48121299",
@@ -308,8 +341,8 @@
       "source": "hn",
       "title": "The Emacsification of Software",
       "url": "https://sockpuppet.org/blog/2026/05/12/emacsification/",
-      "score": 145,
-      "comments": 100,
+      "score": 187,
+      "comments": 121,
       "author": "rdslw",
       "tags": [],
       "date": "2026-05-13T07:06:14+00:00"
@@ -539,8 +572,8 @@
       "source": "hn",
       "title": "Twin brothers wipe 96 government databases minutes after being fired",
       "url": "https://arstechnica.com/tech-policy/2026/05/drop-database-what-not-to-do-after-losing-an-it-job/",
-      "score": 243,
-      "comments": 166,
+      "score": 295,
+      "comments": 224,
       "author": "jnord",
       "tags": [],
       "date": "2026-05-12T22:28:07+00:00"
@@ -639,8 +672,8 @@
       "source": "hn",
       "title": "Show HN: Needle: We Distilled Gemini Tool Calling into a 26M Model",
       "url": "https://github.com/cactus-compute/needle",
-      "score": 591,
-      "comments": 172,
+      "score": 638,
+      "comments": 182,
       "author": "HenryNdubuaku",
       "tags": [],
       "date": "2026-05-12T18:03:11+00:00"
@@ -883,6 +916,17 @@
         "Qiita"
       ],
       "date": "2026-05-12T21:47:26+09:00"
+    },
+    {
+      "id": "hn-48107473",
+      "source": "hn",
+      "title": "The Age of the Amplifier",
+      "url": "https://www.construction-physics.com/p/the-age-of-the-amplifier",
+      "score": 3,
+      "comments": 0,
+      "author": "surprisetalk",
+      "tags": [],
+      "date": "2026-05-12T12:45:18+00:00"
     },
     {
       "id": "hn-48107404",
@@ -1536,8 +1580,8 @@
       "source": "hn",
       "title": "Chess puzzle I found in my dad's old book",
       "url": "https://ardoedo.it/kempelen/",
-      "score": 46,
-      "comments": 8,
+      "score": 76,
+      "comments": 25,
       "author": "Eswo",
       "tags": [],
       "date": "2026-05-11T16:00:19+00:00"
@@ -1617,8 +1661,8 @@
       "source": "hn",
       "title": "Marco Polo: Finding a friend with only distance and motion",
       "url": "https://www.jackhogan.me/blog/marco-polo",
-      "score": 3,
-      "comments": 0,
+      "score": 34,
+      "comments": 4,
       "author": "jackhogan11",
       "tags": [],
       "date": "2026-05-11T14:52:25+00:00"
@@ -1696,8 +1740,8 @@
       "source": "hn",
       "title": "An idiot's guide to lead optimisation for proteins",
       "url": "https://magnusross.github.io/posts/protein-lead-optimisation-1/",
-      "score": 131,
-      "comments": 10,
+      "score": 140,
+      "comments": 16,
       "author": "magni121",
       "tags": [],
       "date": "2026-05-11T11:21:33+00:00"
@@ -1764,8 +1808,8 @@
       "source": "hn",
       "title": "Preserving Fisher-Price Pixter",
       "url": "https://dmitry.gr/?r=05.Projects&proj=37.%20Pixter",
-      "score": 186,
-      "comments": 39,
+      "score": 206,
+      "comments": 44,
       "author": "dmitrygr",
       "tags": [],
       "date": "2026-05-11T06:52:48+00:00"
@@ -1957,8 +2001,8 @@
       "source": "hn",
       "title": "New stainless steel can survive conditions for hydrogen production in seawater",
       "url": "https://www.sciencedaily.com/releases/2026/05/260510030950.htm",
-      "score": 279,
-      "comments": 135,
+      "score": 296,
+      "comments": 138,
       "author": "HardwareLust",
       "tags": [],
       "date": "2026-05-11T01:05:59+00:00"
@@ -2141,8 +2185,8 @@
       "source": "hn",
       "title": "Linux gaming is faster because Windows APIs are becoming Linux kernel features",
       "url": "https://www.xda-developers.com/linux-gaming-is-getting-faster-because-windows-apis-are-becoming-linux-kernel-features/",
-      "score": 388,
-      "comments": 252,
+      "score": 512,
+      "comments": 338,
       "author": "haunter",
       "tags": [],
       "date": "2026-05-10T20:54:06+00:00"
@@ -2213,6 +2257,17 @@
       "author": "zdw",
       "tags": [],
       "date": "2026-05-10T17:05:05+00:00"
+    },
+    {
+      "id": "hn-48085423",
+      "source": "hn",
+      "title": "After 3 decades of splendid scientific communication, this one's for you, Ned",
+      "url": "https://www.adn.com/alaska-news/science/2026/05/08/after-3-decades-of-splendid-scientific-communication-this-ones-for-you-ned/",
+      "score": 11,
+      "comments": 0,
+      "author": "rolph",
+      "tags": [],
+      "date": "2026-05-10T16:40:11+00:00"
     },
     {
       "id": "hn-48085332",
@@ -2641,8 +2696,8 @@
       "source": "hn",
       "title": "Xs of Y – roguelike that names itself every run. Written in 4kLoC",
       "url": "https://github.com/nooga/xsofy",
-      "score": 137,
-      "comments": 60,
+      "score": 156,
+      "comments": 68,
       "author": "andsoitis",
       "tags": [],
       "date": "2026-05-10T03:32:59+00:00"
@@ -2883,8 +2938,8 @@
       "source": "hn",
       "title": "Reverting the incremental GC in Python 3.14 and 3.15",
       "url": "https://discuss.python.org/t/reverting-the-incremental-gc-in-python-3-14-and-3-15/107014",
-      "score": 184,
-      "comments": 71,
+      "score": 197,
+      "comments": 78,
       "author": "curiousgal",
       "tags": [],
       "date": "2026-05-09T20:25:55+00:00"
@@ -3308,8 +3363,8 @@
       "source": "hn",
       "title": "A History of IDEs at Google",
       "url": "https://laurent.le-brun.eu/blog/a-history-of-ides-at-google",
-      "score": 217,
-      "comments": 172,
+      "score": 266,
+      "comments": 193,
       "author": "laurentlb",
       "tags": [],
       "date": "2026-05-09T11:14:18+00:00"
@@ -5122,63 +5177,6 @@
       "date": "2026-05-07T20:23:51+09:00"
     },
     {
-      "id": "hn-48047981",
-      "source": "hn",
-      "title": "Grand Theft Oil Futures: Insider traders keep making a killing at our expense",
-      "url": "https://paulkrugman.substack.com/p/grand-theft-oil-futures",
-      "score": 274,
-      "comments": 192,
-      "author": "Qem",
-      "tags": [],
-      "date": "2026-05-07T11:10:24+00:00"
-    },
-    {
-      "id": "hn-48047970",
-      "source": "hn",
-      "title": "LinkedIn profile visitor lists belong to the people, says Noyb",
-      "url": "https://www.theregister.com/offbeat/2026/05/05/noyb-cries-foul-on-linkedin-withholding-profile-visitor-data/5225338",
-      "score": 140,
-      "comments": 68,
-      "author": "robin_reala",
-      "tags": [],
-      "date": "2026-05-07T11:08:43+00:00"
-    },
-    {
-      "id": "hn-48047930",
-      "source": "hn",
-      "title": "Idempotency is easy until the second request is different",
-      "url": "https://blog.dochia.dev/blog/idempotency/",
-      "score": 279,
-      "comments": 174,
-      "author": "ludovicianul",
-      "tags": [],
-      "date": "2026-05-07T11:02:28+00:00"
-    },
-    {
-      "id": "hn-48047826",
-      "source": "hn",
-      "title": "Agent-harness-kit scaffolding for multi-agent workflows (MCP, provider-agnostic)",
-      "url": "https://ahk.cardor.dev",
-      "score": 57,
-      "comments": 17,
-      "author": "enmanuelmag",
-      "tags": [],
-      "date": "2026-05-07T10:45:59+00:00"
-    },
-    {
-      "id": "qiita-79ec15fb2a",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "AWS MCPサーバー超進化してGAしたらしい",
-      "url": "https://qiita.com/Syoitu/items/5022be3615ecd8b5337c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "Syoitu",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-05-07T19:18:36+09:00"
-    },
-    {
       "id": "ghrel-projectdiscovery_nuclei-310617486",
       "source": "project",
       "proj_category": "Tools",
@@ -5402,6 +5400,19 @@
       "date": "Wed, 13 May 2026 11:32:50 GMT"
     },
     {
+      "id": "zenn-661e5f0efe",
+      "source": "zennqiita",
+      "sub_source": "Zenn",
+      "title": "AIにQAエンジニアとして思考させるエージェントQA設計の思想",
+      "url": "https://zenn.dev/edash_tech_blog/articles/383410d9a1afba",
+      "score": null,
+      "author": "10mo8",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Wed, 13 May 2026 01:10:30 GMT"
+    },
+    {
       "id": "zenn-919531972b",
       "source": "zennqiita",
       "sub_source": "Zenn",
@@ -5413,19 +5424,6 @@
         "Zenn"
       ],
       "date": "Tue, 12 May 2026 14:08:30 GMT"
-    },
-    {
-      "id": "zenn-7b357a4726",
-      "source": "zennqiita",
-      "sub_source": "Zenn",
-      "title": "AI と一緒に開発するときにも便利な Aspire の好きなところ",
-      "url": "https://zenn.dev/microsoft/articles/aspire-favorite-points",
-      "score": null,
-      "author": "Kazuki Ota",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Tue, 12 May 2026 13:47:40 GMT"
     },
     {
       "id": "zenn-39580a2a25",
@@ -5452,6 +5450,19 @@
         "Zenn"
       ],
       "date": "Tue, 12 May 2026 03:46:33 GMT"
+    },
+    {
+      "id": "zenn-1af40ae5bb",
+      "source": "zennqiita",
+      "sub_source": "Zenn",
+      "title": "Claude Code Routines で Issue の自動対応をチームで回している話",
+      "url": "https://zenn.dev/notahotel/articles/claude-routine-auto-fix-issue",
+      "score": null,
+      "author": "uji",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Tue, 12 May 2026 02:30:05 GMT"
     },
     {
       "id": "zenn-246598fd52",
@@ -5519,6 +5530,19 @@
       "date": "Mon, 11 May 2026 23:50:57 GMT"
     },
     {
+      "id": "zenn-c21c85d27f",
+      "source": "zennqiita",
+      "sub_source": "Zenn",
+      "title": "なぜ BigQuery を選ばなかったのか：Snowflakeで作るデータ基盤の設計判断",
+      "url": "https://zenn.dev/usen_ict/articles/b375c916bf8c9b",
+      "score": null,
+      "author": "mmm",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Mon, 11 May 2026 23:00:08 GMT"
+    },
+    {
       "id": "zenn-23636bde0a",
       "source": "zennqiita",
       "sub_source": "Zenn",
@@ -5532,17 +5556,17 @@
       "date": "Mon, 11 May 2026 23:00:07 GMT"
     },
     {
-      "id": "zenn-2e97b88971",
+      "id": "zenn-8a44f344f8",
       "source": "zennqiita",
       "sub_source": "Zenn",
-      "title": "Slack上でインフラのトラブルシューティングができるAgentの設計と実装",
-      "url": "https://zenn.dev/ubie_dev/articles/b712ec880ac038",
+      "title": "Claude Code にAWSのコスト調査をさせたら数千万円分の改善ポイントが見つかった",
+      "url": "https://zenn.dev/geniee/articles/claude-code-aws-cost-optimization",
       "score": null,
-      "author": "Teruya Ono",
+      "author": "S. Hamamura",
       "tags": [
         "Zenn"
       ],
-      "date": "Mon, 11 May 2026 09:55:53 GMT"
+      "date": "Mon, 11 May 2026 04:00:06 GMT"
     },
     {
       "id": "zenn-d263c90044",
@@ -5584,19 +5608,6 @@
       "date": "Sun, 10 May 2026 22:00:06 GMT"
     },
     {
-      "id": "zenn-0824b998a9",
-      "source": "zennqiita",
-      "sub_source": "Zenn",
-      "title": "クリーンアーキテクチャは変更コストが高い！ YAGNI原則を適用して軽量化する",
-      "url": "https://zenn.dev/takakiriy/articles/f28aee009d0044",
-      "score": null,
-      "author": "Takakiri",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Sun, 10 May 2026 15:46:21 GMT"
-    },
-    {
       "id": "zenn-e4f521e33b",
       "source": "zennqiita",
       "sub_source": "Zenn",
@@ -5608,19 +5619,6 @@
         "Zenn"
       ],
       "date": "Sun, 10 May 2026 14:58:21 GMT"
-    },
-    {
-      "id": "zenn-7796905228",
-      "source": "zennqiita",
-      "sub_source": "Zenn",
-      "title": "業務で本当に使えるClaude MCPサーバー厳選10選",
-      "url": "https://zenn.dev/nocodesolutions/articles/6df07230149e08",
-      "score": null,
-      "author": "株式会社ノーコードソリューションズ",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Sun, 10 May 2026 13:17:33 GMT"
     },
     {
       "id": "zenn-498247cf92",

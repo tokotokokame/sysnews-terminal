@@ -1,14 +1,47 @@
 {
-  "updated_at": "2026-05-14T19:17:57.224579+00:00",
+  "updated_at": "2026-05-14T20:52:37.498663+00:00",
   "count": 500,
   "items": [
+    {
+      "id": "hn-48140541",
+      "source": "hn",
+      "title": "RISC-V Router",
+      "url": "https://router.start9.com/",
+      "score": 5,
+      "comments": 1,
+      "author": "janandonly",
+      "tags": [],
+      "date": "2026-05-14T20:06:53+00:00"
+    },
+    {
+      "id": "hn-48139704",
+      "source": "hn",
+      "title": "WinUI 3 Performance: A Leap Forward",
+      "url": "https://github.com/microsoft/microsoft-ui-xaml/discussions/11096",
+      "score": 38,
+      "comments": 14,
+      "author": "whatever3",
+      "tags": [],
+      "date": "2026-05-14T19:01:58+00:00"
+    },
+    {
+      "id": "hn-48139355",
+      "source": "hn",
+      "title": "The AI Zombification of Universities",
+      "url": "https://www.thenewcritic.com/p/the-great-zombification",
+      "score": 104,
+      "comments": 56,
+      "author": "rmdmphilosopher",
+      "tags": [],
+      "date": "2026-05-14T18:37:08+00:00"
+    },
     {
       "id": "hn-48139316",
       "source": "hn",
       "title": "The Power of a Free Popsicle (2018)",
       "url": "https://www.gsb.stanford.edu/insights/power-free-popsicle",
-      "score": 9,
-      "comments": 0,
+      "score": 39,
+      "comments": 9,
       "author": "NaOH",
       "tags": [],
       "date": "2026-05-14T18:33:47+00:00"
@@ -18,8 +51,8 @@
       "source": "hn",
       "title": "Understanding the Linux Kernel: The Linux Kernel Startup",
       "url": "https://internals-for-interns.com/posts/linux-kernel-startup/",
-      "score": 13,
-      "comments": 0,
+      "score": 47,
+      "comments": 6,
       "author": "valyala",
       "tags": [],
       "date": "2026-05-14T18:25:10+00:00"
@@ -29,8 +62,8 @@
       "source": "hn",
       "title": "First public macOS kernel memory corruption exploit on Apple M5",
       "url": "https://blog.calif.io/p/first-public-kernel-memory-corruption",
-      "score": 21,
-      "comments": 4,
+      "score": 85,
+      "comments": 11,
       "author": "quadrige",
       "tags": [],
       "date": "2026-05-14T18:25:09+00:00",
@@ -39,10 +72,10 @@
     {
       "id": "hn-48139148",
       "source": "hn",
-      "title": "God Damn AI is making me dumb",
+      "title": "AI is making me dumb",
       "url": "https://jpain.io/god-damn-ai-is-making-me-dumb/",
-      "score": 134,
-      "comments": 79,
+      "score": 269,
+      "comments": 179,
       "author": "Eighth",
       "tags": [],
       "date": "2026-05-14T18:19:28+00:00"
@@ -52,19 +85,31 @@
       "source": "hn",
       "title": "You Don't Align an AI, You Align with It",
       "url": "https://danieltan.weblog.lol/2026/05/you-dont-align-an-ai-you-align-with-it",
-      "score": 11,
-      "comments": 1,
+      "score": 47,
+      "comments": 22,
       "author": "danieltanfh95",
       "tags": [],
       "date": "2026-05-14T18:19:13+00:00"
+    },
+    {
+      "id": "hn-48138913",
+      "source": "hn",
+      "title": "DIY open-source ultrasound hardware on the rp2040/rp2350",
+      "url": "http://un0rick.cc/pic0rick",
+      "score": 21,
+      "comments": 1,
+      "author": "kelu124",
+      "tags": [],
+      "date": "2026-05-14T18:01:17+00:00",
+      "severity": "critical"
     },
     {
       "id": "hn-48138332",
       "source": "hn",
       "title": "What's in a GGUF, besides the weights – and what's still missing?",
       "url": "https://nobodywho.ooo/posts/whats-in-a-gguf/",
-      "score": 17,
-      "comments": 9,
+      "score": 43,
+      "comments": 15,
       "author": "bashbjorn",
       "tags": [],
       "date": "2026-05-14T17:21:49+00:00"
@@ -74,8 +119,8 @@
       "source": "hn",
       "title": "New Nginx Exploit",
       "url": "https://github.com/DepthFirstDisclosures/Nginx-Rift",
-      "score": 133,
-      "comments": 33,
+      "score": 194,
+      "comments": 46,
       "author": "hetsaraiya",
       "tags": [],
       "date": "2026-05-14T17:17:48+00:00",
@@ -86,8 +131,8 @@
       "source": "hn",
       "title": "Removing the modem and GPS from my 2024 RAV4 hybrid",
       "url": "https://arkadiyt.com/2026/05/13/removing-the-modem-and-gps-from-my-rav4/",
-      "score": 211,
-      "comments": 82,
+      "score": 363,
+      "comments": 178,
       "author": "arkadiyt",
       "tags": [],
       "date": "2026-05-14T17:08:00+00:00"
@@ -108,8 +153,8 @@
       "source": "hn",
       "title": "HDD Firmware Hacking",
       "url": "https://icode4.coffee/?p=1465",
-      "score": 49,
-      "comments": 4,
+      "score": 77,
+      "comments": 6,
       "author": "jsploit",
       "tags": [],
       "date": "2026-05-14T16:19:29+00:00"
@@ -143,8 +188,8 @@
       "source": "hn",
       "title": "RTX 5090 and M4 MacBook Air: Can It Game?",
       "url": "https://scottjg.com/posts/2026-05-05-egpu-mac-gaming/",
-      "score": 294,
-      "comments": 81,
+      "score": 380,
+      "comments": 100,
       "author": "allenleee",
       "tags": [],
       "date": "2026-05-14T15:47:31+00:00"
@@ -154,8 +199,8 @@
       "source": "hn",
       "title": "The conflation of money and things",
       "url": "https://lithub.com/is-it-even-real-on-the-conflation-of-money-and-things/",
-      "score": 46,
-      "comments": 11,
+      "score": 55,
+      "comments": 19,
       "author": "bookofjoe",
       "tags": [],
       "date": "2026-05-14T15:36:24+00:00"
@@ -172,12 +217,25 @@
       "date": "2026-05-14T15:15:05+00:00"
     },
     {
+      "id": "qiita-017ba0064a",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "初心者でもわかる！ Python で学ぶマクロ経済学入門 全80回 総復習",
+      "url": "https://qiita.com/maskot1977/items/dd76864328b8e8910108?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "maskot1977",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-05-15T00:00:57+09:00"
+    },
+    {
       "id": "hn-48136262",
       "source": "hn",
       "title": "A message from President Kornbluth about funding and the talent pipeline",
       "url": "https://president.mit.edu/writing-speeches/video-transcript-message-president-kornbluth-about-funding-and-talent-pipeline",
-      "score": 491,
-      "comments": 497,
+      "score": 527,
+      "comments": 561,
       "author": "dmayo",
       "tags": [],
       "date": "2026-05-14T14:51:14+00:00"
@@ -209,8 +267,8 @@
       "source": "hn",
       "title": "Computer Hobby Movement in Canada",
       "url": "https://museum.eecs.yorku.ca/exhibits/show/hobby_canada/hobby_canada",
-      "score": 148,
-      "comments": 40,
+      "score": 159,
+      "comments": 50,
       "author": "rbanffy",
       "tags": [],
       "date": "2026-05-14T12:57:27+00:00"
@@ -225,6 +283,19 @@
       "author": "rcarmo",
       "tags": [],
       "date": "2026-05-14T11:47:47+00:00"
+    },
+    {
+      "id": "qiita-a69d1369b7",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "セキュリティを学ぶ学生、\"孤高の狼\"になってませんか? — 学生コミュニティを作りたい話",
+      "url": "https://qiita.com/Sabakan0123/items/8a937781391763ff1bb2?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "Sabakan0123",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-05-14T20:41:08+09:00"
     },
     {
       "id": "hn-48134014",
@@ -247,6 +318,19 @@
       "author": "signa11",
       "tags": [],
       "date": "2026-05-14T11:26:22+00:00"
+    },
+    {
+      "id": "qiita-816bdcce1c",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "Claude Code はセッションをまたぐと記憶がリセットされる — 5分で永続記憶を仕込む方法",
+      "url": "https://qiita.com/jqit_suwa/items/8607bf9f2683fb8442de?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "jqit_suwa",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-05-14T20:11:03+09:00"
     },
     {
       "id": "hn-48133728",
@@ -282,12 +366,25 @@
       "date": "2026-05-14T10:37:54+00:00"
     },
     {
+      "id": "qiita-514bcaea92",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "関数型プログラミングを知らない人向けに、「Haskellって何が面白いの?」と聞かれた時の回答",
+      "url": "https://qiita.com/sigma_devsecops/items/3f2a397e944401fcc6cb?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "sigma_devsecops",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-05-14T18:54:13+09:00"
+    },
+    {
       "id": "hn-48132488",
       "source": "hn",
       "title": "Rewrite Bun in Rust has been merged",
       "url": "https://github.com/oven-sh/bun/pull/30412",
-      "score": 268,
-      "comments": 327,
+      "score": 364,
+      "comments": 418,
       "author": "Chaoses",
       "tags": [],
       "date": "2026-05-14T08:15:31+00:00"
@@ -304,6 +401,19 @@
         "Qiita"
       ],
       "date": "2026-05-14T16:38:08+09:00"
+    },
+    {
+      "id": "qiita-e9a87b1e35",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "クオンツ入門　予測を捨て、分布を読め ― クオンツトレードのためのモーメント分析とエッジ探索フレームワーク",
+      "url": "https://qiita.com/tikeda123/items/f3bead031159ee8ca1bf?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "tikeda123",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-05-14T16:04:26+09:00"
     },
     {
       "id": "hn-48132030",
@@ -352,6 +462,19 @@
       "date": "2026-05-14T03:19:05+00:00"
     },
     {
+      "id": "qiita-dbc096debe",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "Netflixのレコメンド機能をなんとなく理解する",
+      "url": "https://qiita.com/y-tsukahara_palettelink/items/c26d6f188bedef7fed7f?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "y-tsukahara_palettelink",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-05-14T12:17:28+09:00"
+    },
+    {
       "id": "hn-48130679",
       "source": "hn",
       "title": "A Claude Code and Codex Skill for Deliberate Skill Development",
@@ -386,6 +509,19 @@
       "tags": [],
       "date": "2026-05-14T02:45:08+00:00",
       "severity": "critical"
+    },
+    {
+      "id": "qiita-8f7ccfeb96",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "別アカウントに存在するMCPサーバーをAgentCore Registryに集約したい〜IAM認証編〜",
+      "url": "https://qiita.com/har1101/items/94bea21a5d489f17fcf0?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "har1101",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-05-14T11:16:53+09:00"
     },
     {
       "id": "hn-48130186",
@@ -481,6 +617,19 @@
       "date": "2026-05-14T00:27:20+00:00"
     },
     {
+      "id": "qiita-565508cd4a",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "小説エディタ「with」のために、単一ユーザー・多端末同期モデルを設計した話",
+      "url": "https://qiita.com/ttrace/items/d42315b37f8d62099d3d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "ttrace",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-05-14T07:50:43+09:00"
+    },
+    {
       "id": "qiita-05cac98594",
       "source": "zennqiita",
       "sub_source": "Qiita",
@@ -568,8 +717,8 @@
       "source": "hn",
       "title": "EditLens: Quantifying the extent of AI editing in text (2025)",
       "url": "https://arxiv.org/abs/2510.03154",
-      "score": 19,
-      "comments": 0,
+      "score": 25,
+      "comments": 2,
       "author": "horseradish",
       "tags": [],
       "date": "2026-05-13T19:22:14+00:00"
@@ -1415,6 +1564,17 @@
       "date": "2026-05-12T14:24:55+00:00"
     },
     {
+      "id": "hn-48108621",
+      "source": "hn",
+      "title": "Int a = 5; a = a++ + ++a; a =? (2011)",
+      "url": "https://gynvael.coldwind.pl/?id=372",
+      "score": 50,
+      "comments": 86,
+      "author": "e-topy",
+      "tags": [],
+      "date": "2026-05-12T14:14:04+00:00"
+    },
+    {
       "id": "qiita-ee74dabb35",
       "source": "zennqiita",
       "sub_source": "Qiita",
@@ -1997,7 +2157,7 @@
       "source": "hn",
       "title": "Fossils show millipede and centipede ancestors evolved legs underwater",
       "url": "https://phys.org/news/2026-05-ancient-sea-fossils-millipede-centipede.html",
-      "score": 49,
+      "score": 58,
       "comments": 2,
       "author": "gmays",
       "tags": [],
@@ -2149,6 +2309,17 @@
       "author": "bhouston",
       "tags": [],
       "date": "2026-05-11T17:18:11+00:00"
+    },
+    {
+      "id": "hn-48097786",
+      "source": "hn",
+      "title": "Porting 3D Movie Maker to Linux",
+      "url": "https://benstoneonline.com/posts/porting-3d-movie-maker-to-linux/",
+      "score": 14,
+      "comments": 0,
+      "author": "speckx",
+      "tags": [],
+      "date": "2026-05-11T17:17:20+00:00"
     },
     {
       "id": "qiita-001186601b",
@@ -2360,9 +2531,9 @@
       "id": "hn-48093244",
       "source": "hn",
       "title": "Saying Goodbye to one line of APL",
-      "url": "https://homewithinnowhere.com/posts/2026-05-10-one-line.html#fnref1",
-      "score": 63,
-      "comments": 19,
+      "url": "https://homewithinnowhere.com/posts/2026-05-10-one-line.html",
+      "score": 71,
+      "comments": 24,
       "author": "tosh",
       "tags": [],
       "date": "2026-05-11T10:38:12+00:00"
@@ -3429,8 +3600,8 @@
       "source": "hn",
       "title": "60fps Video on a CGA? – The GlyphBlaster",
       "url": "https://martypc.blogspot.com/2026/05/60fps-video-on-cga-glyphblaster.html",
-      "score": 45,
-      "comments": 6,
+      "score": 55,
+      "comments": 8,
       "author": "tambourine_man",
       "tags": [],
       "date": "2026-05-10T01:01:23+00:00"
@@ -5016,172 +5187,6 @@
         "Qiita"
       ],
       "date": "2026-05-08T13:45:13+09:00"
-    },
-    {
-      "id": "hn-48058644",
-      "source": "hn",
-      "title": "Blaise – A modern self-hosting zero-legacy Object Pascal compiler targeting QBE",
-      "url": "https://github.com/graemeg/blaise",
-      "score": 71,
-      "comments": 29,
-      "author": "peter_d_sherman",
-      "tags": [],
-      "date": "2026-05-08T04:44:02+00:00"
-    },
-    {
-      "id": "hn-48058337",
-      "source": "hn",
-      "title": "Digging into Drama at the Document Foundation",
-      "url": "https://lwn.net/Articles/1066418/",
-      "score": 32,
-      "comments": 4,
-      "author": "signa11",
-      "tags": [],
-      "date": "2026-05-08T03:51:59+00:00"
-    },
-    {
-      "id": "hn-48058260",
-      "source": "hn",
-      "title": "Guitar tuner that uses phone accelerometer",
-      "url": "https://tautme.github.io/phone-sensors/accel-tuner.html",
-      "score": 139,
-      "comments": 83,
-      "author": "adm4",
-      "tags": [],
-      "date": "2026-05-08T03:43:08+00:00"
-    },
-    {
-      "id": "qiita-35e490839d",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "React Router v7 応用編 — 第2回：実践で使う上級テクニック",
-      "url": "https://qiita.com/nhatcaofedev/items/d6d57382c86e2a3cb02e?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "nhatcaofedev",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-05-08T12:41:42+09:00"
-    },
-    {
-      "id": "hn-48058197",
-      "source": "hn",
-      "title": "AWS North Virginia data center outage – resolved",
-      "url": "https://www.cnbc.com/2026/05/08/aws-outage-data-center-fanduel-coinbase.html",
-      "score": 243,
-      "comments": 168,
-      "author": "christhecaribou",
-      "tags": [],
-      "date": "2026-05-08T03:31:58+00:00"
-    },
-    {
-      "id": "qiita-41e856ed22",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "予約システムのGoogleカレンダー連携機能の誤予約防止について",
-      "url": "https://qiita.com/sewiihidekikudo/items/4a36a7cca22b39a686f0?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "sewiihidekikudo",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-05-08T12:12:42+09:00"
-    },
-    {
-      "id": "hn-48057901",
-      "source": "hn",
-      "title": "Mojo 1.0 Beta",
-      "url": "https://mojolang.org/",
-      "score": 349,
-      "comments": 221,
-      "author": "sbt567",
-      "tags": [],
-      "date": "2026-05-08T02:49:01+00:00"
-    },
-    {
-      "id": "hn-48057790",
-      "source": "hn",
-      "title": "Bliss (Photograph)",
-      "url": "https://en.wikipedia.org/wiki/Bliss_(photograph)",
-      "score": 99,
-      "comments": 42,
-      "author": "cainxinth",
-      "tags": [],
-      "date": "2026-05-08T02:31:47+00:00"
-    },
-    {
-      "id": "qiita-f95478901d",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "Java 8 → 25 メジャーアップが 1 日で終わった話 ─ Claude Opus 4.7「engineer to delegate to」の威力",
-      "url": "https://qiita.com/ntaka329/items/b1ab29e91b6099c4f3a0?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "ntaka329",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-05-08T11:25:53+09:00"
-    },
-    {
-      "id": "qiita-e43adee869",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "開発における記録の重要性：未来のチームを救うためのガイド",
-      "url": "https://qiita.com/h-tanabe/items/e3037d78d5079f4123eb?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "h-tanabe",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-05-08T11:22:11+09:00"
-    },
-    {
-      "id": "qiita-e5eabbcf9b",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "生成AIなんでも展示会 Vol.5 に出展させていただきました！",
-      "url": "https://qiita.com/har1101/items/7d7b391f5edf376787f9?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "har1101",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-05-08T10:13:19+09:00"
-    },
-    {
-      "id": "qiita-3614ba2c3f",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "Azure 上で Active Directory を構築＆ドメイン参加（Windows Server 2025 対応）",
-      "url": "https://qiita.com/carol0226/items/6ecfb5840fa700971a1f?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "carol0226",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-05-08T10:09:27+09:00"
-    },
-    {
-      "id": "hn-48057209",
-      "source": "hn",
-      "title": "GPT-5.5 Price Increase: What It Costs",
-      "url": "https://openrouter.ai/announcements/gpt55-cost-analysis",
-      "score": 140,
-      "comments": 31,
-      "author": "gmays",
-      "tags": [],
-      "date": "2026-05-08T01:02:28+00:00"
-    },
-    {
-      "id": "hn-48057144",
-      "source": "hn",
-      "title": "Seeing Birdsong",
-      "url": "https://www.lucioarese.net/seeing-birdsong/",
-      "score": 21,
-      "comments": 1,
-      "author": "carabiner",
-      "tags": [],
-      "date": "2026-05-08T00:55:25+00:00"
     },
     {
       "id": "ghrel-projectdiscovery_nuclei-310617486",

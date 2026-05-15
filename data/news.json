@@ -1,7 +1,74 @@
 {
-  "updated_at": "2026-05-15T10:57:58.694280+00:00",
+  "updated_at": "2026-05-15T12:58:38.121046+00:00",
   "count": 500,
   "items": [
+    {
+      "id": "hn-48147603",
+      "source": "hn",
+      "title": "Radicle: Sovereign {code forge} built on Git",
+      "url": "https://radicle.dev/",
+      "score": 23,
+      "comments": 3,
+      "author": "KolmogorovComp",
+      "tags": [],
+      "date": "2026-05-15T12:07:55+00:00"
+    },
+    {
+      "id": "hn-48147533",
+      "source": "hn",
+      "title": "SigNoz (YC W21, open source Datadog) Is hiring for growth and engineering roles",
+      "url": "https://signoz.io/careers",
+      "score": 1,
+      "comments": 0,
+      "author": "pranay01",
+      "tags": [],
+      "date": "2026-05-15T12:00:31+00:00",
+      "severity": "critical"
+    },
+    {
+      "id": "hn-48147339",
+      "source": "hn",
+      "title": "Welcome to the Strip Mining Era of OSS Security",
+      "url": "https://www.metabase.com/blog/strip-mining-era-of-open-source-security",
+      "score": 30,
+      "comments": 25,
+      "author": "salsakran",
+      "tags": [],
+      "date": "2026-05-15T11:37:17+00:00"
+    },
+    {
+      "id": "hn-48147058",
+      "source": "hn",
+      "title": "O(x)Caml in Space",
+      "url": "https://gazagnaire.org/blog/2026-05-14-borealis.html",
+      "score": 90,
+      "comments": 3,
+      "author": "yminsky",
+      "tags": [],
+      "date": "2026-05-15T10:55:51+00:00"
+    },
+    {
+      "id": "hn-48146908",
+      "source": "hn",
+      "title": "Steve Jobs Next Computer: His Forgotten Exile Years",
+      "url": "https://spectrum.ieee.org/steve-jobs-next-computer",
+      "score": 49,
+      "comments": 41,
+      "author": "rbanffy",
+      "tags": [],
+      "date": "2026-05-15T10:34:58+00:00"
+    },
+    {
+      "id": "hn-48146877",
+      "source": "hn",
+      "title": "NanoTDB – Golang Append-Only Time Series DB",
+      "url": "https://github.com/aymanhs/nanotdb",
+      "score": 7,
+      "comments": 0,
+      "author": "aymanhs72",
+      "tags": [],
+      "date": "2026-05-15T10:31:51+00:00"
+    },
     {
       "id": "hn-48146656",
       "source": "hn",
@@ -29,8 +96,8 @@
       "source": "hn",
       "title": "UK sovereign LLM inference",
       "url": "https://relax.ai/docs",
-      "score": 59,
-      "comments": 52,
+      "score": 89,
+      "comments": 93,
       "author": "benjamintnorris",
       "tags": [],
       "date": "2026-05-15T09:27:26+00:00"
@@ -40,8 +107,8 @@
       "source": "hn",
       "title": "Show HN: Find the best local LLM for your hardware, ranked by benchmarks",
       "url": "https://github.com/Andyyyy64/whichllm",
-      "score": 34,
-      "comments": 6,
+      "score": 179,
+      "comments": 24,
       "author": "andyyyy64",
       "tags": [],
       "date": "2026-05-15T09:19:24+00:00"
@@ -51,11 +118,22 @@
       "source": "hn",
       "title": "Explore Wikipedia Like a Windows XP Desktop",
       "url": "https://explorer.samismith.com/",
-      "score": 86,
-      "comments": 23,
+      "score": 225,
+      "comments": 56,
       "author": "smusamashah",
       "tags": [],
       "date": "2026-05-15T08:45:36+00:00"
+    },
+    {
+      "id": "hn-48145913",
+      "source": "hn",
+      "title": "Where's Ed: Anthropic Told Court $5B but Public $19B",
+      "url": "https://www.flyingpenguin.com/wheres-ed-anthropic-told-court-5-billion-but-public-19-billion/",
+      "score": 38,
+      "comments": 32,
+      "author": "jorisw",
+      "tags": [],
+      "date": "2026-05-15T08:16:39+00:00"
     },
     {
       "id": "qiita-b9ba3d79f1",
@@ -88,8 +166,8 @@
       "source": "hn",
       "title": "Show HN: GlycemicGPT – Open-source AI-powered diabetes management",
       "url": "https://github.com/GlycemicGPT/GlycemicGPT",
-      "score": 32,
-      "comments": 16,
+      "score": 52,
+      "comments": 36,
       "author": "jlengelbrecht",
       "tags": [],
       "date": "2026-05-15T04:48:23+00:00",
@@ -124,8 +202,8 @@
       "source": "hn",
       "title": "Solar-based sleep patterns compared to modern norms",
       "url": "https://dylan.gr/1775146616",
-      "score": 74,
-      "comments": 64,
+      "score": 89,
+      "comments": 76,
       "author": "James72689",
       "tags": [],
       "date": "2026-05-15T04:15:24+00:00"
@@ -146,8 +224,8 @@
       "source": "hn",
       "title": "Details of the Daring Airdrop at Tristan Da Cunha",
       "url": "https://www.tristandc.com/government/news-2026-05-11-airdrop.php",
-      "score": 154,
-      "comments": 42,
+      "score": 182,
+      "comments": 63,
       "author": "kspacewalk2",
       "tags": [],
       "date": "2026-05-15T03:56:14+00:00"
@@ -181,8 +259,8 @@
       "source": "hn",
       "title": "Mullvad exit IPs are surprisingly identifying",
       "url": "https://tmctmt.com/posts/mullvad-exit-ips-as-a-fingerprinting-vector/",
-      "score": 399,
-      "comments": 242,
+      "score": 449,
+      "comments": 260,
       "author": "RGBCube",
       "tags": [],
       "date": "2026-05-15T02:35:35+00:00"
@@ -249,8 +327,8 @@
       "source": "hn",
       "title": "UK government replaces Palantir software with internally-built refugee system",
       "url": "https://www.bbc.com/news/articles/c2l2j1lxdk5o",
-      "score": 249,
-      "comments": 83,
+      "score": 340,
+      "comments": 118,
       "author": "cdrnsf",
       "tags": [],
       "date": "2026-05-14T22:44:16+00:00"
@@ -283,8 +361,8 @@
       "source": "hn",
       "title": "A few words on DS4",
       "url": "https://antirez.com/news/165",
-      "score": 330,
-      "comments": 132,
+      "score": 354,
+      "comments": 145,
       "author": "caust1c",
       "tags": [],
       "date": "2026-05-14T22:29:12+00:00"
@@ -317,8 +395,8 @@
       "source": "hn",
       "title": "Claude for Legal",
       "url": "https://github.com/anthropics/claude-for-legal",
-      "score": 99,
-      "comments": 91,
+      "score": 117,
+      "comments": 113,
       "author": "Einenlum",
       "tags": [],
       "date": "2026-05-14T21:05:05+00:00"
@@ -350,8 +428,8 @@
       "source": "hn",
       "title": "Tesla Wall Connector bootloader bypasses the firmware downgrade ratchet",
       "url": "https://www.synacktiv.com/en/publications/exploiting-the-tesla-wall-connector-from-its-charge-port-connector-part-2-bypassing",
-      "score": 100,
-      "comments": 45,
+      "score": 109,
+      "comments": 50,
       "author": "p_stuart82",
       "tags": [],
       "date": "2026-05-14T20:41:48+00:00",
@@ -395,8 +473,8 @@
       "source": "hn",
       "title": "Codex is now in the ChatGPT mobile app",
       "url": "https://openai.com/index/work-with-codex-from-anywhere/",
-      "score": 342,
-      "comments": 172,
+      "score": 373,
+      "comments": 180,
       "author": "mikeevans",
       "tags": [],
       "date": "2026-05-14T20:06:14+00:00"
@@ -450,8 +528,8 @@
       "source": "hn",
       "title": "First public macOS kernel memory corruption exploit on Apple M5",
       "url": "https://blog.calif.io/p/first-public-kernel-memory-corruption",
-      "score": 374,
-      "comments": 86,
+      "score": 391,
+      "comments": 102,
       "author": "quadrige",
       "tags": [],
       "date": "2026-05-14T18:25:09+00:00",
@@ -507,8 +585,8 @@
       "source": "hn",
       "title": "New Nginx Exploit",
       "url": "https://github.com/DepthFirstDisclosures/Nginx-Rift",
-      "score": 385,
-      "comments": 87,
+      "score": 399,
+      "comments": 89,
       "author": "hetsaraiya",
       "tags": [],
       "date": "2026-05-14T17:17:48+00:00",
@@ -519,8 +597,8 @@
       "source": "hn",
       "title": "Removing the modem and GPS from my 2024 RAV4 hybrid",
       "url": "https://arkadiyt.com/2026/05/13/removing-the-modem-and-gps-from-my-rav4/",
-      "score": 887,
-      "comments": 460,
+      "score": 932,
+      "comments": 481,
       "author": "arkadiyt",
       "tags": [],
       "date": "2026-05-14T17:08:00+00:00"
@@ -541,8 +619,8 @@
       "source": "hn",
       "title": "Building ML framework with Rust and Category Theory",
       "url": "https://hghalebi.github.io/category_theory_transformer_rs/",
-      "score": 39,
-      "comments": 12,
+      "score": 56,
+      "comments": 14,
       "author": "adamnemecek",
       "tags": [],
       "date": "2026-05-14T16:24:28+00:00"
@@ -587,8 +665,8 @@
       "source": "hn",
       "title": "RTX 5090 and M4 MacBook Air: Can It Game?",
       "url": "https://scottjg.com/posts/2026-05-05-egpu-mac-gaming/",
-      "score": 603,
-      "comments": 145,
+      "score": 631,
+      "comments": 146,
       "author": "allenleee",
       "tags": [],
       "date": "2026-05-14T15:47:31+00:00"
@@ -2087,7 +2165,7 @@
       "source": "hn",
       "title": "Gyroflow: Video stabilization using gyroscope data",
       "url": "https://github.com/gyroflow/gyroflow",
-      "score": 97,
+      "score": 114,
       "comments": 18,
       "author": "nateb2022",
       "tags": [],
@@ -5117,83 +5195,6 @@
       "date": "2026-05-08T19:43:04+00:00"
     },
     {
-      "id": "hn-48067734",
-      "source": "hn",
-      "title": "You gave me a u32. I gave you root. (io_uring ZCRX freelist LPE)",
-      "url": "https://ze3tar.github.io/post-zcrx.html",
-      "score": 195,
-      "comments": 118,
-      "author": "MrBruh",
-      "tags": [],
-      "date": "2026-05-08T19:40:39+00:00"
-    },
-    {
-      "id": "hn-48067686",
-      "source": "hn",
-      "title": "My first in-prod corrupted hard drive problem",
-      "url": "https://blog.pavementlink.ch/2026/05/07/my-first-corrupted-hard-drive-problem/",
-      "score": 29,
-      "comments": 21,
-      "author": "r1chk1t",
-      "tags": [],
-      "date": "2026-05-08T19:35:36+00:00"
-    },
-    {
-      "id": "hn-48067402",
-      "source": "hn",
-      "title": "I designed Microsoft's EA channel in 2001. It's being dismantled in 2026",
-      "url": "https://www.brendanoconnor.net/case-studies/microsoft-enterprise-channel/",
-      "score": 3,
-      "comments": 0,
-      "author": "brendo_y",
-      "tags": [],
-      "date": "2026-05-08T19:11:34+00:00"
-    },
-    {
-      "id": "hn-48067197",
-      "source": "hn",
-      "title": "What we lost the last time code got cheap",
-      "url": "https://www.poppastring.com/blog/what-we-lost-the-last-time-code-got-cheap",
-      "score": 91,
-      "comments": 69,
-      "author": "speckx",
-      "tags": [],
-      "date": "2026-05-08T18:53:08+00:00"
-    },
-    {
-      "id": "hn-48067184",
-      "source": "hn",
-      "title": "Driver accused of DUI tracks missing laptop to Illinois State trooper's house",
-      "url": "https://abc7chicago.com/post/top-cop-driver-accused-dui-tracks-missing-laptop-illinois-state-police-trooper-kevin-bradleys-house/19060850/",
-      "score": 300,
-      "comments": 219,
-      "author": "bryan0",
-      "tags": [],
-      "date": "2026-05-08T18:51:35+00:00"
-    },
-    {
-      "id": "hn-48067119",
-      "source": "hn",
-      "title": "Google broke reCAPTCHA for de-googled Android users",
-      "url": "https://reclaimthenet.org/google-broke-recaptcha-for-de-googled-android-users",
-      "score": 1426,
-      "comments": 517,
-      "author": "anonymousiam",
-      "tags": [],
-      "date": "2026-05-08T18:45:58+00:00"
-    },
-    {
-      "id": "hn-48066872",
-      "source": "hn",
-      "title": "Ice Cream Blending (1965) [pdf]",
-      "url": "https://bitsavers.org/pdf/ibm/generalInfo/E20-0156-0_Linear_Programming_-_Ice_Cream_Blending.pdf",
-      "score": 11,
-      "comments": 1,
-      "author": "ok123456",
-      "tags": [],
-      "date": "2026-05-08T18:21:55+00:00"
-    },
-    {
       "id": "ghrel-projectdiscovery_nuclei-310617486",
       "source": "project",
       "proj_category": "Tools",
@@ -5404,6 +5405,32 @@
       "date": "2023-05-23T17:06:23Z"
     },
     {
+      "id": "zenn-5fbbd6e69d",
+      "source": "zennqiita",
+      "sub_source": "Zenn",
+      "title": "Andrej Karpathy氏のLLM Wikiを1ヶ月運用してわかった、LLMの知識を『繋げる力』",
+      "url": "https://zenn.dev/tsurubee/articles/llm-wiki-connecting-knowledge",
+      "score": null,
+      "author": "tsurubee",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Fri, 15 May 2026 00:14:18 GMT"
+    },
+    {
+      "id": "zenn-abe0ef9f9d",
+      "source": "zennqiita",
+      "sub_source": "Zenn",
+      "title": "熟達と設計原則 - 圧縮型や展開型をレッテルにしない",
+      "url": "https://zenn.dev/339/articles/e1d536aec1bf33",
+      "score": null,
+      "author": "さざんかぬふ",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Thu, 14 May 2026 23:25:04 GMT"
+    },
+    {
       "id": "zenn-1daafc1c34",
       "source": "zennqiita",
       "sub_source": "Zenn",
@@ -5417,6 +5444,32 @@
       "date": "Thu, 14 May 2026 22:04:24 GMT"
     },
     {
+      "id": "zenn-3a3fdb3a15",
+      "source": "zennqiita",
+      "sub_source": "Zenn",
+      "title": "Claudeに魂を吹き込む人 —Amanda Askellという哲学者の眼差し",
+      "url": "https://zenn.dev/noah33/articles/amanda-askell-claude-soul",
+      "score": null,
+      "author": "noah",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Thu, 14 May 2026 15:15:39 GMT"
+    },
+    {
+      "id": "zenn-ce01ec6b13",
+      "source": "zennqiita",
+      "sub_source": "Zenn",
+      "title": "五反田式: スティグマジーを応用した自律型マルチエージェントシステム【日本語訳】",
+      "url": "https://zenn.dev/iroha1203/articles/93ee3d4c5d5174",
+      "score": null,
+      "author": "Hiroyuki Nakahata",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Thu, 14 May 2026 14:10:26 GMT"
+    },
+    {
       "id": "zenn-1ddfb9bf93",
       "source": "zennqiita",
       "sub_source": "Zenn",
@@ -5428,6 +5481,19 @@
         "Zenn"
       ],
       "date": "Thu, 14 May 2026 12:00:20 GMT"
+    },
+    {
+      "id": "zenn-4c7c8d02d8",
+      "source": "zennqiita",
+      "sub_source": "Zenn",
+      "title": "セキュリティを学ぶ学生、\"孤高の狼\"になってませんか? — 学生コミュニティを作りたい話",
+      "url": "https://zenn.dev/sabakan1/articles/ee464595c9ddc7",
+      "score": null,
+      "author": "Sabakan",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Thu, 14 May 2026 11:55:57 GMT"
     },
     {
       "id": "zenn-fa4dec0d52",
@@ -5599,69 +5665,34 @@
       "date": "Wed, 13 May 2026 09:31:43 GMT"
     },
     {
-      "id": "zenn-a1672f0dbc",
-      "source": "zennqiita",
-      "sub_source": "Zenn",
-      "title": "JavaScriptCore のデフォルト派生コンストラクタ呼び出しに関するバグを修正した",
-      "url": "https://zenn.dev/itsu_dev/articles/311a9a28a41ed3",
+      "id": "edb-8aa48162c5",
+      "source": "msf",
+      "title": "[local] Remote Sunrise Helper for Windows 2026.14 - Unauthenticated File/Directory Listing",
+      "url": "https://www.exploit-db.com/exploits/52566",
       "score": null,
-      "author": "ちゅるり",
+      "author": "Exploit-DB",
       "tags": [
-        "Zenn"
+        "Exploit-DB",
+        "CVE",
+        "PoC"
       ],
-      "date": "Wed, 13 May 2026 08:54:48 GMT"
+      "severity": "high",
+      "date": "Fri, 15 May 2026 00:00:00 +0000"
     },
     {
-      "id": "zenn-7291f2d816",
-      "source": "zennqiita",
-      "sub_source": "Zenn",
-      "title": "AIエージェント時代にゼロ知識証明が必要な理由",
-      "url": "https://zenn.dev/komlock_lab/articles/zero-knowledge-proof-2026",
+      "id": "edb-f5972b1f4e",
+      "source": "msf",
+      "title": "[local] Remote Sunrise Helper for Windows 2026.14 - Remote Code Execution",
+      "url": "https://www.exploit-db.com/exploits/52565",
       "score": null,
-      "author": "Kobara Toi",
+      "author": "Exploit-DB",
       "tags": [
-        "Zenn"
+        "Exploit-DB",
+        "CVE",
+        "PoC"
       ],
-      "date": "Wed, 13 May 2026 08:40:05 GMT"
-    },
-    {
-      "id": "zenn-c9ba8cc6e9",
-      "source": "zennqiita",
-      "sub_source": "Zenn",
-      "title": "Rust(Yew) vs JavaScript(React) — マンデルブロ集合で実測したWebAssemblyのリアルな速度差",
-      "url": "https://zenn.dev/milabo/articles/rust_yew_vs_react_fractal",
-      "score": null,
-      "author": "plumchang",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Wed, 13 May 2026 03:59:32 GMT"
-    },
-    {
-      "id": "zenn-919531972b",
-      "source": "zennqiita",
-      "sub_source": "Zenn",
-      "title": "ちょっとしたアイデアをAIで長文記事にして公開するのをやめろ",
-      "url": "https://zenn.dev/todesking/articles/fba4cc93baf0a9",
-      "score": null,
-      "author": "todesking",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Tue, 12 May 2026 14:08:30 GMT"
-    },
-    {
-      "id": "zenn-39580a2a25",
-      "source": "zennqiita",
-      "sub_source": "Zenn",
-      "title": "コードレビューのボトルネックを\"する側\"と\"される側\"の両面から解消する",
-      "url": "https://zenn.dev/atamaplus/articles/resolve-review-bottleneck",
-      "score": null,
-      "author": "yub0n",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Tue, 12 May 2026 04:30:52 GMT"
+      "severity": "high",
+      "date": "Fri, 15 May 2026 00:00:00 +0000"
     },
     {
       "id": "edb-9a1e3d7806",
@@ -5857,36 +5888,6 @@
       ],
       "severity": "high",
       "date": "Thu, 07 May 2026 00:00:00 +0000"
-    },
-    {
-      "id": "edb-52bbca0ee5",
-      "source": "msf",
-      "title": "[webapps] ThingsBoard IoT Platform 4.2.0 - Server-Side Request Forgery (SSRF)",
-      "url": "https://www.exploit-db.com/exploits/52551",
-      "score": null,
-      "author": "Exploit-DB",
-      "tags": [
-        "Exploit-DB",
-        "CVE",
-        "PoC"
-      ],
-      "severity": "high",
-      "date": "Thu, 07 May 2026 00:00:00 +0000"
-    },
-    {
-      "id": "edb-7ff2e93947",
-      "source": "msf",
-      "title": "[local] Linux Kernel proc_readdir_de() 6.18-rc5 - Local Privilege Escalation",
-      "url": "https://www.exploit-db.com/exploits/52550",
-      "score": null,
-      "author": "Exploit-DB",
-      "tags": [
-        "Exploit-DB",
-        "CVE",
-        "PoC"
-      ],
-      "severity": "high",
-      "date": "Mon, 04 May 2026 00:00:00 +0000"
     }
   ]
 }

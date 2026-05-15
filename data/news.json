@@ -1,7 +1,74 @@
 {
-  "updated_at": "2026-05-15T17:08:58.385724+00:00",
+  "updated_at": "2026-05-15T19:05:32.170360+00:00",
   "count": 500,
   "items": [
+    {
+      "id": "hn-48151767",
+      "source": "hn",
+      "title": "Waymo recalls 3,800 robotaxis after they drive into flood waters",
+      "url": "https://www.cnbc.com/2026/05/12/waymo-recalls-3800-robotaxis-after-able-drive-into-standing-water.html",
+      "score": 29,
+      "comments": 32,
+      "author": "drob518",
+      "tags": [],
+      "date": "2026-05-15T18:00:43+00:00"
+    },
+    {
+      "id": "hn-48151383",
+      "source": "hn",
+      "title": "U.S. DOJ demands Apple and Google unmask over 100k users of car-tinkering app",
+      "url": "https://macdailynews.com/2026/05/15/u-s-doj-demands-apple-and-google-unmask-over-100000-users-of-popular-car-tinkering-app-in-emissions-crackdown/",
+      "score": 122,
+      "comments": 61,
+      "author": "tencentshill",
+      "tags": [],
+      "date": "2026-05-15T17:28:24+00:00"
+    },
+    {
+      "id": "hn-48151317",
+      "source": "hn",
+      "title": "Feedr v0.8.0 – a TUI RSS reader, now read the full article from your terminal",
+      "url": "https://github.com/bahdotsh/feedr",
+      "score": 11,
+      "comments": 4,
+      "author": "bahdotshxx",
+      "tags": [],
+      "date": "2026-05-15T17:22:53+00:00"
+    },
+    {
+      "id": "hn-48151237",
+      "source": "hn",
+      "title": "I designed a nibble-oriented CPU in Verilog to build a scientific calculator",
+      "url": "https://github.com/gdevic/FPGA-Calculator",
+      "score": 36,
+      "comments": 4,
+      "author": "gdevic",
+      "tags": [],
+      "date": "2026-05-15T17:15:58+00:00"
+    },
+    {
+      "id": "hn-48151199",
+      "source": "hn",
+      "title": "Aperio Lang",
+      "url": "https://aperio-lang.github.io/aperio/introduction.html",
+      "score": 25,
+      "comments": 12,
+      "author": "mmcclure",
+      "tags": [],
+      "date": "2026-05-15T17:12:48+00:00"
+    },
+    {
+      "id": "hn-48151058",
+      "source": "hn",
+      "title": "Show HN: Sx – an open-source package manager for AI skills, MCPs, and commands",
+      "url": "https://github.com/sleuth-io/sx",
+      "score": 13,
+      "comments": 4,
+      "author": "detkin",
+      "tags": [],
+      "date": "2026-05-15T17:03:22+00:00",
+      "severity": "critical"
+    },
     {
       "id": "hn-48151034",
       "source": "hn",
@@ -12,6 +79,28 @@
       "author": "joshwget",
       "tags": [],
       "date": "2026-05-15T17:01:15+00:00"
+    },
+    {
+      "id": "hn-48150971",
+      "source": "hn",
+      "title": "We don't know why Malawi is poor",
+      "url": "https://newsletter.deenamousa.com/p/we-dont-know-why-malawi-is-poor",
+      "score": 64,
+      "comments": 73,
+      "author": "alphabetatango",
+      "tags": [],
+      "date": "2026-05-15T16:57:05+00:00"
+    },
+    {
+      "id": "hn-48150900",
+      "source": "hn",
+      "title": "Bun Rust rewrite: \"codebase fails basic miri checks, allows for UB in safe rust\"",
+      "url": "https://github.com/oven-sh/bun/issues/30719",
+      "score": 146,
+      "comments": 89,
+      "author": "ndiddy",
+      "tags": [],
+      "date": "2026-05-15T16:51:25+00:00"
     },
     {
       "id": "hn-48150723",
@@ -29,8 +118,8 @@
       "source": "hn",
       "title": "Project Gutenberg – keeps getting better",
       "url": "https://www.gutenberg.org/",
-      "score": 118,
-      "comments": 40,
+      "score": 349,
+      "comments": 112,
       "author": "JSeiko",
       "tags": [],
       "date": "2026-05-15T16:15:36+00:00"
@@ -40,8 +129,8 @@
       "source": "hn",
       "title": "I built Zenith: a live local-first fixed viewport planetarium",
       "url": "https://smorgasb.org/zenith-tech/",
-      "score": 28,
-      "comments": 2,
+      "score": 42,
+      "comments": 6,
       "author": "surprisetalk",
       "tags": [],
       "date": "2026-05-15T15:45:11+00:00"
@@ -51,8 +140,8 @@
       "source": "hn",
       "title": "Image-blaster: Creates 3D environments, SFX, and meshes from a single image",
       "url": "https://github.com/neilsonnn/image-blaster",
-      "score": 12,
-      "comments": 0,
+      "score": 53,
+      "comments": 11,
       "author": "MattRogish",
       "tags": [],
       "date": "2026-05-15T15:42:37+00:00"
@@ -74,8 +163,8 @@
       "source": "hn",
       "title": "ASCII by Jason Scott",
       "url": "https://ascii.textfiles.com/",
-      "score": 65,
-      "comments": 10,
+      "score": 98,
+      "comments": 19,
       "author": "bookofjoe",
       "tags": [],
       "date": "2026-05-15T14:02:36+00:00"
@@ -85,8 +174,8 @@
       "source": "hn",
       "title": "A 0-click exploit chain for the Pixel 10",
       "url": "https://projectzero.google/2026/05/pixel-10-exploit.html",
-      "score": 179,
-      "comments": 76,
+      "score": 236,
+      "comments": 98,
       "author": "happyhardcore",
       "tags": [],
       "date": "2026-05-15T13:39:54+00:00",
@@ -106,10 +195,10 @@
     {
       "id": "hn-48148309",
       "source": "hn",
-      "title": "High dimensional geometry is transforming the MRI industry(2017) [pdf]",
+      "title": "High dimensional geometry is transforming the MRI industry (2017) [pdf]",
       "url": "https://www.ams.org/government/DonohoPresentation06-28-17Final.pdf",
-      "score": 49,
-      "comments": 13,
+      "score": 64,
+      "comments": 22,
       "author": "nill0",
       "tags": [],
       "date": "2026-05-15T13:25:53+00:00"
@@ -141,8 +230,8 @@
       "source": "hn",
       "title": "Radicle: Sovereign {code forge} built on Git",
       "url": "https://radicle.dev/",
-      "score": 137,
-      "comments": 37,
+      "score": 171,
+      "comments": 44,
       "author": "KolmogorovComp",
       "tags": [],
       "date": "2026-05-15T12:07:55+00:00"
@@ -175,8 +264,8 @@
       "source": "hn",
       "title": "O(x)Caml in Space",
       "url": "https://gazagnaire.org/blog/2026-05-14-borealis.html",
-      "score": 186,
-      "comments": 36,
+      "score": 199,
+      "comments": 44,
       "author": "yminsky",
       "tags": [],
       "date": "2026-05-15T10:55:51+00:00"
@@ -197,8 +286,8 @@
       "source": "hn",
       "title": "A new book on Steve Jobs at NeXT",
       "url": "https://spectrum.ieee.org/steve-jobs-next-computer",
-      "score": 110,
-      "comments": 95,
+      "score": 129,
+      "comments": 113,
       "author": "rbanffy",
       "tags": [],
       "date": "2026-05-15T10:34:58+00:00"
@@ -208,8 +297,8 @@
       "source": "hn",
       "title": "NanoTDB – Golang Append-Only Time Series DB",
       "url": "https://github.com/aymanhs/nanotdb",
-      "score": 30,
-      "comments": 5,
+      "score": 44,
+      "comments": 6,
       "author": "aymanhs72",
       "tags": [],
       "date": "2026-05-15T10:31:51+00:00"
@@ -263,8 +352,8 @@
       "source": "hn",
       "title": "Explore Wikipedia Like a Windows XP Desktop",
       "url": "https://explorer.samismith.com/",
-      "score": 362,
-      "comments": 97,
+      "score": 409,
+      "comments": 104,
       "author": "smusamashah",
       "tags": [],
       "date": "2026-05-15T08:45:36+00:00"
@@ -369,8 +458,8 @@
       "source": "hn",
       "title": "Details of the Daring Airdrop at Tristan Da Cunha",
       "url": "https://www.tristandc.com/government/news-2026-05-11-airdrop.php",
-      "score": 224,
-      "comments": 86,
+      "score": 238,
+      "comments": 90,
       "author": "kspacewalk2",
       "tags": [],
       "date": "2026-05-15T03:56:14+00:00"
@@ -506,8 +595,8 @@
       "source": "hn",
       "title": "A few words on DS4",
       "url": "https://antirez.com/news/165",
-      "score": 390,
-      "comments": 161,
+      "score": 399,
+      "comments": 168,
       "author": "caust1c",
       "tags": [],
       "date": "2026-05-14T22:29:12+00:00"
@@ -832,8 +921,8 @@
       "source": "hn",
       "title": "Show HN: Watch a neural net learn to play Snake",
       "url": "https://ppo.gradexp.xyz/",
-      "score": 26,
-      "comments": 3,
+      "score": 62,
+      "comments": 14,
       "author": "c1b",
       "tags": [],
       "date": "2026-05-14T15:35:14+00:00"
@@ -5095,105 +5184,6 @@
       "author": "esaym",
       "tags": [],
       "date": "2026-05-09T03:21:06+00:00"
-    },
-    {
-      "id": "qiita-2929de405b",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "【ゼロデイ解説】DirtyFlag脆弱性の全貌・Dirty COW・Dirty Pipe・Dirty Fragのエクスプロイトコードを完全分解する",
-      "url": "https://qiita.com/harupython/items/f877d277a209abc86c87?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "harupython",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-05-09T11:58:48+09:00",
-      "severity": "high"
-    },
-    {
-      "id": "hn-48071262",
-      "source": "hn",
-      "title": "A recent experience with ChatGPT 5.5 Pro",
-      "url": "https://gowers.wordpress.com/2026/05/08/a-recent-experience-with-chatgpt-5-5-pro/",
-      "score": 665,
-      "comments": 493,
-      "author": "_alternator_",
-      "tags": [],
-      "date": "2026-05-09T02:41:42+00:00"
-    },
-    {
-      "id": "qiita-ec4a4daef0",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "クオンツトレード入門者のための確率過程――価格予測ではなく、分布・リスク・エッジを見るために",
-      "url": "https://qiita.com/tikeda123/items/ac378f83a4e7911392d4?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "tikeda123",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-05-09T10:12:54+09:00"
-    },
-    {
-      "id": "qiita-42a36498a4",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "2026/05/09 今日のQiitaトレンド記事をポッドキャストで聴こう！",
-      "url": "https://qiita.com/ennagara128/items/45b8df4dd526c2273053?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "ennagara128",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-05-09T09:22:13+09:00"
-    },
-    {
-      "id": "qiita-774620ec0b",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "OpenAI gpt-realtime-translate で同時通訳ツールを実装した：踏んだ 4 つの罠",
-      "url": "https://qiita.com/shinonome_taku/items/aca0aecdea09b2304757?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "shinonome_taku",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-05-09T08:38:34+09:00"
-    },
-    {
-      "id": "hn-48070115",
-      "source": "hn",
-      "title": "Tesla Model Y Passes NHTSA's New 'Advanced Driver Assistance System' Tests",
-      "url": "https://www.nhtsa.gov/press-releases/tesla-model-y-first-vehicle-pass-nhtsa-new-advanced-driver-assistance-system-tests",
-      "score": 36,
-      "comments": 25,
-      "author": "amanaplanacanal",
-      "tags": [],
-      "date": "2026-05-08T23:37:55+00:00"
-    },
-    {
-      "id": "qiita-d7363afef7",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "処理は追えるのに「なぜそれをしているのか」が分からない人へ ｜ コードから目的を読み解く考え方",
-      "url": "https://qiita.com/k-shimaoka-dev/items/7cc255f9424b0e2adb69?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "k-shimaoka-dev",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-05-09T08:14:39+09:00"
-    },
-    {
-      "id": "hn-48069685",
-      "source": "hn",
-      "title": "The Boston library where you still can borrow a giant puppet",
-      "url": "https://binj.news/2026/05/06/the-boston-library-where-you-still-can-borrow-a-giant-puppet/",
-      "score": 42,
-      "comments": 6,
-      "author": "gnabgib",
-      "tags": [],
-      "date": "2026-05-08T22:47:06+00:00"
     },
     {
       "id": "ghrel-projectdiscovery_nuclei-310617486",

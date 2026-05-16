@@ -1,25 +1,60 @@
 {
-  "updated_at": "2026-05-16T01:15:18.481098+00:00",
+  "updated_at": "2026-05-16T04:51:58.967138+00:00",
   "count": 500,
   "items": [
+    {
+      "id": "qiita-017ba0064a",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "初心者でもわかる！ Python で学ぶマクロ経済学入門 全80回 総復習",
+      "url": "https://qiita.com/maskot1977/items/dd76864328b8e8910108?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "maskot1977",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-05-16T13:28:45+09:00"
+    },
+    {
+      "id": "hn-48155690",
+      "source": "hn",
+      "title": "'No way to prevent this,' says only package manager where this regularly happens",
+      "url": "https://kevinpatel.xyz/posts/no-way-to-prevent-this/",
+      "score": 260,
+      "comments": 112,
+      "author": "alligatorplum",
+      "tags": [],
+      "date": "2026-05-16T00:36:02+00:00"
+    },
     {
       "id": "hn-48155570",
       "source": "hn",
       "title": "Show HN: Epiq – Distributed Git based issue tracker TUI",
       "url": "https://ljtn.github.io/epiq/",
-      "score": 5,
-      "comments": 1,
+      "score": 32,
+      "comments": 8,
       "author": "jolaflow",
       "tags": [],
       "date": "2026-05-16T00:18:03+00:00"
     },
     {
+      "id": "hn-48155555",
+      "source": "hn",
+      "title": "NYT and Vaping: How to Lie by Saying Only True Things (2022)",
+      "url": "https://gwern.net/vaping",
+      "score": 45,
+      "comments": 7,
+      "author": "Ariarule",
+      "tags": [],
+      "date": "2026-05-16T00:15:53+00:00"
+    },
+    {
       "id": "hn-48155324",
       "source": "hn",
-      "title": "The main thing about P2P meth is that there's so much of it (2022)",
+      "title": "The main thing about P2P meth is that there's so much of it (2021)",
       "url": "https://dynomight.net/p2p-meth/",
-      "score": 29,
-      "comments": 9,
+      "score": 80,
+      "comments": 70,
       "author": "tomjakubowski",
       "tags": [],
       "date": "2026-05-15T23:37:32+00:00"
@@ -29,11 +64,22 @@
       "source": "hn",
       "title": "Erlang/OTP 29.0",
       "url": "https://www.erlang.org/news/188",
-      "score": 64,
-      "comments": 2,
+      "score": 146,
+      "comments": 14,
       "author": "pyinstallwoes",
       "tags": [],
       "date": "2026-05-15T23:33:32+00:00"
+    },
+    {
+      "id": "hn-48155212",
+      "source": "hn",
+      "title": "SQL patterns I use to catch transaction fraud",
+      "url": "https://analytics.fixelsmith.com/posts/sql-fraud-patterns/",
+      "score": 44,
+      "comments": 2,
+      "author": "redbell",
+      "tags": [],
+      "date": "2026-05-15T23:22:30+00:00"
     },
     {
       "id": "hn-48155159",
@@ -51,8 +97,8 @@
       "source": "hn",
       "title": "How to Write to SSDs [pdf]",
       "url": "https://www.vldb.org/pvldb/vol19/p1469-lee.pdf",
-      "score": 42,
-      "comments": 5,
+      "score": 66,
+      "comments": 6,
       "author": "matt_d",
       "tags": [],
       "date": "2026-05-15T22:23:38+00:00"
@@ -73,8 +119,8 @@
       "source": "hn",
       "title": "I believe there are entire companies right now under AI psychosis",
       "url": "https://twitter.com/mitchellh/status/2055380239711457578",
-      "score": 755,
-      "comments": 328,
+      "score": 1023,
+      "comments": 443,
       "author": "reasonableklout",
       "tags": [],
       "date": "2026-05-15T20:26:47+00:00"
@@ -106,8 +152,8 @@
       "source": "hn",
       "title": "California bill would require patches or refunds when online games shut down",
       "url": "https://arstechnica.com/gaming/2026/05/bill-to-keep-online-games-playable-clears-key-hurdle-in-california/",
-      "score": 305,
-      "comments": 183,
+      "score": 395,
+      "comments": 243,
       "author": "Lihh27",
       "tags": [],
       "date": "2026-05-15T19:48:48+00:00",
@@ -151,8 +197,8 @@
       "source": "hn",
       "title": "The Zulip Foundation",
       "url": "https://blog.zulip.com/2026/05/15/announcing-zulip-foundation/",
-      "score": 208,
-      "comments": 51,
+      "score": 238,
+      "comments": 61,
       "author": "boramalper",
       "tags": [],
       "date": "2026-05-15T18:37:01+00:00"
@@ -185,8 +231,8 @@
       "source": "hn",
       "title": "U.S. DOJ demands Apple and Google unmask over 100k users of car-tinkering app",
       "url": "https://macdailynews.com/2026/05/15/u-s-doj-demands-apple-and-google-unmask-over-100000-users-of-popular-car-tinkering-app-in-emissions-crackdown/",
-      "score": 353,
-      "comments": 237,
+      "score": 396,
+      "comments": 264,
       "author": "tencentshill",
       "tags": [],
       "date": "2026-05-15T17:28:24+00:00"
@@ -207,8 +253,8 @@
       "source": "hn",
       "title": "I designed a nibble-oriented CPU in Verilog to build a scientific calculator",
       "url": "https://github.com/gdevic/FPGA-Calculator",
-      "score": 84,
-      "comments": 27,
+      "score": 93,
+      "comments": 31,
       "author": "gdevic",
       "tags": [],
       "date": "2026-05-15T17:15:58+00:00"
@@ -285,8 +331,8 @@
       "source": "hn",
       "title": "Project Gutenberg – keeps getting better",
       "url": "https://www.gutenberg.org/",
-      "score": 700,
-      "comments": 172,
+      "score": 801,
+      "comments": 182,
       "author": "JSeiko",
       "tags": [],
       "date": "2026-05-15T16:15:36+00:00"
@@ -307,11 +353,22 @@
       "source": "hn",
       "title": "Image-blaster: Creates 3D environments, SFX, and meshes from a single image",
       "url": "https://github.com/neilsonnn/image-blaster",
-      "score": 126,
-      "comments": 25,
+      "score": 143,
+      "comments": 28,
       "author": "MattRogish",
       "tags": [],
       "date": "2026-05-15T15:42:37+00:00"
+    },
+    {
+      "id": "hn-48149259",
+      "source": "hn",
+      "title": "Additive Blending on the Nintendo 64",
+      "url": "https://phoboslab.org/log/2026/05/n64-additive-blending",
+      "score": 63,
+      "comments": 7,
+      "author": "ibobev",
+      "tags": [],
+      "date": "2026-05-15T14:39:51+00:00"
     },
     {
       "id": "hn-48148797",
@@ -330,8 +387,8 @@
       "source": "hn",
       "title": "ASCII by Jason Scott",
       "url": "https://ascii.textfiles.com/",
-      "score": 149,
-      "comments": 21,
+      "score": 165,
+      "comments": 22,
       "author": "bookofjoe",
       "tags": [],
       "date": "2026-05-15T14:02:36+00:00"
@@ -341,8 +398,8 @@
       "source": "hn",
       "title": "A 0-click exploit chain for the Pixel 10",
       "url": "https://projectzero.google/2026/05/pixel-10-exploit.html",
-      "score": 335,
-      "comments": 156,
+      "score": 349,
+      "comments": 165,
       "author": "happyhardcore",
       "tags": [],
       "date": "2026-05-15T13:39:54+00:00",
@@ -455,8 +512,8 @@
       "source": "hn",
       "title": "The sigmoids won't save you",
       "url": "https://www.astralcodexten.com/p/the-sigmoids-wont-save-you",
-      "score": 146,
-      "comments": 161,
+      "score": 172,
+      "comments": 174,
       "author": "Tomte",
       "tags": [],
       "date": "2026-05-15T10:51:13+00:00"
@@ -1140,8 +1197,8 @@
       "source": "hn",
       "title": "Show HN: Watch a neural net learn to play Snake",
       "url": "https://ppo.gradexp.xyz/",
-      "score": 116,
-      "comments": 29,
+      "score": 130,
+      "comments": 33,
       "author": "c1b",
       "tags": [],
       "date": "2026-05-14T15:35:14+00:00"
@@ -1156,19 +1213,6 @@
       "author": "surprisetalk",
       "tags": [],
       "date": "2026-05-14T15:15:05+00:00"
-    },
-    {
-      "id": "qiita-017ba0064a",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "初心者でもわかる！ Python で学ぶマクロ経済学入門 全80回 総復習",
-      "url": "https://qiita.com/maskot1977/items/dd76864328b8e8910108?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "maskot1977",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-05-15T00:00:57+09:00"
     },
     {
       "id": "hn-48136262",
@@ -1197,8 +1241,8 @@
       "source": "hn",
       "title": "Naturally Occurring Quasicrystals",
       "url": "https://johncarlosbaez.wordpress.com/2026/05/14/naturally-occurring-quasicrystals/",
-      "score": 49,
-      "comments": 5,
+      "score": 79,
+      "comments": 6,
       "author": "lukeplato",
       "tags": [],
       "date": "2026-05-14T14:32:46+00:00"
@@ -1364,6 +1408,17 @@
         "Qiita"
       ],
       "date": "2026-05-14T16:38:08+09:00"
+    },
+    {
+      "id": "hn-48132106",
+      "source": "hn",
+      "title": "The bird eye was pushed to an evolutionary extreme",
+      "url": "https://www.quantamagazine.org/how-the-bird-eye-was-pushed-to-an-evolutionary-extreme-20260513/",
+      "score": 47,
+      "comments": 11,
+      "author": "sohkamyung",
+      "tags": [],
+      "date": "2026-05-14T07:17:16+00:00"
     },
     {
       "id": "qiita-e9a87b1e35",
@@ -1956,8 +2011,8 @@
       "source": "hn",
       "title": "ESP-EEG is an affordable 8-channel biosensing board",
       "url": "https://www.autodidacts.io/cerelog-esp-eeg-affordable-openbci-like-board/",
-      "score": 16,
-      "comments": 0,
+      "score": 33,
+      "comments": 13,
       "author": "surprisetalk",
       "tags": [],
       "date": "2026-05-13T13:00:09+00:00"
@@ -2086,6 +2141,17 @@
         "Qiita"
       ],
       "date": "2026-05-13T15:59:34+09:00"
+    },
+    {
+      "id": "hn-48118478",
+      "source": "hn",
+      "title": "England Runestones",
+      "url": "https://en.wikipedia.org/wiki/England_runestones",
+      "score": 5,
+      "comments": 0,
+      "author": "cl3misch",
+      "tags": [],
+      "date": "2026-05-13T06:25:01+00:00"
     },
     {
       "id": "qiita-8998e8ab04",
@@ -2319,6 +2385,17 @@
       "date": "2026-05-12T22:28:07+00:00"
     },
     {
+      "id": "hn-48115425",
+      "source": "hn",
+      "title": "I Bought a “Junk” PSP From Japan",
+      "url": "https://gardinerbryant.com/i-bought-a-junk-psp-from-japan-heres-how-it-went/",
+      "score": 18,
+      "comments": 10,
+      "author": "Kate0CoolLibby",
+      "tags": [],
+      "date": "2026-05-12T22:26:51+00:00"
+    },
+    {
       "id": "hn-48115127",
       "source": "hn",
       "title": "Restore full BambuNetwork support for Bambu Lab printers",
@@ -2350,6 +2427,17 @@
       "author": "xnx",
       "tags": [],
       "date": "2026-05-12T20:50:02+00:00"
+    },
+    {
+      "id": "hn-48114208",
+      "source": "hn",
+      "title": "Ploopy Bean: a trackpoint for every computer",
+      "url": "https://ploopy.co/shop/bean-pointing-stick/",
+      "score": 28,
+      "comments": 9,
+      "author": "jibcage",
+      "tags": [],
+      "date": "2026-05-12T20:39:04+00:00"
     },
     {
       "id": "qiita-040ab265d6",
@@ -5091,97 +5179,6 @@
       "date": "2026-05-09T15:15:39+00:00"
     },
     {
-      "id": "hn-48075528",
-      "source": "hn",
-      "title": "PipeDream on the Acorn Archimedes",
-      "url": "https://stonetools.ghost.io/pipedream-archimedes/",
-      "score": 72,
-      "comments": 35,
-      "author": "msephton",
-      "tags": [],
-      "date": "2026-05-09T15:01:16+00:00"
-    },
-    {
-      "id": "hn-48075366",
-      "source": "hn",
-      "title": "Distributing Mac software is increasing my cortisol levels",
-      "url": "https://blog.kronis.dev/blog/apple-is-increasing-my-cortisol-levels",
-      "score": 347,
-      "comments": 240,
-      "author": "LorenDB",
-      "tags": [],
-      "date": "2026-05-09T14:40:58+00:00"
-    },
-    {
-      "id": "hn-48075340",
-      "source": "hn",
-      "title": "Show HN: Create flashcards with Space CLI",
-      "url": "https://getspace.app/cli",
-      "score": 4,
-      "comments": 0,
-      "author": "friebetill",
-      "tags": [],
-      "date": "2026-05-09T14:38:04+00:00"
-    },
-    {
-      "id": "hn-48075185",
-      "source": "hn",
-      "title": "The FCC Wants Your ID Before You Get a Phone Number",
-      "url": "https://reclaimthenet.org/the-fcc-wants-your-id-before-you-get-a-phone-number",
-      "score": 19,
-      "comments": 4,
-      "author": "delichon",
-      "tags": [],
-      "date": "2026-05-09T14:18:13+00:00"
-    },
-    {
-      "id": "hn-48075144",
-      "source": "hn",
-      "title": "GrapheneOS fixes Android VPN leak Google refused to patch",
-      "url": "https://cyberinsider.com/grapheneos-fixes-android-vpn-leak-google-refused-to-patch/",
-      "score": 219,
-      "comments": 64,
-      "author": "Georgelemental",
-      "tags": [],
-      "date": "2026-05-09T14:11:10+00:00",
-      "severity": "medium"
-    },
-    {
-      "id": "qiita-4c81a9aaf9",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "LangflowでLangfuse(self-host)を使ってLLMOps試す・前編",
-      "url": "https://qiita.com/mizuk1013/items/7f555a2e8f79f15db813?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "mizuk1013",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-05-09T23:09:24+09:00"
-    },
-    {
-      "id": "hn-48075131",
-      "source": "hn",
-      "title": "Rtwatch: Watch videos with friends using WebRTC",
-      "url": "https://github.com/pion/rtwatch",
-      "score": 60,
-      "comments": 12,
-      "author": "nateb2022",
-      "tags": [],
-      "date": "2026-05-09T14:09:14+00:00"
-    },
-    {
-      "id": "hn-48075059",
-      "source": "hn",
-      "title": "Show HN: Mochi.js: bun-native high-fidelity browser automation library",
-      "url": "https://mochijs.com/",
-      "score": 12,
-      "comments": 4,
-      "author": "ccheshirecat",
-      "tags": [],
-      "date": "2026-05-09T14:01:40+00:00"
-    },
-    {
       "id": "ghrel-projectdiscovery_nuclei-310617486",
       "source": "project",
       "proj_category": "Tools",
@@ -5515,7 +5512,7 @@
       "title": "AI×Unityゲーム開発スターターキット",
       "url": "https://zenn.dev/ohbashunsuke/books/unity-ai-starter-kit",
       "score": null,
-      "author": "オオバ@破壊的スピード開発",
+      "author": "オオバ｜ひとりチーム開発",
       "tags": [
         "Zenn"
       ],

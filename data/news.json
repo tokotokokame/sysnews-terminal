@@ -1,7 +1,77 @@
 {
-  "updated_at": "2026-05-16T09:10:45.019244+00:00",
+  "updated_at": "2026-05-16T10:45:00.090161+00:00",
   "count": 500,
   "items": [
+    {
+      "id": "hn-48158606",
+      "source": "hn",
+      "title": "Futhark by Example",
+      "url": "https://futhark-lang.org/examples.html",
+      "score": 12,
+      "comments": 0,
+      "author": "tosh",
+      "tags": [],
+      "date": "2026-05-16T09:50:10+00:00"
+    },
+    {
+      "id": "qiita-b9ba3d79f1",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "AI時代に生き残る「最強の武器」",
+      "url": "https://qiita.com/prum_hitomi/items/a2238e2ac6d842581b2e?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "prum_hitomi",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-05-16T18:50:05+09:00"
+    },
+    {
+      "id": "qiita-514bcaea92",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "関数型プログラミングを知らない人向けに、「Haskellって何が面白いの?」と聞かれた時の回答",
+      "url": "https://qiita.com/sigma_devsecops/items/3f2a397e944401fcc6cb?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "sigma_devsecops",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-05-16T18:44:52+09:00"
+    },
+    {
+      "id": "hn-48158506",
+      "source": "hn",
+      "title": "Δ-Mem: Efficient Online Memory for Large Language Models",
+      "url": "https://arxiv.org/abs/2605.12357",
+      "score": 27,
+      "comments": 5,
+      "author": "44za12",
+      "tags": [],
+      "date": "2026-05-16T09:30:06+00:00"
+    },
+    {
+      "id": "hn-48158130",
+      "source": "hn",
+      "title": "Where to buy a non-Apple, non-Google smartphone",
+      "url": "https://www.theregister.com/on-prem/2026/05/01/where-to-buy-a-non-apple-non-google-smartphone/5219681",
+      "score": 29,
+      "comments": 6,
+      "author": "_____k",
+      "tags": [],
+      "date": "2026-05-16T08:34:28+00:00"
+    },
+    {
+      "id": "hn-48158065",
+      "source": "hn",
+      "title": "We've made the world too complicated",
+      "url": "https://user8.bearblog.dev/the-world-is-too-complicated/",
+      "score": 8,
+      "comments": 9,
+      "author": "James72689",
+      "tags": [],
+      "date": "2026-05-16T08:25:17+00:00"
+    },
     {
       "id": "qiita-fb80c4a4b9",
       "source": "zennqiita",
@@ -33,8 +103,8 @@
       "source": "hn",
       "title": "Frontier AI has broken the open CTF format",
       "url": "https://kabir.au/blog/the-ctf-scene-is-dead",
-      "score": 92,
-      "comments": 65,
+      "score": 148,
+      "comments": 129,
       "author": "frays",
       "tags": [],
       "date": "2026-05-16T07:01:55+00:00"
@@ -68,8 +138,8 @@
       "source": "hn",
       "title": "Show HN: Epiq – Distributed Git based issue tracker TUI",
       "url": "https://ljtn.github.io/epiq/",
-      "score": 57,
-      "comments": 18,
+      "score": 61,
+      "comments": 25,
       "author": "jolaflow",
       "tags": [],
       "date": "2026-05-16T00:18:03+00:00"
@@ -90,8 +160,8 @@
       "source": "hn",
       "title": "The main thing about P2P meth is that there's so much of it (2021)",
       "url": "https://dynomight.net/p2p-meth/",
-      "score": 115,
-      "comments": 131,
+      "score": 127,
+      "comments": 150,
       "author": "tomjakubowski",
       "tags": [],
       "date": "2026-05-15T23:37:32+00:00"
@@ -112,8 +182,8 @@
       "source": "hn",
       "title": "SQL patterns I use to catch transaction fraud",
       "url": "https://analytics.fixelsmith.com/posts/sql-fraud-patterns/",
-      "score": 194,
-      "comments": 57,
+      "score": 240,
+      "comments": 76,
       "author": "redbell",
       "tags": [],
       "date": "2026-05-15T23:22:30+00:00"
@@ -134,8 +204,8 @@
       "source": "hn",
       "title": "Orthrus-Qwen3: up to 7.8×tokens/forward on Qwen3, identical output distribution",
       "url": "https://github.com/chiennv2000/orthrus",
-      "score": 83,
-      "comments": 12,
+      "score": 101,
+      "comments": 15,
       "author": "FranckDernoncou",
       "tags": [],
       "date": "2026-05-15T22:38:58+00:00"
@@ -145,8 +215,8 @@
       "source": "hn",
       "title": "How to Write to SSDs [pdf]",
       "url": "https://www.vldb.org/pvldb/vol19/p1469-lee.pdf",
-      "score": 105,
-      "comments": 12,
+      "score": 121,
+      "comments": 16,
       "author": "matt_d",
       "tags": [],
       "date": "2026-05-15T22:23:38+00:00"
@@ -167,8 +237,8 @@
       "source": "hn",
       "title": "I believe there are entire companies right now under AI psychosis",
       "url": "https://twitter.com/mitchellh/status/2055380239711457578",
-      "score": 1306,
-      "comments": 638,
+      "score": 1400,
+      "comments": 690,
       "author": "reasonableklout",
       "tags": [],
       "date": "2026-05-15T20:26:47+00:00"
@@ -200,8 +270,8 @@
       "source": "hn",
       "title": "Bill to block publishers from killing online games advances in California",
       "url": "https://arstechnica.com/gaming/2026/05/bill-to-keep-online-games-playable-clears-key-hurdle-in-california/",
-      "score": 476,
-      "comments": 300,
+      "score": 492,
+      "comments": 313,
       "author": "Lihh27",
       "tags": [],
       "date": "2026-05-15T19:48:48+00:00"
@@ -378,8 +448,8 @@
       "source": "hn",
       "title": "Project Gutenberg – keeps getting better",
       "url": "https://www.gutenberg.org/",
-      "score": 924,
-      "comments": 193,
+      "score": 956,
+      "comments": 201,
       "author": "JSeiko",
       "tags": [],
       "date": "2026-05-15T16:15:36+00:00"
@@ -411,8 +481,8 @@
       "source": "hn",
       "title": "Additive Blending on the Nintendo 64",
       "url": "https://phoboslab.org/log/2026/05/n64-additive-blending",
-      "score": 103,
-      "comments": 8,
+      "score": 119,
+      "comments": 11,
       "author": "ibobev",
       "tags": [],
       "date": "2026-05-15T14:39:51+00:00"
@@ -445,8 +515,8 @@
       "source": "hn",
       "title": "A 0-click exploit chain for the Pixel 10",
       "url": "https://projectzero.google/2026/05/pixel-10-exploit.html",
-      "score": 371,
-      "comments": 202,
+      "score": 384,
+      "comments": 205,
       "author": "happyhardcore",
       "tags": [],
       "date": "2026-05-15T13:39:54+00:00",
@@ -585,8 +655,8 @@
       "source": "hn",
       "title": "The sigmoids won't save you",
       "url": "https://www.astralcodexten.com/p/the-sigmoids-wont-save-you",
-      "score": 198,
-      "comments": 198,
+      "score": 209,
+      "comments": 210,
       "author": "Tomte",
       "tags": [],
       "date": "2026-05-15T10:51:13+00:00"
@@ -758,19 +828,6 @@
       "date": "2026-05-15T14:48:38+09:00"
     },
     {
-      "id": "qiita-b9ba3d79f1",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "AI時代に生き残る「最強の武器」",
-      "url": "https://qiita.com/prum_hitomi/items/a2238e2ac6d842581b2e?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "prum_hitomi",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-05-15T14:23:36+09:00"
-    },
-    {
       "id": "qiita-a0ef539d3c",
       "source": "zennqiita",
       "sub_source": "Qiita",
@@ -910,19 +967,6 @@
       "author": "thoughtpeddler",
       "tags": [],
       "date": "2026-05-15T01:08:04+00:00"
-    },
-    {
-      "id": "qiita-514bcaea92",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "関数型プログラミングを知らない人向けに、「Haskellって何が面白いの?」と聞かれた時の回答",
-      "url": "https://qiita.com/sigma_devsecops/items/3f2a397e944401fcc6cb?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "sigma_devsecops",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-05-15T09:28:04+09:00"
     },
     {
       "id": "hn-48142964",
@@ -1379,7 +1423,7 @@
       "source": "hn",
       "title": "Naturally Occurring Quasicrystals",
       "url": "https://johncarlosbaez.wordpress.com/2026/05/14/naturally-occurring-quasicrystals/",
-      "score": 95,
+      "score": 100,
       "comments": 9,
       "author": "lukeplato",
       "tags": [],
@@ -1563,8 +1607,8 @@
       "source": "hn",
       "title": "The bird eye was pushed to an evolutionary extreme",
       "url": "https://www.quantamagazine.org/how-the-bird-eye-was-pushed-to-an-evolutionary-extreme-20260513/",
-      "score": 101,
-      "comments": 36,
+      "score": 121,
+      "comments": 39,
       "author": "sohkamyung",
       "tags": [],
       "date": "2026-05-14T07:17:16+00:00"
@@ -1708,8 +1752,8 @@
       "source": "hn",
       "title": "Gaining control of every projector and camera on campus",
       "url": "https://www.edna.land/blogs/posts/scanning/",
-      "score": 21,
-      "comments": 2,
+      "score": 31,
+      "comments": 5,
       "author": "ednaordinary",
       "tags": [],
       "date": "2026-05-14T02:37:22+00:00"
@@ -2140,7 +2184,7 @@
       "source": "hn",
       "title": "EMiX: Emulating Beyond Single-FPGA Limits",
       "url": "https://arxiv.org/abs/2604.27012",
-      "score": 7,
+      "score": 13,
       "comments": 1,
       "author": "PaulHoule",
       "tags": [],
@@ -2344,8 +2388,8 @@
       "source": "hn",
       "title": "England Runestones",
       "url": "https://en.wikipedia.org/wiki/England_runestones",
-      "score": 41,
-      "comments": 12,
+      "score": 52,
+      "comments": 18,
       "author": "cl3misch",
       "tags": [],
       "date": "2026-05-13T06:25:01+00:00"
@@ -2586,8 +2630,8 @@
       "source": "hn",
       "title": "I Bought a “Junk” PSP From Japan",
       "url": "https://gardinerbryant.com/i-bought-a-junk-psp-from-japan-heres-how-it-went/",
-      "score": 56,
-      "comments": 22,
+      "score": 70,
+      "comments": 28,
       "author": "Kate0CoolLibby",
       "tags": [],
       "date": "2026-05-12T22:26:51+00:00"
@@ -2630,8 +2674,8 @@
       "source": "hn",
       "title": "Ploopy Bean: a trackpoint for every computer",
       "url": "https://ploopy.co/shop/bean-pointing-stick/",
-      "score": 92,
-      "comments": 41,
+      "score": 99,
+      "comments": 46,
       "author": "jibcage",
       "tags": [],
       "date": "2026-05-12T20:39:04+00:00"
@@ -2692,6 +2736,17 @@
       "author": "dxs",
       "tags": [],
       "date": "2026-05-12T19:18:30+00:00"
+    },
+    {
+      "id": "hn-48112129",
+      "source": "hn",
+      "title": "Charity – Categorical programming language (1998)",
+      "url": "https://github.com/mietek/charity-lang/blob/master/doc/README.md",
+      "score": 6,
+      "comments": 0,
+      "author": "matteodelabre",
+      "tags": [],
+      "date": "2026-05-12T18:17:37+00:00"
     },
     {
       "id": "hn-48112042",
@@ -2817,6 +2872,17 @@
       "author": "LabsLucas",
       "tags": [],
       "date": "2026-05-12T16:50:59+00:00"
+    },
+    {
+      "id": "hn-48110804",
+      "source": "hn",
+      "title": "Nearly 50 Years Later, WKRP in Cincinnati Becomes a Real Radio Station",
+      "url": "https://www.openculture.com/2026/05/nearly-50-years-later-wkrp-in-cincinnati-becomes-a-real-radio-station.html",
+      "score": 4,
+      "comments": 1,
+      "author": "bookofjoe",
+      "tags": [],
+      "date": "2026-05-12T16:47:38+00:00"
     },
     {
       "id": "hn-48110529",
@@ -5120,74 +5186,6 @@
       "author": "adunk",
       "tags": [],
       "date": "2026-05-09T21:32:16+00:00"
-    },
-    {
-      "id": "hn-48077971",
-      "source": "hn",
-      "title": "Local privilege escalation via execve()",
-      "url": "https://www.freebsd.org/security/advisories/FreeBSD-SA-26:13.exec.asc",
-      "score": 190,
-      "comments": 85,
-      "author": "Deeg9rie9usi",
-      "tags": [],
-      "date": "2026-05-09T20:31:21+00:00",
-      "severity": "high"
-    },
-    {
-      "id": "hn-48077966",
-      "source": "hn",
-      "title": "I caught the car",
-      "url": "https://undecidability.net/senior/",
-      "score": 41,
-      "comments": 46,
-      "author": "holden_nelson",
-      "tags": [],
-      "date": "2026-05-09T20:31:07+00:00"
-    },
-    {
-      "id": "hn-48077924",
-      "source": "hn",
-      "title": "Reverting the incremental GC in Python 3.14 and 3.15",
-      "url": "https://discuss.python.org/t/reverting-the-incremental-gc-in-python-3-14-and-3-15/107014",
-      "score": 212,
-      "comments": 81,
-      "author": "curiousgal",
-      "tags": [],
-      "date": "2026-05-09T20:25:55+00:00"
-    },
-    {
-      "id": "hn-48077395",
-      "source": "hn",
-      "title": "Surfel-based global illumination on the web",
-      "url": "https://juretriglav.si/surfel-based-global-illumination-on-the-web/",
-      "score": 42,
-      "comments": 3,
-      "author": "vmg12",
-      "tags": [],
-      "date": "2026-05-09T19:09:34+00:00"
-    },
-    {
-      "id": "hn-48077314",
-      "source": "hn",
-      "title": "\"Dirty Frag\" (CVE-2026-43284): The Second Linux Root Exploit in Eight Days",
-      "url": "https://www.copahost.com/blog/dirty-frag-cve-2026-43284/",
-      "score": 12,
-      "comments": 5,
-      "author": "ggallas",
-      "tags": [],
-      "date": "2026-05-09T18:59:49+00:00",
-      "severity": "high"
-    },
-    {
-      "id": "hn-48077291",
-      "source": "hn",
-      "title": "Lanzaboote – NixOS Secure Boot",
-      "url": "https://x86.lol/generic/2022/11/26/lanzaboote.html",
-      "score": 65,
-      "comments": 6,
-      "author": "evilmonkey19",
-      "tags": [],
-      "date": "2026-05-09T18:55:59+00:00"
     },
     {
       "id": "ghrel-projectdiscovery_nuclei-310617486",

@@ -1,14 +1,59 @@
 {
-  "updated_at": "2026-05-17T13:51:48.310796+00:00",
+  "updated_at": "2026-05-17T14:56:25.816355+00:00",
   "count": 500,
   "items": [
+    {
+      "id": "hn-48168856",
+      "source": "hn",
+      "title": "Security researcher says Microsoft built a Bitlocker backdoor, releases exploit",
+      "url": "https://www.techspot.com/news/112410-security-researcher-microsoft-secretly-built-backdoor-bitlocker-releases.html",
+      "score": 84,
+      "comments": 37,
+      "author": "nolok",
+      "tags": [],
+      "date": "2026-05-17T13:42:30+00:00",
+      "severity": "high"
+    },
+    {
+      "id": "hn-48168668",
+      "source": "hn",
+      "title": "I turned a $80 RK3562 Android tablet into a Debian Linux workstation",
+      "url": "https://github.com/tech4bot/rk3562deb",
+      "score": 15,
+      "comments": 2,
+      "author": "tech4bot",
+      "tags": [],
+      "date": "2026-05-17T13:16:27+00:00"
+    },
+    {
+      "id": "hn-48168626",
+      "source": "hn",
+      "title": "AI is a technology not a product",
+      "url": "https://daringfireball.net/2026/05/ai_is_technology_not_a_product",
+      "score": 51,
+      "comments": 6,
+      "author": "ch_sm",
+      "tags": [],
+      "date": "2026-05-17T13:11:20+00:00"
+    },
+    {
+      "id": "hn-48168485",
+      "source": "hn",
+      "title": "CUDA Books",
+      "url": "https://github.com/alternbits/awesome-cuda-books",
+      "score": 6,
+      "comments": 0,
+      "author": "dariubs",
+      "tags": [],
+      "date": "2026-05-17T12:52:06+00:00"
+    },
     {
       "id": "hn-48168221",
       "source": "hn",
       "title": "I don't think AI will make your processes go faster",
       "url": "https://frederickvanbrabant.com/blog/2026-05-15-i-dont-think-ai-will-make-your-processes-go-faster/",
-      "score": 82,
-      "comments": 47,
+      "score": 155,
+      "comments": 98,
       "author": "TheEdonian",
       "tags": [],
       "date": "2026-05-17T12:13:45+00:00"
@@ -18,19 +63,30 @@
       "source": "hn",
       "title": "Apple Silicon costs more than OpenRouter",
       "url": "https://www.williamangel.net/blog/2026/05/17/offline-llm-energy-use.html",
-      "score": 78,
-      "comments": 44,
+      "score": 131,
+      "comments": 94,
       "author": "datadrivenangel",
       "tags": [],
       "date": "2026-05-17T12:09:23+00:00"
+    },
+    {
+      "id": "hn-48168159",
+      "source": "hn",
+      "title": "Scientists believe ibogaine can help veterans overcome PTSD",
+      "url": "https://www.bbc.com/future/article/20260514-how-hallucinogenic-ibogaine-helps-veterans-overcome-ptsd",
+      "score": 14,
+      "comments": 8,
+      "author": "bushwart",
+      "tags": [],
+      "date": "2026-05-17T12:03:04+00:00"
     },
     {
       "id": "hn-48168058",
       "source": "hn",
       "title": "Native all the way, until you need text",
       "url": "https://justsitandgrin.im/posts/native-all-the-way-until-you-need-text/",
-      "score": 138,
-      "comments": 75,
+      "score": 193,
+      "comments": 123,
       "author": "dive",
       "tags": [],
       "date": "2026-05-17T11:49:46+00:00"
@@ -40,8 +96,8 @@
       "source": "hn",
       "title": "Every AI Subscription Is a Ticking Time Bomb for Enterprise",
       "url": "https://www.thestateofbrand.com/news/ai-subscription-time-bomb",
-      "score": 68,
-      "comments": 43,
+      "score": 117,
+      "comments": 81,
       "author": "mooreds",
       "tags": [],
       "date": "2026-05-17T11:49:31+00:00"
@@ -75,8 +131,8 @@
       "source": "hn",
       "title": "Playing Atari ST Music on the Amiga with Zero CPU",
       "url": "https://arnaud-carre.github.io/2026-05-15-ym-fast-emu/",
-      "score": 77,
-      "comments": 27,
+      "score": 79,
+      "comments": 29,
       "author": "z303",
       "tags": [],
       "date": "2026-05-17T08:00:04+00:00"
@@ -123,8 +179,8 @@
       "source": "hn",
       "title": "Mozilla to UK regulators: VPNs are essential privacy and security tools",
       "url": "https://blog.mozilla.org/netpolicy/2026/05/15/mozilla-to-uk-regulators-vpns-are-essential-privacy-and-security-tools-and-should-not-be-undermined/",
-      "score": 388,
-      "comments": 153,
+      "score": 422,
+      "comments": 176,
       "author": "WithinReason",
       "tags": [],
       "date": "2026-05-17T06:17:26+00:00"
@@ -233,8 +289,8 @@
       "source": "hn",
       "title": "Hosting a website on an 8-bit microcontroller",
       "url": "https://maurycyz.com/projects/mcusite/",
-      "score": 167,
-      "comments": 14,
+      "score": 177,
+      "comments": 15,
       "author": "zdw",
       "tags": [],
       "date": "2026-05-17T01:25:26+00:00"
@@ -306,8 +362,8 @@
       "source": "hn",
       "title": "A nicer voltmeter clock",
       "url": "https://lcamtuf.substack.com/p/a-nicer-voltmeter-clock",
-      "score": 249,
-      "comments": 29,
+      "score": 256,
+      "comments": 30,
       "author": "surprisetalk",
       "tags": [],
       "date": "2026-05-16T22:45:16+00:00"
@@ -328,8 +384,8 @@
       "source": "hn",
       "title": "Zerostack – A Unix-inspired coding agent written in pure Rust",
       "url": "https://crates.io/crates/zerostack/1.0.0",
-      "score": 467,
-      "comments": 239,
+      "score": 478,
+      "comments": 254,
       "author": "gidellav",
       "tags": [],
       "date": "2026-05-16T22:23:50+00:00"
@@ -362,8 +418,8 @@
       "source": "hn",
       "title": "OpenAI and Government of Malta partner to roll out ChatGPT Plus to all citizens",
       "url": "https://openai.com/index/malta-chatgpt-plus-partnership/",
-      "score": 241,
-      "comments": 286,
+      "score": 253,
+      "comments": 296,
       "author": "bookofjoe",
       "tags": [],
       "date": "2026-05-16T20:14:06+00:00"
@@ -555,7 +611,7 @@
       "source": "hn",
       "title": "SANA-WM, a 2.6B open-source world model for 1-minute 720p video",
       "url": "https://nvlabs.github.io/Sana/WM/",
-      "score": 366,
+      "score": 371,
       "comments": 143,
       "author": "mjgil",
       "tags": [],
@@ -681,8 +737,8 @@
       "source": "hn",
       "title": "Moving away from Tailwind, and learning to structure my CSS",
       "url": "https://jvns.ca/blog/2026/05/15/moving-away-from-tailwind--and-learning-to-structure-my-css-/",
-      "score": 598,
-      "comments": 330,
+      "score": 608,
+      "comments": 336,
       "author": "mpweiher",
       "tags": [],
       "date": "2026-05-16T09:14:26+00:00"
@@ -703,8 +759,8 @@
       "source": "hn",
       "title": "We've made the world too complicated",
       "url": "https://user8.bearblog.dev/the-world-is-too-complicated/",
-      "score": 349,
-      "comments": 335,
+      "score": 360,
+      "comments": 347,
       "author": "James72689",
       "tags": [],
       "date": "2026-05-16T08:25:17+00:00"
@@ -869,8 +925,8 @@
       "source": "hn",
       "title": "How Diamonds Are Made",
       "url": "https://diamond.jaydip.me/",
-      "score": 30,
-      "comments": 4,
+      "score": 42,
+      "comments": 13,
       "author": "lemonberry",
       "tags": [],
       "date": "2026-05-15T23:18:39+00:00"
@@ -1357,8 +1413,8 @@
       "source": "hn",
       "title": "Prolog Basics Explained with Pokémon",
       "url": "https://unplannedobsolescence.com/blog/prolog-basics-pokemon/",
-      "score": 62,
-      "comments": 11,
+      "score": 83,
+      "comments": 13,
       "author": "birdculture",
       "tags": [],
       "date": "2026-05-15T11:02:14+00:00"
@@ -1862,8 +1918,8 @@
       "source": "hn",
       "title": "Colossus: The Forbin Project",
       "url": "https://en.wikipedia.org/wiki/Colossus:_The_Forbin_Project",
-      "score": 144,
-      "comments": 49,
+      "score": 157,
+      "comments": 52,
       "author": "doener",
       "tags": [],
       "date": "2026-05-14T22:30:16+00:00"
@@ -1907,7 +1963,7 @@
       "source": "hn",
       "title": "Mado: Fast Markdown linter written in Rust",
       "url": "https://github.com/akiomik/mado",
-      "score": 15,
+      "score": 23,
       "comments": 2,
       "author": "nateb2022",
       "tags": [],
@@ -1979,6 +2035,17 @@
       "author": "xena",
       "tags": [],
       "date": "2026-05-14T20:22:35+00:00"
+    },
+    {
+      "id": "hn-48140556",
+      "source": "hn",
+      "title": "Hindenburg's Smoking Room",
+      "url": "https://www.airships.net/hindenburg-smoking-room/",
+      "score": 5,
+      "comments": 1,
+      "author": "crescit_eundo",
+      "tags": [],
+      "date": "2026-05-14T20:08:12+00:00"
     },
     {
       "id": "hn-48140541",
@@ -2458,8 +2525,8 @@
       "source": "hn",
       "title": "High-Entropy Alloy",
       "url": "https://en.wikipedia.org/wiki/High-entropy_alloy",
-      "score": 5,
-      "comments": 0,
+      "score": 19,
+      "comments": 2,
       "author": "leonidasrup",
       "tags": [],
       "date": "2026-05-14T10:08:04+00:00"
@@ -5129,80 +5196,6 @@
         "Qiita"
       ],
       "date": "2026-05-11T13:03:04+09:00"
-    },
-    {
-      "id": "qiita-36fcbe3914",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "TanStack Queryでいい。もう自分でやらなくていい。",
-      "url": "https://qiita.com/nhatcaofedev/items/95f753e222480c5198e5?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "nhatcaofedev",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-05-11T12:04:10+09:00"
-    },
-    {
-      "id": "qiita-4b773fff0c",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "【Amazon Quick 入門】Freeプランで使用できる4つの機能を体験してみた！",
-      "url": "https://qiita.com/yosuke-suzuki/items/54d5272459334faa6fa4?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "yosuke-suzuki",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-05-11T11:58:43+09:00"
-    },
-    {
-      "id": "qiita-44b7a7b3fe",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "Copilot Studio を使って問い合わせ文章から不足情報を自動抽出・追加入力させる仕組みを作ってみた",
-      "url": "https://qiita.com/sonooh/items/a8255796822ae652cd8c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "sonooh",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-05-11T11:50:35+09:00"
-    },
-    {
-      "id": "hn-48090521",
-      "source": "hn",
-      "title": "The greatest shot in television: James Burke had one chance to nail this scene (2024)",
-      "url": "https://www.openculture.com/2024/10/the-greatest-shot-in-television.html",
-      "score": 326,
-      "comments": 181,
-      "author": "susam",
-      "tags": [],
-      "date": "2026-05-11T02:43:34+00:00"
-    },
-    {
-      "id": "qiita-57bc0cdc0e",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "Agent Toolkit for AWSが持つ50種類のSkillsをStrands Agentsから実行する",
-      "url": "https://qiita.com/nasuvitz/items/fd1be5f3be4170a11a44?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "nasuvitz",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-05-11T11:22:11+09:00"
-    },
-    {
-      "id": "hn-48090330",
-      "source": "hn",
-      "title": "What can singing mice say about human speech?",
-      "url": "https://phys.org/news/2026-05-mice-human-speech.html",
-      "score": 4,
-      "comments": 0,
-      "author": "gmays",
-      "tags": [],
-      "date": "2026-05-11T02:14:54+00:00"
     },
     {
       "id": "ghrel-projectdiscovery_nuclei-310617486",

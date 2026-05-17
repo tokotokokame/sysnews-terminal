@@ -1,7 +1,18 @@
 {
-  "updated_at": "2026-05-17T18:35:20.397000+00:00",
+  "updated_at": "2026-05-17T20:04:12.552684+00:00",
   "count": 500,
   "items": [
+    {
+      "id": "hn-48171906",
+      "source": "hn",
+      "title": "Scientists “bottle the sun” with a liquid battery that stores solar energy",
+      "url": "https://www.sciencedaily.com/releases/2026/05/260513221821.htm",
+      "score": 18,
+      "comments": 10,
+      "author": "ndr42",
+      "tags": [],
+      "date": "2026-05-17T18:42:35+00:00"
+    },
     {
       "id": "qiita-5d718ba95b",
       "source": "zennqiita",
@@ -31,8 +42,8 @@
       "source": "hn",
       "title": "Meta deletes popular 1M follower account after Kuwaiti request",
       "url": "https://twitter.com/ryangrim/status/2055992439031185782",
-      "score": 63,
-      "comments": 19,
+      "score": 137,
+      "comments": 69,
       "author": "bhouston",
       "tags": [],
       "date": "2026-05-17T17:10:48+00:00"
@@ -42,8 +53,8 @@
       "source": "hn",
       "title": "The occasional ECONNRESET",
       "url": "https://movq.de/blog/postings/2026-05-05/1/POSTING-en.html",
-      "score": 29,
-      "comments": 2,
+      "score": 50,
+      "comments": 11,
       "author": "zdw",
       "tags": [],
       "date": "2026-05-17T17:09:36+00:00"
@@ -58,6 +69,29 @@
       "author": "rolph",
       "tags": [],
       "date": "2026-05-17T17:09:15+00:00"
+    },
+    {
+      "id": "hn-48170247",
+      "source": "hn",
+      "title": "Dontsurveil.me",
+      "url": "https://opencivics-labs.github.io/dontsurveil.me/c22.html",
+      "score": 56,
+      "comments": 13,
+      "author": "laurex",
+      "tags": [],
+      "date": "2026-05-17T16:15:01+00:00"
+    },
+    {
+      "id": "hn-48170118",
+      "source": "hn",
+      "title": "Don't Outsource the Learning",
+      "url": "https://addyosmani.com/blog/dont-outsource-learning/",
+      "score": 14,
+      "comments": 4,
+      "author": "korecodes",
+      "tags": [],
+      "date": "2026-05-17T16:04:08+00:00",
+      "severity": "critical"
     },
     {
       "id": "hn-48169424",
@@ -75,8 +109,8 @@
       "source": "hn",
       "title": "Security researcher says Microsoft built a Bitlocker backdoor, releases exploit",
       "url": "https://www.techspot.com/news/112410-security-researcher-microsoft-secretly-built-backdoor-bitlocker-releases.html",
-      "score": 407,
-      "comments": 170,
+      "score": 484,
+      "comments": 203,
       "author": "nolok",
       "tags": [],
       "date": "2026-05-17T13:42:30+00:00",
@@ -87,8 +121,8 @@
       "source": "hn",
       "title": "I turned a $80 RK3562 Android tablet into a Debian Linux workstation",
       "url": "https://github.com/tech4bot/rk3562deb",
-      "score": 127,
-      "comments": 77,
+      "score": 169,
+      "comments": 89,
       "author": "tech4bot",
       "tags": [],
       "date": "2026-05-17T13:16:27+00:00"
@@ -98,8 +132,8 @@
       "source": "hn",
       "title": "AI is a technology not a product",
       "url": "https://daringfireball.net/2026/05/ai_is_technology_not_a_product",
-      "score": 181,
-      "comments": 63,
+      "score": 232,
+      "comments": 80,
       "author": "ch_sm",
       "tags": [],
       "date": "2026-05-17T13:11:20+00:00"
@@ -109,8 +143,8 @@
       "source": "hn",
       "title": "CUDA Books",
       "url": "https://github.com/alternbits/awesome-cuda-books",
-      "score": 57,
-      "comments": 9,
+      "score": 68,
+      "comments": 13,
       "author": "dariubs",
       "tags": [],
       "date": "2026-05-17T12:52:06+00:00"
@@ -131,8 +165,8 @@
       "source": "hn",
       "title": "I don't think AI will make your processes go faster",
       "url": "https://frederickvanbrabant.com/blog/2026-05-15-i-dont-think-ai-will-make-your-processes-go-faster/",
-      "score": 347,
-      "comments": 265,
+      "score": 394,
+      "comments": 298,
       "author": "TheEdonian",
       "tags": [],
       "date": "2026-05-17T12:13:45+00:00"
@@ -142,8 +176,8 @@
       "source": "hn",
       "title": "Apple Silicon costs more than OpenRouter",
       "url": "https://www.williamangel.net/blog/2026/05/17/offline-llm-energy-use.html",
-      "score": 227,
-      "comments": 196,
+      "score": 249,
+      "comments": 214,
       "author": "datadrivenangel",
       "tags": [],
       "date": "2026-05-17T12:09:23+00:00"
@@ -164,8 +198,8 @@
       "source": "hn",
       "title": "Native all the way, until you need text",
       "url": "https://justsitandgrin.im/posts/native-all-the-way-until-you-need-text/",
-      "score": 291,
-      "comments": 200,
+      "score": 318,
+      "comments": 215,
       "author": "dive",
       "tags": [],
       "date": "2026-05-17T11:49:46+00:00"
@@ -175,8 +209,8 @@
       "source": "hn",
       "title": "Every AI Subscription Is a Ticking Time Bomb for Enterprise",
       "url": "https://www.thestateofbrand.com/news/ai-subscription-time-bomb",
-      "score": 294,
-      "comments": 283,
+      "score": 327,
+      "comments": 328,
       "author": "mooreds",
       "tags": [],
       "date": "2026-05-17T11:49:31+00:00"
@@ -258,8 +292,8 @@
       "source": "hn",
       "title": "Mozilla to UK regulators: VPNs are essential privacy and security tools",
       "url": "https://blog.mozilla.org/netpolicy/2026/05/15/mozilla-to-uk-regulators-vpns-are-essential-privacy-and-security-tools-and-should-not-be-undermined/",
-      "score": 525,
-      "comments": 230,
+      "score": 551,
+      "comments": 233,
       "author": "WithinReason",
       "tags": [],
       "date": "2026-05-17T06:17:26+00:00"
@@ -441,8 +475,8 @@
       "source": "hn",
       "title": "A nicer voltmeter clock",
       "url": "https://lcamtuf.substack.com/p/a-nicer-voltmeter-clock",
-      "score": 279,
-      "comments": 35,
+      "score": 289,
+      "comments": 36,
       "author": "surprisetalk",
       "tags": [],
       "date": "2026-05-16T22:45:16+00:00"
@@ -463,8 +497,8 @@
       "source": "hn",
       "title": "Zerostack – A Unix-inspired coding agent written in pure Rust",
       "url": "https://crates.io/crates/zerostack/1.0.0",
-      "score": 506,
-      "comments": 279,
+      "score": 518,
+      "comments": 286,
       "author": "gidellav",
       "tags": [],
       "date": "2026-05-16T22:23:50+00:00"
@@ -816,8 +850,8 @@
       "source": "hn",
       "title": "Moving away from Tailwind, and learning to structure my CSS",
       "url": "https://jvns.ca/blog/2026/05/15/moving-away-from-tailwind--and-learning-to-structure-my-css-/",
-      "score": 621,
-      "comments": 351,
+      "score": 643,
+      "comments": 357,
       "author": "mpweiher",
       "tags": [],
       "date": "2026-05-16T09:14:26+00:00"
@@ -895,6 +929,17 @@
       "date": "2026-05-16T13:28:45+09:00"
     },
     {
+      "id": "hn-48156596",
+      "source": "hn",
+      "title": "Schanuel's Conjecture and the Semantics of Triton's FPSan",
+      "url": "https://cp4space.hatsya.com/2026/05/03/schanuels-conjecture-and-the-semantics-of-fpsan/",
+      "score": 9,
+      "comments": 3,
+      "author": "c1ccccc1",
+      "tags": [],
+      "date": "2026-05-16T03:34:26+00:00"
+    },
+    {
       "id": "qiita-9bcc56d4bb",
       "source": "zennqiita",
       "sub_source": "Qiita",
@@ -919,6 +964,17 @@
         "Qiita"
       ],
       "date": "2026-05-16T11:17:43+09:00"
+    },
+    {
+      "id": "hn-48155936",
+      "source": "hn",
+      "title": "Magical Realism: \"Northern Exposure\" 25 Years Later (2015)",
+      "url": "https://www.rogerebert.com/streaming/magical-realism-nothern-exposure-25-years-later",
+      "score": 4,
+      "comments": 0,
+      "author": "walterbell",
+      "tags": [],
+      "date": "2026-05-16T01:25:29+00:00"
     },
     {
       "id": "hn-48155768",
@@ -1478,8 +1534,8 @@
       "source": "hn",
       "title": "Mercurial, 20 years and counting: how are we still alive and kicking? [video]",
       "url": "https://fosdem.org/2026/schedule/event/AGWUVH-mercurial-aint-you-dead-yet/",
-      "score": 24,
-      "comments": 3,
+      "score": 69,
+      "comments": 31,
       "author": "ibobev",
       "tags": [],
       "date": "2026-05-15T11:39:13+00:00"
@@ -1526,8 +1582,8 @@
       "source": "hn",
       "title": "Prolog Basics Explained with Pokémon",
       "url": "https://unplannedobsolescence.com/blog/prolog-basics-pokemon/",
-      "score": 152,
-      "comments": 27,
+      "score": 165,
+      "comments": 29,
       "author": "birdculture",
       "tags": [],
       "date": "2026-05-15T11:02:14+00:00"
@@ -2018,8 +2074,8 @@
       "source": "hn",
       "title": "Colossus: The Forbin Project",
       "url": "https://en.wikipedia.org/wiki/Colossus:_The_Forbin_Project",
-      "score": 188,
-      "comments": 64,
+      "score": 195,
+      "comments": 71,
       "author": "doener",
       "tags": [],
       "date": "2026-05-14T22:30:16+00:00"
@@ -2141,8 +2197,8 @@
       "source": "hn",
       "title": "Hindenburg's Smoking Room",
       "url": "https://www.airships.net/hindenburg-smoking-room/",
-      "score": 71,
-      "comments": 32,
+      "score": 91,
+      "comments": 47,
       "author": "crescit_eundo",
       "tags": [],
       "date": "2026-05-14T20:08:12+00:00"
@@ -2625,8 +2681,8 @@
       "source": "hn",
       "title": "High-Entropy Alloy",
       "url": "https://en.wikipedia.org/wiki/High-entropy_alloy",
-      "score": 60,
-      "comments": 6,
+      "score": 76,
+      "comments": 10,
       "author": "leonidasrup",
       "tags": [],
       "date": "2026-05-14T10:08:04+00:00"
@@ -5131,63 +5187,6 @@
       "author": "robtherobber",
       "tags": [],
       "date": "2026-05-11T11:27:08+00:00"
-    },
-    {
-      "id": "hn-48093578",
-      "source": "hn",
-      "title": "An idiot's guide to lead optimisation for proteins",
-      "url": "https://magnusross.github.io/posts/protein-lead-optimisation-1/",
-      "score": 140,
-      "comments": 16,
-      "author": "magni121",
-      "tags": [],
-      "date": "2026-05-11T11:21:33+00:00"
-    },
-    {
-      "id": "hn-48093244",
-      "source": "hn",
-      "title": "Saying Goodbye to one line of APL",
-      "url": "https://homewithinnowhere.com/posts/2026-05-10-one-line.html",
-      "score": 71,
-      "comments": 24,
-      "author": "tosh",
-      "tags": [],
-      "date": "2026-05-11T10:38:12+00:00"
-    },
-    {
-      "id": "hn-48093100",
-      "source": "hn",
-      "title": "Ratty – A terminal emulator with inline 3D graphics",
-      "url": "https://ratty-term.org/",
-      "score": 595,
-      "comments": 192,
-      "author": "orhunp_",
-      "tags": [],
-      "date": "2026-05-11T10:13:04+00:00"
-    },
-    {
-      "id": "qiita-46fc313572",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "AIが書くpandasコード、だいたい地雷が混じっている話",
-      "url": "https://qiita.com/ALeX_EXVS/items/cd2c603abf8b48fc23a8?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "ALeX_EXVS",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-05-11T17:45:56+09:00"
-    },
-    {
-      "id": "hn-48092367",
-      "source": "hn",
-      "title": "The Adventure Family Tree",
-      "url": "https://mipmip.org/advfamily/advfamily.html",
-      "score": 37,
-      "comments": 2,
-      "author": "exvi",
-      "tags": [],
-      "date": "2026-05-11T08:16:32+00:00"
     },
     {
       "id": "ghrel-projectdiscovery_nuclei-310617486",

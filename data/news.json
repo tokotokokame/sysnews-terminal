@@ -1,17 +1,51 @@
 {
-  "updated_at": "2026-05-19T00:06:32.668078+00:00",
+  "updated_at": "2026-05-19T04:42:04.333594+00:00",
   "count": 500,
   "items": [
     {
-      "id": "hn-48187201",
+      "id": "hn-48189178",
       "source": "hn",
-      "title": "Anthropic co-founder to present AI encyclical alongside Pope Leo XIV",
-      "url": "https://www.vaticannews.va/en/pope/news/2026-05/pope-leo-xiv-first-encyclical-magnifica-humanitas.html",
-      "score": 14,
+      "title": "PyTorch Landscape",
+      "url": "https://pytorch.landscape2.io",
+      "score": 3,
       "comments": 0,
-      "author": "cucho",
+      "author": "salamo",
       "tags": [],
-      "date": "2026-05-18T23:18:10+00:00"
+      "date": "2026-05-19T04:29:39+00:00"
+    },
+    {
+      "id": "hn-48188665",
+      "source": "hn",
+      "title": "Peter Salus has died",
+      "url": "https://www.tuhs.org/pipermail/tuhs/2026-May/033750.html",
+      "score": 79,
+      "comments": 8,
+      "author": "speckx",
+      "tags": [],
+      "date": "2026-05-19T02:56:42+00:00"
+    },
+    {
+      "id": "hn-48188506",
+      "source": "hn",
+      "title": "War game exposed U.S. vulnerability to low-tech warfare",
+      "url": "https://nsarchive.gwu.edu/news/2024-11-01/rigged-war-game-exposed-us-vulnerability-low-tech-warfare",
+      "score": 19,
+      "comments": 10,
+      "author": "KnuthIsGod",
+      "tags": [],
+      "date": "2026-05-19T02:25:29+00:00",
+      "severity": "high"
+    },
+    {
+      "id": "hn-48188183",
+      "source": "hn",
+      "title": "The last six months in LLMs in five minutes",
+      "url": "https://simonwillison.net/2026/May/19/5-minute-llms/",
+      "score": 102,
+      "comments": 35,
+      "author": "yakkomajuri",
+      "tags": [],
+      "date": "2026-05-19T01:30:42+00:00"
     },
     {
       "id": "qiita-3664cc6635",
@@ -24,15 +58,26 @@
       "tags": [
         "Qiita"
       ],
-      "date": "2026-05-19T08:04:35+09:00"
+      "date": "2026-05-19T10:06:43+09:00"
+    },
+    {
+      "id": "hn-48187201",
+      "source": "hn",
+      "title": "Pope Leo XIV’s first encyclical Magnifica humanitas to be published May 25",
+      "url": "https://www.vaticannews.va/en/pope/news/2026-05/pope-leo-xiv-first-encyclical-magnifica-humanitas.html",
+      "score": 153,
+      "comments": 90,
+      "author": "cucho",
+      "tags": [],
+      "date": "2026-05-18T23:18:10+00:00"
     },
     {
       "id": "hn-48187054",
       "source": "hn",
-      "title": "Click",
+      "title": "Click (2016)",
       "url": "https://clickclickclick.click/",
-      "score": 79,
-      "comments": 19,
+      "score": 236,
+      "comments": 57,
       "author": "andrewzeno",
       "tags": [],
       "date": "2026-05-18T23:03:02+00:00"
@@ -86,8 +131,8 @@
       "source": "hn",
       "title": "The FBI Wants to Buy Nationwide Access to License Plate Readers",
       "url": "https://www.404media.co/the-fbi-wants-to-buy-nationwide-access-to-license-plate-readers/",
-      "score": 178,
-      "comments": 69,
+      "score": 253,
+      "comments": 98,
       "author": "cdrnsf",
       "tags": [],
       "date": "2026-05-18T19:28:59+00:00"
@@ -97,8 +142,8 @@
       "source": "hn",
       "title": "Hyperpolyglot Lisp: Common Lisp, Racket, Clojure, Emacs Lisp",
       "url": "https://hyperpolyglot.org/lisp",
-      "score": 116,
-      "comments": 24,
+      "score": 144,
+      "comments": 33,
       "author": "veqq",
       "tags": [],
       "date": "2026-05-18T19:27:25+00:00"
@@ -141,8 +186,8 @@
       "source": "hn",
       "title": "Agora-1: The Multi-Agent World Model",
       "url": "https://odyssey.ml/introducing-agora-1",
-      "score": 71,
-      "comments": 15,
+      "score": 92,
+      "comments": 17,
       "author": "olivercameron",
       "tags": [],
       "date": "2026-05-18T18:43:30+00:00"
@@ -163,8 +208,8 @@
       "source": "hn",
       "title": "We let AIs run radio stations",
       "url": "https://andonlabs.com/blog/andon-fm",
-      "score": 127,
-      "comments": 135,
+      "score": 208,
+      "comments": 177,
       "author": "lukaspetersson",
       "tags": [],
       "date": "2026-05-18T18:12:18+00:00"
@@ -185,8 +230,8 @@
       "source": "hn",
       "title": "Elon Musk has lost his lawsuit against Sam Altman and OpenAI",
       "url": "https://techcrunch.com/2026/05/18/elon-musk-has-lost-his-lawsuit-against-sam-altman-and-openai/",
-      "score": 725,
-      "comments": 367,
+      "score": 853,
+      "comments": 434,
       "author": "nycdatasci",
       "tags": [],
       "date": "2026-05-18T17:38:22+00:00"
@@ -207,8 +252,8 @@
       "source": "hn",
       "title": "Anthropic acquires Stainless",
       "url": "https://www.anthropic.com/news/anthropic-acquires-stainless",
-      "score": 337,
-      "comments": 235,
+      "score": 393,
+      "comments": 272,
       "author": "tomeraberbach",
       "tags": [],
       "date": "2026-05-18T17:01:21+00:00"
@@ -241,8 +286,8 @@
       "source": "hn",
       "title": "We stopped AI bot spam in our GitHub repo using Git's –author flag",
       "url": "https://archestra.ai/blog/only-responsible-ai",
-      "score": 386,
-      "comments": 184,
+      "score": 440,
+      "comments": 199,
       "author": "ildari",
       "tags": [],
       "date": "2026-05-18T15:24:19+00:00"
@@ -285,8 +330,8 @@
       "source": "hn",
       "title": "Project Glasswing: what Mythos showed us",
       "url": "https://blog.cloudflare.com/cyber-frontier-models/",
-      "score": 266,
-      "comments": 100,
+      "score": 301,
+      "comments": 115,
       "author": "Fysi",
       "tags": [],
       "date": "2026-05-18T13:37:11+00:00"
@@ -296,8 +341,8 @@
       "source": "hn",
       "title": "Show HN: Files.md – Open-source alternative to Obsidian",
       "url": "https://github.com/zakirullin/files.md",
-      "score": 518,
-      "comments": 270,
+      "score": 585,
+      "comments": 290,
       "author": "zakirullin",
       "tags": [],
       "date": "2026-05-18T13:33:33+00:00",
@@ -503,8 +548,8 @@
       "source": "hn",
       "title": "Earth's Radio Bubble: Every signal we've ever sent into space",
       "url": "https://www.thescientificdrop.com/2026/05/earths-radio-bubble-every-signal-weve.html",
-      "score": 9,
-      "comments": 3,
+      "score": 51,
+      "comments": 29,
       "author": "jonbaer",
       "tags": [],
       "date": "2026-05-18T08:36:42+00:00"
@@ -1010,6 +1055,17 @@
       "severity": "high"
     },
     {
+      "id": "hn-48168761",
+      "source": "hn",
+      "title": "Coding on Paper",
+      "url": "https://wickstrom.tech/2026-05-16-coding-on-paper.html",
+      "score": 59,
+      "comments": 19,
+      "author": "owickstrom",
+      "tags": [],
+      "date": "2026-05-17T13:29:16+00:00"
+    },
+    {
       "id": "hn-48168668",
       "source": "hn",
       "title": "I turned a $80 RK3562 Android tablet into a Debian Linux workstation",
@@ -1172,6 +1228,17 @@
       "date": "2026-05-17T18:29:38+09:00"
     },
     {
+      "id": "hn-48167187",
+      "source": "hn",
+      "title": "When can the C++ compiler devirtualize a call?",
+      "url": "https://quuxplusone.github.io/blog/2021/02/15/devirtualization/",
+      "score": 34,
+      "comments": 6,
+      "author": "lionkor",
+      "tags": [],
+      "date": "2026-05-17T08:58:31+00:00"
+    },
+    {
       "id": "hn-48167177",
       "source": "hn",
       "title": "Porting my 3D points renderer on a ZX Spectrum 48K",
@@ -1325,6 +1392,17 @@
       "author": "celsoazevedo",
       "tags": [],
       "date": "2026-05-17T04:09:52+00:00"
+    },
+    {
+      "id": "hn-48165944",
+      "source": "hn",
+      "title": "Anyone on the Internet Can Ring Your Doorbell",
+      "url": "https://www.abgeo.dev/blog/anyone-can-ring-your-doorbell",
+      "score": 34,
+      "comments": 9,
+      "author": "jrdres",
+      "tags": [],
+      "date": "2026-05-17T03:59:22+00:00"
     },
     {
       "id": "hn-48165902",
@@ -1531,8 +1609,8 @@
       "source": "hn",
       "title": "The Quiet Renovation at Bitwarden",
       "url": "https://blog.ppb1701.com/the-quiet-renovation-at-bitwarden",
-      "score": 489,
-      "comments": 229,
+      "score": 588,
+      "comments": 262,
       "author": "DaSHacka",
       "tags": [],
       "date": "2026-05-16T20:13:41+00:00"
@@ -1831,6 +1909,17 @@
       "date": "2026-05-16T20:22:35+09:00"
     },
     {
+      "id": "hn-48158780",
+      "source": "hn",
+      "title": "Why is it called Kent House?",
+      "url": "https://diamondgeezer.blogspot.com/2026/05/kent-house.html",
+      "score": 5,
+      "comments": 0,
+      "author": "susam",
+      "tags": [],
+      "date": "2026-05-16T10:19:02+00:00"
+    },
+    {
       "id": "hn-48158606",
       "source": "hn",
       "title": "Futhark by example",
@@ -2012,8 +2101,8 @@
       "source": "hn",
       "title": "Two computers, one monitor, zero fiddling (2025)",
       "url": "https://alexplescan.com/posts/2025/08/16/kvm/",
-      "score": 155,
-      "comments": 88,
+      "score": 188,
+      "comments": 105,
       "author": "ankitg12",
       "tags": [],
       "date": "2026-05-16T02:13:19+00:00"
@@ -3612,6 +3701,17 @@
       "date": "2026-05-14T15:35:14+00:00"
     },
     {
+      "id": "hn-48136909",
+      "source": "hn",
+      "title": "Regex Chess: A 2-ply minimax chess engine in 84,688 regular expressions",
+      "url": "https://nicholas.carlini.com/writing/2025/regex-chess.html",
+      "score": 56,
+      "comments": 9,
+      "author": "surprisetalk",
+      "tags": [],
+      "date": "2026-05-14T15:30:36+00:00"
+    },
+    {
       "id": "hn-48136662",
       "source": "hn",
       "title": "Anthropic forms $200M partnership with the Gates Foundation",
@@ -4471,6 +4571,17 @@
       "date": "2026-05-13T15:52:00+00:00"
     },
     {
+      "id": "hn-48123359",
+      "source": "hn",
+      "title": "Show HN: Number Gacha, a gacha game distilled to its essence",
+      "url": "https://isabisabel.com/gacha/",
+      "score": 91,
+      "comments": 36,
+      "author": "babel16",
+      "tags": [],
+      "date": "2026-05-13T15:39:41+00:00"
+    },
+    {
       "id": "hn-48123198",
       "source": "hn",
       "title": "Kickstarter Is Forced to Ban Adult Content by Payment Processors",
@@ -5073,118 +5184,6 @@
       "author": "_vaporwave_",
       "tags": [],
       "date": "2026-05-12T20:16:26+00:00"
-    },
-    {
-      "id": "hn-48113518",
-      "source": "hn",
-      "title": "Beyond Semantic Similarity",
-      "url": "https://arxiv.org/abs/2605.05242",
-      "score": 26,
-      "comments": 5,
-      "author": "44za12",
-      "tags": [],
-      "date": "2026-05-12T19:51:41+00:00"
-    },
-    {
-      "id": "hn-48113425",
-      "source": "hn",
-      "title": "Snowflake Postgres, Lakebase, HorizonDB: Picking the Lock-In You Want",
-      "url": "https://thebuild.com/blog/2026/05/12/snowflake-postgres-lakebase-horizondb-picking-the-lock-in-you-want/",
-      "score": 20,
-      "comments": 5,
-      "author": "samaysharma",
-      "tags": [],
-      "date": "2026-05-12T19:45:02+00:00"
-    },
-    {
-      "id": "hn-48113079",
-      "source": "hn",
-      "title": "The Rise of the Bullshittery",
-      "url": "https://xn--gckvb8fzb.com/the-rise-of-the-bullshittery/",
-      "score": 88,
-      "comments": 50,
-      "author": "dxs",
-      "tags": [],
-      "date": "2026-05-12T19:18:30+00:00"
-    },
-    {
-      "id": "hn-48112129",
-      "source": "hn",
-      "title": "Charity – Categorical programming language (1998)",
-      "url": "https://github.com/mietek/charity-lang/blob/master/doc/README.md",
-      "score": 8,
-      "comments": 0,
-      "author": "matteodelabre",
-      "tags": [],
-      "date": "2026-05-12T18:17:37+00:00"
-    },
-    {
-      "id": "hn-48112042",
-      "source": "hn",
-      "title": "CERT is releasing six CVEs for serious security vulnerabilities in dnsmasq",
-      "url": "https://lists.thekelleys.org.uk/pipermail/dnsmasq-discuss/2026q2/018471.html",
-      "score": 339,
-      "comments": 178,
-      "author": "chizhik-pyzhik",
-      "tags": [],
-      "date": "2026-05-12T18:12:28+00:00",
-      "severity": "high"
-    },
-    {
-      "id": "hn-48111896",
-      "source": "hn",
-      "title": "Show HN: Needle: We Distilled Gemini Tool Calling into a 26M Model",
-      "url": "https://github.com/cactus-compute/needle",
-      "score": 690,
-      "comments": 197,
-      "author": "HenryNdubuaku",
-      "tags": [],
-      "date": "2026-05-12T18:03:11+00:00"
-    },
-    {
-      "id": "hn-48111765",
-      "source": "hn",
-      "title": "Quack: The DuckDB Client-Server Protocol",
-      "url": "https://duckdb.org/2026/05/12/quack-remote-protocol",
-      "score": 325,
-      "comments": 69,
-      "author": "aduffy",
-      "tags": [],
-      "date": "2026-05-12T17:54:12+00:00"
-    },
-    {
-      "id": "hn-48111748",
-      "source": "hn",
-      "title": "Dead.Letter (CVE-2026-45185) – How XBOW found an unauthenticated RCE on Exim",
-      "url": "https://xbow.com/blog/dead-letter-cve-2026-45185-xbow-found-rce-exim",
-      "score": 58,
-      "comments": 31,
-      "author": "fedek_",
-      "tags": [],
-      "date": "2026-05-12T17:52:34+00:00",
-      "severity": "critical"
-    },
-    {
-      "id": "hn-48111581",
-      "source": "hn",
-      "title": "Reimagining the mouse pointer for the AI era",
-      "url": "https://deepmind.google/blog/ai-pointer/",
-      "score": 210,
-      "comments": 178,
-      "author": "devhouse",
-      "tags": [],
-      "date": "2026-05-12T17:40:13+00:00"
-    },
-    {
-      "id": "hn-48111545",
-      "source": "hn",
-      "title": "Googlebook",
-      "url": "https://googlebook.google/",
-      "score": 876,
-      "comments": 1452,
-      "author": "tambourine_man",
-      "tags": [],
-      "date": "2026-05-12T17:37:36+00:00"
     },
     {
       "id": "ghrel-projectdiscovery_nuclei-310617486",

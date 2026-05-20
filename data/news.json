@@ -1,14 +1,58 @@
 {
-  "updated_at": "2026-05-20T20:14:00.233269+00:00",
+  "updated_at": "2026-05-20T22:10:16.153411+00:00",
   "count": 500,
   "items": [
+    {
+      "id": "hn-48214558",
+      "source": "hn",
+      "title": "Starship's Twelfth Flight Test",
+      "url": "https://www.spacex.com/launches/starship-flight-12",
+      "score": 17,
+      "comments": 6,
+      "author": "pantalaimon",
+      "tags": [],
+      "date": "2026-05-20T21:41:54+00:00"
+    },
+    {
+      "id": "hn-48214449",
+      "source": "hn",
+      "title": "Google Declaring War on the Web",
+      "url": "https://tante.cc/2026/05/20/on-google-declaring-war-on-the-web/",
+      "score": 54,
+      "comments": 13,
+      "author": "cdrnsf",
+      "tags": [],
+      "date": "2026-05-20T21:33:18+00:00"
+    },
+    {
+      "id": "hn-48214188",
+      "source": "hn",
+      "title": "PopuLoRA: Co-Evolving LLM Populations for Reasoning Self- Play",
+      "url": "https://vmax.ai/team/populora-co-evolving-llm-populations-for-reasoning-self-play",
+      "score": 19,
+      "comments": 1,
+      "author": "AMavorParker",
+      "tags": [],
+      "date": "2026-05-20T21:11:55+00:00"
+    },
+    {
+      "id": "hn-48212992",
+      "source": "hn",
+      "title": "Not alive, but not dead: disembodied human brains used for drug testing",
+      "url": "https://www.science.org/content/article/not-alive-not-dead-disembodied-human-brains-used-drug-testing",
+      "score": 75,
+      "comments": 50,
+      "author": "Timofeibu",
+      "tags": [],
+      "date": "2026-05-20T19:38:25+00:00"
+    },
     {
       "id": "hn-48212493",
       "source": "hn",
       "title": "An OpenAI model has disproved a central conjecture in discrete geometry",
       "url": "https://openai.com/index/model-disproves-discrete-geometry-conjecture/",
-      "score": 189,
-      "comments": 106,
+      "score": 482,
+      "comments": 313,
       "author": "tedsanders",
       "tags": [],
       "date": "2026-05-20T19:05:30+00:00"
@@ -18,8 +62,8 @@
       "source": "hn",
       "title": "Tracking Starbucks' 'widely recyclable' cups: none ended up at recycling",
       "url": "https://www.beyondplastics.org/press-releases/starbucks-cups-recyclable-report",
-      "score": 97,
-      "comments": 71,
+      "score": 156,
+      "comments": 119,
       "author": "theanonymousone",
       "tags": [],
       "date": "2026-05-20T18:50:59+00:00"
@@ -29,8 +73,8 @@
       "source": "hn",
       "title": "Node.js 26.0.0 (Now with Temporal)",
       "url": "https://nodejs.org/en/blog/release/v26.0.0",
-      "score": 50,
-      "comments": 11,
+      "score": 96,
+      "comments": 29,
       "author": "aarestad",
       "tags": [],
       "date": "2026-05-20T18:48:30+00:00"
@@ -40,8 +84,8 @@
       "source": "hn",
       "title": "Flipper One Tech Specs",
       "url": "https://docs.flipper.net/one/general/tech-specs",
-      "score": 54,
-      "comments": 12,
+      "score": 153,
+      "comments": 54,
       "author": "gregsadetsky",
       "tags": [],
       "date": "2026-05-20T18:33:56+00:00"
@@ -51,8 +95,8 @@
       "source": "hn",
       "title": "Qian Xuesen: The missile genius America lost and China gained (2025)",
       "url": "https://www.usni.org/magazines/naval-history/2025/december/missile-genius-america-lost-and-china-gained",
-      "score": 27,
-      "comments": 16,
+      "score": 67,
+      "comments": 44,
       "author": "thnaks",
       "tags": [],
       "date": "2026-05-20T17:48:52+00:00"
@@ -62,8 +106,8 @@
       "source": "hn",
       "title": "Why is Inkwell stuck in review",
       "url": "https://www.manton.org/2026/05/19/why-is-inkwell-stuck-in.html",
-      "score": 43,
-      "comments": 13,
+      "score": 71,
+      "comments": 24,
       "author": "speckx",
       "tags": [],
       "date": "2026-05-20T17:30:15+00:00"
@@ -78,6 +122,17 @@
       "author": "cdrnsf",
       "tags": [],
       "date": "2026-05-20T16:55:17+00:00"
+    },
+    {
+      "id": "hn-48210615",
+      "source": "hn",
+      "title": "Show HN: Dari-docs – Optimize your docs using parallel coding agents",
+      "url": "https://github.com/mupt-ai/dari-docs",
+      "score": 9,
+      "comments": 2,
+      "author": "byhong03",
+      "tags": [],
+      "date": "2026-05-20T16:53:07+00:00"
     },
     {
       "id": "hn-48210263",
@@ -95,8 +150,8 @@
       "source": "hn",
       "title": "SBCL: the ultimate assembly code breadboard (2014)",
       "url": "https://pvk.ca/Blog/2014/03/15/sbcl-the-ultimate-assembly-code-breadboard/",
-      "score": 88,
-      "comments": 5,
+      "score": 112,
+      "comments": 6,
       "author": "yacin",
       "tags": [],
       "date": "2026-05-20T15:39:48+00:00"
@@ -106,8 +161,8 @@
       "source": "hn",
       "title": "Formal Verification Gates for AI Coding Loops",
       "url": "https://reubenbrooks.dev/blog/structural-backpressure-beats-smarter-agents/",
-      "score": 69,
-      "comments": 11,
+      "score": 89,
+      "comments": 20,
       "author": "pyrex41",
       "tags": [],
       "date": "2026-05-20T15:25:45+00:00"
@@ -163,8 +218,8 @@
       "source": "hn",
       "title": "GitHub confirms breach of 3,800 repos via malicious VSCode extension",
       "url": "https://www.bleepingcomputer.com/news/security/github-confirms-breach-of-3-800-repos-via-malicious-vscode-extension/",
-      "score": 114,
-      "comments": 39,
+      "score": 311,
+      "comments": 98,
       "author": "Timofeibu",
       "tags": [],
       "date": "2026-05-20T13:43:37+00:00"
@@ -207,8 +262,8 @@
       "source": "hn",
       "title": "Meta blocks human rights accounts from reaching audiences in Saudi Arabia, UAE",
       "url": "https://www.alqst.org/ar/posts/1190",
-      "score": 817,
-      "comments": 345,
+      "score": 868,
+      "comments": 368,
       "author": "giuliomagnifico",
       "tags": [],
       "date": "2026-05-20T12:43:41+00:00"
@@ -229,8 +284,8 @@
       "source": "hn",
       "title": "Saying Goodbye to Asm.js",
       "url": "https://spidermonkey.dev/blog/2026/05/20/saying-goodbye-to-asmjs.html",
-      "score": 250,
-      "comments": 113,
+      "score": 280,
+      "comments": 121,
       "author": "eqrion",
       "tags": [],
       "date": "2026-05-20T12:01:56+00:00"
@@ -251,8 +306,8 @@
       "source": "hn",
       "title": "Google's AI is being manipulated. The search giant is quietly fighting back",
       "url": "https://www.bbc.com/future/article/20260519-google-tackles-attempts-to-hack-its-ai-results",
-      "score": 200,
-      "comments": 149,
+      "score": 229,
+      "comments": 165,
       "author": "tigerlily",
       "tags": [],
       "date": "2026-05-20T10:57:09+00:00"
@@ -262,8 +317,8 @@
       "source": "hn",
       "title": "Map of Metal",
       "url": "https://mapofmetal.com/",
-      "score": 345,
-      "comments": 121,
+      "score": 376,
+      "comments": 132,
       "author": "robin_reala",
       "tags": [],
       "date": "2026-05-20T10:47:20+00:00"
@@ -273,8 +328,8 @@
       "source": "hn",
       "title": "Qwen3.7-Max: The Agent Frontier",
       "url": "https://qwen.ai/blog?id=qwen3.7",
-      "score": 510,
-      "comments": 197,
+      "score": 562,
+      "comments": 219,
       "author": "kevinsimper",
       "tags": [],
       "date": "2026-05-20T10:35:02+00:00"
@@ -295,8 +350,8 @@
       "source": "hn",
       "title": "Incident Report: May 19, 2026 – GCP Account Suspension",
       "url": "https://blog.railway.com/p/incident-report-may-19-2026-gcp-account-outage",
-      "score": 306,
-      "comments": 188,
+      "score": 346,
+      "comments": 209,
       "author": "0xedb",
       "tags": [],
       "date": "2026-05-20T08:37:55+00:00"
@@ -1335,7 +1390,7 @@
       "source": "hn",
       "title": "LoRA and Weight Decay (2023)",
       "url": "https://irhum.github.io/blog/lorawd/",
-      "score": 10,
+      "score": 22,
       "comments": 0,
       "author": "jxmorris12",
       "tags": [],
@@ -1648,8 +1703,8 @@
       "source": "hn",
       "title": "Sharla Boehm, the programmer whose code underpins the Internet",
       "url": "https://www.scientificamerican.com/article/the-programmer-whose-code-underpins-the-internet/",
-      "score": 43,
-      "comments": 14,
+      "score": 72,
+      "comments": 22,
       "author": "dxs",
       "tags": [],
       "date": "2026-05-18T14:10:50+00:00"
@@ -2089,8 +2144,8 @@
       "source": "hn",
       "title": "Étienne Ghys: The Shape of Letters: From Leonardo da Vinci to Donald Knuth",
       "url": "https://www.youtube.com/watch?v=1OIxzewWilc",
-      "score": 22,
-      "comments": 3,
+      "score": 47,
+      "comments": 4,
       "author": "tzury",
       "tags": [],
       "date": "2026-05-18T04:38:58+00:00"
@@ -2138,8 +2193,8 @@
       "source": "hn",
       "title": "How fast is N tokens per second really?",
       "url": "https://mikeveerman.github.io/tokenspeed/",
-      "score": 175,
-      "comments": 45,
+      "score": 232,
+      "comments": 57,
       "author": "hexagr",
       "tags": [],
       "date": "2026-05-18T02:04:38+00:00"
@@ -3949,6 +4004,17 @@
       "date": "2026-05-15T22:38:58+00:00"
     },
     {
+      "id": "hn-48154796",
+      "source": "hn",
+      "title": "Archaeologists find Egyptian mummy buried with the 'Iliad'",
+      "url": "https://www.openculture.com/2026/05/archaeologists-discover-ancient-egyptian-mummy-buried-with-pages-from-homers-iliad.html",
+      "score": 7,
+      "comments": 0,
+      "author": "diodorus",
+      "tags": [],
+      "date": "2026-05-15T22:31:45+00:00"
+    },
+    {
       "id": "hn-48154711",
       "source": "hn",
       "title": "How to Write to SSDs [pdf]",
@@ -5138,72 +5204,6 @@
       "date": "2026-05-14T20:06:14+00:00"
     },
     {
-      "id": "hn-48140368",
-      "source": "hn",
-      "title": "Multi-Species Canopy Latrines in Costa Rican Cloud Forests",
-      "url": "https://onlinelibrary.wiley.com/doi/10.1002/ece3.72964",
-      "score": 37,
-      "comments": 5,
-      "author": "PaulHoule",
-      "tags": [],
-      "date": "2026-05-14T19:56:05+00:00"
-    },
-    {
-      "id": "hn-48140297",
-      "source": "hn",
-      "title": "Illusions of understanding in the sciences",
-      "url": "https://link.springer.com/article/10.1007/s42113-026-00271-1",
-      "score": 68,
-      "comments": 31,
-      "author": "sebg",
-      "tags": [],
-      "date": "2026-05-14T19:49:56+00:00"
-    },
-    {
-      "id": "hn-48139704",
-      "source": "hn",
-      "title": "WinUI 3 Performance: A Leap Forward",
-      "url": "https://github.com/microsoft/microsoft-ui-xaml/discussions/11096",
-      "score": 69,
-      "comments": 50,
-      "author": "whatever3",
-      "tags": [],
-      "date": "2026-05-14T19:01:58+00:00"
-    },
-    {
-      "id": "hn-48139435",
-      "source": "hn",
-      "title": "Why did Clovis toolmakers choose difficult quartz crystal?",
-      "url": "https://phys.org/news/2026-04-clovis-toolmakers-difficult-quartz-crystal.html",
-      "score": 35,
-      "comments": 21,
-      "author": "PaulHoule",
-      "tags": [],
-      "date": "2026-05-14T18:43:29+00:00"
-    },
-    {
-      "id": "hn-48139355",
-      "source": "hn",
-      "title": "The AI Zombification of Universities",
-      "url": "https://www.thenewcritic.com/p/the-great-zombification",
-      "score": 104,
-      "comments": 56,
-      "author": "rmdmphilosopher",
-      "tags": [],
-      "date": "2026-05-14T18:37:08+00:00"
-    },
-    {
-      "id": "hn-48139316",
-      "source": "hn",
-      "title": "The Power of a Free Popsicle (2018)",
-      "url": "https://www.gsb.stanford.edu/insights/power-free-popsicle",
-      "score": 67,
-      "comments": 26,
-      "author": "NaOH",
-      "tags": [],
-      "date": "2026-05-14T18:33:47+00:00"
-    },
-    {
       "id": "ghrel-projectdiscovery_nuclei-310617486",
       "source": "project",
       "proj_category": "Tools",
@@ -5452,6 +5452,19 @@
       "date": "Tue, 19 May 2026 15:11:58 GMT"
     },
     {
+      "id": "zenn-c3f85f203d",
+      "source": "zennqiita",
+      "sub_source": "Zenn",
+      "title": "Claude Codeに永続記憶させるライブラリを自作した話",
+      "url": "https://zenn.dev/sonicgarden/articles/46e9dde3d6a8d2",
+      "score": null,
+      "author": "kuma",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Tue, 19 May 2026 15:00:05 GMT"
+    },
+    {
       "id": "zenn-b53cf8bfb0",
       "source": "zennqiita",
       "sub_source": "Zenn",
@@ -5541,19 +5554,6 @@
         "Zenn"
       ],
       "date": "Tue, 19 May 2026 00:15:05 GMT"
-    },
-    {
-      "id": "zenn-3c862eadce",
-      "source": "zennqiita",
-      "sub_source": "Zenn",
-      "title": "Ollamaがバージョンアップで大きく変わった模様: 人工知能深訪",
-      "url": "https://zenn.dev/dozo/articles/80393187f20a44",
-      "score": null,
-      "author": "dozo",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Mon, 18 May 2026 20:39:06 GMT"
     },
     {
       "id": "zenn-d4e61ef92b",

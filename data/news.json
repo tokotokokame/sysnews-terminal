@@ -1,14 +1,36 @@
 {
-  "updated_at": "2026-05-20T08:25:18.608176+00:00",
+  "updated_at": "2026-05-20T11:27:20.285006+00:00",
   "count": 500,
   "items": [
+    {
+      "id": "hn-48205699",
+      "source": "hn",
+      "title": "Map of Metal",
+      "url": "https://mapofmetal.com/",
+      "score": 6,
+      "comments": 1,
+      "author": "robin_reala",
+      "tags": [],
+      "date": "2026-05-20T10:47:20+00:00"
+    },
+    {
+      "id": "hn-48205415",
+      "source": "hn",
+      "title": "Learnings from 100K lines of Rust with AI (2025)",
+      "url": "https://zfhuang99.github.io/rust/claude%20code/codex/contracts/spec-driven%20development/2025/12/01/rust-with-ai.html",
+      "score": 43,
+      "comments": 26,
+      "author": "pramodbiligiri",
+      "tags": [],
+      "date": "2026-05-20T10:04:28+00:00"
+    },
     {
       "id": "hn-48203698",
       "source": "hn",
       "title": "Everything in C is undefined behavior",
       "url": "https://blog.habets.se/2026/05/Everything-in-C-is-undefined-behavior.html",
-      "score": 122,
-      "comments": 94,
+      "score": 236,
+      "comments": 308,
       "author": "lycopodiopsida",
       "tags": [],
       "date": "2026-05-20T06:07:22+00:00"
@@ -31,8 +53,8 @@
       "source": "hn",
       "title": "Infomaniak transitions to a foundation model to protect user data privacy",
       "url": "https://news.infomaniak.com/en/infomaniak-foundation-sovereign-cloud/",
-      "score": 30,
-      "comments": 0,
+      "score": 92,
+      "comments": 23,
       "author": "darktoto",
       "tags": [],
       "date": "2026-05-20T05:43:51+00:00"
@@ -177,8 +199,8 @@
       "source": "hn",
       "title": "Japan is gripped by mass allergies. A 1950s project is to blame",
       "url": "https://www.bbc.com/future/article/20260515-the-1950s-blunder-which-causes-mass-hay-fever-in-japan",
-      "score": 59,
-      "comments": 9,
+      "score": 138,
+      "comments": 63,
       "author": "ranit",
       "tags": [],
       "date": "2026-05-20T01:43:06+00:00"
@@ -188,8 +210,8 @@
       "source": "hn",
       "title": "FiveThirtyEight articles on the Internet Archive",
       "url": "https://fivethirtyeightindex.com/",
-      "score": 173,
-      "comments": 39,
+      "score": 226,
+      "comments": 53,
       "author": "ChocMontePy",
       "tags": [],
       "date": "2026-05-20T01:34:19+00:00"
@@ -210,10 +232,10 @@
     {
       "id": "hn-48201484",
       "source": "hn",
-      "title": "Railway Blocked by Google Cloud",
-      "url": "https://status.railway.com/?date=20260519",
-      "score": 464,
-      "comments": 216,
+      "title": "Incident Report: Railway Blocked by Google Cloud (Resolved)",
+      "url": "https://blog.railway.com/p/incident-report-may-19-2026-gcp-account-outage",
+      "score": 486,
+      "comments": 311,
       "author": "aarondf",
       "tags": [],
       "date": "2026-05-20T00:23:54+00:00"
@@ -223,8 +245,8 @@
       "source": "hn",
       "title": "GitHub is investigating unauthorized access to their internal repositories",
       "url": "https://twitter.com/github/status/2056884788179726685",
-      "score": 401,
-      "comments": 209,
+      "score": 479,
+      "comments": 252,
       "author": "splenditer",
       "tags": [],
       "date": "2026-05-20T00:01:18+00:00"
@@ -256,10 +278,10 @@
     {
       "id": "hn-48200569",
       "source": "hn",
-      "title": "Remove–AI–Watermarks – CLI and library for removing AI watermarks from images",
+      "title": "Remove-AI-Watermarks – CLI and library for removing AI watermarks from images",
       "url": "https://github.com/wiltodelta/remove-ai-watermarks",
-      "score": 260,
-      "comments": 145,
+      "score": 302,
+      "comments": 176,
       "author": "janalsncm",
       "tags": [],
       "date": "2026-05-19T22:30:31+00:00"
@@ -304,8 +326,8 @@
       "source": "hn",
       "title": "OpenAI Adopts Google's SynthID Watermark for AI Images with Verification Tool",
       "url": "https://openai.com/index/advancing-content-provenance/",
-      "score": 273,
-      "comments": 140,
+      "score": 293,
+      "comments": 157,
       "author": "smooke",
       "tags": [],
       "date": "2026-05-19T19:34:30+00:00"
@@ -327,8 +349,8 @@
       "source": "hn",
       "title": "Mistral AI acquires Emmi AI",
       "url": "https://www.emmi.ai/news/mistral-ai-acquires-emmi-ai",
-      "score": 250,
-      "comments": 70,
+      "score": 269,
+      "comments": 82,
       "author": "doener",
       "tags": [],
       "date": "2026-05-19T19:14:12+00:00"
@@ -338,8 +360,8 @@
       "source": "hn",
       "title": "Minnesota becomes first state to ban prediction markets",
       "url": "https://www.npr.org/2026/05/19/nx-s1-5821265/minnesota-ban-prediction-markets",
-      "score": 636,
-      "comments": 197,
+      "score": 682,
+      "comments": 207,
       "author": "ortusdux",
       "tags": [],
       "date": "2026-05-19T19:13:26+00:00"
@@ -371,8 +393,8 @@
       "source": "hn",
       "title": "Google changes its search box",
       "url": "https://blog.google/products-and-platforms/products/search/search-io-2026/",
-      "score": 509,
-      "comments": 693,
+      "score": 575,
+      "comments": 760,
       "author": "berkeleyjunk",
       "tags": [],
       "date": "2026-05-19T18:34:27+00:00"
@@ -382,8 +404,8 @@
       "source": "hn",
       "title": "Gemini CLI will stop working from June 18, 2026",
       "url": "https://developers.googleblog.com/an-important-update-transitioning-gemini-cli-to-antigravity-cli/",
-      "score": 184,
-      "comments": 95,
+      "score": 246,
+      "comments": 126,
       "author": "primaprashant",
       "tags": [],
       "date": "2026-05-19T18:03:10+00:00"
@@ -404,8 +426,8 @@
       "source": "hn",
       "title": "Gemini 3.5 Flash",
       "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-5/",
-      "score": 756,
-      "comments": 531,
+      "score": 824,
+      "comments": 569,
       "author": "spectraldrift",
       "tags": [],
       "date": "2026-05-19T17:43:45+00:00"
@@ -415,8 +437,8 @@
       "source": "hn",
       "title": "CopyFail: From Pod to Host",
       "url": "https://xint.io/blog/copy-fail-pod-to-host",
-      "score": 8,
-      "comments": 0,
+      "score": 25,
+      "comments": 3,
       "author": "tptacek",
       "tags": [],
       "date": "2026-05-19T17:25:33+00:00"
@@ -470,8 +492,8 @@
       "source": "hn",
       "title": "I’ve built a virtual museum with nearly every operating system you can think of",
       "url": "https://virtualosmuseum.org/",
-      "score": 749,
-      "comments": 167,
+      "score": 807,
+      "comments": 174,
       "author": "andreww591",
       "tags": [],
       "date": "2026-05-19T15:53:38+00:00"
@@ -585,8 +607,8 @@
       "source": "hn",
       "title": "Show HN: Forge – Guardrails take an 8B model from 53% to 99% on agentic tasks",
       "url": "https://github.com/antoinezambelli/forge",
-      "score": 447,
-      "comments": 171,
+      "score": 515,
+      "comments": 177,
       "author": "zambelli",
       "tags": [],
       "date": "2026-05-19T12:23:07+00:00"
@@ -596,8 +618,8 @@
       "source": "hn",
       "title": "Apple unveils new accessibility features",
       "url": "https://www.apple.com/newsroom/2026/05/apple-unveils-new-accessibility-features-and-updates-with-apple-intelligence/",
-      "score": 667,
-      "comments": 341,
+      "score": 682,
+      "comments": 353,
       "author": "interpol_p",
       "tags": [],
       "date": "2026-05-19T12:04:18+00:00"
@@ -1269,6 +1291,17 @@
       "date": "2026-05-18T14:13:07+00:00"
     },
     {
+      "id": "hn-48180030",
+      "source": "hn",
+      "title": "The Invention of Buses",
+      "url": "https://worksinprogress.co/issue/the-invention-of-buses/",
+      "score": 5,
+      "comments": 0,
+      "author": "surprisetalk",
+      "tags": [],
+      "date": "2026-05-18T14:00:11+00:00"
+    },
+    {
       "id": "hn-48179732",
       "source": "hn",
       "title": "Project Glasswing: what Mythos showed us",
@@ -1307,10 +1340,10 @@
     {
       "id": "hn-48179531",
       "source": "hn",
-      "title": "RISC-V and Floating Point",
+      "title": "RISC-V and Floating-Point",
       "url": "https://fprox.substack.com/p/risc-v-and-floating-point",
-      "score": 12,
-      "comments": 3,
+      "score": 24,
+      "comments": 20,
       "author": "hasheddan",
       "tags": [],
       "date": "2026-05-18T13:24:40+00:00"
@@ -1320,7 +1353,7 @@
       "source": "hn",
       "title": "Simulated Evolution on the PICO-8",
       "url": "https://bumbershootsoft.wordpress.com/2026/05/16/simulated-evolution-on-the-pico-8/",
-      "score": 3,
+      "score": 16,
       "comments": 0,
       "author": "ibobev",
       "tags": [],
@@ -2012,8 +2045,8 @@
       "source": "hn",
       "title": "Nostalgic Kits Central (2024)",
       "url": "https://www.nostalgickitscentral.com/",
-      "score": 21,
-      "comments": 9,
+      "score": 24,
+      "comments": 12,
       "author": "cf100clunk",
       "tags": [],
       "date": "2026-05-17T17:14:25+00:00"
@@ -2092,8 +2125,8 @@
       "source": "hn",
       "title": "In 1979 engineer Hugh Padgham discovered \"gated reverb\" – by accident",
       "url": "https://producelikeapro.com/blog/how-one-recording-mistake-created-a-musical-phenomenon-in-the-80s/",
-      "score": 36,
-      "comments": 5,
+      "score": 53,
+      "comments": 17,
       "author": "bookofjoe",
       "tags": [],
       "date": "2026-05-17T16:00:48+00:00"
@@ -5170,41 +5203,6 @@
       "date": "2026-05-14T10:37:54+00:00"
     },
     {
-      "id": "hn-48133293",
-      "source": "hn",
-      "title": "High-Entropy Alloy",
-      "url": "https://en.wikipedia.org/wiki/High-entropy_alloy",
-      "score": 132,
-      "comments": 23,
-      "author": "leonidasrup",
-      "tags": [],
-      "date": "2026-05-14T10:08:04+00:00"
-    },
-    {
-      "id": "hn-48132488",
-      "source": "hn",
-      "title": "Rewrite Bun in Rust has been merged",
-      "url": "https://github.com/oven-sh/bun/pull/30412",
-      "score": 628,
-      "comments": 689,
-      "author": "Chaoses",
-      "tags": [],
-      "date": "2026-05-14T08:15:31+00:00"
-    },
-    {
-      "id": "qiita-4b8948457d",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "AI時代の新卒エンジニア採用、面接1時間で「書ける人」を見抜けますか？──履歴書と面接の間に「実務90分」を挟むという提案",
-      "url": "https://qiita.com/Ngen/items/9804ff498426ee385967?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "Ngen",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-05-14T16:38:08+09:00"
-    },
-    {
       "id": "ghrel-projectdiscovery_nuclei-310617486",
       "source": "project",
       "proj_category": "Tools",
@@ -5401,6 +5399,19 @@
       "date": "2023-05-23T17:06:23Z"
     },
     {
+      "id": "zenn-c9b0ccfbd8",
+      "source": "zennqiita",
+      "sub_source": "Zenn",
+      "title": "Local Coding Agent が身近なタスクをどれくらいこなせるのかを検証した",
+      "url": "https://zenn.dev/aishift/articles/5b048ff347fd7b",
+      "score": null,
+      "author": "t.toda",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Wed, 20 May 2026 00:26:49 GMT"
+    },
+    {
       "id": "zenn-ba696ad79f",
       "source": "zennqiita",
       "sub_source": "Zenn",
@@ -5492,6 +5503,19 @@
       "date": "Tue, 19 May 2026 02:50:05 GMT"
     },
     {
+      "id": "zenn-e57f3d9f93",
+      "source": "zennqiita",
+      "sub_source": "Zenn",
+      "title": "AIハーネスの心臓部 ── AIのAIによるAIのためのナレッジグラフ（連載Part 2）",
+      "url": "https://zenn.dev/aircloset/articles/f6c990989e60d4",
+      "score": null,
+      "author": "辻 亮佑",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Tue, 19 May 2026 00:19:49 GMT"
+    },
+    {
       "id": "zenn-6939a80a6d",
       "source": "zennqiita",
       "sub_source": "Zenn",
@@ -5503,6 +5527,19 @@
         "Zenn"
       ],
       "date": "Tue, 19 May 2026 00:15:05 GMT"
+    },
+    {
+      "id": "zenn-3c862eadce",
+      "source": "zennqiita",
+      "sub_source": "Zenn",
+      "title": "Ollamaがバージョンアップで大きく変わった模様: 人工知能深訪",
+      "url": "https://zenn.dev/dozo/articles/80393187f20a44",
+      "score": null,
+      "author": "dozo",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Mon, 18 May 2026 20:39:06 GMT"
     },
     {
       "id": "zenn-d4e61ef92b",
@@ -5544,19 +5581,6 @@
       "date": "Mon, 18 May 2026 13:47:18 GMT"
     },
     {
-      "id": "zenn-bc50639200",
-      "source": "zennqiita",
-      "sub_source": "Zenn",
-      "title": "「EC2って何？」レベルだった私を救ったAWS学習本・講座まとめ",
-      "url": "https://zenn.dev/collabostyle/articles/ddf499ba0d818a",
-      "score": null,
-      "author": "MESI",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Mon, 18 May 2026 09:41:01 GMT"
-    },
-    {
       "id": "zenn-fff92b080c",
       "source": "zennqiita",
       "sub_source": "Zenn",
@@ -5568,19 +5592,6 @@
         "Zenn"
       ],
       "date": "Mon, 18 May 2026 08:32:46 GMT"
-    },
-    {
-      "id": "zenn-97c673fc60",
-      "source": "zennqiita",
-      "sub_source": "Zenn",
-      "title": "検索機能 vs 推薦機能のカニバリゼーションに関する新考察",
-      "url": "https://zenn.dev/dmmdata/articles/1e2bc59c66f158",
-      "score": null,
-      "author": "usait0",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Mon, 18 May 2026 08:17:02 GMT"
     },
     {
       "id": "zenn-346a2ca727",
@@ -5609,6 +5620,19 @@
       "date": "Mon, 18 May 2026 01:08:21 GMT"
     },
     {
+      "id": "zenn-bc8cf2e7aa",
+      "source": "zennqiita",
+      "sub_source": "Zenn",
+      "title": "AppleヘルスケアをBigQueryに貯めて、MCP経由でスマホから分析してみた",
+      "url": "https://zenn.dev/jackojacko05/articles/58e0d632be419a",
+      "score": null,
+      "author": "じゃっこ",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Mon, 18 May 2026 00:18:00 GMT"
+    },
+    {
       "id": "zenn-45c9e4b9c3",
       "source": "zennqiita",
       "sub_source": "Zenn",
@@ -5633,32 +5657,6 @@
         "Zenn"
       ],
       "date": "Sun, 17 May 2026 14:50:17 GMT"
-    },
-    {
-      "id": "zenn-743cf4572e",
-      "source": "zennqiita",
-      "sub_source": "Zenn",
-      "title": "AI コーディングで secret を漏らさないための４層防御",
-      "url": "https://zenn.dev/takna/articles/secret-leak-prevention-4-layer",
-      "score": null,
-      "author": "ながたく",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Sun, 17 May 2026 09:40:25 GMT"
-    },
-    {
-      "id": "zenn-308ac26056",
-      "source": "zennqiita",
-      "sub_source": "Zenn",
-      "title": "XプレミアムプランでGrokとx_searchツールを使う",
-      "url": "https://zenn.dev/robustonian/articles/x_premium_grok_search",
-      "score": null,
-      "author": "金のニワトリ",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Sun, 17 May 2026 09:26:43 GMT"
     },
     {
       "id": "edb-c982232fa9",

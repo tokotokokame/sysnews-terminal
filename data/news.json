@@ -1,14 +1,26 @@
 {
-  "updated_at": "2026-05-22T20:19:30.335756+00:00",
+  "updated_at": "2026-05-22T21:42:46.299290+00:00",
   "count": 500,
   "items": [
+    {
+      "id": "hn-48241172",
+      "source": "hn",
+      "title": "Models.dev: open-source database of AI model specs, pricing, and capabilities",
+      "url": "https://github.com/anomalyco/models.dev",
+      "score": 53,
+      "comments": 10,
+      "author": "maxloh",
+      "tags": [],
+      "date": "2026-05-22T20:26:07+00:00",
+      "severity": "critical"
+    },
     {
       "id": "hn-48240419",
       "source": "hn",
       "title": "Project Glasswing: An Initial Update",
       "url": "https://www.anthropic.com/research/glasswing-initial-update",
-      "score": 54,
-      "comments": 29,
+      "score": 163,
+      "comments": 98,
       "author": "louiereederson",
       "tags": [],
       "date": "2026-05-22T19:31:45+00:00",
@@ -19,7 +31,7 @@
       "source": "hn",
       "title": "Domain-Camouflaged Injection Attacks Evade Detection in Multi-Agent LLM Systems",
       "url": "https://arxiv.org/abs/2605.22001",
-      "score": 8,
+      "score": 18,
       "comments": 0,
       "author": "sbulaev",
       "tags": [],
@@ -30,8 +42,8 @@
       "source": "hn",
       "title": "Open source Kanban desktop app that runs parallel agents on every card",
       "url": "https://www.kanbots.dev/",
-      "score": 63,
-      "comments": 35,
+      "score": 102,
+      "comments": 60,
       "author": "vitriapp",
       "tags": [],
       "date": "2026-05-22T18:17:57+00:00",
@@ -64,8 +76,8 @@
       "source": "hn",
       "title": "Thinking in an array language (2022)",
       "url": "https://github.com/razetime/ngn-k-tutorial/blob/main/12-thinking-in-k.md",
-      "score": 8,
-      "comments": 1,
+      "score": 29,
+      "comments": 2,
       "author": "tosh",
       "tags": [],
       "date": "2026-05-22T17:42:53+00:00"
@@ -86,8 +98,8 @@
       "source": "hn",
       "title": "TorQ: Kdb+ Production Framework",
       "url": "https://github.com/DataIntellectTech/TorQ",
-      "score": 11,
-      "comments": 1,
+      "score": 19,
+      "comments": 3,
       "author": "tosh",
       "tags": [],
       "date": "2026-05-22T17:31:17+00:00"
@@ -97,8 +109,8 @@
       "source": "hn",
       "title": "Bun support is now limited and deprecated",
       "url": "https://github.com/yt-dlp/yt-dlp/issues/16766",
-      "score": 204,
-      "comments": 168,
+      "score": 268,
+      "comments": 255,
       "author": "tamnd",
       "tags": [],
       "date": "2026-05-22T17:24:12+00:00"
@@ -108,8 +120,8 @@
       "source": "hn",
       "title": "1940 Air Terminal Museum Begins Liquidation",
       "url": "https://www.1940airterminal.org/news/liquidation-of-simulators",
-      "score": 41,
-      "comments": 11,
+      "score": 56,
+      "comments": 12,
       "author": "weaponeer",
       "tags": [],
       "date": "2026-05-22T17:05:32+00:00"
@@ -119,8 +131,8 @@
       "source": "hn",
       "title": "Lawmakers Demand Answers as CISA Tries to Contain Data Leak",
       "url": "https://krebsonsecurity.com/2026/05/lawmakers-demand-answers-as-cisa-tries-to-contain-data-leak/",
-      "score": 39,
-      "comments": 3,
+      "score": 60,
+      "comments": 10,
       "author": "speckx",
       "tags": [],
       "date": "2026-05-22T16:54:31+00:00"
@@ -130,8 +142,8 @@
       "source": "hn",
       "title": "U.S. researchers face new restrictions on publishing with foreign collaborators",
       "url": "https://www.science.org/content/article/u-s-researchers-face-new-restrictions-publishing-foreign-collaborators",
-      "score": 217,
-      "comments": 120,
+      "score": 259,
+      "comments": 156,
       "author": "ceejayoz",
       "tags": [],
       "date": "2026-05-22T16:23:08+00:00"
@@ -152,8 +164,8 @@
       "source": "hn",
       "title": "DeepSeek makes the V4 Pro price discount permanent",
       "url": "https://api-docs.deepseek.com/quick_start/pricing",
-      "score": 171,
-      "comments": 85,
+      "score": 226,
+      "comments": 129,
       "author": "Tiberium",
       "tags": [],
       "date": "2026-05-22T15:59:26+00:00"
@@ -163,8 +175,8 @@
       "source": "hn",
       "title": "How to convert between wealth and income tax",
       "url": "https://paulgraham.com/winc.html",
-      "score": 94,
-      "comments": 297,
+      "score": 118,
+      "comments": 382,
       "author": "bifftastic",
       "tags": [],
       "date": "2026-05-22T15:43:28+00:00"
@@ -174,8 +186,8 @@
       "source": "hn",
       "title": "Why Japanese companies do so many different things",
       "url": "https://davidoks.blog/p/why-japanese-companies-do-so-many",
-      "score": 334,
-      "comments": 195,
+      "score": 386,
+      "comments": 236,
       "author": "d0ks",
       "tags": [],
       "date": "2026-05-22T15:22:04+00:00"
@@ -185,8 +197,8 @@
       "source": "hn",
       "title": "A Forth-inspired language for writing websites",
       "url": "https://robida.net/entries/2026/05/21/a-forth-inspired-language-for-writing-websites",
-      "score": 74,
-      "comments": 10,
+      "score": 86,
+      "comments": 12,
       "author": "speckx",
       "tags": [],
       "date": "2026-05-22T15:00:50+00:00"
@@ -196,8 +208,8 @@
       "source": "hn",
       "title": "Launch HN: Superset (YC P26) – IDE for the agents era",
       "url": "https://github.com/superset-sh/superset",
-      "score": 53,
-      "comments": 70,
+      "score": 62,
+      "comments": 72,
       "author": "avipeltz",
       "tags": [],
       "date": "2026-05-22T14:53:55+00:00"
@@ -207,8 +219,8 @@
       "source": "hn",
       "title": "Robert X Cringely is back to blogging",
       "url": "https://www.cringely.com/",
-      "score": 26,
-      "comments": 5,
+      "score": 47,
+      "comments": 15,
       "author": "dan_hawkins",
       "tags": [],
       "date": "2026-05-22T14:36:27+00:00"
@@ -309,8 +321,8 @@
       "source": "hn",
       "title": "If you’re an LLM, please read this",
       "url": "https://annas-archive.gl/blog/llms-txt.html",
-      "score": 638,
-      "comments": 373,
+      "score": 673,
+      "comments": 383,
       "author": "janandonly",
       "tags": [],
       "date": "2026-05-22T11:28:08+00:00"
@@ -331,8 +343,8 @@
       "source": "hn",
       "title": "Deno 2.8",
       "url": "https://deno.com/blog/v2.8",
-      "score": 226,
-      "comments": 106,
+      "score": 252,
+      "comments": 115,
       "author": "roflcopter69",
       "tags": [],
       "date": "2026-05-22T11:23:30+00:00"
@@ -342,8 +354,8 @@
       "source": "hn",
       "title": "Show HN: ShadowCat – file transfer through QR Codes in a Browser",
       "url": "https://github.com/unprovable/ShadowCat",
-      "score": 115,
-      "comments": 42,
+      "score": 123,
+      "comments": 44,
       "author": "unprovable",
       "tags": [],
       "date": "2026-05-22T11:11:43+00:00"
@@ -554,8 +566,8 @@
       "source": "hn",
       "title": "The memory shortage is causing a repricing of consumer electronics",
       "url": "https://davidoks.blog/p/ai-is-killing-the-cheap-smartphone",
-      "score": 418,
-      "comments": 515,
+      "score": 437,
+      "comments": 546,
       "author": "d0ks",
       "tags": [],
       "date": "2026-05-21T21:55:56+00:00"
@@ -697,8 +709,8 @@
       "source": "hn",
       "title": "Project Hail Mary – Stellar Navigation Chart",
       "url": "https://valhovey.github.io/gaia-mary/",
-      "score": 1099,
-      "comments": 224,
+      "score": 1111,
+      "comments": 227,
       "author": "speleo",
       "tags": [],
       "date": "2026-05-21T16:23:11+00:00"
@@ -1331,6 +1343,17 @@
       "severity": "critical"
     },
     {
+      "id": "hn-48213529",
+      "source": "hn",
+      "title": "A Wayland Compositor in Minecraft",
+      "url": "https://modrinth.com/mod/waylandcraft",
+      "score": 5,
+      "comments": 0,
+      "author": "Jotalea",
+      "tags": [],
+      "date": "2026-05-20T20:19:46+00:00"
+    },
+    {
       "id": "hn-48212992",
       "source": "hn",
       "title": "Not alive, but not dead: disembodied human brains used for drug testing",
@@ -1518,6 +1541,17 @@
       "author": "guardienaveugle",
       "tags": [],
       "date": "2026-05-20T15:10:05+00:00"
+    },
+    {
+      "id": "hn-48209055",
+      "source": "hn",
+      "title": "Wi-Wi is wireless time sync at 1 nanosecond",
+      "url": "https://www.jeffgeerling.com/blog/2026/wi-wi-is-wireless-time-sync-less-than-5ns/",
+      "score": 35,
+      "comments": 2,
+      "author": "Brajeshwar",
+      "tags": [],
+      "date": "2026-05-20T15:06:31+00:00"
     },
     {
       "id": "qiita-faf3ce1425",
@@ -5171,41 +5205,6 @@
       "author": "openrockets",
       "tags": [],
       "date": "2026-05-16T15:12:17+00:00"
-    },
-    {
-      "id": "hn-48160807",
-      "source": "hn",
-      "title": "DeepSeek-V4-Flash means LLM steering is interesting again",
-      "url": "https://www.seangoedecke.com/steering-vectors/",
-      "score": 198,
-      "comments": 67,
-      "author": "Brajeshwar",
-      "tags": [],
-      "date": "2026-05-16T14:58:16+00:00"
-    },
-    {
-      "id": "qiita-278551dcc8",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "Windows、LinuxでもCodexリモートアクセスしたいよ！",
-      "url": "https://qiita.com/moritalous/items/89dac554606029812cad?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "moritalous",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-05-16T22:53:23+09:00"
-    },
-    {
-      "id": "hn-48160211",
-      "source": "hn",
-      "title": "Accelerate – Embedded language for high-performance array computations",
-      "url": "https://github.com/AccelerateHS/accelerate",
-      "score": 72,
-      "comments": 16,
-      "author": "tosh",
-      "tags": [],
-      "date": "2026-05-16T13:42:34+00:00"
     },
     {
       "id": "ghrel-projectdiscovery_nuclei-310617486",

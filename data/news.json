@@ -1,14 +1,61 @@
 {
-  "updated_at": "2026-05-23T00:13:07.318375+00:00",
+  "updated_at": "2026-05-23T04:24:30.294451+00:00",
   "count": 500,
   "items": [
+    {
+      "id": "hn-48244434",
+      "source": "hn",
+      "title": "Microsoft reports AI is more expensive than paying human employees",
+      "url": "https://fortune.com/2026/05/22/microsoft-ai-cost-problem-tokens-agents/",
+      "score": 32,
+      "comments": 6,
+      "author": "nreece",
+      "tags": [],
+      "date": "2026-05-23T03:44:16+00:00"
+    },
+    {
+      "id": "hn-48244220",
+      "source": "hn",
+      "title": "New rule requires most green-card applicants to apply from outside U.S.",
+      "url": "https://www.washingtonpost.com/immigration/2026/05/22/new-rule-requires-most-green-card-applicants-apply-outside-us/",
+      "score": 17,
+      "comments": 3,
+      "author": "michaelsbradley",
+      "tags": [],
+      "date": "2026-05-23T03:09:55+00:00"
+    },
+    {
+      "id": "hn-48243293",
+      "source": "hn",
+      "title": "FBI director's Based Apparel site has been spotted hosting a 'ClickFix' attack",
+      "url": "https://www.pcmag.com/news/kash-patels-apparel-site-is-trying-to-trick-visitors-into-installing-malware",
+      "score": 89,
+      "comments": 26,
+      "author": "bilalq",
+      "tags": [],
+      "date": "2026-05-23T00:34:25+00:00"
+    },
+    {
+      "id": "qiita-a76e141114",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "【緊急】GitHubが陥落した日 - VS Code拡張機能から始まった3,800リポジトリ流出事件の全貌",
+      "url": "https://qiita.com/emi_ndk/items/6f1ddbe26cf5c5200aa3?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "emi_ndk",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-05-23T09:28:45+09:00",
+      "severity": "critical"
+    },
     {
       "id": "hn-48242959",
       "source": "hn",
       "title": "SpaceX launches Starship v3 rocket",
       "url": "https://www.nbcnews.com/now/video/spacex-successfully-launches-prototype-of-starship-rocket-263835205505",
-      "score": 23,
-      "comments": 3,
+      "score": 207,
+      "comments": 108,
       "author": "busymom0",
       "tags": [],
       "date": "2026-05-22T23:41:55+00:00"
@@ -40,8 +87,8 @@
       "source": "hn",
       "title": "Sleep research led to a new sleep apnea drug",
       "url": "https://temertymedicine.utoronto.ca/news/how-decades-sleep-research-led-new-sleep-apnea-drug",
-      "score": 33,
-      "comments": 15,
+      "score": 99,
+      "comments": 64,
       "author": "colinprince",
       "tags": [],
       "date": "2026-05-22T22:05:39+00:00"
@@ -49,10 +96,10 @@
     {
       "id": "hn-48241997",
       "source": "hn",
-      "title": "Shipping a Laptop to a Refugee Camp in Uganda",
+      "title": "Shipping a laptop to a refugee camp in Uganda",
       "url": "https://notesbylex.com/shipping-a-laptop-to-a-refugee-camp-in-uganda",
-      "score": 122,
-      "comments": 12,
+      "score": 268,
+      "comments": 81,
       "author": "lexandstuff",
       "tags": [],
       "date": "2026-05-22T21:36:55+00:00"
@@ -85,20 +132,31 @@
       "source": "hn",
       "title": "Project Glasswing: An Initial Update",
       "url": "https://www.anthropic.com/research/glasswing-initial-update",
-      "score": 276,
-      "comments": 181,
+      "score": 357,
+      "comments": 223,
       "author": "louiereederson",
       "tags": [],
       "date": "2026-05-22T19:31:45+00:00",
       "severity": "medium"
     },
     {
+      "id": "hn-48240331",
+      "source": "hn",
+      "title": "Waymo expands pause to four cities as robotaxis keep driving into floods",
+      "url": "https://techcrunch.com/2026/05/21/waymo-pauses-service-in-four-cities-as-robotaxis-keep-driving-into-floods/",
+      "score": 35,
+      "comments": 1,
+      "author": "Vaslo",
+      "tags": [],
+      "date": "2026-05-22T19:25:35+00:00"
+    },
+    {
       "id": "hn-48239862",
       "source": "hn",
       "title": "A blueprint for formal verification of Apple corecrypto",
       "url": "https://security.apple.com/blog/formal-verification-corecrypto/",
-      "score": 42,
-      "comments": 1,
+      "score": 73,
+      "comments": 3,
       "author": "hasheddan",
       "tags": [],
       "date": "2026-05-22T18:52:17+00:00"
@@ -119,8 +177,8 @@
       "source": "hn",
       "title": "Open source Kanban desktop app that runs parallel agents on every card",
       "url": "https://www.kanbots.dev/",
-      "score": 151,
-      "comments": 89,
+      "score": 189,
+      "comments": 107,
       "author": "vitriapp",
       "tags": [],
       "date": "2026-05-22T18:17:57+00:00",
@@ -186,8 +244,8 @@
       "source": "hn",
       "title": "Bun support is now limited and deprecated",
       "url": "https://github.com/yt-dlp/yt-dlp/issues/16766",
-      "score": 337,
-      "comments": 341,
+      "score": 408,
+      "comments": 420,
       "author": "tamnd",
       "tags": [],
       "date": "2026-05-22T17:24:12+00:00"
@@ -197,8 +255,8 @@
       "source": "hn",
       "title": "1940 Air Terminal Museum Begins Liquidation",
       "url": "https://www.1940airterminal.org/news/liquidation-of-simulators",
-      "score": 76,
-      "comments": 25,
+      "score": 100,
+      "comments": 28,
       "author": "weaponeer",
       "tags": [],
       "date": "2026-05-22T17:05:32+00:00"
@@ -206,10 +264,10 @@
     {
       "id": "hn-48238429",
       "source": "hn",
-      "title": "Lawmakers Demand Answers as CISA Tries to Contain Data Leak",
+      "title": "CISA tries to contain data leak",
       "url": "https://krebsonsecurity.com/2026/05/lawmakers-demand-answers-as-cisa-tries-to-contain-data-leak/",
-      "score": 112,
-      "comments": 30,
+      "score": 156,
+      "comments": 44,
       "author": "speckx",
       "tags": [],
       "date": "2026-05-22T16:54:31+00:00"
@@ -263,8 +321,8 @@
       "source": "hn",
       "title": "Why Japanese companies do so many different things",
       "url": "https://davidoks.blog/p/why-japanese-companies-do-so-many",
-      "score": 450,
-      "comments": 265,
+      "score": 555,
+      "comments": 290,
       "author": "d0ks",
       "tags": [],
       "date": "2026-05-22T15:22:04+00:00"
@@ -274,8 +332,8 @@
       "source": "hn",
       "title": "A Forth-inspired language for writing websites",
       "url": "https://robida.net/entries/2026/05/21/a-forth-inspired-language-for-writing-websites",
-      "score": 96,
-      "comments": 13,
+      "score": 135,
+      "comments": 14,
       "author": "speckx",
       "tags": [],
       "date": "2026-05-22T15:00:50+00:00"
@@ -294,10 +352,10 @@
     {
       "id": "hn-48236501",
       "source": "hn",
-      "title": "I’m Writing Again",
+      "title": "I’m writing again",
       "url": "https://www.cringely.com/2026/05/21/im-writing-again/",
-      "score": 85,
-      "comments": 22,
+      "score": 114,
+      "comments": 31,
       "author": "dan_hawkins",
       "tags": [],
       "date": "2026-05-22T14:36:27+00:00"
@@ -420,8 +478,8 @@
       "source": "hn",
       "title": "Deno 2.8",
       "url": "https://deno.com/blog/v2.8",
-      "score": 294,
-      "comments": 131,
+      "score": 329,
+      "comments": 144,
       "author": "roflcopter69",
       "tags": [],
       "date": "2026-05-22T11:23:30+00:00"
@@ -1435,8 +1493,8 @@
       "source": "hn",
       "title": "A Wayland Compositor in Minecraft",
       "url": "https://modrinth.com/mod/waylandcraft",
-      "score": 96,
-      "comments": 19,
+      "score": 160,
+      "comments": 30,
       "author": "Jotalea",
       "tags": [],
       "date": "2026-05-20T20:19:46+00:00"
@@ -1635,8 +1693,8 @@
       "source": "hn",
       "title": "Wi-Wi is wireless time sync at 1 nanosecond",
       "url": "https://www.jeffgeerling.com/blog/2026/wi-wi-is-wireless-time-sync-less-than-5ns/",
-      "score": 72,
-      "comments": 10,
+      "score": 101,
+      "comments": 18,
       "author": "Brajeshwar",
       "tags": [],
       "date": "2026-05-20T15:06:31+00:00"
@@ -1710,6 +1768,17 @@
       "date": "2026-05-20T13:19:36+00:00"
     },
     {
+      "id": "hn-48207043",
+      "source": "hn",
+      "title": "Sp.h is the standard library that C deserves",
+      "url": "https://spader.zone/sp/",
+      "score": 11,
+      "comments": 5,
+      "author": "dboon",
+      "tags": [],
+      "date": "2026-05-20T13:05:46+00:00"
+    },
+    {
       "id": "hn-48207004",
       "source": "hn",
       "title": "Goodbye Visa and Mastercard: 130M Europeans switching to sovereign payment",
@@ -1730,6 +1799,17 @@
       "author": "giuliomagnifico",
       "tags": [],
       "date": "2026-05-20T12:43:41+00:00"
+    },
+    {
+      "id": "hn-48206763",
+      "source": "hn",
+      "title": "Neutron scattering explains why gluten-free pasta falls apart (2025)",
+      "url": "https://phys.org/news/2025-09-science-spaghetti-neutron-gluten-free.html",
+      "score": 27,
+      "comments": 6,
+      "author": "layer8",
+      "tags": [],
+      "date": "2026-05-20T12:42:46+00:00"
     },
     {
       "id": "hn-48206640",
@@ -1758,8 +1838,8 @@
       "source": "hn",
       "title": "Comparing an LZ4 Decompressor on Four Legacy CPUs",
       "url": "https://bumbershootsoft.wordpress.com/2026/05/09/comparing-an-lz4-decompressor-on-four-legacy-cpus/",
-      "score": 15,
-      "comments": 0,
+      "score": 43,
+      "comments": 1,
       "author": "tosh",
       "tags": [],
       "date": "2026-05-20T11:58:24+00:00"
@@ -1774,20 +1854,6 @@
       "author": "iancmceachern",
       "tags": [],
       "date": "2026-05-20T11:51:32+00:00"
-    },
-    {
-      "id": "qiita-a76e141114",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "【緊急】GitHubが陥落した日 - VS Code拡張機能から始まった3,800リポジトリ流出事件の全貌",
-      "url": "https://qiita.com/emi_ndk/items/6f1ddbe26cf5c5200aa3?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "emi_ndk",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-05-20T20:18:57+09:00",
-      "severity": "critical"
     },
     {
       "id": "hn-48205782",
@@ -1836,6 +1902,17 @@
       "date": "2026-05-20T19:22:17+09:00"
     },
     {
+      "id": "hn-48205495",
+      "source": "hn",
+      "title": "\"Stick\" – A primitive/fun interactive demo of a tiny rig to animate layout",
+      "url": "https://cosmiciron.github.io/layoutmaster/exclusion-assembly.html",
+      "score": 16,
+      "comments": 1,
+      "author": "zhxiaoliang",
+      "tags": [],
+      "date": "2026-05-20T10:17:16+00:00"
+    },
+    {
       "id": "hn-48205415",
       "source": "hn",
       "title": "Learnings from 100K lines of Rust with AI (2025)",
@@ -1858,6 +1935,17 @@
         "Qiita"
       ],
       "date": "2026-05-20T18:57:08+09:00"
+    },
+    {
+      "id": "hn-48204985",
+      "source": "hn",
+      "title": "Blood Pumping Mechanism of the Hoof",
+      "url": "https://horses.extension.org/blood-pumping-mechanism-of-the-hoof/",
+      "score": 48,
+      "comments": 3,
+      "author": "thunderbong",
+      "tags": [],
+      "date": "2026-05-20T09:03:44+00:00"
     },
     {
       "id": "hn-48204770",
@@ -5115,94 +5203,6 @@
       "author": "benbreen",
       "tags": [],
       "date": "2026-05-16T21:25:07+00:00"
-    },
-    {
-      "id": "hn-48163392",
-      "source": "hn",
-      "title": "OpenAI and Government of Malta partner to roll out ChatGPT Plus to all citizens",
-      "url": "https://openai.com/index/malta-chatgpt-plus-partnership/",
-      "score": 275,
-      "comments": 303,
-      "author": "bookofjoe",
-      "tags": [],
-      "date": "2026-05-16T20:14:06+00:00"
-    },
-    {
-      "id": "hn-48163389",
-      "source": "hn",
-      "title": "The Quiet Renovation at Bitwarden",
-      "url": "https://blog.ppb1701.com/the-quiet-renovation-at-bitwarden",
-      "score": 588,
-      "comments": 262,
-      "author": "DaSHacka",
-      "tags": [],
-      "date": "2026-05-16T20:13:41+00:00"
-    },
-    {
-      "id": "hn-48162922",
-      "source": "hn",
-      "title": "Why is Charlie Stross's site named Antipope?",
-      "url": "https://www.antipope.org/charlie/old/antipope.html",
-      "score": 27,
-      "comments": 5,
-      "author": "turadg",
-      "tags": [],
-      "date": "2026-05-16T19:15:40+00:00"
-    },
-    {
-      "id": "hn-48162882",
-      "source": "hn",
-      "title": "Japan’s robot wolf sells out as record bear attacks drive demand",
-      "url": "https://www.independent.co.uk/asia/japan/japan-robot-wolf-bear-attacks-ohta-seiki-b2975670.html",
-      "score": 76,
-      "comments": 39,
-      "author": "bookofjoe",
-      "tags": [],
-      "date": "2026-05-16T19:10:38+00:00"
-    },
-    {
-      "id": "hn-48162876",
-      "source": "hn",
-      "title": "The Fil-C Optimized Calling Convention",
-      "url": "https://fil-c.org/calling_convention",
-      "score": 101,
-      "comments": 17,
-      "author": "pizlonator",
-      "tags": [],
-      "date": "2026-05-16T19:10:08+00:00"
-    },
-    {
-      "id": "hn-48162468",
-      "source": "hn",
-      "title": "Halt and Catch Fire",
-      "url": "https://unstack.io/halt-and-catch-fire",
-      "score": 146,
-      "comments": 80,
-      "author": "ScottWRobinson",
-      "tags": [],
-      "date": "2026-05-16T18:16:29+00:00"
-    },
-    {
-      "id": "hn-48162379",
-      "source": "hn",
-      "title": "I 3D Printed Origami [video]",
-      "url": "https://www.youtube.com/watch?v=FNVBK7-h9Fs",
-      "score": 38,
-      "comments": 6,
-      "author": "Teever",
-      "tags": [],
-      "date": "2026-05-16T18:02:56+00:00"
-    },
-    {
-      "id": "hn-48162157",
-      "source": "hn",
-      "title": "What Is Date:Italy?",
-      "url": "http://aesthetikx.info/blog/date_italy.html",
-      "score": 122,
-      "comments": 51,
-      "author": "jollyjerry",
-      "tags": [],
-      "date": "2026-05-16T17:31:35+00:00"
     },
     {
       "id": "ghrel-projectdiscovery_nuclei-310617486",

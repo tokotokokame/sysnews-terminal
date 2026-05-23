@@ -1,25 +1,83 @@
 {
-  "updated_at": "2026-05-23T13:57:46.195545+00:00",
+  "updated_at": "2026-05-23T16:31:29.892000+00:00",
   "count": 500,
   "items": [
+    {
+      "id": "hn-48248238",
+      "source": "hn",
+      "title": "Lisp in Vim (2019)",
+      "url": "https://susam.net/lisp-in-vim.html",
+      "score": 14,
+      "comments": 3,
+      "author": "whent",
+      "tags": [],
+      "date": "2026-05-23T14:55:59+00:00"
+    },
+    {
+      "id": "qiita-4ae91284aa",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "VS Code - z/OS連携 (2)基本構成",
+      "url": "https://qiita.com/tomotagwork/items/063efb533f15d362a206?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "tomotagwork",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-05-23T23:47:58+09:00"
+    },
+    {
+      "id": "hn-48248014",
+      "source": "hn",
+      "title": "z386: An Open-Source 80386 Built Around Original Microcode",
+      "url": "https://nand2mario.github.io/posts/2026/z386/",
+      "score": 35,
+      "comments": 7,
+      "author": "wicket",
+      "tags": [],
+      "date": "2026-05-23T14:25:30+00:00",
+      "severity": "critical"
+    },
+    {
+      "id": "hn-48247876",
+      "source": "hn",
+      "title": "Oura says it gets government demands for user data",
+      "url": "https://this.weekinsecurity.com/oura-says-it-gets-government-demands-for-user-data-will-it-share-how-many/",
+      "score": 84,
+      "comments": 46,
+      "author": "donohoe",
+      "tags": [],
+      "date": "2026-05-23T14:09:57+00:00"
+    },
     {
       "id": "hn-48247325",
       "source": "hn",
       "title": "On The <dl>",
       "url": "https://benmyers.dev/blog/on-the-dl/",
-      "score": 26,
-      "comments": 6,
+      "score": 169,
+      "comments": 54,
       "author": "ravenical",
       "tags": [],
       "date": "2026-05-23T13:03:43+00:00"
+    },
+    {
+      "id": "hn-48247208",
+      "source": "hn",
+      "title": "The Art of Money Getting",
+      "url": "https://kk.org/cooltools/book-freak-210-the-art-of-money-getting/",
+      "score": 37,
+      "comments": 12,
+      "author": "dxs",
+      "tags": [],
+      "date": "2026-05-23T12:48:02+00:00"
     },
     {
       "id": "hn-48247127",
       "source": "hn",
       "title": "I Miss Terry Pratchett",
       "url": "https://www.mahl.me/blog/the-spell-that-wouldnt-leave/",
-      "score": 125,
-      "comments": 60,
+      "score": 207,
+      "comments": 180,
       "author": "gorgmah",
       "tags": [],
       "date": "2026-05-23T12:35:28+00:00"
@@ -29,8 +87,8 @@
       "source": "hn",
       "title": "80386 Microcode Disassembled",
       "url": "https://www.reenigne.org/blog/80386-microcode-disassembled/",
-      "score": 72,
-      "comments": 14,
+      "score": 136,
+      "comments": 22,
       "author": "nand2mario",
       "tags": [],
       "date": "2026-05-23T12:11:43+00:00"
@@ -51,8 +109,8 @@
       "source": "hn",
       "title": "Making Deep Learning Go Brrrr from First Principles",
       "url": "https://horace.io/brrr_intro.html",
-      "score": 35,
-      "comments": 14,
+      "score": 82,
+      "comments": 31,
       "author": "tosh",
       "tags": [],
       "date": "2026-05-23T11:50:22+00:00"
@@ -73,8 +131,8 @@
       "source": "hn",
       "title": "US tech firms share Dutch regulator officials' names with Senate",
       "url": "https://www.dutchnews.nl/2026/05/us-tech-firms-share-dutch-regulator-officials-names-with-senate/",
-      "score": 114,
-      "comments": 78,
+      "score": 165,
+      "comments": 116,
       "author": "zqna",
       "tags": [],
       "date": "2026-05-23T10:57:14+00:00"
@@ -93,12 +151,23 @@
       "date": "2026-05-23T18:47:21+09:00"
     },
     {
+      "id": "hn-48246232",
+      "source": "hn",
+      "title": "- -dangerously-skip-reading-code",
+      "url": "https://olano.dev/blog/dangerously-skip/",
+      "score": 26,
+      "comments": 22,
+      "author": "fagnerbrack",
+      "tags": [],
+      "date": "2026-05-23T09:37:16+00:00"
+    },
+    {
       "id": "hn-48245862",
       "source": "hn",
       "title": "BambuStudio has been violating PrusaSlicer AGPL license since their fork",
       "url": "https://xcancel.com/josefprusa/status/2054602354851254330",
-      "score": 201,
-      "comments": 65,
+      "score": 310,
+      "comments": 110,
       "author": "Tomte",
       "tags": [],
       "date": "2026-05-23T08:24:57+00:00"
@@ -130,8 +199,8 @@
       "source": "hn",
       "title": "Rubish: A Unix shell written in pure Ruby",
       "url": "https://github.com/amatsuda/rubish",
-      "score": 90,
-      "comments": 51,
+      "score": 121,
+      "comments": 77,
       "author": "winebarrel",
       "tags": [],
       "date": "2026-05-23T06:32:00+00:00"
@@ -271,8 +340,8 @@
       "source": "hn",
       "title": "Shipping a laptop to a refugee camp in Uganda",
       "url": "https://notesbylex.com/shipping-a-laptop-to-a-refugee-camp-in-uganda",
-      "score": 559,
-      "comments": 198,
+      "score": 604,
+      "comments": 209,
       "author": "lexandstuff",
       "tags": [],
       "date": "2026-05-22T21:36:55+00:00"
@@ -305,8 +374,8 @@
       "source": "hn",
       "title": "Project Glasswing: An Initial Update",
       "url": "https://www.anthropic.com/research/glasswing-initial-update",
-      "score": 469,
-      "comments": 282,
+      "score": 486,
+      "comments": 291,
       "author": "louiereederson",
       "tags": [],
       "date": "2026-05-22T19:31:45+00:00",
@@ -408,8 +477,8 @@
       "source": "hn",
       "title": "Microsoft starts canceling Claude Code licenses",
       "url": "https://www.theverge.com/tech/930447/microsoft-claude-code-discontinued-notepad",
-      "score": 345,
-      "comments": 308,
+      "score": 398,
+      "comments": 378,
       "author": "robertkarl",
       "tags": [],
       "date": "2026-05-22T17:32:04+00:00"
@@ -507,8 +576,8 @@
       "source": "hn",
       "title": "Why Japanese companies do so many different things",
       "url": "https://davidoks.blog/p/why-japanese-companies-do-so-many",
-      "score": 752,
-      "comments": 348,
+      "score": 783,
+      "comments": 374,
       "author": "d0ks",
       "tags": [],
       "date": "2026-05-22T15:22:04+00:00"
@@ -730,19 +799,6 @@
       "author": "ingve",
       "tags": [],
       "date": "2026-05-22T11:06:52+00:00"
-    },
-    {
-      "id": "qiita-4ae91284aa",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "VS Code - z/OS連携 (2)基本構成",
-      "url": "https://qiita.com/tomotagwork/items/063efb533f15d362a206?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "tomotagwork",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-05-22T19:46:50+09:00"
     },
     {
       "id": "hn-48234128",
@@ -1240,6 +1296,17 @@
       "author": "ssiddharth",
       "tags": [],
       "date": "2026-05-21T13:50:59+00:00"
+    },
+    {
+      "id": "hn-48222492",
+      "source": "hn",
+      "title": "Highest Random Weight in Elixir",
+      "url": "https://jola.dev/posts/highest-random-weight-in-elixir",
+      "score": 25,
+      "comments": 0,
+      "author": "shintoist",
+      "tags": [],
+      "date": "2026-05-21T13:48:29+00:00"
     },
     {
       "id": "hn-48222383",
@@ -1904,8 +1971,8 @@
       "source": "hn",
       "title": "ArcBrush – Node-based 2D image editor",
       "url": "https://arcbrush.com/",
-      "score": 39,
-      "comments": 10,
+      "score": 54,
+      "comments": 15,
       "author": "NatKarmios",
       "tags": [],
       "date": "2026-05-20T16:11:15+00:00"
@@ -2095,8 +2162,8 @@
       "source": "hn",
       "title": "Yeunjoo Choi from Igalia on Chromium",
       "url": "https://theconsensus.dev/p/2026/05/20/yeunjoo-choi-from-igalia-on-chromium.html",
-      "score": 41,
-      "comments": 9,
+      "score": 49,
+      "comments": 11,
       "author": "eatonphil",
       "tags": [],
       "date": "2026-05-20T12:49:20+00:00"
@@ -2139,8 +2206,8 @@
       "source": "hn",
       "title": "The quadratic sandwich",
       "url": "https://fedemagnani.github.io/math/2026/04/08/the-quadratic-sandwich.html",
-      "score": 89,
-      "comments": 6,
+      "score": 103,
+      "comments": 8,
       "author": "cpp_frog",
       "tags": [],
       "date": "2026-05-20T12:06:56+00:00"
@@ -2633,6 +2700,17 @@
       "date": "2026-05-19T22:30:31+00:00"
     },
     {
+      "id": "hn-48199314",
+      "source": "hn",
+      "title": "PHP's Oddities",
+      "url": "https://flowtwo.io/post/php%27s-oddities",
+      "score": 19,
+      "comments": 16,
+      "author": "thejoeflow",
+      "tags": [],
+      "date": "2026-05-19T20:41:48+00:00"
+    },
+    {
       "id": "hn-48199011",
       "source": "hn",
       "title": "What Is Happening to Publishing?",
@@ -2646,10 +2724,10 @@
     {
       "id": "hn-48198615",
       "source": "hn",
-      "title": "Solving the \"Zork\" Mystery",
+      "title": "Solving the “Zork” Mystery",
       "url": "https://www.dpolakovic.space/blogs/zork-part2",
-      "score": 5,
-      "comments": 2,
+      "score": 29,
+      "comments": 12,
       "author": "dpola",
       "tags": [],
       "date": "2026-05-19T19:56:58+00:00"
@@ -2825,7 +2903,7 @@
       "source": "hn",
       "title": "A 1955 Los Alamos computer experiment changed our understanding of chaos",
       "url": "https://www.lanl.gov/media/publications/1663/science-of-unpredictability",
-      "score": 17,
+      "score": 31,
       "comments": 3,
       "author": "LAsteNERD",
       "tags": [],
@@ -5121,91 +5199,6 @@
       "tags": [],
       "date": "2026-05-17T11:18:44+00:00",
       "severity": "medium"
-    },
-    {
-      "id": "hn-48167823",
-      "source": "hn",
-      "title": "Klaxon a livr earthquake map with no back end",
-      "url": "https://klaxon.live/",
-      "score": 4,
-      "comments": 0,
-      "author": "Accher",
-      "tags": [],
-      "date": "2026-05-17T11:06:08+00:00"
-    },
-    {
-      "id": "qiita-df0c13f59b",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "国会図書館のOCRにWebUIを追加した - NDLOCR-Lite × Docker × React × FastAPI",
-      "url": "https://qiita.com/ohtsuka-shota/items/08612360548876be08b7?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "ohtsuka-shota",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-05-17T19:24:21+09:00"
-    },
-    {
-      "id": "qiita-66528e04c6",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "国会図書館OCRにAI補正機能を追加した - NDLOCR-Lite × AWS Bedrock",
-      "url": "https://qiita.com/ohtsuka-shota/items/7f8747293cfa36c82456?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "ohtsuka-shota",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-05-17T18:31:25+09:00"
-    },
-    {
-      "id": "qiita-a76247596e",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "AtCoder入青しました",
-      "url": "https://qiita.com/tehom_math/items/2c2d0b919376d8c10650?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "tehom_math",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-05-17T18:29:38+09:00"
-    },
-    {
-      "id": "hn-48167187",
-      "source": "hn",
-      "title": "When can the C++ compiler devirtualize a call?",
-      "url": "https://quuxplusone.github.io/blog/2021/02/15/devirtualization/",
-      "score": 55,
-      "comments": 23,
-      "author": "lionkor",
-      "tags": [],
-      "date": "2026-05-17T08:58:31+00:00"
-    },
-    {
-      "id": "hn-48167177",
-      "source": "hn",
-      "title": "Porting my 3D points renderer on a ZX Spectrum 48K",
-      "url": "https://github.com/ttsiodras/3D-on-a-ZX-Spectrum-48K/",
-      "score": 64,
-      "comments": 9,
-      "author": "ttsiodras",
-      "tags": [],
-      "date": "2026-05-17T08:55:28+00:00"
-    },
-    {
-      "id": "qiita-f3385e9af9",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "国会図書館のOCRをWebサービス化してみた - NDLOCR-Lite × Docker × FastAPI",
-      "url": "https://qiita.com/ohtsuka-shota/items/b4ab80e6bc9f12549cad?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "ohtsuka-shota",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-05-17T17:31:46+09:00"
     },
     {
       "id": "ghrel-projectdiscovery_nuclei-310617486",

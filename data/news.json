@@ -1,14 +1,103 @@
 {
-  "updated_at": "2026-05-25T12:49:23.202412+00:00",
+  "updated_at": "2026-05-25T15:50:22.329764+00:00",
   "count": 500,
   "items": [
+    {
+      "id": "hn-48267829",
+      "source": "hn",
+      "title": "Launch HN: Chert (YC P26) – Twilio for iMessage",
+      "url": "https://www.trychert.com",
+      "score": 6,
+      "comments": 10,
+      "author": "garygao",
+      "tags": [],
+      "date": "2026-05-25T15:12:33+00:00"
+    },
+    {
+      "id": "hn-48267324",
+      "source": "hn",
+      "title": "Hive (YC S14) is hiring sr back-end developers (CA/US remote OK)",
+      "url": "https://jobs.ashbyhq.com/hive.co/538c47f9-d008-49b7-b0d4-583d9294a481",
+      "score": 1,
+      "comments": 0,
+      "author": "patman_h",
+      "tags": [],
+      "date": "2026-05-25T14:32:47+00:00"
+    },
+    {
+      "id": "hn-48267126",
+      "source": "hn",
+      "title": "C extensions, portability, and alternative compilers",
+      "url": "https://lemon.rip/w/6-c-extensions-compilers/",
+      "score": 36,
+      "comments": 3,
+      "author": "xngbuilds",
+      "tags": [],
+      "date": "2026-05-25T14:15:19+00:00"
+    },
+    {
+      "id": "hn-48266906",
+      "source": "hn",
+      "title": "Netherlands Seizes 800 Servers, Arrests 2 for Aiding Cyberattacks",
+      "url": "https://krebsonsecurity.com/2026/05/netherlands-seizes-800-servers-arrests-2-for-aiding-cyberattacks/",
+      "score": 94,
+      "comments": 9,
+      "author": "jruohonen",
+      "tags": [],
+      "date": "2026-05-25T13:56:39+00:00"
+    },
+    {
+      "id": "hn-48266895",
+      "source": "hn",
+      "title": "2026 HIPAA Security Rule Update",
+      "url": "https://medcurity.com/hipaa-security-rule-2026-update/",
+      "score": 43,
+      "comments": 30,
+      "author": "mooreds",
+      "tags": [],
+      "date": "2026-05-25T13:55:28+00:00",
+      "severity": "medium"
+    },
+    {
+      "id": "hn-48266485",
+      "source": "hn",
+      "title": "Pope Leo XIV says AI must serve humanity, not the powerful few",
+      "url": "https://religionnews.com/2026/05/25/in-his-first-encyclical-pope-leo-xiv-says-ai-must-serve-humanity-not-the-powerful-few/",
+      "score": 237,
+      "comments": 99,
+      "author": "benwerd",
+      "tags": [],
+      "date": "2026-05-25T13:17:58+00:00"
+    },
+    {
+      "id": "hn-48266435",
+      "source": "hn",
+      "title": "Pope Leo: opaque AI run by few firms risks \"New Forms of Dehumanization\"",
+      "url": "https://variety.com/2026/biz/global/pope-leo-ai-encyclical-algorithms-threaten-dehumanisation-1236758186/",
+      "score": 101,
+      "comments": 8,
+      "author": "embedding-shape",
+      "tags": [],
+      "date": "2026-05-25T13:12:40+00:00"
+    },
+    {
+      "id": "hn-48266422",
+      "source": "hn",
+      "title": "Microsoft pulls plug on plans for 244-acre data center in Caledonia",
+      "url": "https://www.tmj4.com/news/racine-county/microsoft-pulls-plug-on-plans-for-244-acre-data-center-in-caledonia-after-community-pushback",
+      "score": 48,
+      "comments": 23,
+      "author": "cdrnsf",
+      "tags": [],
+      "date": "2026-05-25T13:09:53+00:00"
+    },
     {
       "id": "hn-48266051",
       "source": "hn",
       "title": "Search engines alternatives now that Google isn't Google anymore",
       "url": "https://techcrunch.com/2026/05/21/six-search-engines-worth-trying-now-that-google-isnt-really-google-anymore/",
-      "score": 27,
-      "comments": 10,
+      "score": 427,
+      "comments": 364,
       "author": "elorant",
       "tags": [],
       "date": "2026-05-25T12:27:11+00:00"
@@ -18,8 +107,8 @@
       "source": "hn",
       "title": "Leave Me Behind",
       "url": "http://androidessence.com/leave-me-behind/",
-      "score": 8,
-      "comments": 0,
+      "score": 185,
+      "comments": 137,
       "author": "mooreds",
       "tags": [],
       "date": "2026-05-25T12:03:54+00:00"
@@ -40,8 +129,8 @@
       "source": "hn",
       "title": "Magnifica Humanitas (Encyclical Letter)",
       "url": "https://www.vatican.va/content/leo-xiv/en/encyclicals/documents/20260515-magnifica-humanitas.html",
-      "score": 230,
-      "comments": 64,
+      "score": 479,
+      "comments": 193,
       "author": "theletterf",
       "tags": [],
       "date": "2026-05-25T10:11:29+00:00"
@@ -51,8 +140,8 @@
       "source": "hn",
       "title": "IBM Spins Off the First Pure-Play Quantum Chip Foundry",
       "url": "https://futurumgroup.com/insights/2-billion-chips-act-investment-in-quantum-bets-on-ibms-300mm-superconducting-silicon/",
-      "score": 32,
-      "comments": 4,
+      "score": 71,
+      "comments": 20,
       "author": "rbanffy",
       "tags": [],
       "date": "2026-05-25T09:43:03+00:00"
@@ -73,8 +162,8 @@
       "source": "hn",
       "title": "Show HN: Geomatic – a command-driven geometry studio enabled with autodiff",
       "url": "https://www.tinyvolt.com/geomatic",
-      "score": 33,
-      "comments": 9,
+      "score": 44,
+      "comments": 11,
       "author": "nivter",
       "tags": [],
       "date": "2026-05-25T08:25:00+00:00"
@@ -306,8 +395,8 @@
       "source": "hn",
       "title": "Migrating from Go to Rust",
       "url": "https://corrode.dev/learn/migration-guides/go-to-rust/",
-      "score": 323,
-      "comments": 322,
+      "score": 378,
+      "comments": 372,
       "author": "jabits",
       "tags": [],
       "date": "2026-05-24T18:31:42+00:00"
@@ -416,8 +505,8 @@
       "source": "hn",
       "title": "Show HN: Audiomass – a free, open-source multitrack audio editor for the web",
       "url": "https://audiomass.co/?multitrack=1",
-      "score": 412,
-      "comments": 88,
+      "score": 446,
+      "comments": 97,
       "author": "pantelisk",
       "tags": [],
       "date": "2026-05-24T15:25:43+00:00",
@@ -461,8 +550,8 @@
       "source": "hn",
       "title": "DeepSeek reasonix, DeepSeek native coding agent with high caching and low cost",
       "url": "https://esengine.github.io/DeepSeek-Reasonix/",
-      "score": 601,
-      "comments": 252,
+      "score": 626,
+      "comments": 259,
       "author": "Alifatisk",
       "tags": [],
       "date": "2026-05-24T13:02:06+00:00"
@@ -1247,8 +1336,8 @@
       "source": "hn",
       "title": "White Rabbit – sub-nanosecond synchronization for large distributed systems",
       "url": "https://ohwr.org/projects/white-rabbit/",
-      "score": 129,
-      "comments": 28,
+      "score": 150,
+      "comments": 34,
       "author": "michaelsbradley",
       "tags": [],
       "date": "2026-05-23T08:38:44+00:00"
@@ -1403,8 +1492,8 @@
       "source": "hn",
       "title": "Didgeridoo playing as alternative treatment for obstructive sleep apnoea (2006)",
       "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC1360393/",
-      "score": 178,
-      "comments": 77,
+      "score": 228,
+      "comments": 112,
       "author": "kelseyfrog",
       "tags": [],
       "date": "2026-05-23T01:37:02+00:00"
@@ -1822,8 +1911,8 @@
       "source": "hn",
       "title": "AI errno(2) values",
       "url": "https://www.netmeister.org/blog/ai-errno.html",
-      "score": 26,
-      "comments": 5,
+      "score": 65,
+      "comments": 14,
       "author": "zdw",
       "tags": [],
       "date": "2026-05-22T14:56:57+00:00"
@@ -1892,8 +1981,8 @@
       "source": "hn",
       "title": "Bytecode VMs in surprising places (2024)",
       "url": "https://dubroy.com/blog/bytecode-vms-in-surprising-places/",
-      "score": 48,
-      "comments": 19,
+      "score": 85,
+      "comments": 28,
       "author": "azhenley",
       "tags": [],
       "date": "2026-05-22T14:12:08+00:00"
@@ -2455,6 +2544,17 @@
       "date": "2026-05-22T02:35:54+00:00"
     },
     {
+      "id": "hn-48231247",
+      "source": "hn",
+      "title": "Gnutella: A Protocol Outliving the World That Created It",
+      "url": "https://rickcarlino.com/notes/p2p/gnutella-explanation.html",
+      "score": 45,
+      "comments": 7,
+      "author": "rickcarlino",
+      "tags": [],
+      "date": "2026-05-22T02:24:48+00:00"
+    },
+    {
       "id": "hn-48230892",
       "source": "hn",
       "title": "Samsung chip workers will get an average $340k bonus as AI profits soar",
@@ -2727,8 +2827,8 @@
       "source": "hn",
       "title": "I spent 50 hours drawing a line graph",
       "url": "https://www.dougmacdowell.com/50-hours-to-draw-some-lines.html",
-      "score": 571,
-      "comments": 96,
+      "score": 602,
+      "comments": 95,
       "author": "dougdude3339",
       "tags": [],
       "date": "2026-05-21T15:05:28+00:00"
@@ -3038,6 +3138,17 @@
         "Qiita"
       ],
       "date": "2026-05-21T17:26:02+09:00"
+    },
+    {
+      "id": "hn-48219373",
+      "source": "hn",
+      "title": "The physicists who convinced Fermilab to send Brazil's emails",
+      "url": "https://buttondown.com/blog/brazil-fermilab-email",
+      "score": 23,
+      "comments": 8,
+      "author": "maguay",
+      "tags": [],
+      "date": "2026-05-21T08:06:45+00:00"
     },
     {
       "id": "hn-48219340",
@@ -4003,7 +4114,7 @@
       "source": "hn",
       "title": "Notes about reading messages with the Python email packages",
       "url": "https://utcc.utoronto.ca/~cks/space/blog/python/EmailPackagesNotes",
-      "score": 27,
+      "score": 38,
       "comments": 1,
       "author": "ankitg12",
       "tags": [],
@@ -5097,131 +5208,6 @@
         "Qiita"
       ],
       "date": "2026-05-19T11:40:42+09:00"
-    },
-    {
-      "id": "qiita-a882b27777",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "大規模レガシーコードの「多段条件分岐フラグ」を読み解く：初期値・蓄積・強制上書きの3段階で捉える調査手法",
-      "url": "https://qiita.com/kono-t/items/4fd08f37fe61c1feaea2?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "kono-t",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-05-19T11:40:31+09:00"
-    },
-    {
-      "id": "qiita-229724a4b7",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "AIを検索ツールで終わらせない：Javaコード解析スラッシュコマンド化で学んだ5つのTIPS",
-      "url": "https://qiita.com/inaba-yoshiko/items/5291d59af79fb91ff456?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "inaba-yoshiko",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-05-19T11:39:34+09:00"
-    },
-    {
-      "id": "qiita-b3575432e5",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "2年放置ブランチをマージするのに、Git の機能より過去の障害票が効いた話",
-      "url": "https://qiita.com/hoshi-gmoconnect/items/8733e2f2fa1931cba2d1?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "hoshi-gmoconnect",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-05-19T11:38:56+09:00"
-    },
-    {
-      "id": "qiita-c6f3ddf783",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "Jira Cloudのタイムラインに「休日」を",
-      "url": "https://qiita.com/gmo-connect-ogawa/items/9423c08de5937f58a82f?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "gmo-connect-ogawa",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-05-19T11:33:58+09:00"
-    },
-    {
-      "id": "hn-48188506",
-      "source": "hn",
-      "title": "War game exposed U.S. vulnerability to low-tech warfare",
-      "url": "https://nsarchive.gwu.edu/news/2024-11-01/rigged-war-game-exposed-us-vulnerability-low-tech-warfare",
-      "score": 19,
-      "comments": 10,
-      "author": "KnuthIsGod",
-      "tags": [],
-      "date": "2026-05-19T02:25:29+00:00",
-      "severity": "high"
-    },
-    {
-      "id": "qiita-94baf45d03",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "Java/JavaScript間に跨るロジック変更をAIで一括解析：端数処理の不整合を防ぐ差分レビュー術",
-      "url": "https://qiita.com/gmo-co-kitaura/items/5005b12b318a09b7d75d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "gmo-co-kitaura",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-05-19T11:20:29+09:00"
-    },
-    {
-      "id": "hn-48188302",
-      "source": "hn",
-      "title": "New features in GCC 16: Improved error messages and SARIF output",
-      "url": "https://developers.redhat.com/articles/2026/04/28/gcc-16-improved-error-messages-sarif-output",
-      "score": 99,
-      "comments": 16,
-      "author": "siteshwar",
-      "tags": [],
-      "date": "2026-05-19T01:51:04+00:00"
-    },
-    {
-      "id": "qiita-34769ed20b",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "LATERAL句でSQLの可読性を上げよう",
-      "url": "https://qiita.com/take-yoda/items/8ae335f71217ff778d4f?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "take-yoda",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-05-19T10:46:59+09:00"
-    },
-    {
-      "id": "qiita-e19fa1c8da",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "DOM操作からスタイル操作APIへ。kintoneの条件書式、これからの書き方",
-      "url": "https://qiita.com/gababy_00/items/379effbcb032f42647ba?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "gababy_00",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-05-19T10:40:11+09:00"
-    },
-    {
-      "id": "hn-48188183",
-      "source": "hn",
-      "title": "The last six months in LLMs in five minutes",
-      "url": "https://simonwillison.net/2026/May/19/5-minute-llms/",
-      "score": 684,
-      "comments": 533,
-      "author": "yakkomajuri",
-      "tags": [],
-      "date": "2026-05-19T01:30:42+00:00"
     },
     {
       "id": "ghrel-projectdiscovery_nuclei-310617486",

@@ -1,14 +1,47 @@
 {
-  "updated_at": "2026-05-25T22:34:10.513968+00:00",
+  "updated_at": "2026-05-26T00:06:15.952334+00:00",
   "count": 500,
   "items": [
+    {
+      "id": "hn-48273030",
+      "source": "hn",
+      "title": "Nobody cracks open a programming book anymore",
+      "url": "https://unix.foo/posts/nobody-cracks-open-a-programming-book/",
+      "score": 38,
+      "comments": 26,
+      "author": "zdw",
+      "tags": [],
+      "date": "2026-05-25T23:21:57+00:00"
+    },
+    {
+      "id": "hn-48272749",
+      "source": "hn",
+      "title": "Canada losing top talent as workers head to the U.S.",
+      "url": "https://www.bnnbloomberg.ca/investing/market-outlook/2026/05/25/market-outlook-canada-losing-top-talent-as-workers-head-to-the-us/",
+      "score": 40,
+      "comments": 34,
+      "author": "leopoldj",
+      "tags": [],
+      "date": "2026-05-25T22:42:41+00:00"
+    },
+    {
+      "id": "hn-48272393",
+      "source": "hn",
+      "title": "Show HN: OpenBrief – Local-first video downloader/summarizer",
+      "url": "https://github.com/tantara/openbrief",
+      "score": 13,
+      "comments": 1,
+      "author": "tantara",
+      "tags": [],
+      "date": "2026-05-25T21:50:03+00:00"
+    },
     {
       "id": "hn-48272354",
       "source": "hn",
       "title": "Microsoft Copilot Cowork Exfiltrates Files",
       "url": "https://www.promptarmor.com/resources/microsoft-copilot-cowork-exfiltrates-files",
-      "score": 31,
-      "comments": 0,
+      "score": 152,
+      "comments": 31,
       "author": "Kneenex",
       "tags": [],
       "date": "2026-05-25T21:45:57+00:00"
@@ -29,19 +62,30 @@
       "source": "hn",
       "title": "Riscrithm – An intuitive RISC-V assembler and optimizer coded in Go",
       "url": "https://github.com/ghetea-patrick/riscrithm",
-      "score": 6,
+      "score": 15,
       "comments": 1,
       "author": "patrick-ghetea",
       "tags": [],
       "date": "2026-05-25T21:01:10+00:00"
     },
     {
+      "id": "hn-48271629",
+      "source": "hn",
+      "title": "Ferrari Luce – Designed with Jony Ive",
+      "url": "https://www.ferrari.com/en-EN/auto/ferrari-luce",
+      "score": 37,
+      "comments": 79,
+      "author": "jumploops",
+      "tags": [],
+      "date": "2026-05-25T21:00:38+00:00"
+    },
+    {
       "id": "hn-48271327",
       "source": "hn",
       "title": "Yoti age checks share facial photos and device fingerprints with third parties",
       "url": "https://techxplore.com/news/2026-05-online-age-pointless-privacy.html",
-      "score": 55,
-      "comments": 10,
+      "score": 87,
+      "comments": 19,
       "author": "Lihh27",
       "tags": [],
       "date": "2026-05-25T20:30:25+00:00"
@@ -51,8 +95,8 @@
       "source": "hn",
       "title": "Ninth Circuit Panel Goes Out of Its Way to Question Section 230–DOE vs. Meta",
       "url": "https://blog.ericgoldman.org/archives/2026/05/ninth-circuit-panel-goes-out-of-its-way-to-question-section-230-doe-v-meta.htm",
-      "score": 13,
-      "comments": 0,
+      "score": 31,
+      "comments": 24,
       "author": "hn_acker",
       "tags": [],
       "date": "2026-05-25T20:24:16+00:00"
@@ -62,8 +106,8 @@
       "source": "hn",
       "title": "Hacker News front page as a site",
       "url": "https://thefrontpage.dev/",
-      "score": 16,
-      "comments": 8,
+      "score": 75,
+      "comments": 37,
       "author": "thatxliner",
       "tags": [],
       "date": "2026-05-25T20:12:29+00:00"
@@ -73,8 +117,8 @@
       "source": "hn",
       "title": "Japan's New Hypersonic Engine Could Make 2-Hour Flights to the US a Reality",
       "url": "https://www.bgr.com/2178211/japan-hypersonic-engine-ramjet-2-hour-flights-to-us/",
-      "score": 65,
-      "comments": 47,
+      "score": 88,
+      "comments": 77,
       "author": "rmason",
       "tags": [],
       "date": "2026-05-25T19:43:45+00:00"
@@ -84,8 +128,8 @@
       "source": "hn",
       "title": "Norway's 2 petabytes of Huawei flash storage and LLM training",
       "url": "https://www.blocksandfiles.com/flash/2026/05/22/norways-2-petabytes-of-huawei-flash-storage-and-llm-training/5244910",
-      "score": 95,
-      "comments": 51,
+      "score": 128,
+      "comments": 67,
       "author": "rbanffy",
       "tags": [],
       "date": "2026-05-25T19:37:57+00:00"
@@ -117,8 +161,8 @@
       "source": "hn",
       "title": "California moves to exempt Linux from its age-verification law after backlash",
       "url": "https://www.tomshardware.com/software/linux/california-moves-to-exempt-linux-from-its-upcoming-age-verification-law-after-backlash-over-forcing-operating-systems-to-collect-users-ages-amendment-proposed-by-the-same-lawmaker-who-wrote-the-original-law",
-      "score": 460,
-      "comments": 217,
+      "score": 557,
+      "comments": 246,
       "author": "rbanffy",
       "tags": [],
       "date": "2026-05-25T18:19:58+00:00"
@@ -139,8 +183,8 @@
       "source": "hn",
       "title": "Exit IP VPN servers mitigation rollout",
       "url": "https://mullvad.net/en/help/exit-ip-vpn-servers-mitigation-rollout",
-      "score": 215,
-      "comments": 34,
+      "score": 239,
+      "comments": 38,
       "author": "Cider9986",
       "tags": [],
       "date": "2026-05-25T17:45:11+00:00"
@@ -161,8 +205,8 @@
       "source": "hn",
       "title": "Toshifumi Suzuki, founder of Seven-Eleven Japan, has died",
       "url": "https://www.referenceforbusiness.com/biography/S-Z/Suzuki-Toshifumi-1932.html",
-      "score": 72,
-      "comments": 30,
+      "score": 99,
+      "comments": 37,
       "author": "L_Rahman",
       "tags": [],
       "date": "2026-05-25T16:20:36+00:00"
@@ -172,8 +216,8 @@
       "source": "hn",
       "title": "Launch HN: Chert (YC P26) – Twilio for iMessage",
       "url": "https://www.trychert.com",
-      "score": 44,
-      "comments": 164,
+      "score": 50,
+      "comments": 170,
       "author": "garygao",
       "tags": [],
       "date": "2026-05-25T15:12:33+00:00"
@@ -205,8 +249,8 @@
       "source": "hn",
       "title": "C extensions, portability, and alternative compilers",
       "url": "https://lemon.rip/w/6-c-extensions-compilers/",
-      "score": 121,
-      "comments": 45,
+      "score": 132,
+      "comments": 46,
       "author": "xngbuilds",
       "tags": [],
       "date": "2026-05-25T14:15:19+00:00"
@@ -316,8 +360,8 @@
       "source": "hn",
       "title": "Magnifica Humanitas",
       "url": "https://www.vatican.va/content/leo-xiv/en/encyclicals/documents/20260515-magnifica-humanitas.html",
-      "score": 1235,
-      "comments": 683,
+      "score": 1297,
+      "comments": 718,
       "author": "theletterf",
       "tags": [],
       "date": "2026-05-25T10:11:29+00:00"
@@ -327,8 +371,8 @@
       "source": "hn",
       "title": "IBM Spins Off the First Pure-Play Quantum Chip Foundry",
       "url": "https://futurumgroup.com/insights/2-billion-chips-act-investment-in-quantum-bets-on-ibms-300mm-superconducting-silicon/",
-      "score": 131,
-      "comments": 53,
+      "score": 136,
+      "comments": 56,
       "author": "rbanffy",
       "tags": [],
       "date": "2026-05-25T09:43:03+00:00"
@@ -1262,6 +1306,17 @@
       "date": "2026-05-23T16:13:22+00:00"
     },
     {
+      "id": "hn-48248778",
+      "source": "hn",
+      "title": "The Skeuomorphism Nobody Talks About [video]",
+      "url": "https://www.youtube.com/watch?v=3Q-G9x315-g",
+      "score": 11,
+      "comments": 4,
+      "author": "zdw",
+      "tags": [],
+      "date": "2026-05-23T16:03:08+00:00"
+    },
+    {
       "id": "hn-48248775",
       "source": "hn",
       "title": "Italy moves to Airbus A330 tankers",
@@ -1966,8 +2021,8 @@
       "source": "hn",
       "title": "Jensen–Shannon Divergence",
       "url": "https://en.wikipedia.org/wiki/Jensen%E2%80%93Shannon_divergence",
-      "score": 43,
-      "comments": 6,
+      "score": 63,
+      "comments": 8,
       "author": "teleforce",
       "tags": [],
       "date": "2026-05-22T19:27:27+00:00"
@@ -2835,8 +2890,8 @@
       "source": "hn",
       "title": "Gnutella: A Protocol Outliving the World That Created It",
       "url": "https://rickcarlino.com/notes/p2p/gnutella-explanation.html",
-      "score": 185,
-      "comments": 62,
+      "score": 201,
+      "comments": 65,
       "author": "rickcarlino",
       "tags": [],
       "date": "2026-05-22T02:24:48+00:00"
@@ -3057,8 +3112,8 @@
       "source": "hn",
       "title": "Show HN: Write your BPF programs in Go, not C",
       "url": "https://github.com/boratanrikulu/gobee",
-      "score": 29,
-      "comments": 12,
+      "score": 46,
+      "comments": 27,
       "author": "boratanrikulu",
       "tags": [],
       "date": "2026-05-21T16:25:46+00:00"
@@ -3302,7 +3357,7 @@
       "source": "hn",
       "title": "CPPL: A Circuit Prompt Programming Language",
       "url": "https://arxiv.org/abs/2605.17892",
-      "score": 24,
+      "score": 32,
       "comments": 6,
       "author": "chrsw",
       "tags": [],
@@ -3919,8 +3974,8 @@
       "source": "hn",
       "title": "Everyone Against Us (2023)",
       "url": "https://www.chicagomag.com/chicago-magazine/april-2023/everyone-against-us/",
-      "score": 42,
-      "comments": 4,
+      "score": 51,
+      "comments": 7,
       "author": "NaOH",
       "tags": [],
       "date": "2026-05-20T19:02:53+00:00"
@@ -5148,65 +5203,6 @@
       "date": "2026-05-19T15:07:45+00:00"
     },
     {
-      "id": "hn-48194098",
-      "source": "hn",
-      "title": "Why is almost everyone right-handed? A new study connects it to bipedalism",
-      "url": "https://www.ox.ac.uk/news/2026-05-15-why-is-almost-everyone-right-handed-the-answer-may-lie-in-how-we-learned-to-walk",
-      "score": 109,
-      "comments": 162,
-      "author": "gmays",
-      "tags": [],
-      "date": "2026-05-19T14:50:42+00:00"
-    },
-    {
-      "id": "hn-48193932",
-      "source": "hn",
-      "title": "Tristan Davey's Punch Card Archive",
-      "url": "https://punchcards.tristandavey.com/",
-      "score": 27,
-      "comments": 5,
-      "author": "ohjeez",
-      "tags": [],
-      "date": "2026-05-19T14:39:56+00:00"
-    },
-    {
-      "id": "qiita-ae90aaf69e",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "これからエンジニアを目指すAIネイティブ世代のAIとの付き合い方",
-      "url": "https://qiita.com/kobori_slj/items/77f49f4aa76767b6f839?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "kobori_slj",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-05-19T23:10:02+09:00"
-    },
-    {
-      "id": "qiita-e8e8f11a86",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "【AWS】デジタル庁の生成AI基盤「源内(GenAI)」でRAG環境を構築してみた",
-      "url": "https://qiita.com/ohtsuka-shota/items/94ca81b1a3840c2abe75?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "ohtsuka-shota",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-05-19T23:09:46+09:00"
-    },
-    {
-      "id": "hn-48193474",
-      "source": "hn",
-      "title": "Show HN: I made a 3D pose maker for artists",
-      "url": "https://setpose.com/",
-      "score": 48,
-      "comments": 21,
-      "author": "augustvdv",
-      "tags": [],
-      "date": "2026-05-19T14:04:19+00:00"
-    },
-    {
       "id": "ghrel-projectdiscovery_nuclei-310617486",
       "source": "project",
       "proj_category": "Tools",
@@ -5403,6 +5399,84 @@
       "date": "2023-05-23T17:06:23Z"
     },
     {
+      "id": "zenn-67d854956c",
+      "source": "zennqiita",
+      "sub_source": "Zenn",
+      "title": "TypeScriptの裏側を浴びた2日間 ── TSKaigi 2026参加記",
+      "url": "https://zenn.dev/0st_ts/articles/7878ffe89b8c6a",
+      "score": null,
+      "author": "わかと",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Mon, 25 May 2026 10:00:07 GMT"
+    },
+    {
+      "id": "zenn-a8bc33f81a",
+      "source": "zennqiita",
+      "sub_source": "Zenn",
+      "title": "TanStack Query × Dexie.js で「プロトタイプを全部捨てる」から卒業する境界設計",
+      "url": "https://zenn.dev/dress_code/articles/5d33f06aa14582",
+      "score": null,
+      "author": "もず",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Mon, 25 May 2026 09:30:05 GMT"
+    },
+    {
+      "id": "zenn-5c647ad06c",
+      "source": "zennqiita",
+      "sub_source": "Zenn",
+      "title": "【GitHub Actions】actions/checkout には persist-credentials: false を設定するべき",
+      "url": "https://zenn.dev/kou_pg_0131/articles/gha-checkout-persist-credentials",
+      "score": null,
+      "author": "koki",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Mon, 25 May 2026 09:00:07 GMT"
+    },
+    {
+      "id": "zenn-46b91617bd",
+      "source": "zennqiita",
+      "sub_source": "Zenn",
+      "title": "Hono+Inertia+hono/jsx という選択肢",
+      "url": "https://zenn.dev/ashunar0/articles/46183ade4729f1",
+      "score": null,
+      "author": "あさひ",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Mon, 25 May 2026 07:17:40 GMT"
+    },
+    {
+      "id": "zenn-0947847b62",
+      "source": "zennqiita",
+      "sub_source": "Zenn",
+      "title": "複数の端末でフィッシング耐性のあるMFA（パスキーなど）でログインするには？",
+      "url": "https://zenn.dev/cariot_dev/articles/198eb8215ae5b7",
+      "score": null,
+      "author": "t_endo",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Mon, 25 May 2026 03:35:27 GMT"
+    },
+    {
+      "id": "zenn-3a12ff2734",
+      "source": "zennqiita",
+      "sub_source": "Zenn",
+      "title": "フロントエンドもアーキテクチャに向き合う！",
+      "url": "https://zenn.dev/luup_developers/articles/server-isamu-20260520",
+      "score": null,
+      "author": "Luup Developers",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Mon, 25 May 2026 03:12:41 GMT"
+    },
+    {
       "id": "zenn-e5e04bf73c",
       "source": "zennqiita",
       "sub_source": "Zenn",
@@ -5416,6 +5490,19 @@
       "date": "Mon, 25 May 2026 02:16:42 GMT"
     },
     {
+      "id": "zenn-6df051081b",
+      "source": "zennqiita",
+      "sub_source": "Zenn",
+      "title": "社内の知見をAIが漏らさず拾う唯一の設計思想 ― Karpathy氏のLLM Wikiを実践して分かったこと",
+      "url": "https://zenn.dev/nori_handa/articles/llm-knowledge-base-karpathy-wiki",
+      "score": null,
+      "author": "Noriaki Handa",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Mon, 25 May 2026 00:44:18 GMT"
+    },
+    {
       "id": "zenn-6271169cd3",
       "source": "zennqiita",
       "sub_source": "Zenn",
@@ -5427,32 +5514,6 @@
         "Zenn"
       ],
       "date": "Sun, 24 May 2026 23:58:20 GMT"
-    },
-    {
-      "id": "zenn-83a721700a",
-      "source": "zennqiita",
-      "sub_source": "Zenn",
-      "title": "WhisperローカルとGemini 2.5 Flashで講義録アプリを作った──構成と技術選定の解説",
-      "url": "https://zenn.dev/haruto_miyakawa/articles/4b7754712b7585",
-      "score": null,
-      "author": "haruto",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Sun, 24 May 2026 17:51:56 GMT"
-    },
-    {
-      "id": "zenn-bc58460b70",
-      "source": "zennqiita",
-      "sub_source": "Zenn",
-      "title": "ソフトウェア技術者が身につけておきたい設計と開発の基礎",
-      "url": "https://zenn.dev/momosetkn/articles/790798a6eae61e",
-      "score": null,
-      "author": "momosetkn",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Sun, 24 May 2026 14:29:17 GMT"
     },
     {
       "id": "zenn-917ada3ec4",
@@ -5475,19 +5536,6 @@
       "url": "https://zenn.dev/komatsuh/articles/komatsuh_ime_news_2026_04",
       "score": null,
       "author": "Hiroyuki Komatsu",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Sun, 24 May 2026 11:00:05 GMT"
-    },
-    {
-      "id": "zenn-5a168d9c8a",
-      "source": "zennqiita",
-      "sub_source": "Zenn",
-      "title": "いまさら聞けない CancellationToken",
-      "url": "https://zenn.dev/poipoionigiri/articles/eafa9efa99be11",
-      "score": null,
-      "author": "tkym",
       "tags": [
         "Zenn"
       ],
@@ -5572,19 +5620,6 @@
       "date": "Sun, 24 May 2026 04:37:14 GMT"
     },
     {
-      "id": "zenn-99931d8a74",
-      "source": "zennqiita",
-      "sub_source": "Zenn",
-      "title": "【アーキテクチャ】大量の類似 Feature を持つ Enterprise なフロントエンド設計",
-      "url": "https://zenn.dev/yuitonn/articles/f88ddcf21ce172",
-      "score": null,
-      "author": "$_cat",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Sat, 23 May 2026 17:17:57 GMT"
-    },
-    {
       "id": "zenn-38b053f5da",
       "source": "zennqiita",
       "sub_source": "Zenn",
@@ -5598,32 +5633,6 @@
       "date": "Sat, 23 May 2026 15:00:05 GMT"
     },
     {
-      "id": "zenn-c9d2e3b401",
-      "source": "zennqiita",
-      "sub_source": "Zenn",
-      "title": "GitHub Copilot app を加えて考える CLI / VS Code / app の使い分け",
-      "url": "https://zenn.dev/tomokusaba/articles/b24e916c53fa7d",
-      "score": null,
-      "author": "くさば",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Sat, 23 May 2026 14:45:34 GMT"
-    },
-    {
-      "id": "zenn-b583956b2c",
-      "source": "zennqiita",
-      "sub_source": "Zenn",
-      "title": "AIコーディングエージェントの本当の攻撃面は設定ファイルだった",
-      "url": "https://zenn.dev/ju571n/articles/ai-agent-config-attack-surface",
-      "score": null,
-      "author": "Justin",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Sat, 23 May 2026 11:51:21 GMT"
-    },
-    {
       "id": "zenn-6ce6113d32",
       "source": "zennqiita",
       "sub_source": "Zenn",
@@ -5635,19 +5644,6 @@
         "Zenn"
       ],
       "date": "Sat, 23 May 2026 08:16:19 GMT"
-    },
-    {
-      "id": "zenn-5f6e37eff9",
-      "source": "zennqiita",
-      "sub_source": "Zenn",
-      "title": "不可視文字による攻撃を防ぐにはパターンマッチだと厳しいという話",
-      "url": "https://zenn.dev/ame_x/articles/16a5ddcef27c44",
-      "score": null,
-      "author": "EdamAmex",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Fri, 22 May 2026 11:56:54 GMT"
     },
     {
       "id": "zenn-6c041ac41c",

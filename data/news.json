@@ -1,7 +1,18 @@
 {
-  "updated_at": "2026-05-27T03:47:31.322591+00:00",
+  "updated_at": "2026-05-27T08:03:48.835115+00:00",
   "count": 500,
   "items": [
+    {
+      "id": "hn-48289624",
+      "source": "hn",
+      "title": "Show HN: Posthorn, self-hosted mail without the mail server",
+      "url": "https://github.com/craigmccaskill/posthorn",
+      "score": 12,
+      "comments": 8,
+      "author": "craigmccaskill",
+      "tags": [],
+      "date": "2026-05-27T04:26:26+00:00"
+    },
     {
       "id": "hn-48288761",
       "source": "hn",
@@ -12,6 +23,18 @@
       "author": "silversharck",
       "tags": [],
       "date": "2026-05-27T02:29:24+00:00"
+    },
+    {
+      "id": "hn-48288709",
+      "source": "hn",
+      "title": "TSDuck: Open-source toolkit for MPEG-TS analysis and manipulation",
+      "url": "https://tsduck.io/",
+      "score": 22,
+      "comments": 1,
+      "author": "phantomathkg",
+      "tags": [],
+      "date": "2026-05-27T02:22:59+00:00",
+      "severity": "critical"
     },
     {
       "id": "hn-48288191",
@@ -29,8 +52,8 @@
       "source": "hn",
       "title": "Tunecat: Simple Internet Radio",
       "url": "https://codeberg.org/lindenii/tunecat/",
-      "score": 13,
-      "comments": 0,
+      "score": 47,
+      "comments": 3,
       "author": "croottree",
       "tags": [],
       "date": "2026-05-27T01:08:16+00:00"
@@ -100,8 +123,8 @@
       "source": "hn",
       "title": "Cloudflare Flagship",
       "url": "https://developers.cloudflare.com/flagship/",
-      "score": 105,
-      "comments": 44,
+      "score": 201,
+      "comments": 96,
       "author": "tjek",
       "tags": [],
       "date": "2026-05-26T23:36:06+00:00"
@@ -135,8 +158,8 @@
       "source": "hn",
       "title": "The worst job interview I ever had",
       "url": "https://www.oliverio.dev/blog/the-worst-job-interview-i-had",
-      "score": 90,
-      "comments": 64,
+      "score": 237,
+      "comments": 202,
       "author": "oliverio",
       "tags": [],
       "date": "2026-05-26T20:11:49+00:00"
@@ -144,13 +167,24 @@
     {
       "id": "hn-48284712",
       "source": "hn",
-      "title": "Chemistry behind the Garden Grove chemical tank",
+      "title": "That Methyl Methacrylate Tank",
       "url": "https://www.science.org/content/blog-post/methyl-methacrylate-tank",
-      "score": 269,
-      "comments": 103,
+      "score": 321,
+      "comments": 124,
       "author": "nooks",
       "tags": [],
       "date": "2026-05-26T19:25:16+00:00"
+    },
+    {
+      "id": "hn-48284711",
+      "source": "hn",
+      "title": "The Melancholy of Slaying Monsters",
+      "url": "https://thereader.mitpress.mit.edu/the-strange-melancholy-of-slaying-monsters/",
+      "score": 27,
+      "comments": 2,
+      "author": "prismatic",
+      "tags": [],
+      "date": "2026-05-26T19:25:13+00:00"
     },
     {
       "id": "hn-48282709",
@@ -267,8 +301,8 @@
       "source": "hn",
       "title": "Launch HN: Minicor (YC P26) – Windows desktop automations at scale",
       "url": "https://www.minicor.com/",
-      "score": 81,
-      "comments": 51,
+      "score": 87,
+      "comments": 54,
       "author": "fchishtie",
       "tags": [],
       "date": "2026-05-26T14:57:27+00:00"
@@ -311,8 +345,8 @@
       "source": "hn",
       "title": "Dropbox CEO Drew Houston to step down",
       "url": "https://www.cnbc.com/2026/05/26/dropbox-ceo-drew-houston-ashraf-alkarmi.html",
-      "score": 312,
-      "comments": 340,
+      "score": 340,
+      "comments": 360,
       "author": "aghuang",
       "tags": [],
       "date": "2026-05-26T13:18:33+00:00"
@@ -322,8 +356,8 @@
       "source": "hn",
       "title": "Spain blocks prediction markets Polymarket, Kalshi over lack of gambling licence",
       "url": "https://www.reuters.com/business/spain-blocks-prediction-markets-polymarket-kalshi-over-lack-gambling-licences-2026-05-26/",
-      "score": 814,
-      "comments": 375,
+      "score": 894,
+      "comments": 412,
       "author": "thm",
       "tags": [],
       "date": "2026-05-26T13:08:13+00:00"
@@ -397,6 +431,29 @@
       "date": "2026-05-26T18:40:55+09:00"
     },
     {
+      "id": "hn-48277107",
+      "source": "hn",
+      "title": "BadHost – CVE-2026-48710: Starlette Host-Header Auth Bypass",
+      "url": "https://badhost.org/",
+      "score": 30,
+      "comments": 5,
+      "author": "ylk",
+      "tags": [],
+      "date": "2026-05-26T09:07:18+00:00",
+      "severity": "high"
+    },
+    {
+      "id": "hn-48276429",
+      "source": "hn",
+      "title": "Prompt Politeness Affects LLM Accuracy (2025)",
+      "url": "https://arxiv.org/abs/2510.04950",
+      "score": 14,
+      "comments": 1,
+      "author": "KnuthIsGod",
+      "tags": [],
+      "date": "2026-05-26T07:43:22+00:00"
+    },
+    {
       "id": "hn-48276363",
       "source": "hn",
       "title": "DynIP – Dynamic DNS with RFC 2136, IPv6, DNSSEC, and BYOD",
@@ -412,8 +469,8 @@
       "source": "hn",
       "title": "A portentous reunion",
       "url": "https://bcantrill.dtrace.org/2026/05/25/a-portentous-reunion/",
-      "score": 66,
-      "comments": 20,
+      "score": 95,
+      "comments": 26,
       "author": "cafkafk",
       "tags": [],
       "date": "2026-05-26T05:57:45+00:00"
@@ -789,8 +846,8 @@
       "source": "hn",
       "title": "A few interesting modern pixel fonts",
       "url": "https://unsung.aresluna.org/a-few-interesting-modern-pixel-fonts/",
-      "score": 280,
-      "comments": 59,
+      "score": 337,
+      "comments": 69,
       "author": "zdw",
       "tags": [],
       "date": "2026-05-25T20:41:49+00:00"
@@ -1085,6 +1142,17 @@
       "date": "2026-05-25T11:46:09+00:00"
     },
     {
+      "id": "hn-48265470",
+      "source": "hn",
+      "title": "Cate v1.0 is out: The Infinite canvas workspace for developers",
+      "url": "https://github.com/0-AI-UG/cate",
+      "score": 23,
+      "comments": 9,
+      "author": "BlueBerry2001",
+      "tags": [],
+      "date": "2026-05-25T10:57:57+00:00"
+    },
+    {
       "id": "hn-48265206",
       "source": "hn",
       "title": "Magnifica Humanitas",
@@ -1159,8 +1227,8 @@
       "source": "hn",
       "title": "C array types are weird",
       "url": "https://anselmschueler.com/blogposts/2025-c-pointers/",
-      "score": 38,
-      "comments": 17,
+      "score": 80,
+      "comments": 75,
       "author": "signa11",
       "tags": [],
       "date": "2026-05-25T05:05:11+00:00"
@@ -1374,8 +1442,8 @@
       "source": "hn",
       "title": "IBM Confidential: System/360 File Organization [video]",
       "url": "https://www.youtube.com/watch?v=zokKqP0plrM",
-      "score": 4,
-      "comments": 0,
+      "score": 35,
+      "comments": 9,
       "author": "DaiPlusPlus",
       "tags": [],
       "date": "2026-05-24T21:21:58+00:00"
@@ -1390,6 +1458,17 @@
       "author": "geox",
       "tags": [],
       "date": "2026-05-24T19:36:57+00:00"
+    },
+    {
+      "id": "hn-48260219",
+      "source": "hn",
+      "title": "A history of obituaries in American newspapers",
+      "url": "https://blogs.loc.gov/headlinesandheroes/2026/05/mourn-not-a-history-of-obituaries-in-american-newspapers/",
+      "score": 19,
+      "comments": 0,
+      "author": "NaOH",
+      "tags": [],
+      "date": "2026-05-24T19:22:18+00:00"
     },
     {
       "id": "hn-48260140",
@@ -1491,6 +1570,17 @@
       "author": "rayruiwang",
       "tags": [],
       "date": "2026-05-24T17:00:46+00:00"
+    },
+    {
+      "id": "hn-48258848",
+      "source": "hn",
+      "title": "What Gets Kept",
+      "url": "https://www.newyorker.com/culture/the-weekend-essay/what-jack-kerouac-left-behind",
+      "score": 16,
+      "comments": 1,
+      "author": "lermontov",
+      "tags": [],
+      "date": "2026-05-24T16:46:25+00:00"
     },
     {
       "id": "hn-48258736",
@@ -1712,8 +1802,8 @@
       "source": "hn",
       "title": "What I've Learned (So Far) Building Online Mini Games with Elixir and Swift",
       "url": "https://calvinflegal.com/2026/05/24/what-ive-learned-so-far-building-online-mini-games-with-elixir-and-swift.html",
-      "score": 12,
-      "comments": 8,
+      "score": 44,
+      "comments": 18,
       "author": "calflegal",
       "tags": [],
       "date": "2026-05-24T10:17:19+00:00"
@@ -2039,8 +2129,8 @@
       "source": "hn",
       "title": "The Steinwinter Supercargo",
       "url": "https://www.thedrive.com/article/12603/the-forgotten-steinwinter-supercargo-is-unlike-anything-on-the-road-today",
-      "score": 51,
-      "comments": 14,
+      "score": 65,
+      "comments": 17,
       "author": "itronitron",
       "tags": [],
       "date": "2026-05-23T21:28:09+00:00"
@@ -2061,8 +2151,8 @@
       "source": "hn",
       "title": "The Forgotten Art of the LAN Party (2023)",
       "url": "https://www.superjumpmagazine.com/the-forgotten-art-of-the-lan-party/",
-      "score": 38,
-      "comments": 12,
+      "score": 119,
+      "comments": 43,
       "author": "susam",
       "tags": [],
       "date": "2026-05-23T19:01:13+00:00"
@@ -3013,14 +3103,13 @@
     {
       "id": "hn-48238703",
       "source": "hn",
-      "title": "I Bypassed Adobe and Microsoft to Build a Git-Tracked Book Production Pipeline",
+      "title": "I built a Git-tracked book production pipeline",
       "url": "https://www.djspeckhals.com/posts/2026-05-22-how-i-bypassed-adobe-and-microsoft-to-build-a-git-tracked-book-production-pipeline/",
-      "score": 185,
-      "comments": 55,
+      "score": 230,
+      "comments": 58,
       "author": "dustin1114",
       "tags": [],
-      "date": "2026-05-22T17:17:43+00:00",
-      "severity": "high"
+      "date": "2026-05-22T17:17:43+00:00"
     },
     {
       "id": "hn-48238568",
@@ -3882,6 +3971,17 @@
       "date": "2026-05-21T20:56:36+00:00"
     },
     {
+      "id": "hn-48228728",
+      "source": "hn",
+      "title": "The Structural Barriers to AI Lawyers",
+      "url": "https://www.diffuseai.pub/p/the-structural-barriers-to-ai-lawyers",
+      "score": 23,
+      "comments": 16,
+      "author": "benbreen",
+      "tags": [],
+      "date": "2026-05-21T20:51:36+00:00"
+    },
+    {
       "id": "hn-48228608",
       "source": "hn",
       "title": "C constructs that still don't work in C++",
@@ -4196,8 +4296,8 @@
       "source": "hn",
       "title": "Rosalind: A genomics toolkit in Rust running whole-genome pipelines on a laptop",
       "url": "https://github.com/logannye/rosalind",
-      "score": 137,
-      "comments": 37,
+      "score": 153,
+      "comments": 38,
       "author": "samuell",
       "tags": [],
       "date": "2026-05-21T13:55:13+00:00"
@@ -5087,109 +5187,6 @@
       "date": "2026-05-20T15:48:16+00:00"
     },
     {
-      "id": "hn-48209691",
-      "source": "hn",
-      "title": "The surprising story behind the first British person in space",
-      "url": "https://www.bbc.com/culture/article/20260518-helen-sharman-the-story-behind-the-first-british-person-in-space",
-      "score": 88,
-      "comments": 43,
-      "author": "xoxxala",
-      "tags": [],
-      "date": "2026-05-20T15:47:26+00:00"
-    },
-    {
-      "id": "qiita-6cf15c43ac",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "S3上の数GBファイルをstreamingでZIP化する【smart-open】",
-      "url": "https://qiita.com/h_ito_yzrh/items/3cb459afc23d225be16a?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "h_ito_yzrh",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-05-21T00:40:24+09:00"
-    },
-    {
-      "id": "hn-48209558",
-      "source": "hn",
-      "title": "SBCL: the ultimate assembly code breadboard (2014)",
-      "url": "https://pvk.ca/Blog/2014/03/15/sbcl-the-ultimate-assembly-code-breadboard/",
-      "score": 132,
-      "comments": 7,
-      "author": "yacin",
-      "tags": [],
-      "date": "2026-05-20T15:39:48+00:00"
-    },
-    {
-      "id": "hn-48209323",
-      "source": "hn",
-      "title": "Formal Verification Gates for AI Coding Loops",
-      "url": "https://reubenbrooks.dev/blog/structural-backpressure-beats-smarter-agents/",
-      "score": 89,
-      "comments": 20,
-      "author": "pyrex41",
-      "tags": [],
-      "date": "2026-05-20T15:25:45+00:00"
-    },
-    {
-      "id": "hn-48209105",
-      "source": "hn",
-      "title": "Stable Audio 3",
-      "url": "https://arxiv.org/abs/2605.17991",
-      "score": 67,
-      "comments": 14,
-      "author": "guardienaveugle",
-      "tags": [],
-      "date": "2026-05-20T15:10:05+00:00"
-    },
-    {
-      "id": "hn-48209055",
-      "source": "hn",
-      "title": "Wi-Wi is wireless time sync at 1 nanosecond",
-      "url": "https://www.jeffgeerling.com/blog/2026/wi-wi-is-wireless-time-sync-less-than-5ns/",
-      "score": 125,
-      "comments": 30,
-      "author": "Brajeshwar",
-      "tags": [],
-      "date": "2026-05-20T15:06:31+00:00"
-    },
-    {
-      "id": "qiita-faf3ce1425",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "相続税は本当に格差是正になるのか？― 資産循環・成長・中間層をシミュレーションで考える : Pythonで学ぶ マクロ経済学入門 (82)",
-      "url": "https://qiita.com/maskot1977/items/d95b55e78e1258dabdd5?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "maskot1977",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-05-21T00:02:03+09:00"
-    },
-    {
-      "id": "hn-48208685",
-      "source": "hn",
-      "title": "Testing distributed systems with AI agents",
-      "url": "https://github.com/shenli/distributed-system-testing",
-      "score": 62,
-      "comments": 8,
-      "author": "shenli3514",
-      "tags": [],
-      "date": "2026-05-20T14:40:42+00:00"
-    },
-    {
-      "id": "hn-48208502",
-      "source": "hn",
-      "title": "Tennessee man jailed 37 days for Trump meme wins settlement after lawsuit",
-      "url": "https://www.fire.org/news/victory-tennessee-man-jailed-37-days-trump-meme-wins-835000-settlement-after-first-amendment",
-      "score": 564,
-      "comments": 355,
-      "author": "ceejayoz",
-      "tags": [],
-      "date": "2026-05-20T14:30:47+00:00"
-    },
-    {
       "id": "ghrel-fortra_impacket-325120279",
       "source": "project",
       "proj_category": "Tools",
@@ -5400,6 +5397,19 @@
       "date": "2023-05-23T17:06:23Z"
     },
     {
+      "id": "zenn-39891f19ca",
+      "source": "zennqiita",
+      "sub_source": "Zenn",
+      "title": "TsKaigi 2026の振り返りをします。自分の登壇の反省など。",
+      "url": "https://zenn.dev/melonps/articles/b3b7f6d3014c3d",
+      "score": null,
+      "author": "Melonps",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Tue, 26 May 2026 10:40:55 GMT"
+    },
+    {
       "id": "zenn-05f22311dd",
       "source": "zennqiita",
       "sub_source": "Zenn",
@@ -5411,6 +5421,19 @@
         "Zenn"
       ],
       "date": "Tue, 26 May 2026 10:31:44 GMT"
+    },
+    {
+      "id": "zenn-c962a923fd",
+      "source": "zennqiita",
+      "sub_source": "Zenn",
+      "title": "「話しやすいエンジニア」になる価値。心理的安全性を自ら作る。",
+      "url": "https://zenn.dev/mavericks/articles/c40ef0a0652a64",
+      "score": null,
+      "author": "クロダイ",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Tue, 26 May 2026 09:00:05 GMT"
     },
     {
       "id": "zenn-0888cd8919",
@@ -5504,6 +5527,19 @@
       "date": "Mon, 25 May 2026 15:07:15 GMT"
     },
     {
+      "id": "zenn-bf39c50f52",
+      "source": "zennqiita",
+      "sub_source": "Zenn",
+      "title": "Cursor から乗り換えた人向け、VSCode 版 Claude Code を使いやすくする6つの設定",
+      "url": "https://zenn.dev/sonicgarden/articles/1eefee01ee555b",
+      "score": null,
+      "author": "sinotaku",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Mon, 25 May 2026 15:00:05 GMT"
+    },
+    {
       "id": "zenn-1166b9fc01",
       "source": "zennqiita",
       "sub_source": "Zenn",
@@ -5530,19 +5566,6 @@
       "date": "Mon, 25 May 2026 10:00:07 GMT"
     },
     {
-      "id": "zenn-a8bc33f81a",
-      "source": "zennqiita",
-      "sub_source": "Zenn",
-      "title": "TanStack Query × Dexie.js で「プロトタイプを全部捨てる」から卒業する境界設計",
-      "url": "https://zenn.dev/dress_code/articles/5d33f06aa14582",
-      "score": null,
-      "author": "もず",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Mon, 25 May 2026 09:30:05 GMT"
-    },
-    {
       "id": "zenn-5c647ad06c",
       "source": "zennqiita",
       "sub_source": "Zenn",
@@ -5554,6 +5577,19 @@
         "Zenn"
       ],
       "date": "Mon, 25 May 2026 09:00:07 GMT"
+    },
+    {
+      "id": "zenn-46b91617bd",
+      "source": "zennqiita",
+      "sub_source": "Zenn",
+      "title": "Hono+Inertia+hono/jsx という選択肢",
+      "url": "https://zenn.dev/ashunar0/articles/46183ade4729f1",
+      "score": null,
+      "author": "あさひ",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Mon, 25 May 2026 07:17:40 GMT"
     },
     {
       "id": "zenn-a50abad272",
@@ -5580,45 +5616,6 @@
         "Zenn"
       ],
       "date": "Mon, 25 May 2026 03:12:41 GMT"
-    },
-    {
-      "id": "zenn-e5e04bf73c",
-      "source": "zennqiita",
-      "sub_source": "Zenn",
-      "title": "AI時代の競争優位は「統合」にしかない —— エンジニアと組織が、今投資すべきもの",
-      "url": "https://zenn.dev/peoplex_blog/articles/f2cfcd8b625202",
-      "score": null,
-      "author": "ttiger",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Mon, 25 May 2026 02:16:42 GMT"
-    },
-    {
-      "id": "zenn-6df051081b",
-      "source": "zennqiita",
-      "sub_source": "Zenn",
-      "title": "社内の知見をAIが漏らさず拾う唯一の設計思想 ― Karpathy氏のLLM Wikiを実践して分かったこと",
-      "url": "https://zenn.dev/nori_handa/articles/llm-knowledge-base-karpathy-wiki",
-      "score": null,
-      "author": "Noriaki Handa",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Mon, 25 May 2026 00:44:18 GMT"
-    },
-    {
-      "id": "zenn-6271169cd3",
-      "source": "zennqiita",
-      "sub_source": "Zenn",
-      "title": "AIで加速するプロダクトの変化を、開発チームの外に届ける仕組みづくり",
-      "url": "https://zenn.dev/nstock/articles/ui-change-notifier",
-      "score": null,
-      "author": "ryo_kawamata",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Sun, 24 May 2026 23:58:20 GMT"
     },
     {
       "id": "zenn-55a7525fef",

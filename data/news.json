@@ -1,14 +1,37 @@
 {
-  "updated_at": "2026-05-28T21:30:39.334623+00:00",
+  "updated_at": "2026-05-28T23:16:28.805708+00:00",
   "count": 500,
   "items": [
+    {
+      "id": "hn-48315968",
+      "source": "hn",
+      "title": "GitHub bans security researcher who posted zero-day Windows exploits",
+      "url": "https://www.tomshardware.com/tech-industry/cyber-security/microsofts-github-bans-security-researcher-who-posted-zero-day-windows-exploits-because-company-ruined-their-life-expert-claims-action-is-vindictive-and-promises-further-retaliation",
+      "score": 66,
+      "comments": 9,
+      "author": "possibilistic",
+      "tags": [],
+      "date": "2026-05-28T21:45:54+00:00",
+      "severity": "critical"
+    },
+    {
+      "id": "hn-48315440",
+      "source": "hn",
+      "title": "Protestware for Coding Agents",
+      "url": "https://nesbitt.io/2026/05/28/protestware-for-coding-agents.html",
+      "score": 11,
+      "comments": 2,
+      "author": "SVI",
+      "tags": [],
+      "date": "2026-05-28T21:03:24+00:00"
+    },
     {
       "id": "hn-48314951",
       "source": "hn",
       "title": "I Made a Million Dollar Product from My Dorm Room (2025)",
       "url": "https://nick.winans.io/blog/nice-nano/",
-      "score": 8,
-      "comments": 0,
+      "score": 87,
+      "comments": 7,
       "author": "mattrighetti",
       "tags": [],
       "date": "2026-05-28T20:25:21+00:00"
@@ -40,8 +63,8 @@
       "source": "hn",
       "title": "Bricks and Minifigs Stole a Man's $200k Lego Collection",
       "url": "https://mybricklog.com/blog/bricks-minifigs-corporate-stole-old-mans-200000-lego-collection",
-      "score": 270,
-      "comments": 113,
+      "score": 446,
+      "comments": 239,
       "author": "philips",
       "tags": [],
       "date": "2026-05-28T19:24:09+00:00"
@@ -51,8 +74,8 @@
       "source": "hn",
       "title": "Nitpicking the shell history scene in 'Tron: Legacy'",
       "url": "https://www.chiark.greenend.org.uk/~sgtatham/quasiblog/tron-legacy/",
-      "score": 67,
-      "comments": 13,
+      "score": 102,
+      "comments": 39,
       "author": "speckx",
       "tags": [],
       "date": "2026-05-28T19:15:54+00:00"
@@ -62,8 +85,8 @@
       "source": "hn",
       "title": "Separate the Cord from the Device",
       "url": "https://bookofjoe2.blogspot.com/2026/05/blog-post_27.html",
-      "score": 16,
-      "comments": 15,
+      "score": 31,
+      "comments": 25,
       "author": "bookofjoe",
       "tags": [],
       "date": "2026-05-28T19:14:38+00:00"
@@ -73,8 +96,8 @@
       "source": "hn",
       "title": "Various LLM Smells",
       "url": "https://shvbsle.in/various-llm-smells/",
-      "score": 60,
-      "comments": 26,
+      "score": 144,
+      "comments": 106,
       "author": "speckx",
       "tags": [],
       "date": "2026-05-28T19:02:18+00:00"
@@ -93,10 +116,10 @@
     {
       "id": "hn-48313530",
       "source": "hn",
-      "title": "Just Use Postgres for Durable Workflows",
+      "title": "Building durable workflows on Postgres",
       "url": "https://www.dbos.dev/blog/postgres-is-all-you-need-for-durable-execution",
-      "score": 179,
-      "comments": 66,
+      "score": 233,
+      "comments": 101,
       "author": "KraftyOne",
       "tags": [],
       "date": "2026-05-28T18:41:46+00:00"
@@ -117,8 +140,8 @@
       "source": "hn",
       "title": "The Lone Lisp Heap",
       "url": "https://www.matheusmoreira.com/articles/lone-lisp-heap",
-      "score": 20,
-      "comments": 6,
+      "score": 31,
+      "comments": 9,
       "author": "stevekemp",
       "tags": [],
       "date": "2026-05-28T18:16:20+00:00"
@@ -128,8 +151,8 @@
       "source": "hn",
       "title": "Anthropic raises $65B in Series H funding at $965B post-money valuation",
       "url": "https://www.anthropic.com/news/series-h",
-      "score": 67,
-      "comments": 49,
+      "score": 216,
+      "comments": 195,
       "author": "meetpateltech",
       "tags": [],
       "date": "2026-05-28T18:09:44+00:00"
@@ -139,8 +162,8 @@
       "source": "hn",
       "title": "Bitburner, programming-based incremental game",
       "url": "https://bitburner-official.github.io/",
-      "score": 53,
-      "comments": 7,
+      "score": 68,
+      "comments": 13,
       "author": "agmater",
       "tags": [],
       "date": "2026-05-28T17:43:36+00:00"
@@ -148,10 +171,10 @@
     {
       "id": "hn-48312528",
       "source": "hn",
-      "title": "I hated writing–until I learned there's a science to it(2024)",
+      "title": "I hated writing until I learned there’s a science to it (2024)",
       "url": "https://www.science.org/content/article/i-hated-writing-until-i-learned-there-s-science-it",
-      "score": 78,
-      "comments": 28,
+      "score": 102,
+      "comments": 45,
       "author": "o4c",
       "tags": [],
       "date": "2026-05-28T17:36:47+00:00"
@@ -183,8 +206,8 @@
       "source": "hn",
       "title": "Claude Opus 4.8",
       "url": "https://www.anthropic.com/news/claude-opus-4-8",
-      "score": 991,
-      "comments": 784,
+      "score": 1112,
+      "comments": 889,
       "author": "craigmart",
       "tags": [],
       "date": "2026-05-28T16:49:14+00:00"
@@ -205,8 +228,8 @@
       "source": "hn",
       "title": "Endive: A JVM native WebAssembly runtime",
       "url": "https://github.com/bytecodealliance/endive",
-      "score": 36,
-      "comments": 11,
+      "score": 46,
+      "comments": 13,
       "author": "theanonymousone",
       "tags": [],
       "date": "2026-05-28T16:40:33+00:00"
@@ -227,8 +250,8 @@
       "source": "hn",
       "title": "The Permanent Upper Crow",
       "url": "https://permanent-upper-crow.jasonwu.ink/",
-      "score": 119,
-      "comments": 40,
+      "score": 140,
+      "comments": 50,
       "author": "whiteblossom",
       "tags": [],
       "date": "2026-05-28T15:23:04+00:00"
@@ -238,8 +261,8 @@
       "source": "hn",
       "title": "Show HN: Ktx – Open-source executable context layer for data agents",
       "url": "https://github.com/Kaelio/ktx",
-      "score": 36,
-      "comments": 5,
+      "score": 49,
+      "comments": 9,
       "author": "lucamrtl",
       "tags": [],
       "date": "2026-05-28T15:05:06+00:00",
@@ -272,8 +295,8 @@
       "source": "hn",
       "title": "EU fines Temu €200M for allowing sale of illegal products",
       "url": "https://www.bbc.co.uk/news/articles/c1k2ydn1rz8o",
-      "score": 270,
-      "comments": 195,
+      "score": 287,
+      "comments": 213,
       "author": "jjp",
       "tags": [],
       "date": "2026-05-28T14:18:18+00:00"
@@ -294,8 +317,8 @@
       "source": "hn",
       "title": "Show HN: Continue? Y/N: A 60-second game about AI agent permission fatigue",
       "url": "https://llmgame.scalex.dev",
-      "score": 187,
-      "comments": 91,
+      "score": 217,
+      "comments": 100,
       "author": "Wirbelwind",
       "tags": [],
       "date": "2026-05-28T13:02:00+00:00"
@@ -323,6 +346,17 @@
       "author": "kostaj",
       "tags": [],
       "date": "2026-05-28T12:20:19+00:00"
+    },
+    {
+      "id": "hn-48307802",
+      "source": "hn",
+      "title": "Durable Execution the Hard Way",
+      "url": "https://github.com/hatchet-dev/durable-execution-the-hard-way",
+      "score": 8,
+      "comments": 0,
+      "author": "abelanger",
+      "tags": [],
+      "date": "2026-05-28T12:11:03+00:00"
     },
     {
       "id": "qiita-1a296209dc",
@@ -1476,8 +1510,8 @@
       "source": "hn",
       "title": "Indoor Wi-Fi Roaming with OpenWRT",
       "url": "https://taoofmac.com/space/blog/2026/05/26/1730",
-      "score": 181,
-      "comments": 89,
+      "score": 192,
+      "comments": 94,
       "author": "zdw",
       "tags": [],
       "date": "2026-05-26T16:41:58+00:00"
@@ -1613,6 +1647,17 @@
       "author": "alephnerd",
       "tags": [],
       "date": "2026-05-26T14:44:31+00:00"
+    },
+    {
+      "id": "hn-48280451",
+      "source": "hn",
+      "title": "Coalton is an efficient, statically typed Lisp with ideas from Haskell and OCaml",
+      "url": "https://coalton-lang.github.io/",
+      "score": 68,
+      "comments": 7,
+      "author": "b-man",
+      "tags": [],
+      "date": "2026-05-26T14:36:20+00:00"
     },
     {
       "id": "hn-48280356",
@@ -1778,8 +1823,8 @@
       "source": "hn",
       "title": "News about Raspberry Pi 6 and Microcontroller Development",
       "url": "https://www.jeffgeerling.com/blog/2026/news-about-raspberry-pi-6-and-microcontroller-development/",
-      "score": 100,
-      "comments": 74,
+      "score": 126,
+      "comments": 91,
       "author": "rbanffy",
       "tags": [],
       "date": "2026-05-26T08:02:52+00:00"
@@ -2176,12 +2221,23 @@
       "date": "2026-05-25T22:30:27+00:00"
     },
     {
+      "id": "hn-48272661",
+      "source": "hn",
+      "title": "Micromania: The Whole Truth about Home Computers (1984)",
+      "url": "https://taff.org.uk/ebooks.php?x=Micromania",
+      "score": 4,
+      "comments": 0,
+      "author": "sohkamyung",
+      "tags": [],
+      "date": "2026-05-25T22:29:07+00:00"
+    },
+    {
       "id": "hn-48272545",
       "source": "hn",
       "title": "Using Tailscale with an OrbStack VM on macOS",
       "url": "https://github.com/highpost/tailscale-macos-vm",
-      "score": 42,
-      "comments": 9,
+      "score": 55,
+      "comments": 13,
       "author": "highpost",
       "tags": [],
       "date": "2026-05-25T22:10:08+00:00"
@@ -2561,8 +2617,8 @@
       "source": "hn",
       "title": "The Most Unlikely School Bag",
       "url": "https://www.carryology.com/insights/carry-culture/the-tale-of-the-worlds-most-unlikely-school-bag/",
-      "score": 39,
-      "comments": 15,
+      "score": 65,
+      "comments": 20,
       "author": "surprisetalk",
       "tags": [],
       "date": "2026-05-25T13:45:05+00:00"
@@ -5230,61 +5286,6 @@
       "date": "2026-05-22T11:23:30+00:00"
     },
     {
-      "id": "hn-48234287",
-      "source": "hn",
-      "title": "Show HN: ShadowCat – file transfer through QR Codes in a Browser",
-      "url": "https://github.com/unprovable/ShadowCat",
-      "score": 123,
-      "comments": 44,
-      "author": "unprovable",
-      "tags": [],
-      "date": "2026-05-22T11:11:43+00:00"
-    },
-    {
-      "id": "hn-48234252",
-      "source": "hn",
-      "title": "Chess invariants",
-      "url": "http://muratbuffalo.blogspot.com/2026/05/chess-invariants.html",
-      "score": 64,
-      "comments": 45,
-      "author": "ingve",
-      "tags": [],
-      "date": "2026-05-22T11:06:52+00:00"
-    },
-    {
-      "id": "hn-48234128",
-      "source": "hn",
-      "title": "A case against Boolean logic",
-      "url": "https://abuseofnotation.github.io/boolean-thinking/",
-      "score": 53,
-      "comments": 68,
-      "author": "boris_m",
-      "tags": [],
-      "date": "2026-05-22T10:45:16+00:00"
-    },
-    {
-      "id": "hn-48234091",
-      "source": "hn",
-      "title": "A Comma and a Question Mark",
-      "url": "https://www.thetypicalset.com/blog/a-comma-and-a-question-mark",
-      "score": 11,
-      "comments": 3,
-      "author": "eigenBasis",
-      "tags": [],
-      "date": "2026-05-22T10:38:41+00:00"
-    },
-    {
-      "id": "hn-48233939",
-      "source": "hn",
-      "title": "FSFE intervenes against Apple before EUCJ for the second time",
-      "url": "https://fsfe.org/news/2026/news-20260519-01.en.html",
-      "score": 23,
-      "comments": 1,
-      "author": "M95D",
-      "tags": [],
-      "date": "2026-05-22T10:09:03+00:00"
-    },
-    {
       "id": "ghrel-fortra_impacket-325120279",
       "source": "project",
       "proj_category": "Tools",
@@ -5397,6 +5398,45 @@
       "date": "2023-05-23T17:06:23Z"
     },
     {
+      "id": "zenn-c9d163e69e",
+      "source": "zennqiita",
+      "sub_source": "Zenn",
+      "title": "論理削除をやめて状態をテーブルで分けるDB設計",
+      "url": "https://zenn.dev/mstn_/articles/af99d216639b30",
+      "score": null,
+      "author": "あるべると",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Thu, 28 May 2026 03:02:24 GMT"
+    },
+    {
+      "id": "zenn-e050cd9f6d",
+      "source": "zennqiita",
+      "sub_source": "Zenn",
+      "title": "思想と仕様を分けて要件定義する",
+      "url": "https://zenn.dev/rehabforjapan/articles/requirements-engineering",
+      "score": null,
+      "author": "tara is ok",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Thu, 28 May 2026 03:00:37 GMT"
+    },
+    {
+      "id": "zenn-4a11007205",
+      "source": "zennqiita",
+      "sub_source": "Zenn",
+      "title": "Codexを使い始めて長時間稼働させるまで",
+      "url": "https://zenn.dev/genda_jp/articles/b7fe56ce2fc60f",
+      "score": null,
+      "author": "chika",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Thu, 28 May 2026 03:00:11 GMT"
+    },
+    {
       "id": "zenn-8b7b250381",
       "source": "zennqiita",
       "sub_source": "Zenn",
@@ -5410,17 +5450,43 @@
       "date": "Thu, 28 May 2026 02:30:05 GMT"
     },
     {
-      "id": "zenn-bd9ff4521f",
+      "id": "zenn-d9ecf1a6ff",
       "source": "zennqiita",
       "sub_source": "Zenn",
-      "title": "Laravel Live Japan 行ってきたぞー！",
-      "url": "https://zenn.dev/yabu_p/articles/03fbebc16fb865",
+      "title": "Tips: Containerを利用したDL分散学習Libraryの開発環境",
+      "url": "https://zenn.dev/kaz20/articles/ff41dfdcd48613",
       "score": null,
-      "author": "ハヤト",
+      "author": "Kazuki Fujii",
       "tags": [
         "Zenn"
       ],
-      "date": "Wed, 27 May 2026 12:59:52 GMT"
+      "date": "Thu, 28 May 2026 01:33:25 GMT"
+    },
+    {
+      "id": "zenn-8228de2776",
+      "source": "zennqiita",
+      "sub_source": "Zenn",
+      "title": "1 行渡すと Claude Code が 1 時間自走する ─ E2E テスト駆動で新機能を作らせた話",
+      "url": "https://zenn.dev/canly/articles/c7da70a520d1b8",
+      "score": null,
+      "author": "k shima",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Thu, 28 May 2026 01:01:10 GMT"
+    },
+    {
+      "id": "zenn-936ffc7368",
+      "source": "zennqiita",
+      "sub_source": "Zenn",
+      "title": "インフラプログラマが Claude Code をどう使っていくか － AWS マルチアカウント管理",
+      "url": "https://zenn.dev/sonicgarden/articles/ef6268318d256f",
+      "score": null,
+      "author": "dkan",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Wed, 27 May 2026 15:00:08 GMT"
     },
     {
       "id": "zenn-586b7e1ccd",
@@ -5449,6 +5515,19 @@
       "date": "Wed, 27 May 2026 07:31:11 GMT"
     },
     {
+      "id": "zenn-26c2106053",
+      "source": "zennqiita",
+      "sub_source": "Zenn",
+      "title": "会議で知ったかするためのAIエージェント「知ったかくん」を作った",
+      "url": "https://zenn.dev/wildchild_hiro/articles/065ae3386d9c16",
+      "score": null,
+      "author": "Hirano",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Wed, 27 May 2026 05:03:26 GMT"
+    },
+    {
       "id": "zenn-51d3b64fd6",
       "source": "zennqiita",
       "sub_source": "Zenn",
@@ -5462,17 +5541,17 @@
       "date": "Wed, 27 May 2026 02:16:51 GMT"
     },
     {
-      "id": "zenn-8fd8fa2fc8",
+      "id": "zenn-0fd434d285",
       "source": "zennqiita",
       "sub_source": "Zenn",
-      "title": "GitHub Copilot CLIの/chronicleで課金体系の変更に備えよう",
-      "url": "https://zenn.dev/aeonpeople/articles/morihaya-20260527-copilot-cli-chronicle",
+      "title": "AIエージェントを本番に出せない本当の理由",
+      "url": "https://zenn.dev/knowledge_graph/articles/kg-agent-production-safety",
       "score": null,
-      "author": "もりはや",
+      "author": "takanorisuzuki",
       "tags": [
         "Zenn"
       ],
-      "date": "Tue, 26 May 2026 23:00:09 GMT"
+      "date": "Wed, 27 May 2026 02:06:29 GMT"
     },
     {
       "id": "zenn-3537748bdc",
@@ -5482,6 +5561,19 @@
       "url": "https://zenn.dev/rinrin_yuuki/articles/9b69cca81875f6",
       "score": null,
       "author": "rin2yh",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Tue, 26 May 2026 23:00:09 GMT"
+    },
+    {
+      "id": "zenn-8fd8fa2fc8",
+      "source": "zennqiita",
+      "sub_source": "Zenn",
+      "title": "GitHub Copilot CLIの/chronicleで課金体系の変更に備えよう",
+      "url": "https://zenn.dev/aeonpeople/articles/morihaya-20260527-copilot-cli-chronicle",
+      "score": null,
+      "author": "もりはや",
       "tags": [
         "Zenn"
       ],
@@ -5501,58 +5593,6 @@
       "date": "Tue, 26 May 2026 21:59:09 GMT"
     },
     {
-      "id": "zenn-bd9e3884a7",
-      "source": "zennqiita",
-      "sub_source": "Zenn",
-      "title": "Laravelというフレームワークの開発、またはTaylor Otwellのビジネスセンスと技術的美学について",
-      "url": "https://zenn.dev/shunjuio/articles/laravel-and-taylor",
-      "score": null,
-      "author": "saboyutaka",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Tue, 26 May 2026 13:34:02 GMT"
-    },
-    {
-      "id": "zenn-39891f19ca",
-      "source": "zennqiita",
-      "sub_source": "Zenn",
-      "title": "TsKaigi 2026の振り返りをします。自分の登壇の反省など。",
-      "url": "https://zenn.dev/melonps/articles/b3b7f6d3014c3d",
-      "score": null,
-      "author": "Melonps",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Tue, 26 May 2026 10:40:55 GMT"
-    },
-    {
-      "id": "zenn-085ae2ae1d",
-      "source": "zennqiita",
-      "sub_source": "Zenn",
-      "title": "Claude Codeに仕事を任せたら確認待ちで止まっていた。しゃべらせたら今度はうるさかったので改善した。",
-      "url": "https://zenn.dev/collabostyle/articles/6423fd88ee0054",
-      "score": null,
-      "author": "MESI",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Tue, 26 May 2026 10:37:49 GMT"
-    },
-    {
-      "id": "zenn-05f22311dd",
-      "source": "zennqiita",
-      "sub_source": "Zenn",
-      "title": "なけなしの130万を使って、Cloud Praticaに人生をオールインした話",
-      "url": "https://zenn.dev/fuji_1218/articles/67c734d19dd1b8",
-      "score": null,
-      "author": "Mataita",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Tue, 26 May 2026 10:31:44 GMT"
-    },
-    {
       "id": "zenn-c962a923fd",
       "source": "zennqiita",
       "sub_source": "Zenn",
@@ -5564,6 +5604,19 @@
         "Zenn"
       ],
       "date": "Tue, 26 May 2026 09:00:05 GMT"
+    },
+    {
+      "id": "zenn-dd06e5e1d4",
+      "source": "zennqiita",
+      "sub_source": "Zenn",
+      "title": "Claude Code vs Codex：それぞれのツールが開発者に求める、暗黙の条件",
+      "url": "https://zenn.dev/dely_jp/articles/cfac9a04904113",
+      "score": null,
+      "author": "zhu tianren",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Tue, 26 May 2026 00:53:31 GMT"
     },
     {
       "id": "zenn-a4a6747529",
@@ -5592,45 +5645,6 @@
       "date": "Mon, 25 May 2026 22:59:14 GMT"
     },
     {
-      "id": "zenn-bf39c50f52",
-      "source": "zennqiita",
-      "sub_source": "Zenn",
-      "title": "Cursor から乗り換えた人向け、VSCode 版 Claude Code を使いやすくする6つの設定",
-      "url": "https://zenn.dev/sonicgarden/articles/1eefee01ee555b",
-      "score": null,
-      "author": "sinotaku",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Mon, 25 May 2026 15:00:05 GMT"
-    },
-    {
-      "id": "zenn-1166b9fc01",
-      "source": "zennqiita",
-      "sub_source": "Zenn",
-      "title": "DevContainerより軽量？Devboxで開発環境を瞬時に作る",
-      "url": "https://zenn.dev/arkbig/articles/devbox_0b6b39cd097e3288fe58baa5a49c7d39a28c5b46849",
-      "score": null,
-      "author": "ArkBig",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Mon, 25 May 2026 14:14:03 GMT"
-    },
-    {
-      "id": "zenn-67d854956c",
-      "source": "zennqiita",
-      "sub_source": "Zenn",
-      "title": "TypeScriptの裏側を浴びた2日間 ── TSKaigi 2026参加記",
-      "url": "https://zenn.dev/0st_ts/articles/7878ffe89b8c6a",
-      "score": null,
-      "author": "わかと",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Mon, 25 May 2026 10:00:07 GMT"
-    },
-    {
       "id": "zenn-5c647ad06c",
       "source": "zennqiita",
       "sub_source": "Zenn",
@@ -5642,19 +5656,6 @@
         "Zenn"
       ],
       "date": "Mon, 25 May 2026 09:00:07 GMT"
-    },
-    {
-      "id": "zenn-e07bb95733",
-      "source": "zennqiita",
-      "sub_source": "Zenn",
-      "title": "SaaSの権限管理設計を完全に理解した",
-      "url": "https://zenn.dev/rsugi/articles/19e0014a7040b3",
-      "score": null,
-      "author": "r-sugi",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Sun, 24 May 2026 17:42:23 GMT"
     },
     {
       "id": "edb-e3ffa4adad",

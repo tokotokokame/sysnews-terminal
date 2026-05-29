@@ -1,17 +1,75 @@
 {
-  "updated_at": "2026-05-29T20:25:08.762294+00:00",
+  "updated_at": "2026-05-29T22:11:40.476602+00:00",
   "count": 500,
   "items": [
     {
+      "id": "hn-48329549",
+      "source": "hn",
+      "title": "EV Stupidity Checklist",
+      "url": "http://hypercritical.co/2026/05/29/ev-stupidity-checklist",
+      "score": 16,
+      "comments": 1,
+      "author": "pchristensen",
+      "tags": [],
+      "date": "2026-05-29T21:29:51+00:00"
+    },
+    {
+      "id": "hn-48328932",
+      "source": "hn",
+      "title": "Why I collect DLES",
+      "url": "https://dles.gg/blog/dles-gg-manifesto",
+      "score": 14,
+      "comments": 4,
+      "author": "trizoza",
+      "tags": [],
+      "date": "2026-05-29T20:40:38+00:00"
+    },
+    {
+      "id": "qiita-a1f810a6c0",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "プログラミング完全未経験から始める！競技プログラミング入門ガイド",
+      "url": "https://qiita.com/Un_titled/items/03b9b817bf2015321159?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "Un_titled",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-05-30T05:29:50+09:00"
+    },
+    {
       "id": "hn-48328365",
       "source": "hn",
-      "title": "The California State Assembly Has Passed the 'Protect Our Games Act'",
+      "title": "The California state assembly has passed the 'Protect Our Games Act'",
       "url": "https://www.invenglobal.com/articles/22330/stop-killing-games-movement-gains-momentum-california-assembly-passes-game-protection-bill",
-      "score": 27,
-      "comments": 9,
+      "score": 128,
+      "comments": 121,
       "author": "TechTechTech",
       "tags": [],
       "date": "2026-05-29T19:55:56+00:00"
+    },
+    {
+      "id": "hn-48328184",
+      "source": "hn",
+      "title": "Show HN: Tiny-vLLM – high performance LLM inference engine in C++ and CUDA",
+      "url": "https://github.com/jmaczan/tiny-vllm",
+      "score": 44,
+      "comments": 3,
+      "author": "yu3zhou4",
+      "tags": [],
+      "date": "2026-05-29T19:38:27+00:00"
+    },
+    {
+      "id": "hn-48328175",
+      "source": "hn",
+      "title": "Microsoft 0-day feud escalates as researcher threatens another exploit dump",
+      "url": "https://www.theregister.com/security/2026/05/28/microsoft-0-day-feud-escalates-as-researcher-threatens-another-windows-exploit-dump/5248085",
+      "score": 98,
+      "comments": 19,
+      "author": "Cider9986",
+      "tags": [],
+      "date": "2026-05-29T19:37:41+00:00",
+      "severity": "high"
     },
     {
       "id": "hn-48328088",
@@ -30,8 +88,8 @@
       "source": "hn",
       "title": "Shift will clean homes for free to train future robots",
       "url": "https://www.theverge.com/ai-artificial-intelligence/939765/ai-training-data-startup-shift-free-cleaning",
-      "score": 11,
-      "comments": 15,
+      "score": 41,
+      "comments": 60,
       "author": "evilsimon",
       "tags": [],
       "date": "2026-05-29T19:16:32+00:00"
@@ -41,8 +99,8 @@
       "source": "hn",
       "title": "On Rendering Diffs",
       "url": "https://pierre.computer/writing/on-rendering-diffs",
-      "score": 55,
-      "comments": 13,
+      "score": 105,
+      "comments": 27,
       "author": "amadeus",
       "tags": [],
       "date": "2026-05-29T19:04:54+00:00"
@@ -52,8 +110,8 @@
       "source": "hn",
       "title": "Rothko for your current weather conditions",
       "url": "https://rothko.joonas.wtf/",
-      "score": 61,
-      "comments": 7,
+      "score": 92,
+      "comments": 10,
       "author": "jxmorris12",
       "tags": [],
       "date": "2026-05-29T18:31:52+00:00"
@@ -63,8 +121,8 @@
       "source": "hn",
       "title": "SQLite is all you need for durable workflows",
       "url": "https://obeli.sk/blog/sqlite-is-all-you-need-for-durable-workflows/",
-      "score": 163,
-      "comments": 81,
+      "score": 253,
+      "comments": 135,
       "author": "tomasol",
       "tags": [],
       "date": "2026-05-29T17:54:50+00:00"
@@ -85,8 +143,8 @@
       "source": "hn",
       "title": "Letter from the Duke of Wellington to the British Foreign Office (1809)",
       "url": "https://wellsoc.org/society-member-pages/anecdotes-of-wellington/",
-      "score": 26,
-      "comments": 2,
+      "score": 33,
+      "comments": 7,
       "author": "backuprestore",
       "tags": [],
       "date": "2026-05-29T17:39:49+00:00"
@@ -109,8 +167,8 @@
       "source": "hn",
       "title": "Show HN: TV Explorer. Adding advanced UI to free online TV",
       "url": "https://tvexplorer.live",
-      "score": 56,
-      "comments": 9,
+      "score": 81,
+      "comments": 17,
       "author": "dtagames",
       "tags": [],
       "date": "2026-05-29T16:39:09+00:00"
@@ -120,8 +178,8 @@
       "source": "hn",
       "title": "Notes from the Mistral AI Now Summit in Paris",
       "url": "https://koenvangilst.nl/lab/mistral-ai-now-summit",
-      "score": 239,
-      "comments": 59,
+      "score": 279,
+      "comments": 85,
       "author": "vnglst",
       "tags": [],
       "date": "2026-05-29T16:22:01+00:00"
@@ -131,8 +189,8 @@
       "source": "hn",
       "title": "Liquid AI reveals 8B-A1B MoE trained on 38T",
       "url": "https://www.liquid.ai/blog/lfm2-5-8b-a1b",
-      "score": 71,
-      "comments": 15,
+      "score": 116,
+      "comments": 34,
       "author": "simjnd",
       "tags": [],
       "date": "2026-05-29T16:19:54+00:00"
@@ -142,8 +200,8 @@
       "source": "hn",
       "title": "CAPTCHAs can still detect AI agents",
       "url": "https://research.roundtable.ai/captchas-detect-ai/",
-      "score": 53,
-      "comments": 33,
+      "score": 55,
+      "comments": 43,
       "author": "timshell",
       "tags": [],
       "date": "2026-05-29T15:57:37+00:00"
@@ -153,8 +211,8 @@
       "source": "hn",
       "title": "The dead economy theory",
       "url": "https://www.owenmcgrann.com/p/the-dead-economy-theory",
-      "score": 373,
-      "comments": 515,
+      "score": 502,
+      "comments": 678,
       "author": "WillDaSilva",
       "tags": [],
       "date": "2026-05-29T15:46:24+00:00"
@@ -164,8 +222,8 @@
       "source": "hn",
       "title": "GTA 6 Developers Unionize",
       "url": "https://rockstarintel.com/gta-6-developers-announce-rockstar-games-union/",
-      "score": 442,
-      "comments": 277,
+      "score": 503,
+      "comments": 323,
       "author": "AndrewKemendo",
       "tags": [],
       "date": "2026-05-29T15:32:55+00:00"
@@ -175,8 +233,8 @@
       "source": "hn",
       "title": "Bijou64: A variable-length integer encoding",
       "url": "https://www.inkandswitch.com/tangents/bijou64/",
-      "score": 177,
-      "comments": 66,
+      "score": 190,
+      "comments": 70,
       "author": "justinweiss",
       "tags": [],
       "date": "2026-05-29T15:03:32+00:00"
@@ -212,8 +270,8 @@
       "source": "hn",
       "title": "It's hard to justify buying a Framework 12",
       "url": "https://www.jeffgeerling.com/blog/2026/its-hard-to-justify-framework-12/",
-      "score": 141,
-      "comments": 244,
+      "score": 168,
+      "comments": 321,
       "author": "watermelon0",
       "tags": [],
       "date": "2026-05-29T14:55:31+00:00"
@@ -257,8 +315,8 @@
       "source": "hn",
       "title": "Expertise in the age of AI",
       "url": "https://www.moderndescartes.com/essays/ai_and_expertise/",
-      "score": 80,
-      "comments": 83,
+      "score": 95,
+      "comments": 94,
       "author": "brilee",
       "tags": [],
       "date": "2026-05-29T13:35:13+00:00"
@@ -291,8 +349,8 @@
       "source": "hn",
       "title": "High Density Living, 2000 Years Ago: Inside the Roman Apartment Building",
       "url": "https://commonedge.org/high-density-living-2000-years-ago-inside-the-roman-apartment-building/",
-      "score": 131,
-      "comments": 49,
+      "score": 139,
+      "comments": 58,
       "author": "surprisetalk",
       "tags": [],
       "date": "2026-05-29T12:30:02+00:00"
@@ -325,8 +383,8 @@
       "source": "hn",
       "title": "We should be more tired than the model",
       "url": "https://vickiboykis.com/2026/05/28/we-should-be-more-tired-than-the-model/",
-      "score": 125,
-      "comments": 104,
+      "score": 135,
+      "comments": 120,
       "author": "tosh",
       "tags": [],
       "date": "2026-05-29T12:12:16+00:00"
@@ -358,8 +416,8 @@
       "source": "hn",
       "title": "Is AI causing a repeat of frontend’s lost decade?",
       "url": "https://mastrojs.github.io/blog/2026-05-23-is-AI-causing-a-repeat-of-frontends-lost-decade/",
-      "score": 216,
-      "comments": 197,
+      "score": 247,
+      "comments": 210,
       "author": "xyzal",
       "tags": [],
       "date": "2026-05-29T11:09:32+00:00"
@@ -461,17 +519,15 @@
       "date": "2026-05-29T16:25:00+09:00"
     },
     {
-      "id": "qiita-a1f810a6c0",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "プログラミング完全未経験から始める！競技プログラミング入門ガイド",
-      "url": "https://qiita.com/Un_titled/items/03b9b817bf2015321159?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "Un_titled",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-05-29T14:50:59+09:00"
+      "id": "hn-48319524",
+      "source": "hn",
+      "title": "Show HN: Zot – Yet another coding agent harness",
+      "url": "https://www.zot.sh",
+      "score": 41,
+      "comments": 53,
+      "author": "patriceckhart",
+      "tags": [],
+      "date": "2026-05-29T05:48:21+00:00"
     },
     {
       "id": "hn-48319509",
@@ -692,8 +748,8 @@
       "source": "hn",
       "title": "The mysterious Hy3 LLM is topping OpenRouter Model Rankings by a large margin",
       "url": "https://minimaxir.com/2026/05/openrouter-hy3/",
-      "score": 82,
-      "comments": 57,
+      "score": 92,
+      "comments": 87,
       "author": "freediver",
       "tags": [],
       "date": "2026-05-29T00:09:35+00:00"
@@ -2248,6 +2304,18 @@
       "author": "prismatic",
       "tags": [],
       "date": "2026-05-26T19:25:13+00:00"
+    },
+    {
+      "id": "hn-48283410",
+      "source": "hn",
+      "title": "Print with dozens of colors: Our new open-source ColorMix for PrusaSlicer",
+      "url": "https://blog.prusa3d.com/our-new-open-source-colormix-model-in-prusaslicer-and-easyprint_136079/",
+      "score": 7,
+      "comments": 0,
+      "author": "rented_mule",
+      "tags": [],
+      "date": "2026-05-26T18:05:42+00:00",
+      "severity": "critical"
     },
     {
       "id": "hn-48282709",
@@ -5225,76 +5293,6 @@
       "author": "nill0",
       "tags": [],
       "date": "2026-05-23T04:04:12+00:00"
-    },
-    {
-      "id": "hn-48244434",
-      "source": "hn",
-      "title": "Microsoft reports AI is more expensive than paying human employees",
-      "url": "https://fortune.com/2026/05/22/microsoft-ai-cost-problem-tokens-agents/",
-      "score": 32,
-      "comments": 6,
-      "author": "nreece",
-      "tags": [],
-      "date": "2026-05-23T03:44:16+00:00"
-    },
-    {
-      "id": "hn-48244220",
-      "source": "hn",
-      "title": "New rule requires most green-card applicants to apply from outside U.S.",
-      "url": "https://www.washingtonpost.com/immigration/2026/05/22/new-rule-requires-most-green-card-applicants-apply-outside-us/",
-      "score": 17,
-      "comments": 3,
-      "author": "michaelsbradley",
-      "tags": [],
-      "date": "2026-05-23T03:09:55+00:00"
-    },
-    {
-      "id": "hn-48243849",
-      "source": "hn",
-      "title": "You Only Use 10% of Printf() – Here Are Things They Didn't Teach You [video]",
-      "url": "https://www.youtube.com/watch?v=kdnN0kk7MS0",
-      "score": 11,
-      "comments": 1,
-      "author": "bwidlar",
-      "tags": [],
-      "date": "2026-05-23T02:07:35+00:00"
-    },
-    {
-      "id": "qiita-b78c076236",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "2025 Japan AWS Jr.Champions としての活動を振り返る",
-      "url": "https://qiita.com/yakumo_09/items/76b9695a600a7491800a?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "yakumo_09",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-05-23T11:03:39+09:00"
-    },
-    {
-      "id": "qiita-7f489faf8c",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "【Lambda】コンパイラ型言語をLambdaで扱ってみるついでにインタープリタ型言語と比較してみた",
-      "url": "https://qiita.com/ryu-ki/items/0b9736313e7bedc6262e?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "ryu-ki",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-05-23T11:00:43+09:00"
-    },
-    {
-      "id": "hn-48243666",
-      "source": "hn",
-      "title": "Didgeridoo playing as alternative treatment for obstructive sleep apnoea (2006)",
-      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC1360393/",
-      "score": 297,
-      "comments": 147,
-      "author": "kelseyfrog",
-      "tags": [],
-      "date": "2026-05-23T01:37:02+00:00"
     },
     {
       "id": "ghrel-fortra_impacket-325120279",

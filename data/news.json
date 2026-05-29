@@ -1,14 +1,58 @@
 {
-  "updated_at": "2026-05-28T23:16:28.805708+00:00",
+  "updated_at": "2026-05-29T01:31:18.557176+00:00",
   "count": 500,
   "items": [
+    {
+      "id": "hn-48317339",
+      "source": "hn",
+      "title": "Where are the economies of scale in homebuilding?",
+      "url": "https://www.construction-physics.com/p/where-are-the-economies-of-scale",
+      "score": 7,
+      "comments": 0,
+      "author": "JumpCrisscross",
+      "tags": [],
+      "date": "2026-05-29T00:16:20+00:00"
+    },
+    {
+      "id": "hn-48317294",
+      "source": "hn",
+      "title": "The mysterious Hy3 LLM is topping OpenRouter Model Rankings by a large margin",
+      "url": "https://minimaxir.com/2026/05/openrouter-hy3/",
+      "score": 7,
+      "comments": 2,
+      "author": "freediver",
+      "tags": [],
+      "date": "2026-05-29T00:09:35+00:00"
+    },
+    {
+      "id": "hn-48317093",
+      "source": "hn",
+      "title": "SF startup is testing robots in Airbnbs, and trashing them, lawsuit claims",
+      "url": "https://sfstandard.com/2026/05/28/sf-startup-secretly-testing-robots-airbnbs-trashing-lawsuit-claims/",
+      "score": 63,
+      "comments": 15,
+      "author": "drewda",
+      "tags": [],
+      "date": "2026-05-28T23:42:47+00:00"
+    },
+    {
+      "id": "hn-48317043",
+      "source": "hn",
+      "title": "Garnix (A Nix CI) is shutting down",
+      "url": "https://discourse.nixos.org/t/garnix-is-shutting-down-not-oc/77895",
+      "score": 28,
+      "comments": 10,
+      "author": "agnishom",
+      "tags": [],
+      "date": "2026-05-28T23:36:41+00:00"
+    },
     {
       "id": "hn-48315968",
       "source": "hn",
       "title": "GitHub bans security researcher who posted zero-day Windows exploits",
       "url": "https://www.tomshardware.com/tech-industry/cyber-security/microsofts-github-bans-security-researcher-who-posted-zero-day-windows-exploits-because-company-ruined-their-life-expert-claims-action-is-vindictive-and-promises-further-retaliation",
-      "score": 66,
-      "comments": 9,
+      "score": 156,
+      "comments": 70,
       "author": "possibilistic",
       "tags": [],
       "date": "2026-05-28T21:45:54+00:00",
@@ -28,10 +72,10 @@
     {
       "id": "hn-48314951",
       "source": "hn",
-      "title": "I Made a Million Dollar Product from My Dorm Room (2025)",
+      "title": "I made a million dollar product from my dorm room (2025)",
       "url": "https://nick.winans.io/blog/nice-nano/",
-      "score": 87,
-      "comments": 7,
+      "score": 175,
+      "comments": 21,
       "author": "mattrighetti",
       "tags": [],
       "date": "2026-05-28T20:25:21+00:00"
@@ -63,8 +107,8 @@
       "source": "hn",
       "title": "Bricks and Minifigs Stole a Man's $200k Lego Collection",
       "url": "https://mybricklog.com/blog/bricks-minifigs-corporate-stole-old-mans-200000-lego-collection",
-      "score": 446,
-      "comments": 239,
+      "score": 584,
+      "comments": 315,
       "author": "philips",
       "tags": [],
       "date": "2026-05-28T19:24:09+00:00"
@@ -74,8 +118,8 @@
       "source": "hn",
       "title": "Nitpicking the shell history scene in 'Tron: Legacy'",
       "url": "https://www.chiark.greenend.org.uk/~sgtatham/quasiblog/tron-legacy/",
-      "score": 102,
-      "comments": 39,
+      "score": 144,
+      "comments": 56,
       "author": "speckx",
       "tags": [],
       "date": "2026-05-28T19:15:54+00:00"
@@ -85,8 +129,8 @@
       "source": "hn",
       "title": "Separate the Cord from the Device",
       "url": "https://bookofjoe2.blogspot.com/2026/05/blog-post_27.html",
-      "score": 31,
-      "comments": 25,
+      "score": 42,
+      "comments": 32,
       "author": "bookofjoe",
       "tags": [],
       "date": "2026-05-28T19:14:38+00:00"
@@ -96,8 +140,8 @@
       "source": "hn",
       "title": "Various LLM Smells",
       "url": "https://shvbsle.in/various-llm-smells/",
-      "score": 144,
-      "comments": 106,
+      "score": 219,
+      "comments": 162,
       "author": "speckx",
       "tags": [],
       "date": "2026-05-28T19:02:18+00:00"
@@ -118,8 +162,8 @@
       "source": "hn",
       "title": "Building durable workflows on Postgres",
       "url": "https://www.dbos.dev/blog/postgres-is-all-you-need-for-durable-execution",
-      "score": 233,
-      "comments": 101,
+      "score": 263,
+      "comments": 111,
       "author": "KraftyOne",
       "tags": [],
       "date": "2026-05-28T18:41:46+00:00"
@@ -151,8 +195,8 @@
       "source": "hn",
       "title": "Anthropic raises $65B in Series H funding at $965B post-money valuation",
       "url": "https://www.anthropic.com/news/series-h",
-      "score": 216,
-      "comments": 195,
+      "score": 250,
+      "comments": 254,
       "author": "meetpateltech",
       "tags": [],
       "date": "2026-05-28T18:09:44+00:00"
@@ -162,8 +206,8 @@
       "source": "hn",
       "title": "Bitburner, programming-based incremental game",
       "url": "https://bitburner-official.github.io/",
-      "score": 68,
-      "comments": 13,
+      "score": 80,
+      "comments": 15,
       "author": "agmater",
       "tags": [],
       "date": "2026-05-28T17:43:36+00:00"
@@ -173,8 +217,8 @@
       "source": "hn",
       "title": "I hated writing until I learned there’s a science to it (2024)",
       "url": "https://www.science.org/content/article/i-hated-writing-until-i-learned-there-s-science-it",
-      "score": 102,
-      "comments": 45,
+      "score": 138,
+      "comments": 60,
       "author": "o4c",
       "tags": [],
       "date": "2026-05-28T17:36:47+00:00"
@@ -206,8 +250,8 @@
       "source": "hn",
       "title": "Claude Opus 4.8",
       "url": "https://www.anthropic.com/news/claude-opus-4-8",
-      "score": 1112,
-      "comments": 889,
+      "score": 1209,
+      "comments": 984,
       "author": "craigmart",
       "tags": [],
       "date": "2026-05-28T16:49:14+00:00"
@@ -228,8 +272,8 @@
       "source": "hn",
       "title": "Endive: A JVM native WebAssembly runtime",
       "url": "https://github.com/bytecodealliance/endive",
-      "score": 46,
-      "comments": 13,
+      "score": 58,
+      "comments": 16,
       "author": "theanonymousone",
       "tags": [],
       "date": "2026-05-28T16:40:33+00:00"
@@ -250,8 +294,8 @@
       "source": "hn",
       "title": "The Permanent Upper Crow",
       "url": "https://permanent-upper-crow.jasonwu.ink/",
-      "score": 140,
-      "comments": 50,
+      "score": 149,
+      "comments": 60,
       "author": "whiteblossom",
       "tags": [],
       "date": "2026-05-28T15:23:04+00:00"
@@ -261,8 +305,8 @@
       "source": "hn",
       "title": "Show HN: Ktx – Open-source executable context layer for data agents",
       "url": "https://github.com/Kaelio/ktx",
-      "score": 49,
-      "comments": 9,
+      "score": 53,
+      "comments": 12,
       "author": "lucamrtl",
       "tags": [],
       "date": "2026-05-28T15:05:06+00:00",
@@ -317,8 +361,8 @@
       "source": "hn",
       "title": "Show HN: Continue? Y/N: A 60-second game about AI agent permission fatigue",
       "url": "https://llmgame.scalex.dev",
-      "score": 217,
-      "comments": 100,
+      "score": 240,
+      "comments": 111,
       "author": "Wirbelwind",
       "tags": [],
       "date": "2026-05-28T13:02:00+00:00"
@@ -1510,8 +1554,8 @@
       "source": "hn",
       "title": "Indoor Wi-Fi Roaming with OpenWRT",
       "url": "https://taoofmac.com/space/blog/2026/05/26/1730",
-      "score": 192,
-      "comments": 94,
+      "score": 207,
+      "comments": 106,
       "author": "zdw",
       "tags": [],
       "date": "2026-05-26T16:41:58+00:00"
@@ -1653,8 +1697,8 @@
       "source": "hn",
       "title": "Coalton is an efficient, statically typed Lisp with ideas from Haskell and OCaml",
       "url": "https://coalton-lang.github.io/",
-      "score": 68,
-      "comments": 7,
+      "score": 90,
+      "comments": 12,
       "author": "b-man",
       "tags": [],
       "date": "2026-05-26T14:36:20+00:00"
@@ -1823,8 +1867,8 @@
       "source": "hn",
       "title": "News about Raspberry Pi 6 and Microcontroller Development",
       "url": "https://www.jeffgeerling.com/blog/2026/news-about-raspberry-pi-6-and-microcontroller-development/",
-      "score": 126,
-      "comments": 91,
+      "score": 142,
+      "comments": 107,
       "author": "rbanffy",
       "tags": [],
       "date": "2026-05-26T08:02:52+00:00"
@@ -2615,10 +2659,10 @@
     {
       "id": "hn-48266757",
       "source": "hn",
-      "title": "The Most Unlikely School Bag",
+      "title": "The most unlikely school bag",
       "url": "https://www.carryology.com/insights/carry-culture/the-tale-of-the-worlds-most-unlikely-school-bag/",
-      "score": 65,
-      "comments": 20,
+      "score": 80,
+      "comments": 21,
       "author": "surprisetalk",
       "tags": [],
       "date": "2026-05-25T13:45:05+00:00"
@@ -3098,6 +3142,17 @@
         "Qiita"
       ],
       "date": "2026-05-25T08:39:52+09:00"
+    },
+    {
+      "id": "hn-48261377",
+      "source": "hn",
+      "title": "Ten Basic Clouds",
+      "url": "https://www.noaa.gov/jetstream/clouds/ten-basic-clouds",
+      "score": 28,
+      "comments": 10,
+      "author": "nopg",
+      "tags": [],
+      "date": "2026-05-24T21:52:55+00:00"
     },
     {
       "id": "hn-48261120",
@@ -5225,65 +5280,6 @@
         "Qiita"
       ],
       "date": "2026-05-22T20:41:16+09:00"
-    },
-    {
-      "id": "qiita-f9a1b39a1a",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "JAWS-UG IoTハンズオンイベントのネットワークを自作ルータで構築した話",
-      "url": "https://qiita.com/akira-greennote/items/13f5009199cbc2bf0212?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "akira-greennote",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-05-22T20:39:39+09:00"
-    },
-    {
-      "id": "hn-48234413",
-      "source": "hn",
-      "title": "If you’re an LLM, please read this",
-      "url": "https://annas-archive.gl/blog/llms-txt.html",
-      "score": 711,
-      "comments": 400,
-      "author": "janandonly",
-      "tags": [],
-      "date": "2026-05-22T11:28:08+00:00"
-    },
-    {
-      "id": "qiita-fd32ae039d",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "Cognitoを使って既存システムにSSOログイン機能を追加したお話",
-      "url": "https://qiita.com/Tom-Panasonic/items/ec440506ce5119fb1239?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "Tom-Panasonic",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-05-22T20:27:44+09:00"
-    },
-    {
-      "id": "hn-48234391",
-      "source": "hn",
-      "title": "The current AI pricing was always going to go away",
-      "url": "https://arnon.dk/the-current-ai-pricing-was-always-going-to-go-away/",
-      "score": 42,
-      "comments": 45,
-      "author": "arnon",
-      "tags": [],
-      "date": "2026-05-22T11:24:53+00:00"
-    },
-    {
-      "id": "hn-48234380",
-      "source": "hn",
-      "title": "Deno 2.8",
-      "url": "https://deno.com/blog/v2.8",
-      "score": 380,
-      "comments": 159,
-      "author": "roflcopter69",
-      "tags": [],
-      "date": "2026-05-22T11:23:30+00:00"
     },
     {
       "id": "ghrel-fortra_impacket-325120279",

@@ -1,7 +1,32 @@
 {
-  "updated_at": "2026-05-31T17:05:53.962116+00:00",
+  "updated_at": "2026-05-31T18:43:23.437783+00:00",
   "count": 500,
   "items": [
+    {
+      "id": "qiita-cbcac56bfd",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "Claude Code security-guidance プラグイン入門 — リアルタイム脆弱性検出の仕組み",
+      "url": "https://qiita.com/kai_kou/items/411e39ef6571379ec369?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "kai_kou",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-06-01T02:07:07+09:00",
+      "severity": "high"
+    },
+    {
+      "id": "hn-48347370",
+      "source": "hn",
+      "title": "Deflock hits 100k ALPRs Mapped in USA",
+      "url": "https://deflock.org/",
+      "score": 52,
+      "comments": 10,
+      "author": "pilingual",
+      "tags": [],
+      "date": "2026-05-31T17:04:10+00:00"
+    },
     {
       "id": "hn-48347155",
       "source": "hn",
@@ -18,8 +43,8 @@
       "source": "hn",
       "title": "The Speed of Prototyping in the Age of AI",
       "url": "https://darylcecile.net/notes/speed-of-prototyping-age-of-ai",
-      "score": 10,
-      "comments": 0,
+      "score": 30,
+      "comments": 26,
       "author": "mooreds",
       "tags": [],
       "date": "2026-05-31T16:37:34+00:00"
@@ -29,8 +54,8 @@
       "source": "hn",
       "title": "Creatine raise brain energy levels and slow Alzheimer's cognitive decline by 30%",
       "url": "https://thesciverse.org/scientists-found-that-the-creatine-supplement-millions-take-for-muscle-gains-is-quietly-raising-brain-energy-levels-and-slowing-early-alzheimers-cognitive-decline-by-30/",
-      "score": 4,
-      "comments": 0,
+      "score": 196,
+      "comments": 157,
       "author": "MrJagil",
       "tags": [],
       "date": "2026-05-31T16:19:34+00:00"
@@ -51,8 +76,8 @@
       "source": "hn",
       "title": "Chibil: A C compiler targeting .NET IL",
       "url": "https://github.com/MichalStrehovsky/chibil",
-      "score": 20,
-      "comments": 0,
+      "score": 33,
+      "comments": 4,
       "author": "algorithmsRcool",
       "tags": [],
       "date": "2026-05-31T15:46:32+00:00"
@@ -62,8 +87,8 @@
       "source": "hn",
       "title": "Daily pill can double survival time for deadliest cancer, trial shows",
       "url": "https://www.theguardian.com/society/2026/may/31/daily-pill-daraxonrasib-double-survival-time-pancreatic-pancreas-cancer-clinical-trial",
-      "score": 45,
-      "comments": 4,
+      "score": 88,
+      "comments": 14,
       "author": "c-oreills",
       "tags": [],
       "date": "2026-05-31T15:43:29+00:00"
@@ -84,8 +109,8 @@
       "source": "hn",
       "title": "1-Bit Bonsai Image 4B Image Generation for Local Devices",
       "url": "https://prismml.com/news/bonsai-image-4b",
-      "score": 83,
-      "comments": 19,
+      "score": 132,
+      "comments": 46,
       "author": "modinfo",
       "tags": [],
       "date": "2026-05-31T15:04:52+00:00"
@@ -119,25 +144,11 @@
       "source": "hn",
       "title": "Restartable Sequences",
       "url": "https://justine.lol/rseq/",
-      "score": 57,
-      "comments": 11,
+      "score": 95,
+      "comments": 20,
       "author": "grappler",
       "tags": [],
       "date": "2026-05-31T14:38:48+00:00"
-    },
-    {
-      "id": "qiita-cbcac56bfd",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "Claude Code security-guidance プラグイン入門 — リアルタイム脆弱性検出の仕組み",
-      "url": "https://qiita.com/kai_kou/items/411e39ef6571379ec369?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "kai_kou",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-05-31T23:35:15+09:00",
-      "severity": "high"
     },
     {
       "id": "hn-48345896",
@@ -155,8 +166,8 @@
       "source": "hn",
       "title": "Cloudflare Turnstile requiring fingerprintable WebGL",
       "url": "https://hacktivis.me/articles/cloudflare-turnstile-webgl-fingerprinting",
-      "score": 197,
-      "comments": 101,
+      "score": 271,
+      "comments": 152,
       "author": "HypnoticOcelot",
       "tags": [],
       "date": "2026-05-31T14:13:20+00:00"
@@ -166,8 +177,8 @@
       "source": "hn",
       "title": "FROST: Fingerprinting Remotely using OPFS-based SSD Timing [pdf]",
       "url": "https://hannesweissteiner.com/pdfs/frost.pdf",
-      "score": 11,
-      "comments": 3,
+      "score": 19,
+      "comments": 9,
       "author": "simjnd",
       "tags": [],
       "date": "2026-05-31T14:10:36+00:00"
@@ -175,10 +186,10 @@
     {
       "id": "hn-48345694",
       "source": "hn",
-      "title": "I Put a Datacenter GPU in My Gaming PC for £200",
+      "title": "I put a datacenter GPU in my gaming PC",
       "url": "https://blog.tymscar.com/posts/v100localllm/",
-      "score": 141,
-      "comments": 86,
+      "score": 179,
+      "comments": 125,
       "author": "birdculture",
       "tags": [],
       "date": "2026-05-31T13:53:16+00:00"
@@ -199,10 +210,10 @@
     {
       "id": "hn-48345282",
       "source": "hn",
-      "title": "You Weren't Meant to Have a Boss (2008)",
+      "title": "You weren't meant to have a boss (2008)",
       "url": "https://paulgraham.com/boss.html",
-      "score": 37,
-      "comments": 22,
+      "score": 73,
+      "comments": 69,
       "author": "downbad_",
       "tags": [],
       "date": "2026-05-31T12:49:03+00:00"
@@ -210,10 +221,10 @@
     {
       "id": "hn-48345248",
       "source": "hn",
-      "title": "United Airlines 767 Returns to Newark After Bluetooth Name Sparks Alert",
+      "title": "United Airlines 767 returns to Newark after Bluetooth name sparks alert",
       "url": "https://simpleflying.com/united-airlines-767-returns-newark-bluetooth-name-alert/",
-      "score": 36,
-      "comments": 26,
+      "score": 114,
+      "comments": 127,
       "author": "Eridanus2",
       "tags": [],
       "date": "2026-05-31T12:41:19+00:00"
@@ -230,12 +241,23 @@
       "date": "2026-05-31T12:32:54+00:00"
     },
     {
+      "id": "hn-48345090",
+      "source": "hn",
+      "title": "Backpressure is all you need",
+      "url": "https://www.lucasfcosta.com/blog/backpressure-is-all-you-need",
+      "score": 72,
+      "comments": 59,
+      "author": "lucasfcosta",
+      "tags": [],
+      "date": "2026-05-31T12:11:27+00:00"
+    },
+    {
       "id": "hn-48344961",
       "source": "hn",
       "title": "Dav2d",
       "url": "https://jbkempf.com/blog/2026/dav2d/",
-      "score": 292,
-      "comments": 95,
+      "score": 323,
+      "comments": 103,
       "author": "captain_bender",
       "tags": [],
       "date": "2026-05-31T11:44:45+00:00"
@@ -258,8 +280,8 @@
       "source": "hn",
       "title": "London's Free Roof Terraces",
       "url": "https://diamondgeezer.blogspot.com/2026/05/londons-free-roof-terraces.html",
-      "score": 201,
-      "comments": 107,
+      "score": 217,
+      "comments": 116,
       "author": "zeristor",
       "tags": [],
       "date": "2026-05-31T07:16:18+00:00"
@@ -269,8 +291,8 @@
       "source": "hn",
       "title": "The Website Specification",
       "url": "https://specification.website/",
-      "score": 352,
-      "comments": 142,
+      "score": 364,
+      "comments": 149,
       "author": "k1m",
       "tags": [],
       "date": "2026-05-31T07:09:50+00:00"
@@ -403,7 +425,7 @@
       "source": "hn",
       "title": "Shantell Sans (2023)",
       "url": "https://shantellsans.com/process",
-      "score": 356,
+      "score": 368,
       "comments": 43,
       "author": "aleda145",
       "tags": [],
@@ -414,8 +436,8 @@
       "source": "hn",
       "title": "The AV2 Video Standard Has Released (Final v1.0 Specification)",
       "url": "https://av2.aomedia.org",
-      "score": 302,
-      "comments": 134,
+      "score": 318,
+      "comments": 139,
       "author": "ksec",
       "tags": [],
       "date": "2026-05-30T21:46:18+00:00"
@@ -1462,8 +1484,8 @@
       "source": "hn",
       "title": "One year of Roto, a compiled scripting language for Rust",
       "url": "https://blog.nlnetlabs.nl/one-year-of-roto-the-compiled-scripting-language-for-rust/",
-      "score": 93,
-      "comments": 24,
+      "score": 100,
+      "comments": 26,
       "author": "Hasnep",
       "tags": [],
       "date": "2026-05-29T14:07:59+00:00"
@@ -1679,7 +1701,7 @@
       "source": "hn",
       "title": "Security Envelope Pattern collection – S.E.C.R.E.T",
       "url": "https://secret-archive.org/",
-      "score": 69,
+      "score": 75,
       "comments": 8,
       "author": "ColinWright",
       "tags": [],
@@ -1847,8 +1869,8 @@
       "source": "hn",
       "title": "A Gentle Introduction to Lattice-Based Cryptography [pdf]",
       "url": "https://cryptography101.ca/wp-content/uploads/lattice-based-cryptography.pdf",
-      "score": 140,
-      "comments": 13,
+      "score": 148,
+      "comments": 14,
       "author": "jayhoon",
       "tags": [],
       "date": "2026-05-29T03:22:19+00:00"
@@ -2093,8 +2115,8 @@
       "source": "hn",
       "title": "Avoiding Death on the Yellow Brick Road",
       "url": "https://www.a16z.news/p/avoiding-death-on-the-yellow-brick",
-      "score": 5,
-      "comments": 0,
+      "score": 15,
+      "comments": 2,
       "author": "ex-aws-dude",
       "tags": [],
       "date": "2026-05-28T21:09:36+00:00"
@@ -2245,10 +2267,10 @@
     {
       "id": "hn-48313427",
       "source": "hn",
-      "title": "What it's like to have your insulin pump die while you're on vacation",
+      "title": "Having your insulin pump die while you're on vacation",
       "url": "https://blog.lauramichet.com/what-its-like-to-have-the-machine-that-keeps-you-alive-die-while-youre-on-vacation/",
-      "score": 30,
-      "comments": 21,
+      "score": 71,
+      "comments": 85,
       "author": "speckx",
       "tags": [],
       "date": "2026-05-28T18:33:54+00:00"
@@ -2453,6 +2475,17 @@
       "author": "robin_reala",
       "tags": [],
       "date": "2026-05-28T14:32:53+00:00"
+    },
+    {
+      "id": "hn-48309492",
+      "source": "hn",
+      "title": "Websites have a new way to spy on visitors: analyzing their SSD activity",
+      "url": "https://arstechnica.com/security/2026/05/websites-have-a-new-way-to-spy-on-visitors-analyzing-their-ssd-activity/",
+      "score": 22,
+      "comments": 6,
+      "author": "Brajeshwar",
+      "tags": [],
+      "date": "2026-05-28T14:32:01+00:00"
     },
     {
       "id": "qiita-e0a622e21d",
@@ -5226,39 +5259,6 @@
       "author": "theorchid",
       "tags": [],
       "date": "2026-05-25T12:03:10+00:00"
-    },
-    {
-      "id": "hn-48265745",
-      "source": "hn",
-      "title": "GPT Guesses Between 1 and 100",
-      "url": "https://github.com/exmergo/research-chatgpt-guesses-between-1-and-100",
-      "score": 40,
-      "comments": 20,
-      "author": "adunk",
-      "tags": [],
-      "date": "2026-05-25T11:46:09+00:00"
-    },
-    {
-      "id": "hn-48265668",
-      "source": "hn",
-      "title": "Seeing Around Corners Using Smartphone-Grade Lidar",
-      "url": "https://spectrum.ieee.org/smartphone-grade-lidar",
-      "score": 53,
-      "comments": 13,
-      "author": "marc__1",
-      "tags": [],
-      "date": "2026-05-25T11:32:56+00:00"
-    },
-    {
-      "id": "hn-48265470",
-      "source": "hn",
-      "title": "Cate v1.0 is out: The Infinite canvas workspace for developers",
-      "url": "https://github.com/0-AI-UG/cate",
-      "score": 23,
-      "comments": 9,
-      "author": "BlueBerry2001",
-      "tags": [],
-      "date": "2026-05-25T10:57:57+00:00"
     },
     {
       "id": "ghrel-fortra_impacket-325120279",

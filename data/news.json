@@ -1,14 +1,77 @@
 {
-  "updated_at": "2026-06-01T00:13:01.117853+00:00",
+  "updated_at": "2026-06-01T05:25:06.198248+00:00",
   "count": 500,
   "items": [
     {
+      "id": "hn-48352500",
+      "source": "hn",
+      "title": "Rubin Tracks Skyscraper-Size Asteroids and Failed Supernovas",
+      "url": "https://www.quantamagazine.org/rubin-tracks-skyscraper-size-asteroids-failed-supernovas-and-interstellar-visitors-20260515/",
+      "score": 3,
+      "comments": 0,
+      "author": "adm4",
+      "tags": [],
+      "date": "2026-06-01T04:08:02+00:00"
+    },
+    {
+      "id": "qiita-ab732fe61f",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "ClaudeCodeとCodexにコーディングを全て任せて商用レベルのUnityゲーム開発を行う【後編】",
+      "url": "https://qiita.com/archeleeds/items/6ec24ba4942973a1ce0b?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "archeleeds",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-06-01T12:21:29+09:00"
+    },
+    {
+      "id": "qiita-1366179bc9",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "これを読めば分かるClaude Code 完全攻略ガイド",
+      "url": "https://qiita.com/s-furuya-nri/items/4385ac59ebefb923cf0d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "s-furuya-nri",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-06-01T11:50:22+09:00"
+    },
+    {
+      "id": "qiita-8606d577ef",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "就活中のジュニアエンジニアが面接で痛感した「力不足」の話",
+      "url": "https://qiita.com/Yamada040/items/a8230f78084612e4e9e1?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "Yamada040",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-06-01T10:48:14+09:00"
+    },
+    {
+      "id": "qiita-7bff1a9ed4",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "AI が Windows を自律操作するって本当？ Project Opal (Frontier) を試して分かった「実用的な使いどころ」",
+      "url": "https://qiita.com/carol0226/items/a78a888ce0c4d2364232?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "carol0226",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-06-01T09:51:10+09:00"
+    },
+    {
       "id": "hn-48350598",
       "source": "hn",
-      "title": "Chuwi Minibook X: the netbook we deserve",
+      "title": "Chuwi Minibook X",
       "url": "https://tylercipriani.com/blog/2026/05/28/chuwi-minibook-x/",
-      "score": 36,
-      "comments": 30,
+      "score": 146,
+      "comments": 124,
       "author": "thcipriani",
       "tags": [],
       "date": "2026-05-31T22:59:50+00:00"
@@ -49,14 +112,13 @@
     {
       "id": "hn-48349487",
       "source": "hn",
-      "title": "ChatGPT for Google Sheets is vulnerable to data exfiltration and phishing",
+      "title": "ChatGPT for Google Sheets exfiltrates workbooks",
       "url": "https://www.promptarmor.com/resources/gpt-for-google-sheets-data-exfiltration",
-      "score": 95,
-      "comments": 34,
+      "score": 141,
+      "comments": 41,
       "author": "hackerBanana",
       "tags": [],
-      "date": "2026-05-31T20:35:38+00:00",
-      "severity": "medium"
+      "date": "2026-05-31T20:35:38+00:00"
     },
     {
       "id": "hn-48348864",
@@ -96,8 +158,8 @@
       "source": "hn",
       "title": "Codex just found a \"workaround\" of not having sudo on my PC",
       "url": "https://twitter.com/i/status/2060746160558543217",
-      "score": 331,
-      "comments": 145,
+      "score": 461,
+      "comments": 218,
       "author": "thunderbong",
       "tags": [],
       "date": "2026-05-31T18:57:48+00:00"
@@ -107,8 +169,8 @@
       "source": "hn",
       "title": "Show HN: Streambed – Stream Postgres to Iceberg on S3, Supports Postgres Wire",
       "url": "https://github.com/viggy28/streambed",
-      "score": 52,
-      "comments": 5,
+      "score": 85,
+      "comments": 19,
       "author": "vira28",
       "tags": [],
       "date": "2026-05-31T18:43:05+00:00"
@@ -118,8 +180,8 @@
       "source": "hn",
       "title": "Re: [PATCH] OOM_pardon, a.k.a. don't kill my xlock (2004)",
       "url": "https://lwn.net/Articles/104185/",
-      "score": 50,
-      "comments": 40,
+      "score": 70,
+      "comments": 57,
       "author": "luu",
       "tags": [],
       "date": "2026-05-31T17:58:15+00:00",
@@ -155,8 +217,8 @@
       "source": "hn",
       "title": "Meta launches Instagram, Facebook, and WhatsApp subscriptions",
       "url": "https://techcrunch.com/2026/05/27/meta-officially-launches-instagram-facebook-and-whatsapp-subscriptions-with-more-to-come-including-ai-plans/",
-      "score": 101,
-      "comments": 152,
+      "score": 177,
+      "comments": 269,
       "author": "tambourine_man",
       "tags": [],
       "date": "2026-05-31T17:02:23+00:00"
@@ -177,8 +239,8 @@
       "source": "hn",
       "title": "The Speed of Prototyping in the Age of AI",
       "url": "https://darylcecile.net/notes/speed-of-prototyping-age-of-ai",
-      "score": 102,
-      "comments": 60,
+      "score": 134,
+      "comments": 68,
       "author": "mooreds",
       "tags": [],
       "date": "2026-05-31T16:37:34+00:00"
@@ -243,24 +305,11 @@
       "source": "hn",
       "title": "1-Bit Bonsai Image 4B Image Generation for Local Devices",
       "url": "https://prismml.com/news/bonsai-image-4b",
-      "score": 260,
-      "comments": 92,
+      "score": 334,
+      "comments": 118,
       "author": "modinfo",
       "tags": [],
       "date": "2026-05-31T15:04:52+00:00"
-    },
-    {
-      "id": "qiita-1366179bc9",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "これを読めば分かるClaude Code 完全攻略ガイド",
-      "url": "https://qiita.com/s-furuya-nri/items/4385ac59ebefb923cf0d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "s-furuya-nri",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-05-31T23:55:49+09:00"
     },
     {
       "id": "hn-48346125",
@@ -278,7 +327,7 @@
       "source": "hn",
       "title": "Restartable Sequences",
       "url": "https://justine.lol/rseq/",
-      "score": 174,
+      "score": 194,
       "comments": 51,
       "author": "grappler",
       "tags": [],
@@ -313,8 +362,8 @@
       "source": "hn",
       "title": "Cloudflare Turnstile requiring fingerprintable WebGL",
       "url": "https://hacktivis.me/articles/cloudflare-turnstile-webgl-fingerprinting",
-      "score": 476,
-      "comments": 263,
+      "score": 586,
+      "comments": 328,
       "author": "HypnoticOcelot",
       "tags": [],
       "date": "2026-05-31T14:13:20+00:00"
@@ -342,19 +391,6 @@
       "date": "2026-05-31T13:53:16+00:00"
     },
     {
-      "id": "qiita-7bff1a9ed4",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "AI が Windows を自律操作するって本当？ Project Opal (Frontier) を試して分かった「実用的な使いどころ」",
-      "url": "https://qiita.com/carol0226/items/a78a888ce0c4d2364232?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "carol0226",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-05-31T22:10:19+09:00"
-    },
-    {
       "id": "hn-48345282",
       "source": "hn",
       "title": "You weren't meant to have a boss (2008)",
@@ -370,8 +406,8 @@
       "source": "hn",
       "title": "United Airlines 767 returns to Newark after Bluetooth name sparks alert",
       "url": "https://simpleflying.com/united-airlines-767-returns-newark-bluetooth-name-alert/",
-      "score": 241,
-      "comments": 390,
+      "score": 317,
+      "comments": 524,
       "author": "Eridanus2",
       "tags": [],
       "date": "2026-05-31T12:41:19+00:00"
@@ -403,8 +439,8 @@
       "source": "hn",
       "title": "Dav2d",
       "url": "https://jbkempf.com/blog/2026/dav2d/",
-      "score": 385,
-      "comments": 135,
+      "score": 422,
+      "comments": 158,
       "author": "captain_bender",
       "tags": [],
       "date": "2026-05-31T11:44:45+00:00"
@@ -427,8 +463,8 @@
       "source": "hn",
       "title": "London's Free Roof Terraces",
       "url": "https://diamondgeezer.blogspot.com/2026/05/londons-free-roof-terraces.html",
-      "score": 263,
-      "comments": 132,
+      "score": 281,
+      "comments": 135,
       "author": "zeristor",
       "tags": [],
       "date": "2026-05-31T07:16:18+00:00"
@@ -438,8 +474,8 @@
       "source": "hn",
       "title": "The Website Specification",
       "url": "https://specification.website/",
-      "score": 429,
-      "comments": 180,
+      "score": 468,
+      "comments": 187,
       "author": "k1m",
       "tags": [],
       "date": "2026-05-31T07:09:50+00:00"
@@ -889,19 +925,6 @@
       "date": "2026-05-30T15:15:23+00:00"
     },
     {
-      "id": "qiita-8606d577ef",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "就活中のジュニアエンジニアが面接で痛感した「力不足」の話",
-      "url": "https://qiita.com/Yamada040/items/a8230f78084612e4e9e1?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "Yamada040",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-05-31T00:01:35+09:00"
-    },
-    {
       "id": "hn-48336760",
       "source": "hn",
       "title": "AI Job Grief: The Unnamed Psychological Crisis Hitting Tech Workers",
@@ -1128,19 +1151,6 @@
       "author": "gattilorenz",
       "tags": [],
       "date": "2026-05-30T06:58:23+00:00"
-    },
-    {
-      "id": "qiita-ab732fe61f",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "ClaudeCodeとCodexにコーディングを全て任せて商用レベルのUnityゲーム開発を行う【後編】",
-      "url": "https://qiita.com/archeleeds/items/6ec24ba4942973a1ce0b?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "archeleeds",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-05-30T15:17:48+09:00"
     },
     {
       "id": "hn-48333096",
@@ -1450,6 +1460,17 @@
       "date": "2026-05-30T03:49:02+09:00"
     },
     {
+      "id": "hn-48327453",
+      "source": "hn",
+      "title": "Decades of Effort Restore Steelhead and Salmon Passage on Alameda Creek",
+      "url": "https://www.fisheries.noaa.gov/feature-story/decades-effort-restore-steelhead-and-salmon-passage-californias-alameda-creek",
+      "score": 62,
+      "comments": 4,
+      "author": "rawgabbit",
+      "tags": [],
+      "date": "2026-05-29T18:37:22+00:00"
+    },
+    {
       "id": "hn-48327367",
       "source": "hn",
       "title": "Rothko for your current weather conditions",
@@ -1612,8 +1633,8 @@
       "source": "hn",
       "title": "Unix in East Germany (GDR) (1990)",
       "url": "https://groups.google.com/g/comp.unix.wizards/c/QX_dxElrVNs",
-      "score": 17,
-      "comments": 1,
+      "score": 38,
+      "comments": 6,
       "author": "downbad_",
       "tags": [],
       "date": "2026-05-29T15:21:42+00:00"
@@ -1727,8 +1748,8 @@
       "source": "hn",
       "title": "New Beam Spring Keyboards",
       "url": "https://www.modelfkeyboards.com/product/beam-spring-b104-keyboard/",
-      "score": 39,
-      "comments": 15,
+      "score": 83,
+      "comments": 62,
       "author": "recursivedoubts",
       "tags": [],
       "date": "2026-05-29T13:39:41+00:00"
@@ -1813,6 +1834,17 @@
       "date": "2026-05-29T12:17:55+00:00"
     },
     {
+      "id": "hn-48322134",
+      "source": "hn",
+      "title": "Finding success in industry as a chip designer",
+      "url": "https://spectrum.ieee.org/chip-design-academic-vs-industry",
+      "score": 12,
+      "comments": 1,
+      "author": "jnord",
+      "tags": [],
+      "date": "2026-05-29T12:15:43+00:00"
+    },
+    {
       "id": "hn-48322118",
       "source": "hn",
       "title": "We should be more tired than the model",
@@ -1874,8 +1906,8 @@
       "source": "hn",
       "title": "Linux/M68k",
       "url": "http://www.linux-m68k.org/",
-      "score": 51,
-      "comments": 16,
+      "score": 82,
+      "comments": 21,
       "author": "doener",
       "tags": [],
       "date": "2026-05-29T11:46:52+00:00"
@@ -2329,6 +2361,17 @@
       "date": "2026-05-28T22:29:31+00:00"
     },
     {
+      "id": "hn-48316350",
+      "source": "hn",
+      "title": "The Genius of the Barn Owl's Feathers",
+      "url": "https://thereader.mitpress.mit.edu/the-genius-of-the-barn-owls-feathers/",
+      "score": 6,
+      "comments": 0,
+      "author": "EA-3167",
+      "tags": [],
+      "date": "2026-05-28T22:21:59+00:00"
+    },
+    {
       "id": "qiita-a3c97e2720",
       "source": "zennqiita",
       "sub_source": "Qiita",
@@ -2512,8 +2555,8 @@
       "source": "hn",
       "title": "Having your insulin pump die while you're on vacation",
       "url": "https://blog.lauramichet.com/what-its-like-to-have-the-machine-that-keeps-you-alive-die-while-youre-on-vacation/",
-      "score": 118,
-      "comments": 132,
+      "score": 146,
+      "comments": 152,
       "author": "speckx",
       "tags": [],
       "date": "2026-05-28T18:33:54+00:00"
@@ -2724,8 +2767,8 @@
       "source": "hn",
       "title": "Websites have a new way to spy on visitors: analyzing their SSD activity",
       "url": "https://arstechnica.com/security/2026/05/websites-have-a-new-way-to-spy-on-visitors-analyzing-their-ssd-activity/",
-      "score": 97,
-      "comments": 22,
+      "score": 141,
+      "comments": 34,
       "author": "Brajeshwar",
       "tags": [],
       "date": "2026-05-28T14:32:01+00:00"
@@ -2945,8 +2988,8 @@
       "source": "hn",
       "title": "The four programming questions from my 1994 Microsoft internship interview (2023)",
       "url": "https://www.computerenhance.com/p/the-four-programming-questions-from",
-      "score": 55,
-      "comments": 20,
+      "score": 108,
+      "comments": 43,
       "author": "tosh",
       "tags": [],
       "date": "2026-05-28T08:28:23+00:00"
@@ -5198,39 +5241,6 @@
       "date": "2026-05-25T18:37:05+00:00"
     },
     {
-      "id": "hn-48269971",
-      "source": "hn",
-      "title": "Alaska's oil revival sparks a new energy rush Into the Arctic",
-      "url": "https://fortune.com/2026/05/24/alaska-oil-revival-energy-investment-arctic-drilling-national-petroleum-reserve-npra/",
-      "score": 36,
-      "comments": 33,
-      "author": "Brajeshwar",
-      "tags": [],
-      "date": "2026-05-25T18:20:46+00:00"
-    },
-    {
-      "id": "hn-48269961",
-      "source": "hn",
-      "title": "California moves to exempt Linux from its age-verification law after backlash",
-      "url": "https://www.tomshardware.com/software/linux/california-moves-to-exempt-linux-from-its-upcoming-age-verification-law-after-backlash-over-forcing-operating-systems-to-collect-users-ages-amendment-proposed-by-the-same-lawmaker-who-wrote-the-original-law",
-      "score": 847,
-      "comments": 363,
-      "author": "rbanffy",
-      "tags": [],
-      "date": "2026-05-25T18:19:58+00:00"
-    },
-    {
-      "id": "hn-48269937",
-      "source": "hn",
-      "title": "Weave (YC W25) is hiring ML, AI, product, & design engineers",
-      "url": "https://jobs.ashbyhq.com/workweave",
-      "score": 1,
-      "comments": 0,
-      "author": "adchurch",
-      "tags": [],
-      "date": "2026-05-25T18:18:26+00:00"
-    },
-    {
       "id": "ctf-3751602",
       "source": "project",
       "proj_category": "CTF",
@@ -5257,17 +5267,6 @@
         "Security"
       ],
       "date": "2026-05-25T18:08:55Z"
-    },
-    {
-      "id": "hn-48269580",
-      "source": "hn",
-      "title": "Exit IP VPN servers mitigation rollout",
-      "url": "https://mullvad.net/en/help/exit-ip-vpn-servers-mitigation-rollout",
-      "score": 347,
-      "comments": 64,
-      "author": "Cider9986",
-      "tags": [],
-      "date": "2026-05-25T17:45:11+00:00"
     },
     {
       "id": "ghrel-fortra_impacket-325120279",

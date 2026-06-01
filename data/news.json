@@ -1,14 +1,25 @@
 {
-  "updated_at": "2026-05-31T22:59:30.885602+00:00",
+  "updated_at": "2026-06-01T00:13:01.117853+00:00",
   "count": 500,
   "items": [
+    {
+      "id": "hn-48350598",
+      "source": "hn",
+      "title": "Chuwi Minibook X: the netbook we deserve",
+      "url": "https://tylercipriani.com/blog/2026/05/28/chuwi-minibook-x/",
+      "score": 36,
+      "comments": 30,
+      "author": "thcipriani",
+      "tags": [],
+      "date": "2026-05-31T22:59:50+00:00"
+    },
     {
       "id": "hn-48350149",
       "source": "hn",
       "title": "It's Not Just X. It's Y",
       "url": "https://mail.cyberneticforests.com/its-not-just-data-its-post-training/",
-      "score": 30,
-      "comments": 4,
+      "score": 69,
+      "comments": 56,
       "author": "mooreds",
       "tags": [],
       "date": "2026-05-31T21:57:48+00:00"
@@ -38,13 +49,14 @@
     {
       "id": "hn-48349487",
       "source": "hn",
-      "title": "ChatGPT for Google Sheets Exfiltrates Workbooks",
+      "title": "ChatGPT for Google Sheets is vulnerable to data exfiltration and phishing",
       "url": "https://www.promptarmor.com/resources/gpt-for-google-sheets-data-exfiltration",
-      "score": 72,
-      "comments": 22,
+      "score": 95,
+      "comments": 34,
       "author": "hackerBanana",
       "tags": [],
-      "date": "2026-05-31T20:35:38+00:00"
+      "date": "2026-05-31T20:35:38+00:00",
+      "severity": "medium"
     },
     {
       "id": "hn-48348864",
@@ -56,6 +68,17 @@
       "author": "mindcrime",
       "tags": [],
       "date": "2026-05-31T19:27:44+00:00"
+    },
+    {
+      "id": "hn-48348737",
+      "source": "hn",
+      "title": "The History of \"Prisencolinensinainciusol\"",
+      "url": "https://dirkdeklein.net/2026/02/03/the-fascinating-history-of-prisencolinensinainciusol-the-nonsense-song-that-became-a-global-hit/",
+      "score": 20,
+      "comments": 3,
+      "author": "NaOH",
+      "tags": [],
+      "date": "2026-05-31T19:14:23+00:00"
     },
     {
       "id": "hn-48348704",
@@ -73,8 +96,8 @@
       "source": "hn",
       "title": "Codex just found a \"workaround\" of not having sudo on my PC",
       "url": "https://twitter.com/i/status/2060746160558543217",
-      "score": 298,
-      "comments": 125,
+      "score": 331,
+      "comments": 145,
       "author": "thunderbong",
       "tags": [],
       "date": "2026-05-31T18:57:48+00:00"
@@ -84,8 +107,8 @@
       "source": "hn",
       "title": "Show HN: Streambed – Stream Postgres to Iceberg on S3, Supports Postgres Wire",
       "url": "https://github.com/viggy28/streambed",
-      "score": 43,
-      "comments": 3,
+      "score": 52,
+      "comments": 5,
       "author": "vira28",
       "tags": [],
       "date": "2026-05-31T18:43:05+00:00"
@@ -95,8 +118,8 @@
       "source": "hn",
       "title": "Re: [PATCH] OOM_pardon, a.k.a. don't kill my xlock (2004)",
       "url": "https://lwn.net/Articles/104185/",
-      "score": 43,
-      "comments": 34,
+      "score": 50,
+      "comments": 40,
       "author": "luu",
       "tags": [],
       "date": "2026-05-31T17:58:15+00:00",
@@ -132,8 +155,8 @@
       "source": "hn",
       "title": "Meta launches Instagram, Facebook, and WhatsApp subscriptions",
       "url": "https://techcrunch.com/2026/05/27/meta-officially-launches-instagram-facebook-and-whatsapp-subscriptions-with-more-to-come-including-ai-plans/",
-      "score": 87,
-      "comments": 123,
+      "score": 101,
+      "comments": 152,
       "author": "tambourine_man",
       "tags": [],
       "date": "2026-05-31T17:02:23+00:00"
@@ -154,8 +177,8 @@
       "source": "hn",
       "title": "The Speed of Prototyping in the Age of AI",
       "url": "https://darylcecile.net/notes/speed-of-prototyping-age-of-ai",
-      "score": 97,
-      "comments": 55,
+      "score": 102,
+      "comments": 60,
       "author": "mooreds",
       "tags": [],
       "date": "2026-05-31T16:37:34+00:00"
@@ -165,8 +188,8 @@
       "source": "hn",
       "title": "Creatine raises brain energy levels and slows cognitive decline: study",
       "url": "https://thesciverse.org/scientists-found-that-the-creatine-supplement-millions-take-for-muscle-gains-is-quietly-raising-brain-energy-levels-and-slowing-early-alzheimers-cognitive-decline-by-30/",
-      "score": 422,
-      "comments": 285,
+      "score": 445,
+      "comments": 294,
       "author": "MrJagil",
       "tags": [],
       "date": "2026-05-31T16:19:34+00:00"
@@ -220,8 +243,8 @@
       "source": "hn",
       "title": "1-Bit Bonsai Image 4B Image Generation for Local Devices",
       "url": "https://prismml.com/news/bonsai-image-4b",
-      "score": 248,
-      "comments": 90,
+      "score": 260,
+      "comments": 92,
       "author": "modinfo",
       "tags": [],
       "date": "2026-05-31T15:04:52+00:00"
@@ -255,8 +278,8 @@
       "source": "hn",
       "title": "Restartable Sequences",
       "url": "https://justine.lol/rseq/",
-      "score": 165,
-      "comments": 48,
+      "score": 174,
+      "comments": 51,
       "author": "grappler",
       "tags": [],
       "date": "2026-05-31T14:38:48+00:00"
@@ -290,8 +313,8 @@
       "source": "hn",
       "title": "Cloudflare Turnstile requiring fingerprintable WebGL",
       "url": "https://hacktivis.me/articles/cloudflare-turnstile-webgl-fingerprinting",
-      "score": 452,
-      "comments": 248,
+      "score": 476,
+      "comments": 263,
       "author": "HypnoticOcelot",
       "tags": [],
       "date": "2026-05-31T14:13:20+00:00"
@@ -347,8 +370,8 @@
       "source": "hn",
       "title": "United Airlines 767 returns to Newark after Bluetooth name sparks alert",
       "url": "https://simpleflying.com/united-airlines-767-returns-newark-bluetooth-name-alert/",
-      "score": 228,
-      "comments": 355,
+      "score": 241,
+      "comments": 390,
       "author": "Eridanus2",
       "tags": [],
       "date": "2026-05-31T12:41:19+00:00"
@@ -380,8 +403,8 @@
       "source": "hn",
       "title": "Dav2d",
       "url": "https://jbkempf.com/blog/2026/dav2d/",
-      "score": 379,
-      "comments": 133,
+      "score": 385,
+      "comments": 135,
       "author": "captain_bender",
       "tags": [],
       "date": "2026-05-31T11:44:45+00:00"
@@ -404,7 +427,7 @@
       "source": "hn",
       "title": "London's Free Roof Terraces",
       "url": "https://diamondgeezer.blogspot.com/2026/05/londons-free-roof-terraces.html",
-      "score": 258,
+      "score": 263,
       "comments": 132,
       "author": "zeristor",
       "tags": [],
@@ -415,8 +438,8 @@
       "source": "hn",
       "title": "The Website Specification",
       "url": "https://specification.website/",
-      "score": 421,
-      "comments": 176,
+      "score": 429,
+      "comments": 180,
       "author": "k1m",
       "tags": [],
       "date": "2026-05-31T07:09:50+00:00"
@@ -1471,6 +1494,17 @@
       "date": "2026-05-29T17:39:49+00:00"
     },
     {
+      "id": "hn-48326053",
+      "source": "hn",
+      "title": "Reconciling Kubernetes cost estimates with CUR / FOCUS billing data",
+      "url": "https://github.com/tanrikuluozlem/burn",
+      "score": 3,
+      "comments": 0,
+      "author": "OzlemT",
+      "tags": [],
+      "date": "2026-05-29T17:06:10+00:00"
+    },
+    {
       "id": "qiita-ab96c0b0db",
       "source": "zennqiita",
       "sub_source": "Qiita",
@@ -1572,6 +1606,17 @@
       "author": "AndrewKemendo",
       "tags": [],
       "date": "2026-05-29T15:32:55+00:00"
+    },
+    {
+      "id": "hn-48324288",
+      "source": "hn",
+      "title": "Unix in East Germany (GDR) (1990)",
+      "url": "https://groups.google.com/g/comp.unix.wizards/c/QX_dxElrVNs",
+      "score": 17,
+      "comments": 1,
+      "author": "downbad_",
+      "tags": [],
+      "date": "2026-05-29T15:21:42+00:00"
     },
     {
       "id": "hn-48323992",
@@ -1682,8 +1727,8 @@
       "source": "hn",
       "title": "New Beam Spring Keyboards",
       "url": "https://www.modelfkeyboards.com/product/beam-spring-b104-keyboard/",
-      "score": 17,
-      "comments": 6,
+      "score": 39,
+      "comments": 15,
       "author": "recursivedoubts",
       "tags": [],
       "date": "2026-05-29T13:39:41+00:00"
@@ -1829,8 +1874,8 @@
       "source": "hn",
       "title": "Linux/M68k",
       "url": "http://www.linux-m68k.org/",
-      "score": 45,
-      "comments": 14,
+      "score": 51,
+      "comments": 16,
       "author": "doener",
       "tags": [],
       "date": "2026-05-29T11:46:52+00:00"
@@ -2467,8 +2512,8 @@
       "source": "hn",
       "title": "Having your insulin pump die while you're on vacation",
       "url": "https://blog.lauramichet.com/what-its-like-to-have-the-machine-that-keeps-you-alive-die-while-youre-on-vacation/",
-      "score": 111,
-      "comments": 129,
+      "score": 118,
+      "comments": 132,
       "author": "speckx",
       "tags": [],
       "date": "2026-05-28T18:33:54+00:00"
@@ -2679,8 +2724,8 @@
       "source": "hn",
       "title": "Websites have a new way to spy on visitors: analyzing their SSD activity",
       "url": "https://arstechnica.com/security/2026/05/websites-have-a-new-way-to-spy-on-visitors-analyzing-their-ssd-activity/",
-      "score": 90,
-      "comments": 20,
+      "score": 97,
+      "comments": 22,
       "author": "Brajeshwar",
       "tags": [],
       "date": "2026-05-28T14:32:01+00:00"
@@ -2900,8 +2945,8 @@
       "source": "hn",
       "title": "The four programming questions from my 1994 Microsoft internship interview (2023)",
       "url": "https://www.computerenhance.com/p/the-four-programming-questions-from",
-      "score": 43,
-      "comments": 12,
+      "score": 55,
+      "comments": 20,
       "author": "tosh",
       "tags": [],
       "date": "2026-05-28T08:28:23+00:00"
@@ -5225,50 +5270,6 @@
       "date": "2026-05-25T17:45:11+00:00"
     },
     {
-      "id": "hn-48269357",
-      "source": "hn",
-      "title": "AI Datacenters Were Built for GPUs. What Happens When You Remove the GPUs?",
-      "url": "https://almartis.xyz/gpu-free-datacenter.html",
-      "score": 18,
-      "comments": 4,
-      "author": "AlassaneSakande",
-      "tags": [],
-      "date": "2026-05-25T17:28:03+00:00"
-    },
-    {
-      "id": "hn-48269041",
-      "source": "hn",
-      "title": "RentFlow (YC S24) Is Hiring",
-      "url": "https://www.ycombinator.com/companies/rentflow/jobs/V2yneIE-senior-ai-ml-lead",
-      "score": 1,
-      "comments": 0,
-      "author": "AMaurin",
-      "tags": [],
-      "date": "2026-05-25T17:00:27+00:00"
-    },
-    {
-      "id": "hn-48268609",
-      "source": "hn",
-      "title": "Toshifumi Suzuki, founder of Seven-Eleven Japan, has died",
-      "url": "https://www.referenceforbusiness.com/biography/S-Z/Suzuki-Toshifumi-1932.html",
-      "score": 191,
-      "comments": 76,
-      "author": "L_Rahman",
-      "tags": [],
-      "date": "2026-05-25T16:20:36+00:00"
-    },
-    {
-      "id": "hn-48268185",
-      "source": "hn",
-      "title": "My new obsession: A horse-racing board game of pure luck",
-      "url": "https://alexanderbjoy.com/horse-race-board-game/",
-      "score": 75,
-      "comments": 48,
-      "author": "surprisetalk",
-      "tags": [],
-      "date": "2026-05-25T15:45:04+00:00"
-    },
-    {
       "id": "ghrel-fortra_impacket-325120279",
       "source": "project",
       "proj_category": "Tools",
@@ -5381,17 +5382,82 @@
       "date": "2023-05-23T17:06:23Z"
     },
     {
-      "id": "zenn-1c4def8d99",
+      "id": "zenn-5c23af1ae7",
       "source": "zennqiita",
       "sub_source": "Zenn",
-      "title": "full AIでCLIツール「tiny-view」を作った",
-      "url": "https://zenn.dev/araki_takaki/articles/tinyview-dev",
+      "title": "Ubuntu 26.04 LTS を1ヶ月使って感じたメリット6選",
+      "url": "https://zenn.dev/zundamon_it/articles/8ed8520c0bc837",
       "score": null,
-      "author": "TA",
+      "author": "zundamon_IT",
       "tags": [
         "Zenn"
       ],
-      "date": "Sat, 30 May 2026 18:14:17 GMT"
+      "date": "Sun, 31 May 2026 04:40:31 GMT"
+    },
+    {
+      "id": "zenn-4bb996eba0",
+      "source": "zennqiita",
+      "sub_source": "Zenn",
+      "title": "TypeScript を用いた LWC 開発が完全にサポートされるようになったので試してみた",
+      "url": "https://zenn.dev/skussun1/articles/d4998ba152bafc",
+      "score": null,
+      "author": "skussun1",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Sun, 31 May 2026 03:19:48 GMT"
+    },
+    {
+      "id": "zenn-491239f7d0",
+      "source": "zennqiita",
+      "sub_source": "Zenn",
+      "title": "IT民俗学：なぜExcel方眼紙は滅びないのか",
+      "url": "https://zenn.dev/banboobloom/articles/2026053100001",
+      "score": null,
+      "author": "banboo.bloom",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Sun, 31 May 2026 01:00:05 GMT"
+    },
+    {
+      "id": "zenn-03e60946b7",
+      "source": "zennqiita",
+      "sub_source": "Zenn",
+      "title": "CodexでFlutterアプリを3か月未満で公開したけど、今どきの個人開発はコード以外が大変すぎる",
+      "url": "https://zenn.dev/mfactory_uh/articles/f793050a48813b",
+      "score": null,
+      "author": "UH",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Sun, 31 May 2026 00:08:10 GMT"
+    },
+    {
+      "id": "zenn-8bef159e25",
+      "source": "zennqiita",
+      "sub_source": "Zenn",
+      "title": "GitHub Copilot app で rubber-duck が既定有効になったので考えたこと",
+      "url": "https://zenn.dev/tomokusaba/articles/787d8cb138491b",
+      "score": null,
+      "author": "くさば",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Sat, 30 May 2026 23:56:52 GMT"
+    },
+    {
+      "id": "zenn-6aea405546",
+      "source": "zennqiita",
+      "sub_source": "Zenn",
+      "title": "AWS WAFのログ分析をAgent Skillにまとめた話",
+      "url": "https://zenn.dev/yamadatt/articles/20260531-aws-waf-log-analysis-claude-skill",
+      "score": null,
+      "author": "yamadatt",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Sat, 30 May 2026 22:00:05 GMT"
     },
     {
       "id": "zenn-a819d0d3e7",
@@ -5433,30 +5499,17 @@
       "date": "Sat, 30 May 2026 15:00:38 GMT"
     },
     {
-      "id": "zenn-1adf519863",
+      "id": "zenn-791d152409",
       "source": "zennqiita",
       "sub_source": "Zenn",
-      "title": "Opus 4.8 とGPT-5.5 で開発サイクルを1日で回した——AI同士のレビュー応酬と、CIが拾った実バグ",
-      "url": "https://zenn.dev/yoshiki_otagaki/articles/c2dfe8efe5c5a3",
+      "title": "CDKをやめてTerraformに移行しようか迷っている話 vol.1",
+      "url": "https://zenn.dev/rrrraaaaa6/articles/5a8a540a864d83",
       "score": null,
-      "author": "弁護士太田垣佳樹（税理士・エンジニア）",
+      "author": "かわごえ",
       "tags": [
         "Zenn"
       ],
-      "date": "Sat, 30 May 2026 13:00:28 GMT"
-    },
-    {
-      "id": "zenn-15e5cb997f",
-      "source": "zennqiita",
-      "sub_source": "Zenn",
-      "title": "RESTとgRPCの違いを理解する（リクエスト編）",
-      "url": "https://zenn.dev/rin__rin/articles/dba550bfa3c78f",
-      "score": null,
-      "author": "Rinrin",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Sat, 30 May 2026 09:52:17 GMT"
+      "date": "Sat, 30 May 2026 06:01:15 GMT"
     },
     {
       "id": "zenn-5ae31db4be",
@@ -5470,32 +5523,6 @@
         "Zenn"
       ],
       "date": "Sat, 30 May 2026 03:54:36 GMT"
-    },
-    {
-      "id": "zenn-9a5673d4d2",
-      "source": "zennqiita",
-      "sub_source": "Zenn",
-      "title": "Cursor: GPT 5.5 が優秀でコスパ最強",
-      "url": "https://zenn.dev/hidenori3/articles/cba47a06140440",
-      "score": null,
-      "author": "Hidenori",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Fri, 29 May 2026 19:25:40 GMT"
-    },
-    {
-      "id": "zenn-66e6461a22",
-      "source": "zennqiita",
-      "sub_source": "Zenn",
-      "title": "ローカルLLM（Qwen3.6 / Gemma4 / DeepSeek V4 Flash）+ Claude ベンチマーク比較",
-      "url": "https://zenn.dev/keitayamamoto/articles/4380d3f64c8bf1",
-      "score": null,
-      "author": "Keita Yamamoto",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Fri, 29 May 2026 16:43:07 GMT"
     },
     {
       "id": "zenn-6f7c540b34",
@@ -5524,19 +5551,6 @@
       "date": "Fri, 29 May 2026 13:53:59 GMT"
     },
     {
-      "id": "zenn-f7ed504d3a",
-      "source": "zennqiita",
-      "sub_source": "Zenn",
-      "title": "エンジニア2年目、設計書をやらかしまくってチェックリストを作った",
-      "url": "https://zenn.dev/fjimiz/articles/design-spec-checklist",
-      "score": null,
-      "author": "fmzu",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Fri, 29 May 2026 13:30:31 GMT"
-    },
-    {
       "id": "zenn-4b092a84f8",
       "source": "zennqiita",
       "sub_source": "Zenn",
@@ -5561,19 +5575,6 @@
         "Zenn"
       ],
       "date": "Fri, 29 May 2026 11:37:30 GMT"
-    },
-    {
-      "id": "zenn-e5d3edf02d",
-      "source": "zennqiita",
-      "sub_source": "Zenn",
-      "title": "【AWS Secrets Manager】末尾が \"ハイフン＋6文字\" のシークレット名には気をつけろ！！",
-      "url": "https://zenn.dev/levtech/articles/946b5154085468",
-      "score": null,
-      "author": "yoooooheeeeey",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Fri, 29 May 2026 10:29:58 GMT"
     },
     {
       "id": "zenn-c8ef9f8891",

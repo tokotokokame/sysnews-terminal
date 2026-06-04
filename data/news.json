@@ -1,14 +1,48 @@
 {
-  "updated_at": "2026-06-03T22:10:18.571528+00:00",
+  "updated_at": "2026-06-04T00:12:52.003199+00:00",
   "count": 500,
   "items": [
+    {
+      "id": "hn-48391838",
+      "source": "hn",
+      "title": "The Ü Programming Language",
+      "url": "https://github.com/Panzerschrek/U-00DC-Sprache/",
+      "score": 3,
+      "comments": 0,
+      "author": "deterministic",
+      "tags": [],
+      "date": "2026-06-04T00:00:04+00:00"
+    },
+    {
+      "id": "hn-48390688",
+      "source": "hn",
+      "title": "Journey to JPEG XL: open-source experiments shaped the future of image coding",
+      "url": "https://opensource.googleblog.com/2026/06/journey-to-jpeg-xl-how-open-source-experiments-shaped-the-future-of-image-coding.html",
+      "score": 20,
+      "comments": 12,
+      "author": "ledoge",
+      "tags": [],
+      "date": "2026-06-03T21:55:23+00:00",
+      "severity": "critical"
+    },
+    {
+      "id": "hn-48390400",
+      "source": "hn",
+      "title": "A Mathematician's Lament – Paul Lockhart (2002) [pdf]",
+      "url": "https://worrydream.com/refs/Lockhart_2002_-_A_Mathematician%27s_Lament.pdf",
+      "score": 18,
+      "comments": 1,
+      "author": "xeonmc",
+      "tags": [],
+      "date": "2026-06-03T21:32:10+00:00"
+    },
     {
       "id": "hn-48389681",
       "source": "hn",
       "title": "Ableton Extensions SDK",
       "url": "https://www.ableton.com/en/live/extensions/",
-      "score": 17,
-      "comments": 4,
+      "score": 50,
+      "comments": 20,
       "author": "bennett_dev",
       "tags": [],
       "date": "2026-06-03T20:39:34+00:00"
@@ -18,8 +52,8 @@
       "source": "hn",
       "title": "Show HN: Mnemo – local-first AI memory layer for any LLM (Rust, SQLite,petgraph)",
       "url": "https://github.com/zaydmulani09/mnemo",
-      "score": 14,
-      "comments": 2,
+      "score": 22,
+      "comments": 10,
       "author": "zaydmulani",
       "tags": [],
       "date": "2026-06-03T20:32:10+00:00"
@@ -29,8 +63,8 @@
       "source": "hn",
       "title": "A Man Who Reads Books for a Living (One Every Two Days)",
       "url": "https://lithub.com/the-man-who-reads-books-for-a-living-one-every-two-days/",
-      "score": 26,
-      "comments": 9,
+      "score": 61,
+      "comments": 35,
       "author": "gmays",
       "tags": [],
       "date": "2026-06-03T20:08:33+00:00"
@@ -40,8 +74,8 @@
       "source": "hn",
       "title": "Self-hosted dev sandboxes with preview URLs (Docker, Go, no K8s)",
       "url": "https://github.com/tastyeffectco/sandboxes",
-      "score": 15,
-      "comments": 0,
+      "score": 41,
+      "comments": 8,
       "author": "tastyeffectco",
       "tags": [],
       "date": "2026-06-03T19:43:37+00:00"
@@ -51,8 +85,8 @@
       "source": "hn",
       "title": "Brume is a 24-voice multi-timbral desktop synth for the CM5",
       "url": "https://brume.aftertone.co/",
-      "score": 36,
-      "comments": 7,
+      "score": 43,
+      "comments": 17,
       "author": "oceanwaves",
       "tags": [],
       "date": "2026-06-03T19:41:21+00:00"
@@ -62,8 +96,8 @@
       "source": "hn",
       "title": "Elixir v1.20: Now a gradually typed language",
       "url": "https://elixir-lang.org/blog/2026/06/03/elixir-v1-20-0-released/",
-      "score": 367,
-      "comments": 118,
+      "score": 481,
+      "comments": 167,
       "author": "cloud8421",
       "tags": [],
       "date": "2026-06-03T19:02:26+00:00"
@@ -73,8 +107,8 @@
       "source": "hn",
       "title": "Rootshell: A new E2EE email service hosted in Iceland",
       "url": "https://rootshell.is",
-      "score": 30,
-      "comments": 25,
+      "score": 39,
+      "comments": 33,
       "author": "sc0rt",
       "tags": [],
       "date": "2026-06-03T18:58:05+00:00"
@@ -84,8 +118,8 @@
       "source": "hn",
       "title": "Embryos shape their limbs: a key discovery of \"genetic brakes\"",
       "url": "https://nouvelles.umontreal.ca/en/article/2026/06/02/how-embryos-shape-their-limbs-a-key-discovery-of-genetic-brakes",
-      "score": 36,
-      "comments": 0,
+      "score": 46,
+      "comments": 1,
       "author": "gmays",
       "tags": [],
       "date": "2026-06-03T17:50:16+00:00"
@@ -106,8 +140,8 @@
       "source": "hn",
       "title": "Gooey: A GPU-accelerated UI framework for Zig",
       "url": "https://github.com/duanebester/gooey",
-      "score": 107,
-      "comments": 29,
+      "score": 128,
+      "comments": 40,
       "author": "ksec",
       "tags": [],
       "date": "2026-06-03T17:12:27+00:00"
@@ -173,8 +207,8 @@
       "source": "hn",
       "title": "ESP32-S31",
       "url": "https://www.espressif.com/en/products/socs/esp32-s31",
-      "score": 221,
-      "comments": 120,
+      "score": 241,
+      "comments": 137,
       "author": "volemo",
       "tags": [],
       "date": "2026-06-03T16:10:25+00:00"
@@ -184,8 +218,8 @@
       "source": "hn",
       "title": "Gemma 4 12B: A unified, encoder-free multimodal model",
       "url": "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemma-4-12b/",
-      "score": 587,
-      "comments": 231,
+      "score": 639,
+      "comments": 272,
       "author": "rvz",
       "tags": [],
       "date": "2026-06-03T16:04:42+00:00"
@@ -195,8 +229,8 @@
       "source": "hn",
       "title": "A Post-Quantum Future for Let's Encrypt",
       "url": "https://letsencrypt.org/2026/06/03/pq-certs",
-      "score": 192,
-      "comments": 103,
+      "score": 213,
+      "comments": 112,
       "author": "SGran",
       "tags": [],
       "date": "2026-06-03T15:06:09+00:00"
@@ -206,8 +240,8 @@
       "source": "hn",
       "title": "DaVinci Resolve 21",
       "url": "https://www.blackmagicdesign.com/products/davinciresolve/whatsnew",
-      "score": 335,
-      "comments": 155,
+      "score": 371,
+      "comments": 175,
       "author": "pentagrama",
       "tags": [],
       "date": "2026-06-03T14:18:39+00:00"
@@ -217,8 +251,8 @@
       "source": "hn",
       "title": "I was recently diagnosed with anti-NMDA receptor encephalitis",
       "url": "https://burntsushi.net/encephalitis/",
-      "score": 389,
-      "comments": 105,
+      "score": 453,
+      "comments": 127,
       "author": "Tomte",
       "tags": [],
       "date": "2026-06-03T14:10:06+00:00"
@@ -283,8 +317,8 @@
       "source": "hn",
       "title": "Uber's $1,500/month AI limit is a useful signal for AI tool pricing",
       "url": "https://simonwillison.net/2026/Jun/3/uber-caps-usage/",
-      "score": 279,
-      "comments": 347,
+      "score": 341,
+      "comments": 434,
       "author": "pdyc",
       "tags": [],
       "date": "2026-06-03T12:25:14+00:00"
@@ -318,8 +352,8 @@
       "source": "hn",
       "title": "Pwnd Blaster: Hacking your PC using your speaker without ever touching it",
       "url": "https://blog.nns.ee/2026/06/03/katana-badusb/",
-      "score": 610,
-      "comments": 96,
+      "score": 635,
+      "comments": 99,
       "author": "xx_ns",
       "tags": [],
       "date": "2026-06-03T10:53:00+00:00"
@@ -1392,6 +1426,17 @@
       "date": "2026-06-01T20:40:13+00:00"
     },
     {
+      "id": "hn-48362255",
+      "source": "hn",
+      "title": "Meteor Explodes over Massachusetts",
+      "url": "https://www.nbcboston.com/news/local/meteor-explodes-over-massachusetts-what-we-know-and-where-it-landed/3957663/",
+      "score": 20,
+      "comments": 8,
+      "author": "1970-01-01",
+      "tags": [],
+      "date": "2026-06-01T20:31:24+00:00"
+    },
+    {
       "id": "hn-48361064",
       "source": "hn",
       "title": "GitHub and the crime against software",
@@ -1667,8 +1712,8 @@
       "source": "hn",
       "title": "Stop Killing Games",
       "url": "https://jxself.org/stop-killing-games.shtml",
-      "score": 138,
-      "comments": 138,
+      "score": 179,
+      "comments": 168,
       "author": "amcclure",
       "tags": [],
       "date": "2026-06-01T13:16:51+00:00"
@@ -2224,6 +2269,18 @@
       "author": "hackerBanana",
       "tags": [],
       "date": "2026-05-31T20:35:38+00:00"
+    },
+    {
+      "id": "hn-48349404",
+      "source": "hn",
+      "title": "Patching my guitar amp's firmware",
+      "url": "https://mforney.org/blog/2026-05-28-patching-my-guitar-amps-firmware.html",
+      "score": 18,
+      "comments": 0,
+      "author": "birdculture",
+      "tags": [],
+      "date": "2026-05-31T20:26:43+00:00",
+      "severity": "medium"
     },
     {
       "id": "hn-48348864",
@@ -5385,6 +5442,58 @@
       "date": "2023-05-23T17:06:23Z"
     },
     {
+      "id": "zenn-56081903c6",
+      "source": "zennqiita",
+      "sub_source": "Zenn",
+      "title": "データサイエンティストのためのAGENTS.mdとSkills",
+      "url": "https://zenn.dev/green_tea/articles/d310e5cf809190",
+      "score": null,
+      "author": "redtea",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Wed, 03 Jun 2026 04:02:05 GMT"
+    },
+    {
+      "id": "zenn-9164df651f",
+      "source": "zennqiita",
+      "sub_source": "Zenn",
+      "title": "セマンティックな型宣言に意味はない",
+      "url": "https://zenn.dev/toms74209200/articles/semantic-type-is-meaningless",
+      "score": null,
+      "author": "toms",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Wed, 03 Jun 2026 00:00:08 GMT"
+    },
+    {
+      "id": "zenn-9396c7d536",
+      "source": "zennqiita",
+      "sub_source": "Zenn",
+      "title": "Claudeを学ぶな、「仕事の言語化能力」を磨け — 陳腐化しない学習法",
+      "url": "https://zenn.dev/cnative_tkb/articles/dcc533aade4312",
+      "score": null,
+      "author": "cnative_tkb",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Tue, 02 Jun 2026 22:54:32 GMT"
+    },
+    {
+      "id": "zenn-50f3fbef8e",
+      "source": "zennqiita",
+      "sub_source": "Zenn",
+      "title": "誰も教えてくれないテスト自動化が普及しない理由",
+      "url": "https://zenn.dev/acntechjp/articles/20260602_test-automation",
+      "score": null,
+      "author": "Inoue, Takuya",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Tue, 02 Jun 2026 14:36:44 GMT"
+    },
+    {
       "id": "zenn-4ed8ec8e53",
       "source": "zennqiita",
       "sub_source": "Zenn",
@@ -5412,17 +5521,17 @@
       "date": "Tue, 02 Jun 2026 13:43:08 GMT"
     },
     {
-      "id": "zenn-7ac51e4359",
+      "id": "zenn-2b5a9dd9a7",
       "source": "zennqiita",
       "sub_source": "Zenn",
-      "title": "Claude Codeのセッション履歴をfzf検索 & previewする技術（ccsession）",
-      "url": "https://zenn.dev/soramarjr/articles/4eb891ab20498e",
+      "title": "使い方は覚えなくていいから tmux を入れろ",
+      "url": "https://zenn.dev/nasubikun/articles/tmux-for-ai-agents",
       "score": null,
-      "author": "fujitani sora",
+      "author": "jomatsu",
       "tags": [
         "Zenn"
       ],
-      "date": "Tue, 02 Jun 2026 10:03:27 GMT"
+      "date": "Tue, 02 Jun 2026 10:24:08 GMT"
     },
     {
       "id": "zenn-3d2f4d25b3",
@@ -5503,19 +5612,6 @@
       "date": "Mon, 01 Jun 2026 23:08:37 GMT"
     },
     {
-      "id": "zenn-6ab4a02aca",
-      "source": "zennqiita",
-      "sub_source": "Zenn",
-      "title": "Polyfill.ioを放置したサイトで不審なダイアログが表示されている件",
-      "url": "https://zenn.dev/roboin/articles/43a205f1249889",
-      "score": null,
-      "author": "ろぼいん",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Mon, 01 Jun 2026 17:35:09 GMT"
-    },
-    {
       "id": "zenn-fb7016e086",
       "source": "zennqiita",
       "sub_source": "Zenn",
@@ -5527,32 +5623,6 @@
         "Zenn"
       ],
       "date": "Mon, 01 Jun 2026 14:33:01 GMT"
-    },
-    {
-      "id": "zenn-c4b0bfdc86",
-      "source": "zennqiita",
-      "sub_source": "Zenn",
-      "title": "Amazon Bedrock 経由で使える LLM の日本語ベンチマーク性能",
-      "url": "https://zenn.dev/aws_japan/articles/2026-06-01-bedrock-japanese-eval",
-      "score": null,
-      "author": "yoheikikuta",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Mon, 01 Jun 2026 14:21:00 GMT"
-    },
-    {
-      "id": "zenn-526a22a1fd",
-      "source": "zennqiita",
-      "sub_source": "Zenn",
-      "title": "whoisが無ェ、RDAPは何者だ？",
-      "url": "https://zenn.dev/digeon/articles/fb563703bcfc96",
-      "score": null,
-      "author": "結友",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Mon, 01 Jun 2026 10:54:30 GMT"
     },
     {
       "id": "zenn-9fa9ca4ee7",
@@ -5618,6 +5688,71 @@
         "Zenn"
       ],
       "date": "Sun, 31 May 2026 23:13:20 GMT"
+    },
+    {
+      "id": "zenn-390d3164c7",
+      "source": "zennqiita",
+      "sub_source": "Zenn",
+      "title": "自作データベース入門の入門：好きなプログラミング言語でSQLiteライクなDBを作ろう！",
+      "url": "https://zenn.dev/kaseken/articles/49c12113238ec4",
+      "score": null,
+      "author": "kaseken",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Sun, 31 May 2026 07:56:33 GMT"
+    },
+    {
+      "id": "zenn-7ac51e4359",
+      "source": "zennqiita",
+      "sub_source": "Zenn",
+      "title": "Claude Codeのセッション履歴をfzf検索 & previewする技術（ccsession）",
+      "url": "https://zenn.dev/soramarjr/articles/4eb891ab20498e",
+      "score": null,
+      "author": "fujitani sora",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Tue, 02 Jun 2026 10:03:27 GMT"
+    },
+    {
+      "id": "zenn-6ab4a02aca",
+      "source": "zennqiita",
+      "sub_source": "Zenn",
+      "title": "Polyfill.ioを放置したサイトで不審なダイアログが表示されている件",
+      "url": "https://zenn.dev/roboin/articles/43a205f1249889",
+      "score": null,
+      "author": "ろぼいん",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Mon, 01 Jun 2026 17:35:09 GMT"
+    },
+    {
+      "id": "zenn-c4b0bfdc86",
+      "source": "zennqiita",
+      "sub_source": "Zenn",
+      "title": "Amazon Bedrock 経由で使える LLM の日本語ベンチマーク性能",
+      "url": "https://zenn.dev/aws_japan/articles/2026-06-01-bedrock-japanese-eval",
+      "score": null,
+      "author": "yoheikikuta",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Mon, 01 Jun 2026 14:21:00 GMT"
+    },
+    {
+      "id": "zenn-526a22a1fd",
+      "source": "zennqiita",
+      "sub_source": "Zenn",
+      "title": "whoisが無ェ、RDAPは何者だ？",
+      "url": "https://zenn.dev/digeon/articles/fb563703bcfc96",
+      "score": null,
+      "author": "結友",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Mon, 01 Jun 2026 10:54:30 GMT"
     },
     {
       "id": "zenn-2a1cce62cc",
@@ -5704,171 +5839,6 @@
       ],
       "severity": "high",
       "date": "Sat, 30 May 2026 00:00:00 +0000"
-    },
-    {
-      "id": "edb-f30dc5c188",
-      "source": "msf",
-      "title": "[webapps] YAMCS yamcs-core  5.12.7 - User Enumeration",
-      "url": "https://www.exploit-db.com/exploits/52604",
-      "score": null,
-      "author": "Exploit-DB",
-      "tags": [
-        "Exploit-DB",
-        "CVE",
-        "PoC"
-      ],
-      "severity": "high",
-      "date": "Sat, 30 May 2026 00:00:00 +0000"
-    },
-    {
-      "id": "edb-be7a420ae4",
-      "source": "msf",
-      "title": "[webapps] YAMCS yamcs-core  5.12.7 - LDAP Injection",
-      "url": "https://www.exploit-db.com/exploits/52603",
-      "score": null,
-      "author": "Exploit-DB",
-      "tags": [
-        "Exploit-DB",
-        "CVE",
-        "PoC"
-      ],
-      "severity": "high",
-      "date": "Sat, 30 May 2026 00:00:00 +0000"
-    },
-    {
-      "id": "edb-f12984cfd7",
-      "source": "msf",
-      "title": "[remote] Microsoft - NTLMv2 Hash Capture",
-      "url": "https://www.exploit-db.com/exploits/52601",
-      "score": null,
-      "author": "Exploit-DB",
-      "tags": [
-        "Exploit-DB",
-        "CVE",
-        "PoC"
-      ],
-      "severity": "high",
-      "date": "Fri, 29 May 2026 00:00:00 +0000"
-    },
-    {
-      "id": "edb-51d394b2f6",
-      "source": "msf",
-      "title": "[webapps] MikroORM   7.0.13 - SQL Injection",
-      "url": "https://www.exploit-db.com/exploits/52600",
-      "score": null,
-      "author": "Exploit-DB",
-      "tags": [
-        "Exploit-DB",
-        "CVE",
-        "PoC"
-      ],
-      "severity": "high",
-      "date": "Fri, 29 May 2026 00:00:00 +0000"
-    },
-    {
-      "id": "edb-b44998ab02",
-      "source": "msf",
-      "title": "[webapps] Prodigy Commerce 3.3.0 - Local File Inclusion",
-      "url": "https://www.exploit-db.com/exploits/52598",
-      "score": null,
-      "author": "Exploit-DB",
-      "tags": [
-        "Exploit-DB",
-        "CVE",
-        "PoC"
-      ],
-      "severity": "high",
-      "date": "Fri, 29 May 2026 00:00:00 +0000"
-    },
-    {
-      "id": "edb-0b1081a580",
-      "source": "msf",
-      "title": "[webapps] Langflow 1.3.0 - Remote Code Execution",
-      "url": "https://www.exploit-db.com/exploits/52597",
-      "score": null,
-      "author": "Exploit-DB",
-      "tags": [
-        "Exploit-DB",
-        "CVE",
-        "PoC"
-      ],
-      "severity": "high",
-      "date": "Fri, 29 May 2026 00:00:00 +0000"
-    },
-    {
-      "id": "edb-7fd71d4802",
-      "source": "msf",
-      "title": "[webapps] Quick Playground for WordPress 1.3.1 - Unauthenticated Remote Code Execution",
-      "url": "https://www.exploit-db.com/exploits/52596",
-      "score": null,
-      "author": "Exploit-DB",
-      "tags": [
-        "Exploit-DB",
-        "CVE",
-        "PoC"
-      ],
-      "severity": "high",
-      "date": "Fri, 29 May 2026 00:00:00 +0000"
-    },
-    {
-      "id": "edb-e827c93897",
-      "source": "msf",
-      "title": "[local] ImageMagick - Infinite Loop in the MIFF decoder can lead to CPU exhaustion",
-      "url": "https://www.exploit-db.com/exploits/52595",
-      "score": null,
-      "author": "Exploit-DB",
-      "tags": [
-        "Exploit-DB",
-        "CVE",
-        "PoC"
-      ],
-      "severity": "high",
-      "date": "Fri, 29 May 2026 00:00:00 +0000"
-    },
-    {
-      "id": "edb-e7ed248f76",
-      "source": "msf",
-      "title": "[local] ZTE Routers  - Unauthenticated Denial of Service",
-      "url": "https://www.exploit-db.com/exploits/52594",
-      "score": null,
-      "author": "Exploit-DB",
-      "tags": [
-        "Exploit-DB",
-        "CVE",
-        "PoC"
-      ],
-      "severity": "high",
-      "date": "Fri, 29 May 2026 00:00:00 +0000"
-    },
-    {
-      "id": "edb-fdf74e4c3e",
-      "source": "msf",
-      "title": "[local] ZTE ZXHN H188A V6 - Authentication Bypass",
-      "url": "https://www.exploit-db.com/exploits/52593",
-      "score": null,
-      "author": "Exploit-DB",
-      "tags": [
-        "Exploit-DB",
-        "CVE",
-        "PoC"
-      ],
-      "severity": "high",
-      "date": "Fri, 29 May 2026 00:00:00 +0000"
-    },
-    {
-      "id": "edb-3120911e79",
-      "source": "msf",
-      "title": "[local] ZTE H298A / H108N - Unauthenticated Credential Exposure",
-      "url": "https://www.exploit-db.com/exploits/52592",
-      "score": null,
-      "author": "Exploit-DB",
-      "tags": [
-        "Exploit-DB",
-        "CVE",
-        "PoC"
-      ],
-      "severity": "high",
-      "date": "Fri, 29 May 2026 00:00:00 +0000"
     }
   ]
 }

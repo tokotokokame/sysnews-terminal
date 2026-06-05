@@ -1,7 +1,86 @@
 {
-  "updated_at": "2026-06-05T03:42:40.853650+00:00",
+  "updated_at": "2026-06-05T08:06:12.115099+00:00",
   "count": 500,
   "items": [
+    {
+      "id": "hn-48408442",
+      "source": "hn",
+      "title": "Fine-tuning an LLM to write docs like it's 1995",
+      "url": "https://passo.uno/fine-tuning-docs-llm/",
+      "score": 35,
+      "comments": 9,
+      "author": "taubek",
+      "tags": [],
+      "date": "2026-06-05T05:46:06+00:00"
+    },
+    {
+      "id": "hn-48408067",
+      "source": "hn",
+      "title": "The IsUpMap lets you check the status of over 100 major sites at once",
+      "url": "https://isupmap.com/",
+      "score": 27,
+      "comments": 14,
+      "author": "mikelgan",
+      "tags": [],
+      "date": "2026-06-05T04:44:48+00:00"
+    },
+    {
+      "id": "qiita-380964262d",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "9割のエンジニア未経験者がつまずく『最初の壁』 。それでもアプリを作りたい #1",
+      "url": "https://qiita.com/hitomin_poke/items/334b0b9c3ee457dfa8c7?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "hitomin_poke",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-06-05T13:37:15+09:00"
+    },
+    {
+      "id": "hn-48408016",
+      "source": "hn",
+      "title": "C++: The Documentary",
+      "url": "https://herbsutter.com/2026/06/04/c-the-documentary-released-today/",
+      "score": 96,
+      "comments": 20,
+      "author": "ingve",
+      "tags": [],
+      "date": "2026-06-05T04:37:01+00:00"
+    },
+    {
+      "id": "hn-48407815",
+      "source": "hn",
+      "title": "Magenta RealTime 2: Open and Local Live Music Models",
+      "url": "https://magenta.withgoogle.com/magenta-realtime-2",
+      "score": 28,
+      "comments": 5,
+      "author": "selvan",
+      "tags": [],
+      "date": "2026-06-05T04:09:53+00:00"
+    },
+    {
+      "id": "hn-48407653",
+      "source": "hn",
+      "title": "Linear Cosine Palettes(2025)",
+      "url": "https://blog.djnavarro.net/posts/2025-09-14_cosine-palettes/",
+      "score": 15,
+      "comments": 0,
+      "author": "num42",
+      "tags": [],
+      "date": "2026-06-05T03:40:02+00:00"
+    },
+    {
+      "id": "hn-48407499",
+      "source": "hn",
+      "title": "Azure Linux 4.0 is Microsoft's first general-purpose Linux",
+      "url": "https://www.boxofcables.dev/azure-linux-4-0-is-microsofts-first-general-purpose-linux/",
+      "score": 103,
+      "comments": 72,
+      "author": "haydenbarnes",
+      "tags": [],
+      "date": "2026-06-05T03:14:28+00:00"
+    },
     {
       "id": "hn-48407451",
       "source": "hn",
@@ -14,12 +93,23 @@
       "date": "2026-06-05T03:04:28+00:00"
     },
     {
+      "id": "hn-48407368",
+      "source": "hn",
+      "title": "Delacroix's Entry of the Crusaders into Constantinople Restored",
+      "url": "https://www.louvre.fr/en/explore/life-at-the-museum/delacroix-s-entry-of-the-crusaders-into-constantinople-restored-to-its-original-glory",
+      "score": 25,
+      "comments": 6,
+      "author": "rawgabbit",
+      "tags": [],
+      "date": "2026-06-05T02:48:44+00:00"
+    },
+    {
       "id": "hn-48406640",
       "source": "hn",
       "title": "Meta enables ADB on deprecated Portal devices [video]",
       "url": "https://fb.watch/HxPu0fSyeH/",
-      "score": 113,
-      "comments": 24,
+      "score": 203,
+      "comments": 64,
       "author": "jenders",
       "tags": [],
       "date": "2026-06-05T00:44:38+00:00"
@@ -29,8 +119,8 @@
       "source": "hn",
       "title": "Open Code Review – An AI-powered code review CLI tool",
       "url": "https://github.com/alibaba/open-code-review",
-      "score": 79,
-      "comments": 18,
+      "score": 164,
+      "comments": 38,
       "author": "geoffbp",
       "tags": [],
       "date": "2026-06-05T00:04:29+00:00"
@@ -51,8 +141,8 @@
       "source": "hn",
       "title": "Do transformers need three projections? Systematic study of QKV variants",
       "url": "https://arxiv.org/abs/2606.04032",
-      "score": 119,
-      "comments": 20,
+      "score": 156,
+      "comments": 31,
       "author": "Anon84",
       "tags": [],
       "date": "2026-06-04T23:11:56+00:00"
@@ -108,8 +198,8 @@
       "source": "hn",
       "title": "Queen bees emerge from special wax chambers",
       "url": "https://cen.acs.org/materials/biobased-materials/queen-bees-special-wax/104/web/2026/06",
-      "score": 54,
-      "comments": 7,
+      "score": 73,
+      "comments": 11,
       "author": "gmays",
       "tags": [],
       "date": "2026-06-04T21:31:31+00:00"
@@ -142,8 +232,8 @@
       "source": "hn",
       "title": "Anthropic's open-source framework for AI-powered vulnerability discovery",
       "url": "https://github.com/anthropics/defending-code-reference-harness",
-      "score": 307,
-      "comments": 97,
+      "score": 399,
+      "comments": 114,
       "author": "binyu",
       "tags": [],
       "date": "2026-06-04T20:11:20+00:00",
@@ -183,6 +273,17 @@
         "Qiita"
       ],
       "date": "2026-06-05T04:14:25+09:00"
+    },
+    {
+      "id": "hn-48402116",
+      "source": "hn",
+      "title": "Leap in DNA synthesis slashes time to build new genetic sequences",
+      "url": "https://spectrum.ieee.org/faster-dna-synthesis-sidewinder",
+      "score": 5,
+      "comments": 0,
+      "author": "natalcleft",
+      "tags": [],
+      "date": "2026-06-04T17:51:10+00:00"
     },
     {
       "id": "hn-48402082",
@@ -244,8 +345,8 @@
       "source": "hn",
       "title": "When AI Builds Itself: Our progress toward recursive self-improvement",
       "url": "https://www.anthropic.com/institute/recursive-self-improvement",
-      "score": 368,
-      "comments": 482,
+      "score": 441,
+      "comments": 586,
       "author": "meetpateltech",
       "tags": [],
       "date": "2026-06-04T16:20:17+00:00"
@@ -255,8 +356,8 @@
       "source": "hn",
       "title": "Retro-Tech Parenting",
       "url": "https://havenweb.org/2026/05/28/retro-tech.html",
-      "score": 268,
-      "comments": 181,
+      "score": 288,
+      "comments": 197,
       "author": "mawise",
       "tags": [],
       "date": "2026-06-04T16:02:35+00:00"
@@ -290,8 +391,8 @@
       "source": "hn",
       "title": "KVarN: Native vLLM backend for KV-cache quantization by Huawei",
       "url": "https://github.com/huawei-csl/KVarN",
-      "score": 119,
-      "comments": 12,
+      "score": 132,
+      "comments": 13,
       "author": "theanonymousone",
       "tags": [],
       "date": "2026-06-04T15:18:00+00:00"
@@ -360,8 +461,8 @@
       "source": "hn",
       "title": "VoidZero Is Joining Cloudflare",
       "url": "https://blog.cloudflare.com/voidzero-joins-cloudflare/",
-      "score": 590,
-      "comments": 261,
+      "score": 629,
+      "comments": 272,
       "author": "coloneltcb",
       "tags": [],
       "date": "2026-06-04T13:00:51+00:00"
@@ -505,19 +606,6 @@
         "Qiita"
       ],
       "date": "2026-06-04T17:14:18+09:00"
-    },
-    {
-      "id": "qiita-380964262d",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "9割のエンジニア未経験者がつまずく『最初の壁』 。それでもアプリを作りたい #1",
-      "url": "https://qiita.com/hitomin_poke/items/334b0b9c3ee457dfa8c7?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "hitomin_poke",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-06-04T12:48:26+09:00"
     },
     {
       "id": "qiita-bd6e85f6df",
@@ -1431,8 +1519,8 @@
       "source": "hn",
       "title": "I'm skeptical about efforts to revolutionize schooling",
       "url": "https://www.scotthyoung.com/blog/2026/05/27/revolutionize-schooling/",
-      "score": 93,
-      "comments": 153,
+      "score": 158,
+      "comments": 233,
       "author": "andrewstuart",
       "tags": [],
       "date": "2026-06-02T20:43:39+00:00"
@@ -1464,8 +1552,8 @@
       "source": "hn",
       "title": "Branchless Quicksort faster than std:sort and pdqsort with C and C++ API",
       "url": "https://tiki.li/blog/blqsort",
-      "score": 109,
-      "comments": 18,
+      "score": 165,
+      "comments": 42,
       "author": "birdculture",
       "tags": [],
       "date": "2026-06-02T20:00:54+00:00"
@@ -1568,6 +1656,17 @@
       "author": "EvanZhouDev",
       "tags": [],
       "date": "2026-06-02T18:19:27+00:00"
+    },
+    {
+      "id": "hn-48374049",
+      "source": "hn",
+      "title": "Watching a Z80 from an RP2350",
+      "url": "https://emalliab.wordpress.com/2026/05/26/watching-a-z80-from-an-rp2350/",
+      "score": 13,
+      "comments": 0,
+      "author": "ibobev",
+      "tags": [],
+      "date": "2026-06-02T18:18:01+00:00"
     },
     {
       "id": "hn-48373764",
@@ -1787,6 +1886,17 @@
       "date": "2026-06-02T23:34:59+09:00"
     },
     {
+      "id": "hn-48370775",
+      "source": "hn",
+      "title": "WiFi Time",
+      "url": "https://mitxela.com/projects/wifi_time",
+      "score": 54,
+      "comments": 4,
+      "author": "surprisetalk",
+      "tags": [],
+      "date": "2026-06-02T14:30:14+00:00"
+    },
+    {
       "id": "hn-48370588",
       "source": "hn",
       "title": "Preparing for KDE Plasma's Last X11-Supported Release",
@@ -1929,8 +2039,8 @@
       "source": "hn",
       "title": "Reverse-Engineered Userspace Driver for Asus ZenVision Lid OLED on Linux\"",
       "url": "https://github.com/tarpediem/zenvision-linux",
-      "score": 32,
-      "comments": 3,
+      "score": 48,
+      "comments": 11,
       "author": "berlianta",
       "tags": [],
       "date": "2026-06-02T10:29:01+00:00"
@@ -2032,8 +2142,8 @@
       "source": "hn",
       "title": "Samurai City",
       "url": "https://worksinprogress.co/issue/samurai-city/",
-      "score": 120,
-      "comments": 21,
+      "score": 156,
+      "comments": 29,
       "author": "zdw",
       "tags": [],
       "date": "2026-06-02T04:32:19+00:00"
@@ -2707,6 +2817,17 @@
         "Qiita"
       ],
       "date": "2026-06-01T17:41:09+09:00"
+    },
+    {
+      "id": "hn-48354136",
+      "source": "hn",
+      "title": "Go Experiments Explained",
+      "url": "https://www.alexedwards.net/blog/go-experiments-explained",
+      "score": 26,
+      "comments": 9,
+      "author": "ingve",
+      "tags": [],
+      "date": "2026-06-01T08:39:31+00:00"
     },
     {
       "id": "qiita-3647c80d28",
@@ -5060,129 +5181,6 @@
       "date": "2026-05-29T14:53:27+00:00"
     },
     {
-      "id": "hn-48323683",
-      "source": "hn",
-      "title": "I am retiring from tech to live offline",
-      "url": "https://openpath.quest/2026/i-am-retiring-from-tech-to-live-offline/",
-      "score": 629,
-      "comments": 438,
-      "author": "PinkG",
-      "tags": [],
-      "date": "2026-05-29T14:40:47+00:00"
-    },
-    {
-      "id": "hn-48323577",
-      "source": "hn",
-      "title": "Constant Q Transform – A Visual Guide",
-      "url": "https://brendanjameslynskey.github.io/ConstantQ-Transform/",
-      "score": 6,
-      "comments": 0,
-      "author": "hyperific",
-      "tags": [],
-      "date": "2026-05-29T14:32:40+00:00"
-    },
-    {
-      "id": "hn-48323467",
-      "source": "hn",
-      "title": "The \"Stars\" of Titanic (2012)",
-      "url": "https://blogs.loc.gov/inside_adams/2012/04/the-stars-of-titanic/",
-      "score": 5,
-      "comments": 0,
-      "author": "tosh",
-      "tags": [],
-      "date": "2026-05-29T14:20:53+00:00"
-    },
-    {
-      "id": "hn-48323397",
-      "source": "hn",
-      "title": "Headway Therapy Patients Forced to Scan Their Faces to Keep Getting Care",
-      "url": "https://www.404media.co/headway-therapy-facial-scan-biometric-data-identity-verification/",
-      "score": 71,
-      "comments": 17,
-      "author": "pavel_lishin",
-      "tags": [],
-      "date": "2026-05-29T14:15:41+00:00",
-      "severity": "critical"
-    },
-    {
-      "id": "hn-48323303",
-      "source": "hn",
-      "title": "One year of Roto, a compiled scripting language for Rust",
-      "url": "https://blog.nlnetlabs.nl/one-year-of-roto-the-compiled-scripting-language-for-rust/",
-      "score": 100,
-      "comments": 26,
-      "author": "Hasnep",
-      "tags": [],
-      "date": "2026-05-29T14:07:59+00:00"
-    },
-    {
-      "id": "hn-48323266",
-      "source": "hn",
-      "title": "The Secret Garden of Rock-Paper-Scissors",
-      "url": "https://theshamblog.com/the-secret-garden-of-rock-paper-scissors/",
-      "score": 18,
-      "comments": 3,
-      "author": "scottshambaugh",
-      "tags": [],
-      "date": "2026-05-29T14:04:22+00:00"
-    },
-    {
-      "id": "hn-48323220",
-      "source": "hn",
-      "title": "Key chemistry question answered, no quantum computer required",
-      "url": "https://www.quantamagazine.org/key-chemistry-question-answered-no-quantum-computer-required-20260529/",
-      "score": 17,
-      "comments": 0,
-      "author": "defrost",
-      "tags": [],
-      "date": "2026-05-29T13:59:49+00:00"
-    },
-    {
-      "id": "hn-48322984",
-      "source": "hn",
-      "title": "New Beam Spring Keyboards",
-      "url": "https://www.modelfkeyboards.com/product/beam-spring-b104-keyboard/",
-      "score": 102,
-      "comments": 72,
-      "author": "recursivedoubts",
-      "tags": [],
-      "date": "2026-05-29T13:39:41+00:00"
-    },
-    {
-      "id": "hn-48322929",
-      "source": "hn",
-      "title": "Expertise in the age of AI",
-      "url": "https://www.moderndescartes.com/essays/ai_and_expertise/",
-      "score": 95,
-      "comments": 94,
-      "author": "brilee",
-      "tags": [],
-      "date": "2026-05-29T13:35:13+00:00"
-    },
-    {
-      "id": "hn-48322853",
-      "source": "hn",
-      "title": "Stateless Actors",
-      "url": "https://www.massicotte.org/stateless-actors/",
-      "score": 14,
-      "comments": 4,
-      "author": "frizlab",
-      "tags": [],
-      "date": "2026-05-29T13:28:01+00:00"
-    },
-    {
-      "id": "hn-48322753",
-      "source": "hn",
-      "title": "Someone used my open source project to phish people",
-      "url": "https://andrej.sh/posts/phishing-through-my-open-source-project",
-      "score": 72,
-      "comments": 40,
-      "author": "andrejsshell",
-      "tags": [],
-      "date": "2026-05-29T13:18:57+00:00",
-      "severity": "critical"
-    },
-    {
       "id": "ctf-3761714",
       "source": "project",
       "proj_category": "CTF",
@@ -5393,6 +5391,19 @@
       "date": "2023-05-23T17:06:23Z"
     },
     {
+      "id": "zenn-9b3799dfd0",
+      "source": "zennqiita",
+      "sub_source": "Zenn",
+      "title": "AWS Innovation Sandbox (ISB) を構築してみた！",
+      "url": "https://zenn.dev/kairim/articles/35dd71c526b64f",
+      "score": null,
+      "author": "KairiM",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Thu, 04 Jun 2026 11:52:12 GMT"
+    },
+    {
       "id": "zenn-e4ca08ce95",
       "source": "zennqiita",
       "sub_source": "Zenn",
@@ -5404,6 +5415,32 @@
         "Zenn"
       ],
       "date": "Thu, 04 Jun 2026 11:10:31 GMT"
+    },
+    {
+      "id": "zenn-a4405acc30",
+      "source": "zennqiita",
+      "sub_source": "Zenn",
+      "title": "【失敗談】大規模開発をして残ったのは技術負債だけだった話 〜作らないことの重要性〜",
+      "url": "https://zenn.dev/innovation/articles/3fe337358aa759",
+      "score": null,
+      "author": "TAC",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Thu, 04 Jun 2026 06:00:07 GMT"
+    },
+    {
+      "id": "zenn-4db3ef42f5",
+      "source": "zennqiita",
+      "sub_source": "Zenn",
+      "title": "Amazon S3 Filesがでました！",
+      "url": "https://zenn.dev/kameoncloud/articles/784f5d85db531b",
+      "score": null,
+      "author": "kameoncloud",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Thu, 04 Jun 2026 05:45:17 GMT"
     },
     {
       "id": "zenn-136e7038a8",
@@ -5471,6 +5508,19 @@
       "date": "Wed, 03 Jun 2026 10:55:13 GMT"
     },
     {
+      "id": "zenn-78ae469b8b",
+      "source": "zennqiita",
+      "sub_source": "Zenn",
+      "title": "何でもスプシで管理してしまう病を、Snowflakeで業務アプリを作って解決したい",
+      "url": "https://zenn.dev/fusic/articles/9708e889197133",
+      "score": null,
+      "author": "Takahir_O",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Wed, 03 Jun 2026 09:47:50 GMT"
+    },
+    {
       "id": "zenn-d16e63e747",
       "source": "zennqiita",
       "sub_source": "Zenn",
@@ -5482,6 +5532,19 @@
         "Zenn"
       ],
       "date": "Wed, 03 Jun 2026 08:20:00 GMT"
+    },
+    {
+      "id": "zenn-b683a9ec5a",
+      "source": "zennqiita",
+      "sub_source": "Zenn",
+      "title": "IPAの資料で学ぶ「生成AIの情報漏洩リスク」入門",
+      "url": "https://zenn.dev/yohei_data/articles/2ad3e6c95cd879",
+      "score": null,
+      "author": "ぽち",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Wed, 03 Jun 2026 05:04:55 GMT"
     },
     {
       "id": "zenn-56081903c6",
@@ -5586,71 +5649,6 @@
         "Zenn"
       ],
       "date": "Tue, 02 Jun 2026 04:52:35 GMT"
-    },
-    {
-      "id": "zenn-ea3ef26431",
-      "source": "zennqiita",
-      "sub_source": "Zenn",
-      "title": "デプロイ速度を約50%高速化した話",
-      "url": "https://zenn.dev/dress_code/articles/a0e4fbf842ebfd",
-      "score": null,
-      "author": "ぽこひで",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Tue, 02 Jun 2026 02:25:55 GMT"
-    },
-    {
-      "id": "zenn-ebc12e47ab",
-      "source": "zennqiita",
-      "sub_source": "Zenn",
-      "title": "Zennの記事一覧からAI関連の記事をAIの力によって滅ぼし、そして私も消えよう",
-      "url": "https://zenn.dev/sora_kumo/articles/zenn-ai-filter",
-      "score": null,
-      "author": "空雲",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Tue, 02 Jun 2026 00:04:48 GMT"
-    },
-    {
-      "id": "zenn-040d3971c4",
-      "source": "zennqiita",
-      "sub_source": "Zenn",
-      "title": "リファクタリング提案が来るたびに判断できない理由",
-      "url": "https://zenn.dev/shinagawa_web/articles/refactor-judgment-sre-frame",
-      "score": null,
-      "author": "shinagawa",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Mon, 01 Jun 2026 23:08:37 GMT"
-    },
-    {
-      "id": "zenn-618b95296b",
-      "source": "zennqiita",
-      "sub_source": "Zenn",
-      "title": "Antigravity CLI × Chrome DevTools for AgentsでAIデバッグ開発体験（for LIFF）",
-      "url": "https://zenn.dev/n0bisuke/books/antigravitycli-chrome-dev-line",
-      "score": null,
-      "author": "n0bisuke",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Mon, 01 Jun 2026 02:36:06 GMT"
-    },
-    {
-      "id": "zenn-ffdc8e8212",
-      "source": "zennqiita",
-      "sub_source": "Zenn",
-      "title": "なぜスライド作りはClaude Designでやるべきなのか？",
-      "url": "https://zenn.dev/rakko_inc/articles/claude-design-company-deck",
-      "score": null,
-      "author": "maya honey",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Mon, 01 Jun 2026 01:41:02 GMT"
     },
     {
       "id": "edb-f5d122f8a3",

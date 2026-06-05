@@ -1,7 +1,118 @@
 {
-  "updated_at": "2026-06-05T14:50:35.065406+00:00",
+  "updated_at": "2026-06-05T17:15:53.652531+00:00",
   "count": 500,
   "items": [
+    {
+      "id": "hn-48415217",
+      "source": "hn",
+      "title": "Gov.uk goes Dutch on payments as it dumps Stripe",
+      "url": "https://www.theregister.com/public-sector/2026/06/04/govuk-goes-dutch-on-payments-as-it-dumps-stripe/5250763",
+      "score": 12,
+      "comments": 1,
+      "author": "toomuchtodo",
+      "tags": [],
+      "date": "2026-06-05T16:55:30+00:00"
+    },
+    {
+      "id": "hn-48414978",
+      "source": "hn",
+      "title": "Mantine-datatable (and others) compromised – owner account suspended",
+      "url": "https://github.com/icflorescu/mantine-datatable/discussions/813",
+      "score": 9,
+      "comments": 0,
+      "author": "justsomehuman",
+      "tags": [],
+      "date": "2026-06-05T16:39:57+00:00"
+    },
+    {
+      "id": "hn-48414653",
+      "source": "hn",
+      "title": "Gemma 4 QAT models: Optimizing compression for mobile and laptop efficiency",
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/quantization-aware-training-gemma-4/",
+      "score": 10,
+      "comments": 1,
+      "author": "theanonymousone",
+      "tags": [],
+      "date": "2026-06-05T16:18:48+00:00"
+    },
+    {
+      "id": "hn-48414479",
+      "source": "hn",
+      "title": "U.S. Military Turned GPS into a Global \"Numbers Station\"",
+      "url": "https://www.404media.co/the-u-s-military-quietly-turned-gps-into-a-global-numbers-station-evidence-suggests/",
+      "score": 39,
+      "comments": 17,
+      "author": "awkwardpotato",
+      "tags": [],
+      "date": "2026-06-05T16:06:36+00:00"
+    },
+    {
+      "id": "hn-48414367",
+      "source": "hn",
+      "title": "pg_durable: Microsoft open sources in-database durable execution",
+      "url": "https://github.com/microsoft/pg_durable",
+      "score": 93,
+      "comments": 19,
+      "author": "coffeemug",
+      "tags": [],
+      "date": "2026-06-05T15:59:57+00:00",
+      "severity": "critical"
+    },
+    {
+      "id": "hn-48414027",
+      "source": "hn",
+      "title": "Stop Using Conventional Commits",
+      "url": "https://sumnerevans.com/posts/software-engineering/stop-using-conventional-commits/",
+      "score": 108,
+      "comments": 77,
+      "author": "jsve",
+      "tags": [],
+      "date": "2026-06-05T15:39:38+00:00"
+    },
+    {
+      "id": "hn-48413500",
+      "source": "hn",
+      "title": "New method turns ocean water into drinking water, without waste",
+      "url": "https://www.rochester.edu/newscenter/what-is-desalination-definition-ocean-water-704732/",
+      "score": 9,
+      "comments": 1,
+      "author": "speckx",
+      "tags": [],
+      "date": "2026-06-05T15:04:03+00:00"
+    },
+    {
+      "id": "hn-48413464",
+      "source": "hn",
+      "title": "Astronauts on ISS told to shelter as repairs under way to fix air leaks",
+      "url": "https://www.bbc.com/news/live/c4g44ew3g1kt",
+      "score": 179,
+      "comments": 115,
+      "author": "janpot",
+      "tags": [],
+      "date": "2026-06-05T15:00:31+00:00"
+    },
+    {
+      "id": "hn-48413295",
+      "source": "hn",
+      "title": "Dutch gov't will only allow European company to operate DigiD platform",
+      "url": "https://nltimes.nl/2026/06/05/dutch-govt-will-allow-european-company-operate-digid-platform",
+      "score": 104,
+      "comments": 36,
+      "author": "TechTechTech",
+      "tags": [],
+      "date": "2026-06-05T14:48:44+00:00"
+    },
+    {
+      "id": "hn-48413072",
+      "source": "hn",
+      "title": "I tested every IP KVM in my Homelab",
+      "url": "https://www.jeffgeerling.com/blog/2026/i-tested-every-ip-kvm/",
+      "score": 88,
+      "comments": 20,
+      "author": "vquemener",
+      "tags": [],
+      "date": "2026-06-05T14:30:50+00:00"
+    },
     {
       "id": "qiita-81478f3d5f",
       "source": "zennqiita",
@@ -78,8 +189,8 @@
       "source": "hn",
       "title": "Entanglement Builds Space-Time. Now \"Magic\" Gives It Gravity",
       "url": "https://www.quantamagazine.org/entanglement-builds-space-time-now-magic-gives-it-gravity-20260603/",
-      "score": 98,
-      "comments": 76,
+      "score": 126,
+      "comments": 118,
       "author": "rbanffy",
       "tags": [],
       "date": "2026-06-05T08:33:37+00:00"
@@ -89,8 +200,8 @@
       "source": "hn",
       "title": "Tracing a powerful GNSS interference source over Europe",
       "url": "https://arxiv.org/abs/2606.03673",
-      "score": 227,
-      "comments": 99,
+      "score": 289,
+      "comments": 133,
       "author": "mimorigasaka",
       "tags": [],
       "date": "2026-06-05T08:32:16+00:00",
@@ -101,8 +212,8 @@
       "source": "hn",
       "title": "ESP32 Bit Pirate, a Hardware Hacking Tool with WebCLI That Speaks Every Protocol",
       "url": "https://github.com/geo-tp/ESP32-Bit-Pirate",
-      "score": 89,
-      "comments": 33,
+      "score": 132,
+      "comments": 40,
       "author": "geotp",
       "tags": [],
       "date": "2026-06-05T07:40:04+00:00"
@@ -112,8 +223,8 @@
       "source": "hn",
       "title": "Changing how we develop Ladybird",
       "url": "https://ladybird.org/posts/changing-how-we-develop-ladybird/",
-      "score": 574,
-      "comments": 382,
+      "score": 702,
+      "comments": 462,
       "author": "EdwinHoksberg",
       "tags": [],
       "date": "2026-06-05T07:26:33+00:00"
@@ -123,8 +234,8 @@
       "source": "hn",
       "title": "Lee Kuan Yew's Singapore Story (2023)",
       "url": "https://www.historytoday.com/archive/feature/lee-kuan-yews-singapore-story",
-      "score": 70,
-      "comments": 71,
+      "score": 121,
+      "comments": 115,
       "author": "pepys",
       "tags": [],
       "date": "2026-06-05T07:23:44+00:00"
@@ -134,8 +245,8 @@
       "source": "hn",
       "title": "Fine-tuning an LLM to write docs like it's 1995",
       "url": "https://passo.uno/fine-tuning-docs-llm/",
-      "score": 132,
-      "comments": 48,
+      "score": 161,
+      "comments": 56,
       "author": "taubek",
       "tags": [],
       "date": "2026-06-05T05:46:06+00:00"
@@ -182,8 +293,8 @@
       "source": "hn",
       "title": "C++: The Documentary",
       "url": "https://herbsutter.com/2026/06/04/c-the-documentary-released-today/",
-      "score": 252,
-      "comments": 159,
+      "score": 299,
+      "comments": 213,
       "author": "ingve",
       "tags": [],
       "date": "2026-06-05T04:37:01+00:00"
@@ -215,8 +326,8 @@
       "source": "hn",
       "title": "Azure Linux 4.0 is Microsoft's first general-purpose Linux",
       "url": "https://www.boxofcables.dev/azure-linux-4-0-is-microsofts-first-general-purpose-linux/",
-      "score": 126,
-      "comments": 110,
+      "score": 157,
+      "comments": 129,
       "author": "haydenbarnes",
       "tags": [],
       "date": "2026-06-05T03:14:28+00:00"
@@ -274,8 +385,8 @@
       "source": "hn",
       "title": "Meta enables ADB on deprecated Portal devices [video]",
       "url": "https://fb.watch/HxPu0fSyeH/",
-      "score": 262,
-      "comments": 104,
+      "score": 282,
+      "comments": 109,
       "author": "jenders",
       "tags": [],
       "date": "2026-06-05T00:44:38+00:00"
@@ -445,8 +556,8 @@
       "source": "hn",
       "title": "Leap in DNA synthesis slashes time to build new genetic sequences",
       "url": "https://spectrum.ieee.org/faster-dna-synthesis-sidewinder",
-      "score": 79,
-      "comments": 15,
+      "score": 102,
+      "comments": 22,
       "author": "natalcleft",
       "tags": [],
       "date": "2026-06-04T17:51:10+00:00"
@@ -1328,8 +1439,8 @@
       "source": "hn",
       "title": "Mouseless – keyboard-driven control of macOS/Linux/Windows",
       "url": "https://mouseless.click",
-      "score": 142,
-      "comments": 72,
+      "score": 279,
+      "comments": 140,
       "author": "riddley",
       "tags": [],
       "date": "2026-06-03T13:22:06+00:00"
@@ -1478,8 +1589,8 @@
       "source": "hn",
       "title": "Redis 8.8: New array data structure, rate limiter, performance improvements",
       "url": "https://redis.io/blog/announcing-redis-8-8/",
-      "score": 101,
-      "comments": 46,
+      "score": 152,
+      "comments": 70,
       "author": "ksec",
       "tags": [],
       "date": "2026-06-03T10:05:11+00:00"
@@ -1586,8 +1697,8 @@
       "source": "hn",
       "title": "Cooldown Support for Ruby Bundler",
       "url": "https://blog.rubygems.org/2026/06/03/cooldown-let-new-gems-be-vetted.html",
-      "score": 24,
-      "comments": 2,
+      "score": 91,
+      "comments": 17,
       "author": "calyhre",
       "tags": [],
       "date": "2026-06-03T05:15:09+00:00"
@@ -5076,122 +5187,6 @@
         "Qiita"
       ],
       "date": "2026-05-30T08:19:44+09:00"
-    },
-    {
-      "id": "hn-48330436",
-      "source": "hn",
-      "title": "MCP is dead?",
-      "url": "https://www.quandri.io/engineering-blog/mcp-is-dead",
-      "score": 357,
-      "comments": 340,
-      "author": "nadis",
-      "tags": [],
-      "date": "2026-05-29T22:56:49+00:00"
-    },
-    {
-      "id": "hn-48330192",
-      "source": "hn",
-      "title": "Show HN: Open-source private home security camera system (end-to-end encryption)",
-      "url": "https://github.com/secluso/core",
-      "score": 81,
-      "comments": 19,
-      "author": "arrdalan",
-      "tags": [],
-      "date": "2026-05-29T22:32:29+00:00",
-      "severity": "critical"
-    },
-    {
-      "id": "hn-48330088",
-      "source": "hn",
-      "title": "Free full BGP feed. IPv4 and IPv6 (2020)",
-      "url": "https://lukasz.bromirski.net/post/bgp-w-labie-3/",
-      "score": 28,
-      "comments": 11,
-      "author": "pm2222",
-      "tags": [],
-      "date": "2026-05-29T22:21:58+00:00"
-    },
-    {
-      "id": "qiita-e54530f24d",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "Claude Codeで使うモデルを変更してみた検証メモ",
-      "url": "https://qiita.com/KNR109/items/aaa3ce165cb4efdabd18?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "KNR109",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-05-30T07:15:03+09:00"
-    },
-    {
-      "id": "hn-48329549",
-      "source": "hn",
-      "title": "EV Stupidity Checklist",
-      "url": "http://hypercritical.co/2026/05/29/ev-stupidity-checklist",
-      "score": 16,
-      "comments": 1,
-      "author": "pchristensen",
-      "tags": [],
-      "date": "2026-05-29T21:29:51+00:00"
-    },
-    {
-      "id": "hn-48328932",
-      "source": "hn",
-      "title": "Why I collect DLES",
-      "url": "https://dles.gg/blog/dles-gg-manifesto",
-      "score": 21,
-      "comments": 5,
-      "author": "trizoza",
-      "tags": [],
-      "date": "2026-05-29T20:40:38+00:00"
-    },
-    {
-      "id": "qiita-a1f810a6c0",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "プログラミング完全未経験から始める！競技プログラミング入門ガイド",
-      "url": "https://qiita.com/Un_titled/items/03b9b817bf2015321159?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "Un_titled",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-05-30T05:29:50+09:00"
-    },
-    {
-      "id": "hn-48328365",
-      "source": "hn",
-      "title": "The California state assembly has passed the 'Protect Our Games Act'",
-      "url": "https://www.invenglobal.com/articles/22330/stop-killing-games-movement-gains-momentum-california-assembly-passes-game-protection-bill",
-      "score": 202,
-      "comments": 202,
-      "author": "TechTechTech",
-      "tags": [],
-      "date": "2026-05-29T19:55:56+00:00"
-    },
-    {
-      "id": "hn-48328184",
-      "source": "hn",
-      "title": "Show HN: Tiny-vLLM – high performance LLM inference engine in C++ and CUDA",
-      "url": "https://github.com/jmaczan/tiny-vllm",
-      "score": 147,
-      "comments": 12,
-      "author": "yu3zhou4",
-      "tags": [],
-      "date": "2026-05-29T19:38:27+00:00"
-    },
-    {
-      "id": "hn-48328175",
-      "source": "hn",
-      "title": "Microsoft 0-day feud escalates as researcher threatens another exploit dump",
-      "url": "https://www.theregister.com/security/2026/05/28/microsoft-0-day-feud-escalates-as-researcher-threatens-another-windows-exploit-dump/5248085",
-      "score": 141,
-      "comments": 41,
-      "author": "Cider9986",
-      "tags": [],
-      "date": "2026-05-29T19:37:41+00:00",
-      "severity": "high"
     },
     {
       "id": "ctf-3761714",

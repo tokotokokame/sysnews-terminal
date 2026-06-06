@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-06T10:03:32.432419+00:00",
+  "updated_at": "2026-06-06T11:52:58.258404+00:00",
   "count": 500,
   "items": [
     {
@@ -13,15 +13,37 @@
       "tags": [
         "Qiita"
       ],
-      "date": "2026-06-06T18:12:11+09:00"
+      "date": "2026-06-06T19:48:41+09:00"
+    },
+    {
+      "id": "hn-48423541",
+      "source": "hn",
+      "title": "Do Women's Mate Preferences Change Across the Ovulatory Cycle? A Meta-Analysis [pdf]",
+      "url": "https://www.martiehaselton.com/_files/ugd/3ae410_aeb76edab75f457aae0c14c4c68d93c0.pdf",
+      "score": 6,
+      "comments": 1,
+      "author": "rzk",
+      "tags": [],
+      "date": "2026-06-06T10:42:09+00:00"
+    },
+    {
+      "id": "hn-48422993",
+      "source": "hn",
+      "title": "The Smart TV in Your LivingRoom Is a Node in the AIScraping Economy",
+      "url": "https://blog.includesecurity.com/2026/06/the-smart-tv-in-your-livingroom-is-a-node-in-the-aiscraping-economy/",
+      "score": 25,
+      "comments": 2,
+      "author": "nikcub",
+      "tags": [],
+      "date": "2026-06-06T09:17:49+00:00"
     },
     {
       "id": "hn-48422798",
       "source": "hn",
       "title": "GrapheneOS user reported to authorities for using GrapheneOS",
       "url": "https://discuss.grapheneos.org/d/36134-grapheneos-user-reported-to-authorities-for-using-grapheneos",
-      "score": 135,
-      "comments": 50,
+      "score": 341,
+      "comments": 236,
       "author": "Cider9986",
       "tags": [],
       "date": "2026-06-06T08:43:59+00:00"
@@ -31,12 +53,23 @@
       "source": "hn",
       "title": "Zig Zen Update",
       "url": "https://codeberg.org/ziglang/zig/commit/621844bde551ee1a9b8142d7d146d1fa804247a2",
-      "score": 27,
-      "comments": 8,
+      "score": 70,
+      "comments": 23,
       "author": "tosh",
       "tags": [],
       "date": "2026-06-06T08:38:44+00:00",
       "severity": "medium"
+    },
+    {
+      "id": "hn-48422451",
+      "source": "hn",
+      "title": "Azure Linux Desktop",
+      "url": "https://www.boxofcables.dev/azure-linux-desktop-a-build-2026-mashup-of-wslc-winui-reactor-and-azure-linux-4-0/",
+      "score": 18,
+      "comments": 6,
+      "author": "haydenbarnes",
+      "tags": [],
+      "date": "2026-06-06T07:42:25+00:00"
     },
     {
       "id": "qiita-4ba14f1a7f",
@@ -56,8 +89,8 @@
       "source": "hn",
       "title": "S&P 500 rejects SpaceX, also blocking entry for OpenAI and Anthropic",
       "url": "https://arstechnica.com/tech-policy/2026/06/sp-500-blocks-fast-spacex-entry-wont-waive-rule-for-unprofitable-ai-firms/",
-      "score": 458,
-      "comments": 152,
+      "score": 606,
+      "comments": 202,
       "author": "maltalex",
       "tags": [],
       "date": "2026-06-06T04:38:36+00:00"
@@ -67,8 +100,8 @@
       "source": "hn",
       "title": "Pre-Modern Armies for Worldbuilders, Part I: Why They Fight",
       "url": "https://acoup.blog/2026/06/05/collections-pre-modern-armies-for-worldbuilders-part-i-why-they-fight/",
-      "score": 73,
-      "comments": 20,
+      "score": 98,
+      "comments": 28,
       "author": "gostsamo",
       "tags": [],
       "date": "2026-06-06T03:41:32+00:00"
@@ -78,8 +111,8 @@
       "source": "hn",
       "title": "Lockdown Mode",
       "url": "https://help.openai.com/en/articles/20001061-lockdown-mode",
-      "score": 58,
-      "comments": 26,
+      "score": 66,
+      "comments": 29,
       "author": "berlianta",
       "tags": [],
       "date": "2026-06-06T03:36:15+00:00"
@@ -100,8 +133,8 @@
       "source": "hn",
       "title": "The intracies of modern camera lens repair (2024)",
       "url": "https://salvagedcircuitry.com/sigma-45mm.html",
-      "score": 171,
-      "comments": 59,
+      "score": 187,
+      "comments": 63,
       "author": "transistor-man",
       "tags": [],
       "date": "2026-06-06T00:33:26+00:00"
@@ -245,8 +278,8 @@
       "source": "hn",
       "title": "Gov.uk has replaced Stripe with Dutch provider Adyen",
       "url": "https://www.theregister.com/public-sector/2026/06/04/govuk-goes-dutch-on-payments-as-it-dumps-stripe/5250763",
-      "score": 451,
-      "comments": 161,
+      "score": 474,
+      "comments": 182,
       "author": "toomuchtodo",
       "tags": [],
       "date": "2026-06-05T16:55:30+00:00"
@@ -280,8 +313,8 @@
       "source": "hn",
       "title": "Gemma 4 QAT models: Optimizing compression for mobile and laptop efficiency",
       "url": "https://blog.google/innovation-and-ai/technology/developers-tools/quantization-aware-training-gemma-4/",
-      "score": 350,
-      "comments": 108,
+      "score": 358,
+      "comments": 109,
       "author": "theanonymousone",
       "tags": [],
       "date": "2026-06-05T16:18:48+00:00"
@@ -302,8 +335,8 @@
       "source": "hn",
       "title": "pg_durable: Microsoft open sources in-database durable execution",
       "url": "https://github.com/microsoft/pg_durable",
-      "score": 401,
-      "comments": 89,
+      "score": 410,
+      "comments": 92,
       "author": "coffeemug",
       "tags": [],
       "date": "2026-06-05T15:59:57+00:00",
@@ -325,8 +358,8 @@
       "source": "hn",
       "title": "New method turns ocean water into drinking water, without waste",
       "url": "https://www.rochester.edu/newscenter/what-is-desalination-definition-ocean-water-704732/",
-      "score": 370,
-      "comments": 158,
+      "score": 394,
+      "comments": 167,
       "author": "speckx",
       "tags": [],
       "date": "2026-06-05T15:04:03+00:00"
@@ -336,8 +369,8 @@
       "source": "hn",
       "title": "Astronauts told to return to ISS after sheltering over air leak repairs",
       "url": "https://www.bbc.com/news/live/c4g44ew3g1kt",
-      "score": 396,
-      "comments": 250,
+      "score": 403,
+      "comments": 252,
       "author": "janpot",
       "tags": [],
       "date": "2026-06-05T15:00:31+00:00"
@@ -406,8 +439,8 @@
       "source": "hn",
       "title": "Did Claude increase bugs in rsync?",
       "url": "https://alexispurslane.github.io/rsync-analysis/",
-      "score": 414,
-      "comments": 430,
+      "score": 437,
+      "comments": 447,
       "author": "logicprog",
       "tags": [],
       "date": "2026-06-05T12:43:33+00:00"
@@ -1176,8 +1209,8 @@
       "source": "hn",
       "title": "My Agent Skill for Test-Driven Development",
       "url": "https://www.saturnci.com/my-agent-skill-for-test-driven-development.html",
-      "score": 176,
-      "comments": 77,
+      "score": 190,
+      "comments": 80,
       "author": "laxmena",
       "tags": [],
       "date": "2026-06-04T14:10:40+00:00"
@@ -1679,6 +1712,17 @@
       "date": "2026-06-03T23:37:18+00:00"
     },
     {
+      "id": "hn-48391541",
+      "source": "hn",
+      "title": "HISE – Toolkit for building VST plugins",
+      "url": "https://hise.dev",
+      "score": 3,
+      "comments": 0,
+      "author": "hyperific",
+      "tags": [],
+      "date": "2026-06-03T23:29:45+00:00"
+    },
+    {
       "id": "qiita-80b009f7bb",
       "source": "zennqiita",
       "sub_source": "Qiita",
@@ -1755,8 +1799,8 @@
       "source": "hn",
       "title": "How LLMs work",
       "url": "https://www.0xkato.xyz/how-llms-actually-work/",
-      "score": 358,
-      "comments": 103,
+      "score": 424,
+      "comments": 125,
       "author": "0xkato",
       "tags": [],
       "date": "2026-06-03T20:15:13+00:00"
@@ -1919,6 +1963,17 @@
       "date": "2026-06-03T16:24:46+00:00"
     },
     {
+      "id": "hn-48385990",
+      "source": "hn",
+      "title": "What 100k concurrent sandboxes has taught us so far",
+      "url": "https://www.computesdk.com/blog/scale-invitational-update/",
+      "score": 9,
+      "comments": 2,
+      "author": "heygarrison",
+      "tags": [],
+      "date": "2026-06-03T16:12:47+00:00"
+    },
+    {
       "id": "hn-48385965",
       "source": "hn",
       "title": "ESP32-S31",
@@ -2000,8 +2055,8 @@
       "source": "hn",
       "title": "Mouseless – keyboard-driven control of macOS/Linux/Windows",
       "url": "https://mouseless.click",
-      "score": 530,
-      "comments": 215,
+      "score": 539,
+      "comments": 218,
       "author": "riddley",
       "tags": [],
       "date": "2026-06-03T13:22:06+00:00"
@@ -2114,8 +2169,8 @@
       "source": "hn",
       "title": "Raytracing Geometries in 3D Rendering",
       "url": "https://andeplane.github.io/Raytracing/",
-      "score": 7,
-      "comments": 1,
+      "score": 11,
+      "comments": 2,
       "author": "kvakkefly",
       "tags": [],
       "date": "2026-06-03T10:37:40+00:00"
@@ -2207,7 +2262,7 @@
       "source": "hn",
       "title": "Ten Years of Franz",
       "url": "https://meetfranz.com/blog/ten-years-of-franz",
-      "score": 32,
+      "score": 42,
       "comments": 25,
       "author": "tosh",
       "tags": [],
@@ -2973,8 +3028,8 @@
       "source": "hn",
       "title": "Social Cache Busting",
       "url": "https://www.autodidacts.io/social-cache-busting/",
-      "score": 34,
-      "comments": 7,
+      "score": 54,
+      "comments": 13,
       "author": "surprisetalk",
       "tags": [],
       "date": "2026-06-02T13:15:18+00:00"
@@ -5156,61 +5211,6 @@
       "date": "2026-05-30T20:24:26+00:00"
     },
     {
-      "id": "hn-48339943",
-      "source": "hn",
-      "title": "Parallel Reconstruction of Lawful TLS Wiretapping",
-      "url": "https://remyhax.xyz/posts/reproducing-lawful-tls-wiretapping/",
-      "score": 92,
-      "comments": 41,
-      "author": "jerrythegerbil",
-      "tags": [],
-      "date": "2026-05-30T19:47:36+00:00"
-    },
-    {
-      "id": "hn-48339894",
-      "source": "hn",
-      "title": "Jef Raskin, the Visionary Behind the Mac (2013)",
-      "url": "https://lowendmac.com/2013/jef-raskin-the-visionary-behind-the-mac/",
-      "score": 99,
-      "comments": 42,
-      "author": "tylerdane",
-      "tags": [],
-      "date": "2026-05-30T19:42:33+00:00"
-    },
-    {
-      "id": "hn-48339753",
-      "source": "hn",
-      "title": "Show HN: 500 years of Joseon court omens as an observability dashboard",
-      "url": "https://ajin.im/is/building/omen.ops/",
-      "score": 94,
-      "comments": 17,
-      "author": "poppypetalmask",
-      "tags": [],
-      "date": "2026-05-30T19:23:36+00:00"
-    },
-    {
-      "id": "hn-48339580",
-      "source": "hn",
-      "title": "EY Canada published a cybersecurity report and most citations were hallucinated",
-      "url": "https://gptzero.me/investigations/ey",
-      "score": 221,
-      "comments": 94,
-      "author": "smartmic",
-      "tags": [],
-      "date": "2026-05-30T19:02:54+00:00"
-    },
-    {
-      "id": "hn-48339186",
-      "source": "hn",
-      "title": "We are constantly broadcasting emotional data",
-      "url": "https://www.tonyrice.me/emotional-intelligence/",
-      "score": 17,
-      "comments": 9,
-      "author": "tonyrice",
-      "tags": [],
-      "date": "2026-05-30T18:19:44+00:00"
-    },
-    {
       "id": "ctf-3761714",
       "source": "project",
       "proj_category": "CTF",
@@ -5421,6 +5421,19 @@
       "date": "2023-05-23T17:06:23Z"
     },
     {
+      "id": "zenn-4cc8f3bb92",
+      "source": "zennqiita",
+      "sub_source": "Zenn",
+      "title": "自宅ルーターのポート443を開放したら、ISPによる遮断(推定)でインターネットが死んだ話",
+      "url": "https://zenn.dev/c4n4242/articles/5ab1f510d8c946",
+      "score": null,
+      "author": "カノン@Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Fri, 05 Jun 2026 17:41:29 GMT"
+    },
+    {
       "id": "zenn-6ecc3811f4",
       "source": "zennqiita",
       "sub_source": "Zenn",
@@ -5432,19 +5445,6 @@
         "Zenn"
       ],
       "date": "Fri, 05 Jun 2026 09:31:05 GMT"
-    },
-    {
-      "id": "zenn-849593abb8",
-      "source": "zennqiita",
-      "sub_source": "Zenn",
-      "title": "【Snowflake Summit 2026】AIはデータのある場所で動かす ─ GitLabが示した設計思想と実装アプローチ",
-      "url": "https://zenn.dev/finatext/articles/47595dcc2fc914",
-      "score": null,
-      "author": "mari",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Fri, 05 Jun 2026 06:28:01 GMT"
     },
     {
       "id": "zenn-3badbcc1d7",
@@ -5471,6 +5471,19 @@
         "Zenn"
       ],
       "date": "Fri, 05 Jun 2026 05:41:21 GMT"
+    },
+    {
+      "id": "zenn-8f0fdc6947",
+      "source": "zennqiita",
+      "sub_source": "Zenn",
+      "title": "元オンプレ屋がAWS運用監視設計で最初に間違えたこと—「正常を定義する」が先だった",
+      "url": "https://zenn.dev/aa_taka/articles/e835abca466897",
+      "score": null,
+      "author": "aataka",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Thu, 04 Jun 2026 21:48:46 GMT"
     },
     {
       "id": "zenn-f97867aacf",
@@ -5537,19 +5550,6 @@
         "Zenn"
       ],
       "date": "Thu, 04 Jun 2026 06:00:07 GMT"
-    },
-    {
-      "id": "zenn-54d76fadc1",
-      "source": "zennqiita",
-      "sub_source": "Zenn",
-      "title": "せっかく作ったアプリが「AIっぽい」だけで避けられないようにするには？ ── /frontend-designだけじゃ足りなかった話",
-      "url": "https://zenn.dev/tokium_dev/articles/04387b258ba54e",
-      "score": null,
-      "author": "チビスラ",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Thu, 04 Jun 2026 05:48:02 GMT"
     },
     {
       "id": "zenn-4db3ef42f5",
@@ -5630,6 +5630,19 @@
       "date": "Wed, 03 Jun 2026 10:55:13 GMT"
     },
     {
+      "id": "zenn-78ae469b8b",
+      "source": "zennqiita",
+      "sub_source": "Zenn",
+      "title": "何でもスプシで管理してしまう病を、Snowflakeで業務アプリを作って解決したい",
+      "url": "https://zenn.dev/fusic/articles/9708e889197133",
+      "score": null,
+      "author": "Takahir_O",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Wed, 03 Jun 2026 09:47:50 GMT"
+    },
+    {
       "id": "zenn-56081903c6",
       "source": "zennqiita",
       "sub_source": "Zenn",
@@ -5641,19 +5654,6 @@
         "Zenn"
       ],
       "date": "Wed, 03 Jun 2026 04:02:05 GMT"
-    },
-    {
-      "id": "zenn-60cd2a8b50",
-      "source": "zennqiita",
-      "sub_source": "Zenn",
-      "title": "受け身な速さしかないエンジニアが、開発組織の設計をしている話",
-      "url": "https://zenn.dev/nexta_/articles/82392d461bcb14",
-      "score": null,
-      "author": "畠山圭佑",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Wed, 03 Jun 2026 03:48:14 GMT"
     },
     {
       "id": "zenn-9396c7d536",

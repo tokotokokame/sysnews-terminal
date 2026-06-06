@@ -1,14 +1,49 @@
 {
-  "updated_at": "2026-06-06T18:05:16.165094+00:00",
+  "updated_at": "2026-06-06T19:53:15.085250+00:00",
   "count": 500,
   "items": [
+    {
+      "id": "hn-48428025",
+      "source": "hn",
+      "title": "Ntsc-rs – open-source video emulation of analog TV and VHS artifacts",
+      "url": "https://ntsc.rs/",
+      "score": 19,
+      "comments": 5,
+      "author": "gregsadetsky",
+      "tags": [],
+      "date": "2026-06-06T19:17:46+00:00",
+      "severity": "critical"
+    },
+    {
+      "id": "hn-48427643",
+      "source": "hn",
+      "title": "Meta confirms 1000s of Instagram accounts were hacked by abusing its AI chatbot",
+      "url": "https://this.weekinsecurity.com/meta-confirms-thousands-of-instagram-accounts-were-hacked-by-abusing-its-ai-chatbot/",
+      "score": 39,
+      "comments": 13,
+      "author": "speckx",
+      "tags": [],
+      "date": "2026-06-06T18:35:27+00:00"
+    },
+    {
+      "id": "hn-48427523",
+      "source": "hn",
+      "title": "Pentagon raised threat of Israeli spying on U.S. to highest level, sources say",
+      "url": "https://www.nbcnews.com/politics/national-security/pentagon-raised-threat-israeli-spying-us-highest-level-sources-say-rcna348565",
+      "score": 155,
+      "comments": 79,
+      "author": "MilnerRoute",
+      "tags": [],
+      "date": "2026-06-06T18:21:06+00:00",
+      "severity": "critical"
+    },
     {
       "id": "hn-48426202",
       "source": "hn",
       "title": "You Can Run",
       "url": "https://magazine.atavist.com/2026/mccann-cocaine-fugitives",
-      "score": 16,
-      "comments": 0,
+      "score": 42,
+      "comments": 11,
       "author": "bryanrasmussen",
       "tags": [],
       "date": "2026-06-06T15:55:46+00:00"
@@ -18,8 +53,8 @@
       "source": "hn",
       "title": "Python JIT project was asked to pause development",
       "url": "https://discuss.python.org/t/an-announcement-from-the-steering-council-regarding-the-jit-project/107638",
-      "score": 50,
-      "comments": 15,
+      "score": 94,
+      "comments": 32,
       "author": "kbumsik",
       "tags": [],
       "date": "2026-06-06T15:30:09+00:00"
@@ -29,8 +64,8 @@
       "source": "hn",
       "title": "Zeroserve: A zero-config web server you can script with eBPF",
       "url": "https://su3.io/posts/introducing-zeroserve",
-      "score": 52,
-      "comments": 7,
+      "score": 106,
+      "comments": 26,
       "author": "losfair",
       "tags": [],
       "date": "2026-06-06T14:59:43+00:00"
@@ -40,8 +75,8 @@
       "source": "hn",
       "title": "Moving beyond fork() + exec()",
       "url": "https://lwn.net/SubscriberLink/1076018/16f01bbbb8e0d1f0/",
-      "score": 162,
-      "comments": 129,
+      "score": 189,
+      "comments": 187,
       "author": "jwilk",
       "tags": [],
       "date": "2026-06-06T14:34:20+00:00"
@@ -51,8 +86,8 @@
       "source": "hn",
       "title": "Running Python code in a sandbox with MicroPython and WASM",
       "url": "https://simonwillison.net/2026/Jun/6/micropython-in-a-sandbox/",
-      "score": 31,
-      "comments": 10,
+      "score": 46,
+      "comments": 17,
       "author": "theanonymousone",
       "tags": [],
       "date": "2026-06-06T14:15:32+00:00"
@@ -62,8 +97,8 @@
       "source": "hn",
       "title": "Benchmarks in Leipzig",
       "url": "https://arxiv.org/abs/2606.05818",
-      "score": 80,
-      "comments": 36,
+      "score": 98,
+      "comments": 40,
       "author": "root-parent",
       "tags": [],
       "date": "2026-06-06T14:00:52+00:00"
@@ -97,8 +132,8 @@
       "source": "hn",
       "title": "Trees to Flows and Back: Unifying Decision Trees and Diffusion Models",
       "url": "https://arxiv.org/abs/2605.00414",
-      "score": 19,
-      "comments": 1,
+      "score": 28,
+      "comments": 5,
       "author": "rsn243",
       "tags": [],
       "date": "2026-06-06T12:59:59+00:00"
@@ -108,8 +143,8 @@
       "source": "hn",
       "title": "Nvidia is proposing a beast of a CPU system for Windows PCs",
       "url": "https://twitter.com/lemire/status/2062880075117113739",
-      "score": 97,
-      "comments": 231,
+      "score": 145,
+      "comments": 293,
       "author": "tosh",
       "tags": [],
       "date": "2026-06-06T12:52:18+00:00"
@@ -141,8 +176,8 @@
       "source": "hn",
       "title": "Google will pay SpaceX $920M per month for compute",
       "url": "https://techcrunch.com/2026/06/05/google-will-pay-spacex-920m-per-month-for-compute/",
-      "score": 248,
-      "comments": 335,
+      "score": 315,
+      "comments": 468,
       "author": "ramanan",
       "tags": [],
       "date": "2026-06-06T11:46:15+00:00"
@@ -152,8 +187,8 @@
       "source": "hn",
       "title": "Pokemon Emerald Ported to WebAssembly (100k FPS)",
       "url": "https://pokeemerald.com/",
-      "score": 147,
-      "comments": 42,
+      "score": 190,
+      "comments": 56,
       "author": "tripplyons",
       "tags": [],
       "date": "2026-06-06T11:12:58+00:00"
@@ -243,8 +278,8 @@
       "source": "hn",
       "title": "S&P 500 rejects SpaceX, also blocking entry for OpenAI and Anthropic",
       "url": "https://arstechnica.com/tech-policy/2026/06/sp-500-blocks-fast-spacex-entry-wont-waive-rule-for-unprofitable-ai-firms/",
-      "score": 1109,
-      "comments": 394,
+      "score": 1207,
+      "comments": 422,
       "author": "maltalex",
       "tags": [],
       "date": "2026-06-06T04:38:36+00:00"
@@ -287,8 +322,8 @@
       "source": "hn",
       "title": "The intracies of modern camera lens repair (2024)",
       "url": "https://salvagedcircuitry.com/sigma-45mm.html",
-      "score": 218,
-      "comments": 82,
+      "score": 226,
+      "comments": 83,
       "author": "transistor-man",
       "tags": [],
       "date": "2026-06-06T00:33:26+00:00"
@@ -344,7 +379,7 @@
       "source": "hn",
       "title": "Tribute to Jiro Yamada, Automotive Artist (1960-2025) [video]",
       "url": "https://www.youtube.com/watch?v=rJ2gQ5Md60U",
-      "score": 28,
+      "score": 33,
       "comments": 2,
       "author": "NaOH",
       "tags": [],
@@ -523,8 +558,8 @@
       "source": "hn",
       "title": "New method turns ocean water into drinking water, without waste",
       "url": "https://www.rochester.edu/newscenter/what-is-desalination-definition-ocean-water-704732/",
-      "score": 460,
-      "comments": 196,
+      "score": 473,
+      "comments": 199,
       "author": "speckx",
       "tags": [],
       "date": "2026-06-05T15:04:03+00:00"
@@ -1523,8 +1558,8 @@
       "source": "hn",
       "title": "Summer of '85: DOSBOS is rejected by ANALOG Computing",
       "url": "https://www.goto10retro.com/p/summer-of-85-dosbos-is-rejected-by",
-      "score": 11,
-      "comments": 1,
+      "score": 27,
+      "comments": 7,
       "author": "ibobev",
       "tags": [],
       "date": "2026-06-04T10:47:07+00:00"
@@ -1615,6 +1650,17 @@
         "Qiita"
       ],
       "date": "2026-06-04T17:14:18+09:00"
+    },
+    {
+      "id": "hn-48395370",
+      "source": "hn",
+      "title": "WoofWare.PawPrint, a Deterministic .NET Runtime",
+      "url": "https://www.patrickstevens.co.uk/posts/2026-06-04-announcing-woofware-pawprint/",
+      "score": 22,
+      "comments": 4,
+      "author": "Smaug123",
+      "tags": [],
+      "date": "2026-06-04T07:32:20+00:00"
     },
     {
       "id": "qiita-5cd40da52e",
@@ -1953,8 +1999,8 @@
       "source": "hn",
       "title": "Splash Is a Colour Format",
       "url": "https://www.todepond.com/lab/splash/",
-      "score": 16,
-      "comments": 18,
+      "score": 27,
+      "comments": 19,
       "author": "tobr",
       "tags": [],
       "date": "2026-06-03T21:22:23+00:00"
@@ -1986,8 +2032,8 @@
       "source": "hn",
       "title": "How LLMs work",
       "url": "https://www.0xkato.xyz/how-llms-actually-work/",
-      "score": 684,
-      "comments": 189,
+      "score": 745,
+      "comments": 204,
       "author": "0xkato",
       "tags": [],
       "date": "2026-06-03T20:15:13+00:00"
@@ -3064,8 +3110,8 @@
       "source": "hn",
       "title": "Show HN: Infinite canvas notes in the non-Euclidean Poincaré disk",
       "url": "https://uonr.github.io/poincake/",
-      "score": 16,
-      "comments": 5,
+      "score": 56,
+      "comments": 8,
       "author": "uonr",
       "tags": [],
       "date": "2026-06-02T16:08:26+00:00"
@@ -4598,8 +4644,8 @@
       "source": "hn",
       "title": "Building Rust Procedural Macros from the Grounds Up",
       "url": "https://www.learnix-os.com/ch02-03-implementing-the-bitfields-proc-macro.html",
-      "score": 50,
-      "comments": 9,
+      "score": 59,
+      "comments": 13,
       "author": "Sagi21805",
       "tags": [],
       "date": "2026-05-31T19:28:49+00:00"
@@ -5154,52 +5200,6 @@
       "author": "ricudis",
       "tags": [],
       "date": "2026-05-31T05:30:18+00:00"
-    },
-    {
-      "id": "hn-48343078",
-      "source": "hn",
-      "title": "Ahoy, DECmate II the little PDP-8 that could",
-      "url": "http://oldvcr.blogspot.com/2026/05/ahoy-decmate-ii-little-pdp-8-that-could.html",
-      "score": 36,
-      "comments": 6,
-      "author": "TMWNN",
-      "tags": [],
-      "date": "2026-05-31T04:42:14+00:00"
-    },
-    {
-      "id": "qiita-f5fcc79b9c",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "【入水記事】入水までにやったこと",
-      "url": "https://qiita.com/Rapca/items/5aed01877d081cab26d7?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "Rapca",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-05-31T13:02:04+09:00"
-    },
-    {
-      "id": "hn-48342705",
-      "source": "hn",
-      "title": "Please Do Not Vibe Fuck Up This Software",
-      "url": "https://github.com/RsyncProject/rsync/issues/929",
-      "score": 261,
-      "comments": 151,
-      "author": "justdotJS",
-      "tags": [],
-      "date": "2026-05-31T03:16:48+00:00"
-    },
-    {
-      "id": "hn-48342617",
-      "source": "hn",
-      "title": "How to Build a Shitty Robot",
-      "url": "https://mariozechner.at/posts/2026-05-30-shitty-robot/",
-      "score": 5,
-      "comments": 2,
-      "author": "zdw",
-      "tags": [],
-      "date": "2026-05-31T02:54:13+00:00"
     },
     {
       "id": "ctf-3761714",

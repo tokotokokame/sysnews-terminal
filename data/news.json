@@ -1,25 +1,47 @@
 {
-  "updated_at": "2026-06-06T15:15:20.508991+00:00",
+  "updated_at": "2026-06-06T16:38:45.291867+00:00",
   "count": 500,
   "items": [
+    {
+      "id": "hn-48425723",
+      "source": "hn",
+      "title": "Zeroserve: A zero-config web server you can script with eBPF",
+      "url": "https://su3.io/posts/introducing-zeroserve",
+      "score": 6,
+      "comments": 0,
+      "author": "losfair",
+      "tags": [],
+      "date": "2026-06-06T14:59:43+00:00"
+    },
     {
       "id": "hn-48425528",
       "source": "hn",
       "title": "Moving beyond fork() + exec()",
       "url": "https://lwn.net/SubscriberLink/1076018/16f01bbbb8e0d1f0/",
-      "score": 20,
-      "comments": 6,
+      "score": 97,
+      "comments": 73,
       "author": "jwilk",
       "tags": [],
       "date": "2026-06-06T14:34:20+00:00"
+    },
+    {
+      "id": "hn-48425347",
+      "source": "hn",
+      "title": "Running Python code in a sandbox with MicroPython and WASM",
+      "url": "https://simonwillison.net/2026/Jun/6/micropython-in-a-sandbox/",
+      "score": 13,
+      "comments": 2,
+      "author": "theanonymousone",
+      "tags": [],
+      "date": "2026-06-06T14:15:32+00:00"
     },
     {
       "id": "hn-48425247",
       "source": "hn",
       "title": "Benchmarks in Leipzig",
       "url": "https://arxiv.org/abs/2606.05818",
-      "score": 45,
-      "comments": 19,
+      "score": 66,
+      "comments": 28,
       "author": "root-parent",
       "tags": [],
       "date": "2026-06-06T14:00:52+00:00"
@@ -29,8 +51,8 @@
       "source": "hn",
       "title": "US House lawmakers release draft bill to prohibit state AI rules",
       "url": "https://www.reuters.com/business/us-house-lawmakers-release-draft-bill-regulate-ai-2026-06-04/",
-      "score": 20,
-      "comments": 4,
+      "score": 64,
+      "comments": 28,
       "author": "1vuio0pswjnm7",
       "tags": [],
       "date": "2026-06-06T13:40:22+00:00"
@@ -49,12 +71,23 @@
       "date": "2026-06-06T22:16:32+09:00"
     },
     {
+      "id": "hn-48424674",
+      "source": "hn",
+      "title": "Trees to Flows and Back: Unifying Decision Trees and Diffusion Models",
+      "url": "https://arxiv.org/abs/2605.00414",
+      "score": 9,
+      "comments": 0,
+      "author": "rsn243",
+      "tags": [],
+      "date": "2026-06-06T12:59:59+00:00"
+    },
+    {
       "id": "hn-48424605",
       "source": "hn",
       "title": "Nvidia is proposing a beast of a CPU system for Windows PCs",
       "url": "https://twitter.com/lemire/status/2062880075117113739",
-      "score": 19,
-      "comments": 15,
+      "score": 66,
+      "comments": 145,
       "author": "tosh",
       "tags": [],
       "date": "2026-06-06T12:52:18+00:00"
@@ -64,8 +97,8 @@
       "source": "hn",
       "title": "The new bibliomaniacs",
       "url": "https://engelsbergideas.com/notebook/the-new-bibliomaniacs/",
-      "score": 32,
-      "comments": 21,
+      "score": 41,
+      "comments": 28,
       "author": "RickJWagner",
       "tags": [],
       "date": "2026-06-06T12:03:21+00:00"
@@ -86,8 +119,8 @@
       "source": "hn",
       "title": "Google will pay SpaceX $920M per month for compute",
       "url": "https://techcrunch.com/2026/06/05/google-will-pay-spacex-920m-per-month-for-compute/",
-      "score": 104,
-      "comments": 106,
+      "score": 184,
+      "comments": 224,
       "author": "ramanan",
       "tags": [],
       "date": "2026-06-06T11:46:15+00:00"
@@ -97,8 +130,8 @@
       "source": "hn",
       "title": "Pokemon Emerald Ported to WebAssembly (100k FPS)",
       "url": "https://pokeemerald.com/",
-      "score": 75,
-      "comments": 23,
+      "score": 109,
+      "comments": 30,
       "author": "tripplyons",
       "tags": [],
       "date": "2026-06-06T11:12:58+00:00"
@@ -188,8 +221,8 @@
       "source": "hn",
       "title": "S&P 500 rejects SpaceX, also blocking entry for OpenAI and Anthropic",
       "url": "https://arstechnica.com/tech-policy/2026/06/sp-500-blocks-fast-spacex-entry-wont-waive-rule-for-unprofitable-ai-firms/",
-      "score": 937,
-      "comments": 339,
+      "score": 1033,
+      "comments": 376,
       "author": "maltalex",
       "tags": [],
       "date": "2026-06-06T04:38:36+00:00"
@@ -199,8 +232,8 @@
       "source": "hn",
       "title": "Pre-Modern Armies for Worldbuilders, Part I: Why They Fight",
       "url": "https://acoup.blog/2026/06/05/collections-pre-modern-armies-for-worldbuilders-part-i-why-they-fight/",
-      "score": 122,
-      "comments": 39,
+      "score": 133,
+      "comments": 43,
       "author": "gostsamo",
       "tags": [],
       "date": "2026-06-06T03:41:32+00:00"
@@ -232,8 +265,8 @@
       "source": "hn",
       "title": "The intracies of modern camera lens repair (2024)",
       "url": "https://salvagedcircuitry.com/sigma-45mm.html",
-      "score": 208,
-      "comments": 71,
+      "score": 214,
+      "comments": 77,
       "author": "transistor-man",
       "tags": [],
       "date": "2026-06-06T00:33:26+00:00"
@@ -254,8 +287,8 @@
       "source": "hn",
       "title": "The perils of UUID primary keys in SQLite",
       "url": "https://andersmurphy.com/2026/06/05/the-perils-of-uuid-primary-keys-in-sqlite.html",
-      "score": 90,
-      "comments": 48,
+      "score": 121,
+      "comments": 70,
       "author": "emschwartz",
       "tags": [],
       "date": "2026-06-05T23:13:12+00:00"
@@ -289,8 +322,8 @@
       "source": "hn",
       "title": "Tribute to Jiro Yamada, Automotive Artist (1960-2025) [video]",
       "url": "https://www.youtube.com/watch?v=rJ2gQ5Md60U",
-      "score": 12,
-      "comments": 0,
+      "score": 20,
+      "comments": 1,
       "author": "NaOH",
       "tags": [],
       "date": "2026-06-05T20:52:56+00:00"
@@ -445,8 +478,8 @@
       "source": "hn",
       "title": "pg_durable: Microsoft open sources in-database durable execution",
       "url": "https://github.com/microsoft/pg_durable",
-      "score": 434,
-      "comments": 98,
+      "score": 440,
+      "comments": 102,
       "author": "coffeemug",
       "tags": [],
       "date": "2026-06-05T15:59:57+00:00",
@@ -468,8 +501,8 @@
       "source": "hn",
       "title": "New method turns ocean water into drinking water, without waste",
       "url": "https://www.rochester.edu/newscenter/what-is-desalination-definition-ocean-water-704732/",
-      "score": 448,
-      "comments": 184,
+      "score": 456,
+      "comments": 191,
       "author": "speckx",
       "tags": [],
       "date": "2026-06-05T15:04:03+00:00"
@@ -1883,6 +1916,17 @@
       "date": "2026-06-03T21:32:10+00:00"
     },
     {
+      "id": "hn-48390269",
+      "source": "hn",
+      "title": "Splash Is a Colour Format",
+      "url": "https://www.todepond.com/lab/splash/",
+      "score": 7,
+      "comments": 8,
+      "author": "tobr",
+      "tags": [],
+      "date": "2026-06-03T21:22:23+00:00"
+    },
+    {
       "id": "hn-48389681",
       "source": "hn",
       "title": "Ableton Extensions SDK",
@@ -1909,8 +1953,8 @@
       "source": "hn",
       "title": "How LLMs work",
       "url": "https://www.0xkato.xyz/how-llms-actually-work/",
-      "score": 597,
-      "comments": 173,
+      "score": 649,
+      "comments": 181,
       "author": "0xkato",
       "tags": [],
       "date": "2026-06-03T20:15:13+00:00"
@@ -3138,8 +3182,8 @@
       "source": "hn",
       "title": "Social Cache Busting",
       "url": "https://www.autodidacts.io/social-cache-busting/",
-      "score": 81,
-      "comments": 26,
+      "score": 97,
+      "comments": 32,
       "author": "surprisetalk",
       "tags": [],
       "date": "2026-06-02T13:15:18+00:00"
@@ -3598,8 +3642,8 @@
       "source": "hn",
       "title": "Show HN: Soft Body Jiggle Physics",
       "url": "https://github.com/xloveee/jiggle-physics",
-      "score": 7,
-      "comments": 3,
+      "score": 19,
+      "comments": 9,
       "author": "vesperance",
       "tags": [],
       "date": "2026-06-01T20:20:02+00:00"
@@ -4510,8 +4554,8 @@
       "source": "hn",
       "title": "Building Rust Procedural Macros from the Grounds Up",
       "url": "https://www.learnix-os.com/ch02-03-implementing-the-bitfields-proc-macro.html",
-      "score": 26,
-      "comments": 1,
+      "score": 39,
+      "comments": 2,
       "author": "Sagi21805",
       "tags": [],
       "date": "2026-05-31T19:28:49+00:00"
@@ -5162,52 +5206,6 @@
         "Qiita"
       ],
       "date": "2026-05-31T09:41:14+09:00"
-    },
-    {
-      "id": "qiita-b54858b5c8",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "配列代入時に条件付き要素を追加しない方法",
-      "url": "https://qiita.com/q-1-p/items/96a024d590162d592f0c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "q-1-p",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-05-31T09:33:38+09:00"
-    },
-    {
-      "id": "hn-48341932",
-      "source": "hn",
-      "title": "Mechanical Pencil: An illustrated celebration of the engineering around us",
-      "url": "https://mechanical-pencil.com/",
-      "score": 123,
-      "comments": 16,
-      "author": "Muhammad523",
-      "tags": [],
-      "date": "2026-05-31T00:25:12+00:00"
-    },
-    {
-      "id": "hn-48341578",
-      "source": "hn",
-      "title": "Microsoft Office 2019 and 2021 for Mac view-only conversion",
-      "url": "https://consumerrights.wiki/w/Microsoft_Office_2019_and_2021_for_Mac_view-only_conversion_(2026)",
-      "score": 929,
-      "comments": 327,
-      "author": "antipurist",
-      "tags": [],
-      "date": "2026-05-30T23:26:13+00:00"
-    },
-    {
-      "id": "hn-48341532",
-      "source": "hn",
-      "title": "I am against GenAI and everything it stands for",
-      "url": "https://lpcvoid.com/blog/0018_why_i_am_against_genai/index.html",
-      "score": 8,
-      "comments": 0,
-      "author": "theapache64",
-      "tags": [],
-      "date": "2026-05-30T23:17:52+00:00"
     },
     {
       "id": "ctf-3761714",

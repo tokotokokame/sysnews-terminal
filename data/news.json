@@ -1,14 +1,60 @@
 {
-  "updated_at": "2026-06-09T16:31:22.657980+00:00",
+  "updated_at": "2026-06-09T19:13:37.149626+00:00",
   "count": 500,
   "items": [
+    {
+      "id": "hn-48465874",
+      "source": "hn",
+      "title": "Brexit Ten Years On: The Economy",
+      "url": "https://ukandeu.ac.uk/brexit-ten-years-on-the-economy/",
+      "score": 16,
+      "comments": 5,
+      "author": "mooreds",
+      "tags": [],
+      "date": "2026-06-09T18:58:03+00:00"
+    },
+    {
+      "id": "hn-48464330",
+      "source": "hn",
+      "title": "The LD_DEBUG environment variable (2012)",
+      "url": "https://bnikolic.co.uk/blog/linux-ld-debug.html",
+      "score": 17,
+      "comments": 0,
+      "author": "tanelpoder",
+      "tags": [],
+      "date": "2026-06-09T17:29:05+00:00"
+    },
+    {
+      "id": "hn-48463808",
+      "source": "hn",
+      "title": "Claude Fable 5",
+      "url": "https://www.anthropic.com/news/claude-fable-5-mythos-5",
+      "score": 906,
+      "comments": 646,
+      "author": "Philpax",
+      "tags": [],
+      "date": "2026-06-09T16:58:01+00:00"
+    },
+    {
+      "id": "qiita-433a668bdb",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "「OpenTelemetry...?」",
+      "url": "https://qiita.com/ntk221/items/6fd70f4ad52d1e9edc75?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "ntk221",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-06-10T01:50:10+09:00"
+    },
     {
       "id": "hn-48463024",
       "source": "hn",
       "title": "Apple decided not to roll out Siri in EU after denied request for exemption",
       "url": "https://www.reuters.com/business/apple-failed-make-its-ai-tool-comply-eu-regulations-eu-commission-says-2026-06-09/",
-      "score": 34,
-      "comments": 17,
+      "score": 236,
+      "comments": 368,
       "author": "flanged",
       "tags": [],
       "date": "2026-06-09T16:13:10+00:00"
@@ -18,8 +64,8 @@
       "source": "hn",
       "title": "Biff.core: system composition for Clojure web apps",
       "url": "https://biffweb.com/p/core/",
-      "score": 11,
-      "comments": 3,
+      "score": 43,
+      "comments": 13,
       "author": "jacobobryant",
       "tags": [],
       "date": "2026-06-09T16:12:52+00:00"
@@ -38,10 +84,10 @@
     {
       "id": "hn-48462308",
       "source": "hn",
-      "title": "FCC Wants to Kill Burner Phones by Forcing Telecoms to Get All Customers' IDs",
+      "title": "FCC wants to kill burner phones by forcing telecoms to get all customers' IDs",
       "url": "https://www.404media.co/fcc-wants-to-kill-burner-phones-by-forcing-telecoms-to-get-all-customers-ids/",
-      "score": 68,
-      "comments": 39,
+      "score": 247,
+      "comments": 154,
       "author": "berlianta",
       "tags": [],
       "date": "2026-06-09T15:21:46+00:00"
@@ -51,8 +97,8 @@
       "source": "hn",
       "title": "Using Optical Aberrations to Distinguish Real Astronomical Transients",
       "url": "https://arxiv.org/abs/2606.08319",
-      "score": 12,
-      "comments": 1,
+      "score": 24,
+      "comments": 2,
       "author": "solarist",
       "tags": [],
       "date": "2026-06-09T15:12:30+00:00"
@@ -62,8 +108,8 @@
       "source": "hn",
       "title": "Can LLMs Beat Classical Hyperparameter Optimization Algorithms?",
       "url": "https://arxiv.org/abs/2603.24647",
-      "score": 41,
-      "comments": 4,
+      "score": 71,
+      "comments": 11,
       "author": "galsapir",
       "tags": [],
       "date": "2026-06-09T15:01:15+00:00"
@@ -73,8 +119,8 @@
       "source": "hn",
       "title": "Unified Controllable and Faithful Text-to-CAD Generation with LLMs",
       "url": "https://arxiv.org/abs/2604.19773",
-      "score": 30,
-      "comments": 2,
+      "score": 43,
+      "comments": 11,
       "author": "PaulHoule",
       "tags": [],
       "date": "2026-06-09T14:04:54+00:00"
@@ -84,8 +130,8 @@
       "source": "hn",
       "title": "Is Grep All You Need? How Agent Harnesses Reshape Agentic Search",
       "url": "https://arxiv.org/abs/2605.15184",
-      "score": 41,
-      "comments": 19,
+      "score": 79,
+      "comments": 37,
       "author": "Anon84",
       "tags": [],
       "date": "2026-06-09T13:27:03+00:00"
@@ -113,12 +159,24 @@
       "date": "2026-06-09T12:01:09+00:00"
     },
     {
+      "id": "hn-48459913",
+      "source": "hn",
+      "title": "Show HN: Learn from 30 historical figures, open source, nonprofit, self-hosted",
+      "url": "https://github.com/chipmates/agoracosmica",
+      "score": 19,
+      "comments": 9,
+      "author": "micstradev",
+      "tags": [],
+      "date": "2026-06-09T11:56:25+00:00",
+      "severity": "critical"
+    },
+    {
       "id": "hn-48459837",
       "source": "hn",
       "title": "Show HN: Gravity – interactive solar-system simulator, from Newton to Einstein",
       "url": "https://qunabu.github.io/Gravity/",
-      "score": 69,
-      "comments": 21,
+      "score": 102,
+      "comments": 23,
       "author": "qunabu",
       "tags": [],
       "date": "2026-06-09T11:46:40+00:00"
@@ -128,8 +186,8 @@
       "source": "hn",
       "title": "Making Graphics Like it's 1993",
       "url": "https://staniks.github.io/articles/catlantean-3d-blog-1/",
-      "score": 432,
-      "comments": 60,
+      "score": 577,
+      "comments": 97,
       "author": "sklopec",
       "tags": [],
       "date": "2026-06-09T10:46:14+00:00"
@@ -137,10 +195,10 @@
     {
       "id": "hn-48459001",
       "source": "hn",
-      "title": "The iPhone's Last Stand",
+      "title": "The iPhone's Last Stand?",
       "url": "https://stratechery.com/2026/the-iphones-last-stand/",
-      "score": 52,
-      "comments": 78,
+      "score": 132,
+      "comments": 169,
       "author": "swolpers",
       "tags": [],
       "date": "2026-06-09T10:08:18+00:00"
@@ -183,8 +241,8 @@
       "source": "hn",
       "title": "Forever Young: how one molecule can lock plants in a youthful state (2025)",
       "url": "https://omnia.sas.upenn.edu/story/biologist-scott-poethig-plants-never-age",
-      "score": 97,
-      "comments": 56,
+      "score": 109,
+      "comments": 64,
       "author": "bryanrasmussen",
       "tags": [],
       "date": "2026-06-09T08:25:36+00:00"
@@ -194,8 +252,8 @@
       "source": "hn",
       "title": "Microsoft's open source tools were hacked to steal passwords of AI developers",
       "url": "https://techcrunch.com/2026/06/08/microsofts-open-source-tools-were-hacked-to-steal-passwords-of-ai-developers/",
-      "score": 399,
-      "comments": 156,
+      "score": 471,
+      "comments": 166,
       "author": "raffael_de",
       "tags": [],
       "date": "2026-06-09T07:33:16+00:00",
@@ -307,6 +365,17 @@
       "date": "2026-06-08T23:05:20+00:00"
     },
     {
+      "id": "hn-48453275",
+      "source": "hn",
+      "title": "Let's Encrypt bans certificate usage in any US sanctioned territory [pdf]",
+      "url": "https://letsencrypt.org/documents/LE-SA-v1.7-June-04-2026-diff.pdf",
+      "score": 164,
+      "comments": 118,
+      "author": "piskov",
+      "tags": [],
+      "date": "2026-06-08T22:32:36+00:00"
+    },
+    {
       "id": "qiita-a07a25dc8a",
       "source": "zennqiita",
       "sub_source": "Qiita",
@@ -346,8 +415,8 @@
       "source": "hn",
       "title": "A giant star may have destroyed itself in one of the rarest explosions",
       "url": "https://phys.org/news/2026-05-giant-star-destroyed-universe-rarest.html",
-      "score": 11,
-      "comments": 1,
+      "score": 79,
+      "comments": 14,
       "author": "wglb",
       "tags": [],
       "date": "2026-06-08T21:00:13+00:00"
@@ -800,19 +869,6 @@
         "Qiita"
       ],
       "date": "2026-06-08T19:28:27+09:00"
-    },
-    {
-      "id": "qiita-433a668bdb",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "「OpenTelemetry...?」",
-      "url": "https://qiita.com/ntk221/items/6fd70f4ad52d1e9edc75?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "ntk221",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-06-08T19:18:22+09:00"
     },
     {
       "id": "qiita-b05898823b",
@@ -1278,8 +1334,8 @@
       "source": "hn",
       "title": "Thi.ng – open-source building blocks for computational design and art",
       "url": "https://thi.ng",
-      "score": 144,
-      "comments": 20,
+      "score": 166,
+      "comments": 25,
       "author": "nmstoker",
       "tags": [],
       "date": "2026-06-07T19:25:24+00:00",
@@ -1473,8 +1529,8 @@
       "source": "hn",
       "title": "Show HN: GentleOS – A pair of hobby OSes for vintage 32-bit and 16-bit PCs",
       "url": "https://github.com/luke8086/gentleos32",
-      "score": 32,
-      "comments": 67,
+      "score": 56,
+      "comments": 80,
       "author": "luke8086",
       "tags": [],
       "date": "2026-06-07T15:45:50+00:00"
@@ -2019,6 +2075,18 @@
       "severity": "critical"
     },
     {
+      "id": "hn-48427883",
+      "source": "hn",
+      "title": "Rayforce",
+      "url": "https://github.com/RayforceDB/rayforce",
+      "score": 14,
+      "comments": 1,
+      "author": "tosh",
+      "tags": [],
+      "date": "2026-06-06T19:01:32+00:00",
+      "severity": "critical"
+    },
+    {
       "id": "hn-48427643",
       "source": "hn",
       "title": "Meta confirms 1000s of Instagram accounts were hacked by abusing its AI chatbot",
@@ -2448,8 +2516,8 @@
       "source": "hn",
       "title": "OpenCV 5 Is Here: The Biggest Leap in Years for Computer Vision",
       "url": "https://opencv.org/opencv-5/",
-      "score": 504,
-      "comments": 85,
+      "score": 579,
+      "comments": 106,
       "author": "ternaus",
       "tags": [],
       "date": "2026-06-06T06:02:28+00:00"
@@ -3809,7 +3877,7 @@
       "source": "hn",
       "title": "The Effective Sample Size",
       "url": "https://alex.smola.org/posts/40-effective-sample-size/",
-      "score": 10,
+      "score": 19,
       "comments": 1,
       "author": "jxmorris12",
       "tags": [],
@@ -5134,74 +5202,6 @@
       "author": "zwigglers",
       "tags": [],
       "date": "2026-06-03T13:04:37+00:00"
-    },
-    {
-      "id": "hn-48383241",
-      "source": "hn",
-      "title": "32GB of DDR5 now costs $375 – AI shortage continues to squeeze PC building",
-      "url": "https://www.tomshardware.com/pc-components/ddr5/32gb-of-ddr5-now-costs-usd375-minimum-ai-shortage-continues-to-squeeze-pc-building",
-      "score": 293,
-      "comments": 277,
-      "author": "papersail",
-      "tags": [],
-      "date": "2026-06-03T12:43:43+00:00"
-    },
-    {
-      "id": "hn-48383220",
-      "source": "hn",
-      "title": "Meta workers can opt out of being tracked at work up to 30 min",
-      "url": "https://www.bbc.com/news/articles/c93x0k194yno",
-      "score": 629,
-      "comments": 601,
-      "author": "reconnecting",
-      "tags": [],
-      "date": "2026-06-03T12:42:07+00:00"
-    },
-    {
-      "id": "hn-48383056",
-      "source": "hn",
-      "title": "Uber's $1,500/month AI limit is a useful signal for AI tool pricing",
-      "url": "https://simonwillison.net/2026/Jun/3/uber-caps-usage/",
-      "score": 559,
-      "comments": 683,
-      "author": "pdyc",
-      "tags": [],
-      "date": "2026-06-03T12:25:14+00:00"
-    },
-    {
-      "id": "qiita-e45d70c436",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "Strands AgentsをLambdaにデプロイし、トレースをAgentCoreオブザーバビリティ（生成 AI オブザーバビリティ）に送るぜ",
-      "url": "https://qiita.com/moritalous/items/8fe30948b7fe39c37919?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "moritalous",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-06-03T20:55:47+09:00"
-    },
-    {
-      "id": "hn-48382382",
-      "source": "hn",
-      "title": "Every Byte Matters",
-      "url": "https://fzakaria.com/2026/06/01/every-byte-matters",
-      "score": 218,
-      "comments": 108,
-      "author": "ingve",
-      "tags": [],
-      "date": "2026-06-03T11:04:04+00:00"
-    },
-    {
-      "id": "hn-48382310",
-      "source": "hn",
-      "title": "Pwnd Blaster: Hacking your PC using your speaker without ever touching it",
-      "url": "https://blog.nns.ee/2026/06/03/katana-badusb/",
-      "score": 635,
-      "comments": 99,
-      "author": "xx_ns",
-      "tags": [],
-      "date": "2026-06-03T10:53:00+00:00"
     },
     {
       "id": "ctf-3761714",

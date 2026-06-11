@@ -1,7 +1,62 @@
 {
-  "updated_at": "2026-06-11T18:51:57.762216+00:00",
+  "updated_at": "2026-06-11T21:20:27.614304+00:00",
   "count": 500,
   "items": [
+    {
+      "id": "hn-48495818",
+      "source": "hn",
+      "title": "I stopped tracking my time. Now I can't focus",
+      "url": "https://newsletter.masilotti.com/p/i-stopped-tracking-my-time-now-i",
+      "score": 21,
+      "comments": 12,
+      "author": "joemasilotti",
+      "tags": [],
+      "date": "2026-06-11T20:14:33+00:00"
+    },
+    {
+      "id": "hn-48495751",
+      "source": "hn",
+      "title": "Travel Locally, Where You Are",
+      "url": "https://www.ssp.sh/brain/travel-where-you-are/",
+      "score": 31,
+      "comments": 13,
+      "author": "zazuke",
+      "tags": [],
+      "date": "2026-06-11T20:08:26+00:00"
+    },
+    {
+      "id": "hn-48495575",
+      "source": "hn",
+      "title": "Shall we play a game? – LLMs use tactical nukes in 95% of simulations",
+      "url": "https://www.kennethpayne.uk/p/shall-we-play-a-game",
+      "score": 23,
+      "comments": 11,
+      "author": "nick238",
+      "tags": [],
+      "date": "2026-06-11T19:54:54+00:00"
+    },
+    {
+      "id": "hn-48493564",
+      "source": "hn",
+      "title": "Apple didn't revolutionize power supplies; new transistors did (2012)",
+      "url": "https://www.righto.com/2012/02/apple-didnt-revolutionize-power.html",
+      "score": 37,
+      "comments": 4,
+      "author": "geerlingguy",
+      "tags": [],
+      "date": "2026-06-11T17:35:19+00:00"
+    },
+    {
+      "id": "hn-48493447",
+      "source": "hn",
+      "title": "Building agents without harness engineering",
+      "url": "https://rajitkhanna.com/agents/",
+      "score": 21,
+      "comments": 8,
+      "author": "rajit",
+      "tags": [],
+      "date": "2026-06-11T17:28:52+00:00"
+    },
     {
       "id": "qiita-ff6751f405",
       "source": "zennqiita",
@@ -20,8 +75,8 @@
       "source": "hn",
       "title": "Software Is Made Between Commits",
       "url": "https://zed.dev/blog/introducing-deltadb",
-      "score": 88,
-      "comments": 57,
+      "score": 153,
+      "comments": 105,
       "author": "jeremy_k",
       "tags": [],
       "date": "2026-06-11T16:28:24+00:00"
@@ -31,8 +86,8 @@
       "source": "hn",
       "title": "Solar generates more energy in US than coal for first time",
       "url": "https://www.theguardian.com/us-news/2026/jun/11/solar-energy-us-coal",
-      "score": 229,
-      "comments": 96,
+      "score": 349,
+      "comments": 163,
       "author": "neilfrndes",
       "tags": [],
       "date": "2026-06-11T16:10:05+00:00"
@@ -42,8 +97,8 @@
       "source": "hn",
       "title": "Waymo Premier",
       "url": "https://waymo.com/blog/2026/06/waymo-premier/",
-      "score": 60,
-      "comments": 105,
+      "score": 119,
+      "comments": 280,
       "author": "boulos",
       "tags": [],
       "date": "2026-06-11T16:10:02+00:00"
@@ -53,20 +108,31 @@
       "source": "hn",
       "title": "The RCE that AMD wouldn't fix",
       "url": "https://mrbruh.com/amd2/",
-      "score": 102,
-      "comments": 33,
+      "score": 174,
+      "comments": 66,
       "author": "MrBruh",
       "tags": [],
       "date": "2026-06-11T16:03:40+00:00",
       "severity": "critical"
     },
     {
+      "id": "hn-48492210",
+      "source": "hn",
+      "title": "Claude Fable 5: mid-tier results on coding tasks",
+      "url": "https://www.endorlabs.com/learn/claude-fable-5-mythos-grade-hype",
+      "score": 126,
+      "comments": 41,
+      "author": "bugvader",
+      "tags": [],
+      "date": "2026-06-11T16:03:21+00:00"
+    },
+    {
       "id": "hn-48491830",
       "source": "hn",
       "title": "Petition to Withdraw Canada's Bill C-22",
       "url": "https://www.ourcommons.ca/petitions/en/Petition/Sign/e-7416",
-      "score": 142,
-      "comments": 53,
+      "score": 266,
+      "comments": 95,
       "author": "hmokiguess",
       "tags": [],
       "date": "2026-06-11T15:37:23+00:00"
@@ -76,8 +142,8 @@
       "source": "hn",
       "title": "FPS.cob: A first person shooter in COBOL",
       "url": "https://github.com/icitry/FPS.cob",
-      "score": 67,
-      "comments": 34,
+      "score": 82,
+      "comments": 51,
       "author": "MBCook",
       "tags": [],
       "date": "2026-06-11T15:13:57+00:00"
@@ -99,8 +165,8 @@
       "source": "hn",
       "title": "MiMo Code is now released and open-source",
       "url": "https://mimo.xiaomi.com/mimocode",
-      "score": 288,
-      "comments": 153,
+      "score": 365,
+      "comments": 199,
       "author": "apeters",
       "tags": [],
       "date": "2026-06-11T14:27:19+00:00",
@@ -167,8 +233,8 @@
       "source": "hn",
       "title": "Show HN: Homebrew 6.0.0",
       "url": "https://brew.sh/2026/06/11/homebrew-6.0.0/",
-      "score": 361,
-      "comments": 87,
+      "score": 717,
+      "comments": 171,
       "author": "mikemcquaid",
       "tags": [],
       "date": "2026-06-11T13:24:29+00:00"
@@ -178,8 +244,8 @@
       "source": "hn",
       "title": "Open Reproduction of DeepSeek-R1",
       "url": "https://github.com/huggingface/open-r1",
-      "score": 142,
-      "comments": 15,
+      "score": 174,
+      "comments": 16,
       "author": "yogthos",
       "tags": [],
       "date": "2026-06-11T13:14:31+00:00"
@@ -189,8 +255,8 @@
       "source": "hn",
       "title": "Lines of code got a better publicist",
       "url": "https://curlewis.co.nz/posts/lines-of-code-got-a-better-publicist/",
-      "score": 290,
-      "comments": 188,
+      "score": 324,
+      "comments": 217,
       "author": "RyeCombinator",
       "tags": [],
       "date": "2026-06-11T12:26:42+00:00"
@@ -266,8 +332,8 @@
       "source": "hn",
       "title": "Pokémon Go Scans Trained the Navigation Tech for Military Drones",
       "url": "https://dronexl.co/2026/06/09/pokemon-go-scans-niantic-vantor-military-drone-navigation/",
-      "score": 619,
-      "comments": 286,
+      "score": 663,
+      "comments": 302,
       "author": "vrganj",
       "tags": [],
       "date": "2026-06-11T06:42:06+00:00"
@@ -525,7 +591,7 @@
       "source": "hn",
       "title": "The Dynamo and the Computer: The Modern Productivity Paradox (1989) [pdf]",
       "url": "https://www.almendron.com/tribuna/wp-content/uploads/2018/03/the-dynamo-and-the-computer-an-historical-perspective-on-the-modern-productivity-paradox.pdf",
-      "score": 17,
+      "score": 32,
       "comments": 3,
       "author": "simonpure",
       "tags": [],
@@ -737,8 +803,8 @@
       "source": "hn",
       "title": "Fully autonomous drones have killed human soldiers for the first time",
       "url": "https://www.newscientist.com/article/2529849-fully-autonomous-drones-have-killed-human-soldiers-for-the-first-time/",
-      "score": 87,
-      "comments": 60,
+      "score": 156,
+      "comments": 122,
       "author": "deadgopher",
       "tags": [],
       "date": "2026-06-10T13:46:14+00:00"
@@ -818,8 +884,8 @@
       "source": "hn",
       "title": "Emacs appearances in pop culture",
       "url": "https://ianyepan.github.io/posts/emacs-in-pop-culture/",
-      "score": 110,
-      "comments": 10,
+      "score": 182,
+      "comments": 29,
       "author": "ggcr",
       "tags": [],
       "date": "2026-06-10T10:37:45+00:00"
@@ -1204,8 +1270,8 @@
       "source": "hn",
       "title": "Programming a GBA Game on an iPhone",
       "url": "https://blog.adamledoux.net/posts/2026-06-08-programming-a-gba-game-on-an-iphone.html",
-      "score": 13,
-      "comments": 1,
+      "score": 33,
+      "comments": 4,
       "author": "akkartik",
       "tags": [],
       "date": "2026-06-09T22:12:20+00:00"
@@ -1483,8 +1549,8 @@
       "source": "hn",
       "title": "macOS 27 Beta breaks the ability to boot Asahi Linux",
       "url": "https://www.phoronix.com/news/macOS-27-Beta-Breaks-Asahi",
-      "score": 100,
-      "comments": 37,
+      "score": 173,
+      "comments": 75,
       "author": "josephcsible",
       "tags": [],
       "date": "2026-06-09T15:01:43+00:00"
@@ -2030,8 +2096,8 @@
       "source": "hn",
       "title": "Developer gets Half-Life running at 30 FPS on a Nokia N95",
       "url": "https://www.tomshardware.com/video-games/handheld-gaming/developer-gets-half-life-running-at-30-fps-on-a-2007-nokia-n95",
-      "score": 88,
-      "comments": 26,
+      "score": 160,
+      "comments": 43,
       "author": "ljf",
       "tags": [],
       "date": "2026-06-08T21:02:01+00:00"
@@ -2281,6 +2347,17 @@
       "tags": [],
       "date": "2026-06-08T16:52:11+00:00",
       "severity": "critical"
+    },
+    {
+      "id": "hn-48447598",
+      "source": "hn",
+      "title": "Ear Training Practice Exercises",
+      "url": "https://tonedear.com/",
+      "score": 71,
+      "comments": 49,
+      "author": "mattbit",
+      "tags": [],
+      "date": "2026-06-08T16:38:07+00:00"
     },
     {
       "id": "hn-48447378",
@@ -3932,8 +4009,8 @@
       "source": "hn",
       "title": "Discovery of Cold War-era rare Eastern Bloc computers in a German hangar",
       "url": "https://computerhistory.org/stories/explorers-of-the-lost-computers/",
-      "score": 53,
-      "comments": 9,
+      "score": 74,
+      "comments": 17,
       "author": "andrewstuart",
       "tags": [],
       "date": "2026-06-06T21:00:31+00:00"
@@ -5127,79 +5204,6 @@
       "date": "2026-06-05T11:45:23+00:00"
     },
     {
-      "id": "hn-48410844",
-      "source": "hn",
-      "title": "Win16 Memory Management",
-      "url": "http://www.os2museum.com/wp/win16-memory-management/",
-      "score": 124,
-      "comments": 61,
-      "author": "supermatou",
-      "tags": [],
-      "date": "2026-06-05T11:16:47+00:00"
-    },
-    {
-      "id": "qiita-1cd1308852",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "「調べますね」— AI当直アナリスト ケイティ：見た目ゆるふわ中身は超エキスパートSOC（Sysdig × Claude × OpenAI）",
-      "url": "https://qiita.com/takao-shimizu/items/bcaff119caea77ec75ba?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "takao-shimizu",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-06-05T19:57:16+09:00"
-    },
-    {
-      "id": "qiita-d1919db856",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "AIコーディングツールは本当に開発生産性を向上させるのか？",
-      "url": "https://qiita.com/elliot_james/items/ef1add6a13376400b481?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "elliot_james",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-06-05T19:51:48+09:00"
-    },
-    {
-      "id": "hn-48410602",
-      "source": "hn",
-      "title": "Communication on European Tech Sovereignty, and an EU Open-Source Strategy",
-      "url": "https://digital-strategy.ec.europa.eu/en/library/communication-european-tech-sovereignty-accompanied-eu-open-source-strategy",
-      "score": 71,
-      "comments": 45,
-      "author": "jrepinc",
-      "tags": [],
-      "date": "2026-06-05T10:44:48+00:00",
-      "severity": "critical"
-    },
-    {
-      "id": "hn-48410427",
-      "source": "hn",
-      "title": "Arithmetic Without Numbers – How LLMs Do Math",
-      "url": "https://alvaro-videla.com/llm-arithmetic-internals/article_interactive/article.html",
-      "score": 33,
-      "comments": 10,
-      "author": "old_sound",
-      "tags": [],
-      "date": "2026-06-05T10:19:39+00:00"
-    },
-    {
-      "id": "qiita-ec24a45893",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "【配送最適化入門】配送最適化とは？⓪",
-      "url": "https://qiita.com/doiken_/items/d56af0a2ca0f650b5fd0?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "doiken_",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-06-05T18:57:50+09:00"
-    },
-    {
       "id": "ctf-3761714",
       "source": "project",
       "proj_category": "CTF",
@@ -5352,20 +5356,6 @@
         "Release"
       ],
       "date": "2026-02-23T14:52:17Z"
-    },
-    {
-      "id": "ctf-3246876",
-      "source": "project",
-      "proj_category": "CTF",
-      "title": "HackTheBox Media writeup",
-      "url": "https://dev.to/mohamed_mo_f0979dd80f48c7/hackthebox-media-writeup-58i6",
-      "score": 0,
-      "author": "CTF Platform",
-      "tags": [
-        "CTF",
-        "Security"
-      ],
-      "date": "2026-02-10T15:56:33Z"
     },
     {
       "id": "ghrel-chroma-core_chroma-209726505",

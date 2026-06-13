@@ -1,40 +1,95 @@
 {
-  "updated_at": "2026-06-13T13:04:47.520158+00:00",
+  "updated_at": "2026-06-13T15:16:45.529516+00:00",
   "count": 500,
   "items": [
+    {
+      "id": "hn-48517377",
+      "source": "hn",
+      "title": "US bans differential privacy in Census data",
+      "url": "https://desfontain.es/blog/banning-noise.html",
+      "score": 52,
+      "comments": 2,
+      "author": "nl",
+      "tags": [],
+      "date": "2026-06-13T13:54:56+00:00"
+    },
+    {
+      "id": "hn-48516710",
+      "source": "hn",
+      "title": "Introduction to the experience of rendering Arabic typography&its technical debt",
+      "url": "https://lr0.org/blog/p/arabic/",
+      "score": 31,
+      "comments": 3,
+      "author": "bookofjoe",
+      "tags": [],
+      "date": "2026-06-13T12:40:16+00:00"
+    },
     {
       "id": "hn-48516573",
       "source": "hn",
       "title": "An Interview with Intel's Kira Boyko: Xeon 6's Product Director",
       "url": "https://chipsandcheese.com/p/an-interview-with-intels-kira-boyko",
-      "score": 9,
-      "comments": 0,
+      "score": 32,
+      "comments": 1,
       "author": "lumpa",
       "tags": [],
       "date": "2026-06-13T12:20:05+00:00"
+    },
+    {
+      "id": "hn-48516558",
+      "source": "hn",
+      "title": "Sam Bankman-Fried loses bid to appeal against fraud conviction in FTX case",
+      "url": "https://www.theguardian.com/business/2026/jun/12/sam-bankman-fried-loses-appeal",
+      "score": 43,
+      "comments": 19,
+      "author": "pseudolus",
+      "tags": [],
+      "date": "2026-06-13T12:17:27+00:00"
     },
     {
       "id": "hn-48516510",
       "source": "hn",
       "title": "Show HN: 2 Weeks of Hallucinate – The Photo Gallery",
       "url": "https://hallucinate.site/gallery",
-      "score": 25,
-      "comments": 5,
+      "score": 52,
+      "comments": 15,
       "author": "stagas",
       "tags": [],
       "date": "2026-06-13T12:11:35+00:00"
+    },
+    {
+      "id": "hn-48516504",
+      "source": "hn",
+      "title": "AI OSS tool repo goes archived over night after raising $7.3M Seed",
+      "url": "https://github.com/tensorzero/tensorzero",
+      "score": 124,
+      "comments": 79,
+      "author": "hek2sch",
+      "tags": [],
+      "date": "2026-06-13T12:10:47+00:00"
     },
     {
       "id": "hn-48516379",
       "source": "hn",
       "title": "Arch Linux Now Believes Malware Incident Under Control: More Than 1,500 Packages",
       "url": "https://www.phoronix.com/news/Arch-Linux-AUR-More-Than-1500",
-      "score": 47,
-      "comments": 5,
+      "score": 145,
+      "comments": 57,
       "author": "qwertox",
       "tags": [],
       "date": "2026-06-13T11:55:30+00:00",
       "severity": "medium"
+    },
+    {
+      "id": "hn-48516251",
+      "source": "hn",
+      "title": "Every Frame Perfect",
+      "url": "https://tonsky.me/blog/every-frame-perfect/",
+      "score": 44,
+      "comments": 3,
+      "author": "ravenical",
+      "tags": [],
+      "date": "2026-06-13T11:40:20+00:00"
     },
     {
       "id": "qiita-b8e4b55bc0",
@@ -50,12 +105,23 @@
       "date": "2026-06-13T19:27:16+09:00"
     },
     {
+      "id": "hn-48515454",
+      "source": "hn",
+      "title": "RTX 5080 and RTX 3090 Setup: 80 Tok/s on Qwen 3.6 27B Q8",
+      "url": "https://imil.net/blog/posts/2026/rtx-5080-+-rtx-3090-setup-80+-tok-s-on-qwen-3.6-27b-q8/",
+      "score": 25,
+      "comments": 1,
+      "author": "iMil",
+      "tags": [],
+      "date": "2026-06-13T09:55:32+00:00"
+    },
+    {
       "id": "hn-48515385",
       "source": "hn",
       "title": "Show HN: Paca – Lightweight Jira alternative for human-AI collaboration",
       "url": "https://github.com/Paca-AI/paca",
-      "score": 47,
-      "comments": 21,
+      "score": 78,
+      "comments": 28,
       "author": "pikann22",
       "tags": [],
       "date": "2026-06-13T09:44:25+00:00"
@@ -65,8 +131,8 @@
       "source": "hn",
       "title": "A low-carbon computing platform from your retired phones",
       "url": "https://research.google/blog/a-low-carbon-computing-platform-from-your-retired-phones/",
-      "score": 74,
-      "comments": 31,
+      "score": 133,
+      "comments": 70,
       "author": "vikas-sharma",
       "tags": [],
       "date": "2026-06-13T09:38:32+00:00"
@@ -111,8 +177,8 @@
       "source": "hn",
       "title": "Shepherd's Dog: A Game by the Most Dangerous AI Model",
       "url": "https://koenvangilst.nl/lab/claude-fable-shepherds-dog",
-      "score": 108,
-      "comments": 94,
+      "score": 127,
+      "comments": 105,
       "author": "vnglst",
       "tags": [],
       "date": "2026-06-13T05:44:46+00:00"
@@ -122,8 +188,8 @@
       "source": "hn",
       "title": "There is a shadow hanging over this Fable thing",
       "url": "https://12gramsofcarbon.com/p/tech-things-there-is-a-massive-shadow",
-      "score": 338,
-      "comments": 303,
+      "score": 390,
+      "comments": 373,
       "author": "theahura",
       "tags": [],
       "date": "2026-06-13T05:16:41+00:00"
@@ -194,8 +260,8 @@
       "source": "hn",
       "title": "Open source AI must win",
       "url": "https://opensourceaimustwin.com/?share=v2",
-      "score": 1148,
-      "comments": 362,
+      "score": 1277,
+      "comments": 399,
       "author": "vednig",
       "tags": [],
       "date": "2026-06-13T02:14:24+00:00",
@@ -229,8 +295,8 @@
       "source": "hn",
       "title": "Statement on US government directive to suspend access to Fable 5 and Mythos 5",
       "url": "https://www.anthropic.com/news/fable-mythos-access",
-      "score": 2619,
-      "comments": 1891,
+      "score": 2801,
+      "comments": 2050,
       "author": "Dylan1312",
       "tags": [],
       "date": "2026-06-13T00:51:30+00:00"
@@ -277,8 +343,8 @@
       "source": "hn",
       "title": "Show HN: Putt.day a daily mini golf game",
       "url": "https://putt.day/",
-      "score": 213,
-      "comments": 90,
+      "score": 243,
+      "comments": 95,
       "author": "ellg",
       "tags": [],
       "date": "2026-06-12T22:56:06+00:00"
@@ -313,8 +379,8 @@
       "source": "hn",
       "title": "Electric motors with no rare earths",
       "url": "https://www.renaultgroup.com/en/magazine/energy-and-powertrains/all-about-electric-motors-with-no-rare-earths/",
-      "score": 544,
-      "comments": 158,
+      "score": 601,
+      "comments": 168,
       "author": "bestouff",
       "tags": [],
       "date": "2026-06-12T22:08:03+00:00"
@@ -357,8 +423,8 @@
       "source": "hn",
       "title": "Swift at Apple: Migrating the TrueType hinting interpreter",
       "url": "https://www.swift.org/blog/migrating-truetype-hinting-to-swift/",
-      "score": 211,
-      "comments": 98,
+      "score": 223,
+      "comments": 101,
       "author": "DASD",
       "tags": [],
       "date": "2026-06-12T19:54:27+00:00"
@@ -458,8 +524,8 @@
       "source": "hn",
       "title": "How to setup a local coding agent on macOS",
       "url": "https://ikyle.me/blog/2026/how-to-setup-a-local-coding-agent-on-macos",
-      "score": 404,
-      "comments": 102,
+      "score": 427,
+      "comments": 108,
       "author": "kkm",
       "tags": [],
       "date": "2026-06-12T17:34:55+00:00"
@@ -608,8 +674,8 @@
       "source": "hn",
       "title": "CRISPR tech selectively shreds cancer cells, including \"undruggable\" cancers",
       "url": "https://innovativegenomics.org/news/crispr-technique-selectively-shreds-cancer-cells/",
-      "score": 862,
-      "comments": 194,
+      "score": 907,
+      "comments": 202,
       "author": "gmays",
       "tags": [],
       "date": "2026-06-12T15:15:24+00:00"
@@ -1092,8 +1158,8 @@
       "source": "hn",
       "title": "Malware developers added nuclear and biological weapons text to to their spyware",
       "url": "https://twitter.com/jsrailton/status/2064661778978533571",
-      "score": 414,
-      "comments": 225,
+      "score": 428,
+      "comments": 228,
       "author": "marc__1",
       "tags": [],
       "date": "2026-06-11T20:24:18+00:00",
@@ -1905,6 +1971,17 @@
       "date": "2026-06-10T20:05:21+00:00"
     },
     {
+      "id": "hn-48481400",
+      "source": "hn",
+      "title": "Show HN: I am building a map of people who lived in the Roman Empire",
+      "url": "https://new.roman-names.com/",
+      "score": 23,
+      "comments": 7,
+      "author": "metiscus",
+      "tags": [],
+      "date": "2026-06-10T19:28:49+00:00"
+    },
+    {
       "id": "hn-48481126",
       "source": "hn",
       "title": "Farmer donates land for a park, city sells it for $10M as data center land",
@@ -2054,8 +2131,8 @@
       "source": "hn",
       "title": "The state of building user interfaces in Rust",
       "url": "https://areweguiyet.com/#ecosystem",
-      "score": 38,
-      "comments": 16,
+      "score": 85,
+      "comments": 56,
       "author": "mahirsaid",
       "tags": [],
       "date": "2026-06-10T16:44:23+00:00"
@@ -2604,8 +2681,8 @@
       "source": "hn",
       "title": "The computer science degree isn’t dead",
       "url": "https://spectrum.ieee.org/computer-science-degree-isnt-dead",
-      "score": 122,
-      "comments": 110,
+      "score": 154,
+      "comments": 139,
       "author": "jnord",
       "tags": [],
       "date": "2026-06-10T01:33:43+00:00"
@@ -5139,93 +5216,6 @@
       "author": "theanonymousone",
       "tags": [],
       "date": "2026-06-07T11:20:13+00:00"
-    },
-    {
-      "id": "hn-48433756",
-      "source": "hn",
-      "title": "Show HN: Lathe – Use LLMs to learn a new domain, not skip past it",
-      "url": "https://github.com/devenjarvis/lathe",
-      "score": 317,
-      "comments": 55,
-      "author": "devenjarvis",
-      "tags": [],
-      "date": "2026-06-07T11:16:46+00:00"
-    },
-    {
-      "id": "qiita-9bb41527f8",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "【React】フォームにonChangeもvalueも不要！全てuseActionStateで解決する",
-      "url": "https://qiita.com/BRSF/items/206c141f06cd94b724c6?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "BRSF",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-06-07T20:12:29+09:00"
-    },
-    {
-      "id": "qiita-de175958b7",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "個人開発に AI-DLC を導入してみたら、開発体験がガラッと変わった話",
-      "url": "https://qiita.com/degudegu2510/items/d5d79434f96811fb74c8?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "degudegu2510",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-06-07T19:44:29+09:00"
-    },
-    {
-      "id": "hn-48433525",
-      "source": "hn",
-      "title": "Magnetoelectric antennas could transform how underwater robots talk",
-      "url": "https://newatlas.com/engineering/magnetoelectric-antennas-submarine-robots-communications/",
-      "score": 56,
-      "comments": 25,
-      "author": "breve",
-      "tags": [],
-      "date": "2026-06-07T10:38:31+00:00"
-    },
-    {
-      "id": "qiita-e19c02c738",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "新卒2年目・独学のCISSP合格体験記（2026年6月）",
-      "url": "https://qiita.com/Bibirina_hiyoko/items/c45179bcc35feda0041f?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "Bibirina_hiyoko",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-06-07T19:31:37+09:00"
-    },
-    {
-      "id": "qiita-a64f0e0aa5",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "【Python】uvは結局pipの何を解決するのか？",
-      "url": "https://qiita.com/ktdatascience/items/85bc1792f37f0d38fd5c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "ktdatascience",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-06-07T19:30:30+09:00"
-    },
-    {
-      "id": "qiita-bbe855a911",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "モダナイゼーションや移行など、AIエージェントと組み合わせて使う話【参考記事紹介】",
-      "url": "https://qiita.com/m_koishikawa/items/33fe15b3dc8b21537356?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "m_koishikawa",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-06-07T19:23:53+09:00"
     },
     {
       "id": "ctf-3761714",

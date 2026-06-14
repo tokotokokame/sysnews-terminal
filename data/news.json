@@ -1,25 +1,86 @@
 {
-  "updated_at": "2026-06-14T06:40:06.992273+00:00",
+  "updated_at": "2026-06-14T10:24:25.509595+00:00",
   "count": 500,
   "items": [
+    {
+      "id": "qiita-7115aa9f33",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "エンジニアのためのワールドカップ オランダ戦観戦ガイド ── 11人の選手を技術概念で解説する",
+      "url": "https://qiita.com/Yamada040/items/b5810c35502ef14f6ed9?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "Yamada040",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-06-14T18:40:46+09:00"
+    },
+    {
+      "id": "qiita-3e991e086e",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "Qiita記事7.7万件をClickHouseに入れてAIエージェントに分析させてみた",
+      "url": "https://qiita.com/ktdatascience/items/eff07c425f5b871e819b?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "ktdatascience",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-06-14T15:16:29+09:00"
+    },
+    {
+      "id": "qiita-98b182e50b",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "Qiitaで「伸びる記事って特徴って何？」を過去7.7万件のデータで分析してみた",
+      "url": "https://qiita.com/ktdatascience/items/1d49e14ea0a8851fcae7?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "ktdatascience",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-06-14T15:12:55+09:00"
+    },
+    {
+      "id": "hn-48524620",
+      "source": "hn",
+      "title": "Don't trust large context windows",
+      "url": "https://garrit.xyz/posts/2026-05-06-dont-trust-large-context-windows",
+      "score": 98,
+      "comments": 74,
+      "author": "computersuck",
+      "tags": [],
+      "date": "2026-06-14T06:07:09+00:00"
+    },
     {
       "id": "hn-48524434",
       "source": "hn",
       "title": "Tribblix: The retro Illumos distribution",
       "url": "http://tribblix.org/",
-      "score": 17,
-      "comments": 6,
+      "score": 39,
+      "comments": 13,
       "author": "naturalmovement",
       "tags": [],
       "date": "2026-06-14T05:23:12+00:00"
+    },
+    {
+      "id": "hn-48524293",
+      "source": "hn",
+      "title": "Phoenix LiveView 1.2",
+      "url": "https://phoenixframework.org/blog/phoenix-liveview-1-2-released",
+      "score": 121,
+      "comments": 32,
+      "author": "ksec",
+      "tags": [],
+      "date": "2026-06-14T04:53:51+00:00"
     },
     {
       "id": "hn-48524135",
       "source": "hn",
       "title": "Pac-Man, but you're the ghost",
       "url": "https://garrit.xyz/posts/2026-06-13-pac-man-but-you-re-the-ghost",
-      "score": 45,
-      "comments": 21,
+      "score": 97,
+      "comments": 43,
       "author": "mindracer",
       "tags": [],
       "date": "2026-06-14T04:18:45+00:00"
@@ -36,12 +97,25 @@
       "date": "2026-06-14T04:07:37+00:00"
     },
     {
+      "id": "qiita-f10adf21a4",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "Python はヘビ。Rust はカニ。あなたの言語は何？プログラミング言語の動物たち、集合させてみた！",
+      "url": "https://qiita.com/tomoki-miso/items/9f5764ae814aae9e98a7?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "tomoki-miso",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-06-14T13:03:52+09:00"
+    },
+    {
       "id": "hn-48523992",
       "source": "hn",
       "title": "Free SQL→ER diagram tool, runs in the browser, nothing uploaded",
       "url": "https://sqltoerdiagram.com/",
-      "score": 37,
-      "comments": 11,
+      "score": 137,
+      "comments": 27,
       "author": "robhati",
       "tags": [],
       "date": "2026-06-14T03:43:30+00:00"
@@ -62,8 +136,8 @@
       "source": "hn",
       "title": "Making Claude a Chemist",
       "url": "https://www.anthropic.com/research/making-claude-a-chemist",
-      "score": 23,
-      "comments": 10,
+      "score": 47,
+      "comments": 36,
       "author": "gmays",
       "tags": [],
       "date": "2026-06-14T02:55:36+00:00"
@@ -73,8 +147,8 @@
       "source": "hn",
       "title": "Weave: Merging based on language structure and not lines",
       "url": "https://ataraxy-labs.github.io/weave/",
-      "score": 20,
-      "comments": 8,
+      "score": 42,
+      "comments": 22,
       "author": "rohanat",
       "tags": [],
       "date": "2026-06-14T02:45:38+00:00"
@@ -84,8 +158,8 @@
       "source": "hn",
       "title": "Building a serial and VGA \"everything console\"",
       "url": "http://oldvcr.blogspot.com/2026/06/building-serial-and-vga-everything.html",
-      "score": 20,
-      "comments": 0,
+      "score": 33,
+      "comments": 2,
       "author": "classichasclass",
       "tags": [],
       "date": "2026-06-14T02:31:15+00:00"
@@ -130,11 +204,24 @@
       "source": "hn",
       "title": "Honda Civics and the Evil Valet",
       "url": "https://juniperspring.org/posts/honda-evil-valet/",
-      "score": 206,
-      "comments": 33,
+      "score": 270,
+      "comments": 45,
       "author": "librick",
       "tags": [],
       "date": "2026-06-14T00:49:46+00:00"
+    },
+    {
+      "id": "qiita-81fdfb76fa",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "3年間、AI要件定義に取り組んできた全記録",
+      "url": "https://qiita.com/kumai_yu/items/831717856fd24981799d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "kumai_yu",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-06-14T09:44:34+09:00"
     },
     {
       "id": "hn-48522486",
@@ -146,6 +233,32 @@
       "author": "jeditobe",
       "tags": [],
       "date": "2026-06-13T23:22:05+00:00"
+    },
+    {
+      "id": "qiita-f781a53c96",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "Amazon Bedrock AgentCore ハーネスでRAG検索機能付きAIエージェントを爆速で構築する",
+      "url": "https://qiita.com/kamo-shika/items/edad802613b45b3d18f1?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "kamo-shika",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-06-14T08:18:14+09:00"
+    },
+    {
+      "id": "qiita-e438adc867",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "メタハーネスとは何か ― Databricks発のOSS『Omnigent』が解決しようとしていること",
+      "url": "https://qiita.com/taka_yayoi/items/2ff51f2df46cc1285ba3?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "taka_yayoi",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-06-14T08:10:40+09:00"
     },
     {
       "id": "hn-48522310",
@@ -185,8 +298,8 @@
       "source": "hn",
       "title": "Running DOS on Behringers DDX3216 with a DIY x86-Bios from Scratch",
       "url": "https://chrisdevblog.com/2026/06/08/running-dos-on-behringers-ddx3216-using-a-diy-x86-bios/",
-      "score": 87,
-      "comments": 20,
+      "score": 96,
+      "comments": 22,
       "author": "rasz",
       "tags": [],
       "date": "2026-06-13T18:32:22+00:00"
@@ -207,8 +320,8 @@
       "source": "hn",
       "title": "GameBoy Workboy",
       "url": "https://tcrf.net/Workboy",
-      "score": 179,
-      "comments": 62,
+      "score": 189,
+      "comments": 67,
       "author": "tosh",
       "tags": [],
       "date": "2026-06-13T17:43:02+00:00"
@@ -251,8 +364,8 @@
       "source": "hn",
       "title": "GLM 5.2 Is Out",
       "url": "https://twitter.com/jietang/status/2065784751345287314",
-      "score": 494,
-      "comments": 268,
+      "score": 587,
+      "comments": 322,
       "author": "aloknnikhil",
       "tags": [],
       "date": "2026-06-13T16:18:31+00:00"
@@ -286,8 +399,8 @@
       "source": "hn",
       "title": "Noise infusion banned from statistical products published by Census Bureau",
       "url": "https://desfontain.es/blog/banning-noise.html",
-      "score": 797,
-      "comments": 493,
+      "score": 826,
+      "comments": 512,
       "author": "nl",
       "tags": [],
       "date": "2026-06-13T13:54:56+00:00"
@@ -364,8 +477,8 @@
       "source": "hn",
       "title": "Every Frame Perfect",
       "url": "https://tonsky.me/blog/every-frame-perfect/",
-      "score": 656,
-      "comments": 218,
+      "score": 720,
+      "comments": 230,
       "author": "ravenical",
       "tags": [],
       "date": "2026-06-13T11:40:20+00:00"
@@ -436,8 +549,8 @@
       "source": "hn",
       "title": "A low-carbon computing platform from your retired phones",
       "url": "https://research.google/blog/a-low-carbon-computing-platform-from-your-retired-phones/",
-      "score": 272,
-      "comments": 143,
+      "score": 293,
+      "comments": 155,
       "author": "vikas-sharma",
       "tags": [],
       "date": "2026-06-13T09:38:32+00:00"
@@ -467,6 +580,19 @@
         "Qiita"
       ],
       "date": "2026-06-13T18:15:06+09:00"
+    },
+    {
+      "id": "qiita-0695bb8eb8",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "React + Hono の近況共有アプリでやった XSS 対策",
+      "url": "https://qiita.com/Uyuki_0409/items/1e404be9d6bfb63f6962?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "Uyuki_0409",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-06-13T17:50:47+09:00"
     },
     {
       "id": "qiita-37b497f030",
@@ -622,6 +748,19 @@
       "tags": [],
       "date": "2026-06-13T02:02:07+00:00",
       "severity": "critical"
+    },
+    {
+      "id": "qiita-37e7592d3f",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "NGINXとは？モダンなWebシステムにおけるNGINXの役割と活用～基礎からローカルLLM実現例まで",
+      "url": "https://qiita.com/tech-nami/items/2d179da5a97fe9d147cc?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "tech-nami",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-06-13T10:33:04+09:00"
     },
     {
       "id": "hn-48511168",
@@ -1176,8 +1315,8 @@
       "source": "hn",
       "title": "Python 3.14 garbage collection rigamarole",
       "url": "https://theconsensus.dev/p/2026/06/06/python-3-14-garbage-collection-rigamarole.html",
-      "score": 35,
-      "comments": 18,
+      "score": 58,
+      "comments": 43,
       "author": "eatonphil",
       "tags": [],
       "date": "2026-06-12T11:59:40+00:00"
@@ -1354,6 +1493,19 @@
       "date": "2026-06-12T05:53:19+00:00"
     },
     {
+      "id": "qiita-91ef5e9b77",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "メールに添付された Zip ファイルを自動解凍 → SharePoint に保存して同僚に共有する",
+      "url": "https://qiita.com/YurimyMiyu/items/14ede647c78c5b9af6d3?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "YurimyMiyu",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-06-12T14:35:02+09:00"
+    },
+    {
       "id": "qiita-86536780d8",
       "source": "zennqiita",
       "sub_source": "Qiita",
@@ -1413,6 +1565,30 @@
       "author": "mfiguiere",
       "tags": [],
       "date": "2026-06-12T04:24:16+00:00"
+    },
+    {
+      "id": "qiita-7be122ad3d",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "Planでは自由に、修正では厳密に――AIコーディングを安定させるコミット境界",
+      "url": "https://qiita.com/torifukukaiou/items/00bd499be477514c9629?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "torifukukaiou",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-06-12T12:20:28+09:00"
+    },
+    {
+      "id": "hn-48499348",
+      "source": "hn",
+      "title": "500-year-old monasteries outperform at digital transformation (U. of Zurich)",
+      "url": "https://phys.org/news/2026-05-historic-monasteries-digital-countries.html",
+      "score": 19,
+      "comments": 5,
+      "author": "indynz",
+      "tags": [],
+      "date": "2026-06-12T02:58:17+00:00"
     },
     {
       "id": "hn-48498573",
@@ -1498,8 +1674,8 @@
       "source": "hn",
       "title": "Codex for open source",
       "url": "https://openai.com/form/codex-for-oss/",
-      "score": 216,
-      "comments": 73,
+      "score": 235,
+      "comments": 94,
       "author": "EvgeniyZh",
       "tags": [],
       "date": "2026-06-11T22:20:03+00:00",
@@ -1571,6 +1747,17 @@
       "author": "kylecarbs",
       "tags": [],
       "date": "2026-06-11T20:52:26+00:00"
+    },
+    {
+      "id": "hn-48496156",
+      "source": "hn",
+      "title": "Cooling in Space",
+      "url": "https://guille.site/posts/space-cooling/",
+      "score": 12,
+      "comments": 2,
+      "author": "LolWolf",
+      "tags": [],
+      "date": "2026-06-11T20:43:32+00:00"
     },
     {
       "id": "hn-48495928",
@@ -1650,6 +1837,17 @@
       "author": "rcarmo",
       "tags": [],
       "date": "2026-06-11T18:14:58+00:00"
+    },
+    {
+      "id": "hn-48494135",
+      "source": "hn",
+      "title": "Beagle: Git, URIs and all the dirty words",
+      "url": "https://replicated.wiki/blog/uris.html",
+      "score": 17,
+      "comments": 6,
+      "author": "gritzko",
+      "tags": [],
+      "date": "2026-06-11T18:05:52+00:00"
     },
     {
       "id": "hn-48493564",
@@ -1860,8 +2058,8 @@
       "source": "hn",
       "title": "FreeOberon – Open-Source, Cross-Platform, Free Pascal/Turbo Pascal-Like Language",
       "url": "https://github.com/kekcleader/FreeOberon",
-      "score": 66,
-      "comments": 26,
+      "score": 90,
+      "comments": 35,
       "author": "peter_d_sherman",
       "tags": [],
       "date": "2026-06-11T14:34:46+00:00",
@@ -2389,6 +2587,17 @@
       "author": "mananaysiempre",
       "tags": [],
       "date": "2026-06-10T22:48:58+00:00"
+    },
+    {
+      "id": "hn-48483841",
+      "source": "hn",
+      "title": "LaserWriter seeds",
+      "url": "https://inventingthefuture.ghost.io/laserwriter-seeds/",
+      "score": 19,
+      "comments": 0,
+      "author": "frizlab",
+      "tags": [],
+      "date": "2026-06-10T22:47:46+00:00"
     },
     {
       "id": "hn-48483387",
@@ -3634,8 +3843,8 @@
       "source": "hn",
       "title": "Pyodide 314.0: Python packages can now publish WebAssembly wheels to PyPI",
       "url": "https://blog.pyodide.org/posts/314-release/",
-      "score": 111,
-      "comments": 26,
+      "score": 132,
+      "comments": 31,
       "author": "agriyakhetarpal",
       "tags": [],
       "date": "2026-06-09T15:54:31+00:00"
@@ -5021,360 +5230,6 @@
       "date": "2026-06-08T08:11:24+00:00"
     },
     {
-      "id": "hn-48442503",
-      "source": "hn",
-      "title": "The EU Open Source Strategy",
-      "url": "https://digital-strategy.ec.europa.eu/en/policies/open-source-strategy",
-      "score": 27,
-      "comments": 2,
-      "author": "vrganj",
-      "tags": [],
-      "date": "2026-06-08T08:00:01+00:00",
-      "severity": "critical"
-    },
-    {
-      "id": "hn-48442075",
-      "source": "hn",
-      "title": "How much of Thermo Fisher's antibody data has been manipulated?",
-      "url": "https://reeserichardson.blog/2026/05/28/how-much-of-thermo-fishers-antibody-data-has-been-manipulated/",
-      "score": 356,
-      "comments": 77,
-      "author": "mhrmsn",
-      "tags": [],
-      "date": "2026-06-08T06:56:06+00:00"
-    },
-    {
-      "id": "hn-48441589",
-      "source": "hn",
-      "title": "Do agents.md files help coding agents?",
-      "url": "https://twitter.com/rasbt/status/2063649136323252397",
-      "score": 34,
-      "comments": 21,
-      "author": "smushback",
-      "tags": [],
-      "date": "2026-06-08T05:21:56+00:00"
-    },
-    {
-      "id": "hn-48441242",
-      "source": "hn",
-      "title": "Richard Scolyer Has Died",
-      "url": "https://www.bbc.com/news/articles/c14yz5jg476o",
-      "score": 104,
-      "comments": 27,
-      "author": "nicwilson",
-      "tags": [],
-      "date": "2026-06-08T04:10:08+00:00"
-    },
-    {
-      "id": "qiita-0ee51947f7",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "9割のエンジニア未経験者がつまずく『最初の壁』 。それでもアプリを作りたい #2",
-      "url": "https://qiita.com/hitomin_poke/items/ffcc67d985d4ab47631e?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "hitomin_poke",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-06-08T12:58:40+09:00"
-    },
-    {
-      "id": "hn-48440952",
-      "source": "hn",
-      "title": "1k Data Breaches Later, the Disclosure Lag Is Worse",
-      "url": "https://www.troyhunt.com/1000-data-breaches-later-the-disclosure-lag-is-worse-than-ever/",
-      "score": 274,
-      "comments": 115,
-      "author": "882542F3884314B",
-      "tags": [],
-      "date": "2026-06-08T03:17:10+00:00"
-    },
-    {
-      "id": "qiita-d579bd1f2b",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "Webサイトに最低限入れるべきHTTPセキュリティヘッダ7種と設定例(nginx / Apache / WordPress対応・コピペOK)",
-      "url": "https://qiita.com/jiis-sasaki/items/7a9e66ebe9d1f41cc588?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "jiis-sasaki",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-06-08T11:52:56+09:00"
-    },
-    {
-      "id": "hn-48440792",
-      "source": "hn",
-      "title": "Dopamine Fracking",
-      "url": "https://igerman.cc/blog/dopamine-fracking/",
-      "score": 678,
-      "comments": 346,
-      "author": "igmn",
-      "tags": [],
-      "date": "2026-06-08T02:42:24+00:00"
-    },
-    {
-      "id": "qiita-ab8f17b178",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "「そのpromptちょうだい」と言われるけど、たぶん同じ設計書は出てこない ── engineer to delegate to で本当に効いていたもの",
-      "url": "https://qiita.com/ntaka329/items/c153d50810f2945897d8?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "ntaka329",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-06-08T11:36:29+09:00"
-    },
-    {
-      "id": "hn-48440610",
-      "source": "hn",
-      "title": "Texas grid flags risks as data centers, crypto sites fail voltage tests",
-      "url": "https://www.reuters.com/business/energy/texas-grid-flags-risks-data-centers-crypto-sites-fail-voltage-tests-2026-06-05/",
-      "score": 53,
-      "comments": 38,
-      "author": "1vuio0pswjnm7",
-      "tags": [],
-      "date": "2026-06-08T02:05:40+00:00"
-    },
-    {
-      "id": "qiita-3b5272c997",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "AIにも「口コミ」がつく時代。〜信頼の証跡をWeb3に残すインフラを図解で整理する（ERC8004）〜",
-      "url": "https://qiita.com/can-can/items/5e13dace1a97cd6bd7a4?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "can-can",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-06-08T11:01:30+09:00"
-    },
-    {
-      "id": "hn-48440549",
-      "source": "hn",
-      "title": "Algorithmic Monocultures in Hiring",
-      "url": "https://algorithmichiring.github.io/",
-      "score": 133,
-      "comments": 67,
-      "author": "drchiu",
-      "tags": [],
-      "date": "2026-06-08T01:54:54+00:00"
-    },
-    {
-      "id": "hn-48440463",
-      "source": "hn",
-      "title": "New drug 'functionally cures' many hepatitis B virus infections",
-      "url": "https://www.science.org/content/article/new-drug-functionally-cures-many-hepatitis-b-virus-infections?user_id=66c4bf745d78644b3aa57b08",
-      "score": 225,
-      "comments": 40,
-      "author": "gmays",
-      "tags": [],
-      "date": "2026-06-08T01:41:42+00:00"
-    },
-    {
-      "id": "hn-48440448",
-      "source": "hn",
-      "title": "DeepSeek V4 Pro beats GPT-5.5 Pro on precision",
-      "url": "https://runtimewire.com/article/deepseek-v4-pro-beats-gpt-5-5-pro-on-precision",
-      "score": 267,
-      "comments": 120,
-      "author": "yogthos",
-      "tags": [],
-      "date": "2026-06-08T01:39:30+00:00"
-    },
-    {
-      "id": "hn-48440435",
-      "source": "hn",
-      "title": "1worldflag: A blue dot on a transparent background",
-      "url": "https://1worldflag.com/",
-      "score": 176,
-      "comments": 151,
-      "author": "davidbarker",
-      "tags": [],
-      "date": "2026-06-08T01:37:52+00:00"
-    },
-    {
-      "id": "hn-48440383",
-      "source": "hn",
-      "title": "APC–2 – A professional record cutter for producing original playback discs",
-      "url": "https://teenage.engineering/products/apc-2",
-      "score": 245,
-      "comments": 146,
-      "author": "vthommeret",
-      "tags": [],
-      "date": "2026-06-08T01:27:22+00:00"
-    },
-    {
-      "id": "hn-48440360",
-      "source": "hn",
-      "title": "7.8 magnitude earthquake shakes part of southern Philippines. Tsunami possible",
-      "url": "https://www.yahoo.com/news/weather-news/articles/as--philippines-earthquake-001322726.html",
-      "score": 69,
-      "comments": 15,
-      "author": "mikhael",
-      "tags": [],
-      "date": "2026-06-08T01:22:21+00:00"
-    },
-    {
-      "id": "qiita-df6138ec71",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "Claude Codeと一緒に、MagicPodのWebAPI × TypeScript自動テストを作った話",
-      "url": "https://qiita.com/ayshiina/items/8965ba4f5840807031cb?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "ayshiina",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-06-08T10:02:06+09:00"
-    },
-    {
-      "id": "hn-48440064",
-      "source": "hn",
-      "title": "The Smallest Brain You Can Build: A Perceptron in Python",
-      "url": "https://ranpara.net/posts/perceptron-explained-from-scratch/",
-      "score": 250,
-      "comments": 52,
-      "author": "DevarshRanpara",
-      "tags": [],
-      "date": "2026-06-08T00:28:37+00:00",
-      "severity": "critical"
-    },
-    {
-      "id": "hn-48440008",
-      "source": "hn",
-      "title": "A Matter Wi-Fi Light Bulb in Rust on the Raspberry Pi Pico 2 W",
-      "url": "https://github.com/melastmohican/rust-rpico2-embassy-examples",
-      "score": 116,
-      "comments": 14,
-      "author": "melastmohican",
-      "tags": [],
-      "date": "2026-06-08T00:17:45+00:00"
-    },
-    {
-      "id": "qiita-b3d2793a40",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "Scout / Opal / OpenClaw / Power Automate Desktop をアーキテクト視点で徹底比較 ～ 環境・実行・操作・認証・ユースケース観点で読み解いた結果とは？",
-      "url": "https://qiita.com/carol0226/items/7f3a4bcb06c4fce264b5?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "carol0226",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-06-08T08:57:07+09:00"
-    },
-    {
-      "id": "qiita-00f4367e0d",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "「個人で使うClaude Code」を「チームで育てるClaude Code」にする2つの仕組み",
-      "url": "https://qiita.com/k_yamaki/items/dc10f90a5aad61aad0e8?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "k_yamaki",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-06-08T08:56:35+09:00"
-    },
-    {
-      "id": "qiita-872dd079fb",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "GitHub Copilotの料金改定で大騒ぎになっているので、トークン削減の最新手法をまとめてみた",
-      "url": "https://qiita.com/shinkai_/items/626dfa7857f2d554784e?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "shinkai_",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-06-08T08:18:48+09:00"
-    },
-    {
-      "id": "qiita-4287782161",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "モノレポ時代のディレクトリアーキテクチャ",
-      "url": "https://qiita.com/tacosdb/items/3300abff1e55f404f6c1?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "tacosdb",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-06-08T08:17:29+09:00"
-    },
-    {
-      "id": "qiita-3fa361d337",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "AIエージェントのトークン代を節約する CLAUDE.md と copilot-instructions.md 実践ガイド  AIエージェントでは毎ターン何が起きているのか",
-      "url": "https://qiita.com/shinkai_/items/8f88307b7cb13b748e57?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "shinkai_",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-06-08T08:17:13+09:00"
-    },
-    {
-      "id": "hn-48439348",
-      "source": "hn",
-      "title": "Firefox Merges Support for Vulkan Video Decoding",
-      "url": "https://www.phoronix.com/news/Firefox-Vulkan-Video-Merged",
-      "score": 20,
-      "comments": 2,
-      "author": "Bender",
-      "tags": [],
-      "date": "2026-06-07T22:41:36+00:00"
-    },
-    {
-      "id": "qiita-12bacb8fe3",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "ゼロからざっくり理解する「NoSQL」とは？",
-      "url": "https://qiita.com/yushibats/items/c16fe4772bd9469264b0?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "yushibats",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-06-08T07:30:00+09:00"
-    },
-    {
-      "id": "hn-48438754",
-      "source": "hn",
-      "title": "VibeOS: First ever AI-native operating system",
-      "url": "https://vibeos.sh/",
-      "score": 19,
-      "comments": 15,
-      "author": "doener",
-      "tags": [],
-      "date": "2026-06-07T21:29:21+00:00"
-    },
-    {
-      "id": "hn-48438625",
-      "source": "hn",
-      "title": "NEC PC Engine LT Recap and LCD Bias Fix (Necromancy)",
-      "url": "https://hitmanmcc.com/entry/pc-engine-lt-necromancy",
-      "score": 4,
-      "comments": 0,
-      "author": "zdw",
-      "tags": [],
-      "date": "2026-06-07T21:14:02+00:00"
-    },
-    {
-      "id": "hn-48438595",
-      "source": "hn",
-      "title": "How much do amd64 microarchitecture levels help in Go?",
-      "url": "https://lemire.me/blog/2026/06/06/how-much-do-amd64-microarchitecture-levels-help-in-go/",
-      "score": 41,
-      "comments": 16,
-      "author": "zdw",
-      "tags": [],
-      "date": "2026-06-07T21:10:20+00:00"
-    },
-    {
       "id": "ctf-3761714",
       "source": "project",
       "proj_category": "CTF",
@@ -5818,30 +5673,229 @@
       "date": "Thu, 11 Jun 2026 10:18:38 GMT"
     },
     {
-      "id": "zenn-81201994b4",
-      "source": "zennqiita",
-      "sub_source": "Zenn",
-      "title": "CKS合格🎊体験記〜AIと歩んだ44日間〜",
-      "url": "https://zenn.dev/aoi/articles/5a816271cbb174",
+      "id": "edb-3a6bcc02f2",
+      "source": "msf",
+      "title": "[webapps] OpenEMR 7.0.2 - Arbitrary File Read",
+      "url": "https://www.exploit-db.com/exploits/52610",
       "score": null,
-      "author": "あおい",
+      "author": "Exploit-DB",
       "tags": [
-        "Zenn"
+        "Exploit-DB",
+        "CVE",
+        "PoC"
       ],
-      "date": "Sat, 13 Jun 2026 02:49:53 GMT"
+      "severity": "high",
+      "date": "Mon, 08 Jun 2026 00:00:00 +0000"
     },
     {
-      "id": "zenn-72ee8d2097",
-      "source": "zennqiita",
-      "sub_source": "Zenn",
-      "title": "Claude Fable 5に作ってもらった日本語プログラミング入門教材「言語の庭」が凄い",
-      "url": "https://zenn.dev/nextbeat/articles/2026-06-cs-edu-site-fable5",
+      "id": "edb-26a654a640",
+      "source": "msf",
+      "title": "[webapps] WordPress Contest Gallery 28.1.4 - Unauthenticated Blind SQL Injection",
+      "url": "https://www.exploit-db.com/exploits/52609",
       "score": null,
-      "author": "kmizu",
+      "author": "Exploit-DB",
       "tags": [
-        "Zenn"
+        "Exploit-DB",
+        "CVE",
+        "PoC"
       ],
-      "date": "Fri, 12 Jun 2026 02:11:43 GMT"
+      "severity": "high",
+      "date": "Fri, 05 Jun 2026 00:00:00 +0000"
+    },
+    {
+      "id": "edb-f5d122f8a3",
+      "source": "msf",
+      "title": "[webapps] Drupal Core 10.5.5 - Error-Based SQL Injection",
+      "url": "https://www.exploit-db.com/exploits/52608",
+      "score": null,
+      "author": "Exploit-DB",
+      "tags": [
+        "Exploit-DB",
+        "CVE",
+        "PoC"
+      ],
+      "severity": "high",
+      "date": "Mon, 01 Jun 2026 00:00:00 +0000"
+    },
+    {
+      "id": "edb-0e24cc00be",
+      "source": "msf",
+      "title": "[webapps] WordPress OrderConvo 14 - Path Traversal",
+      "url": "https://www.exploit-db.com/exploits/52607",
+      "score": null,
+      "author": "Exploit-DB",
+      "tags": [
+        "Exploit-DB",
+        "CVE",
+        "PoC"
+      ],
+      "severity": "high",
+      "date": "Mon, 01 Jun 2026 00:00:00 +0000"
+    },
+    {
+      "id": "edb-e5481f4a7f",
+      "source": "msf",
+      "title": "[remote] Notepad++ 8.9.6 - Arbitrary Code Execution",
+      "url": "https://www.exploit-db.com/exploits/52606",
+      "score": null,
+      "author": "Exploit-DB",
+      "tags": [
+        "Exploit-DB",
+        "CVE",
+        "PoC"
+      ],
+      "severity": "high",
+      "date": "Sat, 30 May 2026 00:00:00 +0000"
+    },
+    {
+      "id": "edb-33165480b1",
+      "source": "msf",
+      "title": "[webapps] YAMCS yamcs-core  5.12.7 - No Rate Limiting",
+      "url": "https://www.exploit-db.com/exploits/52605",
+      "score": null,
+      "author": "Exploit-DB",
+      "tags": [
+        "Exploit-DB",
+        "CVE",
+        "PoC"
+      ],
+      "severity": "high",
+      "date": "Sat, 30 May 2026 00:00:00 +0000"
+    },
+    {
+      "id": "edb-f30dc5c188",
+      "source": "msf",
+      "title": "[webapps] YAMCS yamcs-core  5.12.7 - User Enumeration",
+      "url": "https://www.exploit-db.com/exploits/52604",
+      "score": null,
+      "author": "Exploit-DB",
+      "tags": [
+        "Exploit-DB",
+        "CVE",
+        "PoC"
+      ],
+      "severity": "high",
+      "date": "Sat, 30 May 2026 00:00:00 +0000"
+    },
+    {
+      "id": "edb-be7a420ae4",
+      "source": "msf",
+      "title": "[webapps] YAMCS yamcs-core  5.12.7 - LDAP Injection",
+      "url": "https://www.exploit-db.com/exploits/52603",
+      "score": null,
+      "author": "Exploit-DB",
+      "tags": [
+        "Exploit-DB",
+        "CVE",
+        "PoC"
+      ],
+      "severity": "high",
+      "date": "Sat, 30 May 2026 00:00:00 +0000"
+    },
+    {
+      "id": "edb-f12984cfd7",
+      "source": "msf",
+      "title": "[remote] Microsoft - NTLMv2 Hash Capture",
+      "url": "https://www.exploit-db.com/exploits/52601",
+      "score": null,
+      "author": "Exploit-DB",
+      "tags": [
+        "Exploit-DB",
+        "CVE",
+        "PoC"
+      ],
+      "severity": "high",
+      "date": "Fri, 29 May 2026 00:00:00 +0000"
+    },
+    {
+      "id": "edb-51d394b2f6",
+      "source": "msf",
+      "title": "[webapps] MikroORM   7.0.13 - SQL Injection",
+      "url": "https://www.exploit-db.com/exploits/52600",
+      "score": null,
+      "author": "Exploit-DB",
+      "tags": [
+        "Exploit-DB",
+        "CVE",
+        "PoC"
+      ],
+      "severity": "high",
+      "date": "Fri, 29 May 2026 00:00:00 +0000"
+    },
+    {
+      "id": "edb-b44998ab02",
+      "source": "msf",
+      "title": "[webapps] Prodigy Commerce 3.3.0 - Local File Inclusion",
+      "url": "https://www.exploit-db.com/exploits/52598",
+      "score": null,
+      "author": "Exploit-DB",
+      "tags": [
+        "Exploit-DB",
+        "CVE",
+        "PoC"
+      ],
+      "severity": "high",
+      "date": "Fri, 29 May 2026 00:00:00 +0000"
+    },
+    {
+      "id": "edb-0b1081a580",
+      "source": "msf",
+      "title": "[webapps] Langflow 1.3.0 - Remote Code Execution",
+      "url": "https://www.exploit-db.com/exploits/52597",
+      "score": null,
+      "author": "Exploit-DB",
+      "tags": [
+        "Exploit-DB",
+        "CVE",
+        "PoC"
+      ],
+      "severity": "high",
+      "date": "Fri, 29 May 2026 00:00:00 +0000"
+    },
+    {
+      "id": "edb-7fd71d4802",
+      "source": "msf",
+      "title": "[webapps] Quick Playground for WordPress 1.3.1 - Unauthenticated Remote Code Execution",
+      "url": "https://www.exploit-db.com/exploits/52596",
+      "score": null,
+      "author": "Exploit-DB",
+      "tags": [
+        "Exploit-DB",
+        "CVE",
+        "PoC"
+      ],
+      "severity": "high",
+      "date": "Fri, 29 May 2026 00:00:00 +0000"
+    },
+    {
+      "id": "edb-e827c93897",
+      "source": "msf",
+      "title": "[local] ImageMagick - Infinite Loop in the MIFF decoder can lead to CPU exhaustion",
+      "url": "https://www.exploit-db.com/exploits/52595",
+      "score": null,
+      "author": "Exploit-DB",
+      "tags": [
+        "Exploit-DB",
+        "CVE",
+        "PoC"
+      ],
+      "severity": "high",
+      "date": "Fri, 29 May 2026 00:00:00 +0000"
+    },
+    {
+      "id": "edb-e7ed248f76",
+      "source": "msf",
+      "title": "[local] ZTE Routers  - Unauthenticated Denial of Service",
+      "url": "https://www.exploit-db.com/exploits/52594",
+      "score": null,
+      "author": "Exploit-DB",
+      "tags": [
+        "Exploit-DB",
+        "CVE",
+        "PoC"
+      ],
+      "severity": "high",
+      "date": "Fri, 29 May 2026 00:00:00 +0000"
     }
   ]
 }

@@ -1,14 +1,92 @@
 {
-  "updated_at": "2026-06-15T17:29:59.862482+00:00",
+  "updated_at": "2026-06-15T20:38:18.548512+00:00",
   "count": 500,
   "items": [
+    {
+      "id": "hn-48546441",
+      "source": "hn",
+      "title": "I Love the Computer",
+      "url": "https://michaelenger.com/blog/i-love-the-computer/",
+      "score": 11,
+      "comments": 0,
+      "author": "speckx",
+      "tags": [],
+      "date": "2026-06-15T20:14:15+00:00"
+    },
+    {
+      "id": "hn-48546306",
+      "source": "hn",
+      "title": "US Air Force B-52 bomber crashes after takeoff, Edwards Air Force Base says",
+      "url": "https://www.reuters.com/business/aerospace-defense/us-air-force-b-52-bomber-crashes-after-takeoff-edwards-air-force-base-says-2026-06-15/",
+      "score": 26,
+      "comments": 13,
+      "author": "tartoran",
+      "tags": [],
+      "date": "2026-06-15T20:02:02+00:00",
+      "severity": "critical"
+    },
+    {
+      "id": "hn-48546294",
+      "source": "hn",
+      "title": "A backdoor in a LinkedIn job offer",
+      "url": "https://roman.pt/posts/linkedin-backdoor/",
+      "score": 49,
+      "comments": 7,
+      "author": "lwhsiao",
+      "tags": [],
+      "date": "2026-06-15T20:00:57+00:00"
+    },
+    {
+      "id": "hn-48545293",
+      "source": "hn",
+      "title": "The Alaska Server",
+      "url": "https://serialport.org/blog/the-alaska-server/",
+      "score": 14,
+      "comments": 1,
+      "author": "speckx",
+      "tags": [],
+      "date": "2026-06-15T18:37:27+00:00"
+    },
+    {
+      "id": "hn-48544781",
+      "source": "hn",
+      "title": "Game Engine White Papers Commander Keen",
+      "url": "https://forgottenbytes.net/commander_keen.html",
+      "score": 84,
+      "comments": 22,
+      "author": "mfiguiere",
+      "tags": [],
+      "date": "2026-06-15T17:52:39+00:00"
+    },
+    {
+      "id": "hn-48544451",
+      "source": "hn",
+      "title": "How TimescaleDB compresses time-series data",
+      "url": "https://roszigit.com/en/blog/timescaledb-compression-hypercore",
+      "score": 72,
+      "comments": 8,
+      "author": "lkanwoqwp",
+      "tags": [],
+      "date": "2026-06-15T17:29:17+00:00"
+    },
+    {
+      "id": "hn-48544396",
+      "source": "hn",
+      "title": "Typst 0.15.0",
+      "url": "https://typst.app/docs/changelog/0.15.0/",
+      "score": 184,
+      "comments": 41,
+      "author": "schu",
+      "tags": [],
+      "date": "2026-06-15T17:24:17+00:00"
+    },
     {
       "id": "hn-48543475",
       "source": "hn",
       "title": "TinyWind: A pixel pirate sailing game with real wind physics (380k+ kms sailed)",
       "url": "https://tinywind.io",
-      "score": 83,
-      "comments": 19,
+      "score": 409,
+      "comments": 82,
       "author": "tinywind",
       "tags": [],
       "date": "2026-06-15T16:15:53+00:00"
@@ -16,10 +94,10 @@
     {
       "id": "hn-48543392",
       "source": "hn",
-      "title": "Memory safety CVEs differ between Rust and C/C++",
+      "title": "How memory safety CVEs differ between Rust and C/C++",
       "url": "https://kobzol.github.io/rust/2026/06/15/how-memory-safety-cves-differ-between-rust-and-c-cpp.html",
-      "score": 17,
-      "comments": 1,
+      "score": 70,
+      "comments": 66,
       "author": "nicoburns",
       "tags": [],
       "date": "2026-06-15T16:11:02+00:00",
@@ -30,8 +108,8 @@
       "source": "hn",
       "title": "Boot Naked Linux",
       "url": "https://nick.zoic.org/art/boot-naked-linux/",
-      "score": 7,
-      "comments": 0,
+      "score": 59,
+      "comments": 27,
       "author": "abnercoimbre",
       "tags": [],
       "date": "2026-06-15T16:03:26+00:00"
@@ -41,8 +119,8 @@
       "source": "hn",
       "title": "Show HN: machine0 – Persistent NixOS VMs You Control from the CLI",
       "url": "https://machine0.io",
-      "score": 14,
-      "comments": 2,
+      "score": 53,
+      "comments": 22,
       "author": "bwm",
       "tags": [],
       "date": "2026-06-15T16:01:43+00:00"
@@ -77,8 +155,8 @@
       "source": "hn",
       "title": "Iroh 1.0",
       "url": "https://www.iroh.computer/blog/v1",
-      "score": 376,
-      "comments": 129,
+      "score": 733,
+      "comments": 239,
       "author": "chadfowler",
       "tags": [],
       "date": "2026-06-15T15:13:06+00:00"
@@ -88,8 +166,8 @@
       "source": "hn",
       "title": "My Homelab AI Dev Platform",
       "url": "https://rsgm.dev/post/ai-dev-platform/",
-      "score": 50,
-      "comments": 20,
+      "score": 165,
+      "comments": 34,
       "author": "rsgm",
       "tags": [],
       "date": "2026-06-15T15:09:40+00:00"
@@ -99,11 +177,22 @@
       "source": "hn",
       "title": "Copper transport drug restores memory and clears toxic Alzheimer's proteins",
       "url": "https://www.monash.edu/news/articles/copper-drug-restores-memory-and-clears-toxic-alzheimers-proteins",
-      "score": 112,
-      "comments": 32,
+      "score": 187,
+      "comments": 69,
       "author": "bookofjoe",
       "tags": [],
       "date": "2026-06-15T14:48:47+00:00"
+    },
+    {
+      "id": "hn-48541014",
+      "source": "hn",
+      "title": "Can Europe train a frontier AI model on the compute it owns?",
+      "url": "https://github.com/sammysltd/euromesh",
+      "score": 90,
+      "comments": 125,
+      "author": "smashini",
+      "tags": [],
+      "date": "2026-06-15T13:31:09+00:00"
     },
     {
       "id": "hn-48540945",
@@ -121,8 +210,8 @@
       "source": "hn",
       "title": "CrankGPT",
       "url": "https://crankgpt.com",
-      "score": 413,
-      "comments": 162,
+      "score": 504,
+      "comments": 206,
       "author": "rishikeshs",
       "tags": [],
       "date": "2026-06-15T13:20:13+00:00"
@@ -132,8 +221,8 @@
       "source": "hn",
       "title": "Hetzner Price Adjustment",
       "url": "https://docs.hetzner.com/general/infrastructure-and-availability/price-adjustment/#cloud-servers",
-      "score": 47,
-      "comments": 208,
+      "score": 216,
+      "comments": 338,
       "author": "tuhtah",
       "tags": [],
       "date": "2026-06-15T13:19:39+00:00"
@@ -183,6 +272,19 @@
       "author": "martiano",
       "tags": [],
       "date": "2026-06-15T09:34:10+00:00"
+    },
+    {
+      "id": "qiita-24b76feeb8",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "AIエージェントに組み込んだAgent SkillsをSkillOpsで評価する",
+      "url": "https://qiita.com/licux/items/9c640601a1dde7c18d9f?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "licux",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-06-15T18:06:18+09:00"
     },
     {
       "id": "hn-48538229",
@@ -284,8 +386,8 @@
       "source": "hn",
       "title": "Apple Foundation Models",
       "url": "https://platform.claude.com/docs/en/cli-sdks-libraries/libraries/apple-foundation-models",
-      "score": 394,
-      "comments": 187,
+      "score": 439,
+      "comments": 205,
       "author": "MehrdadKhnzd",
       "tags": [],
       "date": "2026-06-15T04:55:34+00:00"
@@ -302,6 +404,19 @@
         "Qiita"
       ],
       "date": "2026-06-15T13:25:25+09:00"
+    },
+    {
+      "id": "qiita-d17e45cd3c",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "Claude Code を司令塔に、Antigravity CLI（Gemini 3.5 Flash）を実装役として使う環境構築【従量課金ゼロ】",
+      "url": "https://qiita.com/fallout/items/5097f0575b58f4c69b81?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "fallout",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-06-15T13:21:16+09:00"
     },
     {
       "id": "qiita-c67fd9c179",
@@ -366,6 +481,19 @@
       ],
       "date": "2026-06-15T10:56:34+09:00",
       "severity": "high"
+    },
+    {
+      "id": "qiita-4959c385db",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "VRAM 12GBでQwen 35Bを動かす — エキスパートをGPUに載せないほど速くなった話",
+      "url": "https://qiita.com/kenimo49/items/dff3c8a2a0ee563ca16f?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "kenimo49",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-06-15T10:27:15+09:00"
     },
     {
       "id": "qiita-33c42c590a",
@@ -611,8 +739,8 @@
       "source": "hn",
       "title": "Making glass-to-metal seals for home­made vacuum tubes",
       "url": "https://maurycyz.com/projects/glass/1/",
-      "score": 48,
-      "comments": 17,
+      "score": 100,
+      "comments": 32,
       "author": "zdw",
       "tags": [],
       "date": "2026-06-14T15:52:09+00:00"
@@ -855,6 +983,19 @@
       "date": "2026-06-14T21:22:44+09:00"
     },
     {
+      "id": "qiita-a6d1c4fd99",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "Cloudflare@OCI が来たぞ！（詳細編）",
+      "url": "https://qiita.com/araidon/items/8d614114dfa97ce65edd?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "araidon",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-06-14T21:07:01+09:00"
+    },
+    {
       "id": "hn-48526360",
       "source": "hn",
       "title": "How to earn a billion dollars",
@@ -905,6 +1046,19 @@
       "date": "2026-06-14T18:40:46+09:00"
     },
     {
+      "id": "qiita-2d7800c0a8",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "Zed・Cursor・VS Code を「速度 / AI深度 / エコシステム」の3軸で選ぶ",
+      "url": "https://qiita.com/ryoji9702/items/8c16133c13d0af096693?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "ryoji9702",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-06-14T18:06:44+09:00"
+    },
+    {
       "id": "qiita-84eed8ddc8",
       "source": "zennqiita",
       "sub_source": "Qiita",
@@ -942,6 +1096,19 @@
         "Qiita"
       ],
       "date": "2026-06-14T15:43:44+09:00"
+    },
+    {
+      "id": "qiita-85d586a1fc",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "555 を使ったシンセサイザーキット",
+      "url": "https://qiita.com/nanbuwks/items/9f366ad0d21f4ae30837?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "nanbuwks",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-06-14T15:23:12+09:00"
     },
     {
       "id": "qiita-3e991e086e",
@@ -1185,6 +1352,17 @@
       "author": "hhs",
       "tags": [],
       "date": "2026-06-13T22:54:37+00:00"
+    },
+    {
+      "id": "hn-48521925",
+      "source": "hn",
+      "title": "What every coder should know about Gamma Correction",
+      "url": "https://blog.johnnovak.net/2016/09/21/what-every-coder-should-know-about-gamma/",
+      "score": 5,
+      "comments": 4,
+      "author": "sph",
+      "tags": [],
+      "date": "2026-06-13T22:01:29+00:00"
     },
     {
       "id": "hn-48521709",
@@ -2303,6 +2481,17 @@
       "date": "2026-06-12T13:14:18+00:00"
     },
     {
+      "id": "hn-48503509",
+      "source": "hn",
+      "title": "Factoring \"short-sleeve\" RSA keys with polynomials",
+      "url": "https://blog.trailofbits.com/2026/06/12/factoring-short-sleeve-rsa-keys-with-polynomials/",
+      "score": 37,
+      "comments": 1,
+      "author": "ledoge",
+      "tags": [],
+      "date": "2026-06-12T12:52:49+00:00"
+    },
+    {
       "id": "hn-48503219",
       "source": "hn",
       "title": "Encrypted Spaces An architecture for collaborative applications",
@@ -3350,6 +3539,17 @@
       "author": "rarisma",
       "tags": [],
       "date": "2026-06-11T12:05:02+00:00"
+    },
+    {
+      "id": "hn-48489163",
+      "source": "hn",
+      "title": "Show HN: Fata – Spaced repetition to fight skill rot from AI coding",
+      "url": "https://fata.dev",
+      "score": 49,
+      "comments": 27,
+      "author": "djoume",
+      "tags": [],
+      "date": "2026-06-11T11:57:03+00:00"
     },
     {
       "id": "hn-48489100",
@@ -5027,197 +5227,6 @@
       "author": "jacobobryant",
       "tags": [],
       "date": "2026-06-09T16:12:52+00:00"
-    },
-    {
-      "id": "hn-48462928",
-      "source": "hn",
-      "title": "Show HN: Claw Patrol, a security firewall for agents",
-      "url": "https://github.com/denoland/clawpatrol",
-      "score": 42,
-      "comments": 15,
-      "author": "rough-sea",
-      "tags": [],
-      "date": "2026-06-09T16:06:50+00:00"
-    },
-    {
-      "id": "hn-48462823",
-      "source": "hn",
-      "title": "'Sloppenheimer:' Amazon Employees Mock the Company's AI on Slack",
-      "url": "https://www.404media.co/sloppenheimer-amazon-employees-mock-the-companys-ai-on-slack/",
-      "score": 51,
-      "comments": 12,
-      "author": "doener",
-      "tags": [],
-      "date": "2026-06-09T15:59:41+00:00"
-    },
-    {
-      "id": "hn-48462759",
-      "source": "hn",
-      "title": "Pyodide 314.0: Python packages can now publish WebAssembly wheels to PyPI",
-      "url": "https://blog.pyodide.org/posts/314-release/",
-      "score": 152,
-      "comments": 36,
-      "author": "agriyakhetarpal",
-      "tags": [],
-      "date": "2026-06-09T15:54:31+00:00"
-    },
-    {
-      "id": "hn-48462577",
-      "source": "hn",
-      "title": "What about OpenCL and CUDA C++ alternatives?",
-      "url": "https://www.modular.com/blog/democratizing-ai-compute-part-5-what-about-cuda-c-alternatives",
-      "score": 10,
-      "comments": 0,
-      "author": "eatonphil",
-      "tags": [],
-      "date": "2026-06-09T15:41:21+00:00"
-    },
-    {
-      "id": "hn-48462308",
-      "source": "hn",
-      "title": "FCC wants to kill burner phones by forcing telecoms to get all customers' IDs",
-      "url": "https://www.404media.co/fcc-wants-to-kill-burner-phones-by-forcing-telecoms-to-get-all-customers-ids/",
-      "score": 421,
-      "comments": 265,
-      "author": "berlianta",
-      "tags": [],
-      "date": "2026-06-09T15:21:46+00:00"
-    },
-    {
-      "id": "hn-48462184",
-      "source": "hn",
-      "title": "Using Optical Aberrations to Distinguish Real Astronomical Transients",
-      "url": "https://arxiv.org/abs/2606.08319",
-      "score": 24,
-      "comments": 2,
-      "author": "solarist",
-      "tags": [],
-      "date": "2026-06-09T15:12:30+00:00"
-    },
-    {
-      "id": "hn-48462070",
-      "source": "hn",
-      "title": "macOS 27 Beta breaks the ability to boot Asahi Linux",
-      "url": "https://www.phoronix.com/news/macOS-27-Beta-Breaks-Asahi",
-      "score": 350,
-      "comments": 144,
-      "author": "josephcsible",
-      "tags": [],
-      "date": "2026-06-09T15:01:43+00:00"
-    },
-    {
-      "id": "hn-48462062",
-      "source": "hn",
-      "title": "Can LLMs Beat Classical Hyperparameter Optimization Algorithms?",
-      "url": "https://arxiv.org/abs/2603.24647",
-      "score": 83,
-      "comments": 12,
-      "author": "galsapir",
-      "tags": [],
-      "date": "2026-06-09T15:01:15+00:00"
-    },
-    {
-      "id": "hn-48461365",
-      "source": "hn",
-      "title": "Exceptions should not be handled – they should be aggregated",
-      "url": "https://zenodo.org/records/20492768",
-      "score": 5,
-      "comments": 0,
-      "author": "ErystelaThevale",
-      "tags": [],
-      "date": "2026-06-09T14:09:26+00:00"
-    },
-    {
-      "id": "hn-48461311",
-      "source": "hn",
-      "title": "Unified Controllable and Faithful Text-to-CAD Generation with LLMs",
-      "url": "https://arxiv.org/abs/2604.19773",
-      "score": 43,
-      "comments": 11,
-      "author": "PaulHoule",
-      "tags": [],
-      "date": "2026-06-09T14:04:54+00:00"
-    },
-    {
-      "id": "hn-48460863",
-      "source": "hn",
-      "title": "Is Grep All You Need? How Agent Harnesses Reshape Agentic Search",
-      "url": "https://arxiv.org/abs/2605.15184",
-      "score": 114,
-      "comments": 52,
-      "author": "Anon84",
-      "tags": [],
-      "date": "2026-06-09T13:27:03+00:00"
-    },
-    {
-      "id": "qiita-b49556a3cf",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "文字起こしテキストの個人情報マスキング、Presidio で消せるか試してみた",
-      "url": "https://qiita.com/kamo-shika/items/5a4aa2eb565f1dd7e747?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "kamo-shika",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-06-09T22:23:46+09:00"
-    },
-    {
-      "id": "hn-48460762",
-      "source": "hn",
-      "title": "Show HN: 3D print Z reinforcement via injected loops",
-      "url": "https://mgunlogson.github.io/magma/",
-      "score": 35,
-      "comments": 10,
-      "author": "mgunlogson",
-      "tags": [],
-      "date": "2026-06-09T13:17:53+00:00",
-      "severity": "critical"
-    },
-    {
-      "id": "hn-48460758",
-      "source": "hn",
-      "title": "The better the autopilot the worse the pilot",
-      "url": "https://julienreszka.com/blog/the-better-the-autopilot-the-worse-the-pilot/",
-      "score": 11,
-      "comments": 0,
-      "author": "julienreszka",
-      "tags": [],
-      "date": "2026-06-09T13:17:34+00:00"
-    },
-    {
-      "id": "hn-48459968",
-      "source": "hn",
-      "title": "Emerge Career (YC S22) Is Hiring a Founding Growth Marketer",
-      "url": "https://www.ycombinator.com/companies/emerge-career/jobs/v0S1AEG-founding-growth-marketer",
-      "score": 1,
-      "comments": 0,
-      "author": "gabesaruhashi",
-      "tags": [],
-      "date": "2026-06-09T12:01:09+00:00"
-    },
-    {
-      "id": "hn-48459913",
-      "source": "hn",
-      "title": "Show HN: Learn from 30 historical figures, open source, nonprofit, self-hosted",
-      "url": "https://github.com/chipmates/agoracosmica",
-      "score": 19,
-      "comments": 9,
-      "author": "micstradev",
-      "tags": [],
-      "date": "2026-06-09T11:56:25+00:00",
-      "severity": "critical"
-    },
-    {
-      "id": "hn-48459837",
-      "source": "hn",
-      "title": "Show HN: Gravity – interactive solar-system simulator, from Newton to Einstein",
-      "url": "https://qunabu.github.io/Gravity/",
-      "score": 132,
-      "comments": 34,
-      "author": "qunabu",
-      "tags": [],
-      "date": "2026-06-09T11:46:40+00:00"
     },
     {
       "id": "ctf-3761714",

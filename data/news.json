@@ -1,7 +1,143 @@
 {
-  "updated_at": "2026-06-15T12:12:51.260758+00:00",
+  "updated_at": "2026-06-15T17:29:59.862482+00:00",
   "count": 500,
   "items": [
+    {
+      "id": "hn-48543475",
+      "source": "hn",
+      "title": "TinyWind: A pixel pirate sailing game with real wind physics (380k+ kms sailed)",
+      "url": "https://tinywind.io",
+      "score": 83,
+      "comments": 19,
+      "author": "tinywind",
+      "tags": [],
+      "date": "2026-06-15T16:15:53+00:00"
+    },
+    {
+      "id": "hn-48543392",
+      "source": "hn",
+      "title": "Memory safety CVEs differ between Rust and C/C++",
+      "url": "https://kobzol.github.io/rust/2026/06/15/how-memory-safety-cves-differ-between-rust-and-c-cpp.html",
+      "score": 17,
+      "comments": 1,
+      "author": "nicoburns",
+      "tags": [],
+      "date": "2026-06-15T16:11:02+00:00",
+      "severity": "high"
+    },
+    {
+      "id": "hn-48543269",
+      "source": "hn",
+      "title": "Boot Naked Linux",
+      "url": "https://nick.zoic.org/art/boot-naked-linux/",
+      "score": 7,
+      "comments": 0,
+      "author": "abnercoimbre",
+      "tags": [],
+      "date": "2026-06-15T16:03:26+00:00"
+    },
+    {
+      "id": "hn-48543245",
+      "source": "hn",
+      "title": "Show HN: machine0 – Persistent NixOS VMs You Control from the CLI",
+      "url": "https://machine0.io",
+      "score": 14,
+      "comments": 2,
+      "author": "bwm",
+      "tags": [],
+      "date": "2026-06-15T16:01:43+00:00"
+    },
+    {
+      "id": "qiita-d925e9474d",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "AI Readyな設計書を目指して。人もAIも読みやすい設計書管理",
+      "url": "https://qiita.com/grhg/items/eee10528b403baf89631?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "grhg",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-06-16T00:51:12+09:00"
+    },
+    {
+      "id": "hn-48542970",
+      "source": "hn",
+      "title": "Show HN: Exploiting Slack's video embeds to achieve E2EE communication",
+      "url": "https://v1c.rocks/log/exploiting-slack-video/",
+      "score": 16,
+      "comments": 2,
+      "author": "victorio",
+      "tags": [],
+      "date": "2026-06-15T15:43:17+00:00",
+      "severity": "high"
+    },
+    {
+      "id": "hn-48542480",
+      "source": "hn",
+      "title": "Iroh 1.0",
+      "url": "https://www.iroh.computer/blog/v1",
+      "score": 376,
+      "comments": 129,
+      "author": "chadfowler",
+      "tags": [],
+      "date": "2026-06-15T15:13:06+00:00"
+    },
+    {
+      "id": "hn-48542433",
+      "source": "hn",
+      "title": "My Homelab AI Dev Platform",
+      "url": "https://rsgm.dev/post/ai-dev-platform/",
+      "score": 50,
+      "comments": 20,
+      "author": "rsgm",
+      "tags": [],
+      "date": "2026-06-15T15:09:40+00:00"
+    },
+    {
+      "id": "hn-48542132",
+      "source": "hn",
+      "title": "Copper transport drug restores memory and clears toxic Alzheimer's proteins",
+      "url": "https://www.monash.edu/news/articles/copper-drug-restores-memory-and-clears-toxic-alzheimers-proteins",
+      "score": 112,
+      "comments": 32,
+      "author": "bookofjoe",
+      "tags": [],
+      "date": "2026-06-15T14:48:47+00:00"
+    },
+    {
+      "id": "hn-48540945",
+      "source": "hn",
+      "title": "Google Flight Simulator",
+      "url": "https://developers.google.com/maps/documentation/earth/flight-simulator",
+      "score": 107,
+      "comments": 37,
+      "author": "bookofjoe",
+      "tags": [],
+      "date": "2026-06-15T13:26:08+00:00"
+    },
+    {
+      "id": "hn-48540854",
+      "source": "hn",
+      "title": "CrankGPT",
+      "url": "https://crankgpt.com",
+      "score": 413,
+      "comments": 162,
+      "author": "rishikeshs",
+      "tags": [],
+      "date": "2026-06-15T13:20:13+00:00"
+    },
+    {
+      "id": "hn-48540844",
+      "source": "hn",
+      "title": "Hetzner Price Adjustment",
+      "url": "https://docs.hetzner.com/general/infrastructure-and-availability/price-adjustment/#cloud-servers",
+      "score": 47,
+      "comments": 208,
+      "author": "tuhtah",
+      "tags": [],
+      "date": "2026-06-15T13:19:39+00:00"
+    },
     {
       "id": "hn-48539859",
       "source": "hn",
@@ -90,8 +226,8 @@
       "source": "hn",
       "title": "Openrouter Fusion API",
       "url": "https://openrouter.ai/openrouter/fusion",
-      "score": 65,
-      "comments": 25,
+      "score": 163,
+      "comments": 63,
       "author": "tdchaitanya",
       "tags": [],
       "date": "2026-06-15T07:10:57+00:00"
@@ -106,6 +242,17 @@
       "author": "sebastianvoelkl",
       "tags": [],
       "date": "2026-06-15T07:00:22+00:00"
+    },
+    {
+      "id": "hn-48537512",
+      "source": "hn",
+      "title": "Improvement in advanced Alzheimer’s disease following high-dose psilocybin",
+      "url": "https://www.frontiersin.org/journals/neuroscience/articles/10.3389/fnins.2026.1813281/full",
+      "score": 137,
+      "comments": 101,
+      "author": "cl3misch",
+      "tags": [],
+      "date": "2026-06-15T06:52:21+00:00"
     },
     {
       "id": "qiita-29287bd959",
@@ -137,8 +284,8 @@
       "source": "hn",
       "title": "Apple Foundation Models",
       "url": "https://platform.claude.com/docs/en/cli-sdks-libraries/libraries/apple-foundation-models",
-      "score": 223,
-      "comments": 87,
+      "score": 394,
+      "comments": 187,
       "author": "MehrdadKhnzd",
       "tags": [],
       "date": "2026-06-15T04:55:34+00:00"
@@ -200,8 +347,8 @@
       "source": "hn",
       "title": "Even more batteries included with Emacs",
       "url": "https://karthinks.com/software/even-more-batteries-included-with-emacs/",
-      "score": 237,
-      "comments": 56,
+      "score": 314,
+      "comments": 106,
       "author": "signa11",
       "tags": [],
       "date": "2026-06-15T02:30:25+00:00"
@@ -275,8 +422,8 @@
       "source": "hn",
       "title": "Your ePub Is fine",
       "url": "https://andreklein.net/your-epub-is-fine-kobo-disagrees-blame-adobe/",
-      "score": 684,
-      "comments": 226,
+      "score": 822,
+      "comments": 277,
       "author": "sohkamyung",
       "tags": [],
       "date": "2026-06-14T22:54:55+00:00"
@@ -431,8 +578,8 @@
       "source": "hn",
       "title": "Show HN: Kage – Shadow any website to a single binary for offline viewing",
       "url": "https://github.com/tamnd/kage",
-      "score": 589,
-      "comments": 117,
+      "score": 650,
+      "comments": 124,
       "author": "tamnd",
       "tags": [],
       "date": "2026-06-14T17:25:38+00:00"
@@ -458,6 +605,17 @@
       "author": "berlianta",
       "tags": [],
       "date": "2026-06-14T16:01:30+00:00"
+    },
+    {
+      "id": "hn-48528587",
+      "source": "hn",
+      "title": "Making glass-to-metal seals for home­made vacuum tubes",
+      "url": "https://maurycyz.com/projects/glass/1/",
+      "score": 48,
+      "comments": 17,
+      "author": "zdw",
+      "tags": [],
+      "date": "2026-06-14T15:52:09+00:00"
     },
     {
       "id": "hn-48528371",
@@ -1117,6 +1275,17 @@
       "date": "2026-06-13T17:39:14+00:00"
     },
     {
+      "id": "hn-48519198",
+      "source": "hn",
+      "title": "How to build a virtual cell and biology scaling laws",
+      "url": "https://letter.nikomc.com/p/virtual-cells",
+      "score": 6,
+      "comments": 0,
+      "author": "ogundipeore",
+      "tags": [],
+      "date": "2026-06-13T17:07:37+00:00"
+    },
+    {
       "id": "hn-48519102",
       "source": "hn",
       "title": "Global density and biomass of arbuscular mycorrhizal fungal networks",
@@ -1727,19 +1896,6 @@
       "author": "DASD",
       "tags": [],
       "date": "2026-06-12T19:54:27+00:00"
-    },
-    {
-      "id": "qiita-d925e9474d",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "AI Readyな設計書を目指して。人もAIも読みやすい設計書管理",
-      "url": "https://qiita.com/grhg/items/eee10528b403baf89631?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "grhg",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-06-13T04:52:17+09:00"
     },
     {
       "id": "hn-48508021",
@@ -2818,6 +2974,17 @@
       "date": "2026-06-11T16:48:49+00:00"
     },
     {
+      "id": "hn-48492548",
+      "source": "hn",
+      "title": "Bots flooded my anti-bot startup with 55,000 fake signups",
+      "url": "https://humaverify.com/blog/anatomy-of-a-55k-bot-attack",
+      "score": 13,
+      "comments": 3,
+      "author": "Jaco07",
+      "tags": [],
+      "date": "2026-06-11T16:29:36+00:00"
+    },
+    {
       "id": "hn-48492533",
       "source": "hn",
       "title": "Software is made between commits",
@@ -3447,6 +3614,17 @@
         "Qiita"
       ],
       "date": "2026-06-11T11:42:40+09:00"
+    },
+    {
+      "id": "hn-48485527",
+      "source": "hn",
+      "title": "Teenagers Stayed Overnight at Their School and Found Hidden Ancient Roman Ruins",
+      "url": "https://www.smithsonianmag.com/smart-news/these-italian-teenagers-stayed-overnight-at-their-school-they-found-ancient-roman-ruins-hidden-in-the-basement-180988917/",
+      "score": 120,
+      "comments": 62,
+      "author": "thunderbong",
+      "tags": [],
+      "date": "2026-06-11T02:22:06+00:00"
     },
     {
       "id": "qiita-addd432aae",
@@ -4294,8 +4472,8 @@
       "source": "hn",
       "title": "Firewood Splitting Simulator",
       "url": "https://screen.toys/firewood/",
-      "score": 858,
-      "comments": 249,
+      "score": 950,
+      "comments": 275,
       "author": "memalign",
       "tags": [],
       "date": "2026-06-10T05:01:31+00:00"
@@ -5042,195 +5220,6 @@
       "date": "2026-06-09T11:46:40+00:00"
     },
     {
-      "id": "hn-48459678",
-      "source": "hn",
-      "title": "CSS: Unavoidable Bad Parts",
-      "url": "https://matklad.github.io/2026/06/04/css-unavoidable-bad-parts.html",
-      "score": 49,
-      "comments": 12,
-      "author": "surprisetalk",
-      "tags": [],
-      "date": "2026-06-09T11:30:20+00:00"
-    },
-    {
-      "id": "hn-48459659",
-      "source": "hn",
-      "title": "Test-case reducers are underappreciated debugging tools",
-      "url": "https://tratt.net/laurie/blog/2026/test_case_reducers_are_underappreciated_debugging_tools.html",
-      "score": 117,
-      "comments": 13,
-      "author": "ltratt",
-      "tags": [],
-      "date": "2026-06-09T11:27:49+00:00"
-    },
-    {
-      "id": "qiita-a70a264191",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "NVIDIA RTX Spark は Windows で .NET 開発する私たちに何をもたらすのか",
-      "url": "https://qiita.com/tomokusaba/items/f5bb4d016b7f0d77197f?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "tomokusaba",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-06-09T19:59:32+09:00"
-    },
-    {
-      "id": "hn-48459294",
-      "source": "hn",
-      "title": "Making Graphics Like it's 1993",
-      "url": "https://staniks.github.io/articles/catlantean-3d-blog-1/",
-      "score": 813,
-      "comments": 137,
-      "author": "sklopec",
-      "tags": [],
-      "date": "2026-06-09T10:46:14+00:00"
-    },
-    {
-      "id": "qiita-84a9facd74",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "NewRelicのService Levels機能でSLI/SLOをTerraform管理する",
-      "url": "https://qiita.com/k-saiki-zdf/items/ed9a70a52003feb1301b?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "k-saiki-zdf",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-06-09T19:11:27+09:00"
-    },
-    {
-      "id": "hn-48459001",
-      "source": "hn",
-      "title": "The iPhone's Last Stand?",
-      "url": "https://stratechery.com/2026/the-iphones-last-stand/",
-      "score": 158,
-      "comments": 197,
-      "author": "swolpers",
-      "tags": [],
-      "date": "2026-06-09T10:08:18+00:00"
-    },
-    {
-      "id": "hn-48458895",
-      "source": "hn",
-      "title": "Linux latency measurements and compositor tuning",
-      "url": "https://farnoy.dev/posts/linux-latency",
-      "score": 100,
-      "comments": 30,
-      "author": "GalaxySnail",
-      "tags": [],
-      "date": "2026-06-09T09:50:50+00:00"
-    },
-    {
-      "id": "hn-48458890",
-      "source": "hn",
-      "title": "GentleOS – Classic operating system with a lovely retro GUI",
-      "url": "https://github.com/luke8086/gentleos32",
-      "score": 218,
-      "comments": 49,
-      "author": "tekkertje",
-      "tags": [],
-      "date": "2026-06-09T09:50:30+00:00"
-    },
-    {
-      "id": "qiita-d7fc83f624",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "git pull したら \"divergent branches\" エラーが出た話",
-      "url": "https://qiita.com/yasuto_88/items/a79a9629a4e7ec70a1f2?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "yasuto_88",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-06-09T18:27:23+09:00"
-    },
-    {
-      "id": "hn-48458636",
-      "source": "hn",
-      "title": "Eagle Computer: The rise and fall of an early PC clone",
-      "url": "https://dfarq.homeip.net/eagle-computer-the-rise-and-fall-of-an-early-pc-clone/",
-      "score": 28,
-      "comments": 4,
-      "author": "giuliomagnifico",
-      "tags": [],
-      "date": "2026-06-09T09:17:41+00:00"
-    },
-    {
-      "id": "qiita-1aaa59df34",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "PySAMACT向けAPIコーディング つまづき紹介",
-      "url": "https://qiita.com/ji-n/items/68259d84d73ec8b8a1b9?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "ji-n",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-06-09T18:12:55+09:00"
-    },
-    {
-      "id": "hn-48458586",
-      "source": "hn",
-      "title": "Cleaning up after AI rockstar developers",
-      "url": "https://www.codingwithjesse.com/blog/rockstar-developers/",
-      "score": 311,
-      "comments": 219,
-      "author": "BrunoBernardino",
-      "tags": [],
-      "date": "2026-06-09T09:10:10+00:00"
-    },
-    {
-      "id": "qiita-def78e4fb2",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "週末なにしてますか？忙しいですか？非IT業界の友達に「燃える」が通じなかったので、IT業界の謎用語を教えてもらってもいいですか？",
-      "url": "https://qiita.com/miruky/items/2d4fcb9ed4bee7ee25fe?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "miruky",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-06-09T17:51:01+09:00"
-    },
-    {
-      "id": "qiita-0df5e8aff8",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "ClaudeとOSカーネルを作り始めた",
-      "url": "https://qiita.com/segfo/items/970f068161f19cfacc6e?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "segfo",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-06-09T17:27:15+09:00"
-    },
-    {
-      "id": "hn-48458257",
-      "source": "hn",
-      "title": "Forever Young: how one molecule can lock plants in a youthful state (2025)",
-      "url": "https://omnia.sas.upenn.edu/story/biologist-scott-poethig-plants-never-age",
-      "score": 109,
-      "comments": 64,
-      "author": "bryanrasmussen",
-      "tags": [],
-      "date": "2026-06-09T08:25:36+00:00"
-    },
-    {
-      "id": "hn-48457830",
-      "source": "hn",
-      "title": "Microsoft's open source tools were hacked to steal passwords of AI developers",
-      "url": "https://techcrunch.com/2026/06/08/microsofts-open-source-tools-were-hacked-to-steal-passwords-of-ai-developers/",
-      "score": 519,
-      "comments": 176,
-      "author": "raffael_de",
-      "tags": [],
-      "date": "2026-06-09T07:33:16+00:00",
-      "severity": "critical"
-    },
-    {
       "id": "ctf-3761714",
       "source": "project",
       "proj_category": "CTF",
@@ -5413,6 +5402,19 @@
       "date": "2023-05-23T17:06:23Z"
     },
     {
+      "id": "zenn-162a0641e8",
+      "source": "zennqiita",
+      "sub_source": "Zenn",
+      "title": "Local LLMでのデータ分析を試してみた",
+      "url": "https://zenn.dev/aishift/articles/5a5383987efee6",
+      "score": null,
+      "author": "t.toda",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Mon, 15 Jun 2026 03:15:58 GMT"
+    },
+    {
       "id": "zenn-9a62999d45",
       "source": "zennqiita",
       "sub_source": "Zenn",
@@ -5450,19 +5452,6 @@
         "Zenn"
       ],
       "date": "Sun, 14 Jun 2026 16:28:53 GMT"
-    },
-    {
-      "id": "zenn-c4a9225b95",
-      "source": "zennqiita",
-      "sub_source": "Zenn",
-      "title": "Editor拡張を綺麗に実装したい！！！（Unity）",
-      "url": "https://zenn.dev/daikichi228/articles/872c73dd3df7e2",
-      "score": null,
-      "author": "ダイキチ",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Sun, 14 Jun 2026 16:14:36 GMT"
     },
     {
       "id": "zenn-d66135b087",

@@ -1,14 +1,25 @@
 {
-  "updated_at": "2026-06-17T18:41:15.927302+00:00",
+  "updated_at": "2026-06-17T21:05:53.772806+00:00",
   "count": 500,
   "items": [
     {
+      "id": "hn-48575878",
+      "source": "hn",
+      "title": "Made a free macOS menu bar app that fixes typing in the wrong keyboard layout",
+      "url": "https://flickey.site",
+      "score": 9,
+      "comments": 5,
+      "author": "tal_alfi",
+      "tags": [],
+      "date": "2026-06-17T19:50:11+00:00"
+    },
+    {
       "id": "hn-48573757",
       "source": "hn",
-      "title": "AI chemist improves a challenging reaction in medicinal chemistry",
+      "title": "Using AI to improve a challenging reaction in medicinal chemistry",
       "url": "https://openai.com/index/ai-chemist-improves-reaction/",
-      "score": 11,
-      "comments": 2,
+      "score": 36,
+      "comments": 12,
       "author": "ilreb",
       "tags": [],
       "date": "2026-06-17T17:34:20+00:00"
@@ -18,8 +29,8 @@
       "source": "hn",
       "title": "The Competitive Moat That AI Can't Replicate",
       "url": "https://ghostinthedata.info/posts/2026/2026-06-13-human-connection-moat/",
-      "score": 10,
-      "comments": 0,
+      "score": 67,
+      "comments": 45,
       "author": "speckx",
       "tags": [],
       "date": "2026-06-17T17:14:21+00:00"
@@ -48,12 +59,25 @@
       "date": "2026-06-17T17:00:02+00:00"
     },
     {
+      "id": "qiita-f168b6bfd1",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "OpenCode × Ollama でローカル完結のセルフホスト型コーディングエージェントを構築する",
+      "url": "https://qiita.com/kai_kou/items/16362b2eacb9d597f3d4?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "kai_kou",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-06-18T01:44:23+09:00"
+    },
+    {
       "id": "hn-48573012",
       "source": "hn",
       "title": "Show HN: An 8-bit live gamecast for baseball",
       "url": "https://ribbie.tv/watch",
-      "score": 106,
-      "comments": 57,
+      "score": 150,
+      "comments": 88,
       "author": "brownrout",
       "tags": [],
       "date": "2026-06-17T16:44:15+00:00"
@@ -63,8 +87,8 @@
       "source": "hn",
       "title": "Launch HN: Adam (YC W25) – Open-Source AI CAD",
       "url": "https://github.com/Adam-CAD/CADAM",
-      "score": 68,
-      "comments": 28,
+      "score": 107,
+      "comments": 55,
       "author": "zachdive",
       "tags": [],
       "date": "2026-06-17T16:14:04+00:00",
@@ -75,8 +99,8 @@
       "source": "hn",
       "title": "TREX: An AI code reviewer that runs your code",
       "url": "https://www.greptile.com/blog/trex-code-execution",
-      "score": 17,
-      "comments": 2,
+      "score": 39,
+      "comments": 9,
       "author": "dakshgupta",
       "tags": [],
       "date": "2026-06-17T15:29:01+00:00"
@@ -104,12 +128,25 @@
       "date": "2026-06-17T15:23:49+00:00"
     },
     {
+      "id": "qiita-b352aad550",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "初心者でもわかる！ Python で学ぶマクロ経済学入門 全90回 総復習",
+      "url": "https://qiita.com/maskot1977/items/21f4ef58e82ebb1042b8?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "maskot1977",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-06-18T00:14:19+09:00"
+    },
+    {
       "id": "hn-48571526",
       "source": "hn",
       "title": "Volkswagen started blocking GrapheneOS users",
       "url": "https://discuss.grapheneos.org/d/35949-volkswagen-app?page=3",
-      "score": 272,
-      "comments": 182,
+      "score": 366,
+      "comments": 260,
       "author": "microtonal",
       "tags": [],
       "date": "2026-06-17T15:04:47+00:00"
@@ -128,21 +165,22 @@
     {
       "id": "hn-48571081",
       "source": "hn",
-      "title": "Epic Games announces Lore version control system",
+      "title": "Lore – Open source version control system designed for scalability",
       "url": "https://lore.org/",
-      "score": 593,
-      "comments": 305,
+      "score": 786,
+      "comments": 433,
       "author": "regnerba",
       "tags": [],
-      "date": "2026-06-17T14:30:27+00:00"
+      "date": "2026-06-17T14:30:27+00:00",
+      "severity": "critical"
     },
     {
       "id": "hn-48570948",
       "source": "hn",
       "title": "AI demands more engineering discipline. Not less",
       "url": "https://charitydotwtf.substack.com/p/ai-demands-more-engineering-discipline",
-      "score": 209,
-      "comments": 104,
+      "score": 278,
+      "comments": 135,
       "author": "BerislavLopac",
       "tags": [],
       "date": "2026-06-17T14:20:44+00:00"
@@ -163,8 +201,8 @@
       "source": "hn",
       "title": "Want your images back? That'll be $5",
       "url": "https://www.lutr.dev/want-your-images-back-sure-that-ll-be-5-dollars",
-      "score": 508,
-      "comments": 217,
+      "score": 557,
+      "comments": 235,
       "author": "lutr",
       "tags": [],
       "date": "2026-06-17T13:05:03+00:00"
@@ -174,8 +212,8 @@
       "source": "hn",
       "title": "Why thinking out loud with someone beats thinking alone",
       "url": "https://www.thesignalist.io/s/the-dialogue-dividend/",
-      "score": 70,
-      "comments": 23,
+      "score": 116,
+      "comments": 52,
       "author": "kodesko",
       "tags": [],
       "date": "2026-06-17T13:00:38+00:00"
@@ -197,8 +235,8 @@
       "source": "hn",
       "title": "MicroUI – A tiny, portable, immediate-mode UI library written in ANSI C",
       "url": "https://github.com/rxi/microui",
-      "score": 123,
-      "comments": 39,
+      "score": 155,
+      "comments": 50,
       "author": "peter_d_sherman",
       "tags": [],
       "date": "2026-06-17T12:04:28+00:00"
@@ -208,19 +246,32 @@
       "source": "hn",
       "title": "RFC 10008: The new HTTP Query Method",
       "url": "https://www.rfc-editor.org/info/rfc10008/",
-      "score": 235,
-      "comments": 108,
+      "score": 277,
+      "comments": 129,
       "author": "schappim",
       "tags": [],
       "date": "2026-06-17T10:51:17+00:00"
+    },
+    {
+      "id": "qiita-fb93109c65",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "FastAPI + asyncpg でプロファイリングを用いたパフォーマンス改善",
+      "url": "https://qiita.com/aaaabbbbb/items/bc230f0d5cdaebccfd05?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "aaaabbbbb",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-06-17T19:30:48+09:00"
     },
     {
       "id": "hn-48568058",
       "source": "hn",
       "title": "U.S. science is in chaos",
       "url": "https://www.scientificamerican.com/article/americas-compact-between-science-and-politics-is-broken/",
-      "score": 315,
-      "comments": 341,
+      "score": 470,
+      "comments": 544,
       "author": "presspot",
       "tags": [],
       "date": "2026-06-17T09:54:21+00:00"
@@ -241,8 +292,8 @@
       "source": "hn",
       "title": "GLM-5.2 is the new leading open weights model on Artificial Analysis",
       "url": "https://artificialanalysis.ai/articles/glm-5-2-is-the-new-leading-open-weights-model-on-the-artificial-analysis-intelligence-index",
-      "score": 620,
-      "comments": 323,
+      "score": 693,
+      "comments": 355,
       "author": "himata4113",
       "tags": [],
       "date": "2026-06-17T09:12:00+00:00"
@@ -252,11 +303,24 @@
       "source": "hn",
       "title": "Hacker News but for independent blogs",
       "url": "https://bubbles.town/",
-      "score": 423,
-      "comments": 140,
+      "score": 478,
+      "comments": 162,
       "author": "headalgorithm",
       "tags": [],
       "date": "2026-06-17T07:49:44+00:00"
+    },
+    {
+      "id": "qiita-516edfbdb2",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "【Frontend CSS – パート10】ブラウザから見たSubgrid：ネストしたレイアウトはどう同期されるのか？",
+      "url": "https://qiita.com/tuanphan/items/50c94213129681955cb8?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "tuanphan",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-06-17T16:41:32+09:00"
     },
     {
       "id": "hn-48567004",
@@ -274,11 +338,22 @@
       "source": "hn",
       "title": "The founder's playbook: Building an AI-native startup",
       "url": "https://claude.com/blog/the-founders-playbook",
-      "score": 110,
-      "comments": 107,
+      "score": 186,
+      "comments": 143,
       "author": "e2e4",
       "tags": [],
       "date": "2026-06-17T07:04:42+00:00"
+    },
+    {
+      "id": "hn-48566791",
+      "source": "hn",
+      "title": "Why do commercial spaces sit vacant? (2025)",
+      "url": "https://www.freerange.city/p/why-do-commercial-spaces-sit-vacant",
+      "score": 86,
+      "comments": 128,
+      "author": "Redoubts",
+      "tags": [],
+      "date": "2026-06-17T06:59:29+00:00"
     },
     {
       "id": "hn-48566727",
@@ -359,8 +434,8 @@
       "source": "hn",
       "title": "US holds off blacklisting DeepSeek, more than 100 firms deemed security risks",
       "url": "https://www.reuters.com/world/china/us-holds-off-blacklisting-chinas-deepseek-more-than-100-firms-deemed-security-2026-06-17/",
-      "score": 113,
-      "comments": 77,
+      "score": 214,
+      "comments": 203,
       "author": "giuliomagnifico",
       "tags": [],
       "date": "2026-06-17T03:55:16+00:00"
@@ -735,8 +810,8 @@
       "source": "hn",
       "title": "How we run Firecracker VMs inside EC2 and start browsers in less than 1s",
       "url": "https://browser-use.com/posts/firecracker-browser-infra",
-      "score": 46,
-      "comments": 9,
+      "score": 124,
+      "comments": 81,
       "author": "gregpr07",
       "tags": [],
       "date": "2026-06-16T15:15:01+00:00"
@@ -799,6 +874,19 @@
       "author": "parksb",
       "tags": [],
       "date": "2026-06-16T14:26:26+00:00"
+    },
+    {
+      "id": "qiita-3ac833bdf1",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "Apache Iceberg入門：誕生の背景から特徴、アーキテクチャまとめ",
+      "url": "https://qiita.com/yushibats/items/b6e4b74006c5133442f7?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "yushibats",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-06-16T22:45:51+09:00"
     },
     {
       "id": "qiita-89864346cb",
@@ -927,6 +1015,30 @@
         "Security"
       ],
       "date": "2026-06-16T05:59:53Z"
+    },
+    {
+      "id": "qiita-e4a9c99fd9",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "Reactをビギナーに教える前に知っておきたかった「技術より大切なこと」",
+      "url": "https://qiita.com/monotein/items/789b0b2250d1ed2e8acf?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "monotein",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-06-16T14:54:56+09:00"
+    },
+    {
+      "id": "hn-48551069",
+      "source": "hn",
+      "title": "The Return of Rigorous Full-System Timing Simulation",
+      "url": "https://www.sigarch.org/the-return-of-rigorous-full-system-timing-simulation/",
+      "score": 4,
+      "comments": 0,
+      "author": "matt_d",
+      "tags": [],
+      "date": "2026-06-16T05:49:51+00:00"
     },
     {
       "id": "qiita-24b76feeb8",
@@ -1923,8 +2035,8 @@
       "source": "hn",
       "title": "Kirkland Roundabouts",
       "url": "https://kirklandroundabouts.com",
-      "score": 98,
-      "comments": 68,
+      "score": 123,
+      "comments": 101,
       "author": "DenisM",
       "tags": [],
       "date": "2026-06-14T21:41:56+00:00"
@@ -2610,8 +2722,8 @@
       "source": "hn",
       "title": "Show HN: Inkwash, a watercolor sketching app and explanation",
       "url": "https://johnowhitaker.github.io/inkwash/about",
-      "score": 98,
-      "comments": 17,
+      "score": 127,
+      "comments": 18,
       "author": "Yenrabbit",
       "tags": [],
       "date": "2026-06-14T02:14:43+00:00"
@@ -2693,8 +2805,8 @@
       "source": "hn",
       "title": "Image Compression",
       "url": "https://www.makingsoftware.com/chapters/image-compression",
-      "score": 97,
-      "comments": 13,
+      "score": 116,
+      "comments": 17,
       "author": "vinhnx",
       "tags": [],
       "date": "2026-06-14T00:26:02+00:00"
@@ -5098,115 +5210,6 @@
       "author": "yeargun",
       "tags": [],
       "date": "2026-06-11T10:38:24+00:00"
-    },
-    {
-      "id": "qiita-923e76d0e8",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "「なんか動かない」を解決！お客様の曖昧な問い合わせを明確化するヒアリング術",
-      "url": "https://qiita.com/cw_mikami/items/e655d29fc90adfb764f3?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "cw_mikami",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-06-11T19:28:25+09:00"
-    },
-    {
-      "id": "hn-48488463",
-      "source": "hn",
-      "title": "Using the Epson Perfection V39 II Scanner on Ubuntu",
-      "url": "https://patches.joao.town/using-epson-perfection-v39ii-scanner-ubuntu/",
-      "score": 5,
-      "comments": 0,
-      "author": "joaopalmeiro",
-      "tags": [],
-      "date": "2026-06-11T10:23:59+00:00"
-    },
-    {
-      "id": "hn-48487897",
-      "source": "hn",
-      "title": "Web Browsers on Video Game Consoles",
-      "url": "https://vale.rocks/posts/game-console-browsers",
-      "score": 125,
-      "comments": 61,
-      "author": "robin_reala",
-      "tags": [],
-      "date": "2026-06-11T08:47:36+00:00"
-    },
-    {
-      "id": "hn-48487829",
-      "source": "hn",
-      "title": "Making a vintage LLM from scratch",
-      "url": "https://crlf.link/log/entries/260525-1/",
-      "score": 55,
-      "comments": 16,
-      "author": "croqaz",
-      "tags": [],
-      "date": "2026-06-11T08:38:00+00:00"
-    },
-    {
-      "id": "qiita-439debfa3e",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "ワイ「ヘイ、AI！お仕事を奪わんといて！」",
-      "url": "https://qiita.com/Yametaro/items/3dfe149b4b8cb91ed898?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "Yametaro",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-06-11T17:11:01+09:00"
-    },
-    {
-      "id": "qiita-1b829ec7a5",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "10歳娘「パパ、AI時代にはDDDなんて要らないの？」",
-      "url": "https://qiita.com/Yametaro/items/a239fedfae8bb4a0a5ac?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "Yametaro",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-06-11T17:10:02+09:00"
-    },
-    {
-      "id": "qiita-ae52389fdb",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "【きっと分かる】TDDってなに？陣取りゲームでサクッと理解してみないか？",
-      "url": "https://qiita.com/tomoki-miso/items/2bea01d8d642b47bf1fa?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "tomoki-miso",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-06-11T17:09:25+09:00"
-    },
-    {
-      "id": "qiita-8b218044d3",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "【保存版】Linux作業を爆速化する便利コマンド5選",
-      "url": "https://qiita.com/K_TAKETO/items/66d70ce4ed54139998a9?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "K_TAKETO",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-06-11T17:09:12+09:00"
-    },
-    {
-      "id": "hn-48487540",
-      "source": "hn",
-      "title": "Why AI hasn't replaced software engineers, and won't",
-      "url": "https://www.normaltech.ai/p/why-ai-hasnt-replaced-software-engineers",
-      "score": 192,
-      "comments": 239,
-      "author": "trueduke",
-      "tags": [],
-      "date": "2026-06-11T07:51:17+00:00"
     },
     {
       "id": "ctf-3871364",

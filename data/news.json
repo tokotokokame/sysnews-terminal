@@ -1,14 +1,82 @@
 {
-  "updated_at": "2026-06-21T10:35:06.507904+00:00",
+  "updated_at": "2026-06-21T13:05:49.080242+00:00",
   "count": 500,
   "items": [
+    {
+      "id": "hn-48618455",
+      "source": "hn",
+      "title": "Anthropic to Require ID Verification for Certain Capabilities Starting July 8",
+      "url": "https://old.reddit.com/r/ClaudeAI/comments/1ubm53n/official_anthropic_to_require_identity/",
+      "score": 18,
+      "comments": 6,
+      "author": "bathory",
+      "tags": [],
+      "date": "2026-06-21T12:44:13+00:00"
+    },
+    {
+      "id": "hn-48618226",
+      "source": "hn",
+      "title": "David Ahl's Basic Computer Games Ported to C",
+      "url": "https://github.com/proteanthread/bcg",
+      "score": 4,
+      "comments": 0,
+      "author": "theanonymousone",
+      "tags": [],
+      "date": "2026-06-21T12:11:29+00:00"
+    },
+    {
+      "id": "hn-48617990",
+      "source": "hn",
+      "title": "Beyond All Reason (Free Total Annihilation Inspired RTS)",
+      "url": "https://www.beyondallreason.info",
+      "score": 36,
+      "comments": 13,
+      "author": "mosiuerbarso",
+      "tags": [],
+      "date": "2026-06-21T11:38:01+00:00"
+    },
+    {
+      "id": "hn-48617782",
+      "source": "hn",
+      "title": "The case against geometric algebra (2024)",
+      "url": "https://alexkritchevsky.com/2024/02/28/geometric-algebra.html",
+      "score": 41,
+      "comments": 11,
+      "author": "Hbruz0",
+      "tags": [],
+      "date": "2026-06-21T11:06:55+00:00"
+    },
+    {
+      "id": "hn-48617686",
+      "source": "hn",
+      "title": "TypeScript 7 RC: the compiler rewritten in Go, around 10x faster",
+      "url": "https://jatniel.dev/en/bytes/typescript-7-rc-the-compiler-rewritten-in-go-around-10x-faster",
+      "score": 5,
+      "comments": 0,
+      "author": "jtnl",
+      "tags": [],
+      "date": "2026-06-21T10:52:58+00:00"
+    },
+    {
+      "id": "qiita-52d42d7917",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "米国がオランダの規制当局メールを読んだ日 ―「データ国内保管なら安全」を覆すデータ主権の正体と、日本のクラウド調達への教訓",
+      "url": "https://qiita.com/bon_eng/items/e12adb074a9350ecaaf2?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "bon_eng",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-06-21T19:52:21+09:00"
+    },
     {
       "id": "hn-48616800",
       "source": "hn",
       "title": "Google Hits 50% IPv6",
       "url": "https://blog.apnic.net/2026/04/28/google-hits-50-ipv6/",
-      "score": 107,
-      "comments": 72,
+      "score": 203,
+      "comments": 198,
       "author": "barqawiz",
       "tags": [],
       "date": "2026-06-21T08:21:22+00:00"
@@ -18,8 +86,8 @@
       "source": "hn",
       "title": "A 3D voxel game engine written in APL",
       "url": "https://github.com/namgyaaal/avoxelgame",
-      "score": 50,
-      "comments": 6,
+      "score": 79,
+      "comments": 7,
       "author": "sph",
       "tags": [],
       "date": "2026-06-21T08:04:54+00:00"
@@ -42,8 +110,8 @@
       "source": "hn",
       "title": "Windows UI evolution: Clicking an unassociated file",
       "url": "https://movq.de/blog/postings/2026-06-20/0/POSTING-en.html",
-      "score": 23,
-      "comments": 4,
+      "score": 66,
+      "comments": 38,
       "author": "jandeboevrie",
       "tags": [],
       "date": "2026-06-21T06:24:52+00:00"
@@ -121,8 +189,8 @@
       "source": "hn",
       "title": "Developers don't understand CORS (2019)",
       "url": "https://fosterelli.co/developers-dont-understand-cors",
-      "score": 208,
-      "comments": 113,
+      "score": 244,
+      "comments": 177,
       "author": "toilet",
       "tags": [],
       "date": "2026-06-21T01:35:40+00:00"
@@ -177,8 +245,8 @@
       "source": "hn",
       "title": "Epoll vs. io_uring in Linux",
       "url": "https://sibexi.co/posts/epoll-vs-io_uring/",
-      "score": 168,
-      "comments": 42,
+      "score": 191,
+      "comments": 47,
       "author": "Sibexico",
       "tags": [],
       "date": "2026-06-20T23:07:09+00:00"
@@ -188,8 +256,8 @@
       "source": "hn",
       "title": "Renting a sewing machine from the library",
       "url": "https://www.bbc.com/future/article/20260618-the-weird-and-wonderful-libraries-of-finland",
-      "score": 237,
-      "comments": 128,
+      "score": 260,
+      "comments": 149,
       "author": "sohkamyung",
       "tags": [],
       "date": "2026-06-20T22:54:11+00:00"
@@ -221,8 +289,8 @@
       "source": "hn",
       "title": "Slow breathing modulates brain function and risk behavior",
       "url": "https://www.cell.com/neuron/fulltext/S0896-6273(26)00339-9",
-      "score": 213,
-      "comments": 53,
+      "score": 243,
+      "comments": 70,
       "author": "croes",
       "tags": [],
       "date": "2026-06-20T22:22:52+00:00"
@@ -288,8 +356,8 @@
       "source": "hn",
       "title": "Unauthorized alert sent to cell phones across Brazil",
       "url": "https://www.cnn.com/2026/06/20/americas/brazil-hackers-unauthorized-alert-latam",
-      "score": 136,
-      "comments": 97,
+      "score": 149,
+      "comments": 112,
       "author": "zdw",
       "tags": [],
       "date": "2026-06-20T20:05:03+00:00"
@@ -388,8 +456,8 @@
       "source": "hn",
       "title": "UHF X11: X11 Built for VisionOS and Apple Vision Pro",
       "url": "https://www.lispm.net/apps/uhf-x11/",
-      "score": 205,
-      "comments": 41,
+      "score": 211,
+      "comments": 46,
       "author": "zdw",
       "tags": [],
       "date": "2026-06-20T17:04:24+00:00"
@@ -410,8 +478,8 @@
       "source": "hn",
       "title": "SMPTE Makes Its Standards Freely Accessible",
       "url": "https://www.smpte.org/blog/smpte-makes-its-standards-freely-accessible-openingstandards-library-to-the-global-media-technology-community",
-      "score": 265,
-      "comments": 81,
+      "score": 267,
+      "comments": 90,
       "author": "zdw",
       "tags": [],
       "date": "2026-06-20T17:01:36+00:00"
@@ -469,7 +537,7 @@
       "source": "hn",
       "title": "DOS Game \"F-15 Strike Eagle II\" reversing project needs DOS test pilots",
       "url": "https://neuviemeporte.github.io/f15-se2/2026/06/20/needyou.html",
-      "score": 258,
+      "score": 264,
       "comments": 68,
       "author": "LowLevelMahn",
       "tags": [],
@@ -639,8 +707,8 @@
       "source": "hn",
       "title": "Loupe – A iOS app that raises awareness about what native apps can see",
       "url": "https://github.com/mysk-research/loupe",
-      "score": 295,
-      "comments": 113,
+      "score": 360,
+      "comments": 151,
       "author": "Cider9986",
       "tags": [],
       "date": "2026-06-20T12:08:23+00:00"
@@ -673,8 +741,8 @@
       "source": "hn",
       "title": "Show HN: TownSquare, a tiny presence layer for websites",
       "url": "https://townsquare.cauenapier.com/",
-      "score": 180,
-      "comments": 100,
+      "score": 207,
+      "comments": 110,
       "author": "cauenapier",
       "tags": [],
       "date": "2026-06-20T11:55:03+00:00"
@@ -759,19 +827,6 @@
       "author": "msalsas",
       "tags": [],
       "date": "2026-06-20T10:49:53+00:00"
-    },
-    {
-      "id": "qiita-52d42d7917",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "米国がオランダの規制当局メールを読んだ日 ―「データ国内保管なら安全」を覆すデータ主権の正体と、日本のクラウド調達への教訓",
-      "url": "https://qiita.com/bon_eng/items/e12adb074a9350ecaaf2?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "bon_eng",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-06-20T19:39:13+09:00"
     },
     {
       "id": "qiita-5dc1ef6aa3",
@@ -1328,8 +1383,8 @@
       "source": "hn",
       "title": "Running MicroVMs in Proxmox VE, the Easy Way",
       "url": "https://taoofmac.com/space/blog/2026/06/18/1845",
-      "score": 58,
-      "comments": 2,
+      "score": 107,
+      "comments": 9,
       "author": "zdw",
       "tags": [],
       "date": "2026-06-19T15:13:11+00:00"
@@ -1798,6 +1853,17 @@
       "date": "2026-06-18T16:55:25+00:00"
     },
     {
+      "id": "hn-48587865",
+      "source": "hn",
+      "title": "Two Qwen3 models on one DGX Spark: the residency math",
+      "url": "https://www.devashish.me/p/two-qwen3-models-on-one-dgx-spark",
+      "score": 5,
+      "comments": 0,
+      "author": "devashish86",
+      "tags": [],
+      "date": "2026-06-18T16:29:52+00:00"
+    },
+    {
       "id": "qiita-a437a06b8b",
       "source": "zennqiita",
       "sub_source": "Qiita",
@@ -1994,8 +2060,8 @@
       "source": "hn",
       "title": "15-minute at-home Lyme disease tick test",
       "url": "https://www.bostonglobe.com/2026/06/17/business/lyme-disease-tick-test/",
-      "score": 118,
-      "comments": 67,
+      "score": 141,
+      "comments": 97,
       "author": "bookofjoe",
       "tags": [],
       "date": "2026-06-18T12:22:36+00:00"
@@ -2650,8 +2716,8 @@
       "source": "hn",
       "title": "Zigzag Decoding with AVX-512",
       "url": "https://zeux.io/2026/06/17/zigzag-decoding-avx512/",
-      "score": 76,
-      "comments": 9,
+      "score": 92,
+      "comments": 18,
       "author": "luu",
       "tags": [],
       "date": "2026-06-17T17:43:22+00:00"
@@ -2932,6 +2998,17 @@
       "date": "2026-06-17T12:45:10+00:00"
     },
     {
+      "id": "hn-48569309",
+      "source": "hn",
+      "title": "Cosmodial Sky Atlas",
+      "url": "https://frankforce.com/cosmodial-sky-atlas/",
+      "score": 7,
+      "comments": 3,
+      "author": "surprisetalk",
+      "tags": [],
+      "date": "2026-06-17T12:15:04+00:00"
+    },
+    {
       "id": "hn-48569278",
       "source": "hn",
       "title": "Sixty percent of US consumers say 'AI' in brand messaging is a turnoff",
@@ -3018,8 +3095,8 @@
       "source": "hn",
       "title": "A tale of two path separators",
       "url": "https://alexwlchan.net/2021/slashes/",
-      "score": 6,
-      "comments": 0,
+      "score": 24,
+      "comments": 7,
       "author": "dbaupp",
       "tags": [],
       "date": "2026-06-17T10:14:53+00:00"
@@ -3464,6 +3541,17 @@
       "author": "gmays",
       "tags": [],
       "date": "2026-06-16T18:57:29+00:00"
+    },
+    {
+      "id": "hn-48560050",
+      "source": "hn",
+      "title": "Rare medieval bookmark exceeds expectations at auction",
+      "url": "https://www.thehistoryblog.com/archives/76314",
+      "score": 13,
+      "comments": 5,
+      "author": "speckx",
+      "tags": [],
+      "date": "2026-06-16T18:46:10+00:00"
     },
     {
       "id": "hn-48559935",
@@ -5128,212 +5216,6 @@
       "date": "2026-06-15T10:22:51+09:00"
     },
     {
-      "id": "qiita-398afc7a80",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "Claude DesignからClaude Codeへ。AI駆動開発でデザインから実装まで試してみた",
-      "url": "https://qiita.com/t0hara/items/a9677b1874b320c79f81?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "t0hara",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-06-15T10:08:39+09:00"
-    },
-    {
-      "id": "qiita-dfd8087684",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "Laravel12のローカル開発環境にRustFSを入れて使ってみる",
-      "url": "https://qiita.com/murarihyon-k/items/43c674460777d3dc457a?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "murarihyon-k",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-06-15T10:07:42+09:00"
-    },
-    {
-      "id": "hn-48534900",
-      "source": "hn",
-      "title": "Vinyl Cache and Varnish Cache",
-      "url": "https://vinyl-cache.org/organization/on_vinyl_cache_and_varnish_cache.html#org-vinyl-varnish",
-      "score": 22,
-      "comments": 5,
-      "author": "embedding-shape",
-      "tags": [],
-      "date": "2026-06-15T00:32:24+00:00"
-    },
-    {
-      "id": "hn-48534628",
-      "source": "hn",
-      "title": "21 years and counting of 'eight fallacies of distributed computing' (2025)",
-      "url": "https://blog.apnic.net/2025/12/08/21-years-and-counting-of-eight-fallacies-of-distributed-computing/",
-      "score": 100,
-      "comments": 22,
-      "author": "teleforce",
-      "tags": [],
-      "date": "2026-06-15T00:07:32+00:00"
-    },
-    {
-      "id": "qiita-4ccc95bf93",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "なぜ人手不足なのに給料は上がらないのか？ ― バラバラに見える問題をつなぐ『財源』という思い込み : Pythonで学ぶ マクロ経済学入門 (90)",
-      "url": "https://qiita.com/maskot1977/items/195f7ea9adce83052fe9?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "maskot1977",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-06-15T08:08:18+09:00"
-    },
-    {
-      "id": "hn-48533848",
-      "source": "hn",
-      "title": "Your ePub Is fine",
-      "url": "https://andreklein.net/your-epub-is-fine-kobo-disagrees-blame-adobe/",
-      "score": 822,
-      "comments": 277,
-      "author": "sohkamyung",
-      "tags": [],
-      "date": "2026-06-14T22:54:55+00:00"
-    },
-    {
-      "id": "hn-48533829",
-      "source": "hn",
-      "title": "What even is food authenticity? Why we guard carbonara, and flatten chicken rice",
-      "url": "https://iza.ac/posts/2026/06/food-authenticity/",
-      "score": 18,
-      "comments": 15,
-      "author": "infinitewalk",
-      "tags": [],
-      "date": "2026-06-14T22:53:17+00:00"
-    },
-    {
-      "id": "hn-48533756",
-      "source": "hn",
-      "title": "Stanford grads walk out on Google CEO Sundar Pichai speech",
-      "url": "https://twitter.com/maattttbrown/status/2066215255987163246",
-      "score": 70,
-      "comments": 17,
-      "author": "sosomoxie",
-      "tags": [],
-      "date": "2026-06-14T22:45:55+00:00"
-    },
-    {
-      "id": "hn-48533736",
-      "source": "hn",
-      "title": "The Jqwik Anti-AI Affair",
-      "url": "https://blog.johanneslink.net/2026/06/09/the-jqwik-anti-ai-affair/",
-      "score": 24,
-      "comments": 15,
-      "author": "dgellow",
-      "tags": [],
-      "date": "2026-06-14T22:43:49+00:00"
-    },
-    {
-      "id": "hn-48533504",
-      "source": "hn",
-      "title": "Did Anthropic ask for this?",
-      "url": "https://www.verysane.ai/p/did-anthropic-ask-for-this",
-      "score": 128,
-      "comments": 92,
-      "author": "ad8e",
-      "tags": [],
-      "date": "2026-06-14T22:23:05+00:00"
-    },
-    {
-      "id": "qiita-540848f857",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "文系エンジニアがClaude Codeで学習アプリを自作して3か月でCISSP合格した話",
-      "url": "https://qiita.com/hiyoshiz/items/b63c2e7ff52b5554a8a5?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "hiyoshiz",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-06-15T07:11:44+09:00"
-    },
-    {
-      "id": "hn-48533308",
-      "source": "hn",
-      "title": "Why Is Claude Turning into an a**Hole?",
-      "url": "https://bramcohen.com/p/why-is-claude-turning-into-an-asshole",
-      "score": 52,
-      "comments": 45,
-      "author": "drob518",
-      "tags": [],
-      "date": "2026-06-14T22:04:01+00:00"
-    },
-    {
-      "id": "hn-48533135",
-      "source": "hn",
-      "title": "Making 'food out of thin air' (2024)",
-      "url": "https://www.noemamag.com/making-food-out-of-thin-air/",
-      "score": 28,
-      "comments": 6,
-      "author": "muchweight",
-      "tags": [],
-      "date": "2026-06-14T21:45:50+00:00"
-    },
-    {
-      "id": "hn-48533101",
-      "source": "hn",
-      "title": "Windows 11 users are tired of MS account requirements creeping into everything",
-      "url": "https://www.windowscentral.com/microsoft/windows-11/windows-11-users-are-tired-of-microsoft-account-requirements-and-workarounds",
-      "score": 170,
-      "comments": 110,
-      "author": "josephcsible",
-      "tags": [],
-      "date": "2026-06-14T21:42:12+00:00"
-    },
-    {
-      "id": "hn-48533098",
-      "source": "hn",
-      "title": "Kirkland Roundabouts",
-      "url": "https://kirklandroundabouts.com",
-      "score": 143,
-      "comments": 109,
-      "author": "DenisM",
-      "tags": [],
-      "date": "2026-06-14T21:41:56+00:00"
-    },
-    {
-      "id": "hn-48532722",
-      "source": "hn",
-      "title": "Abu Fanous",
-      "url": "https://en.wikipedia.org/wiki/Abu_Fanous",
-      "score": 32,
-      "comments": 6,
-      "author": "joebig",
-      "tags": [],
-      "date": "2026-06-14T21:06:41+00:00"
-    },
-    {
-      "id": "hn-48532447",
-      "source": "hn",
-      "title": "RhinoCollab a plugin for real-time editing for Rhino 3D",
-      "url": "https://rhinocollab.com",
-      "score": 12,
-      "comments": 2,
-      "author": "Ashxius",
-      "tags": [],
-      "date": "2026-06-14T20:43:23+00:00"
-    },
-    {
-      "id": "hn-48532178",
-      "source": "hn",
-      "title": "AI is code – and can't be prompted into being smarter",
-      "url": "https://www.theregister.com/ai-and-ml/2026/06/14/ai-is-code-and-cant-be-prompted-into-being-smarter/5254141",
-      "score": 49,
-      "comments": 19,
-      "author": "wglb",
-      "tags": [],
-      "date": "2026-06-14T20:17:54+00:00"
-    },
-    {
       "id": "ctf-3871364",
       "source": "project",
       "proj_category": "CTF",
@@ -5863,6 +5745,156 @@
       ],
       "severity": "high",
       "date": "Sat, 30 May 2026 00:00:00 +0000"
+    },
+    {
+      "id": "edb-33165480b1",
+      "source": "msf",
+      "title": "[webapps] YAMCS yamcs-core  5.12.7 - No Rate Limiting",
+      "url": "https://www.exploit-db.com/exploits/52605",
+      "score": null,
+      "author": "Exploit-DB",
+      "tags": [
+        "Exploit-DB",
+        "CVE",
+        "PoC"
+      ],
+      "severity": "high",
+      "date": "Sat, 30 May 2026 00:00:00 +0000"
+    },
+    {
+      "id": "edb-f30dc5c188",
+      "source": "msf",
+      "title": "[webapps] YAMCS yamcs-core  5.12.7 - User Enumeration",
+      "url": "https://www.exploit-db.com/exploits/52604",
+      "score": null,
+      "author": "Exploit-DB",
+      "tags": [
+        "Exploit-DB",
+        "CVE",
+        "PoC"
+      ],
+      "severity": "high",
+      "date": "Sat, 30 May 2026 00:00:00 +0000"
+    },
+    {
+      "id": "edb-be7a420ae4",
+      "source": "msf",
+      "title": "[webapps] YAMCS yamcs-core  5.12.7 - LDAP Injection",
+      "url": "https://www.exploit-db.com/exploits/52603",
+      "score": null,
+      "author": "Exploit-DB",
+      "tags": [
+        "Exploit-DB",
+        "CVE",
+        "PoC"
+      ],
+      "severity": "high",
+      "date": "Sat, 30 May 2026 00:00:00 +0000"
+    },
+    {
+      "id": "edb-f12984cfd7",
+      "source": "msf",
+      "title": "[remote] Microsoft - NTLMv2 Hash Capture",
+      "url": "https://www.exploit-db.com/exploits/52601",
+      "score": null,
+      "author": "Exploit-DB",
+      "tags": [
+        "Exploit-DB",
+        "CVE",
+        "PoC"
+      ],
+      "severity": "high",
+      "date": "Fri, 29 May 2026 00:00:00 +0000"
+    },
+    {
+      "id": "edb-51d394b2f6",
+      "source": "msf",
+      "title": "[webapps] MikroORM   7.0.13 - SQL Injection",
+      "url": "https://www.exploit-db.com/exploits/52600",
+      "score": null,
+      "author": "Exploit-DB",
+      "tags": [
+        "Exploit-DB",
+        "CVE",
+        "PoC"
+      ],
+      "severity": "high",
+      "date": "Fri, 29 May 2026 00:00:00 +0000"
+    },
+    {
+      "id": "edb-b44998ab02",
+      "source": "msf",
+      "title": "[webapps] Prodigy Commerce 3.3.0 - Local File Inclusion",
+      "url": "https://www.exploit-db.com/exploits/52598",
+      "score": null,
+      "author": "Exploit-DB",
+      "tags": [
+        "Exploit-DB",
+        "CVE",
+        "PoC"
+      ],
+      "severity": "high",
+      "date": "Fri, 29 May 2026 00:00:00 +0000"
+    },
+    {
+      "id": "edb-0b1081a580",
+      "source": "msf",
+      "title": "[webapps] Langflow 1.3.0 - Remote Code Execution",
+      "url": "https://www.exploit-db.com/exploits/52597",
+      "score": null,
+      "author": "Exploit-DB",
+      "tags": [
+        "Exploit-DB",
+        "CVE",
+        "PoC"
+      ],
+      "severity": "high",
+      "date": "Fri, 29 May 2026 00:00:00 +0000"
+    },
+    {
+      "id": "edb-7fd71d4802",
+      "source": "msf",
+      "title": "[webapps] Quick Playground for WordPress 1.3.1 - Unauthenticated Remote Code Execution",
+      "url": "https://www.exploit-db.com/exploits/52596",
+      "score": null,
+      "author": "Exploit-DB",
+      "tags": [
+        "Exploit-DB",
+        "CVE",
+        "PoC"
+      ],
+      "severity": "high",
+      "date": "Fri, 29 May 2026 00:00:00 +0000"
+    },
+    {
+      "id": "edb-e827c93897",
+      "source": "msf",
+      "title": "[local] ImageMagick - Infinite Loop in the MIFF decoder can lead to CPU exhaustion",
+      "url": "https://www.exploit-db.com/exploits/52595",
+      "score": null,
+      "author": "Exploit-DB",
+      "tags": [
+        "Exploit-DB",
+        "CVE",
+        "PoC"
+      ],
+      "severity": "high",
+      "date": "Fri, 29 May 2026 00:00:00 +0000"
+    },
+    {
+      "id": "edb-e7ed248f76",
+      "source": "msf",
+      "title": "[local] ZTE Routers  - Unauthenticated Denial of Service",
+      "url": "https://www.exploit-db.com/exploits/52594",
+      "score": null,
+      "author": "Exploit-DB",
+      "tags": [
+        "Exploit-DB",
+        "CVE",
+        "PoC"
+      ],
+      "severity": "high",
+      "date": "Fri, 29 May 2026 00:00:00 +0000"
     }
   ]
 }

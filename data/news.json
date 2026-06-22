@@ -1,7 +1,141 @@
 {
-  "updated_at": "2026-06-22T10:21:31.209943+00:00",
+  "updated_at": "2026-06-22T15:35:27.640763+00:00",
   "count": 500,
   "items": [
+    {
+      "id": "hn-48631043",
+      "source": "hn",
+      "title": "I built Ponytrail, a local audit trail for AI coding-agent edits",
+      "url": "https://github.com/0xroylee/ponytrail",
+      "score": 14,
+      "comments": 6,
+      "author": "1997roylee",
+      "tags": [],
+      "date": "2026-06-22T14:54:59+00:00"
+    },
+    {
+      "id": "hn-48630535",
+      "source": "hn",
+      "title": "Claude Code's \"extended thinking\" is a summary- not authentic thinking",
+      "url": "https://patrickmccanna.net/the-text-in-claude-codes-extended-thinking-output-is-not-authentic/",
+      "score": 61,
+      "comments": 47,
+      "author": "0o_MrPatrick_o0",
+      "tags": [],
+      "date": "2026-06-22T14:22:46+00:00"
+    },
+    {
+      "id": "hn-48630220",
+      "source": "hn",
+      "title": "Nvidia Halos",
+      "url": "https://www.nvidia.com/en-us/ai-trust-center/halos/autonomous-vehicles/",
+      "score": 41,
+      "comments": 20,
+      "author": "ilreb",
+      "tags": [],
+      "date": "2026-06-22T13:57:49+00:00"
+    },
+    {
+      "id": "hn-48630171",
+      "source": "hn",
+      "title": "Moebius: 0.2B image inpainting model with 10B-level performance",
+      "url": "https://hustvl.github.io/Moebius/",
+      "score": 38,
+      "comments": 6,
+      "author": "DSemba",
+      "tags": [],
+      "date": "2026-06-22T13:53:02+00:00"
+    },
+    {
+      "id": "hn-48630066",
+      "source": "hn",
+      "title": "Never Give Them Your Face",
+      "url": "https://nevergivethemyourface.com/",
+      "score": 265,
+      "comments": 148,
+      "author": "audiodude",
+      "tags": [],
+      "date": "2026-06-22T13:45:48+00:00"
+    },
+    {
+      "id": "hn-48630029",
+      "source": "hn",
+      "title": "Chevron signs 20-year power agreement with Microsoft for West Texas data center",
+      "url": "https://www.chevron.com/newsroom/2026/q2/chevron-signs-20-year-power-agreement-with-microsoft-for-west-texas-data-center",
+      "score": 22,
+      "comments": 16,
+      "author": "cdrnsf",
+      "tags": [],
+      "date": "2026-06-22T13:43:38+00:00"
+    },
+    {
+      "id": "hn-48630020",
+      "source": "hn",
+      "title": "Pledging Another $400k to the Zig Software Foundation",
+      "url": "https://mitchellh.com/writing/zig-donation-2026",
+      "score": 325,
+      "comments": 84,
+      "author": "tosh",
+      "tags": [],
+      "date": "2026-06-22T13:43:01+00:00"
+    },
+    {
+      "id": "hn-48629982",
+      "source": "hn",
+      "title": "Die analysis of the 8087 math coprocessor's fast bit shifter",
+      "url": "https://www.righto.com/2020/05/die-analysis-of-8087-math-coprocessors.html",
+      "score": 18,
+      "comments": 4,
+      "author": "Jimmc414",
+      "tags": [],
+      "date": "2026-06-22T13:40:16+00:00"
+    },
+    {
+      "id": "qiita-f132fbd2ff",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "未経験エンジニアなら、キーボードよりノートを汚せ",
+      "url": "https://qiita.com/maketahara_ise/items/8b8c3116f07fcefe2047?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "maketahara_ise",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-06-22T21:53:47+09:00"
+    },
+    {
+      "id": "hn-48629213",
+      "source": "hn",
+      "title": "Show HN: Got sick of ads, so I made my own logic puzzle site",
+      "url": "https://puzzlelair.com/",
+      "score": 48,
+      "comments": 34,
+      "author": "HaxleRose",
+      "tags": [],
+      "date": "2026-06-22T12:23:46+00:00"
+    },
+    {
+      "id": "hn-48629064",
+      "source": "hn",
+      "title": "Why Drawing Tablet Brands Won't Collaborate on Linux Floss Drivers",
+      "url": "https://www.davidrevoy.com/article1154/why-drawing-tablet-brands-wont-collaborate-on-linux-floss-drivers",
+      "score": 109,
+      "comments": 40,
+      "author": "Tomte",
+      "tags": [],
+      "date": "2026-06-22T12:09:34+00:00"
+    },
+    {
+      "id": "hn-48628328",
+      "source": "hn",
+      "title": "Manticore Search 27.1.5: Auth, sharding, conversational and faster vector search",
+      "url": "https://manticoresearch.com/blog/manticore-search-27-1-5/",
+      "score": 30,
+      "comments": 0,
+      "author": "snikolaev",
+      "tags": [],
+      "date": "2026-06-22T10:35:21+00:00"
+    },
     {
       "id": "qiita-1a438d8b58",
       "source": "zennqiita",
@@ -20,8 +154,8 @@
       "source": "hn",
       "title": "Codex logging bug may write TBs to local SSDs",
       "url": "https://github.com/openai/codex/issues/28224",
-      "score": 92,
-      "comments": 55,
+      "score": 294,
+      "comments": 165,
       "author": "vantareed",
       "tags": [],
       "date": "2026-06-22T07:30:17+00:00"
@@ -31,8 +165,8 @@
       "source": "hn",
       "title": "Investors get real-time view of UK bond market activity for the first time",
       "url": "https://www.fca.org.uk/news/press-releases/investors-get-real-time-view-uk-bond-market-activity-first-time",
-      "score": 16,
-      "comments": 0,
+      "score": 78,
+      "comments": 51,
       "author": "monkeydust",
       "tags": [],
       "date": "2026-06-22T07:29:17+00:00"
@@ -42,24 +176,11 @@
       "source": "hn",
       "title": "GLM 5.2 vs. Opus",
       "url": "https://techstackups.com/comparisons/glm-5.2-vs-opus/",
-      "score": 134,
-      "comments": 104,
+      "score": 332,
+      "comments": 240,
       "author": "ritzaco",
       "tags": [],
       "date": "2026-06-22T07:22:03+00:00"
-    },
-    {
-      "id": "qiita-f132fbd2ff",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "未経験エンジニアなら、キーボードよりノートを汚せ",
-      "url": "https://qiita.com/maketahara_ise/items/8b8c3116f07fcefe2047?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "maketahara_ise",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-06-22T16:07:11+09:00"
     },
     {
       "id": "qiita-4bc6e60c2a",
@@ -79,8 +200,8 @@
       "source": "hn",
       "title": "Deno Desktop",
       "url": "https://docs.deno.com/runtime/desktop/",
-      "score": 386,
-      "comments": 162,
+      "score": 770,
+      "comments": 305,
       "author": "GeneralMaximus",
       "tags": [],
       "date": "2026-06-22T05:38:40+00:00"
@@ -116,8 +237,8 @@
       "source": "hn",
       "title": "Sakana Fugu",
       "url": "https://sakana.ai/fugu/",
-      "score": 123,
-      "comments": 76,
+      "score": 177,
+      "comments": 102,
       "author": "Finbarr",
       "tags": [],
       "date": "2026-06-22T02:08:18+00:00"
@@ -210,8 +331,8 @@
       "source": "hn",
       "title": "Did my old job only exist because of fraud?",
       "url": "https://david.newgas.net/did-my-old-job-only-exist-because-of-fraud/",
-      "score": 562,
-      "comments": 244,
+      "score": 727,
+      "comments": 327,
       "author": "advisedwang",
       "tags": [],
       "date": "2026-06-21T21:40:53+00:00"
@@ -232,8 +353,8 @@
       "source": "hn",
       "title": "Apertus – Open Foundation Model for Sovereign AI",
       "url": "https://apertvs.ai/",
-      "score": 388,
-      "comments": 129,
+      "score": 489,
+      "comments": 165,
       "author": "T-A",
       "tags": [],
       "date": "2026-06-21T21:29:43+00:00"
@@ -276,8 +397,8 @@
       "source": "hn",
       "title": "There is minimal downside to switching to open models",
       "url": "https://www.marble.onl/posts/cancel_claude.html",
-      "score": 227,
-      "comments": 188,
+      "score": 329,
+      "comments": 277,
       "author": "amarble",
       "tags": [],
       "date": "2026-06-21T20:56:01+00:00"
@@ -1471,6 +1592,17 @@
       "date": "2026-06-20T18:52:56+09:00"
     },
     {
+      "id": "hn-48607671",
+      "source": "hn",
+      "title": "Maria Isabel Sánchez Vegara on Her 100th \"Little People, Big Dreams\" Book",
+      "url": "https://www.amightygirl.com/blog?p=36753",
+      "score": 20,
+      "comments": 1,
+      "author": "zeristor",
+      "tags": [],
+      "date": "2026-06-20T09:13:55+00:00"
+    },
+    {
       "id": "qiita-2e7b59fad0",
       "source": "zennqiita",
       "sub_source": "Qiita",
@@ -1659,8 +1791,8 @@
       "source": "hn",
       "title": "Help I accidentally a wigglegram",
       "url": "https://lmao.center/blog/wiggle-accidents/",
-      "score": 251,
-      "comments": 48,
+      "score": 394,
+      "comments": 92,
       "author": "gregsadetsky",
       "tags": [],
       "date": "2026-06-20T01:55:16+00:00"
@@ -1845,6 +1977,17 @@
       "author": "pgrote",
       "tags": [],
       "date": "2026-06-19T19:35:15+00:00"
+    },
+    {
+      "id": "hn-48602144",
+      "source": "hn",
+      "title": "Granularity comes at a cost – Game Theory",
+      "url": "https://www.sidhantbansal.com/2026/Granularity-comes-at-a-cost/",
+      "score": 8,
+      "comments": 0,
+      "author": "sidhantbansal",
+      "tags": [],
+      "date": "2026-06-19T19:16:24+00:00"
     },
     {
       "id": "hn-48601953",
@@ -2043,8 +2186,8 @@
       "source": "hn",
       "title": "Munich 1991: The Roots of the Current AI Boom",
       "url": "https://people.idsia.ch/~juergen/ai-boom-roots-munich-1991.html",
-      "score": 67,
-      "comments": 19,
+      "score": 163,
+      "comments": 68,
       "author": "tosh",
       "tags": [],
       "date": "2026-06-19T15:54:23+00:00"
@@ -5076,152 +5219,6 @@
       "date": "2026-06-16T09:32:57+09:00"
     },
     {
-      "id": "hn-48548975",
-      "source": "hn",
-      "title": "Amazon Announces Multibillion-Dollar Data Center in Missouri",
-      "url": "https://www.narracomm.com/amazon-announces-multibillion-dollar-data-center-in-missouri/",
-      "score": 106,
-      "comments": 91,
-      "author": "thelonelyborg",
-      "tags": [],
-      "date": "2026-06-16T00:28:14+00:00"
-    },
-    {
-      "id": "hn-48548883",
-      "source": "hn",
-      "title": "Reviews have become expensive, rewrites have become cheap",
-      "url": "http://ishmeetbindra.com/posts/reviews-have-become-expensive-rewrites-have-become-cheap/",
-      "score": 63,
-      "comments": 48,
-      "author": "arzh2",
-      "tags": [],
-      "date": "2026-06-16T00:13:34+00:00"
-    },
-    {
-      "id": "hn-48548695",
-      "source": "hn",
-      "title": "The Productivity J-Curve [pdf] (2018)",
-      "url": "https://ide.mit.edu/sites/default/files/publications/jcurve.pdf",
-      "score": 44,
-      "comments": 14,
-      "author": "kioku",
-      "tags": [],
-      "date": "2026-06-15T23:47:55+00:00"
-    },
-    {
-      "id": "hn-48548612",
-      "source": "hn",
-      "title": "Egyptian Fractions (2006)",
-      "url": "https://blog.plover.com/math/egyptian-fractions.html",
-      "score": 100,
-      "comments": 13,
-      "author": "luu",
-      "tags": [],
-      "date": "2026-06-15T23:37:54+00:00"
-    },
-    {
-      "id": "hn-48547985",
-      "source": "hn",
-      "title": "Banned Book Library in a Wi-Fi Smart Light Bulb",
-      "url": "https://www.richardosgood.com/posts/banned-book-library/",
-      "score": 458,
-      "comments": 250,
-      "author": "sohkamyung",
-      "tags": [],
-      "date": "2026-06-15T22:37:55+00:00"
-    },
-    {
-      "id": "qiita-e8e8a66c73",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "PdMがフレームワークを使うときの注意点",
-      "url": "https://qiita.com/yoshimi-yzrh/items/0bccb60ebc165199dc19?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "yoshimi-yzrh",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-06-16T07:37:11+09:00"
-    },
-    {
-      "id": "hn-48547969",
-      "source": "hn",
-      "title": "Cell-based architecture for resilient payment systems",
-      "url": "https://americanexpress.io/cell-based-architecture-for-resilient-payment-systems/",
-      "score": 131,
-      "comments": 53,
-      "author": "birdculture",
-      "tags": [],
-      "date": "2026-06-15T22:36:33+00:00"
-    },
-    {
-      "id": "hn-48547834",
-      "source": "hn",
-      "title": "Swedish parliament abolishes permanent residence visas for migrants",
-      "url": "https://www.riksdagen.se/en/news/articles/2026/jun/9/permanent-residence-permits-to-be-abolished_cmsc5d86c7b-fecc-4799-9e89-e63592d6c6bfen/",
-      "score": 24,
-      "comments": 26,
-      "author": "CGMthrowaway",
-      "tags": [],
-      "date": "2026-06-15T22:23:38+00:00"
-    },
-    {
-      "id": "hn-48547658",
-      "source": "hn",
-      "title": "SMTP Relay with Web Dashboard",
-      "url": "https://github.com/toinbox/simplerelay",
-      "score": 36,
-      "comments": 4,
-      "author": "toinbox",
-      "tags": [],
-      "date": "2026-06-15T22:06:12+00:00"
-    },
-    {
-      "id": "hn-48547566",
-      "source": "hn",
-      "title": "Why I email complete strangers",
-      "url": "https://www.goodinternetmagazine.com/why-i-email-complete-strangers/",
-      "score": 175,
-      "comments": 79,
-      "author": "karakoram",
-      "tags": [],
-      "date": "2026-06-15T21:57:10+00:00"
-    },
-    {
-      "id": "hn-48547062",
-      "source": "hn",
-      "title": "Peopleless economy? Not technically impossible",
-      "url": "https://gmalandrakis.com/writings/ad-economicum.html",
-      "score": 228,
-      "comments": 414,
-      "author": "l0new0lf-G",
-      "tags": [],
-      "date": "2026-06-15T21:10:36+00:00"
-    },
-    {
-      "id": "hn-48546890",
-      "source": "hn",
-      "title": "Ten years of ClickHouse in open source",
-      "url": "https://clickhouse.com/blog/open-source-10",
-      "score": 253,
-      "comments": 70,
-      "author": "saisrirampur",
-      "tags": [],
-      "date": "2026-06-15T20:51:54+00:00",
-      "severity": "critical"
-    },
-    {
-      "id": "hn-48546648",
-      "source": "hn",
-      "title": "Commander Keen Games (free book)",
-      "url": "https://forgottenbytes.net/",
-      "score": 16,
-      "comments": 3,
-      "author": "tzury",
-      "tags": [],
-      "date": "2026-06-15T20:30:37+00:00"
-    },
-    {
       "id": "ctf-3871364",
       "source": "project",
       "proj_category": "CTF",
@@ -5418,6 +5415,45 @@
       "date": "2023-05-23T17:06:23Z"
     },
     {
+      "id": "zenn-25faaa232d",
+      "source": "zennqiita",
+      "sub_source": "Zenn",
+      "title": "Databricksが発表したOLAP×OLTP両刀⚔️の次世代DBアーキテクチャ「LTAP」を深堀る！",
+      "url": "https://zenn.dev/nttdata_tech/articles/e1e7bc7aeb9b20",
+      "score": null,
+      "author": "Takeru Ino",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Mon, 22 Jun 2026 03:51:56 GMT"
+    },
+    {
+      "id": "zenn-acdfde3c52",
+      "source": "zennqiita",
+      "sub_source": "Zenn",
+      "title": "Claude Code に「7人の意地悪なQA」を仕込んでテストケースの観点漏れを潰した",
+      "url": "https://zenn.dev/nexta_/articles/be13a2395a5d2a",
+      "score": null,
+      "author": "Ayaka",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Mon, 22 Jun 2026 02:37:09 GMT"
+    },
+    {
+      "id": "zenn-eb82cb3ec9",
+      "source": "zennqiita",
+      "sub_source": "Zenn",
+      "title": "2026年5月のIMEに関するできごと",
+      "url": "https://zenn.dev/komatsuh/articles/komatsuh_ime_news_2026_05",
+      "score": null,
+      "author": "Hiroyuki Komatsu",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Sun, 21 Jun 2026 15:30:00 GMT"
+    },
+    {
       "id": "zenn-d6bf826a16",
       "source": "zennqiita",
       "sub_source": "Zenn",
@@ -5469,6 +5505,19 @@
         "Zenn"
       ],
       "date": "Sun, 21 Jun 2026 11:39:39 GMT"
+    },
+    {
+      "id": "zenn-c38775ccbb",
+      "source": "zennqiita",
+      "sub_source": "Zenn",
+      "title": "AIで自動化できます。で、そのリスクは誰が飲むんですか",
+      "url": "https://zenn.dev/continuitymodel/articles/996fbb4695d2e3",
+      "score": null,
+      "author": "continuity-model",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Sun, 21 Jun 2026 10:50:01 GMT"
     },
     {
       "id": "zenn-fe1a03dc55",
@@ -5588,19 +5637,6 @@
       "date": "Sat, 20 Jun 2026 08:39:08 GMT"
     },
     {
-      "id": "zenn-40a7094b1a",
-      "source": "zennqiita",
-      "sub_source": "Zenn",
-      "title": "HTTP 418を本当に返すページをCloudflare Pages (+ functions)で作る",
-      "url": "https://zenn.dev/taka1156/articles/faf79d1b3712bc",
-      "score": null,
-      "author": "taka1156",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Sat, 20 Jun 2026 07:04:10 GMT"
-    },
-    {
       "id": "zenn-450d946988",
       "source": "zennqiita",
       "sub_source": "Zenn",
@@ -5627,32 +5663,6 @@
       "date": "Sat, 20 Jun 2026 00:52:22 GMT"
     },
     {
-      "id": "zenn-c6f7b1891f",
-      "source": "zennqiita",
-      "sub_source": "Zenn",
-      "title": "Claude Code に、自分が考えていそうなことを言語化してもらった",
-      "url": "https://zenn.dev/estie/articles/f90d498d21a798",
-      "score": null,
-      "author": "kenkoooo",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Fri, 19 Jun 2026 05:24:12 GMT"
-    },
-    {
-      "id": "zenn-86d3169ef1",
-      "source": "zennqiita",
-      "sub_source": "Zenn",
-      "title": "LLM はマークダウンファイル全体を読んでいる。その必要はない。",
-      "url": "https://zenn.dev/oubakiou/articles/b9db61885cd7be",
-      "score": null,
-      "author": "oubakiou",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Fri, 19 Jun 2026 04:55:33 GMT"
-    },
-    {
       "id": "zenn-357b500912",
       "source": "zennqiita",
       "sub_source": "Zenn",
@@ -5664,19 +5674,6 @@
         "Zenn"
       ],
       "date": "Fri, 19 Jun 2026 04:26:17 GMT"
-    },
-    {
-      "id": "zenn-c7324dc3b3",
-      "source": "zennqiita",
-      "sub_source": "Zenn",
-      "title": "今だから押さえておきたいソフトウェア工学のベストプラクティス",
-      "url": "https://zenn.dev/zapabob/articles/software-engineering-best-practices-agent-era",
-      "score": null,
-      "author": "Ryo Minegishi",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Fri, 19 Jun 2026 01:38:48 GMT"
     },
     {
       "id": "edb-3a6bcc02f2",

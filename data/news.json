@@ -1,7 +1,63 @@
 {
-  "updated_at": "2026-06-23T17:54:52.266835+00:00",
+  "updated_at": "2026-06-23T20:04:38.328284+00:00",
   "count": 500,
   "items": [
+    {
+      "id": "hn-48650311",
+      "source": "hn",
+      "title": "Anthropic updates their terms to verify age or identity",
+      "url": "https://www.anthropic.com/legal/privacy",
+      "score": 27,
+      "comments": 6,
+      "author": "arunc",
+      "tags": [],
+      "date": "2026-06-23T19:45:07+00:00",
+      "severity": "medium"
+    },
+    {
+      "id": "hn-48649673",
+      "source": "hn",
+      "title": "AI Hiring Tools Yield Racial Bias and Systemic Rejection; 26% Black & 15% Asian",
+      "url": "https://hai.stanford.edu/news/ai-hiring-tools-can-yield-racial-bias-and-systemic-rejection",
+      "score": 14,
+      "comments": 1,
+      "author": "sizzle",
+      "tags": [],
+      "date": "2026-06-23T18:56:19+00:00"
+    },
+    {
+      "id": "hn-48649435",
+      "source": "hn",
+      "title": "Jerry's Map",
+      "url": "http://www.jerrysmap.com/the-map",
+      "score": 111,
+      "comments": 14,
+      "author": "turtleyacht",
+      "tags": [],
+      "date": "2026-06-23T18:40:22+00:00"
+    },
+    {
+      "id": "hn-48648779",
+      "source": "hn",
+      "title": "Swift Package Index joins Apple",
+      "url": "https://swiftpackageindex.com/blog/swift-package-index-joins-apple",
+      "score": 86,
+      "comments": 24,
+      "author": "JDevlieghere",
+      "tags": [],
+      "date": "2026-06-23T18:00:58+00:00"
+    },
+    {
+      "id": "hn-48648619",
+      "source": "hn",
+      "title": "FUTO Swipe – A new swipe typing model",
+      "url": "https://swipe.futo.tech/",
+      "score": 20,
+      "comments": 1,
+      "author": "futohq",
+      "tags": [],
+      "date": "2026-06-23T17:50:22+00:00"
+    },
     {
       "id": "hn-48648371",
       "source": "hn",
@@ -18,8 +74,8 @@
       "source": "hn",
       "title": "Claude Tag",
       "url": "https://www.anthropic.com/news/introducing-claude-tag",
-      "score": 49,
-      "comments": 18,
+      "score": 154,
+      "comments": 81,
       "author": "adocomplete",
       "tags": [],
       "date": "2026-06-23T17:09:18+00:00"
@@ -29,8 +85,8 @@
       "source": "hn",
       "title": "San Diego photologs from the 1970s",
       "url": "https://www.beautifulpublicdata.com/san-diego-photologs-from-the-1970s/",
-      "score": 30,
-      "comments": 6,
+      "score": 109,
+      "comments": 25,
       "author": "jonathanmkeegan",
       "tags": [],
       "date": "2026-06-23T16:55:26+00:00"
@@ -40,11 +96,22 @@
       "source": "hn",
       "title": "F3",
       "url": "https://github.com/future-file-format/f3",
-      "score": 176,
-      "comments": 51,
+      "score": 486,
+      "comments": 117,
       "author": "tosh",
       "tags": [],
       "date": "2026-06-23T16:53:32+00:00"
+    },
+    {
+      "id": "hn-48647486",
+      "source": "hn",
+      "title": "The worthlessness of Vitamin D is mildly exaggerated",
+      "url": "https://dynomight.net/vitamin-d/",
+      "score": 65,
+      "comments": 31,
+      "author": "surprisetalk",
+      "tags": [],
+      "date": "2026-06-23T16:30:18+00:00"
     },
     {
       "id": "hn-48647444",
@@ -84,8 +151,8 @@
       "source": "hn",
       "title": "Lift4D: Harmonizing Single-View 3D Estimation for 4D Reconstruction In-the-Wild",
       "url": "https://lift4d.github.io/",
-      "score": 65,
-      "comments": 5,
+      "score": 86,
+      "comments": 7,
       "author": "ilreb",
       "tags": [],
       "date": "2026-06-23T14:40:17+00:00"
@@ -95,8 +162,8 @@
       "source": "hn",
       "title": "Show HN: TikZ Editor – WYSIWYG editor for figures in LaTeX",
       "url": "https://tikz.dev/editor/",
-      "score": 216,
-      "comments": 38,
+      "score": 267,
+      "comments": 55,
       "author": "DominikPeters",
       "tags": [],
       "date": "2026-06-23T14:24:21+00:00"
@@ -106,8 +173,8 @@
       "source": "hn",
       "title": "Show HN: Bun-sqlgen – Type-safe raw SQL for Bun, no ORM",
       "url": "https://github.com/ilbertt/bun-sqlgen",
-      "score": 42,
-      "comments": 20,
+      "score": 49,
+      "comments": 23,
       "author": "ilbert",
       "tags": [],
       "date": "2026-06-23T14:20:24+00:00"
@@ -117,8 +184,8 @@
       "source": "hn",
       "title": "Elevated error rate across multiple models",
       "url": "https://status.claude.com/incidents/jbhf20wjmzrf",
-      "score": 173,
-      "comments": 210,
+      "score": 183,
+      "comments": 237,
       "author": "rob",
       "tags": [],
       "date": "2026-06-23T14:19:47+00:00"
@@ -139,8 +206,8 @@
       "source": "hn",
       "title": "Mistral OCR 4",
       "url": "https://mistral.ai/news/ocr-4/",
-      "score": 277,
-      "comments": 70,
+      "score": 353,
+      "comments": 90,
       "author": "meetpateltech",
       "tags": [],
       "date": "2026-06-23T14:03:19+00:00"
@@ -150,8 +217,8 @@
       "source": "hn",
       "title": "MSG Made Dossier on Activists Who Opposed Facial Recognition",
       "url": "https://www.404media.co/madison-square-garden-made-dossier-on-activists-who-opposed-facial-recognition/",
-      "score": 210,
-      "comments": 59,
+      "score": 246,
+      "comments": 69,
       "author": "cdrnsf",
       "tags": [],
       "date": "2026-06-23T13:36:10+00:00"
@@ -194,8 +261,8 @@
       "source": "hn",
       "title": "The Low-Tech AI of Elden Ring",
       "url": "https://nega.tv/posts/low-tech-ai-of-elden-ring.html",
-      "score": 44,
-      "comments": 27,
+      "score": 66,
+      "comments": 37,
       "author": "g0xA52A2A",
       "tags": [],
       "date": "2026-06-23T11:40:50+00:00"
@@ -203,10 +270,10 @@
     {
       "id": "hn-48643426",
       "source": "hn",
-      "title": "Unlimited OCR: One-Shot Long-Horizon Parsing",
+      "title": "Unlimited OCR: One-shot long-horizon parsing",
       "url": "https://github.com/baidu/Unlimited-OCR",
-      "score": 338,
-      "comments": 84,
+      "score": 382,
+      "comments": 91,
       "author": "ingve",
       "tags": [],
       "date": "2026-06-23T11:35:05+00:00"
@@ -216,8 +283,8 @@
       "source": "hn",
       "title": "The Coming Loop",
       "url": "https://lucumr.pocoo.org/2026/6/23/the-coming-loop/",
-      "score": 170,
-      "comments": 142,
+      "score": 227,
+      "comments": 180,
       "author": "ingve",
       "tags": [],
       "date": "2026-06-23T11:06:41+00:00"
@@ -717,8 +784,8 @@
       "source": "hn",
       "title": "Five monitors on a Commodore 128 [video]",
       "url": "https://www.youtube.com/watch?v=ul5hC3PY1Yg",
-      "score": 39,
-      "comments": 8,
+      "score": 71,
+      "comments": 13,
       "author": "EvanAnderson",
       "tags": [],
       "date": "2026-06-22T18:39:22+00:00"
@@ -739,8 +806,8 @@
       "source": "hn",
       "title": "Finding the best dog treat with statistics",
       "url": "https://www.wespiser.com/posts/2026-06-19-best-dog-treat.html",
-      "score": 108,
-      "comments": 40,
+      "score": 117,
+      "comments": 53,
       "author": "wespiser_2018",
       "tags": [],
       "date": "2026-06-22T17:46:48+00:00"
@@ -1508,6 +1575,17 @@
       "date": "2026-06-21T14:43:08+00:00"
     },
     {
+      "id": "hn-48619207",
+      "source": "hn",
+      "title": "Performance Improvements in Libffi",
+      "url": "https://atgreen.github.io/repl-yell/posts/libffi-plan-cache/",
+      "score": 25,
+      "comments": 6,
+      "author": "atgreen",
+      "tags": [],
+      "date": "2026-06-21T14:18:10+00:00"
+    },
+    {
       "id": "qiita-d7c92784f2",
       "source": "zennqiita",
       "sub_source": "Qiita",
@@ -1989,10 +2067,10 @@
     {
       "id": "hn-48613650",
       "source": "hn",
-      "title": "Researchers used math to crack Wordle",
+      "title": "Solving Wordle using information theory",
       "url": "https://www.binghamton.edu/news/story/6327/s-m-a-r-t-these-researchers-used-math-to-crack-wordle",
-      "score": 17,
-      "comments": 19,
+      "score": 37,
+      "comments": 46,
       "author": "hhs",
       "tags": [],
       "date": "2026-06-20T22:38:46+00:00"
@@ -3426,10 +3504,10 @@
     {
       "id": "hn-48597201",
       "source": "hn",
-      "title": "Samsung Demonstrates 3D Stacked FETs with Triple Nanosheet Channels at 42nm",
+      "title": "Samsung demonstrates 3D stacked FETs with triple nanosheet channels at 42nm",
       "url": "https://semiconductor.samsung.com/news-events/tech-blog/from-gaa-to-3d-stacked-fet-expanding-the-transistor-into-the-third-dimension/",
-      "score": 31,
-      "comments": 7,
+      "score": 52,
+      "comments": 20,
       "author": "its_ajseven",
       "tags": [],
       "date": "2026-06-19T11:03:52+00:00"
@@ -3485,8 +3563,8 @@
       "source": "hn",
       "title": "Plotnine",
       "url": "https://plotnine.org/",
-      "score": 207,
-      "comments": 64,
+      "score": 234,
+      "comments": 69,
       "author": "tosh",
       "tags": [],
       "date": "2026-06-19T09:08:00+00:00"
@@ -5139,87 +5217,6 @@
       "date": "2026-06-17T12:04:28+00:00"
     },
     {
-      "id": "hn-48569187",
-      "source": "hn",
-      "title": "Snap Smart Glasses",
-      "url": "https://www.specs.com/smart-glasses/specs-27",
-      "score": 4,
-      "comments": 0,
-      "author": "hmokiguess",
-      "tags": [],
-      "date": "2026-06-17T12:02:02+00:00"
-    },
-    {
-      "id": "hn-48568652",
-      "source": "hn",
-      "title": "The discovery that changed how scientists think about memory",
-      "url": "https://www.ibm.com/think/news/discovery-changed-how-scientists-think-about-memory-kavli-prize",
-      "score": 90,
-      "comments": 32,
-      "author": "rbanffy",
-      "tags": [],
-      "date": "2026-06-17T11:09:29+00:00"
-    },
-    {
-      "id": "qiita-dfeb29de7c",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "AWSを経験してからAzureを触り始めて感じたこと",
-      "url": "https://qiita.com/takumiida1/items/a895edf4b5edc2caf39f?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "takumiida1",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-06-17T19:57:05+09:00"
-    },
-    {
-      "id": "hn-48568502",
-      "source": "hn",
-      "title": "RFC 10008: The new HTTP Query Method",
-      "url": "https://www.rfc-editor.org/info/rfc10008/",
-      "score": 372,
-      "comments": 156,
-      "author": "schappim",
-      "tags": [],
-      "date": "2026-06-17T10:51:17+00:00"
-    },
-    {
-      "id": "hn-48568487",
-      "source": "hn",
-      "title": "From Combinatorial Mess to Linear Elegance: Architecting a Conversion Engine",
-      "url": "https://blog.minimal.app/conversion-engine/",
-      "score": 16,
-      "comments": 3,
-      "author": "arthurofbabylon",
-      "tags": [],
-      "date": "2026-06-17T10:48:58+00:00"
-    },
-    {
-      "id": "qiita-fb93109c65",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "FastAPI + asyncpg でプロファイリングを用いたパフォーマンス改善",
-      "url": "https://qiita.com/aaaabbbbb/items/bc230f0d5cdaebccfd05?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "aaaabbbbb",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-06-17T19:30:48+09:00"
-    },
-    {
-      "id": "hn-48568181",
-      "source": "hn",
-      "title": "A tale of two path separators",
-      "url": "https://alexwlchan.net/2021/slashes/",
-      "score": 52,
-      "comments": 22,
-      "author": "dbaupp",
-      "tags": [],
-      "date": "2026-06-17T10:14:53+00:00"
-    },
-    {
       "id": "ctf-3911979",
       "source": "project",
       "proj_category": "CTF",
@@ -5426,19 +5423,6 @@
         "Zenn"
       ],
       "date": "Mon, 22 Jun 2026 15:26:02 GMT"
-    },
-    {
-      "id": "zenn-c3eb09e8df",
-      "source": "zennqiita",
-      "sub_source": "Zenn",
-      "title": "「動くが面白くない」を解決するGame Feelガイド",
-      "url": "https://zenn.dev/kapi0622/books/0d107732880fc8",
-      "score": null,
-      "author": "カピ",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Mon, 22 Jun 2026 09:30:23 GMT"
     },
     {
       "id": "zenn-e8fefdc952",
@@ -5661,6 +5645,19 @@
         "Zenn"
       ],
       "date": "Sun, 21 Jun 2026 04:49:42 GMT"
+    },
+    {
+      "id": "zenn-66ff7469f0",
+      "source": "zennqiita",
+      "sub_source": "Zenn",
+      "title": "バグハンター視点で学ぶ Caido 実践入門",
+      "url": "https://zenn.dev/scgajge12/books/119c83fa281d04",
+      "score": null,
+      "author": "morioka12",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Sun, 21 Jun 2026 03:05:13 GMT"
     },
     {
       "id": "edb-3a6bcc02f2",

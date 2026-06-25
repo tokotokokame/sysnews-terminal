@@ -1,7 +1,62 @@
 {
-  "updated_at": "2026-06-25T18:33:01.578480+00:00",
+  "updated_at": "2026-06-25T20:57:34.605324+00:00",
   "count": 500,
   "items": [
+    {
+      "id": "hn-48679007",
+      "source": "hn",
+      "title": "Un-0: Generating Images with Coupled Oscillators",
+      "url": "https://unconv.ai/blog/introducing-un-0-generating-images-with-coupled-oscillators/",
+      "score": 5,
+      "comments": 1,
+      "author": "babelfish",
+      "tags": [],
+      "date": "2026-06-25T20:50:02+00:00"
+    },
+    {
+      "id": "hn-48678820",
+      "source": "hn",
+      "title": "The Customer Who Almost Killed Slack, Stripe, and Airbnb",
+      "url": "https://siliconopera.com/the-customer-who-almost-killed-slack-stripe-and-airbnb/",
+      "score": 7,
+      "comments": 4,
+      "author": "nate",
+      "tags": [],
+      "date": "2026-06-25T20:30:47+00:00"
+    },
+    {
+      "id": "hn-48678645",
+      "source": "hn",
+      "title": "An oral history of Bank Python (2021)",
+      "url": "https://calpaterson.com/bank-python.html",
+      "score": 4,
+      "comments": 0,
+      "author": "tosh",
+      "tags": [],
+      "date": "2026-06-25T20:14:35+00:00"
+    },
+    {
+      "id": "hn-48678623",
+      "source": "hn",
+      "title": "Parallel Parentheses Matching",
+      "url": "https://williamdue.github.io/blog/parallel-parentheses-matching",
+      "score": 5,
+      "comments": 0,
+      "author": "Athas",
+      "tags": [],
+      "date": "2026-06-25T20:12:24+00:00"
+    },
+    {
+      "id": "hn-48678495",
+      "source": "hn",
+      "title": "The Doorman's Fallacy in Action",
+      "url": "https://rozumem.xyz/posts/17",
+      "score": 8,
+      "comments": 6,
+      "author": "rozumem",
+      "tags": [],
+      "date": "2026-06-25T20:00:35+00:00"
+    },
     {
       "id": "hn-48676256",
       "source": "hn",
@@ -12,6 +67,18 @@
       "author": "yzhong94",
       "tags": [],
       "date": "2026-06-25T17:00:00+00:00"
+    },
+    {
+      "id": "hn-48675435",
+      "source": "hn",
+      "title": "Show HN: OpenKnowledge – open source AI-first alternative to Obsidian/Notion",
+      "url": "https://github.com/inkeep/open-knowledge",
+      "score": 83,
+      "comments": 40,
+      "author": "engomez",
+      "tags": [],
+      "date": "2026-06-25T16:04:46+00:00",
+      "severity": "critical"
     },
     {
       "id": "hn-48675369",
@@ -28,10 +95,10 @@
     {
       "id": "hn-48675179",
       "source": "hn",
-      "title": "A Herculaneum scroll has been read for the first time",
+      "title": "An entire Herculaneum scroll has been read for the first time",
       "url": "https://scrollprize.org/firstscroll",
-      "score": 227,
-      "comments": 65,
+      "score": 604,
+      "comments": 146,
       "author": "verditelabs",
       "tags": [],
       "date": "2026-06-25T15:48:07+00:00"
@@ -41,19 +108,32 @@
       "source": "hn",
       "title": "IBM debuts sub-1 nanometer chip technology",
       "url": "https://newsroom.ibm.com/2026-06-25-ibm-debuts-worlds-first-sub-1-nanometer-chip-technology",
-      "score": 88,
-      "comments": 55,
+      "score": 193,
+      "comments": 108,
       "author": "porridgeraisin",
       "tags": [],
       "date": "2026-06-25T15:33:37+00:00"
     },
     {
+      "id": "qiita-924cfc75c1",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "【M365 Copilot】自由にツールを使えない現場で始めるちょいRPA",
+      "url": "https://qiita.com/yuyanz/items/5c96232d188ecfb2544b?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "yuyanz",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-06-26T00:31:30+09:00"
+    },
+    {
       "id": "hn-48674619",
       "source": "hn",
-      "title": "Physicists Track and Trap the Elusive Neutrino",
+      "title": "How physicists track and trap the elusive neutrino",
       "url": "https://www.quantamagazine.org/how-physicists-track-and-trap-the-elusive-neutrino-20260624/",
-      "score": 23,
-      "comments": 3,
+      "score": 40,
+      "comments": 15,
       "author": "ibobev",
       "tags": [],
       "date": "2026-06-25T15:11:48+00:00"
@@ -63,8 +143,8 @@
       "source": "hn",
       "title": "OS9Map",
       "url": "https://yllan.org/software/OS9Map/",
-      "score": 67,
-      "comments": 7,
+      "score": 122,
+      "comments": 18,
       "author": "LaSombra",
       "tags": [],
       "date": "2026-06-25T15:01:06+00:00"
@@ -74,8 +154,8 @@
       "source": "hn",
       "title": "Zig's new bitCast semantics and LLVM back end improvements",
       "url": "https://ziglang.org/devlog/2026/#2026-06-25",
-      "score": 142,
-      "comments": 40,
+      "score": 178,
+      "comments": 71,
       "author": "kouosi",
       "tags": [],
       "date": "2026-06-25T14:19:28+00:00"
@@ -85,8 +165,8 @@
       "source": "hn",
       "title": "Show HN: I made Google Trends for Hacker News by indexing 18 years of comments",
       "url": "https://hackernewstrends.com",
-      "score": 461,
-      "comments": 120,
+      "score": 550,
+      "comments": 137,
       "author": "ytkimirti",
       "tags": [],
       "date": "2026-06-25T14:08:55+00:00"
@@ -96,8 +176,8 @@
       "source": "hn",
       "title": "Political bias in AI: Where the AI models stand",
       "url": "https://trakkr.ai/bias",
-      "score": 37,
-      "comments": 101,
+      "score": 72,
+      "comments": 149,
       "author": "mektrik",
       "tags": [],
       "date": "2026-06-25T13:08:31+00:00"
@@ -118,8 +198,8 @@
       "source": "hn",
       "title": "Apple raises prices of MacBooks, iPads",
       "url": "https://www.reuters.com/world/asia-pacific/apple-raises-prices-macbooks-ipads-memory-costs-skyrocket-2026-06-25/",
-      "score": 339,
-      "comments": 547,
+      "score": 488,
+      "comments": 718,
       "author": "virgildotcodes",
       "tags": [],
       "date": "2026-06-25T13:02:56+00:00"
@@ -145,6 +225,19 @@
       "author": "dmmalam",
       "tags": [],
       "date": "2026-06-25T12:42:55+00:00"
+    },
+    {
+      "id": "qiita-1c641c63cb",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "過去の自分に贈る、読み方を間違えがちなエンジニア用語集 ~ 会議で恥ずかしい思いをしないために ~",
+      "url": "https://qiita.com/n-isd/items/46eeee2dbc282cb16e2f?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "n-isd",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-06-25T21:35:26+09:00"
     },
     {
       "id": "hn-48672328",
@@ -206,6 +299,32 @@
       "date": "2026-06-25T10:20:07+00:00"
     },
     {
+      "id": "qiita-ce7c894d39",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "油絵から学んだ、デザイン・コード・働き方に共通する「余白理論」",
+      "url": "https://qiita.com/Minotaurasu/items/7ac59c9034cac5e9e935?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "Minotaurasu",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-06-25T18:02:29+09:00"
+    },
+    {
+      "id": "qiita-b85341b910",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "Cursor の Editor ウィンドウと Agents ウィンドウ ― 役割の違いと使い分け",
+      "url": "https://qiita.com/Kinopee/items/fd514b80e54b5a98a133?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "Kinopee",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-06-25T17:48:54+09:00"
+    },
+    {
       "id": "hn-48670490",
       "source": "hn",
       "title": "Mad Fucking Witches",
@@ -259,8 +378,8 @@
       "source": "hn",
       "title": "Half-Life 2 in a Browser",
       "url": "https://hl2.slqnt.dev/",
-      "score": 575,
-      "comments": 232,
+      "score": 612,
+      "comments": 245,
       "author": "panza",
       "tags": [],
       "date": "2026-06-25T06:00:04+00:00"
@@ -350,6 +469,19 @@
       "date": "2026-06-25T02:18:10+00:00"
     },
     {
+      "id": "qiita-631a20a263",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "Gemini APIで最新情報を取得する方法｜Groundingあり・なしをPythonで比較してみた",
+      "url": "https://qiita.com/y-miyake/items/cd57bf51d0911cf47ad9?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "y-miyake",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-06-25T10:52:57+09:00"
+    },
+    {
       "id": "hn-48667853",
       "source": "hn",
       "title": "Writers and Drugs",
@@ -370,6 +502,19 @@
       "author": "jacksonastone",
       "tags": [],
       "date": "2026-06-25T01:42:55+00:00"
+    },
+    {
+      "id": "qiita-15e804a99b",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "エンジニア組織を、リブートする。",
+      "url": "https://qiita.com/tobaru-hideyasu/items/22f52373f1300fe06be6?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "tobaru-hideyasu",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-06-25T10:30:31+09:00"
     },
     {
       "id": "hn-48667588",
@@ -910,8 +1055,8 @@
       "source": "hn",
       "title": "You can't unit test for taste",
       "url": "https://dev.karltryggvason.com/you-cant-unit-test-for-taste/",
-      "score": 195,
-      "comments": 80,
+      "score": 217,
+      "comments": 94,
       "author": "kalli",
       "tags": [],
       "date": "2026-06-24T08:54:12+00:00"
@@ -1215,8 +1360,8 @@
       "source": "hn",
       "title": "Advanced Nintendo Entertainment System (ANES) – NES Modded to Use 2 PPUs",
       "url": "https://github.com/decrazyo/anes",
-      "score": 27,
-      "comments": 6,
+      "score": 64,
+      "comments": 19,
       "author": "zdw",
       "tags": [],
       "date": "2026-06-23T23:21:35+00:00"
@@ -1764,8 +1909,8 @@
       "source": "hn",
       "title": "I built a GPU back end for Emacs",
       "url": "https://en.andros.dev/blog/4b707a03/how-i-built-a-gpu-backend-for-emacs/",
-      "score": 66,
-      "comments": 16,
+      "score": 141,
+      "comments": 73,
       "author": "andros",
       "tags": [],
       "date": "2026-06-23T09:38:45+00:00"
@@ -2215,6 +2360,17 @@
       "date": "2026-06-23T09:25:21+09:00"
     },
     {
+      "id": "hn-48638120",
+      "source": "hn",
+      "title": "The annotated PyTorch training loop",
+      "url": "https://idlemachines.co.uk/essays/pytorch-training-loop",
+      "score": 32,
+      "comments": 8,
+      "author": "smaddrellmander",
+      "tags": [],
+      "date": "2026-06-22T23:44:59+00:00"
+    },
+    {
       "id": "qiita-88342d313d",
       "source": "zennqiita",
       "sub_source": "Qiita",
@@ -2263,6 +2419,17 @@
         "Qiita"
       ],
       "date": "2026-06-23T07:40:25+09:00"
+    },
+    {
+      "id": "hn-48636982",
+      "source": "hn",
+      "title": "The anxiety of the perfect loaf: the illusion of culinary precision",
+      "url": "https://iza.ac/posts/2026/06/intuitive-cooking/",
+      "score": 14,
+      "comments": 6,
+      "author": "infinitewalk",
+      "tags": [],
+      "date": "2026-06-22T22:11:13+00:00"
     },
     {
       "id": "hn-48636753",
@@ -2600,8 +2767,8 @@
       "source": "hn",
       "title": "Oxide computer 3D rack guided tour",
       "url": "https://explorer.oxide.computer/",
-      "score": 37,
-      "comments": 13,
+      "score": 179,
+      "comments": 81,
       "author": "darthcloud",
       "tags": [],
       "date": "2026-06-22T15:21:04+00:00"
@@ -2622,8 +2789,8 @@
       "source": "hn",
       "title": "Tw-fade: pure CSS scroll-driven edge masking",
       "url": "https://pete.design/tw-fade",
-      "score": 48,
-      "comments": 17,
+      "score": 67,
+      "comments": 29,
       "author": "petekp",
       "tags": [],
       "date": "2026-06-22T15:12:36+00:00"
@@ -3711,8 +3878,8 @@
       "source": "hn",
       "title": "Show HN: Chess-Inspired Roguelike",
       "url": "https://princechazz.com",
-      "score": 30,
-      "comments": 10,
+      "score": 121,
+      "comments": 39,
       "author": "cowboy_henk",
       "tags": [],
       "date": "2026-06-21T06:50:31+00:00"
@@ -3813,8 +3980,8 @@
       "source": "hn",
       "title": "Early adversity leaves lasting molecular imprint across the body: primate study",
       "url": "https://medicalxpress.com/news/2026-06-early-life-adversity-molecular-imprint.html",
-      "score": 22,
-      "comments": 2,
+      "score": 59,
+      "comments": 23,
       "author": "gmays",
       "tags": [],
       "date": "2026-06-21T03:00:53+00:00"
@@ -5104,162 +5271,6 @@
       "tags": [],
       "date": "2026-06-19T20:19:57+00:00",
       "severity": "critical"
-    },
-    {
-      "id": "hn-48602639",
-      "source": "hn",
-      "title": "Amazon drops Sam Altman movie after announcing OpenAI partnership",
-      "url": "https://www.the-independent.com/arts-entertainment/films/news/sam-altman-biopic-amazon-openai-deal-b2999321.html",
-      "score": 115,
-      "comments": 42,
-      "author": "theanonymousone",
-      "tags": [],
-      "date": "2026-06-19T20:03:16+00:00"
-    },
-    {
-      "id": "hn-48602352",
-      "source": "hn",
-      "title": "Bobby Prince, composer for Doom, Wolfenstein 3D, and Duke Nukem 3D, has died",
-      "url": "https://www.legacy.com/legacy/robert-bobby-prince-lll",
-      "score": 409,
-      "comments": 47,
-      "author": "pgrote",
-      "tags": [],
-      "date": "2026-06-19T19:35:15+00:00"
-    },
-    {
-      "id": "hn-48602144",
-      "source": "hn",
-      "title": "Granularity comes at a cost",
-      "url": "https://www.sidhantbansal.com/2026/Granularity-comes-at-a-cost/",
-      "score": 40,
-      "comments": 6,
-      "author": "sidhantbansal",
-      "tags": [],
-      "date": "2026-06-19T19:16:24+00:00"
-    },
-    {
-      "id": "hn-48601953",
-      "source": "hn",
-      "title": "Luis Alvarez's Journey from Hiroshima to the Death of the Dinosaurs",
-      "url": "https://www.lrb.co.uk/the-paper/v48/n11/steven-shapin/barrel-of-greenbacks",
-      "score": 7,
-      "comments": 1,
-      "author": "mitchbob",
-      "tags": [],
-      "date": "2026-06-19T19:00:01+00:00"
-    },
-    {
-      "id": "hn-48601420",
-      "source": "hn",
-      "title": "Big Banana Car",
-      "url": "https://bigbananacar.com/",
-      "score": 130,
-      "comments": 73,
-      "author": "Bender",
-      "tags": [],
-      "date": "2026-06-19T18:14:11+00:00"
-    },
-    {
-      "id": "hn-48601286",
-      "source": "hn",
-      "title": "Is AI ruining our skills? Early results are in – and they're not good",
-      "url": "https://www.nature.com/articles/d41586-026-01947-1",
-      "score": 154,
-      "comments": 174,
-      "author": "Michelangelo11",
-      "tags": [],
-      "date": "2026-06-19T18:00:48+00:00"
-    },
-    {
-      "id": "hn-48601164",
-      "source": "hn",
-      "title": "Windows 11 update broke the Recycle Bin, OneDrive, and your PC's stability",
-      "url": "https://www.techspot.com/news/112831-microsoft-confirms-weird-recycle-bin-bug-windows-11.html",
-      "score": 11,
-      "comments": 4,
-      "author": "speckx",
-      "tags": [],
-      "date": "2026-06-19T17:53:12+00:00",
-      "severity": "medium"
-    },
-    {
-      "id": "hn-48601162",
-      "source": "hn",
-      "title": "John Jumper to join Anthropic",
-      "url": "https://twitter.com/JohnJumperSci/status/2068001285173834106",
-      "score": 140,
-      "comments": 103,
-      "author": "artninja1988",
-      "tags": [],
-      "date": "2026-06-19T17:53:00+00:00"
-    },
-    {
-      "id": "hn-48600950",
-      "source": "hn",
-      "title": "A new bill takes aim at government pressure to silence lawful online speech",
-      "url": "https://www.eff.org/deeplinks/2026/06/new-bill-takes-aim-government-pressure-silence-lawful-online-speech",
-      "score": 226,
-      "comments": 111,
-      "author": "hn_acker",
-      "tags": [],
-      "date": "2026-06-19T17:34:28+00:00"
-    },
-    {
-      "id": "hn-48600946",
-      "source": "hn",
-      "title": "Court Records Should Be Free",
-      "url": "https://www.eff.org/deeplinks/2026/06/court-records-should-be-free",
-      "score": 381,
-      "comments": 82,
-      "author": "hn_acker",
-      "tags": [],
-      "date": "2026-06-19T17:34:18+00:00"
-    },
-    {
-      "id": "hn-48600666",
-      "source": "hn",
-      "title": "What if Palantir's logo was square?",
-      "url": "https://www.jasonwu.ink/signals/2026-06-18-palantir-square",
-      "score": 6,
-      "comments": 0,
-      "author": "whiteblossom",
-      "tags": [],
-      "date": "2026-06-19T17:07:07+00:00"
-    },
-    {
-      "id": "hn-48600593",
-      "source": "hn",
-      "title": "AURpocalypse now: a look at the recent AUR attacks",
-      "url": "https://lwn.net/SubscriberLink/1077619/f7b07c5489fdd43a/",
-      "score": 96,
-      "comments": 67,
-      "author": "jwilk",
-      "tags": [],
-      "date": "2026-06-19T16:59:16+00:00"
-    },
-    {
-      "id": "hn-48600369",
-      "source": "hn",
-      "title": "Show HN: StartupsBR – A map of Brazilian startups",
-      "url": "https://www.startupsbr.com/sao-paulo",
-      "score": 49,
-      "comments": 22,
-      "author": "leonagano",
-      "tags": [],
-      "date": "2026-06-19T16:33:02+00:00"
-    },
-    {
-      "id": "hn-48600345",
-      "source": "hn",
-      "title": "Google workspace threatening to block Firefox access",
-      "url": "https://tales.fromprod.com/2026/169/google-workspace-threatening-to-block-firefox.html",
-      "score": 401,
-      "comments": 134,
-      "author": "birdculture",
-      "tags": [],
-      "date": "2026-06-19T16:30:49+00:00",
-      "severity": "medium"
     },
     {
       "id": "ctf-3911979",

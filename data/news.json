@@ -1,17 +1,39 @@
 {
-  "updated_at": "2026-06-25T20:57:34.605324+00:00",
+  "updated_at": "2026-06-25T22:22:59.320326+00:00",
   "count": 500,
   "items": [
+    {
+      "id": "hn-48679385",
+      "source": "hn",
+      "title": "Migrating from Proxmox to NixOS and Incus",
+      "url": "https://www.nijho.lt/post/proxmox-to-nixos/",
+      "score": 9,
+      "comments": 1,
+      "author": "wasting_time",
+      "tags": [],
+      "date": "2026-06-25T21:22:59+00:00"
+    },
     {
       "id": "hn-48679007",
       "source": "hn",
       "title": "Un-0: Generating Images with Coupled Oscillators",
       "url": "https://unconv.ai/blog/introducing-un-0-generating-images-with-coupled-oscillators/",
-      "score": 5,
-      "comments": 1,
+      "score": 54,
+      "comments": 5,
       "author": "babelfish",
       "tags": [],
       "date": "2026-06-25T20:50:02+00:00"
+    },
+    {
+      "id": "hn-48678852",
+      "source": "hn",
+      "title": "Om Malik has died",
+      "url": "https://om.co/2026/06/24/1966-2026/",
+      "score": 168,
+      "comments": 14,
+      "author": "minimaxir",
+      "tags": [],
+      "date": "2026-06-25T20:33:37+00:00"
     },
     {
       "id": "hn-48678820",
@@ -29,8 +51,8 @@
       "source": "hn",
       "title": "An oral history of Bank Python (2021)",
       "url": "https://calpaterson.com/bank-python.html",
-      "score": 4,
-      "comments": 0,
+      "score": 22,
+      "comments": 6,
       "author": "tosh",
       "tags": [],
       "date": "2026-06-25T20:14:35+00:00"
@@ -40,8 +62,8 @@
       "source": "hn",
       "title": "Parallel Parentheses Matching",
       "url": "https://williamdue.github.io/blog/parallel-parentheses-matching",
-      "score": 5,
-      "comments": 0,
+      "score": 23,
+      "comments": 3,
       "author": "Athas",
       "tags": [],
       "date": "2026-06-25T20:12:24+00:00"
@@ -73,8 +95,8 @@
       "source": "hn",
       "title": "Show HN: OpenKnowledge – open source AI-first alternative to Obsidian/Notion",
       "url": "https://github.com/inkeep/open-knowledge",
-      "score": 83,
-      "comments": 40,
+      "score": 143,
+      "comments": 64,
       "author": "engomez",
       "tags": [],
       "date": "2026-06-25T16:04:46+00:00",
@@ -97,8 +119,8 @@
       "source": "hn",
       "title": "An entire Herculaneum scroll has been read for the first time",
       "url": "https://scrollprize.org/firstscroll",
-      "score": 604,
-      "comments": 146,
+      "score": 781,
+      "comments": 179,
       "author": "verditelabs",
       "tags": [],
       "date": "2026-06-25T15:48:07+00:00"
@@ -108,8 +130,8 @@
       "source": "hn",
       "title": "IBM debuts sub-1 nanometer chip technology",
       "url": "https://newsroom.ibm.com/2026-06-25-ibm-debuts-worlds-first-sub-1-nanometer-chip-technology",
-      "score": 193,
-      "comments": 108,
+      "score": 223,
+      "comments": 131,
       "author": "porridgeraisin",
       "tags": [],
       "date": "2026-06-25T15:33:37+00:00"
@@ -143,8 +165,8 @@
       "source": "hn",
       "title": "OS9Map",
       "url": "https://yllan.org/software/OS9Map/",
-      "score": 122,
-      "comments": 18,
+      "score": 148,
+      "comments": 21,
       "author": "LaSombra",
       "tags": [],
       "date": "2026-06-25T15:01:06+00:00"
@@ -154,8 +176,8 @@
       "source": "hn",
       "title": "Zig's new bitCast semantics and LLVM back end improvements",
       "url": "https://ziglang.org/devlog/2026/#2026-06-25",
-      "score": 178,
-      "comments": 71,
+      "score": 195,
+      "comments": 78,
       "author": "kouosi",
       "tags": [],
       "date": "2026-06-25T14:19:28+00:00"
@@ -165,8 +187,8 @@
       "source": "hn",
       "title": "Show HN: I made Google Trends for Hacker News by indexing 18 years of comments",
       "url": "https://hackernewstrends.com",
-      "score": 550,
-      "comments": 137,
+      "score": 591,
+      "comments": 141,
       "author": "ytkimirti",
       "tags": [],
       "date": "2026-06-25T14:08:55+00:00"
@@ -198,8 +220,8 @@
       "source": "hn",
       "title": "Apple raises prices of MacBooks, iPads",
       "url": "https://www.reuters.com/world/asia-pacific/apple-raises-prices-macbooks-ipads-memory-costs-skyrocket-2026-06-25/",
-      "score": 488,
-      "comments": 718,
+      "score": 546,
+      "comments": 800,
       "author": "virgildotcodes",
       "tags": [],
       "date": "2026-06-25T13:02:56+00:00"
@@ -1055,8 +1077,8 @@
       "source": "hn",
       "title": "You can't unit test for taste",
       "url": "https://dev.karltryggvason.com/you-cant-unit-test-for-taste/",
-      "score": 217,
-      "comments": 94,
+      "score": 228,
+      "comments": 107,
       "author": "kalli",
       "tags": [],
       "date": "2026-06-24T08:54:12+00:00"
@@ -1071,6 +1093,17 @@
       "author": "dabinat",
       "tags": [],
       "date": "2026-06-24T08:50:41+00:00"
+    },
+    {
+      "id": "hn-48656692",
+      "source": "hn",
+      "title": "GloriousEggroll's Proton has been rebased on Proton 11",
+      "url": "https://github.com/GloriousEggroll/proton-ge-custom/releases/tag/GE-Proton11-1",
+      "score": 33,
+      "comments": 7,
+      "author": "d3Xt3r",
+      "tags": [],
+      "date": "2026-06-24T08:04:23+00:00"
     },
     {
       "id": "ctf-3976547",
@@ -1184,6 +1217,17 @@
         "Qiita"
       ],
       "date": "2026-06-24T12:02:25+09:00"
+    },
+    {
+      "id": "hn-48654540",
+      "source": "hn",
+      "title": "RRB-Trees: Efficient Immutable Vectors (2012) [pdf]",
+      "url": "https://infoscience.epfl.ch/server/api/core/bitstreams/e5d662ea-1e8d-4dda-b917-8cbb8bb40bf9/content",
+      "score": 23,
+      "comments": 6,
+      "author": "azhenley",
+      "tags": [],
+      "date": "2026-06-24T02:56:03+00:00"
     },
     {
       "id": "hn-48654465",
@@ -1360,8 +1404,8 @@
       "source": "hn",
       "title": "Advanced Nintendo Entertainment System (ANES) – NES Modded to Use 2 PPUs",
       "url": "https://github.com/decrazyo/anes",
-      "score": 64,
-      "comments": 19,
+      "score": 81,
+      "comments": 23,
       "author": "zdw",
       "tags": [],
       "date": "2026-06-23T23:21:35+00:00"
@@ -1909,11 +1953,22 @@
       "source": "hn",
       "title": "I built a GPU back end for Emacs",
       "url": "https://en.andros.dev/blog/4b707a03/how-i-built-a-gpu-backend-for-emacs/",
-      "score": 141,
-      "comments": 73,
+      "score": 158,
+      "comments": 81,
       "author": "andros",
       "tags": [],
       "date": "2026-06-23T09:38:45+00:00"
+    },
+    {
+      "id": "hn-48642474",
+      "source": "hn",
+      "title": "A game where you're an OS and have to manage processes, memory and I/O events",
+      "url": "https://github.com/plbrault/youre-the-os",
+      "score": 14,
+      "comments": 3,
+      "author": "exploraz",
+      "tags": [],
+      "date": "2026-06-23T09:35:26+00:00"
     },
     {
       "id": "hn-48642232",
@@ -2364,8 +2419,8 @@
       "source": "hn",
       "title": "The annotated PyTorch training loop",
       "url": "https://idlemachines.co.uk/essays/pytorch-training-loop",
-      "score": 32,
-      "comments": 8,
+      "score": 45,
+      "comments": 9,
       "author": "smaddrellmander",
       "tags": [],
       "date": "2026-06-22T23:44:59+00:00"
@@ -2425,8 +2480,8 @@
       "source": "hn",
       "title": "The anxiety of the perfect loaf: the illusion of culinary precision",
       "url": "https://iza.ac/posts/2026/06/intuitive-cooking/",
-      "score": 14,
-      "comments": 6,
+      "score": 19,
+      "comments": 16,
       "author": "infinitewalk",
       "tags": [],
       "date": "2026-06-22T22:11:13+00:00"
@@ -2767,8 +2822,8 @@
       "source": "hn",
       "title": "Oxide computer 3D rack guided tour",
       "url": "https://explorer.oxide.computer/",
-      "score": 179,
-      "comments": 81,
+      "score": 232,
+      "comments": 102,
       "author": "darthcloud",
       "tags": [],
       "date": "2026-06-22T15:21:04+00:00"
@@ -2794,6 +2849,17 @@
       "author": "petekp",
       "tags": [],
       "date": "2026-06-22T15:12:36+00:00"
+    },
+    {
+      "id": "hn-48631119",
+      "source": "hn",
+      "title": "The last Romans are still around",
+      "url": "https://signoregalilei.com/2026/06/20/the-last-romans-are-still-around/",
+      "score": 19,
+      "comments": 27,
+      "author": "surprisetalk",
+      "tags": [],
+      "date": "2026-06-22T15:00:04+00:00"
     },
     {
       "id": "hn-48631043",
@@ -3878,8 +3944,8 @@
       "source": "hn",
       "title": "Show HN: Chess-Inspired Roguelike",
       "url": "https://princechazz.com",
-      "score": 121,
-      "comments": 39,
+      "score": 166,
+      "comments": 63,
       "author": "cowboy_henk",
       "tags": [],
       "date": "2026-06-21T06:50:31+00:00"
@@ -3980,8 +4046,8 @@
       "source": "hn",
       "title": "Early adversity leaves lasting molecular imprint across the body: primate study",
       "url": "https://medicalxpress.com/news/2026-06-early-life-adversity-molecular-imprint.html",
-      "score": 59,
-      "comments": 23,
+      "score": 70,
+      "comments": 37,
       "author": "gmays",
       "tags": [],
       "date": "2026-06-21T03:00:53+00:00"
@@ -5206,73 +5272,6 @@
       "date": "2026-06-20T07:38:01+09:00"
     },
     {
-      "id": "hn-48604115",
-      "source": "hn",
-      "title": "How do flocking birds and schools of fish move?",
-      "url": "https://www.nyu.edu/about/news-publications/news/2026/june/how-do-flocking-birds-and-schools-of-fish-move--new-research-off.html",
-      "score": 13,
-      "comments": 5,
-      "author": "hhs",
-      "tags": [],
-      "date": "2026-06-19T22:37:30+00:00"
-    },
-    {
-      "id": "hn-48603726",
-      "source": "hn",
-      "title": "I can haz smoller NixOS ISOs?",
-      "url": "https://natkr.com/2026-06-19-nixos-but-smol/",
-      "score": 72,
-      "comments": 23,
-      "author": "logickkk1",
-      "tags": [],
-      "date": "2026-06-19T21:55:24+00:00"
-    },
-    {
-      "id": "hn-48603664",
-      "source": "hn",
-      "title": "Zenzizenzizenzic",
-      "url": "https://en.wikipedia.org/wiki/Zenzizenzizenzic",
-      "score": 86,
-      "comments": 23,
-      "author": "gyosifov",
-      "tags": [],
-      "date": "2026-06-19T21:49:44+00:00"
-    },
-    {
-      "id": "hn-48602918",
-      "source": "hn",
-      "title": "Surprising economics of load-balanced systems",
-      "url": "https://brooker.co.za/blog/2020/08/06/erlang.html",
-      "score": 133,
-      "comments": 31,
-      "author": "KraftyOne",
-      "tags": [],
-      "date": "2026-06-19T20:30:59+00:00"
-    },
-    {
-      "id": "hn-48602868",
-      "source": "hn",
-      "title": "From a 7 KB file to a 13-year backdoor operation",
-      "url": "https://anchor.host/from-a-7-kb-file-to-a-13-year-backdoor-operation/",
-      "score": 6,
-      "comments": 2,
-      "author": "ValentineC",
-      "tags": [],
-      "date": "2026-06-19T20:25:23+00:00"
-    },
-    {
-      "id": "hn-48602817",
-      "source": "hn",
-      "title": "Think of the children: How to force real ID for all internet traffic (2023)",
-      "url": "https://nochan.net/b/Internet-Crap/20230829-Think-Of-The-Children/",
-      "score": 173,
-      "comments": 102,
-      "author": "Bender",
-      "tags": [],
-      "date": "2026-06-19T20:19:57+00:00",
-      "severity": "critical"
-    },
-    {
       "id": "ctf-3911979",
       "source": "project",
       "proj_category": "CTF",
@@ -5385,6 +5384,32 @@
       "date": "2023-05-23T17:06:23Z"
     },
     {
+      "id": "zenn-d68c10b34a",
+      "source": "zennqiita",
+      "sub_source": "Zenn",
+      "title": "Gemini を Claude の「サブエージェント」に —— 大規模開発でコストを実測",
+      "url": "https://zenn.dev/google_cloud_jp/articles/63205d90345627",
+      "score": null,
+      "author": "Yuting Lin",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Thu, 25 Jun 2026 04:03:03 GMT"
+    },
+    {
+      "id": "zenn-af536685d9",
+      "source": "zennqiita",
+      "sub_source": "Zenn",
+      "title": "LLMが書いた「正しそうな言葉」に感じる違和感",
+      "url": "https://zenn.dev/mkj/articles/40a6c187d2dbc9",
+      "score": null,
+      "author": "Y. O.",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Thu, 25 Jun 2026 02:50:08 GMT"
+    },
+    {
       "id": "zenn-9583b0ed3c",
       "source": "zennqiita",
       "sub_source": "Zenn",
@@ -5396,6 +5421,19 @@
         "Zenn"
       ],
       "date": "Thu, 25 Jun 2026 02:05:18 GMT"
+    },
+    {
+      "id": "zenn-7154addcdd",
+      "source": "zennqiita",
+      "sub_source": "Zenn",
+      "title": "ローカルのGit差分をGitHub風UIでレビューできる「difit」を使ってみた",
+      "url": "https://zenn.dev/rescuenow/articles/535533464da3cf",
+      "score": null,
+      "author": "nmatsu",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Thu, 25 Jun 2026 01:46:26 GMT"
     },
     {
       "id": "zenn-be765dccc8",
@@ -5437,19 +5475,6 @@
       "date": "Wed, 24 Jun 2026 16:48:09 GMT"
     },
     {
-      "id": "zenn-53816a278b",
-      "source": "zennqiita",
-      "sub_source": "Zenn",
-      "title": "類似度1位でも返さないRAG：TiDBで検索結果を認可し、Mem9の記憶操作まで守る",
-      "url": "https://zenn.dev/snow_rabbit/articles/e7c8404575b62b",
-      "score": null,
-      "author": "スノー",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Wed, 24 Jun 2026 13:42:29 GMT"
-    },
-    {
       "id": "zenn-96ea18b072",
       "source": "zennqiita",
       "sub_source": "Zenn",
@@ -5461,19 +5486,6 @@
         "Zenn"
       ],
       "date": "Wed, 24 Jun 2026 12:47:43 GMT"
-    },
-    {
-      "id": "zenn-14b6370c80",
-      "source": "zennqiita",
-      "sub_source": "Zenn",
-      "title": "AWS Blocks を実プロジェクトで試した — Amplify Gen2 にローカル開発を足す",
-      "url": "https://zenn.dev/purpom/articles/aws-blocks-amplify-gen2-local-first",
-      "score": null,
-      "author": "coa00",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Wed, 24 Jun 2026 10:13:59 GMT"
     },
     {
       "id": "zenn-7df165a427",
@@ -5515,6 +5527,19 @@
       "date": "Wed, 24 Jun 2026 04:51:06 GMT"
     },
     {
+      "id": "zenn-4612c69a77",
+      "source": "zennqiita",
+      "sub_source": "Zenn",
+      "title": "イベントストーミングのススメ",
+      "url": "https://zenn.dev/nstock/articles/ac27140d8092ed",
+      "score": null,
+      "author": "mashi",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Wed, 24 Jun 2026 04:28:06 GMT"
+    },
+    {
       "id": "zenn-4462fe59fe",
       "source": "zennqiita",
       "sub_source": "Zenn",
@@ -5526,32 +5551,6 @@
         "Zenn"
       ],
       "date": "Wed, 24 Jun 2026 02:01:46 GMT"
-    },
-    {
-      "id": "zenn-437ca632b7",
-      "source": "zennqiita",
-      "sub_source": "Zenn",
-      "title": "Tauri ライブラリの意外な使い道 — headless な CLI を作ってみた",
-      "url": "https://zenn.dev/olibrauma/articles/tauri-library-for-cli-tool",
-      "score": null,
-      "author": "olibrauma",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Tue, 23 Jun 2026 12:10:11 GMT"
-    },
-    {
-      "id": "zenn-c8d439f4c8",
-      "source": "zennqiita",
-      "sub_source": "Zenn",
-      "title": "iOSアプリでSwift・Rust・Goの実行速度を比較してみた",
-      "url": "https://zenn.dev/oba_shion/articles/872ce1434f5fc7",
-      "score": null,
-      "author": "Shion",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Tue, 23 Jun 2026 10:39:27 GMT"
     },
     {
       "id": "zenn-e5253404db",
@@ -5632,17 +5631,17 @@
       "date": "Mon, 22 Jun 2026 09:30:23 GMT"
     },
     {
-      "id": "zenn-a45fcf7590",
+      "id": "zenn-e8fefdc952",
       "source": "zennqiita",
       "sub_source": "Zenn",
-      "title": "Raspberry Pi + Cloudflare Tunnel で安価で安全な自宅 Web サーバーを手に入れる",
-      "url": "https://zenn.dev/xin9le/articles/1340941f739745",
+      "title": "「技術力が高い人」にはなれなかったけれど、技術を翻訳する人になった話",
+      "url": "https://zenn.dev/penginpenguin/articles/e735cf0424a186",
       "score": null,
-      "author": "xin9le",
+      "author": "ぺんぎん",
       "tags": [
         "Zenn"
       ],
-      "date": "Mon, 22 Jun 2026 06:17:11 GMT"
+      "date": "Mon, 22 Jun 2026 09:04:36 GMT"
     },
     {
       "id": "edb-3a6bcc02f2",

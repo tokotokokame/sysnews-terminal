@@ -1,14 +1,86 @@
 {
-  "updated_at": "2026-06-25T23:52:23.999975+00:00",
+  "updated_at": "2026-06-26T03:39:35.779810+00:00",
   "count": 500,
   "items": [
     {
+      "id": "hn-48681949",
+      "source": "hn",
+      "title": "Libre Barcode Project",
+      "url": "https://graphicore.github.io/librebarcode/",
+      "score": 3,
+      "comments": 0,
+      "author": "luu",
+      "tags": [],
+      "date": "2026-06-26T03:12:42+00:00"
+    },
+    {
+      "id": "qiita-1c641c63cb",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "読み方を間違えがちなエンジニア用語集 ~ 会議で恥ずかしい思いをしないために ~",
+      "url": "https://qiita.com/n-isd/items/46eeee2dbc282cb16e2f?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "n-isd",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-06-26T10:58:26+09:00"
+    },
+    {
+      "id": "hn-48681361",
+      "source": "hn",
+      "title": "A data race that doesn't compile",
+      "url": "https://corentin-core.github.io/posts/ruxe-type-level-disjointness/",
+      "score": 19,
+      "comments": 5,
+      "author": "stmw",
+      "tags": [],
+      "date": "2026-06-26T01:33:15+00:00"
+    },
+    {
+      "id": "hn-48681220",
+      "source": "hn",
+      "title": "Framework's 10G Ethernet module exposes USB-C's complexity",
+      "url": "https://www.jeffgeerling.com/blog/2026/framework-10g-ethernet-module-usb-c-complexity/",
+      "score": 61,
+      "comments": 17,
+      "author": "Alupis",
+      "tags": [],
+      "date": "2026-06-26T01:10:52+00:00"
+    },
+    {
+      "id": "qiita-886e9b45b2",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "Autonomous AI Database：OCI Object Storageのバケットを作成するPL/SQLプロシージャを作ってみた",
+      "url": "https://qiita.com/500InternalServerError/items/4722e7516b176db5fd10?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "500InternalServerError",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-06-26T09:29:07+09:00"
+    },
+    {
+      "id": "qiita-748c8a1b24",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "インフラしかわからない民、CURLおじさんになることを決意する。CURLでNerdGraph APIを叩いてみた!やってみて!!",
+      "url": "https://qiita.com/khara-nrkk/items/052b8da64c1b95d6613a?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "khara-nrkk",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-06-26T09:06:59+09:00"
+    },
+    {
       "id": "hn-48680370",
       "source": "hn",
-      "title": "The Garbage Collection Handbook: The Art of Automatic Memory Management (2nd Ed)",
+      "title": "The Garbage Collection Handbook: The Art of Automatic Memory Management (2nd Ed) (2023)",
       "url": "https://gchandbook.org/",
-      "score": 4,
-      "comments": 1,
+      "score": 71,
+      "comments": 11,
       "author": "teleforce",
       "tags": [],
       "date": "2026-06-25T23:10:30+00:00"
@@ -42,8 +114,8 @@
       "source": "hn",
       "title": "The 'papers, please' era of the internet will decimate your privacy",
       "url": "https://expression.fire.org/p/the-papers-please-era-of-the-internet",
-      "score": 250,
-      "comments": 101,
+      "score": 478,
+      "comments": 229,
       "author": "bilsbie",
       "tags": [],
       "date": "2026-06-25T21:44:55+00:00"
@@ -53,8 +125,8 @@
       "source": "hn",
       "title": "Migrating from Proxmox to NixOS and Incus",
       "url": "https://www.nijho.lt/post/proxmox-to-nixos/",
-      "score": 30,
-      "comments": 13,
+      "score": 60,
+      "comments": 37,
       "author": "wasting_time",
       "tags": [],
       "date": "2026-06-25T21:22:59+00:00"
@@ -64,8 +136,8 @@
       "source": "hn",
       "title": "Un-0: Generating Images with Coupled Oscillators",
       "url": "https://unconv.ai/blog/introducing-un-0-generating-images-with-coupled-oscillators/",
-      "score": 86,
-      "comments": 13,
+      "score": 124,
+      "comments": 31,
       "author": "babelfish",
       "tags": [],
       "date": "2026-06-25T20:50:02+00:00"
@@ -75,8 +147,8 @@
       "source": "hn",
       "title": "Om Malik has died",
       "url": "https://om.co/2026/06/24/1966-2026/",
-      "score": 273,
-      "comments": 29,
+      "score": 579,
+      "comments": 57,
       "author": "minimaxir",
       "tags": [],
       "date": "2026-06-25T20:33:37+00:00"
@@ -97,8 +169,8 @@
       "source": "hn",
       "title": "An oral history of Bank Python (2021)",
       "url": "https://calpaterson.com/bank-python.html",
-      "score": 54,
-      "comments": 13,
+      "score": 80,
+      "comments": 27,
       "author": "tosh",
       "tags": [],
       "date": "2026-06-25T20:14:35+00:00"
@@ -108,8 +180,8 @@
       "source": "hn",
       "title": "Parallel Parentheses Matching",
       "url": "https://williamdue.github.io/blog/parallel-parentheses-matching",
-      "score": 41,
-      "comments": 7,
+      "score": 69,
+      "comments": 9,
       "author": "Athas",
       "tags": [],
       "date": "2026-06-25T20:12:24+00:00"
@@ -119,8 +191,8 @@
       "source": "hn",
       "title": "The Doorman's Fallacy in action",
       "url": "https://rozumem.xyz/posts/17",
-      "score": 38,
-      "comments": 57,
+      "score": 73,
+      "comments": 104,
       "author": "rozumem",
       "tags": [],
       "date": "2026-06-25T20:00:35+00:00"
@@ -141,8 +213,8 @@
       "source": "hn",
       "title": "Show HN: OpenKnowledge – open source AI-first alternative to Obsidian/Notion",
       "url": "https://github.com/inkeep/open-knowledge",
-      "score": 172,
-      "comments": 78,
+      "score": 219,
+      "comments": 103,
       "author": "engomez",
       "tags": [],
       "date": "2026-06-25T16:04:46+00:00",
@@ -165,8 +237,8 @@
       "source": "hn",
       "title": "An entire Herculaneum scroll has been read for the first time",
       "url": "https://scrollprize.org/firstscroll",
-      "score": 871,
-      "comments": 198,
+      "score": 1048,
+      "comments": 231,
       "author": "verditelabs",
       "tags": [],
       "date": "2026-06-25T15:48:07+00:00"
@@ -176,8 +248,8 @@
       "source": "hn",
       "title": "IBM debuts sub-1 nanometer chip technology",
       "url": "https://newsroom.ibm.com/2026-06-25-ibm-debuts-worlds-first-sub-1-nanometer-chip-technology",
-      "score": 247,
-      "comments": 143,
+      "score": 276,
+      "comments": 155,
       "author": "porridgeraisin",
       "tags": [],
       "date": "2026-06-25T15:33:37+00:00"
@@ -198,8 +270,8 @@
       "source": "hn",
       "title": "OS9Map",
       "url": "https://yllan.org/software/OS9Map/",
-      "score": 169,
-      "comments": 25,
+      "score": 198,
+      "comments": 37,
       "author": "LaSombra",
       "tags": [],
       "date": "2026-06-25T15:01:06+00:00"
@@ -209,8 +281,8 @@
       "source": "hn",
       "title": "Zig's new bitCast semantics and LLVM back end improvements",
       "url": "https://ziglang.org/devlog/2026/#2026-06-25",
-      "score": 206,
-      "comments": 79,
+      "score": 219,
+      "comments": 92,
       "author": "kouosi",
       "tags": [],
       "date": "2026-06-25T14:19:28+00:00"
@@ -253,8 +325,8 @@
       "source": "hn",
       "title": "Apple raises prices of MacBooks, iPads",
       "url": "https://www.reuters.com/world/asia-pacific/apple-raises-prices-macbooks-ipads-memory-costs-skyrocket-2026-06-25/",
-      "score": 595,
-      "comments": 847,
+      "score": 660,
+      "comments": 944,
       "author": "virgildotcodes",
       "tags": [],
       "date": "2026-06-25T13:02:56+00:00"
@@ -280,19 +352,6 @@
       "author": "dmmalam",
       "tags": [],
       "date": "2026-06-25T12:42:55+00:00"
-    },
-    {
-      "id": "qiita-1c641c63cb",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "過去の自分に贈る、読み方を間違えがちなエンジニア用語集 ~ 会議で恥ずかしい思いをしないために ~",
-      "url": "https://qiita.com/n-isd/items/46eeee2dbc282cb16e2f?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "n-isd",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-06-25T21:35:26+09:00"
     },
     {
       "id": "hn-48672328",
@@ -618,19 +677,6 @@
       "date": "2026-06-25T00:52:40+00:00"
     },
     {
-      "id": "qiita-748c8a1b24",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "インフラしかわからない民、CURLおじさんになることを決意する。CURLでNerdGraph APIを叩いてみた!やってみて!!",
-      "url": "https://qiita.com/khara-nrkk/items/052b8da64c1b95d6613a?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "khara-nrkk",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-06-25T09:48:25+09:00"
-    },
-    {
       "id": "hn-48667336",
       "source": "hn",
       "title": "LuaJIT 3.0 proposed syntax extensions",
@@ -640,19 +686,6 @@
       "author": "phreddypharkus",
       "tags": [],
       "date": "2026-06-25T00:41:43+00:00"
-    },
-    {
-      "id": "qiita-886e9b45b2",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "Autonomous AI Databae：OCI Object Storageのバケットを作成するPL/SQLプロシージャを作ってみた",
-      "url": "https://qiita.com/500InternalServerError/items/4722e7516b176db5fd10?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "500InternalServerError",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-06-25T09:37:36+09:00"
     },
     {
       "id": "qiita-eba45eee5d",
@@ -1871,6 +1904,17 @@
       "date": "2026-06-23T13:36:10+00:00"
     },
     {
+      "id": "hn-48644383",
+      "source": "hn",
+      "title": "Record type inference for dummies",
+      "url": "http://haskellforall.com/2026/06/record-type-inference-for-dummies",
+      "score": 23,
+      "comments": 0,
+      "author": "g0xA52A2A",
+      "tags": [],
+      "date": "2026-06-23T13:04:38+00:00"
+    },
+    {
       "id": "hn-48644257",
       "source": "hn",
       "title": "Lossless GIF recompression via exhaustive search",
@@ -1997,8 +2041,8 @@
       "source": "hn",
       "title": "A game where you're an OS and have to manage processes, memory and I/O events",
       "url": "https://github.com/plbrault/youre-the-os",
-      "score": 55,
-      "comments": 12,
+      "score": 121,
+      "comments": 26,
       "author": "exploraz",
       "tags": [],
       "date": "2026-06-23T09:35:26+00:00"
@@ -2396,6 +2440,17 @@
       "author": "j03b",
       "tags": [],
       "date": "2026-06-23T01:15:05+00:00"
+    },
+    {
+      "id": "hn-48638710",
+      "source": "hn",
+      "title": "Eyewitness at the Triangle (1911)",
+      "url": "http://trianglefire.ilr.cornell.edu/index.html",
+      "score": 13,
+      "comments": 0,
+      "author": "NaOH",
+      "tags": [],
+      "date": "2026-06-23T00:53:58+00:00"
     },
     {
       "id": "hn-48638660",
@@ -2855,8 +2910,8 @@
       "source": "hn",
       "title": "Oxide computer 3D rack guided tour",
       "url": "https://explorer.oxide.computer/",
-      "score": 270,
-      "comments": 112,
+      "score": 309,
+      "comments": 125,
       "author": "darthcloud",
       "tags": [],
       "date": "2026-06-22T15:21:04+00:00"
@@ -3735,6 +3790,17 @@
       "date": "2026-06-21T14:07:11+00:00"
     },
     {
+      "id": "hn-48619122",
+      "source": "hn",
+      "title": "Experiments in Sports Seismology for the World Cup",
+      "url": "https://pnsn.org/blog/experiments-in-sports-seismology-for-the-world-cup",
+      "score": 12,
+      "comments": 0,
+      "author": "jmward01",
+      "tags": [],
+      "date": "2026-06-21T14:06:51+00:00"
+    },
+    {
       "id": "qiita-82b8c670a0",
       "source": "zennqiita",
       "sub_source": "Qiita",
@@ -3977,8 +4043,8 @@
       "source": "hn",
       "title": "Show HN: Chess-Inspired Roguelike",
       "url": "https://princechazz.com",
-      "score": 191,
-      "comments": 67,
+      "score": 235,
+      "comments": 79,
       "author": "cowboy_henk",
       "tags": [],
       "date": "2026-06-21T06:50:31+00:00"
@@ -5202,74 +5268,6 @@
       "date": "2026-06-20T01:55:16+00:00"
     },
     {
-      "id": "hn-48605355",
-      "source": "hn",
-      "title": "LLMs Are Complicated Now",
-      "url": "https://ianbarber.blog/2026/06/19/llms-are-complicated-now/",
-      "score": 89,
-      "comments": 29,
-      "author": "matt_d",
-      "tags": [],
-      "date": "2026-06-20T01:25:14+00:00"
-    },
-    {
-      "id": "qiita-4b6ec74321",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "Ollamaで月額0円のローカルLLM環境を構築してみた",
-      "url": "https://qiita.com/Hinata-H/items/ff98d92ca5eafee31226?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "Hinata-H",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-06-20T10:21:29+09:00"
-    },
-    {
-      "id": "hn-48605310",
-      "source": "hn",
-      "title": "Why has the pointe shoe been so resistant to change?",
-      "url": "https://dancemagazine.com/pointe-shoe-innovation/",
-      "score": 42,
-      "comments": 43,
-      "author": "onemind",
-      "tags": [],
-      "date": "2026-06-20T01:18:30+00:00"
-    },
-    {
-      "id": "hn-48605301",
-      "source": "hn",
-      "title": "How to feed a dictator",
-      "url": "https://www.theguardian.com/film/2026/jun/09/how-to-feed-a-dictator-film",
-      "score": 109,
-      "comments": 38,
-      "author": "Michelangelo11",
-      "tags": [],
-      "date": "2026-06-20T01:16:56+00:00"
-    },
-    {
-      "id": "hn-48605085",
-      "source": "hn",
-      "title": "Efficient C++ Programming for Modern C++ CPUs, Chapter 4/part 2",
-      "url": "https://6it.dev/blog/infographics-operation-costs-in-cpu-clock-cycles-take-2-80736",
-      "score": 61,
-      "comments": 11,
-      "author": "birdculture",
-      "tags": [],
-      "date": "2026-06-20T00:42:50+00:00"
-    },
-    {
-      "id": "hn-48604851",
-      "source": "hn",
-      "title": "Hey, n00b, we didn't hire you to complete tasks",
-      "url": "https://newsletter.kentbeck.com/p/hey-n00b-we-didnt-hire-you-to-complete",
-      "score": 126,
-      "comments": 58,
-      "author": "rrvsh",
-      "tags": [],
-      "date": "2026-06-20T00:11:07+00:00"
-    },
-    {
       "id": "ctf-3911979",
       "source": "project",
       "proj_category": "CTF",
@@ -5382,6 +5380,32 @@
       "date": "2023-05-23T17:06:23Z"
     },
     {
+      "id": "zenn-d68c10b34a",
+      "source": "zennqiita",
+      "sub_source": "Zenn",
+      "title": "Gemini を Claude の「サブエージェント」に —— 大規模開発でコストを実測",
+      "url": "https://zenn.dev/google_cloud_jp/articles/63205d90345627",
+      "score": null,
+      "author": "Yuting Lin",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Thu, 25 Jun 2026 04:03:03 GMT"
+    },
+    {
+      "id": "zenn-af536685d9",
+      "source": "zennqiita",
+      "sub_source": "Zenn",
+      "title": "LLMが書いた「正しそうな言葉」に感じる違和感",
+      "url": "https://zenn.dev/mkj/articles/40a6c187d2dbc9",
+      "score": null,
+      "author": "Y. O.",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Thu, 25 Jun 2026 02:50:08 GMT"
+    },
+    {
       "id": "zenn-9583b0ed3c",
       "source": "zennqiita",
       "sub_source": "Zenn",
@@ -5393,6 +5417,19 @@
         "Zenn"
       ],
       "date": "Thu, 25 Jun 2026 02:05:18 GMT"
+    },
+    {
+      "id": "zenn-7154addcdd",
+      "source": "zennqiita",
+      "sub_source": "Zenn",
+      "title": "ローカルのGit差分をGitHub風UIでレビューできる「difit」を使ってみた",
+      "url": "https://zenn.dev/rescuenow/articles/535533464da3cf",
+      "score": null,
+      "author": "nmatsu",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Thu, 25 Jun 2026 01:46:26 GMT"
     },
     {
       "id": "zenn-be765dccc8",
@@ -5434,19 +5471,6 @@
       "date": "Wed, 24 Jun 2026 16:48:09 GMT"
     },
     {
-      "id": "zenn-53816a278b",
-      "source": "zennqiita",
-      "sub_source": "Zenn",
-      "title": "類似度1位でも返さないRAG：TiDBで検索結果を認可し、Mem9の記憶操作まで守る",
-      "url": "https://zenn.dev/snow_rabbit/articles/e7c8404575b62b",
-      "score": null,
-      "author": "スノー",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Wed, 24 Jun 2026 13:42:29 GMT"
-    },
-    {
       "id": "zenn-96ea18b072",
       "source": "zennqiita",
       "sub_source": "Zenn",
@@ -5458,19 +5482,6 @@
         "Zenn"
       ],
       "date": "Wed, 24 Jun 2026 12:47:43 GMT"
-    },
-    {
-      "id": "zenn-14b6370c80",
-      "source": "zennqiita",
-      "sub_source": "Zenn",
-      "title": "AWS Blocks を実プロジェクトで試した — Amplify Gen2 にローカル開発を足す",
-      "url": "https://zenn.dev/purpom/articles/aws-blocks-amplify-gen2-local-first",
-      "score": null,
-      "author": "coa00",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Wed, 24 Jun 2026 10:13:59 GMT"
     },
     {
       "id": "zenn-7df165a427",
@@ -5512,6 +5523,19 @@
       "date": "Wed, 24 Jun 2026 04:51:06 GMT"
     },
     {
+      "id": "zenn-4612c69a77",
+      "source": "zennqiita",
+      "sub_source": "Zenn",
+      "title": "イベントストーミングのススメ",
+      "url": "https://zenn.dev/nstock/articles/ac27140d8092ed",
+      "score": null,
+      "author": "mashi",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Wed, 24 Jun 2026 04:28:06 GMT"
+    },
+    {
       "id": "zenn-4462fe59fe",
       "source": "zennqiita",
       "sub_source": "Zenn",
@@ -5523,32 +5547,6 @@
         "Zenn"
       ],
       "date": "Wed, 24 Jun 2026 02:01:46 GMT"
-    },
-    {
-      "id": "zenn-437ca632b7",
-      "source": "zennqiita",
-      "sub_source": "Zenn",
-      "title": "Tauri ライブラリの意外な使い道 — headless な CLI を作ってみた",
-      "url": "https://zenn.dev/olibrauma/articles/tauri-library-for-cli-tool",
-      "score": null,
-      "author": "olibrauma",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Tue, 23 Jun 2026 12:10:11 GMT"
-    },
-    {
-      "id": "zenn-c8d439f4c8",
-      "source": "zennqiita",
-      "sub_source": "Zenn",
-      "title": "iOSアプリでSwift・Rust・Goの実行速度を比較してみた",
-      "url": "https://zenn.dev/oba_shion/articles/872ce1434f5fc7",
-      "score": null,
-      "author": "Shion",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Tue, 23 Jun 2026 10:39:27 GMT"
     },
     {
       "id": "zenn-e5253404db",
@@ -5629,17 +5627,17 @@
       "date": "Mon, 22 Jun 2026 09:30:23 GMT"
     },
     {
-      "id": "zenn-a45fcf7590",
+      "id": "zenn-e8fefdc952",
       "source": "zennqiita",
       "sub_source": "Zenn",
-      "title": "Raspberry Pi + Cloudflare Tunnel で安価で安全な自宅 Web サーバーを手に入れる",
-      "url": "https://zenn.dev/xin9le/articles/1340941f739745",
+      "title": "「技術力が高い人」にはなれなかったけれど、技術を翻訳する人になった話",
+      "url": "https://zenn.dev/penginpenguin/articles/e735cf0424a186",
       "score": null,
-      "author": "xin9le",
+      "author": "ぺんぎん",
       "tags": [
         "Zenn"
       ],
-      "date": "Mon, 22 Jun 2026 06:17:11 GMT"
+      "date": "Mon, 22 Jun 2026 09:04:36 GMT"
     },
     {
       "id": "edb-3a6bcc02f2",

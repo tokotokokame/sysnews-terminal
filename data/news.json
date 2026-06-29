@@ -1,7 +1,41 @@
 {
-  "updated_at": "2026-06-29T19:03:42.534085+00:00",
+  "updated_at": "2026-06-29T21:07:53.812056+00:00",
   "count": 500,
   "items": [
+    {
+      "id": "hn-48724230",
+      "source": "hn",
+      "title": ".self: A new top-level domain designed to support self-hosting",
+      "url": "https://hccf.onmy.cloud/2026/06/21/reclaiming-our-digital-selves-hccfs-vision-for-a-human-centered-top-level-domain/",
+      "score": 53,
+      "comments": 57,
+      "author": "HumanCCF",
+      "tags": [],
+      "date": "2026-06-29T19:49:28+00:00"
+    },
+    {
+      "id": "hn-48723677",
+      "source": "hn",
+      "title": "JumpServer: Open-Source Privileged Access Management",
+      "url": "https://github.com/jumpserver/jumpserver",
+      "score": 26,
+      "comments": 5,
+      "author": "neitsab",
+      "tags": [],
+      "date": "2026-06-29T19:06:17+00:00",
+      "severity": "critical"
+    },
+    {
+      "id": "hn-48723452",
+      "source": "hn",
+      "title": ".garden TLD's change to a bad neighborhood",
+      "url": "https://discourse.ifin.network/t/garden-tlds-change-to-a-bad-neighborhood/627",
+      "score": 23,
+      "comments": 16,
+      "author": "speckx",
+      "tags": [],
+      "date": "2026-06-29T18:49:41+00:00"
+    },
     {
       "id": "hn-48723276",
       "source": "hn",
@@ -14,12 +48,36 @@
       "date": "2026-06-29T18:35:23+00:00"
     },
     {
+      "id": "hn-48722802",
+      "source": "hn",
+      "title": "Micro-Agent: Beat Frontier Models with Collaboration Inside Model API",
+      "url": "https://vllm.ai/blog/2026-06-29-micro-agent-frontier-models",
+      "score": 25,
+      "comments": 4,
+      "author": "matt_d",
+      "tags": [],
+      "date": "2026-06-29T18:03:26+00:00"
+    },
+    {
+      "id": "qiita-5eee541846",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "レモンの原理はなぜ社会を分断するのか？ ― 情報の透明性と信頼が日本の未来を左右する : Pythonで学ぶ マクロ経済学入門 (94)",
+      "url": "https://qiita.com/maskot1977/items/07f1b53e205a338bc0fb?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "maskot1977",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-06-30T02:55:38+09:00"
+    },
+    {
       "id": "hn-48722052",
       "source": "hn",
       "title": "Ornith-1.0: self-improving open-source models for agentic coding",
       "url": "https://github.com/deepreinforce-ai/Ornith-1",
-      "score": 28,
-      "comments": 6,
+      "score": 97,
+      "comments": 16,
       "author": "danboarder",
       "tags": [],
       "date": "2026-06-29T17:16:17+00:00",
@@ -30,8 +88,8 @@
       "source": "hn",
       "title": "Qwen 3.6 27B is the sweet spot for local development",
       "url": "https://quesma.com/blog/qwen-36-is-awesome/",
-      "score": 223,
-      "comments": 155,
+      "score": 404,
+      "comments": 360,
       "author": "stared",
       "tags": [],
       "date": "2026-06-29T17:05:16+00:00"
@@ -41,8 +99,8 @@
       "source": "hn",
       "title": "The Radiation Exposure Lie",
       "url": "https://worksinprogress.co/issue/how-to-lie-about-radiation/",
-      "score": 41,
-      "comments": 12,
+      "score": 96,
+      "comments": 59,
       "author": "duffydotsvg",
       "tags": [],
       "date": "2026-06-29T16:27:27+00:00"
@@ -52,8 +110,8 @@
       "source": "hn",
       "title": "European ISPs Want Rightsholders Held Accountable for Overblocking Damage",
       "url": "https://torrentfreak.com/european-isps-want-rightsholders-held-accountable-for-overblocking-damage/",
-      "score": 182,
-      "comments": 41,
+      "score": 263,
+      "comments": 67,
       "author": "Brajeshwar",
       "tags": [],
       "date": "2026-06-29T16:07:15+00:00"
@@ -63,8 +121,8 @@
       "source": "hn",
       "title": "US Supreme Court rules geofence warrants require constitutional protections",
       "url": "https://www.theguardian.com/us-news/2026/jun/29/supreme-court-geofence-warrants-case-decision",
-      "score": 215,
-      "comments": 81,
+      "score": 312,
+      "comments": 138,
       "author": "cdrnsf",
       "tags": [],
       "date": "2026-06-29T15:54:24+00:00"
@@ -74,8 +132,8 @@
       "source": "hn",
       "title": "A native graphical shell for SSH",
       "url": "https://probablymarcus.com/blocks/2026/06/28/native-graphical-shell-for-SSH.html",
-      "score": 117,
-      "comments": 53,
+      "score": 183,
+      "comments": 75,
       "author": "mrcslws",
       "tags": [],
       "date": "2026-06-29T15:42:17+00:00"
@@ -96,8 +154,8 @@
       "source": "hn",
       "title": "WATaBoy: JIT-Ing Game Boy Instructions to WASM Beats a Native Interpreter",
       "url": "https://humphri.es/blog/WATaBoy/",
-      "score": 119,
-      "comments": 13,
+      "score": 151,
+      "comments": 18,
       "author": "energeticbark",
       "tags": [],
       "date": "2026-06-29T15:02:00+00:00"
@@ -118,8 +176,8 @@
       "source": "hn",
       "title": "You Don't Know Jack About Formal Verification",
       "url": "https://queue.acm.org/detail.cfm?id=3819084",
-      "score": 32,
-      "comments": 8,
+      "score": 71,
+      "comments": 24,
       "author": "eatonphil",
       "tags": [],
       "date": "2026-06-29T14:12:05+00:00"
@@ -129,8 +187,8 @@
       "source": "hn",
       "title": "Rocketlab acquires Iridium",
       "url": "https://investors.rocketlabcorp.com/news-releases/news-release-details/rocket-lab-acquire-iridium-historic-deal-creating-fully",
-      "score": 231,
-      "comments": 141,
+      "score": 307,
+      "comments": 176,
       "author": "everfrustrated",
       "tags": [],
       "date": "2026-06-29T14:09:24+00:00"
@@ -151,8 +209,8 @@
       "source": "hn",
       "title": "Instagram is incorporating users' photos in ads for Meta Glasses",
       "url": "https://twitter.com/i/status/2071277885646868536",
-      "score": 231,
-      "comments": 107,
+      "score": 277,
+      "comments": 127,
       "author": "notRobot",
       "tags": [],
       "date": "2026-06-29T13:26:35+00:00"
@@ -184,8 +242,8 @@
       "source": "hn",
       "title": "What happens when you run a CUDA kernel?",
       "url": "https://fergusfinn.com/blog/what-happens-when-you-run-a-gpu-kernel/",
-      "score": 147,
-      "comments": 13,
+      "score": 176,
+      "comments": 15,
       "author": "mezark",
       "tags": [],
       "date": "2026-06-29T13:11:08+00:00"
@@ -219,8 +277,8 @@
       "source": "hn",
       "title": "Samsung, SK Hynix, Micron Sued in US over Memory Price Fixing",
       "url": "https://en.sedaily.com/international/2026/06/29/samsung-sk-hynix-micron-sued-in-us-over-memory-price-fixing",
-      "score": 232,
-      "comments": 111,
+      "score": 278,
+      "comments": 141,
       "author": "donohoe",
       "tags": [],
       "date": "2026-06-29T11:58:48+00:00"
@@ -230,8 +288,8 @@
       "source": "hn",
       "title": "Rebuilding the Computer Room",
       "url": "https://alexwlchan.net/2026/computer-room/",
-      "score": 55,
-      "comments": 26,
+      "score": 76,
+      "comments": 41,
       "author": "ingve",
       "tags": [],
       "date": "2026-06-29T11:34:36+00:00"
@@ -263,8 +321,8 @@
       "source": "hn",
       "title": "Sandia National Labs SA3000 8085 CPU",
       "url": "https://www.cpushack.com/2026/06/03/sandia-national-labs-sa3000-8085-cpu/",
-      "score": 123,
-      "comments": 37,
+      "score": 137,
+      "comments": 38,
       "author": "rbanffy",
       "tags": [],
       "date": "2026-06-29T10:20:25+00:00"
@@ -290,6 +348,19 @@
       "author": "DR_MING",
       "tags": [],
       "date": "2026-06-29T08:58:09+00:00"
+    },
+    {
+      "id": "qiita-4f4f034fbc",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "【読書の夏？】各分野のおすすめ技術書を75冊まとめてみた",
+      "url": "https://qiita.com/miruky/items/8b3e5908a24952c10783?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "miruky",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-06-29T17:14:41+09:00"
     },
     {
       "id": "hn-48716009",
@@ -382,6 +453,19 @@
       "date": "2026-06-29T01:25:04+00:00"
     },
     {
+      "id": "qiita-48b6c6cb98",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "React初学者が学ぶ、Reactのキホン part-1",
+      "url": "https://qiita.com/kucd1230/items/ba52f16af01b4d2f0e7d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "kucd1230",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-06-29T10:15:49+09:00"
+    },
+    {
       "id": "qiita-ca810c7fbe",
       "source": "zennqiita",
       "sub_source": "Qiita",
@@ -443,6 +527,19 @@
       "author": "Curiositry",
       "tags": [],
       "date": "2026-06-28T23:50:58+00:00"
+    },
+    {
+      "id": "qiita-f88afae33d",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "SDD（Spec-Driven Development）とLoop Engineeringの関係 ― superpowersは両者を統合したハーネスだった",
+      "url": "https://qiita.com/nogataka/items/b78d9d8cd39967df4119?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "nogataka",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-06-29T08:25:55+09:00"
     },
     {
       "id": "hn-48712420",
@@ -1041,6 +1138,18 @@
       "date": "2026-06-28T18:51:39+09:00"
     },
     {
+      "id": "hn-48705878",
+      "source": "hn",
+      "title": "ACL 1.0: A source-available commercial license for the AI era",
+      "url": "https://www.auditablelicense.org/",
+      "score": 11,
+      "comments": 6,
+      "author": "ilreb",
+      "tags": [],
+      "date": "2026-06-28T09:45:58+00:00",
+      "severity": "critical"
+    },
+    {
       "id": "qiita-fc33d5d06d",
       "source": "zennqiita",
       "sub_source": "Qiita",
@@ -1305,6 +1414,19 @@
         "Qiita"
       ],
       "date": "2026-06-28T07:54:48+09:00"
+    },
+    {
+      "id": "qiita-c5d8c35cd1",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "LLMをブラックボックスのまま使いたくない開発者へ。TransformerからLangGraphまでつながる入門書",
+      "url": "https://qiita.com/yasu1109/items/a344f5181613889489a4?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "yasu1109",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-06-28T07:28:15+09:00"
     },
     {
       "id": "hn-48702273",
@@ -1838,6 +1960,17 @@
       "date": "2026-06-27T02:41:53+00:00"
     },
     {
+      "id": "hn-48694267",
+      "source": "hn",
+      "title": "The Permission Slip",
+      "url": "https://www.cringely.com/2026/05/28/the-permission-slip/",
+      "score": 3,
+      "comments": 2,
+      "author": "B1FF_PSUVM",
+      "tags": [],
+      "date": "2026-06-27T01:29:43+00:00"
+    },
+    {
       "id": "hn-48693912",
       "source": "hn",
       "title": "Show HN: Hacker News on a train station-style flip board",
@@ -1939,6 +2072,17 @@
       "author": "rbanffy",
       "tags": [],
       "date": "2026-06-26T22:36:51+00:00"
+    },
+    {
+      "id": "hn-48692310",
+      "source": "hn",
+      "title": "Font-Family Recommendations",
+      "url": "https://chrismorgan.info/font-family",
+      "score": 29,
+      "comments": 7,
+      "author": "birdculture",
+      "tags": [],
+      "date": "2026-06-26T21:37:31+00:00"
     },
     {
       "id": "hn-48692098",
@@ -2209,8 +2353,8 @@
       "source": "hn",
       "title": "Venetian Bridge Brawls in 17th and 18th Century Art",
       "url": "https://publicdomainreview.org/collection/venice-bridge-fights/",
-      "score": 35,
-      "comments": 16,
+      "score": 48,
+      "comments": 27,
       "author": "pepys",
       "tags": [],
       "date": "2026-06-26T16:16:16+00:00"
@@ -2520,8 +2664,8 @@
       "source": "hn",
       "title": "Wallace the 6 inch f/2.8 telescope, building it, and hiking with it",
       "url": "https://lucassifoni.info/blog/hiking-with-wallace/",
-      "score": 32,
-      "comments": 1,
+      "score": 65,
+      "comments": 7,
       "author": "chantepierre",
       "tags": [],
       "date": "2026-06-26T07:29:17+00:00"
@@ -2807,8 +2951,8 @@
       "source": "hn",
       "title": "The Return of Aspect Oriented Programming",
       "url": "https://thomaswc.com/blog/the_return_of_aop.html",
-      "score": 37,
-      "comments": 30,
+      "score": 67,
+      "comments": 48,
       "author": "thomaswc",
       "tags": [],
       "date": "2026-06-25T22:12:33+00:00"
@@ -3022,8 +3166,8 @@
       "source": "hn",
       "title": "Halvar's Guide to Entrepreneurship",
       "url": "https://thomasdullien.github.io/guides/entrepreneurship/",
-      "score": 152,
-      "comments": 38,
+      "score": 180,
+      "comments": 42,
       "author": "nekitamo",
       "tags": [],
       "date": "2026-06-25T15:28:24+00:00"
@@ -5153,140 +5297,6 @@
       "author": "ilbert",
       "tags": [],
       "date": "2026-06-23T14:20:24+00:00"
-    },
-    {
-      "id": "hn-48645386",
-      "source": "hn",
-      "title": "Elevated error rate across multiple models",
-      "url": "https://status.claude.com/incidents/jbhf20wjmzrf",
-      "score": 183,
-      "comments": 237,
-      "author": "rob",
-      "tags": [],
-      "date": "2026-06-23T14:19:47+00:00"
-    },
-    {
-      "id": "hn-48645173",
-      "source": "hn",
-      "title": "What we call \"age verification\" is actually mass surveillance",
-      "url": "https://pluralistic.net/2026/06/23/destroy-the-village/",
-      "score": 427,
-      "comments": 275,
-      "author": "hn_acker",
-      "tags": [],
-      "date": "2026-06-23T14:04:43+00:00"
-    },
-    {
-      "id": "hn-48645152",
-      "source": "hn",
-      "title": "Mistral OCR 4",
-      "url": "https://mistral.ai/news/ocr-4/",
-      "score": 398,
-      "comments": 105,
-      "author": "meetpateltech",
-      "tags": [],
-      "date": "2026-06-23T14:03:19+00:00"
-    },
-    {
-      "id": "qiita-07f0c60c3a",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "Copilot Coworkでブラウザ操作できるようになったのはもっと話題になっていい",
-      "url": "https://qiita.com/Oyu3m/items/b2d530aa21b6c998370b?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "Oyu3m",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-06-23T22:52:03+09:00"
-    },
-    {
-      "id": "hn-48644781",
-      "source": "hn",
-      "title": "MSG Made Dossier on Activists Who Opposed Facial Recognition",
-      "url": "https://www.404media.co/madison-square-garden-made-dossier-on-activists-who-opposed-facial-recognition/",
-      "score": 246,
-      "comments": 69,
-      "author": "cdrnsf",
-      "tags": [],
-      "date": "2026-06-23T13:36:10+00:00"
-    },
-    {
-      "id": "hn-48644383",
-      "source": "hn",
-      "title": "Record type inference for dummies",
-      "url": "http://haskellforall.com/2026/06/record-type-inference-for-dummies",
-      "score": 46,
-      "comments": 1,
-      "author": "g0xA52A2A",
-      "tags": [],
-      "date": "2026-06-23T13:04:38+00:00"
-    },
-    {
-      "id": "hn-48644257",
-      "source": "hn",
-      "title": "Lossless GIF recompression via exhaustive search",
-      "url": "https://blog.arusekk.pl/posts/lossless-gif-recompression/",
-      "score": 20,
-      "comments": 3,
-      "author": "ZacnyLos",
-      "tags": [],
-      "date": "2026-06-23T12:56:16+00:00"
-    },
-    {
-      "id": "hn-48644111",
-      "source": "hn",
-      "title": "The \"Bizarre Headgear\" exhibit at the Sam Noble museum",
-      "url": "https://svpow.com/2026/05/15/the-bizarre-headgear-exhibit-at-the-sam-noble-museum-is-incredible/",
-      "score": 72,
-      "comments": 7,
-      "author": "surprisetalk",
-      "tags": [],
-      "date": "2026-06-23T12:45:09+00:00"
-    },
-    {
-      "id": "hn-48644022",
-      "source": "hn",
-      "title": "80386 Early Start Memory Access",
-      "url": "https://nand2mario.github.io/posts/2026/80386_early_start/",
-      "score": 12,
-      "comments": 1,
-      "author": "nand2mario",
-      "tags": [],
-      "date": "2026-06-23T12:37:04+00:00"
-    },
-    {
-      "id": "hn-48643661",
-      "source": "hn",
-      "title": "Making Sense of Proof by Contradiction [pdf]",
-      "url": "https://www.foster77.co.uk/Foster,%20Scottish%20Mathematical%20Council%20Journal,%20Making%20sense%20of%20proof%20by%20contradiction.pdf",
-      "score": 19,
-      "comments": 4,
-      "author": "surprisetalk",
-      "tags": [],
-      "date": "2026-06-23T12:00:13+00:00"
-    },
-    {
-      "id": "hn-48643620",
-      "source": "hn",
-      "title": "Oracle shed about 20k roles globally in the last year",
-      "url": "https://www.bbc.com/news/articles/c4gy0x0j5deo",
-      "score": 35,
-      "comments": 24,
-      "author": "Lyngbakr",
-      "tags": [],
-      "date": "2026-06-23T11:54:48+00:00"
-    },
-    {
-      "id": "hn-48643489",
-      "source": "hn",
-      "title": "The Low-Tech AI of Elden Ring",
-      "url": "https://nega.tv/posts/low-tech-ai-of-elden-ring.html",
-      "score": 66,
-      "comments": 37,
-      "author": "g0xA52A2A",
-      "tags": [],
-      "date": "2026-06-23T11:40:50+00:00"
     },
     {
       "id": "ctf-3967721",

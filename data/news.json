@@ -1,14 +1,59 @@
 {
-  "updated_at": "2026-06-30T20:29:35.266151+00:00",
+  "updated_at": "2026-06-30T21:59:56.823322+00:00",
   "count": 500,
   "items": [
+    {
+      "id": "hn-48739466",
+      "source": "hn",
+      "title": "Meta's brain-scanning system reads sentences non-invasively, code open source",
+      "url": "https://ai.meta.com/blog/brain2qwerty-brain-ai-human-communication/?_fb_noscript=1",
+      "score": 24,
+      "comments": 10,
+      "author": "alok-g",
+      "tags": [],
+      "date": "2026-06-30T21:29:13+00:00",
+      "severity": "critical"
+    },
+    {
+      "id": "hn-48738985",
+      "source": "hn",
+      "title": "I ported Kubernetes to the browser",
+      "url": "https://ngrok.com/blog/i-ported-kubernetes-to-the-browser",
+      "score": 76,
+      "comments": 18,
+      "author": "peterdemin",
+      "tags": [],
+      "date": "2026-06-30T20:48:36+00:00"
+    },
+    {
+      "id": "hn-48738606",
+      "source": "hn",
+      "title": "Morbid: Debunking Modern Longevity Science",
+      "url": "https://www.newyorker.com/magazine/2026/07/06/morbid-saul-justin-newman-book-review-eat-your-ice-cream-ezekiel-j-emanuel",
+      "score": 25,
+      "comments": 16,
+      "author": "nabbed",
+      "tags": [],
+      "date": "2026-06-30T20:17:21+00:00"
+    },
+    {
+      "id": "hn-48736839",
+      "source": "hn",
+      "title": "Amazon seller reveals glimpse of shadow bribery market",
+      "url": "https://www.latimes.com/business/story/2026-06-30/shadow-bribery-market-inside-amazon-preys-on-desperate-sellers",
+      "score": 62,
+      "comments": 34,
+      "author": "petethomas",
+      "tags": [],
+      "date": "2026-06-30T18:12:33+00:00"
+    },
     {
       "id": "hn-48736605",
       "source": "hn",
       "title": "Claude Sonnet 5",
       "url": "https://www.anthropic.com/news/claude-sonnet-5",
-      "score": 563,
-      "comments": 299,
+      "score": 711,
+      "comments": 386,
       "author": "marinesebastian",
       "tags": [],
       "date": "2026-06-30T17:59:52+00:00"
@@ -16,10 +61,10 @@
     {
       "id": "hn-48736137",
       "source": "hn",
-      "title": "I built a mmWave material classification radar",
+      "title": "I built a mmWave material classification radar (2025)",
       "url": "https://gauthier-lechevalier.com/radar",
-      "score": 79,
-      "comments": 26,
+      "score": 109,
+      "comments": 30,
       "author": "GL26",
       "tags": [],
       "date": "2026-06-30T17:29:36+00:00"
@@ -29,8 +74,8 @@
       "source": "hn",
       "title": "Claude Science",
       "url": "https://claude.com/product/claude-science",
-      "score": 225,
-      "comments": 82,
+      "score": 291,
+      "comments": 100,
       "author": "lebovic",
       "tags": [],
       "date": "2026-06-30T17:07:41+00:00"
@@ -58,12 +103,23 @@
       "date": "2026-06-30T16:54:41+00:00"
     },
     {
+      "id": "hn-48735446",
+      "source": "hn",
+      "title": "Show HN: My 13-year-old built an ant colony tracker",
+      "url": "https://formicarium.es",
+      "score": 15,
+      "comments": 8,
+      "author": "abelgvidal",
+      "tags": [],
+      "date": "2026-06-30T16:48:47+00:00"
+    },
+    {
       "id": "hn-48735444",
       "source": "hn",
       "title": "Nano Banana 2 Lite",
       "url": "https://deepmind.google/models/gemini-image/flash-lite/",
-      "score": 203,
-      "comments": 70,
+      "score": 247,
+      "comments": 96,
       "author": "minimaxir",
       "tags": [],
       "date": "2026-06-30T16:48:37+00:00"
@@ -95,8 +151,8 @@
       "source": "hn",
       "title": "Claude Code is steganographically marking requests",
       "url": "https://thereallo.dev/blog/claude-code-prompt-steganography",
-      "score": 970,
-      "comments": 256,
+      "score": 1154,
+      "comments": 299,
       "author": "kirushik",
       "tags": [],
       "date": "2026-06-30T15:44:24+00:00"
@@ -135,6 +191,17 @@
       "date": "2026-06-30T14:43:54+00:00"
     },
     {
+      "id": "hn-48733043",
+      "source": "hn",
+      "title": "Have you restarted your computer this week?",
+      "url": "https://taonaw.com/2026/06/27/have-you-restarted-your-computer.html",
+      "score": 71,
+      "comments": 160,
+      "author": "surprisetalk",
+      "tags": [],
+      "date": "2026-06-30T14:15:29+00:00"
+    },
+    {
       "id": "hn-48733031",
       "source": "hn",
       "title": "Looking Ahead to Postgres 19",
@@ -150,8 +217,8 @@
       "source": "hn",
       "title": "Knoppix",
       "url": "https://www.knopper.net/knoppix/index-en.html",
-      "score": 187,
-      "comments": 83,
+      "score": 217,
+      "comments": 90,
       "author": "hoangvmpc",
       "tags": [],
       "date": "2026-06-30T12:54:01+00:00"
@@ -161,8 +228,8 @@
       "source": "hn",
       "title": "Memoirs of Extraordinary Popular Delusions and the Madness of Crowds (1852)",
       "url": "https://www.gutenberg.org/ebooks/24518",
-      "score": 139,
-      "comments": 42,
+      "score": 151,
+      "comments": 47,
       "author": "lstodd",
       "tags": [],
       "date": "2026-06-30T12:47:51+00:00"
@@ -640,6 +707,17 @@
       "severity": "critical"
     },
     {
+      "id": "hn-48723484",
+      "source": "hn",
+      "title": "CERN bids farewell to the LHC and enters Long Shutdown 3",
+      "url": "https://home.cern/cern-bids-farewell-to-the-lhc-and-enters-long-shutdown-3/",
+      "score": 48,
+      "comments": 10,
+      "author": "HelloUsername",
+      "tags": [],
+      "date": "2026-06-29T18:52:25+00:00"
+    },
+    {
       "id": "hn-48723452",
       "source": "hn",
       "title": ".garden TLD's change to a bad neighborhood",
@@ -894,6 +972,17 @@
       "author": "hn8726",
       "tags": [],
       "date": "2026-06-29T13:09:03+00:00"
+    },
+    {
+      "id": "hn-48718716",
+      "source": "hn",
+      "title": "Reading the internals of Postgres: Database cluster, databases, and tables",
+      "url": "https://www.buraksen.dev/articles/internals-of-postgresql-db-cluster-and-tables",
+      "score": 26,
+      "comments": 0,
+      "author": "buraksen",
+      "tags": [],
+      "date": "2026-06-29T12:59:49+00:00"
     },
     {
       "id": "qiita-e93800b4fe",
@@ -1235,6 +1324,17 @@
       "author": "backlit4034",
       "tags": [],
       "date": "2026-06-28T22:20:56+00:00"
+    },
+    {
+      "id": "hn-48712289",
+      "source": "hn",
+      "title": "How does a pull-back car work? Illustrated teardown",
+      "url": "https://mechanical-pencil.com/products/car",
+      "score": 39,
+      "comments": 11,
+      "author": "Muhammad523",
+      "tags": [],
+      "date": "2026-06-28T22:16:20+00:00"
     },
     {
       "id": "qiita-d94875ffdb",
@@ -1961,8 +2061,8 @@
       "source": "hn",
       "title": "Building a custom octocopter from scratch with no prior hardware experience",
       "url": "https://karolina.mgdubiel.com/drone/",
-      "score": 279,
-      "comments": 58,
+      "score": 298,
+      "comments": 67,
       "author": "noleary",
       "tags": [],
       "date": "2026-06-28T04:17:44+00:00"
@@ -2136,6 +2236,17 @@
       "date": "2026-06-28T09:46:07+09:00"
     },
     {
+      "id": "hn-48702917",
+      "source": "hn",
+      "title": "I built a 10 inch mini rack from aluminium extrusions",
+      "url": "https://louwrentius.com/i-build-a-10-inch-mini-rack-from-aluminium-extrusions.html",
+      "score": 37,
+      "comments": 15,
+      "author": "louwrentius",
+      "tags": [],
+      "date": "2026-06-27T23:45:45+00:00"
+    },
+    {
       "id": "hn-48702848",
       "source": "hn",
       "title": "WAL-RUS: a Rust Rewrite of WAL-G for PostgreSQL Backups",
@@ -2193,6 +2304,17 @@
         "Qiita"
       ],
       "date": "2026-06-28T07:28:15+09:00"
+    },
+    {
+      "id": "hn-48702361",
+      "source": "hn",
+      "title": "Set up your own DoH (DNS over HTTPS) service",
+      "url": "https://nochan.net/b/Internet-Crap/20260602-Set-Up-Your-Own-DoH-Service/",
+      "score": 47,
+      "comments": 20,
+      "author": "Bender",
+      "tags": [],
+      "date": "2026-06-27T22:24:35+00:00"
     },
     {
       "id": "hn-48702320",
@@ -2282,6 +2404,17 @@
       "author": "JumpCrisscross",
       "tags": [],
       "date": "2026-06-27T21:07:38+00:00"
+    },
+    {
+      "id": "hn-48701721",
+      "source": "hn",
+      "title": "Stroustrup's Rule (2024)",
+      "url": "https://buttondown.com/hillelwayne/archive/stroustrups-rule/",
+      "score": 19,
+      "comments": 0,
+      "author": "bmacho",
+      "tags": [],
+      "date": "2026-06-27T21:01:43+00:00"
     },
     {
       "id": "hn-48701512",
@@ -2423,6 +2556,17 @@
         "Qiita"
       ],
       "date": "2026-06-28T00:29:36+09:00"
+    },
+    {
+      "id": "hn-48699010",
+      "source": "hn",
+      "title": "A peek into Reddit's anti-spam internals",
+      "url": "https://lyra.horse/blog/2026/06/reddit-spam-internals/",
+      "score": 70,
+      "comments": 15,
+      "author": "OuterVale",
+      "tags": [],
+      "date": "2026-06-27T15:18:03+00:00"
     },
     {
       "id": "hn-48698908",
@@ -2895,6 +3039,17 @@
       "date": "2026-06-26T23:33:46+00:00"
     },
     {
+      "id": "hn-48693369",
+      "source": "hn",
+      "title": "Waveloop: What Fable left me",
+      "url": "https://neynt.ca/writing/waveloop/",
+      "score": 46,
+      "comments": 11,
+      "author": "personjerry",
+      "tags": [],
+      "date": "2026-06-26T23:29:51+00:00"
+    },
+    {
       "id": "hn-48693273",
       "source": "hn",
       "title": "Decker Fantasy Camp 2026",
@@ -3297,8 +3452,8 @@
       "source": "hn",
       "title": "Matrix URIs, a URL syntax from Tim Berners-Lee that never shipped (1996)",
       "url": "https://www.w3.org/DesignIssues/MatrixURIs.html",
-      "score": 23,
-      "comments": 11,
+      "score": 35,
+      "comments": 22,
       "author": "napolux",
       "tags": [],
       "date": "2026-06-26T15:15:33+00:00"
@@ -4898,6 +5053,17 @@
       "date": "2026-06-24T21:45:00+00:00"
     },
     {
+      "id": "hn-48665958",
+      "source": "hn",
+      "title": "Long Island's decommissioned nuclear power plant",
+      "url": "https://nickcarr.com/scouting-a-decommissioned-nuclear-power-plant/",
+      "score": 19,
+      "comments": 0,
+      "author": "mkmk",
+      "tags": [],
+      "date": "2026-06-24T21:41:29+00:00"
+    },
+    {
       "id": "hn-48665671",
       "source": "hn",
       "title": "Jest/Vitest interactive course (runs in the browser)",
@@ -5132,181 +5298,15 @@
       "date": "2026-06-24T15:37:18+00:00"
     },
     {
-      "id": "hn-48661415",
-      "source": "hn",
-      "title": "Journalism is rearranging the deckchairs. It needs to reinvent itself",
-      "url": "https://werd.io/journalism-is-rearranging-the-deckchairs-it-needs-to-reinvent-itself/",
-      "score": 22,
-      "comments": 27,
-      "author": "benwerd",
-      "tags": [],
-      "date": "2026-06-24T15:28:04+00:00"
-    },
-    {
-      "id": "hn-48661381",
-      "source": "hn",
-      "title": "The eerie interface of man and machine (Life Magazine, October 1967)",
-      "url": "https://blog.jgc.org/2026/06/the-eerie-interface-of-man-and-machine.html",
-      "score": 22,
-      "comments": 1,
-      "author": "Brajeshwar",
-      "tags": [],
-      "date": "2026-06-24T15:25:12+00:00"
-    },
-    {
-      "id": "hn-48661179",
-      "source": "hn",
-      "title": "Edsger Dijkstra's Library (Housed and Archived in Leuven, Belgium)",
-      "url": "https://www.dijkstrascry.com/inventory",
-      "score": 19,
-      "comments": 3,
-      "author": "rramadass",
-      "tags": [],
-      "date": "2026-06-24T15:10:27+00:00"
-    },
-    {
-      "id": "hn-48660839",
-      "source": "hn",
-      "title": "For Most of the World, Open-Source AI Is the Only Way Forward",
-      "url": "https://techstrong.ai/articles/for-most-of-the-world-open-source-ai-is-the-only-way-forward/",
-      "score": 132,
-      "comments": 91,
-      "author": "CrankyBear",
-      "tags": [],
-      "date": "2026-06-24T14:50:22+00:00",
-      "severity": "critical"
-    },
-    {
-      "id": "hn-48660711",
-      "source": "hn",
-      "title": "RubyLLM: A Ruby framework for all major AI providers",
-      "url": "https://rubyllm.com/",
-      "score": 431,
-      "comments": 74,
-      "author": "doener",
-      "tags": [],
-      "date": "2026-06-24T14:41:41+00:00"
-    },
-    {
-      "id": "hn-48660671",
-      "source": "hn",
-      "title": "Running Windows Games on a Hobby OS with Wine",
-      "url": "https://astral-os.org/posts/2026/04/03/wine-on-astral.html",
-      "score": 90,
-      "comments": 28,
-      "author": "avaliosdev",
-      "tags": [],
-      "date": "2026-06-24T14:38:30+00:00"
-    },
-    {
-      "id": "hn-48660579",
-      "source": "hn",
-      "title": "PR spam today looks like email spam in the early 2000s",
-      "url": "https://www.greptile.com/blog/prs-on-openclaw",
-      "score": 230,
-      "comments": 135,
-      "author": "dakshgupta",
-      "tags": [],
-      "date": "2026-06-24T14:32:12+00:00"
-    },
-    {
-      "id": "hn-48660522",
-      "source": "hn",
-      "title": "A human postmortem of the 1996 AOL outage",
-      "url": "https://ngrok.com/blog/aol-was-down-1996",
-      "score": 29,
-      "comments": 6,
-      "author": "EndEntire",
-      "tags": [],
-      "date": "2026-06-24T14:29:17+00:00"
-    },
-    {
-      "id": "hn-48660267",
-      "source": "hn",
-      "title": "Show HN: Nub – A Bun-like all-in-one toolkit for Node.js",
-      "url": "https://github.com/nubjs/nub",
-      "score": 192,
-      "comments": 54,
-      "author": "colinmcd",
-      "tags": [],
-      "date": "2026-06-24T14:14:18+00:00"
-    },
-    {
       "id": "hn-48660258",
       "source": "hn",
-      "title": "RF Hacking My Cloud-Controlled Ceiling Fan",
+      "title": "RF hacking my cloud-controlled ceiling fan",
       "url": "https://samwilkinson.io/posts/2026-06-24-rf-hacking-dreo",
-      "score": 10,
-      "comments": 1,
+      "score": 17,
+      "comments": 6,
       "author": "sammycdubs",
       "tags": [],
       "date": "2026-06-24T14:13:47+00:00"
-    },
-    {
-      "id": "hn-48660178",
-      "source": "hn",
-      "title": "45°C cooling design cuts data center water use to near zero",
-      "url": "https://blogs.nvidia.com/blog/liquid-cooling-ai-factories/",
-      "score": 436,
-      "comments": 372,
-      "author": "nitin_flanker",
-      "tags": [],
-      "date": "2026-06-24T14:10:11+00:00"
-    },
-    {
-      "id": "hn-48660021",
-      "source": "hn",
-      "title": "AI learns the “dark art” of RFIC design",
-      "url": "https://spectrum.ieee.org/ai-radio-chip-design",
-      "score": 247,
-      "comments": 160,
-      "author": "Brajeshwar",
-      "tags": [],
-      "date": "2026-06-24T14:02:16+00:00"
-    },
-    {
-      "id": "hn-48659798",
-      "source": "hn",
-      "title": "Qualcomm to Acquire Modular",
-      "url": "https://www.reuters.com/business/qualcomm-buy-ai-startup-modular-2026-06-24/",
-      "score": 204,
-      "comments": 75,
-      "author": "timmyd",
-      "tags": [],
-      "date": "2026-06-24T13:49:16+00:00"
-    },
-    {
-      "id": "hn-48659517",
-      "source": "hn",
-      "title": "How do you keep Web MIDI from crashing a 1983 synthesizer?",
-      "url": "https://knob.monster/how-do-you-keep-web-midi-from-crashing-a-1983-synthesizer",
-      "score": 12,
-      "comments": 4,
-      "author": "halfradaition",
-      "tags": [],
-      "date": "2026-06-24T13:31:10+00:00"
-    },
-    {
-      "id": "hn-48659483",
-      "source": "hn",
-      "title": "Show HN: LookAway, a Mac break reminder that knows when not to interrupt",
-      "url": "https://lookaway.com",
-      "score": 48,
-      "comments": 7,
-      "author": "_kush",
-      "tags": [],
-      "date": "2026-06-24T13:29:18+00:00"
-    },
-    {
-      "id": "hn-48659165",
-      "source": "hn",
-      "title": "Stealing Is a Skill",
-      "url": "https://ben-mini.com/2026/stealing-is-a-skill",
-      "score": 202,
-      "comments": 123,
-      "author": "bewal416",
-      "tags": [],
-      "date": "2026-06-24T13:08:52+00:00"
     },
     {
       "id": "ctf-3975357",

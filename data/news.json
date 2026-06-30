@@ -1,29 +1,72 @@
 {
-  "updated_at": "2026-06-30T21:59:56.823322+00:00",
+  "updated_at": "2026-06-30T23:21:38.599345+00:00",
   "count": 500,
   "items": [
     {
+      "id": "hn-48740135",
+      "source": "hn",
+      "title": "Hatari – Online Atari ST/STE/TT/Falcon Emulator",
+      "url": "https://hatari.frama.io/hatari/online/hatari.html",
+      "score": 11,
+      "comments": 2,
+      "author": "gregsadetsky",
+      "tags": [],
+      "date": "2026-06-30T22:34:23+00:00"
+    },
+    {
+      "id": "hn-48739919",
+      "source": "hn",
+      "title": "TabFM: A zero-shot foundation model for tabular data",
+      "url": "https://research.google/blog/introducing-tabfm-a-zero-shot-foundation-model-for-tabular-data/",
+      "score": 17,
+      "comments": 3,
+      "author": "brandonb",
+      "tags": [],
+      "date": "2026-06-30T22:08:38+00:00"
+    },
+    {
+      "id": "hn-48739467",
+      "source": "hn",
+      "title": "Understanding lattice risks: Many differences between marketing and reality",
+      "url": "https://blog.cr.yp.to/20260630-risk.html",
+      "score": 9,
+      "comments": 1,
+      "author": "ledoge",
+      "tags": [],
+      "date": "2026-06-30T21:29:15+00:00"
+    },
+    {
       "id": "hn-48739466",
       "source": "hn",
-      "title": "Meta's brain-scanning system reads sentences non-invasively, code open source",
+      "title": "From brain waves to words: a new path to communication without surgery",
       "url": "https://ai.meta.com/blog/brain2qwerty-brain-ai-human-communication/?_fb_noscript=1",
-      "score": 24,
-      "comments": 10,
+      "score": 72,
+      "comments": 42,
       "author": "alok-g",
       "tags": [],
-      "date": "2026-06-30T21:29:13+00:00",
-      "severity": "critical"
+      "date": "2026-06-30T21:29:13+00:00"
     },
     {
       "id": "hn-48738985",
       "source": "hn",
       "title": "I ported Kubernetes to the browser",
       "url": "https://ngrok.com/blog/i-ported-kubernetes-to-the-browser",
-      "score": 76,
-      "comments": 18,
+      "score": 122,
+      "comments": 27,
       "author": "peterdemin",
       "tags": [],
       "date": "2026-06-30T20:48:36+00:00"
+    },
+    {
+      "id": "hn-48738938",
+      "source": "hn",
+      "title": "Leanstral 1.5",
+      "url": "https://docs.mistral.ai/models/model-cards/leanstral-1-5-26-06",
+      "score": 51,
+      "comments": 3,
+      "author": "vetronauta",
+      "tags": [],
+      "date": "2026-06-30T20:44:56+00:00"
     },
     {
       "id": "hn-48738606",
@@ -35,6 +78,17 @@
       "author": "nabbed",
       "tags": [],
       "date": "2026-06-30T20:17:21+00:00"
+    },
+    {
+      "id": "hn-48738262",
+      "source": "hn",
+      "title": "Tokyo has only two barley tea makers, we visited one to see how mugicha is made",
+      "url": "https://soranews24.com/2026/06/30/tokyo-has-only-two-barley-tea-makers-and-we-visited-one-to-see-how-mugicha-is-made/",
+      "score": 36,
+      "comments": 8,
+      "author": "zdw",
+      "tags": [],
+      "date": "2026-06-30T19:47:24+00:00"
     },
     {
       "id": "hn-48736839",
@@ -52,8 +106,8 @@
       "source": "hn",
       "title": "Claude Sonnet 5",
       "url": "https://www.anthropic.com/news/claude-sonnet-5",
-      "score": 711,
-      "comments": 386,
+      "score": 787,
+      "comments": 445,
       "author": "marinesebastian",
       "tags": [],
       "date": "2026-06-30T17:59:52+00:00"
@@ -63,8 +117,8 @@
       "source": "hn",
       "title": "I built a mmWave material classification radar (2025)",
       "url": "https://gauthier-lechevalier.com/radar",
-      "score": 109,
-      "comments": 30,
+      "score": 117,
+      "comments": 33,
       "author": "GL26",
       "tags": [],
       "date": "2026-06-30T17:29:36+00:00"
@@ -74,8 +128,8 @@
       "source": "hn",
       "title": "Claude Science",
       "url": "https://claude.com/product/claude-science",
-      "score": 291,
-      "comments": 100,
+      "score": 323,
+      "comments": 109,
       "author": "lebovic",
       "tags": [],
       "date": "2026-06-30T17:07:41+00:00"
@@ -107,8 +161,8 @@
       "source": "hn",
       "title": "Show HN: My 13-year-old built an ant colony tracker",
       "url": "https://formicarium.es",
-      "score": 15,
-      "comments": 8,
+      "score": 26,
+      "comments": 19,
       "author": "abelgvidal",
       "tags": [],
       "date": "2026-06-30T16:48:47+00:00"
@@ -118,8 +172,8 @@
       "source": "hn",
       "title": "Nano Banana 2 Lite",
       "url": "https://deepmind.google/models/gemini-image/flash-lite/",
-      "score": 247,
-      "comments": 96,
+      "score": 275,
+      "comments": 104,
       "author": "minimaxir",
       "tags": [],
       "date": "2026-06-30T16:48:37+00:00"
@@ -151,8 +205,8 @@
       "source": "hn",
       "title": "Claude Code is steganographically marking requests",
       "url": "https://thereallo.dev/blog/claude-code-prompt-steganography",
-      "score": 1154,
-      "comments": 299,
+      "score": 1269,
+      "comments": 358,
       "author": "kirushik",
       "tags": [],
       "date": "2026-06-30T15:44:24+00:00"
@@ -195,8 +249,8 @@
       "source": "hn",
       "title": "Have you restarted your computer this week?",
       "url": "https://taonaw.com/2026/06/27/have-you-restarted-your-computer.html",
-      "score": 71,
-      "comments": 160,
+      "score": 85,
+      "comments": 186,
       "author": "surprisetalk",
       "tags": [],
       "date": "2026-06-30T14:15:29+00:00"
@@ -217,8 +271,8 @@
       "source": "hn",
       "title": "Knoppix",
       "url": "https://www.knopper.net/knoppix/index-en.html",
-      "score": 217,
-      "comments": 90,
+      "score": 233,
+      "comments": 95,
       "author": "hoangvmpc",
       "tags": [],
       "date": "2026-06-30T12:54:01+00:00"
@@ -228,8 +282,8 @@
       "source": "hn",
       "title": "Memoirs of Extraordinary Popular Delusions and the Madness of Crowds (1852)",
       "url": "https://www.gutenberg.org/ebooks/24518",
-      "score": 151,
-      "comments": 47,
+      "score": 159,
+      "comments": 52,
       "author": "lstodd",
       "tags": [],
       "date": "2026-06-30T12:47:51+00:00"
@@ -711,8 +765,8 @@
       "source": "hn",
       "title": "CERN bids farewell to the LHC and enters Long Shutdown 3",
       "url": "https://home.cern/cern-bids-farewell-to-the-lhc-and-enters-long-shutdown-3/",
-      "score": 48,
-      "comments": 10,
+      "score": 86,
+      "comments": 21,
       "author": "HelloUsername",
       "tags": [],
       "date": "2026-06-29T18:52:25+00:00"
@@ -978,7 +1032,7 @@
       "source": "hn",
       "title": "Reading the internals of Postgres: Database cluster, databases, and tables",
       "url": "https://www.buraksen.dev/articles/internals-of-postgresql-db-cluster-and-tables",
-      "score": 26,
+      "score": 40,
       "comments": 0,
       "author": "buraksen",
       "tags": [],
@@ -1330,8 +1384,8 @@
       "source": "hn",
       "title": "How does a pull-back car work? Illustrated teardown",
       "url": "https://mechanical-pencil.com/products/car",
-      "score": 39,
-      "comments": 11,
+      "score": 69,
+      "comments": 17,
       "author": "Muhammad523",
       "tags": [],
       "date": "2026-06-28T22:16:20+00:00"
@@ -1403,6 +1457,17 @@
       "author": "rbanffy",
       "tags": [],
       "date": "2026-06-28T19:38:00+00:00"
+    },
+    {
+      "id": "hn-48710770",
+      "source": "hn",
+      "title": "Ante: A new way to blend borrow checking and reference counting",
+      "url": "https://verdagon.dev/blog/ante-blending-borrowing-rc",
+      "score": 18,
+      "comments": 2,
+      "author": "g0xA52A2A",
+      "tags": [],
+      "date": "2026-06-28T19:37:45+00:00"
     },
     {
       "id": "hn-48710749",
@@ -1780,6 +1845,17 @@
       "date": "2026-06-28T14:35:26+00:00"
     },
     {
+      "id": "hn-48707558",
+      "source": "hn",
+      "title": "Hengefinder",
+      "url": "https://hengefinder.com/",
+      "score": 7,
+      "comments": 1,
+      "author": "bookofjoe",
+      "tags": [],
+      "date": "2026-06-28T14:24:06+00:00"
+    },
+    {
       "id": "hn-48707361",
       "source": "hn",
       "title": "EU Open Sources Ten-Year Network Development Planning Tools",
@@ -2061,8 +2137,8 @@
       "source": "hn",
       "title": "Building a custom octocopter from scratch with no prior hardware experience",
       "url": "https://karolina.mgdubiel.com/drone/",
-      "score": 298,
-      "comments": 67,
+      "score": 315,
+      "comments": 69,
       "author": "noleary",
       "tags": [],
       "date": "2026-06-28T04:17:44+00:00"
@@ -2240,8 +2316,8 @@
       "source": "hn",
       "title": "I built a 10 inch mini rack from aluminium extrusions",
       "url": "https://louwrentius.com/i-build-a-10-inch-mini-rack-from-aluminium-extrusions.html",
-      "score": 37,
-      "comments": 15,
+      "score": 53,
+      "comments": 22,
       "author": "louwrentius",
       "tags": [],
       "date": "2026-06-27T23:45:45+00:00"
@@ -2410,8 +2486,8 @@
       "source": "hn",
       "title": "Stroustrup's Rule (2024)",
       "url": "https://buttondown.com/hillelwayne/archive/stroustrups-rule/",
-      "score": 19,
-      "comments": 0,
+      "score": 38,
+      "comments": 4,
       "author": "bmacho",
       "tags": [],
       "date": "2026-06-27T21:01:43+00:00"
@@ -5057,8 +5133,8 @@
       "source": "hn",
       "title": "Long Island's decommissioned nuclear power plant",
       "url": "https://nickcarr.com/scouting-a-decommissioned-nuclear-power-plant/",
-      "score": 19,
-      "comments": 0,
+      "score": 47,
+      "comments": 4,
       "author": "mkmk",
       "tags": [],
       "date": "2026-06-24T21:41:29+00:00"
@@ -5230,83 +5306,6 @@
       "author": "randycupertino",
       "tags": [],
       "date": "2026-06-24T17:07:01+00:00"
-    },
-    {
-      "id": "hn-48662381",
-      "source": "hn",
-      "title": "The Xteink X4 E-Ink Reader",
-      "url": "https://blog.omgmog.net/post/xteink-x4-e-ink-reader/",
-      "score": 262,
-      "comments": 149,
-      "author": "felixdoerp",
-      "tags": [],
-      "date": "2026-06-24T16:35:56+00:00"
-    },
-    {
-      "id": "hn-48662018",
-      "source": "hn",
-      "title": "NUMA: Cores, memory, and the distance between them",
-      "url": "https://edera.dev/stories/numa-part-1-cores-memory-and-the-distance-between-them",
-      "score": 98,
-      "comments": 19,
-      "author": "sys_call",
-      "tags": [],
-      "date": "2026-06-24T16:10:08+00:00"
-    },
-    {
-      "id": "hn-48661938",
-      "source": "hn",
-      "title": "I taught a bucket to speak Git",
-      "url": "https://www.tigrisdata.com/blog/objgit/",
-      "score": 65,
-      "comments": 16,
-      "author": "xena",
-      "tags": [],
-      "date": "2026-06-24T16:04:26+00:00"
-    },
-    {
-      "id": "hn-48661911",
-      "source": "hn",
-      "title": "CAPTCHAs have failed for 20 years",
-      "url": "https://www.browserbase.com/blog/why-captchas-are-getting-harder",
-      "score": 34,
-      "comments": 26,
-      "author": "harsehaj",
-      "tags": [],
-      "date": "2026-06-24T16:02:32+00:00"
-    },
-    {
-      "id": "hn-48661825",
-      "source": "hn",
-      "title": "There are a few things that I look back on as my mistakes in the early days",
-      "url": "https://twitter.com/ID_AA_Carmack/status/2069799283369345247",
-      "score": 470,
-      "comments": 236,
-      "author": "shadowtree",
-      "tags": [],
-      "date": "2026-06-24T15:56:19+00:00"
-    },
-    {
-      "id": "hn-48661535",
-      "source": "hn",
-      "title": "Boffin claims Microsoft's \"quantum leap\" is invalid due to \"basic Python errors\"",
-      "url": "https://www.theregister.com/research/2026/06/24/boffin-claims-microsofts-supposed-quantum-leap-does-not-compute-due-to-basic-python-errors/5260489",
-      "score": 114,
-      "comments": 42,
-      "author": "connorboyle",
-      "tags": [],
-      "date": "2026-06-24T15:37:18+00:00"
-    },
-    {
-      "id": "hn-48660258",
-      "source": "hn",
-      "title": "RF hacking my cloud-controlled ceiling fan",
-      "url": "https://samwilkinson.io/posts/2026-06-24-rf-hacking-dreo",
-      "score": 17,
-      "comments": 6,
-      "author": "sammycdubs",
-      "tags": [],
-      "date": "2026-06-24T14:13:47+00:00"
     },
     {
       "id": "ctf-3975357",

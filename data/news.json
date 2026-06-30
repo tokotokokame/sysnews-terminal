@@ -1,7 +1,90 @@
 {
-  "updated_at": "2026-06-30T08:29:35.020112+00:00",
+  "updated_at": "2026-06-30T11:30:36.764129+00:00",
   "count": 500,
   "items": [
+    {
+      "id": "ghrel-projectdiscovery_nuclei-346782228",
+      "source": "project",
+      "proj_category": "Tools",
+      "title": "Nuclei v3.10.0 — v3.10.0",
+      "url": "https://github.com/projectdiscovery/nuclei/releases/tag/v3.10.0",
+      "score": null,
+      "author": "Nuclei",
+      "tags": [
+        "Nuclei",
+        "Release"
+      ],
+      "date": "2026-06-30T11:21:58Z"
+    },
+    {
+      "id": "hn-48730904",
+      "source": "hn",
+      "title": "Sony erases digital content from libraries; reminded we don't own what we buy",
+      "url": "https://arstechnica.com/gadgets/2026/06/sony-erases-digital-content-from-libraries-were-reminded-we-dont-own-what-we-buy/",
+      "score": 25,
+      "comments": 4,
+      "author": "pseudolus",
+      "tags": [],
+      "date": "2026-06-30T11:02:10+00:00"
+    },
+    {
+      "id": "qiita-4f4f034fbc",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "【読書の夏？】各分野のおすすめ技術書を75冊まとめてみた",
+      "url": "https://qiita.com/miruky/items/8b3e5908a24952c10783?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "miruky",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-06-30T19:49:30+09:00"
+    },
+    {
+      "id": "hn-48730818",
+      "source": "hn",
+      "title": "Parse, Don't Validate – In a Language That Doesn't Want You To",
+      "url": "https://cekrem.github.io/posts/parse-dont-validate-typescript/",
+      "score": 6,
+      "comments": 1,
+      "author": "fagnerbrack",
+      "tags": [],
+      "date": "2026-06-30T10:48:23+00:00"
+    },
+    {
+      "id": "hn-48730729",
+      "source": "hn",
+      "title": "European digital ID wallets are a gift to Google and Apple",
+      "url": "https://waag.org/en/article/european-digital-id-wallets-are-gift-google-and-apple/",
+      "score": 75,
+      "comments": 29,
+      "author": "donohoe",
+      "tags": [],
+      "date": "2026-06-30T10:36:23+00:00"
+    },
+    {
+      "id": "hn-48730694",
+      "source": "hn",
+      "title": "Exercise intensity influences body composition in healthy older adults",
+      "url": "https://www.maturitas.org/article/S0378-5122(25)00571-7/fulltext",
+      "score": 12,
+      "comments": 7,
+      "author": "bookofjoe",
+      "tags": [],
+      "date": "2026-06-30T10:31:02+00:00"
+    },
+    {
+      "id": "hn-48730246",
+      "source": "hn",
+      "title": "Antares Achieves Criticality of Mark-0 Reactor",
+      "url": "https://antaresindustries.com/updates/antares-achieves-criticality",
+      "score": 31,
+      "comments": 12,
+      "author": "clarionbell",
+      "tags": [],
+      "date": "2026-06-30T09:15:21+00:00",
+      "severity": "critical"
+    },
     {
       "id": "qiita-d66c6c2804",
       "source": "zennqiita",
@@ -155,8 +238,8 @@
       "source": "hn",
       "title": "Exploring PDP-1 Lisp (1960)",
       "url": "https://obsolescence.dev/pdp1-lisp-introduction.html",
-      "score": 63,
-      "comments": 16,
+      "score": 84,
+      "comments": 21,
       "author": "ozymandiax",
       "tags": [],
       "date": "2026-06-30T00:56:42+00:00"
@@ -179,8 +262,8 @@
       "source": "hn",
       "title": "Memory Safe Context Switching",
       "url": "https://fil-c.org/context_switches",
-      "score": 113,
-      "comments": 23,
+      "score": 146,
+      "comments": 25,
       "author": "modeless",
       "tags": [],
       "date": "2026-06-30T00:38:19+00:00"
@@ -190,8 +273,8 @@
       "source": "hn",
       "title": "LongCat-2.0, a large-scale MoE model with 1.6T total and 48B Active",
       "url": "https://longcat.chat/blog/longcat-2.0/",
-      "score": 124,
-      "comments": 38,
+      "score": 170,
+      "comments": 45,
       "author": "benjiro29",
       "tags": [],
       "date": "2026-06-30T00:30:11+00:00"
@@ -273,8 +356,8 @@
       "source": "hn",
       "title": ".self: A new top-level domain designed to support self-hosting",
       "url": "https://hccf.onmy.cloud/2026/06/21/reclaiming-our-digital-selves-hccfs-vision-for-a-human-centered-top-level-domain/",
-      "score": 491,
-      "comments": 276,
+      "score": 540,
+      "comments": 313,
       "author": "HumanCCF",
       "tags": [],
       "date": "2026-06-29T19:49:28+00:00"
@@ -342,8 +425,8 @@
       "source": "hn",
       "title": "Ornith-1.0: self-improving open-source models for agentic coding",
       "url": "https://github.com/deepreinforce-ai/Ornith-1",
-      "score": 205,
-      "comments": 39,
+      "score": 218,
+      "comments": 40,
       "author": "danboarder",
       "tags": [],
       "date": "2026-06-29T17:16:17+00:00",
@@ -354,8 +437,8 @@
       "source": "hn",
       "title": "Qwen 3.6 27B is the sweet spot for local development",
       "url": "https://quesma.com/blog/qwen-36-is-awesome/",
-      "score": 890,
-      "comments": 601,
+      "score": 962,
+      "comments": 629,
       "author": "stared",
       "tags": [],
       "date": "2026-06-29T17:05:16+00:00"
@@ -387,8 +470,8 @@
       "source": "hn",
       "title": "US Supreme Court rules geofence warrants require constitutional protections",
       "url": "https://www.theguardian.com/us-news/2026/jun/29/supreme-court-geofence-warrants-case-decision",
-      "score": 517,
-      "comments": 244,
+      "score": 537,
+      "comments": 250,
       "author": "cdrnsf",
       "tags": [],
       "date": "2026-06-29T15:54:24+00:00"
@@ -431,8 +514,8 @@
       "source": "hn",
       "title": "Linux for the Sega MegaDrive",
       "url": "https://github.com/LinuxMD/linuxmd",
-      "score": 96,
-      "comments": 13,
+      "score": 126,
+      "comments": 15,
       "author": "HardwareLust",
       "tags": [],
       "date": "2026-06-29T15:01:39+00:00"
@@ -475,8 +558,8 @@
       "source": "hn",
       "title": "Rocketlab acquires Iridium",
       "url": "https://investors.rocketlabcorp.com/news-releases/news-release-details/rocket-lab-acquire-iridium-historic-deal-creating-fully",
-      "score": 405,
-      "comments": 266,
+      "score": 419,
+      "comments": 277,
       "author": "everfrustrated",
       "tags": [],
       "date": "2026-06-29T14:09:24+00:00"
@@ -675,19 +758,6 @@
       "author": "DR_MING",
       "tags": [],
       "date": "2026-06-29T08:58:09+00:00"
-    },
-    {
-      "id": "qiita-4f4f034fbc",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "【読書の夏？】各分野のおすすめ技術書を75冊まとめてみた",
-      "url": "https://qiita.com/miruky/items/8b3e5908a24952c10783?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "miruky",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-06-29T17:14:41+09:00"
     },
     {
       "id": "hn-48716009",
@@ -919,8 +989,8 @@
       "source": "hn",
       "title": "30-year sentence for transporting zines is a five-alarm fire for free speech",
       "url": "https://theintercept.com/2026/06/26/daniel-sanchez-estrada-zines-prairieland-free-speech/",
-      "score": 440,
-      "comments": 260,
+      "score": 612,
+      "comments": 347,
       "author": "xrd",
       "tags": [],
       "date": "2026-06-28T21:42:39+00:00"
@@ -1452,8 +1522,8 @@
       "source": "hn",
       "title": "One million passports leaked online",
       "url": "https://www.theverge.com/tech/947157/passports-data-breach-cannabis-club-systems-nefos-puffpal",
-      "score": 251,
-      "comments": 134,
+      "score": 299,
+      "comments": 186,
       "author": "jruohonen",
       "tags": [],
       "date": "2026-06-28T11:22:49+00:00"
@@ -1583,6 +1653,17 @@
       "author": "handfuloflight",
       "tags": [],
       "date": "2026-06-28T04:31:18+00:00"
+    },
+    {
+      "id": "hn-48704289",
+      "source": "hn",
+      "title": "Building a custom octocopter from scratch with no prior hardware experience",
+      "url": "https://karolina.mgdubiel.com/drone/",
+      "score": 64,
+      "comments": 15,
+      "author": "noleary",
+      "tags": [],
+      "date": "2026-06-28T04:17:44+00:00"
     },
     {
       "id": "qiita-81cc327676",
@@ -1805,8 +1886,8 @@
       "source": "hn",
       "title": "Old Computer Challenge",
       "url": "http://occ.sdf.org/",
-      "score": 56,
-      "comments": 15,
+      "score": 72,
+      "comments": 30,
       "author": "wrxd",
       "tags": [],
       "date": "2026-06-27T22:18:50+00:00"
@@ -2035,8 +2116,8 @@
       "source": "hn",
       "title": "Free the Icons",
       "url": "https://weblog.rogueamoeba.com/2026/06/26/free-the-icons/",
-      "score": 424,
-      "comments": 116,
+      "score": 504,
+      "comments": 154,
       "author": "zdw",
       "tags": [],
       "date": "2026-06-27T15:05:17+00:00"
@@ -2046,8 +2127,8 @@
       "source": "hn",
       "title": "Alan Kay on the meaning of \"object-oriented programming\" (2003)",
       "url": "https://notes.shixiangxi.com/en/docs/appendix/alan-kay-on-oop/",
-      "score": 60,
-      "comments": 18,
+      "score": 77,
+      "comments": 45,
       "author": "sxx0",
       "tags": [],
       "date": "2026-06-27T14:49:05+00:00"
@@ -2651,8 +2732,8 @@
       "source": "hn",
       "title": "How to corrupt an SQLite database file",
       "url": "https://www.sqlite.org/howtocorrupt.html",
-      "score": 70,
-      "comments": 15,
+      "score": 95,
+      "comments": 18,
       "author": "tosh",
       "tags": [],
       "date": "2026-06-26T18:05:39+00:00"
@@ -3146,8 +3227,8 @@
       "source": "hn",
       "title": "Open Source Low Tech",
       "url": "https://opensourcelowtech.org/",
-      "score": 96,
-      "comments": 24,
+      "score": 296,
+      "comments": 60,
       "author": "grep_it",
       "tags": [],
       "date": "2026-06-26T06:35:17+00:00",
@@ -3434,11 +3515,22 @@
       "source": "hn",
       "title": "Zig – SPIR-V Backend Progress",
       "url": "https://ziglang.org/devlog/2026/#2026-06-26",
-      "score": 59,
-      "comments": 21,
+      "score": 75,
+      "comments": 38,
       "author": "Retro_Dev",
       "tags": [],
       "date": "2026-06-25T22:03:14+00:00"
+    },
+    {
+      "id": "hn-48679762",
+      "source": "hn",
+      "title": "The operating cost starts after the demo",
+      "url": "https://twoheads.net/the-promise-is-unattended-work/",
+      "score": 28,
+      "comments": 14,
+      "author": "hellokfk",
+      "tags": [],
+      "date": "2026-06-25T21:58:08+00:00"
     },
     {
       "id": "hn-48679608",
@@ -5237,92 +5329,6 @@
       "date": "2026-06-24T10:51:26+09:00"
     },
     {
-      "id": "qiita-199b893112",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "GeminiでText-to-SQLの精度改善を実験してみた",
-      "url": "https://qiita.com/take-yoda/items/6392ad3b5921a1d975b6?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "take-yoda",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-06-24T10:04:48+09:00"
-    },
-    {
-      "id": "qiita-18c4c218be",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "BigQueryでグラフ分析ができる！新しい「Graph」機能をSNSデータの例で試してみた",
-      "url": "https://qiita.com/ta-ito0611/items/432725de703dc4b644aa?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "ta-ito0611",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-06-24T09:40:43+09:00"
-    },
-    {
-      "id": "qiita-916794ec11",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "Copilot Cowork の従量課金を抑えるという観点について考えを整理してみる",
-      "url": "https://qiita.com/Takashi_Masumori/items/f7aab1e87a4175f0ccc8?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "Takashi_Masumori",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-06-24T09:38:10+09:00"
-    },
-    {
-      "id": "hn-48653476",
-      "source": "hn",
-      "title": "Show HN: Y – A malleable coding-agent desktop app built with Electron",
-      "url": "https://github.com/y-times-y/y",
-      "score": 10,
-      "comments": 5,
-      "author": "HetPatel106",
-      "tags": [],
-      "date": "2026-06-24T00:15:31+00:00"
-    },
-    {
-      "id": "qiita-9daaa3d6ae",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "バズってる「STORMプロンプト」、実は一番大事な部分が抜けてます【Stanford論文ベース】",
-      "url": "https://qiita.com/jqit_suwa/items/8168cd532e692ebcd4b0?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "jqit_suwa",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-06-24T09:04:53+09:00"
-    },
-    {
-      "id": "hn-48653338",
-      "source": "hn",
-      "title": "FEXPRs vs. vtable: how LispE interpreter works",
-      "url": "https://github.com/naver/lispe/wiki/2.7-FEXPR-vs.-vtable",
-      "score": 56,
-      "comments": 6,
-      "author": "birdculture",
-      "tags": [],
-      "date": "2026-06-23T23:57:41+00:00"
-    },
-    {
-      "id": "hn-48653216",
-      "source": "hn",
-      "title": "Vulnerability reports are not special anymore",
-      "url": "https://words.filippo.io/vuln-reports/",
-      "score": 350,
-      "comments": 198,
-      "author": "goranmoomin",
-      "tags": [],
-      "date": "2026-06-23T23:42:46+00:00",
-      "severity": "high"
-    },
-    {
       "id": "ctf-3967721",
       "source": "project",
       "proj_category": "CTF",
@@ -5349,20 +5355,6 @@
         "Security"
       ],
       "date": "2026-06-22T01:22:26Z"
-    },
-    {
-      "id": "ghrel-projectdiscovery_nuclei-337145344",
-      "source": "project",
-      "proj_category": "Tools",
-      "title": "Nuclei v3.9.0 — v3.9.0",
-      "url": "https://github.com/projectdiscovery/nuclei/releases/tag/v3.9.0",
-      "score": null,
-      "author": "Nuclei",
-      "tags": [
-        "Nuclei",
-        "Release"
-      ],
-      "date": "2026-06-10T10:17:31Z"
     },
     {
       "id": "ghrel-fortra_impacket-325120279",

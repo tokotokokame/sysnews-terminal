@@ -1,14 +1,61 @@
 {
-  "updated_at": "2026-06-30T23:21:38.599345+00:00",
+  "updated_at": "2026-07-01T01:40:04.171462+00:00",
   "count": 500,
   "items": [
+    {
+      "id": "hn-48741359",
+      "source": "hn",
+      "title": "Forestiere Underground Gardens",
+      "url": "https://en.wikipedia.org/wiki/Forestiere_Underground_Gardens",
+      "score": 6,
+      "comments": 0,
+      "author": "onemoresoop",
+      "tags": [],
+      "date": "2026-07-01T01:23:09+00:00"
+    },
+    {
+      "id": "qiita-6a7acba084",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "Oracle GDAI で実現するグローバル分散 AI データベースを整理してみてみた",
+      "url": "https://qiita.com/shirok/items/ed7856c563798df39a27?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "shirok",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-07-01T09:57:23+09:00"
+    },
+    {
+      "id": "hn-48740771",
+      "source": "hn",
+      "title": "Department of Commerce has lifted export controls on Claude Fable 5 and Mythos 5",
+      "url": "https://twitter.com/AnthropicAI/status/2072106151890809341",
+      "score": 220,
+      "comments": 79,
+      "author": "Pragmata",
+      "tags": [],
+      "date": "2026-06-30T23:55:12+00:00",
+      "severity": "critical"
+    },
+    {
+      "id": "hn-48740698",
+      "source": "hn",
+      "title": "Google copybara: moving code between repositories",
+      "url": "https://github.com/google/copybara",
+      "score": 41,
+      "comments": 5,
+      "author": "reconnecting",
+      "tags": [],
+      "date": "2026-06-30T23:45:39+00:00"
+    },
     {
       "id": "hn-48740135",
       "source": "hn",
       "title": "Hatari – Online Atari ST/STE/TT/Falcon Emulator",
       "url": "https://hatari.frama.io/hatari/online/hatari.html",
-      "score": 11,
-      "comments": 2,
+      "score": 31,
+      "comments": 3,
       "author": "gregsadetsky",
       "tags": [],
       "date": "2026-06-30T22:34:23+00:00"
@@ -18,8 +65,8 @@
       "source": "hn",
       "title": "TabFM: A zero-shot foundation model for tabular data",
       "url": "https://research.google/blog/introducing-tabfm-a-zero-shot-foundation-model-for-tabular-data/",
-      "score": 17,
-      "comments": 3,
+      "score": 38,
+      "comments": 6,
       "author": "brandonb",
       "tags": [],
       "date": "2026-06-30T22:08:38+00:00"
@@ -40,8 +87,8 @@
       "source": "hn",
       "title": "From brain waves to words: a new path to communication without surgery",
       "url": "https://ai.meta.com/blog/brain2qwerty-brain-ai-human-communication/?_fb_noscript=1",
-      "score": 72,
-      "comments": 42,
+      "score": 108,
+      "comments": 57,
       "author": "alok-g",
       "tags": [],
       "date": "2026-06-30T21:29:13+00:00"
@@ -51,8 +98,8 @@
       "source": "hn",
       "title": "I ported Kubernetes to the browser",
       "url": "https://ngrok.com/blog/i-ported-kubernetes-to-the-browser",
-      "score": 122,
-      "comments": 27,
+      "score": 164,
+      "comments": 55,
       "author": "peterdemin",
       "tags": [],
       "date": "2026-06-30T20:48:36+00:00"
@@ -62,8 +109,8 @@
       "source": "hn",
       "title": "Leanstral 1.5",
       "url": "https://docs.mistral.ai/models/model-cards/leanstral-1-5-26-06",
-      "score": 51,
-      "comments": 3,
+      "score": 100,
+      "comments": 19,
       "author": "vetronauta",
       "tags": [],
       "date": "2026-06-30T20:44:56+00:00"
@@ -84,8 +131,8 @@
       "source": "hn",
       "title": "Tokyo has only two barley tea makers, we visited one to see how mugicha is made",
       "url": "https://soranews24.com/2026/06/30/tokyo-has-only-two-barley-tea-makers-and-we-visited-one-to-see-how-mugicha-is-made/",
-      "score": 36,
-      "comments": 8,
+      "score": 67,
+      "comments": 12,
       "author": "zdw",
       "tags": [],
       "date": "2026-06-30T19:47:24+00:00"
@@ -106,8 +153,8 @@
       "source": "hn",
       "title": "Claude Sonnet 5",
       "url": "https://www.anthropic.com/news/claude-sonnet-5",
-      "score": 787,
-      "comments": 445,
+      "score": 881,
+      "comments": 496,
       "author": "marinesebastian",
       "tags": [],
       "date": "2026-06-30T17:59:52+00:00"
@@ -117,8 +164,8 @@
       "source": "hn",
       "title": "I built a mmWave material classification radar (2025)",
       "url": "https://gauthier-lechevalier.com/radar",
-      "score": 117,
-      "comments": 33,
+      "score": 140,
+      "comments": 37,
       "author": "GL26",
       "tags": [],
       "date": "2026-06-30T17:29:36+00:00"
@@ -128,8 +175,8 @@
       "source": "hn",
       "title": "Claude Science",
       "url": "https://claude.com/product/claude-science",
-      "score": 323,
-      "comments": 109,
+      "score": 366,
+      "comments": 122,
       "author": "lebovic",
       "tags": [],
       "date": "2026-06-30T17:07:41+00:00"
@@ -161,8 +208,8 @@
       "source": "hn",
       "title": "Show HN: My 13-year-old built an ant colony tracker",
       "url": "https://formicarium.es",
-      "score": 26,
-      "comments": 19,
+      "score": 39,
+      "comments": 30,
       "author": "abelgvidal",
       "tags": [],
       "date": "2026-06-30T16:48:47+00:00"
@@ -172,8 +219,8 @@
       "source": "hn",
       "title": "Nano Banana 2 Lite",
       "url": "https://deepmind.google/models/gemini-image/flash-lite/",
-      "score": 275,
-      "comments": 104,
+      "score": 305,
+      "comments": 119,
       "author": "minimaxir",
       "tags": [],
       "date": "2026-06-30T16:48:37+00:00"
@@ -205,8 +252,8 @@
       "source": "hn",
       "title": "Claude Code is steganographically marking requests",
       "url": "https://thereallo.dev/blog/claude-code-prompt-steganography",
-      "score": 1269,
-      "comments": 358,
+      "score": 1420,
+      "comments": 403,
       "author": "kirushik",
       "tags": [],
       "date": "2026-06-30T15:44:24+00:00"
@@ -271,8 +318,8 @@
       "source": "hn",
       "title": "Knoppix",
       "url": "https://www.knopper.net/knoppix/index-en.html",
-      "score": 233,
-      "comments": 95,
+      "score": 255,
+      "comments": 103,
       "author": "hoangvmpc",
       "tags": [],
       "date": "2026-06-30T12:54:01+00:00"
@@ -594,19 +641,6 @@
       "date": "2026-06-30T10:57:52+09:00"
     },
     {
-      "id": "qiita-6a7acba084",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "Oracle GDAI で実現するグローバル分散 AI データベースを整理してみてみた",
-      "url": "https://qiita.com/shirok/items/ed7856c563798df39a27?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "shirok",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-06-30T10:21:49+09:00"
-    },
-    {
       "id": "hn-48727323",
       "source": "hn",
       "title": "Exploring PDP-1 Lisp (1960)",
@@ -765,8 +799,8 @@
       "source": "hn",
       "title": "CERN bids farewell to the LHC and enters Long Shutdown 3",
       "url": "https://home.cern/cern-bids-farewell-to-the-lhc-and-enters-long-shutdown-3/",
-      "score": 86,
-      "comments": 21,
+      "score": 116,
+      "comments": 32,
       "author": "HelloUsername",
       "tags": [],
       "date": "2026-06-29T18:52:25+00:00"
@@ -1384,8 +1418,8 @@
       "source": "hn",
       "title": "How does a pull-back car work? Illustrated teardown",
       "url": "https://mechanical-pencil.com/products/car",
-      "score": 69,
-      "comments": 17,
+      "score": 105,
+      "comments": 26,
       "author": "Muhammad523",
       "tags": [],
       "date": "2026-06-28T22:16:20+00:00"
@@ -1463,8 +1497,8 @@
       "source": "hn",
       "title": "Ante: A new way to blend borrow checking and reference counting",
       "url": "https://verdagon.dev/blog/ante-blending-borrowing-rc",
-      "score": 18,
-      "comments": 2,
+      "score": 47,
+      "comments": 14,
       "author": "g0xA52A2A",
       "tags": [],
       "date": "2026-06-28T19:37:45+00:00"
@@ -1849,11 +1883,22 @@
       "source": "hn",
       "title": "Hengefinder",
       "url": "https://hengefinder.com/",
-      "score": 7,
-      "comments": 1,
+      "score": 20,
+      "comments": 10,
       "author": "bookofjoe",
       "tags": [],
       "date": "2026-06-28T14:24:06+00:00"
+    },
+    {
+      "id": "hn-48707527",
+      "source": "hn",
+      "title": "Deriving SVD without even aiming at it",
+      "url": "https://stillthinking.net/posts/connections-in-math-svd/",
+      "score": 7,
+      "comments": 0,
+      "author": "pcael",
+      "tags": [],
+      "date": "2026-06-28T14:21:17+00:00"
     },
     {
       "id": "hn-48707361",
@@ -2137,7 +2182,7 @@
       "source": "hn",
       "title": "Building a custom octocopter from scratch with no prior hardware experience",
       "url": "https://karolina.mgdubiel.com/drone/",
-      "score": 315,
+      "score": 328,
       "comments": 69,
       "author": "noleary",
       "tags": [],
@@ -2486,8 +2531,8 @@
       "source": "hn",
       "title": "Stroustrup's Rule (2024)",
       "url": "https://buttondown.com/hillelwayne/archive/stroustrups-rule/",
-      "score": 38,
-      "comments": 4,
+      "score": 54,
+      "comments": 8,
       "author": "bmacho",
       "tags": [],
       "date": "2026-06-27T21:01:43+00:00"
@@ -5133,8 +5178,8 @@
       "source": "hn",
       "title": "Long Island's decommissioned nuclear power plant",
       "url": "https://nickcarr.com/scouting-a-decommissioned-nuclear-power-plant/",
-      "score": 47,
-      "comments": 4,
+      "score": 74,
+      "comments": 11,
       "author": "mkmk",
       "tags": [],
       "date": "2026-06-24T21:41:29+00:00"
@@ -5264,50 +5309,6 @@
       "date": "2026-06-24T18:05:33+00:00"
     },
     {
-      "id": "hn-48663324",
-      "source": "hn",
-      "title": "OpenAI unveils its first custom chip, built by Broadcom",
-      "url": "https://techcrunch.com/2026/06/24/openai-unveils-its-first-custom-chip-built-by-broadcom/",
-      "score": 777,
-      "comments": 447,
-      "author": "jamdesk",
-      "tags": [],
-      "date": "2026-06-24T17:47:00+00:00"
-    },
-    {
-      "id": "hn-48662999",
-      "source": "hn",
-      "title": "Computer use in Gemini 3.5 Flash",
-      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-computer-use-gemini-3-5-flash/",
-      "score": 224,
-      "comments": 144,
-      "author": "swolpers",
-      "tags": [],
-      "date": "2026-06-24T17:21:34+00:00"
-    },
-    {
-      "id": "hn-48662988",
-      "source": "hn",
-      "title": "Show HN: DBOSify – Drop-in Temporal replacement built on Postgres",
-      "url": "https://github.com/dbos-inc/dbosify-py",
-      "score": 63,
-      "comments": 9,
-      "author": "KraftyOne",
-      "tags": [],
-      "date": "2026-06-24T17:20:48+00:00"
-    },
-    {
-      "id": "hn-48662805",
-      "source": "hn",
-      "title": "Ubisoft co-founder Claude Guillemot dies in plane crash",
-      "url": "https://techcrunch.com/2026/06/21/ubisoft-co-founder-claude-guillemot-dies-in-plane-crash/",
-      "score": 8,
-      "comments": 0,
-      "author": "randycupertino",
-      "tags": [],
-      "date": "2026-06-24T17:07:01+00:00"
-    },
-    {
       "id": "ctf-3975357",
       "source": "project",
       "proj_category": "CTF",
@@ -5404,6 +5405,71 @@
         "Release"
       ],
       "date": "2023-05-23T17:06:23Z"
+    },
+    {
+      "id": "zenn-ad73c0d9e2",
+      "source": "zennqiita",
+      "sub_source": "Zenn",
+      "title": "ローカルLLMで「Pi」エージェントを動かす",
+      "url": "https://zenn.dev/fuwamoekissaten/articles/bb5f5364838ced",
+      "score": null,
+      "author": "aipracticecafe",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Tue, 30 Jun 2026 10:25:15 GMT"
+    },
+    {
+      "id": "zenn-12057466cf",
+      "source": "zennqiita",
+      "sub_source": "Zenn",
+      "title": "はじめて AI エージェント向けの CLI ツールを作ってみて気づいたこと",
+      "url": "https://zenn.dev/chot/articles/dca4889fa27d27",
+      "score": null,
+      "author": "arrow2nd",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Tue, 30 Jun 2026 06:54:49 GMT"
+    },
+    {
+      "id": "zenn-1744a03409",
+      "source": "zennqiita",
+      "sub_source": "Zenn",
+      "title": "ローカルLLMでハルシネーションを見抜く",
+      "url": "https://zenn.dev/starai_org/articles/1b09b1971a2a2b",
+      "score": null,
+      "author": "takeaki maekawa",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Tue, 30 Jun 2026 06:26:06 GMT"
+    },
+    {
+      "id": "zenn-05d427eb21",
+      "source": "zennqiita",
+      "sub_source": "Zenn",
+      "title": "Gemini Embedding 2で作るネイティブマルチモーダルRAG",
+      "url": "https://zenn.dev/aishift/articles/83708f752b3c87",
+      "score": null,
+      "author": "u-hyszk",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Tue, 30 Jun 2026 03:03:50 GMT"
+    },
+    {
+      "id": "zenn-ad12dd8291",
+      "source": "zennqiita",
+      "sub_source": "Zenn",
+      "title": "【Qase×AI】テスト資産の管理をAIに任せてみた",
+      "url": "https://zenn.dev/edash_tech_blog/articles/pulasqaaa-003",
+      "score": null,
+      "author": "pulasQ",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Tue, 30 Jun 2026 03:00:16 GMT"
     },
     {
       "id": "zenn-2e1c3ceaf8",
@@ -5510,17 +5576,17 @@
       "date": "Tue, 30 Jun 2026 00:05:55 GMT"
     },
     {
-      "id": "zenn-9f7ddca05a",
+      "id": "zenn-0fcead8f04",
       "source": "zennqiita",
       "sub_source": "Zenn",
-      "title": "OpenTelemetry に reasoning.level 属性を追加しました",
-      "url": "https://zenn.dev/studist/articles/opentelemetry-genai-reasoning-level",
+      "title": "E2E テストのカバレッジ指標に「ページ網羅率」と「RPC(API) 網羅率」を導入する",
+      "url": "https://zenn.dev/knowledgework/articles/e2e-coverage",
       "score": null,
-      "author": "Katsuhisa Kitano",
+      "author": "jinjor",
       "tags": [
         "Zenn"
       ],
-      "date": "Mon, 29 Jun 2026 23:00:11 GMT"
+      "date": "Mon, 29 Jun 2026 23:48:10 GMT"
     },
     {
       "id": "zenn-275d6b4432",
@@ -5530,6 +5596,19 @@
       "url": "https://zenn.dev/sonicmoov/articles/1d42acb18af2f5",
       "score": null,
       "author": "numoto",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Mon, 29 Jun 2026 23:00:11 GMT"
+    },
+    {
+      "id": "zenn-9f7ddca05a",
+      "source": "zennqiita",
+      "sub_source": "Zenn",
+      "title": "OpenTelemetry に reasoning.level 属性を追加しました",
+      "url": "https://zenn.dev/studist/articles/opentelemetry-genai-reasoning-level",
+      "score": null,
+      "author": "Katsuhisa Kitano",
       "tags": [
         "Zenn"
       ],
@@ -5547,84 +5626,6 @@
         "Zenn"
       ],
       "date": "Mon, 29 Jun 2026 23:00:10 GMT"
-    },
-    {
-      "id": "zenn-b41edbf572",
-      "source": "zennqiita",
-      "sub_source": "Zenn",
-      "title": "AI時代に、自動化についてもう一度考える",
-      "url": "https://zenn.dev/namoo_san/articles/3cc632399946e5",
-      "score": null,
-      "author": "namoo-san",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Mon, 29 Jun 2026 15:09:42 GMT"
-    },
-    {
-      "id": "zenn-161b40a284",
-      "source": "zennqiita",
-      "sub_source": "Zenn",
-      "title": "LLMエージェントを『コスパ良く・高精度に』組む技術：Clearwingのワークフロー設計に学ぶ",
-      "url": "https://zenn.dev/khale/articles/llm-agent-cost-accuracy-clearwing",
-      "score": null,
-      "author": "khale",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Mon, 29 Jun 2026 15:04:56 GMT"
-    },
-    {
-      "id": "zenn-c6b975dde6",
-      "source": "zennqiita",
-      "sub_source": "Zenn",
-      "title": "「なんとなくの性能差」にサヨナラ。GitHub Copilot、Claude Code、Cursor の裏側の仕組みを調べてみた。",
-      "url": "https://zenn.dev/sonicmoov/articles/63a6ae419db43a",
-      "score": null,
-      "author": "chacreate",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Mon, 29 Jun 2026 15:00:05 GMT"
-    },
-    {
-      "id": "zenn-5bb26665ac",
-      "source": "zennqiita",
-      "sub_source": "Zenn",
-      "title": "2026 Japan AWS Top Engineersに選ばれた話",
-      "url": "https://zenn.dev/penginpenguin/articles/560641da466bff",
-      "score": null,
-      "author": "ぺんぎん",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Mon, 29 Jun 2026 13:33:06 GMT"
-    },
-    {
-      "id": "zenn-76a1fb9340",
-      "source": "zennqiita",
-      "sub_source": "Zenn",
-      "title": "Snowflake、Auto ML始めたってよ。",
-      "url": "https://zenn.dev/takikomi/articles/4333c479cecc0b",
-      "score": null,
-      "author": "たきこみ",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Mon, 29 Jun 2026 11:26:21 GMT"
-    },
-    {
-      "id": "zenn-22f95bac24",
-      "source": "zennqiita",
-      "sub_source": "Zenn",
-      "title": "マーケティング担当がAIと一緒に、LINEのアンケート→出し分け配信を無料で作ってみた",
-      "url": "https://zenn.dev/teradox_blog/articles/19228a95b22456",
-      "score": null,
-      "author": "Y.Tsuchimoto",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Mon, 29 Jun 2026 09:49:24 GMT"
     },
     {
       "id": "zenn-5abb0403dc",
@@ -5653,17 +5654,17 @@
       "date": "Mon, 29 Jun 2026 03:43:53 GMT"
     },
     {
-      "id": "zenn-df5f3e2928",
+      "id": "zenn-43f15f42d7",
       "source": "zennqiita",
       "sub_source": "Zenn",
-      "title": "超便利なClaude Designの実践的な活用方法",
-      "url": "https://zenn.dev/branbran/articles/5730c47e1abac9",
+      "title": "Claude Codeに同じバグを3回出すと、自動でルール化される話",
+      "url": "https://zenn.dev/nexta_/articles/858e92ee22b4a4",
       "score": null,
-      "author": "Atsuki02",
+      "author": "bik",
       "tags": [
         "Zenn"
       ],
-      "date": "Mon, 29 Jun 2026 00:30:05 GMT"
+      "date": "Mon, 29 Jun 2026 02:00:09 GMT"
     },
     {
       "id": "edb-3a6bcc02f2",

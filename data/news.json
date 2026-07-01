@@ -1,7 +1,119 @@
 {
-  "updated_at": "2026-07-01T13:33:51.913979+00:00",
+  "updated_at": "2026-07-01T16:26:29.657689+00:00",
   "count": 500,
   "items": [
+    {
+      "id": "hn-48749313",
+      "source": "hn",
+      "title": "Reduce GVisor Cold Starts with GPU Snapshotting",
+      "url": "https://cerebrium.ai/blog/reducing-gpu-cold-starts-with-memory-snapshots-restoring-cuda-workloads-in-second",
+      "score": 5,
+      "comments": 0,
+      "author": "jono_irwin",
+      "tags": [],
+      "date": "2026-07-01T16:19:47+00:00"
+    },
+    {
+      "id": "hn-48748679",
+      "source": "hn",
+      "title": "Meta loses bid to dismiss US states' claims that FB, Instagram addict children",
+      "url": "https://www.reuters.com/legal/government/meta-loses-bid-dismiss-us-states-claims-that-facebook-instagram-addict-children-2026-06-30/",
+      "score": 28,
+      "comments": 1,
+      "author": "tartoran",
+      "tags": [],
+      "date": "2026-07-01T15:40:56+00:00"
+    },
+    {
+      "id": "hn-48748518",
+      "source": "hn",
+      "title": "How We Made IPFS Content Publishing 10x Faster",
+      "url": "https://probelab.io/blog/optimistic-provide/",
+      "score": 8,
+      "comments": 0,
+      "author": "dennis-tra",
+      "tags": [],
+      "date": "2026-07-01T15:30:35+00:00"
+    },
+    {
+      "id": "hn-48747407",
+      "source": "hn",
+      "title": "Ray Tracer in SQL",
+      "url": "https://github.com/ClickHouse/RayTracer",
+      "score": 17,
+      "comments": 2,
+      "author": "kbumsik",
+      "tags": [],
+      "date": "2026-07-01T14:27:48+00:00"
+    },
+    {
+      "id": "hn-48747389",
+      "source": "hn",
+      "title": "Sony Deletes 551 Movies PlayStation Owners Paid For",
+      "url": "https://reclaimthenet.org/sony-deletes-551-studiocanal-movies-playstation-owners-paid-for",
+      "score": 141,
+      "comments": 60,
+      "author": "bilsbie",
+      "tags": [],
+      "date": "2026-07-01T14:26:07+00:00"
+    },
+    {
+      "id": "hn-48747304",
+      "source": "hn",
+      "title": "For first time, a cell built from scratch grows and divides",
+      "url": "https://www.quantamagazine.org/for-the-first-time-a-cell-built-from-scratch-grows-and-divides-20260701/",
+      "score": 175,
+      "comments": 46,
+      "author": "defrost",
+      "tags": [],
+      "date": "2026-07-01T14:20:52+00:00"
+    },
+    {
+      "id": "hn-48746940",
+      "source": "hn",
+      "title": "The C to Rust migration book",
+      "url": "https://mainmatter.com/c-to-rust-migration-book/",
+      "score": 16,
+      "comments": 7,
+      "author": "LukeMathWalker",
+      "tags": [],
+      "date": "2026-07-01T14:00:29+00:00"
+    },
+    {
+      "id": "hn-48746914",
+      "source": "hn",
+      "title": "Monetization Gateway",
+      "url": "https://blog.cloudflare.com/monetization-gateway/",
+      "score": 67,
+      "comments": 14,
+      "author": "soheilpro",
+      "tags": [],
+      "date": "2026-07-01T13:59:13+00:00"
+    },
+    {
+      "id": "qiita-35d13ba124",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "Cloud SQL に触る道が増えた — Next '26 新発表の Data API（HTTP）と Remote MCP サーバ（AI経由）を両方試してみた",
+      "url": "https://qiita.com/n-kawashima/items/b638ba26b53c684435f7?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "n-kawashima",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-07-01T22:44:08+09:00"
+    },
+    {
+      "id": "hn-48746445",
+      "source": "hn",
+      "title": "Most arguments are about ego, not ideas",
+      "url": "https://wangcong.org/2026-06-30-why-i-stopped-arguing-with-people.html",
+      "score": 503,
+      "comments": 388,
+      "author": "backlit4034",
+      "tags": [],
+      "date": "2026-07-01T13:29:29+00:00"
+    },
     {
       "id": "hn-48746331",
       "source": "hn",
@@ -12,6 +124,17 @@
       "author": "luigipederzani",
       "tags": [],
       "date": "2026-07-01T13:22:24+00:00"
+    },
+    {
+      "id": "hn-48746076",
+      "source": "hn",
+      "title": "Internal Combustion Engine",
+      "url": "https://ciechanow.ski/internal-combustion-engine/",
+      "score": 50,
+      "comments": 3,
+      "author": "StefanBatory",
+      "tags": [],
+      "date": "2026-07-01T13:04:16+00:00"
     },
     {
       "id": "hn-48745785",
@@ -29,19 +152,31 @@
       "source": "hn",
       "title": "Physical disc production ending in Jan 2028 for new games on PlayStation",
       "url": "https://blog.playstation.com/2026/07/01/physical-disc-production-ending-in-january-2028-for-new-games-releasing-on-playstation-consoles/",
-      "score": 70,
-      "comments": 42,
+      "score": 153,
+      "comments": 195,
       "author": "Tiberium",
       "tags": [],
       "date": "2026-07-01T12:13:34+00:00"
+    },
+    {
+      "id": "hn-48745445",
+      "source": "hn",
+      "title": "Announcing the release of Box3D, an open source 3D physics engine",
+      "url": "https://box2d.org/posts/2026/06/announcing-box3d/",
+      "score": 151,
+      "comments": 31,
+      "author": "makepanic",
+      "tags": [],
+      "date": "2026-07-01T12:12:17+00:00",
+      "severity": "critical"
     },
     {
       "id": "hn-48745113",
       "source": "hn",
       "title": "Nintendo has raised its employees base salary by 10%",
       "url": "https://mynintendonews.com/2026/06/26/nintendo-has-raised-its-employees-base-salary-by-10/",
-      "score": 109,
-      "comments": 29,
+      "score": 341,
+      "comments": 172,
       "author": "_tk_",
       "tags": [],
       "date": "2026-07-01T11:35:20+00:00"
@@ -73,8 +208,8 @@
       "source": "hn",
       "title": "Asahi Linux 7.1 Progress Report",
       "url": "https://asahilinux.org/2026/06/progress-report-7-1/",
-      "score": 294,
-      "comments": 67,
+      "score": 427,
+      "comments": 133,
       "author": "pantalaimon",
       "tags": [],
       "date": "2026-07-01T10:07:04+00:00"
@@ -200,24 +335,11 @@
       "source": "hn",
       "title": "ArXiv's Next Chapter",
       "url": "https://blog.arxiv.org/2026/06/30/arxivs-next-chapter/",
-      "score": 182,
-      "comments": 54,
+      "score": 232,
+      "comments": 70,
       "author": "subset",
       "tags": [],
       "date": "2026-07-01T02:51:36+00:00"
-    },
-    {
-      "id": "qiita-35d13ba124",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "Cloud SQL に触る道が増えた — Next '26 新発表の Data API（HTTP）と Remote MCP サーバ（AI経由）を両方試してみた",
-      "url": "https://qiita.com/n-kawashima/items/b638ba26b53c684435f7?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "n-kawashima",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-07-01T11:16:51+09:00"
     },
     {
       "id": "hn-48741359",
@@ -274,8 +396,8 @@
       "source": "hn",
       "title": "Department of Commerce has lifted export controls on Claude Fable 5 and Mythos 5",
       "url": "https://twitter.com/AnthropicAI/status/2072106151890809341",
-      "score": 780,
-      "comments": 487,
+      "score": 838,
+      "comments": 552,
       "author": "Pragmata",
       "tags": [],
       "date": "2026-06-30T23:55:12+00:00",
@@ -422,8 +544,8 @@
       "source": "hn",
       "title": "Claude Sonnet 5",
       "url": "https://www.anthropic.com/news/claude-sonnet-5",
-      "score": 1176,
-      "comments": 714,
+      "score": 1215,
+      "comments": 751,
       "author": "marinesebastian",
       "tags": [],
       "date": "2026-06-30T17:59:52+00:00"
@@ -581,6 +703,17 @@
       "author": "thinkingemote",
       "tags": [],
       "date": "2026-06-30T14:14:29+00:00"
+    },
+    {
+      "id": "hn-48732582",
+      "source": "hn",
+      "title": "Red Programming Language: Static linking support",
+      "url": "https://www.red-lang.org/2026/06/static-linking-support.html",
+      "score": 38,
+      "comments": 6,
+      "author": "em-bee",
+      "tags": [],
+      "date": "2026-06-30T13:36:20+00:00"
     },
     {
       "id": "hn-48732056",
@@ -1012,8 +1145,8 @@
       "source": "hn",
       "title": "Compiler-Assisted Floating-Point Error Analysis and Profiling with FPChecker",
       "url": "https://fpanalysistools.org/ISC26/",
-      "score": 3,
-      "comments": 0,
+      "score": 23,
+      "comments": 3,
       "author": "matt_d",
       "tags": [],
       "date": "2026-06-29T22:55:07+00:00"
@@ -1172,8 +1305,8 @@
       "source": "hn",
       "title": "Obfuscation: Building the final boss of cryptography (Part I)",
       "url": "https://vitalik.eth.limo/general/2026/06/29/obfuscation1.html",
-      "score": 32,
-      "comments": 0,
+      "score": 63,
+      "comments": 6,
       "author": "fbrusch",
       "tags": [],
       "date": "2026-06-29T16:35:20+00:00"
@@ -1183,8 +1316,8 @@
       "source": "hn",
       "title": "A deep dive into SmallVector:push_back",
       "url": "https://maskray.me/blog/2026-06-27-a-deep-dive-into-smallvector-push-back",
-      "score": 16,
-      "comments": 1,
+      "score": 27,
+      "comments": 6,
       "author": "mariuz",
       "tags": [],
       "date": "2026-06-29T16:30:00+00:00"
@@ -1801,8 +1934,8 @@
       "source": "hn",
       "title": "Newly discovered spider builds spring loaded snare to catch ants",
       "url": "https://phys.org/news/2026-06-newly-australian-ballista-spider-snare.html",
-      "score": 137,
-      "comments": 28,
+      "score": 194,
+      "comments": 42,
       "author": "chimpanzee",
       "tags": [],
       "date": "2026-06-28T20:05:56+00:00"
@@ -4955,6 +5088,17 @@
       "date": "2026-06-25T13:32:12+00:00"
     },
     {
+      "id": "hn-48672848",
+      "source": "hn",
+      "title": "1-Bit Pixel Art Emojis",
+      "url": "https://hypertalking.com/2023/05/15/1-bit-pixel-art-emojis/",
+      "score": 31,
+      "comments": 4,
+      "author": "surprisetalk",
+      "tags": [],
+      "date": "2026-06-25T13:15:18+00:00"
+    },
+    {
       "id": "qiita-b3a6ab8cda",
       "source": "zennqiita",
       "sub_source": "Qiita",
@@ -5142,112 +5286,6 @@
       "date": "2026-06-25T18:02:29+09:00"
     },
     {
-      "id": "qiita-b85341b910",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "Cursor の Editor ウィンドウと Agents ウィンドウ ― 役割の違いと使い分け",
-      "url": "https://qiita.com/Kinopee/items/fd514b80e54b5a98a133?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "Kinopee",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-06-25T17:48:54+09:00"
-    },
-    {
-      "id": "qiita-9704e7f40e",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "Google Cloud GenAI Skillup Japan 参加から Generative AI Leader 合格まで",
-      "url": "https://qiita.com/okawa1189/items/fd59b4c1eb6589b07bb6?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "okawa1189",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-06-25T17:30:48+09:00"
-    },
-    {
-      "id": "hn-48670579",
-      "source": "hn",
-      "title": "Bringing Swift to the Apple ][",
-      "url": "https://yeokhengmeng.com/2026/06/swift-on-apple-ii/",
-      "score": 44,
-      "comments": 2,
-      "author": "LucidLynx",
-      "tags": [],
-      "date": "2026-06-25T08:26:54+00:00"
-    },
-    {
-      "id": "hn-48670490",
-      "source": "hn",
-      "title": "Mad Fucking Witches",
-      "url": "https://www.mfw.org.au/",
-      "score": 3,
-      "comments": 1,
-      "author": "Alien1Being",
-      "tags": [],
-      "date": "2026-06-25T08:17:38+00:00"
-    },
-    {
-      "id": "hn-48670314",
-      "source": "hn",
-      "title": "We found a bug in the hyper HTTP library",
-      "url": "https://blog.cloudflare.com/hyper-bug/",
-      "score": 106,
-      "comments": 42,
-      "author": "Pop_-",
-      "tags": [],
-      "date": "2026-06-25T07:55:40+00:00"
-    },
-    {
-      "id": "hn-48670103",
-      "source": "hn",
-      "title": "The US Army Issued Ocarinas to Soldiers in World War II",
-      "url": "https://www.flutetunes.com/articles/my-flute-goes-to-war/",
-      "score": 110,
-      "comments": 60,
-      "author": "tomcam",
-      "tags": [],
-      "date": "2026-06-25T07:26:06+00:00"
-    },
-    {
-      "id": "hn-48669932",
-      "source": "hn",
-      "title": "Wikipedia Workers in Britain set global first by seeking union recognition",
-      "url": "https://utaw.tech/news/wikipedia-recognition",
-      "score": 185,
-      "comments": 171,
-      "author": "chobeat",
-      "tags": [],
-      "date": "2026-06-25T07:02:37+00:00"
-    },
-    {
-      "id": "qiita-7a94323fcf",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "IDOR — ソフトウェアアーキテクチャにおける「無邪気」だが致命的な脆弱性？",
-      "url": "https://qiita.com/luan_nguyen/items/d21c24d910853b96e542?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "luan_nguyen",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-06-25T15:10:26+09:00",
-      "severity": "high"
-    },
-    {
-      "id": "hn-48669534",
-      "source": "hn",
-      "title": "Half-Life 2 in a Browser",
-      "url": "https://hl2.slqnt.dev/",
-      "score": 612,
-      "comments": 245,
-      "author": "panza",
-      "tags": [],
-      "date": "2026-06-25T06:00:04+00:00"
-    },
-    {
       "id": "ctf-3984237",
       "source": "project",
       "proj_category": "CTF",
@@ -5260,54 +5298,6 @@
         "Security"
       ],
       "date": "2026-06-25T04:07:39Z"
-    },
-    {
-      "id": "hn-48668747",
-      "source": "hn",
-      "title": "Linux on Older Hardware: The Complete Revival Guide",
-      "url": "https://www.fosslinux.com/158206/linux-on-older-hardware-revival-guide.htm",
-      "score": 169,
-      "comments": 100,
-      "author": "tapanjk",
-      "tags": [],
-      "date": "2026-06-25T04:06:29+00:00"
-    },
-    {
-      "id": "hn-48668662",
-      "source": "hn",
-      "title": "GTA 6 Physical Copies Won't Include a Disc, Will Just Be a Code in a Box",
-      "url": "https://www.ign.com/articles/grand-theft-auto-6-physical-copies-wont-include-a-disc-will-just-be-a-code-in-a-box",
-      "score": 19,
-      "comments": 7,
-      "author": "jmsflknr",
-      "tags": [],
-      "date": "2026-06-25T03:54:50+00:00"
-    },
-    {
-      "id": "qiita-e379e3c49b",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "[IBM Bob] Bob 2.0提供開始 - 最新版へのアップデート方法",
-      "url": "https://qiita.com/ayatokura/items/39bae5c0b0f157062115?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "ayatokura",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-06-25T12:11:44+09:00"
-    },
-    {
-      "id": "qiita-16841ea58f",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "初めて「APIを叩く」｜Postmanで学ぶAPIの基本",
-      "url": "https://qiita.com/sewiihidekikudo/items/047cde263bc5e833fb66?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "sewiihidekikudo",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-06-25T11:56:40+09:00"
     },
     {
       "id": "ctf-3975357",
@@ -5659,7 +5649,7 @@
       "id": "zenn-2e1c3ceaf8",
       "source": "zennqiita",
       "sub_source": "Zenn",
-      "title": "ようこそ、ドメイン駆動設計へ",
+      "title": "ようこそ、ドメイン駆動設計へ｜無料公開中",
       "url": "https://zenn.dev/k_ing/books/ddd-first-book",
       "score": null,
       "author": "k_ing",

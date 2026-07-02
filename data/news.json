@@ -1,17 +1,86 @@
 {
-  "updated_at": "2026-07-02T18:57:28.089852+00:00",
+  "updated_at": "2026-07-02T20:21:40.736170+00:00",
   "count": 500,
   "items": [
     {
+      "id": "hn-48766598",
+      "source": "hn",
+      "title": "Lightning Memory-Mapped Database Manager (LMDB) 1.0",
+      "url": "http://www.lmdb.tech/doc/",
+      "score": 6,
+      "comments": 1,
+      "author": "radiator",
+      "tags": [],
+      "date": "2026-07-02T20:01:20+00:00"
+    },
+    {
+      "id": "hn-48766076",
+      "source": "hn",
+      "title": "Job seekers giving up: Labor force participation falls to lowest in 50 years",
+      "url": "https://www.cnbc.com/2026/07/02/job-seekers-giving-up-labor-force-participation-rate-falls-to-lowest-in-50-years-outside-of-covid-era.html",
+      "score": 40,
+      "comments": 25,
+      "author": "MilnerRoute",
+      "tags": [],
+      "date": "2026-07-02T19:16:20+00:00",
+      "severity": "critical"
+    },
+    {
+      "id": "hn-48765830",
+      "source": "hn",
+      "title": "JEP 539: Strict Field Initialization in the JVM moved to preview",
+      "url": "https://openjdk.org/jeps/539",
+      "score": 17,
+      "comments": 5,
+      "author": "za3faran",
+      "tags": [],
+      "date": "2026-07-02T18:56:33+00:00"
+    },
+    {
       "id": "hn-48765663",
       "source": "hn",
-      "title": "Exapunks",
+      "title": "Exapunks (2018)",
       "url": "https://www.zachtronics.com/exapunks/",
-      "score": 7,
-      "comments": 0,
+      "score": 108,
+      "comments": 38,
       "author": "yu3zhou4",
       "tags": [],
       "date": "2026-07-02T18:41:19+00:00"
+    },
+    {
+      "id": "hn-48765639",
+      "source": "hn",
+      "title": "Postgres transactions are a distributed systems superpower",
+      "url": "https://www.dbos.dev/blog/co-locating-workflow-state-with-your-data",
+      "score": 20,
+      "comments": 5,
+      "author": "KraftyOne",
+      "tags": [],
+      "date": "2026-07-02T18:38:32+00:00"
+    },
+    {
+      "id": "hn-48765607",
+      "source": "hn",
+      "title": "Vulkan is now available on NetBSD",
+      "url": "https://github.com/segaboy/vulkan-netbsd",
+      "score": 23,
+      "comments": 5,
+      "author": "segaboy81",
+      "tags": [],
+      "date": "2026-07-02T18:36:09+00:00"
+    },
+    {
+      "id": "qiita-0bc32c7346",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "【CDK for Go】GitHub Actions OIDC + CDKで最小権限デプロイロールを設計",
+      "url": "https://qiita.com/umekikazuya/items/a090e25a9cb9cfd7540a?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "umekikazuya",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-07-03T01:46:18+09:00"
     },
     {
       "id": "hn-48763963",
@@ -40,8 +109,8 @@
       "source": "hn",
       "title": "Since Linux 6.9, LUKS suspend stopped wiping disk-encryption keys from memory",
       "url": "https://mathstodon.xyz/@iblech/116769502749142438",
-      "score": 260,
-      "comments": 126,
+      "score": 302,
+      "comments": 155,
       "author": "IngoBlechschmid",
       "tags": [],
       "date": "2026-07-02T15:25:16+00:00"
@@ -51,19 +120,32 @@
       "source": "hn",
       "title": "Launch HN: Manufact (YC S25) – MCP Cloud",
       "url": "https://manufact.com",
-      "score": 75,
-      "comments": 46,
+      "score": 84,
+      "comments": 53,
       "author": "pzullo",
       "tags": [],
       "date": "2026-07-02T15:11:20+00:00"
+    },
+    {
+      "id": "qiita-2dd6bf2c2f",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "多文化共生はなぜ難しいのか？ ― 情報・同化・生産性から考える現実解 : Pythonで学ぶ マクロ経済学入門 (95)",
+      "url": "https://qiita.com/maskot1977/items/e3f648e6b65f3eaddec0?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "maskot1977",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-07-03T00:09:04+09:00"
     },
     {
       "id": "hn-48762725",
       "source": "hn",
       "title": "Spain Orders Blacklist of Palantir from Public and Private Companies",
       "url": "https://clashreport.com/world/articles/spain-orders-blacklist-of-us-tech-giant-palantir-from-public-and-private-companies-fsnc2z17gjv",
-      "score": 227,
-      "comments": 41,
+      "score": 357,
+      "comments": 101,
       "author": "mgh2",
       "tags": [],
       "date": "2026-07-02T15:02:26+00:00"
@@ -73,8 +155,8 @@
       "source": "hn",
       "title": "Podman v6.0.0",
       "url": "https://blog.podman.io/2026/07/introducing-podman-v6-0-0/",
-      "score": 83,
-      "comments": 5,
+      "score": 176,
+      "comments": 60,
       "author": "soheilpro",
       "tags": [],
       "date": "2026-07-02T14:23:09+00:00"
@@ -84,8 +166,8 @@
       "source": "hn",
       "title": "Show HN: CLI tool for detecting non-exact code duplication with embedding models",
       "url": "https://github.com/rafal-qa/slopo",
-      "score": 49,
-      "comments": 23,
+      "score": 61,
+      "comments": 26,
       "author": "rkochanowski",
       "tags": [],
       "date": "2026-07-02T14:19:24+00:00"
@@ -95,8 +177,8 @@
       "source": "hn",
       "title": "No LLM Code in Dependencies",
       "url": "https://joeyh.name/blog/entry/no_LLM_code_in_dependencies/",
-      "score": 35,
-      "comments": 12,
+      "score": 68,
+      "comments": 36,
       "author": "edward",
       "tags": [],
       "date": "2026-07-02T14:17:23+00:00"
@@ -117,8 +199,8 @@
       "source": "hn",
       "title": "AI can't be listed as inventor on patent applications, Japan's top court rules",
       "url": "https://japannews.yomiuri.co.jp/science-nature/technology/20260306-314930/",
-      "score": 269,
-      "comments": 145,
+      "score": 301,
+      "comments": 162,
       "author": "mushstory",
       "tags": [],
       "date": "2026-07-02T13:43:41+00:00"
@@ -128,8 +210,8 @@
       "source": "hn",
       "title": "Show HN: ZeroFS – A log-structured filesystem for S3",
       "url": "https://www.zerofs.net/",
-      "score": 96,
-      "comments": 46,
+      "score": 106,
+      "comments": 50,
       "author": "Eikon",
       "tags": [],
       "date": "2026-07-02T13:41:11+00:00"
@@ -150,8 +232,8 @@
       "source": "hn",
       "title": "The Egg Bandits Made a Thousand Times the Fine They Just Paid for Price Fixing",
       "url": "https://www.thebignewsletter.com/p/crime-pays-the-egg-bandits-made-a",
-      "score": 295,
-      "comments": 132,
+      "score": 351,
+      "comments": 168,
       "author": "toomuchtodo",
       "tags": [],
       "date": "2026-07-02T13:25:25+00:00"
@@ -172,8 +254,8 @@
       "source": "hn",
       "title": "How to ask for help from people who don't know you",
       "url": "https://pradyuprasad.com/writings/how-to-ask-for-help/",
-      "score": 205,
-      "comments": 30,
+      "score": 260,
+      "comments": 34,
       "author": "FigurativeVoid",
       "tags": [],
       "date": "2026-07-02T13:19:22+00:00"
@@ -227,8 +309,8 @@
       "source": "hn",
       "title": "Is One Layer Enough? A Single Transformer Layer Matches Full-Parameter RL Train",
       "url": "https://arxiv.org/abs/2607.01232",
-      "score": 105,
-      "comments": 24,
+      "score": 121,
+      "comments": 28,
       "author": "tcp_handshaker",
       "tags": [],
       "date": "2026-07-02T12:10:24+00:00"
@@ -238,8 +320,8 @@
       "source": "hn",
       "title": "The primary purpose of code review is to find code that will be hard to maintain",
       "url": "https://mathstodon.xyz/@mjd/115096720350507897",
-      "score": 257,
-      "comments": 133,
+      "score": 278,
+      "comments": 151,
       "author": "ColinWright",
       "tags": [],
       "date": "2026-07-02T11:41:27+00:00"
@@ -260,8 +342,8 @@
       "source": "hn",
       "title": "PeerTube is a free, decentralized and federated video platform",
       "url": "https://github.com/Chocobozzz/PeerTube",
-      "score": 279,
-      "comments": 91,
+      "score": 357,
+      "comments": 143,
       "author": "doener",
       "tags": [],
       "date": "2026-07-02T11:17:45+00:00"
@@ -294,8 +376,8 @@
       "source": "hn",
       "title": "The fall of the theorem economy",
       "url": "https://davidbessis.substack.com/p/the-fall-of-the-theorem-economy",
-      "score": 209,
-      "comments": 90,
+      "score": 221,
+      "comments": 97,
       "author": "varjag",
       "tags": [],
       "date": "2026-07-02T08:01:15+00:00"
@@ -354,11 +436,24 @@
       "source": "hn",
       "title": "Kimi K2.7 Code is generally available in GitHub Copilot",
       "url": "https://github.blog/changelog/2026-07-01-kimi-k2-7-is-now-available-in-github-copilot/",
-      "score": 365,
-      "comments": 154,
+      "score": 379,
+      "comments": 158,
       "author": "unliftedq",
       "tags": [],
       "date": "2026-07-02T04:32:41+00:00"
+    },
+    {
+      "id": "qiita-69830788bb",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "Claude Code のコンテキスト管理とトークン消費を抑える運用方法",
+      "url": "https://qiita.com/Yasushi-Mo/items/0071f71ba102d2125c13?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "Yasushi-Mo",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-07-02T12:53:15+09:00"
     },
     {
       "id": "qiita-70abf6e3b3",
@@ -442,8 +537,8 @@
       "source": "hn",
       "title": "Android Developer Verification: Threat masquerading as protection",
       "url": "https://f-droid.org/2026/07/01/adv-malware.html",
-      "score": 1432,
-      "comments": 594,
+      "score": 1484,
+      "comments": 617,
       "author": "drewfax",
       "tags": [],
       "date": "2026-07-02T03:00:15+00:00",
@@ -482,6 +577,19 @@
       "author": "joeyhage",
       "tags": [],
       "date": "2026-07-02T02:19:48+00:00"
+    },
+    {
+      "id": "qiita-5c68e1ce62",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "ADK 2.0 とループエンジニアリング",
+      "url": "https://qiita.com/Michinosuke/items/a898a395727022fa213f?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "Michinosuke",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-07-02T11:04:44+09:00"
     },
     {
       "id": "qiita-fc24976f80",
@@ -822,6 +930,19 @@
       "date": "2026-07-01T17:05:00+00:00"
     },
     {
+      "id": "qiita-e37f715373",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "トークンをケチるな、設計しろ：GitHub Copilotを賢く使うコンテキスト戦略",
+      "url": "https://qiita.com/ochtum/items/d442ed23d24245b789a0?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "ochtum",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-07-02T02:03:35+09:00"
+    },
+    {
       "id": "hn-48749752",
       "source": "hn",
       "title": "Show HN: Pglayers – PostgreSQL extensions as stackable Docker layers",
@@ -864,6 +985,19 @@
       "author": "tartoran",
       "tags": [],
       "date": "2026-07-01T15:40:56+00:00"
+    },
+    {
+      "id": "qiita-5c35790532",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "5つのAIに「共通の記憶」を持たせてみた 〜Obsidianをみんなの“外部脳”にする〜",
+      "url": "https://qiita.com/meccha__eeyan/items/466f757f73516abb8ec3?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "meccha__eeyan",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-07-02T00:30:41+09:00"
     },
     {
       "id": "hn-48748518",
@@ -1189,6 +1323,19 @@
       "date": "2026-07-01T17:10:43+09:00"
     },
     {
+      "id": "qiita-d8ba6a0752",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "LakebaseがAWS東京リージョンに対応: 改めて整理するLakebaseとDatabricksでの位置付け",
+      "url": "https://qiita.com/taka_yayoi/items/62ec97c5fb31621b4142?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "taka_yayoi",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-07-01T16:54:56+09:00"
+    },
+    {
       "id": "hn-48743472",
       "source": "hn",
       "title": "Godot will no longer accept AI-authored code contributions",
@@ -1310,6 +1457,19 @@
         "Qiita"
       ],
       "date": "2026-07-01T12:38:36+09:00"
+    },
+    {
+      "id": "qiita-6a6212c2f1",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "「VPC内通信もTLSにすべき？」と聞かれて ── そもそもAWS内で盗聴できるのか脅威モデルで確かめた話",
+      "url": "https://qiita.com/ntaka329/items/de23144fdf7305a2e0c1?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "ntaka329",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-07-01T12:26:19+09:00"
     },
     {
       "id": "qiita-697c3ab08d",
@@ -1873,6 +2033,19 @@
       "author": "donohoe",
       "tags": [],
       "date": "2026-06-30T10:36:23+00:00"
+    },
+    {
+      "id": "qiita-425a50b195",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "セカンドブレインを試しに組んでみた",
+      "url": "https://qiita.com/yoshikichi_04/items/c3245a57ce1c1b189f12?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "yoshikichi_04",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-06-30T19:35:34+09:00"
     },
     {
       "id": "hn-48730713",
@@ -4178,8 +4351,8 @@
       "source": "hn",
       "title": "German button maker searched rivers of American Midwest for valuable shells",
       "url": "https://www.smithsonianmag.com/smithsonian-institution/how-one-german-button-maker-searched-the-rivers-of-the-american-midwest-for-the-shells-that-could-make-him-a-fortune-180989012/",
-      "score": 98,
-      "comments": 33,
+      "score": 114,
+      "comments": 36,
       "author": "bookofjoe",
       "tags": [],
       "date": "2026-06-27T21:38:05+00:00"
@@ -5648,216 +5821,6 @@
       ],
       "severity": "high",
       "date": "Mon, 08 Jun 2026 00:00:00 +0000"
-    },
-    {
-      "id": "edb-26a654a640",
-      "source": "msf",
-      "title": "[webapps] WordPress Contest Gallery 28.1.4 - Unauthenticated Blind SQL Injection",
-      "url": "https://www.exploit-db.com/exploits/52609",
-      "score": null,
-      "author": "Exploit-DB",
-      "tags": [
-        "Exploit-DB",
-        "CVE",
-        "PoC"
-      ],
-      "severity": "high",
-      "date": "Fri, 05 Jun 2026 00:00:00 +0000"
-    },
-    {
-      "id": "edb-f5d122f8a3",
-      "source": "msf",
-      "title": "[webapps] Drupal Core 10.5.5 - Error-Based SQL Injection",
-      "url": "https://www.exploit-db.com/exploits/52608",
-      "score": null,
-      "author": "Exploit-DB",
-      "tags": [
-        "Exploit-DB",
-        "CVE",
-        "PoC"
-      ],
-      "severity": "high",
-      "date": "Mon, 01 Jun 2026 00:00:00 +0000"
-    },
-    {
-      "id": "edb-0e24cc00be",
-      "source": "msf",
-      "title": "[webapps] WordPress OrderConvo 14 - Path Traversal",
-      "url": "https://www.exploit-db.com/exploits/52607",
-      "score": null,
-      "author": "Exploit-DB",
-      "tags": [
-        "Exploit-DB",
-        "CVE",
-        "PoC"
-      ],
-      "severity": "high",
-      "date": "Mon, 01 Jun 2026 00:00:00 +0000"
-    },
-    {
-      "id": "edb-e5481f4a7f",
-      "source": "msf",
-      "title": "[remote] Notepad++ 8.9.6 - Arbitrary Code Execution",
-      "url": "https://www.exploit-db.com/exploits/52606",
-      "score": null,
-      "author": "Exploit-DB",
-      "tags": [
-        "Exploit-DB",
-        "CVE",
-        "PoC"
-      ],
-      "severity": "high",
-      "date": "Sat, 30 May 2026 00:00:00 +0000"
-    },
-    {
-      "id": "edb-33165480b1",
-      "source": "msf",
-      "title": "[webapps] YAMCS yamcs-core  5.12.7 - No Rate Limiting",
-      "url": "https://www.exploit-db.com/exploits/52605",
-      "score": null,
-      "author": "Exploit-DB",
-      "tags": [
-        "Exploit-DB",
-        "CVE",
-        "PoC"
-      ],
-      "severity": "high",
-      "date": "Sat, 30 May 2026 00:00:00 +0000"
-    },
-    {
-      "id": "edb-f30dc5c188",
-      "source": "msf",
-      "title": "[webapps] YAMCS yamcs-core  5.12.7 - User Enumeration",
-      "url": "https://www.exploit-db.com/exploits/52604",
-      "score": null,
-      "author": "Exploit-DB",
-      "tags": [
-        "Exploit-DB",
-        "CVE",
-        "PoC"
-      ],
-      "severity": "high",
-      "date": "Sat, 30 May 2026 00:00:00 +0000"
-    },
-    {
-      "id": "edb-be7a420ae4",
-      "source": "msf",
-      "title": "[webapps] YAMCS yamcs-core  5.12.7 - LDAP Injection",
-      "url": "https://www.exploit-db.com/exploits/52603",
-      "score": null,
-      "author": "Exploit-DB",
-      "tags": [
-        "Exploit-DB",
-        "CVE",
-        "PoC"
-      ],
-      "severity": "high",
-      "date": "Sat, 30 May 2026 00:00:00 +0000"
-    },
-    {
-      "id": "edb-f12984cfd7",
-      "source": "msf",
-      "title": "[remote] Microsoft - NTLMv2 Hash Capture",
-      "url": "https://www.exploit-db.com/exploits/52601",
-      "score": null,
-      "author": "Exploit-DB",
-      "tags": [
-        "Exploit-DB",
-        "CVE",
-        "PoC"
-      ],
-      "severity": "high",
-      "date": "Fri, 29 May 2026 00:00:00 +0000"
-    },
-    {
-      "id": "edb-51d394b2f6",
-      "source": "msf",
-      "title": "[webapps] MikroORM   7.0.13 - SQL Injection",
-      "url": "https://www.exploit-db.com/exploits/52600",
-      "score": null,
-      "author": "Exploit-DB",
-      "tags": [
-        "Exploit-DB",
-        "CVE",
-        "PoC"
-      ],
-      "severity": "high",
-      "date": "Fri, 29 May 2026 00:00:00 +0000"
-    },
-    {
-      "id": "edb-b44998ab02",
-      "source": "msf",
-      "title": "[webapps] Prodigy Commerce 3.3.0 - Local File Inclusion",
-      "url": "https://www.exploit-db.com/exploits/52598",
-      "score": null,
-      "author": "Exploit-DB",
-      "tags": [
-        "Exploit-DB",
-        "CVE",
-        "PoC"
-      ],
-      "severity": "high",
-      "date": "Fri, 29 May 2026 00:00:00 +0000"
-    },
-    {
-      "id": "edb-0b1081a580",
-      "source": "msf",
-      "title": "[webapps] Langflow 1.3.0 - Remote Code Execution",
-      "url": "https://www.exploit-db.com/exploits/52597",
-      "score": null,
-      "author": "Exploit-DB",
-      "tags": [
-        "Exploit-DB",
-        "CVE",
-        "PoC"
-      ],
-      "severity": "high",
-      "date": "Fri, 29 May 2026 00:00:00 +0000"
-    },
-    {
-      "id": "edb-7fd71d4802",
-      "source": "msf",
-      "title": "[webapps] Quick Playground for WordPress 1.3.1 - Unauthenticated Remote Code Execution",
-      "url": "https://www.exploit-db.com/exploits/52596",
-      "score": null,
-      "author": "Exploit-DB",
-      "tags": [
-        "Exploit-DB",
-        "CVE",
-        "PoC"
-      ],
-      "severity": "high",
-      "date": "Fri, 29 May 2026 00:00:00 +0000"
-    },
-    {
-      "id": "edb-e827c93897",
-      "source": "msf",
-      "title": "[local] ImageMagick - Infinite Loop in the MIFF decoder can lead to CPU exhaustion",
-      "url": "https://www.exploit-db.com/exploits/52595",
-      "score": null,
-      "author": "Exploit-DB",
-      "tags": [
-        "Exploit-DB",
-        "CVE",
-        "PoC"
-      ],
-      "severity": "high",
-      "date": "Fri, 29 May 2026 00:00:00 +0000"
-    },
-    {
-      "id": "edb-e7ed248f76",
-      "source": "msf",
-      "title": "[local] ZTE Routers  - Unauthenticated Denial of Service",
-      "url": "https://www.exploit-db.com/exploits/52594",
-      "score": null,
-      "author": "Exploit-DB",
-      "tags": [
-        "Exploit-DB",
-        "CVE",
-        "PoC"
-      ],
-      "severity": "high",
-      "date": "Fri, 29 May 2026 00:00:00 +0000"
     }
   ]
 }

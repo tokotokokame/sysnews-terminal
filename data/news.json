@@ -1,17 +1,72 @@
 {
-  "updated_at": "2026-07-02T20:21:40.736170+00:00",
+  "updated_at": "2026-07-02T21:44:21.625999+00:00",
   "count": 500,
   "items": [
+    {
+      "id": "hn-48767347",
+      "source": "hn",
+      "title": "US State of Virginia Bans Sale of Geolocation Data",
+      "url": "https://www.hunton.com/privacy-and-cybersecurity-law-blog/virginia-bans-sale-of-geolocation-data",
+      "score": 39,
+      "comments": 3,
+      "author": "toomuchtodo",
+      "tags": [],
+      "date": "2026-07-02T21:03:45+00:00"
+    },
     {
       "id": "hn-48766598",
       "source": "hn",
       "title": "Lightning Memory-Mapped Database Manager (LMDB) 1.0",
       "url": "http://www.lmdb.tech/doc/",
-      "score": 6,
-      "comments": 1,
+      "score": 35,
+      "comments": 16,
       "author": "radiator",
       "tags": [],
       "date": "2026-07-02T20:01:20+00:00"
+    },
+    {
+      "id": "hn-48766297",
+      "source": "hn",
+      "title": "Wireless LAN SD",
+      "url": "https://www.sdcard.org/developers/sd-standard-overview/sdio-isdio/wireless-lan-sd/",
+      "score": 12,
+      "comments": 8,
+      "author": "sharpshadow",
+      "tags": [],
+      "date": "2026-07-02T19:35:20+00:00"
+    },
+    {
+      "id": "hn-48766286",
+      "source": "hn",
+      "title": "Great Salt Lake Tracker – Grow the Flow",
+      "url": "https://growtheflowutah.org/laketracker/",
+      "score": 13,
+      "comments": 0,
+      "author": "cfowles",
+      "tags": [],
+      "date": "2026-07-02T19:33:55+00:00"
+    },
+    {
+      "id": "hn-48766209",
+      "source": "hn",
+      "title": "EFF letter to FTC on X consent order (2 July 2026) [pdf]",
+      "url": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/EFF-letter-to-FTC-on-X-consent-order-7-2-26.pdf",
+      "score": 60,
+      "comments": 17,
+      "author": "Terretta",
+      "tags": [],
+      "date": "2026-07-02T19:27:38+00:00"
+    },
+    {
+      "id": "hn-48766124",
+      "source": "hn",
+      "title": "A New Catalog of Stellar Rotation Periods for over a Million Stars",
+      "url": "https://aasnova.org/2026/07/01/a-new-catalog-of-stellar-rotation-periods-for-over-a-million-stars/",
+      "score": 10,
+      "comments": 1,
+      "author": "visha1v",
+      "tags": [],
+      "date": "2026-07-02T19:20:29+00:00"
     },
     {
       "id": "hn-48766076",
@@ -26,12 +81,34 @@
       "severity": "critical"
     },
     {
+      "id": "hn-48766026",
+      "source": "hn",
+      "title": "The Short Leash AI Coding Method for Beating Fable",
+      "url": "https://blog.okturtles.org/2026/07/short-leash-ai-method/",
+      "score": 22,
+      "comments": 3,
+      "author": "Riseed",
+      "tags": [],
+      "date": "2026-07-02T19:11:57+00:00"
+    },
+    {
+      "id": "hn-48766005",
+      "source": "hn",
+      "title": "Claude-real-video － any LLM can watch a video",
+      "url": "https://github.com/HUANGCHIHHUNGLeo/claude-real-video",
+      "score": 25,
+      "comments": 4,
+      "author": "cortexosmain",
+      "tags": [],
+      "date": "2026-07-02T19:10:12+00:00"
+    },
+    {
       "id": "hn-48765830",
       "source": "hn",
       "title": "JEP 539: Strict Field Initialization in the JVM moved to preview",
       "url": "https://openjdk.org/jeps/539",
-      "score": 17,
-      "comments": 5,
+      "score": 37,
+      "comments": 13,
       "author": "za3faran",
       "tags": [],
       "date": "2026-07-02T18:56:33+00:00"
@@ -41,8 +118,8 @@
       "source": "hn",
       "title": "Exapunks (2018)",
       "url": "https://www.zachtronics.com/exapunks/",
-      "score": 108,
-      "comments": 38,
+      "score": 171,
+      "comments": 62,
       "author": "yu3zhou4",
       "tags": [],
       "date": "2026-07-02T18:41:19+00:00"
@@ -52,8 +129,8 @@
       "source": "hn",
       "title": "Postgres transactions are a distributed systems superpower",
       "url": "https://www.dbos.dev/blog/co-locating-workflow-state-with-your-data",
-      "score": 20,
-      "comments": 5,
+      "score": 52,
+      "comments": 23,
       "author": "KraftyOne",
       "tags": [],
       "date": "2026-07-02T18:38:32+00:00"
@@ -63,8 +140,8 @@
       "source": "hn",
       "title": "Vulkan is now available on NetBSD",
       "url": "https://github.com/segaboy/vulkan-netbsd",
-      "score": 23,
-      "comments": 5,
+      "score": 46,
+      "comments": 12,
       "author": "segaboy81",
       "tags": [],
       "date": "2026-07-02T18:36:09+00:00"
@@ -109,8 +186,8 @@
       "source": "hn",
       "title": "Since Linux 6.9, LUKS suspend stopped wiping disk-encryption keys from memory",
       "url": "https://mathstodon.xyz/@iblech/116769502749142438",
-      "score": 302,
-      "comments": 155,
+      "score": 342,
+      "comments": 167,
       "author": "IngoBlechschmid",
       "tags": [],
       "date": "2026-07-02T15:25:16+00:00"
@@ -120,8 +197,8 @@
       "source": "hn",
       "title": "Launch HN: Manufact (YC S25) – MCP Cloud",
       "url": "https://manufact.com",
-      "score": 84,
-      "comments": 53,
+      "score": 91,
+      "comments": 59,
       "author": "pzullo",
       "tags": [],
       "date": "2026-07-02T15:11:20+00:00"
@@ -144,8 +221,8 @@
       "source": "hn",
       "title": "Spain Orders Blacklist of Palantir from Public and Private Companies",
       "url": "https://clashreport.com/world/articles/spain-orders-blacklist-of-us-tech-giant-palantir-from-public-and-private-companies-fsnc2z17gjv",
-      "score": 357,
-      "comments": 101,
+      "score": 459,
+      "comments": 144,
       "author": "mgh2",
       "tags": [],
       "date": "2026-07-02T15:02:26+00:00"
@@ -155,8 +232,8 @@
       "source": "hn",
       "title": "Podman v6.0.0",
       "url": "https://blog.podman.io/2026/07/introducing-podman-v6-0-0/",
-      "score": 176,
-      "comments": 60,
+      "score": 269,
+      "comments": 105,
       "author": "soheilpro",
       "tags": [],
       "date": "2026-07-02T14:23:09+00:00"
@@ -199,8 +276,8 @@
       "source": "hn",
       "title": "AI can't be listed as inventor on patent applications, Japan's top court rules",
       "url": "https://japannews.yomiuri.co.jp/science-nature/technology/20260306-314930/",
-      "score": 301,
-      "comments": 162,
+      "score": 328,
+      "comments": 179,
       "author": "mushstory",
       "tags": [],
       "date": "2026-07-02T13:43:41+00:00"
@@ -254,8 +331,8 @@
       "source": "hn",
       "title": "How to ask for help from people who don't know you",
       "url": "https://pradyuprasad.com/writings/how-to-ask-for-help/",
-      "score": 260,
-      "comments": 34,
+      "score": 299,
+      "comments": 45,
       "author": "FigurativeVoid",
       "tags": [],
       "date": "2026-07-02T13:19:22+00:00"
@@ -309,8 +386,8 @@
       "source": "hn",
       "title": "Is One Layer Enough? A Single Transformer Layer Matches Full-Parameter RL Train",
       "url": "https://arxiv.org/abs/2607.01232",
-      "score": 121,
-      "comments": 28,
+      "score": 129,
+      "comments": 29,
       "author": "tcp_handshaker",
       "tags": [],
       "date": "2026-07-02T12:10:24+00:00"
@@ -342,8 +419,8 @@
       "source": "hn",
       "title": "PeerTube is a free, decentralized and federated video platform",
       "url": "https://github.com/Chocobozzz/PeerTube",
-      "score": 357,
-      "comments": 143,
+      "score": 416,
+      "comments": 179,
       "author": "doener",
       "tags": [],
       "date": "2026-07-02T11:17:45+00:00"
@@ -537,8 +614,8 @@
       "source": "hn",
       "title": "Android Developer Verification: Threat masquerading as protection",
       "url": "https://f-droid.org/2026/07/01/adv-malware.html",
-      "score": 1484,
-      "comments": 617,
+      "score": 1534,
+      "comments": 646,
       "author": "drewfax",
       "tags": [],
       "date": "2026-07-02T03:00:15+00:00",
@@ -1916,6 +1993,17 @@
       "author": "bushwart",
       "tags": [],
       "date": "2026-06-30T13:59:32+00:00"
+    },
+    {
+      "id": "hn-48732716",
+      "source": "hn",
+      "title": "Modeling the Covid-19 Outbreak with J (2020)",
+      "url": "https://datakinds.github.io//2020/03/15/modeling-the-coronavirus-outbreak-with-j",
+      "score": 17,
+      "comments": 0,
+      "author": "surprisetalk",
+      "tags": [],
+      "date": "2026-06-30T13:47:17+00:00"
     },
     {
       "id": "hn-48732582",
@@ -4351,8 +4439,8 @@
       "source": "hn",
       "title": "German button maker searched rivers of American Midwest for valuable shells",
       "url": "https://www.smithsonianmag.com/smithsonian-institution/how-one-german-button-maker-searched-the-rivers-of-the-american-midwest-for-the-shells-that-could-make-him-a-fortune-180989012/",
-      "score": 114,
-      "comments": 36,
+      "score": 123,
+      "comments": 40,
       "author": "bookofjoe",
       "tags": [],
       "date": "2026-06-27T21:38:05+00:00"
@@ -5202,140 +5290,6 @@
       "date": "2026-06-26T20:07:18+00:00"
     },
     {
-      "id": "hn-48690709",
-      "source": "hn",
-      "title": "Long Wave radio era set to end with Droitwich switch-off",
-      "url": "https://www.bbc.com/news/articles/c74yn7v7k4qo",
-      "score": 70,
-      "comments": 29,
-      "author": "speckx",
-      "tags": [],
-      "date": "2026-06-26T19:12:20+00:00"
-    },
-    {
-      "id": "hn-48690481",
-      "source": "hn",
-      "title": "Designing a Personal Pebble Watchface",
-      "url": "https://www.jonashietala.se/blog/2026/06/26/designing_a_personal_pebble_watchface/",
-      "score": 22,
-      "comments": 3,
-      "author": "lawn",
-      "tags": [],
-      "date": "2026-06-26T18:53:40+00:00"
-    },
-    {
-      "id": "hn-48690231",
-      "source": "hn",
-      "title": "Gossamer: a Rust-flavoured language with real goroutines and pause-free memory",
-      "url": "https://gossamer-lang.org/",
-      "score": 62,
-      "comments": 50,
-      "author": "mwheeler",
-      "tags": [],
-      "date": "2026-06-26T18:32:22+00:00"
-    },
-    {
-      "id": "hn-48690101",
-      "source": "hn",
-      "title": "U.S. government will decide who gets to use GPT-5.6",
-      "url": "https://www.washingtonpost.com/technology/2026/06/26/openai-says-us-government-will-vet-users-its-latest-ai-model/",
-      "score": 1059,
-      "comments": 1120,
-      "author": "alain94040",
-      "tags": [],
-      "date": "2026-06-26T18:23:14+00:00"
-    },
-    {
-      "id": "qiita-79a3c63c88",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "AWS Summit Japan 2026 参加してきた",
-      "url": "https://qiita.com/hu_yszw/items/44dd9d6d150840959b52?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "hu_yszw",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-06-27T03:17:50+09:00"
-    },
-    {
-      "id": "hn-48689885",
-      "source": "hn",
-      "title": "How to corrupt an SQLite database file",
-      "url": "https://www.sqlite.org/howtocorrupt.html",
-      "score": 116,
-      "comments": 23,
-      "author": "tosh",
-      "tags": [],
-      "date": "2026-06-26T18:05:39+00:00"
-    },
-    {
-      "id": "hn-48689859",
-      "source": "hn",
-      "title": "Pre-Modern Armies for Worldbuilders, Part III: Paying for It",
-      "url": "https://acoup.blog/2026/06/26/collections-pre-modern-armies-for-worldbuilders-part-iii-paying-for-it/",
-      "score": 91,
-      "comments": 16,
-      "author": "jfoucher",
-      "tags": [],
-      "date": "2026-06-26T18:04:05+00:00"
-    },
-    {
-      "id": "hn-48689820",
-      "source": "hn",
-      "title": "I'm building a Space Cadet Pinball Machine! [video]",
-      "url": "https://www.youtube.com/watch?v=lHQ8c8i42VE",
-      "score": 33,
-      "comments": 7,
-      "author": "skibz",
-      "tags": [],
-      "date": "2026-06-26T18:00:49+00:00"
-    },
-    {
-      "id": "hn-48689744",
-      "source": "hn",
-      "title": "Scaling Laws, Carefully",
-      "url": "https://lilianweng.github.io/posts/2026-06-24-scaling-laws/",
-      "score": 52,
-      "comments": 14,
-      "author": "tehnub",
-      "tags": [],
-      "date": "2026-06-26T17:55:50+00:00"
-    },
-    {
-      "id": "hn-48689407",
-      "source": "hn",
-      "title": "From Hallmark to neon signs: A look at Jim Parkinson's career in letter art",
-      "url": "https://typographica.org/on-typography/jim-parkinson-1941-2025/",
-      "score": 13,
-      "comments": 0,
-      "author": "whiteblossom",
-      "tags": [],
-      "date": "2026-06-26T17:32:35+00:00"
-    },
-    {
-      "id": "hn-48689277",
-      "source": "hn",
-      "title": "What Is a Nomogram and Why Would It Interest Me?",
-      "url": "https://lefakkomies.github.io/pynomo-doc/introduction/introduction.html#what-is-a-nomogram-and-why-would-it-interest-me",
-      "score": 110,
-      "comments": 19,
-      "author": "Eridanus2",
-      "tags": [],
-      "date": "2026-06-26T17:24:25+00:00"
-    },
-    {
-      "id": "hn-48689275",
-      "source": "hn",
-      "title": "Data centers trigger voter backlash",
-      "url": "https://www.newsweek.com/cost-me-the-election-data-centers-trigger-voter-backlash-12118327",
-      "score": 133,
-      "comments": 237,
-      "author": "randycupertino",
-      "tags": [],
-      "date": "2026-06-26T17:24:21+00:00"
-    },
-    {
       "id": "ctf-3999897",
       "source": "project",
       "proj_category": "CTF",
@@ -5350,74 +5304,6 @@
       "date": "2026-06-26T17:15:37Z"
     },
     {
-      "id": "hn-48689028",
-      "source": "hn",
-      "title": "Previewing GPT‑5.6 Sol: a next-generation model",
-      "url": "https://openai.com/index/previewing-gpt-5-6-sol/",
-      "score": 1085,
-      "comments": 691,
-      "author": "minimaxir",
-      "tags": [],
-      "date": "2026-06-26T17:06:55+00:00"
-    },
-    {
-      "id": "hn-48688961",
-      "source": "hn",
-      "title": "Liva AI (YC S25) Is Hiring",
-      "url": "https://www.ycombinator.com/companies/liva-ai/jobs/gvtc3Ep-founding-operations-lead",
-      "score": 1,
-      "comments": 0,
-      "author": "ashlleymo",
-      "tags": [],
-      "date": "2026-06-26T17:00:43+00:00"
-    },
-    {
-      "id": "qiita-48b00bb4d5",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "10ヶ月停滞した大学生が、ある日突然黄色perfを出して入水しました",
-      "url": "https://qiita.com/TrueRyoB/items/124d3d9d494b17a7c263?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "TrueRyoB",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-06-27T01:43:32+09:00"
-    },
-    {
-      "id": "hn-48688700",
-      "source": "hn",
-      "title": "Show HN: Smart model routing directly in Claude, Codex and Cursor",
-      "url": "https://github.com/workweave/router",
-      "score": 165,
-      "comments": 96,
-      "author": "adchurch",
-      "tags": [],
-      "date": "2026-06-26T16:40:11+00:00"
-    },
-    {
-      "id": "hn-48688685",
-      "source": "hn",
-      "title": "1.38 Millimeter Microcontroller",
-      "url": "https://www.ti.com/product/MSPM0C1104",
-      "score": 22,
-      "comments": 33,
-      "author": "kristianpaul",
-      "tags": [],
-      "date": "2026-06-26T16:38:55+00:00"
-    },
-    {
-      "id": "hn-48688438",
-      "source": "hn",
-      "title": "One man, two kernels, and a lot of RISC-V",
-      "url": "https://www.theregister.com/software/2026/06/26/one-man-two-kernels-and-a-lot-of-risc-v/5262858",
-      "score": 68,
-      "comments": 5,
-      "author": "LorenDB",
-      "tags": [],
-      "date": "2026-06-26T16:20:06+00:00"
-    },
-    {
       "id": "ctf-3999635",
       "source": "project",
       "proj_category": "CTF",
@@ -5430,52 +5316,6 @@
         "Security"
       ],
       "date": "2026-06-26T16:18:33Z"
-    },
-    {
-      "id": "hn-48688382",
-      "source": "hn",
-      "title": "Venetian Bridge Brawls in 17th and 18th Century Art",
-      "url": "https://publicdomainreview.org/collection/venice-bridge-fights/",
-      "score": 50,
-      "comments": 28,
-      "author": "pepys",
-      "tags": [],
-      "date": "2026-06-26T16:16:16+00:00"
-    },
-    {
-      "id": "qiita-c6d6967958",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "犯罪対策費でもGDPは増える？ ― 割れ窓の誤謬と社会的信頼を考える : Pythonで学ぶ マクロ経済学入門 (93)",
-      "url": "https://qiita.com/maskot1977/items/e33c1b7235cedce57675?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "maskot1977",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-06-27T01:09:51+09:00"
-    },
-    {
-      "id": "hn-48688081",
-      "source": "hn",
-      "title": "What is a Lithium-ion capacitor?",
-      "url": "https://www.jtekt.co.jp/e/products/capacitor/capacitor_about.html",
-      "score": 39,
-      "comments": 14,
-      "author": "ksec",
-      "tags": [],
-      "date": "2026-06-26T15:51:19+00:00"
-    },
-    {
-      "id": "hn-48687843",
-      "source": "hn",
-      "title": "Type-checked non-empty strings",
-      "url": "https://exploring-better-ways.bellroy.com/haskell-koan-type-checked-non-empty-strings.html",
-      "score": 37,
-      "comments": 14,
-      "author": "surprisetalk",
-      "tags": [],
-      "date": "2026-06-26T15:30:02+00:00"
     },
     {
       "id": "ctf-3988270",
@@ -5821,6 +5661,216 @@
       ],
       "severity": "high",
       "date": "Mon, 08 Jun 2026 00:00:00 +0000"
+    },
+    {
+      "id": "edb-26a654a640",
+      "source": "msf",
+      "title": "[webapps] WordPress Contest Gallery 28.1.4 - Unauthenticated Blind SQL Injection",
+      "url": "https://www.exploit-db.com/exploits/52609",
+      "score": null,
+      "author": "Exploit-DB",
+      "tags": [
+        "Exploit-DB",
+        "CVE",
+        "PoC"
+      ],
+      "severity": "high",
+      "date": "Fri, 05 Jun 2026 00:00:00 +0000"
+    },
+    {
+      "id": "edb-f5d122f8a3",
+      "source": "msf",
+      "title": "[webapps] Drupal Core 10.5.5 - Error-Based SQL Injection",
+      "url": "https://www.exploit-db.com/exploits/52608",
+      "score": null,
+      "author": "Exploit-DB",
+      "tags": [
+        "Exploit-DB",
+        "CVE",
+        "PoC"
+      ],
+      "severity": "high",
+      "date": "Mon, 01 Jun 2026 00:00:00 +0000"
+    },
+    {
+      "id": "edb-0e24cc00be",
+      "source": "msf",
+      "title": "[webapps] WordPress OrderConvo 14 - Path Traversal",
+      "url": "https://www.exploit-db.com/exploits/52607",
+      "score": null,
+      "author": "Exploit-DB",
+      "tags": [
+        "Exploit-DB",
+        "CVE",
+        "PoC"
+      ],
+      "severity": "high",
+      "date": "Mon, 01 Jun 2026 00:00:00 +0000"
+    },
+    {
+      "id": "edb-e5481f4a7f",
+      "source": "msf",
+      "title": "[remote] Notepad++ 8.9.6 - Arbitrary Code Execution",
+      "url": "https://www.exploit-db.com/exploits/52606",
+      "score": null,
+      "author": "Exploit-DB",
+      "tags": [
+        "Exploit-DB",
+        "CVE",
+        "PoC"
+      ],
+      "severity": "high",
+      "date": "Sat, 30 May 2026 00:00:00 +0000"
+    },
+    {
+      "id": "edb-33165480b1",
+      "source": "msf",
+      "title": "[webapps] YAMCS yamcs-core  5.12.7 - No Rate Limiting",
+      "url": "https://www.exploit-db.com/exploits/52605",
+      "score": null,
+      "author": "Exploit-DB",
+      "tags": [
+        "Exploit-DB",
+        "CVE",
+        "PoC"
+      ],
+      "severity": "high",
+      "date": "Sat, 30 May 2026 00:00:00 +0000"
+    },
+    {
+      "id": "edb-f30dc5c188",
+      "source": "msf",
+      "title": "[webapps] YAMCS yamcs-core  5.12.7 - User Enumeration",
+      "url": "https://www.exploit-db.com/exploits/52604",
+      "score": null,
+      "author": "Exploit-DB",
+      "tags": [
+        "Exploit-DB",
+        "CVE",
+        "PoC"
+      ],
+      "severity": "high",
+      "date": "Sat, 30 May 2026 00:00:00 +0000"
+    },
+    {
+      "id": "edb-be7a420ae4",
+      "source": "msf",
+      "title": "[webapps] YAMCS yamcs-core  5.12.7 - LDAP Injection",
+      "url": "https://www.exploit-db.com/exploits/52603",
+      "score": null,
+      "author": "Exploit-DB",
+      "tags": [
+        "Exploit-DB",
+        "CVE",
+        "PoC"
+      ],
+      "severity": "high",
+      "date": "Sat, 30 May 2026 00:00:00 +0000"
+    },
+    {
+      "id": "edb-f12984cfd7",
+      "source": "msf",
+      "title": "[remote] Microsoft - NTLMv2 Hash Capture",
+      "url": "https://www.exploit-db.com/exploits/52601",
+      "score": null,
+      "author": "Exploit-DB",
+      "tags": [
+        "Exploit-DB",
+        "CVE",
+        "PoC"
+      ],
+      "severity": "high",
+      "date": "Fri, 29 May 2026 00:00:00 +0000"
+    },
+    {
+      "id": "edb-51d394b2f6",
+      "source": "msf",
+      "title": "[webapps] MikroORM   7.0.13 - SQL Injection",
+      "url": "https://www.exploit-db.com/exploits/52600",
+      "score": null,
+      "author": "Exploit-DB",
+      "tags": [
+        "Exploit-DB",
+        "CVE",
+        "PoC"
+      ],
+      "severity": "high",
+      "date": "Fri, 29 May 2026 00:00:00 +0000"
+    },
+    {
+      "id": "edb-b44998ab02",
+      "source": "msf",
+      "title": "[webapps] Prodigy Commerce 3.3.0 - Local File Inclusion",
+      "url": "https://www.exploit-db.com/exploits/52598",
+      "score": null,
+      "author": "Exploit-DB",
+      "tags": [
+        "Exploit-DB",
+        "CVE",
+        "PoC"
+      ],
+      "severity": "high",
+      "date": "Fri, 29 May 2026 00:00:00 +0000"
+    },
+    {
+      "id": "edb-0b1081a580",
+      "source": "msf",
+      "title": "[webapps] Langflow 1.3.0 - Remote Code Execution",
+      "url": "https://www.exploit-db.com/exploits/52597",
+      "score": null,
+      "author": "Exploit-DB",
+      "tags": [
+        "Exploit-DB",
+        "CVE",
+        "PoC"
+      ],
+      "severity": "high",
+      "date": "Fri, 29 May 2026 00:00:00 +0000"
+    },
+    {
+      "id": "edb-7fd71d4802",
+      "source": "msf",
+      "title": "[webapps] Quick Playground for WordPress 1.3.1 - Unauthenticated Remote Code Execution",
+      "url": "https://www.exploit-db.com/exploits/52596",
+      "score": null,
+      "author": "Exploit-DB",
+      "tags": [
+        "Exploit-DB",
+        "CVE",
+        "PoC"
+      ],
+      "severity": "high",
+      "date": "Fri, 29 May 2026 00:00:00 +0000"
+    },
+    {
+      "id": "edb-e827c93897",
+      "source": "msf",
+      "title": "[local] ImageMagick - Infinite Loop in the MIFF decoder can lead to CPU exhaustion",
+      "url": "https://www.exploit-db.com/exploits/52595",
+      "score": null,
+      "author": "Exploit-DB",
+      "tags": [
+        "Exploit-DB",
+        "CVE",
+        "PoC"
+      ],
+      "severity": "high",
+      "date": "Fri, 29 May 2026 00:00:00 +0000"
+    },
+    {
+      "id": "edb-e7ed248f76",
+      "source": "msf",
+      "title": "[local] ZTE Routers  - Unauthenticated Denial of Service",
+      "url": "https://www.exploit-db.com/exploits/52594",
+      "score": null,
+      "author": "Exploit-DB",
+      "tags": [
+        "Exploit-DB",
+        "CVE",
+        "PoC"
+      ],
+      "severity": "high",
+      "date": "Fri, 29 May 2026 00:00:00 +0000"
     }
   ]
 }

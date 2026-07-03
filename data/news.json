@@ -1,25 +1,69 @@
 {
-  "updated_at": "2026-07-03T16:06:40.084362+00:00",
+  "updated_at": "2026-07-03T17:56:28.620409+00:00",
   "count": 500,
   "items": [
     {
+      "id": "hn-48777266",
+      "source": "hn",
+      "title": "International chess federation sanctions Kramnik",
+      "url": "https://www.fide.com/fide-ethics-disciplinary-commission-issues-a-decision-in-case-involving-gm-vladimir-kramnik/",
+      "score": 18,
+      "comments": 5,
+      "author": "DarkContinent",
+      "tags": [],
+      "date": "2026-07-03T17:04:08+00:00"
+    },
+    {
+      "id": "hn-48776525",
+      "source": "hn",
+      "title": "The Life and Times of Maxis, Part 1: SimEverything",
+      "url": "https://www.filfre.net/2026/07/the-life-and-times-of-maxis-part-1-simeverything/",
+      "score": 46,
+      "comments": 0,
+      "author": "doppp",
+      "tags": [],
+      "date": "2026-07-03T15:56:02+00:00"
+    },
+    {
+      "id": "hn-48776464",
+      "source": "hn",
+      "title": "60% Fable cost cut by converting code to images and having the model OCR it",
+      "url": "https://github.com/teamchong/pxpipe",
+      "score": 41,
+      "comments": 13,
+      "author": "dimitropoulos",
+      "tags": [],
+      "date": "2026-07-03T15:50:49+00:00"
+    },
+    {
       "id": "hn-48776345",
       "source": "hn",
-      "title": "Markets are competitive if and only if P = NP",
+      "title": "Markets are competitive if and only if P != NP",
       "url": "https://arxiv.org/abs/2602.20415",
-      "score": 36,
-      "comments": 12,
+      "score": 178,
+      "comments": 113,
       "author": "kscarlet",
       "tags": [],
       "date": "2026-07-03T15:41:44+00:00"
+    },
+    {
+      "id": "hn-48776232",
+      "source": "hn",
+      "title": "Claude, please stop trying to memorize random crap",
+      "url": "https://12gramsofcarbon.com/p/agentics-memorizing-session-transcripts",
+      "score": 81,
+      "comments": 59,
+      "author": "theahura",
+      "tags": [],
+      "date": "2026-07-03T15:32:51+00:00"
     },
     {
       "id": "hn-48776035",
       "source": "hn",
       "title": "Factories Are Just Rooms",
       "url": "https://interconnected.org/home/2026/07/03/factories",
-      "score": 8,
-      "comments": 0,
+      "score": 62,
+      "comments": 22,
       "author": "arbesman",
       "tags": [],
       "date": "2026-07-03T15:13:43+00:00"
@@ -29,8 +73,8 @@
       "source": "hn",
       "title": "America, 1926: What a Forgotten 100-Year-Old Report Says About Who We Are",
       "url": "https://www.derekthompson.org/p/america-1926-an-absurdly-deep-dive",
-      "score": 7,
-      "comments": 0,
+      "score": 73,
+      "comments": 73,
       "author": "momentmaker",
       "tags": [],
       "date": "2026-07-03T15:08:56+00:00"
@@ -40,8 +84,8 @@
       "source": "hn",
       "title": "Best Simple System for Now",
       "url": "https://dannorth.net/blog/best-simple-system-for-now/",
-      "score": 10,
-      "comments": 1,
+      "score": 37,
+      "comments": 7,
       "author": "daan-k",
       "tags": [],
       "date": "2026-07-03T15:06:44+00:00"
@@ -51,8 +95,8 @@
       "source": "hn",
       "title": "Jamesob's guide to running SOTA LLMs locally",
       "url": "https://github.com/jamesob/local-llm",
-      "score": 21,
-      "comments": 2,
+      "score": 79,
+      "comments": 29,
       "author": "livestyle",
       "tags": [],
       "date": "2026-07-03T15:03:43+00:00"
@@ -62,8 +106,8 @@
       "source": "hn",
       "title": "Give Smart People the Tools to Do Smart Things",
       "url": "https://superuserdone.com/posts/2026-07-03-give-smart-people-the-tools/",
-      "score": 13,
-      "comments": 3,
+      "score": 64,
+      "comments": 45,
       "author": "SuperUserDone",
       "tags": [],
       "date": "2026-07-03T14:49:44+00:00"
@@ -73,7 +117,7 @@
       "source": "hn",
       "title": "Anatomy of Persistent Memory's 3 Layers: Comparing ContextNest, Mem0 and Zep",
       "url": "https://promptowl.ai/resources/persistent-memory-ai-agents/",
-      "score": 5,
+      "score": 16,
       "comments": 0,
       "author": "sparkystacey",
       "tags": [],
@@ -84,8 +128,8 @@
       "source": "hn",
       "title": "Valve open source the Steam Machine e-ink screen so you can make your own",
       "url": "https://www.gamingonlinux.com/2026/07/valve-open-source-the-steam-machine-e-ink-screen-so-you-can-make-your-own/",
-      "score": 224,
-      "comments": 31,
+      "score": 350,
+      "comments": 53,
       "author": "ahlCVA",
       "tags": [],
       "date": "2026-07-03T13:01:49+00:00",
@@ -96,8 +140,8 @@
       "source": "hn",
       "title": "PostgreSQL and the OOM Killer: Why We Use Strict Memory Overcommit",
       "url": "https://www.ubicloud.com/blog/postgresql-and-the-oom-killer-why-we-use-strict-memory-overcommit",
-      "score": 74,
-      "comments": 15,
+      "score": 100,
+      "comments": 32,
       "author": "furkansahin",
       "tags": [],
       "date": "2026-07-03T13:00:31+00:00"
@@ -107,8 +151,8 @@
       "source": "hn",
       "title": "The Fall and Rise of Screwworm",
       "url": "https://www.construction-physics.com/p/the-fall-and-rise-of-screwworm",
-      "score": 38,
-      "comments": 15,
+      "score": 74,
+      "comments": 25,
       "author": "crescit_eundo",
       "tags": [],
       "date": "2026-07-03T12:58:47+00:00"
@@ -210,7 +254,7 @@
       "source": "hn",
       "title": "Commodore 64 Basic for PostgreSQL",
       "url": "https://thombrown.blogspot.com/2026/07/load-plcbmbasic81-commodore-64-basic.html",
-      "score": 40,
+      "score": 51,
       "comments": 8,
       "author": "hans_castorp",
       "tags": [],
@@ -221,8 +265,8 @@
       "source": "hn",
       "title": "Wordgard: The new in-browser rich-text editor from the creator of ProseMirror",
       "url": "https://wordgard.net/",
-      "score": 137,
-      "comments": 66,
+      "score": 174,
+      "comments": 70,
       "author": "indy",
       "tags": [],
       "date": "2026-07-03T08:50:47+00:00"
@@ -244,8 +288,8 @@
       "source": "hn",
       "title": "Half-Baked Product",
       "url": "https://weli.dev/blog/half-baked-product/",
-      "score": 849,
-      "comments": 253,
+      "score": 995,
+      "comments": 294,
       "author": "weli",
       "tags": [],
       "date": "2026-07-03T08:23:32+00:00"
@@ -325,8 +369,8 @@
       "source": "hn",
       "title": "The Safari MCP server for web developers",
       "url": "https://webkit.org/blog/18136/introducing-the-safari-mcp-server-for-web-developers/",
-      "score": 193,
-      "comments": 55,
+      "score": 217,
+      "comments": 63,
       "author": "coloneltcb",
       "tags": [],
       "date": "2026-07-03T01:37:11+00:00"
@@ -362,8 +406,8 @@
       "source": "hn",
       "title": "CarPlay Is Additive",
       "url": "https://www.caseyliss.com/2026/7/2/carplay-is-additive-you-dolts",
-      "score": 462,
-      "comments": 617,
+      "score": 499,
+      "comments": 644,
       "author": "sprawl_",
       "tags": [],
       "date": "2026-07-03T01:02:45+00:00"
@@ -406,8 +450,8 @@
       "source": "hn",
       "title": "Right to Local Intelligence",
       "url": "https://righttointelligence.org/",
-      "score": 409,
-      "comments": 142,
+      "score": 441,
+      "comments": 155,
       "author": "thoughtpeddler",
       "tags": [],
       "date": "2026-07-02T23:54:03+00:00"
@@ -417,8 +461,8 @@
       "source": "hn",
       "title": "crustc: entirety of `rustc`, translated to C",
       "url": "https://github.com/FractalFir/crustc",
-      "score": 344,
-      "comments": 72,
+      "score": 359,
+      "comments": 80,
       "author": "Philpax",
       "tags": [],
       "date": "2026-07-02T22:57:35+00:00"
@@ -2639,6 +2683,17 @@
       "date": "2026-06-30T14:14:29+00:00"
     },
     {
+      "id": "hn-48732870",
+      "source": "hn",
+      "title": "My Dad Helped Build North America's Oat Supply Chain: Can It Be Remade?",
+      "url": "https://ambrook.com/offrange/perspective/how-we-lost-our-oats",
+      "score": 34,
+      "comments": 2,
+      "author": "surprisetalk",
+      "tags": [],
+      "date": "2026-06-30T14:00:51+00:00"
+    },
+    {
       "id": "hn-48732860",
       "source": "hn",
       "title": "How do wombats poop cubes?",
@@ -2736,7 +2791,7 @@
       "source": "hn",
       "title": "Hunting a 16-year-old SQLite WAL bug with TLA+",
       "url": "https://ubuntu.com/blog/hunting-a-16-year-old-sqlite-bug-with-tla-is-dqlite-affected",
-      "score": 31,
+      "score": 72,
       "comments": 2,
       "author": "peterparker204",
       "tags": [],
@@ -3217,8 +3272,8 @@
       "source": "hn",
       "title": "How working with a blind client revealed invisible accessibility gaps",
       "url": "https://iinteractive.com/resources/blog/read-only",
-      "score": 63,
-      "comments": 47,
+      "score": 76,
+      "comments": 58,
       "author": "fortyseven",
       "tags": [],
       "date": "2026-06-29T21:59:28+00:00"
@@ -5212,63 +5267,6 @@
       "severity": "critical"
     },
     {
-      "id": "hn-48701766",
-      "source": "hn",
-      "title": "Should European housing politics be Americanized?",
-      "url": "https://worksinprogress.co/issue/should-european-housing-politics-be-americanized/",
-      "score": 9,
-      "comments": 26,
-      "author": "JumpCrisscross",
-      "tags": [],
-      "date": "2026-06-27T21:07:38+00:00"
-    },
-    {
-      "id": "hn-48701721",
-      "source": "hn",
-      "title": "Stroustrup's Rule (2024)",
-      "url": "https://buttondown.com/hillelwayne/archive/stroustrups-rule/",
-      "score": 83,
-      "comments": 15,
-      "author": "bmacho",
-      "tags": [],
-      "date": "2026-06-27T21:01:43+00:00"
-    },
-    {
-      "id": "hn-48701512",
-      "source": "hn",
-      "title": "Show HN: Adrafinil – keep a lid-closed Mac awake only while agents work",
-      "url": "https://github.com/kageroumado/adrafinil",
-      "score": 71,
-      "comments": 38,
-      "author": "kageroumado",
-      "tags": [],
-      "date": "2026-06-27T20:34:53+00:00"
-    },
-    {
-      "id": "qiita-ee8f36836c",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "AWS DevOps Agentの設計ベストプラクティスから考えるガバメントクラウドでの活用",
-      "url": "https://qiita.com/infra365/items/b0417a9a18c8a0983657?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "infra365",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-06-28T05:17:23+09:00"
-    },
-    {
-      "id": "hn-48701342",
-      "source": "hn",
-      "title": "A Farmer Arrested for Going 5 Seconds over His Time Limit at Data Center Meeting",
-      "url": "https://www.gadgetreview.com/arrest-him-the-moment-police-handcuffed-a-farmer-for-going-5-seconds-over-his-time-limit-at-data-center-meeting",
-      "score": 31,
-      "comments": 11,
-      "author": "spenvo",
-      "tags": [],
-      "date": "2026-06-27T20:16:32+00:00"
-    },
-    {
       "id": "ctf-4007294",
       "source": "project",
       "proj_category": "CTF",
@@ -5525,19 +5523,6 @@
       "date": "Thu, 02 Jul 2026 09:55:32 GMT"
     },
     {
-      "id": "zenn-8295c46245",
-      "source": "zennqiita",
-      "sub_source": "Zenn",
-      "title": "Claudian Orchestra：ObsidianとAIエージェントで作るAI時代のタスク管理（続）",
-      "url": "https://zenn.dev/mkj/articles/claudian-orchestra_20260616",
-      "score": null,
-      "author": "Taisei Ozaki",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Thu, 02 Jul 2026 08:00:09 GMT"
-    },
-    {
       "id": "zenn-e570d5d8fb",
       "source": "zennqiita",
       "sub_source": "Zenn",
@@ -5562,6 +5547,19 @@
         "Zenn"
       ],
       "date": "Thu, 02 Jul 2026 06:52:46 GMT"
+    },
+    {
+      "id": "zenn-6b32e1ee26",
+      "source": "zennqiita",
+      "sub_source": "Zenn",
+      "title": "AIに8割書かせたコード、半年運用の答え合わせ。効いた3つと、腐った3つ",
+      "url": "https://zenn.dev/rapls/articles/7a1bac83df8b21",
+      "score": null,
+      "author": "Rapls",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Thu, 02 Jul 2026 00:52:43 GMT"
     },
     {
       "id": "zenn-92debcce79",

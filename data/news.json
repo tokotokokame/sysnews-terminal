@@ -1,14 +1,91 @@
 {
-  "updated_at": "2026-07-03T14:02:49.716262+00:00",
+  "updated_at": "2026-07-03T16:06:40.084362+00:00",
   "count": 500,
   "items": [
+    {
+      "id": "hn-48776345",
+      "source": "hn",
+      "title": "Markets are competitive if and only if P = NP",
+      "url": "https://arxiv.org/abs/2602.20415",
+      "score": 36,
+      "comments": 12,
+      "author": "kscarlet",
+      "tags": [],
+      "date": "2026-07-03T15:41:44+00:00"
+    },
+    {
+      "id": "hn-48776035",
+      "source": "hn",
+      "title": "Factories Are Just Rooms",
+      "url": "https://interconnected.org/home/2026/07/03/factories",
+      "score": 8,
+      "comments": 0,
+      "author": "arbesman",
+      "tags": [],
+      "date": "2026-07-03T15:13:43+00:00"
+    },
+    {
+      "id": "hn-48775979",
+      "source": "hn",
+      "title": "America, 1926: What a Forgotten 100-Year-Old Report Says About Who We Are",
+      "url": "https://www.derekthompson.org/p/america-1926-an-absurdly-deep-dive",
+      "score": 7,
+      "comments": 0,
+      "author": "momentmaker",
+      "tags": [],
+      "date": "2026-07-03T15:08:56+00:00"
+    },
+    {
+      "id": "hn-48775949",
+      "source": "hn",
+      "title": "Best Simple System for Now",
+      "url": "https://dannorth.net/blog/best-simple-system-for-now/",
+      "score": 10,
+      "comments": 1,
+      "author": "daan-k",
+      "tags": [],
+      "date": "2026-07-03T15:06:44+00:00"
+    },
+    {
+      "id": "hn-48775921",
+      "source": "hn",
+      "title": "Jamesob's guide to running SOTA LLMs locally",
+      "url": "https://github.com/jamesob/local-llm",
+      "score": 21,
+      "comments": 2,
+      "author": "livestyle",
+      "tags": [],
+      "date": "2026-07-03T15:03:43+00:00"
+    },
+    {
+      "id": "hn-48775748",
+      "source": "hn",
+      "title": "Give Smart People the Tools to Do Smart Things",
+      "url": "https://superuserdone.com/posts/2026-07-03-give-smart-people-the-tools/",
+      "score": 13,
+      "comments": 3,
+      "author": "SuperUserDone",
+      "tags": [],
+      "date": "2026-07-03T14:49:44+00:00"
+    },
+    {
+      "id": "hn-48775483",
+      "source": "hn",
+      "title": "Anatomy of Persistent Memory's 3 Layers: Comparing ContextNest, Mem0 and Zep",
+      "url": "https://promptowl.ai/resources/persistent-memory-ai-agents/",
+      "score": 5,
+      "comments": 0,
+      "author": "sparkystacey",
+      "tags": [],
+      "date": "2026-07-03T14:27:21+00:00"
+    },
     {
       "id": "hn-48774518",
       "source": "hn",
       "title": "Valve open source the Steam Machine e-ink screen so you can make your own",
       "url": "https://www.gamingonlinux.com/2026/07/valve-open-source-the-steam-machine-e-ink-screen-so-you-can-make-your-own/",
-      "score": 59,
-      "comments": 6,
+      "score": 224,
+      "comments": 31,
       "author": "ahlCVA",
       "tags": [],
       "date": "2026-07-03T13:01:49+00:00",
@@ -17,13 +94,24 @@
     {
       "id": "hn-48774509",
       "source": "hn",
-      "title": "PostgreSQL and the OOM Killer: Why You Must Use Strict Memory Overcommit",
+      "title": "PostgreSQL and the OOM Killer: Why We Use Strict Memory Overcommit",
       "url": "https://www.ubicloud.com/blog/postgresql-and-the-oom-killer-why-we-use-strict-memory-overcommit",
-      "score": 28,
-      "comments": 3,
+      "score": 74,
+      "comments": 15,
       "author": "furkansahin",
       "tags": [],
       "date": "2026-07-03T13:00:31+00:00"
+    },
+    {
+      "id": "hn-48774492",
+      "source": "hn",
+      "title": "The Fall and Rise of Screwworm",
+      "url": "https://www.construction-physics.com/p/the-fall-and-rise-of-screwworm",
+      "score": 38,
+      "comments": 15,
+      "author": "crescit_eundo",
+      "tags": [],
+      "date": "2026-07-03T12:58:47+00:00"
     },
     {
       "id": "hn-48774454",
@@ -57,6 +145,17 @@
       "author": "skadamat",
       "tags": [],
       "date": "2026-07-03T12:51:17+00:00"
+    },
+    {
+      "id": "hn-48774368",
+      "source": "hn",
+      "title": "Program-as-Weights: A Programming Paradigm for Fuzzy Functions",
+      "url": "https://arxiv.org/abs/2607.02512",
+      "score": 12,
+      "comments": 1,
+      "author": "simonpure",
+      "tags": [],
+      "date": "2026-07-03T12:46:30+00:00"
     },
     {
       "id": "hn-48774195",
@@ -111,8 +210,8 @@
       "source": "hn",
       "title": "Commodore 64 Basic for PostgreSQL",
       "url": "https://thombrown.blogspot.com/2026/07/load-plcbmbasic81-commodore-64-basic.html",
-      "score": 26,
-      "comments": 6,
+      "score": 40,
+      "comments": 8,
       "author": "hans_castorp",
       "tags": [],
       "date": "2026-07-03T09:08:14+00:00"
@@ -122,8 +221,8 @@
       "source": "hn",
       "title": "Wordgard: The new in-browser rich-text editor from the creator of ProseMirror",
       "url": "https://wordgard.net/",
-      "score": 90,
-      "comments": 46,
+      "score": 137,
+      "comments": 66,
       "author": "indy",
       "tags": [],
       "date": "2026-07-03T08:50:47+00:00"
@@ -145,8 +244,8 @@
       "source": "hn",
       "title": "Half-Baked Product",
       "url": "https://weli.dev/blog/half-baked-product/",
-      "score": 582,
-      "comments": 159,
+      "score": 849,
+      "comments": 253,
       "author": "weli",
       "tags": [],
       "date": "2026-07-03T08:23:32+00:00"
@@ -226,8 +325,8 @@
       "source": "hn",
       "title": "The Safari MCP server for web developers",
       "url": "https://webkit.org/blog/18136/introducing-the-safari-mcp-server-for-web-developers/",
-      "score": 150,
-      "comments": 41,
+      "score": 193,
+      "comments": 55,
       "author": "coloneltcb",
       "tags": [],
       "date": "2026-07-03T01:37:11+00:00"
@@ -263,8 +362,8 @@
       "source": "hn",
       "title": "CarPlay Is Additive",
       "url": "https://www.caseyliss.com/2026/7/2/carplay-is-additive-you-dolts",
-      "score": 415,
-      "comments": 561,
+      "score": 462,
+      "comments": 617,
       "author": "sprawl_",
       "tags": [],
       "date": "2026-07-03T01:02:45+00:00"
@@ -307,8 +406,8 @@
       "source": "hn",
       "title": "Right to Local Intelligence",
       "url": "https://righttointelligence.org/",
-      "score": 350,
-      "comments": 120,
+      "score": 409,
+      "comments": 142,
       "author": "thoughtpeddler",
       "tags": [],
       "date": "2026-07-02T23:54:03+00:00"
@@ -318,8 +417,8 @@
       "source": "hn",
       "title": "crustc: entirety of `rustc`, translated to C",
       "url": "https://github.com/FractalFir/crustc",
-      "score": 327,
-      "comments": 64,
+      "score": 344,
+      "comments": 72,
       "author": "Philpax",
       "tags": [],
       "date": "2026-07-02T22:57:35+00:00"
@@ -563,8 +662,8 @@
       "source": "hn",
       "title": "Since Linux 6.9, LUKS suspend stopped wiping disk-encryption keys from memory",
       "url": "https://mathstodon.xyz/@iblech/116769502749142438",
-      "score": 505,
-      "comments": 215,
+      "score": 515,
+      "comments": 217,
       "author": "IngoBlechschmid",
       "tags": [],
       "date": "2026-07-02T15:25:16+00:00"
@@ -646,8 +745,8 @@
       "source": "hn",
       "title": "Podman v6.0.0",
       "url": "https://blog.podman.io/2026/07/introducing-podman-v6-0-0/",
-      "score": 583,
-      "comments": 231,
+      "score": 610,
+      "comments": 239,
       "author": "soheilpro",
       "tags": [],
       "date": "2026-07-02T14:23:09+00:00"
@@ -690,8 +789,8 @@
       "source": "hn",
       "title": "Immich 3.0",
       "url": "https://github.com/immich-app/immich/discussions/29439",
-      "score": 512,
-      "comments": 249,
+      "score": 556,
+      "comments": 269,
       "author": "hashier",
       "tags": [],
       "date": "2026-07-02T14:13:26+00:00"
@@ -2274,6 +2373,17 @@
       "date": "2026-06-30T21:28:32+00:00"
     },
     {
+      "id": "hn-48739140",
+      "source": "hn",
+      "title": "Local Reasoning for Global Properties",
+      "url": "https://tratt.net/laurie/blog/2026/local_reasoning_for_global_properties.html",
+      "score": 20,
+      "comments": 2,
+      "author": "mpweiher",
+      "tags": [],
+      "date": "2026-06-30T21:01:06+00:00"
+    },
+    {
       "id": "hn-48738985",
       "source": "hn",
       "title": "I ported Kubernetes to the browser",
@@ -2620,6 +2730,17 @@
         "Qiita"
       ],
       "date": "2026-06-30T20:19:30+09:00"
+    },
+    {
+      "id": "hn-48730953",
+      "source": "hn",
+      "title": "Hunting a 16-year-old SQLite WAL bug with TLA+",
+      "url": "https://ubuntu.com/blog/hunting-a-16-year-old-sqlite-bug-with-tla-is-dqlite-affected",
+      "score": 31,
+      "comments": 2,
+      "author": "peterparker204",
+      "tags": [],
+      "date": "2026-06-30T11:07:38+00:00"
     },
     {
       "id": "hn-48730904",
@@ -3096,8 +3217,8 @@
       "source": "hn",
       "title": "How working with a blind client revealed invisible accessibility gaps",
       "url": "https://iinteractive.com/resources/blog/read-only",
-      "score": 45,
-      "comments": 26,
+      "score": 63,
+      "comments": 47,
       "author": "fortyseven",
       "tags": [],
       "date": "2026-06-29T21:59:28+00:00"
@@ -4925,8 +5046,8 @@
       "source": "hn",
       "title": "Reality has a surprising amount of detail (2017)",
       "url": "https://johnsalvatier.org/blog/2017/reality-has-a-surprising-amount-of-detail",
-      "score": 310,
-      "comments": 116,
+      "score": 338,
+      "comments": 124,
       "author": "vinhnx",
       "tags": [],
       "date": "2026-06-27T23:36:25+00:00"
@@ -5148,39 +5269,6 @@
       "date": "2026-06-27T20:16:32+00:00"
     },
     {
-      "id": "hn-48700834",
-      "source": "hn",
-      "title": "IP Crawl: Living atlas of open webcams discovered on the public internet",
-      "url": "https://ipcrawl.com/",
-      "score": 271,
-      "comments": 134,
-      "author": "arm32",
-      "tags": [],
-      "date": "2026-06-27T19:09:49+00:00"
-    },
-    {
-      "id": "hn-48700805",
-      "source": "hn",
-      "title": "Ships keep moving through Hormuz despite strike",
-      "url": "https://www.lloydslist.com/LL1157680/Ships-keep-moving-through-Hormuz-despite-strike-and-suspension-of-IMO-exit-strategy",
-      "score": 21,
-      "comments": 1,
-      "author": "everybodyknows",
-      "tags": [],
-      "date": "2026-06-27T19:06:03+00:00"
-    },
-    {
-      "id": "hn-48700317",
-      "source": "hn",
-      "title": "The Card That Made the Apple II Serious",
-      "url": "https://www.wiseowl.com/articles/a2fpga-videx-01-the-card-that-made-the-apple-ii-serious/",
-      "score": 8,
-      "comments": 0,
-      "author": "js2",
-      "tags": [],
-      "date": "2026-06-27T18:00:46+00:00"
-    },
-    {
       "id": "ctf-4007294",
       "source": "project",
       "proj_category": "CTF",
@@ -5195,87 +5283,6 @@
       "date": "2026-06-27T17:43:19Z"
     },
     {
-      "id": "hn-48699928",
-      "source": "hn",
-      "title": "Turn your site into a place people can bump into each other",
-      "url": "https://cauenapier.com/blog/townsquare_release/",
-      "score": 272,
-      "comments": 120,
-      "author": "eustoria",
-      "tags": [],
-      "date": "2026-06-27T17:11:20+00:00"
-    },
-    {
-      "id": "hn-48699842",
-      "source": "hn",
-      "title": "Supabase (YC S20) Is Hiring for Multigres",
-      "url": "https://jobs.ashbyhq.com/supabase/2e718684-4f75-4a99-8d6b-3b6bd44e4228",
-      "score": 1,
-      "comments": 0,
-      "author": "awalias",
-      "tags": [],
-      "date": "2026-06-27T17:00:15+00:00"
-    },
-    {
-      "id": "hn-48699617",
-      "source": "hn",
-      "title": "Doctors suspected man had brain cancer. He had worms",
-      "url": "https://arstechnica.com/health/2026/06/doctors-suspected-man-had-brain-cancer-he-actually-had-worms/",
-      "score": 22,
-      "comments": 9,
-      "author": "Bender",
-      "tags": [],
-      "date": "2026-06-27T16:31:58+00:00"
-    },
-    {
-      "id": "qiita-c5e04da2ad",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "Antigravity SDKを触って、ようやく「自分用Antigravityを作る部品」だと少し見えた",
-      "url": "https://qiita.com/torifukukaiou/items/7f041125bcf109c5e2c7?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "torifukukaiou",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-06-28T00:31:14+09:00"
-    },
-    {
-      "id": "qiita-69461dd715",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "Antigravity SDKで、ソースコードとズレたREADMEを直してみた",
-      "url": "https://qiita.com/torifukukaiou/items/658d89d4d7a08b89845c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "torifukukaiou",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-06-28T00:29:36+09:00"
-    },
-    {
-      "id": "hn-48699010",
-      "source": "hn",
-      "title": "A peek into Reddit's anti-spam internals",
-      "url": "https://lyra.horse/blog/2026/06/reddit-spam-internals/",
-      "score": 70,
-      "comments": 15,
-      "author": "OuterVale",
-      "tags": [],
-      "date": "2026-06-27T15:18:03+00:00"
-    },
-    {
-      "id": "hn-48698908",
-      "source": "hn",
-      "title": "Free the Icons",
-      "url": "https://weblog.rogueamoeba.com/2026/06/26/free-the-icons/",
-      "score": 651,
-      "comments": 240,
-      "author": "zdw",
-      "tags": [],
-      "date": "2026-06-27T15:05:17+00:00"
-    },
-    {
       "id": "ctf-4003610",
       "source": "project",
       "proj_category": "CTF",
@@ -5288,17 +5295,6 @@
         "Security"
       ],
       "date": "2026-06-27T07:10:37Z"
-    },
-    {
-      "id": "hn-48693428",
-      "source": "hn",
-      "title": "Quake in 13 Kilobytes (2021)",
-      "url": "https://js13kgames.com/games/q1k3",
-      "score": 76,
-      "comments": 7,
-      "author": "mortenjorck",
-      "tags": [],
-      "date": "2026-06-26T23:36:56+00:00"
     },
     {
       "id": "ctf-3999897",

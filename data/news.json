@@ -1,7 +1,29 @@
 {
-  "updated_at": "2026-07-04T12:44:15.841409+00:00",
+  "updated_at": "2026-07-04T14:36:39.108322+00:00",
   "count": 500,
   "items": [
+    {
+      "id": "hn-48785485",
+      "source": "hn",
+      "title": "Potential session/cache leakage between workspace instances or consumer accounts",
+      "url": "https://github.com/anthropics/claude-code/issues/74066",
+      "score": 17,
+      "comments": 4,
+      "author": "chatmasta",
+      "tags": [],
+      "date": "2026-07-04T14:03:40+00:00"
+    },
+    {
+      "id": "hn-48784777",
+      "source": "hn",
+      "title": "Explanation of everything you can see in htop/top on Linux",
+      "url": "https://peteris.rocks/blog/htop/",
+      "score": 59,
+      "comments": 11,
+      "author": "theanonymousone",
+      "tags": [],
+      "date": "2026-07-04T12:00:57+00:00"
+    },
     {
       "id": "qiita-9ebf9de665",
       "source": "zennqiita",
@@ -18,10 +40,10 @@
     {
       "id": "hn-48783948",
       "source": "hn",
-      "title": "Astrophysicists Puzzle over Webb's New Universe",
+      "title": "Astrophysicists Puzzle over Webb’s New Universe",
       "url": "https://www.quantamagazine.org/astrophysicists-puzzle-over-webbs-new-universe-20260702/",
-      "score": 54,
-      "comments": 17,
+      "score": 103,
+      "comments": 51,
       "author": "jnord",
       "tags": [],
       "date": "2026-07-04T09:08:09+00:00"
@@ -31,8 +53,8 @@
       "source": "hn",
       "title": "The bottleneck might be the air in the room",
       "url": "https://blog.mikebowler.ca/2026/07/03/co2-and-decision-making/",
-      "score": 422,
-      "comments": 249,
+      "score": 512,
+      "comments": 312,
       "author": "gslin",
       "tags": [],
       "date": "2026-07-04T06:32:28+00:00"
@@ -49,12 +71,23 @@
       "date": "2026-07-04T05:43:01+00:00"
     },
     {
+      "id": "hn-48782890",
+      "source": "hn",
+      "title": "2026 Unslop AI-Written Fiction Contest Results",
+      "url": "https://www.hyperstitionai.com/unslop-results",
+      "score": 35,
+      "comments": 98,
+      "author": "networked",
+      "tags": [],
+      "date": "2026-07-04T05:37:25+00:00"
+    },
+    {
       "id": "hn-48782671",
       "source": "hn",
       "title": "Agentic coding notes from Galapagos Island",
       "url": "https://danluu.com/ai-coding/#appendix-agentic-loops-and-writing-this-post",
-      "score": 119,
-      "comments": 59,
+      "score": 135,
+      "comments": 63,
       "author": "gm678",
       "tags": [],
       "date": "2026-07-04T04:37:15+00:00"
@@ -77,8 +110,8 @@
       "source": "hn",
       "title": "Maybe you should learn something",
       "url": "https://www.marginalia.nu/log/a_135_learn/",
-      "score": 161,
-      "comments": 67,
+      "score": 234,
+      "comments": 114,
       "author": "tylerdane",
       "tags": [],
       "date": "2026-07-04T03:36:03+00:00"
@@ -88,8 +121,8 @@
       "source": "hn",
       "title": "Synthesis is harder than analysis",
       "url": "https://surfingcomplexity.blog/2026/07/03/synthesis-is-harder-than-analysis/",
-      "score": 103,
-      "comments": 23,
+      "score": 117,
+      "comments": 30,
       "author": "azhenley",
       "tags": [],
       "date": "2026-07-04T02:45:24+00:00"
@@ -99,8 +132,8 @@
       "source": "hn",
       "title": "MSI Center – How to gain SYSTEM privileges in seconds",
       "url": "https://mrbruh.com/msicenter/",
-      "score": 104,
-      "comments": 39,
+      "score": 116,
+      "comments": 48,
       "author": "MrBruh",
       "tags": [],
       "date": "2026-07-04T00:57:44+00:00"
@@ -133,8 +166,8 @@
       "source": "hn",
       "title": "Odin, Wikipedia and engagement farming",
       "url": "https://katamari64.se/posts/2026/odin-wikipedia/",
-      "score": 173,
-      "comments": 229,
+      "score": 198,
+      "comments": 270,
       "author": "stock_toaster",
       "tags": [],
       "date": "2026-07-03T23:24:35+00:00"
@@ -155,8 +188,8 @@
       "source": "hn",
       "title": "The firefighting system of the Van der Heyden brothers in 17th century Amsterdam",
       "url": "https://worksinprogress.co/issue/how-amsterdam-invented-the-fire-department/",
-      "score": 107,
-      "comments": 19,
+      "score": 113,
+      "comments": 21,
       "author": "zdw",
       "tags": [],
       "date": "2026-07-03T22:46:18+00:00"
@@ -166,8 +199,8 @@
       "source": "hn",
       "title": "Giant trees have no trouble pumping water to top branches: new research",
       "url": "https://news.exeter.ac.uk/faculty-of-environment-science-and-economy/giant-trees-have-no-trouble-pumping-water-to-top-branches/",
-      "score": 219,
-      "comments": 102,
+      "score": 232,
+      "comments": 104,
       "author": "hhs",
       "tags": [],
       "date": "2026-07-03T22:40:29+00:00"
@@ -177,8 +210,8 @@
       "source": "hn",
       "title": "Steam Controller Auto-Charge – pilot to magnetic charging puck using CV",
       "url": "https://github.com/FossPrime/Steam-Controller-Auto-Charge",
-      "score": 152,
-      "comments": 34,
+      "score": 168,
+      "comments": 36,
       "author": "zdw",
       "tags": [],
       "date": "2026-07-03T22:39:50+00:00"
@@ -210,8 +243,8 @@
       "source": "hn",
       "title": "Leanstral 1.5: Proof abundance for all",
       "url": "https://mistral.ai/news/leanstral-1-5/",
-      "score": 271,
-      "comments": 79,
+      "score": 297,
+      "comments": 86,
       "author": "programLyrique",
       "tags": [],
       "date": "2026-07-03T22:33:10+00:00"
@@ -232,8 +265,8 @@
       "source": "hn",
       "title": "Performance per dollar is getting faster and cheaper",
       "url": "https://www.wafer.ai/blog/glm52-amd",
-      "score": 269,
-      "comments": 100,
+      "score": 298,
+      "comments": 112,
       "author": "latchkey",
       "tags": [],
       "date": "2026-07-03T21:49:06+00:00"
@@ -265,8 +298,8 @@
       "source": "hn",
       "title": "New serious vulnerabilities spiked around release of Claude Mythos Preview",
       "url": "https://epoch.ai/data-insights/cve-severity-spike",
-      "score": 121,
-      "comments": 50,
+      "score": 132,
+      "comments": 57,
       "author": "cubefox",
       "tags": [],
       "date": "2026-07-03T21:16:16+00:00"
@@ -320,8 +353,8 @@
       "source": "hn",
       "title": "SearXNG: A free internet metasearch engine",
       "url": "https://github.com/searxng/searxng",
-      "score": 231,
-      "comments": 63,
+      "score": 246,
+      "comments": 66,
       "author": "theanonymousone",
       "tags": [],
       "date": "2026-07-03T20:15:49+00:00"
@@ -375,8 +408,8 @@
       "source": "hn",
       "title": "FreeBSD ate my RAM",
       "url": "https://crocidb.com/post/freebsd-ate-my-ram/",
-      "score": 157,
-      "comments": 59,
+      "score": 167,
+      "comments": 68,
       "author": "theanonymousone",
       "tags": [],
       "date": "2026-07-03T19:08:31+00:00"
@@ -485,8 +518,8 @@
       "source": "hn",
       "title": "Costco is the anti-Amazon",
       "url": "https://phenomenalworld.org/analysis/the-anti-amazon/",
-      "score": 418,
-      "comments": 387,
+      "score": 466,
+      "comments": 425,
       "author": "bookofjoe",
       "tags": [],
       "date": "2026-07-03T15:14:55+00:00"
@@ -529,8 +562,8 @@
       "source": "hn",
       "title": "Jamesob's guide to running SOTA LLMs locally",
       "url": "https://github.com/jamesob/local-llm",
-      "score": 363,
-      "comments": 164,
+      "score": 375,
+      "comments": 168,
       "author": "livestyle",
       "tags": [],
       "date": "2026-07-03T15:03:43+00:00"
@@ -2535,8 +2568,8 @@
       "source": "hn",
       "title": "The Vespa at 80: Why the Italian scooter remains the coolest thing on 2 wheels",
       "url": "https://www.cbc.ca/news/world/vespa-italy-postwar-design-9.7252641",
-      "score": 16,
-      "comments": 4,
+      "score": 62,
+      "comments": 56,
       "author": "cf100clunk",
       "tags": [],
       "date": "2026-07-01T13:22:19+00:00"
@@ -2557,8 +2590,8 @@
       "source": "hn",
       "title": "Postgres data stored in Parquet on S3: LTAP architecture explained",
       "url": "https://www.databricks.com/blog/lakebase-ltap-rethinking-database-storage",
-      "score": 55,
-      "comments": 18,
+      "score": 84,
+      "comments": 24,
       "author": "andrenotgiant",
       "tags": [],
       "date": "2026-07-01T12:48:56+00:00"
@@ -3132,6 +3165,17 @@
       "date": "2026-06-30T21:28:32+00:00"
     },
     {
+      "id": "hn-48739446",
+      "source": "hn",
+      "title": "Breaking the Bird Barrier: Scientist Decodes Zebra Finch Language",
+      "url": "https://www.freepressjournal.in/education/breaking-the-bird-barrier-scientist-decodes-zebra-finch-language",
+      "score": 7,
+      "comments": 0,
+      "author": "yyyk",
+      "tags": [],
+      "date": "2026-06-30T21:27:15+00:00"
+    },
+    {
       "id": "hn-48739140",
       "source": "hn",
       "title": "Local Reasoning for Global Properties",
@@ -3147,8 +3191,8 @@
       "source": "hn",
       "title": "Mir Books – Books from the Soviet Era",
       "url": "https://mirtitles.org",
-      "score": 105,
-      "comments": 44,
+      "score": 123,
+      "comments": 52,
       "author": "clmul",
       "tags": [],
       "date": "2026-06-30T20:50:58+00:00"
@@ -3207,6 +3251,17 @@
       "author": "zdw",
       "tags": [],
       "date": "2026-06-30T19:45:39+00:00"
+    },
+    {
+      "id": "hn-48737068",
+      "source": "hn",
+      "title": "Night Witches – all-female Soviet aviator regiment WW2",
+      "url": "https://en.wikipedia.org/wiki/Night_Witches",
+      "score": 34,
+      "comments": 10,
+      "author": "gverrilla",
+      "tags": [],
+      "date": "2026-06-30T18:24:52+00:00"
     },
     {
       "id": "hn-48736839",
@@ -5181,63 +5236,6 @@
       "date": "2026-06-28T16:17:38+00:00"
     },
     {
-      "id": "hn-48708700",
-      "source": "hn",
-      "title": "Examining circuit boards from the Space Shuttle's I/O Processor",
-      "url": "https://www.righto.com/2026/06/space-shuttle-io-processor-boards.html",
-      "score": 88,
-      "comments": 20,
-      "author": "pwg",
-      "tags": [],
-      "date": "2026-06-28T16:16:07+00:00"
-    },
-    {
-      "id": "hn-48708644",
-      "source": "hn",
-      "title": "Dissecting Apple's Sparse Image Format (ASIF)",
-      "url": "https://schamper.dev/dissecting-apples-sparse-image-format-asif/",
-      "score": 107,
-      "comments": 16,
-      "author": "supermatou",
-      "tags": [],
-      "date": "2026-06-28T16:10:50+00:00"
-    },
-    {
-      "id": "hn-48708602",
-      "source": "hn",
-      "title": "Show HN: Unobin compiles Infrastructure as Code to one binary",
-      "url": "https://cloudboss.co/docs/unobin",
-      "score": 5,
-      "comments": 0,
-      "author": "joseph",
-      "tags": [],
-      "date": "2026-06-28T16:06:22+00:00"
-    },
-    {
-      "id": "hn-48708496",
-      "source": "hn",
-      "title": "Programmable Probabilistic Computer with 1M p-bits",
-      "url": "https://arxiv.org/abs/2606.25313",
-      "score": 31,
-      "comments": 0,
-      "author": "rbanffy",
-      "tags": [],
-      "date": "2026-06-28T15:55:31+00:00"
-    },
-    {
-      "id": "qiita-8ecff0a95f",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "自治体情シスの三層分離・ガバクラ検証作業用のご自宅ネットワーク構成図",
-      "url": "https://qiita.com/takeda_h/items/7884f95ada36127a7e28?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "takeda_h",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-06-29T00:41:12+09:00"
-    },
-    {
       "id": "ctf-4011285",
       "source": "project",
       "proj_category": "CTF",
@@ -5378,6 +5376,19 @@
       "date": "2023-05-23T17:06:23Z"
     },
     {
+      "id": "zenn-815d9af0dc",
+      "source": "zennqiita",
+      "sub_source": "Zenn",
+      "title": "Next.jsのpreloadが生成するHTTPヘッダーに日本語ファイル名が紛れて本番だけエラーが出た話",
+      "url": "https://zenn.dev/hidechannu/articles/20260703-japanese-filename-bytestring",
+      "score": null,
+      "author": "hidechannu",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Fri, 03 Jul 2026 13:13:37 GMT"
+    },
+    {
       "id": "zenn-f6cac3cc2d",
       "source": "zennqiita",
       "sub_source": "Zenn",
@@ -5404,19 +5415,6 @@
       "date": "Fri, 03 Jul 2026 11:30:29 GMT"
     },
     {
-      "id": "zenn-7ec61330e6",
-      "source": "zennqiita",
-      "sub_source": "Zenn",
-      "title": ".env に API キーを書きたくないので 軽いCLI を作った",
-      "url": "https://zenn.dev/trknhr/articles/42c20e11812217",
-      "score": null,
-      "author": "trknhr",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Fri, 03 Jul 2026 08:25:45 GMT"
-    },
-    {
       "id": "zenn-7749dd808c",
       "source": "zennqiita",
       "sub_source": "Zenn",
@@ -5428,19 +5426,6 @@
         "Zenn"
       ],
       "date": "Fri, 03 Jul 2026 06:28:32 GMT"
-    },
-    {
-      "id": "zenn-56702375a2",
-      "source": "zennqiita",
-      "sub_source": "Zenn",
-      "title": "Snowflakeの開発にCoCo(旧Cortex Code)をおすすめする理由",
-      "url": "https://zenn.dev/dataheroes/articles/why-coco-for-snowflake-dev",
-      "score": null,
-      "author": "ぺい(pei0804)",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Fri, 03 Jul 2026 05:22:27 GMT"
     },
     {
       "id": "zenn-e34d1f4443",
@@ -5521,6 +5506,19 @@
       "date": "Thu, 02 Jul 2026 14:33:43 GMT"
     },
     {
+      "id": "zenn-8e0e005f2c",
+      "source": "zennqiita",
+      "sub_source": "Zenn",
+      "title": "個人的なC言語からC++(Cpp)のすゝめ",
+      "url": "https://zenn.dev/chronoss/articles/f39c749a895e42",
+      "score": null,
+      "author": "Chronoss0518",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Thu, 02 Jul 2026 13:07:11 GMT"
+    },
+    {
       "id": "zenn-9be5a7c64d",
       "source": "zennqiita",
       "sub_source": "Zenn",
@@ -5573,19 +5571,6 @@
       "date": "Thu, 02 Jul 2026 06:52:46 GMT"
     },
     {
-      "id": "zenn-f30e710010",
-      "source": "zennqiita",
-      "sub_source": "Zenn",
-      "title": "高速 Gaussian Splatting レンダリング",
-      "url": "https://zenn.dev/abist_inno/articles/dbb046952261eb",
-      "score": null,
-      "author": "おおひら",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Thu, 02 Jul 2026 04:23:30 GMT"
-    },
-    {
       "id": "zenn-6b32e1ee26",
       "source": "zennqiita",
       "sub_source": "Zenn",
@@ -5636,6 +5621,19 @@
         "Zenn"
       ],
       "date": "Tue, 30 Jun 2026 23:00:12 GMT"
+    },
+    {
+      "id": "zenn-ad73c0d9e2",
+      "source": "zennqiita",
+      "sub_source": "Zenn",
+      "title": "ローカルLLMで「Pi」エージェントを動かす",
+      "url": "https://zenn.dev/fuwamoekissaten/articles/bb5f5364838ced",
+      "score": null,
+      "author": "aipracticecafe",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Tue, 30 Jun 2026 10:25:15 GMT"
     },
     {
       "id": "edb-3a6bcc02f2",

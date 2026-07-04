@@ -1,14 +1,37 @@
 {
-  "updated_at": "2026-07-04T21:30:00.791933+00:00",
+  "updated_at": "2026-07-04T22:32:25.229350+00:00",
   "count": 500,
   "items": [
+    {
+      "id": "hn-48789428",
+      "source": "hn",
+      "title": "GPT-5.5 Codex reasoning-token clustering may be leading to degraded performance",
+      "url": "https://github.com/openai/codex/issues/30364",
+      "score": 35,
+      "comments": 4,
+      "author": "maille",
+      "tags": [],
+      "date": "2026-07-04T21:51:09+00:00"
+    },
+    {
+      "id": "hn-48788849",
+      "source": "hn",
+      "title": "Protocol Prying: Vulnerability Research in AirDrop and Quick Share",
+      "url": "https://arxiv.org/abs/2606.26967",
+      "score": 4,
+      "comments": 0,
+      "author": "logickkk1",
+      "tags": [],
+      "date": "2026-07-04T20:38:39+00:00",
+      "severity": "high"
+    },
     {
       "id": "hn-48788599",
       "source": "hn",
       "title": "Better Models: Worse Tools",
       "url": "https://lucumr.pocoo.org/2026/7/4/better-models-worse-tools/",
-      "score": 13,
-      "comments": 3,
+      "score": 39,
+      "comments": 13,
       "author": "leemoore",
       "tags": [],
       "date": "2026-07-04T20:16:22+00:00"
@@ -29,8 +52,8 @@
       "source": "hn",
       "title": "Command and Conquer Generals natively ported to macOS, iPhone, iPad using Fable",
       "url": "https://github.com/ammaarreshi/Generals-Mac-iOS-iPad/tree/main",
-      "score": 134,
-      "comments": 68,
+      "score": 226,
+      "comments": 99,
       "author": "asronline",
       "tags": [],
       "date": "2026-07-04T19:41:10+00:00"
@@ -62,8 +85,8 @@
       "source": "hn",
       "title": "Verizon is About to Break our Watches",
       "url": "https://www.jefftk.com/p/verizon-is-about-to-break-our-watches",
-      "score": 92,
-      "comments": 36,
+      "score": 109,
+      "comments": 45,
       "author": "jefftk",
       "tags": [],
       "date": "2026-07-04T17:52:36+00:00"
@@ -73,8 +96,8 @@
       "source": "hn",
       "title": "BareMetal RAM Dumper – Bare-metal x86 tool for Cold Boot Attack experiments",
       "url": "https://github.com/pIat0n/BareMetal-RAM-Dumper",
-      "score": 39,
-      "comments": 15,
+      "score": 43,
+      "comments": 24,
       "author": "liffik",
       "tags": [],
       "date": "2026-07-04T17:37:21+00:00"
@@ -106,8 +129,8 @@
       "source": "hn",
       "title": "EndBASIC 0.14: Are we multimedia yet?",
       "url": "https://www.endbasic.dev/2026/07/endbasic-0.14.html",
-      "score": 20,
-      "comments": 0,
+      "score": 21,
+      "comments": 2,
       "author": "jmmv",
       "tags": [],
       "date": "2026-07-04T17:08:18+00:00"
@@ -128,8 +151,8 @@
       "source": "hn",
       "title": "Finland's last analogue landline phones go silent after 150 years",
       "url": "https://www.euronews.com/next/2026/06/30/finlands-last-analogue-landline-phones-go-silent-after-150-years",
-      "score": 72,
-      "comments": 19,
+      "score": 80,
+      "comments": 20,
       "author": "ohjeez",
       "tags": [],
       "date": "2026-07-04T16:54:02+00:00"
@@ -139,8 +162,8 @@
       "source": "hn",
       "title": "Google Books (or similar) all book scans – $200k bounty (2025)",
       "url": "https://software.annas-archive.gl/AnnaArchivist/annas-archive/-/work_items/234",
-      "score": 226,
-      "comments": 111,
+      "score": 258,
+      "comments": 140,
       "author": "Cider9986",
       "tags": [],
       "date": "2026-07-04T16:51:26+00:00"
@@ -150,8 +173,8 @@
       "source": "hn",
       "title": "Meta data center water discharges suspended for contaminating water supply",
       "url": "https://www.tomshardware.com/tech-industry/data-centers/cheyenne-suspends-data-center-fill-and-flush-and-closed-loop-discharges-after-meta-contractor-contaminated-its-reuse-water-system",
-      "score": 170,
-      "comments": 61,
+      "score": 200,
+      "comments": 67,
       "author": "sensanaty",
       "tags": [],
       "date": "2026-07-04T16:45:23+00:00"
@@ -161,8 +184,8 @@
       "source": "hn",
       "title": "Leaking YouTube creators' private videos",
       "url": "https://javoriuski.com/post/youtube",
-      "score": 371,
-      "comments": 191,
+      "score": 414,
+      "comments": 210,
       "author": "javxfps",
       "tags": [],
       "date": "2026-07-04T16:45:10+00:00"
@@ -183,8 +206,8 @@
       "source": "hn",
       "title": "Zig: All Package Management Functionality Moved from Compiler to Build System",
       "url": "https://ziglang.org/devlog/2026/#2026-06-30",
-      "score": 67,
-      "comments": 8,
+      "score": 92,
+      "comments": 19,
       "author": "tosh",
       "tags": [],
       "date": "2026-07-04T16:30:10+00:00"
@@ -194,11 +217,22 @@
       "source": "hn",
       "title": "Curveball",
       "url": "https://mightyburger.net/projects/curveball/",
-      "score": 35,
-      "comments": 8,
+      "score": 39,
+      "comments": 9,
       "author": "toilet",
       "tags": [],
       "date": "2026-07-04T16:15:48+00:00"
+    },
+    {
+      "id": "hn-48786245",
+      "source": "hn",
+      "title": "Fable created novel 4D splat format",
+      "url": "https://adamraudonis.github.io/splats4D/",
+      "score": 62,
+      "comments": 13,
+      "author": "adamraudonis",
+      "tags": [],
+      "date": "2026-07-04T15:49:08+00:00"
     },
     {
       "id": "qiita-bcd745917c",
@@ -218,8 +252,8 @@
       "source": "hn",
       "title": "Windows CE Dreamcast Community Edition (wince-dc)",
       "url": "https://github.com/maximqaxd/wince-dc",
-      "score": 71,
-      "comments": 14,
+      "score": 78,
+      "comments": 15,
       "author": "msephton",
       "tags": [],
       "date": "2026-07-04T14:52:25+00:00"
@@ -229,8 +263,8 @@
       "source": "hn",
       "title": "Potential session/cache leakage between workspace instances or consumer accounts",
       "url": "https://github.com/anthropics/claude-code/issues/74066",
-      "score": 249,
-      "comments": 118,
+      "score": 259,
+      "comments": 119,
       "author": "chatmasta",
       "tags": [],
       "date": "2026-07-04T14:03:40+00:00"
@@ -262,8 +296,8 @@
       "source": "hn",
       "title": "Explanation of everything you can see in htop/top on Linux (2019)",
       "url": "https://peteris.rocks/blog/htop/",
-      "score": 345,
-      "comments": 45,
+      "score": 357,
+      "comments": 46,
       "author": "theanonymousone",
       "tags": [],
       "date": "2026-07-04T12:00:57+00:00"
@@ -297,8 +331,8 @@
       "source": "hn",
       "title": "Astrophysicists Puzzle over Webb’s New Universe",
       "url": "https://www.quantamagazine.org/astrophysicists-puzzle-over-webbs-new-universe-20260702/",
-      "score": 174,
-      "comments": 110,
+      "score": 178,
+      "comments": 115,
       "author": "jnord",
       "tags": [],
       "date": "2026-07-04T09:08:09+00:00"
@@ -2474,7 +2508,7 @@
       "source": "hn",
       "title": "Neural Render Proxies for Interactive and Differentiable Lighting",
       "url": "https://studios.disneyresearch.com/2026/07/01/neural-render-proxies-for-interactive-and-differentiable-lighting/",
-      "score": 34,
+      "score": 39,
       "comments": 3,
       "author": "tobr",
       "tags": [],
@@ -2949,8 +2983,8 @@
       "source": "hn",
       "title": "Designing DB partitions you don't have to babysit",
       "url": "https://explainanalyze.com/p/designing-partitioning-you-dont-have-to-babysit/",
-      "score": 44,
-      "comments": 6,
+      "score": 49,
+      "comments": 7,
       "author": "rtolkachev",
       "tags": [],
       "date": "2026-07-01T13:05:16+00:00"
@@ -2971,8 +3005,8 @@
       "source": "hn",
       "title": "Postgres data stored in Parquet on S3: LTAP architecture explained",
       "url": "https://www.databricks.com/blog/lakebase-ltap-rethinking-database-storage",
-      "score": 148,
-      "comments": 50,
+      "score": 156,
+      "comments": 51,
       "author": "andrenotgiant",
       "tags": [],
       "date": "2026-07-01T12:48:56+00:00"
@@ -3179,8 +3213,8 @@
       "source": "hn",
       "title": "It's not me, it's the compiler",
       "url": "https://parsa.wtf/cast/",
-      "score": 16,
-      "comments": 1,
+      "score": 31,
+      "comments": 6,
       "author": "SVI",
       "tags": [],
       "date": "2026-07-01T07:41:04+00:00"
@@ -3572,7 +3606,7 @@
       "source": "hn",
       "title": "Breaking the Bird Barrier: Scientist Decodes Zebra Finch Language",
       "url": "https://www.freepressjournal.in/education/breaking-the-bird-barrier-scientist-decodes-zebra-finch-language",
-      "score": 70,
+      "score": 76,
       "comments": 23,
       "author": "yyyk",
       "tags": [],
@@ -3638,8 +3672,8 @@
       "source": "hn",
       "title": "Drone Physics",
       "url": "https://iahmed.me/post/drone-physics/",
-      "score": 40,
-      "comments": 8,
+      "score": 57,
+      "comments": 14,
       "author": "wrxd",
       "tags": [],
       "date": "2026-06-30T19:57:37+00:00"
@@ -5207,43 +5241,6 @@
       "severity": "critical"
     },
     {
-      "id": "hn-48713697",
-      "source": "hn",
-      "title": "AI boom risks global financial crash, warn central bankers",
-      "url": "https://www.telegraph.co.uk/business/2026/06/28/ai-boom-risks-global-financial-crash-central-bankers-warn/",
-      "score": 79,
-      "comments": 71,
-      "author": "b-man",
-      "tags": [],
-      "date": "2026-06-29T01:25:04+00:00"
-    },
-    {
-      "id": "qiita-ca810c7fbe",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "「転職はまだ早い」と思っているあなたへ。私が一歩踏み出して学んだこと",
-      "url": "https://qiita.com/hitomin_poke/items/3f0d61d0ff4f082479c0?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "hitomin_poke",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-06-29T09:54:36+09:00"
-    },
-    {
-      "id": "qiita-a8e907873c",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "社内でTOTPのハンズオン授業を開いてみた",
-      "url": "https://qiita.com/qwertyhoge/items/6ef7a58fe38b1e9e0e31?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "qwertyhoge",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-06-29T09:45:16+09:00"
-    },
-    {
       "id": "ctf-4011285",
       "source": "project",
       "proj_category": "CTF",
@@ -5384,17 +5381,30 @@
       "date": "2023-05-23T17:06:23Z"
     },
     {
-      "id": "zenn-815d9af0dc",
+      "id": "zenn-32eba05d66",
       "source": "zennqiita",
       "sub_source": "Zenn",
-      "title": "Next.jsのpreloadが生成するHTTPヘッダーに日本語ファイル名が紛れて本番だけエラーが出た話",
-      "url": "https://zenn.dev/hidechannu/articles/20260703-japanese-filename-bytestring",
+      "title": "仕事の「モチベーション」とは何か。",
+      "url": "https://zenn.dev/dip_techblog/articles/526cc6e6e5d5a5",
       "score": null,
-      "author": "hidechannu",
+      "author": "岩城まゆ",
       "tags": [
         "Zenn"
       ],
-      "date": "Fri, 03 Jul 2026 13:13:37 GMT"
+      "date": "Sat, 04 Jul 2026 08:19:56 GMT"
+    },
+    {
+      "id": "zenn-4b2706e276",
+      "source": "zennqiita",
+      "sub_source": "Zenn",
+      "title": "就活用DirectX12アクションゲーム作成　第二十一回",
+      "url": "https://zenn.dev/seisei89628/articles/cfec733913db02",
+      "score": null,
+      "author": "seisei89628",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Sat, 04 Jul 2026 04:21:33 GMT"
     },
     {
       "id": "zenn-f6cac3cc2d",
@@ -5423,6 +5433,19 @@
       "date": "Fri, 03 Jul 2026 11:30:29 GMT"
     },
     {
+      "id": "zenn-7ec61330e6",
+      "source": "zennqiita",
+      "sub_source": "Zenn",
+      "title": ".env に API キーを書きたくないので 軽いCLI を作った",
+      "url": "https://zenn.dev/trknhr/articles/42c20e11812217",
+      "score": null,
+      "author": "trknhr",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Fri, 03 Jul 2026 08:25:45 GMT"
+    },
+    {
       "id": "zenn-7749dd808c",
       "source": "zennqiita",
       "sub_source": "Zenn",
@@ -5436,6 +5459,19 @@
       "date": "Fri, 03 Jul 2026 06:28:32 GMT"
     },
     {
+      "id": "zenn-56702375a2",
+      "source": "zennqiita",
+      "sub_source": "Zenn",
+      "title": "Snowflakeの開発にCoCo(旧Cortex Code)をおすすめする理由",
+      "url": "https://zenn.dev/dataheroes/articles/why-coco-for-snowflake-dev",
+      "score": null,
+      "author": "ぺい(pei0804)",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Fri, 03 Jul 2026 05:22:27 GMT"
+    },
+    {
       "id": "zenn-e34d1f4443",
       "source": "zennqiita",
       "sub_source": "Zenn",
@@ -5447,6 +5483,19 @@
         "Zenn"
       ],
       "date": "Fri, 03 Jul 2026 01:45:57 GMT"
+    },
+    {
+      "id": "zenn-7bc69bce06",
+      "source": "zennqiita",
+      "sub_source": "Zenn",
+      "title": "すでに4800スター、Loop Engineeringとは — “自分の仕事はloopを書くこと”",
+      "url": "https://zenn.dev/acntechjp/articles/0c63b5b08bbdb9",
+      "score": null,
+      "author": "ShintaroAmaike",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Thu, 02 Jul 2026 23:28:29 GMT"
     },
     {
       "id": "zenn-75e67a8c96",
@@ -5512,45 +5561,6 @@
         "Zenn"
       ],
       "date": "Thu, 02 Jul 2026 14:33:43 GMT"
-    },
-    {
-      "id": "zenn-8e0e005f2c",
-      "source": "zennqiita",
-      "sub_source": "Zenn",
-      "title": "個人的なC言語からC++(Cpp)のすゝめ",
-      "url": "https://zenn.dev/chronoss/articles/f39c749a895e42",
-      "score": null,
-      "author": "Chronoss0518",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Thu, 02 Jul 2026 13:07:11 GMT"
-    },
-    {
-      "id": "zenn-9be5a7c64d",
-      "source": "zennqiita",
-      "sub_source": "Zenn",
-      "title": "MoonBit を高速化する",
-      "url": "https://zenn.dev/mizchi/articles/optimize-moonbit-core",
-      "score": null,
-      "author": "mizchi",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Thu, 02 Jul 2026 11:13:44 GMT"
-    },
-    {
-      "id": "zenn-c515b57e15",
-      "source": "zennqiita",
-      "sub_source": "Zenn",
-      "title": "【速報】Claude Sonnet 5のReact習熟度はOpus 4.8に匹敵",
-      "url": "https://zenn.dev/uhyo/articles/react-profession-bench-9",
-      "score": null,
-      "author": "uhyo",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Thu, 02 Jul 2026 09:55:32 GMT"
     },
     {
       "id": "zenn-e570d5d8fb",
@@ -5629,19 +5639,6 @@
         "Zenn"
       ],
       "date": "Tue, 30 Jun 2026 23:00:12 GMT"
-    },
-    {
-      "id": "zenn-ad73c0d9e2",
-      "source": "zennqiita",
-      "sub_source": "Zenn",
-      "title": "ローカルLLMで「Pi」エージェントを動かす",
-      "url": "https://zenn.dev/fuwamoekissaten/articles/bb5f5364838ced",
-      "score": null,
-      "author": "aipracticecafe",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Tue, 30 Jun 2026 10:25:15 GMT"
     },
     {
       "id": "edb-3a6bcc02f2",

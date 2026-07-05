@@ -1,28 +1,117 @@
 {
-  "updated_at": "2026-07-05T18:02:14.943992+00:00",
+  "updated_at": "2026-07-05T19:50:00.693697+00:00",
   "count": 500,
   "items": [
     {
-      "id": "hn-48796093",
+      "id": "hn-48797015",
       "source": "hn",
-      "title": "The Computers Used in Movies",
-      "url": "https://www.starringthecomputer.com/computers.html",
+      "title": "Small Penis Rule",
+      "url": "https://en.wikipedia.org/wiki/Small_penis_rule",
+      "score": 14,
+      "comments": 2,
+      "author": "chistev",
+      "tags": [],
+      "date": "2026-07-05T19:08:38+00:00"
+    },
+    {
+      "id": "hn-48796817",
+      "source": "hn",
+      "title": "New AI tutor achieves 0.71-1.30 SD effect size in Dartmouth course [pdf]",
+      "url": "https://intextbooks.science.uu.nl/workshop2026/files/itb26_s1s2.pdf",
+      "score": 38,
+      "comments": 18,
+      "author": "jonahbard",
+      "tags": [],
+      "date": "2026-07-05T18:47:43+00:00"
+    },
+    {
+      "id": "hn-48796792",
+      "source": "hn",
+      "title": "You need a webring",
+      "url": "https://shub.club/writings/2026/july/you-need-a-webring/",
       "score": 17,
       "comments": 5,
+      "author": "forthwall",
+      "tags": [],
+      "date": "2026-07-05T18:46:07+00:00"
+    },
+    {
+      "id": "hn-48796552",
+      "source": "hn",
+      "title": "The future of Flipper Zero development",
+      "url": "https://blog.flipper.net/future-of-flipper-zero-development/",
+      "score": 46,
+      "comments": 3,
+      "author": "croes",
+      "tags": [],
+      "date": "2026-07-05T18:22:00+00:00"
+    },
+    {
+      "id": "hn-48796473",
+      "source": "hn",
+      "title": "Every postcard tells a story",
+      "url": "https://observer.co.uk/style/features/article/every-postcard-tells-a-story",
+      "score": 4,
+      "comments": 0,
+      "author": "NaOH",
+      "tags": [],
+      "date": "2026-07-05T18:14:42+00:00"
+    },
+    {
+      "id": "hn-48796438",
+      "source": "hn",
+      "title": "Do you hate XML? (2010)",
+      "url": "https://sigfrid-lundberg.se/entries/2010/07/hate_xml/",
+      "score": 19,
+      "comments": 21,
+      "author": "theanonymousone",
+      "tags": [],
+      "date": "2026-07-05T18:10:50+00:00"
+    },
+    {
+      "id": "hn-48796093",
+      "source": "hn",
+      "title": "Starring the Computer",
+      "url": "https://www.starringthecomputer.com/computers.html",
+      "score": 89,
+      "comments": 28,
       "author": "gitowiec",
       "tags": [],
       "date": "2026-07-05T17:33:04+00:00"
     },
     {
+      "id": "hn-48796049",
+      "source": "hn",
+      "title": "Taphonomic analysis reveals behavioral & tech capabilities of Homo floresiensis",
+      "url": "https://www.science.org/doi/10.1126/sciadv.aeb7219",
+      "score": 5,
+      "comments": 0,
+      "author": "bushwart",
+      "tags": [],
+      "date": "2026-07-05T17:27:46+00:00"
+    },
+    {
+      "id": "hn-48795939",
+      "source": "hn",
+      "title": "Falling fertility on the left as key driver of US birth decline",
+      "url": "https://www.nature.com/articles/s41598-026-57582-3",
+      "score": 34,
+      "comments": 32,
+      "author": "paulpauper",
+      "tags": [],
+      "date": "2026-07-05T17:16:00+00:00"
+    },
+    {
       "id": "hn-48795830",
       "source": "hn",
-      "title": "\"These cameras are just like the Eye of Sauron\"",
+      "title": "A sociotechnical threat model for AI-driven smart home devices",
       "url": "https://arxiv.org/abs/2602.09239",
-      "score": 27,
-      "comments": 1,
+      "score": 73,
+      "comments": 44,
       "author": "dijksterhuis",
       "tags": [],
-      "date": "2026-07-05T17:05:57+00:00"
+      "date": "2026-07-05T17:05:57+00:00",
+      "severity": "medium"
     },
     {
       "id": "hn-48795826",
@@ -45,6 +134,17 @@
       "author": "deely3",
       "tags": [],
       "date": "2026-07-05T16:11:08+00:00"
+    },
+    {
+      "id": "hn-48795323",
+      "source": "hn",
+      "title": "Installing A/UX 1.1 like it's the 90s",
+      "url": "https://thomasw.dev/post/aux11/",
+      "score": 15,
+      "comments": 1,
+      "author": "zdw",
+      "tags": [],
+      "date": "2026-07-05T16:07:10+00:00"
     },
     {
       "id": "hn-48795303",
@@ -86,8 +186,8 @@
       "source": "hn",
       "title": "Why DMARC's new \"NP\" tag can fail with DNSSEC",
       "url": "https://dmarcwise.io/blog/dmarc-np-incompatibility-with-dnssec",
-      "score": 16,
-      "comments": 1,
+      "score": 29,
+      "comments": 12,
       "author": "matteocontrini",
       "tags": [],
       "date": "2026-07-05T15:00:21+00:00"
@@ -97,8 +197,8 @@
       "source": "hn",
       "title": "It's not about physical vs. digital games, it's about ownership",
       "url": "https://popcar.bearblog.dev/its-about-ownership/",
-      "score": 43,
-      "comments": 19,
+      "score": 122,
+      "comments": 95,
       "author": "popcar2",
       "tags": [],
       "date": "2026-07-05T14:56:15+00:00"
@@ -132,8 +232,8 @@
       "source": "hn",
       "title": "Organic Maps",
       "url": "https://organicmaps.app/",
-      "score": 421,
-      "comments": 121,
+      "score": 565,
+      "comments": 169,
       "author": "tosh",
       "tags": [],
       "date": "2026-07-05T14:14:30+00:00"
@@ -143,8 +243,8 @@
       "source": "hn",
       "title": "Run Windows 2000 on a DEC Alpha with a new es40 fork",
       "url": "https://raymii.org/s/blog/Run_Windows_2000_for_Dec_Alpha_on_a_new_es40_fork.html",
-      "score": 49,
-      "comments": 23,
+      "score": 70,
+      "comments": 39,
       "author": "jandeboevrie",
       "tags": [],
       "date": "2026-07-05T13:47:44+00:00"
@@ -185,10 +285,10 @@
     {
       "id": "hn-48793454",
       "source": "hn",
-      "title": "Introduction to Compilers and Language Design",
+      "title": "Introduction to Compilers and Language Design (2021)",
       "url": "https://dthain.github.io/books/compiler/",
-      "score": 203,
-      "comments": 28,
+      "score": 233,
+      "comments": 37,
       "author": "AlexeyBrin",
       "tags": [],
       "date": "2026-07-05T11:54:16+00:00"
@@ -364,8 +464,8 @@
       "source": "hn",
       "title": "Shadcn/UI now defaults to Base UI instead of Radix",
       "url": "https://ui.shadcn.com/docs/changelog",
-      "score": 244,
-      "comments": 133,
+      "score": 264,
+      "comments": 144,
       "author": "dabinat",
       "tags": [],
       "date": "2026-07-05T04:46:08+00:00"
@@ -768,8 +868,8 @@
       "source": "hn",
       "title": "Airplane Boneyards List and Map",
       "url": "https://airplaneboneyards.com/airplane-boneyards-list-and-map.htm",
-      "score": 53,
-      "comments": 9,
+      "score": 63,
+      "comments": 12,
       "author": "hyperific",
       "tags": [],
       "date": "2026-07-04T15:53:08+00:00"
@@ -1726,7 +1826,7 @@
       "source": "hn",
       "title": "Pandoc Lua Filters",
       "url": "https://pandoc.org/lua-filters.html",
-      "score": 125,
+      "score": 128,
       "comments": 11,
       "author": "ankitg12",
       "tags": [],
@@ -1874,6 +1974,17 @@
       "author": "snikolaev",
       "tags": [],
       "date": "2026-07-03T03:49:47+00:00"
+    },
+    {
+      "id": "hn-48770291",
+      "source": "hn",
+      "title": "Mr. Baby Paint and accidentally discovering a new cellular automata",
+      "url": "https://tekstien-marginaalien-keskus.aalto.fi/residenssi/heikki/blog/004-december-2/",
+      "score": 4,
+      "comments": 0,
+      "author": "jfil",
+      "tags": [],
+      "date": "2026-07-03T03:13:53+00:00"
     },
     {
       "id": "qiita-fa9b02fd5d",
@@ -2367,6 +2478,17 @@
       "date": "2026-07-02T14:41:56+00:00"
     },
     {
+      "id": "hn-48762301",
+      "source": "hn",
+      "title": "Optimizing an algorithm that's quadratic by design",
+      "url": "https://whatchord.earthmanmuons.com/articles/chord-ranking-performance.html",
+      "score": 6,
+      "comments": 0,
+      "author": "elasticdog",
+      "tags": [],
+      "date": "2026-07-02T14:36:23+00:00"
+    },
+    {
       "id": "qiita-ac4928f336",
       "source": "zennqiita",
       "sub_source": "Qiita",
@@ -2743,10 +2865,10 @@
     {
       "id": "hn-48758802",
       "source": "hn",
-      "title": "The Great Blogging Collapse: What Happened to 100 Successful Blogs?",
+      "title": "The great blogging collapse: What happened to 100 successful blogs?",
       "url": "https://danielstanica.com/posts/Great-Blogging-Collapse",
-      "score": 58,
-      "comments": 40,
+      "score": 89,
+      "comments": 65,
       "author": "thm",
       "tags": [],
       "date": "2026-07-02T09:36:04+00:00"
@@ -3211,8 +3333,8 @@
       "source": "hn",
       "title": "OpenWiki: CLI that writes and maintains agent documentation for your codebase",
       "url": "https://github.com/langchain-ai/openwiki",
-      "score": 46,
-      "comments": 14,
+      "score": 56,
+      "comments": 16,
       "author": "handfuloflight",
       "tags": [],
       "date": "2026-07-01T20:51:52+00:00"
@@ -3741,8 +3863,8 @@
       "source": "hn",
       "title": "Rayfish, Peer-to-peer mesh VPN with no server to trust",
       "url": "https://rayfish.xyz/blog/01-introducing-rayfish",
-      "score": 66,
-      "comments": 44,
+      "score": 87,
+      "comments": 56,
       "author": "captain_dfx",
       "tags": [],
       "date": "2026-07-01T13:01:56+00:00"
@@ -5105,141 +5227,6 @@
         "Qiita"
       ],
       "date": "2026-06-30T12:32:48+09:00"
-    },
-    {
-      "id": "qiita-959d190f43",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "Gemini APIのGoogleマップ・グラウンディングを検証！あり・なしで回答を比べてみた",
-      "url": "https://qiita.com/y-miyake/items/de7a0426628eb98b3091?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "y-miyake",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-06-30T11:21:56+09:00"
-    },
-    {
-      "id": "qiita-64489d124f",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "監査可能ババ抜き",
-      "url": "https://qiita.com/y-tsukasa/items/162f541ae19535b622da?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "y-tsukasa",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-06-30T11:10:37+09:00"
-    },
-    {
-      "id": "qiita-48b6c6cb98",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "React初学者が学ぶ、Reactのキホン part-1",
-      "url": "https://qiita.com/kucd1230/items/ba52f16af01b4d2f0e7d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "kucd1230",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-06-30T10:57:52+09:00"
-    },
-    {
-      "id": "hn-48727323",
-      "source": "hn",
-      "title": "Exploring PDP-1 Lisp (1960)",
-      "url": "https://obsolescence.dev/pdp1-lisp-introduction.html",
-      "score": 90,
-      "comments": 22,
-      "author": "ozymandiax",
-      "tags": [],
-      "date": "2026-06-30T00:56:42+00:00"
-    },
-    {
-      "id": "qiita-6ac92b42bf",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "PM組織のマネージャーが今考えている「これからのPMの視座」",
-      "url": "https://qiita.com/toshiaki_miyake/items/f7330d0f7ba8bdaf1420?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "toshiaki_miyake",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-06-30T09:48:26+09:00"
-    },
-    {
-      "id": "hn-48727177",
-      "source": "hn",
-      "title": "Memory Safe Context Switching",
-      "url": "https://fil-c.org/context_switches",
-      "score": 174,
-      "comments": 28,
-      "author": "modeless",
-      "tags": [],
-      "date": "2026-06-30T00:38:19+00:00"
-    },
-    {
-      "id": "hn-48727116",
-      "source": "hn",
-      "title": "LongCat-2.0, a large-scale MoE model with 1.6T total and 48B Active",
-      "url": "https://longcat.chat/blog/longcat-2.0/",
-      "score": 260,
-      "comments": 76,
-      "author": "benjiro29",
-      "tags": [],
-      "date": "2026-06-30T00:30:11+00:00"
-    },
-    {
-      "id": "qiita-16d2657ffa",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "Copilot Studio の新 UI、ファイル入出力がかなり進化しています",
-      "url": "https://qiita.com/Takashi_Masumori/items/b366586f4130c897c85c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "Takashi_Masumori",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-06-30T09:27:57+09:00"
-    },
-    {
-      "id": "qiita-383e7c9c24",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "AI時代に異職種から信頼されるエンジニアの5つの特徴",
-      "url": "https://qiita.com/Kensuke_Shibata/items/028269e26b4a0e6c0242?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "Kensuke_Shibata",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-06-30T08:32:05+09:00"
-    },
-    {
-      "id": "qiita-fd7a983a11",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "Lambda MicroVMsを魔改造してたらVSCodeのワークショップ環境ができたw",
-      "url": "https://qiita.com/moritalous/items/e6d8f8d08e771756f52f?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "moritalous",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-06-30T07:58:49+09:00"
-    },
-    {
-      "id": "hn-48726407",
-      "source": "hn",
-      "title": "Compiler-Assisted Floating-Point Error Analysis and Profiling with FPChecker",
-      "url": "https://fpanalysistools.org/ISC26/",
-      "score": 23,
-      "comments": 3,
-      "author": "matt_d",
-      "tags": [],
-      "date": "2026-06-29T22:55:07+00:00"
     },
     {
       "id": "ctf-4011285",

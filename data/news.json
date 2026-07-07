@@ -1,7 +1,84 @@
 {
-  "updated_at": "2026-07-07T17:32:39.037182+00:00",
+  "updated_at": "2026-07-07T19:54:11.436400+00:00",
   "count": 500,
   "items": [
+    {
+      "id": "hn-48821848",
+      "source": "hn",
+      "title": "Show HN: Davit, a Apple Containers UI",
+      "url": "https://davit.app",
+      "score": 11,
+      "comments": 0,
+      "author": "xinit",
+      "tags": [],
+      "date": "2026-07-07T18:44:29+00:00"
+    },
+    {
+      "id": "hn-48821749",
+      "source": "hn",
+      "title": "AI Meets Cryptography 1: What AI Found in Cloudflare's Circl",
+      "url": "https://blog.zksecurity.xyz/posts/circl-bugs/",
+      "score": 20,
+      "comments": 0,
+      "author": "duha",
+      "tags": [],
+      "date": "2026-07-07T18:36:35+00:00"
+    },
+    {
+      "id": "hn-48821653",
+      "source": "hn",
+      "title": "Astro 7.0",
+      "url": "https://astro.build/blog/astro-7/",
+      "score": 97,
+      "comments": 20,
+      "author": "saikatsg",
+      "tags": [],
+      "date": "2026-07-07T18:30:02+00:00"
+    },
+    {
+      "id": "hn-48821576",
+      "source": "hn",
+      "title": "Local, CPU-Friendly, High-Quality TTS (Text-to-Speech) with Kokoro",
+      "url": "https://ariya.io/2026/03/local-cpu-friendly-high-quality-tts-text-to-speech-with-kokoro/",
+      "score": 44,
+      "comments": 10,
+      "author": "speckx",
+      "tags": [],
+      "date": "2026-07-07T18:24:10+00:00"
+    },
+    {
+      "id": "hn-48821500",
+      "source": "hn",
+      "title": "Show HN: Docx-CLI: agents read/edit Word docs using 1/2 the time and tokens",
+      "url": "https://github.com/kklimuk/docx-cli",
+      "score": 15,
+      "comments": 7,
+      "author": "kirillklimuk",
+      "tags": [],
+      "date": "2026-07-07T18:19:00+00:00"
+    },
+    {
+      "id": "hn-48821441",
+      "source": "hn",
+      "title": "Notes on Software Quality",
+      "url": "https://anthonyhobday.com/blog/20260410",
+      "score": 18,
+      "comments": 4,
+      "author": "speckx",
+      "tags": [],
+      "date": "2026-07-07T18:14:50+00:00"
+    },
+    {
+      "id": "hn-48821378",
+      "source": "hn",
+      "title": "l: A new runtime for k and q",
+      "url": "https://lv1.sh/",
+      "score": 37,
+      "comments": 17,
+      "author": "skruger",
+      "tags": [],
+      "date": "2026-07-07T18:08:29+00:00"
+    },
     {
       "id": "hn-48820274",
       "source": "hn",
@@ -12,6 +89,17 @@
       "author": "player_piano",
       "tags": [],
       "date": "2026-07-07T16:42:41+00:00"
+    },
+    {
+      "id": "hn-48820220",
+      "source": "hn",
+      "title": "China sentences official to death for taking $325M in bribes",
+      "url": "https://www.bbc.com/news/articles/c33y0n1v1xjo",
+      "score": 161,
+      "comments": 186,
+      "author": "randycupertino",
+      "tags": [],
+      "date": "2026-07-07T16:38:08+00:00"
     },
     {
       "id": "hn-48820127",
@@ -29,8 +117,8 @@
       "source": "hn",
       "title": "Jim's TrueType QR Code Font",
       "url": "https://github.com/jimparis/qr-font",
-      "score": 13,
-      "comments": 1,
+      "score": 69,
+      "comments": 5,
       "author": "arantius",
       "tags": [],
       "date": "2026-07-07T16:30:42+00:00"
@@ -53,19 +141,31 @@
       "source": "hn",
       "title": "MacSurf 1.68 – NetSurf on OS 9 Released",
       "url": "https://github.com/mplsllc/macsurf/releases/tag/v1.86",
-      "score": 13,
-      "comments": 1,
+      "score": 47,
+      "comments": 8,
       "author": "mplsllc",
       "tags": [],
       "date": "2026-07-07T16:24:40+00:00"
+    },
+    {
+      "id": "hn-48819808",
+      "source": "hn",
+      "title": "Show HN: Rowboat – Open-source, local-first alternative to Claude Desktop",
+      "url": "https://github.com/rowboatlabs/rowboat",
+      "score": 9,
+      "comments": 2,
+      "author": "segmenta",
+      "tags": [],
+      "date": "2026-07-07T16:10:44+00:00",
+      "severity": "critical"
     },
     {
       "id": "hn-48819608",
       "source": "hn",
       "title": "30papers.com – Ilya's 30 essential ML papers, in a beginner friendly format",
       "url": "https://30papers.com/",
-      "score": 28,
-      "comments": 6,
+      "score": 180,
+      "comments": 31,
       "author": "notmcrowley",
       "tags": [],
       "date": "2026-07-07T15:58:13+00:00"
@@ -98,8 +198,8 @@
       "source": "hn",
       "title": "Why we built yet another Postgres connection pooler",
       "url": "https://pgdog.dev/blog/why-yet-another-connection-pooler",
-      "score": 5,
-      "comments": 0,
+      "score": 70,
+      "comments": 9,
       "author": "levkk",
       "tags": [],
       "date": "2026-07-07T15:36:49+00:00"
@@ -118,10 +218,10 @@
     {
       "id": "hn-48819244",
       "source": "hn",
-      "title": "Microsoft Fire IdTech Team at Id Software",
+      "title": "Microsoft fire idTech team at Id software",
       "url": "https://gamefromscratch.com/microsoft-fire-idtech-team-at-id-software/",
-      "score": 245,
-      "comments": 236,
+      "score": 373,
+      "comments": 371,
       "author": "bauc",
       "tags": [],
       "date": "2026-07-07T15:33:20+00:00"
@@ -131,8 +231,8 @@
       "source": "hn",
       "title": "Chat Control passed first round in EU Parliament",
       "url": "https://www.heise.de/en/news/Showdown-in-Strasbourg-The-unexpected-return-of-Chat-Control-1-0-11356680.html",
-      "score": 243,
-      "comments": 105,
+      "score": 406,
+      "comments": 183,
       "author": "miroljub",
       "tags": [],
       "date": "2026-07-07T15:16:15+00:00"
@@ -153,11 +253,34 @@
       "source": "hn",
       "title": "Automating AI Away",
       "url": "https://replicated.live/blog/away",
-      "score": 9,
-      "comments": 1,
+      "score": 54,
+      "comments": 28,
       "author": "gritzko",
       "tags": [],
       "date": "2026-07-07T15:11:08+00:00"
+    },
+    {
+      "id": "hn-48818311",
+      "source": "hn",
+      "title": "Chat Control 1.0 and 2.0 Explained",
+      "url": "https://fightchatcontrol.eu/chat-control-overview",
+      "score": 200,
+      "comments": 58,
+      "author": "gasull",
+      "tags": [],
+      "date": "2026-07-07T14:23:15+00:00"
+    },
+    {
+      "id": "hn-48818098",
+      "source": "hn",
+      "title": "Show HN: Halo – open-source, tamper-evident runtime evidence for AI agents",
+      "url": "https://github.com/bkuan001/halo-record",
+      "score": 7,
+      "comments": 1,
+      "author": "brian_kuan",
+      "tags": [],
+      "date": "2026-07-07T14:07:08+00:00",
+      "severity": "critical"
     },
     {
       "id": "hn-48817017",
@@ -173,10 +296,10 @@
     {
       "id": "hn-48816959",
       "source": "hn",
-      "title": "98% Isn't Much",
+      "title": "98% isn't much",
       "url": "https://whynothugo.nl/journal/2026/07/03/98-isnt-very-much/",
-      "score": 346,
-      "comments": 245,
+      "score": 402,
+      "comments": 263,
       "author": "speckx",
       "tags": [],
       "date": "2026-07-07T12:45:14+00:00"
@@ -184,10 +307,10 @@
     {
       "id": "hn-48816956",
       "source": "hn",
-      "title": "A better way to tie your gym shorts. (Or any drawstring) [video]",
+      "title": "A better way to tie gym shorts (or any drawstring) [video]",
       "url": "https://www.youtube.com/watch?v=3R0Lp86GEBk",
-      "score": 300,
-      "comments": 119,
+      "score": 368,
+      "comments": 140,
       "author": "surprisetalk",
       "tags": [],
       "date": "2026-07-07T12:45:06+00:00"
@@ -221,8 +344,8 @@
       "source": "hn",
       "title": "StreetComplete: Fixing OpenStreetMap, one tiny quest at a time",
       "url": "https://streetcomplete.app/",
-      "score": 392,
-      "comments": 82,
+      "score": 533,
+      "comments": 123,
       "author": "kls0e",
       "tags": [],
       "date": "2026-07-07T12:38:35+00:00"
@@ -2236,6 +2359,17 @@
       "author": "eternauta3k",
       "tags": [],
       "date": "2026-07-05T05:56:03+00:00"
+    },
+    {
+      "id": "hn-48791505",
+      "source": "hn",
+      "title": "Fixing analog audio on the $2.58 HDMI-to-VGA adapter",
+      "url": "https://nyanpasu64.gitlab.io/blog/hdmi-vga-dac-audio/",
+      "score": 32,
+      "comments": 10,
+      "author": "zdw",
+      "tags": [],
+      "date": "2026-07-05T05:36:51+00:00"
     },
     {
       "id": "hn-48791380",
@@ -5065,17 +5199,6 @@
       "date": "2026-07-02T06:44:34+00:00"
     },
     {
-      "id": "hn-48757215",
-      "source": "hn",
-      "title": "The Complete Homemade Juggling Beanbag Guide",
-      "url": "https://www.joshuaclifton.com/juggle/",
-      "score": 12,
-      "comments": 3,
-      "author": "mrauha",
-      "tags": [],
-      "date": "2026-07-02T06:13:50+00:00"
-    },
-    {
       "id": "ctf-4047419",
       "source": "project",
       "proj_category": "CTF",
@@ -5090,153 +5213,15 @@
       "date": "2026-07-02T05:43:49Z"
     },
     {
-      "id": "hn-48756840",
+      "id": "hn-48754476",
       "source": "hn",
-      "title": "CursorBench 3.1",
-      "url": "https://cursor.com/evals",
-      "score": 145,
-      "comments": 78,
-      "author": "handfuloflight",
+      "title": "Computational Balloon Twisting: The Theory of Balloon Polyhedra [pdf]",
+      "url": "https://cccg.ca/proceedings/2008/paper34full.pdf",
+      "score": 15,
+      "comments": 0,
+      "author": "luu",
       "tags": [],
-      "date": "2026-07-02T05:19:34+00:00"
-    },
-    {
-      "id": "qiita-076d1fbb8e",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "Zerostackを実測した — RAM16MBの軽さはRust製エージェントで本物だった",
-      "url": "https://qiita.com/kai_kou/items/38c8733fd337b00e5e0d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "kai_kou",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-07-02T13:36:21+09:00"
-    },
-    {
-      "id": "hn-48756602",
-      "source": "hn",
-      "title": "Kimi K2.7 Code is generally available in GitHub Copilot",
-      "url": "https://github.blog/changelog/2026-07-01-kimi-k2-7-is-now-available-in-github-copilot/",
-      "score": 379,
-      "comments": 158,
-      "author": "unliftedq",
-      "tags": [],
-      "date": "2026-07-02T04:32:41+00:00"
-    },
-    {
-      "id": "qiita-69830788bb",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "Claude Code のコンテキスト管理とトークン消費を抑える運用方法",
-      "url": "https://qiita.com/Yasushi-Mo/items/0071f71ba102d2125c13?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "Yasushi-Mo",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-07-02T12:53:15+09:00"
-    },
-    {
-      "id": "qiita-70abf6e3b3",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "開発チームを良くしたい！改善提案で気をつけている5つのこと",
-      "url": "https://qiita.com/mu7kata/items/c146eb7c2885036c6b83?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "mu7kata",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-07-02T12:47:10+09:00"
-    },
-    {
-      "id": "ctf-4046667",
-      "source": "project",
-      "proj_category": "CTF",
-      "title": "HackTheBox: LustrousTwo Writeup",
-      "url": "https://dev.to/exploitnotes/hackthebox-lustroustwo-writeup-3785",
-      "score": 1,
-      "author": "CTF Platform",
-      "tags": [
-        "CTF",
-        "Security"
-      ],
-      "date": "2026-07-02T03:22:43Z"
-    },
-    {
-      "id": "qiita-f31da956c1",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "RailsとDBインデックス 〜なぜ index があると速いのか〜",
-      "url": "https://qiita.com/akachiryo/items/5299101bce85b5970776?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "akachiryo",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-07-02T12:22:03+09:00"
-    },
-    {
-      "id": "qiita-431ebd814c",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "君たちはどう Fable のか ~ 公式ドキュメントによる Claude Fable 5 の使い方の本質",
-      "url": "https://qiita.com/tomoki-miso/items/36e5893e4d235625de44?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "tomoki-miso",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-07-02T12:20:07+09:00"
-    },
-    {
-      "id": "hn-48756038",
-      "source": "hn",
-      "title": "Show HN: Meow – The 4th and final JavaScript runtime and toolchain",
-      "url": "https://meow.style",
-      "score": 4,
-      "comments": 1,
-      "author": "ccheshirecat",
-      "tags": [],
-      "date": "2026-07-02T03:11:09+00:00"
-    },
-    {
-      "id": "qiita-6e8874ac40",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "試験が大の苦手な人がAWS初級の資格を取得した話",
-      "url": "https://qiita.com/chaochire/items/a17119d3d9487d5379a6?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "chaochire",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-07-02T12:00:43+09:00"
-    },
-    {
-      "id": "hn-48755965",
-      "source": "hn",
-      "title": "Android Developer Verification: Threat masquerading as protection",
-      "url": "https://f-droid.org/2026/07/01/adv-malware.html",
-      "score": 1534,
-      "comments": 646,
-      "author": "drewfax",
-      "tags": [],
-      "date": "2026-07-02T03:00:15+00:00",
-      "severity": "medium"
-    },
-    {
-      "id": "hn-48755928",
-      "source": "hn",
-      "title": "Senior SWE-Bench: open-source benchmark that assesses agents as senior engineers",
-      "url": "https://senior-swe-bench.snorkel.ai/",
-      "score": 93,
-      "comments": 68,
-      "author": "matt_d",
-      "tags": [],
-      "date": "2026-07-02T02:55:16+00:00",
-      "severity": "critical"
+      "date": "2026-07-01T23:26:39+00:00"
     },
     {
       "id": "ctf-4039218",

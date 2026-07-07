@@ -1,14 +1,38 @@
 {
-  "updated_at": "2026-07-07T22:36:48.730991+00:00",
+  "updated_at": "2026-07-07T23:57:08.043394+00:00",
   "count": 500,
   "items": [
+    {
+      "id": "qiita-2a057b9faf",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "売上は DB、ログは S3、契約書は SharePoint、バラバラなデータを AI で使う方法を調べてみてみた",
+      "url": "https://qiita.com/shirok/items/0e42854634b2c5a371fa?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "shirok",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-07-08T08:30:27+09:00"
+    },
+    {
+      "id": "hn-48824826",
+      "source": "hn",
+      "title": "GAO: DOE Is Prematurely Excluding Less Expensive Options for Nuclear Cleanup",
+      "url": "https://www.gao.gov/products/gao-26-108193",
+      "score": 20,
+      "comments": 1,
+      "author": "Jimmc414",
+      "tags": [],
+      "date": "2026-07-07T22:23:58+00:00"
+    },
     {
       "id": "hn-48823557",
       "source": "hn",
       "title": "Every new car sold in the European Union must include a driver monitoring camera",
       "url": "https://allaboutcookies.org/eu-mandatory-distracted-driver-system",
-      "score": 283,
-      "comments": 342,
+      "score": 361,
+      "comments": 462,
       "author": "nickslaughter02",
       "tags": [],
       "date": "2026-07-07T20:50:46+00:00"
@@ -18,8 +42,8 @@
       "source": "hn",
       "title": "Show HN: Davit, a Apple Containers UI",
       "url": "https://davit.app",
-      "score": 113,
-      "comments": 23,
+      "score": 156,
+      "comments": 32,
       "author": "xinit",
       "tags": [],
       "date": "2026-07-07T18:44:29+00:00"
@@ -29,7 +53,7 @@
       "source": "hn",
       "title": "AI Meets Cryptography 1: What AI Found in Cloudflare's Circl",
       "url": "https://blog.zksecurity.xyz/posts/circl-bugs/",
-      "score": 58,
+      "score": 69,
       "comments": 9,
       "author": "duha",
       "tags": [],
@@ -51,8 +75,8 @@
       "source": "hn",
       "title": "Local, CPU-Friendly, High-Quality TTS (Text-to-Speech) with Kokoro",
       "url": "https://ariya.io/2026/03/local-cpu-friendly-high-quality-tts-text-to-speech-with-kokoro/",
-      "score": 178,
-      "comments": 33,
+      "score": 239,
+      "comments": 55,
       "author": "speckx",
       "tags": [],
       "date": "2026-07-07T18:24:10+00:00"
@@ -62,8 +86,8 @@
       "source": "hn",
       "title": "Show HN: Docx-CLI: agents read/edit Word docs using 1/2 the time and tokens",
       "url": "https://github.com/kklimuk/docx-cli",
-      "score": 40,
-      "comments": 15,
+      "score": 52,
+      "comments": 21,
       "author": "kirillklimuk",
       "tags": [],
       "date": "2026-07-07T18:19:00+00:00"
@@ -73,8 +97,8 @@
       "source": "hn",
       "title": "Notes on Software Quality",
       "url": "https://anthonyhobday.com/blog/20260410",
-      "score": 59,
-      "comments": 34,
+      "score": 67,
+      "comments": 38,
       "author": "speckx",
       "tags": [],
       "date": "2026-07-07T18:14:50+00:00"
@@ -84,8 +108,8 @@
       "source": "hn",
       "title": "l: A new runtime for k and q",
       "url": "https://lv1.sh/",
-      "score": 82,
-      "comments": 53,
+      "score": 93,
+      "comments": 57,
       "author": "skruger",
       "tags": [],
       "date": "2026-07-07T18:08:29+00:00"
@@ -128,7 +152,7 @@
       "source": "hn",
       "title": "Jim's TrueType QR Code Font",
       "url": "https://github.com/jimparis/qr-font",
-      "score": 106,
+      "score": 114,
       "comments": 15,
       "author": "arantius",
       "tags": [],
@@ -152,8 +176,8 @@
       "source": "hn",
       "title": "MacSurf 1.68 – NetSurf on OS 9 Released",
       "url": "https://github.com/mplsllc/macsurf/releases/tag/v1.86",
-      "score": 57,
-      "comments": 8,
+      "score": 64,
+      "comments": 13,
       "author": "mplsllc",
       "tags": [],
       "date": "2026-07-07T16:24:40+00:00"
@@ -163,8 +187,8 @@
       "source": "hn",
       "title": "Show HN: Rowboat – Open-source, local-first alternative to Claude Desktop",
       "url": "https://github.com/rowboatlabs/rowboat",
-      "score": 55,
-      "comments": 16,
+      "score": 75,
+      "comments": 23,
       "author": "segmenta",
       "tags": [],
       "date": "2026-07-07T16:10:44+00:00",
@@ -175,8 +199,8 @@
       "source": "hn",
       "title": "30papers.com – Ilya's 30 essential ML papers, in a beginner friendly format",
       "url": "https://30papers.com/",
-      "score": 278,
-      "comments": 48,
+      "score": 312,
+      "comments": 55,
       "author": "notmcrowley",
       "tags": [],
       "date": "2026-07-07T15:58:13+00:00"
@@ -209,8 +233,8 @@
       "source": "hn",
       "title": "Why we built yet another Postgres connection pooler",
       "url": "https://pgdog.dev/blog/why-yet-another-connection-pooler",
-      "score": 106,
-      "comments": 26,
+      "score": 118,
+      "comments": 33,
       "author": "levkk",
       "tags": [],
       "date": "2026-07-07T15:36:49+00:00"
@@ -231,8 +255,8 @@
       "source": "hn",
       "title": "Microsoft fire idTech team at Id software",
       "url": "https://gamefromscratch.com/microsoft-fire-idtech-team-at-id-software/",
-      "score": 469,
-      "comments": 444,
+      "score": 498,
+      "comments": 470,
       "author": "bauc",
       "tags": [],
       "date": "2026-07-07T15:33:20+00:00"
@@ -242,8 +266,8 @@
       "source": "hn",
       "title": "Chat Control passed first round in EU Parliament",
       "url": "https://www.heise.de/en/news/Showdown-in-Strasbourg-The-unexpected-return-of-Chat-Control-1-0-11356680.html",
-      "score": 506,
-      "comments": 220,
+      "score": 522,
+      "comments": 228,
       "author": "miroljub",
       "tags": [],
       "date": "2026-07-07T15:16:15+00:00"
@@ -264,8 +288,8 @@
       "source": "hn",
       "title": "Automating AI Away",
       "url": "https://replicated.live/blog/away",
-      "score": 85,
-      "comments": 44,
+      "score": 92,
+      "comments": 48,
       "author": "gritzko",
       "tags": [],
       "date": "2026-07-07T15:11:08+00:00"
@@ -275,8 +299,8 @@
       "source": "hn",
       "title": "Chat Control 1.0 and 2.0 Explained",
       "url": "https://fightchatcontrol.eu/chat-control-overview",
-      "score": 361,
-      "comments": 114,
+      "score": 403,
+      "comments": 133,
       "author": "gasull",
       "tags": [],
       "date": "2026-07-07T14:23:15+00:00"
@@ -320,8 +344,8 @@
       "source": "hn",
       "title": "A better way to tie gym shorts (or any drawstring) [video]",
       "url": "https://www.youtube.com/watch?v=3R0Lp86GEBk",
-      "score": 422,
-      "comments": 152,
+      "score": 436,
+      "comments": 155,
       "author": "surprisetalk",
       "tags": [],
       "date": "2026-07-07T12:45:06+00:00"
@@ -355,8 +379,8 @@
       "source": "hn",
       "title": "StreetComplete: Fixing OpenStreetMap, one tiny quest at a time",
       "url": "https://streetcomplete.app/",
-      "score": 641,
-      "comments": 156,
+      "score": 664,
+      "comments": 162,
       "author": "kls0e",
       "tags": [],
       "date": "2026-07-07T12:38:35+00:00"
@@ -399,8 +423,8 @@
       "source": "hn",
       "title": "Why skilled workers come to Germany and then leave again",
       "url": "https://www.dw.com/en/germany-migrants-skilled-workers-integration-labor-market-bureaucracy-language-housing/a-77853162",
-      "score": 141,
-      "comments": 341,
+      "score": 158,
+      "comments": 405,
       "author": "theanonymousone",
       "tags": [],
       "date": "2026-07-07T10:42:59+00:00"
@@ -628,19 +652,6 @@
       "author": "cloocher",
       "tags": [],
       "date": "2026-07-07T00:32:59+00:00"
-    },
-    {
-      "id": "qiita-2a057b9faf",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "売上は DB、ログは S3、契約書は SharePoint、バラバラなデータを AI で使う方法を調べてみてみた",
-      "url": "https://qiita.com/shirok/items/0e42854634b2c5a371fa?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "shirok",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-07-07T09:28:52+09:00"
     },
     {
       "id": "hn-48812156",
@@ -2452,8 +2463,8 @@
       "source": "hn",
       "title": "Fixing analog audio on the $2.58 HDMI-to-VGA adapter",
       "url": "https://nyanpasu64.gitlab.io/blog/hdmi-vga-dac-audio/",
-      "score": 62,
-      "comments": 18,
+      "score": 72,
+      "comments": 20,
       "author": "zdw",
       "tags": [],
       "date": "2026-07-05T05:36:51+00:00"
@@ -3402,6 +3413,17 @@
       "date": "2026-07-03T22:33:10+00:00"
     },
     {
+      "id": "hn-48780507",
+      "source": "hn",
+      "title": "Why Vancouver is always a stand-in for San Francisco in movies and TV shows (2021)",
+      "url": "https://www.sfgate.com/sf-culture/article/vancouver-stand-in-movie-tv-sf-16613821.php",
+      "score": 20,
+      "comments": 19,
+      "author": "amichail",
+      "tags": [],
+      "date": "2026-07-03T21:58:15+00:00"
+    },
+    {
       "id": "hn-48780469",
       "source": "hn",
       "title": "The Demoralization of the White-Collar Worker",
@@ -3483,8 +3505,8 @@
       "source": "hn",
       "title": "Camera with transparent display launches for the equivalent of $29",
       "url": "https://www.notebookcheck.net/Camera-with-transparent-display-launches-for-the-equivalent-of-29.1334495.0.html",
-      "score": 38,
-      "comments": 17,
+      "score": 47,
+      "comments": 26,
       "author": "yread",
       "tags": [],
       "date": "2026-07-03T20:54:36+00:00"
@@ -5153,19 +5175,6 @@
       "date": "2026-07-02T11:12:12+00:00"
     },
     {
-      "id": "qiita-0ed13d0e2b",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "世界で最も長い時間思考するプロンプトは何か？",
-      "url": "https://qiita.com/relu/items/9a5e54a15f70988e468d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "relu",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-07-02T19:47:33+09:00"
-    },
-    {
       "id": "ctf-4048944",
       "source": "project",
       "proj_category": "CTF",
@@ -5198,22 +5207,11 @@
       "source": "hn",
       "title": "Herdr: One terminal to rule them all",
       "url": "https://herdr.dev/",
-      "score": 100,
-      "comments": 55,
+      "score": 129,
+      "comments": 68,
       "author": "handfuloflight",
       "tags": [],
       "date": "2026-07-02T04:28:39+00:00"
-    },
-    {
-      "id": "hn-48754476",
-      "source": "hn",
-      "title": "Computational Balloon Twisting: The Theory of Balloon Polyhedra [pdf]",
-      "url": "https://cccg.ca/proceedings/2008/paper34full.pdf",
-      "score": 31,
-      "comments": 0,
-      "author": "luu",
-      "tags": [],
-      "date": "2026-07-01T23:26:39+00:00"
     },
     {
       "id": "ctf-4039218",
@@ -5248,8 +5246,8 @@
       "source": "hn",
       "title": "IEEE Rolls Out Large Language Models Training Course",
       "url": "https://spectrum.ieee.org/large-language-models-ieee-course",
-      "score": 12,
-      "comments": 1,
+      "score": 22,
+      "comments": 4,
       "author": "JeanKage",
       "tags": [],
       "date": "2026-07-01T05:41:22+00:00"
@@ -5406,17 +5404,17 @@
       "date": "Tue, 07 Jul 2026 00:00:07 GMT"
     },
     {
-      "id": "zenn-f4d6787d89",
+      "id": "zenn-7d7ff62712",
       "source": "zennqiita",
       "sub_source": "Zenn",
-      "title": "AI時代のObservability設計 - アプリケーション / インフラ / CI / LLMすべてを監視する（設計編）",
-      "url": "https://zenn.dev/aircloset/articles/d4c32cff8cb230",
+      "title": "Spanner Omni を採用して CI のトータル実行時間を84%減らすまでの道のり",
+      "url": "https://zenn.dev/kauche/articles/ac1c707f2fc991",
       "score": null,
-      "author": "辻 亮佑",
+      "author": "Kenta Takahashi",
       "tags": [
         "Zenn"
       ],
-      "date": "Mon, 06 Jul 2026 23:44:32 GMT"
+      "date": "Mon, 06 Jul 2026 23:49:53 GMT"
     },
     {
       "id": "zenn-7b84fc0d18",

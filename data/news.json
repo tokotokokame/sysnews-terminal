@@ -1,17 +1,63 @@
 {
-  "updated_at": "2026-07-07T09:39:55.344939+00:00",
+  "updated_at": "2026-07-07T12:26:26.124400+00:00",
   "count": 500,
   "items": [
+    {
+      "id": "hn-48816533",
+      "source": "hn",
+      "title": "9 Mothers (YC P26) Is Hiring in Austin, TX",
+      "url": "https://9mothers.com/careers",
+      "score": 1,
+      "comments": 0,
+      "author": "ukd1",
+      "tags": [],
+      "date": "2026-07-07T12:00:44+00:00"
+    },
+    {
+      "id": "hn-48816003",
+      "source": "hn",
+      "title": "Top researchers leave USA for the Netherlands (in Dutch)",
+      "url": "https://www.nwo.nl/nieuws/eerste-internationale-wetenschappers-via-het-tulp-fonds-naar-nederland",
+      "score": 51,
+      "comments": 31,
+      "author": "28304283409234",
+      "tags": [],
+      "date": "2026-07-07T10:47:33+00:00"
+    },
+    {
+      "id": "qiita-6cdb3cb034",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "『めっちゃカメレオン』のサーバー代0円ってまじ？",
+      "url": "https://qiita.com/i-icc/items/fb02ae5fa0848f4c511e?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "i-icc",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-07-07T19:33:11+09:00"
+    },
     {
       "id": "hn-48815196",
       "source": "hn",
       "title": "Microsoft Can Track Users via a Windows Device ID",
       "url": "https://www.pcmag.com/news/a-hackers-arrest-reveals-microsoft-can-track-users-via-a-windows-device",
-      "score": 32,
-      "comments": 5,
+      "score": 128,
+      "comments": 64,
       "author": "ifh-hn",
       "tags": [],
       "date": "2026-07-07T08:54:03+00:00"
+    },
+    {
+      "id": "hn-48814952",
+      "source": "hn",
+      "title": "Show HN: Fast, native Mac file manager (filters, fuzzy find, 9 MB, no Electron)",
+      "url": "https://whimfiles.com",
+      "score": 28,
+      "comments": 17,
+      "author": "whimbyte",
+      "tags": [],
+      "date": "2026-07-07T08:12:12+00:00"
     },
     {
       "id": "hn-48814509",
@@ -55,8 +101,8 @@
       "source": "hn",
       "title": "The Art of Computer Programming by Donald E. Knuth",
       "url": "https://www-cs-faculty.stanford.edu/~knuth/taocp.html",
-      "score": 13,
-      "comments": 3,
+      "score": 64,
+      "comments": 14,
       "author": "archargelod",
       "tags": [],
       "date": "2026-07-07T05:19:03+00:00"
@@ -194,8 +240,8 @@
       "source": "hn",
       "title": "How to sequence your own DNA at home",
       "url": "https://bradleywoolf.com/links-1/sequencing-my-own-dna-at-home",
-      "score": 210,
-      "comments": 73,
+      "score": 265,
+      "comments": 104,
       "author": "bilsbie",
       "tags": [],
       "date": "2026-07-07T00:14:21+00:00"
@@ -205,8 +251,8 @@
       "source": "hn",
       "title": "Small AI Models Gain Traction In places with unreliable networks",
       "url": "https://spectrum.ieee.org/small-language-models-ai-pharmaceuticals",
-      "score": 139,
-      "comments": 49,
+      "score": 178,
+      "comments": 60,
       "author": "sscaryterry",
       "tags": [],
       "date": "2026-07-06T23:59:54+00:00"
@@ -227,8 +273,8 @@
       "source": "hn",
       "title": "Ternlight – 7 MB embedding model that runs in browser (WASM)",
       "url": "https://ternlight-demo.vercel.app/",
-      "score": 218,
-      "comments": 52,
+      "score": 267,
+      "comments": 58,
       "author": "soycaporal",
       "tags": [],
       "date": "2026-07-06T23:06:31+00:00"
@@ -238,8 +284,8 @@
       "source": "hn",
       "title": "Fable turned reMarkable into Tom Riddle's diary from Harry Potter",
       "url": "https://github.com/MaximeRivest/Riddle",
-      "score": 454,
-      "comments": 281,
+      "score": 513,
+      "comments": 330,
       "author": "modinfo",
       "tags": [],
       "date": "2026-07-06T23:00:24+00:00"
@@ -249,8 +295,8 @@
       "source": "hn",
       "title": "OpenSSH 10.4/10.4p1 Released",
       "url": "https://www.openssh.org/txt/release-10.4",
-      "score": 78,
-      "comments": 16,
+      "score": 91,
+      "comments": 15,
       "author": "throw0101a",
       "tags": [],
       "date": "2026-07-06T22:32:58+00:00"
@@ -351,8 +397,8 @@
       "source": "hn",
       "title": "GLM 5.2 and the coming AI margin collapse",
       "url": "https://martinalderson.com/posts/the-upcoming-ai-margin-collapse-part-1-glm-5-2/",
-      "score": 411,
-      "comments": 251,
+      "score": 512,
+      "comments": 309,
       "author": "martinald",
       "tags": [],
       "date": "2026-07-06T20:14:55+00:00"
@@ -421,8 +467,8 @@
       "source": "hn",
       "title": "Pruning RAG context down to what the answer actually needs",
       "url": "https://www.kapa.ai/blog/how-we-prune-rag-context",
-      "score": 103,
-      "comments": 20,
+      "score": 116,
+      "comments": 30,
       "author": "emil_sorensen",
       "tags": [],
       "date": "2026-07-06T19:28:24+00:00"
@@ -443,8 +489,8 @@
       "source": "hn",
       "title": "CoMaps – FOSS Offline Maps",
       "url": "https://www.comaps.app/",
-      "score": 555,
-      "comments": 117,
+      "score": 643,
+      "comments": 142,
       "author": "basilikum",
       "tags": [],
       "date": "2026-07-06T18:55:07+00:00"
@@ -454,8 +500,8 @@
       "source": "hn",
       "title": "Linux on the Atari Jaguar",
       "url": "https://cakehonolulu.github.io/linux-for-jaguar/",
-      "score": 151,
-      "comments": 39,
+      "score": 164,
+      "comments": 49,
       "author": "cakehonolulu",
       "tags": [],
       "date": "2026-07-06T18:35:54+00:00"
@@ -476,8 +522,8 @@
       "source": "hn",
       "title": "OpenWrt One – Open Hardware Router",
       "url": "https://openwrt.org/toh/openwrt/one",
-      "score": 614,
-      "comments": 235,
+      "score": 700,
+      "comments": 260,
       "author": "peter_d_sherman",
       "tags": [],
       "date": "2026-07-06T18:23:12+00:00"
@@ -487,8 +533,8 @@
       "source": "hn",
       "title": "A global workspace in language models",
       "url": "https://www.anthropic.com/research/global-workspace",
-      "score": 370,
-      "comments": 135,
+      "score": 397,
+      "comments": 150,
       "author": "in-silico",
       "tags": [],
       "date": "2026-07-06T17:44:08+00:00"
@@ -534,8 +580,8 @@
       "source": "hn",
       "title": "OfficeCLI: Office suite for AI agents to read and edit Microsoft Office files",
       "url": "https://github.com/iOfficeAI/OfficeCLI",
-      "score": 180,
-      "comments": 54,
+      "score": 194,
+      "comments": 56,
       "author": "maxloh",
       "tags": [],
       "date": "2026-07-06T16:47:44+00:00"
@@ -680,8 +726,8 @@
       "source": "hn",
       "title": "AMD Ryzen AI Halo – $4k AI Dev Kit",
       "url": "https://www.lttlabs.com/articles/2026/07/06/amd-ryzen-ai-halo",
-      "score": 330,
-      "comments": 224,
+      "score": 346,
+      "comments": 230,
       "author": "LabsLucas",
       "tags": [],
       "date": "2026-07-06T15:01:18+00:00"
@@ -720,19 +766,6 @@
       "date": "2026-07-06T14:45:31+00:00"
     },
     {
-      "id": "qiita-6cdb3cb034",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "『めっちゃカメレオン』のサーバー代0円ってまじ？",
-      "url": "https://qiita.com/i-icc/items/fb02ae5fa0848f4c511e?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "i-icc",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-07-06T23:42:23+09:00"
-    },
-    {
       "id": "qiita-b8a9655495",
       "source": "zennqiita",
       "sub_source": "Qiita",
@@ -750,8 +783,8 @@
       "source": "hn",
       "title": "Resetting Xbox",
       "url": "https://news.xbox.com/en-us/2026/07/06/resetting-xbox/",
-      "score": 618,
-      "comments": 670,
+      "score": 663,
+      "comments": 734,
       "author": "dijksterhuis",
       "tags": [],
       "date": "2026-07-06T14:18:23+00:00"
@@ -2464,8 +2497,8 @@
       "source": "hn",
       "title": "Dolosse – a South African invention used over the world",
       "url": "https://thisbugslife.com/2021/11/21/dolosse-a-south-african-invention-used-over-the-world/",
-      "score": 42,
-      "comments": 11,
+      "score": 88,
+      "comments": 20,
       "author": "andsoitis",
       "tags": [],
       "date": "2026-07-04T15:32:58+00:00"
@@ -3070,6 +3103,17 @@
       "date": "2026-07-03T20:00:34+00:00"
     },
     {
+      "id": "hn-48779072",
+      "source": "hn",
+      "title": "Not Dark Yet",
+      "url": "https://agoodhardstare.substack.com/p/not-dark-yet",
+      "score": 9,
+      "comments": 0,
+      "author": "paulpauper",
+      "tags": [],
+      "date": "2026-07-03T19:38:47+00:00"
+    },
+    {
       "id": "hn-48778971",
       "source": "hn",
       "title": "ClawdMojis – A Clawd for Every Occasion",
@@ -3096,8 +3140,8 @@
       "source": "hn",
       "title": "Inkfield",
       "url": "https://www.inkfield.studio",
-      "score": 16,
-      "comments": 3,
+      "score": 34,
+      "comments": 9,
       "author": "surprisetalk",
       "tags": [],
       "date": "2026-07-03T18:29:46+00:00"
@@ -3156,6 +3200,17 @@
       "author": "kerlenton",
       "tags": [],
       "date": "2026-07-03T16:53:50+00:00"
+    },
+    {
+      "id": "hn-48777127",
+      "source": "hn",
+      "title": "Dropping in on Gottfried Leibniz (2013)",
+      "url": "https://writings.stephenwolfram.com/2013/05/dropping-in-on-gottfried-leibniz/",
+      "score": 10,
+      "comments": 3,
+      "author": "aragonite",
+      "tags": [],
+      "date": "2026-07-03T16:51:40+00:00"
     },
     {
       "id": "hn-48776956",
@@ -5184,69 +5239,12 @@
       "date": "2026-07-01T21:01:42+00:00"
     },
     {
-      "id": "hn-48753045",
-      "source": "hn",
-      "title": "Proliferate (YC S25) Is Hiring",
-      "url": "https://www.ycombinator.com/companies/proliferate/jobs/mMHvKR9-founding-product-engineer",
-      "score": 1,
-      "comments": 0,
-      "author": "pablo24602",
-      "tags": [],
-      "date": "2026-07-01T21:00:14+00:00"
-    },
-    {
-      "id": "hn-48752949",
-      "source": "hn",
-      "title": "OpenWiki: CLI that writes and maintains agent documentation for your codebase",
-      "url": "https://github.com/langchain-ai/openwiki",
-      "score": 64,
-      "comments": 17,
-      "author": "handfuloflight",
-      "tags": [],
-      "date": "2026-07-01T20:51:52+00:00"
-    },
-    {
-      "id": "hn-48752905",
-      "source": "hn",
-      "title": "Show HN: Searchable directory of 22k+ products from worker-owned co-ops",
-      "url": "https://www.workerowned.info/",
-      "score": 327,
-      "comments": 65,
-      "author": "IESAI_ski",
-      "tags": [],
-      "date": "2026-07-01T20:47:41+00:00"
-    },
-    {
-      "id": "qiita-25f1c063aa",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "【AWS×Java】S3 + CloudFront + Lambdaでサーバーレスな動的サイトを組み込んだデジタル名刺を作る",
-      "url": "https://qiita.com/usanchuu/items/2c5dbeed9c22dad0b7ad?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "usanchuu",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-07-02T05:47:38+09:00"
-    },
-    {
-      "id": "hn-48752843",
-      "source": "hn",
-      "title": "One KW wind turbine without civil engineering",
-      "url": "https://www.windtowatt.com/index-en.html",
-      "score": 24,
-      "comments": 18,
-      "author": "skywal_l",
-      "tags": [],
-      "date": "2026-07-01T20:43:47+00:00"
-    },
-    {
       "id": "hn-48748522",
       "source": "hn",
       "title": "In Praise of Observational Evidence",
       "url": "https://asteriskmag.com/issues/14/in-praise-of-observational-evidence",
-      "score": 13,
-      "comments": 1,
+      "score": 39,
+      "comments": 2,
       "author": "fi-le",
       "tags": [],
       "date": "2026-07-01T15:30:41+00:00"
@@ -5392,6 +5390,32 @@
       "date": "2023-05-23T17:06:23Z"
     },
     {
+      "id": "zenn-13063da44f",
+      "source": "zennqiita",
+      "sub_source": "Zenn",
+      "title": "Fable時代のAI活用法を、Anthropicの開発者が公開",
+      "url": "https://zenn.dev/knowledgesense/articles/283244af941a2d",
+      "score": null,
+      "author": "Atsushi Kadowaki",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Tue, 07 Jul 2026 01:00:08 GMT"
+    },
+    {
+      "id": "zenn-d998abf061",
+      "source": "zennqiita",
+      "sub_source": "Zenn",
+      "title": "Vitestで始めるシンプルなVRT",
+      "url": "https://zenn.dev/cybozu_frontend/articles/vitest-simple-vrt",
+      "score": null,
+      "author": "nus3",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Tue, 07 Jul 2026 00:36:25 GMT"
+    },
+    {
       "id": "zenn-3045e6c260",
       "source": "zennqiita",
       "sub_source": "Zenn",
@@ -5403,6 +5427,19 @@
         "Zenn"
       ],
       "date": "Tue, 07 Jul 2026 00:00:07 GMT"
+    },
+    {
+      "id": "zenn-f4d6787d89",
+      "source": "zennqiita",
+      "sub_source": "Zenn",
+      "title": "AI時代のObservability設計 - アプリケーション / インフラ / CI / LLMすべてを監視する（設計編）",
+      "url": "https://zenn.dev/aircloset/articles/d4c32cff8cb230",
+      "score": null,
+      "author": "辻 亮佑",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Mon, 06 Jul 2026 23:44:32 GMT"
     },
     {
       "id": "zenn-7b84fc0d18",
@@ -5457,6 +5494,19 @@
       "date": "Mon, 06 Jul 2026 08:23:53 GMT"
     },
     {
+      "id": "zenn-7edff5a827",
+      "source": "zennqiita",
+      "sub_source": "Zenn",
+      "title": "複数リポジトリを単一のdev containerで開発する Claude Code 環境を構築する",
+      "url": "https://zenn.dev/finatext/articles/whole-dev-container",
+      "score": null,
+      "author": "noritama73",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Mon, 06 Jul 2026 00:00:08 GMT"
+    },
+    {
       "id": "zenn-ad3dd2afed",
       "source": "zennqiita",
       "sub_source": "Zenn",
@@ -5507,45 +5557,6 @@
         "Zenn"
       ],
       "date": "Sun, 05 Jul 2026 10:11:56 GMT"
-    },
-    {
-      "id": "zenn-2c6159d4ca",
-      "source": "zennqiita",
-      "sub_source": "Zenn",
-      "title": "ECMAScriptにおけるグレゴリオ暦: `iso8601`と`gregory`",
-      "url": "https://zenn.dev/fabon/articles/c4b2efbb0c526b",
-      "score": null,
-      "author": "ふぁぼん",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Sun, 05 Jul 2026 07:57:21 GMT"
-    },
-    {
-      "id": "zenn-b00126ae96",
-      "source": "zennqiita",
-      "sub_source": "Zenn",
-      "title": "ELDEN RING NIGHTREIGNのマルチがラグいのは、ハズレのSteam中継サーバーを引いているからだった",
-      "url": "https://zenn.dev/kikurage7/articles/8b4d12fe0b7198",
-      "score": null,
-      "author": "きくらげ",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Sun, 05 Jul 2026 06:18:19 GMT"
-    },
-    {
-      "id": "zenn-0ffe4c31db",
-      "source": "zennqiita",
-      "sub_source": "Zenn",
-      "title": "dotfiles のススメ; mise と Renovate で開発環境を安全に最新に保つ編",
-      "url": "https://zenn.dev/himkt/articles/b811e1ea846f99",
-      "score": null,
-      "author": "himkt",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Sun, 05 Jul 2026 04:20:39 GMT"
     },
     {
       "id": "zenn-a96ff7289d",
@@ -5637,19 +5648,6 @@
         "Zenn"
       ],
       "date": "Thu, 02 Jul 2026 06:52:46 GMT"
-    },
-    {
-      "id": "zenn-6b32e1ee26",
-      "source": "zennqiita",
-      "sub_source": "Zenn",
-      "title": "AIに8割書かせたコード、半年運用の答え合わせ。効いた3つと、腐った3つ",
-      "url": "https://zenn.dev/rapls/articles/7a1bac83df8b21",
-      "score": null,
-      "author": "Rapls",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Thu, 02 Jul 2026 00:52:43 GMT"
     },
     {
       "id": "edb-36aec9a13b",

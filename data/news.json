@@ -1,14 +1,82 @@
 {
-  "updated_at": "2026-07-08T13:03:05.766846+00:00",
+  "updated_at": "2026-07-08T15:40:50.301930+00:00",
   "count": 500,
   "items": [
+    {
+      "id": "hn-48833183",
+      "source": "hn",
+      "title": "Show HN: Kastor – Terraform-style specs for AI agents",
+      "url": "https://github.com/weirdGuy/kastor",
+      "score": 3,
+      "comments": 0,
+      "author": "weirdguy",
+      "tags": [],
+      "date": "2026-07-08T15:25:09+00:00"
+    },
+    {
+      "id": "hn-48833116",
+      "source": "hn",
+      "title": "Chatto is now Open Source",
+      "url": "https://www.hmans.dev/blog/chatto-is-open-source",
+      "score": 15,
+      "comments": 2,
+      "author": "speckx",
+      "tags": [],
+      "date": "2026-07-08T15:19:50+00:00",
+      "severity": "critical"
+    },
+    {
+      "id": "hn-48833071",
+      "source": "hn",
+      "title": "Answering \"why do you want to relocate?\" during interviews",
+      "url": "https://relocateme.substack.com/p/a-mistake-to-avoid-during-relocation",
+      "score": 8,
+      "comments": 0,
+      "author": "andrewstetsenko",
+      "tags": [],
+      "date": "2026-07-08T15:16:17+00:00"
+    },
+    {
+      "id": "hn-48832212",
+      "source": "hn",
+      "title": "Mistral's Robostral Navigate: a state of the art robotics navigation model",
+      "url": "https://mistral.ai/news/robostral-navigate/",
+      "score": 108,
+      "comments": 16,
+      "author": "ottomengis",
+      "tags": [],
+      "date": "2026-07-08T14:09:17+00:00"
+    },
+    {
+      "id": "hn-48831658",
+      "source": "hn",
+      "title": "OpenBSD has a use-after-free allowing local privilege escalation to root",
+      "url": "https://nvd.nist.gov/vuln/detail/cve-2026-57589",
+      "score": 82,
+      "comments": 23,
+      "author": "linggen",
+      "tags": [],
+      "date": "2026-07-08T13:24:52+00:00",
+      "severity": "high"
+    },
+    {
+      "id": "hn-48831565",
+      "source": "hn",
+      "title": "Cloudflare Meerkat - Globally distributed consensus",
+      "url": "https://blog.cloudflare.com/meerkat-introduction/",
+      "score": 75,
+      "comments": 8,
+      "author": "bobnamob",
+      "tags": [],
+      "date": "2026-07-08T13:18:03+00:00"
+    },
     {
       "id": "hn-48830565",
       "source": "hn",
       "title": "Apple to increase spend with Broadcom to produce billions more U.S. chips",
       "url": "https://www.apple.com/newsroom/2026/07/apple-to-increase-spend-with-broadcom-to-produce-billions-more-us-chips/",
-      "score": 72,
-      "comments": 27,
+      "score": 181,
+      "comments": 143,
       "author": "soheilpro",
       "tags": [],
       "date": "2026-07-08T11:30:56+00:00"
@@ -40,8 +108,8 @@
       "source": "hn",
       "title": "Decoding the obfuscated bash script on a Uniqlo t-shirt",
       "url": "https://tris.sherliker.net/blog/obfuscated-self-evaluating-bash-script-by-cdn-akamai-being-supplied-to-consumers-via-retail-stores/",
-      "score": 527,
-      "comments": 105,
+      "score": 891,
+      "comments": 162,
       "author": "speerer",
       "tags": [],
       "date": "2026-07-08T08:46:06+00:00"
@@ -51,8 +119,8 @@
       "source": "hn",
       "title": "Geosql: A Claude/Codex skill for geospatial data",
       "url": "https://github.com/dekart-xyz/geosql",
-      "score": 49,
-      "comments": 6,
+      "score": 78,
+      "comments": 11,
       "author": "rzk",
       "tags": [],
       "date": "2026-07-08T08:37:26+00:00"
@@ -62,8 +130,8 @@
       "source": "hn",
       "title": "GitLost: We Tricked GitHub's AI Agent into Leaking Private Repos",
       "url": "https://noma.security/blog/gitlost-how-we-tricked-githubs-ai-agent-into-leaking-private-repos/",
-      "score": 300,
-      "comments": 118,
+      "score": 379,
+      "comments": 152,
       "author": "ColinEberhardt",
       "tags": [],
       "date": "2026-07-08T05:25:35+00:00"
@@ -84,8 +152,8 @@
       "source": "hn",
       "title": "How to Build a Minimal ZFS NAS Without Synology, QNAP, TrueNAS (2024)",
       "url": "https://neil.computer/notes/how-to-setup-minimal-zfs-nas-without-truenas/",
-      "score": 239,
-      "comments": 159,
+      "score": 274,
+      "comments": 189,
       "author": "4diii",
       "tags": [],
       "date": "2026-07-08T03:59:35+00:00"
@@ -95,8 +163,8 @@
       "source": "hn",
       "title": "Copy That Floppy – Cambridge guide for preserving data from fragile floppy disks",
       "url": "https://www.digipres.org/the-floppy-guide/",
-      "score": 109,
-      "comments": 31,
+      "score": 136,
+      "comments": 47,
       "author": "whiteblossom",
       "tags": [],
       "date": "2026-07-08T03:22:31+00:00"
@@ -178,8 +246,8 @@
       "source": "hn",
       "title": "Tenda firmware (multiple versions) contains hidden authentication backdoor",
       "url": "https://kb.cert.org/vuls/id/213560",
-      "score": 256,
-      "comments": 86,
+      "score": 293,
+      "comments": 100,
       "author": "miniBill",
       "tags": [],
       "date": "2026-07-08T00:08:51+00:00"
@@ -200,8 +268,8 @@
       "source": "hn",
       "title": "Structure and Interpretation of Computer Programs Video Lectures (1986)",
       "url": "https://ocw.mit.edu/courses/6-001-structure-and-interpretation-of-computer-programs-spring-2005/video_galleries/video-lectures/",
-      "score": 208,
-      "comments": 26,
+      "score": 261,
+      "comments": 35,
       "author": "gjvc",
       "tags": [],
       "date": "2026-07-07T23:57:29+00:00"
@@ -235,8 +303,8 @@
       "source": "hn",
       "title": "GAO: DOE Is Prematurely Excluding Less Expensive Options for Nuclear Cleanup",
       "url": "https://www.gao.gov/products/gao-26-108193",
-      "score": 226,
-      "comments": 105,
+      "score": 245,
+      "comments": 123,
       "author": "Jimmc414",
       "tags": [],
       "date": "2026-07-07T22:23:58+00:00"
@@ -290,8 +358,8 @@
       "source": "hn",
       "title": "Local, CPU-Friendly, High-Quality TTS (Text-to-Speech) with Kokoro",
       "url": "https://ariya.io/2026/03/local-cpu-friendly-high-quality-tts-text-to-speech-with-kokoro/",
-      "score": 447,
-      "comments": 83,
+      "score": 469,
+      "comments": 88,
       "author": "speckx",
       "tags": [],
       "date": "2026-07-07T18:24:10+00:00"
@@ -538,8 +606,8 @@
       "source": "hn",
       "title": "Chat Control 1.0 and 2.0 Explained",
       "url": "https://fightchatcontrol.eu/chat-control-overview",
-      "score": 736,
-      "comments": 291,
+      "score": 818,
+      "comments": 310,
       "author": "gasull",
       "tags": [],
       "date": "2026-07-07T14:23:15+00:00"
@@ -1580,8 +1648,8 @@
       "source": "hn",
       "title": "NoiseLang: Where N = 5 is a Dirac delta",
       "url": "https://manualmeida.dev/articles/noiselang/",
-      "score": 22,
-      "comments": 10,
+      "score": 60,
+      "comments": 27,
       "author": "manucorporat",
       "tags": [],
       "date": "2026-07-06T12:40:24+00:00"
@@ -2272,8 +2340,8 @@
       "source": "hn",
       "title": "Every postcard tells a story",
       "url": "https://observer.co.uk/style/features/article/every-postcard-tells-a-story",
-      "score": 4,
-      "comments": 0,
+      "score": 14,
+      "comments": 10,
       "author": "NaOH",
       "tags": [],
       "date": "2026-07-05T18:14:42+00:00"
@@ -2560,8 +2628,8 @@
       "source": "hn",
       "title": "Home made GPU escalated quickly [video]",
       "url": "https://www.youtube.com/watch?v=qMR3IXF2sWw",
-      "score": 83,
-      "comments": 23,
+      "score": 121,
+      "comments": 38,
       "author": "erichocean",
       "tags": [],
       "date": "2026-07-05T12:39:08+00:00"
@@ -2684,6 +2752,17 @@
       "author": "freediver",
       "tags": [],
       "date": "2026-07-05T10:50:53+00:00"
+    },
+    {
+      "id": "hn-48792980",
+      "source": "hn",
+      "title": "Japan's Hayabusa2 probe to conduct flyby of Torifune asteroid",
+      "url": "https://www3.nhk.or.jp/nhkworld/en/news/20260705_01/",
+      "score": 70,
+      "comments": 9,
+      "author": "dvh",
+      "tags": [],
+      "date": "2026-07-05T10:33:45+00:00"
     },
     {
       "id": "hn-48792790",
@@ -3232,8 +3311,8 @@
       "source": "hn",
       "title": "Canada's only watchmaking school still ticking after 80 years",
       "url": "https://www.cbc.ca/news/canada/montreal/canada-s-only-watchmaking-school-9.7254211",
-      "score": 168,
-      "comments": 85,
+      "score": 192,
+      "comments": 105,
       "author": "throw0101a",
       "tags": [],
       "date": "2026-07-04T16:46:24+00:00"
@@ -3292,6 +3371,17 @@
       "author": "toilet",
       "tags": [],
       "date": "2026-07-04T16:15:48+00:00"
+    },
+    {
+      "id": "hn-48786455",
+      "source": "hn",
+      "title": "Show HN: Follow London Trains in 3D",
+      "url": "https://ride.nexttrain.london/",
+      "score": 32,
+      "comments": 12,
+      "author": "mgranados",
+      "tags": [],
+      "date": "2026-07-04T16:11:06+00:00"
     },
     {
       "id": "hn-48786284",
@@ -3721,8 +3811,8 @@
       "source": "hn",
       "title": "Ants: Who looks after the injured in a colony?",
       "url": "https://www.uni-wuerzburg.de/en/news-and-events/news/detail/news/ameisen-kolonie-verletzte-pflegt/",
-      "score": 38,
-      "comments": 16,
+      "score": 67,
+      "comments": 31,
       "author": "hhs",
       "tags": [],
       "date": "2026-07-03T22:46:23+00:00"
@@ -3831,8 +3921,8 @@
       "source": "hn",
       "title": "EVE Online's Carbon engine is now open source: Fenris Creations explains why",
       "url": "https://www.gamesindustry.biz/eve-onlines-carbon-engine-is-now-open-source-fenris-creations-explains-why",
-      "score": 119,
-      "comments": 31,
+      "score": 230,
+      "comments": 75,
       "author": "Stevvo",
       "tags": [],
       "date": "2026-07-03T21:46:07+00:00",
@@ -5111,83 +5201,6 @@
       "date": "2026-07-02T16:29:27+00:00"
     },
     {
-      "id": "hn-48763790",
-      "source": "hn",
-      "title": "24-bit/192kHz music downloads and why they make no sense (2012)",
-      "url": "https://people.xiph.org/~xiphmont/demo/neil-young.html#toc_wd2bm",
-      "score": 82,
-      "comments": 145,
-      "author": "Kaapeine",
-      "tags": [],
-      "date": "2026-07-02T16:24:49+00:00"
-    },
-    {
-      "id": "hn-48763291",
-      "source": "hn",
-      "title": "Flexible metaprogramming with Rhombus",
-      "url": "https://lwn.net/SubscriberLink/1079001/67840550991151ed/",
-      "score": 71,
-      "comments": 1,
-      "author": "spdegabrielle",
-      "tags": [],
-      "date": "2026-07-02T15:43:39+00:00"
-    },
-    {
-      "id": "hn-48763246",
-      "source": "hn",
-      "title": "Show HN: zkGolf – Competitive optimization of formally verified circuits",
-      "url": "https://zk.golf/",
-      "score": 33,
-      "comments": 3,
-      "author": "rot256",
-      "tags": [],
-      "date": "2026-07-02T15:40:05+00:00"
-    },
-    {
-      "id": "hn-48763222",
-      "source": "hn",
-      "title": "Show HN: Inkwell – An RSS reader for e-ink devices",
-      "url": "https://kendal.codeberg.page/inkwell/",
-      "score": 21,
-      "comments": 3,
-      "author": "imkendal",
-      "tags": [],
-      "date": "2026-07-02T15:38:19+00:00"
-    },
-    {
-      "id": "hn-48763035",
-      "source": "hn",
-      "title": "Since Linux 6.9, LUKS suspend stopped wiping disk-encryption keys from memory",
-      "url": "https://mathstodon.xyz/@iblech/116769502749142438",
-      "score": 515,
-      "comments": 217,
-      "author": "IngoBlechschmid",
-      "tags": [],
-      "date": "2026-07-02T15:25:16+00:00"
-    },
-    {
-      "id": "hn-48762862",
-      "source": "hn",
-      "title": "Launch HN: Manufact (YC S25) – MCP Cloud",
-      "url": "https://manufact.com",
-      "score": 96,
-      "comments": 61,
-      "author": "pzullo",
-      "tags": [],
-      "date": "2026-07-02T15:11:20+00:00"
-    },
-    {
-      "id": "hn-48761868",
-      "source": "hn",
-      "title": "The difference between \"today's task\" and \"accretive work\"",
-      "url": "https://pluralistic.net/2026/07/02/canonization/",
-      "score": 76,
-      "comments": 45,
-      "author": "hn_acker",
-      "tags": [],
-      "date": "2026-07-02T14:07:56+00:00"
-    },
-    {
       "id": "ctf-4048944",
       "source": "project",
       "proj_category": "CTF",
@@ -5214,17 +5227,6 @@
         "Security"
       ],
       "date": "2026-07-02T05:43:49Z"
-    },
-    {
-      "id": "hn-48756578",
-      "source": "hn",
-      "title": "Herdr: One terminal to rule them all",
-      "url": "https://herdr.dev/",
-      "score": 320,
-      "comments": 138,
-      "author": "handfuloflight",
-      "tags": [],
-      "date": "2026-07-02T04:28:39+00:00"
     },
     {
       "id": "ctf-4039218",
@@ -5629,6 +5631,66 @@
       "date": "Sat, 04 Jul 2026 06:19:32 GMT"
     },
     {
+      "id": "edb-9bdf9aa505",
+      "source": "msf",
+      "title": "[webapps] Krayin CRM v2.2.x - Authenticated Remote Code Execution",
+      "url": "https://www.exploit-db.com/exploits/52629",
+      "score": null,
+      "author": "Exploit-DB",
+      "tags": [
+        "Exploit-DB",
+        "CVE",
+        "PoC"
+      ],
+      "severity": "high",
+      "date": "Wed, 08 Jul 2026 00:00:00 +0000"
+    },
+    {
+      "id": "edb-c29e4f3a23",
+      "source": "msf",
+      "title": "[webapps] Atarim WordPress Plugin  4.2.2 - Sensitive Information Exposure",
+      "url": "https://www.exploit-db.com/exploits/52628",
+      "score": null,
+      "author": "Exploit-DB",
+      "tags": [
+        "Exploit-DB",
+        "CVE",
+        "PoC"
+      ],
+      "severity": "high",
+      "date": "Wed, 08 Jul 2026 00:00:00 +0000"
+    },
+    {
+      "id": "edb-8d61b06af7",
+      "source": "msf",
+      "title": "[webapps] Langflow 1.9.0 - RCE",
+      "url": "https://www.exploit-db.com/exploits/52627",
+      "score": null,
+      "author": "Exploit-DB",
+      "tags": [
+        "Exploit-DB",
+        "CVE",
+        "PoC"
+      ],
+      "severity": "high",
+      "date": "Wed, 08 Jul 2026 00:00:00 +0000"
+    },
+    {
+      "id": "edb-143370345c",
+      "source": "msf",
+      "title": "[webapps] Joomla Page Builder CK  3.5.10 -  Arbitrary File Upload",
+      "url": "https://www.exploit-db.com/exploits/52626",
+      "score": null,
+      "author": "Exploit-DB",
+      "tags": [
+        "Exploit-DB",
+        "CVE",
+        "PoC"
+      ],
+      "severity": "high",
+      "date": "Wed, 08 Jul 2026 00:00:00 +0000"
+    },
+    {
       "id": "edb-0b3fb20562",
       "source": "msf",
       "title": "[webapps] MCPJam Inspector - Remote Code Execution",
@@ -5783,66 +5845,6 @@
       "source": "msf",
       "title": "[local] MEmu Android Emulator 9.2.7.0 - Local Privilege Escalation",
       "url": "https://www.exploit-db.com/exploits/52615",
-      "score": null,
-      "author": "Exploit-DB",
-      "tags": [
-        "Exploit-DB",
-        "CVE",
-        "PoC"
-      ],
-      "severity": "high",
-      "date": "Mon, 06 Jul 2026 00:00:00 +0000"
-    },
-    {
-      "id": "edb-2b448a5728",
-      "source": "msf",
-      "title": "[webapps] KeepInMind 0.8.4.2 -  Stored XSS",
-      "url": "https://www.exploit-db.com/exploits/52614",
-      "score": null,
-      "author": "Exploit-DB",
-      "tags": [
-        "Exploit-DB",
-        "CVE",
-        "PoC"
-      ],
-      "severity": "high",
-      "date": "Mon, 06 Jul 2026 00:00:00 +0000"
-    },
-    {
-      "id": "edb-81f5858416",
-      "source": "msf",
-      "title": "[webapps] KNX visualisering - Broken Access Control",
-      "url": "https://www.exploit-db.com/exploits/52613",
-      "score": null,
-      "author": "Exploit-DB",
-      "tags": [
-        "Exploit-DB",
-        "CVE",
-        "PoC"
-      ],
-      "severity": "high",
-      "date": "Mon, 06 Jul 2026 00:00:00 +0000"
-    },
-    {
-      "id": "edb-36f2d132ee",
-      "source": "msf",
-      "title": "[local] Windows Defender (MsMpEng.exe) - Race Condition",
-      "url": "https://www.exploit-db.com/exploits/52612",
-      "score": null,
-      "author": "Exploit-DB",
-      "tags": [
-        "Exploit-DB",
-        "CVE",
-        "PoC"
-      ],
-      "severity": "high",
-      "date": "Mon, 06 Jul 2026 00:00:00 +0000"
-    },
-    {
-      "id": "edb-8b9a19fa7f",
-      "source": "msf",
-      "title": "[webapps] WordPress Plugin WPZOOM Portfolio 1.4.21 -  Reflected Cross-Site Scripting (XSS)",
-      "url": "https://www.exploit-db.com/exploits/52611",
       "score": null,
       "author": "Exploit-DB",
       "tags": [

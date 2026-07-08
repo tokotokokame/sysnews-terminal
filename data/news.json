@@ -1,14 +1,37 @@
 {
-  "updated_at": "2026-07-08T21:40:55.498752+00:00",
+  "updated_at": "2026-07-08T23:06:48.630137+00:00",
   "count": 500,
   "items": [
     {
+      "id": "hn-48837877",
+      "source": "hn",
+      "title": "Rewriting Bun in Rust",
+      "url": "https://bun.com/blog/bun-in-rust",
+      "score": 74,
+      "comments": 13,
+      "author": "afturner",
+      "tags": [],
+      "date": "2026-07-08T21:49:59+00:00"
+    },
+    {
+      "id": "hn-48837809",
+      "source": "hn",
+      "title": "Open Source Barware: free, local-first bar inventory software (GPLv3)",
+      "url": "https://opensourcebarware.com",
+      "score": 4,
+      "comments": 1,
+      "author": "RichBJamison",
+      "tags": [],
+      "date": "2026-07-08T21:43:07+00:00",
+      "severity": "critical"
+    },
+    {
       "id": "hn-48837396",
       "source": "hn",
-      "title": "OpenAI no longer recommends SWE-Bench Pro",
+      "title": "Separating signal from noise in coding evaluations",
       "url": "https://openai.com/index/separating-signal-from-noise-coding-evaluations/",
-      "score": 52,
-      "comments": 16,
+      "score": 109,
+      "comments": 44,
       "author": "sk4rekr0w",
       "tags": [],
       "date": "2026-07-08T21:03:51+00:00"
@@ -16,10 +39,10 @@
     {
       "id": "hn-48837162",
       "source": "hn",
-      "title": "Fable is not a useful model",
+      "title": "The classifiers Anthropic puts in front of Fable are too zealous",
       "url": "https://combine-lab.github.io/blog/2026/07/07/fable-is-not-a-useful-model.html",
-      "score": 128,
-      "comments": 104,
+      "score": 170,
+      "comments": 153,
       "author": "karrot-kake",
       "tags": [],
       "date": "2026-07-08T20:41:33+00:00"
@@ -29,8 +52,8 @@
       "source": "hn",
       "title": "Turning a pile of documents into a searchable useable knowledge base",
       "url": "https://github.com/linuxrebel/DocuBrowser",
-      "score": 13,
-      "comments": 2,
+      "score": 35,
+      "comments": 6,
       "author": "linuxrebe1",
       "tags": [],
       "date": "2026-07-08T20:37:29+00:00"
@@ -40,7 +63,7 @@
       "source": "hn",
       "title": "Show HN: Onboard-CLI, a LLM powered and AST-based tool to visualize codebase",
       "url": "https://github.com/animesh-94/Onboard-CLI",
-      "score": 9,
+      "score": 15,
       "comments": 2,
       "author": "yr_animesh",
       "tags": [],
@@ -51,8 +74,8 @@
       "source": "hn",
       "title": "FAANG Simulator",
       "url": "https://www.abeyk.com/escape-the-rat-race/",
-      "score": 50,
-      "comments": 14,
+      "score": 150,
+      "comments": 55,
       "author": "nerdbiscuits",
       "tags": [],
       "date": "2026-07-08T20:05:42+00:00"
@@ -73,8 +96,8 @@
       "source": "hn",
       "title": "Cloudflare Drop",
       "url": "https://www.cloudflare.com/drop/",
-      "score": 101,
-      "comments": 58,
+      "score": 149,
+      "comments": 84,
       "author": "coloneltcb",
       "tags": [],
       "date": "2026-07-08T19:18:26+00:00"
@@ -84,8 +107,8 @@
       "source": "hn",
       "title": "OpenMandriva: Statement regarding attempted distribution sabotage",
       "url": "https://forum.openmandriva.org/t/statement-regarding-attempted-distribution-sabotage/8997",
-      "score": 47,
-      "comments": 8,
+      "score": 63,
+      "comments": 10,
       "author": "workethics",
       "tags": [],
       "date": "2026-07-08T18:21:53+00:00"
@@ -95,8 +118,8 @@
       "source": "hn",
       "title": "Grok 4.5",
       "url": "https://x.ai/news/grok-4-5",
-      "score": 287,
-      "comments": 201,
+      "score": 401,
+      "comments": 361,
       "author": "BoumTAC",
       "tags": [],
       "date": "2026-07-08T18:00:32+00:00"
@@ -106,8 +129,8 @@
       "source": "hn",
       "title": "Show HN: Microsoft releases Flint, a visualization language for AI agents",
       "url": "https://microsoft.github.io/flint-chart/#/",
-      "score": 118,
-      "comments": 52,
+      "score": 150,
+      "comments": 64,
       "author": "chenglong-hn",
       "tags": [],
       "date": "2026-07-08T17:46:12+00:00"
@@ -139,8 +162,8 @@
       "source": "hn",
       "title": "GPT‑Live",
       "url": "https://openai.com/index/introducing-gpt-live/",
-      "score": 510,
-      "comments": 351,
+      "score": 549,
+      "comments": 372,
       "author": "logickkk1",
       "tags": [],
       "date": "2026-07-08T17:03:19+00:00"
@@ -150,8 +173,8 @@
       "source": "hn",
       "title": "EU now one step away from reviving private message scanning rules",
       "url": "https://cyberinsider.com/eu-now-one-step-away-from-reviving-private-message-scanning-rules/",
-      "score": 277,
-      "comments": 119,
+      "score": 320,
+      "comments": 126,
       "author": "ggirelli",
       "tags": [],
       "date": "2026-07-08T16:53:06+00:00"
@@ -161,8 +184,8 @@
       "source": "hn",
       "title": "SWE-1.7 Reach Near GPT 5.5 and Opus Intelligence",
       "url": "https://cognition.com/blog/swe-1-7",
-      "score": 221,
-      "comments": 117,
+      "score": 239,
+      "comments": 123,
       "author": "mekpro",
       "tags": [],
       "date": "2026-07-08T16:19:36+00:00"
@@ -192,10 +215,10 @@
     {
       "id": "hn-48833116",
       "source": "hn",
-      "title": "Chatto is now Open Source",
+      "title": "Chatto is now open source",
       "url": "https://www.hmans.dev/blog/chatto-is-open-source",
-      "score": 568,
-      "comments": 155,
+      "score": 638,
+      "comments": 180,
       "author": "speckx",
       "tags": [],
       "date": "2026-07-08T15:19:50+00:00",
@@ -230,8 +253,8 @@
       "source": "hn",
       "title": "Mistral's Robostral Navigate: a state of the art robotics navigation model",
       "url": "https://mistral.ai/news/robostral-navigate/",
-      "score": 360,
-      "comments": 87,
+      "score": 382,
+      "comments": 89,
       "author": "ottomengis",
       "tags": [],
       "date": "2026-07-08T14:09:17+00:00"
@@ -241,8 +264,8 @@
       "source": "hn",
       "title": "OpenBSD has a use-after-free allowing local privilege escalation to root",
       "url": "https://nvd.nist.gov/vuln/detail/cve-2026-57589",
-      "score": 224,
-      "comments": 104,
+      "score": 237,
+      "comments": 118,
       "author": "linggen",
       "tags": [],
       "date": "2026-07-08T13:24:52+00:00",
@@ -253,8 +276,8 @@
       "source": "hn",
       "title": "A bug which affected only left handed users",
       "url": "https://shkspr.mobi/blog/2026/07/a-bug-which-only-affected-left-handed-users/",
-      "score": 47,
-      "comments": 20,
+      "score": 65,
+      "comments": 35,
       "author": "sixhobbits",
       "tags": [],
       "date": "2026-07-08T13:20:05+00:00"
@@ -264,8 +287,8 @@
       "source": "hn",
       "title": "Cloudflare Meerkat - Globally distributed consensus",
       "url": "https://blog.cloudflare.com/meerkat-introduction/",
-      "score": 189,
-      "comments": 40,
+      "score": 195,
+      "comments": 42,
       "author": "bobnamob",
       "tags": [],
       "date": "2026-07-08T13:18:03+00:00"
@@ -308,8 +331,8 @@
       "source": "hn",
       "title": "Decoding the obfuscated bash script on a Uniqlo t-shirt",
       "url": "https://tris.sherliker.net/blog/obfuscated-self-evaluating-bash-script-by-cdn-akamai-being-supplied-to-consumers-via-retail-stores/",
-      "score": 1201,
-      "comments": 193,
+      "score": 1250,
+      "comments": 201,
       "author": "speerer",
       "tags": [],
       "date": "2026-07-08T08:46:06+00:00"
@@ -914,6 +937,17 @@
       "date": "2026-07-07T12:50:40+00:00"
     },
     {
+      "id": "hn-48816987",
+      "source": "hn",
+      "title": "Show HN: Yamanote.fun – A complete soundscape for Tokyo's Yamanote line",
+      "url": "https://www.yamanote.fun/",
+      "score": 12,
+      "comments": 1,
+      "author": "madebymagnolia",
+      "tags": [],
+      "date": "2026-07-07T12:47:46+00:00"
+    },
+    {
       "id": "hn-48816959",
       "source": "hn",
       "title": "98% isn't much",
@@ -1457,6 +1491,17 @@
       "date": "2026-07-06T20:08:46+00:00"
     },
     {
+      "id": "hn-48809808",
+      "source": "hn",
+      "title": "Poison, redzones and shadows: inside KASAN",
+      "url": "https://bootlin.com/blog/poison-redzones-and-shadows-inside-kasan/",
+      "score": 7,
+      "comments": 0,
+      "author": "rrampage",
+      "tags": [],
+      "date": "2026-07-06T20:08:33+00:00"
+    },
+    {
       "id": "hn-48809542",
       "source": "hn",
       "title": "Price per 1M tokens is meaningless",
@@ -1847,8 +1892,8 @@
       "source": "hn",
       "title": "I Built a Telegram Client for Pi",
       "url": "https://www.npmjs.com/package/@atharva-again/pi-tg",
-      "score": 30,
-      "comments": 17,
+      "score": 39,
+      "comments": 20,
       "author": "atharva-again",
       "tags": [],
       "date": "2026-07-06T14:06:34+00:00"
@@ -1913,8 +1958,8 @@
       "source": "hn",
       "title": "DKIM2 and DMARCbis Have Landed",
       "url": "https://stalw.art/blog/dkim2-dmarcbis/",
-      "score": 9,
-      "comments": 1,
+      "score": 44,
+      "comments": 29,
       "author": "StalwartLabs",
       "tags": [],
       "date": "2026-07-06T13:02:57+00:00"
@@ -5165,52 +5210,6 @@
       "date": "2026-07-03T01:02:45+00:00"
     },
     {
-      "id": "qiita-382aeb88f2",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "InvokeRequiredと戦い続けた男が、async/awaitで成仏した話",
-      "url": "https://qiita.com/inuta-one/items/2a86ed6e13e039b7e1fb?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "inuta-one",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-07-03T09:28:17+09:00"
-    },
-    {
-      "id": "hn-48769110",
-      "source": "hn",
-      "title": "\"An AI Job Apocalypse?\" – Goldman Sachs Report [pdf]",
-      "url": "https://www.goldmansachs.com/static-libs/pdf-redirect/prod/index.html?path=/pdfs/insights/goldman-sachs-research/an-ai-job-apocalypse/report.pdf&originalQuery=&referrer=",
-      "score": 13,
-      "comments": 6,
-      "author": "aanet",
-      "tags": [],
-      "date": "2026-07-03T00:18:11+00:00"
-    },
-    {
-      "id": "hn-48768997",
-      "source": "hn",
-      "title": "GitHub is proud to announce that you can now obtain your public repo on CD-ROM",
-      "url": "https://forms.cloud.microsoft/pages/responsepage.aspx?id=v4j5cvGGr0GRqy180BHbR6G-c11n8yFDlQmk4B-QjDxUQkdTTjZLU0EyTFFRV1E3NVRTVTRTWjRHMy4u&route=shorturl",
-      "score": 18,
-      "comments": 14,
-      "author": "throwaway2027",
-      "tags": [],
-      "date": "2026-07-03T00:01:26+00:00"
-    },
-    {
-      "id": "hn-48768992",
-      "source": "hn",
-      "title": "An American Privacy Emergency",
-      "url": "https://scottaaronson.blog/?p=9902",
-      "score": 324,
-      "comments": 97,
-      "author": "flowercalled",
-      "tags": [],
-      "date": "2026-07-03T00:01:06+00:00"
-    },
-    {
       "id": "ctf-4048944",
       "source": "project",
       "proj_category": "CTF",
@@ -5379,6 +5378,32 @@
       "date": "2023-05-23T17:06:23Z"
     },
     {
+      "id": "zenn-f51eab77ef",
+      "source": "zennqiita",
+      "sub_source": "Zenn",
+      "title": "設計判断を属人化させないために、DDDの判断フローをWebアプリにしてみた",
+      "url": "https://zenn.dev/shimpei_takeda/articles/b63ecf44777fab",
+      "score": null,
+      "author": "Shimpei TAKEDA",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Wed, 08 Jul 2026 09:30:40 GMT"
+    },
+    {
+      "id": "zenn-e582cd5bc2",
+      "source": "zennqiita",
+      "sub_source": "Zenn",
+      "title": "Agent Skills自動最適化の研究、中身はほぼ深層学習の訓練ループだった",
+      "url": "https://zenn.dev/layerx/articles/9f25ec86a31730",
+      "score": null,
+      "author": "223",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Wed, 08 Jul 2026 08:00:06 GMT"
+    },
+    {
       "id": "zenn-97ec70d763",
       "source": "zennqiita",
       "sub_source": "Zenn",
@@ -5390,6 +5415,19 @@
         "Zenn"
       ],
       "date": "Wed, 08 Jul 2026 02:50:05 GMT"
+    },
+    {
+      "id": "zenn-0347ca460e",
+      "source": "zennqiita",
+      "sub_source": "Zenn",
+      "title": "個人タスク管理を「判断は人間、更新はエージェント、計算はスクリプト」で設計する",
+      "url": "https://zenn.dev/layerx/articles/797bb5b8935bf6",
+      "score": null,
+      "author": "uphy",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Wed, 08 Jul 2026 02:30:05 GMT"
     },
     {
       "id": "zenn-6a43ecc0cb",
@@ -5433,17 +5471,17 @@
       "date": "Wed, 08 Jul 2026 00:00:07 GMT"
     },
     {
-      "id": "zenn-3b29c7c11d",
+      "id": "zenn-fd032c9efa",
       "source": "zennqiita",
       "sub_source": "Zenn",
-      "title": "Claude Codeに作らせたデスクトップアプリ、その後3ヶ月でどうなったか",
-      "url": "https://zenn.dev/kashioka/articles/7e02592d222990",
+      "title": "VS Code DevContainer を使わなくなった私の、LLM エージェント向け開発環境",
+      "url": "https://zenn.dev/kenfdev/articles/1febc0052b0d71",
       "score": null,
-      "author": "kashioka",
+      "author": "kenfdev",
       "tags": [
         "Zenn"
       ],
-      "date": "Tue, 07 Jul 2026 16:51:56 GMT"
+      "date": "Tue, 07 Jul 2026 08:00:09 GMT"
     },
     {
       "id": "zenn-6d9629e24c",
@@ -5511,19 +5549,6 @@
       "date": "Mon, 06 Jul 2026 21:38:40 GMT"
     },
     {
-      "id": "zenn-bf4f99ce4f",
-      "source": "zennqiita",
-      "sub_source": "Zenn",
-      "title": "Git 感覚で AWS / Google Cloud / Azure のシークレットを管理できる CLI/GUI ツール「suve」を作った",
-      "url": "https://zenn.dev/yumemi_inc/articles/suve-git-like-secret-management",
-      "score": null,
-      "author": "mpyw",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Mon, 06 Jul 2026 21:38:15 GMT"
-    },
-    {
       "id": "zenn-dc063196ad",
       "source": "zennqiita",
       "sub_source": "Zenn",
@@ -5589,19 +5614,6 @@
       "date": "Sun, 05 Jul 2026 15:02:46 GMT"
     },
     {
-      "id": "zenn-76612f7e99",
-      "source": "zennqiita",
-      "sub_source": "Zenn",
-      "title": "JavaScriptのメソッドチェインが遅い理由",
-      "url": "https://zenn.dev/dameyodamedame/articles/0bd949354baf6e",
-      "score": null,
-      "author": "dameyodamedame",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Sun, 05 Jul 2026 10:58:57 GMT"
-    },
-    {
       "id": "zenn-f473381be5",
       "source": "zennqiita",
       "sub_source": "Zenn",
@@ -5613,19 +5625,6 @@
         "Zenn"
       ],
       "date": "Sun, 05 Jul 2026 10:11:56 GMT"
-    },
-    {
-      "id": "zenn-5494476f9c",
-      "source": "zennqiita",
-      "sub_source": "Zenn",
-      "title": "コードレビュー指摘300件を3ヶ月分類したら効いていたのは2種類だけだった",
-      "url": "https://zenn.dev/kenimo49/articles/code-review-300-comments-2-effective-categories",
-      "score": null,
-      "author": "井本 賢 | WebRTC×音声AI / LLMO",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Sat, 04 Jul 2026 09:57:02 GMT"
     },
     {
       "id": "zenn-799c4d418a",

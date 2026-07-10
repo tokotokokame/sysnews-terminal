@@ -1,17 +1,94 @@
 {
-  "updated_at": "2026-07-10T15:56:28.622582+00:00",
+  "updated_at": "2026-07-10T17:48:31.734823+00:00",
   "count": 500,
   "items": [
+    {
+      "id": "hn-48862467",
+      "source": "hn",
+      "title": "Anyone else get a vague GitHub shakedown notice?",
+      "url": "https://lists.osgeo.org/pipermail/qgis-developer/2026-July/068430.html",
+      "score": 10,
+      "comments": 2,
+      "author": "jjgreen",
+      "tags": [],
+      "date": "2026-07-10T16:57:35+00:00"
+    },
+    {
+      "id": "hn-48862365",
+      "source": "hn",
+      "title": "The tech of 'Terminator 2' – an oral history (2017)",
+      "url": "https://vfxblog.com/2017/08/23/the-tech-of-terminator-2-an-oral-history/",
+      "score": 27,
+      "comments": 4,
+      "author": "markus_zhang",
+      "tags": [],
+      "date": "2026-07-10T16:48:41+00:00"
+    },
+    {
+      "id": "hn-48862252",
+      "source": "hn",
+      "title": "Snails' Teeth Beats Spider Silk as Nature's Strongest Material",
+      "url": "https://www.smithsonianmag.com/smart-news/spider-silk-loses-top-spot-natures-strongest-material-snails-teeth-180954346/",
+      "score": 41,
+      "comments": 24,
+      "author": "simonebrunozzi",
+      "tags": [],
+      "date": "2026-07-10T16:37:52+00:00"
+    },
+    {
+      "id": "hn-48861833",
+      "source": "hn",
+      "title": "Hands-On with the AMD Ryzen AI Halo",
+      "url": "https://www.microcenter.com/site/mc-news/article/amd-ryzen-ai-halo-review.aspx",
+      "score": 12,
+      "comments": 2,
+      "author": "bdcravens",
+      "tags": [],
+      "date": "2026-07-10T16:06:38+00:00"
+    },
+    {
+      "id": "hn-48861717",
+      "source": "hn",
+      "title": "QuadRF can spot drones and see WiFi through my wall",
+      "url": "https://www.jeffgeerling.com/blog/2026/quadrf-can-spot-drones-and-see-wifi-through-my-wall/",
+      "score": 129,
+      "comments": 47,
+      "author": "speckx",
+      "tags": [],
+      "date": "2026-07-10T15:59:53+00:00"
+    },
     {
       "id": "hn-48861319",
       "source": "hn",
       "title": "A Love Letter to Flashcards",
       "url": "https://lesleylai.info/en/flashcards/",
-      "score": 13,
-      "comments": 2,
+      "score": 57,
+      "comments": 30,
       "author": "surprisetalk",
       "tags": [],
       "date": "2026-07-10T15:30:44+00:00"
+    },
+    {
+      "id": "hn-48861213",
+      "source": "hn",
+      "title": "Computation as a Universal and Fundamental Concept",
+      "url": "https://ergo.org/courses/computation-as-a-universal-and-fundamental-concept",
+      "score": 19,
+      "comments": 13,
+      "author": "simonpure",
+      "tags": [],
+      "date": "2026-07-10T15:23:42+00:00"
+    },
+    {
+      "id": "hn-48859835",
+      "source": "hn",
+      "title": "The Annotated JEPA",
+      "url": "https://elonlit.com/scrivings/the-annotated-jepa/",
+      "score": 22,
+      "comments": 1,
+      "author": "surprisetalk",
+      "tags": [],
+      "date": "2026-07-10T13:45:05+00:00"
     },
     {
       "id": "hn-48859784",
@@ -29,8 +106,8 @@
       "source": "hn",
       "title": "Write code like a human will maintain it",
       "url": "https://unstack.io/write-code-like-a-human-will-maintain-it",
-      "score": 174,
-      "comments": 137,
+      "score": 236,
+      "comments": 201,
       "author": "ScottWRobinson",
       "tags": [],
       "date": "2026-07-10T13:33:00+00:00"
@@ -40,8 +117,8 @@
       "source": "hn",
       "title": "Successful Companies Go Blind",
       "url": "https://ianreppel.org/how-successful-companies-go-blind/",
-      "score": 57,
-      "comments": 21,
+      "score": 97,
+      "comments": 39,
       "author": "speckx",
       "tags": [],
       "date": "2026-07-10T13:31:08+00:00"
@@ -51,8 +128,8 @@
       "source": "hn",
       "title": "Show HN: Runloom – Go-style coroutines for Python free-threaded",
       "url": "https://github.com/robertsdotpm/runloom",
-      "score": 19,
-      "comments": 8,
+      "score": 33,
+      "comments": 13,
       "author": "Uptrenda",
       "tags": [],
       "date": "2026-07-10T13:07:38+00:00"
@@ -95,19 +172,33 @@
       "source": "hn",
       "title": "Late Bronze Age Collapse",
       "url": "https://acoup.blog/2026/01/30/collections-the-late-bronze-age-collapse-a-very-brief-introduction/",
-      "score": 160,
-      "comments": 73,
+      "score": 225,
+      "comments": 132,
       "author": "dmonay",
       "tags": [],
       "date": "2026-07-10T11:59:55+00:00"
+    },
+    {
+      "id": "ctf-4113061",
+      "source": "project",
+      "proj_category": "CTF",
+      "title": "HackTheBox: Delegate Writeup",
+      "url": "https://dev.to/exploitnotes/hackthebox-delegate-writeup-475p",
+      "score": 0,
+      "author": "CTF Platform",
+      "tags": [
+        "CTF",
+        "Security"
+      ],
+      "date": "2026-07-10T11:17:40Z"
     },
     {
       "id": "hn-48858292",
       "source": "hn",
       "title": "EU Commission: addictive design Instagram and Facebook in breach of the DSA",
       "url": "https://ec.europa.eu/commission/presscorner/home/en",
-      "score": 159,
-      "comments": 115,
+      "score": 197,
+      "comments": 138,
       "author": "jeroenhd",
       "tags": [],
       "date": "2026-07-10T11:00:15+00:00"
@@ -128,8 +219,8 @@
       "source": "hn",
       "title": "Good Tools Are Invisible",
       "url": "https://www.gingerbill.org/article/2026/07/10/good-tools-are-invisible/",
-      "score": 138,
-      "comments": 96,
+      "score": 198,
+      "comments": 112,
       "author": "theanonymousone",
       "tags": [],
       "date": "2026-07-10T10:32:41+00:00"
@@ -150,8 +241,8 @@
       "source": "hn",
       "title": "In Emacs, Everything Looks Like a Service",
       "url": "http://yummymelon.com/devnull/in-emacs-everything-looks-like-a-service.html",
-      "score": 103,
-      "comments": 62,
+      "score": 130,
+      "comments": 73,
       "author": "kickingvegas",
       "tags": [],
       "date": "2026-07-10T08:21:10+00:00"
@@ -179,6 +270,20 @@
         "Qiita"
       ],
       "date": "2026-07-10T13:18:27+09:00"
+    },
+    {
+      "id": "ctf-4110153",
+      "source": "project",
+      "proj_category": "CTF",
+      "title": "HackTheBox: Phantom Writeup",
+      "url": "https://dev.to/exploitnotes/hackthebox-phantom-writeup-48gd",
+      "score": 0,
+      "author": "CTF Platform",
+      "tags": [
+        "CTF",
+        "Security"
+      ],
+      "date": "2026-07-10T04:18:24Z"
     },
     {
       "id": "qiita-5febac5974",
@@ -352,11 +457,22 @@
       "source": "hn",
       "title": "How RCA Victor sold Sound Service to classrooms in 1939",
       "url": "https://pncnmnp.github.io/blogs/rca-victor-education.html",
-      "score": 4,
-      "comments": 2,
+      "score": 13,
+      "comments": 3,
       "author": "pncnmnp",
       "tags": [],
       "date": "2026-07-09T20:37:43+00:00"
+    },
+    {
+      "id": "hn-48851476",
+      "source": "hn",
+      "title": "Show HN: Reviving my 2001 college band with AI",
+      "url": "https://www.fadingmaize.com",
+      "score": 22,
+      "comments": 9,
+      "author": "jacobgraf",
+      "tags": [],
+      "date": "2026-07-09T19:49:37+00:00"
     },
     {
       "id": "hn-48850414",
@@ -385,8 +501,8 @@
       "source": "hn",
       "title": "Interview with Mitchell Hashimoto about Ghostty and Zig",
       "url": "https://alexalejandre.com/programming/interview-with-mitchell-hashimoto/",
-      "score": 319,
-      "comments": 171,
+      "score": 348,
+      "comments": 192,
       "author": "veqq",
       "tags": [],
       "date": "2026-07-09T17:17:16+00:00"
@@ -2708,6 +2824,17 @@
       "date": "2026-07-07T06:37:21+09:00"
     },
     {
+      "id": "hn-48810543",
+      "source": "hn",
+      "title": "Alternate Clock Designs and Time Systems",
+      "url": "https://serialc.github.io/altClocks/",
+      "score": 36,
+      "comments": 21,
+      "author": "ethanpil",
+      "tags": [],
+      "date": "2026-07-06T21:09:56+00:00"
+    },
+    {
       "id": "hn-48810533",
       "source": "hn",
       "title": "AI: The ROI Runway Could Be Long Outside the Tech Sector",
@@ -3129,8 +3256,8 @@
       "source": "hn",
       "title": "Apple Silicon Exec Explains Mac Mini AI Demand and On-Device Future",
       "url": "https://www.macrumors.com/2026/07/06/apple-silicon-exec-explains-mac-mini-ai-demand/",
-      "score": 153,
-      "comments": 211,
+      "score": 171,
+      "comments": 246,
       "author": "tosh",
       "tags": [],
       "date": "2026-07-06T14:59:21+00:00"
@@ -3195,8 +3322,8 @@
       "source": "hn",
       "title": "Ditching Vagrant: VMs with KVM and Virsh on Debian",
       "url": "https://benjamintoll.com/2026/06/29/on-ditching-vagrant/",
-      "score": 60,
-      "comments": 23,
+      "score": 71,
+      "comments": 29,
       "author": "fanf2",
       "tags": [],
       "date": "2026-07-06T14:42:04+00:00"
@@ -3386,8 +3513,8 @@
       "source": "hn",
       "title": "Lost city discovered beneath Egypt's desert with ancient church",
       "url": "https://www.dailymail.com/sciencetech/article-15956159/Incredible-lost-city-discovered-Egypts-desert.html",
-      "score": 30,
-      "comments": 2,
+      "score": 73,
+      "comments": 22,
       "author": "Bender",
       "tags": [],
       "date": "2026-07-06T12:32:57+00:00"
@@ -5077,105 +5204,6 @@
       "severity": "medium"
     },
     {
-      "id": "hn-48786970",
-      "source": "hn",
-      "title": "EndBASIC 0.14: Are we multimedia yet?",
-      "url": "https://www.endbasic.dev/2026/07/endbasic-0.14.html",
-      "score": 21,
-      "comments": 2,
-      "author": "jmmv",
-      "tags": [],
-      "date": "2026-07-04T17:08:18+00:00"
-    },
-    {
-      "id": "hn-48786880",
-      "source": "hn",
-      "title": "Plein Air",
-      "url": "https://art.joonas.wtf/",
-      "score": 47,
-      "comments": 6,
-      "author": "bookofjoe",
-      "tags": [],
-      "date": "2026-07-04T16:55:29+00:00"
-    },
-    {
-      "id": "hn-48786868",
-      "source": "hn",
-      "title": "Finland's last analogue landline phones go silent after 150 years",
-      "url": "https://www.euronews.com/next/2026/06/30/finlands-last-analogue-landline-phones-go-silent-after-150-years",
-      "score": 80,
-      "comments": 20,
-      "author": "ohjeez",
-      "tags": [],
-      "date": "2026-07-04T16:54:02+00:00"
-    },
-    {
-      "id": "hn-48786838",
-      "source": "hn",
-      "title": "Google Books (or similar) all book scans – $200k bounty (2025)",
-      "url": "https://software.annas-archive.gl/AnnaArchivist/annas-archive/-/work_items/234",
-      "score": 469,
-      "comments": 264,
-      "author": "Cider9986",
-      "tags": [],
-      "date": "2026-07-04T16:51:26+00:00"
-    },
-    {
-      "id": "hn-48786789",
-      "source": "hn",
-      "title": "Canada's only watchmaking school still ticking after 80 years",
-      "url": "https://www.cbc.ca/news/canada/montreal/canada-s-only-watchmaking-school-9.7254211",
-      "score": 226,
-      "comments": 127,
-      "author": "throw0101a",
-      "tags": [],
-      "date": "2026-07-04T16:46:24+00:00"
-    },
-    {
-      "id": "hn-48786782",
-      "source": "hn",
-      "title": "Meta data center water discharges suspended for contaminating water supply",
-      "url": "https://www.tomshardware.com/tech-industry/data-centers/cheyenne-suspends-data-center-fill-and-flush-and-closed-loop-discharges-after-meta-contractor-contaminated-its-reuse-water-system",
-      "score": 200,
-      "comments": 67,
-      "author": "sensanaty",
-      "tags": [],
-      "date": "2026-07-04T16:45:23+00:00"
-    },
-    {
-      "id": "hn-48786781",
-      "source": "hn",
-      "title": "Leaking YouTube creators' private videos",
-      "url": "https://javoriuski.com/post/youtube",
-      "score": 617,
-      "comments": 343,
-      "author": "javxfps",
-      "tags": [],
-      "date": "2026-07-04T16:45:10+00:00"
-    },
-    {
-      "id": "hn-48786713",
-      "source": "hn",
-      "title": "Rob Pike – 'Concurrency Is Not Parallelism' [video]",
-      "url": "https://vimeo.com/49718712",
-      "score": 14,
-      "comments": 9,
-      "author": "jruohonen",
-      "tags": [],
-      "date": "2026-07-04T16:37:05+00:00"
-    },
-    {
-      "id": "hn-48786638",
-      "source": "hn",
-      "title": "Zig: All Package Management Functionality Moved from Compiler to Build System",
-      "url": "https://ziglang.org/devlog/2026/#2026-06-30",
-      "score": 205,
-      "comments": 66,
-      "author": "tosh",
-      "tags": [],
-      "date": "2026-07-04T16:30:10+00:00"
-    },
-    {
       "id": "ctf-4067411",
       "source": "project",
       "proj_category": "CTF",
@@ -5208,8 +5236,8 @@
       "source": "hn",
       "title": "The mathematical secrets of Barcelona's Sagrada Familia",
       "url": "https://mappingignorance.org/2026/06/30/sagrada-familia/",
-      "score": 65,
-      "comments": 14,
+      "score": 87,
+      "comments": 19,
       "author": "Gedxx",
       "tags": [],
       "date": "2026-07-03T08:43:18+00:00",
@@ -5286,20 +5314,6 @@
       "date": "2026-06-28T09:56:00Z"
     },
     {
-      "id": "ctf-4007294",
-      "source": "project",
-      "proj_category": "CTF",
-      "title": "HackTheBox: Down Writeup",
-      "url": "https://dev.to/exploitnotes/hackthebox-down-writeup-ggg",
-      "score": 0,
-      "author": "CTF Platform",
-      "tags": [
-        "CTF",
-        "Security"
-      ],
-      "date": "2026-06-27T17:43:19Z"
-    },
-    {
       "id": "ctf-4003610",
       "source": "project",
       "proj_category": "CTF",
@@ -5312,20 +5326,6 @@
         "Security"
       ],
       "date": "2026-06-27T07:10:37Z"
-    },
-    {
-      "id": "ctf-3999635",
-      "source": "project",
-      "proj_category": "CTF",
-      "title": "HackTheBox: JobTwo Writeup",
-      "url": "https://dev.to/exploitnotes/hackthebox-jobtwo-writeup-i0g",
-      "score": 0,
-      "author": "CTF Platform",
-      "tags": [
-        "CTF",
-        "Security"
-      ],
-      "date": "2026-06-26T16:18:33Z"
     },
     {
       "id": "ghrel-fortra_impacket-325120279",

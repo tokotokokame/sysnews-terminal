@@ -1,7 +1,76 @@
 {
-  "updated_at": "2026-07-10T00:04:55.572696+00:00",
+  "updated_at": "2026-07-10T04:33:21.994043+00:00",
   "count": 500,
   "items": [
+    {
+      "id": "hn-48855112",
+      "source": "hn",
+      "title": "Ben Bernanke Joins Anthropic Oversight Trust",
+      "url": "https://www.anthropic.com/news/ben-bernanke",
+      "score": 40,
+      "comments": 18,
+      "author": "Jimmc414",
+      "tags": [],
+      "date": "2026-07-10T02:39:07+00:00"
+    },
+    {
+      "id": "qiita-8194b30f4f",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "【実測比較】日本語RAGのOCR、結局どれを使う？ glm-ocr / dots.ocr / Unlimited-OCR / MinerU を社内ドライブの実データでガチ評価",
+      "url": "https://qiita.com/engchina/items/6dff7010af1b28e8c30a?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "engchina",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-07-10T11:07:25+09:00"
+    },
+    {
+      "id": "hn-48854681",
+      "source": "hn",
+      "title": "Build your own vulnerability harness",
+      "url": "https://blog.cloudflare.com/build-your-own-vulnerability-harness/",
+      "score": 23,
+      "comments": 10,
+      "author": "ianrahman",
+      "tags": [],
+      "date": "2026-07-10T01:28:43+00:00",
+      "severity": "high"
+    },
+    {
+      "id": "hn-48854363",
+      "source": "hn",
+      "title": "Focus",
+      "url": "https://boz.com/articles/focus",
+      "score": 81,
+      "comments": 43,
+      "author": "iacguy",
+      "tags": [],
+      "date": "2026-07-10T00:40:33+00:00"
+    },
+    {
+      "id": "hn-48854247",
+      "source": "hn",
+      "title": "Study: \"Mommy, do you love your phone more than me?\"",
+      "url": "https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2026.1766665/full",
+      "score": 36,
+      "comments": 10,
+      "author": "hbcondo714",
+      "tags": [],
+      "date": "2026-07-10T00:20:28+00:00"
+    },
+    {
+      "id": "hn-48853091",
+      "source": "hn",
+      "title": "Why American ambulance rides are so expensive",
+      "url": "https://davidoks.blog/p/why-american-ambulance-rides-are",
+      "score": 136,
+      "comments": 172,
+      "author": "jyunwai",
+      "tags": [],
+      "date": "2026-07-09T22:15:56+00:00"
+    },
     {
       "id": "hn-48852403",
       "source": "hn",
@@ -12,6 +81,17 @@
       "author": "wozzp",
       "tags": [],
       "date": "2026-07-09T21:09:05+00:00"
+    },
+    {
+      "id": "hn-48852199",
+      "source": "hn",
+      "title": "Building a real-time AI tutor for 5-year-olds",
+      "url": "https://www.ello.com/blog/teaching-a-child-in-1000-ms",
+      "score": 65,
+      "comments": 98,
+      "author": "catalinvoss",
+      "tags": [],
+      "date": "2026-07-09T20:51:06+00:00"
     },
     {
       "id": "hn-48852151",
@@ -51,8 +131,8 @@
       "source": "hn",
       "title": "Interview with Mitchell Hashimoto about Ghostty and Zig",
       "url": "https://alexalejandre.com/programming/interview-with-mitchell-hashimoto/",
-      "score": 78,
-      "comments": 27,
+      "score": 165,
+      "comments": 71,
       "author": "veqq",
       "tags": [],
       "date": "2026-07-09T17:17:16+00:00"
@@ -73,8 +153,8 @@
       "source": "hn",
       "title": "GPT-5.6",
       "url": "https://openai.com/index/gpt-5-6/",
-      "score": 980,
-      "comments": 730,
+      "score": 1138,
+      "comments": 816,
       "author": "logickkk1",
       "tags": [],
       "date": "2026-07-09T17:04:14+00:00"
@@ -117,8 +197,8 @@
       "source": "hn",
       "title": "Launch HN: Context.dev (YC S26) – API to get structured data from any website",
       "url": "https://www.context.dev",
-      "score": 67,
-      "comments": 51,
+      "score": 78,
+      "comments": 59,
       "author": "TheYahiaBakour",
       "tags": [],
       "date": "2026-07-09T15:28:39+00:00"
@@ -128,8 +208,8 @@
       "source": "hn",
       "title": "Hy3",
       "url": "https://hy.tencent.com/research/hy3",
-      "score": 354,
-      "comments": 77,
+      "score": 415,
+      "comments": 89,
       "author": "andai",
       "tags": [],
       "date": "2026-07-09T15:27:48+00:00"
@@ -150,8 +230,8 @@
       "source": "hn",
       "title": "A possible future for Damn Interesting",
       "url": "https://www.damninteresting.com/a-possible-future/",
-      "score": 210,
-      "comments": 24,
+      "score": 254,
+      "comments": 33,
       "author": "mzur",
       "tags": [],
       "date": "2026-07-09T15:25:25+00:00"
@@ -285,8 +365,8 @@
       "source": "hn",
       "title": "No leap second will be introduced at the end of December 2026",
       "url": "https://datacenter.iers.org/data/latestVersion/bulletinC.txt",
-      "score": 221,
-      "comments": 174,
+      "score": 257,
+      "comments": 195,
       "author": "ChrisArchitect",
       "tags": [],
       "date": "2026-07-09T14:16:34+00:00"
@@ -307,8 +387,8 @@
       "source": "hn",
       "title": "Muse Spark 1.1",
       "url": "https://ai.meta.com/blog/introducing-muse-spark-meta-model-api/",
-      "score": 309,
-      "comments": 167,
+      "score": 338,
+      "comments": 176,
       "author": "ot",
       "tags": [],
       "date": "2026-07-09T14:10:22+00:00"
@@ -329,8 +409,8 @@
       "source": "hn",
       "title": "The glass backbone: Why the Army's logistics will break in the next war",
       "url": "https://mwi.westpoint.edu/the-glass-backbone-why-the-armys-logistics-will-break-in-the-next-war/",
-      "score": 265,
-      "comments": 362,
+      "score": 325,
+      "comments": 413,
       "author": "baud147258",
       "tags": [],
       "date": "2026-07-09T13:24:43+00:00"
@@ -351,8 +431,8 @@
       "source": "hn",
       "title": "A road to Lisp: Why Lisp",
       "url": "https://scotto.me/blog/2026-07-09-why-lisp/",
-      "score": 97,
-      "comments": 93,
+      "score": 131,
+      "comments": 130,
       "author": "silcoon",
       "tags": [],
       "date": "2026-07-09T13:06:04+00:00"
@@ -362,8 +442,8 @@
       "source": "hn",
       "title": "Show HN: 18 Words",
       "url": "https://18words.com/",
-      "score": 783,
-      "comments": 279,
+      "score": 883,
+      "comments": 297,
       "author": "pompomsheep",
       "tags": [],
       "date": "2026-07-09T12:48:52+00:00"
@@ -373,8 +453,8 @@
       "source": "hn",
       "title": "EU Parliament greenlights Chat Control 1.0",
       "url": "https://www.patrick-breyer.de/en/eu-parliament-greenlights-chat-control-1-0-breyer-our-children-lose-out/",
-      "score": 940,
-      "comments": 460,
+      "score": 1076,
+      "comments": 529,
       "author": "rapnie",
       "tags": [],
       "date": "2026-07-09T11:03:54+00:00"
@@ -419,8 +499,8 @@
       "source": "hn",
       "title": "Show HN: Getting GLM 5.2 running on my slow computer",
       "url": "https://github.com/JustVugg/colibri",
-      "score": 299,
-      "comments": 76,
+      "score": 463,
+      "comments": 119,
       "author": "vforno",
       "tags": [],
       "date": "2026-07-09T08:05:04+00:00"
@@ -480,8 +560,8 @@
       "source": "hn",
       "title": "Postgres rewritten in Rust, now passing 100% of the Postgres regression tests",
       "url": "https://github.com/malisper/pgrust",
-      "score": 302,
-      "comments": 340,
+      "score": 455,
+      "comments": 442,
       "author": "SweetSoftPillow",
       "tags": [],
       "date": "2026-07-09T06:18:19+00:00"
@@ -2089,19 +2169,6 @@
       "date": "2026-07-07T11:38:22+09:00"
     },
     {
-      "id": "qiita-8194b30f4f",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "【実測比較】日本語RAGのOCR、結局どれを使う？ glm-ocr / dots.ocr / Unlimited-OCR / MinerU を社内ドライブの実データでガチ評価",
-      "url": "https://qiita.com/engchina/items/6dff7010af1b28e8c30a?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "engchina",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-07-07T11:28:41+09:00"
-    },
-    {
       "id": "qiita-18a14594cc",
       "source": "zennqiita",
       "sub_source": "Qiita",
@@ -2370,8 +2437,8 @@
       "source": "hn",
       "title": "Girls just wanna have fast MPMC queues with bounded waiting",
       "url": "https://nahla.dev/blog/waitfree_queue/",
-      "score": 123,
-      "comments": 25,
+      "score": 147,
+      "comments": 30,
       "author": "EvgeniyZh",
       "tags": [],
       "date": "2026-07-06T19:46:30+00:00"
@@ -2582,6 +2649,17 @@
       "date": "2026-07-06T15:53:24+00:00"
     },
     {
+      "id": "hn-48806305",
+      "source": "hn",
+      "title": "Life with Hazard Ratios",
+      "url": "https://dynomight.net/hazard-ratios/",
+      "score": 19,
+      "comments": 2,
+      "author": "surprisetalk",
+      "tags": [],
+      "date": "2026-07-06T15:45:50+00:00"
+    },
+    {
       "id": "hn-48806296",
       "source": "hn",
       "title": "The AI Superforecasters Are Here",
@@ -2695,6 +2773,17 @@
       "date": "2026-07-06T15:01:18+00:00"
     },
     {
+      "id": "hn-48805598",
+      "source": "hn",
+      "title": "Apple Silicon Exec Explains Mac Mini AI Demand and On-Device Future",
+      "url": "https://www.macrumors.com/2026/07/06/apple-silicon-exec-explains-mac-mini-ai-demand/",
+      "score": 8,
+      "comments": 0,
+      "author": "tosh",
+      "tags": [],
+      "date": "2026-07-06T14:59:21+00:00"
+    },
+    {
       "id": "hn-48805564",
       "source": "hn",
       "title": "Do you really need separate systems when you already have Postgres?",
@@ -2783,6 +2872,17 @@
       "author": "atharva-again",
       "tags": [],
       "date": "2026-07-06T14:06:34+00:00"
+    },
+    {
+      "id": "hn-48804400",
+      "source": "hn",
+      "title": "Triple Dragon Fractal (2020)",
+      "url": "https://paulbourke.net/fractals/tripledragon/",
+      "score": 27,
+      "comments": 7,
+      "author": "nhatcher",
+      "tags": [],
+      "date": "2026-07-06T13:36:58+00:00"
     },
     {
       "id": "hn-48804297",
@@ -4109,8 +4209,8 @@
       "source": "hn",
       "title": "Train sim created by just one person is being called the best ever made",
       "url": "https://kotaku.com/a-train-sim-created-by-just-one-person-is-being-called-the-best-ever-made-2000699429",
-      "score": 212,
-      "comments": 84,
+      "score": 366,
+      "comments": 130,
       "author": "oumua_don17",
       "tags": [],
       "date": "2026-07-05T08:40:27+00:00"
@@ -5102,106 +5202,6 @@
       "date": "2026-07-04T00:57:44+00:00"
     },
     {
-      "id": "hn-48781597",
-      "source": "hn",
-      "title": "Soatok's Informal Guide to Threat Models",
-      "url": "https://soatok.blog/2026/06/30/soatoks-informal-guide-to-threat-models/",
-      "score": 103,
-      "comments": 25,
-      "author": "zdw",
-      "tags": [],
-      "date": "2026-07-04T00:35:49+00:00",
-      "severity": "medium"
-    },
-    {
-      "id": "hn-48781274",
-      "source": "hn",
-      "title": "Scientists discover guidance system for migratory songbirds",
-      "url": "https://news.exeter.ac.uk/faculty-of-environment-science-and-economy/scientists-discover-guidance-system-for-migratory-songbirds/",
-      "score": 16,
-      "comments": 3,
-      "author": "bit_economist",
-      "tags": [],
-      "date": "2026-07-03T23:36:46+00:00"
-    },
-    {
-      "id": "hn-48781196",
-      "source": "hn",
-      "title": "Odin, Wikipedia and engagement farming",
-      "url": "https://katamari64.se/posts/2026/odin-wikipedia/",
-      "score": 198,
-      "comments": 270,
-      "author": "stock_toaster",
-      "tags": [],
-      "date": "2026-07-03T23:24:35+00:00"
-    },
-    {
-      "id": "hn-48780996",
-      "source": "hn",
-      "title": "The circuit that lets your brain think and see",
-      "url": "https://www.engineering.columbia.edu/about/news/circuit-lets-your-brain-think-and-see",
-      "score": 48,
-      "comments": 7,
-      "author": "hhs",
-      "tags": [],
-      "date": "2026-07-03T22:56:17+00:00"
-    },
-    {
-      "id": "hn-48780915",
-      "source": "hn",
-      "title": "Ants: Who looks after the injured in a colony?",
-      "url": "https://www.uni-wuerzburg.de/en/news-and-events/news/detail/news/ameisen-kolonie-verletzte-pflegt/",
-      "score": 80,
-      "comments": 39,
-      "author": "hhs",
-      "tags": [],
-      "date": "2026-07-03T22:46:23+00:00"
-    },
-    {
-      "id": "hn-48780913",
-      "source": "hn",
-      "title": "The firefighting system of the Van der Heyden brothers in 17th century Amsterdam",
-      "url": "https://worksinprogress.co/issue/how-amsterdam-invented-the-fire-department/",
-      "score": 113,
-      "comments": 21,
-      "author": "zdw",
-      "tags": [],
-      "date": "2026-07-03T22:46:18+00:00"
-    },
-    {
-      "id": "hn-48780870",
-      "source": "hn",
-      "title": "Giant trees have no trouble pumping water to top branches: new research",
-      "url": "https://news.exeter.ac.uk/faculty-of-environment-science-and-economy/giant-trees-have-no-trouble-pumping-water-to-top-branches/",
-      "score": 246,
-      "comments": 109,
-      "author": "hhs",
-      "tags": [],
-      "date": "2026-07-03T22:40:29+00:00"
-    },
-    {
-      "id": "hn-48780865",
-      "source": "hn",
-      "title": "Steam Controller Auto-Charge – pilot to magnetic charging puck using CV",
-      "url": "https://github.com/FossPrime/Steam-Controller-Auto-Charge",
-      "score": 184,
-      "comments": 46,
-      "author": "zdw",
-      "tags": [],
-      "date": "2026-07-03T22:39:50+00:00"
-    },
-    {
-      "id": "hn-48778956",
-      "source": "hn",
-      "title": "Meta reuses old RAM in new servers with custom bridge chip",
-      "url": "https://www.theregister.com/systems/2026/06/29/zuck-saves-meta-bucks-by-reusing-memory-from-old-servers-with-a-custom-cxl-asic/5263483",
-      "score": 291,
-      "comments": 210,
-      "author": "ihsw",
-      "tags": [],
-      "date": "2026-07-03T19:27:05+00:00"
-    },
-    {
       "id": "ctf-4048944",
       "source": "project",
       "proj_category": "CTF",
@@ -5220,8 +5220,8 @@
       "source": "hn",
       "title": "My Story of 3D Realms / Apogee Part I (2020)",
       "url": "https://joesiegler.blog/2020/11/my-story-of-apogee-3dr/",
-      "score": 7,
-      "comments": 0,
+      "score": 50,
+      "comments": 1,
       "author": "Michelangelo11",
       "tags": [],
       "date": "2026-07-02T06:21:49+00:00"

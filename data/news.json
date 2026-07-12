@@ -1,14 +1,47 @@
 {
-  "updated_at": "2026-07-12T19:39:41.260598+00:00",
+  "updated_at": "2026-07-12T20:46:59.988810+00:00",
   "count": 500,
   "items": [
+    {
+      "id": "hn-48884395",
+      "source": "hn",
+      "title": "Tiny Emulators",
+      "url": "https://floooh.github.io/tiny8bit-preview/index.html",
+      "score": 10,
+      "comments": 0,
+      "author": "naves",
+      "tags": [],
+      "date": "2026-07-12T20:23:05+00:00"
+    },
+    {
+      "id": "hn-48884322",
+      "source": "hn",
+      "title": "Irish datacenters now guzzle 23% of the country's electricity",
+      "url": "https://www.theregister.com/on-prem/2026/07/11/irish-datacenters-now-guzzle-23-of-the-countrys-electricity/5270013",
+      "score": 21,
+      "comments": 7,
+      "author": "Bender",
+      "tags": [],
+      "date": "2026-07-12T20:16:12+00:00"
+    },
+    {
+      "id": "hn-48884052",
+      "source": "hn",
+      "title": "Neocities: Create your own free website",
+      "url": "https://neocities.org/",
+      "score": 34,
+      "comments": 4,
+      "author": "Tomte",
+      "tags": [],
+      "date": "2026-07-12T19:49:53+00:00"
+    },
     {
       "id": "hn-48883415",
       "source": "hn",
       "title": "The One-Step Trap (In AI Research)",
       "url": "http://incompleteideas.net/IncIdeas/OneStepTrap.html",
-      "score": 5,
-      "comments": 0,
+      "score": 18,
+      "comments": 3,
       "author": "jxmorris12",
       "tags": [],
       "date": "2026-07-12T18:41:15+00:00"
@@ -18,8 +51,8 @@
       "source": "hn",
       "title": "I love LLMs, I hate hype",
       "url": "https://geohot.github.io//blog/jekyll/update/2026/07/12/i-love-llms.html",
-      "score": 65,
-      "comments": 27,
+      "score": 166,
+      "comments": 87,
       "author": "therepanic",
       "tags": [],
       "date": "2026-07-12T18:31:56+00:00"
@@ -29,19 +62,30 @@
       "source": "hn",
       "title": "Claude Code sends 33k tokens before reading the prompt; OpenCode sends 7k",
       "url": "https://systima.ai/blog/claude-code-vs-opencode-token-overhead",
-      "score": 134,
-      "comments": 75,
+      "score": 253,
+      "comments": 129,
       "author": "systima",
       "tags": [],
       "date": "2026-07-12T18:25:51+00:00"
+    },
+    {
+      "id": "hn-48883238",
+      "source": "hn",
+      "title": "I Learned to Read Again",
+      "url": "https://substack.magazinenongrata.com/p/how-i-learned-to-read-again",
+      "score": 27,
+      "comments": 2,
+      "author": "georgex7",
+      "tags": [],
+      "date": "2026-07-12T18:22:15+00:00"
     },
     {
       "id": "hn-48883090",
       "source": "hn",
       "title": "Can We Understand How Large Language Models Reason?",
       "url": "https://cacm.acm.org/news/can-we-understand-how-large-language-models-reason/",
-      "score": 21,
-      "comments": 9,
+      "score": 46,
+      "comments": 44,
       "author": "adunk",
       "tags": [],
       "date": "2026-07-12T18:04:41+00:00"
@@ -62,11 +106,22 @@
       "source": "hn",
       "title": "Against Usefulness",
       "url": "https://www.motivenotes.ai/p/against-usefulness",
-      "score": 31,
-      "comments": 5,
+      "score": 52,
+      "comments": 11,
       "author": "supo",
       "tags": [],
       "date": "2026-07-12T17:47:07+00:00"
+    },
+    {
+      "id": "hn-48882716",
+      "source": "hn",
+      "title": "Migrating a production AI agent to GPT-5.6: 2.2x faster, 27% cheaper",
+      "url": "https://ploy.ai/blog/migrating-a-production-ai-agent-to-gpt-5-6",
+      "score": 37,
+      "comments": 7,
+      "author": "brryant",
+      "tags": [],
+      "date": "2026-07-12T17:13:07+00:00"
     },
     {
       "id": "hn-48882601",
@@ -84,8 +139,8 @@
       "source": "hn",
       "title": "LARP – Revenue infrastructure for serious founders",
       "url": "https://www.larp.website/",
-      "score": 39,
-      "comments": 7,
+      "score": 73,
+      "comments": 13,
       "author": "BerislavLopac",
       "tags": [],
       "date": "2026-07-12T16:56:41+00:00"
@@ -95,8 +150,8 @@
       "source": "hn",
       "title": "Show HN: Shirei, cross-platform GUI framework in native Go",
       "url": "https://github.com/hasenj/go-shirei/",
-      "score": 52,
-      "comments": 28,
+      "score": 65,
+      "comments": 35,
       "author": "hsn915",
       "tags": [],
       "date": "2026-07-12T16:55:42+00:00"
@@ -106,8 +161,8 @@
       "source": "hn",
       "title": "Automation Without Understanding",
       "url": "https://arxiv.org/abs/2607.06377",
-      "score": 44,
-      "comments": 23,
+      "score": 65,
+      "comments": 33,
       "author": "root-parent",
       "tags": [],
       "date": "2026-07-12T16:54:47+00:00"
@@ -117,8 +172,8 @@
       "source": "hn",
       "title": "Theo de Raadt: \"You've been smoking something mind altering\" (2007)",
       "url": "https://marc.info/?l=openbsd-misc&m=119318909016582",
-      "score": 55,
-      "comments": 39,
+      "score": 64,
+      "comments": 55,
       "author": "turrini",
       "tags": [],
       "date": "2026-07-12T16:05:29+00:00"
@@ -139,8 +194,8 @@
       "source": "hn",
       "title": "Why study Diophantine equations?",
       "url": "https://hidden-phenomena.com/articles/modular",
-      "score": 45,
-      "comments": 12,
+      "score": 52,
+      "comments": 17,
       "author": "mb1699",
       "tags": [],
       "date": "2026-07-12T15:53:53+00:00"
@@ -148,10 +203,10 @@
     {
       "id": "hn-48882056",
       "source": "hn",
-      "title": "How to Read More Books",
+      "title": "How to read more books",
       "url": "https://scotto.me/blog/2026-07-12-how-to-read-more-books/",
-      "score": 173,
-      "comments": 98,
+      "score": 200,
+      "comments": 115,
       "author": "silcoon",
       "tags": [],
       "date": "2026-07-12T15:47:16+00:00"
@@ -161,8 +216,8 @@
       "source": "hn",
       "title": "The power of collaboration: How we can reduce traffic congestion",
       "url": "https://research.google/blog/the-power-of-collaboration-how-we-can-reduce-traffic-congestion/",
-      "score": 35,
-      "comments": 24,
+      "score": 41,
+      "comments": 30,
       "author": "raahelb",
       "tags": [],
       "date": "2026-07-12T15:35:36+00:00"
@@ -172,11 +227,24 @@
       "source": "hn",
       "title": "Don't you mean extinct?",
       "url": "https://fabiensanglard.net/extinct/index.html",
-      "score": 132,
-      "comments": 62,
+      "score": 149,
+      "comments": 78,
       "author": "zdw",
       "tags": [],
       "date": "2026-07-12T15:17:20+00:00"
+    },
+    {
+      "id": "qiita-ba2687aff0",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "【AWS小ネタ】無効化している1回限りのEventBridgeスケジュールを実行時刻を過ぎてから有効化すると即発火する",
+      "url": "https://qiita.com/eureka_/items/7aaf1f9d99228fdad745?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "eureka_",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-07-12T23:55:42+09:00"
     },
     {
       "id": "hn-48881498",
@@ -258,10 +326,10 @@
     {
       "id": "hn-48880499",
       "source": "hn",
-      "title": "Understanding the Odin Programming Language",
+      "title": "Understanding the Odin programming language",
       "url": "https://odinbook.com/",
-      "score": 124,
-      "comments": 64,
+      "score": 131,
+      "comments": 69,
       "author": "AlexeyBrin",
       "tags": [],
       "date": "2026-07-12T12:08:07+00:00"
@@ -316,8 +384,8 @@
       "source": "hn",
       "title": "Old and new apps, via modern coding agents",
       "url": "https://terrytao.wordpress.com/2026/07/11/old-and-new-apps-via-modern-coding-agents/",
-      "score": 350,
-      "comments": 99,
+      "score": 370,
+      "comments": 104,
       "author": "subset",
       "tags": [],
       "date": "2026-07-12T11:09:42+00:00"
@@ -379,6 +447,58 @@
       "author": "signa11",
       "tags": [],
       "date": "2026-07-12T08:52:59+00:00"
+    },
+    {
+      "id": "qiita-da16f86573",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "生成AIセキュリティ入門：企業で起きるリスクと重大インシデント",
+      "url": "https://qiita.com/n-okutomi/items/2ee94d9138f7184aa5c7?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "n-okutomi",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-07-12T17:30:38+09:00"
+    },
+    {
+      "id": "qiita-4fbc4c89e1",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "「15歳とChatGPT」より、4万6812件が退会させられたシステムについて考えたい",
+      "url": "https://qiita.com/ZiYuCai1984/items/636c7c15cd666e987a90?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "ZiYuCai1984",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-07-12T16:15:00+09:00"
+    },
+    {
+      "id": "qiita-1e0b8351d9",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "Oracle AI Databaseで地図情報を扱ってみる：実際にアプリを作ってわかったこと",
+      "url": "https://qiita.com/araidon/items/a0400d165a840ced1eff?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "araidon",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-07-12T15:43:12+09:00"
+    },
+    {
+      "id": "qiita-328c602ff7",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "ollama-pythonで文章校正",
+      "url": "https://qiita.com/AzukiImo/items/8aae8d912a016eea7683?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "AzukiImo",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-07-12T15:14:17+09:00"
     },
     {
       "id": "hn-48878682",
@@ -488,6 +608,20 @@
       "author": "Anon84",
       "tags": [],
       "date": "2026-07-12T02:13:46+00:00"
+    },
+    {
+      "id": "qiita-563bbc3602",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "フロンティアAIの時代における脆弱性診断・ペネトレーションテストのあり方",
+      "url": "https://qiita.com/suzukengo/items/36194332bf30137b9ac5?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "suzukengo",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-07-12T11:02:06+09:00",
+      "severity": "high"
     },
     {
       "id": "hn-48877613",
@@ -656,6 +790,19 @@
       "tags": [],
       "date": "2026-07-11T21:58:00+00:00",
       "severity": "critical"
+    },
+    {
+      "id": "qiita-6edb2d0205",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "【SkillOpt】寝る子は育つ？SkillOpt-Sleepで寝ている間にスキルが自己進化【Skill】",
+      "url": "https://qiita.com/Nana_777/items/7419aa155469084a5e29?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "Nana_777",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-07-12T06:54:58+09:00"
     },
     {
       "id": "hn-48875377",
@@ -915,6 +1062,19 @@
       "date": "2026-07-11T15:26:12+00:00"
     },
     {
+      "id": "qiita-d1937c0b9a",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "TypeScriptで学ぶ Result型とRailway Oriented Programming",
+      "url": "https://qiita.com/shun123/items/0eea3c166783347602d6?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "shun123",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-07-11T23:35:34+09:00"
+    },
+    {
       "id": "qiita-052b800fc9",
       "source": "zennqiita",
       "sub_source": "Qiita",
@@ -981,6 +1141,19 @@
       "author": "tosh",
       "tags": [],
       "date": "2026-07-11T11:14:18+00:00"
+    },
+    {
+      "id": "qiita-af5f3bbfc3",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "src/config でゼロハードコーディング — 「業務的意味を持つ値」を集約する設計パターン",
+      "url": "https://qiita.com/teppei19980914/items/36b05dbfb19c333c388c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "teppei19980914",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-07-11T19:55:34+09:00"
     },
     {
       "id": "hn-48870799",
@@ -1116,6 +1289,19 @@
         "Qiita"
       ],
       "date": "2026-07-11T10:42:17+09:00"
+    },
+    {
+      "id": "qiita-9b84aee3fe",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "【Personal OS #3】Claude Codeで、ミーティングを自動でドキュメント化する仕組み",
+      "url": "https://qiita.com/degudegu2510/items/8addd9c56828c78d2347?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "degudegu2510",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-07-11T10:19:36+09:00"
     },
     {
       "id": "qiita-ea3989cac6",
@@ -1408,8 +1594,8 @@
       "source": "hn",
       "title": "Why write code in 2026",
       "url": "https://softwaredoug.com/blog/2026/07/09/write-code",
-      "score": 28,
-      "comments": 76,
+      "score": 47,
+      "comments": 98,
       "author": "softwaredoug",
       "tags": [],
       "date": "2026-07-10T16:12:52+00:00"
@@ -1843,6 +2029,19 @@
         "Qiita"
       ],
       "date": "2026-07-10T12:15:19+09:00"
+    },
+    {
+      "id": "qiita-de400427f2",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "【超初心者】コンテナ作ってDockerで動かそう【Photoprism】",
+      "url": "https://qiita.com/pastaisdrink/items/92578dd5c984e022f358?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "pastaisdrink",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-07-10T11:48:38+09:00"
     },
     {
       "id": "hn-48855112",
@@ -2422,6 +2621,17 @@
       "author": "ronak_parmar",
       "tags": [],
       "date": "2026-07-09T13:23:10+00:00"
+    },
+    {
+      "id": "hn-48845321",
+      "source": "hn",
+      "title": "The Seed Beneath the Snow",
+      "url": "https://eli.li/the-seed-beneath-the-snow",
+      "score": 4,
+      "comments": 0,
+      "author": "surprisetalk",
+      "tags": [],
+      "date": "2026-07-09T13:15:26+00:00"
     },
     {
       "id": "hn-48845209",
@@ -3794,8 +4004,8 @@
       "source": "hn",
       "title": "Deir El-Medina Strikes",
       "url": "https://en.wikipedia.org/wiki/Deir_el-Medina_strikes",
-      "score": 13,
-      "comments": 1,
+      "score": 28,
+      "comments": 4,
       "author": "mooreds",
       "tags": [],
       "date": "2026-07-07T19:10:16+00:00"
@@ -4995,194 +5205,15 @@
       "date": "2026-07-06T18:55:07+00:00"
     },
     {
-      "id": "hn-48808663",
+      "id": "hn-48805857",
       "source": "hn",
-      "title": "Linux on the Atari Jaguar",
-      "url": "https://cakehonolulu.github.io/linux-for-jaguar/",
-      "score": 164,
-      "comments": 49,
-      "author": "cakehonolulu",
-      "tags": [],
-      "date": "2026-07-06T18:35:54+00:00"
-    },
-    {
-      "id": "hn-48808508",
-      "source": "hn",
-      "title": "Pros and Cons of Solo Development",
-      "url": "https://johnjeffers.com/pros-and-cons-of-solo-development/",
-      "score": 74,
-      "comments": 26,
-      "author": "johnj-hn",
-      "tags": [],
-      "date": "2026-07-06T18:24:34+00:00"
-    },
-    {
-      "id": "hn-48808482",
-      "source": "hn",
-      "title": "OpenWrt One – Open Hardware Router",
-      "url": "https://openwrt.org/toh/openwrt/one",
-      "score": 751,
-      "comments": 284,
-      "author": "peter_d_sherman",
-      "tags": [],
-      "date": "2026-07-06T18:23:12+00:00"
-    },
-    {
-      "id": "hn-48808101",
-      "source": "hn",
-      "title": "The Victorian War on Rabies",
-      "url": "https://www.historytoday.com/archive/feature/mad-dogs-and-englishmen-winning-war-rabies",
-      "score": 12,
-      "comments": 10,
-      "author": "benbreen",
-      "tags": [],
-      "date": "2026-07-06T17:52:17+00:00"
-    },
-    {
-      "id": "hn-48808002",
-      "source": "hn",
-      "title": "A global workspace in language models",
-      "url": "https://www.anthropic.com/research/global-workspace",
-      "score": 423,
-      "comments": 165,
-      "author": "in-silico",
-      "tags": [],
-      "date": "2026-07-06T17:44:08+00:00"
-    },
-    {
-      "id": "hn-48807908",
-      "source": "hn",
-      "title": "Januscape: Guest-to-Host Escape in KVM/x86 [CVE-2026-53359]",
-      "url": "https://github.com/V4bel/Januscape",
-      "score": 111,
-      "comments": 37,
-      "author": "Imustaskforhelp",
-      "tags": [],
-      "date": "2026-07-06T17:35:03+00:00",
-      "severity": "high"
-    },
-    {
-      "id": "qiita-373117d1f9",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "1Passwordは、あなたのマスターパスワードを一度も受信していません",
-      "url": "https://qiita.com/kenimo49/items/d1151389d17e50ad5564?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "kenimo49",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-07-07T02:14:53+09:00"
-    },
-    {
-      "id": "hn-48807383",
-      "source": "hn",
-      "title": "The Supreme Court Just Lit a Fuse Under Flock's License Plate Camera Empire",
-      "url": "https://www.yahoo.com/news/politics/articles/supreme-court-just-lit-fuse-130900307.html",
-      "score": 39,
-      "comments": 12,
-      "author": "bilsbie",
-      "tags": [],
-      "date": "2026-07-06T16:58:51+00:00"
-    },
-    {
-      "id": "hn-48807225",
-      "source": "hn",
-      "title": "OfficeCLI: Office suite for AI agents to read and edit Microsoft Office files",
-      "url": "https://github.com/iOfficeAI/OfficeCLI",
-      "score": 194,
-      "comments": 56,
-      "author": "maxloh",
-      "tags": [],
-      "date": "2026-07-06T16:47:44+00:00"
-    },
-    {
-      "id": "hn-48806741",
-      "source": "hn",
-      "title": "Orasort: 5x faster column-sorting with an expired patent from Oracle",
-      "url": "https://deepsystemstuff.com/how-oracles-secret-column-sorting-technique-became-public-after-its-patent-expired-making-sorting-5x-faster/",
-      "score": 19,
+      "title": "Show HN: Nectar, a Rust-like React that compiles to WebAssembly",
+      "url": "https://buildnectar.com",
+      "score": 20,
       "comments": 8,
-      "author": "theanonymousone",
+      "author": "blakeburnette",
       "tags": [],
-      "date": "2026-07-06T16:17:04+00:00"
-    },
-    {
-      "id": "hn-48806575",
-      "source": "hn",
-      "title": "Show HN: Pulpie – Models for Cleaning the Web",
-      "url": "https://usefeyn.com/blog/pulpie-pareto-optimal-models-for-cleaning-the-web/",
-      "score": 71,
-      "comments": 15,
-      "author": "snyy",
-      "tags": [],
-      "date": "2026-07-06T16:04:27+00:00"
-    },
-    {
-      "id": "hn-48806410",
-      "source": "hn",
-      "title": "Kani: A Model Checker for Rust",
-      "url": "https://arxiv.org/abs/2607.01504",
-      "score": 118,
-      "comments": 7,
-      "author": "Jimmc414",
-      "tags": [],
-      "date": "2026-07-06T15:53:24+00:00"
-    },
-    {
-      "id": "hn-48806305",
-      "source": "hn",
-      "title": "Life with Hazard Ratios",
-      "url": "https://dynomight.net/hazard-ratios/",
-      "score": 46,
-      "comments": 18,
-      "author": "surprisetalk",
-      "tags": [],
-      "date": "2026-07-06T15:45:50+00:00"
-    },
-    {
-      "id": "hn-48806296",
-      "source": "hn",
-      "title": "The AI Superforecasters Are Here",
-      "url": "https://www.astralcodexten.com/p/the-ai-superforecasters-are-here",
-      "score": 29,
-      "comments": 22,
-      "author": "surprisetalk",
-      "tags": [],
-      "date": "2026-07-06T15:45:11+00:00"
-    },
-    {
-      "id": "hn-48806289",
-      "source": "hn",
-      "title": "Should DayQuil Be Legal?",
-      "url": "https://www.theargumentmag.com/p/should-dayquil-be-legal",
-      "score": 78,
-      "comments": 104,
-      "author": "paulpauper",
-      "tags": [],
-      "date": "2026-07-06T15:44:44+00:00"
-    },
-    {
-      "id": "hn-48806151",
-      "source": "hn",
-      "title": "Car touchscreens are cheap, not good",
-      "url": "https://ben.stolovitz.com/posts/car-touchscreens-are-cheap-not-good/",
-      "score": 6,
-      "comments": 4,
-      "author": "citelao",
-      "tags": [],
-      "date": "2026-07-06T15:34:53+00:00"
-    },
-    {
-      "id": "hn-48806073",
-      "source": "hn",
-      "title": "1k Words: A Writing Contest",
-      "url": "https://writingclub.world/1picture1000words",
-      "score": 68,
-      "comments": 33,
-      "author": "surprisetalk",
-      "tags": [],
-      "date": "2026-07-06T15:30:08+00:00"
+      "date": "2026-07-06T15:16:54+00:00"
     },
     {
       "id": "ghrel-projectdiscovery_nuclei-349372792",
@@ -5197,17 +5228,6 @@
         "Release"
       ],
       "date": "2026-07-06T07:00:13Z"
-    },
-    {
-      "id": "hn-48794665",
-      "source": "hn",
-      "title": "Morphometrics: Introduction to the Analysis of Shape",
-      "url": "https://www.geol.umd.edu/~tholtz/G331/lectures/331biomech.html",
-      "score": 18,
-      "comments": 0,
-      "author": "num42",
-      "tags": [],
-      "date": "2026-07-05T14:43:56+00:00"
     },
     {
       "id": "ctf-4067411",

@@ -1,7 +1,51 @@
 {
-  "updated_at": "2026-07-12T18:26:44.756616+00:00",
+  "updated_at": "2026-07-12T19:39:41.260598+00:00",
   "count": 500,
   "items": [
+    {
+      "id": "hn-48883415",
+      "source": "hn",
+      "title": "The One-Step Trap (In AI Research)",
+      "url": "http://incompleteideas.net/IncIdeas/OneStepTrap.html",
+      "score": 5,
+      "comments": 0,
+      "author": "jxmorris12",
+      "tags": [],
+      "date": "2026-07-12T18:41:15+00:00"
+    },
+    {
+      "id": "hn-48883343",
+      "source": "hn",
+      "title": "I love LLMs, I hate hype",
+      "url": "https://geohot.github.io//blog/jekyll/update/2026/07/12/i-love-llms.html",
+      "score": 65,
+      "comments": 27,
+      "author": "therepanic",
+      "tags": [],
+      "date": "2026-07-12T18:31:56+00:00"
+    },
+    {
+      "id": "hn-48883275",
+      "source": "hn",
+      "title": "Claude Code sends 33k tokens before reading the prompt; OpenCode sends 7k",
+      "url": "https://systima.ai/blog/claude-code-vs-opencode-token-overhead",
+      "score": 134,
+      "comments": 75,
+      "author": "systima",
+      "tags": [],
+      "date": "2026-07-12T18:25:51+00:00"
+    },
+    {
+      "id": "hn-48883090",
+      "source": "hn",
+      "title": "Can We Understand How Large Language Models Reason?",
+      "url": "https://cacm.acm.org/news/can-we-understand-how-large-language-models-reason/",
+      "score": 21,
+      "comments": 9,
+      "author": "adunk",
+      "tags": [],
+      "date": "2026-07-12T18:04:41+00:00"
+    },
     {
       "id": "hn-48883064",
       "source": "hn",
@@ -18,8 +62,8 @@
       "source": "hn",
       "title": "Against Usefulness",
       "url": "https://www.motivenotes.ai/p/against-usefulness",
-      "score": 12,
-      "comments": 0,
+      "score": 31,
+      "comments": 5,
       "author": "supo",
       "tags": [],
       "date": "2026-07-12T17:47:07+00:00"
@@ -40,8 +84,8 @@
       "source": "hn",
       "title": "LARP – Revenue infrastructure for serious founders",
       "url": "https://www.larp.website/",
-      "score": 7,
-      "comments": 0,
+      "score": 39,
+      "comments": 7,
       "author": "BerislavLopac",
       "tags": [],
       "date": "2026-07-12T16:56:41+00:00"
@@ -51,8 +95,8 @@
       "source": "hn",
       "title": "Show HN: Shirei, cross-platform GUI framework in native Go",
       "url": "https://github.com/hasenj/go-shirei/",
-      "score": 33,
-      "comments": 17,
+      "score": 52,
+      "comments": 28,
       "author": "hsn915",
       "tags": [],
       "date": "2026-07-12T16:55:42+00:00"
@@ -62,8 +106,8 @@
       "source": "hn",
       "title": "Automation Without Understanding",
       "url": "https://arxiv.org/abs/2607.06377",
-      "score": 24,
-      "comments": 9,
+      "score": 44,
+      "comments": 23,
       "author": "root-parent",
       "tags": [],
       "date": "2026-07-12T16:54:47+00:00"
@@ -73,8 +117,8 @@
       "source": "hn",
       "title": "Theo de Raadt: \"You've been smoking something mind altering\" (2007)",
       "url": "https://marc.info/?l=openbsd-misc&m=119318909016582",
-      "score": 31,
-      "comments": 17,
+      "score": 55,
+      "comments": 39,
       "author": "turrini",
       "tags": [],
       "date": "2026-07-12T16:05:29+00:00"
@@ -95,8 +139,8 @@
       "source": "hn",
       "title": "Why study Diophantine equations?",
       "url": "https://hidden-phenomena.com/articles/modular",
-      "score": 32,
-      "comments": 11,
+      "score": 45,
+      "comments": 12,
       "author": "mb1699",
       "tags": [],
       "date": "2026-07-12T15:53:53+00:00"
@@ -106,8 +150,8 @@
       "source": "hn",
       "title": "How to Read More Books",
       "url": "https://scotto.me/blog/2026-07-12-how-to-read-more-books/",
-      "score": 138,
-      "comments": 70,
+      "score": 173,
+      "comments": 98,
       "author": "silcoon",
       "tags": [],
       "date": "2026-07-12T15:47:16+00:00"
@@ -117,8 +161,8 @@
       "source": "hn",
       "title": "The power of collaboration: How we can reduce traffic congestion",
       "url": "https://research.google/blog/the-power-of-collaboration-how-we-can-reduce-traffic-congestion/",
-      "score": 25,
-      "comments": 15,
+      "score": 35,
+      "comments": 24,
       "author": "raahelb",
       "tags": [],
       "date": "2026-07-12T15:35:36+00:00"
@@ -126,10 +170,10 @@
     {
       "id": "hn-48881830",
       "source": "hn",
-      "title": "Don't You Mean Extinct?",
+      "title": "Don't you mean extinct?",
       "url": "https://fabiensanglard.net/extinct/index.html",
-      "score": 87,
-      "comments": 35,
+      "score": 132,
+      "comments": 62,
       "author": "zdw",
       "tags": [],
       "date": "2026-07-12T15:17:20+00:00"
@@ -139,7 +183,7 @@
       "source": "hn",
       "title": "Autoresearch, Claude and Constrained Optimization",
       "url": "https://www.elliotcsmith.com/autoresearch-claude-and-constrained-optimization/",
-      "score": 18,
+      "score": 21,
       "comments": 4,
       "author": "gmays",
       "tags": [],
@@ -159,10 +203,10 @@
     {
       "id": "hn-48881043",
       "source": "hn",
-      "title": "AI Boosts Research Careers but Flattens Scientific Discovery",
+      "title": "AI boosts research careers but narrow the span of ideas explored: study",
       "url": "https://spectrum.ieee.org/ai-science-research-flattens-discovery",
-      "score": 103,
-      "comments": 83,
+      "score": 119,
+      "comments": 87,
       "author": "zaikunzhang",
       "tags": [],
       "date": "2026-07-12T13:26:13+00:00"
@@ -216,8 +260,8 @@
       "source": "hn",
       "title": "Understanding the Odin Programming Language",
       "url": "https://odinbook.com/",
-      "score": 113,
-      "comments": 52,
+      "score": 124,
+      "comments": 64,
       "author": "AlexeyBrin",
       "tags": [],
       "date": "2026-07-12T12:08:07+00:00"
@@ -272,8 +316,8 @@
       "source": "hn",
       "title": "Old and new apps, via modern coding agents",
       "url": "https://terrytao.wordpress.com/2026/07/11/old-and-new-apps-via-modern-coding-agents/",
-      "score": 324,
-      "comments": 91,
+      "score": 350,
+      "comments": 99,
       "author": "subset",
       "tags": [],
       "date": "2026-07-12T11:09:42+00:00"
@@ -305,8 +349,8 @@
       "source": "hn",
       "title": "Death of the Status Update: Why 55% of Americans Stopped Posting on Social Media",
       "url": "https://ca.pcmag.com/social-media/16790/the-death-of-the-status-update-why-55-of-americans-stopped-posting-on-social-media",
-      "score": 6,
-      "comments": 2,
+      "score": 65,
+      "comments": 68,
       "author": "thunderbong",
       "tags": [],
       "date": "2026-07-12T10:14:40+00:00",
@@ -330,8 +374,8 @@
       "source": "hn",
       "title": "Ghostel.el: Terminal emulator powered by libghostty",
       "url": "https://dakra.github.io/ghostel/",
-      "score": 196,
-      "comments": 33,
+      "score": 236,
+      "comments": 39,
       "author": "signa11",
       "tags": [],
       "date": "2026-07-12T08:52:59+00:00"
@@ -459,10 +503,10 @@
     {
       "id": "hn-48877371",
       "source": "hn",
-      "title": "What xAI's Grok Build CLI Actually Sends to xAI",
+      "title": "What xAI's Grok build CLI sends to xAI: A wire-level analysis",
       "url": "https://gist.github.com/cereblab/dc9a40bc26120f4540e4e09b75ffb547",
-      "score": 141,
-      "comments": 77,
+      "score": 347,
+      "comments": 145,
       "author": "jhoho",
       "tags": [],
       "date": "2026-07-12T01:09:50+00:00"
@@ -1360,6 +1404,17 @@
       "date": "2026-07-10T16:37:52+00:00"
     },
     {
+      "id": "hn-48861923",
+      "source": "hn",
+      "title": "Why write code in 2026",
+      "url": "https://softwaredoug.com/blog/2026/07/09/write-code",
+      "score": 28,
+      "comments": 76,
+      "author": "softwaredoug",
+      "tags": [],
+      "date": "2026-07-10T16:12:52+00:00"
+    },
+    {
       "id": "hn-48861833",
       "source": "hn",
       "title": "Hands-On with the AMD Ryzen AI Halo",
@@ -1878,8 +1933,8 @@
       "source": "hn",
       "title": "Vint Cerf, “father of the Internet”, is retiring",
       "url": "https://techcrunch.com/2026/06/30/the-father-of-the-internet-is-finally-retiring/",
-      "score": 245,
-      "comments": 134,
+      "score": 257,
+      "comments": 141,
       "author": "compiler-guy",
       "tags": [],
       "date": "2026-07-10T00:06:59+00:00"
@@ -3735,6 +3790,17 @@
       "date": "2026-07-07T19:22:56+00:00"
     },
     {
+      "id": "hn-48822234",
+      "source": "hn",
+      "title": "Deir El-Medina Strikes",
+      "url": "https://en.wikipedia.org/wiki/Deir_el-Medina_strikes",
+      "score": 13,
+      "comments": 1,
+      "author": "mooreds",
+      "tags": [],
+      "date": "2026-07-07T19:10:16+00:00"
+    },
+    {
       "id": "hn-48822187",
       "source": "hn",
       "title": "Sixteen Failed Attempts to Write a Eulogy for My Father (2024)",
@@ -5119,75 +5185,6 @@
       "date": "2026-07-06T15:30:08+00:00"
     },
     {
-      "id": "hn-48805985",
-      "source": "hn",
-      "title": "Electric anti-aircraft interceptor drone breaks world air speed record at 434mph",
-      "url": "https://www.tomshardware.com/tech-industry/drones/electric-drone-breaks-world-air-speed-record-at-434-mph-designed-for-anti-aircraft-interceptor-roles-german-firm-convincingly-smashed-the-official-409-mph-record-hopes-to-get-stamp-of-approval-from-guinness-soon",
-      "score": 14,
-      "comments": 6,
-      "author": "LorenDB",
-      "tags": [],
-      "date": "2026-07-06T15:24:54+00:00",
-      "severity": "critical"
-    },
-    {
-      "id": "hn-48805965",
-      "source": "hn",
-      "title": "CS2 Fog Of War: Server-sided anti-wallhack occlusion culling for CS2 servers",
-      "url": "https://github.com/karola3vax/CS2FOW",
-      "score": 83,
-      "comments": 39,
-      "author": "LorenDB",
-      "tags": [],
-      "date": "2026-07-06T15:23:34+00:00"
-    },
-    {
-      "id": "qiita-11e7bbf253",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "『秩序ある共生』は実現できるのか？ ― 制度設計・財源幻想・社会統合を考える : Pythonで学ぶ マクロ経済学入門 (96)",
-      "url": "https://qiita.com/maskot1977/items/c3fe81175a1206abf1f8?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "maskot1977",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-07-07T00:07:11+09:00"
-    },
-    {
-      "id": "hn-48805652",
-      "source": "hn",
-      "title": "Multilingual Experience Linked to Delayed Aging in Populations and Individuals",
-      "url": "https://fens2026.abstractserver.com/program/#/details/presentations/5474",
-      "score": 10,
-      "comments": 0,
-      "author": "bookofjoe",
-      "tags": [],
-      "date": "2026-07-06T15:04:01+00:00"
-    },
-    {
-      "id": "hn-48805627",
-      "source": "hn",
-      "title": "Google Chrome Installed a 4GB AI Model on Your PC",
-      "url": "https://oztalking.com/en/issues/hidden-4gb-ai-model",
-      "score": 3,
-      "comments": 2,
-      "author": "haebom",
-      "tags": [],
-      "date": "2026-07-06T15:01:44+00:00"
-    },
-    {
-      "id": "hn-48805624",
-      "source": "hn",
-      "title": "AMD Ryzen AI Halo – $4k AI Dev Kit",
-      "url": "https://www.lttlabs.com/articles/2026/07/06/amd-ryzen-ai-halo",
-      "score": 346,
-      "comments": 230,
-      "author": "LabsLucas",
-      "tags": [],
-      "date": "2026-07-06T15:01:18+00:00"
-    },
-    {
       "id": "ghrel-projectdiscovery_nuclei-349372792",
       "source": "project",
       "proj_category": "Tools",
@@ -5206,7 +5203,7 @@
       "source": "hn",
       "title": "Morphometrics: Introduction to the Analysis of Shape",
       "url": "https://www.geol.umd.edu/~tholtz/G331/lectures/331biomech.html",
-      "score": 13,
+      "score": 18,
       "comments": 0,
       "author": "num42",
       "tags": [],

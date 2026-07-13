@@ -1,14 +1,25 @@
 {
-  "updated_at": "2026-07-12T23:53:35.039997+00:00",
+  "updated_at": "2026-07-13T02:43:54.830143+00:00",
   "count": 500,
   "items": [
+    {
+      "id": "hn-48886881",
+      "source": "hn",
+      "title": "Modernizing Property Tax Assessments in Allegheny County",
+      "url": "https://www.prohousingpgh.org/blog/new-report-modernizing-property-tax-assessments-in-allegheny-county",
+      "score": 14,
+      "comments": 1,
+      "author": "mooreds",
+      "tags": [],
+      "date": "2026-07-13T01:47:21+00:00"
+    },
     {
       "id": "hn-48885728",
       "source": "hn",
       "title": "Designing and assembling my first PCB",
       "url": "https://vilkeliskis.com/b/2026/0711.html",
-      "score": 11,
-      "comments": 0,
+      "score": 56,
+      "comments": 8,
       "author": "tadasv",
       "tags": [],
       "date": "2026-07-12T22:56:56+00:00"
@@ -18,19 +29,30 @@
       "source": "hn",
       "title": "Architecture Description Languages [pdf]",
       "url": "https://ics.uci.edu/~taylor/documents/2000-ADLs-TSE.pdf",
-      "score": 6,
+      "score": 22,
       "comments": 1,
       "author": "ascent817",
       "tags": [],
       "date": "2026-07-12T22:54:07+00:00"
     },
     {
+      "id": "hn-48885705",
+      "source": "hn",
+      "title": "Why Vanilla JavaScript",
+      "url": "https://guseyn.com/html/posts/why-vanilla-js.html",
+      "score": 64,
+      "comments": 28,
+      "author": "guseyn",
+      "tags": [],
+      "date": "2026-07-12T22:53:51+00:00"
+    },
+    {
       "id": "hn-48885643",
       "source": "hn",
       "title": "Cyberpunk Comics, Manga and Graphic Novels",
       "url": "https://shellzine.net/cyberpunk-comics/",
-      "score": 20,
-      "comments": 2,
+      "score": 86,
+      "comments": 22,
       "author": "zdw",
       "tags": [],
       "date": "2026-07-12T22:45:31+00:00"
@@ -51,8 +73,8 @@
       "source": "hn",
       "title": "Profiling the \"Abundance\" housing bottleneck with real data",
       "url": "https://laxmena.com/same-capacity-less-throughput",
-      "score": 10,
-      "comments": 2,
+      "score": 28,
+      "comments": 13,
       "author": "laxmena",
       "tags": [],
       "date": "2026-07-12T21:45:28+00:00"
@@ -62,8 +84,8 @@
       "source": "hn",
       "title": "Kode Dot Programmable pocket device for makers, pentesters and geeks",
       "url": "https://kode.diy",
-      "score": 28,
-      "comments": 6,
+      "score": 44,
+      "comments": 11,
       "author": "iNic",
       "tags": [],
       "date": "2026-07-12T21:27:29+00:00"
@@ -73,8 +95,8 @@
       "source": "hn",
       "title": "Since Chromium 148, Math.tanh is now fingerprintable to link underlying OS",
       "url": "https://scrapfly.dev/posts/browser-math-os-fingerprint/",
-      "score": 213,
-      "comments": 103,
+      "score": 329,
+      "comments": 159,
       "author": "joahnn_s",
       "tags": [],
       "date": "2026-07-12T21:12:11+00:00"
@@ -117,8 +139,8 @@
       "source": "hn",
       "title": "Tiny Emulators",
       "url": "https://floooh.github.io/tiny8bit-preview/index.html",
-      "score": 111,
-      "comments": 3,
+      "score": 154,
+      "comments": 9,
       "author": "naves",
       "tags": [],
       "date": "2026-07-12T20:23:05+00:00"
@@ -172,8 +194,8 @@
       "source": "hn",
       "title": "I love LLMs, I hate hype",
       "url": "https://geohot.github.io//blog/jekyll/update/2026/07/12/i-love-llms.html",
-      "score": 288,
-      "comments": 169,
+      "score": 335,
+      "comments": 204,
       "author": "therepanic",
       "tags": [],
       "date": "2026-07-12T18:31:56+00:00"
@@ -183,8 +205,8 @@
       "source": "hn",
       "title": "Claude Code sends 33k tokens before reading the prompt; OpenCode sends 7k",
       "url": "https://systima.ai/blog/claude-code-vs-opencode-token-overhead",
-      "score": 417,
-      "comments": 233,
+      "score": 476,
+      "comments": 266,
       "author": "systima",
       "tags": [],
       "date": "2026-07-12T18:25:51+00:00"
@@ -194,8 +216,8 @@
       "source": "hn",
       "title": "I Learned to Read Again",
       "url": "https://substack.magazinenongrata.com/p/how-i-learned-to-read-again",
-      "score": 78,
-      "comments": 36,
+      "score": 104,
+      "comments": 43,
       "author": "georgex7",
       "tags": [],
       "date": "2026-07-12T18:22:15+00:00"
@@ -205,8 +227,8 @@
       "source": "hn",
       "title": "Mechanistic interpretability researchers applying causality theory to LLMs",
       "url": "https://cacm.acm.org/news/can-we-understand-how-large-language-models-reason/",
-      "score": 77,
-      "comments": 59,
+      "score": 84,
+      "comments": 63,
       "author": "adunk",
       "tags": [],
       "date": "2026-07-12T18:04:41+00:00"
@@ -238,8 +260,8 @@
       "source": "hn",
       "title": "Migrating a production AI agent to GPT-5.6: 2.2x faster, 27% cheaper",
       "url": "https://ploy.ai/blog/migrating-a-production-ai-agent-to-gpt-5-6",
-      "score": 103,
-      "comments": 27,
+      "score": 146,
+      "comments": 47,
       "author": "brryant",
       "tags": [],
       "date": "2026-07-12T17:13:07+00:00"
@@ -260,8 +282,8 @@
       "source": "hn",
       "title": "LARP – Revenue infrastructure for serious founders",
       "url": "https://www.larp.website/",
-      "score": 130,
-      "comments": 31,
+      "score": 164,
+      "comments": 37,
       "author": "BerislavLopac",
       "tags": [],
       "date": "2026-07-12T16:56:41+00:00"
@@ -282,8 +304,8 @@
       "source": "hn",
       "title": "Automation Without Understanding",
       "url": "https://arxiv.org/abs/2607.06377",
-      "score": 81,
-      "comments": 37,
+      "score": 97,
+      "comments": 42,
       "author": "root-parent",
       "tags": [],
       "date": "2026-07-12T16:54:47+00:00"
@@ -337,8 +359,8 @@
       "source": "hn",
       "title": "How we can reduce traffic congestion",
       "url": "https://research.google/blog/the-power-of-collaboration-how-we-can-reduce-traffic-congestion/",
-      "score": 56,
-      "comments": 44,
+      "score": 84,
+      "comments": 98,
       "author": "raahelb",
       "tags": [],
       "date": "2026-07-12T15:35:36+00:00"
@@ -505,8 +527,8 @@
       "source": "hn",
       "title": "Old and new apps, via modern coding agents",
       "url": "https://terrytao.wordpress.com/2026/07/11/old-and-new-apps-via-modern-coding-agents/",
-      "score": 397,
-      "comments": 112,
+      "score": 420,
+      "comments": 122,
       "author": "subset",
       "tags": [],
       "date": "2026-07-12T11:09:42+00:00"
@@ -1715,8 +1737,8 @@
       "source": "hn",
       "title": "Why write code in 2026",
       "url": "https://softwaredoug.com/blog/2026/07/09/write-code",
-      "score": 92,
-      "comments": 140,
+      "score": 117,
+      "comments": 154,
       "author": "softwaredoug",
       "tags": [],
       "date": "2026-07-10T16:12:52+00:00"
@@ -2253,8 +2275,8 @@
       "source": "hn",
       "title": "Vint Cerf, “father of the Internet”, is retiring",
       "url": "https://techcrunch.com/2026/06/30/the-father-of-the-internet-is-finally-retiring/",
-      "score": 257,
-      "comments": 141,
+      "score": 283,
+      "comments": 163,
       "author": "compiler-guy",
       "tags": [],
       "date": "2026-07-10T00:06:59+00:00"
@@ -2350,6 +2372,17 @@
       "author": "jacobgraf",
       "tags": [],
       "date": "2026-07-09T19:49:37+00:00"
+    },
+    {
+      "id": "hn-48851069",
+      "source": "hn",
+      "title": "The four horsemen behind Postgres outages",
+      "url": "https://malisper.me/the-four-horsemen-behind-thousands-of-postgres-outages/",
+      "score": 11,
+      "comments": 1,
+      "author": "craigkerstiens",
+      "tags": [],
+      "date": "2026-07-09T19:20:11+00:00"
     },
     {
       "id": "hn-48850414",
@@ -3453,6 +3486,17 @@
       "date": "2026-07-08T17:03:19+00:00"
     },
     {
+      "id": "hn-48834309",
+      "source": "hn",
+      "title": "GhostLock, a stack-UAF that has existed in all Linux distributions for 15 years",
+      "url": "https://nebusec.ai/research/ionstack-part-2/",
+      "score": 107,
+      "comments": 17,
+      "author": "ranger_danger",
+      "tags": [],
+      "date": "2026-07-08T16:53:58+00:00"
+    },
+    {
       "id": "hn-48834296",
       "source": "hn",
       "title": "EU now one step away from reviving private message scanning rules",
@@ -3856,8 +3900,8 @@
       "source": "hn",
       "title": "So you want to learn physics (second edition, 2021)",
       "url": "https://www.susanrigetti.com/physics",
-      "score": 55,
-      "comments": 5,
+      "score": 112,
+      "comments": 13,
       "author": "azhenley",
       "tags": [],
       "date": "2026-07-08T03:28:00+00:00"
@@ -5166,50 +5210,6 @@
       "author": "ethanpil",
       "tags": [],
       "date": "2026-07-06T21:09:56+00:00"
-    },
-    {
-      "id": "hn-48810533",
-      "source": "hn",
-      "title": "AI: The ROI Runway Could Be Long Outside the Tech Sector",
-      "url": "https://www.apollo.com/wealth/insights-news/insights/daily-spark/ai-the-roi-runway-could-be-long-outside-the-tech-sector",
-      "score": 51,
-      "comments": 39,
-      "author": "u1hcw9nx",
-      "tags": [],
-      "date": "2026-07-06T21:09:23+00:00"
-    },
-    {
-      "id": "hn-48810501",
-      "source": "hn",
-      "title": "Taiganet.com, Home of the WS4000 Simulator",
-      "url": "https://www.taiganet.com/",
-      "score": 8,
-      "comments": 1,
-      "author": "Aloha",
-      "tags": [],
-      "date": "2026-07-06T21:06:24+00:00"
-    },
-    {
-      "id": "hn-48810439",
-      "source": "hn",
-      "title": "Learning to code is still worthwhile",
-      "url": "https://stevekrouse.com/learn-to-code",
-      "score": 203,
-      "comments": 208,
-      "author": "stevekrouse",
-      "tags": [],
-      "date": "2026-07-06T20:59:54+00:00"
-    },
-    {
-      "id": "hn-48810218",
-      "source": "hn",
-      "title": "Common prefix skipping, adaptive sort",
-      "url": "http://smalldatum.blogspot.com/2026/01/common-prefix-skipping-adaptive-sort.html",
-      "score": 35,
-      "comments": 3,
-      "author": "theanonymousone",
-      "tags": [],
-      "date": "2026-07-06T20:40:14+00:00"
     },
     {
       "id": "ghrel-projectdiscovery_nuclei-349372792",

@@ -1,14 +1,93 @@
 {
-  "updated_at": "2026-07-14T12:47:23.359369+00:00",
+  "updated_at": "2026-07-14T14:50:29.279243+00:00",
   "count": 500,
   "items": [
+    {
+      "id": "hn-48907296",
+      "source": "hn",
+      "title": "New York becomes the first state to impose a data center moratorium",
+      "url": "https://www.reuters.com/world/new-york-becomes-first-state-impose-data-center-moratorium-2026-07-14/",
+      "score": 15,
+      "comments": 0,
+      "author": "granfalloon",
+      "tags": [],
+      "date": "2026-07-14T14:17:54+00:00"
+    },
+    {
+      "id": "hn-48907290",
+      "source": "hn",
+      "title": "A Philosopher's One-Word Theory to Explain Why the World Feels So Weird",
+      "url": "https://www.derekthompson.org/p/a-philosophers-one-word-theory-to",
+      "score": 8,
+      "comments": 6,
+      "author": "FinnLobsien",
+      "tags": [],
+      "date": "2026-07-14T14:17:39+00:00"
+    },
+    {
+      "id": "hn-48907214",
+      "source": "hn",
+      "title": "OpenAI mandates hardware-backed passkeys for Trusted Access Cyber members",
+      "url": "https://www.yubico.com/blog/openai-mandates-hardware-backed-passkeys-for-trusted-access-cyber-members-to-log-into-chatgpt-accounts/",
+      "score": 22,
+      "comments": 8,
+      "author": "speckx",
+      "tags": [],
+      "date": "2026-07-14T14:12:39+00:00"
+    },
+    {
+      "id": "qiita-f80e1b8973",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "Amazon S3上の大量ログを Autonomous AI Lakehouseで分析する：外部表、Parquet、SQL、Vector Search、RAGの使い分け",
+      "url": "https://qiita.com/shirok/items/2eafd347f90e80c46005?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "shirok",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-07-14T22:33:04+09:00"
+    },
+    {
+      "id": "hn-48906125",
+      "source": "hn",
+      "title": "Proof of Care in the Age of A.I",
+      "url": "https://jacobfilipp.com/care/",
+      "score": 83,
+      "comments": 42,
+      "author": "jfil",
+      "tags": [],
+      "date": "2026-07-14T12:56:25+00:00"
+    },
+    {
+      "id": "hn-48906123",
+      "source": "hn",
+      "title": "Tensor Is the Might",
+      "url": "https://zserge.com/posts/tensor/",
+      "score": 25,
+      "comments": 9,
+      "author": "eatonphil",
+      "tags": [],
+      "date": "2026-07-14T12:56:21+00:00"
+    },
+    {
+      "id": "hn-48905919",
+      "source": "hn",
+      "title": "Show HN: I RL-trained an agent that trains models with RL (for –$1.3k)",
+      "url": "https://github.com/Danau5tin/ai-trains-ai",
+      "score": 40,
+      "comments": 16,
+      "author": "Danau5tin",
+      "tags": [],
+      "date": "2026-07-14T12:41:25+00:00"
+    },
     {
       "id": "hn-48905914",
       "source": "hn",
       "title": "Beautiful Type Erasure with C++26 Reflection",
       "url": "https://ryanjk5.github.io/posts/rjk-duck/",
-      "score": 3,
-      "comments": 1,
+      "score": 46,
+      "comments": 16,
       "author": "RyanJK5",
       "tags": [],
       "date": "2026-07-14T12:40:50+00:00"
@@ -18,19 +97,30 @@
       "source": "hn",
       "title": "Coding agents think ahead of time",
       "url": "https://arxiv.org/abs/2607.05188",
-      "score": 5,
-      "comments": 0,
+      "score": 48,
+      "comments": 36,
       "author": "andre15silva",
       "tags": [],
       "date": "2026-07-14T12:28:09+00:00"
+    },
+    {
+      "id": "hn-48905667",
+      "source": "hn",
+      "title": "Differentiable Fortran with LFortran and Enzyme",
+      "url": "https://docs.pasteurlabs.ai/projects/tesseract-core/latest/blog/2026-07-09-enzyme-lfortran-autodiff.html",
+      "score": 23,
+      "comments": 4,
+      "author": "dionhaefner",
+      "tags": [],
+      "date": "2026-07-14T12:21:46+00:00"
     },
     {
       "id": "hn-48905290",
       "source": "hn",
       "title": "Germany set to restrict its Freedom of Information Act",
       "url": "https://www.dw.com/en/germany-freedom-of-information-act/a-77939695",
-      "score": 53,
-      "comments": 7,
+      "score": 146,
+      "comments": 89,
       "author": "robtherobber",
       "tags": [],
       "date": "2026-07-14T11:49:48+00:00"
@@ -40,8 +130,8 @@
       "source": "hn",
       "title": "Punch Yourself in the Face with Reality",
       "url": "https://adi.bio/reality",
-      "score": 30,
-      "comments": 9,
+      "score": 74,
+      "comments": 34,
       "author": "AdityaAnand1",
       "tags": [],
       "date": "2026-07-14T11:33:19+00:00"
@@ -62,8 +152,8 @@
       "source": "hn",
       "title": "Codex scraped the ICM website and discovered 2026 Fields Medal winner list",
       "url": "https://phemex.com/news/article/2026-fields-medal-winners-list-leaked-includes-two-peking-university-alumni-92948",
-      "score": 41,
-      "comments": 19,
+      "score": 121,
+      "comments": 83,
       "author": "zaikunzhang",
       "tags": [],
       "date": "2026-07-14T11:30:36+00:00"
@@ -73,8 +163,8 @@
       "source": "hn",
       "title": "Codex starts encrypting sub-agent prompts",
       "url": "https://github.com/openai/codex/issues/28058",
-      "score": 139,
-      "comments": 89,
+      "score": 319,
+      "comments": 195,
       "author": "embedding-shape",
       "tags": [],
       "date": "2026-07-14T11:21:32+00:00"
@@ -82,10 +172,10 @@
     {
       "id": "hn-48904905",
       "source": "hn",
-      "title": "The Future Worth Building Is Human – Thinking Machines Lab",
+      "title": "The Future Worth Building Is Human",
       "url": "https://thinkingmachines.ai/blog/the-future-worth-building-is-human/",
-      "score": 44,
-      "comments": 20,
+      "score": 83,
+      "comments": 47,
       "author": "bilsbie",
       "tags": [],
       "date": "2026-07-14T11:05:27+00:00"
@@ -95,8 +185,8 @@
       "source": "hn",
       "title": "Actegories",
       "url": "https://bartoszmilewski.com/2026/06/30/actegories/",
-      "score": 18,
-      "comments": 0,
+      "score": 32,
+      "comments": 4,
       "author": "ibobev",
       "tags": [],
       "date": "2026-07-14T11:05:15+00:00"
@@ -111,6 +201,17 @@
       "author": "derbOac",
       "tags": [],
       "date": "2026-07-14T10:58:38+00:00"
+    },
+    {
+      "id": "hn-48904095",
+      "source": "hn",
+      "title": "Demis Hassabis has a plan to harness AI safely",
+      "url": "https://twitter.com/demishassabis/status/2076957440109625718",
+      "score": 24,
+      "comments": 9,
+      "author": "asiergoni",
+      "tags": [],
+      "date": "2026-07-14T09:20:07+00:00"
     },
     {
       "id": "hn-48903777",
@@ -128,8 +229,8 @@
       "source": "hn",
       "title": "Alternative(s) to run CUDA on non-Nvidia hardware",
       "url": "https://www.hpcwire.com/2026/07/09/spectral-compute-aims-to-set-cuda-free-will-it-succeed/",
-      "score": 79,
-      "comments": 38,
+      "score": 96,
+      "comments": 43,
       "author": "alok-g",
       "tags": [],
       "date": "2026-07-14T08:24:49+00:00"
@@ -139,8 +240,8 @@
       "source": "hn",
       "title": "Indian scientists produce most detailed 3D atlas of the human brainstem",
       "url": "https://www.bbc.com/news/articles/cg53l737v1qo",
-      "score": 99,
-      "comments": 10,
+      "score": 126,
+      "comments": 16,
       "author": "BaudouinVH",
       "tags": [],
       "date": "2026-07-14T06:43:28+00:00"
@@ -163,8 +264,8 @@
       "source": "hn",
       "title": "Just Let Me Write Digits",
       "url": "https://gendx.dev/blog/2026/07/13/input-digits.html",
-      "score": 80,
-      "comments": 23,
+      "score": 118,
+      "comments": 45,
       "author": "brandon_bot",
       "tags": [],
       "date": "2026-07-14T05:57:50+00:00"
@@ -185,8 +286,8 @@
       "source": "hn",
       "title": "Australian energy retailers must provide three hours of free daytime electricity",
       "url": "https://lenergy.com.au/free-daytime-electricity-is-coming-heres-how-it-actually-works/",
-      "score": 148,
-      "comments": 237,
+      "score": 178,
+      "comments": 275,
       "author": "i2oc",
       "tags": [],
       "date": "2026-07-14T04:31:48+00:00"
@@ -210,8 +311,8 @@
       "source": "hn",
       "title": "YouTrackDB is a general-use object-oriented graph database",
       "url": "https://github.com/JetBrains/youtrackdb",
-      "score": 141,
-      "comments": 44,
+      "score": 154,
+      "comments": 53,
       "author": "gjvc",
       "tags": [],
       "date": "2026-07-14T03:39:55+00:00"
@@ -228,19 +329,6 @@
         "Qiita"
       ],
       "date": "2026-07-14T12:09:04+09:00"
-    },
-    {
-      "id": "qiita-f80e1b8973",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "S3上の大量ログを Oracle Autonomous AI Lakehouseで分析する：外部表、Parquet、SQL、Vector Search、RAGの使い分け",
-      "url": "https://qiita.com/shirok/items/2eafd347f90e80c46005?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "shirok",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-07-14T11:58:16+09:00"
     },
     {
       "id": "qiita-e8073a1e92",
@@ -271,8 +359,8 @@
       "source": "hn",
       "title": "Japan develops a method to recover up to 90% of lithium from used EV batteries",
       "url": "https://tech.supercarblondie.com/japan-recovers-up-to-90-of-lithium-from-used-ev-batteries/",
-      "score": 585,
-      "comments": 158,
+      "score": 662,
+      "comments": 175,
       "author": "donohoe",
       "tags": [],
       "date": "2026-07-14T02:27:20+00:00"
@@ -407,8 +495,8 @@
       "source": "hn",
       "title": "The git history command",
       "url": "https://lalitm.com/post/git-history/",
-      "score": 347,
-      "comments": 217,
+      "score": 376,
+      "comments": 259,
       "author": "turbocon",
       "tags": [],
       "date": "2026-07-14T00:57:11+00:00"
@@ -1597,6 +1685,18 @@
       "author": "therepanic",
       "tags": [],
       "date": "2026-07-12T18:31:56+00:00"
+    },
+    {
+      "id": "hn-48883305",
+      "source": "hn",
+      "title": "Show HN: Juggler – an open-source GUI coding agent, by the creator of JUCE",
+      "url": "https://github.com/juggler-ai/juggler",
+      "score": 13,
+      "comments": 3,
+      "author": "julesrms",
+      "tags": [],
+      "date": "2026-07-12T18:28:15+00:00",
+      "severity": "critical"
     },
     {
       "id": "hn-48883275",
@@ -3959,6 +4059,17 @@
       "date": "2026-07-09T19:20:11+00:00"
     },
     {
+      "id": "hn-48850688",
+      "source": "hn",
+      "title": "Paxos Made Simple (2001)[pdf]",
+      "url": "https://lamport.azurewebsites.net/pubs/paxos-simple.pdf",
+      "score": 9,
+      "comments": 0,
+      "author": "grep_it",
+      "tags": [],
+      "date": "2026-07-09T18:51:22+00:00"
+    },
+    {
       "id": "hn-48850414",
       "source": "hn",
       "title": "GLM 5.2 is nearly as accurate as a human book keeper",
@@ -5113,117 +5224,6 @@
       "author": "BoumTAC",
       "tags": [],
       "date": "2026-07-08T18:00:32+00:00"
-    },
-    {
-      "id": "hn-48834924",
-      "source": "hn",
-      "title": "Show HN: Microsoft releases Flint, a visualization language for AI agents",
-      "url": "https://microsoft.github.io/flint-chart/#/",
-      "score": 280,
-      "comments": 108,
-      "author": "chenglong-hn",
-      "tags": [],
-      "date": "2026-07-08T17:46:12+00:00"
-    },
-    {
-      "id": "hn-48834919",
-      "source": "hn",
-      "title": "PlayStation can delete all your digital games after 3 years of inactivity (EU)",
-      "url": "https://www.flatpanelshd.com/news.php?subaction=showfull&id=1783340582",
-      "score": 117,
-      "comments": 54,
-      "author": "thewebguyd",
-      "tags": [],
-      "date": "2026-07-08T17:45:26+00:00"
-    },
-    {
-      "id": "hn-48834898",
-      "source": "hn",
-      "title": "What Do We Know About the Microplastics Inside Us?",
-      "url": "https://e360.yale.edu/features/cassandra-rauert-interview",
-      "score": 131,
-      "comments": 57,
-      "author": "speckx",
-      "tags": [],
-      "date": "2026-07-08T17:43:37+00:00"
-    },
-    {
-      "id": "hn-48834405",
-      "source": "hn",
-      "title": "GPT‑Live",
-      "url": "https://openai.com/index/introducing-gpt-live/",
-      "score": 656,
-      "comments": 426,
-      "author": "logickkk1",
-      "tags": [],
-      "date": "2026-07-08T17:03:19+00:00"
-    },
-    {
-      "id": "hn-48834309",
-      "source": "hn",
-      "title": "GhostLock, a stack-UAF that has existed in all Linux distributions for 15 years",
-      "url": "https://nebusec.ai/research/ionstack-part-2/",
-      "score": 379,
-      "comments": 169,
-      "author": "ranger_danger",
-      "tags": [],
-      "date": "2026-07-08T16:53:58+00:00"
-    },
-    {
-      "id": "hn-48834296",
-      "source": "hn",
-      "title": "EU now one step away from reviving private message scanning rules",
-      "url": "https://cyberinsider.com/eu-now-one-step-away-from-reviving-private-message-scanning-rules/",
-      "score": 320,
-      "comments": 126,
-      "author": "ggirelli",
-      "tags": [],
-      "date": "2026-07-08T16:53:06+00:00"
-    },
-    {
-      "id": "hn-48833866",
-      "source": "hn",
-      "title": "SWE-1.7 Reach Near GPT 5.5 and Opus Intelligence",
-      "url": "https://cognition.com/blog/swe-1-7",
-      "score": 239,
-      "comments": 123,
-      "author": "mekpro",
-      "tags": [],
-      "date": "2026-07-08T16:19:36+00:00"
-    },
-    {
-      "id": "hn-48833823",
-      "source": "hn",
-      "title": "Biohacker seeking immortality afflicted with incurable 'stomach eating' disease",
-      "url": "https://www.lifesitenews.com/news/biohacker-seeking-immortality-afflicted-with-incurable-stomach-eating-disease/",
-      "score": 32,
-      "comments": 29,
-      "author": "ferryth",
-      "tags": [],
-      "date": "2026-07-08T16:16:12+00:00"
-    },
-    {
-      "id": "hn-48833183",
-      "source": "hn",
-      "title": "Show HN: Kastor – Terraform-style specs for AI agents",
-      "url": "https://github.com/weirdGuy/kastor",
-      "score": 19,
-      "comments": 13,
-      "author": "weirdguy",
-      "tags": [],
-      "date": "2026-07-08T15:25:09+00:00"
-    },
-    {
-      "id": "hn-48833116",
-      "source": "hn",
-      "title": "Chatto is now open source",
-      "url": "https://www.hmans.dev/blog/chatto-is-open-source",
-      "score": 964,
-      "comments": 267,
-      "author": "speckx",
-      "tags": [],
-      "date": "2026-07-08T15:19:50+00:00",
-      "severity": "critical"
     },
     {
       "id": "ghrel-projectdiscovery_nuclei-349372792",

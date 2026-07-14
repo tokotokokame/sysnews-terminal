@@ -1,14 +1,47 @@
 {
-  "updated_at": "2026-07-14T14:50:29.279243+00:00",
+  "updated_at": "2026-07-14T16:14:11.543647+00:00",
   "count": 500,
   "items": [
+    {
+      "id": "hn-48908271",
+      "source": "hn",
+      "title": "Show HN: Opening lines of famous literary works",
+      "url": "https://www.verbaprima.com/",
+      "score": 34,
+      "comments": 17,
+      "author": "plicerin",
+      "tags": [],
+      "date": "2026-07-14T15:24:49+00:00"
+    },
+    {
+      "id": "hn-48908214",
+      "source": "hn",
+      "title": "I'm a USB-C Maximalist",
+      "url": "https://shkspr.mobi/blog/2026/07/im-a-usb-c-maximalist/",
+      "score": 10,
+      "comments": 1,
+      "author": "speckx",
+      "tags": [],
+      "date": "2026-07-14T15:20:36+00:00"
+    },
+    {
+      "id": "hn-48908178",
+      "source": "hn",
+      "title": "Are we offloading too much of our thinking to AI?",
+      "url": "https://www.artfish.ai/p/offloading-thinking-to-ai",
+      "score": 85,
+      "comments": 71,
+      "author": "yenniejun111",
+      "tags": [],
+      "date": "2026-07-14T15:18:13+00:00"
+    },
     {
       "id": "hn-48907296",
       "source": "hn",
       "title": "New York becomes the first state to impose a data center moratorium",
       "url": "https://www.reuters.com/world/new-york-becomes-first-state-impose-data-center-moratorium-2026-07-14/",
-      "score": 15,
-      "comments": 0,
+      "score": 105,
+      "comments": 73,
       "author": "granfalloon",
       "tags": [],
       "date": "2026-07-14T14:17:54+00:00"
@@ -16,10 +49,10 @@
     {
       "id": "hn-48907290",
       "source": "hn",
-      "title": "A Philosopher's One-Word Theory to Explain Why the World Feels So Weird",
+      "title": "Agnes Callard’s theory of the uni-context",
       "url": "https://www.derekthompson.org/p/a-philosophers-one-word-theory-to",
-      "score": 8,
-      "comments": 6,
+      "score": 59,
+      "comments": 45,
       "author": "FinnLobsien",
       "tags": [],
       "date": "2026-07-14T14:17:39+00:00"
@@ -64,8 +97,8 @@
       "source": "hn",
       "title": "Tensor Is the Might",
       "url": "https://zserge.com/posts/tensor/",
-      "score": 25,
-      "comments": 9,
+      "score": 30,
+      "comments": 15,
       "author": "eatonphil",
       "tags": [],
       "date": "2026-07-14T12:56:21+00:00"
@@ -75,8 +108,8 @@
       "source": "hn",
       "title": "Show HN: I RL-trained an agent that trains models with RL (for –$1.3k)",
       "url": "https://github.com/Danau5tin/ai-trains-ai",
-      "score": 40,
-      "comments": 16,
+      "score": 54,
+      "comments": 22,
       "author": "Danau5tin",
       "tags": [],
       "date": "2026-07-14T12:41:25+00:00"
@@ -86,8 +119,8 @@
       "source": "hn",
       "title": "Beautiful Type Erasure with C++26 Reflection",
       "url": "https://ryanjk5.github.io/posts/rjk-duck/",
-      "score": 46,
-      "comments": 16,
+      "score": 65,
+      "comments": 27,
       "author": "RyanJK5",
       "tags": [],
       "date": "2026-07-14T12:40:50+00:00"
@@ -97,8 +130,8 @@
       "source": "hn",
       "title": "Coding agents think ahead of time",
       "url": "https://arxiv.org/abs/2607.05188",
-      "score": 48,
-      "comments": 36,
+      "score": 73,
+      "comments": 55,
       "author": "andre15silva",
       "tags": [],
       "date": "2026-07-14T12:28:09+00:00"
@@ -108,8 +141,8 @@
       "source": "hn",
       "title": "Differentiable Fortran with LFortran and Enzyme",
       "url": "https://docs.pasteurlabs.ai/projects/tesseract-core/latest/blog/2026-07-09-enzyme-lfortran-autodiff.html",
-      "score": 23,
-      "comments": 4,
+      "score": 31,
+      "comments": 9,
       "author": "dionhaefner",
       "tags": [],
       "date": "2026-07-14T12:21:46+00:00"
@@ -126,12 +159,23 @@
       "date": "2026-07-14T11:49:48+00:00"
     },
     {
+      "id": "hn-48905248",
+      "source": "hn",
+      "title": "How to stop Claude from saying load-bearing",
+      "url": "https://jola.dev/posts/how-to-stop-claude-from-saying-load-bearing",
+      "score": 90,
+      "comments": 156,
+      "author": "shintoist",
+      "tags": [],
+      "date": "2026-07-14T11:46:02+00:00"
+    },
+    {
       "id": "hn-48905118",
       "source": "hn",
-      "title": "Punch Yourself in the Face with Reality",
+      "title": "Punch yourself in the face with reality",
       "url": "https://adi.bio/reality",
-      "score": 74,
-      "comments": 34,
+      "score": 103,
+      "comments": 50,
       "author": "AdityaAnand1",
       "tags": [],
       "date": "2026-07-14T11:33:19+00:00"
@@ -163,8 +207,8 @@
       "source": "hn",
       "title": "Codex starts encrypting sub-agent prompts",
       "url": "https://github.com/openai/codex/issues/28058",
-      "score": 319,
-      "comments": 195,
+      "score": 363,
+      "comments": 221,
       "author": "embedding-shape",
       "tags": [],
       "date": "2026-07-14T11:21:32+00:00"
@@ -207,8 +251,8 @@
       "source": "hn",
       "title": "Demis Hassabis has a plan to harness AI safely",
       "url": "https://twitter.com/demishassabis/status/2076957440109625718",
-      "score": 24,
-      "comments": 9,
+      "score": 80,
+      "comments": 77,
       "author": "asiergoni",
       "tags": [],
       "date": "2026-07-14T09:20:07+00:00"
@@ -218,8 +262,8 @@
       "source": "hn",
       "title": "European \"age verification\" \"app\" forcing everyone to use Android or iOS",
       "url": "https://github.com/eu-digital-identity-wallet/av-doc-technical-specification/discussions/19",
-      "score": 68,
-      "comments": 28,
+      "score": 188,
+      "comments": 124,
       "author": "roundabout-host",
       "tags": [],
       "date": "2026-07-14T08:34:57+00:00"
@@ -229,8 +273,8 @@
       "source": "hn",
       "title": "Alternative(s) to run CUDA on non-Nvidia hardware",
       "url": "https://www.hpcwire.com/2026/07/09/spectral-compute-aims-to-set-cuda-free-will-it-succeed/",
-      "score": 96,
-      "comments": 43,
+      "score": 102,
+      "comments": 50,
       "author": "alok-g",
       "tags": [],
       "date": "2026-07-14T08:24:49+00:00"
@@ -240,8 +284,8 @@
       "source": "hn",
       "title": "Indian scientists produce most detailed 3D atlas of the human brainstem",
       "url": "https://www.bbc.com/news/articles/cg53l737v1qo",
-      "score": 126,
-      "comments": 16,
+      "score": 149,
+      "comments": 17,
       "author": "BaudouinVH",
       "tags": [],
       "date": "2026-07-14T06:43:28+00:00"
@@ -286,8 +330,8 @@
       "source": "hn",
       "title": "Australian energy retailers must provide three hours of free daytime electricity",
       "url": "https://lenergy.com.au/free-daytime-electricity-is-coming-heres-how-it-actually-works/",
-      "score": 178,
-      "comments": 275,
+      "score": 206,
+      "comments": 301,
       "author": "i2oc",
       "tags": [],
       "date": "2026-07-14T04:31:48+00:00"
@@ -348,8 +392,8 @@
       "source": "hn",
       "title": "Our Amish Language",
       "url": "https://www.thedial.world/articles/news/amish-pennsylvania-dutch",
-      "score": 56,
-      "comments": 38,
+      "score": 69,
+      "comments": 55,
       "author": "NaOH",
       "tags": [],
       "date": "2026-07-14T02:40:41+00:00"
@@ -1387,6 +1431,17 @@
       "date": "2026-07-13T13:27:10+09:00"
     },
     {
+      "id": "hn-48887810",
+      "source": "hn",
+      "title": "A metallurgist's doubts about self-replicating probes",
+      "url": "https://www.centauri-dreams.org/2026/07/10/a-metallurgists-doubts-about-self-replicating-probes/",
+      "score": 96,
+      "comments": 13,
+      "author": "EA-3167",
+      "tags": [],
+      "date": "2026-07-13T04:11:20+00:00"
+    },
+    {
       "id": "hn-48887753",
       "source": "hn",
       "title": "Count Binface",
@@ -1691,8 +1746,8 @@
       "source": "hn",
       "title": "Show HN: Juggler – an open-source GUI coding agent, by the creator of JUCE",
       "url": "https://github.com/juggler-ai/juggler",
-      "score": 13,
-      "comments": 3,
+      "score": 64,
+      "comments": 28,
       "author": "julesrms",
       "tags": [],
       "date": "2026-07-12T18:28:15+00:00",
@@ -2355,6 +2410,17 @@
       "date": "2026-07-11T23:54:22+00:00"
     },
     {
+      "id": "hn-48876809",
+      "source": "hn",
+      "title": "How the FSF sysadmins block botnets with reaction",
+      "url": "https://www.fsf.org/blogs/community/blocking-botnets-with-reaction",
+      "score": 91,
+      "comments": 14,
+      "author": "pseudolus",
+      "tags": [],
+      "date": "2026-07-11T23:26:12+00:00"
+    },
+    {
       "id": "hn-48876741",
       "source": "hn",
       "title": "Doctors die. It's not like the rest of us, but it should be (2016)",
@@ -2891,10 +2957,10 @@
     {
       "id": "hn-48869989",
       "source": "hn",
-      "title": "Your 'App' Could Have Been a Webpage (so I fixed it for you)",
+      "title": "Your 'app' could have been a webpage (so I fixed it for you)",
       "url": "https://danq.me/2026/07/09/your-app-could-have-been-a-webpage/",
-      "score": 125,
-      "comments": 80,
+      "score": 270,
+      "comments": 224,
       "author": "MrVandemar",
       "tags": [],
       "date": "2026-07-11T08:21:27+00:00"
@@ -4063,8 +4129,8 @@
       "source": "hn",
       "title": "Paxos Made Simple (2001)[pdf]",
       "url": "https://lamport.azurewebsites.net/pubs/paxos-simple.pdf",
-      "score": 9,
-      "comments": 0,
+      "score": 24,
+      "comments": 2,
       "author": "grep_it",
       "tags": [],
       "date": "2026-07-09T18:51:22+00:00"
@@ -4226,6 +4292,17 @@
       "author": "kschaul",
       "tags": [],
       "date": "2026-07-09T16:21:44+00:00"
+    },
+    {
+      "id": "hn-48847943",
+      "source": "hn",
+      "title": "A tiny cell that broke a big rule of biology",
+      "url": "https://grist.org/science/nitrogen-cycle-cell-discovery-nitroplast-science-fertilizer-algae-bacteria/",
+      "score": 19,
+      "comments": 3,
+      "author": "gumby",
+      "tags": [],
+      "date": "2026-07-09T15:50:40+00:00"
     },
     {
       "id": "hn-48847562",
@@ -5143,87 +5220,6 @@
       "author": "scottilee",
       "tags": [],
       "date": "2026-07-08T20:00:04+00:00"
-    },
-    {
-      "id": "hn-48836431",
-      "source": "hn",
-      "title": "Almost Always Unsigned",
-      "url": "https://graphitemaster.github.io/aau/",
-      "score": 32,
-      "comments": 46,
-      "author": "gavide",
-      "tags": [],
-      "date": "2026-07-08T19:35:07+00:00"
-    },
-    {
-      "id": "hn-48836324",
-      "source": "hn",
-      "title": "New Sweden: the US's long-lost 'secret' colony",
-      "url": "https://www.bbc.com/travel/article/20260629-new-sweden-the-uss-long-lost-secret-colony",
-      "score": 38,
-      "comments": 2,
-      "author": "bookofjoe",
-      "tags": [],
-      "date": "2026-07-08T19:26:18+00:00"
-    },
-    {
-      "id": "hn-48836233",
-      "source": "hn",
-      "title": "Cloudflare Drop",
-      "url": "https://www.cloudflare.com/drop/",
-      "score": 431,
-      "comments": 226,
-      "author": "coloneltcb",
-      "tags": [],
-      "date": "2026-07-08T19:18:26+00:00"
-    },
-    {
-      "id": "qiita-db14635f27",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "Astro + Hono + CloudflareでLPフォームを作る：無料枠でできること、有料枠を検討すべきこと",
-      "url": "https://qiita.com/masakielastic/items/5460e6ebf4bf4e5137a9?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "masakielastic",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-07-09T04:16:41+09:00"
-    },
-    {
-      "id": "qiita-bdd6936991",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "40歳以上限定のきのこカンファレンスに39歳最後の年に登壇してきました！",
-      "url": "https://qiita.com/yurufuwahealer/items/9355c8e524df37243617?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "yurufuwahealer",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-07-09T03:46:15+09:00"
-    },
-    {
-      "id": "hn-48835439",
-      "source": "hn",
-      "title": "OpenMandriva: Statement regarding attempted distribution sabotage",
-      "url": "https://forum.openmandriva.org/t/statement-regarding-attempted-distribution-sabotage/8997",
-      "score": 71,
-      "comments": 13,
-      "author": "workethics",
-      "tags": [],
-      "date": "2026-07-08T18:21:53+00:00"
-    },
-    {
-      "id": "hn-48835111",
-      "source": "hn",
-      "title": "Grok 4.5",
-      "url": "https://x.ai/news/grok-4-5",
-      "score": 632,
-      "comments": 927,
-      "author": "BoumTAC",
-      "tags": [],
-      "date": "2026-07-08T18:00:32+00:00"
     },
     {
       "id": "ghrel-projectdiscovery_nuclei-349372792",

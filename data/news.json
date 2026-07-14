@@ -1,14 +1,59 @@
 {
-  "updated_at": "2026-07-14T20:37:21.064647+00:00",
+  "updated_at": "2026-07-14T21:57:01.656939+00:00",
   "count": 500,
   "items": [
+    {
+      "id": "hn-48913050",
+      "source": "hn",
+      "title": "Dependabot version updates introduce default package cooldown",
+      "url": "https://github.blog/changelog/2026-07-14-dependabot-version-updates-introduce-default-package-cooldown/",
+      "score": 6,
+      "comments": 0,
+      "author": "woodruffw",
+      "tags": [],
+      "date": "2026-07-14T21:15:51+00:00",
+      "severity": "medium"
+    },
+    {
+      "id": "hn-48912947",
+      "source": "hn",
+      "title": "Same model, same Q4_K_M label: 5.02, 5.07 and 5.27 bits per weight",
+      "url": "https://github.com/logxio/picchio",
+      "score": 6,
+      "comments": 1,
+      "author": "logickkk1",
+      "tags": [],
+      "date": "2026-07-14T21:06:11+00:00"
+    },
+    {
+      "id": "hn-48912175",
+      "source": "hn",
+      "title": "How I use HTMX with Go",
+      "url": "https://www.alexedwards.net/blog/how-i-use-htmx-with-go",
+      "score": 12,
+      "comments": 0,
+      "author": "gnabgib",
+      "tags": [],
+      "date": "2026-07-14T19:55:31+00:00"
+    },
+    {
+      "id": "hn-48912100",
+      "source": "hn",
+      "title": "StubHub's 'marketplace for fans' is run by a mass scalper, SEC filings reveal",
+      "url": "https://www.cbc.ca/news/world/stubhub-ceo-class-action-scalping-9.7268987",
+      "score": 51,
+      "comments": 18,
+      "author": "b112",
+      "tags": [],
+      "date": "2026-07-14T19:48:36+00:00"
+    },
     {
       "id": "hn-48910676",
       "source": "hn",
       "title": "Cursor 0day: When Full Disclosure Becomes the Only Protection Left",
       "url": "https://mindgard.ai/blog/cursor-0day-when-full-disclosure-becomes-the-only-protection-left",
-      "score": 57,
-      "comments": 14,
+      "score": 136,
+      "comments": 52,
       "author": "Synthetic7346",
       "tags": [],
       "date": "2026-07-14T17:58:35+00:00",
@@ -17,10 +62,10 @@
     {
       "id": "hn-48910545",
       "source": "hn",
-      "title": "Bonsai 27B: A 27B-Class Model that runs on a phone",
+      "title": "Bonsai 27B: A 27B-Class model that runs on a phone",
       "url": "https://prismml.com/news/bonsai-27b",
-      "score": 154,
-      "comments": 44,
+      "score": 261,
+      "comments": 90,
       "author": "xenova",
       "tags": [],
       "date": "2026-07-14T17:50:48+00:00"
@@ -41,8 +86,8 @@
       "source": "hn",
       "title": "The Tower Keeps Rising",
       "url": "https://lucumr.pocoo.org/2026/7/13/the-tower-keeps-rising/",
-      "score": 215,
-      "comments": 87,
+      "score": 263,
+      "comments": 124,
       "author": "cdrnsf",
       "tags": [],
       "date": "2026-07-14T16:57:54+00:00"
@@ -63,8 +108,8 @@
       "source": "hn",
       "title": "Measuring Input Latency on Linux: X11 vs. Wayland, VRR, and DXVK",
       "url": "https://marco-nett.de/blog/measuring-input-latency-on-linux-x11-vs-wayland-vrr-dxvk/",
-      "score": 297,
-      "comments": 169,
+      "score": 325,
+      "comments": 195,
       "author": "hoechst",
       "tags": [],
       "date": "2026-07-14T16:36:06+00:00"
@@ -74,8 +119,8 @@
       "source": "hn",
       "title": "Launch HN: Agnost AI (YC S26) – Extract user feedback from agent conversations",
       "url": "https://agnost.ai",
-      "score": 27,
-      "comments": 11,
+      "score": 34,
+      "comments": 18,
       "author": "laalshaitaan",
       "tags": [],
       "date": "2026-07-14T16:06:18+00:00"
@@ -85,8 +130,8 @@
       "source": "hn",
       "title": "Show HN: Opening lines of famous literary works",
       "url": "https://www.verbaprima.com/",
-      "score": 116,
-      "comments": 73,
+      "score": 129,
+      "comments": 74,
       "author": "plicerin",
       "tags": [],
       "date": "2026-07-14T15:24:49+00:00"
@@ -109,8 +154,8 @@
       "source": "hn",
       "title": "I'm a USB-C Maximalist",
       "url": "https://shkspr.mobi/blog/2026/07/im-a-usb-c-maximalist/",
-      "score": 53,
-      "comments": 91,
+      "score": 90,
+      "comments": 159,
       "author": "speckx",
       "tags": [],
       "date": "2026-07-14T15:20:36+00:00"
@@ -120,8 +165,8 @@
       "source": "hn",
       "title": "Are we offloading too much of our thinking to AI?",
       "url": "https://www.artfish.ai/p/offloading-thinking-to-ai",
-      "score": 285,
-      "comments": 275,
+      "score": 327,
+      "comments": 318,
       "author": "yenniejun111",
       "tags": [],
       "date": "2026-07-14T15:18:13+00:00"
@@ -131,8 +176,8 @@
       "source": "hn",
       "title": "The Agentic Loop: Three loops in a trench coat",
       "url": "https://www.bobbytables.io/p/the-agentic-loop-three-loops-in-a",
-      "score": 49,
-      "comments": 11,
+      "score": 60,
+      "comments": 12,
       "author": "btables",
       "tags": [],
       "date": "2026-07-14T14:39:56+00:00"
@@ -221,8 +266,8 @@
       "source": "hn",
       "title": "Guardian Angels: LLM Personalization for Productivity and Security",
       "url": "https://gwern.net/guardian-angel",
-      "score": 12,
-      "comments": 0,
+      "score": 33,
+      "comments": 3,
       "author": "andsoitis",
       "tags": [],
       "date": "2026-07-14T12:50:29+00:00"
@@ -287,8 +332,8 @@
       "source": "hn",
       "title": "How to stop Claude from saying load-bearing",
       "url": "https://jola.dev/posts/how-to-stop-claude-from-saying-load-bearing",
-      "score": 318,
-      "comments": 400,
+      "score": 368,
+      "comments": 425,
       "author": "shintoist",
       "tags": [],
       "date": "2026-07-14T11:46:02+00:00"
@@ -298,8 +343,8 @@
       "source": "hn",
       "title": "Punch yourself in the face with reality",
       "url": "https://adi.bio/reality",
-      "score": 173,
-      "comments": 89,
+      "score": 192,
+      "comments": 96,
       "author": "AdityaAnand1",
       "tags": [],
       "date": "2026-07-14T11:33:19+00:00"
@@ -375,8 +420,8 @@
       "source": "hn",
       "title": "Demis Hassabis has a plan to harness AI safely",
       "url": "https://twitter.com/demishassabis/status/2076957440109625718",
-      "score": 110,
-      "comments": 134,
+      "score": 124,
+      "comments": 157,
       "author": "asiergoni",
       "tags": [],
       "date": "2026-07-14T09:20:07+00:00"
@@ -1668,6 +1713,17 @@
       "date": "2026-07-13T12:31:00+09:00"
     },
     {
+      "id": "hn-48887276",
+      "source": "hn",
+      "title": "Show HN: Self-hosted voice AI agent for Asterisk/FreePBX",
+      "url": "https://github.com/hkjarral/AVA-AI-Voice-Agent-for-Asterisk",
+      "score": 8,
+      "comments": 2,
+      "author": "hkjarral",
+      "tags": [],
+      "date": "2026-07-13T02:51:34+00:00"
+    },
+    {
       "id": "qiita-80254a9c37",
       "source": "zennqiita",
       "sub_source": "Qiita",
@@ -1961,8 +2017,8 @@
       "source": "hn",
       "title": "Show HN: Juggler – an open-source GUI coding agent, by the creator of JUCE",
       "url": "https://github.com/juggler-ai/juggler",
-      "score": 121,
-      "comments": 72,
+      "score": 140,
+      "comments": 75,
       "author": "julesrms",
       "tags": [],
       "date": "2026-07-12T18:28:15+00:00",
@@ -2798,8 +2854,8 @@
       "source": "hn",
       "title": "The Second Life of Sanskrit",
       "url": "https://openthemagazine.com/india/the-second-life-of-sanskrit",
-      "score": 7,
-      "comments": 2,
+      "score": 24,
+      "comments": 10,
       "author": "bookofjoe",
       "tags": [],
       "date": "2026-07-11T18:03:11+00:00"
@@ -3056,8 +3112,8 @@
       "source": "hn",
       "title": "The largest available Minecraft world, totalling 15 TB",
       "url": "https://2b2t.place/1million",
-      "score": 71,
-      "comments": 15,
+      "score": 105,
+      "comments": 30,
       "author": "_____k",
       "tags": [],
       "date": "2026-07-11T14:32:19+00:00"
@@ -3196,8 +3252,8 @@
       "source": "hn",
       "title": "Your 'app' could have been a webpage (so I fixed it for you)",
       "url": "https://danq.me/2026/07/09/your-app-could-have-been-a-webpage/",
-      "score": 572,
-      "comments": 386,
+      "score": 635,
+      "comments": 406,
       "author": "MrVandemar",
       "tags": [],
       "date": "2026-07-11T08:21:27+00:00"
@@ -3447,8 +3503,8 @@
       "source": "hn",
       "title": "The zero-cost fallacy: open-source software in the agentic era",
       "url": "https://www.thoughtworks.com/insights/blog/open-source/zero-cost-fallacy-open-source-agentic-era",
-      "score": 69,
-      "comments": 46,
+      "score": 83,
+      "comments": 62,
       "author": "backlit4034",
       "tags": [],
       "date": "2026-07-10T20:45:43+00:00",
@@ -3906,6 +3962,17 @@
       "author": "dmonay",
       "tags": [],
       "date": "2026-07-10T11:59:55+00:00"
+    },
+    {
+      "id": "hn-48858541",
+      "source": "hn",
+      "title": "Accretive Editing",
+      "url": "https://justindfuller.com/programming/accretive-editing",
+      "score": 5,
+      "comments": 2,
+      "author": "iamjfu",
+      "tags": [],
+      "date": "2026-07-10T11:36:59+00:00"
     },
     {
       "id": "ctf-4113061",
@@ -5157,209 +5224,6 @@
       "date": "2026-07-09T05:28:42+00:00"
     },
     {
-      "id": "hn-48841259",
-      "source": "hn",
-      "title": "Spider venom kills varroa mites without harming honeybees",
-      "url": "https://connectsci.au/news/news-parent/9703/Spider-venom-kills-varroa-mites-without-harming",
-      "score": 235,
-      "comments": 103,
-      "author": "Jedd",
-      "tags": [],
-      "date": "2026-07-09T05:14:45+00:00"
-    },
-    {
-      "id": "qiita-8580c368d0",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "MVC / MVP でゲームを作るとぶつかる壁",
-      "url": "https://qiita.com/jamaican/items/738c5462fcf996ac1325?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "jamaican",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-07-09T13:13:22+09:00"
-    },
-    {
-      "id": "qiita-04e2116e2c",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "【Windows標準OCR】窓キー + Shift + T キー押してますか？",
-      "url": "https://qiita.com/kaga-yasumitsu/items/e9ce46596969983cdb4e?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "kaga-yasumitsu",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-07-09T12:28:30+09:00"
-    },
-    {
-      "id": "hn-48840620",
-      "source": "hn",
-      "title": "What's slowing down the AI buildout",
-      "url": "https://www.worksinprogress.news/p/ai-is-bottlenecked-by-the-grid",
-      "score": 11,
-      "comments": 3,
-      "author": "droidjj",
-      "tags": [],
-      "date": "2026-07-09T03:26:02+00:00"
-    },
-    {
-      "id": "hn-48840207",
-      "source": "hn",
-      "title": "Show HN: I mapped 8.5M research papers into an interactive atlas",
-      "url": "https://tomesphere.com/atlas",
-      "score": 37,
-      "comments": 7,
-      "author": "leonickson",
-      "tags": [],
-      "date": "2026-07-09T02:23:24+00:00"
-    },
-    {
-      "id": "hn-48840152",
-      "source": "hn",
-      "title": "Jellyfish Undersea Roundabout",
-      "url": "https://visitfaroeislands.com/en/plan-your-stay/getting-around/world-first-under-sea-roundabout",
-      "score": 54,
-      "comments": 17,
-      "author": "hydrogen7800",
-      "tags": [],
-      "date": "2026-07-09T02:17:59+00:00"
-    },
-    {
-      "id": "qiita-67079704a4",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "\"JSON型は使いにくい\"と思っていたら、SELECT一つで印象が変わった話",
-      "url": "https://qiita.com/11akajet/items/c2f6f6b2bff4fe620195?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "11akajet",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-07-09T10:57:56+09:00"
-    },
-    {
-      "id": "hn-48839984",
-      "source": "hn",
-      "title": "I think I have LLM burnout",
-      "url": "https://www.alecscollon.com/blog/llm-burnout/",
-      "score": 249,
-      "comments": 189,
-      "author": "sosodev",
-      "tags": [],
-      "date": "2026-07-09T01:56:28+00:00"
-    },
-    {
-      "id": "qiita-fa3c8fd1c8",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "AIP合格記：試験対策がてらBedrockを使って弱点特化した問題を作らせる学習システムを自作した",
-      "url": "https://qiita.com/y_wakai/items/e4ba31be43d518b9fdbc?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "y_wakai",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-07-09T10:04:26+09:00"
-    },
-    {
-      "id": "qiita-4e7ea3ed04",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "IBM Bobで自作したUbuntu24.04 MCPサーバーにツール追加",
-      "url": "https://qiita.com/duelist2020jp/items/1f92cce78995f3a2e048?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "duelist2020jp",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-07-09T09:55:56+09:00"
-    },
-    {
-      "id": "hn-48839397",
-      "source": "hn",
-      "title": "Remote Attestation",
-      "url": "https://www.liamcvw.com/p/remote-attestation",
-      "score": 94,
-      "comments": 80,
-      "author": "lcvw",
-      "tags": [],
-      "date": "2026-07-09T00:32:33+00:00"
-    },
-    {
-      "id": "hn-48839355",
-      "source": "hn",
-      "title": "MIRA: Multiplayer Interactive World Models Trained on Rocket League",
-      "url": "https://mira-wm.com/",
-      "score": 4,
-      "comments": 0,
-      "author": "ethanlipson",
-      "tags": [],
-      "date": "2026-07-09T00:27:57+00:00"
-    },
-    {
-      "id": "qiita-62ec596b94",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "[Godot]2Dゲーム入門：プレイヤー・アイテム・スクリプト共通化",
-      "url": "https://qiita.com/hana_k/items/62e0ffd682d7af33cb8c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "hana_k",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-07-09T09:15:43+09:00"
-    },
-    {
-      "id": "hn-48838876",
-      "source": "hn",
-      "title": "John Deere owners will get the right to repair equipment under FTC settlement",
-      "url": "https://apnews.com/article/john-deere-right-to-repair-agriculture-equipment-cb7514ffedb95c130a976af661f2bc02",
-      "score": 1215,
-      "comments": 248,
-      "author": "djoldman",
-      "tags": [],
-      "date": "2026-07-08T23:37:43+00:00"
-    },
-    {
-      "id": "hn-48838772",
-      "source": "hn",
-      "title": "We made Grok 4.5, GPT-5.5, and Claude build the same apps",
-      "url": "https://www.tryai.dev/blog/grok-4.5-vs-gpt-5.5-vs-claude-build-off",
-      "score": 123,
-      "comments": 58,
-      "author": "hershyb_",
-      "tags": [],
-      "date": "2026-07-08T23:27:14+00:00"
-    },
-    {
-      "id": "qiita-e962c28dec",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "GraphQLのoperation nameとmutation fieldの違いを整理する",
-      "url": "https://qiita.com/ito_kohhh/items/b6ddc7b58b02677824bf?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "ito_kohhh",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-07-09T07:49:08+09:00"
-    },
-    {
-      "id": "qiita-2998f210ae",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "Zoom の文字起こし・翻訳 AI を \"Zoom 以外\" で使う — Google Meet / Teams / YouTube、どんなサイトでもリアルタイム字幕＋翻訳",
-      "url": "https://qiita.com/shinonome_taku/items/b73cb8096af35186c2d8?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "shinonome_taku",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-07-09T07:36:57+09:00"
-    },
-    {
       "id": "ghrel-projectdiscovery_nuclei-349372792",
       "source": "project",
       "proj_category": "Tools",
@@ -5832,6 +5696,171 @@
       ],
       "severity": "high",
       "date": "Wed, 08 Jul 2026 00:00:00 +0000"
+    },
+    {
+      "id": "edb-0b3fb20562",
+      "source": "msf",
+      "title": "[webapps] MCPJam Inspector - Remote Code Execution",
+      "url": "https://www.exploit-db.com/exploits/52625",
+      "score": null,
+      "author": "Exploit-DB",
+      "tags": [
+        "Exploit-DB",
+        "CVE",
+        "PoC"
+      ],
+      "severity": "high",
+      "date": "Tue, 07 Jul 2026 00:00:00 +0000"
+    },
+    {
+      "id": "edb-04d6169327",
+      "source": "msf",
+      "title": "[local] ProtonVPN v4.4.1 - Unquoted Service Path",
+      "url": "https://www.exploit-db.com/exploits/52624",
+      "score": null,
+      "author": "Exploit-DB",
+      "tags": [
+        "Exploit-DB",
+        "CVE",
+        "PoC"
+      ],
+      "severity": "high",
+      "date": "Tue, 07 Jul 2026 00:00:00 +0000"
+    },
+    {
+      "id": "edb-d63c1462cc",
+      "source": "msf",
+      "title": "[webapps] Flowise  3.1.3 - arbitrary code execution",
+      "url": "https://www.exploit-db.com/exploits/52623",
+      "score": null,
+      "author": "Exploit-DB",
+      "tags": [
+        "Exploit-DB",
+        "CVE",
+        "PoC"
+      ],
+      "severity": "high",
+      "date": "Tue, 07 Jul 2026 00:00:00 +0000"
+    },
+    {
+      "id": "edb-4893d24fba",
+      "source": "msf",
+      "title": "[remote] Hydra - Stack Buffer Overflow",
+      "url": "https://www.exploit-db.com/exploits/52622",
+      "score": null,
+      "author": "Exploit-DB",
+      "tags": [
+        "Exploit-DB",
+        "CVE",
+        "PoC"
+      ],
+      "severity": "high",
+      "date": "Tue, 07 Jul 2026 00:00:00 +0000"
+    },
+    {
+      "id": "edb-de3fae1aef",
+      "source": "msf",
+      "title": "[webapps] Discuz! X5.0 - Authentication Bypass",
+      "url": "https://www.exploit-db.com/exploits/52621",
+      "score": null,
+      "author": "Exploit-DB",
+      "tags": [
+        "Exploit-DB",
+        "CVE",
+        "PoC"
+      ],
+      "severity": "high",
+      "date": "Tue, 07 Jul 2026 00:00:00 +0000"
+    },
+    {
+      "id": "edb-d3b8e76e1f",
+      "source": "msf",
+      "title": "[webapps] Tenable Nessus 10.12.1 - SQL Injection",
+      "url": "https://www.exploit-db.com/exploits/52620",
+      "score": null,
+      "author": "Exploit-DB",
+      "tags": [
+        "Exploit-DB",
+        "CVE",
+        "PoC"
+      ],
+      "severity": "high",
+      "date": "Tue, 07 Jul 2026 00:00:00 +0000"
+    },
+    {
+      "id": "edb-5af796c5ff",
+      "source": "msf",
+      "title": "[webapps] WordPress Bricks Builder Theme  -  RCE",
+      "url": "https://www.exploit-db.com/exploits/52619",
+      "score": null,
+      "author": "Exploit-DB",
+      "tags": [
+        "Exploit-DB",
+        "CVE",
+        "PoC"
+      ],
+      "severity": "high",
+      "date": "Tue, 07 Jul 2026 00:00:00 +0000"
+    },
+    {
+      "id": "edb-00c1612776",
+      "source": "msf",
+      "title": "[remote] iOS Bluetooth PAN Exploit - Ethernet Gateway without Adapter",
+      "url": "https://www.exploit-db.com/exploits/52618",
+      "score": null,
+      "author": "Exploit-DB",
+      "tags": [
+        "Exploit-DB",
+        "CVE",
+        "PoC"
+      ],
+      "severity": "high",
+      "date": "Tue, 07 Jul 2026 00:00:00 +0000"
+    },
+    {
+      "id": "edb-36aec9a13b",
+      "source": "msf",
+      "title": "[webapps] Joomla Extension 4.1.4 - PHP Object injection",
+      "url": "https://www.exploit-db.com/exploits/52617",
+      "score": null,
+      "author": "Exploit-DB",
+      "tags": [
+        "Exploit-DB",
+        "CVE",
+        "PoC"
+      ],
+      "severity": "high",
+      "date": "Mon, 06 Jul 2026 00:00:00 +0000"
+    },
+    {
+      "id": "edb-d1fd93824d",
+      "source": "msf",
+      "title": "[webapps] Pulpy 0.1.1-Beta - Filesystem Sandbox Bypass",
+      "url": "https://www.exploit-db.com/exploits/52616",
+      "score": null,
+      "author": "Exploit-DB",
+      "tags": [
+        "Exploit-DB",
+        "CVE",
+        "PoC"
+      ],
+      "severity": "high",
+      "date": "Mon, 06 Jul 2026 00:00:00 +0000"
+    },
+    {
+      "id": "edb-ad7f95cccd",
+      "source": "msf",
+      "title": "[local] MEmu Android Emulator 9.2.7.0 - Local Privilege Escalation",
+      "url": "https://www.exploit-db.com/exploits/52615",
+      "score": null,
+      "author": "Exploit-DB",
+      "tags": [
+        "Exploit-DB",
+        "CVE",
+        "PoC"
+      ],
+      "severity": "high",
+      "date": "Mon, 06 Jul 2026 00:00:00 +0000"
     }
   ]
 }

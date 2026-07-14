@@ -1,14 +1,60 @@
 {
-  "updated_at": "2026-07-14T02:27:07.494548+00:00",
+  "updated_at": "2026-07-14T05:14:20.402710+00:00",
   "count": 500,
   "items": [
     {
+      "id": "hn-48902026",
+      "source": "hn",
+      "title": "YouTrackDB is a general-use object-oriented graph database",
+      "url": "https://github.com/JetBrains/youtrackdb",
+      "score": 20,
+      "comments": 0,
+      "author": "gjvc",
+      "tags": [],
+      "date": "2026-07-14T03:39:55+00:00"
+    },
+    {
+      "id": "qiita-e8073a1e92",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "「めっちゃカメレオン」が教えてくれた、アイディア力こそAI時代の最強武器",
+      "url": "https://qiita.com/prum_sumomo/items/dbabb5c130aae2566f0f?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "prum_sumomo",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-07-14T11:54:26+09:00"
+    },
+    {
+      "id": "hn-48901645",
+      "source": "hn",
+      "title": "Our Amish Language",
+      "url": "https://www.thedial.world/articles/news/amish-pennsylvania-dutch",
+      "score": 16,
+      "comments": 2,
+      "author": "NaOH",
+      "tags": [],
+      "date": "2026-07-14T02:40:41+00:00"
+    },
+    {
+      "id": "hn-48901569",
+      "source": "hn",
+      "title": "Japan develops a method to recover up to 90% of lithium from used EV batteries",
+      "url": "https://tech.supercarblondie.com/japan-recovers-up-to-90-of-lithium-from-used-ev-batteries/",
+      "score": 164,
+      "comments": 41,
+      "author": "donohoe",
+      "tags": [],
+      "date": "2026-07-14T02:27:20+00:00"
+    },
+    {
       "id": "hn-48901454",
       "source": "hn",
-      "title": "Fundamentals of Wireless Communication",
+      "title": "Fundamentals of Wireless Communication (2005)",
       "url": "https://web.stanford.edu/~dntse/wireless_book.html",
-      "score": 3,
-      "comments": 0,
+      "score": 85,
+      "comments": 2,
       "author": "teleforce",
       "tags": [],
       "date": "2026-07-14T02:10:19+00:00"
@@ -27,12 +73,34 @@
       "date": "2026-07-14T11:07:08+09:00"
     },
     {
+      "id": "hn-48901356",
+      "source": "hn",
+      "title": "Satellite Tracker – Live Map of Starlink and 30k Satellites",
+      "url": "https://satellitemap.space/",
+      "score": 41,
+      "comments": 8,
+      "author": "rolph",
+      "tags": [],
+      "date": "2026-07-14T01:55:24+00:00"
+    },
+    {
+      "id": "hn-48901292",
+      "source": "hn",
+      "title": "What will be left for us to work on?",
+      "url": "https://www.normaltech.ai/p/what-will-be-left-for-us-to-work",
+      "score": 74,
+      "comments": 77,
+      "author": "randomwalker",
+      "tags": [],
+      "date": "2026-07-14T01:44:40+00:00"
+    },
+    {
       "id": "hn-48901275",
       "source": "hn",
       "title": "Building Food Metadata with LLM Juries",
       "url": "https://careersatdoordash.com/blog/building-food-metadata-with-llm-juries-context-optimization-multimodal-ai/",
-      "score": 5,
-      "comments": 0,
+      "score": 22,
+      "comments": 6,
       "author": "tie-in",
       "tags": [],
       "date": "2026-07-14T01:41:49+00:00"
@@ -42,8 +110,8 @@
       "source": "hn",
       "title": "Is x86 ready to ACE it?",
       "url": "https://chipsandcheese.com/p/is-x86-ready-to-ace-it",
-      "score": 3,
-      "comments": 0,
+      "score": 35,
+      "comments": 4,
       "author": "mfiguiere",
       "tags": [],
       "date": "2026-07-14T01:36:13+00:00"
@@ -53,8 +121,8 @@
       "source": "hn",
       "title": "The Economics of Recursive Self-Improvement [pdf]",
       "url": "https://elasticity.institute/rsi-paper.pdf",
-      "score": 5,
-      "comments": 0,
+      "score": 53,
+      "comments": 5,
       "author": "apsec112",
       "tags": [],
       "date": "2026-07-14T01:35:23+00:00"
@@ -64,8 +132,8 @@
       "source": "hn",
       "title": "MorphoHDL: A minimalistic language for growing circuits",
       "url": "https://paradigms-of-intelligence.github.io/morpho/",
-      "score": 15,
-      "comments": 1,
+      "score": 41,
+      "comments": 3,
       "author": "jacktang",
       "tags": [],
       "date": "2026-07-14T01:17:30+00:00"
@@ -97,8 +165,8 @@
       "source": "hn",
       "title": "The Git history command deserves more attention",
       "url": "https://lalitm.com/post/git-history/",
-      "score": 57,
-      "comments": 30,
+      "score": 155,
+      "comments": 94,
       "author": "turbocon",
       "tags": [],
       "date": "2026-07-14T00:57:11+00:00"
@@ -141,8 +209,8 @@
       "source": "hn",
       "title": "Show HN: Sx 2.0 – Share AI skills with your team through a Dropbox folder",
       "url": "https://sleuth-io.github.io/sx/2026/07/10/your-dropbox-is-now-a-skill-server.html",
-      "score": 14,
-      "comments": 9,
+      "score": 26,
+      "comments": 26,
       "author": "detkin",
       "tags": [],
       "date": "2026-07-13T23:26:52+00:00"
@@ -152,8 +220,8 @@
       "source": "hn",
       "title": "An Englishwoman who sketched India before photography took hold",
       "url": "https://www.bbc.com/news/articles/cm2drrv6q54o",
-      "score": 56,
-      "comments": 13,
+      "score": 89,
+      "comments": 31,
       "author": "1659447091",
       "tags": [],
       "date": "2026-07-13T23:12:22+00:00"
@@ -229,8 +297,8 @@
       "source": "hn",
       "title": "Show HN: YouTube Guitar Tab Parser",
       "url": "https://github.com/marcelpanse/youtube-guitar-tab-parser",
-      "score": 75,
-      "comments": 47,
+      "score": 88,
+      "comments": 56,
       "author": "neogenix",
       "tags": [],
       "date": "2026-07-13T20:13:14+00:00"
@@ -340,8 +408,8 @@
       "source": "hn",
       "title": "The infinite scroll may become endangered if controversial Calif. law passes",
       "url": "https://www.sfgate.com/politics/article/meta-social-media-teenagers-22337724.php",
-      "score": 89,
-      "comments": 150,
+      "score": 128,
+      "comments": 218,
       "author": "Stratoscope",
       "tags": [],
       "date": "2026-07-13T18:53:53+00:00"
@@ -395,8 +463,8 @@
       "source": "hn",
       "title": "Building and shipping Mac and iOS apps without opening Xcode",
       "url": "https://scottwillsey.com/building-and-shipping-mac-and-ios-apps-without-ever-opening-xcode/",
-      "score": 326,
-      "comments": 142,
+      "score": 375,
+      "comments": 161,
       "author": "speckx",
       "tags": [],
       "date": "2026-07-13T18:22:16+00:00"
@@ -417,8 +485,8 @@
       "source": "hn",
       "title": "Linux on the Sega 32X. Who needs hardware synchronization primitives anyway?",
       "url": "https://cakehonolulu.github.io/linux-on-32x/",
-      "score": 103,
-      "comments": 22,
+      "score": 113,
+      "comments": 23,
       "author": "cakehonolulu",
       "tags": [],
       "date": "2026-07-13T18:18:25+00:00"
@@ -483,8 +551,8 @@
       "source": "hn",
       "title": "Apple's new SpeechAnalyzer API, benchmarked against Whisper and its predecessor",
       "url": "https://get-inscribe.com/blog/apple-speech-api-benchmark.html",
-      "score": 463,
-      "comments": 185,
+      "score": 500,
+      "comments": 196,
       "author": "get-inscribe",
       "tags": [],
       "date": "2026-07-13T16:06:08+00:00"
@@ -538,8 +606,8 @@
       "source": "hn",
       "title": "The art and engineering of Sega CD Silpheed",
       "url": "https://fabiensanglard.net/silpheed/index.html",
-      "score": 231,
-      "comments": 48,
+      "score": 238,
+      "comments": 50,
       "author": "ibobev",
       "tags": [],
       "date": "2026-07-13T14:52:33+00:00"
@@ -549,8 +617,8 @@
       "source": "hn",
       "title": "Show HN: Hackney – Compare Uber, Lyft, Waymo, and Robotaxi Prices",
       "url": "https://hackney.app/",
-      "score": 24,
-      "comments": 18,
+      "score": 39,
+      "comments": 30,
       "author": "griffinli",
       "tags": [],
       "date": "2026-07-13T14:47:23+00:00"
@@ -716,19 +784,6 @@
         "Qiita"
       ],
       "date": "2026-07-13T18:50:28+09:00"
-    },
-    {
-      "id": "qiita-e8073a1e92",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "「めっちゃカメレオン」が教えてくれた、アイディア力こそAI時代の最強武器",
-      "url": "https://qiita.com/prum_sumomo/items/dbabb5c130aae2566f0f?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "prum_sumomo",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-07-13T18:23:56+09:00"
     },
     {
       "id": "hn-48889637",
@@ -2162,6 +2217,17 @@
       "date": "2026-07-11T15:26:12+00:00"
     },
     {
+      "id": "hn-48872833",
+      "source": "hn",
+      "title": "How to build a circular LCD clock",
+      "url": "https://blinry.org/lcd-clock/",
+      "score": 21,
+      "comments": 1,
+      "author": "birdculture",
+      "tags": [],
+      "date": "2026-07-11T15:23:54+00:00"
+    },
+    {
       "id": "qiita-d1937c0b9a",
       "source": "zennqiita",
       "sub_source": "Qiita",
@@ -3320,8 +3386,8 @@
       "source": "hn",
       "title": "World-First 'Super Alloy' Could Transform the Way Metals Are Made",
       "url": "https://www.sciencealert.com/world-first-super-alloy-could-transform-the-way-metals-are-made",
-      "score": 14,
-      "comments": 4,
+      "score": 37,
+      "comments": 20,
       "author": "tejohnso",
       "tags": [],
       "date": "2026-07-09T22:20:35+00:00"
@@ -3406,6 +3472,17 @@
       "author": "ascertain",
       "tags": [],
       "date": "2026-07-09T20:47:09+00:00"
+    },
+    {
+      "id": "hn-48852144",
+      "source": "hn",
+      "title": "Show HN: RandoFont – A browser for Google Fonts",
+      "url": "https://randofont.alesh.com",
+      "score": 31,
+      "comments": 5,
+      "author": "aleshh",
+      "tags": [],
+      "date": "2026-07-09T20:46:38+00:00"
     },
     {
       "id": "hn-48852048",
@@ -3820,6 +3897,17 @@
       "author": "c-c-c-c-c",
       "tags": [],
       "date": "2026-07-09T14:10:04+00:00"
+    },
+    {
+      "id": "hn-48845999",
+      "source": "hn",
+      "title": "Writing a bindless GPU abstraction layer",
+      "url": "https://www.kevin-gibson.com/blog/writing-a-bindless-gpu-abstraction-layer/",
+      "score": 9,
+      "comments": 0,
+      "author": "surprisetalk",
+      "tags": [],
+      "date": "2026-07-09T14:00:19+00:00"
     },
     {
       "id": "hn-48845514",
@@ -5093,104 +5181,6 @@
       "author": "ming13",
       "tags": [],
       "date": "2026-07-08T03:16:38+00:00"
-    },
-    {
-      "id": "qiita-c4c53749c4",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "【AgentCore】Runtime をパブリックにデプロイしたけど、勝手にアクセスされない？",
-      "url": "https://qiita.com/ryu-ki/items/2cd37256824b54022bdb?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "ryu-ki",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-07-08T11:20:01+09:00"
-    },
-    {
-      "id": "qiita-86226e66c8",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "【Personal OS #1】Claude Codeで、毎日の仕事を自動化する仕組み",
-      "url": "https://qiita.com/degudegu2510/items/793cfe76cf8b6982f2f9?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "degudegu2510",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-07-08T11:10:36+09:00"
-    },
-    {
-      "id": "qiita-61c05bac7e",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "日本代表の敗因をGeminiにガチ分析させたら、営業の「失注原因」の真実に気づいた話",
-      "url": "https://qiita.com/Ishibashi_Tomoya/items/ff14dac3455318a61d52?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "Ishibashi_Tomoya",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-07-08T10:58:21+09:00"
-    },
-    {
-      "id": "hn-48826329",
-      "source": "hn",
-      "title": "LineageOS Statistics",
-      "url": "https://stats.lineageos.org",
-      "score": 129,
-      "comments": 77,
-      "author": "pentagrama",
-      "tags": [],
-      "date": "2026-07-08T01:27:39+00:00"
-    },
-    {
-      "id": "qiita-166c0976a4",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "未経験からエンジニアを目指す方へ。「早く独立したい」と焦っていた頃の話",
-      "url": "https://qiita.com/masa20057/items/daef8174d2f43485371f?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "masa20057",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-07-08T10:26:24+09:00"
-    },
-    {
-      "id": "hn-48826094",
-      "source": "hn",
-      "title": "Show HN: Chiptune Radio",
-      "url": "https://chiptune-radio.alephvoid.com/",
-      "score": 47,
-      "comments": 10,
-      "author": "bootbloopers",
-      "tags": [],
-      "date": "2026-07-08T00:55:19+00:00"
-    },
-    {
-      "id": "hn-48825816",
-      "source": "hn",
-      "title": "An interactive explorer for Benford's Law across real datasets",
-      "url": "https://vatsalbakshi.com/blog/benfords-law/",
-      "score": 20,
-      "comments": 6,
-      "author": "dingobabies",
-      "tags": [],
-      "date": "2026-07-08T00:18:39+00:00"
-    },
-    {
-      "id": "qiita-2a057b9faf",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "売上は DB、ログは S3、契約書は SharePoint、バラバラなデータを AI で使う方法を調べてみてみた",
-      "url": "https://qiita.com/shirok/items/0e42854634b2c5a371fa?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "shirok",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-07-08T09:17:56+09:00"
     },
     {
       "id": "ghrel-projectdiscovery_nuclei-349372792",

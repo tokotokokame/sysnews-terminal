@@ -1,7 +1,63 @@
 {
-  "updated_at": "2026-07-14T23:59:25.075355+00:00",
+  "updated_at": "2026-07-15T03:20:42.804382+00:00",
   "count": 500,
   "items": [
+    {
+      "id": "hn-48915244",
+      "source": "hn",
+      "title": "Global Warming at 3 °C by 2050? What's Behind the New German Climate Warning",
+      "url": "https://worldcrunch.com/focus/green-or-gone/global-warming-at-3c-by-2050-what-s-behind-the-new-german-climate-warning/",
+      "score": 43,
+      "comments": 21,
+      "author": "tejohnso",
+      "tags": [],
+      "date": "2026-07-15T01:43:49+00:00",
+      "severity": "medium"
+    },
+    {
+      "id": "hn-48915004",
+      "source": "hn",
+      "title": "TS-2026-009: Insecure argument handling in Tailscale SSH permitted root access",
+      "url": "https://tailscale.com/security-bulletins",
+      "score": 56,
+      "comments": 23,
+      "author": "jervant",
+      "tags": [],
+      "date": "2026-07-15T01:08:26+00:00"
+    },
+    {
+      "id": "hn-48914683",
+      "source": "hn",
+      "title": "Data centers have hiked electricity prices on the public by $23B",
+      "url": "https://fortune.com/2026/07/14/data-centers-23-billion-electricity-bills/",
+      "score": 89,
+      "comments": 43,
+      "author": "measurablefunc",
+      "tags": [],
+      "date": "2026-07-15T00:20:31+00:00"
+    },
+    {
+      "id": "hn-48914646",
+      "source": "hn",
+      "title": "Solving 20 Erdős Problems with 20 Codex Accounts Running in Parallel",
+      "url": "https://www.starfleetmath.com/",
+      "score": 49,
+      "comments": 11,
+      "author": "colin7snyder",
+      "tags": [],
+      "date": "2026-07-15T00:15:56+00:00"
+    },
+    {
+      "id": "hn-48914644",
+      "source": "hn",
+      "title": "Vancouver PD website features Quick Escape button that wipes itself from history",
+      "url": "https://vpd.ca/",
+      "score": 145,
+      "comments": 55,
+      "author": "LookAtThatBacon",
+      "tags": [],
+      "date": "2026-07-15T00:15:53+00:00"
+    },
     {
       "id": "hn-48913953",
       "source": "hn",
@@ -29,8 +85,8 @@
       "source": "hn",
       "title": "LeMario: Training a JEPA World Model on Super Mario Bros",
       "url": "https://www.benjamin-bai.com/projects/lemario",
-      "score": 15,
-      "comments": 0,
+      "score": 61,
+      "comments": 8,
       "author": "kevinjosethomas",
       "tags": [],
       "date": "2026-07-14T22:30:47+00:00"
@@ -40,8 +96,8 @@
       "source": "hn",
       "title": "Financing the AI boom: from cash flows to debt [pdf]",
       "url": "https://www.bis.org/publ/bisbull120.pdf",
-      "score": 52,
-      "comments": 10,
+      "score": 106,
+      "comments": 53,
       "author": "1vuio0pswjnm7",
       "tags": [],
       "date": "2026-07-14T21:58:36+00:00"
@@ -58,12 +114,24 @@
       "date": "2026-07-14T21:35:52+00:00"
     },
     {
+      "id": "hn-48913190",
+      "source": "hn",
+      "title": "Microsoft Patches a Record 570 Security Flaws",
+      "url": "https://krebsonsecurity.com/2026/07/microsoft-patches-a-record-570-security-flaws/",
+      "score": 48,
+      "comments": 22,
+      "author": "robin_reala",
+      "tags": [],
+      "date": "2026-07-14T21:32:22+00:00",
+      "severity": "medium"
+    },
+    {
       "id": "hn-48913050",
       "source": "hn",
       "title": "Dependabot version updates introduce default package cooldown",
       "url": "https://github.blog/changelog/2026-07-14-dependabot-version-updates-introduce-default-package-cooldown/",
-      "score": 67,
-      "comments": 41,
+      "score": 115,
+      "comments": 70,
       "author": "woodruffw",
       "tags": [],
       "date": "2026-07-14T21:15:51+00:00",
@@ -85,8 +153,8 @@
       "source": "hn",
       "title": "How I use HTMX with Go",
       "url": "https://www.alexedwards.net/blog/how-i-use-htmx-with-go",
-      "score": 85,
-      "comments": 16,
+      "score": 134,
+      "comments": 30,
       "author": "gnabgib",
       "tags": [],
       "date": "2026-07-14T19:55:31+00:00"
@@ -107,8 +175,8 @@
       "source": "hn",
       "title": "Cursor 0day: When Full Disclosure Becomes the Only Protection Left",
       "url": "https://mindgard.ai/blog/cursor-0day-when-full-disclosure-becomes-the-only-protection-left",
-      "score": 214,
-      "comments": 89,
+      "score": 271,
+      "comments": 124,
       "author": "Synthetic7346",
       "tags": [],
       "date": "2026-07-14T17:58:35+00:00",
@@ -119,8 +187,8 @@
       "source": "hn",
       "title": "Bonsai 27B: A 27B-Class model that runs on a phone",
       "url": "https://prismml.com/news/bonsai-27b",
-      "score": 369,
-      "comments": 140,
+      "score": 467,
+      "comments": 173,
       "author": "xenova",
       "tags": [],
       "date": "2026-07-14T17:50:48+00:00"
@@ -141,8 +209,8 @@
       "source": "hn",
       "title": "The Tower Keeps Rising",
       "url": "https://lucumr.pocoo.org/2026/7/13/the-tower-keeps-rising/",
-      "score": 309,
-      "comments": 151,
+      "score": 367,
+      "comments": 173,
       "author": "cdrnsf",
       "tags": [],
       "date": "2026-07-14T16:57:54+00:00"
@@ -209,8 +277,8 @@
       "source": "hn",
       "title": "I'm a USB-C Maximalist",
       "url": "https://shkspr.mobi/blog/2026/07/im-a-usb-c-maximalist/",
-      "score": 138,
-      "comments": 230,
+      "score": 186,
+      "comments": 291,
       "author": "speckx",
       "tags": [],
       "date": "2026-07-14T15:20:36+00:00"
@@ -321,8 +389,8 @@
       "source": "hn",
       "title": "Guardian Angels: LLM Personalization for Productivity and Security",
       "url": "https://gwern.net/guardian-angel",
-      "score": 50,
-      "comments": 4,
+      "score": 64,
+      "comments": 11,
       "author": "andsoitis",
       "tags": [],
       "date": "2026-07-14T12:50:29+00:00"
@@ -387,8 +455,8 @@
       "source": "hn",
       "title": "How to stop Claude from saying load-bearing",
       "url": "https://jola.dev/posts/how-to-stop-claude-from-saying-load-bearing",
-      "score": 407,
-      "comments": 468,
+      "score": 451,
+      "comments": 514,
       "author": "shintoist",
       "tags": [],
       "date": "2026-07-14T11:46:02+00:00"
@@ -398,8 +466,8 @@
       "source": "hn",
       "title": "Mathematical texts from a Maya site in Guatemala identify an ancient astronomer",
       "url": "https://www.nature.com/articles/d41586-026-02170-8",
-      "score": 20,
-      "comments": 1,
+      "score": 51,
+      "comments": 9,
       "author": "homarp",
       "tags": [],
       "date": "2026-07-14T11:40:34+00:00"
@@ -1012,8 +1080,8 @@
       "source": "hn",
       "title": "The Estranged Worlds of J. G. Ballard",
       "url": "https://lareviewofbooks.org/article/jg-ballard-illuminated-man-christopher-priest-nina-allan/",
-      "score": 30,
-      "comments": 6,
+      "score": 41,
+      "comments": 7,
       "author": "Caiero",
       "tags": [],
       "date": "2026-07-13T21:57:56+00:00"
@@ -3200,8 +3268,8 @@
       "source": "hn",
       "title": "The largest available Minecraft world, totalling 15 TB",
       "url": "https://2b2t.place/1million",
-      "score": 142,
-      "comments": 45,
+      "score": 173,
+      "comments": 58,
       "author": "_____k",
       "tags": [],
       "date": "2026-07-11T14:32:19+00:00"
@@ -3327,8 +3395,8 @@
       "source": "hn",
       "title": "The kids with phones are alright",
       "url": "https://heatherburns.tech/2026/07/08/the-kids-with-phones-are-alright/",
-      "score": 105,
-      "comments": 64,
+      "score": 142,
+      "comments": 99,
       "author": "JumpCrisscross",
       "tags": [],
       "date": "2026-07-11T09:08:08+00:00"
@@ -3351,8 +3419,8 @@
       "source": "hn",
       "title": "Your 'app' could have been a webpage (so I fixed it for you)",
       "url": "https://danq.me/2026/07/09/your-app-could-have-been-a-webpage/",
-      "score": 682,
-      "comments": 424,
+      "score": 748,
+      "comments": 455,
       "author": "MrVandemar",
       "tags": [],
       "date": "2026-07-11T08:21:27+00:00"
@@ -3473,8 +3541,8 @@
       "source": "hn",
       "title": "Unlocking the PSP's Dual Core Setup",
       "url": "https://wololo.net/2026/06/16/unlocking-the-psps-dual-core-setup/",
-      "score": 19,
-      "comments": 0,
+      "score": 49,
+      "comments": 4,
       "author": "msephton",
       "tags": [],
       "date": "2026-07-10T23:51:37+00:00"
@@ -3613,8 +3681,8 @@
       "source": "hn",
       "title": "The zero-cost fallacy: open-source software in the agentic era",
       "url": "https://www.thoughtworks.com/insights/blog/open-source/zero-cost-fallacy-open-source-agentic-era",
-      "score": 94,
-      "comments": 76,
+      "score": 113,
+      "comments": 94,
       "author": "backlit4034",
       "tags": [],
       "date": "2026-07-10T20:45:43+00:00",
@@ -3809,6 +3877,17 @@
       "author": "markus_zhang",
       "tags": [],
       "date": "2026-07-10T16:48:41+00:00"
+    },
+    {
+      "id": "hn-48862351",
+      "source": "hn",
+      "title": "An unusual way for your DHCP server to run out of dynamic IPs",
+      "url": "https://utcc.utoronto.ca/~cks/space/blog/sysadmin/DHCPServerAndScreamingHost",
+      "score": 28,
+      "comments": 3,
+      "author": "speckx",
+      "tags": [],
+      "date": "2026-07-10T16:47:11+00:00"
     },
     {
       "id": "hn-48862252",
@@ -5131,87 +5210,6 @@
       "author": "rapnie",
       "tags": [],
       "date": "2026-07-09T11:03:54+00:00"
-    },
-    {
-      "id": "hn-48843775",
-      "source": "hn",
-      "title": "Frieve Vinyl Explained – Microscopic stylus/groove physics simulation",
-      "url": "https://frieve-a.github.io/sound_toolbox/vinyl_explained/vinyl_explained.html",
-      "score": 52,
-      "comments": 8,
-      "author": "XzetaU8",
-      "tags": [],
-      "date": "2026-07-09T10:45:36+00:00"
-    },
-    {
-      "id": "hn-48843438",
-      "source": "hn",
-      "title": "Bonnie Tyler, singer of Total Eclipse of the Heart, dies aged 75",
-      "url": "https://www.bbc.com/news/articles/cg5pd9z2487o",
-      "score": 278,
-      "comments": 105,
-      "author": "theanonymousone",
-      "tags": [],
-      "date": "2026-07-09T10:02:33+00:00"
-    },
-    {
-      "id": "hn-48843409",
-      "source": "hn",
-      "title": "Relm – local LLMs as base-R objects, with interpretability",
-      "url": "https://github.com/Vadale/R-ebirth",
-      "score": 3,
-      "comments": 0,
-      "author": "grauk",
-      "tags": [],
-      "date": "2026-07-09T09:58:28+00:00"
-    },
-    {
-      "id": "qiita-6430e803ae",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "非エンジニアがChatGPTと1年半、本気で業務改善してみた① 〜すべての始まり〜",
-      "url": "https://qiita.com/199338miya/items/1cdbba93d4fe48278291?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "199338miya",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-07-09T18:21:44+09:00"
-    },
-    {
-      "id": "qiita-b36d5631f6",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "[AWS]DevOpsAgentをセルフ受肉させていただきました",
-      "url": "https://qiita.com/kikuziro/items/3190db9f5d5051ae69fd?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "kikuziro",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-07-09T17:34:44+09:00"
-    },
-    {
-      "id": "hn-48842611",
-      "source": "hn",
-      "title": "Why developers are ditching GitHub for Codeberg and self-hosting alternatives",
-      "url": "https://www.howtogeek.com/why-developers-are-ditching-github-for-codeberg-and-self-hosting-alternatives/",
-      "score": 62,
-      "comments": 36,
-      "author": "Gedxx",
-      "tags": [],
-      "date": "2026-07-09T08:22:52+00:00"
-    },
-    {
-      "id": "hn-48842459",
-      "source": "hn",
-      "title": "Show HN: Getting GLM 5.2 running on my slow computer",
-      "url": "https://github.com/JustVugg/colibri",
-      "score": 873,
-      "comments": 219,
-      "author": "vforno",
-      "tags": [],
-      "date": "2026-07-09T08:05:04+00:00"
     },
     {
       "id": "ghrel-projectdiscovery_nuclei-349372792",

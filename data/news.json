@@ -1,14 +1,91 @@
 {
-  "updated_at": "2026-07-15T22:09:05.453321+00:00",
+  "updated_at": "2026-07-15T23:27:55.973073+00:00",
   "count": 500,
   "items": [
+    {
+      "id": "hn-48928402",
+      "source": "hn",
+      "title": "Show HN: One More Letter",
+      "url": "https://playonemoreletter.com/",
+      "score": 6,
+      "comments": 1,
+      "author": "hmate9",
+      "tags": [],
+      "date": "2026-07-15T23:10:10+00:00"
+    },
+    {
+      "id": "hn-48928343",
+      "source": "hn",
+      "title": "Nul Characters in Strings in SQLite",
+      "url": "https://sqlite.org/nulinstr.html",
+      "score": 4,
+      "comments": 0,
+      "author": "basilikum",
+      "tags": [],
+      "date": "2026-07-15T23:03:45+00:00"
+    },
+    {
+      "id": "hn-48928313",
+      "source": "hn",
+      "title": "Metal-Organic Frameworks, Chemistry's New Miracle Materials",
+      "url": "https://chemistry.berkeley.edu/news/meet-metal-organic-frameworks-chemistry%E2%80%99s-new-miracle-materials",
+      "score": 8,
+      "comments": 0,
+      "author": "andsoitis",
+      "tags": [],
+      "date": "2026-07-15T23:00:31+00:00"
+    },
+    {
+      "id": "hn-48928234",
+      "source": "hn",
+      "title": "The Anti-Mac User Interface (1996)",
+      "url": "https://www.nngroup.com/articles/anti-mac-interface/",
+      "score": 9,
+      "comments": 0,
+      "author": "ninglor",
+      "tags": [],
+      "date": "2026-07-15T22:52:36+00:00"
+    },
+    {
+      "id": "hn-48928135",
+      "source": "hn",
+      "title": "SQLite should have (Rust-style) editions",
+      "url": "https://mort.coffee/home/sqlite-editions/",
+      "score": 30,
+      "comments": 14,
+      "author": "gnyeki",
+      "tags": [],
+      "date": "2026-07-15T22:42:58+00:00"
+    },
+    {
+      "id": "hn-48927915",
+      "source": "hn",
+      "title": "LLM Networking with MikroTik",
+      "url": "https://blog.greg.technology/2026/07/14/llm-networking-with-mikrotik.html",
+      "score": 8,
+      "comments": 1,
+      "author": "gregsadetsky",
+      "tags": [],
+      "date": "2026-07-15T22:23:27+00:00"
+    },
+    {
+      "id": "hn-48927900",
+      "source": "hn",
+      "title": "P2P local file transfer based on WebRTC",
+      "url": "https://pairdrop.net/",
+      "score": 11,
+      "comments": 8,
+      "author": "halb",
+      "tags": [],
+      "date": "2026-07-15T22:22:08+00:00"
+    },
     {
       "id": "hn-48927409",
       "source": "hn",
       "title": "Speculative Growth and the AI \"Bubble\" [pdf]",
       "url": "https://economics.mit.edu/sites/default/files/2026-07/speculative_growth_AI_public.pdf",
-      "score": 15,
-      "comments": 5,
+      "score": 42,
+      "comments": 32,
       "author": "johnbarron",
       "tags": [],
       "date": "2026-07-15T21:39:21+00:00"
@@ -18,8 +95,8 @@
       "source": "hn",
       "title": "We don't use AI in any of our design or production processes",
       "url": "https://mass-driver.com/article/from-human-hands",
-      "score": 16,
-      "comments": 7,
+      "score": 78,
+      "comments": 54,
       "author": "tony_cannistra",
       "tags": [],
       "date": "2026-07-15T21:36:49+00:00"
@@ -38,10 +115,10 @@
     {
       "id": "hn-48927095",
       "source": "hn",
-      "title": "Must actively fund open source AI [pdf]",
+      "title": "Governments, companies, nonprofits should invest in free, open source AI [pdf]",
       "url": "https://www.siegelendowment.org/wp-content/uploads/2026/07/fortune-david-siegel-open-source-ai.pdf",
-      "score": 12,
-      "comments": 0,
+      "score": 46,
+      "comments": 10,
       "author": "bilsbie",
       "tags": [],
       "date": "2026-07-15T21:16:36+00:00",
@@ -52,8 +129,8 @@
       "source": "hn",
       "title": "Show HN: Firefox in WebAssembly",
       "url": "https://developer.puter.com/labs/firefox-wasm/",
-      "score": 36,
-      "comments": 15,
+      "score": 88,
+      "comments": 41,
       "author": "coolelectronics",
       "tags": [],
       "date": "2026-07-15T21:00:17+00:00"
@@ -61,21 +138,22 @@
     {
       "id": "hn-48926590",
       "source": "hn",
-      "title": "Grok Build",
+      "title": "Grok Build is open source",
       "url": "https://github.com/xai-org/grok-build",
-      "score": 104,
-      "comments": 110,
+      "score": 180,
+      "comments": 199,
       "author": "skp1995",
       "tags": [],
-      "date": "2026-07-15T20:24:58+00:00"
+      "date": "2026-07-15T20:24:58+00:00",
+      "severity": "critical"
     },
     {
       "id": "hn-48926085",
       "source": "hn",
       "title": "Brainless: Shadcn components that look like Claude Code, Codex and Grok",
       "url": "https://brainless.swerdlow.dev",
-      "score": 52,
-      "comments": 6,
+      "score": 70,
+      "comments": 12,
       "author": "benswerd",
       "tags": [],
       "date": "2026-07-15T19:42:53+00:00"
@@ -85,8 +163,8 @@
       "source": "hn",
       "title": "Voxatron",
       "url": "https://www.lexaloffle.com/voxatron.php",
-      "score": 35,
-      "comments": 12,
+      "score": 44,
+      "comments": 15,
       "author": "lsferreira42",
       "tags": [],
       "date": "2026-07-15T19:40:23+00:00"
@@ -96,7 +174,7 @@
       "source": "hn",
       "title": "Duskers, the scary command line game, is getting a sequel",
       "url": "https://elbowgreasegames.substack.com/p/misfits-attic-announces-duskers-20",
-      "score": 68,
+      "score": 78,
       "comments": 12,
       "author": "spacemarine1",
       "tags": [],
@@ -118,8 +196,8 @@
       "source": "hn",
       "title": "Inkling: Our Open-Weights Model",
       "url": "https://thinkingmachines.ai/news/introducing-inkling/",
-      "score": 454,
-      "comments": 109,
+      "score": 547,
+      "comments": 134,
       "author": "vimarsh6739",
       "tags": [],
       "date": "2026-07-15T18:12:45+00:00"
@@ -162,8 +240,8 @@
       "source": "hn",
       "title": "Collection of Digital Clock Designs",
       "url": "https://clocks.dev",
-      "score": 136,
-      "comments": 32,
+      "score": 160,
+      "comments": 34,
       "author": "levmiseri",
       "tags": [],
       "date": "2026-07-15T16:33:15+00:00"
@@ -284,8 +362,8 @@
       "source": "hn",
       "title": "Running Gemma 4 26B at 5 tokens/sec on a 13-year-old Xeon with no GPU",
       "url": "https://www.neomindlabs.com/2026/06/08/running-gemma-4-26b-at-5-tokens-sec-on-a-13-year-old-xeon-with-no-gpu/",
-      "score": 200,
-      "comments": 119,
+      "score": 212,
+      "comments": 137,
       "author": "neomindryan",
       "tags": [],
       "date": "2026-07-15T15:34:05+00:00"
@@ -386,8 +464,8 @@
       "source": "hn",
       "title": "Mysteries of Telegram Data Centers (2022)",
       "url": "https://dev.moe/en/3025",
-      "score": 222,
-      "comments": 113,
+      "score": 231,
+      "comments": 121,
       "author": "theanonymousone",
       "tags": [],
       "date": "2026-07-15T13:22:00+00:00"
@@ -510,8 +588,8 @@
       "source": "hn",
       "title": "Prioritize mental health, and why communication is so important",
       "url": "https://ramones.dev/posts/mental-health/",
-      "score": 260,
-      "comments": 212,
+      "score": 269,
+      "comments": 234,
       "author": "ramon156",
       "tags": [],
       "date": "2026-07-15T11:27:35+00:00"
@@ -721,8 +799,8 @@
       "source": "hn",
       "title": "Stripe and Advent have made a joint offer to acquire PayPal – sources",
       "url": "https://www.reuters.com/business/finance/stripe-advent-offer-buy-paypal-more-than-53-billion-sources-say-2026-07-15/",
-      "score": 279,
-      "comments": 149,
+      "score": 307,
+      "comments": 180,
       "author": "rvz",
       "tags": [],
       "date": "2026-07-15T03:32:45+00:00",
@@ -911,8 +989,8 @@
       "source": "hn",
       "title": "Book prizes don't work how you think",
       "url": "https://rebeccamakkai.substack.com/p/book-prizes-dont-work-how-you-think",
-      "score": 19,
-      "comments": 1,
+      "score": 40,
+      "comments": 15,
       "author": "samclemens",
       "tags": [],
       "date": "2026-07-14T22:19:01+00:00"
@@ -2368,8 +2446,8 @@
       "source": "hn",
       "title": "Designing APIs for Agents",
       "url": "https://www.freestyle.sh/blog/opinion/designing-apis-for-agents",
-      "score": 23,
-      "comments": 6,
+      "score": 34,
+      "comments": 17,
       "author": "benswerd",
       "tags": [],
       "date": "2026-07-13T16:15:41+00:00"
@@ -3502,8 +3580,8 @@
       "source": "hn",
       "title": "Command Line Interface Guidelines",
       "url": "https://clig.dev/",
-      "score": 17,
-      "comments": 0,
+      "score": 38,
+      "comments": 2,
       "author": "subset",
       "tags": [],
       "date": "2026-07-12T13:28:31+00:00"
@@ -5102,87 +5180,6 @@
       "date": "2026-07-10T15:21:19+00:00"
     },
     {
-      "id": "qiita-2c0f6f4331",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "Zoom AI ServicesをMCPサーバー化してClaude Codeから使ってみた",
-      "url": "https://qiita.com/rai03/items/eec6818fd48b0c104e47?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "rai03",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-07-11T00:17:14+09:00"
-    },
-    {
-      "id": "hn-48861098",
-      "source": "hn",
-      "title": "Banter",
-      "url": "https://homosabiens.substack.com/p/banter",
-      "score": 8,
-      "comments": 0,
-      "author": "surprisetalk",
-      "tags": [],
-      "date": "2026-07-10T15:15:11+00:00"
-    },
-    {
-      "id": "hn-48860897",
-      "source": "hn",
-      "title": "Surprising lessons from my research scientist job search",
-      "url": "https://yongzx.github.io/blog/2026/06/24/job-search/",
-      "score": 20,
-      "comments": 2,
-      "author": "gmays",
-      "tags": [],
-      "date": "2026-07-10T14:58:13+00:00"
-    },
-    {
-      "id": "qiita-75f2807afe",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "SREではない自分がSRE NEXT 1日目に参加してきた",
-      "url": "https://qiita.com/ryucciarati/items/1dd4df9ac2fb04fee600?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "ryucciarati",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-07-10T23:10:49+09:00"
-    },
-    {
-      "id": "hn-48859835",
-      "source": "hn",
-      "title": "The Annotated JEPA",
-      "url": "https://elonlit.com/scrivings/the-annotated-jepa/",
-      "score": 38,
-      "comments": 6,
-      "author": "surprisetalk",
-      "tags": [],
-      "date": "2026-07-10T13:45:05+00:00"
-    },
-    {
-      "id": "hn-48859784",
-      "source": "hn",
-      "title": "ActivityPub over ATProto",
-      "url": "https://berjon.com/ap-at/",
-      "score": 26,
-      "comments": 13,
-      "author": "albuic",
-      "tags": [],
-      "date": "2026-07-10T13:40:01+00:00"
-    },
-    {
-      "id": "hn-48858703",
-      "source": "hn",
-      "title": "Show HN: Microcosm Industries – Simulation toys and software microcosms",
-      "url": "https://microcosm.industries/",
-      "score": 7,
-      "comments": 1,
-      "author": "arbesman",
-      "tags": [],
-      "date": "2026-07-10T11:56:22+00:00"
-    },
-    {
       "id": "ctf-4113061",
       "source": "project",
       "proj_category": "CTF",
@@ -5365,17 +5362,43 @@
       "date": "2023-05-23T17:06:23Z"
     },
     {
-      "id": "zenn-ec6a0486d8",
+      "id": "zenn-52f8392b6d",
       "source": "zennqiita",
       "sub_source": "Zenn",
-      "title": "Claude CodeのstatusLineのすゝめ-コンテキスト残量とレートリミットを1画面で把握する",
-      "url": "https://zenn.dev/zozotech/articles/cb767af383bc78",
+      "title": "RunCat Neo カスタムメトリクス入門",
+      "url": "https://zenn.dev/kyome/articles/eb4a9f664002ad",
       "score": null,
-      "author": "さっと",
+      "author": "Kyome",
       "tags": [
         "Zenn"
       ],
-      "date": "Tue, 14 Jul 2026 14:20:26 GMT"
+      "date": "Wed, 15 Jul 2026 09:00:13 GMT"
+    },
+    {
+      "id": "zenn-f9327a0043",
+      "source": "zennqiita",
+      "sub_source": "Zenn",
+      "title": "FigmaデザインをReact実装に落とし込むときの確認ポイント",
+      "url": "https://zenn.dev/sre_holdings/articles/c994b1db6ff812",
+      "score": null,
+      "author": "SATHYA",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Wed, 15 Jul 2026 04:24:34 GMT"
+    },
+    {
+      "id": "zenn-d079a553ac",
+      "source": "zennqiita",
+      "sub_source": "Zenn",
+      "title": "WSL Containers（wslc）入門｜Docker Desktop不要",
+      "url": "https://zenn.dev/var/articles/wsl-containers-windows-wslc-hands-on",
+      "score": null,
+      "author": "RareTECH（レアテック）| 希少型エンジニア育成専門ITスクール",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Wed, 15 Jul 2026 00:06:05 GMT"
     },
     {
       "id": "zenn-791fdca732",
@@ -5389,19 +5412,6 @@
         "Zenn"
       ],
       "date": "Tue, 14 Jul 2026 13:17:16 GMT"
-    },
-    {
-      "id": "zenn-f133c081f3",
-      "source": "zennqiita",
-      "sub_source": "Zenn",
-      "title": "Claude Code Desktop に追加されたブラウザ機能は、Playwright の代わりになりえるか",
-      "url": "https://zenn.dev/marvelousu/articles/claude-browser-pane-review",
-      "score": null,
-      "author": "Tom",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Tue, 14 Jul 2026 11:11:15 GMT"
     },
     {
       "id": "zenn-36c59d416a",
@@ -5443,19 +5453,6 @@
       "date": "Tue, 14 Jul 2026 01:04:12 GMT"
     },
     {
-      "id": "zenn-0cd61ebb37",
-      "source": "zennqiita",
-      "sub_source": "Zenn",
-      "title": "AI時代のObservability設計 - PIIとAIの検索性を両立させ、自動修復する（実践編）",
-      "url": "https://zenn.dev/aircloset/articles/3b8e60fcaab4b7",
-      "score": null,
-      "author": "辻 亮佑",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Mon, 13 Jul 2026 23:51:06 GMT"
-    },
-    {
       "id": "zenn-11e25ba3ef",
       "source": "zennqiita",
       "sub_source": "Zenn",
@@ -5467,6 +5464,19 @@
         "Zenn"
       ],
       "date": "Mon, 13 Jul 2026 22:51:53 GMT"
+    },
+    {
+      "id": "zenn-aa2f36af97",
+      "source": "zennqiita",
+      "sub_source": "Zenn",
+      "title": "最近、テックブログの高齢化について考えるようになりました",
+      "url": "https://zenn.dev/tkithrta/articles/afb24ea1326211",
+      "score": null,
+      "author": "黒ヰ樹",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Mon, 13 Jul 2026 22:15:24 GMT"
     },
     {
       "id": "zenn-8e35de3319",
@@ -5493,19 +5503,6 @@
         "Zenn"
       ],
       "date": "Mon, 13 Jul 2026 22:00:16 GMT"
-    },
-    {
-      "id": "zenn-f4f979143a",
-      "source": "zennqiita",
-      "sub_source": "Zenn",
-      "title": "ドメイン駆動設計を実装に落とし込むための設計方針",
-      "url": "https://zenn.dev/shotaro_tsuji/articles/09a99625fba620",
-      "score": null,
-      "author": "Shotaro Tsuji",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Mon, 13 Jul 2026 13:59:46 GMT"
     },
     {
       "id": "zenn-60317f94f8",
@@ -5573,19 +5570,6 @@
       "date": "Sun, 12 Jul 2026 01:36:49 GMT"
     },
     {
-      "id": "zenn-a649b4e9d7",
-      "source": "zennqiita",
-      "sub_source": "Zenn",
-      "title": "Markdownをpushするだけで社内資料PDFを常に最新に — WIF×Google Driveで鍵レス自動配信",
-      "url": "https://zenn.dev/o2wsu9/articles/36dea065f5d73c",
-      "score": null,
-      "author": "o2wsu9",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Sat, 11 Jul 2026 12:31:50 GMT"
-    },
-    {
       "id": "zenn-15da291f65",
       "source": "zennqiita",
       "sub_source": "Zenn",
@@ -5597,6 +5581,19 @@
         "Zenn"
       ],
       "date": "Sat, 11 Jul 2026 08:22:04 GMT"
+    },
+    {
+      "id": "zenn-32d28025c7",
+      "source": "zennqiita",
+      "sub_source": "Zenn",
+      "title": "余ったFire HDでバス到着案内サイネージを自作した",
+      "url": "https://zenn.dev/dehio3/articles/202607_fire-hd-bus-arrival-signage",
+      "score": null,
+      "author": "dehio3",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Sat, 11 Jul 2026 07:25:48 GMT"
     },
     {
       "id": "zenn-2e75184d47",

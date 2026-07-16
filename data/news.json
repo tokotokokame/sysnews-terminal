@@ -1,14 +1,25 @@
 {
-  "updated_at": "2026-07-16T20:57:00.928722+00:00",
+  "updated_at": "2026-07-16T22:05:25.596111+00:00",
   "count": 500,
   "items": [
+    {
+      "id": "hn-48939896",
+      "source": "hn",
+      "title": "Mathematics of Data Science",
+      "url": "https://arxiv.org/abs/2607.11938",
+      "score": 22,
+      "comments": 1,
+      "author": "Anon84",
+      "tags": [],
+      "date": "2026-07-16T20:38:48+00:00"
+    },
     {
       "id": "hn-48939764",
       "source": "hn",
       "title": "Timeline Scan – AI fixes the dates on your scanned photos",
       "url": "https://timelinescan.com/",
-      "score": 4,
-      "comments": 5,
+      "score": 10,
+      "comments": 16,
       "author": "HoserHoser",
       "tags": [],
       "date": "2026-07-16T20:25:47+00:00"
@@ -18,19 +29,30 @@
       "source": "hn",
       "title": "Helium escaping from atmosphere of nearby rocky exoplanet in a habitable zone",
       "url": "https://www.science.org/doi/10.1126/science.aea9708",
-      "score": 5,
-      "comments": 0,
+      "score": 35,
+      "comments": 5,
       "author": "anyonecancode",
       "tags": [],
       "date": "2026-07-16T20:24:02+00:00"
+    },
+    {
+      "id": "hn-48939710",
+      "source": "hn",
+      "title": "Show HN: Libretto PR agents – Automatically fix failing playwright scripts",
+      "url": "https://libretto.sh/debug-agents",
+      "score": 8,
+      "comments": 0,
+      "author": "muchael",
+      "tags": [],
+      "date": "2026-07-16T20:21:27+00:00"
     },
     {
       "id": "hn-48939662",
       "source": "hn",
       "title": "LM Studio Bionic: the AI agent for open models",
       "url": "https://lmstudio.ai/blog/introducing-lm-studio-bionic",
-      "score": 7,
-      "comments": 0,
+      "score": 60,
+      "comments": 18,
       "author": "minimaxir",
       "tags": [],
       "date": "2026-07-16T20:18:15+00:00"
@@ -40,8 +62,8 @@
       "source": "hn",
       "title": "The privacy problems hidden in your period tracker",
       "url": "https://www.bbc.com/future/article/20260715-how-period-trackers-share-womens-private-details",
-      "score": 13,
-      "comments": 2,
+      "score": 39,
+      "comments": 11,
       "author": "tchalla",
       "tags": [],
       "date": "2026-07-16T20:15:58+00:00"
@@ -62,8 +84,8 @@
       "source": "hn",
       "title": "$100 AI Music Video: Claude Fable 5 vs. GPT-5.6 Sol",
       "url": "https://www.tryai.dev/blog/ai-music-video-arena-claude-vs-gpt-5.6",
-      "score": 6,
-      "comments": 6,
+      "score": 62,
+      "comments": 47,
       "author": "hershyb_",
       "tags": [],
       "date": "2026-07-16T20:03:23+00:00"
@@ -91,6 +113,17 @@
       "date": "2026-07-16T17:44:46+00:00"
     },
     {
+      "id": "hn-48937398",
+      "source": "hn",
+      "title": "CD sales growth outpaced vinyl in the first half of 2026",
+      "url": "https://consequence.net/2026/07/the-cd-revival-is-getting-hard-to-ignore/",
+      "score": 40,
+      "comments": 37,
+      "author": "speckx",
+      "tags": [],
+      "date": "2026-07-16T17:19:16+00:00"
+    },
+    {
       "id": "hn-48937125",
       "source": "hn",
       "title": "Adaptional (YC S25) Is Hiring",
@@ -106,8 +139,8 @@
       "source": "hn",
       "title": "Detecting LLM-Generated Texts with “Classical” Machine Learning",
       "url": "https://blog.lyc8503.net/en/post/llm-classifier/",
-      "score": 106,
-      "comments": 78,
+      "score": 122,
+      "comments": 88,
       "author": "uneven9434",
       "tags": [],
       "date": "2026-07-16T16:41:37+00:00"
@@ -161,8 +194,8 @@
       "source": "hn",
       "title": "Decoy Font",
       "url": "https://www.mixfont.com/experiments/decoy-font",
-      "score": 245,
-      "comments": 73,
+      "score": 306,
+      "comments": 80,
       "author": "ray__",
       "tags": [],
       "date": "2026-07-16T16:18:21+00:00"
@@ -183,8 +216,8 @@
       "source": "hn",
       "title": "NotebookLM is now Gemini Notebook",
       "url": "https://blog.google/innovation-and-ai/products/gemini-notebook/notebooklm-gemini-notebook/",
-      "score": 157,
-      "comments": 93,
+      "score": 186,
+      "comments": 105,
       "author": "xnx",
       "tags": [],
       "date": "2026-07-16T16:08:13+00:00"
@@ -201,12 +234,24 @@
       "date": "2026-07-16T16:03:43+00:00"
     },
     {
+      "id": "hn-48936271",
+      "source": "hn",
+      "title": "Show HN: BambooGrid – Open-source web UI for power grid modeling and power flow",
+      "url": "https://bamboo.kickstage.com",
+      "score": 12,
+      "comments": 2,
+      "author": "soaringmonchi",
+      "tags": [],
+      "date": "2026-07-16T15:55:47+00:00",
+      "severity": "critical"
+    },
+    {
       "id": "hn-48935951",
       "source": "hn",
       "title": "Immersive Linear Algebra Book with Interactive Figures (2015)",
       "url": "https://immersivemath.com/ila/",
-      "score": 106,
-      "comments": 20,
+      "score": 124,
+      "comments": 24,
       "author": "srean",
       "tags": [],
       "date": "2026-07-16T15:32:23+00:00"
@@ -227,8 +272,8 @@
       "source": "hn",
       "title": "How to Train a Gen AI Kick Drum Model on Your Old Linux Desktop with 6GB VRAM",
       "url": "https://www.zhinit.dev/blog/training-a-kick-drum-diffusion-model",
-      "score": 70,
-      "comments": 46,
+      "score": 81,
+      "comments": 52,
       "author": "zhinit",
       "tags": [],
       "date": "2026-07-16T15:13:00+00:00"
@@ -238,8 +283,8 @@
       "source": "hn",
       "title": "Guide to data tools landscape for developers",
       "url": "https://sinja.io/blog/data-landscape-guide-for-developers",
-      "score": 92,
-      "comments": 28,
+      "score": 102,
+      "comments": 31,
       "author": "OlegWock",
       "tags": [],
       "date": "2026-07-16T14:59:14+00:00"
@@ -247,10 +292,10 @@
     {
       "id": "hn-48935342",
       "source": "hn",
-      "title": "Kimi K3 is now live",
-      "url": "https://www.kimi.com/en",
-      "score": 740,
-      "comments": 430,
+      "title": "Kimi K3: Open Frontier Intelligence",
+      "url": "https://www.kimi.com/blog/kimi-k3",
+      "score": 884,
+      "comments": 526,
       "author": "vincent_s",
       "tags": [],
       "date": "2026-07-16T14:46:05+00:00"
@@ -260,8 +305,8 @@
       "source": "hn",
       "title": "Goes-19 weather satellite enters Safe Hold mode",
       "url": "https://www.spaceweather.gov/news/goes-19-safe-hold",
-      "score": 133,
-      "comments": 66,
+      "score": 141,
+      "comments": 69,
       "author": "yabones",
       "tags": [],
       "date": "2026-07-16T13:30:00+00:00"
@@ -359,8 +404,8 @@
       "source": "hn",
       "title": "How Our Rust-to-Zig Rewrite Is Going",
       "url": "https://rtfeldman.com/rust-to-zig",
-      "score": 327,
-      "comments": 177,
+      "score": 356,
+      "comments": 200,
       "author": "jorangreef",
       "tags": [],
       "date": "2026-07-16T11:39:27+00:00"
@@ -375,6 +420,17 @@
       "author": "badgag",
       "tags": [],
       "date": "2026-07-16T10:49:50+00:00"
+    },
+    {
+      "id": "hn-48932722",
+      "source": "hn",
+      "title": "Abstracting Effects with Continuations",
+      "url": "https://crowdhailer.me/2026-07-15/abstracting-effects-with-continuations/",
+      "score": 14,
+      "comments": 0,
+      "author": "crowdhailer",
+      "tags": [],
+      "date": "2026-07-16T10:41:39+00:00"
     },
     {
       "id": "hn-48932697",
@@ -392,8 +448,8 @@
       "source": "hn",
       "title": "OnePlus halts operations in USA and Europe",
       "url": "https://community.oneplus.com/thread/2170715118587871237",
-      "score": 482,
-      "comments": 274,
+      "score": 503,
+      "comments": 288,
       "author": "pilililo2",
       "tags": [],
       "date": "2026-07-16T10:14:04+00:00"
@@ -1941,8 +1997,8 @@
       "source": "hn",
       "title": "Pseudpocalypse",
       "url": "https://dynomight.net/pseudpocalypse/",
-      "score": 17,
-      "comments": 3,
+      "score": 44,
+      "comments": 19,
       "author": "surprisetalk",
       "tags": [],
       "date": "2026-07-14T16:02:01+00:00"
@@ -3191,8 +3247,8 @@
       "source": "hn",
       "title": "Optimizing Lua string literals to save 400 bytes",
       "url": "https://purplesyringa.moe/blog/guest/optimizing-lua-string-literals-to-save-400-bytes/",
-      "score": 19,
-      "comments": 2,
+      "score": 26,
+      "comments": 4,
       "author": "ibobev",
       "tags": [],
       "date": "2026-07-13T18:21:31+00:00"
@@ -5125,61 +5181,6 @@
       "author": "bookofjoe",
       "tags": [],
       "date": "2026-07-11T18:03:11+00:00"
-    },
-    {
-      "id": "hn-48874182",
-      "source": "hn",
-      "title": "Who manages the agents?",
-      "url": "https://www.off-policy.com/dont-go-quietly-into-the-ai-night/",
-      "score": 62,
-      "comments": 59,
-      "author": "GavCo",
-      "tags": [],
-      "date": "2026-07-11T18:02:33+00:00"
-    },
-    {
-      "id": "hn-48873940",
-      "source": "hn",
-      "title": "Prefer strict tables in SQLite",
-      "url": "https://evanhahn.com/prefer-strict-tables-in-sqlite/",
-      "score": 300,
-      "comments": 143,
-      "author": "ingve",
-      "tags": [],
-      "date": "2026-07-11T17:33:55+00:00"
-    },
-    {
-      "id": "hn-48873910",
-      "source": "hn",
-      "title": "BLISS",
-      "url": "https://en.wikipedia.org/wiki/BLISS",
-      "score": 35,
-      "comments": 7,
-      "author": "tosh",
-      "tags": [],
-      "date": "2026-07-11T17:30:01+00:00"
-    },
-    {
-      "id": "hn-48873893",
-      "source": "hn",
-      "title": "Leaded Gas Was a Known Poison the Day It Was Invented (2016)",
-      "url": "https://www.smithsonianmag.com/smart-news/leaded-gas-poison-invented-180961368/",
-      "score": 125,
-      "comments": 73,
-      "author": "downbad_",
-      "tags": [],
-      "date": "2026-07-11T17:27:55+00:00"
-    },
-    {
-      "id": "hn-48873858",
-      "source": "hn",
-      "title": "Earendel (Astronomical Object)",
-      "url": "https://en.wikipedia.org/wiki/Earendel_(astronomical_object)",
-      "score": 21,
-      "comments": 4,
-      "author": "brainlessdev",
-      "tags": [],
-      "date": "2026-07-11T17:24:15+00:00"
     },
     {
       "id": "ctf-4113061",

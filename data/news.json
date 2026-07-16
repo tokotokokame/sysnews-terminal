@@ -1,13 +1,105 @@
 {
-  "updated_at": "2026-07-16T22:05:25.596111+00:00",
+  "updated_at": "2026-07-16T23:24:40.447986+00:00",
   "count": 500,
   "items": [
+    {
+      "id": "qiita-f80e1b8973",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "Amazon S3の大量ログ分析、まずParquetに整えてから 〜 Autonomous AI Lakehouse の外部表・SQL・Vector Search・RAG使い分け",
+      "url": "https://qiita.com/shirok/items/2eafd347f90e80c46005?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "shirok",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-07-17T07:30:27+09:00"
+    },
+    {
+      "id": "hn-48941129",
+      "source": "hn",
+      "title": "My car's OTA update broke Android Auto, and it's a indictment of modern software",
+      "url": "https://imdanielkendall.com/the-great-software-regress-how-move-fast-and-break-things-broke-our-lives/",
+      "score": 57,
+      "comments": 38,
+      "author": "Expletive4138",
+      "tags": [],
+      "date": "2026-07-16T22:29:44+00:00",
+      "severity": "medium"
+    },
+    {
+      "id": "hn-48941123",
+      "source": "hn",
+      "title": "Show HN: Mojibake – a low-level Unicode library written in C",
+      "url": "https://mojibake.zaerl.com/",
+      "score": 10,
+      "comments": 0,
+      "author": "program",
+      "tags": [],
+      "date": "2026-07-16T22:29:21+00:00"
+    },
+    {
+      "id": "hn-48941104",
+      "source": "hn",
+      "title": "The Little Book of Reinforcement Learning",
+      "url": "https://github.com/alxndrTL/little-book-rl/",
+      "score": 12,
+      "comments": 1,
+      "author": "mustaphah",
+      "tags": [],
+      "date": "2026-07-16T22:27:22+00:00",
+      "severity": "critical"
+    },
+    {
+      "id": "hn-48941051",
+      "source": "hn",
+      "title": "Show HN: ReasonGate- An explainable gate that blocks LLM prompt injection",
+      "url": "https://github.com/cgrtml/reasongate",
+      "score": 6,
+      "comments": 1,
+      "author": "Cagritemel",
+      "tags": [],
+      "date": "2026-07-16T22:21:31+00:00"
+    },
+    {
+      "id": "hn-48940833",
+      "source": "hn",
+      "title": "'Likweli': A new monkey species discovered in the Congo Basin",
+      "url": "https://news.yale.edu/2026/07/15/meet-likweli-new-monkey-species-discovered-congo-basin",
+      "score": 20,
+      "comments": 2,
+      "author": "gmays",
+      "tags": [],
+      "date": "2026-07-16T22:00:00+00:00"
+    },
+    {
+      "id": "hn-48940801",
+      "source": "hn",
+      "title": "Just Do Things",
+      "url": "https://ray.zo.space/blog/just-do-things",
+      "score": 10,
+      "comments": 4,
+      "author": "erhuve",
+      "tags": [],
+      "date": "2026-07-16T21:55:49+00:00"
+    },
+    {
+      "id": "hn-48940603",
+      "source": "hn",
+      "title": "Ring-Zero: Scaling Zero RL to a Trillion Parameters for Emergent Reasoning",
+      "url": "https://arxiv.org/abs/2607.12395",
+      "score": 18,
+      "comments": 1,
+      "author": "binyu",
+      "tags": [],
+      "date": "2026-07-16T21:38:02+00:00"
+    },
     {
       "id": "hn-48939896",
       "source": "hn",
       "title": "Mathematics of Data Science",
       "url": "https://arxiv.org/abs/2607.11938",
-      "score": 22,
+      "score": 64,
       "comments": 1,
       "author": "Anon84",
       "tags": [],
@@ -18,8 +110,8 @@
       "source": "hn",
       "title": "Timeline Scan – AI fixes the dates on your scanned photos",
       "url": "https://timelinescan.com/",
-      "score": 10,
-      "comments": 16,
+      "score": 16,
+      "comments": 19,
       "author": "HoserHoser",
       "tags": [],
       "date": "2026-07-16T20:25:47+00:00"
@@ -29,8 +121,8 @@
       "source": "hn",
       "title": "Helium escaping from atmosphere of nearby rocky exoplanet in a habitable zone",
       "url": "https://www.science.org/doi/10.1126/science.aea9708",
-      "score": 35,
-      "comments": 5,
+      "score": 46,
+      "comments": 9,
       "author": "anyonecancode",
       "tags": [],
       "date": "2026-07-16T20:24:02+00:00"
@@ -40,7 +132,7 @@
       "source": "hn",
       "title": "Show HN: Libretto PR agents – Automatically fix failing playwright scripts",
       "url": "https://libretto.sh/debug-agents",
-      "score": 8,
+      "score": 15,
       "comments": 0,
       "author": "muchael",
       "tags": [],
@@ -51,8 +143,8 @@
       "source": "hn",
       "title": "LM Studio Bionic: the AI agent for open models",
       "url": "https://lmstudio.ai/blog/introducing-lm-studio-bionic",
-      "score": 60,
-      "comments": 18,
+      "score": 106,
+      "comments": 36,
       "author": "minimaxir",
       "tags": [],
       "date": "2026-07-16T20:18:15+00:00"
@@ -62,8 +154,8 @@
       "source": "hn",
       "title": "The privacy problems hidden in your period tracker",
       "url": "https://www.bbc.com/future/article/20260715-how-period-trackers-share-womens-private-details",
-      "score": 39,
-      "comments": 11,
+      "score": 56,
+      "comments": 30,
       "author": "tchalla",
       "tags": [],
       "date": "2026-07-16T20:15:58+00:00"
@@ -139,8 +231,8 @@
       "source": "hn",
       "title": "Detecting LLM-Generated Texts with “Classical” Machine Learning",
       "url": "https://blog.lyc8503.net/en/post/llm-classifier/",
-      "score": 122,
-      "comments": 88,
+      "score": 134,
+      "comments": 96,
       "author": "uneven9434",
       "tags": [],
       "date": "2026-07-16T16:41:37+00:00"
@@ -194,8 +286,8 @@
       "source": "hn",
       "title": "Decoy Font",
       "url": "https://www.mixfont.com/experiments/decoy-font",
-      "score": 306,
-      "comments": 80,
+      "score": 347,
+      "comments": 88,
       "author": "ray__",
       "tags": [],
       "date": "2026-07-16T16:18:21+00:00"
@@ -216,8 +308,8 @@
       "source": "hn",
       "title": "NotebookLM is now Gemini Notebook",
       "url": "https://blog.google/innovation-and-ai/products/gemini-notebook/notebooklm-gemini-notebook/",
-      "score": 186,
-      "comments": 105,
+      "score": 205,
+      "comments": 115,
       "author": "xnx",
       "tags": [],
       "date": "2026-07-16T16:08:13+00:00"
@@ -250,7 +342,7 @@
       "source": "hn",
       "title": "Immersive Linear Algebra Book with Interactive Figures (2015)",
       "url": "https://immersivemath.com/ila/",
-      "score": 124,
+      "score": 148,
       "comments": 24,
       "author": "srean",
       "tags": [],
@@ -294,8 +386,8 @@
       "source": "hn",
       "title": "Kimi K3: Open Frontier Intelligence",
       "url": "https://www.kimi.com/blog/kimi-k3",
-      "score": 884,
-      "comments": 526,
+      "score": 1015,
+      "comments": 625,
       "author": "vincent_s",
       "tags": [],
       "date": "2026-07-16T14:46:05+00:00"
@@ -305,8 +397,8 @@
       "source": "hn",
       "title": "Goes-19 weather satellite enters Safe Hold mode",
       "url": "https://www.spaceweather.gov/news/goes-19-safe-hold",
-      "score": 141,
-      "comments": 69,
+      "score": 144,
+      "comments": 73,
       "author": "yabones",
       "tags": [],
       "date": "2026-07-16T13:30:00+00:00"
@@ -426,7 +518,7 @@
       "source": "hn",
       "title": "Abstracting Effects with Continuations",
       "url": "https://crowdhailer.me/2026-07-15/abstracting-effects-with-continuations/",
-      "score": 14,
+      "score": 28,
       "comments": 0,
       "author": "crowdhailer",
       "tags": [],
@@ -448,8 +540,8 @@
       "source": "hn",
       "title": "OnePlus halts operations in USA and Europe",
       "url": "https://community.oneplus.com/thread/2170715118587871237",
-      "score": 503,
-      "comments": 288,
+      "score": 520,
+      "comments": 306,
       "author": "pilililo2",
       "tags": [],
       "date": "2026-07-16T10:14:04+00:00"
@@ -1436,19 +1528,6 @@
       "date": "2026-07-15T10:11:11+00:00"
     },
     {
-      "id": "qiita-f80e1b8973",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "Amazon S3上の大量ログを Autonomous AI Lakehouseで分析する 外部表、Parquet、SQL、Vector Search、RAGの使い分け",
-      "url": "https://qiita.com/shirok/items/2eafd347f90e80c46005?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "shirok",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-07-15T19:10:21+09:00"
-    },
-    {
       "id": "hn-48918534",
       "source": "hn",
       "title": "Telegram Serverless",
@@ -1997,8 +2076,8 @@
       "source": "hn",
       "title": "Pseudpocalypse",
       "url": "https://dynomight.net/pseudpocalypse/",
-      "score": 44,
-      "comments": 19,
+      "score": 60,
+      "comments": 34,
       "author": "surprisetalk",
       "tags": [],
       "date": "2026-07-14T16:02:01+00:00"
@@ -5094,93 +5173,15 @@
       "date": "2026-07-12T06:54:58+09:00"
     },
     {
-      "id": "hn-48875377",
+      "id": "hn-48871547",
       "source": "hn",
-      "title": "Show HN: Ant – A JavaScript runtime and ecosystem",
-      "url": "https://antjs.org",
-      "score": 308,
-      "comments": 137,
-      "author": "theMackabu",
+      "title": "Show HN: Clx – Compile Lua to Native Executables Through C++20",
+      "url": "https://github.com/samyeyo/clx",
+      "score": 72,
+      "comments": 1,
+      "author": "_samt_",
       "tags": [],
-      "date": "2026-07-11T20:07:18+00:00"
-    },
-    {
-      "id": "hn-48875342",
-      "source": "hn",
-      "title": "Show HN: Sqlsure – deterministic semantic checks for AI-generated SQL",
-      "url": "https://github.com/sqlsure/sqlsure",
-      "score": 9,
-      "comments": 0,
-      "author": "tejusarora",
-      "tags": [],
-      "date": "2026-07-11T20:03:42+00:00"
-    },
-    {
-      "id": "hn-48875188",
-      "source": "hn",
-      "title": "Andon (manufacturing)",
-      "url": "https://en.wikipedia.org/wiki/Andon_(manufacturing)",
-      "score": 59,
-      "comments": 23,
-      "author": "tony",
-      "tags": [],
-      "date": "2026-07-11T19:49:07+00:00"
-    },
-    {
-      "id": "hn-48875153",
-      "source": "hn",
-      "title": "The Chinese Voice Actor Forced to Prove He's Human",
-      "url": "https://www.sixthtone.com/news/1018753",
-      "score": 51,
-      "comments": 7,
-      "author": "homarp",
-      "tags": [],
-      "date": "2026-07-11T19:46:00+00:00",
-      "severity": "critical"
-    },
-    {
-      "id": "hn-48874518",
-      "source": "hn",
-      "title": "What Every Python Developer Should Know About the CPython ABI",
-      "url": "https://labs.quansight.org/blog/python-abi-abi3t",
-      "score": 22,
-      "comments": 2,
-      "author": "matt_d",
-      "tags": [],
-      "date": "2026-07-11T18:39:34+00:00"
-    },
-    {
-      "id": "hn-48874297",
-      "source": "hn",
-      "title": "ZeroFS vs. Amazon S3 Files",
-      "url": "https://www.zerofs.net/blog/zerofs-vs-aws-s3-files/",
-      "score": 51,
-      "comments": 13,
-      "author": "cbrewster",
-      "tags": [],
-      "date": "2026-07-11T18:15:35+00:00"
-    },
-    {
-      "id": "hn-48874200",
-      "source": "hn",
-      "title": "AI 2040 and the cult of intelligence",
-      "url": "https://geohot.github.io//blog/jekyll/update/2026/07/11/ai-2040.html",
-      "score": 129,
-      "comments": 156,
-      "author": "rvz",
-      "tags": [],
-      "date": "2026-07-11T18:04:01+00:00"
-    },
-    {
-      "id": "hn-48874190",
-      "source": "hn",
-      "title": "The Second Life of Sanskrit",
-      "url": "https://openthemagazine.com/india/the-second-life-of-sanskrit",
-      "score": 47,
-      "comments": 34,
-      "author": "bookofjoe",
-      "tags": [],
-      "date": "2026-07-11T18:03:11+00:00"
+      "date": "2026-07-11T12:40:24+00:00"
     },
     {
       "id": "ctf-4113061",
@@ -5351,6 +5352,58 @@
       "date": "2023-05-23T17:06:23Z"
     },
     {
+      "id": "zenn-7b48d7d6a2",
+      "source": "zennqiita",
+      "sub_source": "Zenn",
+      "title": "Claude Code の Plan モードをループエンジニアリングで楽にする",
+      "url": "https://zenn.dev/k_yoshiya/articles/claude-code-plan-mode-loop",
+      "score": null,
+      "author": "Yoshiya",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Thu, 16 Jul 2026 07:40:05 GMT"
+    },
+    {
+      "id": "zenn-ca68dfc907",
+      "source": "zennqiita",
+      "sub_source": "Zenn",
+      "title": "Metaの公式ドキュメント、いつの間にかcurl一発でMarkdownが返るようになっていた",
+      "url": "https://zenn.dev/yomogi_cat/articles/78cbf4fc74d025",
+      "score": null,
+      "author": "蓬猫（よもぎねこ）",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Thu, 16 Jul 2026 05:41:19 GMT"
+    },
+    {
+      "id": "zenn-5b3195d153",
+      "source": "zennqiita",
+      "sub_source": "Zenn",
+      "title": "SQL MCP Server が GA したらしい",
+      "url": "https://zenn.dev/microsoft/articles/1113250e1e63dc",
+      "score": null,
+      "author": "takashi honma",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Thu, 16 Jul 2026 04:43:35 GMT"
+    },
+    {
+      "id": "zenn-2218216acf",
+      "source": "zennqiita",
+      "sub_source": "Zenn",
+      "title": "非同期パーソナルエージェントのススメ",
+      "url": "https://zenn.dev/mkj/articles/7a8f55591e6baf",
+      "score": null,
+      "author": "mikio",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Thu, 16 Jul 2026 02:50:05 GMT"
+    },
+    {
       "id": "zenn-3954c5cf76",
       "source": "zennqiita",
       "sub_source": "Zenn",
@@ -5362,6 +5415,19 @@
         "Zenn"
       ],
       "date": "Thu, 16 Jul 2026 02:38:21 GMT"
+    },
+    {
+      "id": "zenn-5557de1632",
+      "source": "zennqiita",
+      "sub_source": "Zenn",
+      "title": "Claude Codeのskillをskillでレビューする ― 静的チェック×LLMレビュー×git hooksの3層ゲート",
+      "url": "https://zenn.dev/aldagram_tech/articles/c407ae672c9c0e",
+      "score": null,
+      "author": "chiba_k",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Thu, 16 Jul 2026 01:00:09 GMT"
     },
     {
       "id": "zenn-c376d69425",
@@ -5390,69 +5456,17 @@
       "date": "Wed, 15 Jul 2026 22:25:21 GMT"
     },
     {
-      "id": "zenn-3c82a8e6ca",
+      "id": "zenn-52f8392b6d",
       "source": "zennqiita",
       "sub_source": "Zenn",
-      "title": "Googleの時系列基盤モデル TimesFMについて理解する",
-      "url": "https://zenn.dev/fusic/articles/196bcd22676d97",
+      "title": "RunCat Neo カスタムメトリクス入門",
+      "url": "https://zenn.dev/kyome/articles/eb4a9f664002ad",
       "score": null,
-      "author": "xthixsl_ml@レオナ",
+      "author": "Kyome",
       "tags": [
         "Zenn"
       ],
-      "date": "Wed, 15 Jul 2026 16:52:44 GMT"
-    },
-    {
-      "id": "zenn-1368334e83",
-      "source": "zennqiita",
-      "sub_source": "Zenn",
-      "title": "LLM の可観測性ツールを決めきれないので、OpenTelemetry で決めない構成にした",
-      "url": "https://zenn.dev/optimisuke/articles/8f2ce41b9a7d30",
-      "score": null,
-      "author": "Naosuke",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Wed, 15 Jul 2026 11:00:06 GMT"
-    },
-    {
-      "id": "zenn-4c88460bfc",
-      "source": "zennqiita",
-      "sub_source": "Zenn",
-      "title": "GPT-Live の「自然さ」を生かした英会話学習法",
-      "url": "https://zenn.dev/takanari_dev/articles/2026-07-14-english-practice-with-gpt-live",
-      "score": null,
-      "author": "takanari",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Wed, 15 Jul 2026 10:37:14 GMT"
-    },
-    {
-      "id": "zenn-8650f485f8",
-      "source": "zennqiita",
-      "sub_source": "Zenn",
-      "title": "Spring MVCのsuspend関数がどのように実装されているか調べてみた",
-      "url": "https://zenn.dev/seiichi1101/articles/kotlin-coroutine-in-spring-mvc",
-      "score": null,
-      "author": "seiichi1101",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Wed, 15 Jul 2026 10:09:30 GMT"
-    },
-    {
-      "id": "zenn-a76780310e",
-      "source": "zennqiita",
-      "sub_source": "Zenn",
-      "title": "雑に作る→ラディカルなリファクタリングを行う",
-      "url": "https://zenn.dev/acomagu/articles/9744fc2a605528",
-      "score": null,
-      "author": "acomagu",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Wed, 15 Jul 2026 10:00:49 GMT"
+      "date": "Wed, 15 Jul 2026 09:00:13 GMT"
     },
     {
       "id": "zenn-1b7c6478fc",
@@ -5468,17 +5482,17 @@
       "date": "Wed, 15 Jul 2026 09:00:13 GMT"
     },
     {
-      "id": "zenn-52f8392b6d",
+      "id": "zenn-5f41fd9a30",
       "source": "zennqiita",
       "sub_source": "Zenn",
-      "title": "RunCat Neo カスタムメトリクス入門",
-      "url": "https://zenn.dev/kyome/articles/eb4a9f664002ad",
+      "title": "本を書くハッカソンで大賞をもらってしまい、超ソワソワしながら帰った",
+      "url": "https://zenn.dev/kannna5296/articles/2026-07-15-bookathon",
       "score": null,
-      "author": "Kyome",
+      "author": "hirosuban",
       "tags": [
         "Zenn"
       ],
-      "date": "Wed, 15 Jul 2026 09:00:13 GMT"
+      "date": "Wed, 15 Jul 2026 00:55:04 GMT"
     },
     {
       "id": "zenn-791fdca732",
@@ -5492,19 +5506,6 @@
         "Zenn"
       ],
       "date": "Tue, 14 Jul 2026 13:17:16 GMT"
-    },
-    {
-      "id": "zenn-f133c081f3",
-      "source": "zennqiita",
-      "sub_source": "Zenn",
-      "title": "Claude Code Desktop に追加されたブラウザ機能は、Playwright の代わりになりえるか",
-      "url": "https://zenn.dev/marvelousu/articles/claude-browser-pane-review",
-      "score": null,
-      "author": "Tom",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Tue, 14 Jul 2026 11:11:15 GMT"
     },
     {
       "id": "zenn-36c59d416a",
@@ -5533,19 +5534,6 @@
       "date": "Tue, 14 Jul 2026 08:13:16 GMT"
     },
     {
-      "id": "zenn-11e25ba3ef",
-      "source": "zennqiita",
-      "sub_source": "Zenn",
-      "title": "AIにルールファイルを数ヶ月自動更新させ続けたら、ルールは\"良く\"育ったのか",
-      "url": "https://zenn.dev/r_kaga/articles/c9fcb75f1ff284",
-      "score": null,
-      "author": "r.kagaya",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Mon, 13 Jul 2026 22:51:53 GMT"
-    },
-    {
       "id": "zenn-aa2f36af97",
       "source": "zennqiita",
       "sub_source": "Zenn",
@@ -5557,6 +5545,19 @@
         "Zenn"
       ],
       "date": "Mon, 13 Jul 2026 22:15:24 GMT"
+    },
+    {
+      "id": "zenn-8e35de3319",
+      "source": "zennqiita",
+      "sub_source": "Zenn",
+      "title": "調査用スキルを作ってみた",
+      "url": "https://zenn.dev/tokium_dev/articles/building-a-research-skill",
+      "score": null,
+      "author": "kou",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Mon, 13 Jul 2026 22:00:16 GMT"
     },
     {
       "id": "zenn-93d53e7401",

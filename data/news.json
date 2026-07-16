@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-07-16T06:42:43.980972+00:00",
+  "updated_at": "2026-07-16T09:12:37.708889+00:00",
   "count": 500,
   "items": [
     {
       "id": "hn-48930713",
       "source": "hn",
-      "title": "DJB Netstrings (1997)",
+      "title": "Netstrings (1997)",
       "url": "https://cr.yp.to/proto/netstrings.txt",
-      "score": 7,
-      "comments": 5,
+      "score": 18,
+      "comments": 8,
       "author": "signa11",
       "tags": [],
       "date": "2026-07-16T05:33:50+00:00"
@@ -18,11 +18,48 @@
       "source": "hn",
       "title": "The lost joy of music piracy",
       "url": "https://www.pigeonsandplanes.com/read/music-piracy-what-cd-oink-nine-inch-nails-streaming",
-      "score": 105,
-      "comments": 37,
+      "score": 281,
+      "comments": 143,
       "author": "mcgin",
       "tags": [],
       "date": "2026-07-16T04:46:21+00:00"
+    },
+    {
+      "id": "qiita-edeced293f",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "SQLとNoSQLの違い、サクッと理解する",
+      "url": "https://qiita.com/nt_fujita/items/22ef83c9c3a63c349bbd?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "nt_fujita",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-07-16T13:44:48+09:00"
+    },
+    {
+      "id": "qiita-4efef105fb",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "Search ConsoleとGA4をターミナルから操作するCLI「gsc-ga4-cli」を作りました（Python / Node.js・Claude Codeスキル同梱）",
+      "url": "https://qiita.com/nogataka/items/889db458e66c3ea7b343?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "nogataka",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-07-16T13:43:31+09:00"
+    },
+    {
+      "id": "hn-48930397",
+      "source": "hn",
+      "title": "Reynard: A real Firefox web browser for iOS 13 or later",
+      "url": "https://github.com/minh-ton/reynard-browser",
+      "score": 35,
+      "comments": 10,
+      "author": "AbuAssar",
+      "tags": [],
+      "date": "2026-07-16T04:36:07+00:00"
     },
     {
       "id": "hn-48930363",
@@ -75,8 +112,8 @@
       "source": "hn",
       "title": "If you want to create a button from scratch, you must first create the universe",
       "url": "https://madcampos.dev/blog/2026/07/accessibility-from-scratch/",
-      "score": 60,
-      "comments": 22,
+      "score": 115,
+      "comments": 53,
       "author": "treve",
       "tags": [],
       "date": "2026-07-16T03:48:43+00:00"
@@ -86,8 +123,8 @@
       "source": "hn",
       "title": "Making 768 servers look like 1",
       "url": "https://planetscale.com/blog/making-768-servers-look-like-1",
-      "score": 42,
-      "comments": 9,
+      "score": 77,
+      "comments": 10,
       "author": "hisamafahri",
       "tags": [],
       "date": "2026-07-16T03:36:42+00:00"
@@ -108,8 +145,8 @@
       "source": "hn",
       "title": "1,300 Beautiful Wildlife Illustrations from the 19th Century Now Restored",
       "url": "https://www.openculture.com/2026/07/explore-1300-beautiful-wildlife-illustrations-from-the-19th-century.html",
-      "score": 36,
-      "comments": 4,
+      "score": 85,
+      "comments": 11,
       "author": "gslin",
       "tags": [],
       "date": "2026-07-16T03:12:47+00:00"
@@ -140,6 +177,19 @@
       "severity": "critical"
     },
     {
+      "id": "qiita-7ec2e06d01",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "【初心者必見】HTML初心者が最初に覚えるべきタグ10選",
+      "url": "https://qiita.com/nt_matsuda56/items/b6fd84ed50760c049dd0?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "nt_matsuda56",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-07-16T11:52:18+09:00"
+    },
+    {
       "id": "hn-48929804",
       "source": "hn",
       "title": "Accelerating Block Low-Rank Foundation Model Inference on MemoryConstrained GPUs",
@@ -155,8 +205,8 @@
       "source": "hn",
       "title": "Can LLMs Perform Deep Technical Comprehension of Computer Architecture Papers",
       "url": "https://arxiv.org/abs/2607.11859",
-      "score": 25,
-      "comments": 2,
+      "score": 51,
+      "comments": 11,
       "author": "Jimmc414",
       "tags": [],
       "date": "2026-07-16T02:17:31+00:00"
@@ -166,8 +216,8 @@
       "source": "hn",
       "title": "The Tokio/Rayon Trap and Why Async/Await Fails Concurrency",
       "url": "https://pmbanugo.me/blog/why-async-await-complect-concurrency",
-      "score": 36,
-      "comments": 32,
+      "score": 61,
+      "comments": 38,
       "author": "LAC-Tech",
       "tags": [],
       "date": "2026-07-16T02:06:36+00:00"
@@ -177,11 +227,63 @@
       "source": "hn",
       "title": "Bluesky Trademarks ATProto",
       "url": "https://atproto.com/blog/at-protocol-trademark",
-      "score": 71,
-      "comments": 25,
+      "score": 96,
+      "comments": 38,
       "author": "chaosharmonic",
       "tags": [],
       "date": "2026-07-16T01:21:04+00:00"
+    },
+    {
+      "id": "qiita-9b490c66b1",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "Javaで書くアルゴリズム(ダイクストラ法)",
+      "url": "https://qiita.com/samba_glass/items/a96f063a03cc9ecdb93b?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "samba_glass",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-07-16T09:31:16+09:00"
+    },
+    {
+      "id": "qiita-8477f15f37",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "Claude Codeで技術面接の壁打ち相手を作ってみませんか",
+      "url": "https://qiita.com/kuma_3838/items/e07a4d45ca5cf2ff14ef?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "kuma_3838",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-07-16T08:39:44+09:00"
+    },
+    {
+      "id": "qiita-24362d305d",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "AIから事実を、本から考えを学ぶ。『本を読む人はうまくいく』を読んだ",
+      "url": "https://qiita.com/kuma_3838/items/7d73ee9456dcec649580?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "kuma_3838",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-07-16T08:39:33+09:00"
+    },
+    {
+      "id": "qiita-144a3c273f",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "Dart + Ollamaでチャットアプリを作ってみる",
+      "url": "https://qiita.com/y_abe_bc/items/02617ceb3fb71464dd04?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "y_abe_bc",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-07-16T08:14:25+09:00"
     },
     {
       "id": "hn-48928402",
@@ -232,8 +334,8 @@
       "source": "hn",
       "title": "SQLite should have (Rust-style) editions",
       "url": "https://mort.coffee/home/sqlite-editions/",
-      "score": 210,
-      "comments": 79,
+      "score": 262,
+      "comments": 104,
       "author": "gnyeki",
       "tags": [],
       "date": "2026-07-15T22:42:58+00:00"
@@ -298,8 +400,8 @@
       "source": "hn",
       "title": "Governments, companies, nonprofits should invest in free, open source AI [pdf]",
       "url": "https://www.siegelendowment.org/wp-content/uploads/2026/07/fortune-david-siegel-open-source-ai.pdf",
-      "score": 151,
-      "comments": 56,
+      "score": 188,
+      "comments": 68,
       "author": "bilsbie",
       "tags": [],
       "date": "2026-07-15T21:16:36+00:00",
@@ -321,8 +423,8 @@
       "source": "hn",
       "title": "Grok Build is open source",
       "url": "https://github.com/xai-org/grok-build",
-      "score": 377,
-      "comments": 404,
+      "score": 435,
+      "comments": 470,
       "author": "skp1995",
       "tags": [],
       "date": "2026-07-15T20:24:58+00:00",
@@ -377,8 +479,8 @@
       "source": "hn",
       "title": "Inkling: Our Open-Weights Model",
       "url": "https://thinkingmachines.ai/news/introducing-inkling/",
-      "score": 879,
-      "comments": 217,
+      "score": 957,
+      "comments": 236,
       "author": "vimarsh6739",
       "tags": [],
       "date": "2026-07-15T18:12:45+00:00"
@@ -510,8 +612,8 @@
       "source": "hn",
       "title": "Launch HN: Coasty (YC S26) – An API for computer-use agents",
       "url": "https://coasty.ai/docs",
-      "score": 32,
-      "comments": 7,
+      "score": 35,
+      "comments": 11,
       "author": "nkov47",
       "tags": [],
       "date": "2026-07-15T15:51:20+00:00"
@@ -543,8 +645,8 @@
       "source": "hn",
       "title": "Running Gemma 4 26B at 5 tokens/sec on a 13-year-old Xeon with no GPU",
       "url": "https://www.neomindlabs.com/2026/06/08/running-gemma-4-26b-at-5-tokens-sec-on-a-13-year-old-xeon-with-no-gpu/",
-      "score": 271,
-      "comments": 175,
+      "score": 285,
+      "comments": 185,
       "author": "neomindryan",
       "tags": [],
       "date": "2026-07-15T15:34:05+00:00"
@@ -967,12 +1069,25 @@
       "source": "hn",
       "title": "Stripe and Advent have made a joint offer to acquire PayPal – sources",
       "url": "https://www.reuters.com/business/finance/stripe-advent-offer-buy-paypal-more-than-53-billion-sources-say-2026-07-15/",
-      "score": 414,
-      "comments": 226,
+      "score": 442,
+      "comments": 244,
       "author": "rvz",
       "tags": [],
       "date": "2026-07-15T03:32:45+00:00",
       "severity": "critical"
+    },
+    {
+      "id": "qiita-89832be63b",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "ぷよぷよプログラミング体験談",
+      "url": "https://qiita.com/sakurada110/items/34a4486f6ab1b15211a9?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "sakurada110",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-07-15T12:00:10+09:00"
     },
     {
       "id": "hn-48915709",
@@ -990,8 +1105,8 @@
       "source": "hn",
       "title": "High-Bandwidth Flash offers efficient storage for model weights",
       "url": "https://spectrum.ieee.org/high-bandwidth-flash",
-      "score": 31,
-      "comments": 9,
+      "score": 40,
+      "comments": 17,
       "author": "Gaishan",
       "tags": [],
       "date": "2026-07-15T02:04:12+00:00"
@@ -1291,8 +1406,8 @@
       "source": "hn",
       "title": "I also filed the corners off my MacBook",
       "url": "https://www.brt.fyi/posts/mac-book-filing/",
-      "score": 120,
-      "comments": 29,
+      "score": 178,
+      "comments": 65,
       "author": "maxbrt",
       "tags": [],
       "date": "2026-07-14T19:25:41+00:00"
@@ -1420,6 +1535,19 @@
       "author": "yenniejun111",
       "tags": [],
       "date": "2026-07-14T15:18:13+00:00"
+    },
+    {
+      "id": "qiita-259504c52a",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "ComfyUI × 動画生成AI × Codex で、ゲーム用スプライトアニメを量産するパイプラインを作った話",
+      "url": "https://qiita.com/archeleeds/items/2efad73069b54288deb4?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "archeleeds",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-07-15T00:08:46+09:00"
     },
     {
       "id": "qiita-f796c8f6f9",
@@ -1803,8 +1931,8 @@
       "source": "hn",
       "title": "Job queues are deceptively tricky",
       "url": "https://typesanitizer.com/blog/job-queues.html",
-      "score": 60,
-      "comments": 14,
+      "score": 84,
+      "comments": 21,
       "author": "ingve",
       "tags": [],
       "date": "2026-07-14T08:27:56+00:00"
@@ -1862,7 +1990,7 @@
       "source": "hn",
       "title": "The Last Picture Show: A Conversation with George Lucas",
       "url": "https://a-rabbitsfoot.com/editorial/confessions/the-last-picture-show-a-conversation-with-george-lucas/",
-      "score": 13,
+      "score": 16,
       "comments": 2,
       "author": "Michelangelo11",
       "tags": [],
@@ -3412,6 +3540,17 @@
       "date": "2026-07-12T20:46:43+00:00"
     },
     {
+      "id": "hn-48884580",
+      "source": "hn",
+      "title": "What's the story behind the names of Cloudflare's name servers? (2013)",
+      "url": "https://blog.cloudflare.com/whats-the-story-behind-the-names-of-cloudflares-name-servers/",
+      "score": 29,
+      "comments": 26,
+      "author": "aragonite",
+      "tags": [],
+      "date": "2026-07-12T20:42:20+00:00"
+    },
+    {
       "id": "hn-48884395",
       "source": "hn",
       "title": "Tiny Emulators",
@@ -3478,6 +3617,17 @@
       "author": "birdculture",
       "tags": [],
       "date": "2026-07-12T19:00:49+00:00"
+    },
+    {
+      "id": "hn-48883467",
+      "source": "hn",
+      "title": "Dense Arena Interning: The Engine of Compiler Performance",
+      "url": "https://aikoschurmann.com/blog/string-interning-compilers",
+      "score": 5,
+      "comments": 0,
+      "author": "g0xA52A2A",
+      "tags": [],
+      "date": "2026-07-12T18:48:41+00:00"
     },
     {
       "id": "hn-48883415",
@@ -3556,6 +3706,17 @@
       "author": "alvis",
       "tags": [],
       "date": "2026-07-12T18:01:29+00:00"
+    },
+    {
+      "id": "hn-48883036",
+      "source": "hn",
+      "title": "Teardown: A Generic 7-Port USB 3.0 Hub That Wasn't",
+      "url": "https://goughlui.com/2026/07/09/teardown-a-generic-7-port-usb-3-0-hub-that-wasnt/",
+      "score": 50,
+      "comments": 15,
+      "author": "speckx",
+      "tags": [],
+      "date": "2026-07-12T17:57:58+00:00"
     },
     {
       "id": "hn-48882956",
@@ -4687,6 +4848,17 @@
       "date": "2026-07-11T23:30:55+09:00"
     },
     {
+      "id": "hn-48872031",
+      "source": "hn",
+      "title": "Rebuilding My Homelab with Compose, Ruby, IPv6, and No Kubernetes",
+      "url": "https://www.petekeen.net/homelab-resolved/",
+      "score": 25,
+      "comments": 20,
+      "author": "zrail",
+      "tags": [],
+      "date": "2026-07-11T13:47:47+00:00"
+    },
+    {
       "id": "hn-48871973",
       "source": "hn",
       "title": "Show HN: Learn by rebuilding Redis, Git, a database from scratch",
@@ -4713,8 +4885,8 @@
       "source": "hn",
       "title": "G# – A modern .NET language with Go, Kotlin, and Swift ergonomics",
       "url": "https://davidobando.github.io/gsharp/",
-      "score": 77,
-      "comments": 37,
+      "score": 96,
+      "comments": 63,
       "author": "serial_dev",
       "tags": [],
       "date": "2026-07-11T13:04:46+00:00"
@@ -5017,164 +5189,6 @@
         "Qiita"
       ],
       "date": "2026-07-11T07:19:30+09:00"
-    },
-    {
-      "id": "hn-48865903",
-      "source": "hn",
-      "title": "AI Can't Recreate the Thrust Game (But It Can Help You Understand It)",
-      "url": "https://www.jamesdrandall.com/posts/thrust_ai_powered_software_archaeology/",
-      "score": 40,
-      "comments": 23,
-      "author": "msephton",
-      "tags": [],
-      "date": "2026-07-10T22:04:45+00:00"
-    },
-    {
-      "id": "qiita-d1f82853e3",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "【悲報】「受注企業だけで学習すれば精度が上がる」は本当。でも、そのモデルは実戦で爆死します",
-      "url": "https://qiita.com/Gotoubun_taiwan/items/ccde9f77ac928d0ddc90?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "Gotoubun_taiwan",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-07-11T06:48:17+09:00"
-    },
-    {
-      "id": "hn-48865332",
-      "source": "hn",
-      "title": "Moss (YC F25) Is Hiring",
-      "url": "https://www.ycombinator.com/companies/moss/jobs/52LnqLQ-software-engineer-sdk",
-      "score": 1,
-      "comments": 0,
-      "author": "srimalireddi",
-      "tags": [],
-      "date": "2026-07-10T21:11:18+00:00"
-    },
-    {
-      "id": "hn-48865238",
-      "source": "hn",
-      "title": "Prismata: Confining cross-site prompt injection in web agents",
-      "url": "https://arxiv.org/abs/2607.08147",
-      "score": 5,
-      "comments": 0,
-      "author": "zhinit",
-      "tags": [],
-      "date": "2026-07-10T21:03:38+00:00"
-    },
-    {
-      "id": "hn-48865093",
-      "source": "hn",
-      "title": "GPT-5.6, Grok 4.5, Claude, and Muse Spark build the same 4 apps",
-      "url": "https://www.tryai.dev/blog/gpt-5.6-build-off-12-models",
-      "score": 73,
-      "comments": 40,
-      "author": "hershyb_",
-      "tags": [],
-      "date": "2026-07-10T20:52:28+00:00"
-    },
-    {
-      "id": "hn-48865019",
-      "source": "hn",
-      "title": "Apple sues OpenAI, accuses ex-employees of stealing trade secrets",
-      "url": "https://9to5mac.com/2026/07/10/apple-sues-openai-trade-secret-theft/",
-      "score": 1549,
-      "comments": 871,
-      "author": "stock_toaster",
-      "tags": [],
-      "date": "2026-07-10T20:47:09+00:00"
-    },
-    {
-      "id": "hn-48865001",
-      "source": "hn",
-      "title": "The zero-cost fallacy: open-source software in the agentic era",
-      "url": "https://www.thoughtworks.com/insights/blog/open-source/zero-cost-fallacy-open-source-agentic-era",
-      "score": 135,
-      "comments": 103,
-      "author": "backlit4034",
-      "tags": [],
-      "date": "2026-07-10T20:45:43+00:00",
-      "severity": "critical"
-    },
-    {
-      "id": "hn-48864969",
-      "source": "hn",
-      "title": "GhostLock, a stack-UAF that has existed in ALL Linux distributions for 15 years",
-      "url": "https://nebusec.ai/research/ionstack-part-2/",
-      "score": 68,
-      "comments": 13,
-      "author": "djfergus",
-      "tags": [],
-      "date": "2026-07-10T20:43:02+00:00"
-    },
-    {
-      "id": "hn-48864507",
-      "source": "hn",
-      "title": "Don't discontinue Gemini 2.5 Flash",
-      "url": "https://discuss.ai.google.dev/t/please-dont-discontinue-gemini-2-5-flash/174246",
-      "score": 53,
-      "comments": 33,
-      "author": "NickDob",
-      "tags": [],
-      "date": "2026-07-10T20:00:28+00:00"
-    },
-    {
-      "id": "hn-48864252",
-      "source": "hn",
-      "title": "An update on residential proxies and the scraper situation",
-      "url": "https://lwn.net/SubscriberLink/1080822/990a8a5e2d379085/",
-      "score": 290,
-      "comments": 300,
-      "author": "chmaynard",
-      "tags": [],
-      "date": "2026-07-10T19:38:34+00:00",
-      "severity": "medium"
-    },
-    {
-      "id": "hn-48864158",
-      "source": "hn",
-      "title": "Mayor Mamdani Announces Landmark \"Click-to-Cancel\" Consumer Protection Rules",
-      "url": "https://www.nyc.gov/mayors-office/news/2026/07/mayor-mamdani-announces-landmark--click-to-cancel--consumer-prot",
-      "score": 121,
-      "comments": 15,
-      "author": "thisislife2",
-      "tags": [],
-      "date": "2026-07-10T19:30:12+00:00"
-    },
-    {
-      "id": "hn-48863891",
-      "source": "hn",
-      "title": "Show HN: E-- – A language you dial between English and Python",
-      "url": "https://github.com/frmoded/e--",
-      "score": 9,
-      "comments": 10,
-      "author": "OdedF",
-      "tags": [],
-      "date": "2026-07-10T19:08:13+00:00"
-    },
-    {
-      "id": "hn-48863849",
-      "source": "hn",
-      "title": "Materials innovation has a scale-up problem, not discovery",
-      "url": "https://www.atomscale.ai/updates/our-thesis-atom-to-scale",
-      "score": 20,
-      "comments": 6,
-      "author": "groznyj",
-      "tags": [],
-      "date": "2026-07-10T19:03:36+00:00"
-    },
-    {
-      "id": "hn-48863707",
-      "source": "hn",
-      "title": "How the terrorist group Boko Haram uses frontier AI",
-      "url": "https://casp.ac/reports/ai-enabled-terrorism",
-      "score": 154,
-      "comments": 129,
-      "author": "imustachyou",
-      "tags": [],
-      "date": "2026-07-10T18:49:26+00:00"
     },
     {
       "id": "ctf-4113061",

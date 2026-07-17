@@ -1,14 +1,148 @@
 {
-  "updated_at": "2026-07-17T12:42:43.758937+00:00",
+  "updated_at": "2026-07-17T14:43:11.482898+00:00",
   "count": 500,
   "items": [
     {
+      "id": "hn-48947825",
+      "source": "hn",
+      "title": "Mozilla: The state of open source AI",
+      "url": "https://stateofopensource.ai/",
+      "score": 9,
+      "comments": 0,
+      "author": "rellem",
+      "tags": [],
+      "date": "2026-07-17T14:31:10+00:00",
+      "severity": "critical"
+    },
+    {
+      "id": "hn-48947714",
+      "source": "hn",
+      "title": "AI Meets Cryptography 2: What AI Found in OpenVM's ZkVM",
+      "url": "https://blog.zksecurity.xyz/posts/openvm-bugs/",
+      "score": 9,
+      "comments": 0,
+      "author": "duha",
+      "tags": [],
+      "date": "2026-07-17T14:21:35+00:00"
+    },
+    {
+      "id": "hn-48947560",
+      "source": "hn",
+      "title": "First atmosphere found on Earth-like planet in habitable zone of distant star",
+      "url": "https://www.bbc.com/news/articles/cy4kdd1e0ejo",
+      "score": 8,
+      "comments": 0,
+      "author": "neversaydie",
+      "tags": [],
+      "date": "2026-07-17T14:06:13+00:00"
+    },
+    {
+      "id": "hn-48947548",
+      "source": "hn",
+      "title": "Show HN: Watch bots interact with an SSH honeypot in real time",
+      "url": "https://honeypotlive.cc/",
+      "score": 4,
+      "comments": 1,
+      "author": "tusksm",
+      "tags": [],
+      "date": "2026-07-17T14:05:15+00:00"
+    },
+    {
+      "id": "hn-48947490",
+      "source": "hn",
+      "title": "Three ways people respond to a problem (other than solving it)",
+      "url": "https://improvesomething.today/responses-to-problems/",
+      "score": 6,
+      "comments": 1,
+      "author": "surprisetalk",
+      "tags": [],
+      "date": "2026-07-17T14:00:04+00:00"
+    },
+    {
+      "id": "hn-48947455",
+      "source": "hn",
+      "title": "A Road to Lisp: Which Lisp",
+      "url": "https://scotto.me/blog/2026-07-17-which-lisp/",
+      "score": 7,
+      "comments": 0,
+      "author": "silcoon",
+      "tags": [],
+      "date": "2026-07-17T13:56:04+00:00"
+    },
+    {
+      "id": "hn-48947201",
+      "source": "hn",
+      "title": "More Bounce to the Ounce – By Maciej Cegłowski",
+      "url": "https://mceglowski.substack.com/p/more-bounce-to-the-ounce",
+      "score": 3,
+      "comments": 0,
+      "author": "pavel_lishin",
+      "tags": [],
+      "date": "2026-07-17T13:32:11+00:00"
+    },
+    {
+      "id": "hn-48947184",
+      "source": "hn",
+      "title": "PennyLane is an open-source quantum software platform for quantum",
+      "url": "https://github.com/PennyLaneAI/pennylane",
+      "score": 5,
+      "comments": 0,
+      "author": "donutloop",
+      "tags": [],
+      "date": "2026-07-17T13:30:47+00:00",
+      "severity": "critical"
+    },
+    {
+      "id": "hn-48947100",
+      "source": "hn",
+      "title": "Manufact (YC S25) Is Hiring a Senior infra engineer to build the MCP cloud",
+      "url": "https://www.ycombinator.com/companies/manufact/jobs/Dh6PYP5-senior-infrastructure-engineer",
+      "score": 1,
+      "comments": 0,
+      "author": "luigipederzani",
+      "tags": [],
+      "date": "2026-07-17T13:22:33+00:00"
+    },
+    {
+      "id": "hn-48946895",
+      "source": "hn",
+      "title": "Multi-Primary Color Display Emerges as Next-Gen Color Reproduction Technology",
+      "url": "https://en.ubiresearchnet.com/multi-primary-color-display-technology-2026/",
+      "score": 32,
+      "comments": 26,
+      "author": "ksec",
+      "tags": [],
+      "date": "2026-07-17T13:02:07+00:00"
+    },
+    {
+      "id": "hn-48946783",
+      "source": "hn",
+      "title": "Minikotlin",
+      "url": "https://minikotlin.run",
+      "score": 72,
+      "comments": 16,
+      "author": "frizlab",
+      "tags": [],
+      "date": "2026-07-17T12:50:29+00:00"
+    },
+    {
+      "id": "hn-48946692",
+      "source": "hn",
+      "title": "VulnHunter: Capital One's agentic AI code security tool",
+      "url": "https://www.capitalone.com/tech/open-source/announcing-vulnhunter/",
+      "score": 17,
+      "comments": 11,
+      "author": "medina",
+      "tags": [],
+      "date": "2026-07-17T12:42:12+00:00"
+    },
+    {
       "id": "hn-48946010",
       "source": "hn",
-      "title": "Blatant AI slop just won a 25k USD DeepMind Kaggle Grand Prize",
+      "title": "Evidence of inconsistencies in evaluation process and selection of winners",
       "url": "https://www.kaggle.com/competitions/kaggle-measuring-agi/discussion/724918#3498423",
-      "score": 161,
-      "comments": 68,
+      "score": 380,
+      "comments": 213,
       "author": "twerkmeister",
       "tags": [],
       "date": "2026-07-17T11:30:00+00:00"
@@ -93,8 +227,8 @@
       "source": "hn",
       "title": "EEG shows brain can simultaneous encode two speech streams",
       "url": "https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3003876",
-      "score": 155,
-      "comments": 91,
+      "score": 183,
+      "comments": 120,
       "author": "giuliomagnifico",
       "tags": [],
       "date": "2026-07-17T05:51:10+00:00"
@@ -117,8 +251,8 @@
       "source": "hn",
       "title": "Pebble Mega Update – July 2026",
       "url": "https://repebble.com/blog/pebble-mega-update-july-2026",
-      "score": 152,
-      "comments": 72,
+      "score": 193,
+      "comments": 109,
       "author": "crazysaem",
       "tags": [],
       "date": "2026-07-17T03:53:38+00:00",
@@ -129,8 +263,8 @@
       "source": "hn",
       "title": "How Has Roman Concrete Lasted for Millennia? 1,900-Year-Old Latrine Offers Clues",
       "url": "https://www.smithsonianmag.com/smart-news/how-has-roman-concrete-lasted-for-millennia-a-1900-year-old-latrine-offers-new-clues-about-the-materials-impressive-durability-180989115/",
-      "score": 165,
-      "comments": 124,
+      "score": 201,
+      "comments": 149,
       "author": "divbzero",
       "tags": [],
       "date": "2026-07-17T03:48:26+00:00"
@@ -515,8 +649,8 @@
       "source": "hn",
       "title": "Decoy Font",
       "url": "https://www.mixfont.com/experiments/decoy-font",
-      "score": 595,
-      "comments": 139,
+      "score": 628,
+      "comments": 146,
       "author": "ray__",
       "tags": [],
       "date": "2026-07-16T16:18:21+00:00"
@@ -628,8 +762,8 @@
       "source": "hn",
       "title": "Kimi K3: Open Frontier Intelligence",
       "url": "https://www.kimi.com/blog/kimi-k3",
-      "score": 1747,
-      "comments": 1026,
+      "score": 1843,
+      "comments": 1091,
       "author": "vincent_s",
       "tags": [],
       "date": "2026-07-16T14:46:05+00:00"
@@ -2489,6 +2623,17 @@
       "date": "2026-07-14T14:17:39+00:00"
     },
     {
+      "id": "hn-48907263",
+      "source": "hn",
+      "title": "Tannakian Reconstruction",
+      "url": "https://bartoszmilewski.com/2026/07/14/tannakian-reconstruction/",
+      "score": 7,
+      "comments": 0,
+      "author": "ibobev",
+      "tags": [],
+      "date": "2026-07-14T14:15:51+00:00"
+    },
+    {
       "id": "hn-48907214",
       "source": "hn",
       "title": "OpenAI mandates hardware-backed passkeys for Trusted Access Cyber members",
@@ -3263,8 +3408,8 @@
       "source": "hn",
       "title": "Turn your singing voice into printable notes (in the browser)",
       "url": "https://om-intelligence.ch/projects/vocal-notation/vocal-notation.html",
-      "score": 45,
-      "comments": 18,
+      "score": 67,
+      "comments": 22,
       "author": "busssard",
       "tags": [],
       "date": "2026-07-14T00:10:36+00:00"
@@ -5033,164 +5178,12 @@
       "date": "2026-07-12T11:18:32+00:00"
     },
     {
-      "id": "hn-48880170",
-      "source": "hn",
-      "title": "Old and new apps, via modern coding agents",
-      "url": "https://terrytao.wordpress.com/2026/07/11/old-and-new-apps-via-modern-coding-agents/",
-      "score": 420,
-      "comments": 122,
-      "author": "subset",
-      "tags": [],
-      "date": "2026-07-12T11:09:42+00:00"
-    },
-    {
-      "id": "hn-48880037",
-      "source": "hn",
-      "title": "Sen. Lindsey Graham dies at 71 after 'brief and sudden illness'",
-      "url": "https://www.nbcnews.com/politics/politics-news/sen-lindsey-graham-dies-71-brief-sudden-illness-rcna552722",
-      "score": 5,
-      "comments": 0,
-      "author": "colinprince",
-      "tags": [],
-      "date": "2026-07-12T10:44:49+00:00"
-    },
-    {
-      "id": "hn-48879950",
-      "source": "hn",
-      "title": "Datacentres drive up big tech's carbon emissions to a third of those of France",
-      "url": "https://www.theguardian.com/us-news/2026/jul/11/microsoft-amazon-google-datacentre-carbon-emissions-france",
-      "score": 52,
-      "comments": 56,
-      "author": "YeGoblynQueenne",
-      "tags": [],
-      "date": "2026-07-12T10:23:25+00:00"
-    },
-    {
-      "id": "hn-48879902",
-      "source": "hn",
-      "title": "Death of the Status Update: Why 55% of Americans Stopped Posting on Social Media",
-      "url": "https://ca.pcmag.com/social-media/16790/the-death-of-the-status-update-why-55-of-americans-stopped-posting-on-social-media",
-      "score": 65,
-      "comments": 68,
-      "author": "thunderbong",
-      "tags": [],
-      "date": "2026-07-12T10:14:40+00:00",
-      "severity": "medium"
-    },
-    {
-      "id": "qiita-1662a8eb61",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "Maxwell 方程式から見るインダクタンス：自己インダクタンスと相互インダクタンスの正体",
-      "url": "https://qiita.com/yamadasuzaku/items/3c0915059c98005bdb91?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "yamadasuzaku",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-07-12T18:10:20+09:00"
-    },
-    {
-      "id": "hn-48879529",
-      "source": "hn",
-      "title": "In Praise of Exhaustive Destructuring",
-      "url": "https://antoine.vandecreme.net/blog/exhaustive-destructuring-praise/",
-      "score": 29,
-      "comments": 6,
-      "author": "avandecreme",
-      "tags": [],
-      "date": "2026-07-12T08:58:15+00:00"
-    },
-    {
-      "id": "hn-48879504",
-      "source": "hn",
-      "title": "Ghostel.el: Terminal emulator powered by libghostty",
-      "url": "https://dakra.github.io/ghostel/",
-      "score": 236,
-      "comments": 39,
-      "author": "signa11",
-      "tags": [],
-      "date": "2026-07-12T08:52:59+00:00"
-    },
-    {
-      "id": "qiita-4fbc4c89e1",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "「15歳とChatGPT」より、4万6812件が退会させられたシステムについて考えたい",
-      "url": "https://qiita.com/ZiYuCai1984/items/636c7c15cd666e987a90?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "ZiYuCai1984",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-07-12T16:15:00+09:00"
-    },
-    {
-      "id": "qiita-328c602ff7",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "ollama-pythonで文章校正",
-      "url": "https://qiita.com/AzukiImo/items/8aae8d912a016eea7683?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "AzukiImo",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-07-12T15:14:17+09:00"
-    },
-    {
-      "id": "hn-48878682",
-      "source": "hn",
-      "title": "Show HN: Mindwalk – Replay coding-agent sessions on a 3D map of your codebase",
-      "url": "https://github.com/cosmtrek/mindwalk",
-      "score": 136,
-      "comments": 59,
-      "author": "cosmtrek",
-      "tags": [],
-      "date": "2026-07-12T05:51:32+00:00"
-    },
-    {
-      "id": "qiita-944ec7d881",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "AtCoderで入緑しました！",
-      "url": "https://qiita.com/WebP/items/e57e661b4131a074a8e2?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "WebP",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-07-12T14:37:16+09:00"
-    },
-    {
-      "id": "hn-48877137",
-      "source": "hn",
-      "title": "Old Icons",
-      "url": "https://leancrew.com/all-this/2026/07/old-icons/",
-      "score": 75,
-      "comments": 21,
-      "author": "zdw",
-      "tags": [],
-      "date": "2026-07-12T00:24:24+00:00"
-    },
-    {
-      "id": "hn-48876811",
-      "source": "hn",
-      "title": "Starlink from 1984",
-      "url": "https://nemanjatrifunovic.substack.com/p/starlink-from-1984",
-      "score": 54,
-      "comments": 21,
-      "author": "ingve",
-      "tags": [],
-      "date": "2026-07-11T23:26:32+00:00"
-    },
-    {
       "id": "hn-48862165",
       "source": "hn",
       "title": "An Engineer's Guide to USB Typе-С (2024)",
       "url": "https://www.ti.com/lit/eb/slyy228/slyy228.pdf?ts=1759892558029",
-      "score": 205,
-      "comments": 22,
+      "score": 234,
+      "comments": 34,
       "author": "gregsadetsky",
       "tags": [],
       "date": "2026-07-10T16:31:26+00:00"
@@ -5214,8 +5207,8 @@
       "source": "hn",
       "title": "Camera Chase Vehicle",
       "url": "https://transistor-man.com/gimbal_camera_rover.html",
-      "score": 39,
-      "comments": 5,
+      "score": 87,
+      "comments": 11,
       "author": "geerlingguy",
       "tags": [],
       "date": "2026-07-10T02:17:55+00:00"

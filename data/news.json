@@ -1,14 +1,25 @@
 {
-  "updated_at": "2026-07-17T23:23:38.675460+00:00",
+  "updated_at": "2026-07-18T00:55:23.731165+00:00",
   "count": 500,
   "items": [
+    {
+      "id": "hn-48953406",
+      "source": "hn",
+      "title": "The Isomorphic Labs Drug Design Engine unlocks a new frontier beyond AlphaFold",
+      "url": "https://www.isomorphiclabs.com/articles/the-isomorphic-labs-drug-design-engine-unlocks-a-new-frontier",
+      "score": 20,
+      "comments": 0,
+      "author": "andsoitis",
+      "tags": [],
+      "date": "2026-07-17T23:26:35+00:00"
+    },
     {
       "id": "hn-48952939",
       "source": "hn",
       "title": "Texas wins court order to suspend domain name for violating age-verification law",
       "url": "https://www.texasattorneygeneral.gov/news/releases/attorney-general-ken-paxton-secures-landmark-legal-victory-lock-pornographic-website-domain-and",
-      "score": 3,
-      "comments": 0,
+      "score": 91,
+      "comments": 74,
       "author": "letmevoteplease",
       "tags": [],
       "date": "2026-07-17T22:35:55+00:00"
@@ -18,11 +29,22 @@
       "source": "hn",
       "title": "Kaiser nurses say AI, workplace surveillance are making their jobs, care worse",
       "url": "https://localnewsmatters.org/2026/07/15/kaiser-nurses-say-ai-workplace-surveillance-are-making-their-jobs-and-patient-care-worse/",
-      "score": 89,
-      "comments": 60,
+      "score": 214,
+      "comments": 139,
       "author": "gnabgib",
       "tags": [],
       "date": "2026-07-17T22:26:30+00:00"
+    },
+    {
+      "id": "hn-48952565",
+      "source": "hn",
+      "title": "TP-Link Kasa cameras leaked home GPS via unauthenticated UDP for 6 years",
+      "url": "https://github.com/BadChemical/IoT-Vulnerability-Research-Public/blob/main/TP-Link_Kasa_EC71/Kasa_EC71.md",
+      "score": 8,
+      "comments": 0,
+      "author": "BadChemical",
+      "tags": [],
+      "date": "2026-07-17T21:42:43+00:00"
     },
     {
       "id": "hn-48952561",
@@ -40,8 +62,8 @@
       "source": "hn",
       "title": "FAA lets Boeing sign off on 737 MAX, 787 airworthiness certificates again",
       "url": "https://www.cnbc.com/2026/07/17/faa-boeing-737-max-787.html",
-      "score": 74,
-      "comments": 38,
+      "score": 106,
+      "comments": 61,
       "author": "hmm37",
       "tags": [],
       "date": "2026-07-17T21:22:53+00:00"
@@ -51,8 +73,8 @@
       "source": "hn",
       "title": "Open Book Touch: open-source e-reader",
       "url": "https://www.crowdsupply.com/oddly-specific-objects/open-book-touch",
-      "score": 15,
-      "comments": 1,
+      "score": 44,
+      "comments": 8,
       "author": "surprisetalk",
       "tags": [],
       "date": "2026-07-17T20:47:57+00:00",
@@ -63,8 +85,8 @@
       "source": "hn",
       "title": "Topcoat: The full full-stack framework for Rust",
       "url": "https://github.com/tokio-rs/topcoat",
-      "score": 17,
-      "comments": 8,
+      "score": 30,
+      "comments": 22,
       "author": "wertyk",
       "tags": [],
       "date": "2026-07-17T20:41:43+00:00"
@@ -74,8 +96,8 @@
       "source": "hn",
       "title": "Static search trees: 40x faster than binary search (2024)",
       "url": "https://curiouscoding.nl/posts/static-search-tree/",
-      "score": 14,
-      "comments": 0,
+      "score": 32,
+      "comments": 2,
       "author": "lalitmaganti",
       "tags": [],
       "date": "2026-07-17T20:24:55+00:00"
@@ -85,8 +107,8 @@
       "source": "hn",
       "title": "Painting the sides of railroad rails white to reduce derailment",
       "url": "https://www.up.com/news/safety/Tracking-Rail-Heat-260608",
-      "score": 15,
-      "comments": 2,
+      "score": 30,
+      "comments": 9,
       "author": "zdw",
       "tags": [],
       "date": "2026-07-17T20:12:59+00:00"
@@ -96,8 +118,8 @@
       "source": "hn",
       "title": "The Zilog Z80 has turned 50",
       "url": "https://goliath32.com/blog/z80.html",
-      "score": 138,
-      "comments": 37,
+      "score": 157,
+      "comments": 47,
       "author": "st_goliath",
       "tags": [],
       "date": "2026-07-17T19:41:02+00:00"
@@ -118,8 +140,8 @@
       "source": "hn",
       "title": "Show HN: A zoomable timeline of 4M Wikipedia events",
       "url": "https://app.everything.diena.co/",
-      "score": 42,
-      "comments": 22,
+      "score": 53,
+      "comments": 23,
       "author": "lortex",
       "tags": [],
       "date": "2026-07-17T18:37:33+00:00"
@@ -129,8 +151,8 @@
       "source": "hn",
       "title": "Lego building instructions through time",
       "url": "https://www.lego.com/en-us/history/articles/d-lego-building-instructions-through-time",
-      "score": 37,
-      "comments": 7,
+      "score": 53,
+      "comments": 9,
       "author": "NaOH",
       "tags": [],
       "date": "2026-07-17T18:21:14+00:00"
@@ -140,8 +162,8 @@
       "source": "hn",
       "title": "Learning a few things about running SQLite",
       "url": "https://jvns.ca/blog/2026/07/17/learning-about-running-sqlite/",
-      "score": 131,
-      "comments": 29,
+      "score": 153,
+      "comments": 38,
       "author": "surprisetalk",
       "tags": [],
       "date": "2026-07-17T17:45:41+00:00"
@@ -219,8 +241,8 @@
       "source": "hn",
       "title": "The state of open source AI",
       "url": "https://stateofopensource.ai/",
-      "score": 352,
-      "comments": 255,
+      "score": 363,
+      "comments": 264,
       "author": "rellem",
       "tags": [],
       "date": "2026-07-17T14:31:10+00:00",
@@ -253,8 +275,8 @@
       "source": "hn",
       "title": "Kimi K3, and what we can still learn from the pelican benchmark",
       "url": "https://simonwillison.net/2026/Jul/16/kimi-k3/",
-      "score": 241,
-      "comments": 138,
+      "score": 266,
+      "comments": 143,
       "author": "droidjj",
       "tags": [],
       "date": "2026-07-17T14:21:51+00:00"
@@ -275,8 +297,8 @@
       "source": "hn",
       "title": "First atmosphere found on Earth-like planet in habitable zone of distant star",
       "url": "https://www.bbc.com/news/articles/cy4kdd1e0ejo",
-      "score": 336,
-      "comments": 218,
+      "score": 358,
+      "comments": 224,
       "author": "neversaydie",
       "tags": [],
       "date": "2026-07-17T14:06:13+00:00"
@@ -286,8 +308,8 @@
       "source": "hn",
       "title": "Show HN: Watch bots interact with an SSH honeypot in real time",
       "url": "https://honeypotlive.cc/",
-      "score": 135,
-      "comments": 48,
+      "score": 138,
+      "comments": 49,
       "author": "tusksm",
       "tags": [],
       "date": "2026-07-17T14:05:15+00:00"
@@ -297,8 +319,8 @@
       "source": "hn",
       "title": "Three ways people respond to a problem (other than solving it)",
       "url": "https://improvesomething.today/responses-to-problems/",
-      "score": 170,
-      "comments": 93,
+      "score": 189,
+      "comments": 109,
       "author": "surprisetalk",
       "tags": [],
       "date": "2026-07-17T14:00:04+00:00"
@@ -2785,8 +2807,8 @@
       "source": "hn",
       "title": "MoonBASIC: A modern BASIC for building 2D and 3D games",
       "url": "https://github.com/CharmingBlaze/moonbasic",
-      "score": 40,
-      "comments": 9,
+      "score": 47,
+      "comments": 12,
       "author": "klaussilveira",
       "tags": [],
       "date": "2026-07-14T17:53:06+00:00"
@@ -3869,8 +3891,8 @@
       "source": "hn",
       "title": "Lobste.rs is now running on SQLite",
       "url": "https://lobste.rs/s/ko1ji1",
-      "score": 110,
-      "comments": 81,
+      "score": 144,
+      "comments": 110,
       "author": "abetusk",
       "tags": [],
       "date": "2026-07-13T22:35:49+00:00"
@@ -4249,6 +4271,17 @@
       "author": "mathaix",
       "tags": [],
       "date": "2026-07-13T17:45:29+00:00"
+    },
+    {
+      "id": "hn-48896149",
+      "source": "hn",
+      "title": "Vāgdhenu: A Sanskrit Chanting TTS System",
+      "url": "https://prathosh.in/vagdhenu/",
+      "score": 21,
+      "comments": 0,
+      "author": "subinalex",
+      "tags": [],
+      "date": "2026-07-13T17:43:26+00:00"
     },
     {
       "id": "hn-48896044",
@@ -4851,8 +4884,8 @@
       "source": "hn",
       "title": "Frank Lloyd Wright’s first home",
       "url": "https://www.architecturaldigest.com/story/frank-lloyd-wright-home-and-studio-everything-you-need-to-know",
-      "score": 67,
-      "comments": 37,
+      "score": 72,
+      "comments": 41,
       "author": "NaOH",
       "tags": [],
       "date": "2026-07-13T02:23:19+00:00"
@@ -5167,45 +5200,12 @@
       "date": "2026-07-12T19:00:49+00:00"
     },
     {
-      "id": "hn-48883467",
-      "source": "hn",
-      "title": "Dense Arena Interning: The Engine of Compiler Performance",
-      "url": "https://aikoschurmann.com/blog/string-interning-compilers",
-      "score": 5,
-      "comments": 0,
-      "author": "g0xA52A2A",
-      "tags": [],
-      "date": "2026-07-12T18:48:41+00:00"
-    },
-    {
-      "id": "hn-48883415",
-      "source": "hn",
-      "title": "The One-Step Trap (In AI Research)",
-      "url": "http://incompleteideas.net/IncIdeas/OneStepTrap.html",
-      "score": 38,
-      "comments": 7,
-      "author": "jxmorris12",
-      "tags": [],
-      "date": "2026-07-12T18:41:15+00:00"
-    },
-    {
-      "id": "hn-48883343",
-      "source": "hn",
-      "title": "I love LLMs, I hate hype",
-      "url": "https://geohot.github.io//blog/jekyll/update/2026/07/12/i-love-llms.html",
-      "score": 335,
-      "comments": 204,
-      "author": "therepanic",
-      "tags": [],
-      "date": "2026-07-12T18:31:56+00:00"
-    },
-    {
       "id": "hn-48863036",
       "source": "hn",
       "title": "\"Disk Not Ejected Properly\": What It Means",
       "url": "https://bombich.com/blog/2026/07/07/disk-not-ejected-properly",
-      "score": 3,
-      "comments": 0,
+      "score": 19,
+      "comments": 5,
       "author": "speckx",
       "tags": [],
       "date": "2026-07-10T17:48:53+00:00"
@@ -5378,6 +5378,32 @@
       "date": "Fri, 17 Jul 2026 05:56:17 GMT"
     },
     {
+      "id": "zenn-1b17adb17d",
+      "source": "zennqiita",
+      "sub_source": "Zenn",
+      "title": "OpenTelemetryのConsistent Probability Samplingを理解する",
+      "url": "https://zenn.dev/ymotongpoo/articles/20260717-cps",
+      "score": null,
+      "author": "Yoshi Yamaguchi",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Fri, 17 Jul 2026 05:20:31 GMT"
+    },
+    {
+      "id": "zenn-f3ef28ff48",
+      "source": "zennqiita",
+      "sub_source": "Zenn",
+      "title": "Fable 5はeffort=lowでも“使える”のか？　React習熟度ベンチマーク",
+      "url": "https://zenn.dev/uhyo/articles/react-profession-bench-13",
+      "score": null,
+      "author": "uhyo",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Fri, 17 Jul 2026 00:53:45 GMT"
+    },
+    {
       "id": "zenn-c94a3dcb3a",
       "source": "zennqiita",
       "sub_source": "Zenn",
@@ -5389,19 +5415,6 @@
         "Zenn"
       ],
       "date": "Thu, 16 Jul 2026 22:38:53 GMT"
-    },
-    {
-      "id": "zenn-920144d2c8",
-      "source": "zennqiita",
-      "sub_source": "Zenn",
-      "title": "CloudFront VPC Originsとは何だったのか？ 障害から学ぶ「便利機能」の裏側",
-      "url": "https://zenn.dev/kamegoro/articles/aws-cloudfront-vpc-origins-outage-20260716",
-      "score": null,
-      "author": "かめさん",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Thu, 16 Jul 2026 16:37:57 GMT"
     },
     {
       "id": "zenn-083193fe6e",
@@ -5417,19 +5430,6 @@
       "date": "Thu, 16 Jul 2026 15:02:58 GMT"
     },
     {
-      "id": "zenn-09dff535ae",
-      "source": "zennqiita",
-      "sub_source": "Zenn",
-      "title": "SwiftだけでWebをつくって、運用する",
-      "url": "https://zenn.dev/1amageek/articles/swift-web-fullstack",
-      "score": null,
-      "author": "1amageek",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Thu, 16 Jul 2026 12:20:27 GMT"
-    },
-    {
       "id": "zenn-7b48d7d6a2",
       "source": "zennqiita",
       "sub_source": "Zenn",
@@ -5443,17 +5443,30 @@
       "date": "Thu, 16 Jul 2026 07:40:05 GMT"
     },
     {
-      "id": "zenn-5557de1632",
+      "id": "zenn-18b46426f4",
       "source": "zennqiita",
       "sub_source": "Zenn",
-      "title": "Claude Codeのskillをskillでレビューする ― 静的チェック×LLMレビュー×git hooksの3層ゲート",
-      "url": "https://zenn.dev/aldagram_tech/articles/c407ae672c9c0e",
+      "title": "docker compose up だけでシークレットを注入する docker-valsの紹介",
+      "url": "https://zenn.dev/estie/articles/df0fd5f0326f9a",
       "score": null,
-      "author": "chiba_k",
+      "author": "rajyan",
       "tags": [
         "Zenn"
       ],
-      "date": "Thu, 16 Jul 2026 01:00:09 GMT"
+      "date": "Thu, 16 Jul 2026 05:25:29 GMT"
+    },
+    {
+      "id": "zenn-5b3195d153",
+      "source": "zennqiita",
+      "sub_source": "Zenn",
+      "title": "SQL MCP Server が GA したらしい",
+      "url": "https://zenn.dev/microsoft/articles/1113250e1e63dc",
+      "score": null,
+      "author": "takashi honma",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Thu, 16 Jul 2026 04:43:35 GMT"
     },
     {
       "id": "zenn-c376d69425",
@@ -5480,19 +5493,6 @@
         "Zenn"
       ],
       "date": "Wed, 15 Jul 2026 22:25:21 GMT"
-    },
-    {
-      "id": "zenn-1368334e83",
-      "source": "zennqiita",
-      "sub_source": "Zenn",
-      "title": "LLM の可観測性ツールを決めきれないので、OpenTelemetry で決めない構成にした",
-      "url": "https://zenn.dev/optimisuke/articles/8f2ce41b9a7d30",
-      "score": null,
-      "author": "Naosuke",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Wed, 15 Jul 2026 11:00:06 GMT"
     },
     {
       "id": "zenn-52f8392b6d",

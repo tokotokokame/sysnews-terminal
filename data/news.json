@@ -1,7 +1,41 @@
 {
-  "updated_at": "2026-07-18T09:56:06.610039+00:00",
+  "updated_at": "2026-07-18T11:05:00.777155+00:00",
   "count": 500,
   "items": [
+    {
+      "id": "hn-48956688",
+      "source": "hn",
+      "title": "LG monitors silently install software through Windows Update without consent",
+      "url": "https://videocardz.com/newz/lg-monitors-silently-install-software-through-windows-update-without-user-consent",
+      "score": 21,
+      "comments": 0,
+      "author": "baranul",
+      "tags": [],
+      "date": "2026-07-18T10:21:19+00:00",
+      "severity": "medium"
+    },
+    {
+      "id": "hn-48956307",
+      "source": "hn",
+      "title": "Qubes OS Security in the Public Record",
+      "url": "https://arxiv.org/abs/2607.14587",
+      "score": 11,
+      "comments": 0,
+      "author": "sciences44",
+      "tags": [],
+      "date": "2026-07-18T08:50:07+00:00"
+    },
+    {
+      "id": "hn-48956231",
+      "source": "hn",
+      "title": "The Computer at the Bottom of a Canal",
+      "url": "https://negroniventurestudios.com/2026/07/18/the-computer-at-the-bottom-of-a-canal/",
+      "score": 11,
+      "comments": 1,
+      "author": "Kudos",
+      "tags": [],
+      "date": "2026-07-18T08:33:31+00:00"
+    },
     {
       "id": "qiita-f0c1fcf50c",
       "source": "zennqiita",
@@ -55,8 +89,8 @@
       "source": "hn",
       "title": "Show HN: IKEA Complexity Index",
       "url": "https://ikea.greg.technology/",
-      "score": 36,
-      "comments": 16,
+      "score": 59,
+      "comments": 28,
       "author": "gregsadetsky",
       "tags": [],
       "date": "2026-07-18T03:51:42+00:00"
@@ -66,8 +100,8 @@
       "source": "hn",
       "title": "Regressive JPEGs",
       "url": "https://maurycyz.com/projects/bad_jpeg/",
-      "score": 332,
-      "comments": 30,
+      "score": 391,
+      "comments": 38,
       "author": "vitaut",
       "tags": [],
       "date": "2026-07-18T03:14:20+00:00"
@@ -88,8 +122,8 @@
       "source": "hn",
       "title": "I started a “dirt notebook”",
       "url": "https://pinewind.bearblog.dev/i-started-a-dirt-notebook/",
-      "score": 66,
-      "comments": 55,
+      "score": 70,
+      "comments": 60,
       "author": "herbertl",
       "tags": [],
       "date": "2026-07-18T01:12:13+00:00"
@@ -110,8 +144,8 @@
       "source": "hn",
       "title": "Stenchill: 3D Printable Solder Paste Stencil Generator",
       "url": "https://www.stenchill.com/en/",
-      "score": 54,
-      "comments": 16,
+      "score": 59,
+      "comments": 17,
       "author": "radeeyate",
       "tags": [],
       "date": "2026-07-18T00:48:37+00:00"
@@ -154,8 +188,8 @@
       "source": "hn",
       "title": "TP-Link Kasa cameras leaked home GPS via unauthenticated UDP for 6 years",
       "url": "https://github.com/BadChemical/IoT-Vulnerability-Research-Public/blob/main/TP-Link_Kasa_EC71/Kasa_EC71.md",
-      "score": 130,
-      "comments": 33,
+      "score": 141,
+      "comments": 42,
       "author": "BadChemical",
       "tags": [],
       "date": "2026-07-17T21:42:43+00:00"
@@ -210,7 +244,7 @@
       "source": "hn",
       "title": "Static search trees: 40x faster than binary search (2024)",
       "url": "https://curiouscoding.nl/posts/static-search-tree/",
-      "score": 124,
+      "score": 136,
       "comments": 6,
       "author": "lalitmaganti",
       "tags": [],
@@ -221,8 +255,8 @@
       "source": "hn",
       "title": "Painting the sides of railroad rails white to reduce derailment",
       "url": "https://www.up.com/news/safety/Tracking-Rail-Heat-260608",
-      "score": 97,
-      "comments": 49,
+      "score": 105,
+      "comments": 55,
       "author": "zdw",
       "tags": [],
       "date": "2026-07-17T20:12:59+00:00"
@@ -232,8 +266,8 @@
       "source": "hn",
       "title": "The Zilog Z80 has turned 50",
       "url": "https://goliath32.com/blog/z80.html",
-      "score": 224,
-      "comments": 80,
+      "score": 232,
+      "comments": 91,
       "author": "st_goliath",
       "tags": [],
       "date": "2026-07-17T19:41:02+00:00"
@@ -265,8 +299,8 @@
       "source": "hn",
       "title": "Lego building instructions through time",
       "url": "https://www.lego.com/en-us/history/articles/d-lego-building-instructions-through-time",
-      "score": 124,
-      "comments": 31,
+      "score": 130,
+      "comments": 32,
       "author": "NaOH",
       "tags": [],
       "date": "2026-07-17T18:21:14+00:00"
@@ -289,7 +323,7 @@
       "source": "hn",
       "title": "Learning a few things about running SQLite",
       "url": "https://jvns.ca/blog/2026/07/17/learning-about-running-sqlite/",
-      "score": 253,
+      "score": 261,
       "comments": 68,
       "author": "surprisetalk",
       "tags": [],
@@ -415,8 +449,8 @@
       "source": "hn",
       "title": "Kimi K3, and what we can still learn from the pelican benchmark",
       "url": "https://simonwillison.net/2026/Jul/16/kimi-k3/",
-      "score": 340,
-      "comments": 182,
+      "score": 349,
+      "comments": 184,
       "author": "droidjj",
       "tags": [],
       "date": "2026-07-17T14:21:51+00:00"
@@ -437,8 +471,8 @@
       "source": "hn",
       "title": "First atmosphere found on Earth-like planet in habitable zone of distant star",
       "url": "https://www.bbc.com/news/articles/cy4kdd1e0ejo",
-      "score": 460,
-      "comments": 272,
+      "score": 466,
+      "comments": 275,
       "author": "neversaydie",
       "tags": [],
       "date": "2026-07-17T14:06:13+00:00"
@@ -835,8 +869,8 @@
       "source": "hn",
       "title": "In-toto: A framework to secure the integrity of software supply chains",
       "url": "https://in-toto.io/",
-      "score": 28,
-      "comments": 0,
+      "score": 37,
+      "comments": 1,
       "author": "Erenay09",
       "tags": [],
       "date": "2026-07-17T02:00:38+00:00"
@@ -918,8 +952,8 @@
       "source": "hn",
       "title": "Battery packs: Let's talk about crates, baby",
       "url": "https://smallcultfollowing.com/babysteps/blog/2026/07/15/battery-packs/",
-      "score": 23,
-      "comments": 9,
+      "score": 27,
+      "comments": 13,
       "author": "MeetingsBrowser",
       "tags": [],
       "date": "2026-07-16T22:48:44+00:00"
@@ -2117,6 +2151,17 @@
       "date": "2026-07-15T18:08:40+00:00"
     },
     {
+      "id": "hn-48923929",
+      "source": "hn",
+      "title": "Funny item co-occurrences in 3.2M Instacart orders",
+      "url": "https://rogerdickey.com/funny-item-co-occurrences-in-3-million-instacart-orders/",
+      "score": 15,
+      "comments": 12,
+      "author": "rogerdickey",
+      "tags": [],
+      "date": "2026-07-15T17:06:43+00:00"
+    },
+    {
       "id": "hn-48923833",
       "source": "hn",
       "title": "Artie (YC S23) Is Hiring Software Engineers",
@@ -2602,8 +2647,8 @@
       "source": "hn",
       "title": "Porting nanochat to a TPU: what carries over from PyTorch, and what breaks",
       "url": "https://github.com/tucan9389/nanochat-jax/discussions/1",
-      "score": 28,
-      "comments": 3,
+      "score": 37,
+      "comments": 7,
       "author": "tucan9389",
       "tags": [],
       "date": "2026-07-15T08:18:25+00:00"
@@ -3317,8 +3362,8 @@
       "source": "hn",
       "title": "Reviving a 15-year-old netbook with Arch Linux",
       "url": "https://parksb.github.io/en/article/41.html",
-      "score": 110,
-      "comments": 69,
+      "score": 118,
+      "comments": 79,
       "author": "parksb",
       "tags": [],
       "date": "2026-07-14T14:02:36+00:00"
@@ -3365,8 +3410,8 @@
       "source": "hn",
       "title": "An Update on Igalia's Layer Based SVG Engine in WebKit (Reducing Layer Overhead)",
       "url": "https://blogs.igalia.com/nzimmermann/posts/2026-07-14-lbse-conditional-layers/",
-      "score": 46,
-      "comments": 2,
+      "score": 49,
+      "comments": 3,
       "author": "bkardell",
       "tags": [],
       "date": "2026-07-14T12:59:58+00:00",
@@ -4551,8 +4596,8 @@
       "source": "hn",
       "title": "Vāgdhenu: A Sanskrit Chanting TTS System",
       "url": "https://prathosh.in/vagdhenu/",
-      "score": 170,
-      "comments": 44,
+      "score": 181,
+      "comments": 47,
       "author": "subinalex",
       "tags": [],
       "date": "2026-07-13T17:43:26+00:00"
@@ -5165,62 +5210,12 @@
       "date": "2026-07-13T02:23:19+00:00"
     },
     {
-      "id": "qiita-ff383e8d3b",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "もうClaudeのモデル選びで迷わない — Anthropicが教える独自Eval（評価テスト）と「成功1件あたりのコスト」の測り方",
-      "url": "https://qiita.com/nogataka/items/6cd8c6ea583221e45def?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "nogataka",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-07-13T11:05:47+09:00"
-    },
-    {
-      "id": "qiita-abdc772168",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "GoでWeb APIを書くときにやりがちなアンチパターン5選",
-      "url": "https://qiita.com/Sakaaaaai/items/05a3419cbe1afc7c3e56?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "Sakaaaaai",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-07-13T11:03:20+09:00"
-    },
-    {
-      "id": "hn-48886881",
-      "source": "hn",
-      "title": "Modernizing Property Tax Assessments in Allegheny County",
-      "url": "https://www.prohousingpgh.org/blog/new-report-modernizing-property-tax-assessments-in-allegheny-county",
-      "score": 14,
-      "comments": 1,
-      "author": "mooreds",
-      "tags": [],
-      "date": "2026-07-13T01:47:21+00:00"
-    },
-    {
-      "id": "qiita-a47702c6ad",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "あなたの技術ブログの「AI臭さ」を抜くスキル公開します",
-      "url": "https://qiita.com/minorun365/items/699e89544da8b0de300d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "minorun365",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-07-13T09:57:44+09:00"
-    },
-    {
       "id": "hn-48880258",
       "source": "hn",
       "title": "Waldi: A quiet place to write, and to be read",
       "url": "https://github.com/waaldev/waldi",
-      "score": 6,
-      "comments": 1,
+      "score": 12,
+      "comments": 9,
       "author": "waaldev",
       "tags": [],
       "date": "2026-07-12T11:26:46+00:00"
@@ -5380,17 +5375,17 @@
       "date": "2023-05-23T17:06:23Z"
     },
     {
-      "id": "zenn-8d719c8c2a",
+      "id": "zenn-557dd6f97b",
       "source": "zennqiita",
       "sub_source": "Zenn",
-      "title": "CloudFront VPC Origin障害をどう切り分けて復旧したか",
-      "url": "https://zenn.dev/nextbeat/articles/aws-vpc-origin-outage-troubleshooting",
+      "title": "Claude Codeと取り組んだ大規模レガシー移行の記録",
+      "url": "https://zenn.dev/luup_developers/articles/server-jang-20260716",
       "score": null,
-      "author": "takapi",
+      "author": "Luup Developers",
       "tags": [
         "Zenn"
       ],
-      "date": "Fri, 17 Jul 2026 08:02:12 GMT"
+      "date": "Fri, 17 Jul 2026 11:43:49 GMT"
     },
     {
       "id": "zenn-a056b0a267",
@@ -5406,30 +5401,30 @@
       "date": "Fri, 17 Jul 2026 05:56:17 GMT"
     },
     {
-      "id": "zenn-8c8a18e41e",
+      "id": "zenn-fc1550dc37",
       "source": "zennqiita",
       "sub_source": "Zenn",
-      "title": "メモリリークの正体は glibc malloc だった ── Python 以外でも効く LD_PRELOAD 1 行のアロケータ差し替え",
-      "url": "https://zenn.dev/pksha/articles/python-memory-leak-jemalloc",
+      "title": "GitHub Release 作成をパッケージリリースのトリガーにするな！",
+      "url": "https://zenn.dev/yumemi_inc/articles/github-release-not-a-publish-trigger",
       "score": null,
-      "author": "Arumakan1727",
+      "author": "mpyw",
       "tags": [
         "Zenn"
       ],
-      "date": "Fri, 17 Jul 2026 05:27:27 GMT"
+      "date": "Fri, 17 Jul 2026 05:22:08 GMT"
     },
     {
-      "id": "zenn-1b17adb17d",
+      "id": "zenn-f3ef28ff48",
       "source": "zennqiita",
       "sub_source": "Zenn",
-      "title": "OpenTelemetryのConsistent Probability Samplingを理解する",
-      "url": "https://zenn.dev/ymotongpoo/articles/20260717-cps",
+      "title": "Fable 5はeffort=lowでも“使える”のか？　React習熟度ベンチマーク",
+      "url": "https://zenn.dev/uhyo/articles/react-profession-bench-13",
       "score": null,
-      "author": "Yoshi Yamaguchi",
+      "author": "uhyo",
       "tags": [
         "Zenn"
       ],
-      "date": "Fri, 17 Jul 2026 05:20:31 GMT"
+      "date": "Fri, 17 Jul 2026 00:53:45 GMT"
     },
     {
       "id": "zenn-083193fe6e",
@@ -5443,6 +5438,19 @@
         "Zenn"
       ],
       "date": "Thu, 16 Jul 2026 15:02:58 GMT"
+    },
+    {
+      "id": "zenn-a3d5a21439",
+      "source": "zennqiita",
+      "sub_source": "Zenn",
+      "title": "Strategy Pattern を ABC で書くか、Protocol で書くか",
+      "url": "https://zenn.dev/zozotech/articles/6717b887482e4e",
+      "score": null,
+      "author": "かみけん",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Thu, 16 Jul 2026 12:59:49 GMT"
     },
     {
       "id": "zenn-09dff535ae",
@@ -5547,19 +5555,6 @@
         "Zenn"
       ],
       "date": "Wed, 15 Jul 2026 09:00:13 GMT"
-    },
-    {
-      "id": "zenn-4d78ede967",
-      "source": "zennqiita",
-      "sub_source": "Zenn",
-      "title": "社内PCで動く簡易アプリはElectronとPythonスクリプトのどちらが向いているか",
-      "url": "https://zenn.dev/syunpp/articles/electron-local-business-app",
-      "score": null,
-      "author": "syunpp",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Wed, 15 Jul 2026 04:24:55 GMT"
     },
     {
       "id": "zenn-791fdca732",

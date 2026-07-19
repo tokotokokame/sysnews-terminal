@@ -1,7 +1,40 @@
 {
-  "updated_at": "2026-07-19T19:41:35.755343+00:00",
+  "updated_at": "2026-07-19T20:46:51.968750+00:00",
   "count": 500,
   "items": [
+    {
+      "id": "hn-48971418",
+      "source": "hn",
+      "title": "Heavy TV watching associated with smaller brain structures, study finds",
+      "url": "https://dornsife.usc.edu/news/stories/heavy-tv-watching-associated-with-smaller-brain-structures/",
+      "score": 18,
+      "comments": 0,
+      "author": "mashally",
+      "tags": [],
+      "date": "2026-07-19T20:25:58+00:00"
+    },
+    {
+      "id": "hn-48970894",
+      "source": "hn",
+      "title": "Orion Browser by Kagi",
+      "url": "https://orionbrowser.com/",
+      "score": 11,
+      "comments": 8,
+      "author": "sebjones",
+      "tags": [],
+      "date": "2026-07-19T19:13:29+00:00"
+    },
+    {
+      "id": "hn-48970772",
+      "source": "hn",
+      "title": "HomeLab #1: MikroTik as a Home Router",
+      "url": "https://justsomebody.dev/blog/mikrotik-home-router",
+      "score": 18,
+      "comments": 8,
+      "author": "rafal_opilowski",
+      "tags": [],
+      "date": "2026-07-19T18:57:01+00:00"
+    },
     {
       "id": "qiita-be4334a4a7",
       "source": "zennqiita",
@@ -42,8 +75,8 @@
       "source": "hn",
       "title": "HMD Touch 4G",
       "url": "https://www.hmd.com/en_int/hmd-touch-4g",
-      "score": 35,
-      "comments": 34,
+      "score": 49,
+      "comments": 44,
       "author": "thisislife2",
       "tags": [],
       "date": "2026-07-19T17:25:03+00:00"
@@ -53,8 +86,8 @@
       "source": "hn",
       "title": "The Last MPEG-4 Visual Patent Has Expired",
       "url": "https://www.phoronix.com/news/Last-MPEG-4-Patent-Expired",
-      "score": 61,
-      "comments": 15,
+      "score": 92,
+      "comments": 18,
       "author": "LorenDB",
       "tags": [],
       "date": "2026-07-19T16:45:17+00:00"
@@ -75,8 +108,8 @@
       "source": "hn",
       "title": "Moonshot AI suspends new subscriptions due to Kimi K3 demand",
       "url": "https://twitter.com/kimi_moonshot/status/2078855608565207130",
-      "score": 91,
-      "comments": 27,
+      "score": 125,
+      "comments": 45,
       "author": "serialx",
       "tags": [],
       "date": "2026-07-19T16:02:25+00:00"
@@ -86,11 +119,24 @@
       "source": "hn",
       "title": "C64 Basic Dungeon Crawler: Goblin Attack (C64 Basic Part 8)",
       "url": "https://retrogamecoders.com/c64-basic-dungeon-part8/",
-      "score": 31,
+      "score": 40,
       "comments": 1,
       "author": "ibobev",
       "tags": [],
       "date": "2026-07-19T15:20:22+00:00"
+    },
+    {
+      "id": "qiita-9769277e20",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "【AWS障害】2026年7月16日のCloudFront VPC Origins障害まとめ",
+      "url": "https://qiita.com/eureka_/items/6bb207fa1da4add1f61b?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "eureka_",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-07-20T00:01:54+09:00"
     },
     {
       "id": "hn-48968515",
@@ -130,8 +176,8 @@
       "source": "hn",
       "title": "Bananas sprout in Rayleigh Garden UK after 15 years",
       "url": "https://www.bbc.com/news/articles/cvg8edqq5g5o",
-      "score": 75,
-      "comments": 60,
+      "score": 89,
+      "comments": 63,
       "author": "teleforce",
       "tags": [],
       "date": "2026-07-19T13:29:29+00:00"
@@ -165,8 +211,8 @@
       "source": "hn",
       "title": "Minecraft: Java Edition now uses SDL3",
       "url": "https://www.minecraft.net/en-us/article/minecraft-26-3-snapshot-4",
-      "score": 198,
-      "comments": 141,
+      "score": 217,
+      "comments": 145,
       "author": "ObviouslyFlamer",
       "tags": [],
       "date": "2026-07-19T11:48:18+00:00"
@@ -176,8 +222,8 @@
       "source": "hn",
       "title": "I joined the IndieWeb, here's what I learned",
       "url": "https://en.andros.dev/blog/0b8e451e/i-joined-the-indieweb-heres-what-i-learned/",
-      "score": 100,
-      "comments": 65,
+      "score": 110,
+      "comments": 70,
       "author": "andros",
       "tags": [],
       "date": "2026-07-19T11:14:38+00:00"
@@ -209,8 +255,8 @@
       "source": "hn",
       "title": "What I learned selling 2,500 MIDI recorders: Hardware is not so hard",
       "url": "https://chipweinberger.com/articles/20260719-hardware-is-not-so-hard",
-      "score": 342,
-      "comments": 156,
+      "score": 356,
+      "comments": 166,
       "author": "chipweinberger",
       "tags": [],
       "date": "2026-07-19T10:34:58+00:00"
@@ -220,11 +266,24 @@
       "source": "hn",
       "title": "Claude Code uses Bun written in Rust now",
       "url": "https://simonwillison.net/2026/Jul/19/claude-code-in-bun-in-rust/",
-      "score": 300,
-      "comments": 391,
+      "score": 325,
+      "comments": 431,
       "author": "tosh",
       "tags": [],
       "date": "2026-07-19T10:03:23+00:00"
+    },
+    {
+      "id": "qiita-f59633fdc7",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "WEB開発経験の少ない人が「徳丸本」を情報処理安全確保支援士試験に活用する方法",
+      "url": "https://qiita.com/Masaki-M/items/3031762adaa48f33d8ad?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "Masaki-M",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-07-19T18:14:11+09:00"
     },
     {
       "id": "hn-48966190",
@@ -264,11 +323,37 @@
       "source": "hn",
       "title": "Qwen 3.8",
       "url": "https://twitter.com/Alibaba_Qwen/status/2078759124914098291",
-      "score": 635,
-      "comments": 464,
+      "score": 668,
+      "comments": 483,
       "author": "nh43215rgb",
       "tags": [],
       "date": "2026-07-19T08:44:57+00:00"
+    },
+    {
+      "id": "qiita-0a7b83b50d",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "【個人開発】マルチレポでnoteクリエイター向け統計ダッシュボードを作ってみた【React / Hono / Chrome拡張】",
+      "url": "https://qiita.com/natsugure/items/e12091867becb931bce0?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "natsugure",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-07-19T17:37:57+09:00"
+    },
+    {
+      "id": "qiita-d84c49a34c",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "【個人開発】セルフネイルのネイルレシピアプリを開発しました！（React/Supabase/PWA）",
+      "url": "https://qiita.com/potato11/items/6f010e9bd4d74f88c855?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "potato11",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-07-19T17:37:12+09:00"
     },
     {
       "id": "ctf-4178473",
@@ -336,8 +421,8 @@
       "source": "hn",
       "title": "OpenAI reduces Codex Model Context Size from 372k to 272k",
       "url": "https://github.com/openai/codex/pull/33972/files",
-      "score": 244,
-      "comments": 106,
+      "score": 260,
+      "comments": 118,
       "author": "AmazingTurtle",
       "tags": [],
       "date": "2026-07-19T07:54:39+00:00"
@@ -472,6 +557,19 @@
       "date": "2026-07-19T01:29:19+00:00"
     },
     {
+      "id": "qiita-fd623415ec",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "【第12回】Pythonで学ぶデータ分析実践 〜次元削減〜",
+      "url": "https://qiita.com/aiota/items/a63031a290a66fd28738?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "aiota",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-07-19T10:23:44+09:00"
+    },
+    {
       "id": "hn-48964015",
       "source": "hn",
       "title": "Better and Cheaper Than IPTV",
@@ -487,8 +585,8 @@
       "source": "hn",
       "title": "Transcribe.cpp",
       "url": "https://workshop.cjpais.com/projects/transcribe-cpp",
-      "score": 687,
-      "comments": 143,
+      "score": 699,
+      "comments": 144,
       "author": "sebjones",
       "tags": [],
       "date": "2026-07-19T00:38:26+00:00"
@@ -588,8 +686,8 @@
       "source": "hn",
       "title": "UnifiedIR for Julia",
       "url": "https://github.com/JuliaLang/julia/pull/62334",
-      "score": 55,
-      "comments": 13,
+      "score": 61,
+      "comments": 15,
       "author": "vimarsh6739",
       "tags": [],
       "date": "2026-07-18T21:28:38+00:00"
@@ -1028,6 +1126,19 @@
       "date": "2026-07-18T03:51:42+00:00"
     },
     {
+      "id": "qiita-891053847a",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "さくらのAI Engineに書いてもらったコードで、さくらのAI Engineの「ずんだもん」に毎朝私は起こされる",
+      "url": "https://qiita.com/torifukukaiou/items/3c03c45da77e9cb7cf6b?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "torifukukaiou",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-07-18T12:49:32+09:00"
+    },
+    {
       "id": "hn-48954851",
       "source": "hn",
       "title": "Regressive JPEGs",
@@ -1345,6 +1456,17 @@
       "author": "pentagrama",
       "tags": [],
       "date": "2026-07-17T16:24:13+00:00"
+    },
+    {
+      "id": "hn-48948800",
+      "source": "hn",
+      "title": "Building an Arch Linux Aarch64 Port for Holo Core",
+      "url": "https://www.collabora.com/news-and-blog/news-and-events/building-an-arch-linux-aarch64-port-for-holo-core.html",
+      "score": 15,
+      "comments": 3,
+      "author": "losgehts",
+      "tags": [],
+      "date": "2026-07-17T15:50:25+00:00"
     },
     {
       "id": "hn-48948693",
@@ -4191,8 +4313,8 @@
       "source": "hn",
       "title": "Speech Recognition and TTS in less than 500kb",
       "url": "https://github.com/moonshine-ai/moonshine/tree/main/micro",
-      "score": 538,
-      "comments": 77,
+      "score": 544,
+      "comments": 79,
       "author": "petewarden",
       "tags": [],
       "date": "2026-07-14T19:25:10+00:00"
@@ -4202,8 +4324,8 @@
       "source": "hn",
       "title": "Blender 5.2 LTS",
       "url": "https://www.blender.org/download/releases/5-2/",
-      "score": 276,
-      "comments": 106,
+      "score": 288,
+      "comments": 113,
       "author": "makizar",
       "tags": [],
       "date": "2026-07-14T18:22:47+00:00"
@@ -4451,7 +4573,7 @@
       "source": "hn",
       "title": "The Zen of Parallel Programming",
       "url": "https://smolnero.com/posts/the-zen-of-parallel-programming",
-      "score": 8,
+      "score": 28,
       "comments": 0,
       "author": "edgar_ortega",
       "tags": [],
@@ -4910,8 +5032,8 @@
       "source": "hn",
       "title": "Infinities, impossibilities, and the man in the white linen suit",
       "url": "https://iain.so/infinities-impossibilities-and-the-man-in-the-white-linen-suit",
-      "score": 46,
-      "comments": 35,
+      "score": 49,
+      "comments": 38,
       "author": "iainharper",
       "tags": [],
       "date": "2026-07-14T08:24:54+00:00"
@@ -5095,169 +5217,22 @@
       "date": "2026-07-14T02:27:20+00:00"
     },
     {
-      "id": "qiita-9bbc68d574",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "Elixir製NotebookLMクローン「Notex」をDocker (Ubuntu 24.04) で動かす＆ai& Inference検証",
-      "url": "https://qiita.com/torifukukaiou/items/78314be5a6db95b13286?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "torifukukaiou",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-07-14T11:12:17+09:00"
-    },
-    {
-      "id": "hn-48901454",
+      "id": "hn-48893346",
       "source": "hn",
-      "title": "Fundamentals of Wireless Communication (2005)",
-      "url": "https://web.stanford.edu/~dntse/wireless_book.html",
-      "score": 150,
-      "comments": 7,
-      "author": "teleforce",
-      "tags": [],
-      "date": "2026-07-14T02:10:19+00:00"
-    },
-    {
-      "id": "qiita-1e0b8351d9",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "Oracle AI Databaseで地図情報を扱ってみる：実際にアプリを作ってわかったこと",
-      "url": "https://qiita.com/araidon/items/a0400d165a840ced1eff?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "araidon",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-07-14T11:07:08+09:00"
-    },
-    {
-      "id": "hn-48901356",
-      "source": "hn",
-      "title": "Satellite Tracker – Live Map of Starlink and 30k Satellites",
-      "url": "https://satellitemap.space/",
-      "score": 96,
-      "comments": 49,
-      "author": "rolph",
-      "tags": [],
-      "date": "2026-07-14T01:55:24+00:00"
-    },
-    {
-      "id": "hn-48901292",
-      "source": "hn",
-      "title": "What will be left for us to work on?",
-      "url": "https://www.normaltech.ai/p/what-will-be-left-for-us-to-work",
-      "score": 110,
-      "comments": 103,
-      "author": "randomwalker",
-      "tags": [],
-      "date": "2026-07-14T01:44:40+00:00"
-    },
-    {
-      "id": "hn-48901275",
-      "source": "hn",
-      "title": "Building Food Metadata with LLM Juries",
-      "url": "https://careersatdoordash.com/blog/building-food-metadata-with-llm-juries-context-optimization-multimodal-ai/",
-      "score": 30,
-      "comments": 8,
-      "author": "tie-in",
-      "tags": [],
-      "date": "2026-07-14T01:41:49+00:00"
-    },
-    {
-      "id": "hn-48901235",
-      "source": "hn",
-      "title": "Is x86 ready to ACE it?",
-      "url": "https://chipsandcheese.com/p/is-x86-ready-to-ace-it",
-      "score": 84,
-      "comments": 14,
-      "author": "mfiguiere",
-      "tags": [],
-      "date": "2026-07-14T01:36:13+00:00"
-    },
-    {
-      "id": "hn-48901224",
-      "source": "hn",
-      "title": "The Economics of Recursive Self-Improvement [pdf]",
-      "url": "https://elasticity.institute/rsi-paper.pdf",
-      "score": 116,
-      "comments": 57,
-      "author": "apsec112",
-      "tags": [],
-      "date": "2026-07-14T01:35:23+00:00"
-    },
-    {
-      "id": "hn-48901126",
-      "source": "hn",
-      "title": "MorphoHDL: A minimalistic language for growing circuits",
-      "url": "https://paradigms-of-intelligence.github.io/morpho/",
-      "score": 75,
-      "comments": 8,
-      "author": "jacktang",
-      "tags": [],
-      "date": "2026-07-14T01:17:30+00:00"
-    },
-    {
-      "id": "hn-48901083",
-      "source": "hn",
-      "title": "A Trip to 90s Kansai: Exploring the XD FirstClass Network BBS",
-      "url": "https://cdrom.ca/games/2026/05/30/xd.html",
-      "score": 45,
-      "comments": 5,
-      "author": "zetamax",
-      "tags": [],
-      "date": "2026-07-14T01:09:00+00:00"
-    },
-    {
-      "id": "hn-48901051",
-      "source": "hn",
-      "title": "Show HN: MemStitch – Zero-copy context bridging for vLLM (25x TTFT speedup)",
-      "url": "https://github.com/DaqulaLin/MemStitch",
-      "score": 6,
-      "comments": 0,
-      "author": "daqulalin",
-      "tags": [],
-      "date": "2026-07-14T01:04:02+00:00"
-    },
-    {
-      "id": "hn-48901020",
-      "source": "hn",
-      "title": "ESBMC-Arduino: Closing the Deployment Gap for Formal Verification",
-      "url": "https://arxiv.org/abs/2607.08550",
+      "title": "From Muon to Gradient Clipping: Some Thoughts on QK Stability",
+      "url": "https://MasterGodzilla.github.io/posts/2025/07/muon-clip/",
       "score": 4,
-      "comments": 1,
-      "author": "Jimmc414",
+      "comments": 0,
+      "author": "Eridanus2",
       "tags": [],
-      "date": "2026-07-14T00:58:55+00:00"
-    },
-    {
-      "id": "hn-48901010",
-      "source": "hn",
-      "title": "The git history command",
-      "url": "https://lalitm.com/post/git-history/",
-      "score": 376,
-      "comments": 259,
-      "author": "turbocon",
-      "tags": [],
-      "date": "2026-07-14T00:57:11+00:00"
-    },
-    {
-      "id": "hn-48895861",
-      "source": "hn",
-      "title": "Mathematicians still don't know the fastest way to multiply numbers",
-      "url": "https://www.scientificamerican.com/article/mathematicians-still-dont-know-the-fastest-way-to-multiply-numbers/",
-      "score": 195,
-      "comments": 107,
-      "author": "beardyw",
-      "tags": [],
-      "date": "2026-07-13T17:21:10+00:00"
+      "date": "2026-07-13T14:32:31+00:00"
     },
     {
       "id": "hn-48891334",
       "source": "hn",
       "title": "Land Atlas – soil, farmability, and crop analysis for land listings",
       "url": "https://land-atlas-production.up.railway.app/welcome",
-      "score": 35,
+      "score": 41,
       "comments": 12,
       "author": "L3dge",
       "tags": [],
@@ -5282,8 +5257,8 @@
       "source": "hn",
       "title": "Cagire: Live Coding in Forth",
       "url": "https://cagire.raphaelforment.fr",
-      "score": 51,
-      "comments": 8,
+      "score": 59,
+      "comments": 9,
       "author": "surprisetalk",
       "tags": [],
       "date": "2026-07-10T14:45:33+00:00"
@@ -5839,6 +5814,51 @@
       ],
       "severity": "high",
       "date": "Tue, 07 Jul 2026 00:00:00 +0000"
+    },
+    {
+      "id": "edb-36aec9a13b",
+      "source": "msf",
+      "title": "[webapps] Joomla Extension 4.1.4 - PHP Object injection",
+      "url": "https://www.exploit-db.com/exploits/52617",
+      "score": null,
+      "author": "Exploit-DB",
+      "tags": [
+        "Exploit-DB",
+        "CVE",
+        "PoC"
+      ],
+      "severity": "high",
+      "date": "Mon, 06 Jul 2026 00:00:00 +0000"
+    },
+    {
+      "id": "edb-d1fd93824d",
+      "source": "msf",
+      "title": "[webapps] Pulpy 0.1.1-Beta - Filesystem Sandbox Bypass",
+      "url": "https://www.exploit-db.com/exploits/52616",
+      "score": null,
+      "author": "Exploit-DB",
+      "tags": [
+        "Exploit-DB",
+        "CVE",
+        "PoC"
+      ],
+      "severity": "high",
+      "date": "Mon, 06 Jul 2026 00:00:00 +0000"
+    },
+    {
+      "id": "edb-ad7f95cccd",
+      "source": "msf",
+      "title": "[local] MEmu Android Emulator 9.2.7.0 - Local Privilege Escalation",
+      "url": "https://www.exploit-db.com/exploits/52615",
+      "score": null,
+      "author": "Exploit-DB",
+      "tags": [
+        "Exploit-DB",
+        "CVE",
+        "PoC"
+      ],
+      "severity": "high",
+      "date": "Mon, 06 Jul 2026 00:00:00 +0000"
     }
   ]
 }

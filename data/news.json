@@ -1,14 +1,81 @@
 {
-  "updated_at": "2026-07-21T16:54:48.236476+00:00",
+  "updated_at": "2026-07-21T18:15:20.172942+00:00",
   "count": 500,
   "items": [
+    {
+      "id": "hn-48995444",
+      "source": "hn",
+      "title": "Show HN: Imagin Raw – A 9MB Open-Source Alternative to Adobe Bridge for Mac",
+      "url": "https://github.com/cristibaluta/Imagin-Raw",
+      "score": 9,
+      "comments": 0,
+      "author": "cristi_baluta",
+      "tags": [],
+      "date": "2026-07-21T17:30:01+00:00",
+      "severity": "critical"
+    },
+    {
+      "id": "hn-48995213",
+      "source": "hn",
+      "title": "Jack Dorsey launches Buzz to combine team chat, AI agents and Git hosting",
+      "url": "https://runtimewire.com/article/jack-dorsey-block-buzz-team-chat-ai-agents-git",
+      "score": 12,
+      "comments": 2,
+      "author": "ryanmerket",
+      "tags": [],
+      "date": "2026-07-21T17:14:06+00:00"
+    },
+    {
+      "id": "hn-48995181",
+      "source": "hn",
+      "title": "Show HN: CodeAlmanac – Karpathy-style codebase wiki from your conversations",
+      "url": "https://github.com/AlmanacCode/codealmanac/",
+      "score": 6,
+      "comments": 3,
+      "author": "divitsheth",
+      "tags": [],
+      "date": "2026-07-21T17:12:01+00:00"
+    },
+    {
+      "id": "hn-48995149",
+      "source": "hn",
+      "title": "Uhubctl – control USB power per-port on smart USB hubs",
+      "url": "https://github.com/mvp/uhubctl",
+      "score": 6,
+      "comments": 1,
+      "author": "gregsadetsky",
+      "tags": [],
+      "date": "2026-07-21T17:09:37+00:00"
+    },
+    {
+      "id": "hn-48995074",
+      "source": "hn",
+      "title": "Meta's AI Models Are Powering the First Wave of Genesis Mission Projects",
+      "url": "https://ai.meta.com/blog/genesis-mission-lawrence-berkeley-national-laboratory-segment-anything-dino/?_fb_noscript=1",
+      "score": 31,
+      "comments": 13,
+      "author": "surprisetalk",
+      "tags": [],
+      "date": "2026-07-21T17:03:18+00:00"
+    },
+    {
+      "id": "hn-48994984",
+      "source": "hn",
+      "title": "Show HN: OSS Cross-Harness self hosted registry and analytics for AI Agents",
+      "url": "https://github.com/Observal/Observal",
+      "score": 14,
+      "comments": 1,
+      "author": "haz3-jolt",
+      "tags": [],
+      "date": "2026-07-21T16:57:30+00:00"
+    },
     {
       "id": "hn-48994178",
       "source": "hn",
       "title": "The World's 2,400 Castles",
       "url": "https://thecastlemap.com/",
-      "score": 39,
-      "comments": 27,
+      "score": 96,
+      "comments": 69,
       "author": "marklit",
       "tags": [],
       "date": "2026-07-21T16:05:58+00:00"
@@ -18,8 +85,8 @@
       "source": "hn",
       "title": "France's Anssi Will Block PQC-Free Products from Certification Starting 2027",
       "url": "https://postquantum.com/security-pqc/anssi-pqc-certification-2027/",
-      "score": 22,
-      "comments": 4,
+      "score": 41,
+      "comments": 8,
       "author": "Sami_Lehtinen",
       "tags": [],
       "date": "2026-07-21T16:02:04+00:00"
@@ -38,10 +105,10 @@
     {
       "id": "hn-48993816",
       "source": "hn",
-      "title": "Long Presumed Dead, a Thriving Coral Reef Is Discovered in West Africa",
+      "title": "Long presumed dead, a thriving coral reef is discovered in West Africa",
       "url": "https://e360.yale.edu/digest/benin-coral-reef",
-      "score": 63,
-      "comments": 2,
+      "score": 139,
+      "comments": 16,
       "author": "speckx",
       "tags": [],
       "date": "2026-07-21T15:41:51+00:00"
@@ -51,8 +118,8 @@
       "source": "hn",
       "title": "Apple Fixes Hide My Email Vulnerability After 404 Media Coverage",
       "url": "https://www.404media.co/apple-fixes-hide-my-email-vulnerability-after-404-media-coverage/",
-      "score": 23,
-      "comments": 1,
+      "score": 81,
+      "comments": 9,
       "author": "arto",
       "tags": [],
       "date": "2026-07-21T15:31:41+00:00",
@@ -85,8 +152,8 @@
       "source": "hn",
       "title": "Gemini 3.6 Flash, 3.5 Flash-Lite, and 3.5 Flash Cyber",
       "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-6-flash-3-5-flash-lite-3-5-flash-cyber/",
-      "score": 250,
-      "comments": 176,
+      "score": 366,
+      "comments": 298,
       "author": "logickkk1",
       "tags": [],
       "date": "2026-07-21T15:17:16+00:00"
@@ -118,8 +185,8 @@
       "source": "hn",
       "title": "Apple Defeats Liability for Not Scanning iCloud for CSAM",
       "url": "https://blog.ericgoldman.org/archives/2026/07/apple-defeats-liability-for-not-scanning-icloud-for-csam-but-the-judge-was-not-pleased-amy-v-apple.htm",
-      "score": 154,
-      "comments": 105,
+      "score": 205,
+      "comments": 155,
       "author": "speckx",
       "tags": [],
       "date": "2026-07-21T14:31:41+00:00"
@@ -129,11 +196,22 @@
       "source": "hn",
       "title": "PCjs Machines",
       "url": "https://www.pcjs.org/",
-      "score": 88,
-      "comments": 8,
+      "score": 124,
+      "comments": 10,
       "author": "naves",
       "tags": [],
       "date": "2026-07-21T13:48:35+00:00"
+    },
+    {
+      "id": "hn-48992315",
+      "source": "hn",
+      "title": "Why Are There No Empires in Age of Empires? (2019)",
+      "url": "https://acoup.blog/2019/11/22/collections-why-are-there-no-empires-in-age-of-empires/",
+      "score": 39,
+      "comments": 23,
+      "author": "jkly",
+      "tags": [],
+      "date": "2026-07-21T13:48:07+00:00"
     },
     {
       "id": "hn-48991139",
@@ -151,8 +229,8 @@
       "source": "hn",
       "title": "Qwen-Image-3.0: Rich Content, Authentic Details, Deep Knowledge",
       "url": "https://qwen.ai/blog?id=qwen-image-3.0",
-      "score": 447,
-      "comments": 183,
+      "score": 479,
+      "comments": 195,
       "author": "ilreb",
       "tags": [],
       "date": "2026-07-21T08:44:23+00:00"
@@ -266,8 +344,8 @@
       "source": "hn",
       "title": "Incremental – A library for incremental computations",
       "url": "https://github.com/janestreet/incremental",
-      "score": 306,
-      "comments": 58,
+      "score": 319,
+      "comments": 60,
       "author": "handfuloflight",
       "tags": [],
       "date": "2026-07-21T03:50:53+00:00"
@@ -606,8 +684,8 @@
       "source": "hn",
       "title": "Kimi Work",
       "url": "https://www.kimi.com/products/kimi-work",
-      "score": 643,
-      "comments": 265,
+      "score": 657,
+      "comments": 268,
       "author": "ms7892",
       "tags": [],
       "date": "2026-07-20T17:13:23+00:00"
@@ -617,8 +695,8 @@
       "source": "hn",
       "title": "Jelly UI: Soft-body physics for native HTML form controls",
       "url": "https://jelly-ui.com/",
-      "score": 629,
-      "comments": 189,
+      "score": 637,
+      "comments": 192,
       "author": "baldvinmar",
       "tags": [],
       "date": "2026-07-20T17:07:39+00:00"
@@ -943,8 +1021,8 @@
       "source": "hn",
       "title": "Who's afraid of Chinese models?",
       "url": "https://stratechery.com/2026/whos-afraid-of-chinese-models/",
-      "score": 886,
-      "comments": 718,
+      "score": 919,
+      "comments": 772,
       "author": "mfiguiere",
       "tags": [],
       "date": "2026-07-20T11:05:58+00:00"
@@ -1021,6 +1099,17 @@
         "Qiita"
       ],
       "date": "2026-07-20T15:27:00+09:00"
+    },
+    {
+      "id": "hn-48974862",
+      "source": "hn",
+      "title": "My USB Drive Has a Hidden Encrypted Vault",
+      "url": "https://rootkitlabs.com/2026/06/22/I%27m-Building-a-Secure-USB-Drive/",
+      "score": 51,
+      "comments": 18,
+      "author": "machinehum",
+      "tags": [],
+      "date": "2026-07-20T06:09:25+00:00"
     },
     {
       "id": "hn-48974454",
@@ -1507,8 +1596,8 @@
       "source": "hn",
       "title": "Show HN: Explore 6048 YC companies as an interactive galaxy",
       "url": "https://artifacta.io/a/pg_x9pombpdybx90q2s16eu",
-      "score": 25,
-      "comments": 8,
+      "score": 32,
+      "comments": 12,
       "author": "jnakano89",
       "tags": [],
       "date": "2026-07-19T14:15:49+00:00"
@@ -2168,8 +2257,8 @@
       "source": "hn",
       "title": "The unreasonable difficulty of time series forecasting",
       "url": "https://suzyahyah.github.io/machine%20learning/2026/06/27/trouble-with-time-series.html",
-      "score": 10,
-      "comments": 1,
+      "score": 39,
+      "comments": 11,
       "author": "suzyahyah",
       "tags": [],
       "date": "2026-07-18T18:09:36+00:00"
@@ -3538,6 +3627,17 @@
       "author": "hnburnsy",
       "tags": [],
       "date": "2026-07-17T00:45:05+00:00"
+    },
+    {
+      "id": "hn-48942065",
+      "source": "hn",
+      "title": "Shanay-Timpishka, a boiling hot river 700km from the nearest active volcano",
+      "url": "https://terradaily.com/anything-that-falls-into-a-four-kilometre-stretch-of-a-river-in-the-central-peruvian-amazon-dies-within-seconds-because-the-water-reaches-temperatures-of-up-to-100-degrees-celsius-despite-the-river/",
+      "score": 39,
+      "comments": 7,
+      "author": "camtarn",
+      "tags": [],
+      "date": "2026-07-17T00:32:30+00:00"
     },
     {
       "id": "hn-48942000",
@@ -5158,114 +5258,15 @@
       "date": "2026-07-15T13:31:44+00:00"
     },
     {
-      "id": "hn-48920537",
-      "source": "hn",
-      "title": "Show HN: Grepathy – Claude made a decision nobody approved",
-      "url": "https://github.com/evansjp/grepathy",
-      "score": 4,
-      "comments": 3,
-      "author": "evansjp",
-      "tags": [],
-      "date": "2026-07-15T13:26:24+00:00"
-    },
-    {
-      "id": "hn-48920475",
-      "source": "hn",
-      "title": "Mysteries of Telegram Data Centers (2022)",
-      "url": "https://dev.moe/en/3025",
-      "score": 240,
-      "comments": 127,
-      "author": "theanonymousone",
-      "tags": [],
-      "date": "2026-07-15T13:22:00+00:00"
-    },
-    {
-      "id": "hn-48920443",
-      "source": "hn",
-      "title": "Privacy Incidents – Real-world examples of why your photos need protection",
-      "url": "https://snapsafe.org/incidents.html",
-      "score": 21,
-      "comments": 1,
-      "author": "Cider9986",
-      "tags": [],
-      "date": "2026-07-15T13:19:05+00:00"
-    },
-    {
-      "id": "hn-48920432",
-      "source": "hn",
-      "title": "The Three-Second Theft: Why AI Voice Fraud Outruns Every Defence",
-      "url": "https://smarterarticles.co.uk/the-three-second-theft-why-ai-voice-fraud-outruns-every-defence",
-      "score": 123,
-      "comments": 155,
-      "author": "dxs",
-      "tags": [],
-      "date": "2026-07-15T13:18:15+00:00"
-    },
-    {
-      "id": "hn-48920338",
-      "source": "hn",
-      "title": "Microsoft Confirms Windows GDID Device Identifier That Cannot Be Disabled",
-      "url": "https://www.ghacks.net/2026/07/12/microsoft-confirms-windows-gdid-device-identifier-that-cannot-be-disabled-documented-in-fbi-case-filing/",
-      "score": 35,
-      "comments": 8,
-      "author": "robtherobber",
-      "tags": [],
-      "date": "2026-07-15T13:11:01+00:00"
-    },
-    {
-      "id": "hn-48920328",
-      "source": "hn",
-      "title": "Searchable field-level encryption on Supabase with CipherStash",
-      "url": "https://supabase.com/blog/searchable-field-level-encryption-with-cipherstash",
-      "score": 42,
-      "comments": 35,
-      "author": "dandraper",
-      "tags": [],
-      "date": "2026-07-15T13:10:01+00:00"
-    },
-    {
-      "id": "hn-48920156",
-      "source": "hn",
-      "title": "What `for x in y` hides from you – From Scratch Code",
-      "url": "https://fromscratchcode.com/blog/what-for-x-in-y-hides-from-you/",
-      "score": 6,
-      "comments": 3,
-      "author": "rbanffy",
-      "tags": [],
-      "date": "2026-07-15T12:57:27+00:00"
-    },
-    {
-      "id": "hn-48919967",
-      "source": "hn",
-      "title": "What's the most popular number in Hacker News titles?",
-      "url": "https://blog.omgmog.net/post/most-popular-numbers-in-hn-post-titles/",
-      "score": 20,
-      "comments": 8,
-      "author": "omgmog",
-      "tags": [],
-      "date": "2026-07-15T12:40:46+00:00"
-    },
-    {
       "id": "hn-48918140",
       "source": "hn",
       "title": "Python 3.15's Ultra-Low Overhead Interpreter Profiling Mode – Ken Jin's Blog",
       "url": "https://fidget-spinner.github.io/posts/ultra-fast-tracing.html",
-      "score": 107,
-      "comments": 3,
+      "score": 122,
+      "comments": 8,
       "author": "rbanffy",
       "tags": [],
       "date": "2026-07-15T09:07:02+00:00"
-    },
-    {
-      "id": "hn-48912812",
-      "source": "hn",
-      "title": "How to pack ternary numbers in 8-bit bytes",
-      "url": "https://compilade.net/blog/ternary-packing",
-      "score": 77,
-      "comments": 41,
-      "author": "JoshTriplett",
-      "tags": [],
-      "date": "2026-07-14T20:53:52+00:00"
     },
     {
       "id": "ctf-4141955",

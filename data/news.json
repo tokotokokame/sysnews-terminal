@@ -1,7 +1,18 @@
 {
-  "updated_at": "2026-07-22T23:02:43.932130+00:00",
+  "updated_at": "2026-07-23T01:00:37.760877+00:00",
   "count": 500,
   "items": [
+    {
+      "id": "hn-49014537",
+      "source": "hn",
+      "title": "Anthropomorphism in Children's Interactions with LLM Chatbots",
+      "url": "https://arxiv.org/abs/2607.18250",
+      "score": 14,
+      "comments": 5,
+      "author": "StatsAreFun",
+      "tags": [],
+      "date": "2026-07-22T22:49:58+00:00"
+    },
     {
       "id": "hn-49014143",
       "source": "hn",
@@ -18,8 +29,8 @@
       "source": "hn",
       "title": "Medici family mystery may be solved after more than 400 years",
       "url": "https://www.cnn.com/2026/07/15/science/medici-family-mystery-dna-malaria",
-      "score": 35,
-      "comments": 4,
+      "score": 70,
+      "comments": 12,
       "author": "effects",
       "tags": [],
       "date": "2026-07-22T21:55:34+00:00"
@@ -29,19 +40,30 @@
       "source": "hn",
       "title": "Any text-to-SQL benchmark should address difficulties of real-world data stores",
       "url": "https://cacm.acm.org/blogcacm/if-you-think-you-can-do-real-world-text-to-sql/",
-      "score": 18,
-      "comments": 3,
+      "score": 29,
+      "comments": 6,
       "author": "shenli3514",
       "tags": [],
       "date": "2026-07-22T21:54:30+00:00"
+    },
+    {
+      "id": "hn-49013924",
+      "source": "hn",
+      "title": "All 253 Patterns from Christopher Alexander's a Pattern Language Summarized",
+      "url": "https://claytondorge.com/patterns-list",
+      "score": 13,
+      "comments": 2,
+      "author": "toomuchtodo",
+      "tags": [],
+      "date": "2026-07-22T21:48:44+00:00"
     },
     {
       "id": "hn-49013538",
       "source": "hn",
       "title": "Malleable Computing, Emacs, and You",
       "url": "http://yummymelon.com/devnull/malleable-computing-emacs-and-you.html",
-      "score": 42,
-      "comments": 5,
+      "score": 65,
+      "comments": 13,
       "author": "kickingvegas",
       "tags": [],
       "date": "2026-07-22T21:15:26+00:00"
@@ -51,8 +73,8 @@
       "source": "hn",
       "title": "Safari Technology Preview 248 Released",
       "url": "https://webkit.org/blog/18162/release-notes-for-safari-technology-preview-248/",
-      "score": 51,
-      "comments": 11,
+      "score": 67,
+      "comments": 32,
       "author": "Erenay09",
       "tags": [],
       "date": "2026-07-22T21:00:26+00:00"
@@ -73,8 +95,8 @@
       "source": "hn",
       "title": "Fairphone 6 wide camera experimental Linux support",
       "url": "https://nondescriptpointer.com/articles/fairphone-6-wide-camera-linux/",
-      "score": 31,
-      "comments": 0,
+      "score": 62,
+      "comments": 2,
       "author": "helonaut",
       "tags": [],
       "date": "2026-07-22T20:16:01+00:00"
@@ -84,8 +106,8 @@
       "source": "hn",
       "title": "John C. Dvorak has died",
       "url": "https://twitter.com/na_announce/status/2079952538040672302",
-      "score": 406,
-      "comments": 115,
+      "score": 509,
+      "comments": 165,
       "author": "coleca",
       "tags": [],
       "date": "2026-07-22T19:22:19+00:00"
@@ -102,12 +124,23 @@
       "date": "2026-07-22T19:15:21+00:00"
     },
     {
+      "id": "hn-49011687",
+      "source": "hn",
+      "title": "Clarity didn't work, trying mysterianism",
+      "url": "https://gwern.net/doc/fiction/science-fiction/2012-10-03-yvain-thewhisperingearring.html",
+      "score": 21,
+      "comments": 3,
+      "author": "dboon",
+      "tags": [],
+      "date": "2026-07-22T18:55:42+00:00"
+    },
+    {
       "id": "hn-49010782",
       "source": "hn",
       "title": "Show HN: Cactus Hybrid: We taught Gemma 4 to know when it's wrong",
       "url": "https://github.com/cactus-compute/cactus-hybrid",
-      "score": 18,
-      "comments": 3,
+      "score": 56,
+      "comments": 7,
       "author": "HenryNdubuaku",
       "tags": [],
       "date": "2026-07-22T17:56:29+00:00"
@@ -117,8 +150,8 @@
       "source": "hn",
       "title": "Everyone Should Know SIMD",
       "url": "https://mitchellh.com/writing/everyone-should-know-simd",
-      "score": 183,
-      "comments": 55,
+      "score": 234,
+      "comments": 69,
       "author": "WadeGrimridge",
       "tags": [],
       "date": "2026-07-22T17:48:18+00:00"
@@ -128,8 +161,8 @@
       "source": "hn",
       "title": "Terrence Tao's ChatGPT Conversation about the Jacobian Conjecture Counterexample",
       "url": "https://chatgpt.com/share/6a5fdc7a-d6f8-83e8-bbea-8deb42cfed56",
-      "score": 496,
-      "comments": 299,
+      "score": 558,
+      "comments": 354,
       "author": "gmays",
       "tags": [],
       "date": "2026-07-22T17:30:40+00:00"
@@ -139,8 +172,8 @@
       "source": "hn",
       "title": "GigaToken: ~1000x faster Language model tokenization",
       "url": "https://github.com/marcelroed/gigatoken/",
-      "score": 307,
-      "comments": 57,
+      "score": 343,
+      "comments": 68,
       "author": "syrusakbary",
       "tags": [],
       "date": "2026-07-22T17:20:38+00:00"
@@ -150,8 +183,8 @@
       "source": "hn",
       "title": "Are AI Labs Pelicanmaxxing?",
       "url": "https://dylancastillo.co/posts/pelicanmaxxing.html",
-      "score": 328,
-      "comments": 131,
+      "score": 373,
+      "comments": 146,
       "author": "dcastm",
       "tags": [],
       "date": "2026-07-22T17:17:54+00:00"
@@ -172,8 +205,8 @@
       "source": "hn",
       "title": "Launch HN: Unlayer (YC W22) – Add email and document builders to your app",
       "url": "https://unlayer.com",
-      "score": 43,
-      "comments": 22,
+      "score": 46,
+      "comments": 28,
       "author": "adeelraza",
       "tags": [],
       "date": "2026-07-22T16:02:03+00:00"
@@ -205,8 +238,8 @@
       "source": "hn",
       "title": "Making",
       "url": "https://beej.us/blog/data/ai-making/",
-      "score": 247,
-      "comments": 103,
+      "score": 267,
+      "comments": 108,
       "author": "erikschoster",
       "tags": [],
       "date": "2026-07-22T15:33:48+00:00"
@@ -239,8 +272,8 @@
       "source": "hn",
       "title": "Show HN: Bento - An entire PowerPoint in one HTML file (edit+view+data+collab)",
       "url": "https://bento.page/slides/",
-      "score": 578,
-      "comments": 140,
+      "score": 630,
+      "comments": 147,
       "author": "starfallg",
       "tags": [],
       "date": "2026-07-22T15:19:23+00:00"
@@ -406,8 +439,8 @@
       "source": "hn",
       "title": "Quality non-fiction books are the antithesis of AI slop",
       "url": "https://resobscura.substack.com/p/quality-non-fiction-books-are-the",
-      "score": 40,
-      "comments": 23,
+      "score": 120,
+      "comments": 68,
       "author": "benbreen",
       "tags": [],
       "date": "2026-07-22T14:18:05+00:00"
@@ -441,8 +474,8 @@
       "source": "hn",
       "title": "Businesses with ugly AI menu redesigns",
       "url": "https://blog.fiddery.com/businesses-with-ugly-ai-menu-redesigns/",
-      "score": 158,
-      "comments": 123,
+      "score": 175,
+      "comments": 141,
       "author": "speckx",
       "tags": [],
       "date": "2026-07-22T12:49:45+00:00"
@@ -452,8 +485,8 @@
       "source": "hn",
       "title": "The startup's Postgres survival guide",
       "url": "https://hatchet.run/blog/postgres-survival-guide",
-      "score": 286,
-      "comments": 162,
+      "score": 303,
+      "comments": 167,
       "author": "abelanger",
       "tags": [],
       "date": "2026-07-22T12:36:08+00:00"
@@ -463,8 +496,8 @@
       "source": "hn",
       "title": "So Reddit has decided that plain HTML is unsafe",
       "url": "https://www.cole-k.com/2026/07/21/reddit/",
-      "score": 195,
-      "comments": 194,
+      "score": 251,
+      "comments": 272,
       "author": "montroser",
       "tags": [],
       "date": "2026-07-22T12:32:48+00:00"
@@ -2792,6 +2825,17 @@
       "date": "2026-07-19T13:29:29+00:00"
     },
     {
+      "id": "hn-48967506",
+      "source": "hn",
+      "title": "MemoryPack: Zero encoding extreme performance binary serializer for C#",
+      "url": "https://github.com/Cysharp/MemoryPack",
+      "score": 10,
+      "comments": 2,
+      "author": "breve",
+      "tags": [],
+      "date": "2026-07-19T12:20:56+00:00"
+    },
+    {
       "id": "hn-48967355",
       "source": "hn",
       "title": "I burned all my tokens researching how to save tokens",
@@ -3640,6 +3684,17 @@
       "author": "robtherobber",
       "tags": [],
       "date": "2026-07-18T14:04:42+00:00"
+    },
+    {
+      "id": "hn-48958266",
+      "source": "hn",
+      "title": "What Rose Petals Teach Us about Induction",
+      "url": "https://www.oranlooney.com/post/rose-petals/",
+      "score": 6,
+      "comments": 0,
+      "author": "olooney",
+      "tags": [],
+      "date": "2026-07-18T14:04:10+00:00"
     },
     {
       "id": "hn-48957779",
@@ -5187,80 +5242,23 @@
       "date": "2026-07-16T17:19:16+00:00"
     },
     {
-      "id": "hn-48937252",
+      "id": "hn-48922144",
       "source": "hn",
-      "title": "The Growing Compute Shortage",
-      "url": "https://www.apollo.com/wealth/insights-news/insights/2026/06/growing-compute-shortage",
-      "score": 6,
-      "comments": 0,
-      "author": "dmitriy_ko",
+      "title": "Museum of the Human Web",
+      "url": "https://museum.parallel.ai/introduction?era=modern",
+      "score": 16,
+      "comments": 3,
+      "author": "ohjeez",
       "tags": [],
-      "date": "2026-07-16T17:09:23+00:00"
-    },
-    {
-      "id": "hn-48937125",
-      "source": "hn",
-      "title": "Adaptional (YC S25) Is Hiring",
-      "url": "https://www.ycombinator.com/companies/adaptional/jobs",
-      "score": 1,
-      "comments": 0,
-      "author": "acesohc",
-      "tags": [],
-      "date": "2026-07-16T17:00:55+00:00"
-    },
-    {
-      "id": "hn-48936994",
-      "source": "hn",
-      "title": "1-Bit LLM in the Browser",
-      "url": "https://huggingface.co/spaces/webml-community/bonsai-webgpu",
-      "score": 90,
-      "comments": 34,
-      "author": "simonebrunozzi",
-      "tags": [],
-      "date": "2026-07-16T16:50:32+00:00"
-    },
-    {
-      "id": "qiita-8a0bd84833",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "ローカル LLM で AI コーディング支援環境を構築する⑥ (続 Foundry Local セットアップ)",
-      "url": "https://qiita.com/koutaro_harada/items/eaa20d6b64457bf7476f?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "koutaro_harada",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-07-17T01:41:55+09:00"
-    },
-    {
-      "id": "hn-48936880",
-      "source": "hn",
-      "title": "Detecting LLM-Generated Texts with “Classical” Machine Learning",
-      "url": "https://blog.lyc8503.net/en/post/llm-classifier/",
-      "score": 210,
-      "comments": 155,
-      "author": "uneven9434",
-      "tags": [],
-      "date": "2026-07-16T16:41:37+00:00"
-    },
-    {
-      "id": "hn-48936803",
-      "source": "hn",
-      "title": "Show HN: Galois connections for composable numeric casts in Rust",
-      "url": "https://github.com/cmk/connections",
-      "score": 7,
-      "comments": 1,
-      "author": "partialsolve",
-      "tags": [],
-      "date": "2026-07-16T16:36:17+00:00"
+      "date": "2026-07-15T15:15:27+00:00"
     },
     {
       "id": "hn-48917135",
       "source": "hn",
       "title": "Nobody knows what a used GPU cluster is worth",
       "url": "https://ciphertalk.substack.com/p/nobody-knows-what-a-used-gpu-cluster",
-      "score": 146,
-      "comments": 122,
+      "score": 160,
+      "comments": 146,
       "author": "rbanffy",
       "tags": [],
       "date": "2026-07-15T06:50:49+00:00"

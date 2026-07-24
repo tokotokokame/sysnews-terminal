@@ -1,14 +1,69 @@
 {
-  "updated_at": "2026-07-24T17:04:26.955369+00:00",
+  "updated_at": "2026-07-24T18:56:57.009500+00:00",
   "count": 500,
   "items": [
+    {
+      "id": "hn-49039490",
+      "source": "hn",
+      "title": "BGP ORIGIN attribute manipulation and its impact on the Internet",
+      "url": "https://blog.cloudflare.com/bgp-origin-attribute/",
+      "score": 8,
+      "comments": 0,
+      "author": "sbulaev",
+      "tags": [],
+      "date": "2026-07-24T18:07:08+00:00"
+    },
+    {
+      "id": "hn-49039448",
+      "source": "hn",
+      "title": "I got into YC by hacking it",
+      "url": "https://obaid.wtf/jotbook/2026/07/18/how-i-got-into-yc-by-hacking-it.html",
+      "score": 28,
+      "comments": 12,
+      "author": "speckx",
+      "tags": [],
+      "date": "2026-07-24T18:03:22+00:00"
+    },
+    {
+      "id": "hn-49039395",
+      "source": "hn",
+      "title": "Gsxui – Shadcn-style components for Go",
+      "url": "https://ui.gsxhq.dev/",
+      "score": 8,
+      "comments": 0,
+      "author": "jackielii",
+      "tags": [],
+      "date": "2026-07-24T17:59:08+00:00"
+    },
+    {
+      "id": "hn-49038977",
+      "source": "hn",
+      "title": "The small, real, original web",
+      "url": "https://spacetimetech.wordpress.com/2026/07/19/the-small-real-original-web/",
+      "score": 8,
+      "comments": 0,
+      "author": "speckx",
+      "tags": [],
+      "date": "2026-07-24T17:28:59+00:00"
+    },
+    {
+      "id": "hn-49038481",
+      "source": "hn",
+      "title": "DuckPGQ – A DuckDB community extension for graph workloads",
+      "url": "https://duckpgq.org/",
+      "score": 18,
+      "comments": 2,
+      "author": "rzk",
+      "tags": [],
+      "date": "2026-07-24T17:00:23+00:00"
+    },
     {
       "id": "hn-49038433",
       "source": "hn",
       "title": "Claude Opus 5",
-      "url": "https://www.anthropic.com/claude-opus-5-system-card",
-      "score": 23,
-      "comments": 2,
+      "url": "https://www.anthropic.com/news/claude-opus-5",
+      "score": 662,
+      "comments": 371,
       "author": "alvis",
       "tags": [],
       "date": "2026-07-24T16:57:41+00:00"
@@ -16,13 +71,24 @@
     {
       "id": "hn-49038352",
       "source": "hn",
-      "title": "As of JDK 27, Oracle engineers will thus stop maintaining the macOS/x64 port",
+      "title": "JEP 541: Deprecate the macOS/x64 Port for Removal",
       "url": "https://openjdk.org/jeps/541",
-      "score": 12,
-      "comments": 4,
+      "score": 82,
+      "comments": 75,
       "author": "pmg1991",
       "tags": [],
       "date": "2026-07-24T16:52:33+00:00"
+    },
+    {
+      "id": "hn-49038298",
+      "source": "hn",
+      "title": "Don't Take the Black Pill [video]",
+      "url": "https://www.youtube.com/watch?v=zLZwpH5lCD4",
+      "score": 15,
+      "comments": 8,
+      "author": "signa11",
+      "tags": [],
+      "date": "2026-07-24T16:48:57+00:00"
     },
     {
       "id": "hn-49038276",
@@ -51,8 +117,8 @@
       "source": "hn",
       "title": "The rise and fall of language diversity through the Holocene",
       "url": "https://www.science.org/doi/10.1126/science.adx4343",
-      "score": 5,
-      "comments": 0,
+      "score": 38,
+      "comments": 2,
       "author": "delichon",
       "tags": [],
       "date": "2026-07-24T16:40:49+00:00"
@@ -62,8 +128,8 @@
       "source": "hn",
       "title": "Be skeptical of OpenAI's rogue hacker agent story",
       "url": "https://www.theguardian.com/technology/2026/jul/24/openai-rogue-hacker",
-      "score": 26,
-      "comments": 4,
+      "score": 194,
+      "comments": 72,
       "author": "rwmj",
       "tags": [],
       "date": "2026-07-24T16:33:31+00:00"
@@ -84,8 +150,8 @@
       "source": "hn",
       "title": "Unitree As2-W",
       "url": "https://www.unitree.com/As2-W/",
-      "score": 7,
-      "comments": 1,
+      "score": 36,
+      "comments": 13,
       "author": "MehrdadKhnzd",
       "tags": [],
       "date": "2026-07-24T16:32:52+00:00"
@@ -106,8 +172,8 @@
       "source": "hn",
       "title": "The front end framework for correctness: built on Effect, architected like Elm",
       "url": "https://foldkit.dev/",
-      "score": 35,
-      "comments": 19,
+      "score": 52,
+      "comments": 27,
       "author": "plucafs",
       "tags": [],
       "date": "2026-07-24T15:24:00+00:00"
@@ -267,6 +333,17 @@
       "date": "2026-07-24T13:46:40+00:00"
     },
     {
+      "id": "hn-49035303",
+      "source": "hn",
+      "title": "Nvidia, Microsoft, Meta warn against overregulating open-weight models",
+      "url": "https://www.cnbc.com/2026/07/24/nvidia-microsoft-meta-open-weight-ai-models.html",
+      "score": 121,
+      "comments": 98,
+      "author": "louiereederson",
+      "tags": [],
+      "date": "2026-07-24T13:32:30+00:00"
+    },
+    {
       "id": "hn-49034948",
       "source": "hn",
       "title": "Patreon laying off 20% of staff",
@@ -293,8 +370,8 @@
       "source": "hn",
       "title": "Half-Life 2 running natively on HaikuOS",
       "url": "https://discuss.haiku-os.org/t/haiku-nvidia-porting-nvidia-driver-for-turing-gpus/16520?page=18",
-      "score": 124,
-      "comments": 15,
+      "score": 188,
+      "comments": 27,
       "author": "m0do1",
       "tags": [],
       "date": "2026-07-24T12:53:59+00:00"
@@ -302,10 +379,10 @@
     {
       "id": "hn-49034747",
       "source": "hn",
-      "title": "Em dashes are fucking amazing",
+      "title": "Em dashes are amazing",
       "url": "https://psychotechnology.substack.com/p/em-dashes-are-fucking-amazing",
-      "score": 233,
-      "comments": 213,
+      "score": 277,
+      "comments": 248,
       "author": "surprisetalk",
       "tags": [],
       "date": "2026-07-24T12:40:27+00:00"
@@ -348,8 +425,8 @@
       "source": "hn",
       "title": "My security camera shipped a GitHub admin token in its login page",
       "url": "https://hhh.hn/hanwha-github-token/",
-      "score": 323,
-      "comments": 121,
+      "score": 390,
+      "comments": 148,
       "author": "hhh",
       "tags": [],
       "date": "2026-07-24T11:54:41+00:00"
@@ -425,8 +502,8 @@
       "source": "hn",
       "title": "Flux 3 X Mimic: The Next Generation of Video-Action Models",
       "url": "https://bfl.ai/blog/flux-3-mimic",
-      "score": 268,
-      "comments": 43,
+      "score": 284,
+      "comments": 45,
       "author": "kensai",
       "tags": [],
       "date": "2026-07-24T09:31:48+00:00"
@@ -502,11 +579,22 @@
       "source": "hn",
       "title": "It's getting harder to focus every day",
       "url": "https://glyphack.com/attention/",
-      "score": 533,
-      "comments": 297,
+      "score": 601,
+      "comments": 341,
       "author": "peykar",
       "tags": [],
       "date": "2026-07-24T08:18:30+00:00"
+    },
+    {
+      "id": "hn-49032126",
+      "source": "hn",
+      "title": "The hardest way to make a GIF",
+      "url": "https://blog.willgrant.org/2026/07/23/the-hardest-way-to-make-gif.html",
+      "score": 14,
+      "comments": 2,
+      "author": "plaguna",
+      "tags": [],
+      "date": "2026-07-24T07:05:58+00:00"
     },
     {
       "id": "hn-49032095",
@@ -548,8 +636,8 @@
       "source": "hn",
       "title": "Flux 3",
       "url": "https://bfl.ai/blog/flux-3",
-      "score": 505,
-      "comments": 121,
+      "score": 520,
+      "comments": 125,
       "author": "ThouYS",
       "tags": [],
       "date": "2026-07-24T06:17:08+00:00"
@@ -754,6 +842,17 @@
       "author": "speckx",
       "tags": [],
       "date": "2026-07-23T19:46:28+00:00"
+    },
+    {
+      "id": "hn-49026933",
+      "source": "hn",
+      "title": "Fil-C: Garbage In, Memory Safety Out [video]",
+      "url": "https://www.youtube.com/watch?v=5F-2Y1LPRek",
+      "score": 16,
+      "comments": 8,
+      "author": "Bootvis",
+      "tags": [],
+      "date": "2026-07-23T19:37:37+00:00"
     },
     {
       "id": "hn-49026059",
@@ -1168,6 +1267,17 @@
       "author": "yogthos",
       "tags": [],
       "date": "2026-07-23T13:00:03+00:00"
+    },
+    {
+      "id": "hn-49020751",
+      "source": "hn",
+      "title": "Self-host your mail server",
+      "url": "https://blog.haschek.at/2026/you-should-selfhost-your-mail.html",
+      "score": 18,
+      "comments": 10,
+      "author": "geek_at",
+      "tags": [],
+      "date": "2026-07-23T12:49:10+00:00"
     },
     {
       "id": "hn-49019694",
@@ -2323,6 +2433,17 @@
       "author": "greatgib",
       "tags": [],
       "date": "2026-07-21T21:27:54+00:00"
+    },
+    {
+      "id": "hn-48998589",
+      "source": "hn",
+      "title": "Extending Polars with Rust Expression Plugins",
+      "url": "https://fenic.ai/blog/extending-polars-with-rust-expression-plugins",
+      "score": 15,
+      "comments": 0,
+      "author": "cpard",
+      "tags": [],
+      "date": "2026-07-21T21:26:32+00:00"
     },
     {
       "id": "hn-48998404",
@@ -3922,6 +4043,17 @@
       "date": "2026-07-20T11:05:58+00:00"
     },
     {
+      "id": "hn-48977014",
+      "source": "hn",
+      "title": "Reporting Web 3D Capabilities on a Budget of $3 a Month",
+      "url": "https://ben3d.ca/blog/reporting-web-3d-capabilities-on-a-budget",
+      "score": 6,
+      "comments": 0,
+      "author": "bhouston",
+      "tags": [],
+      "date": "2026-07-20T10:53:59+00:00"
+    },
+    {
       "id": "hn-48976846",
       "source": "hn",
       "title": "Airport Simulator",
@@ -4102,8 +4234,8 @@
       "source": "hn",
       "title": "India's first privately-developed rocket reaches orbit on dramatic debut launch",
       "url": "https://arstechnica.com/space/2026/07/indias-first-privately-developed-rocket-reaches-orbit-on-dramatic-debut-launch/",
-      "score": 272,
-      "comments": 72,
+      "score": 350,
+      "comments": 94,
       "author": "sohkamyung",
       "tags": [],
       "date": "2026-07-20T02:43:54+00:00"
@@ -5067,142 +5199,6 @@
       "author": "handfuloflight",
       "tags": [],
       "date": "2026-07-19T01:33:32+00:00"
-    },
-    {
-      "id": "hn-48964185",
-      "source": "hn",
-      "title": "AI Mania Is Eviscerating Global Decision-Making",
-      "url": "https://ludic.mataroa.blog/blog/ai-mania-is-eviscerating-global-decision-making/#fnref:3",
-      "score": 183,
-      "comments": 67,
-      "author": "subset",
-      "tags": [],
-      "date": "2026-07-19T01:29:19+00:00"
-    },
-    {
-      "id": "qiita-fd623415ec",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "【第12回】Pythonで学ぶデータ分析実践 〜次元削減〜",
-      "url": "https://qiita.com/aiota/items/a63031a290a66fd28738?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "aiota",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-07-19T10:23:44+09:00"
-    },
-    {
-      "id": "hn-48964015",
-      "source": "hn",
-      "title": "Better and Cheaper Than IPTV",
-      "url": "https://github.com/stupside/castor",
-      "score": 269,
-      "comments": 89,
-      "author": "xonery",
-      "tags": [],
-      "date": "2026-07-19T00:59:55+00:00"
-    },
-    {
-      "id": "hn-48963879",
-      "source": "hn",
-      "title": "Transcribe.cpp",
-      "url": "https://workshop.cjpais.com/projects/transcribe-cpp",
-      "score": 699,
-      "comments": 144,
-      "author": "sebjones",
-      "tags": [],
-      "date": "2026-07-19T00:38:26+00:00"
-    },
-    {
-      "id": "qiita-edcf8417b9",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "白って1600色あんねん！",
-      "url": "https://qiita.com/ishi720/items/3e4597bc50695fa9bf79?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "ishi720",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-07-19T09:04:40+09:00"
-    },
-    {
-      "id": "hn-48963483",
-      "source": "hn",
-      "title": "Harness Engineering",
-      "url": "https://github.com/lopopolo/harness-engineering",
-      "score": 16,
-      "comments": 6,
-      "author": "handfuloflight",
-      "tags": [],
-      "date": "2026-07-18T23:27:36+00:00"
-    },
-    {
-      "id": "hn-48963465",
-      "source": "hn",
-      "title": "Codex Resets",
-      "url": "https://codex-resets.com/",
-      "score": 266,
-      "comments": 174,
-      "author": "denysvitali",
-      "tags": [],
-      "date": "2026-07-18T23:24:26+00:00"
-    },
-    {
-      "id": "hn-48962983",
-      "source": "hn",
-      "title": "NYC may require landlords and realtors to disclose the use of AI in listings",
-      "url": "https://petapixel.com/2026/07/16/mayor-mamdani-says-landlords-cant-secretly-use-ai-images-to-advertise-properties/",
-      "score": 472,
-      "comments": 208,
-      "author": "gnabgib",
-      "tags": [],
-      "date": "2026-07-18T22:13:39+00:00"
-    },
-    {
-      "id": "hn-48962944",
-      "source": "hn",
-      "title": "Real-Time LuaTeX: Recompiling Large Documents in 1ms [pdf]",
-      "url": "https://www.tug.org/tug2026/preprints/lode-realtime.pdf",
-      "score": 36,
-      "comments": 7,
-      "author": "amichail",
-      "tags": [],
-      "date": "2026-07-18T22:09:07+00:00"
-    },
-    {
-      "id": "hn-48962893",
-      "source": "hn",
-      "title": "Judge a book by its first pages",
-      "url": "https://uncovered.ink",
-      "score": 43,
-      "comments": 32,
-      "author": "bookofjoe",
-      "tags": [],
-      "date": "2026-07-18T22:02:31+00:00"
-    },
-    {
-      "id": "hn-48962838",
-      "source": "hn",
-      "title": "Classic Amiga titles, free to download",
-      "url": "https://amigafreeware.downer.tech/",
-      "score": 155,
-      "comments": 21,
-      "author": "doener",
-      "tags": [],
-      "date": "2026-07-18T21:55:27+00:00"
-    },
-    {
-      "id": "hn-48962758",
-      "source": "hn",
-      "title": "Hardcore IndieWeb: Run your own website 100% independently for only $0.01/day",
-      "url": "https://www.neatnik.net/hardcore-indieweb",
-      "score": 217,
-      "comments": 175,
-      "author": "cdrnsf",
-      "tags": [],
-      "date": "2026-07-18T21:45:12+00:00"
     },
     {
       "id": "ctf-4167159",

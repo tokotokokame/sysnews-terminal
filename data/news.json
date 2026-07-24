@@ -1,17 +1,138 @@
 {
-  "updated_at": "2026-07-24T11:41:36.147774+00:00",
+  "updated_at": "2026-07-24T13:43:44.068221+00:00",
   "count": 500,
   "items": [
+    {
+      "id": "hn-49034948",
+      "source": "hn",
+      "title": "Patreon laying off 20% of staff",
+      "url": "https://www.patreon.com/jackconte/posts/painful-update-164628951",
+      "score": 47,
+      "comments": 41,
+      "author": "gpi",
+      "tags": [],
+      "date": "2026-07-24T13:02:49+00:00"
+    },
+    {
+      "id": "hn-49034928",
+      "source": "hn",
+      "title": "Ah, the Codeberg Drama",
+      "url": "https://gagliardoni.net/#20260724_codeberg_drama",
+      "score": 16,
+      "comments": 4,
+      "author": "tomgag",
+      "tags": [],
+      "date": "2026-07-24T13:00:18+00:00"
+    },
+    {
+      "id": "hn-49034747",
+      "source": "hn",
+      "title": "Em dashes are fucking amazing",
+      "url": "https://psychotechnology.substack.com/p/em-dashes-are-fucking-amazing",
+      "score": 57,
+      "comments": 51,
+      "author": "surprisetalk",
+      "tags": [],
+      "date": "2026-07-24T12:40:27+00:00"
+    },
+    {
+      "id": "hn-49034673",
+      "source": "hn",
+      "title": "Programming language file extensions that match ISO 3166-1 alpha-2 country code",
+      "url": "https://www.bruh.ltd/blog/programming-language-file-extensions-that-match-an-iso-3166-1-alpha-2-country-code/",
+      "score": 13,
+      "comments": 4,
+      "author": "speckx",
+      "tags": [],
+      "date": "2026-07-24T12:34:28+00:00"
+    },
+    {
+      "id": "hn-49034468",
+      "source": "hn",
+      "title": "Why is programming so captivating, yet so agonizing?",
+      "url": "https://elsewhere.news/en/zhenfund/why-is-programming-so-captivating-yet-so-agonizing",
+      "score": 10,
+      "comments": 5,
+      "author": "ilreb",
+      "tags": [],
+      "date": "2026-07-24T12:15:11+00:00"
+    },
+    {
+      "id": "hn-49034342",
+      "source": "hn",
+      "title": "I Tried Building a Real App with AI. It Took a Year",
+      "url": "https://www.alexhyett.com/videos/tried-building-app-with-ai-it-took-a-year/",
+      "score": 37,
+      "comments": 27,
+      "author": "surprisetalk",
+      "tags": [],
+      "date": "2026-07-24T12:00:17+00:00"
+    },
+    {
+      "id": "hn-49034292",
+      "source": "hn",
+      "title": "My security camera shipped a GitHub admin token in its login page",
+      "url": "https://hhh.hn/hanwha-github-token/",
+      "score": 26,
+      "comments": 6,
+      "author": "hhh",
+      "tags": [],
+      "date": "2026-07-24T11:54:41+00:00"
+    },
+    {
+      "id": "hn-49034217",
+      "source": "hn",
+      "title": "The case for MUDs in modern times",
+      "url": "https://www.andrewzigler.com/feed/the-case-for-muds-in-modern-times",
+      "score": 41,
+      "comments": 39,
+      "author": "bw86",
+      "tags": [],
+      "date": "2026-07-24T11:46:40+00:00"
+    },
+    {
+      "id": "hn-49033916",
+      "source": "hn",
+      "title": "The IBM PC, Part 1: Arrival",
+      "url": "https://technicshistory.com/2026/07/24/the-ibm-pc-part-1-arrival/",
+      "score": 24,
+      "comments": 5,
+      "author": "cfmcdonald",
+      "tags": [],
+      "date": "2026-07-24T11:13:59+00:00"
+    },
     {
       "id": "hn-49033412",
       "source": "hn",
       "title": "Game of Trees – Git-based version control from OpenBSD folks",
       "url": "https://www.gameoftrees.org/",
-      "score": 4,
-      "comments": 0,
+      "score": 22,
+      "comments": 1,
       "author": "gregnavis",
       "tags": [],
       "date": "2026-07-24T10:15:29+00:00"
+    },
+    {
+      "id": "hn-49033388",
+      "source": "hn",
+      "title": "How Do We Stop Vibe Coding?",
+      "url": "https://alexklos.ca/blog/how-do-we-stop-vibe-coding",
+      "score": 13,
+      "comments": 10,
+      "author": "prohobo",
+      "tags": [],
+      "date": "2026-07-24T10:12:39+00:00"
+    },
+    {
+      "id": "hn-49033240",
+      "source": "hn",
+      "title": "IRGC Claims It Destroyed Amazon's Bahrain Data Center",
+      "url": "https://houseofsaud.com/irgc-claims-destroyed-amazon-bahrain-data-center/",
+      "score": 43,
+      "comments": 19,
+      "author": "thisislife2",
+      "tags": [],
+      "date": "2026-07-24T09:52:58+00:00"
     },
     {
       "id": "hn-49033173",
@@ -29,8 +150,8 @@
       "source": "hn",
       "title": "Flux 3 X Mimic: The Next Generation of Video-Action Models",
       "url": "https://bfl.ai/blog/flux-3-mimic",
-      "score": 96,
-      "comments": 8,
+      "score": 192,
+      "comments": 24,
       "author": "kensai",
       "tags": [],
       "date": "2026-07-24T09:31:48+00:00"
@@ -51,8 +172,8 @@
       "source": "hn",
       "title": "Buz – A fork of Bun using modern Zig, with sub-1s incremental builds",
       "url": "https://ziggit.dev/t/buz-a-drop-in-replacement-for-bun-using-modern-zig-with-sub-1s-incremental-builds/16891",
-      "score": 27,
-      "comments": 5,
+      "score": 102,
+      "comments": 68,
       "author": "kristoff_it",
       "tags": [],
       "date": "2026-07-24T09:26:40+00:00"
@@ -62,8 +183,8 @@
       "source": "hn",
       "title": "Hetzner is working on LLM Inference",
       "url": "https://sliplane.io/blog/hetzner-inference",
-      "score": 26,
-      "comments": 11,
+      "score": 88,
+      "comments": 37,
       "author": "jonas_scholz",
       "tags": [],
       "date": "2026-07-24T09:24:44+00:00"
@@ -73,8 +194,8 @@
       "source": "hn",
       "title": "Nothing works and everyone is euphoric",
       "url": "https://ptrchm.com/posts/nothing-works-and-everyone-is-euphoric/",
-      "score": 107,
-      "comments": 100,
+      "score": 179,
+      "comments": 139,
       "author": "pchm",
       "tags": [],
       "date": "2026-07-24T09:08:17+00:00"
@@ -95,8 +216,8 @@
       "source": "hn",
       "title": "The Book Prize Index",
       "url": "https://book-prize-index.vercel.app",
-      "score": 14,
-      "comments": 1,
+      "score": 35,
+      "comments": 2,
       "author": "Luc",
       "tags": [],
       "date": "2026-07-24T08:29:11+00:00"
@@ -106,8 +227,8 @@
       "source": "hn",
       "title": "It's getting harder to focus every day",
       "url": "https://glyphack.com/attention/",
-      "score": 136,
-      "comments": 69,
+      "score": 291,
+      "comments": 149,
       "author": "peykar",
       "tags": [],
       "date": "2026-07-24T08:18:30+00:00"
@@ -152,8 +273,8 @@
       "source": "hn",
       "title": "Flux 3",
       "url": "https://bfl.ai/blog/flux-3",
-      "score": 346,
-      "comments": 90,
+      "score": 424,
+      "comments": 107,
       "author": "ThouYS",
       "tags": [],
       "date": "2026-07-24T06:17:08+00:00"
@@ -174,8 +295,8 @@
       "source": "hn",
       "title": "Claude Cookbook",
       "url": "https://platform.claude.com/cookbook/",
-      "score": 99,
-      "comments": 45,
+      "score": 157,
+      "comments": 80,
       "author": "saikatsg",
       "tags": [],
       "date": "2026-07-24T05:09:15+00:00"
@@ -612,8 +733,8 @@
       "source": "hn",
       "title": "Writing by hand is good for your brain",
       "url": "https://nealstephenson.substack.com/p/writing-by-hand-is-good-for-your",
-      "score": 1344,
-      "comments": 613,
+      "score": 1372,
+      "comments": 622,
       "author": "dwwoelfel",
       "tags": [],
       "date": "2026-07-23T14:24:43+00:00"
@@ -1745,6 +1866,17 @@
       "date": "2026-07-22T12:38:16+09:00"
     },
     {
+      "id": "hn-49001498",
+      "source": "hn",
+      "title": "Tangleflow: Converts GitHub Actions workflows to tangled workflows and back",
+      "url": "https://github.com/43081j/tangleflow",
+      "score": 15,
+      "comments": 7,
+      "author": "wertyk",
+      "tags": [],
+      "date": "2026-07-22T03:28:34+00:00"
+    },
+    {
       "id": "hn-49001472",
       "source": "hn",
       "title": "Never Enough",
@@ -2076,8 +2208,8 @@
       "source": "hn",
       "title": "Computational chemistry, Locally? My rant on SSH",
       "url": "https://chillphysicsenjoyer.substack.com/p/computational-chemistry-locally",
-      "score": 12,
-      "comments": 5,
+      "score": 26,
+      "comments": 16,
       "author": "crescit_eundo",
       "tags": [],
       "date": "2026-07-21T18:23:49+00:00"
@@ -3669,6 +3801,17 @@
       "date": "2026-07-20T02:51:16+00:00"
     },
     {
+      "id": "hn-48973835",
+      "source": "hn",
+      "title": "India's first privately-developed rocket reaches orbit on dramatic debut launch",
+      "url": "https://arstechnica.com/space/2026/07/indias-first-privately-developed-rocket-reaches-orbit-on-dramatic-debut-launch/",
+      "score": 31,
+      "comments": 5,
+      "author": "sohkamyung",
+      "tags": [],
+      "date": "2026-07-20T02:43:54+00:00"
+    },
+    {
       "id": "qiita-9cbdb2babe",
       "source": "zennqiita",
       "sub_source": "Qiita",
@@ -5064,156 +5207,6 @@
       "author": "robtherobber",
       "tags": [],
       "date": "2026-07-18T14:04:42+00:00"
-    },
-    {
-      "id": "hn-48958266",
-      "source": "hn",
-      "title": "What Rose Petals Teach Us about Induction",
-      "url": "https://www.oranlooney.com/post/rose-petals/",
-      "score": 27,
-      "comments": 2,
-      "author": "olooney",
-      "tags": [],
-      "date": "2026-07-18T14:04:10+00:00"
-    },
-    {
-      "id": "hn-48957779",
-      "source": "hn",
-      "title": "GPT-5.6 used a prompt to close a 30-year gap in convex optimization",
-      "url": "https://old.reddit.com/r/math/comments/1uxj3cy/after_openais_cdc_proof_announcement_gpt56_used_a/",
-      "score": 563,
-      "comments": 361,
-      "author": "mbustamanter",
-      "tags": [],
-      "date": "2026-07-18T13:00:52+00:00"
-    },
-    {
-      "id": "hn-48956949",
-      "source": "hn",
-      "title": "What AI did to stackoverflow in a graph",
-      "url": "https://data.stackexchange.com/stackoverflow/query/1953768#graph",
-      "score": 349,
-      "comments": 408,
-      "author": "secretslol",
-      "tags": [],
-      "date": "2026-07-18T11:12:46+00:00"
-    },
-    {
-      "id": "hn-48956924",
-      "source": "hn",
-      "title": "Why do AI company logos look like buttholes? (2025)",
-      "url": "https://velvetshark.com/ai-company-logos-that-look-like-buttholes",
-      "score": 304,
-      "comments": 94,
-      "author": "miniBill",
-      "tags": [],
-      "date": "2026-07-18T11:06:50+00:00"
-    },
-    {
-      "id": "hn-48956879",
-      "source": "hn",
-      "title": "Fable 5 vs. GPT-5.6 Sol on an NP-Hard Problem: Does /goal help?",
-      "url": "https://charlesazam.com/blog/fable-5-gpt-5-6-sol-goal/",
-      "score": 235,
-      "comments": 115,
-      "author": "couAUIA",
-      "tags": [],
-      "date": "2026-07-18T11:00:29+00:00"
-    },
-    {
-      "id": "hn-48956852",
-      "source": "hn",
-      "title": "Steam Machine: Between 12k and 15k Units Sold per week",
-      "url": "https://boilingsteam.com/steam-machine-between-10k-and-15k-sold-per-week/",
-      "score": 66,
-      "comments": 49,
-      "author": "ekianjo",
-      "tags": [],
-      "date": "2026-07-18T10:56:09+00:00"
-    },
-    {
-      "id": "hn-48956688",
-      "source": "hn",
-      "title": "LG monitors silently install software through Windows Update without consent",
-      "url": "https://videocardz.com/newz/lg-monitors-silently-install-software-through-windows-update-without-user-consent",
-      "score": 1022,
-      "comments": 517,
-      "author": "baranul",
-      "tags": [],
-      "date": "2026-07-18T10:21:19+00:00",
-      "severity": "medium"
-    },
-    {
-      "id": "hn-48956548",
-      "source": "hn",
-      "title": "Show HN: Workaround – Unstar GitHub Repos in Bulk",
-      "url": "https://workaround.run/",
-      "score": 5,
-      "comments": 3,
-      "author": "yusveng",
-      "tags": [],
-      "date": "2026-07-18T09:41:36+00:00"
-    },
-    {
-      "id": "hn-48956307",
-      "source": "hn",
-      "title": "Qubes OS Security in the Public Record",
-      "url": "https://arxiv.org/abs/2607.14587",
-      "score": 54,
-      "comments": 9,
-      "author": "sciences44",
-      "tags": [],
-      "date": "2026-07-18T08:50:07+00:00"
-    },
-    {
-      "id": "hn-48956231",
-      "source": "hn",
-      "title": "The Computer at the Bottom of a Canal",
-      "url": "https://negroniventurestudios.com/2026/07/18/the-computer-at-the-bottom-of-a-canal/",
-      "score": 127,
-      "comments": 30,
-      "author": "Kudos",
-      "tags": [],
-      "date": "2026-07-18T08:33:31+00:00"
-    },
-    {
-      "id": "qiita-976842d296",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "【徹底解説】文系でもわかる！機械学習に入門しよう",
-      "url": "https://qiita.com/miruky/items/42b892805eb1d754109c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "miruky",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-07-18T17:14:07+09:00"
-    },
-    {
-      "id": "qiita-879479237b",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "2億件超のビジュアル検索をどう支えるか：123RFがZilliz Cloudへ移行した理由",
-      "url": "https://qiita.com/sphereSky/items/bbf794642eb83649fd8d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "sphereSky",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-07-18T16:06:04+09:00"
-    },
-    {
-      "id": "qiita-f0c1fcf50c",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "AIエージェントのためのDocker Sandboxes実践入門",
-      "url": "https://qiita.com/minamijoyo/items/854ce04da1490b43a848?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "minamijoyo",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-07-18T15:37:49+09:00"
     },
     {
       "id": "ctf-4167159",

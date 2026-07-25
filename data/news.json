@@ -1,14 +1,36 @@
 {
-  "updated_at": "2026-07-24T23:00:26.195667+00:00",
+  "updated_at": "2026-07-25T00:12:09.209328+00:00",
   "count": 500,
   "items": [
+    {
+      "id": "hn-49042528",
+      "source": "hn",
+      "title": "SpaceX Starship Flight 13 livestream [video]",
+      "url": "https://www.spacex.com/launches/starship-flight-13",
+      "score": 55,
+      "comments": 43,
+      "author": "cryptoz",
+      "tags": [],
+      "date": "2026-07-24T22:44:38+00:00"
+    },
+    {
+      "id": "hn-49042354",
+      "source": "hn",
+      "title": "AIs don't do what you want. This is bad",
+      "url": "https://rewardhacking.org",
+      "score": 18,
+      "comments": 8,
+      "author": "kking23",
+      "tags": [],
+      "date": "2026-07-24T22:24:08+00:00"
+    },
     {
       "id": "hn-49040741",
       "source": "hn",
       "title": "Opus 5 is currently #1 on Artificial Analysis Intelligence Leaderboard",
       "url": "https://artificialanalysis.ai/models",
-      "score": 31,
-      "comments": 15,
+      "score": 86,
+      "comments": 37,
       "author": "aarondong",
       "tags": [],
       "date": "2026-07-24T19:45:10+00:00"
@@ -18,8 +40,8 @@
       "source": "hn",
       "title": "Postgres LISTEN/NOTIFY actually scales",
       "url": "https://www.dbos.dev/blog/postgres-listen-notify-scalability",
-      "score": 148,
-      "comments": 28,
+      "score": 177,
+      "comments": 29,
       "author": "KraftyOne",
       "tags": [],
       "date": "2026-07-24T19:05:53+00:00"
@@ -51,7 +73,7 @@
       "source": "hn",
       "title": "Gsxui – Shadcn-style components for Go",
       "url": "https://ui.gsxhq.dev/",
-      "score": 50,
+      "score": 54,
       "comments": 8,
       "author": "jackielii",
       "tags": [],
@@ -84,8 +106,8 @@
       "source": "hn",
       "title": "Claude Opus 5",
       "url": "https://www.anthropic.com/news/claude-opus-5",
-      "score": 1162,
-      "comments": 627,
+      "score": 1224,
+      "comments": 667,
       "author": "alvis",
       "tags": [],
       "date": "2026-07-24T16:57:41+00:00"
@@ -106,8 +128,8 @@
       "source": "hn",
       "title": "Don't Take the Black Pill [video]",
       "url": "https://www.youtube.com/watch?v=zLZwpH5lCD4",
-      "score": 95,
-      "comments": 63,
+      "score": 110,
+      "comments": 75,
       "author": "signa11",
       "tags": [],
       "date": "2026-07-24T16:48:57+00:00"
@@ -150,8 +172,8 @@
       "source": "hn",
       "title": "Be skeptical of OpenAI's rogue hacker agent story",
       "url": "https://www.theguardian.com/technology/2026/jul/24/openai-rogue-hacker",
-      "score": 364,
-      "comments": 193,
+      "score": 389,
+      "comments": 213,
       "author": "rwmj",
       "tags": [],
       "date": "2026-07-24T16:33:31+00:00"
@@ -372,8 +394,8 @@
       "source": "hn",
       "title": "Nvidia, Microsoft, Meta warn against overregulating open-weight models",
       "url": "https://www.cnbc.com/2026/07/24/nvidia-microsoft-meta-open-weight-ai-models.html",
-      "score": 443,
-      "comments": 206,
+      "score": 467,
+      "comments": 220,
       "author": "louiereederson",
       "tags": [],
       "date": "2026-07-24T13:32:30+00:00"
@@ -405,8 +427,8 @@
       "source": "hn",
       "title": "Half-Life 2 running natively on HaikuOS",
       "url": "https://discuss.haiku-os.org/t/haiku-nvidia-porting-nvidia-driver-for-turing-gpus/16520?page=18",
-      "score": 244,
-      "comments": 43,
+      "score": 253,
+      "comments": 47,
       "author": "m0do1",
       "tags": [],
       "date": "2026-07-24T12:53:59+00:00"
@@ -460,8 +482,8 @@
       "source": "hn",
       "title": "My security camera shipped a GitHub admin token in its login page",
       "url": "https://hhh.hn/hanwha-github-token/",
-      "score": 478,
-      "comments": 166,
+      "score": 491,
+      "comments": 168,
       "author": "hhh",
       "tags": [],
       "date": "2026-07-24T11:54:41+00:00"
@@ -526,10 +548,10 @@
     {
       "id": "hn-49033240",
       "source": "hn",
-      "title": "IRGC Claims It Destroyed Amazon's Bahrain Data Center",
+      "title": "IRGC claims it destroyed Amazon's Bahrain data center",
       "url": "https://houseofsaud.com/irgc-claims-destroyed-amazon-bahrain-data-center/",
-      "score": 129,
-      "comments": 60,
+      "score": 231,
+      "comments": 289,
       "author": "thisislife2",
       "tags": [],
       "date": "2026-07-24T09:52:58+00:00"
@@ -550,7 +572,7 @@
       "source": "hn",
       "title": "Flux 3 X Mimic: The Next Generation of Video-Action Models",
       "url": "https://bfl.ai/blog/flux-3-mimic",
-      "score": 305,
+      "score": 308,
       "comments": 48,
       "author": "kensai",
       "tags": [],
@@ -561,8 +583,8 @@
       "source": "hn",
       "title": "Future euro banknote design proposals",
       "url": "https://www.ecb.europa.eu/euro/banknotes/future_banknotes/html/all-design-proposals.en.html",
-      "score": 102,
-      "comments": 100,
+      "score": 114,
+      "comments": 112,
       "author": "robin_reala",
       "tags": [],
       "date": "2026-07-24T09:29:44+00:00"
@@ -594,8 +616,8 @@
       "source": "hn",
       "title": "If coding has been solved, why does software keep getting worse?",
       "url": "https://ptrchm.com/posts/nothing-works-and-everyone-is-euphoric/",
-      "score": 407,
-      "comments": 331,
+      "score": 454,
+      "comments": 374,
       "author": "pchm",
       "tags": [],
       "date": "2026-07-24T09:08:17+00:00"
@@ -935,8 +957,8 @@
       "source": "hn",
       "title": "Fil-C: Garbage In, Memory Safety Out [video]",
       "url": "https://www.youtube.com/watch?v=5F-2Y1LPRek",
-      "score": 84,
-      "comments": 78,
+      "score": 90,
+      "comments": 94,
       "author": "Bootvis",
       "tags": [],
       "date": "2026-07-23T19:37:37+00:00"
@@ -1014,8 +1036,8 @@
       "source": "hn",
       "title": "Kimi K3 exploited the latest Redis server",
       "url": "https://twitter.com/fried_rice/status/2080059356322918777",
-      "score": 103,
-      "comments": 30,
+      "score": 123,
+      "comments": 37,
       "author": "Alifatisk",
       "tags": [],
       "date": "2026-07-23T17:10:02+00:00",
@@ -1383,8 +1405,8 @@
       "source": "hn",
       "title": "Show HN: I simulated closing the Strait of Hormuz on real oil trade data",
       "url": "https://globaloilnetwork.staffinganalytics.io/",
-      "score": 34,
-      "comments": 15,
+      "score": 60,
+      "comments": 30,
       "author": "eliotho",
       "tags": [],
       "date": "2026-07-23T12:31:21+00:00"
@@ -1915,8 +1937,8 @@
       "source": "hn",
       "title": "An old patent inspired the new \"Y-zipper\", a three-sided fastener",
       "url": "https://news.mit.edu/2026/three-sided-y-zipper-design-0504",
-      "score": 89,
-      "comments": 25,
+      "score": 106,
+      "comments": 27,
       "author": "crescit_eundo",
       "tags": [],
       "date": "2026-07-22T15:37:25+00:00"
@@ -2264,8 +2286,8 @@
       "source": "hn",
       "title": "Marimo now runs in PyCharm",
       "url": "https://marimo.io/blog/pycharm",
-      "score": 55,
-      "comments": 11,
+      "score": 69,
+      "comments": 15,
       "author": "cantdutchthis",
       "tags": [],
       "date": "2026-07-22T10:24:40+00:00"
@@ -2840,8 +2862,8 @@
       "source": "hn",
       "title": "Firefox Containers Preview",
       "url": "https://blog.mozilla.org/en/firefox/firefox-containers-preview/",
-      "score": 184,
-      "comments": 70,
+      "score": 203,
+      "comments": 72,
       "author": "twapi",
       "tags": [],
       "date": "2026-07-21T17:27:59+00:00"
@@ -3551,6 +3573,17 @@
       "date": "2026-07-21T09:22:28+09:00"
     },
     {
+      "id": "hn-48986560",
+      "source": "hn",
+      "title": "The road to epsilon-zero: Nim always ends, even with infinite ordinals",
+      "url": "https://blog.plover.com/math/ordinals/02-wellfoundedness.html",
+      "score": 5,
+      "comments": 0,
+      "author": "pavel_lishin",
+      "tags": [],
+      "date": "2026-07-21T00:10:32+00:00"
+    },
+    {
       "id": "hn-48986223",
       "source": "hn",
       "title": "The Telegarden (1995-2004)",
@@ -3601,8 +3634,8 @@
       "source": "hn",
       "title": "Designing an Ethernet Switch ASIC",
       "url": "https://essenceia.github.io/projects/ethernet_switch_asic/",
-      "score": 55,
-      "comments": 12,
+      "score": 80,
+      "comments": 21,
       "author": "random__duck",
       "tags": [],
       "date": "2026-07-20T21:35:33+00:00"
@@ -4146,8 +4179,8 @@
       "source": "hn",
       "title": "The footprints of every building in NYC",
       "url": "https://www.beautifulpublicdata.com/the-footprints-of-every-building-in-nyc/",
-      "score": 35,
-      "comments": 4,
+      "score": 41,
+      "comments": 5,
       "author": "jonathanmkeegan",
       "tags": [],
       "date": "2026-07-20T12:25:49+00:00"
@@ -4413,8 +4446,8 @@
       "source": "hn",
       "title": "India's first privately-developed rocket reaches orbit on debut launch",
       "url": "https://arstechnica.com/space/2026/07/indias-first-privately-developed-rocket-reaches-orbit-on-dramatic-debut-launch/",
-      "score": 447,
-      "comments": 132,
+      "score": 468,
+      "comments": 137,
       "author": "sohkamyung",
       "tags": [],
       "date": "2026-07-20T02:43:54+00:00"
@@ -5153,32 +5186,6 @@
       "date": "2026-07-19T17:37:57+09:00"
     },
     {
-      "id": "qiita-d84c49a34c",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "【個人開発】セルフネイルのネイルレシピアプリを開発しました！（React/Supabase/PWA）",
-      "url": "https://qiita.com/potato11/items/6f010e9bd4d74f88c855?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "potato11",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-07-19T17:37:12+09:00"
-    },
-    {
-      "id": "qiita-d1370d8888",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "技術記事は、公開した瞬間から腐りはじめる",
-      "url": "https://qiita.com/happy_engineer/items/117b43dd0f4d177836d5?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "happy_engineer",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-07-19T17:34:07+09:00"
-    },
-    {
       "id": "ctf-4178473",
       "source": "project",
       "proj_category": "CTF",
@@ -5191,17 +5198,6 @@
         "Security"
       ],
       "date": "2026-07-19T08:24:37Z"
-    },
-    {
-      "id": "hn-48965914",
-      "source": "hn",
-      "title": "The Mighty Big Array of Finn Jensen LA8YB",
-      "url": "https://la0by.darc.de/LA8YB_EME_MBA.htm",
-      "score": 26,
-      "comments": 6,
-      "author": "kalehmann",
-      "tags": [],
-      "date": "2026-07-19T08:05:46+00:00"
     },
     {
       "id": "ctf-4167159",

@@ -1,14 +1,48 @@
 {
-  "updated_at": "2026-07-26T16:59:44.312811+00:00",
+  "updated_at": "2026-07-26T18:07:42.476818+00:00",
   "count": 500,
   "items": [
+    {
+      "id": "hn-49060495",
+      "source": "hn",
+      "title": "French firefighters face 'pyrocumulonimbus' for first time",
+      "url": "https://www.france24.com/en/live-news/20260726-french-firefighters-face-pyrocumulonimbus-for-first-time",
+      "score": 8,
+      "comments": 1,
+      "author": "saaaaaam",
+      "tags": [],
+      "date": "2026-07-26T17:49:44+00:00"
+    },
+    {
+      "id": "hn-49060295",
+      "source": "hn",
+      "title": "How to Write English Prose",
+      "url": "https://thelampmagazine.com/blog/how-to-write-english-prose",
+      "score": 5,
+      "comments": 0,
+      "author": "geneticdrifts",
+      "tags": [],
+      "date": "2026-07-26T17:29:35+00:00"
+    },
+    {
+      "id": "hn-49060277",
+      "source": "hn",
+      "title": "Calling all open source maintainers working with Ruby",
+      "url": "https://www.rubyforum.org/t/calling-all-open-source-maintainers-working-with-ruby/553",
+      "score": 4,
+      "comments": 1,
+      "author": "arto",
+      "tags": [],
+      "date": "2026-07-26T17:28:03+00:00",
+      "severity": "critical"
+    },
     {
       "id": "hn-49059660",
       "source": "hn",
       "title": "What if LLMs escape through inferences itself? This is fiction. For now",
       "url": "https://www.agrillo.it/EvasionEn.html",
-      "score": 3,
-      "comments": 1,
+      "score": 23,
+      "comments": 34,
       "author": "ConteMascetti71",
       "tags": [],
       "date": "2026-07-26T16:23:56+00:00"
@@ -18,8 +52,8 @@
       "source": "hn",
       "title": "Make an Origami Circuit Board",
       "url": "https://spectrum.ieee.org/origami-circuit-boards",
-      "score": 5,
-      "comments": 0,
+      "score": 19,
+      "comments": 1,
       "author": "ohjeez",
       "tags": [],
       "date": "2026-07-26T15:56:08+00:00"
@@ -29,8 +63,8 @@
       "source": "hn",
       "title": "Show HN: CheapSecurity – Lightweight, Self-Hosted CCTV for Linux SBCs",
       "url": "https://github.com/gmrandazzo/CheapSecurity",
-      "score": 16,
-      "comments": 2,
+      "score": 30,
+      "comments": 6,
       "author": "zeldone",
       "tags": [],
       "date": "2026-07-26T15:53:55+00:00"
@@ -40,8 +74,8 @@
       "source": "hn",
       "title": "Design Is Compromise",
       "url": "https://stephango.com/design-is-compromise",
-      "score": 37,
-      "comments": 14,
+      "score": 78,
+      "comments": 28,
       "author": "ankitg12",
       "tags": [],
       "date": "2026-07-26T15:51:12+00:00"
@@ -51,8 +85,8 @@
       "source": "hn",
       "title": "An Inside Look at the Token Reseller Market",
       "url": "https://vectoral.com/blog/token-relay-market",
-      "score": 42,
-      "comments": 13,
+      "score": 76,
+      "comments": 27,
       "author": "mlenhard",
       "tags": [],
       "date": "2026-07-26T15:17:06+00:00"
@@ -62,8 +96,8 @@
       "source": "hn",
       "title": "Park by Robot at London Gatwick Airport",
       "url": "https://aerospaceglobalnews.com/news/gatwick-airport-robotic-parking-stanley-robotics/",
-      "score": 119,
-      "comments": 65,
+      "score": 180,
+      "comments": 114,
       "author": "agotterer",
       "tags": [],
       "date": "2026-07-26T14:40:27+00:00"
@@ -73,8 +107,8 @@
       "source": "hn",
       "title": "The New AI Superpowers: Focus and Followthrough",
       "url": "https://www.rickmanelius.com/p/the-new-ai-superpowers-focus-and",
-      "score": 39,
-      "comments": 9,
+      "score": 51,
+      "comments": 16,
       "author": "mooreds",
       "tags": [],
       "date": "2026-07-26T13:13:03+00:00"
@@ -84,8 +118,8 @@
       "source": "hn",
       "title": "Show HN: Reverse Minesweeper",
       "url": "https://sunflowersgame.com/",
-      "score": 38,
-      "comments": 19,
+      "score": 51,
+      "comments": 20,
       "author": "pompomsheep",
       "tags": [],
       "date": "2026-07-26T12:51:03+00:00"
@@ -95,8 +129,8 @@
       "source": "hn",
       "title": "Go Analysis Framework: modular static analysis by go team",
       "url": "https://pkg.go.dev/golang.org/x/tools/go/analysis",
-      "score": 109,
-      "comments": 6,
+      "score": 126,
+      "comments": 14,
       "author": "AbuAssar",
       "tags": [],
       "date": "2026-07-26T12:21:26+00:00"
@@ -106,8 +140,8 @@
       "source": "hn",
       "title": "Third Drone Shot Down in Three Days in Romanian Territory",
       "url": "https://english.mapn.ro/",
-      "score": 188,
-      "comments": 191,
+      "score": 200,
+      "comments": 216,
       "author": "_tk_",
       "tags": [],
       "date": "2026-07-26T12:00:42+00:00"
@@ -117,8 +151,8 @@
       "source": "hn",
       "title": "Htmx 4.0, the first JavaScript library to release exclusively on the Game Boy",
       "url": "https://swag.htmx.org/en-cad/products/htmx-4-the-game",
-      "score": 95,
-      "comments": 22,
+      "score": 153,
+      "comments": 44,
       "author": "rcy",
       "tags": [],
       "date": "2026-07-26T12:00:11+00:00"
@@ -128,8 +162,8 @@
       "source": "hn",
       "title": "Kill The Cookie Banner",
       "url": "https://killthecookiebanner.eu/",
-      "score": 193,
-      "comments": 104,
+      "score": 329,
+      "comments": 181,
       "author": "rapnie",
       "tags": [],
       "date": "2026-07-26T11:53:17+00:00"
@@ -144,6 +178,17 @@
       "author": "joozio",
       "tags": [],
       "date": "2026-07-26T11:00:54+00:00"
+    },
+    {
+      "id": "hn-49056620",
+      "source": "hn",
+      "title": "Terence Tao: Mathematics in the Age of AI [pdf]",
+      "url": "https://teorth.github.io/tao-web/slides/age-of-ai-icm-2026.pdf",
+      "score": 46,
+      "comments": 16,
+      "author": "Anon84",
+      "tags": [],
+      "date": "2026-07-26T10:32:35+00:00"
     },
     {
       "id": "hn-49056424",
@@ -183,8 +228,8 @@
       "source": "hn",
       "title": "Ruff v0.16.0 – Significant new updates – 413 default rules up from 59",
       "url": "https://astral.sh/blog/ruff-v0.16.0",
-      "score": 268,
-      "comments": 161,
+      "score": 295,
+      "comments": 179,
       "author": "vismit2000",
       "tags": [],
       "date": "2026-07-26T09:01:39+00:00",
@@ -195,8 +240,8 @@
       "source": "hn",
       "title": "GrapheneOS protections against data extraction from locked devices",
       "url": "https://discuss.grapheneos.org/d/40700-grapheneos-protections-against-data-extraction-from-locked-devices",
-      "score": 274,
-      "comments": 160,
+      "score": 294,
+      "comments": 174,
       "author": "Cider9986",
       "tags": [],
       "date": "2026-07-26T05:57:22+00:00"
@@ -265,8 +310,8 @@
       "source": "hn",
       "title": "An ESP32 based plane radar for my desk",
       "url": "https://blog.ktz.me/esp32-plane-radar/",
-      "score": 227,
-      "comments": 46,
+      "score": 236,
+      "comments": 50,
       "author": "alexktz",
       "tags": [],
       "date": "2026-07-26T02:35:43+00:00"
@@ -745,8 +790,8 @@
       "source": "hn",
       "title": "A shell colon does nothing. Use it anyway",
       "url": "https://refp.se/articles/your-shell-and-the-magic-colon",
-      "score": 334,
-      "comments": 144,
+      "score": 342,
+      "comments": 149,
       "author": "olexsmir",
       "tags": [],
       "date": "2026-07-25T13:33:49+00:00"
@@ -2414,8 +2459,8 @@
       "source": "hn",
       "title": "I learned PCB design, 3D printing and C just to listen to music",
       "url": "https://pentaton.app/blog/2026-07-12-introducing-pentaton-lp/",
-      "score": 96,
-      "comments": 10,
+      "score": 110,
+      "comments": 14,
       "author": "interfeco",
       "tags": [],
       "date": "2026-07-23T14:37:13+00:00"
@@ -2752,6 +2797,17 @@
       "author": "giuliomagnifico",
       "tags": [],
       "date": "2026-07-23T05:24:17+00:00"
+    },
+    {
+      "id": "hn-49016917",
+      "source": "hn",
+      "title": "Using sed to make indexes for books (long)",
+      "url": "https://www.pement.org/sed/make_indexes.txt",
+      "score": 11,
+      "comments": 0,
+      "author": "TMWNN",
+      "tags": [],
+      "date": "2026-07-23T04:25:24+00:00"
     },
     {
       "id": "qiita-2e09c2d344",
@@ -3598,8 +3654,8 @@
       "source": "hn",
       "title": "What's Under Your Feet in New York City?",
       "url": "https://practical.engineering/blog/2026/7/21/whats-under-your-feet-in-new-york-city",
-      "score": 73,
-      "comments": 9,
+      "score": 87,
+      "comments": 10,
       "author": "sohkamyung",
       "tags": [],
       "date": "2026-07-22T12:56:54+00:00"
@@ -4129,8 +4185,8 @@
       "source": "hn",
       "title": "Jimothy the raccoon has a rare spinal condition. Here's what that means",
       "url": "https://www.popsci.com/science/whats-jimothy-raccoon-condition/",
-      "score": 13,
-      "comments": 0,
+      "score": 40,
+      "comments": 4,
       "author": "speckx",
       "tags": [],
       "date": "2026-07-21T19:28:55+00:00"
@@ -5094,61 +5150,6 @@
         "Qiita"
       ],
       "date": "2026-07-21T08:17:29+09:00"
-    },
-    {
-      "id": "hn-48986091",
-      "source": "hn",
-      "title": "Jellyfin founder Andrew leaves team",
-      "url": "https://forum.jellyfin.org/t-project-leadership-changes",
-      "score": 203,
-      "comments": 136,
-      "author": "swat535",
-      "tags": [],
-      "date": "2026-07-20T23:15:41+00:00"
-    },
-    {
-      "id": "hn-48985249",
-      "source": "hn",
-      "title": "Donation Controversy",
-      "url": "https://mullvad.net/en/blog/donation-controversy",
-      "score": 27,
-      "comments": 17,
-      "author": "Cider9986",
-      "tags": [],
-      "date": "2026-07-20T21:43:07+00:00"
-    },
-    {
-      "id": "hn-48985182",
-      "source": "hn",
-      "title": "Designing an Ethernet Switch ASIC",
-      "url": "https://essenceia.github.io/projects/ethernet_switch_asic/",
-      "score": 190,
-      "comments": 46,
-      "author": "random__duck",
-      "tags": [],
-      "date": "2026-07-20T21:35:33+00:00"
-    },
-    {
-      "id": "hn-48985140",
-      "source": "hn",
-      "title": "My falling-out with the rationalist community",
-      "url": "https://lcamtuf.substack.com/p/my-falling-out-with-the-rationalist",
-      "score": 49,
-      "comments": 36,
-      "author": "surprisetalk",
-      "tags": [],
-      "date": "2026-07-20T21:30:56+00:00"
-    },
-    {
-      "id": "hn-48984760",
-      "source": "hn",
-      "title": "Converting Files into Minecraft Worlds",
-      "url": "https://wuemeli.com/blog/sulfur-part-1/",
-      "score": 59,
-      "comments": 18,
-      "author": "wuemeli",
-      "tags": [],
-      "date": "2026-07-20T20:54:56+00:00"
     },
     {
       "id": "ctf-3782036",

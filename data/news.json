@@ -1,14 +1,37 @@
 {
-  "updated_at": "2026-07-28T20:00:23.210253+00:00",
+  "updated_at": "2026-07-28T21:16:40.549098+00:00",
   "count": 500,
   "items": [
     {
+      "id": "hn-49089755",
+      "source": "hn",
+      "title": "OpenAI just open-sourced Codex Security",
+      "url": "https://github.com/openai/codex-security",
+      "score": 27,
+      "comments": 0,
+      "author": "bakigul",
+      "tags": [],
+      "date": "2026-07-28T20:52:55+00:00",
+      "severity": "critical"
+    },
+    {
+      "id": "hn-49089406",
+      "source": "hn",
+      "title": "Recursion is lying to you",
+      "url": "https://blog.gaborkoos.com/posts/2026-05-09-Your-Recursion-Is-Lying-to-You/",
+      "score": 7,
+      "comments": 7,
+      "author": "theanonymousone",
+      "tags": [],
+      "date": "2026-07-28T20:20:51+00:00"
+    },
+    {
       "id": "hn-49088887",
       "source": "hn",
-      "title": "uv 0.12.0",
+      "title": "Uv 0.12.0",
       "url": "https://github.com/astral-sh/uv/releases/tag/0.12.0",
-      "score": 21,
-      "comments": 2,
+      "score": 72,
+      "comments": 29,
       "author": "hallvard",
       "tags": [],
       "date": "2026-07-28T19:41:33+00:00"
@@ -40,8 +63,8 @@
       "source": "hn",
       "title": "MCP 2026-07-28 Specification: transport going stateless",
       "url": "https://blog.modelcontextprotocol.io/posts/2026-07-28/",
-      "score": 30,
-      "comments": 11,
+      "score": 63,
+      "comments": 23,
       "author": "Eldodi",
       "tags": [],
       "date": "2026-07-28T18:35:11+00:00"
@@ -51,8 +74,8 @@
       "source": "hn",
       "title": "The iPhone Upgrade Program is being replaced by Apple Upgrade",
       "url": "https://www.apple.com/shop/iphone/iphone-upgrade-program",
-      "score": 52,
-      "comments": 85,
+      "score": 86,
+      "comments": 149,
       "author": "lkurtz",
       "tags": [],
       "date": "2026-07-28T17:37:12+00:00"
@@ -62,8 +85,8 @@
       "source": "hn",
       "title": "Discovering Cryptographic Weaknesses with Claude",
       "url": "https://www.anthropic.com/research/discovering-cryptographic-weaknesses",
-      "score": 94,
-      "comments": 40,
+      "score": 112,
+      "comments": 58,
       "author": "gslin",
       "tags": [],
       "date": "2026-07-28T17:22:16+00:00"
@@ -73,8 +96,8 @@
       "source": "hn",
       "title": "Steel Bank Common Lisp version 2.6.7",
       "url": "https://sbcl.org/all-news.html?2.6.7",
-      "score": 104,
-      "comments": 35,
+      "score": 140,
+      "comments": 48,
       "author": "tmtvl",
       "tags": [],
       "date": "2026-07-28T17:11:54+00:00"
@@ -84,7 +107,7 @@
       "source": "hn",
       "title": "WOFF 1.0: a milestone on W3C's journey of fonts on the web",
       "url": "https://www.w3.org/blog/2026/woff-1-0-a-milestone-on-w3cs-journey-of-fonts-on-the-web/",
-      "score": 41,
+      "score": 46,
       "comments": 1,
       "author": "hn_acker",
       "tags": [],
@@ -95,8 +118,8 @@
       "source": "hn",
       "title": "Substack writers, you need a website",
       "url": "https://elizabethtai.com/2026/06/10/substack-writers-you-need-a-website/",
-      "score": 157,
-      "comments": 111,
+      "score": 286,
+      "comments": 156,
       "author": "speckx",
       "tags": [],
       "date": "2026-07-28T16:58:31+00:00"
@@ -128,7 +151,7 @@
       "source": "hn",
       "title": "How Do I Profile eBPF Code?",
       "url": "https://naveensrinivasan.com/posts/2026-07-22-how-do-i-profile-ebpf-code/",
-      "score": 85,
+      "score": 94,
       "comments": 6,
       "author": "snaveen",
       "tags": [],
@@ -139,8 +162,8 @@
       "source": "hn",
       "title": "Show HN: XY – A Fast, composable, GPU-accelerated interactive plotting library",
       "url": "https://github.com/reflex-dev/xy",
-      "score": 73,
-      "comments": 24,
+      "score": 87,
+      "comments": 32,
       "author": "apetuskey",
       "tags": [],
       "date": "2026-07-28T15:54:55+00:00"
@@ -150,8 +173,8 @@
       "source": "hn",
       "title": "Delayed Gratification – Proud to Be 'Last to Breaking News'",
       "url": "https://www.slow-journalism.com/",
-      "score": 150,
-      "comments": 78,
+      "score": 182,
+      "comments": 94,
       "author": "speerer",
       "tags": [],
       "date": "2026-07-28T15:50:38+00:00"
@@ -161,8 +184,8 @@
       "source": "hn",
       "title": "Kimi K3 Architecture Overview and Notes",
       "url": "https://sebastianraschka.com/blog/2026/kimi-k3-architecture-notes.html",
-      "score": 148,
-      "comments": 16,
+      "score": 208,
+      "comments": 23,
       "author": "ModelForge",
       "tags": [],
       "date": "2026-07-28T15:48:34+00:00"
@@ -172,8 +195,8 @@
       "source": "hn",
       "title": "Zig's Incremental Compilation Internals",
       "url": "https://mlugg.co.uk/posts/incremental-compilation-internals/",
-      "score": 124,
-      "comments": 76,
+      "score": 142,
+      "comments": 100,
       "author": "garyhtou",
       "tags": [],
       "date": "2026-07-28T15:46:45+00:00"
@@ -205,8 +228,8 @@
       "source": "hn",
       "title": "Harmony Explained: Progress Towards a Scientific Theory of Music (2012)",
       "url": "https://arxiv.org/abs/1202.4212",
-      "score": 69,
-      "comments": 50,
+      "score": 77,
+      "comments": 59,
       "author": "surprisetalk",
       "tags": [],
       "date": "2026-07-28T15:20:35+00:00"
@@ -227,8 +250,8 @@
       "source": "hn",
       "title": "Anthropeum – Where in the world, and when, does this human artifact belong?",
       "url": "https://anthropeum.com/",
-      "score": 106,
-      "comments": 31,
+      "score": 119,
+      "comments": 34,
       "author": "bookofjoe",
       "tags": [],
       "date": "2026-07-28T15:01:15+00:00"
@@ -238,8 +261,8 @@
       "source": "hn",
       "title": "Now Is the Time to Give LLMs Access to the ACM Digital Library",
       "url": "https://cacm.acm.org/opinion/now-is-the-time-to-give-llms-access-to-the-acm-digital-library/",
-      "score": 71,
-      "comments": 28,
+      "score": 85,
+      "comments": 61,
       "author": "rbanffy",
       "tags": [],
       "date": "2026-07-28T15:01:12+00:00"
@@ -249,8 +272,8 @@
       "source": "hn",
       "title": "Stop Killing the Internet: No Digital ID and No Age Verification",
       "url": "https://citizens-initiative.europa.eu/initiatives/details/2026/000011_en",
-      "score": 304,
-      "comments": 96,
+      "score": 390,
+      "comments": 115,
       "author": "doener",
       "tags": [],
       "date": "2026-07-28T14:58:15+00:00"
@@ -258,10 +281,10 @@
     {
       "id": "hn-49084813",
       "source": "hn",
-      "title": "Una Watch: Garmin watch competitor but repairable, open ecosystem and USB-C",
+      "title": "Una GPS smart watch – Repairable, USB-C charging, developer-friendly",
       "url": "https://unawatch.com/",
-      "score": 35,
-      "comments": 22,
+      "score": 91,
+      "comments": 62,
       "author": "pimterry",
       "tags": [],
       "date": "2026-07-28T14:48:13+00:00"
@@ -341,8 +364,8 @@
       "source": "hn",
       "title": "New HIV vaccine shows unprecedented success in preclinical study",
       "url": "https://www.lji.org/news-events/news/post/new-hiv-vaccine-shows-unprecedented-success-in-preclinical-study/",
-      "score": 434,
-      "comments": 204,
+      "score": 474,
+      "comments": 219,
       "author": "codebyaditya",
       "tags": [],
       "date": "2026-07-28T13:12:01+00:00"
@@ -397,8 +420,8 @@
       "source": "hn",
       "title": "Kimi Linear: An Expressive, Efficient Attention Architecture (2025)",
       "url": "https://arxiv.org/abs/2510.26692",
-      "score": 239,
-      "comments": 102,
+      "score": 251,
+      "comments": 109,
       "author": "ronfriedhaber",
       "tags": [],
       "date": "2026-07-28T10:52:30+00:00"
@@ -460,6 +483,32 @@
       "date": "2026-07-28T09:45:43+00:00"
     },
     {
+      "id": "qiita-83194745e1",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "FindyのDevRelインターンとして、イベント参加者から運営になって。",
+      "url": "https://qiita.com/husensan/items/62bf2a60f313d1e3de3c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "husensan",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-07-28T17:45:40+09:00"
+    },
+    {
+      "id": "qiita-658ce43409",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "Claude Opus 5登場！ベンチマーク分析・価格・Fable 5 / GPT-5.6との徹底比較",
+      "url": "https://qiita.com/Adachit-1411/items/3dd6bc76c81aa6918b84?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "Adachit-1411",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-07-28T16:55:46+09:00"
+    },
+    {
       "id": "hn-49080664",
       "source": "hn",
       "title": "7.1 Earthquake in Japan",
@@ -469,6 +518,19 @@
       "author": "krembo",
       "tags": [],
       "date": "2026-07-28T07:44:24+00:00"
+    },
+    {
+      "id": "qiita-d17fb8a15d",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "AWSを学習する中で勘違いしていたセキュリティグループの送信元",
+      "url": "https://qiita.com/mtid/items/bb5120124f5bd59a87ce?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "mtid",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-07-28T16:24:39+09:00"
     },
     {
       "id": "hn-49079727",
@@ -717,6 +779,17 @@
       "author": "wglb",
       "tags": [],
       "date": "2026-07-27T23:46:15+00:00"
+    },
+    {
+      "id": "hn-49077040",
+      "source": "hn",
+      "title": "Interview with Boris Cherny [video]",
+      "url": "https://www.youtube.com/watch?v=qyPCVqFUyDo",
+      "score": 13,
+      "comments": 3,
+      "author": "knighthacker",
+      "tags": [],
+      "date": "2026-07-27T23:33:04+00:00"
     },
     {
       "id": "qiita-20948aa14e",
@@ -1147,6 +1220,19 @@
       "date": "2026-07-27T13:04:11+00:00"
     },
     {
+      "id": "qiita-3c0bc9dedc",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "Claude でクレジット100ドルが付与されたので、 Fable を使ってサブエージェントを作って「小規模開発チーム」基盤を作った",
+      "url": "https://qiita.com/su3-hokkaido/items/89fcfd2702ecba65c74d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "su3-hokkaido",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-07-27T22:02:49+09:00"
+    },
+    {
       "id": "hn-49068738",
       "source": "hn",
       "title": "AI companies are shredding rare books",
@@ -1213,6 +1299,19 @@
       "author": "bilegeek",
       "tags": [],
       "date": "2026-07-27T10:52:21+00:00"
+    },
+    {
+      "id": "qiita-c03583d082",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "Laravel Eloquent ORMを使いこなす！現場でよく使うメソッドまとめ",
+      "url": "https://qiita.com/yamamoto_a_genee/items/9e20e65086607eefb5d2?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "yamamoto_a_genee",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-07-27T19:34:22+09:00"
     },
     {
       "id": "hn-49067556",
@@ -1338,6 +1437,19 @@
         "Qiita"
       ],
       "date": "2026-07-27T17:07:02+09:00"
+    },
+    {
+      "id": "qiita-e9ee8c5507",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "GPT・Gemini・AI動画生成ツールで個人向けYouTube Shorts制作パイプラインを構築してみた",
+      "url": "https://qiita.com/rinfo4080/items/6989ec51bde7443946e9?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "rinfo4080",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-07-27T15:57:25+09:00"
     },
     {
       "id": "qiita-afee761ae3",
@@ -3384,10 +3496,10 @@
     {
       "id": "hn-49036460",
       "source": "hn",
-      "title": "The Fabled Flatbreads of Uzbekistan",
+      "title": "The Fabled Flatbreads of Uzbekistan (2015)",
       "url": "https://www.aramcoworld.com/articles/2015/the-fabled-flatbreads-of-uzbekistan",
-      "score": 7,
-      "comments": 1,
+      "score": 41,
+      "comments": 21,
       "author": "jxub",
       "tags": [],
       "date": "2026-07-24T14:43:57+00:00"
@@ -3452,8 +3564,8 @@
       "source": "hn",
       "title": "How to survive boiling water",
       "url": "https://taxa.substack.com/p/how-to-survive-boiling-water",
-      "score": 389,
-      "comments": 83,
+      "score": 409,
+      "comments": 89,
       "author": "cainxinth",
       "tags": [],
       "date": "2026-07-24T14:19:16+00:00"
@@ -4219,6 +4331,17 @@
         "Qiita"
       ],
       "date": "2026-07-24T07:19:00+09:00"
+    },
+    {
+      "id": "hn-49028358",
+      "source": "hn",
+      "title": "Show HN: How far do I have to go to run into 100k people?",
+      "url": "https://imjasonh.github.io/playground/population-rays/",
+      "score": 11,
+      "comments": 5,
+      "author": "ImJasonH",
+      "tags": [],
+      "date": "2026-07-23T21:33:28+00:00"
     },
     {
       "id": "qiita-ab21cbff5d",
@@ -5052,120 +5175,6 @@
         "Qiita"
       ],
       "date": "2026-07-23T12:18:43+09:00"
-    },
-    {
-      "id": "hn-49016303",
-      "source": "hn",
-      "title": "8086 Emulator Inside Scratch",
-      "url": "https://turbowarp.org/1248315967?size=640x400",
-      "score": 4,
-      "comments": 1,
-      "author": "rickcarlino",
-      "tags": [],
-      "date": "2026-07-23T02:54:46+00:00"
-    },
-    {
-      "id": "hn-49016099",
-      "source": "hn",
-      "title": "Restructuring GitHub's bug bounty program",
-      "url": "https://github.blog/security/next-chapter-restructuring-githubs-bug-bounty-program/",
-      "score": 40,
-      "comments": 16,
-      "author": "soheilpro",
-      "tags": [],
-      "date": "2026-07-23T02:28:23+00:00"
-    },
-    {
-      "id": "qiita-058af44b8f",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "【備忘録】Spring Boot のログが文字化けして、直すのに3か所いじる羽目になった話",
-      "url": "https://qiita.com/mizu_ky/items/d79758f95b046c523f9f?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "mizu_ky",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-07-23T11:15:55+09:00"
-    },
-    {
-      "id": "hn-49015898",
-      "source": "hn",
-      "title": "Agatha Christie's Disappearance: Amnesia, Suicide, or Despair?",
-      "url": "https://www.historicmysteries.com/unexplained-mysteries/agatha-christie-disappearance/23136/",
-      "score": 15,
-      "comments": 5,
-      "author": "thunderbong",
-      "tags": [],
-      "date": "2026-07-23T02:01:53+00:00"
-    },
-    {
-      "id": "hn-49015878",
-      "source": "hn",
-      "title": "Honey Bee Colony Monitoring via Audio IoT Sensors, Tensorgrams and RNNs",
-      "url": "https://arxiv.org/abs/2607.20386",
-      "score": 9,
-      "comments": 0,
-      "author": "StatsAreFun",
-      "tags": [],
-      "date": "2026-07-23T01:58:18+00:00"
-    },
-    {
-      "id": "hn-49015735",
-      "source": "hn",
-      "title": "Petals: Run LLMs at home, BitTorrent-style",
-      "url": "https://petals.dev/",
-      "score": 79,
-      "comments": 26,
-      "author": "snorbleck",
-      "tags": [],
-      "date": "2026-07-23T01:33:12+00:00"
-    },
-    {
-      "id": "qiita-bedb469b8d",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "【数理最適化】1週間映画館生活　コスパよく映画を楽しむには",
-      "url": "https://qiita.com/akimasanishida/items/dffe9beac195e23fb589?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "akimasanishida",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-07-23T10:21:53+09:00"
-    },
-    {
-      "id": "hn-49015639",
-      "source": "hn",
-      "title": "OpenAI’s accidental attack against Hugging Face is science fiction that happened",
-      "url": "https://simonwillison.net/2026/Jul/22/openai-cyberattack/",
-      "score": 480,
-      "comments": 373,
-      "author": "abhisek",
-      "tags": [],
-      "date": "2026-07-23T01:16:14+00:00"
-    },
-    {
-      "id": "hn-49015635",
-      "source": "hn",
-      "title": "Protecting our FLOSS commons from LLMs",
-      "url": "https://blog.codeberg.org/protecting-our-floss-commons-from-llms.html",
-      "score": 144,
-      "comments": 86,
-      "author": "acmnrs",
-      "tags": [],
-      "date": "2026-07-23T01:14:53+00:00"
-    },
-    {
-      "id": "hn-49015588",
-      "source": "hn",
-      "title": "Codeberg Bans Cryptocurrency Projects",
-      "url": "https://codeberg.org/Codeberg/org/pulls/1254",
-      "score": 182,
-      "comments": 219,
-      "author": "intunderflow",
-      "tags": [],
-      "date": "2026-07-23T01:06:56+00:00"
     },
     {
       "id": "ctf-3782036",

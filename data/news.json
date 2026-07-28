@@ -1,7 +1,18 @@
 {
-  "updated_at": "2026-07-28T10:04:59.572045+00:00",
+  "updated_at": "2026-07-28T12:20:13.698840+00:00",
   "count": 500,
   "items": [
+    {
+      "id": "hn-49081644",
+      "source": "hn",
+      "title": "Google's Beyond Zero: Enterprise Security for the AI Era",
+      "url": "https://spawn-queue.acm.org/doi/10.1145/3819083",
+      "score": 27,
+      "comments": 13,
+      "author": "jordigg",
+      "tags": [],
+      "date": "2026-07-28T09:59:13+00:00"
+    },
     {
       "id": "hn-49081594",
       "source": "hn",
@@ -18,8 +29,8 @@
       "source": "hn",
       "title": "About the security content of macOS Tahoe 26.6",
       "url": "https://support.apple.com/en-us/128067",
-      "score": 9,
-      "comments": 2,
+      "score": 82,
+      "comments": 34,
       "author": "andor",
       "tags": [],
       "date": "2026-07-28T09:45:43+00:00"
@@ -29,8 +40,8 @@
       "source": "hn",
       "title": "7.1 Earthquake in Japan",
       "url": "https://www.data.jma.go.jp/multi/quake/quake_detail.html?eventID=20260728163528&lang=en",
-      "score": 200,
-      "comments": 48,
+      "score": 340,
+      "comments": 69,
       "author": "krembo",
       "tags": [],
       "date": "2026-07-28T07:44:24+00:00"
@@ -40,8 +51,8 @@
       "source": "hn",
       "title": "Ars Astronomica – English translations of rare Hebrew and Latin astronomy texts",
       "url": "https://arsastronomica.com/",
-      "score": 62,
-      "comments": 9,
+      "score": 77,
+      "comments": 19,
       "author": "sweisman",
       "tags": [],
       "date": "2026-07-28T05:25:34+00:00"
@@ -64,8 +75,8 @@
       "source": "hn",
       "title": "Neutrino-1 8B",
       "url": "https://www.fermionresearch.com/models/neutrino-8b/",
-      "score": 79,
-      "comments": 24,
+      "score": 102,
+      "comments": 36,
       "author": "handfuloflight",
       "tags": [],
       "date": "2026-07-28T04:49:54+00:00"
@@ -75,7 +86,7 @@
       "source": "hn",
       "title": "PyTorch: A Reference Language",
       "url": "https://docs.pytorch.org/devlogs/compiler/2026-07-25-pytorch-a-reference-language/",
-      "score": 30,
+      "score": 44,
       "comments": 3,
       "author": "matt_d",
       "tags": [],
@@ -206,8 +217,8 @@
       "source": "hn",
       "title": "A $500 RL fine-tune of a 9B open model beat frontier models on catalog review",
       "url": "https://fermisense.com/when-machines-take-the-wheel/",
-      "score": 183,
-      "comments": 48,
+      "score": 229,
+      "comments": 69,
       "author": "ilreb",
       "tags": [],
       "date": "2026-07-28T02:18:53+00:00"
@@ -242,8 +253,8 @@
       "source": "hn",
       "title": "Vehicle Motion Cues",
       "url": "https://support.apple.com/guide/iphone/iphone-comfortably-riding-a-vehicle-iph55564cb22/ios",
-      "score": 118,
-      "comments": 54,
+      "score": 144,
+      "comments": 68,
       "author": "Austin_Conlon",
       "tags": [],
       "date": "2026-07-28T01:13:26+00:00"
@@ -260,6 +271,17 @@
         "Qiita"
       ],
       "date": "2026-07-28T09:48:23+09:00"
+    },
+    {
+      "id": "hn-49077443",
+      "source": "hn",
+      "title": "Don't ask an LLM for a confidence score",
+      "url": "https://justinflick.com/2026/07/27/llm-confidence-scores.html",
+      "score": 52,
+      "comments": 8,
+      "author": "pamplemeese",
+      "tags": [],
+      "date": "2026-07-28T00:06:53+00:00"
     },
     {
       "id": "hn-49077209",
@@ -323,8 +345,8 @@
       "source": "hn",
       "title": "DConf 2026 in London",
       "url": "https://dconf.org/2026/index.html",
-      "score": 90,
-      "comments": 40,
+      "score": 106,
+      "comments": 46,
       "author": "teleforce",
       "tags": [],
       "date": "2026-07-27T23:14:19+00:00"
@@ -345,8 +367,8 @@
       "source": "hn",
       "title": "Kimi K3 Now Available via Telnyx Inference API",
       "url": "https://telnyx.com/release-notes/kimi-k3-telnyx-inference",
-      "score": 86,
-      "comments": 40,
+      "score": 105,
+      "comments": 53,
       "author": "fionaattelnyx",
       "tags": [],
       "date": "2026-07-27T22:46:28+00:00"
@@ -356,8 +378,8 @@
       "source": "hn",
       "title": "Benchmarking Opus 5 on SlopCodeBench",
       "url": "https://github.com/humanlayer/advanced-context-engineering-for-coding-agents/blob/main/benchmarking-opus-5-on-slop-code-bench.md",
-      "score": 289,
-      "comments": 64,
+      "score": 319,
+      "comments": 75,
       "author": "dhorthy",
       "tags": [],
       "date": "2026-07-27T22:37:52+00:00"
@@ -402,8 +424,8 @@
       "source": "hn",
       "title": "Our position on open-weights models",
       "url": "https://www.anthropic.com/news/position-open-weights-models",
-      "score": 912,
-      "comments": 1331,
+      "score": 981,
+      "comments": 1419,
       "author": "surprisetalk",
       "tags": [],
       "date": "2026-07-27T22:03:49+00:00"
@@ -448,7 +470,7 @@
       "source": "hn",
       "title": "Launch HN: Rise Reforming (YC S26) – Turning Waste Gases into Valuable Chemicals",
       "url": "https://www.rise-reforming.com",
-      "score": 73,
+      "score": 78,
       "comments": 31,
       "author": "george_rose25",
       "tags": [],
@@ -459,8 +481,8 @@
       "source": "hn",
       "title": "Self-contained highly-portable Python distributions",
       "url": "https://gregoryszorc.com/docs/python-build-standalone/main/",
-      "score": 145,
-      "comments": 31,
+      "score": 152,
+      "comments": 32,
       "author": "jcbhmr",
       "tags": [],
       "date": "2026-07-27T18:43:31+00:00"
@@ -470,8 +492,8 @@
       "source": "hn",
       "title": "Show HN: Yap – OSS on-device voice dictation for macOS with no model to download",
       "url": "https://github.com/FrigadeHQ/yap",
-      "score": 71,
-      "comments": 24,
+      "score": 80,
+      "comments": 28,
       "author": "pancomplex",
       "tags": [],
       "date": "2026-07-27T18:36:02+00:00"
@@ -661,8 +683,8 @@
       "source": "hn",
       "title": "Paged Out #9 [pdf]",
       "url": "https://pagedout.institute/download/PagedOut_009.pdf",
-      "score": 170,
-      "comments": 21,
+      "score": 256,
+      "comments": 30,
       "author": "laurensr",
       "tags": [],
       "date": "2026-07-27T14:22:34+00:00"
@@ -2416,8 +2438,8 @@
       "source": "hn",
       "title": "Watching Go's new garbage collector move through the heap",
       "url": "https://theconsensus.dev/p/2026/07/19/observing-gos-garbage-collector-old-and-new.html",
-      "score": 226,
-      "comments": 27,
+      "score": 238,
+      "comments": 31,
       "author": "matheusmoreira",
       "tags": [],
       "date": "2026-07-25T07:55:19+00:00"
@@ -2630,8 +2652,8 @@
       "source": "hn",
       "title": "RTX 2080 Ti Memory Upgrade to 22 GB",
       "url": "https://gpusolutions.net/rbservices/graphics-card-upgrade/",
-      "score": 111,
-      "comments": 70,
+      "score": 128,
+      "comments": 93,
       "author": "wslh",
       "tags": [],
       "date": "2026-07-24T20:35:21+00:00"
@@ -2668,6 +2690,17 @@
       "author": "stunningllama",
       "tags": [],
       "date": "2026-07-24T18:37:06+00:00"
+    },
+    {
+      "id": "hn-49039555",
+      "source": "hn",
+      "title": "Golang Maps: how Swiss Tables replaced the old bucket design",
+      "url": "https://blog.gaborkoos.com/posts/2026-07-24-Golang-Maps-How-Swiss-Tables-Replaced-the-Old-Bucket-Design/",
+      "score": 22,
+      "comments": 3,
+      "author": "Terretta",
+      "tags": [],
+      "date": "2026-07-24T18:12:00+00:00"
     },
     {
       "id": "hn-49039490",
@@ -2966,8 +2999,8 @@
       "source": "hn",
       "title": "How to Survive Boiling Water",
       "url": "https://taxa.substack.com/p/how-to-survive-boiling-water",
-      "score": 7,
-      "comments": 1,
+      "score": 85,
+      "comments": 14,
       "author": "cainxinth",
       "tags": [],
       "date": "2026-07-24T14:19:16+00:00"
@@ -3155,8 +3188,8 @@
       "source": "hn",
       "title": "Programming Languages Are Authoring Tools for Platforms",
       "url": "https://www.makonea.com/en-US/blog/programming-languages-are-authoring-tools-for-platforms",
-      "score": 18,
-      "comments": 4,
+      "score": 26,
+      "comments": 6,
       "author": "jdw64",
       "tags": [],
       "date": "2026-07-24T12:21:32+00:00"
@@ -3589,6 +3622,17 @@
         "Qiita"
       ],
       "date": "2026-07-24T12:13:04+09:00"
+    },
+    {
+      "id": "hn-49030552",
+      "source": "hn",
+      "title": "Which Odyssey translation wins a blind reading test?",
+      "url": "https://homer.scrivium.com/report/",
+      "score": 10,
+      "comments": 10,
+      "author": "curo",
+      "tags": [],
+      "date": "2026-07-24T02:19:26+00:00"
     },
     {
       "id": "hn-49030547",
@@ -4279,8 +4323,8 @@
       "source": "hn",
       "title": "Ray tracing massive amounts of animated geometry using tetrahedral cages",
       "url": "https://gpuopen.com/learn/ray-tracing-massive-amounts-animated-geometry/",
-      "score": 106,
-      "comments": 13,
+      "score": 114,
+      "comments": 15,
       "author": "LorenDB",
       "tags": [],
       "date": "2026-07-23T13:10:06+00:00"
@@ -4712,7 +4756,7 @@
       "source": "hn",
       "title": "TWC Classics",
       "url": "https://twcclassics.com/",
-      "score": 11,
+      "score": 21,
       "comments": 1,
       "author": "stefanpie",
       "tags": [],
@@ -5128,51 +5172,6 @@
       "date": "2026-07-22T15:30:36+00:00"
     },
     {
-      "id": "hn-49008396",
-      "source": "hn",
-      "title": "Zero roadkill as Amazon canopy bridges secure 15,000 crossings",
-      "url": "https://news.mongabay.com/2026/07/zero-roadkill-as-amazon-canopy-bridges-secure-15000-crossings/",
-      "score": 333,
-      "comments": 98,
-      "author": "hn_acker",
-      "tags": [],
-      "date": "2026-07-22T15:29:44+00:00"
-    },
-    {
-      "id": "hn-49008346",
-      "source": "hn",
-      "title": "Critical Minerals: Reducing U.S. Import Reliance with Substitution and Recycling",
-      "url": "https://www.gao.gov/products/gao-26-108687",
-      "score": 19,
-      "comments": 10,
-      "author": "Jimmc414",
-      "tags": [],
-      "date": "2026-07-22T15:26:56+00:00",
-      "severity": "critical"
-    },
-    {
-      "id": "hn-49008211",
-      "source": "hn",
-      "title": "Show HN: Bento - An entire PowerPoint in one HTML file (edit+view+data+collab)",
-      "url": "https://bento.page/slides/",
-      "score": 933,
-      "comments": 214,
-      "author": "starfallg",
-      "tags": [],
-      "date": "2026-07-22T15:19:23+00:00"
-    },
-    {
-      "id": "hn-49008143",
-      "source": "hn",
-      "title": "Neo Radar: A browser-based orbital mechanics engine with 41k real asteroids",
-      "url": "https://neoradar.space",
-      "score": 39,
-      "comments": 10,
-      "author": "daviazpen",
-      "tags": [],
-      "date": "2026-07-22T15:15:29+00:00"
-    },
-    {
       "id": "ctf-3782036",
       "source": "project",
       "proj_category": "CTF",
@@ -5382,6 +5381,32 @@
       "date": "Mon, 27 Jul 2026 23:19:53 GMT"
     },
     {
+      "id": "zenn-1ad74c2ad6",
+      "source": "zennqiita",
+      "sub_source": "Zenn",
+      "title": "Agentic RLではtool callを含むtrajectoryをどう学習するのか",
+      "url": "https://zenn.dev/takkuhiro/articles/agentic-rl-trajectory-mechanics",
+      "score": null,
+      "author": "Hirotaka",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Mon, 27 Jul 2026 22:00:05 GMT"
+    },
+    {
+      "id": "zenn-b44861d17e",
+      "source": "zennqiita",
+      "sub_source": "Zenn",
+      "title": "KAMEをオープンモデルで動かしてMT-Benchでベンチマーク評価した",
+      "url": "https://zenn.dev/fixstars/articles/kame-benchmark",
+      "score": null,
+      "author": "Taisei iida",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Mon, 27 Jul 2026 09:56:48 GMT"
+    },
+    {
       "id": "zenn-3010ddd5fb",
       "source": "zennqiita",
       "sub_source": "Zenn",
@@ -5421,32 +5446,6 @@
       "date": "Mon, 27 Jul 2026 06:46:05 GMT"
     },
     {
-      "id": "zenn-ac3788cbd1",
-      "source": "zennqiita",
-      "sub_source": "Zenn",
-      "title": "データエンジニアが注力すべきSilver層設計の重要性と難しさ",
-      "url": "https://zenn.dev/gixo/articles/medallion-silver-layer-importance",
-      "score": null,
-      "author": "Kouma Nakashima",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Mon, 27 Jul 2026 05:02:57 GMT"
-    },
-    {
-      "id": "zenn-9c48b4ca5b",
-      "source": "zennqiita",
-      "sub_source": "Zenn",
-      "title": "SODA における Devin の活用事例",
-      "url": "https://zenn.dev/team_soda/articles/cc5fead918f71c",
-      "score": null,
-      "author": "asahara",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Mon, 27 Jul 2026 04:38:53 GMT"
-    },
-    {
       "id": "zenn-a7c740a131",
       "source": "zennqiita",
       "sub_source": "Zenn",
@@ -5463,7 +5462,7 @@
       "id": "zenn-6dd6cc92e6",
       "source": "zennqiita",
       "sub_source": "Zenn",
-      "title": "最近の仕事の流れ",
+      "title": "最近の開発の流れ",
       "url": "https://zenn.dev/kimuchan/articles/bc8e98682f8594",
       "score": null,
       "author": "きむちゃん。",
@@ -5525,19 +5524,6 @@
       "date": "Sun, 26 Jul 2026 09:19:46 GMT"
     },
     {
-      "id": "zenn-8d5686ce38",
-      "source": "zennqiita",
-      "sub_source": "Zenn",
-      "title": "Cursor・Manus・Spotifyの「ハーネス」を読み比べた",
-      "url": "https://zenn.dev/tak3/articles/2686517823d1e7",
-      "score": null,
-      "author": "Takumi",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Sun, 26 Jul 2026 04:29:23 GMT"
-    },
-    {
       "id": "zenn-2d1732fa19",
       "source": "zennqiita",
       "sub_source": "Zenn",
@@ -5575,6 +5561,19 @@
         "Zenn"
       ],
       "date": "Sun, 26 Jul 2026 03:01:36 GMT"
+    },
+    {
+      "id": "zenn-877f423d9d",
+      "source": "zennqiita",
+      "sub_source": "Zenn",
+      "title": "カメラを使わない高齢者見守りシステムをSwitchBotスマートプラグ + GASで作った",
+      "url": "https://zenn.dev/yomogi_cat/articles/078ac8dc6c0a60",
+      "score": null,
+      "author": "蓬猫（よもぎねこ）",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Sat, 25 Jul 2026 12:19:07 GMT"
     },
     {
       "id": "zenn-38c1e3d5ee",

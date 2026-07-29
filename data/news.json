@@ -1,14 +1,59 @@
 {
-  "updated_at": "2026-07-29T09:21:00.399243+00:00",
+  "updated_at": "2026-07-29T11:38:59.281535+00:00",
   "count": 500,
   "items": [
+    {
+      "id": "hn-49095714",
+      "source": "hn",
+      "title": "National Security Determination Threat Posed by Foreign-Produced Robotic Devices [pdf]",
+      "url": "https://www.fcc.gov/sites/default/files/robots-nsd.pdf",
+      "score": 23,
+      "comments": 7,
+      "author": "ellingsworth",
+      "tags": [],
+      "date": "2026-07-29T10:47:57+00:00",
+      "severity": "medium"
+    },
+    {
+      "id": "hn-49095628",
+      "source": "hn",
+      "title": "SpecForge – A Platform for Authoring Formal Specifications",
+      "url": "https://docs.imiron.io/v/0.5.10/en/tour.html",
+      "score": 20,
+      "comments": 0,
+      "author": "agnishom",
+      "tags": [],
+      "date": "2026-07-29T10:35:19+00:00"
+    },
+    {
+      "id": "hn-49095511",
+      "source": "hn",
+      "title": "Amiga Graphics Archive",
+      "url": "https://amiga.lychesis.net/index.html",
+      "score": 21,
+      "comments": 2,
+      "author": "Bluestein",
+      "tags": [],
+      "date": "2026-07-29T10:19:44+00:00"
+    },
+    {
+      "id": "hn-49095143",
+      "source": "hn",
+      "title": "Show HN: Vimgolf.ai – Learn Vim by playing through a map of levels",
+      "url": "https://vimgolf.ai",
+      "score": 10,
+      "comments": 4,
+      "author": "nickandbro",
+      "tags": [],
+      "date": "2026-07-29T09:26:52+00:00"
+    },
     {
       "id": "hn-49094346",
       "source": "hn",
       "title": "SQLite in Production: Optimizing WAL Mode, Concurrency, and VFS Layers",
       "url": "https://micrologics.org/blog/sqlite-in-production-optimizing-wal-mode-concurrency-and-vfs-layers-for-low-latency-app-servers",
-      "score": 31,
-      "comments": 1,
+      "score": 91,
+      "comments": 36,
       "author": "ankitg12",
       "tags": [],
       "date": "2026-07-29T07:18:24+00:00"
@@ -31,8 +76,8 @@
       "source": "hn",
       "title": "More Tailscale tricks for your jailbroken Kindle",
       "url": "https://tailscale.com/blog/jailbroken-kindle-proxy-tun-modes",
-      "score": 168,
-      "comments": 49,
+      "score": 232,
+      "comments": 78,
       "author": "Error6571",
       "tags": [],
       "date": "2026-07-29T04:58:46+00:00"
@@ -42,8 +87,8 @@
       "source": "hn",
       "title": "Cracking Windows Open: Porting RADV to Win32",
       "url": "https://www.collabora.com/news-and-blog/news-and-events/cracking-windows-open-porting-radv-to-win32.html",
-      "score": 43,
-      "comments": 10,
+      "score": 53,
+      "comments": 18,
       "author": "zdw",
       "tags": [],
       "date": "2026-07-29T04:30:47+00:00"
@@ -53,8 +98,8 @@
       "source": "hn",
       "title": "User Interfaces of the Demo Scene",
       "url": "https://www.datagubbe.se/scenegui/",
-      "score": 170,
-      "comments": 27,
+      "score": 242,
+      "comments": 39,
       "author": "zdw",
       "tags": [],
       "date": "2026-07-29T04:30:36+00:00"
@@ -64,8 +109,8 @@
       "source": "hn",
       "title": "Transformer Transformer: A Unified Model for Motion-Conditioned Robot Co-Design",
       "url": "https://transformer-transformer.github.io/",
-      "score": 50,
-      "comments": 2,
+      "score": 57,
+      "comments": 6,
       "author": "ilreb",
       "tags": [],
       "date": "2026-07-29T03:52:29+00:00"
@@ -99,8 +144,8 @@
       "source": "hn",
       "title": "Hooray for the Sockets Interface",
       "url": "https://blog.apnic.net/2026/07/28/hooray-for-the-sockets-interface/",
-      "score": 37,
-      "comments": 18,
+      "score": 42,
+      "comments": 22,
       "author": "jruohonen",
       "tags": [],
       "date": "2026-07-29T02:25:29+00:00"
@@ -132,8 +177,8 @@
       "source": "hn",
       "title": "LearnVector – Andrew Ng's AI company building one‑to‑one learning experiences",
       "url": "https://learnvector.ai/",
-      "score": 177,
-      "comments": 107,
+      "score": 206,
+      "comments": 124,
       "author": "ajhai",
       "tags": [],
       "date": "2026-07-29T01:49:19+00:00"
@@ -189,8 +234,8 @@
       "source": "hn",
       "title": "Hubble: Open-source notetaking app for you and your agents",
       "url": "https://www.hubble.md/",
-      "score": 108,
-      "comments": 38,
+      "score": 123,
+      "comments": 56,
       "author": "handfuloflight",
       "tags": [],
       "date": "2026-07-29T00:11:23+00:00",
@@ -225,8 +270,8 @@
       "source": "hn",
       "title": "ReFrame – The EPaper Camera",
       "url": "https://reframe.camera/",
-      "score": 124,
-      "comments": 23,
+      "score": 149,
+      "comments": 32,
       "author": "phil294",
       "tags": [],
       "date": "2026-07-28T23:27:09+00:00"
@@ -259,8 +304,8 @@
       "source": "hn",
       "title": "Show HN: I was tired of opening 2 tabs for every HN link, so I made a userscript",
       "url": "https://github.com/twalichiewicz/HNewhere",
-      "score": 308,
-      "comments": 80,
+      "score": 331,
+      "comments": 98,
       "author": "twalichiewicz",
       "tags": [],
       "date": "2026-07-28T22:09:06+00:00"
@@ -292,8 +337,8 @@
       "source": "hn",
       "title": "Half-Life ported to Mac OS 9",
       "url": "https://mac-classic.com/news/half-life-ported-to-mac-os-9/",
-      "score": 237,
-      "comments": 112,
+      "score": 260,
+      "comments": 120,
       "author": "freediver",
       "tags": [],
       "date": "2026-07-28T20:58:39+00:00"
@@ -303,8 +348,8 @@
       "source": "hn",
       "title": "Codex Security",
       "url": "https://github.com/openai/codex-security",
-      "score": 496,
-      "comments": 165,
+      "score": 516,
+      "comments": 186,
       "author": "bakigul",
       "tags": [],
       "date": "2026-07-28T20:52:55+00:00"
@@ -424,8 +469,8 @@
       "source": "hn",
       "title": "Steel Bank Common Lisp version 2.6.7",
       "url": "https://sbcl.org/all-news.html?2.6.7",
-      "score": 231,
-      "comments": 99,
+      "score": 243,
+      "comments": 112,
       "author": "tmtvl",
       "tags": [],
       "date": "2026-07-28T17:11:54+00:00"
@@ -446,8 +491,8 @@
       "source": "hn",
       "title": "Substack writers, you need a website",
       "url": "https://elizabethtai.com/2026/06/10/substack-writers-you-need-a-website/",
-      "score": 530,
-      "comments": 268,
+      "score": 563,
+      "comments": 301,
       "author": "speckx",
       "tags": [],
       "date": "2026-07-28T16:58:31+00:00"
@@ -501,8 +546,8 @@
       "source": "hn",
       "title": "Delayed Gratification – Proud to Be 'Last to Breaking News'",
       "url": "https://www.slow-journalism.com/",
-      "score": 295,
-      "comments": 165,
+      "score": 305,
+      "comments": 173,
       "author": "speerer",
       "tags": [],
       "date": "2026-07-28T15:50:38+00:00"
@@ -512,8 +557,8 @@
       "source": "hn",
       "title": "Kimi K3 Architecture Overview and Notes",
       "url": "https://sebastianraschka.com/blog/2026/kimi-k3-architecture-notes.html",
-      "score": 417,
-      "comments": 80,
+      "score": 445,
+      "comments": 95,
       "author": "ModelForge",
       "tags": [],
       "date": "2026-07-28T15:48:34+00:00"
@@ -611,8 +656,8 @@
       "source": "hn",
       "title": "Una GPS smart watch – Repairable, USB-C charging, developer-friendly",
       "url": "https://unawatch.com/",
-      "score": 210,
-      "comments": 132,
+      "score": 234,
+      "comments": 143,
       "author": "pimterry",
       "tags": [],
       "date": "2026-07-28T14:48:13+00:00"
@@ -2302,8 +2347,8 @@
       "source": "hn",
       "title": "Lisp moving Forth moving Lisp",
       "url": "https://letoverlambda.com/textmode.cl/guest/chap8.html",
-      "score": 9,
-      "comments": 0,
+      "score": 40,
+      "comments": 13,
       "author": "fallat",
       "tags": [],
       "date": "2026-07-26T17:37:33+00:00"
@@ -2435,6 +2480,17 @@
         "Qiita"
       ],
       "date": "2026-07-26T23:57:47+09:00"
+    },
+    {
+      "id": "hn-49058673",
+      "source": "hn",
+      "title": "CSV Is Never Just CSV",
+      "url": "https://immaschinenraum.blog/en/funpark/never-just-csv/",
+      "score": 14,
+      "comments": 7,
+      "author": "derverstand",
+      "tags": [],
+      "date": "2026-07-26T14:40:53+00:00"
     },
     {
       "id": "hn-49058669",
@@ -2624,8 +2680,8 @@
       "source": "hn",
       "title": "Teach yourself programming in ten years (1998)",
       "url": "https://www.norvig.com/21-days.html",
-      "score": 132,
-      "comments": 81,
+      "score": 157,
+      "comments": 94,
       "author": "vinhnx",
       "tags": [],
       "date": "2026-07-26T08:06:45+00:00"
@@ -5109,71 +5165,15 @@
       "date": "2026-07-23T15:02:27+00:00"
     },
     {
-      "id": "hn-49022668",
+      "id": "hn-49012754",
       "source": "hn",
-      "title": "Encryption and Globalization 15 Years Later: E2EE and the \"Going Dark\" Debate",
-      "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6959699",
-      "score": 31,
-      "comments": 10,
-      "author": "iamnothere",
+      "title": "Ancient Rome's version of Google Maps: how long to reach the beach",
+      "url": "https://www.euronews.com/culture/2026/07/02/ancient-romes-version-of-google-maps-how-long-to-reach-the-beach",
+      "score": 23,
+      "comments": 17,
+      "author": "gnabgib",
       "tags": [],
-      "date": "2026-07-23T14:55:45+00:00"
-    },
-    {
-      "id": "hn-49022663",
-      "source": "hn",
-      "title": "Learn WebGPU for C++",
-      "url": "https://eliemichel.github.io/LearnWebGPU/",
-      "score": 81,
-      "comments": 11,
-      "author": "ibobev",
-      "tags": [],
-      "date": "2026-07-23T14:55:32+00:00"
-    },
-    {
-      "id": "hn-49022634",
-      "source": "hn",
-      "title": "Learn OpenGL, extensive tutorial resource for learning Modern OpenGL",
-      "url": "https://learnopengl.com/",
-      "score": 256,
-      "comments": 134,
-      "author": "ibobev",
-      "tags": [],
-      "date": "2026-07-23T14:53:34+00:00",
-      "severity": "critical"
-    },
-    {
-      "id": "hn-49022412",
-      "source": "hn",
-      "title": "How much energy do data centers and artificial intelligence use?",
-      "url": "https://ourworldindata.org/how-much-energy-do-data-centers-and-artificial-intelligence-use",
-      "score": 38,
-      "comments": 19,
-      "author": "surprisetalk",
-      "tags": [],
-      "date": "2026-07-23T14:40:30+00:00"
-    },
-    {
-      "id": "hn-49022371",
-      "source": "hn",
-      "title": "Show HN: Whetuu – a zero-config cross-shell prompt written in Zig",
-      "url": "https://yamafaktory.github.io/whetuu/",
-      "score": 28,
-      "comments": 10,
-      "author": "yamafaktory",
-      "tags": [],
-      "date": "2026-07-23T14:37:54+00:00"
-    },
-    {
-      "id": "hn-49021756",
-      "source": "hn",
-      "title": "Log is non-monotonic in PHP and Lua",
-      "url": "https://purplesyringa.moe/blog/log-is-non-monotonic-in-php-and-lua/",
-      "score": 52,
-      "comments": 30,
-      "author": "ibobev",
-      "tags": [],
-      "date": "2026-07-23T14:00:48+00:00"
+      "date": "2026-07-22T20:14:38+00:00"
     },
     {
       "id": "ctf-3782036",
@@ -5372,6 +5372,84 @@
       "date": "2023-05-23T17:06:23Z"
     },
     {
+      "id": "zenn-624bf9d580",
+      "source": "zennqiita",
+      "sub_source": "Zenn",
+      "title": "OpenTelemetry初心者がCollectorの中身を全部分解して理解してみた",
+      "url": "https://zenn.dev/macnica_englab/articles/154cc03e82d7e3",
+      "score": null,
+      "author": "Macnica Engineering Lab",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Wed, 29 Jul 2026 02:21:19 GMT"
+    },
+    {
+      "id": "zenn-61856c5793",
+      "source": "zennqiita",
+      "sub_source": "Zenn",
+      "title": "自分で作るクラウド競技",
+      "url": "https://zenn.dev/bull/books/cloud-competition",
+      "score": null,
+      "author": "bull",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Wed, 29 Jul 2026 00:15:14 GMT"
+    },
+    {
+      "id": "zenn-99798b07ed",
+      "source": "zennqiita",
+      "sub_source": "Zenn",
+      "title": "自作APIをChatGPTからアクセス可能にする「Super MCP」",
+      "url": "https://zenn.dev/reizt/articles/super-mcp-chatgpt",
+      "score": null,
+      "author": "Reiju Takahashi",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Wed, 29 Jul 2026 00:00:05 GMT"
+    },
+    {
+      "id": "zenn-4f5464b919",
+      "source": "zennqiita",
+      "sub_source": "Zenn",
+      "title": "NVIDIA DGX Spark でソフトウェア開発に最適な Gemma 4 モデルを検証する (31B vs 26B)",
+      "url": "https://zenn.dev/st_little/articles/gemma4-benchmark-dgx-spark",
+      "score": null,
+      "author": "little method",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Tue, 28 Jul 2026 13:56:04 GMT"
+    },
+    {
+      "id": "zenn-35a97fb467",
+      "source": "zennqiita",
+      "sub_source": "Zenn",
+      "title": "AI時代に感じた危機感と、エンジニアがこれから考えるべきこと",
+      "url": "https://zenn.dev/nabewata/articles/8cef1bd4cbae3f",
+      "score": null,
+      "author": "easegis",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Tue, 28 Jul 2026 12:24:59 GMT"
+    },
+    {
+      "id": "zenn-38170e4c6b",
+      "source": "zennqiita",
+      "sub_source": "Zenn",
+      "title": "ソフトウェアエンジニアとして視野を広げるためのブックガイド",
+      "url": "https://zenn.dev/shotaro_tsuji/articles/091517e89ab17d",
+      "score": null,
+      "author": "Shotaro Tsuji",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Tue, 28 Jul 2026 11:03:03 GMT"
+    },
+    {
       "id": "zenn-6ba13f58da",
       "source": "zennqiita",
       "sub_source": "Zenn",
@@ -5398,19 +5476,6 @@
       "date": "Tue, 28 Jul 2026 08:42:50 GMT"
     },
     {
-      "id": "zenn-66e8e8f0d8",
-      "source": "zennqiita",
-      "sub_source": "Zenn",
-      "title": "生成AIでPIIを消し去る！SnowflakeのAI_REDACTでフリーテキストを守る挑戦",
-      "url": "https://zenn.dev/dely_jp/articles/7a27a44c06b30a",
-      "score": null,
-      "author": "Presteniko Septi Rahadian",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Tue, 28 Jul 2026 06:18:05 GMT"
-    },
-    {
       "id": "zenn-b01e0cbbe1",
       "source": "zennqiita",
       "sub_source": "Zenn",
@@ -5422,19 +5487,6 @@
         "Zenn"
       ],
       "date": "Tue, 28 Jul 2026 04:40:29 GMT"
-    },
-    {
-      "id": "zenn-283778f535",
-      "source": "zennqiita",
-      "sub_source": "Zenn",
-      "title": "Microsoft APM を試してみる　(npmと対比しながら）",
-      "url": "https://zenn.dev/xtm_blog/articles/f016695e2839ee",
-      "score": null,
-      "author": "ksdev",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Tue, 28 Jul 2026 04:31:05 GMT"
     },
     {
       "id": "zenn-0a908e85d8",
@@ -5487,19 +5539,6 @@
         "Zenn"
       ],
       "date": "Mon, 27 Jul 2026 06:46:05 GMT"
-    },
-    {
-      "id": "zenn-ac3788cbd1",
-      "source": "zennqiita",
-      "sub_source": "Zenn",
-      "title": "データエンジニアが注力すべきSilver層設計の重要性と難しさ",
-      "url": "https://zenn.dev/gixo/articles/medallion-silver-layer-importance",
-      "score": null,
-      "author": "Kouma Nakashima",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Mon, 27 Jul 2026 05:02:57 GMT"
     },
     {
       "id": "zenn-a7c740a131",
@@ -5567,19 +5606,6 @@
       "date": "Sun, 26 Jul 2026 11:34:50 GMT"
     },
     {
-      "id": "zenn-c83a4612d6",
-      "source": "zennqiita",
-      "sub_source": "Zenn",
-      "title": "【速報】Opus 5、React習熟度ベンチマークで余裕のFable 5超え",
-      "url": "https://zenn.dev/uhyo/articles/react-profession-bench-14",
-      "score": null,
-      "author": "uhyo",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Sun, 26 Jul 2026 09:19:46 GMT"
-    },
-    {
       "id": "zenn-2d1732fa19",
       "source": "zennqiita",
       "sub_source": "Zenn",
@@ -5604,32 +5630,6 @@
         "Zenn"
       ],
       "date": "Sun, 26 Jul 2026 03:40:03 GMT"
-    },
-    {
-      "id": "zenn-a0e14ccc10",
-      "source": "zennqiita",
-      "sub_source": "Zenn",
-      "title": "Opus5が思考が浅いように感じる問題への対策",
-      "url": "https://zenn.dev/u1/articles/claude5-rules-collapse-and-fix",
-      "score": null,
-      "author": "Yuichi Uemura",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Sun, 26 Jul 2026 03:01:36 GMT"
-    },
-    {
-      "id": "zenn-38c1e3d5ee",
-      "source": "zennqiita",
-      "sub_source": "Zenn",
-      "title": "放置していた旧環境で見つけたReact2Shell攻撃の実態",
-      "url": "https://zenn.dev/munenick/articles/b507a9848b6fdd",
-      "score": null,
-      "author": "MuNeNiCK",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Sat, 25 Jul 2026 08:27:52 GMT"
     },
     {
       "id": "edb-9bdf9aa505",

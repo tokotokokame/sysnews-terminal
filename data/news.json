@@ -1,14 +1,71 @@
 {
-  "updated_at": "2026-07-29T20:12:28.803219+00:00",
+  "updated_at": "2026-07-29T21:25:59.124236+00:00",
   "count": 500,
   "items": [
     {
+      "id": "hn-49103026",
+      "source": "hn",
+      "title": "SalesPatriot (YC W25) Is Hiring FDEs",
+      "url": "https://www.ycombinator.com/companies/salespatriot/jobs/M46X6YX-forward-deployed-engineer",
+      "score": 1,
+      "comments": 0,
+      "author": "maciejSz",
+      "tags": [],
+      "date": "2026-07-29T21:01:01+00:00"
+    },
+    {
+      "id": "qiita-f0c024c0a5",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "Google A2AをサポートしたOCI Autonomous Databaseでマルチエージェントを実装してみる",
+      "url": "https://qiita.com/ksonoda/items/d2f2263cf9dc5d2ddd67?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "ksonoda",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-07-30T05:51:25+09:00"
+    },
+    {
+      "id": "hn-49102774",
+      "source": "hn",
+      "title": "The coolest use for the Vision Pro",
+      "url": "https://christianselig.com/2026/07/vision-pro-house/",
+      "score": 78,
+      "comments": 24,
+      "author": "robbiet480",
+      "tags": [],
+      "date": "2026-07-29T20:39:40+00:00"
+    },
+    {
+      "id": "hn-49102525",
+      "source": "hn",
+      "title": "Theo Conjecture solves 35-year-old math problem, finds a term no one predicted",
+      "url": "https://firstprinciples.com/blog-article/ai-system-theo-conjecture-solves-35-year-old-math-conjecture",
+      "score": 11,
+      "comments": 0,
+      "author": "otalp",
+      "tags": [],
+      "date": "2026-07-29T20:21:48+00:00"
+    },
+    {
+      "id": "hn-49102425",
+      "source": "hn",
+      "title": "A Trampoline",
+      "url": "https://dogdogfish.com/blog/2026/07/29/a-trampoline/",
+      "score": 24,
+      "comments": 7,
+      "author": "matthewsharpe3",
+      "tags": [],
+      "date": "2026-07-29T20:14:36+00:00"
+    },
+    {
       "id": "hn-49102150",
       "source": "hn",
-      "title": "Claude Is Down",
+      "title": "Claude: Elevated errors across all models",
       "url": "https://status.claude.com/incidents/q2kg8n613kr3",
-      "score": 64,
-      "comments": 25,
+      "score": 199,
+      "comments": 168,
       "author": "gregsadetsky",
       "tags": [],
       "date": "2026-07-29T19:50:42+00:00"
@@ -18,8 +75,8 @@
       "source": "hn",
       "title": "Kimi K3-256k",
       "url": "https://www.kimi.com/code/docs/en/kimi-code/models",
-      "score": 97,
-      "comments": 14,
+      "score": 236,
+      "comments": 59,
       "author": "monneyboi",
       "tags": [],
       "date": "2026-07-29T19:25:33+00:00"
@@ -29,7 +86,7 @@
       "source": "hn",
       "title": "How much can you delegate to agents?",
       "url": "https://newsletter.posthog.com/p/agent-autonomy",
-      "score": 14,
+      "score": 22,
       "comments": 0,
       "author": "duck",
       "tags": [],
@@ -40,8 +97,8 @@
       "source": "hn",
       "title": "Commodification of Intelligence: Good, Bad, and Ugly Circular AI Deals",
       "url": "https://www.emergingtrajectories.com/lh/commodification-and-circularity/",
-      "score": 17,
-      "comments": 13,
+      "score": 32,
+      "comments": 21,
       "author": "cl42",
       "tags": [],
       "date": "2026-07-29T18:57:10+00:00"
@@ -71,10 +128,10 @@
     {
       "id": "hn-49101351",
       "source": "hn",
-      "title": "How to Not Die by a Thousand Cuts. Or, How to Think About Software Quality",
+      "title": "How to not die by a thousand cuts or how to think about software quality (2023)",
       "url": "https://www.evalapply.org/posts/how-to-not-die-by-a-thousand-cuts/index.html",
-      "score": 14,
-      "comments": 2,
+      "score": 32,
+      "comments": 13,
       "author": "adityaathalye",
       "tags": [],
       "date": "2026-07-29T18:42:10+00:00"
@@ -82,10 +139,10 @@
     {
       "id": "hn-49101198",
       "source": "hn",
-      "title": "Turning a Dumb AC Unit Smart (Without Losing My Security Deposit)",
+      "title": "Turning a dumb AC unit smart (without losing my security deposit)",
       "url": "https://prilik.com/blog/post/automating-ac-nyc/",
-      "score": 30,
-      "comments": 14,
+      "score": 51,
+      "comments": 49,
       "author": "austinallegro",
       "tags": [],
       "date": "2026-07-29T18:28:51+00:00"
@@ -106,8 +163,8 @@
       "source": "hn",
       "title": "Show HN: CheapFoodMap – A map of good meals under $10",
       "url": "https://cheapfoodmap.com/",
-      "score": 53,
-      "comments": 47,
+      "score": 77,
+      "comments": 73,
       "author": "jaep1",
       "tags": [],
       "date": "2026-07-29T16:59:52+00:00"
@@ -128,8 +185,8 @@
       "source": "hn",
       "title": "Some thoughts about Anthropic's new cryptanalysis results",
       "url": "https://blog.cryptographyengineering.com/2026/07/29/some-notes-about-anthropics-new-results/",
-      "score": 65,
-      "comments": 34,
+      "score": 75,
+      "comments": 42,
       "author": "supermatou",
       "tags": [],
       "date": "2026-07-29T16:42:20+00:00"
@@ -139,8 +196,8 @@
       "source": "hn",
       "title": "Keychron announces first open-source firmware for gaming mice",
       "url": "https://www.digitalfoundry.net/news/2026/07/keychron-announces-first-open-source-firmware-for-gaming-mice",
-      "score": 156,
-      "comments": 74,
+      "score": 202,
+      "comments": 84,
       "author": "JLO64",
       "tags": [],
       "date": "2026-07-29T16:36:59+00:00",
@@ -162,8 +219,8 @@
       "source": "hn",
       "title": "Launch HN: Tokenless (YC S26) – Automatic model switching to save money",
       "url": "https://usetokenless.com/",
-      "score": 40,
-      "comments": 36,
+      "score": 44,
+      "comments": 39,
       "author": "rohaga",
       "tags": [],
       "date": "2026-07-29T15:55:27+00:00"
@@ -184,8 +241,8 @@
       "source": "hn",
       "title": "Superlogical",
       "url": "https://www.superlogical.com/",
-      "score": 347,
-      "comments": 245,
+      "score": 403,
+      "comments": 267,
       "author": "yan",
       "tags": [],
       "date": "2026-07-29T15:41:33+00:00"
@@ -217,8 +274,8 @@
       "source": "hn",
       "title": "Show HN: Open-source engine running Gemma 4 26B in 2 GB RAM on any M-series Mac",
       "url": "https://github.com/drumih/turbo-fieldfare",
-      "score": 485,
-      "comments": 169,
+      "score": 540,
+      "comments": 184,
       "author": "gitpusher42",
       "tags": [],
       "date": "2026-07-29T15:05:43+00:00",
@@ -273,8 +330,8 @@
       "source": "hn",
       "title": "Self-hosting Kimi K3: 20% more hardware cost, 20% better task resolution",
       "url": "https://aistack.imec-int.com/blog/gpu-self-hosting",
-      "score": 78,
-      "comments": 29,
+      "score": 100,
+      "comments": 33,
       "author": "flifenstein",
       "tags": [],
       "date": "2026-07-29T14:38:35+00:00"
@@ -284,8 +341,8 @@
       "source": "hn",
       "title": "Handbook.md shows that long policy documents do not reliably govern agents",
       "url": "https://arxiv.org/abs/2607.25398",
-      "score": 249,
-      "comments": 158,
+      "score": 266,
+      "comments": 169,
       "author": "spIrr",
       "tags": [],
       "date": "2026-07-29T13:01:57+00:00"
@@ -350,8 +407,8 @@
       "source": "hn",
       "title": "Darktable",
       "url": "https://www.darktable.org/",
-      "score": 222,
-      "comments": 112,
+      "score": 246,
+      "comments": 124,
       "author": "siatko",
       "tags": [],
       "date": "2026-07-29T12:33:02+00:00"
@@ -407,8 +464,8 @@
       "source": "hn",
       "title": "Document-borne AI worms can self-propagate through Copilot for Word",
       "url": "https://enklypesalt.com/posts/context-collapse-part3-ai-worming-through-word/",
-      "score": 289,
-      "comments": 213,
+      "score": 305,
+      "comments": 230,
       "author": "Canopy9560",
       "tags": [],
       "date": "2026-07-29T11:44:33+00:00"
@@ -431,8 +488,8 @@
       "source": "hn",
       "title": "KOReader",
       "url": "https://koreader.rocks/",
-      "score": 582,
-      "comments": 187,
+      "score": 612,
+      "comments": 195,
       "author": "Cider9986",
       "tags": [],
       "date": "2026-07-29T11:05:08+00:00"
@@ -542,19 +599,6 @@
         "Qiita"
       ],
       "date": "2026-07-29T16:09:57+09:00"
-    },
-    {
-      "id": "qiita-f0c024c0a5",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "Google A2AをサポートしたOCI Autonomous Databaseでマルチエージェントを実装してみる",
-      "url": "https://qiita.com/ksonoda/items/d2f2263cf9dc5d2ddd67?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "ksonoda",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-07-29T16:03:35+09:00"
     },
     {
       "id": "qiita-349ef3418b",
@@ -881,8 +925,8 @@
       "source": "hn",
       "title": "Anatomy of a Frontier Lab Agent Intrusion: A Technical Timeline of the Incident",
       "url": "https://huggingface.co/blog/agent-intrusion-technical-timeline",
-      "score": 148,
-      "comments": 81,
+      "score": 210,
+      "comments": 113,
       "author": "artninja1988",
       "tags": [],
       "date": "2026-07-28T20:28:33+00:00"
@@ -2449,8 +2493,8 @@
       "source": "hn",
       "title": "Hamburg's Stadtpark: A Park Built to Be Used",
       "url": "https://alsterrunde.com/hamburgs-stadtpark-a-park-built-to-be-used/",
-      "score": 76,
-      "comments": 17,
+      "score": 87,
+      "comments": 24,
       "author": "mertbio",
       "tags": [],
       "date": "2026-07-27T06:23:46+00:00"
@@ -3933,8 +3977,8 @@
       "source": "hn",
       "title": "The Rust on ESP Book",
       "url": "https://docs.espressif.com/projects/rust/book/",
-      "score": 70,
-      "comments": 8,
+      "score": 96,
+      "comments": 9,
       "author": "AlexeyBrin",
       "tags": [],
       "date": "2026-07-25T13:15:41+00:00"
@@ -5115,54 +5159,6 @@
         "Qiita"
       ],
       "date": "2026-07-24T17:42:26+09:00"
-    },
-    {
-      "id": "hn-49032756",
-      "source": "hn",
-      "title": "The Book Prize Index",
-      "url": "https://book-prize-index.vercel.app",
-      "score": 35,
-      "comments": 2,
-      "author": "Luc",
-      "tags": [],
-      "date": "2026-07-24T08:29:11+00:00"
-    },
-    {
-      "id": "qiita-62f8e0e2a9",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "【研修備忘録】Spring Boot 開発＆テストでよく使ったアノテーション・メソッドまとめ",
-      "url": "https://qiita.com/otokoumeKM/items/ebe23656e7ac5876365d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "otokoumeKM",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-07-24T17:25:29+09:00"
-    },
-    {
-      "id": "hn-49032660",
-      "source": "hn",
-      "title": "It's getting harder to focus every day",
-      "url": "https://glyphack.com/attention/",
-      "score": 673,
-      "comments": 379,
-      "author": "peykar",
-      "tags": [],
-      "date": "2026-07-24T08:18:30+00:00"
-    },
-    {
-      "id": "qiita-ec1f2aa2f0",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "AI時代のポートフォリオ、転職で本当に見られているのは「言語化力」",
-      "url": "https://qiita.com/sumomoo/items/d8c22cb512d9ba036154?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "sumomoo",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-07-24T17:14:32+09:00"
     },
     {
       "id": "ctf-3782036",

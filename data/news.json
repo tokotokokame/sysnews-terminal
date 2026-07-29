@@ -1,14 +1,38 @@
 {
-  "updated_at": "2026-07-29T06:13:27.081368+00:00",
+  "updated_at": "2026-07-29T09:21:00.399243+00:00",
   "count": 500,
   "items": [
+    {
+      "id": "hn-49094346",
+      "source": "hn",
+      "title": "SQLite in Production: Optimizing WAL Mode, Concurrency, and VFS Layers",
+      "url": "https://micrologics.org/blog/sqlite-in-production-optimizing-wal-mode-concurrency-and-vfs-layers-for-low-latency-app-servers",
+      "score": 31,
+      "comments": 1,
+      "author": "ankitg12",
+      "tags": [],
+      "date": "2026-07-29T07:18:24+00:00"
+    },
+    {
+      "id": "qiita-ebb2b1d4a9",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "スマートメーター × Confluent Cloud リアルタイムデモ（東京23区版）を、IBM Bob を使って構築しました",
+      "url": "https://qiita.com/Shumpei_Kubo/items/65691b8b38767674bd92?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "Shumpei_Kubo",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-07-29T16:09:57+09:00"
+    },
     {
       "id": "hn-49093569",
       "source": "hn",
       "title": "More Tailscale tricks for your jailbroken Kindle",
       "url": "https://tailscale.com/blog/jailbroken-kindle-proxy-tun-modes",
-      "score": 59,
-      "comments": 6,
+      "score": 168,
+      "comments": 49,
       "author": "Error6571",
       "tags": [],
       "date": "2026-07-29T04:58:46+00:00"
@@ -18,8 +42,8 @@
       "source": "hn",
       "title": "Cracking Windows Open: Porting RADV to Win32",
       "url": "https://www.collabora.com/news-and-blog/news-and-events/cracking-windows-open-porting-radv-to-win32.html",
-      "score": 20,
-      "comments": 1,
+      "score": 43,
+      "comments": 10,
       "author": "zdw",
       "tags": [],
       "date": "2026-07-29T04:30:47+00:00"
@@ -29,8 +53,8 @@
       "source": "hn",
       "title": "User Interfaces of the Demo Scene",
       "url": "https://www.datagubbe.se/scenegui/",
-      "score": 51,
-      "comments": 6,
+      "score": 170,
+      "comments": 27,
       "author": "zdw",
       "tags": [],
       "date": "2026-07-29T04:30:36+00:00"
@@ -40,11 +64,24 @@
       "source": "hn",
       "title": "Transformer Transformer: A Unified Model for Motion-Conditioned Robot Co-Design",
       "url": "https://transformer-transformer.github.io/",
-      "score": 26,
-      "comments": 0,
+      "score": 50,
+      "comments": 2,
       "author": "ilreb",
       "tags": [],
       "date": "2026-07-29T03:52:29+00:00"
+    },
+    {
+      "id": "qiita-ed4aa8132a",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "絵の描き方をさくらのAI Engineに教えてもらいました",
+      "url": "https://qiita.com/torifukukaiou/items/c12bb99ef2016e2a3f0d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "torifukukaiou",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-07-29T12:03:26+09:00"
     },
     {
       "id": "hn-49092781",
@@ -62,8 +99,8 @@
       "source": "hn",
       "title": "Hooray for the Sockets Interface",
       "url": "https://blog.apnic.net/2026/07/28/hooray-for-the-sockets-interface/",
-      "score": 20,
-      "comments": 14,
+      "score": 37,
+      "comments": 18,
       "author": "jruohonen",
       "tags": [],
       "date": "2026-07-29T02:25:29+00:00"
@@ -95,8 +132,8 @@
       "source": "hn",
       "title": "LearnVector – Andrew Ng's AI company building one‑to‑one learning experiences",
       "url": "https://learnvector.ai/",
-      "score": 132,
-      "comments": 68,
+      "score": 177,
+      "comments": 107,
       "author": "ajhai",
       "tags": [],
       "date": "2026-07-29T01:49:19+00:00"
@@ -111,6 +148,19 @@
       "author": "marvinborner",
       "tags": [],
       "date": "2026-07-29T00:59:37+00:00"
+    },
+    {
+      "id": "qiita-3f0392b70f",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "オンプレミスからプライベートなAPI Gatewayを呼ぶ ― CognitoのTokenエンドポイントをAPI Gatewayでプロキシする構成",
+      "url": "https://qiita.com/ajisawa/items/43dc7431773cab0b76b8?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "ajisawa",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-07-29T09:32:47+09:00"
     },
     {
       "id": "hn-49091895",
@@ -139,8 +189,8 @@
       "source": "hn",
       "title": "Hubble: Open-source notetaking app for you and your agents",
       "url": "https://www.hubble.md/",
-      "score": 83,
-      "comments": 22,
+      "score": 108,
+      "comments": 38,
       "author": "handfuloflight",
       "tags": [],
       "date": "2026-07-29T00:11:23+00:00",
@@ -158,12 +208,25 @@
       "date": "2026-07-29T00:07:43+00:00"
     },
     {
+      "id": "qiita-365d1ae90a",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "フロントエンド挫折勢！StreamlitならPythonだけで実用的なWebアプリ、ツールが即作れる。導入、初心者へ",
+      "url": "https://qiita.com/hello_itoLab/items/072d4b33c49491d16c5f?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "hello_itoLab",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-07-29T08:39:20+09:00"
+    },
+    {
       "id": "hn-49091379",
       "source": "hn",
       "title": "ReFrame – The EPaper Camera",
       "url": "https://reframe.camera/",
-      "score": 82,
-      "comments": 19,
+      "score": 124,
+      "comments": 23,
       "author": "phil294",
       "tags": [],
       "date": "2026-07-28T23:27:09+00:00"
@@ -196,8 +259,8 @@
       "source": "hn",
       "title": "Show HN: I was tired of opening 2 tabs for every HN link, so I made a userscript",
       "url": "https://github.com/twalichiewicz/HNewhere",
-      "score": 225,
-      "comments": 64,
+      "score": 308,
+      "comments": 80,
       "author": "twalichiewicz",
       "tags": [],
       "date": "2026-07-28T22:09:06+00:00"
@@ -229,8 +292,8 @@
       "source": "hn",
       "title": "Half-Life ported to Mac OS 9",
       "url": "https://mac-classic.com/news/half-life-ported-to-mac-os-9/",
-      "score": 205,
-      "comments": 96,
+      "score": 237,
+      "comments": 112,
       "author": "freediver",
       "tags": [],
       "date": "2026-07-28T20:58:39+00:00"
@@ -240,8 +303,8 @@
       "source": "hn",
       "title": "Codex Security",
       "url": "https://github.com/openai/codex-security",
-      "score": 450,
-      "comments": 139,
+      "score": 496,
+      "comments": 165,
       "author": "bakigul",
       "tags": [],
       "date": "2026-07-28T20:52:55+00:00"
@@ -339,8 +402,8 @@
       "source": "hn",
       "title": "The iPhone Upgrade Program is being replaced by Apple Upgrade",
       "url": "https://www.apple.com/shop/iphone/iphone-upgrade-program",
-      "score": 158,
-      "comments": 306,
+      "score": 179,
+      "comments": 325,
       "author": "lkurtz",
       "tags": [],
       "date": "2026-07-28T17:37:12+00:00"
@@ -361,8 +424,8 @@
       "source": "hn",
       "title": "Steel Bank Common Lisp version 2.6.7",
       "url": "https://sbcl.org/all-news.html?2.6.7",
-      "score": 216,
-      "comments": 92,
+      "score": 231,
+      "comments": 99,
       "author": "tmtvl",
       "tags": [],
       "date": "2026-07-28T17:11:54+00:00"
@@ -383,8 +446,8 @@
       "source": "hn",
       "title": "Substack writers, you need a website",
       "url": "https://elizabethtai.com/2026/06/10/substack-writers-you-need-a-website/",
-      "score": 481,
-      "comments": 230,
+      "score": 530,
+      "comments": 268,
       "author": "speckx",
       "tags": [],
       "date": "2026-07-28T16:58:31+00:00"
@@ -438,8 +501,8 @@
       "source": "hn",
       "title": "Delayed Gratification – Proud to Be 'Last to Breaking News'",
       "url": "https://www.slow-journalism.com/",
-      "score": 270,
-      "comments": 158,
+      "score": 295,
+      "comments": 165,
       "author": "speerer",
       "tags": [],
       "date": "2026-07-28T15:50:38+00:00"
@@ -449,8 +512,8 @@
       "source": "hn",
       "title": "Kimi K3 Architecture Overview and Notes",
       "url": "https://sebastianraschka.com/blog/2026/kimi-k3-architecture-notes.html",
-      "score": 366,
-      "comments": 62,
+      "score": 417,
+      "comments": 80,
       "author": "ModelForge",
       "tags": [],
       "date": "2026-07-28T15:48:34+00:00"
@@ -460,8 +523,8 @@
       "source": "hn",
       "title": "Zig's Incremental Compilation Internals",
       "url": "https://mlugg.co.uk/posts/incremental-compilation-internals/",
-      "score": 219,
-      "comments": 153,
+      "score": 242,
+      "comments": 166,
       "author": "garyhtou",
       "tags": [],
       "date": "2026-07-28T15:46:45+00:00"
@@ -548,8 +611,8 @@
       "source": "hn",
       "title": "Una GPS smart watch – Repairable, USB-C charging, developer-friendly",
       "url": "https://unawatch.com/",
-      "score": 128,
-      "comments": 84,
+      "score": 210,
+      "comments": 132,
       "author": "pimterry",
       "tags": [],
       "date": "2026-07-28T14:48:13+00:00"
@@ -737,6 +800,19 @@
       "date": "2026-07-28T09:52:31+00:00"
     },
     {
+      "id": "qiita-6dd5eb99b3",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "AWS Cloud Mapを使って低コストでECSサービス間通信を実現しよう🔎",
+      "url": "https://qiita.com/H-Hoshihara/items/fefeab99ace8b0ce713b?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "H-Hoshihara",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-07-28T18:51:08+09:00"
+    },
+    {
       "id": "hn-49081555",
       "source": "hn",
       "title": "About the security content of macOS Tahoe 26.6",
@@ -796,6 +872,19 @@
         "Qiita"
       ],
       "date": "2026-07-28T16:24:39+09:00"
+    },
+    {
+      "id": "qiita-65a8f25acd",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "VSCodeからMulmoTerminalへ移籍した話",
+      "url": "https://qiita.com/tanaka_taro_JP_KYUSYU/items/1355c98e73e16f66eb53?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "tanaka_taro_JP_KYUSYU",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-07-28T15:04:04+09:00"
     },
     {
       "id": "hn-49079727",
@@ -1140,8 +1229,8 @@
       "source": "hn",
       "title": "60 Years Ago, a Submerged Submarine Circled the Globe for the First Time (2020)",
       "url": "https://www.popularmechanics.com/military/weapons/a32009109/operation-sandblast-sumbarine-circumnavigation/",
-      "score": 5,
-      "comments": 2,
+      "score": 15,
+      "comments": 5,
       "author": "baud147258",
       "tags": [],
       "date": "2026-07-27T22:42:11+00:00"
@@ -1463,6 +1552,32 @@
       "severity": "high"
     },
     {
+      "id": "qiita-0fca12ffb5",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "YAML不要！ESP32-S3とMQTT Discoveryで作る自宅IoTデバイス（Home Assistant自動連携）",
+      "url": "https://qiita.com/Noritama-Lab/items/2c3b7bda0aadf82f27a6?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "Noritama-Lab",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-07-28T00:05:12+09:00"
+    },
+    {
+      "id": "qiita-0996782e3d",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "カスタムスラッシュコマンドを作ってみた　～勤怠管理アプリ編③～",
+      "url": "https://qiita.com/yukegineer/items/2e34116872268453a66a?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "yukegineer",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-07-27T23:47:52+09:00"
+    },
+    {
       "id": "hn-49070427",
       "source": "hn",
       "title": "Apple Will 'Watch Everything Burn' When the AI Bubble Bursts",
@@ -1524,8 +1639,8 @@
       "source": "hn",
       "title": "Truth is not a direction: a Tarski attack on LLM probes",
       "url": "https://abeljansma.nl/2026/07/10/truth-is-not-a-direction.html",
-      "score": 68,
-      "comments": 20,
+      "score": 93,
+      "comments": 38,
       "author": "abelaer",
       "tags": [],
       "date": "2026-07-27T12:56:36+00:00"
@@ -1785,6 +1900,19 @@
         "Qiita"
       ],
       "date": "2026-07-27T15:17:16+09:00"
+    },
+    {
+      "id": "qiita-440db433fe",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "なぜニチレイは、たった10日で復旧できたのか",
+      "url": "https://qiita.com/harupython/items/3ca158f89a6e38d762aa?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "harupython",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-07-27T14:29:41+09:00"
     },
     {
       "id": "qiita-ce1b8d89ef",
@@ -2170,6 +2298,17 @@
       "date": "2026-07-27T02:43:54+09:00"
     },
     {
+      "id": "hn-49060363",
+      "source": "hn",
+      "title": "Lisp moving Forth moving Lisp",
+      "url": "https://letoverlambda.com/textmode.cl/guest/chap8.html",
+      "score": 9,
+      "comments": 0,
+      "author": "fallat",
+      "tags": [],
+      "date": "2026-07-26T17:37:33+00:00"
+    },
+    {
       "id": "hn-49060295",
       "source": "hn",
       "title": "How to write English prose (2023)",
@@ -2485,8 +2624,8 @@
       "source": "hn",
       "title": "Teach yourself programming in ten years (1998)",
       "url": "https://www.norvig.com/21-days.html",
-      "score": 99,
-      "comments": 45,
+      "score": 132,
+      "comments": 81,
       "author": "vinhnx",
       "tags": [],
       "date": "2026-07-26T08:06:45+00:00"
@@ -3840,8 +3979,8 @@
       "source": "hn",
       "title": "Mag Computer: A Mag History of RAM (1960–2025)",
       "url": "https://magworld.pw/episodes/computer/",
-      "score": 6,
-      "comments": 0,
+      "score": 22,
+      "comments": 2,
       "author": "evakhoury",
       "tags": [],
       "date": "2026-07-24T14:26:09+00:00"
@@ -5026,138 +5165,15 @@
       "date": "2026-07-23T14:37:54+00:00"
     },
     {
-      "id": "hn-49022355",
-      "source": "hn",
-      "title": "I learned PCB design, 3D printing and C just to listen to music",
-      "url": "https://pentaton.app/blog/2026-07-12-introducing-pentaton-lp/",
-      "score": 207,
-      "comments": 42,
-      "author": "interfeco",
-      "tags": [],
-      "date": "2026-07-23T14:37:13+00:00"
-    },
-    {
-      "id": "hn-49022284",
-      "source": "hn",
-      "title": "Show HN: Remux – an open-source tmux workspace designed for iPhone",
-      "url": "https://github.com/h3nock/remux",
-      "score": 60,
-      "comments": 20,
-      "author": "bitwise42",
-      "tags": [],
-      "date": "2026-07-23T14:31:26+00:00",
-      "severity": "critical"
-    },
-    {
-      "id": "hn-49022152",
-      "source": "hn",
-      "title": "Writing by hand is good for your brain",
-      "url": "https://nealstephenson.substack.com/p/writing-by-hand-is-good-for-your",
-      "score": 1372,
-      "comments": 622,
-      "author": "dwwoelfel",
-      "tags": [],
-      "date": "2026-07-23T14:24:43+00:00"
-    },
-    {
-      "id": "hn-49022137",
-      "source": "hn",
-      "title": "Fields Medals 2026",
-      "url": "https://www.mathunion.org/imu-awards/fields-medal/fields-medals-2026",
-      "score": 161,
-      "comments": 85,
-      "author": "nill0",
-      "tags": [],
-      "date": "2026-07-23T14:23:51+00:00"
-    },
-    {
-      "id": "hn-49022038",
-      "source": "hn",
-      "title": "Software rendering in 500 lines of bare C++",
-      "url": "https://haqr.eu/tinyrenderer/",
-      "score": 286,
-      "comments": 65,
-      "author": "mpweiher",
-      "tags": [],
-      "date": "2026-07-23T14:17:40+00:00"
-    },
-    {
-      "id": "hn-49021880",
-      "source": "hn",
-      "title": "You can now run same OCI images as containers or Firecracker microVMs",
-      "url": "https://github.com/pullrun/pullrun",
-      "score": 35,
-      "comments": 11,
-      "author": "pullrun",
-      "tags": [],
-      "date": "2026-07-23T14:08:39+00:00"
-    },
-    {
-      "id": "hn-49021868",
-      "source": "hn",
-      "title": "Hybrid-Electric Aicraft Engine Targeting 30% Fuel Efficiency",
-      "url": "https://www.rtx.com/news/news-center/2026/07/21/rtxs-pratt-whitney-canada-advances-hybrid-electric-technology-development",
-      "score": 73,
-      "comments": 63,
-      "author": "r2sk5t",
-      "tags": [],
-      "date": "2026-07-23T14:07:38+00:00"
-    },
-    {
-      "id": "hn-49021856",
-      "source": "hn",
-      "title": "I regret migrating to Codeberg",
-      "url": "https://xn--gckvb8fzb.com/i-regret-migrating-to-codeberg/",
-      "score": 357,
-      "comments": 250,
-      "author": "boramalper",
-      "tags": [],
-      "date": "2026-07-23T14:06:47+00:00"
-    },
-    {
-      "id": "hn-49021786",
-      "source": "hn",
-      "title": "Emacs Is a Lispboard",
-      "url": "https://en.andros.dev/blog/06bfd107/emacs-is-a-lispboard/",
-      "score": 33,
-      "comments": 9,
-      "author": "andros",
-      "tags": [],
-      "date": "2026-07-23T14:02:45+00:00"
-    },
-    {
-      "id": "hn-49021783",
-      "source": "hn",
-      "title": "Astronomers may have found the first exomoon",
-      "url": "https://www.eso.org/public/news/eso2610/",
-      "score": 212,
-      "comments": 79,
-      "author": "MarcoDewey",
-      "tags": [],
-      "date": "2026-07-23T14:02:24+00:00"
-    },
-    {
       "id": "hn-49021756",
       "source": "hn",
       "title": "Log is non-monotonic in PHP and Lua",
       "url": "https://purplesyringa.moe/blog/log-is-non-monotonic-in-php-and-lua/",
-      "score": 28,
-      "comments": 18,
+      "score": 52,
+      "comments": 30,
       "author": "ibobev",
       "tags": [],
       "date": "2026-07-23T14:00:48+00:00"
-    },
-    {
-      "id": "hn-49021597",
-      "source": "hn",
-      "title": "DARPA, U.S. Air Force fly AI-controlled F-16",
-      "url": "https://www.darpa.mil/news/2026/darpa-us-air-force-fly-ai-controlled-f-16",
-      "score": 255,
-      "comments": 283,
-      "author": "r2sk5t",
-      "tags": [],
-      "date": "2026-07-23T13:51:36+00:00",
-      "severity": "critical"
     },
     {
       "id": "ctf-3782036",
@@ -5356,6 +5372,45 @@
       "date": "2023-05-23T17:06:23Z"
     },
     {
+      "id": "zenn-6ba13f58da",
+      "source": "zennqiita",
+      "sub_source": "Zenn",
+      "title": "TypeScript 7 時代の Vue.js ツールチェーン Vize を実プロダクトで検証した",
+      "url": "https://zenn.dev/uniquevision/articles/4359e64b17b028",
+      "score": null,
+      "author": "RyutaroYako",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Tue, 28 Jul 2026 10:11:01 GMT"
+    },
+    {
+      "id": "zenn-36b35e2d1a",
+      "source": "zennqiita",
+      "sub_source": "Zenn",
+      "title": "Claude Code Routinesにてサブスク内で自動コードレビューする",
+      "url": "https://zenn.dev/rehabforjapan/articles/claude-code-routines-pr-review-202607",
+      "score": null,
+      "author": "Masaki Kubota",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Tue, 28 Jul 2026 08:42:50 GMT"
+    },
+    {
+      "id": "zenn-66e8e8f0d8",
+      "source": "zennqiita",
+      "sub_source": "Zenn",
+      "title": "生成AIでPIIを消し去る！SnowflakeのAI_REDACTでフリーテキストを守る挑戦",
+      "url": "https://zenn.dev/dely_jp/articles/7a27a44c06b30a",
+      "score": null,
+      "author": "Presteniko Septi Rahadian",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Tue, 28 Jul 2026 06:18:05 GMT"
+    },
+    {
       "id": "zenn-b01e0cbbe1",
       "source": "zennqiita",
       "sub_source": "Zenn",
@@ -5393,19 +5448,6 @@
         "Zenn"
       ],
       "date": "Mon, 27 Jul 2026 23:19:53 GMT"
-    },
-    {
-      "id": "zenn-1ad74c2ad6",
-      "source": "zennqiita",
-      "sub_source": "Zenn",
-      "title": "Agentic RLではtool callを含むtrajectoryをどう学習するのか",
-      "url": "https://zenn.dev/takkuhiro/articles/agentic-rl-trajectory-mechanics",
-      "score": null,
-      "author": "Hirotaka",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Mon, 27 Jul 2026 22:00:05 GMT"
     },
     {
       "id": "zenn-3010ddd5fb",
@@ -5447,6 +5489,19 @@
       "date": "Mon, 27 Jul 2026 06:46:05 GMT"
     },
     {
+      "id": "zenn-ac3788cbd1",
+      "source": "zennqiita",
+      "sub_source": "Zenn",
+      "title": "データエンジニアが注力すべきSilver層設計の重要性と難しさ",
+      "url": "https://zenn.dev/gixo/articles/medallion-silver-layer-importance",
+      "score": null,
+      "author": "Kouma Nakashima",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Mon, 27 Jul 2026 05:02:57 GMT"
+    },
+    {
       "id": "zenn-a7c740a131",
       "source": "zennqiita",
       "sub_source": "Zenn",
@@ -5460,19 +5515,6 @@
       "date": "Mon, 27 Jul 2026 04:26:35 GMT"
     },
     {
-      "id": "zenn-b9c3bc9bba",
-      "source": "zennqiita",
-      "sub_source": "Zenn",
-      "title": "非同期処理版mutex",
-      "url": "https://zenn.dev/mutex_inc/articles/async_serialization_20260721",
-      "score": null,
-      "author": "rentaro",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Mon, 27 Jul 2026 02:50:05 GMT"
-    },
-    {
       "id": "zenn-6dd6cc92e6",
       "source": "zennqiita",
       "sub_source": "Zenn",
@@ -5484,19 +5526,6 @@
         "Zenn"
       ],
       "date": "Mon, 27 Jul 2026 00:31:05 GMT"
-    },
-    {
-      "id": "zenn-ab3059319a",
-      "source": "zennqiita",
-      "sub_source": "Zenn",
-      "title": "エンジニアの習熟度は、トークン消費量として露呈していく",
-      "url": "https://zenn.dev/kaji_kaji/articles/token-management-as-ai-proficiency",
-      "score": null,
-      "author": "Kaji",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Mon, 27 Jul 2026 00:00:08 GMT"
     },
     {
       "id": "zenn-a5957548fa",
@@ -5601,19 +5630,6 @@
         "Zenn"
       ],
       "date": "Sat, 25 Jul 2026 08:27:52 GMT"
-    },
-    {
-      "id": "zenn-f6c7f835fe",
-      "source": "zennqiita",
-      "sub_source": "Zenn",
-      "title": "ターミナルを自作したら、1日のコミット数が500を超えて、生産性がバグった話",
-      "url": "https://zenn.dev/singularity/articles/diy-terminal-500-commits",
-      "score": null,
-      "author": "Isamu",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Thu, 23 Jul 2026 20:55:48 GMT"
     },
     {
       "id": "edb-9bdf9aa505",

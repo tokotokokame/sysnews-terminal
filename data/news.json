@@ -1,14 +1,47 @@
 {
-  "updated_at": "2026-07-31T20:02:30.880515+00:00",
+  "updated_at": "2026-07-31T21:37:36.481643+00:00",
   "count": 500,
   "items": [
+    {
+      "id": "hn-49128539",
+      "source": "hn",
+      "title": "Apple Will 'Watch Everything Burn' When AI Bubble Bursts",
+      "url": "https://asymco.com/2026/07/31/apple-will-watch-everything-burn-when-ai-bubble-bursts/",
+      "score": 23,
+      "comments": 34,
+      "author": "speckx",
+      "tags": [],
+      "date": "2026-07-31T21:08:05+00:00"
+    },
+    {
+      "id": "hn-49128462",
+      "source": "hn",
+      "title": "Loops (YC W22) Is Hiring a Product Educator",
+      "url": "https://www.ycombinator.com/companies/loops/jobs/zqUnwqB-product-educator-technical-content-creator",
+      "score": 1,
+      "comments": 0,
+      "author": "chrisfrantz",
+      "tags": [],
+      "date": "2026-07-31T21:00:40+00:00"
+    },
+    {
+      "id": "hn-49128323",
+      "source": "hn",
+      "title": "Demystifying DRAM Read Disturbance: RowHammer and RowPress Phenomena",
+      "url": "https://arxiv.org/abs/2607.28233",
+      "score": 9,
+      "comments": 1,
+      "author": "Jimmc414",
+      "tags": [],
+      "date": "2026-07-31T20:44:29+00:00"
+    },
     {
       "id": "hn-49127306",
       "source": "hn",
       "title": "Tailscale didn't stop the Hugging Face intrusion",
       "url": "https://tailscale.com/blog/hugging-face-intrusion",
-      "score": 68,
-      "comments": 32,
+      "score": 230,
+      "comments": 83,
       "author": "bluehatbrit",
       "tags": [],
       "date": "2026-07-31T19:03:45+00:00"
@@ -29,8 +62,8 @@
       "source": "hn",
       "title": "Golang proposal: container/: generic collection types",
       "url": "https://github.com/golang/go/issues/80590",
-      "score": 27,
-      "comments": 3,
+      "score": 77,
+      "comments": 26,
       "author": "jabits",
       "tags": [],
       "date": "2026-07-31T18:39:47+00:00"
@@ -51,8 +84,8 @@
       "source": "hn",
       "title": "Using the railway network as a flatbed scanner [video]",
       "url": "https://media.ccc.de/v/emf2026-74-1-using-the-railway-network-as-a-flatbed-scanner",
-      "score": 13,
-      "comments": 5,
+      "score": 34,
+      "comments": 14,
       "author": "Jimmc414",
       "tags": [],
       "date": "2026-07-31T18:30:44+00:00"
@@ -62,8 +95,8 @@
       "source": "hn",
       "title": "Termixer (TUI DJ Mixer)",
       "url": "https://github.com/l00sed/termixer",
-      "score": 23,
-      "comments": 11,
+      "score": 36,
+      "comments": 26,
       "author": "l00sed",
       "tags": [],
       "date": "2026-07-31T18:28:08+00:00"
@@ -73,8 +106,8 @@
       "source": "hn",
       "title": "June in Servo: real world compat, media queries, SharedWorker, and more",
       "url": "https://servo.org/blog/2026/07/31/june-in-servo/",
-      "score": 17,
-      "comments": 0,
+      "score": 54,
+      "comments": 11,
       "author": "iamnothere",
       "tags": [],
       "date": "2026-07-31T18:17:52+00:00"
@@ -84,8 +117,8 @@
       "source": "hn",
       "title": "Everyone is building LLM routers, we deprecated ours",
       "url": "https://manifest.build/blog/why-we-deprecated-our-llm-router/",
-      "score": 28,
-      "comments": 14,
+      "score": 60,
+      "comments": 31,
       "author": "brunaxLorax",
       "tags": [],
       "date": "2026-07-31T18:06:39+00:00"
@@ -95,8 +128,8 @@
       "source": "hn",
       "title": "qm",
       "url": "https://github.com/yc-software/qm",
-      "score": 159,
-      "comments": 42,
+      "score": 281,
+      "comments": 64,
       "author": "tosh",
       "tags": [],
       "date": "2026-07-31T18:04:58+00:00"
@@ -106,8 +139,8 @@
       "source": "hn",
       "title": "Severance",
       "url": "https://lcamtuf.substack.com/p/severance",
-      "score": 49,
-      "comments": 13,
+      "score": 130,
+      "comments": 32,
       "author": "surprisetalk",
       "tags": [],
       "date": "2026-07-31T17:15:09+00:00"
@@ -139,8 +172,8 @@
       "source": "hn",
       "title": "Getting 25 Gbps Thunderbolt Ethernet on My Mac Studio",
       "url": "https://www.jeffgeerling.com/blog/2026/getting-25g-ethernet-mac-thunderbolt/",
-      "score": 81,
-      "comments": 50,
+      "score": 101,
+      "comments": 61,
       "author": "speckx",
       "tags": [],
       "date": "2026-07-31T16:15:31+00:00"
@@ -161,8 +194,8 @@
       "source": "hn",
       "title": "Big Food vs. the People",
       "url": "https://www.lighthousereports.com/investigation/big-food-vs-the-people/",
-      "score": 124,
-      "comments": 78,
+      "score": 153,
+      "comments": 101,
       "author": "jruohonen",
       "tags": [],
       "date": "2026-07-31T16:04:32+00:00"
@@ -216,8 +249,8 @@
       "source": "hn",
       "title": "Algorithms on billion-scale graph using 10GB RAM: I love DataFusion",
       "url": "https://semyonsinchenko.github.io/ssinchenko/post/datafusion-graphs-cc-2/",
-      "score": 63,
-      "comments": 17,
+      "score": 79,
+      "comments": 27,
       "author": "speckx",
       "tags": [],
       "date": "2026-07-31T15:53:37+00:00"
@@ -293,8 +326,8 @@
       "source": "hn",
       "title": "Elevators",
       "url": "https://john.fun/elevators",
-      "score": 597,
-      "comments": 159,
+      "score": 701,
+      "comments": 184,
       "author": "Jrh0203",
       "tags": [],
       "date": "2026-07-31T15:17:28+00:00"
@@ -304,8 +337,8 @@
       "source": "hn",
       "title": "The most official water costs $120k a gallon",
       "url": "https://signoregalilei.com/2026/07/26/the-most-official-water-costs-120000-a-gallon/",
-      "score": 38,
-      "comments": 13,
+      "score": 96,
+      "comments": 75,
       "author": "surprisetalk",
       "tags": [],
       "date": "2026-07-31T15:00:15+00:00"
@@ -322,12 +355,23 @@
       "date": "2026-07-31T14:41:13+00:00"
     },
     {
+      "id": "hn-49123468",
+      "source": "hn",
+      "title": "Authorize, don't authenticate",
+      "url": "https://blog.marcua.net/2026/07/31/authorize-dont-authenticate.html",
+      "score": 19,
+      "comments": 3,
+      "author": "marcua",
+      "tags": [],
+      "date": "2026-07-31T14:17:43+00:00"
+    },
+    {
       "id": "hn-49123386",
       "source": "hn",
       "title": "Run Kimi K3 using 29 GB of RAM at 0.50 tok/s",
       "url": "https://github.com/sqliteai/waste",
-      "score": 76,
-      "comments": 24,
+      "score": 104,
+      "comments": 41,
       "author": "marcobambini",
       "tags": [],
       "date": "2026-07-31T14:12:38+00:00"
@@ -421,12 +465,36 @@
       "date": "2026-07-31T11:37:12+00:00"
     },
     {
+      "id": "hn-49121196",
+      "source": "hn",
+      "title": "Progressive Web Components",
+      "url": "https://arielsalminen.com/2026/progressive-web-components/",
+      "score": 14,
+      "comments": 0,
+      "author": "hosteur",
+      "tags": [],
+      "date": "2026-07-31T10:04:40+00:00"
+    },
+    {
+      "id": "qiita-17a0511cd8",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "New Relic Autopilot (旧SRE Agent) によるSlack通知ワークフローをTerraformで構築する",
+      "url": "https://qiita.com/nr-mito/items/96c0ad26943673114161?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "nr-mito",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-07-31T18:47:51+09:00"
+    },
+    {
       "id": "hn-49120299",
       "source": "hn",
       "title": "DeepSeek V4 Flash 0731 Intelligence, Performance and Price Analysis",
       "url": "https://artificialanalysis.ai/models/deepseek-v4-flash",
-      "score": 471,
-      "comments": 255,
+      "score": 494,
+      "comments": 272,
       "author": "theanonymousone",
       "tags": [],
       "date": "2026-07-31T07:59:11+00:00"
@@ -455,6 +523,45 @@
       "date": "2026-07-31T07:29:22+00:00"
     },
     {
+      "id": "qiita-8288817775",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "大吉祥寺.pm2026に参加してきました！ #kichijojipm",
+      "url": "https://qiita.com/saku_rye/items/473987ca21d9dffd15fe?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "saku_rye",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-07-31T16:08:02+09:00"
+    },
+    {
+      "id": "qiita-ccda09a57e",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "【開催！】2026 Japan AWS Jr. Champions 真夏のQiitaリレー",
+      "url": "https://qiita.com/ys-yoshida/items/6f7c7f85155a993e2c86?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "ys-yoshida",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-07-31T15:59:07+09:00"
+    },
+    {
+      "id": "qiita-8bfa974e59",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "Claude Code の仕組み — ハーネスの動作と Claude API",
+      "url": "https://qiita.com/megmogmog1965/items/7db66f5a5aa306c68eb8?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "megmogmog1965",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-07-31T15:18:11+09:00"
+    },
+    {
       "id": "qiita-8b4ffd0c3b",
       "source": "zennqiita",
       "sub_source": "Qiita",
@@ -472,8 +579,8 @@
       "source": "hn",
       "title": "DeepSeek-V4-Flash Update",
       "url": "https://api-docs.deepseek.com/updates/",
-      "score": 621,
-      "comments": 298,
+      "score": 653,
+      "comments": 307,
       "author": "dnhkng",
       "tags": [],
       "date": "2026-07-31T06:08:36+00:00",
@@ -537,6 +644,17 @@
       "author": "akbabu",
       "tags": [],
       "date": "2026-07-31T05:17:29+00:00"
+    },
+    {
+      "id": "hn-49119270",
+      "source": "hn",
+      "title": "Let's make the worst Htmx",
+      "url": "https://zserge.com/posts/worst-htmx-ever/",
+      "score": 28,
+      "comments": 8,
+      "author": "RebelPotato",
+      "tags": [],
+      "date": "2026-07-31T05:16:45+00:00"
     },
     {
       "id": "qiita-796176e591",
@@ -3034,6 +3152,17 @@
       "date": "2026-07-28T22:32:19+09:00"
     },
     {
+      "id": "hn-49083599",
+      "source": "hn",
+      "title": "Twenty-five years ago it was cryptography, today it's model weights",
+      "url": "https://weeraman.com/because-we-can/",
+      "score": 17,
+      "comments": 1,
+      "author": "aweeraman",
+      "tags": [],
+      "date": "2026-07-28T13:31:25+00:00"
+    },
+    {
       "id": "hn-49083389",
       "source": "hn",
       "title": "Show HN: tale.fyi, we deserve a home for fiction",
@@ -3993,8 +4122,8 @@
       "source": "hn",
       "title": "How JPEG works: Interactively explore JPEG's lossy compression methods",
       "url": "https://cgjennings.ca/articles/jpeg-compression/",
-      "score": 53,
-      "comments": 4,
+      "score": 72,
+      "comments": 7,
       "author": "at1as",
       "tags": [],
       "date": "2026-07-27T15:11:14+00:00"
@@ -4530,6 +4659,17 @@
       "date": "2026-07-27T12:43:52+09:00"
     },
     {
+      "id": "hn-49064656",
+      "source": "hn",
+      "title": "Making Referential Stability a Type",
+      "url": "https://jovidecroock.com/blog/referential-stability-types/",
+      "score": 21,
+      "comments": 1,
+      "author": "acmnrs",
+      "tags": [],
+      "date": "2026-07-27T02:45:34+00:00"
+    },
+    {
       "id": "hn-49063983",
       "source": "hn",
       "title": "Hunter-gatherers introduced fish to a mountain lake 7000 years ago",
@@ -5005,144 +5145,6 @@
       "author": "ankitg12",
       "tags": [],
       "date": "2026-07-26T15:51:12+00:00"
-    },
-    {
-      "id": "hn-49058993",
-      "source": "hn",
-      "title": "The relay market powering token resellers and fraud",
-      "url": "https://vectoral.com/blog/token-relay-market",
-      "score": 176,
-      "comments": 102,
-      "author": "mlenhard",
-      "tags": [],
-      "date": "2026-07-26T15:17:06+00:00"
-    },
-    {
-      "id": "qiita-e468a06503",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "【mise】bootstrap機能でmacOS設定をコード管理",
-      "url": "https://qiita.com/umekikazuya/items/5fa8a38049328e301cb4?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "umekikazuya",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-07-26T23:57:47+09:00"
-    },
-    {
-      "id": "hn-49058673",
-      "source": "hn",
-      "title": "CSV Is Never Just CSV",
-      "url": "https://immaschinenraum.blog/en/funpark/never-just-csv/",
-      "score": 14,
-      "comments": 7,
-      "author": "derverstand",
-      "tags": [],
-      "date": "2026-07-26T14:40:53+00:00"
-    },
-    {
-      "id": "hn-49058669",
-      "source": "hn",
-      "title": "London Gatwick has launched a robotic airport parking service",
-      "url": "https://aerospaceglobalnews.com/news/gatwick-airport-robotic-parking-stanley-robotics/",
-      "score": 256,
-      "comments": 211,
-      "author": "agotterer",
-      "tags": [],
-      "date": "2026-07-26T14:40:27+00:00"
-    },
-    {
-      "id": "hn-49057877",
-      "source": "hn",
-      "title": "The New AI Superpowers: Focus and Followthrough",
-      "url": "https://www.rickmanelius.com/p/the-new-ai-superpowers-focus-and",
-      "score": 198,
-      "comments": 64,
-      "author": "mooreds",
-      "tags": [],
-      "date": "2026-07-26T13:13:03+00:00"
-    },
-    {
-      "id": "qiita-f6ef923da7",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "【DynamoDB】ホットパーティションを起こしたい",
-      "url": "https://qiita.com/jus1730/items/3abd3fc1f971cad34d81?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "jus1730",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-07-26T22:01:27+09:00"
-    },
-    {
-      "id": "hn-49057666",
-      "source": "hn",
-      "title": "Show HN: Reverse Minesweeper",
-      "url": "https://sunflowersgame.com/",
-      "score": 214,
-      "comments": 69,
-      "author": "pompomsheep",
-      "tags": [],
-      "date": "2026-07-26T12:51:03+00:00"
-    },
-    {
-      "id": "qiita-3cf15c443f",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "2026年上半期にどのくらい自作OSの開発が進んだのか？",
-      "url": "https://qiita.com/miku_JK_Jb/items/ea4be1446d29d5cc62bc?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "miku_JK_Jb",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-07-26T21:36:11+09:00"
-    },
-    {
-      "id": "hn-49057398",
-      "source": "hn",
-      "title": "Go Analysis Framework: modular static analysis by go team",
-      "url": "https://pkg.go.dev/golang.org/x/tools/go/analysis",
-      "score": 204,
-      "comments": 64,
-      "author": "AbuAssar",
-      "tags": [],
-      "date": "2026-07-26T12:21:26+00:00"
-    },
-    {
-      "id": "hn-49057248",
-      "source": "hn",
-      "title": "Third Drone Shot Down in Three Days in Romanian Territory",
-      "url": "https://english.mapn.ro/",
-      "score": 200,
-      "comments": 216,
-      "author": "_tk_",
-      "tags": [],
-      "date": "2026-07-26T12:00:42+00:00"
-    },
-    {
-      "id": "hn-49057241",
-      "source": "hn",
-      "title": "Htmx 4.0, the first JavaScript library to release exclusively on the Game Boy",
-      "url": "https://swag.htmx.org/en-cad/products/htmx-4-the-game",
-      "score": 437,
-      "comments": 146,
-      "author": "rcy",
-      "tags": [],
-      "date": "2026-07-26T12:00:11+00:00"
-    },
-    {
-      "id": "hn-49057175",
-      "source": "hn",
-      "title": "Kill The Cookie Banner",
-      "url": "https://killthecookiebanner.eu/",
-      "score": 983,
-      "comments": 469,
-      "author": "rapnie",
-      "tags": [],
-      "date": "2026-07-26T11:53:17+00:00"
     },
     {
       "id": "ctf-4233874",

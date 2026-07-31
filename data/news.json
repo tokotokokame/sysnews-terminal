@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-31T21:37:36.481643+00:00",
+  "updated_at": "2026-07-31T22:59:20.433177+00:00",
   "count": 500,
   "items": [
     {
@@ -29,19 +29,30 @@
       "source": "hn",
       "title": "Demystifying DRAM Read Disturbance: RowHammer and RowPress Phenomena",
       "url": "https://arxiv.org/abs/2607.28233",
-      "score": 9,
-      "comments": 1,
+      "score": 17,
+      "comments": 10,
       "author": "Jimmc414",
       "tags": [],
       "date": "2026-07-31T20:44:29+00:00"
+    },
+    {
+      "id": "hn-49127874",
+      "source": "hn",
+      "title": "Predictive Speculative KV Replication for Bursty LLM Inference",
+      "url": "https://jwlabs.vercel.app/post/biting-the-bullet",
+      "score": 15,
+      "comments": 1,
+      "author": "shreybirmiwal",
+      "tags": [],
+      "date": "2026-07-31T19:55:41+00:00"
     },
     {
       "id": "hn-49127306",
       "source": "hn",
       "title": "Tailscale didn't stop the Hugging Face intrusion",
       "url": "https://tailscale.com/blog/hugging-face-intrusion",
-      "score": 230,
-      "comments": 83,
+      "score": 314,
+      "comments": 125,
       "author": "bluehatbrit",
       "tags": [],
       "date": "2026-07-31T19:03:45+00:00"
@@ -62,8 +73,8 @@
       "source": "hn",
       "title": "Golang proposal: container/: generic collection types",
       "url": "https://github.com/golang/go/issues/80590",
-      "score": 77,
-      "comments": 26,
+      "score": 95,
+      "comments": 53,
       "author": "jabits",
       "tags": [],
       "date": "2026-07-31T18:39:47+00:00"
@@ -95,8 +106,8 @@
       "source": "hn",
       "title": "Termixer (TUI DJ Mixer)",
       "url": "https://github.com/l00sed/termixer",
-      "score": 36,
-      "comments": 26,
+      "score": 42,
+      "comments": 31,
       "author": "l00sed",
       "tags": [],
       "date": "2026-07-31T18:28:08+00:00"
@@ -106,8 +117,8 @@
       "source": "hn",
       "title": "June in Servo: real world compat, media queries, SharedWorker, and more",
       "url": "https://servo.org/blog/2026/07/31/june-in-servo/",
-      "score": 54,
-      "comments": 11,
+      "score": 80,
+      "comments": 27,
       "author": "iamnothere",
       "tags": [],
       "date": "2026-07-31T18:17:52+00:00"
@@ -117,8 +128,8 @@
       "source": "hn",
       "title": "Everyone is building LLM routers, we deprecated ours",
       "url": "https://manifest.build/blog/why-we-deprecated-our-llm-router/",
-      "score": 60,
-      "comments": 31,
+      "score": 75,
+      "comments": 39,
       "author": "brunaxLorax",
       "tags": [],
       "date": "2026-07-31T18:06:39+00:00"
@@ -128,8 +139,8 @@
       "source": "hn",
       "title": "qm",
       "url": "https://github.com/yc-software/qm",
-      "score": 281,
-      "comments": 64,
+      "score": 353,
+      "comments": 79,
       "author": "tosh",
       "tags": [],
       "date": "2026-07-31T18:04:58+00:00"
@@ -172,8 +183,8 @@
       "source": "hn",
       "title": "Getting 25 Gbps Thunderbolt Ethernet on My Mac Studio",
       "url": "https://www.jeffgeerling.com/blog/2026/getting-25g-ethernet-mac-thunderbolt/",
-      "score": 101,
-      "comments": 61,
+      "score": 110,
+      "comments": 72,
       "author": "speckx",
       "tags": [],
       "date": "2026-07-31T16:15:31+00:00"
@@ -194,8 +205,8 @@
       "source": "hn",
       "title": "Big Food vs. the People",
       "url": "https://www.lighthousereports.com/investigation/big-food-vs-the-people/",
-      "score": 153,
-      "comments": 101,
+      "score": 169,
+      "comments": 114,
       "author": "jruohonen",
       "tags": [],
       "date": "2026-07-31T16:04:32+00:00"
@@ -216,8 +227,8 @@
       "source": "hn",
       "title": "Dubious research tied to Red Bull has shaped energy drink policy",
       "url": "https://www.theexamination.org/articles/red-bull-funded-research-energy-drinks-alcohol",
-      "score": 10,
-      "comments": 0,
+      "score": 97,
+      "comments": 148,
       "author": "Jimmc414",
       "tags": [],
       "date": "2026-07-31T15:58:15+00:00"
@@ -326,8 +337,8 @@
       "source": "hn",
       "title": "Elevators",
       "url": "https://john.fun/elevators",
-      "score": 701,
-      "comments": 184,
+      "score": 763,
+      "comments": 196,
       "author": "Jrh0203",
       "tags": [],
       "date": "2026-07-31T15:17:28+00:00"
@@ -337,8 +348,8 @@
       "source": "hn",
       "title": "The most official water costs $120k a gallon",
       "url": "https://signoregalilei.com/2026/07/26/the-most-official-water-costs-120000-a-gallon/",
-      "score": 96,
-      "comments": 75,
+      "score": 111,
+      "comments": 92,
       "author": "surprisetalk",
       "tags": [],
       "date": "2026-07-31T15:00:15+00:00"
@@ -359,8 +370,8 @@
       "source": "hn",
       "title": "Authorize, don't authenticate",
       "url": "https://blog.marcua.net/2026/07/31/authorize-dont-authenticate.html",
-      "score": 19,
-      "comments": 3,
+      "score": 29,
+      "comments": 8,
       "author": "marcua",
       "tags": [],
       "date": "2026-07-31T14:17:43+00:00"
@@ -370,8 +381,8 @@
       "source": "hn",
       "title": "Run Kimi K3 using 29 GB of RAM at 0.50 tok/s",
       "url": "https://github.com/sqliteai/waste",
-      "score": 104,
-      "comments": 41,
+      "score": 118,
+      "comments": 48,
       "author": "marcobambini",
       "tags": [],
       "date": "2026-07-31T14:12:38+00:00"
@@ -465,12 +476,23 @@
       "date": "2026-07-31T11:37:12+00:00"
     },
     {
+      "id": "hn-49121849",
+      "source": "hn",
+      "title": "Increasing the lifespan of a bulb makes it worse in every other way",
+      "url": "https://maurycyz.com/misc/tungsten/",
+      "score": 27,
+      "comments": 30,
+      "author": "tonyg",
+      "tags": [],
+      "date": "2026-07-31T11:34:24+00:00"
+    },
+    {
       "id": "hn-49121196",
       "source": "hn",
       "title": "Progressive Web Components",
       "url": "https://arielsalminen.com/2026/progressive-web-components/",
-      "score": 14,
-      "comments": 0,
+      "score": 46,
+      "comments": 5,
       "author": "hosteur",
       "tags": [],
       "date": "2026-07-31T10:04:40+00:00"
@@ -493,8 +515,8 @@
       "source": "hn",
       "title": "DeepSeek V4 Flash 0731 Intelligence, Performance and Price Analysis",
       "url": "https://artificialanalysis.ai/models/deepseek-v4-flash",
-      "score": 494,
-      "comments": 272,
+      "score": 506,
+      "comments": 279,
       "author": "theanonymousone",
       "tags": [],
       "date": "2026-07-31T07:59:11+00:00"
@@ -650,8 +672,8 @@
       "source": "hn",
       "title": "Let's make the worst Htmx",
       "url": "https://zserge.com/posts/worst-htmx-ever/",
-      "score": 28,
-      "comments": 8,
+      "score": 42,
+      "comments": 10,
       "author": "RebelPotato",
       "tags": [],
       "date": "2026-07-31T05:16:45+00:00"
@@ -834,6 +856,17 @@
       "date": "2026-07-30T23:22:16+00:00"
     },
     {
+      "id": "hn-49117089",
+      "source": "hn",
+      "title": "The Absurdity of Albert Camus",
+      "url": "https://www.historytoday.com/archive/portrait-author-historian/absurdity-albert-camus",
+      "score": 7,
+      "comments": 0,
+      "author": "apollinaire",
+      "tags": [],
+      "date": "2026-07-30T23:21:17+00:00"
+    },
+    {
       "id": "hn-49116922",
       "source": "hn",
       "title": "Investigating three real-world incidents in our cybersecurity evaluations",
@@ -901,6 +934,17 @@
       "tags": [],
       "date": "2026-07-30T19:34:27+00:00",
       "severity": "critical"
+    },
+    {
+      "id": "hn-49114527",
+      "source": "hn",
+      "title": "A past and future of trade secrets",
+      "url": "https://www.cabinetmagazine.org/issues/70/kofen.php",
+      "score": 4,
+      "comments": 0,
+      "author": "Hooke",
+      "tags": [],
+      "date": "2026-07-30T19:26:18+00:00"
     },
     {
       "id": "hn-49113929",
@@ -2406,6 +2450,17 @@
       "date": "2026-07-29T16:09:57+09:00"
     },
     {
+      "id": "hn-49094200",
+      "source": "hn",
+      "title": "Britain's New World of Tobacco (2017)",
+      "url": "https://www.historytoday.com/archive/feature/britains-new-world-tobacco",
+      "score": 5,
+      "comments": 0,
+      "author": "benbreen",
+      "tags": [],
+      "date": "2026-07-29T06:54:23+00:00"
+    },
+    {
       "id": "qiita-349ef3418b",
       "source": "zennqiita",
       "sub_source": "Qiita",
@@ -3156,8 +3211,8 @@
       "source": "hn",
       "title": "Twenty-five years ago it was cryptography, today it's model weights",
       "url": "https://weeraman.com/because-we-can/",
-      "score": 17,
-      "comments": 1,
+      "score": 74,
+      "comments": 18,
       "author": "aweeraman",
       "tags": [],
       "date": "2026-07-28T13:31:25+00:00"
@@ -3656,6 +3711,17 @@
         "Qiita"
       ],
       "date": "2026-07-28T09:48:23+09:00"
+    },
+    {
+      "id": "hn-49077723",
+      "source": "hn",
+      "title": "Hope and Defeat: John Berger",
+      "url": "https://newleftreview.org/sidecar/posts/hope-and-defeat",
+      "score": 4,
+      "comments": 0,
+      "author": "apollinaire",
+      "tags": [],
+      "date": "2026-07-28T00:35:38+00:00"
     },
     {
       "id": "hn-49077443",
@@ -5077,76 +5143,6 @@
       "date": "2026-07-26T16:56:06+00:00"
     },
     {
-      "id": "qiita-14c099be5c",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "「え！！Microsoft 365 Copilotでアプリ作成を！？」「出来らぁ！」",
-      "url": "https://qiita.com/Oyu3m/items/c5daff368bc75c79e7b0?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "Oyu3m",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-07-27T01:38:09+09:00"
-    },
-    {
-      "id": "hn-49059660",
-      "source": "hn",
-      "title": "What if LLMs escape through inferences itself? This is fiction. For now",
-      "url": "https://www.agrillo.it/EvasionEn.html",
-      "score": 23,
-      "comments": 34,
-      "author": "ConteMascetti71",
-      "tags": [],
-      "date": "2026-07-26T16:23:56+00:00"
-    },
-    {
-      "id": "qiita-e8b0ffdf12",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "[AWS] Managed KB ACLをRDBと自動同期させる",
-      "url": "https://qiita.com/kikuziro/items/85f0b4b6e7715f4ef92d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "kikuziro",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-07-27T00:57:59+09:00"
-    },
-    {
-      "id": "hn-49059418",
-      "source": "hn",
-      "title": "Make an Origami Circuit Board",
-      "url": "https://spectrum.ieee.org/origami-circuit-boards",
-      "score": 19,
-      "comments": 1,
-      "author": "ohjeez",
-      "tags": [],
-      "date": "2026-07-26T15:56:08+00:00"
-    },
-    {
-      "id": "hn-49059398",
-      "source": "hn",
-      "title": "Show HN: CheapSecurity – Lightweight, Self-Hosted CCTV for Linux SBCs",
-      "url": "https://github.com/gmrandazzo/CheapSecurity",
-      "score": 128,
-      "comments": 26,
-      "author": "zeldone",
-      "tags": [],
-      "date": "2026-07-26T15:53:55+00:00"
-    },
-    {
-      "id": "hn-49059367",
-      "source": "hn",
-      "title": "Design is compromise",
-      "url": "https://stephango.com/design-is-compromise",
-      "score": 246,
-      "comments": 81,
-      "author": "ankitg12",
-      "tags": [],
-      "date": "2026-07-26T15:51:12+00:00"
-    },
-    {
       "id": "ctf-4233874",
       "source": "project",
       "proj_category": "CTF",
@@ -5358,6 +5354,19 @@
       "date": "2023-05-23T17:06:23Z"
     },
     {
+      "id": "zenn-b76b40b4c5",
+      "source": "zennqiita",
+      "sub_source": "Zenn",
+      "title": "GitHubにスタックプルリクエストが登場。gh stackでPRを分割して積み上げよう",
+      "url": "https://zenn.dev/ubie_dev/articles/gh-stack-introduction",
+      "score": null,
+      "author": "鹿野 壮",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Fri, 31 Jul 2026 13:33:10 GMT"
+    },
+    {
       "id": "zenn-14a28db910",
       "source": "zennqiita",
       "sub_source": "Zenn",
@@ -5473,19 +5482,6 @@
         "Zenn"
       ],
       "date": "Wed, 29 Jul 2026 00:15:14 GMT"
-    },
-    {
-      "id": "zenn-4f5464b919",
-      "source": "zennqiita",
-      "sub_source": "Zenn",
-      "title": "NVIDIA DGX Spark でソフトウェア開発に最適な Gemma 4 モデルを検証する (31B vs 26B)",
-      "url": "https://zenn.dev/st_little/articles/gemma4-benchmark-dgx-spark",
-      "score": null,
-      "author": "little method",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Tue, 28 Jul 2026 13:56:04 GMT"
     },
     {
       "id": "zenn-35a97fb467",

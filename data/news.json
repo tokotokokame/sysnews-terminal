@@ -1,14 +1,104 @@
 {
-  "updated_at": "2026-07-31T02:45:33.010567+00:00",
+  "updated_at": "2026-07-31T06:12:41.855418+00:00",
   "count": 500,
   "items": [
+    {
+      "id": "hn-49119322",
+      "source": "hn",
+      "title": "Human Honeypot",
+      "url": "https://human2llm.pages.dev/",
+      "score": 4,
+      "comments": 1,
+      "author": "kevin_kraft",
+      "tags": [],
+      "date": "2026-07-31T05:26:13+00:00"
+    },
+    {
+      "id": "hn-49119274",
+      "source": "hn",
+      "title": "Show HN: What should the GUI for AI agents look like?",
+      "url": "https://marbleos.com/demo",
+      "score": 4,
+      "comments": 0,
+      "author": "akbabu",
+      "tags": [],
+      "date": "2026-07-31T05:17:29+00:00"
+    },
+    {
+      "id": "qiita-796176e591",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "C#で new を差し替える実験的モックツールを作っている話",
+      "url": "https://qiita.com/kaneko_desu/items/a75831913a96757444fa?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "kaneko_desu",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-07-31T13:42:03+09:00"
+    },
+    {
+      "id": "hn-49119063",
+      "source": "hn",
+      "title": "JEP 401: Value Objects (Preview) merged to OpenJDK master",
+      "url": "https://github.com/openjdk/jdk/pull/31120",
+      "score": 11,
+      "comments": 2,
+      "author": "mfiguiere",
+      "tags": [],
+      "date": "2026-07-31T04:38:19+00:00"
+    },
+    {
+      "id": "hn-49118933",
+      "source": "hn",
+      "title": "The AI trade now runs on borrowed money, and the lenders are repricing it",
+      "url": "https://greyswansignals.com/?theme=dark",
+      "score": 123,
+      "comments": 82,
+      "author": "haipothetical",
+      "tags": [],
+      "date": "2026-07-31T04:15:04+00:00"
+    },
+    {
+      "id": "hn-49118781",
+      "source": "hn",
+      "title": "The Session You Cannot take with you",
+      "url": "https://earendil.com/posts/session-portability/",
+      "score": 58,
+      "comments": 5,
+      "author": "apitman",
+      "tags": [],
+      "date": "2026-07-31T03:47:59+00:00"
+    },
+    {
+      "id": "hn-49118696",
+      "source": "hn",
+      "title": "The bond market isn't buying what Fed Chair Warsh is selling",
+      "url": "https://www.reuters.com/commentary/reuters-open-interest/bond-market-isnt-buying-what-fed-chair-warsh-is-selling-2026-07-30/",
+      "score": 104,
+      "comments": 33,
+      "author": "kaycebasques",
+      "tags": [],
+      "date": "2026-07-31T03:32:21+00:00"
+    },
+    {
+      "id": "hn-49118663",
+      "source": "hn",
+      "title": "A California aquifer may have crossed the point of no return",
+      "url": "https://www.science.org/content/article/california-aquifer-may-have-crossed-point-no-return",
+      "score": 118,
+      "comments": 90,
+      "author": "Jimmc414",
+      "tags": [],
+      "date": "2026-07-31T03:27:36+00:00"
+    },
     {
       "id": "hn-49117284",
       "source": "hn",
       "title": "The Religion of Speed",
       "url": "https://graybeard.ing/the-religion-of-speed/",
-      "score": 13,
-      "comments": 3,
+      "score": 79,
+      "comments": 23,
       "author": "MobiusHorizons",
       "tags": [],
       "date": "2026-07-30T23:43:22+00:00"
@@ -18,8 +108,8 @@
       "source": "hn",
       "title": "The AI Aesthetic",
       "url": "https://blog.jim-nielsen.com/2026/ai-aesthetic/",
-      "score": 138,
-      "comments": 67,
+      "score": 261,
+      "comments": 115,
       "author": "montroser",
       "tags": [],
       "date": "2026-07-30T23:22:16+00:00"
@@ -29,8 +119,8 @@
       "source": "hn",
       "title": "Investigating three real-world incidents in our cybersecurity evaluations",
       "url": "https://www.anthropic.com/news/investigating-incidents-cybersecurity-evals",
-      "score": 18,
-      "comments": 8,
+      "score": 156,
+      "comments": 106,
       "author": "surprisetalk",
       "tags": [],
       "date": "2026-07-30T23:00:51+00:00"
@@ -40,8 +130,8 @@
       "source": "hn",
       "title": "I flagged two research papers for fake authors and both were accepted as orals",
       "url": "https://geospatialml.com/posts/reviewing-ai-slop/",
-      "score": 102,
-      "comments": 38,
+      "score": 151,
+      "comments": 62,
       "author": "volumes94",
       "tags": [],
       "date": "2026-07-30T22:33:11+00:00"
@@ -51,8 +141,8 @@
       "source": "hn",
       "title": "Rune 1.1: adds Python, an Emacs editor, a symbol index and is now free",
       "url": "https://rune.build/blog/rune-1-1-release",
-      "score": 51,
-      "comments": 17,
+      "score": 72,
+      "comments": 23,
       "author": "ernestrc",
       "tags": [],
       "date": "2026-07-30T21:47:31+00:00"
@@ -73,8 +163,8 @@
       "source": "hn",
       "title": "Agent Skill to Force Docs in ASD-STE100 Simplified Technical English",
       "url": "https://github.com/AminBlg/SimpleEnglish",
-      "score": 217,
-      "comments": 81,
+      "score": 272,
+      "comments": 96,
       "author": "navs",
       "tags": [],
       "date": "2026-07-30T19:34:27+00:00",
@@ -85,8 +175,8 @@
       "source": "hn",
       "title": "UEFA and its national associations will not participate in FIFA competitions",
       "url": "https://www.uefa.com/news-media/news/02a7-213a92896eb0-54dfbf454e3b-1000--statement-on-behalf-of-uefa-and-its-55-national-associations/",
-      "score": 820,
-      "comments": 444,
+      "score": 913,
+      "comments": 489,
       "author": "dickfickling",
       "tags": [],
       "date": "2026-07-30T18:40:52+00:00"
@@ -140,8 +230,8 @@
       "source": "hn",
       "title": "CodePen 2.0",
       "url": "https://chriscoyier.net/2026/07/30/codepen-2-0/",
-      "score": 138,
-      "comments": 42,
+      "score": 155,
+      "comments": 44,
       "author": "robin_reala",
       "tags": [],
       "date": "2026-07-30T17:52:51+00:00"
@@ -173,8 +263,8 @@
       "source": "hn",
       "title": "Read this before you buy that TV streaming stick",
       "url": "https://krebsonsecurity.com/2026/07/read-this-before-you-buy-that-tv-streaming-stick/",
-      "score": 588,
-      "comments": 346,
+      "score": 661,
+      "comments": 379,
       "author": "speckx",
       "tags": [],
       "date": "2026-07-30T17:04:53+00:00"
@@ -217,8 +307,8 @@
       "source": "hn",
       "title": "Stacked PRs are now live on GitHub",
       "url": "https://github.blog/changelog/2026-07-30-stacked-pull-requests-are-now-in-public-preview/",
-      "score": 488,
-      "comments": 167,
+      "score": 574,
+      "comments": 191,
       "author": "tomzorz",
       "tags": [],
       "date": "2026-07-30T16:26:16+00:00"
@@ -252,8 +342,8 @@
       "source": "hn",
       "title": "Physicists Solve a Muon Mystery. Now, Old Results Don't Add Up",
       "url": "https://www.quantamagazine.org/physicists-solve-a-muon-mystery-now-old-results-dont-add-up-20260729/",
-      "score": 183,
-      "comments": 98,
+      "score": 200,
+      "comments": 118,
       "author": "ibobev",
       "tags": [],
       "date": "2026-07-30T15:22:46+00:00"
@@ -263,8 +353,8 @@
       "source": "hn",
       "title": "Gemini Robotics 2 brings whole body intelligence to robots",
       "url": "https://deepmind.google/blog/gemini-robotics-2-brings-whole-body-intelligence-to-robots/",
-      "score": 485,
-      "comments": 397,
+      "score": 525,
+      "comments": 420,
       "author": "ai2027",
       "tags": [],
       "date": "2026-07-30T15:15:48+00:00"
@@ -274,8 +364,8 @@
       "source": "hn",
       "title": "The Economic Benefit of Refactoring",
       "url": "https://martinfowler.com/articles/exploring-gen-ai/refactoring-economic-benefit.html",
-      "score": 199,
-      "comments": 81,
+      "score": 227,
+      "comments": 90,
       "author": "javaeeeee",
       "tags": [],
       "date": "2026-07-30T15:10:27+00:00"
@@ -461,8 +551,8 @@
       "source": "hn",
       "title": "GCC steering committee announces AI policy",
       "url": "https://lwn.net/Articles/1086041/",
-      "score": 244,
-      "comments": 289,
+      "score": 272,
+      "comments": 307,
       "author": "arto",
       "tags": [],
       "date": "2026-07-30T11:45:44+00:00"
@@ -615,19 +705,6 @@
         "Qiita"
       ],
       "date": "2026-07-30T15:47:37+09:00"
-    },
-    {
-      "id": "qiita-796176e591",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "C#で new を差し替える実験的モックツールを作っている話",
-      "url": "https://qiita.com/kaneko_desu/items/a75831913a96757444fa?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "kaneko_desu",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-07-30T15:43:45+09:00"
     },
     {
       "id": "qiita-e6a4499465",
@@ -1352,6 +1429,17 @@
       "author": "Canopy9560",
       "tags": [],
       "date": "2026-07-29T11:44:33+00:00"
+    },
+    {
+      "id": "hn-49096170",
+      "source": "hn",
+      "title": "The mean means nothing: data visualization to debug a latency problem",
+      "url": "https://fzakaria.com/2026/07/27/the-mean-means-nothing",
+      "score": 4,
+      "comments": 0,
+      "author": "fanf2",
+      "tags": [],
+      "date": "2026-07-29T11:42:04+00:00"
     },
     {
       "id": "qiita-ded7f06e34",
@@ -2740,6 +2828,17 @@
       "date": "2026-07-28T00:06:53+00:00"
     },
     {
+      "id": "hn-49077372",
+      "source": "hn",
+      "title": "Where USB Memory Sticks Are Born",
+      "url": "https://www.bunniestudios.com/blog/2013/where-usb-memory-sticks-are-born/",
+      "score": 21,
+      "comments": 2,
+      "author": "jacquesm",
+      "tags": [],
+      "date": "2026-07-27T23:59:37+00:00"
+    },
+    {
       "id": "hn-49077209",
       "source": "hn",
       "title": "The Burau representation of the braid group is faithful for n = 4",
@@ -3072,8 +3171,8 @@
       "source": "hn",
       "title": "The American Grilled Cheese Sandwich Essay (2024)",
       "url": "https://buttondown.com/theswordandthesandwich/archive/the-best-american-grilled-cheese-sandwich-essay/",
-      "score": 20,
-      "comments": 4,
+      "score": 41,
+      "comments": 29,
       "author": "NaOH",
       "tags": [],
       "date": "2026-07-27T17:37:32+00:00"
@@ -3149,8 +3248,8 @@
       "source": "hn",
       "title": "Bad Apple but It's Traceroute",
       "url": "https://jssfr.de/2026-07-27-bad-apple-but-traceroute.html",
-      "score": 70,
-      "comments": 15,
+      "score": 91,
+      "comments": 22,
       "author": "jssfr",
       "tags": [],
       "date": "2026-07-27T15:48:09+00:00"
@@ -5054,107 +5153,6 @@
       "date": "2026-07-26T00:07:35+09:00"
     },
     {
-      "id": "hn-49048034",
-      "source": "hn",
-      "title": "Open-weight AI is having its Kubernetes moment",
-      "url": "https://tobi.knaup.me/2026-07-25-open-weight-ai-is-having-its-kubernetes-moment/",
-      "score": 356,
-      "comments": 279,
-      "author": "tknaup",
-      "tags": [],
-      "date": "2026-07-25T14:49:49+00:00"
-    },
-    {
-      "id": "qiita-7a21f27b98",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "Git Worktree実践ガイド：割り込み作業を爆速化する並行開発戦略",
-      "url": "https://qiita.com/DaokFrontier/items/4cfec90751a893009ac8?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "DaokFrontier",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-07-25T23:46:02+09:00"
-    },
-    {
-      "id": "hn-49047839",
-      "source": "hn",
-      "title": "2x, not 10x: coding with LLMs in 2026",
-      "url": "https://obryant.dev/p/2x-not-10x/",
-      "score": 220,
-      "comments": 172,
-      "author": "tnisonoff",
-      "tags": [],
-      "date": "2026-07-25T14:27:05+00:00"
-    },
-    {
-      "id": "hn-49047707",
-      "source": "hn",
-      "title": "Scanwheel is a drum style mechanical television you can build yourself",
-      "url": "https://github.com/AncientJames/Scanwheel/",
-      "score": 27,
-      "comments": 5,
-      "author": "tobr",
-      "tags": [],
-      "date": "2026-07-25T14:10:43+00:00"
-    },
-    {
-      "id": "hn-49047692",
-      "source": "hn",
-      "title": "London’s most equidistant pub",
-      "url": "https://equidistance.io/londons-most-equidistant-pub/",
-      "score": 59,
-      "comments": 33,
-      "author": "lambfruit",
-      "tags": [],
-      "date": "2026-07-25T14:08:57+00:00"
-    },
-    {
-      "id": "hn-49047563",
-      "source": "hn",
-      "title": "The Silurian Hypothesis (2020)",
-      "url": "https://www.theparisreview.org/blog/2020/01/23/the-silurian-hypothesis/",
-      "score": 50,
-      "comments": 93,
-      "author": "andsoitis",
-      "tags": [],
-      "date": "2026-07-25T13:48:11+00:00"
-    },
-    {
-      "id": "hn-49047516",
-      "source": "hn",
-      "title": "My web version of Mars MIPS, now has built-in C compiler",
-      "url": "https://webmars.nfiles.top/",
-      "score": 29,
-      "comments": 6,
-      "author": "nenepbl",
-      "tags": [],
-      "date": "2026-07-25T13:42:28+00:00"
-    },
-    {
-      "id": "hn-49047453",
-      "source": "hn",
-      "title": "A shell colon does nothing. Use it anyway",
-      "url": "https://refp.se/articles/your-shell-and-the-magic-colon",
-      "score": 358,
-      "comments": 153,
-      "author": "olexsmir",
-      "tags": [],
-      "date": "2026-07-25T13:33:49+00:00"
-    },
-    {
-      "id": "hn-49047365",
-      "source": "hn",
-      "title": "Bitchat is now on Radicle",
-      "url": "https://radicle.network/nodes/rosa.radicle.network/rad%3Az2v9tRJz1oknFAqCSY5W5c76nVvm6",
-      "score": 190,
-      "comments": 117,
-      "author": "h1watt",
-      "tags": [],
-      "date": "2026-07-25T13:18:49+00:00"
-    },
-    {
       "id": "ctf-3782036",
       "source": "project",
       "proj_category": "CTF",
@@ -5364,6 +5362,19 @@
       "date": "Thu, 30 Jul 2026 12:16:48 GMT"
     },
     {
+      "id": "zenn-a2cc046847",
+      "source": "zennqiita",
+      "sub_source": "Zenn",
+      "title": "0.5くらいから始めるPersonal Knowledge Base 構築実践",
+      "url": "https://zenn.dev/mkj/articles/claudian-orchestra-build_20260720",
+      "score": null,
+      "author": "Taisei Ozaki",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Thu, 30 Jul 2026 08:00:05 GMT"
+    },
+    {
       "id": "zenn-b286a63eda",
       "source": "zennqiita",
       "sub_source": "Zenn",
@@ -5557,19 +5568,6 @@
         "Zenn"
       ],
       "date": "Mon, 27 Jul 2026 00:31:05 GMT"
-    },
-    {
-      "id": "zenn-ab3059319a",
-      "source": "zennqiita",
-      "sub_source": "Zenn",
-      "title": "エンジニアの習熟度は、トークン消費量として露呈していく",
-      "url": "https://zenn.dev/kaji_kaji/articles/token-management-as-ai-proficiency",
-      "score": null,
-      "author": "Kaji",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Mon, 27 Jul 2026 00:00:08 GMT"
     },
     {
       "id": "zenn-a5957548fa",

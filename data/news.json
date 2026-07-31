@@ -1,7 +1,117 @@
 {
-  "updated_at": "2026-07-31T18:03:35.993085+00:00",
+  "updated_at": "2026-07-31T20:02:30.880515+00:00",
   "count": 500,
   "items": [
+    {
+      "id": "hn-49127306",
+      "source": "hn",
+      "title": "Tailscale didn't stop the Hugging Face intrusion",
+      "url": "https://tailscale.com/blog/hugging-face-intrusion",
+      "score": 68,
+      "comments": 32,
+      "author": "bluehatbrit",
+      "tags": [],
+      "date": "2026-07-31T19:03:45+00:00"
+    },
+    {
+      "id": "hn-49127205",
+      "source": "hn",
+      "title": "Nuclear Waste Cleanup: DOE Is Missing Opportunities to Apply Lessons",
+      "url": "https://www.gao.gov/products/gao-26-108082",
+      "score": 8,
+      "comments": 3,
+      "author": "Jimmc414",
+      "tags": [],
+      "date": "2026-07-31T18:54:13+00:00"
+    },
+    {
+      "id": "hn-49127031",
+      "source": "hn",
+      "title": "Golang proposal: container/: generic collection types",
+      "url": "https://github.com/golang/go/issues/80590",
+      "score": 27,
+      "comments": 3,
+      "author": "jabits",
+      "tags": [],
+      "date": "2026-07-31T18:39:47+00:00"
+    },
+    {
+      "id": "hn-49126943",
+      "source": "hn",
+      "title": "Orca-Bench: How Ready Are Language Model Agents for Oncall?",
+      "url": "https://arxiv.org/abs/2607.28545",
+      "score": 11,
+      "comments": 3,
+      "author": "yruzin",
+      "tags": [],
+      "date": "2026-07-31T18:32:43+00:00"
+    },
+    {
+      "id": "hn-49126919",
+      "source": "hn",
+      "title": "Using the railway network as a flatbed scanner [video]",
+      "url": "https://media.ccc.de/v/emf2026-74-1-using-the-railway-network-as-a-flatbed-scanner",
+      "score": 13,
+      "comments": 5,
+      "author": "Jimmc414",
+      "tags": [],
+      "date": "2026-07-31T18:30:44+00:00"
+    },
+    {
+      "id": "hn-49126883",
+      "source": "hn",
+      "title": "Termixer (TUI DJ Mixer)",
+      "url": "https://github.com/l00sed/termixer",
+      "score": 23,
+      "comments": 11,
+      "author": "l00sed",
+      "tags": [],
+      "date": "2026-07-31T18:28:08+00:00"
+    },
+    {
+      "id": "hn-49126765",
+      "source": "hn",
+      "title": "June in Servo: real world compat, media queries, SharedWorker, and more",
+      "url": "https://servo.org/blog/2026/07/31/june-in-servo/",
+      "score": 17,
+      "comments": 0,
+      "author": "iamnothere",
+      "tags": [],
+      "date": "2026-07-31T18:17:52+00:00"
+    },
+    {
+      "id": "hn-49126630",
+      "source": "hn",
+      "title": "Everyone is building LLM routers, we deprecated ours",
+      "url": "https://manifest.build/blog/why-we-deprecated-our-llm-router/",
+      "score": 28,
+      "comments": 14,
+      "author": "brunaxLorax",
+      "tags": [],
+      "date": "2026-07-31T18:06:39+00:00"
+    },
+    {
+      "id": "hn-49126604",
+      "source": "hn",
+      "title": "qm",
+      "url": "https://github.com/yc-software/qm",
+      "score": 159,
+      "comments": 42,
+      "author": "tosh",
+      "tags": [],
+      "date": "2026-07-31T18:04:58+00:00"
+    },
+    {
+      "id": "hn-49125971",
+      "source": "hn",
+      "title": "Severance",
+      "url": "https://lcamtuf.substack.com/p/severance",
+      "score": 49,
+      "comments": 13,
+      "author": "surprisetalk",
+      "tags": [],
+      "date": "2026-07-31T17:15:09+00:00"
+    },
     {
       "id": "hn-49125785",
       "source": "hn",
@@ -29,8 +139,8 @@
       "source": "hn",
       "title": "Getting 25 Gbps Thunderbolt Ethernet on My Mac Studio",
       "url": "https://www.jeffgeerling.com/blog/2026/getting-25g-ethernet-mac-thunderbolt/",
-      "score": 38,
-      "comments": 22,
+      "score": 81,
+      "comments": 50,
       "author": "speckx",
       "tags": [],
       "date": "2026-07-31T16:15:31+00:00"
@@ -51,8 +161,8 @@
       "source": "hn",
       "title": "Big Food vs. the People",
       "url": "https://www.lighthousereports.com/investigation/big-food-vs-the-people/",
-      "score": 80,
-      "comments": 30,
+      "score": 124,
+      "comments": 78,
       "author": "jruohonen",
       "tags": [],
       "date": "2026-07-31T16:04:32+00:00"
@@ -106,8 +216,8 @@
       "source": "hn",
       "title": "Algorithms on billion-scale graph using 10GB RAM: I love DataFusion",
       "url": "https://semyonsinchenko.github.io/ssinchenko/post/datafusion-graphs-cc-2/",
-      "score": 35,
-      "comments": 8,
+      "score": 63,
+      "comments": 17,
       "author": "speckx",
       "tags": [],
       "date": "2026-07-31T15:53:37+00:00"
@@ -117,7 +227,7 @@
       "source": "hn",
       "title": "The Art of Decision-Making (2019)",
       "url": "https://www.newyorker.com/magazine/2019/01/21/the-art-of-decision-making",
-      "score": 18,
+      "score": 28,
       "comments": 2,
       "author": "EndXA",
       "tags": [],
@@ -128,8 +238,8 @@
       "source": "hn",
       "title": "A GTK4 SSH-askpass in Zig",
       "url": "https://xn--gckvb8fzb.com/a-gtk4-ssh-askpass-in-zig/",
-      "score": 35,
-      "comments": 9,
+      "score": 47,
+      "comments": 16,
       "author": "surprisetalk",
       "tags": [],
       "date": "2026-07-31T15:40:13+00:00"
@@ -161,8 +271,8 @@
       "source": "hn",
       "title": "13 Models and 4 Agents on SWE Tasks: Go, Java, Python, Rust, TS",
       "url": "https://swe-rebench.com",
-      "score": 19,
-      "comments": 6,
+      "score": 30,
+      "comments": 11,
       "author": "ibragim_bad",
       "tags": [],
       "date": "2026-07-31T15:28:28+00:00"
@@ -183,8 +293,8 @@
       "source": "hn",
       "title": "Elevators",
       "url": "https://john.fun/elevators",
-      "score": 379,
-      "comments": 130,
+      "score": 597,
+      "comments": 159,
       "author": "Jrh0203",
       "tags": [],
       "date": "2026-07-31T15:17:28+00:00"
@@ -216,8 +326,8 @@
       "source": "hn",
       "title": "Run Kimi K3 using 29 GB of RAM at 0.50 tok/s",
       "url": "https://github.com/sqliteai/waste",
-      "score": 28,
-      "comments": 5,
+      "score": 76,
+      "comments": 24,
       "author": "marcobambini",
       "tags": [],
       "date": "2026-07-31T14:12:38+00:00"
@@ -249,8 +359,8 @@
       "source": "hn",
       "title": "The C ``Clockwise/Spiral Rule''",
       "url": "https://c-faq.com/decl/spiral.anderson.html",
-      "score": 37,
-      "comments": 15,
+      "score": 51,
+      "comments": 37,
       "author": "etrvic",
       "tags": [],
       "date": "2026-07-31T13:56:31+00:00"
@@ -258,14 +368,13 @@
     {
       "id": "hn-49122882",
       "source": "hn",
-      "title": "Anti-fraud tools can't keep pace with scammers exploiting cheap internet calling",
+      "title": "Anti-fraud tools can't keep pace with robocall scammers",
       "url": "https://broadbandbreakfast.com/how-to-fight-back-against-fraudulent-robocalls/",
-      "score": 31,
-      "comments": 28,
+      "score": 47,
+      "comments": 63,
       "author": "dredmorbius",
       "tags": [],
-      "date": "2026-07-31T13:28:05+00:00",
-      "severity": "high"
+      "date": "2026-07-31T13:28:05+00:00"
     },
     {
       "id": "hn-49122105",
@@ -294,8 +403,8 @@
       "source": "hn",
       "title": "The End of an Era",
       "url": "https://hughhowey.com/the-end-of-an-era/",
-      "score": 316,
-      "comments": 350,
+      "score": 351,
+      "comments": 386,
       "author": "harscoat",
       "tags": [],
       "date": "2026-07-31T11:51:46+00:00"
@@ -316,8 +425,8 @@
       "source": "hn",
       "title": "DeepSeek V4 Flash 0731 Intelligence, Performance and Price Analysis",
       "url": "https://artificialanalysis.ai/models/deepseek-v4-flash",
-      "score": 431,
-      "comments": 230,
+      "score": 471,
+      "comments": 255,
       "author": "theanonymousone",
       "tags": [],
       "date": "2026-07-31T07:59:11+00:00"
@@ -363,8 +472,8 @@
       "source": "hn",
       "title": "DeepSeek-V4-Flash Update",
       "url": "https://api-docs.deepseek.com/updates/",
-      "score": 568,
-      "comments": 276,
+      "score": 621,
+      "comments": 298,
       "author": "dnhkng",
       "tags": [],
       "date": "2026-07-31T06:08:36+00:00",
@@ -3884,8 +3993,8 @@
       "source": "hn",
       "title": "How JPEG works: Interactively explore JPEG's lossy compression methods",
       "url": "https://cgjennings.ca/articles/jpeg-compression/",
-      "score": 18,
-      "comments": 0,
+      "score": 53,
+      "comments": 4,
       "author": "at1as",
       "tags": [],
       "date": "2026-07-27T15:11:14+00:00"
@@ -5036,108 +5145,6 @@
       "date": "2026-07-26T11:53:17+00:00"
     },
     {
-      "id": "hn-49057130",
-      "source": "hn",
-      "title": "The first watch featuring computer functions",
-      "url": "https://by.seiko-design.com/140th/en/topic/58.html",
-      "score": 37,
-      "comments": 12,
-      "author": "stefanv",
-      "tags": [],
-      "date": "2026-07-26T11:46:32+00:00"
-    },
-    {
-      "id": "qiita-a944cb991c",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "SQLServerの日本語テーブル・列構成とレコードをSQLite３にお引越し",
-      "url": "https://qiita.com/mylifewithviolin/items/55933ef08fb62d292204?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "mylifewithviolin",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-07-26T20:36:27+09:00"
-    },
-    {
-      "id": "hn-49056808",
-      "source": "hn",
-      "title": "An OpenAI model left notes about how to evade containment; we need more details",
-      "url": "https://www.lesswrong.com/posts/jMEAG5c5HiDfdAGpa/an-openai-model-left-notes-about-how-to-evade-containment-we",
-      "score": 11,
-      "comments": 7,
-      "author": "joozio",
-      "tags": [],
-      "date": "2026-07-26T11:00:54+00:00"
-    },
-    {
-      "id": "hn-49056620",
-      "source": "hn",
-      "title": "Terence Tao: Mathematics in the Age of AI [pdf]",
-      "url": "https://teorth.github.io/tao-web/slides/age-of-ai-icm-2026.pdf",
-      "score": 46,
-      "comments": 16,
-      "author": "Anon84",
-      "tags": [],
-      "date": "2026-07-26T10:32:35+00:00"
-    },
-    {
-      "id": "hn-49056424",
-      "source": "hn",
-      "title": "No Stack Overflow, No Autocomplete: What Coding Felt Like in the 80s",
-      "url": "https://comuniq.xyz/post?t=1439",
-      "score": 9,
-      "comments": 4,
-      "author": "01-_-",
-      "tags": [],
-      "date": "2026-07-26T09:58:11+00:00"
-    },
-    {
-      "id": "hn-49056351",
-      "source": "hn",
-      "title": "Systemd Linger",
-      "url": "https://etbe.coker.com.au/2026/07/24/systemd-linger/",
-      "score": 10,
-      "comments": 0,
-      "author": "edward",
-      "tags": [],
-      "date": "2026-07-26T09:43:13+00:00"
-    },
-    {
-      "id": "hn-49056194",
-      "source": "hn",
-      "title": "Elevated Errors for Opus 5",
-      "url": "https://status.claude.com/incidents/zftg3gqkmv18",
-      "score": 77,
-      "comments": 64,
-      "author": "TimCTRL",
-      "tags": [],
-      "date": "2026-07-26T09:18:34+00:00"
-    },
-    {
-      "id": "hn-49056112",
-      "source": "hn",
-      "title": "Ruff v0.16.0 – Significant new updates – 413 default rules up from 59",
-      "url": "https://astral.sh/blog/ruff-v0.16.0",
-      "score": 295,
-      "comments": 179,
-      "author": "vismit2000",
-      "tags": [],
-      "date": "2026-07-26T09:01:39+00:00",
-      "severity": "medium"
-    },
-    {
-      "id": "hn-49055816",
-      "source": "hn",
-      "title": "Teach yourself programming in ten years (1998)",
-      "url": "https://www.norvig.com/21-days.html",
-      "score": 157,
-      "comments": 94,
-      "author": "vinhnx",
-      "tags": [],
-      "date": "2026-07-26T08:06:45+00:00"
-    },
-    {
       "id": "ctf-4233874",
       "source": "project",
       "proj_category": "CTF",
@@ -5151,17 +5158,6 @@
       ],
       "date": "2026-07-26T01:05:25Z",
       "severity": "critical"
-    },
-    {
-      "id": "hn-49048452",
-      "source": "hn",
-      "title": "IMAX vs. IMAX 70mm: The difference between these two cinema formats",
-      "url": "https://www.engadget.com/2220571/differences-between-imax-70mm/",
-      "score": 58,
-      "comments": 79,
-      "author": "ksec",
-      "tags": [],
-      "date": "2026-07-25T15:33:10+00:00"
     },
     {
       "id": "ctf-3782036",

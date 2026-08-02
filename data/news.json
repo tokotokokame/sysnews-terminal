@@ -1,7 +1,41 @@
 {
-  "updated_at": "2026-08-02T19:42:33.135507+00:00",
+  "updated_at": "2026-08-02T20:54:49.026773+00:00",
   "count": 500,
   "items": [
+    {
+      "id": "hn-49147622",
+      "source": "hn",
+      "title": "My personal AI benchmark: \"Generate an SVG of a frog with a Habsburg jaw.\"",
+      "url": "https://frogs.vaguespac.es/",
+      "score": 22,
+      "comments": 11,
+      "author": "thebigship",
+      "tags": [],
+      "date": "2026-08-02T19:42:08+00:00"
+    },
+    {
+      "id": "hn-49147606",
+      "source": "hn",
+      "title": "EU rules on AI models become enforceable. What's going to change?",
+      "url": "https://www.euronews.com/my-europe/2026/08/02/eu-rules-on-ai-models-become-enforceable-whats-going-to-change",
+      "score": 29,
+      "comments": 24,
+      "author": "devonnull",
+      "tags": [],
+      "date": "2026-08-02T19:40:19+00:00",
+      "severity": "critical"
+    },
+    {
+      "id": "hn-49147450",
+      "source": "hn",
+      "title": "Europe EV Sales BEVs Jump 50% & Reach 26% Market Share",
+      "url": "https://cleantechnica.com/2026/08/02/europe-ev-sales-report-bevs-jump-50-reach-26-market-share/",
+      "score": 35,
+      "comments": 13,
+      "author": "01-_-",
+      "tags": [],
+      "date": "2026-08-02T19:20:50+00:00"
+    },
     {
       "id": "hn-49147263",
       "source": "hn",
@@ -29,8 +63,8 @@
       "source": "hn",
       "title": "Harvesting SSH Credentials: Insights from My Honeypot Network",
       "url": "https://uphillsecurity.com/articles/harvesting-ssh-credentials-insights-from-my-honeypot-network/",
-      "score": 19,
-      "comments": 11,
+      "score": 25,
+      "comments": 16,
       "author": "whatbackup",
       "tags": [],
       "date": "2026-08-02T17:45:51+00:00"
@@ -40,8 +74,8 @@
       "source": "hn",
       "title": "Show HN: NixOS-DGX-Spark – Nix and NixOS on the DGX Spark",
       "url": "https://github.com/graham33/nixos-dgx-spark",
-      "score": 47,
-      "comments": 12,
+      "score": 62,
+      "comments": 16,
       "author": "graham33",
       "tags": [],
       "date": "2026-08-02T17:05:54+00:00"
@@ -73,8 +107,8 @@
       "source": "hn",
       "title": "Show HN: Kakehashi – Experimental userspace to run macOS binaries on Linux ARM",
       "url": "https://github.com/wie-project/kakehashi",
-      "score": 89,
-      "comments": 26,
+      "score": 112,
+      "comments": 27,
       "author": "vlad_kalinkin",
       "tags": [],
       "date": "2026-08-02T16:26:40+00:00"
@@ -84,8 +118,8 @@
       "source": "hn",
       "title": "Rooting, firmware analysis and persistent credentials of TP-Link TL-841N",
       "url": "https://blog.juni-mp4.com/posts/42/rooting-the-tplink-tl841n-pt1/",
-      "score": 54,
-      "comments": 7,
+      "score": 60,
+      "comments": 8,
       "author": "mindracer",
       "tags": [],
       "date": "2026-08-02T16:19:17+00:00"
@@ -95,8 +129,8 @@
       "source": "hn",
       "title": "How the words we teach English language learners changed",
       "url": "https://pudding.cool/2026/07/essential-words/",
-      "score": 147,
-      "comments": 83,
+      "score": 166,
+      "comments": 94,
       "author": "c-oreills",
       "tags": [],
       "date": "2026-08-02T15:41:08+00:00"
@@ -126,6 +160,19 @@
       "date": "2026-08-02T22:34:15+09:00"
     },
     {
+      "id": "qiita-ffa73c633d",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "Claude Code × AWS MCP Serverによるマルチアカウント操作",
+      "url": "https://qiita.com/eureka_/items/cf4b7690dab316cceb1d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "eureka_",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-08-02T22:24:22+09:00"
+    },
+    {
       "id": "hn-49144273",
       "source": "hn",
       "title": "Has the New Cocaine Arrived?",
@@ -141,7 +188,7 @@
       "source": "hn",
       "title": "Twenty Years of RISC OS Open",
       "url": "https://www.riscosopen.org/news/articles/2026/06/20/twenty-years-of-risc-os-open",
-      "score": 121,
+      "score": 131,
       "comments": 20,
       "author": "AlexeyBrin",
       "tags": [],
@@ -152,8 +199,8 @@
       "source": "hn",
       "title": "F*: A general-purpose proof-oriented programming language",
       "url": "https://fstar-lang.org/",
-      "score": 113,
-      "comments": 37,
+      "score": 124,
+      "comments": 48,
       "author": "ducktective",
       "tags": [],
       "date": "2026-08-02T12:31:16+00:00"
@@ -174,8 +221,8 @@
       "source": "hn",
       "title": "Meshdiff – visually compare two STL versions in the browser, client-side",
       "url": "https://meshdiff.com/",
-      "score": 148,
-      "comments": 14,
+      "score": 155,
+      "comments": 15,
       "author": "projscope",
       "tags": [],
       "date": "2026-08-02T11:34:41+00:00"
@@ -196,8 +243,8 @@
       "source": "hn",
       "title": "Show HN: Fuse – statically typed functional programming language",
       "url": "https://fuselang.org",
-      "score": 82,
-      "comments": 17,
+      "score": 89,
+      "comments": 26,
       "author": "the_unproven",
       "tags": [],
       "date": "2026-08-02T11:23:56+00:00"
@@ -262,11 +309,24 @@
       "source": "hn",
       "title": "Artificial Intelligence: Ars Notoria and the Promise of Instant Knowledge",
       "url": "https://publicdomainreview.org/essay/ars-notoria/",
-      "score": 109,
-      "comments": 26,
+      "score": 115,
+      "comments": 27,
       "author": "jruohonen",
       "tags": [],
       "date": "2026-08-02T10:18:24+00:00"
+    },
+    {
+      "id": "qiita-d815412637",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "Podcast Client って作れるんですけど知ってました？",
+      "url": "https://qiita.com/i-icc/items/f505055cbc13f03b1fd7?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "i-icc",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-08-02T18:50:28+09:00"
     },
     {
       "id": "hn-49142794",
@@ -297,7 +357,7 @@
       "source": "hn",
       "title": "Show HN: Bor – Open-source policy management for Linux desktops",
       "url": "https://getbor.dev/blog/2026-08-02-bor-v080-release/",
-      "score": 148,
+      "score": 153,
       "comments": 19,
       "author": "eniac111",
       "tags": [],
@@ -325,6 +385,19 @@
       "author": "mockerell",
       "tags": [],
       "date": "2026-08-02T07:57:52+00:00"
+    },
+    {
+      "id": "qiita-b90ff8a584",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "Claude Codeの権限モードを改めて確認してみました。",
+      "url": "https://qiita.com/moritalous/items/9e9fcae121ec4d44e6de?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "moritalous",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-08-02T16:56:12+09:00"
     },
     {
       "id": "hn-49142083",
@@ -418,6 +491,19 @@
       "date": "2026-08-02T06:56:38+00:00"
     },
     {
+      "id": "qiita-307f0c8c75",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "DeepSeek V4 Flash 0731 のロスレスMXFP4版をSSDストリーミングで動かしてみた",
+      "url": "https://qiita.com/sukimaengineer/items/c97f3e6aafdc63b7ac17?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "sukimaengineer",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-08-02T14:46:41+09:00"
+    },
+    {
       "id": "qiita-5f9a1fa3a9",
       "source": "zennqiita",
       "sub_source": "Qiita",
@@ -446,8 +532,8 @@
       "source": "hn",
       "title": "Karpathy’s Pelican",
       "url": "https://twitter.com/karpathy/status/2083749667410727319",
-      "score": 203,
-      "comments": 160,
+      "score": 264,
+      "comments": 210,
       "author": "delichon",
       "tags": [],
       "date": "2026-08-02T04:05:56+00:00"
@@ -534,8 +620,8 @@
       "source": "hn",
       "title": "Go 1.27 Interactive Tour",
       "url": "https://victoriametrics.com/blog/go-1-27/index.html",
-      "score": 332,
-      "comments": 163,
+      "score": 339,
+      "comments": 171,
       "author": "Hixon10",
       "tags": [],
       "date": "2026-08-02T01:35:51+00:00"
@@ -598,6 +684,19 @@
       "date": "2026-08-01T23:44:55+00:00"
     },
     {
+      "id": "qiita-6cdd59f267",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "Claude Code／Codexに中～大規模開発を任せるためのタスク管理",
+      "url": "https://qiita.com/Y-Y-dev/items/d526fb7cdbe35a3f9384?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "Y-Y-dev",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-08-02T08:38:39+09:00"
+    },
+    {
       "id": "hn-49139562",
       "source": "hn",
       "title": "A stray commit buried multiple levels deep cost me months",
@@ -629,6 +728,19 @@
       "author": "bhaktatejas922",
       "tags": [],
       "date": "2026-08-01T22:52:44+00:00"
+    },
+    {
+      "id": "qiita-e526184ac8",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "Genie Codeと学ぶDatabricks 第3回: Delta Lakeでわざと事故を起こして、タイムトラベルで戻す",
+      "url": "https://qiita.com/taka_yayoi/items/97c6f595a66d68de5d0c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "taka_yayoi",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-08-02T07:51:05+09:00"
     },
     {
       "id": "hn-49139304",
@@ -1208,6 +1320,19 @@
       "author": "giuliomagnifico",
       "tags": [],
       "date": "2026-08-01T05:38:16+00:00"
+    },
+    {
+      "id": "qiita-c4c03cefa9",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "SonarQubeのバージョンアップでjava:S5810のBug Issueが検知されるようになった経緯を調べたメモ",
+      "url": "https://qiita.com/gengen0719/items/cbd004cea9c313e8f50a?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "gengen0719",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-08-01T13:54:01+09:00"
     },
     {
       "id": "hn-49131034",
@@ -1796,7 +1921,7 @@
       "source": "hn",
       "title": "When transit passes were designed by hand (2022)",
       "url": "https://letterformarchive.org/news/milwaukee-transit-passes/",
-      "score": 61,
+      "score": 66,
       "comments": 18,
       "author": "nate",
       "tags": [],
@@ -1812,6 +1937,19 @@
       "author": "dredmorbius",
       "tags": [],
       "date": "2026-07-31T13:28:05+00:00"
+    },
+    {
+      "id": "qiita-6219fbb0ac",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "化合物の生成エネルギーワークフロー：Notebook からプラットフォーム自動化へ",
+      "url": "https://qiita.com/Yuliia/items/02a01e0ed5579ea52ca9?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "Yuliia",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-07-31T22:02:59+09:00"
     },
     {
       "id": "qiita-5bf9b00a62",
@@ -2636,6 +2774,17 @@
       "author": "ai2027",
       "tags": [],
       "date": "2026-07-30T15:15:48+00:00"
+    },
+    {
+      "id": "hn-49111194",
+      "source": "hn",
+      "title": "Schmitt Trigger: Robust Comparator Design with Hysteresis",
+      "url": "https://www.wevolver.com/article/schmitt-trigger-robust-comparator-design-with-hysteresis",
+      "score": 6,
+      "comments": 0,
+      "author": "ankitg12",
+      "tags": [],
+      "date": "2026-07-30T15:12:17+00:00"
     },
     {
       "id": "hn-49111176",
@@ -3785,8 +3934,8 @@
       "source": "hn",
       "title": "Developers are attached to tools because tools encode trust",
       "url": "https://stackoverflow.blog/2026/07/29/developers-are-attached-to-tools-because-tools-encode-trust/",
-      "score": 63,
-      "comments": 25,
+      "score": 82,
+      "comments": 36,
       "author": "HieronymusBosch",
       "tags": [],
       "date": "2026-07-29T14:25:54+00:00"
@@ -4167,8 +4316,8 @@
       "source": "hn",
       "title": "Fasttracker II clone in C using SDL 2",
       "url": "https://16-bits.org/ft2.php",
-      "score": 85,
-      "comments": 27,
+      "score": 103,
+      "comments": 31,
       "author": "andsoitis",
       "tags": [],
       "date": "2026-07-29T06:47:22+00:00"
@@ -4178,8 +4327,8 @@
       "source": "hn",
       "title": "Folding Paper Globes",
       "url": "https://foldingglobes.com/globes",
-      "score": 112,
-      "comments": 23,
+      "score": 121,
+      "comments": 27,
       "author": "dango2506",
       "tags": [],
       "date": "2026-07-29T05:53:00+00:00"
@@ -4929,8 +5078,8 @@
       "source": "hn",
       "title": "Note-Taking and Personal Knowledge Management",
       "url": "https://unattributed.cc/note-taking-and-personal-knowledge-management",
-      "score": 5,
-      "comments": 0,
+      "score": 41,
+      "comments": 9,
       "author": "surprisetalk",
       "tags": [],
       "date": "2026-07-28T14:21:10+00:00"
@@ -4982,140 +5131,6 @@
       "author": "rzk",
       "tags": [],
       "date": "2026-07-28T13:59:14+00:00"
-    },
-    {
-      "id": "hn-49083970",
-      "source": "hn",
-      "title": "Memo-1: A 6502 computer built from scratch, using a Minitel as its terminal",
-      "url": "https://github.com/MemoireMorte/Memo-1",
-      "score": 91,
-      "comments": 12,
-      "author": "sciences44",
-      "tags": [],
-      "date": "2026-07-28T13:56:27+00:00"
-    },
-    {
-      "id": "hn-49083634",
-      "source": "hn",
-      "title": "VMs can't boot with Network Mode set to Bridged on Apple M5 Pro machines",
-      "url": "https://github.com/utmapp/UTM/issues/7658",
-      "score": 27,
-      "comments": 11,
-      "author": "IndySun",
-      "tags": [],
-      "date": "2026-07-28T13:33:42+00:00"
-    },
-    {
-      "id": "qiita-c44ba89bd1",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "【ProcrastiNation】今日できることは明日でもできる、全力で先延ばしにしよう【Next.js】",
-      "url": "https://qiita.com/rana_kualu/items/7f6bb159f7d65e53620d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "rana_kualu",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-07-28T22:32:19+09:00"
-    },
-    {
-      "id": "hn-49083599",
-      "source": "hn",
-      "title": "Twenty-five years ago it was cryptography, today it's model weights",
-      "url": "https://weeraman.com/because-we-can/",
-      "score": 225,
-      "comments": 114,
-      "author": "aweeraman",
-      "tags": [],
-      "date": "2026-07-28T13:31:25+00:00"
-    },
-    {
-      "id": "hn-49083389",
-      "source": "hn",
-      "title": "Show HN: tale.fyi, we deserve a home for fiction",
-      "url": "https://tale.fyi/@sam/announcing-tale-fyi-read-or-listen-to-an-entire-book-from-a-single-link",
-      "score": 44,
-      "comments": 26,
-      "author": "samuelcole",
-      "tags": [],
-      "date": "2026-07-28T13:16:52+00:00"
-    },
-    {
-      "id": "hn-49083336",
-      "source": "hn",
-      "title": "Show HN: Ctrlb-decompose: Strip the noise from logs before sending to LLMs",
-      "url": "https://github.com/ctrlb-hq/ctrlb-decompose",
-      "score": 34,
-      "comments": 7,
-      "author": "ruhani_grover",
-      "tags": [],
-      "date": "2026-07-28T13:13:35+00:00"
-    },
-    {
-      "id": "hn-49083314",
-      "source": "hn",
-      "title": "New HIV vaccine shows unprecedented success in preclinical study",
-      "url": "https://www.lji.org/news-events/news/post/new-hiv-vaccine-shows-unprecedented-success-in-preclinical-study/",
-      "score": 537,
-      "comments": 233,
-      "author": "codebyaditya",
-      "tags": [],
-      "date": "2026-07-28T13:12:01+00:00"
-    },
-    {
-      "id": "hn-49083239",
-      "source": "hn",
-      "title": "Show HN: Formally verified 3D CSG: Trust 93 lines spec, not 1000 lines AI code",
-      "url": "https://github.com/schildep/verified-3d-mesh-intersection",
-      "score": 90,
-      "comments": 40,
-      "author": "permute",
-      "tags": [],
-      "date": "2026-07-28T13:07:14+00:00"
-    },
-    {
-      "id": "hn-49083207",
-      "source": "hn",
-      "title": "The First Idempotency Key",
-      "url": "https://hatchet.run/blog/first-idempotency-key",
-      "score": 19,
-      "comments": 3,
-      "author": "abelanger",
-      "tags": [],
-      "date": "2026-07-28T13:04:51+00:00"
-    },
-    {
-      "id": "hn-49083146",
-      "source": "hn",
-      "title": "Turtle-inspired interactive Python project",
-      "url": "https://www.codembark.com/projects/fv20lz9map/spider-web-drawing",
-      "score": 10,
-      "comments": 1,
-      "author": "camdenreslink",
-      "tags": [],
-      "date": "2026-07-28T13:00:56+00:00"
-    },
-    {
-      "id": "hn-49083141",
-      "source": "hn",
-      "title": "AWS Secrets Manager Terraform: Least-Privilege Access",
-      "url": "https://blog.victorsilva.com.uy/aws-secrets-manager-terraform-least-privilege/",
-      "score": 20,
-      "comments": 3,
-      "author": "meysamazad",
-      "tags": [],
-      "date": "2026-07-28T13:00:45+00:00"
-    },
-    {
-      "id": "hn-49083132",
-      "source": "hn",
-      "title": "What AI developers could learn from Charles Bukowski?",
-      "url": "https://galjot.si/what-ai-developers-could-learn-from-charles-bukowski",
-      "score": 54,
-      "comments": 39,
-      "author": "sedovsek",
-      "tags": [],
-      "date": "2026-07-28T13:00:12+00:00"
     },
     {
       "id": "ctf-4233874",

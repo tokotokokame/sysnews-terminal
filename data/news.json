@@ -1,7 +1,18 @@
 {
-  "updated_at": "2026-08-02T14:08:00.690173+00:00",
+  "updated_at": "2026-08-02T15:37:27.500510+00:00",
   "count": 500,
   "items": [
+    {
+      "id": "hn-49145201",
+      "source": "hn",
+      "title": "Ursula K. Le Guin: A Rant About \"Technology\" (2005)",
+      "url": "https://www.ursulakleguin.com/a-rant-about-technology",
+      "score": 54,
+      "comments": 14,
+      "author": "jamesgill",
+      "tags": [],
+      "date": "2026-08-02T14:51:18+00:00"
+    },
     {
       "id": "qiita-ccda09a57e",
       "source": "zennqiita",
@@ -31,8 +42,8 @@
       "source": "hn",
       "title": "Twenty Years of RISC OS Open",
       "url": "https://www.riscosopen.org/news/articles/2026/06/20/twenty-years-of-risc-os-open",
-      "score": 40,
-      "comments": 3,
+      "score": 71,
+      "comments": 10,
       "author": "AlexeyBrin",
       "tags": [],
       "date": "2026-08-02T12:36:07+00:00"
@@ -42,8 +53,8 @@
       "source": "hn",
       "title": "F*: A general-purpose proof-oriented programming language",
       "url": "https://fstar-lang.org/",
-      "score": 5,
-      "comments": 1,
+      "score": 47,
+      "comments": 15,
       "author": "ducktective",
       "tags": [],
       "date": "2026-08-02T12:31:16+00:00"
@@ -64,8 +75,8 @@
       "source": "hn",
       "title": "Meshdiff – visually compare two STL versions in the browser, client-side",
       "url": "https://meshdiff.com/",
-      "score": 82,
-      "comments": 11,
+      "score": 103,
+      "comments": 12,
       "author": "projscope",
       "tags": [],
       "date": "2026-08-02T11:34:41+00:00"
@@ -75,8 +86,8 @@
       "source": "hn",
       "title": "Wikimedia Foundation refuses union recognition, hires union-busting law firm",
       "url": "https://en.wikipedia.org/wiki/Wikipedia:Wikipedia_Signpost/2026-08-02/News_and_notes",
-      "score": 171,
-      "comments": 151,
+      "score": 230,
+      "comments": 198,
       "author": "akolbe",
       "tags": [],
       "date": "2026-08-02T11:24:20+00:00"
@@ -86,11 +97,22 @@
       "source": "hn",
       "title": "Show HN: Fuse – statically typed functional programming language",
       "url": "https://fuselang.org",
-      "score": 30,
-      "comments": 4,
+      "score": 50,
+      "comments": 8,
       "author": "the_unproven",
       "tags": [],
       "date": "2026-08-02T11:23:56+00:00"
+    },
+    {
+      "id": "hn-49143304",
+      "source": "hn",
+      "title": "I made a Promise-aware debounce and throttle library for TypeScript",
+      "url": "https://github.com/nyvexis1/temporize",
+      "score": 13,
+      "comments": 7,
+      "author": "slimy74",
+      "tags": [],
+      "date": "2026-08-02T11:07:56+00:00"
     },
     {
       "id": "hn-49143289",
@@ -108,11 +130,22 @@
       "source": "hn",
       "title": "Show HN: Katharos Functional programming and CSP-style concurrency for Python",
       "url": "https://github.com/kamalfarahani/katharos",
-      "score": 13,
-      "comments": 1,
+      "score": 20,
+      "comments": 2,
       "author": "kamalf",
       "tags": [],
       "date": "2026-08-02T10:45:11+00:00"
+    },
+    {
+      "id": "hn-49143096",
+      "source": "hn",
+      "title": "Rust All Hands 2026 Retrospective",
+      "url": "https://blog.rust-lang.org/inside-rust/2026/07/31/all-hands-2026-retrospective/",
+      "score": 26,
+      "comments": 8,
+      "author": "dcminter",
+      "tags": [],
+      "date": "2026-08-02T10:33:26+00:00"
     },
     {
       "id": "hn-49143053",
@@ -130,8 +163,8 @@
       "source": "hn",
       "title": "Artificial Intelligence: Ars Notoria and the Promise of Instant Knowledge",
       "url": "https://publicdomainreview.org/essay/ars-notoria/",
-      "score": 56,
-      "comments": 7,
+      "score": 79,
+      "comments": 18,
       "author": "jruohonen",
       "tags": [],
       "date": "2026-08-02T10:18:24+00:00"
@@ -141,8 +174,8 @@
       "source": "hn",
       "title": "Show HN: Syncular – offline-first SQL sync with TypeScript and Rust cores",
       "url": "https://github.com/syncular/syncular",
-      "score": 41,
-      "comments": 18,
+      "score": 54,
+      "comments": 20,
       "author": "quambo",
       "tags": [],
       "date": "2026-08-02T09:48:08+00:00"
@@ -165,8 +198,8 @@
       "source": "hn",
       "title": "Show HN: Bor – Open-source policy management for Linux desktops",
       "url": "https://getbor.dev/blog/2026-08-02-bor-v080-release/",
-      "score": 86,
-      "comments": 15,
+      "score": 114,
+      "comments": 17,
       "author": "eniac111",
       "tags": [],
       "date": "2026-08-02T09:06:33+00:00",
@@ -275,6 +308,17 @@
       "severity": "critical"
     },
     {
+      "id": "hn-49141828",
+      "source": "hn",
+      "title": "ESP32-C3 SuperMini antenna modification",
+      "url": "https://peterneufeld.wordpress.com/2025/03/04/esp32-c3-supermini-antenna-modification/",
+      "score": 28,
+      "comments": 5,
+      "author": "ta988",
+      "tags": [],
+      "date": "2026-08-02T06:56:38+00:00"
+    },
+    {
       "id": "qiita-5f9a1fa3a9",
       "source": "zennqiita",
       "sub_source": "Qiita",
@@ -292,8 +336,8 @@
       "source": "hn",
       "title": "Running Kimi K3 on MI355X at Better Performance per Dollar Than B300",
       "url": "https://www.wafer.ai/blog/kimi-k3-mi355x",
-      "score": 162,
-      "comments": 75,
+      "score": 172,
+      "comments": 89,
       "author": "ilreb",
       "tags": [],
       "date": "2026-08-02T04:21:14+00:00"
@@ -303,8 +347,8 @@
       "source": "hn",
       "title": "MkLinux and the pimped-out Apple Workgroup Server 9150",
       "url": "http://oldvcr.blogspot.com/2026/08/mklinux-and-pimped-out-apple-workgroup.html",
-      "score": 71,
-      "comments": 5,
+      "score": 79,
+      "comments": 7,
       "author": "goldenskye",
       "tags": [],
       "date": "2026-08-02T03:12:52+00:00"
@@ -358,8 +402,8 @@
       "source": "hn",
       "title": "Show HN: I'm a 15 Year Old Wannabe Engineer, This Is a Cycloidal Gearbox I Built",
       "url": "https://github.com/tom-ilan/cycloidal_gearbox",
-      "score": 212,
-      "comments": 73,
+      "score": 241,
+      "comments": 77,
       "author": "tomilan",
       "tags": [],
       "date": "2026-08-02T02:07:09+00:00"
@@ -380,8 +424,8 @@
       "source": "hn",
       "title": "Go 1.27 Interactive Tour",
       "url": "https://victoriametrics.com/blog/go-1-27/index.html",
-      "score": 276,
-      "comments": 113,
+      "score": 292,
+      "comments": 142,
       "author": "Hixon10",
       "tags": [],
       "date": "2026-08-02T01:35:51+00:00"
@@ -525,8 +569,8 @@
       "source": "hn",
       "title": "Seedance 2.5",
       "url": "https://seed.bytedance.com/en/blog/one-take-creation-flexible-referencing-introducing-seedance-2-5",
-      "score": 391,
-      "comments": 205,
+      "score": 400,
+      "comments": 214,
       "author": "njaremko",
       "tags": [],
       "date": "2026-08-01T20:45:12+00:00"
@@ -536,8 +580,8 @@
       "source": "hn",
       "title": "Diátaxis",
       "url": "https://diataxis.fr/",
-      "score": 409,
-      "comments": 49,
+      "score": 431,
+      "comments": 50,
       "author": "ryanseys",
       "tags": [],
       "date": "2026-08-01T20:33:27+00:00"
@@ -2197,8 +2241,8 @@
       "source": "hn",
       "title": "Holocloth",
       "url": "https://holocloth.vercel.app",
-      "score": 50,
-      "comments": 9,
+      "score": 76,
+      "comments": 16,
       "author": "ingve",
       "tags": [],
       "date": "2026-07-30T22:59:27+00:00"
@@ -3987,12 +4031,23 @@
       "date": "2026-07-29T06:54:23+00:00"
     },
     {
+      "id": "hn-49094151",
+      "source": "hn",
+      "title": "Fasttracker II clone in C using SDL 2",
+      "url": "https://16-bits.org/ft2.php",
+      "score": 29,
+      "comments": 5,
+      "author": "andsoitis",
+      "tags": [],
+      "date": "2026-07-29T06:47:22+00:00"
+    },
+    {
       "id": "hn-49093845",
       "source": "hn",
       "title": "Folding Paper Globes",
       "url": "https://foldingglobes.com/globes",
-      "score": 6,
-      "comments": 0,
+      "score": 47,
+      "comments": 3,
       "author": "dango2506",
       "tags": [],
       "date": "2026-07-29T05:53:00+00:00"
@@ -5060,76 +5115,15 @@
       "date": "2026-07-28T17:45:40+09:00"
     },
     {
-      "id": "qiita-658ce43409",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "Claude Opus 5登場！ベンチマーク分析・価格・Fable 5 / GPT-5.6との徹底比較",
-      "url": "https://qiita.com/Adachit-1411/items/3dd6bc76c81aa6918b84?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "Adachit-1411",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-07-28T16:55:46+09:00"
-    },
-    {
-      "id": "hn-49080664",
+      "id": "hn-49078283",
       "source": "hn",
-      "title": "7.1 Earthquake in Japan",
-      "url": "https://www.data.jma.go.jp/multi/quake/quake_detail.html?eventID=20260728163528&lang=en",
-      "score": 720,
-      "comments": 183,
-      "author": "krembo",
+      "title": "Norway Salmon",
+      "url": "https://www.abc.net.au/news/2026-07-28/how-norway-s-salmon-industry-became-a-global-behemoth/106949872",
+      "score": 21,
+      "comments": 1,
+      "author": "CHB0403085482",
       "tags": [],
-      "date": "2026-07-28T07:44:24+00:00"
-    },
-    {
-      "id": "qiita-d17fb8a15d",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "AWSを学習する中で勘違いしていたセキュリティグループの送信元",
-      "url": "https://qiita.com/mtid/items/bb5120124f5bd59a87ce?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "mtid",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-07-28T16:24:39+09:00"
-    },
-    {
-      "id": "hn-49080031",
-      "source": "hn",
-      "title": "Recursive Filters: SMA, EMA, Low‑Pass, and a Tiny Kalman",
-      "url": "https://www.staszewski.xyz/blog/recursive-filters/",
-      "score": 28,
-      "comments": 6,
-      "author": "kamilstaszewski",
-      "tags": [],
-      "date": "2026-07-28T06:11:18+00:00"
-    },
-    {
-      "id": "qiita-65a8f25acd",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "VSCodeからMulmoTerminalへ移籍した話",
-      "url": "https://qiita.com/tanaka_taro_JP_KYUSYU/items/1355c98e73e16f66eb53?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "tanaka_taro_JP_KYUSYU",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-07-28T15:04:04+09:00"
-    },
-    {
-      "id": "hn-49079727",
-      "source": "hn",
-      "title": "Ars Astronomica – English translations of rare Hebrew and Latin astronomy texts",
-      "url": "https://arsastronomica.com/",
-      "score": 94,
-      "comments": 29,
-      "author": "sweisman",
-      "tags": [],
-      "date": "2026-07-28T05:25:34+00:00"
+      "date": "2026-07-28T01:54:31+00:00"
     },
     {
       "id": "ctf-4233874",

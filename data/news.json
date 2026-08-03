@@ -1,14 +1,58 @@
 {
-  "updated_at": "2026-08-03T03:44:26.150383+00:00",
+  "updated_at": "2026-08-03T07:24:16.710651+00:00",
   "count": 500,
   "items": [
+    {
+      "id": "hn-49152023",
+      "source": "hn",
+      "title": "Rust project goals: Immobile types and guaranteed destructors",
+      "url": "https://github.com/rust-lang/rust-project-goals/blob/main/src/2026/move-trait.md",
+      "score": 18,
+      "comments": 3,
+      "author": "paavohtl",
+      "tags": [],
+      "date": "2026-08-03T06:42:00+00:00"
+    },
+    {
+      "id": "hn-49151933",
+      "source": "hn",
+      "title": "Don't be a meat proxy",
+      "url": "https://gruhn.me/blog/2026-08-03/",
+      "score": 152,
+      "comments": 59,
+      "author": "ngruhn",
+      "tags": [],
+      "date": "2026-08-03T06:28:01+00:00"
+    },
+    {
+      "id": "hn-49151734",
+      "source": "hn",
+      "title": "More German than many Germans",
+      "url": "https://mertbulan.com/more-german-than-many-germans/",
+      "score": 79,
+      "comments": 7,
+      "author": "mertbio",
+      "tags": [],
+      "date": "2026-08-03T06:00:14+00:00"
+    },
+    {
+      "id": "hn-49150773",
+      "source": "hn",
+      "title": "AI migrated legacy COBOL programs to Java, bugs included",
+      "url": "https://arxiv.org/abs/2607.28271",
+      "score": 37,
+      "comments": 29,
+      "author": "felineflock",
+      "tags": [],
+      "date": "2026-08-03T03:06:12+00:00"
+    },
     {
       "id": "hn-49150470",
       "source": "hn",
       "title": "Qwen3.8-Max: A New Bar for Coding and Cowork",
       "url": "https://qwen.ai/blog?id=qwen3.8",
-      "score": 93,
-      "comments": 29,
+      "score": 442,
+      "comments": 187,
       "author": "ai2027",
       "tags": [],
       "date": "2026-08-03T02:16:09+00:00"
@@ -18,8 +62,8 @@
       "source": "hn",
       "title": "RFC 9851: TLS 1.2 is in Feature Freeze",
       "url": "https://www.rfc-editor.org/rfc/rfc9851.html",
-      "score": 19,
-      "comments": 5,
+      "score": 31,
+      "comments": 7,
       "author": "Jimmc414",
       "tags": [],
       "date": "2026-08-03T01:23:26+00:00"
@@ -29,8 +73,8 @@
       "source": "hn",
       "title": "Show HN: Isopolis – Isometric pixel map of SF",
       "url": "https://sf.isopolis.city/",
-      "score": 77,
-      "comments": 18,
+      "score": 188,
+      "comments": 42,
       "author": "nuwandavek",
       "tags": [],
       "date": "2026-08-03T00:46:38+00:00"
@@ -40,8 +84,8 @@
       "source": "hn",
       "title": "CP/M-386 – CP/M for 386 protected mode, derived from CP/M‑68K",
       "url": "https://github.com/johnsonjh/cpm386",
-      "score": 42,
-      "comments": 9,
+      "score": 62,
+      "comments": 23,
       "author": "TMWNN",
       "tags": [],
       "date": "2026-08-03T00:38:10+00:00"
@@ -51,8 +95,8 @@
       "source": "hn",
       "title": "Show HN: ssh ssh.place",
       "url": "https://ssh.place",
-      "score": 49,
-      "comments": 23,
+      "score": 99,
+      "comments": 51,
       "author": "jeninh",
       "tags": [],
       "date": "2026-08-03T00:23:21+00:00"
@@ -62,8 +106,8 @@
       "source": "hn",
       "title": "Why Book Corners won't sync contributions back to OpenStreetMap",
       "url": "https://www.andreagrandi.it/posts/why-book-corners-wont-sync-contributions-back-to-openstreetmap/",
-      "score": 59,
-      "comments": 34,
+      "score": 78,
+      "comments": 49,
       "author": "pizzaiolo",
       "tags": [],
       "date": "2026-08-03T00:12:16+00:00"
@@ -108,8 +152,8 @@
       "source": "hn",
       "title": "The Computational Theory of Mind (2015)",
       "url": "https://plato.stanford.edu/entries/computational-mind/",
-      "score": 40,
-      "comments": 16,
+      "score": 56,
+      "comments": 36,
       "author": "cyanregiment",
       "tags": [],
       "date": "2026-08-02T22:35:35+00:00"
@@ -164,8 +208,8 @@
       "source": "hn",
       "title": "Show HN: Make your Framework 12 sound like a creaky door",
       "url": "https://github.com/ArcaEge/creakwork12",
-      "score": 62,
-      "comments": 8,
+      "score": 79,
+      "comments": 12,
       "author": "arcaege",
       "tags": [],
       "date": "2026-08-02T20:33:01+00:00"
@@ -264,8 +308,8 @@
       "source": "hn",
       "title": "SwiftUI After 7 Years",
       "url": "https://ykvm.com/2026/07/swiftui-a-story-of-mediocrity/",
-      "score": 129,
-      "comments": 107,
+      "score": 178,
+      "comments": 149,
       "author": "mpweiher",
       "tags": [],
       "date": "2026-08-02T18:59:05+00:00"
@@ -284,10 +328,10 @@
     {
       "id": "hn-49146960",
       "source": "hn",
-      "title": "The Myth of Snow Leopard",
+      "title": "The myth of Snow Leopard",
       "url": "https://www.rubenerd.au/the-myth-of-snow-leopard/",
-      "score": 32,
-      "comments": 32,
+      "score": 87,
+      "comments": 69,
       "author": "speckx",
       "tags": [],
       "date": "2026-08-02T18:21:45+00:00"
@@ -341,8 +385,8 @@
       "source": "hn",
       "title": "Show HN: Kakehashi – Experimental userspace to run macOS binaries on Linux ARM",
       "url": "https://github.com/wie-project/kakehashi",
-      "score": 190,
-      "comments": 40,
+      "score": 209,
+      "comments": 51,
       "author": "vlad_kalinkin",
       "tags": [],
       "date": "2026-08-02T16:26:40+00:00"
@@ -363,8 +407,8 @@
       "source": "hn",
       "title": "How the words we teach English language learners changed",
       "url": "https://pudding.cool/2026/07/essential-words/",
-      "score": 194,
-      "comments": 139,
+      "score": 211,
+      "comments": 157,
       "author": "c-oreills",
       "tags": [],
       "date": "2026-08-02T15:41:08+00:00"
@@ -753,8 +797,8 @@
       "source": "hn",
       "title": "Karpathy’s Pelican",
       "url": "https://twitter.com/karpathy/status/2083749667410727319",
-      "score": 477,
-      "comments": 354,
+      "score": 545,
+      "comments": 381,
       "author": "delichon",
       "tags": [],
       "date": "2026-08-02T04:05:56+00:00"
@@ -1676,8 +1720,8 @@
       "source": "hn",
       "title": "Read the novels and forget everything else",
       "url": "https://hedgehogreview.com/web-features/thr/posts/read-the-novels-and-forget-everything-else",
-      "score": 67,
-      "comments": 38,
+      "score": 91,
+      "comments": 64,
       "author": "samclemens",
       "tags": [],
       "date": "2026-07-31T23:31:28+00:00"
@@ -1889,8 +1933,8 @@
       "source": "hn",
       "title": "Why we write our own C and C++ inference engines",
       "url": "https://localai.io/blog/why-we-write-our-own-engines/",
-      "score": 4,
-      "comments": 0,
+      "score": 37,
+      "comments": 16,
       "author": "eatonphil",
       "tags": [],
       "date": "2026-07-31T16:17:04+00:00"
@@ -2186,8 +2230,8 @@
       "source": "hn",
       "title": "Autoregressive Language Model on the 6502 Processor",
       "url": "https://mattbeton.com/blog/bitnet-6502.html",
-      "score": 71,
-      "comments": 7,
+      "score": 99,
+      "comments": 10,
       "author": "nmstoker",
       "tags": [],
       "date": "2026-07-31T13:08:30+00:00"
@@ -2436,8 +2480,8 @@
       "source": "hn",
       "title": "Show HN: A Handwritten Blogging Platform",
       "url": "https://handwritten.blog/",
-      "score": 22,
-      "comments": 5,
+      "score": 84,
+      "comments": 45,
       "author": "emilesilvis",
       "tags": [],
       "date": "2026-07-31T06:37:42+00:00"
@@ -4199,8 +4243,8 @@
       "source": "hn",
       "title": "Developers are attached to tools because tools encode trust",
       "url": "https://stackoverflow.blog/2026/07/29/developers-are-attached-to-tools-because-tools-encode-trust/",
-      "score": 171,
-      "comments": 90,
+      "score": 194,
+      "comments": 109,
       "author": "HieronymusBosch",
       "tags": [],
       "date": "2026-07-29T14:25:54+00:00"
@@ -5053,81 +5097,37 @@
       "date": "2026-07-28T18:38:14+00:00"
     },
     {
-      "id": "hn-49088058",
-      "source": "hn",
-      "title": "MCP 2026-07-28 Specification: transport going stateless",
-      "url": "https://blog.modelcontextprotocol.io/posts/2026-07-28/",
-      "score": 95,
-      "comments": 31,
-      "author": "Eldodi",
-      "tags": [],
-      "date": "2026-07-28T18:35:11+00:00"
-    },
-    {
-      "id": "hn-49087673",
-      "source": "hn",
-      "title": "Obfuscation (Part II): Diamond IO",
-      "url": "https://vitalik.eth.limo/general/2026/07/28/obfuscation_part_ii_diamond_io.html",
-      "score": 7,
-      "comments": 1,
-      "author": "elffjs",
-      "tags": [],
-      "date": "2026-07-28T18:04:14+00:00"
-    },
-    {
-      "id": "hn-49087499",
-      "source": "hn",
-      "title": "Linux on ESP32",
-      "url": "https://github.com/GrieferPig/esp32-s31-linux",
-      "score": 93,
-      "comments": 33,
-      "author": "boveyking",
-      "tags": [],
-      "date": "2026-07-28T17:52:00+00:00"
-    },
-    {
-      "id": "hn-49087306",
-      "source": "hn",
-      "title": "The iPhone Upgrade Program is being replaced by Apple Upgrade",
-      "url": "https://www.apple.com/shop/iphone/iphone-upgrade-program",
-      "score": 179,
-      "comments": 325,
-      "author": "lkurtz",
-      "tags": [],
-      "date": "2026-07-28T17:37:12+00:00"
-    },
-    {
-      "id": "hn-49087091",
-      "source": "hn",
-      "title": "Discovering Cryptographic Weaknesses with Claude",
-      "url": "https://www.anthropic.com/research/discovering-cryptographic-weaknesses",
-      "score": 189,
-      "comments": 132,
-      "author": "gslin",
-      "tags": [],
-      "date": "2026-07-28T17:22:16+00:00"
-    },
-    {
-      "id": "hn-49086971",
-      "source": "hn",
-      "title": "Steel Bank Common Lisp version 2.6.7",
-      "url": "https://sbcl.org/all-news.html?2.6.7",
-      "score": 243,
-      "comments": 112,
-      "author": "tmtvl",
-      "tags": [],
-      "date": "2026-07-28T17:11:54+00:00"
-    },
-    {
       "id": "hn-49084324",
       "source": "hn",
       "title": "Note-Taking and Personal Knowledge Management",
       "url": "https://unattributed.cc/note-taking-and-personal-knowledge-management",
-      "score": 148,
-      "comments": 44,
+      "score": 186,
+      "comments": 51,
       "author": "surprisetalk",
       "tags": [],
       "date": "2026-07-28T14:21:10+00:00"
+    },
+    {
+      "id": "hn-49078283",
+      "source": "hn",
+      "title": "Norway became a global salmon behemoth. Now it's facing the consequences",
+      "url": "https://www.abc.net.au/news/2026-07-28/how-norway-s-salmon-industry-became-a-global-behemoth/106949872",
+      "score": 138,
+      "comments": 93,
+      "author": "CHB0403085482",
+      "tags": [],
+      "date": "2026-07-28T01:54:31+00:00"
+    },
+    {
+      "id": "hn-49076945",
+      "source": "hn",
+      "title": "Convergence is not enough",
+      "url": "https://www.inkandswitch.com/livelymerge/notebook/lm-02/",
+      "score": 23,
+      "comments": 1,
+      "author": "zdw",
+      "tags": [],
+      "date": "2026-07-27T23:23:07+00:00"
     },
     {
       "id": "ctf-4233874",
@@ -5341,6 +5341,32 @@
       "date": "2023-05-23T17:06:23Z"
     },
     {
+      "id": "zenn-505bdcc0e9",
+      "source": "zennqiita",
+      "sub_source": "Zenn",
+      "title": "アーキテクチャに限らず意思決定を全部残す「ADR（Any Decision Record）」という文化",
+      "url": "https://zenn.dev/dress_code/articles/c73500ae73361c",
+      "score": null,
+      "author": "かわうそ",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Mon, 03 Aug 2026 00:00:10 GMT"
+    },
+    {
+      "id": "zenn-7f10885e63",
+      "source": "zennqiita",
+      "sub_source": "Zenn",
+      "title": "Claude CodeのSkillsは「手順書」だったので、/article コマンドを作ってみた",
+      "url": "https://zenn.dev/osakayakyu/articles/e6aa9835c04d73",
+      "score": null,
+      "author": "KoH",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Sun, 02 Aug 2026 03:15:05 GMT"
+    },
+    {
       "id": "zenn-7742d7140d",
       "source": "zennqiita",
       "sub_source": "Zenn",
@@ -5352,6 +5378,19 @@
         "Zenn"
       ],
       "date": "Sun, 02 Aug 2026 00:43:07 GMT"
+    },
+    {
+      "id": "zenn-f89b35604a",
+      "source": "zennqiita",
+      "sub_source": "Zenn",
+      "title": "GDBで始めるアセンブリと解析",
+      "url": "https://zenn.dev/juck28/articles/091c07869aba28",
+      "score": null,
+      "author": "JUCK",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Sat, 01 Aug 2026 13:34:19 GMT"
     },
     {
       "id": "zenn-cef5d46b4e",
@@ -5391,6 +5430,19 @@
         "Zenn"
       ],
       "date": "Fri, 31 Jul 2026 13:33:10 GMT"
+    },
+    {
+      "id": "zenn-5145659d44",
+      "source": "zennqiita",
+      "sub_source": "Zenn",
+      "title": "3 行の同期バッチが、壊れるたびに堅牢になっていく話",
+      "url": "https://zenn.dev/neoai/articles/878ed0b400f45d",
+      "score": null,
+      "author": "toshikiaihara",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Fri, 31 Jul 2026 09:10:01 GMT"
     },
     {
       "id": "zenn-14a28db910",
@@ -5445,19 +5497,6 @@
       "date": "Thu, 30 Jul 2026 08:00:05 GMT"
     },
     {
-      "id": "zenn-29f6c826ea",
-      "source": "zennqiita",
-      "sub_source": "Zenn",
-      "title": "GitHub Actionsのコストが増えているなら、Namespaceを使えばいいじゃない",
-      "url": "https://zenn.dev/aircloset/articles/6b47018589df0f",
-      "score": null,
-      "author": "辻 亮佑",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Wed, 29 Jul 2026 23:52:26 GMT"
-    },
-    {
       "id": "zenn-e2d43fb67a",
       "source": "zennqiita",
       "sub_source": "Zenn",
@@ -5471,19 +5510,6 @@
       "date": "Wed, 29 Jul 2026 14:05:30 GMT"
     },
     {
-      "id": "zenn-ae67113315",
-      "source": "zennqiita",
-      "sub_source": "Zenn",
-      "title": "GPT-5.6とBlender MCPで、多少マシな3Dモデリングをさせるまで",
-      "url": "https://zenn.dev/test_myname/articles/gpt-5-6-blender-mcp-modeling",
-      "score": null,
-      "author": "ぷらむらいす(PlumRice)",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Wed, 29 Jul 2026 00:57:38 GMT"
-    },
-    {
       "id": "zenn-bb37163f7d",
       "source": "zennqiita",
       "sub_source": "Zenn",
@@ -5495,19 +5521,6 @@
         "Zenn"
       ],
       "date": "Wed, 29 Jul 2026 00:37:17 GMT"
-    },
-    {
-      "id": "zenn-61856c5793",
-      "source": "zennqiita",
-      "sub_source": "Zenn",
-      "title": "自分で作るクラウド競技",
-      "url": "https://zenn.dev/bull/books/cloud-competition",
-      "score": null,
-      "author": "bull",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Wed, 29 Jul 2026 00:15:14 GMT"
     },
     {
       "id": "zenn-35a97fb467",
@@ -5586,19 +5599,6 @@
         "Zenn"
       ],
       "date": "Mon, 27 Jul 2026 07:22:43 GMT"
-    },
-    {
-      "id": "zenn-a7c740a131",
-      "source": "zennqiita",
-      "sub_source": "Zenn",
-      "title": "【2026年版】MIXI 新卒向け技術研修を公開しました。",
-      "url": "https://zenn.dev/mixi/articles/fd62f8ddc178f6",
-      "score": null,
-      "author": "MIXI DEVELOPERS",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Mon, 27 Jul 2026 04:26:35 GMT"
     },
     {
       "id": "edb-9bdf9aa505",

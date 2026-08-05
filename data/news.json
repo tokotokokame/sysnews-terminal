@@ -1,7 +1,119 @@
 {
-  "updated_at": "2026-08-04T23:02:27.922875+00:00",
+  "updated_at": "2026-08-05T00:53:59.194636+00:00",
   "count": 500,
   "items": [
+    {
+      "id": "qiita-3c2e198d51",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "Data CatalogでObject Storage内のCSVとParquetを自動カタログ化してみてみた",
+      "url": "https://qiita.com/shirok/items/d23855d5634f528f796c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "shirok",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-08-05T09:15:46+09:00"
+    },
+    {
+      "id": "hn-49176983",
+      "source": "hn",
+      "title": "Zigbee vs. Matter over Thread:Understanding IoT Protocol Performance in Practice",
+      "url": "https://arxiv.org/abs/2603.04221",
+      "score": 6,
+      "comments": 2,
+      "author": "teleforce",
+      "tags": [],
+      "date": "2026-08-05T00:10:37+00:00"
+    },
+    {
+      "id": "hn-49176947",
+      "source": "hn",
+      "title": "Bugtraq Is Back",
+      "url": "https://lists.securityfocus.com/hyperkitty/list/bugtraq@securityfocus.com/thread/CHKLXLA7SJEWLDFHWXB3QU57ADOXGL2E/",
+      "score": 7,
+      "comments": 1,
+      "author": "bashtoni",
+      "tags": [],
+      "date": "2026-08-05T00:05:49+00:00"
+    },
+    {
+      "id": "hn-49176920",
+      "source": "hn",
+      "title": "Flowise Is Shutting Down",
+      "url": "https://flowiseai.com/sunset",
+      "score": 7,
+      "comments": 2,
+      "author": "llmgraph",
+      "tags": [],
+      "date": "2026-08-05T00:02:40+00:00"
+    },
+    {
+      "id": "hn-49176830",
+      "source": "hn",
+      "title": "Eight Myths on Software Engineering and GenAI",
+      "url": "https://queue.acm.org/detail.cfm?id=3807963",
+      "score": 26,
+      "comments": 3,
+      "author": "tchalla",
+      "tags": [],
+      "date": "2026-08-04T23:50:52+00:00"
+    },
+    {
+      "id": "hn-49176697",
+      "source": "hn",
+      "title": "IP and DNS Leaks in WebKit Affecting Proxy Browsers and iCloud Private Relay",
+      "url": "https://mysk.blog/2026/08/04/webkit-proxy-icloud-private-relay-ip-leak/",
+      "score": 23,
+      "comments": 2,
+      "author": "lapcat",
+      "tags": [],
+      "date": "2026-08-04T23:31:46+00:00"
+    },
+    {
+      "id": "hn-49176644",
+      "source": "hn",
+      "title": "Pass the Passkey: A Novel Attack Surface in Passwordless Authentication",
+      "url": "https://unit42.paloaltonetworks.com/passwordless-authentication-security-risks/",
+      "score": 30,
+      "comments": 20,
+      "author": "jchanimal",
+      "tags": [],
+      "date": "2026-08-04T23:22:37+00:00"
+    },
+    {
+      "id": "hn-49176634",
+      "source": "hn",
+      "title": "FIPS 140-3 is not a security guarantee, and auditors know it",
+      "url": "https://808bits.com/articles/fips-140-3-not-a-security-guarantee/",
+      "score": 17,
+      "comments": 7,
+      "author": "meehow",
+      "tags": [],
+      "date": "2026-08-04T23:21:33+00:00"
+    },
+    {
+      "id": "hn-49176606",
+      "source": "hn",
+      "title": "libexpat now funded by the City of Munich for up to 6 months",
+      "url": "https://blog.hartwork.org/posts/libexpat-city-of-munich-open-source-sabbatical/",
+      "score": 85,
+      "comments": 4,
+      "author": "spyc",
+      "tags": [],
+      "date": "2026-08-04T23:18:12+00:00"
+    },
+    {
+      "id": "hn-49176212",
+      "source": "hn",
+      "title": "Show HN: SIMD Viterbi Decoder in Rust",
+      "url": "https://github.com/brian-armstrong/fec",
+      "score": 14,
+      "comments": 0,
+      "author": "brian-armstrong",
+      "tags": [],
+      "date": "2026-08-04T22:37:05+00:00"
+    },
     {
       "id": "qiita-727ad6449e",
       "source": "zennqiita",
@@ -16,12 +128,34 @@
       "date": "2026-08-05T07:30:10+09:00"
     },
     {
+      "id": "hn-49176055",
+      "source": "hn",
+      "title": "We finally learned to center a div, then browsers added sidebars",
+      "url": "https://seg6.space/posts/center-div/",
+      "score": 42,
+      "comments": 31,
+      "author": "seg6",
+      "tags": [],
+      "date": "2026-08-04T22:24:00+00:00"
+    },
+    {
+      "id": "hn-49176038",
+      "source": "hn",
+      "title": "Pi's Minimalism Is Its Advantage",
+      "url": "https://earendil.com/posts/pi-autoresearch-and-databricks/",
+      "score": 58,
+      "comments": 14,
+      "author": "luispa",
+      "tags": [],
+      "date": "2026-08-04T22:22:12+00:00"
+    },
+    {
       "id": "hn-49175924",
       "source": "hn",
       "title": "DuckDB – Data power tools for your laptop, now in Clojure (2023)",
       "url": "https://techascent.com/blog/just-ducking-around.html",
-      "score": 8,
-      "comments": 0,
+      "score": 43,
+      "comments": 3,
       "author": "sourdecor",
       "tags": [],
       "date": "2026-08-04T22:09:43+00:00"
@@ -31,8 +165,8 @@
       "source": "hn",
       "title": "AI fuels more than half of cybercrime in Africa as scams surge – Interpol",
       "url": "https://www.africanews.com/2026/08/04/ai-fuels-more-than-half-of-cybercrime-in-africa-as-digital-scams-surge-interpol/",
-      "score": 53,
-      "comments": 24,
+      "score": 124,
+      "comments": 77,
       "author": "bookofjoe",
       "tags": [],
       "date": "2026-08-04T22:01:41+00:00"
@@ -42,8 +176,8 @@
       "source": "hn",
       "title": "Third-party cyber evaluations involving OpenAI models",
       "url": "https://openai.com/index/third-party-cyber-evaluations-involving-openai-models/",
-      "score": 25,
-      "comments": 2,
+      "score": 36,
+      "comments": 4,
       "author": "glub",
       "tags": [],
       "date": "2026-08-04T21:14:19+00:00"
@@ -53,8 +187,8 @@
       "source": "hn",
       "title": "Thanks FedEx, This Is Why We Keep Getting Phished (2024)",
       "url": "https://www.troyhunt.com/thanks-fedex-this-is-why-we-keep-getting-phished/",
-      "score": 166,
-      "comments": 34,
+      "score": 212,
+      "comments": 57,
       "author": "stymaar",
       "tags": [],
       "date": "2026-08-04T21:09:39+00:00"
@@ -62,10 +196,10 @@
     {
       "id": "hn-49174900",
       "source": "hn",
-      "title": "Gwern reties from fulltime writing to launch Guardian Angel Inc",
-      "url": "https://twitter.com/i/status/2084739205071343837",
-      "score": 33,
-      "comments": 12,
+      "title": "I am retiring from fulltime writing (& pseudonymity) to launch Guardian Angel",
+      "url": "https://twitter.com/gwern/status/2084739205071343837",
+      "score": 132,
+      "comments": 66,
       "author": "mattsterett",
       "tags": [],
       "date": "2026-08-04T20:48:17+00:00"
@@ -75,8 +209,8 @@
       "source": "hn",
       "title": "Oxide Computer raises $445M (SEC Form D)",
       "url": "https://www.sec.gov/Archives/edgar/data/1795071/000179507126000002/xslFormDX01/primary_doc.xml",
-      "score": 135,
-      "comments": 51,
+      "score": 177,
+      "comments": 75,
       "author": "depr",
       "tags": [],
       "date": "2026-08-04T20:13:40+00:00"
@@ -86,8 +220,8 @@
       "source": "hn",
       "title": "Show HN: Maple-Preview – ternary 20B MoE running at 120 tok/s on a iPhone",
       "url": "https://deepgrove.ai/maple-preview",
-      "score": 11,
-      "comments": 4,
+      "score": 39,
+      "comments": 12,
       "author": "edwardbzhang",
       "tags": [],
       "date": "2026-08-04T19:44:55+00:00"
@@ -97,8 +231,8 @@
       "source": "hn",
       "title": "In Memory of My Wife, Elise Cawley, with Thanks for 36 Wonderful Years",
       "url": "https://writings.stephenwolfram.com/2026/08/in-memory-of-my-wife-elise-cawley-1961-2026-with-thanks-for-36-wonderful-years/",
-      "score": 680,
-      "comments": 42,
+      "score": 854,
+      "comments": 45,
       "author": "jdcampolargo",
       "tags": [],
       "date": "2026-08-04T18:51:38+00:00"
@@ -119,8 +253,8 @@
       "source": "hn",
       "title": "Waymo in Dallas",
       "url": "https://waymo.com/blog/shorts/dallas-open-to-all/",
-      "score": 208,
-      "comments": 243,
+      "score": 239,
+      "comments": 325,
       "author": "xnx",
       "tags": [],
       "date": "2026-08-04T18:29:41+00:00"
@@ -285,8 +419,8 @@
       "source": "hn",
       "title": "Mistral's Shieldstral: 3B open-weights model for multimodal moderation",
       "url": "https://mistral.ai/news/shieldstral/",
-      "score": 262,
-      "comments": 65,
+      "score": 296,
+      "comments": 71,
       "author": "riadsila",
       "tags": [],
       "date": "2026-08-04T16:36:05+00:00"
@@ -329,7 +463,7 @@
       "source": "hn",
       "title": "Show HN: Simple algorithm and color space to generate diverse skin tones",
       "url": "https://toneyalexander.github.io/inclusive-color-space/",
-      "score": 435,
+      "score": 456,
       "comments": 85,
       "author": "automatoney",
       "tags": [],
@@ -531,7 +665,7 @@
       "source": "hn",
       "title": "DeepSeek V4 Flash on a Single AMD MI300X",
       "url": "https://github.com/ryanzhou/deepseek-v4-flash-mi300x",
-      "score": 358,
+      "score": 364,
       "comments": 87,
       "author": "zhoutong",
       "tags": [],
@@ -715,19 +849,6 @@
         "Qiita"
       ],
       "date": "2026-08-04T10:00:00+09:00"
-    },
-    {
-      "id": "qiita-3c2e198d51",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "Data CatalogでObject Storage内のCSVとParquetを自動カタログ化してみてみた",
-      "url": "https://qiita.com/shirok/items/d23855d5634f528f796c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "shirok",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-08-04T09:20:24+09:00"
     },
     {
       "id": "qiita-332d4b5ef1",
@@ -2001,8 +2122,8 @@
       "source": "hn",
       "title": "Video2NAND – Abusing video codecs for great computational power",
       "url": "https://sharedobject.blog/posts/vp8-combinatorial-logic/",
-      "score": 11,
-      "comments": 0,
+      "score": 25,
+      "comments": 4,
       "author": "firer",
       "tags": [],
       "date": "2026-08-02T14:29:01+00:00"
@@ -5014,132 +5135,6 @@
       "date": "2026-07-30T13:29:03+00:00"
     },
     {
-      "id": "hn-49109616",
-      "source": "hn",
-      "title": "Upper stage impacting the moon on 2026 August 5",
-      "url": "https://www.projectpluto.com/25010d.htm",
-      "score": 168,
-      "comments": 42,
-      "author": "ryannevius",
-      "tags": [],
-      "date": "2026-07-30T13:21:34+00:00"
-    },
-    {
-      "id": "hn-49109474",
-      "source": "hn",
-      "title": "RFC 8890 – The Internet is for End Users (2020)",
-      "url": "https://mnot.net/blog/2020/for_the_users",
-      "score": 97,
-      "comments": 28,
-      "author": "notarobot123",
-      "tags": [],
-      "date": "2026-07-30T13:07:53+00:00"
-    },
-    {
-      "id": "hn-49109440",
-      "source": "hn",
-      "title": "'VPNs are lawful technical tools,' says EU Court in landmark copyright ruling",
-      "url": "https://remysharp.com/links/2026-07-23-35890312",
-      "score": 254,
-      "comments": 91,
-      "author": "speckx",
-      "tags": [],
-      "date": "2026-07-30T13:03:27+00:00"
-    },
-    {
-      "id": "qiita-729c45cc4e",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "【Excel VBA】GA4 Data APIでデータ取得ツールを作ろう！① Google Cloudの設定からJWT作成準備まで【初心者向け】",
-      "url": "https://qiita.com/isomurash/items/cecf4e0f0d9a48fdc626?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "isomurash",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-07-30T21:55:48+09:00"
-    },
-    {
-      "id": "hn-49109193",
-      "source": "hn",
-      "title": "Why is everyone trying to build a solid-state battery?",
-      "url": "https://www.construction-physics.com/p/why-is-everyone-trying-to-build-a",
-      "score": 162,
-      "comments": 192,
-      "author": "crescit_eundo",
-      "tags": [],
-      "date": "2026-07-30T12:38:51+00:00"
-    },
-    {
-      "id": "qiita-3c2ea65591",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "スマートメーター × Confluent Cloud リアルタイムデモ（東京23区版）を、IBM Bob を使って構築しました Ver.2",
-      "url": "https://qiita.com/Shumpei_Kubo/items/581261ab3848fc8c120b?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "Shumpei_Kubo",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-07-30T21:38:10+09:00"
-    },
-    {
-      "id": "hn-49109026",
-      "source": "hn",
-      "title": "Why Don't People Use Formal Methods? (2019)",
-      "url": "https://www.hillelwayne.com/post/why-dont-people-use-formal-methods/",
-      "score": 82,
-      "comments": 58,
-      "author": "Thom2503",
-      "tags": [],
-      "date": "2026-07-30T12:21:34+00:00"
-    },
-    {
-      "id": "hn-49109019",
-      "source": "hn",
-      "title": "Register deprivation: spills and runtime under forced register scarcity",
-      "url": "https://rjp.io/blog/2026-07-19-register-deprivation",
-      "score": 22,
-      "comments": 4,
-      "author": "surprisetalk",
-      "tags": [],
-      "date": "2026-07-30T12:20:30+00:00",
-      "severity": "critical"
-    },
-    {
-      "id": "hn-49108971",
-      "source": "hn",
-      "title": "How old is Ann?",
-      "url": "https://quuxplusone.github.io/blog/2026/07/29/how-old-is-ann/",
-      "score": 48,
-      "comments": 50,
-      "author": "ibobev",
-      "tags": [],
-      "date": "2026-07-30T12:14:23+00:00"
-    },
-    {
-      "id": "hn-49108963",
-      "source": "hn",
-      "title": "CosmosEscape: Taking over Every Database in Azure Cosmos DB",
-      "url": "https://www.wiz.io/blog/cosmosescape-taking-over-every-database-in-azure-cosmos-db",
-      "score": 39,
-      "comments": 10,
-      "author": "uvuv",
-      "tags": [],
-      "date": "2026-07-30T12:13:42+00:00"
-    },
-    {
-      "id": "hn-49108840",
-      "source": "hn",
-      "title": "Mbodi AI (YC P25) Is Hiring Robotics/Research Engineers",
-      "url": "https://www.ycombinator.com/companies/mbodi-ai/jobs",
-      "score": 1,
-      "comments": 0,
-      "author": "chitianhao",
-      "tags": [],
-      "date": "2026-07-30T12:01:05+00:00"
-    },
-    {
       "id": "ctf-4233874",
       "source": "project",
       "proj_category": "CTF",
@@ -5351,6 +5346,45 @@
       "date": "2023-05-23T17:06:23Z"
     },
     {
+      "id": "zenn-0f3fd4baac",
+      "source": "zennqiita",
+      "sub_source": "Zenn",
+      "title": "Microsoft 謹製 デスクトップアプリ「Skill Recorder」で業務効率化スキル（SKILL.md）の作成が捗る？",
+      "url": "https://zenn.dev/benjuwan/articles/c2ba48e7662f92",
+      "score": null,
+      "author": "benjuwan",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Tue, 04 Aug 2026 04:57:19 GMT"
+    },
+    {
+      "id": "zenn-be3929b832",
+      "source": "zennqiita",
+      "sub_source": "Zenn",
+      "title": "生成AIの品質保証をどう設計する？ ― 「全部QAで見る」をやめて、機械とAIと人に分けた話",
+      "url": "https://zenn.dev/wn_engineering/articles/95911ca28a7b1f",
+      "score": null,
+      "author": "大久保 椋也",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Tue, 04 Aug 2026 03:00:06 GMT"
+    },
+    {
+      "id": "zenn-a378d48993",
+      "source": "zennqiita",
+      "sub_source": "Zenn",
+      "title": "Rust のテストを実行するとき、裏側で何が起きているか",
+      "url": "https://zenn.dev/estie/articles/882e14dcad0d46",
+      "score": null,
+      "author": "Masaki Miyazaki",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Tue, 04 Aug 2026 01:00:06 GMT"
+    },
+    {
       "id": "zenn-89362dc63b",
       "source": "zennqiita",
       "sub_source": "Zenn",
@@ -5364,30 +5398,30 @@
       "date": "Tue, 04 Aug 2026 00:02:05 GMT"
     },
     {
-      "id": "zenn-c243275af6",
+      "id": "zenn-60198d66af",
       "source": "zennqiita",
       "sub_source": "Zenn",
-      "title": "OpenCode × Amazon Bedrock で好きなモデルを選べる AI コーディング環境を構築する！",
-      "url": "https://zenn.dev/aws_japan/articles/opencode-bedrock-lab",
+      "title": "AIエージェント向けのツールを、MCPではなくCLIとして作った — 設計の3原則",
+      "url": "https://zenn.dev/codatum/articles/80b99faba75704",
       "score": null,
-      "author": "Hikotty / Hikoto Iseda",
+      "author": "g0e",
       "tags": [
         "Zenn"
       ],
-      "date": "Mon, 03 Aug 2026 14:04:25 GMT"
+      "date": "Mon, 03 Aug 2026 23:02:09 GMT"
     },
     {
-      "id": "zenn-9ec6dd7f20",
+      "id": "zenn-2bf30fee34",
       "source": "zennqiita",
       "sub_source": "Zenn",
-      "title": "GH-600: GitHub Agentic AI Developerに合格しました",
-      "url": "https://zenn.dev/microsoft/articles/gh-600-how-to-pass",
+      "title": "Web を iOS に乗せると仕様書に載っていない WebKit にボコボコにされる",
+      "url": "https://zenn.dev/tamat_llc/articles/ios-webkit-invisible-specs",
       "score": null,
-      "author": "yuriemori",
+      "author": "たけ(TakehiroT)",
       "tags": [
         "Zenn"
       ],
-      "date": "Mon, 03 Aug 2026 10:32:42 GMT"
+      "date": "Mon, 03 Aug 2026 10:23:25 GMT"
     },
     {
       "id": "zenn-a71f97115f",
@@ -5570,45 +5604,6 @@
         "Zenn"
       ],
       "date": "Fri, 31 Jul 2026 13:33:10 GMT"
-    },
-    {
-      "id": "zenn-14a28db910",
-      "source": "zennqiita",
-      "sub_source": "Zenn",
-      "title": "メテオフォール開発",
-      "url": "https://zenn.dev/hisaju01/books/meteorfall-development",
-      "score": null,
-      "author": "ひさじゅ",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Fri, 31 Jul 2026 06:16:08 GMT"
-    },
-    {
-      "id": "zenn-3a7b11abd7",
-      "source": "zennqiita",
-      "sub_source": "Zenn",
-      "title": "Web Streams API 入門 ― 基本概念から実践まで",
-      "url": "https://zenn.dev/cybozu_frontend/articles/web-streams-api-guide",
-      "score": null,
-      "author": "tasshi",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Thu, 30 Jul 2026 23:57:26 GMT"
-    },
-    {
-      "id": "zenn-a2cc046847",
-      "source": "zennqiita",
-      "sub_source": "Zenn",
-      "title": "0.5くらいから始めるPersonal Knowledge Base 構築実践",
-      "url": "https://zenn.dev/mkj/articles/claudian-orchestra-build_20260720",
-      "score": null,
-      "author": "Taisei Ozaki",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Thu, 30 Jul 2026 08:00:05 GMT"
     },
     {
       "id": "edb-9bdf9aa505",

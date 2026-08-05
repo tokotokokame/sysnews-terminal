@@ -1,7 +1,42 @@
 {
-  "updated_at": "2026-08-05T04:08:03.980070+00:00",
+  "updated_at": "2026-08-05T07:13:44.118312+00:00",
   "count": 500,
   "items": [
+    {
+      "id": "hn-49178608",
+      "source": "hn",
+      "title": "Zero-Mem: Zero-Token Memory Operations for LLM Agents",
+      "url": "https://arxiv.org/abs/2607.29377",
+      "score": 14,
+      "comments": 2,
+      "author": "theanonymousone",
+      "tags": [],
+      "date": "2026-08-05T04:36:44+00:00"
+    },
+    {
+      "id": "qiita-fbf50bc716",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "Bedrock Tool UseでAIロボットを動かしたらかなり気分屋だった",
+      "url": "https://qiita.com/R-You/items/8ee108b6b1f8c4a191c2?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "R-You",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-08-05T13:13:37+09:00"
+    },
+    {
+      "id": "hn-49178464",
+      "source": "hn",
+      "title": "An SLM trained on $8 ESP32-S3",
+      "url": "https://github.com/Carloscodix/qapla",
+      "score": 15,
+      "comments": 6,
+      "author": "pavelai",
+      "tags": [],
+      "date": "2026-08-05T04:07:27+00:00"
+    },
     {
       "id": "qiita-727ad6449e",
       "source": "zennqiita",
@@ -44,8 +79,8 @@
       "source": "hn",
       "title": "Zigbee vs. Matter over Thread:Understanding IoT Protocol Performance in Practice",
       "url": "https://arxiv.org/abs/2603.04221",
-      "score": 42,
-      "comments": 26,
+      "score": 72,
+      "comments": 53,
       "author": "teleforce",
       "tags": [],
       "date": "2026-08-05T00:10:37+00:00"
@@ -53,10 +88,10 @@
     {
       "id": "hn-49176947",
       "source": "hn",
-      "title": "Bugtraq Is Back",
+      "title": "Bugtraq is back",
       "url": "https://lists.securityfocus.com/hyperkitty/list/bugtraq@securityfocus.com/thread/CHKLXLA7SJEWLDFHWXB3QU57ADOXGL2E/",
-      "score": 29,
-      "comments": 6,
+      "score": 37,
+      "comments": 7,
       "author": "bashtoni",
       "tags": [],
       "date": "2026-08-05T00:05:49+00:00"
@@ -64,10 +99,10 @@
     {
       "id": "hn-49176920",
       "source": "hn",
-      "title": "Flowise Is Shutting Down",
+      "title": "Flowise is shutting down",
       "url": "https://flowiseai.com/sunset",
-      "score": 26,
-      "comments": 14,
+      "score": 41,
+      "comments": 19,
       "author": "llmgraph",
       "tags": [],
       "date": "2026-08-05T00:02:40+00:00"
@@ -77,8 +112,8 @@
       "source": "hn",
       "title": "Eight Myths on Software Engineering and GenAI",
       "url": "https://queue.acm.org/detail.cfm?id=3807963",
-      "score": 113,
-      "comments": 74,
+      "score": 178,
+      "comments": 137,
       "author": "tchalla",
       "tags": [],
       "date": "2026-08-04T23:50:52+00:00"
@@ -88,8 +123,8 @@
       "source": "hn",
       "title": "IP and DNS Leaks in WebKit Affecting Proxy Browsers and iCloud Private Relay",
       "url": "https://mysk.blog/2026/08/04/webkit-proxy-icloud-private-relay-ip-leak/",
-      "score": 60,
-      "comments": 8,
+      "score": 89,
+      "comments": 11,
       "author": "lapcat",
       "tags": [],
       "date": "2026-08-04T23:31:46+00:00"
@@ -121,8 +156,8 @@
       "source": "hn",
       "title": "libexpat now funded by the City of Munich for up to 6 months",
       "url": "https://blog.hartwork.org/posts/libexpat-city-of-munich-open-source-sabbatical/",
-      "score": 182,
-      "comments": 22,
+      "score": 244,
+      "comments": 33,
       "author": "spyc",
       "tags": [],
       "date": "2026-08-04T23:18:12+00:00"
@@ -143,8 +178,8 @@
       "source": "hn",
       "title": "We finally learned to center a div, then browsers added sidebars",
       "url": "https://seg6.space/posts/center-div/",
-      "score": 79,
-      "comments": 69,
+      "score": 109,
+      "comments": 91,
       "author": "seg6",
       "tags": [],
       "date": "2026-08-04T22:24:00+00:00"
@@ -154,8 +189,8 @@
       "source": "hn",
       "title": "Pi's Minimalism Is Its Advantage",
       "url": "https://earendil.com/posts/pi-autoresearch-and-databricks/",
-      "score": 172,
-      "comments": 64,
+      "score": 275,
+      "comments": 106,
       "author": "luispa",
       "tags": [],
       "date": "2026-08-04T22:22:12+00:00"
@@ -165,8 +200,8 @@
       "source": "hn",
       "title": "DuckDB – Data power tools for your laptop, now in Clojure (2023)",
       "url": "https://techascent.com/blog/just-ducking-around.html",
-      "score": 67,
-      "comments": 6,
+      "score": 83,
+      "comments": 13,
       "author": "sourdecor",
       "tags": [],
       "date": "2026-08-04T22:09:43+00:00"
@@ -176,8 +211,8 @@
       "source": "hn",
       "title": "AI fuels more than half of cybercrime in Africa as scams surge – Interpol",
       "url": "https://www.africanews.com/2026/08/04/ai-fuels-more-than-half-of-cybercrime-in-africa-as-digital-scams-surge-interpol/",
-      "score": 164,
-      "comments": 119,
+      "score": 198,
+      "comments": 158,
       "author": "bookofjoe",
       "tags": [],
       "date": "2026-08-04T22:01:41+00:00"
@@ -220,8 +255,8 @@
       "source": "hn",
       "title": "I am retiring from fulltime writing (& pseudonymity) to launch Guardian Angel",
       "url": "https://twitter.com/gwern/status/2084739205071343837",
-      "score": 212,
-      "comments": 131,
+      "score": 257,
+      "comments": 156,
       "author": "mattsterett",
       "tags": [],
       "date": "2026-08-04T20:48:17+00:00"
@@ -240,10 +275,10 @@
     {
       "id": "hn-49173984",
       "source": "hn",
-      "title": "Show HN: Maple-Preview – ternary 20B MoE running at 120 tok/s on a iPhone",
+      "title": "Show HN: Maple-Preview – Ternary 20B MoE running at 120 tok/s on a iPhone",
       "url": "https://deepgrove.ai/maple-preview",
-      "score": 76,
-      "comments": 21,
+      "score": 97,
+      "comments": 25,
       "author": "edwardbzhang",
       "tags": [],
       "date": "2026-08-04T19:44:55+00:00"
@@ -253,8 +288,8 @@
       "source": "hn",
       "title": "In Memory of My Wife, Elise Cawley, with Thanks for 36 Wonderful Years",
       "url": "https://writings.stephenwolfram.com/2026/08/in-memory-of-my-wife-elise-cawley-1961-2026-with-thanks-for-36-wonderful-years/",
-      "score": 1093,
-      "comments": 57,
+      "score": 1246,
+      "comments": 71,
       "author": "jdcampolargo",
       "tags": [],
       "date": "2026-08-04T18:51:38+00:00"
@@ -275,8 +310,8 @@
       "source": "hn",
       "title": "Waymo in Dallas",
       "url": "https://waymo.com/blog/shorts/dallas-open-to-all/",
-      "score": 268,
-      "comments": 417,
+      "score": 284,
+      "comments": 478,
       "author": "xnx",
       "tags": [],
       "date": "2026-08-04T18:29:41+00:00"
@@ -291,6 +326,17 @@
       "author": "kevincox",
       "tags": [],
       "date": "2026-08-04T18:29:32+00:00"
+    },
+    {
+      "id": "hn-49172784",
+      "source": "hn",
+      "title": "The Golden Age of British Ice Cream",
+      "url": "https://www.vittlesmagazine.com/p/the-golden-age-of-british-ice-cream",
+      "score": 32,
+      "comments": 11,
+      "author": "bryanrasmussen",
+      "tags": [],
+      "date": "2026-08-04T18:25:16+00:00"
     },
     {
       "id": "hn-49172609",
@@ -441,8 +487,8 @@
       "source": "hn",
       "title": "Mistral's Shieldstral: 3B open-weights model for multimodal moderation",
       "url": "https://mistral.ai/news/shieldstral/",
-      "score": 337,
-      "comments": 82,
+      "score": 378,
+      "comments": 90,
       "author": "riadsila",
       "tags": [],
       "date": "2026-08-04T16:36:05+00:00"
@@ -485,8 +531,8 @@
       "source": "hn",
       "title": "Show HN: Simple algorithm and color space to generate diverse skin tones",
       "url": "https://toneyalexander.github.io/inclusive-color-space/",
-      "score": 478,
-      "comments": 90,
+      "score": 506,
+      "comments": 92,
       "author": "automatoney",
       "tags": [],
       "date": "2026-08-04T15:16:22+00:00"
@@ -821,19 +867,6 @@
       "date": "2026-08-04T05:32:13+00:00"
     },
     {
-      "id": "qiita-fbf50bc716",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "Bedrock Tool UseでAIロボットを動かしたらかなり気分屋だった",
-      "url": "https://qiita.com/R-You/items/8ee108b6b1f8c4a191c2?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "R-You",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-08-04T12:51:15+09:00"
-    },
-    {
       "id": "qiita-40d00ae454",
       "source": "zennqiita",
       "sub_source": "Qiita",
@@ -915,8 +948,8 @@
       "source": "hn",
       "title": "There Will Come Soft Rains (1950) [pdf]",
       "url": "https://users.wpi.edu/~zrbutzke/Docs/BradburyStories(1).pdf",
-      "score": 239,
-      "comments": 81,
+      "score": 374,
+      "comments": 393,
       "author": "pmg101",
       "tags": [],
       "date": "2026-08-03T23:24:53+00:00"
@@ -1231,6 +1264,17 @@
       "author": "meysamazad",
       "tags": [],
       "date": "2026-08-03T13:34:09+00:00"
+    },
+    {
+      "id": "hn-49155605",
+      "source": "hn",
+      "title": "Godox Transparent Viewfinder Camera C100",
+      "url": "https://www.godox.com/product-e/C100.html",
+      "score": 29,
+      "comments": 15,
+      "author": "routeroff",
+      "tags": [],
+      "date": "2026-08-03T13:32:54+00:00"
     },
     {
       "id": "qiita-6b49b62d53",
@@ -2144,8 +2188,8 @@
       "source": "hn",
       "title": "Video2NAND – Abusing video codecs for great computational power",
       "url": "https://sharedobject.blog/posts/vp8-combinatorial-logic/",
-      "score": 46,
-      "comments": 9,
+      "score": 54,
+      "comments": 10,
       "author": "firer",
       "tags": [],
       "date": "2026-08-02T14:29:01+00:00"
@@ -3339,8 +3383,8 @@
       "source": "hn",
       "title": "Stateless MCP has recaptured my interest",
       "url": "https://simonwillison.net/2026/Jul/31/stateless-mcp/",
-      "score": 11,
-      "comments": 2,
+      "score": 110,
+      "comments": 64,
       "author": "tosh",
       "tags": [],
       "date": "2026-08-01T05:51:36+00:00"
@@ -5069,70 +5113,26 @@
       "date": "2026-07-30T15:10:27+00:00"
     },
     {
-      "id": "hn-49111019",
+      "id": "hn-49105978",
       "source": "hn",
-      "title": "Show HN: Claude-account – switch Claude Code accounts without logging in again",
-      "url": "https://github.com/hamzarehmandeveloper/claude-account",
-      "score": 31,
-      "comments": 21,
-      "author": "hamza_rehman",
-      "tags": [],
-      "date": "2026-07-30T14:58:59+00:00"
-    },
-    {
-      "id": "hn-49111006",
-      "source": "hn",
-      "title": "Paging Through a Parquet File in DuckDB: File_row_number or Offset?",
-      "url": "https://rusty.today/blog/paging-parquet-duckdb-file-row-number-vs-offset/",
-      "score": 28,
-      "comments": 3,
-      "author": "rustyconover",
-      "tags": [],
-      "date": "2026-07-30T14:58:07+00:00"
-    },
-    {
-      "id": "hn-49110912",
-      "source": "hn",
-      "title": "Kraid is a now a real compiler",
-      "url": "https://www.collabora.com/news-and-blog/news-and-events/kraid-is-a-now-a-real-compiler.html",
-      "score": 7,
-      "comments": 0,
-      "author": "losgehts",
-      "tags": [],
-      "date": "2026-07-30T14:52:03+00:00"
-    },
-    {
-      "id": "hn-49110655",
-      "source": "hn",
-      "title": "SDL_GPU minimal, single-header, high-performance 2D graphics painting library",
-      "url": "https://github.com/n67094/sdl_gp",
-      "score": 45,
-      "comments": 16,
-      "author": "n67094",
-      "tags": [],
-      "date": "2026-07-30T14:36:59+00:00"
-    },
-    {
-      "id": "hn-49110577",
-      "source": "hn",
-      "title": "Trusted URLs via Cryptographic Signatures",
-      "url": "https://blog.certisfy.com/2026/04/trusted-urls-via-cryptographic.html",
+      "title": "\"Gravity is worth asking about.\"",
+      "url": "https://unsung.aresluna.org/gravity-is-worth-asking-about/",
       "score": 16,
-      "comments": 11,
-      "author": "Edmond",
+      "comments": 6,
+      "author": "nozzlegear",
       "tags": [],
-      "date": "2026-07-30T14:31:13+00:00"
+      "date": "2026-07-30T03:57:33+00:00"
     },
     {
-      "id": "hn-49110547",
+      "id": "hn-49084236",
       "source": "hn",
-      "title": "Hacker Public Radio",
-      "url": "https://hackerpublicradio.org/",
-      "score": 114,
-      "comments": 21,
-      "author": "bmacho",
+      "title": "Rio-vt and librio: Rio's terminal engine, now embeddable",
+      "url": "https://rioterm.com/blog/2026/07/27/rio-vt-and-librio",
+      "score": 23,
+      "comments": 4,
+      "author": "vinhnx",
       "tags": [],
-      "date": "2026-07-30T14:29:27+00:00"
+      "date": "2026-07-28T14:15:49+00:00"
     },
     {
       "id": "ctf-4233874",
@@ -5346,6 +5346,32 @@
       "date": "2023-05-23T17:06:23Z"
     },
     {
+      "id": "zenn-72c6944e05",
+      "source": "zennqiita",
+      "sub_source": "Zenn",
+      "title": "プロンプトエンジニアリングのすすめかた",
+      "url": "https://zenn.dev/nrs/articles/70db94beb7b76d",
+      "score": null,
+      "author": "nrs",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Tue, 04 Aug 2026 10:40:05 GMT"
+    },
+    {
+      "id": "zenn-0223ac8c1c",
+      "source": "zennqiita",
+      "sub_source": "Zenn",
+      "title": "プロンプトキャッシュを意識して claude code のトークンを節約しよう",
+      "url": "https://zenn.dev/ceres_tech_blog/articles/7163ae482e124e",
+      "score": null,
+      "author": "tamapon",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Tue, 04 Aug 2026 07:48:52 GMT"
+    },
+    {
       "id": "zenn-0f3fd4baac",
       "source": "zennqiita",
       "sub_source": "Zenn",
@@ -5411,17 +5437,17 @@
       "date": "Tue, 04 Aug 2026 00:02:05 GMT"
     },
     {
-      "id": "zenn-60198d66af",
+      "id": "zenn-a707549007",
       "source": "zennqiita",
       "sub_source": "Zenn",
-      "title": "AIエージェント向けのツールを、MCPではなくCLIとして作った — 設計の3原則",
-      "url": "https://zenn.dev/codatum/articles/80b99faba75704",
+      "title": "AI家臣団を解散して、影武者を一人だけ残した　兵法書と訓練記録",
+      "url": "https://zenn.dev/shio_shoppaize/books/kagemusha-book",
       "score": null,
-      "author": "g0e",
+      "author": "おしお",
       "tags": [
         "Zenn"
       ],
-      "date": "Mon, 03 Aug 2026 23:02:09 GMT"
+      "date": "Mon, 03 Aug 2026 20:34:35 GMT"
     },
     {
       "id": "zenn-2bf30fee34",
@@ -5450,6 +5476,19 @@
       "date": "Mon, 03 Aug 2026 08:25:48 GMT"
     },
     {
+      "id": "zenn-8e83ac723c",
+      "source": "zennqiita",
+      "sub_source": "Zenn",
+      "title": "入出力フォーマットで LLM トークンはどれだけ変わるのか",
+      "url": "https://zenn.dev/aiforall/articles/8cbeb63f5cbc00",
+      "score": null,
+      "author": "たこやき",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Mon, 03 Aug 2026 05:38:52 GMT"
+    },
+    {
       "id": "zenn-af192b5b0b",
       "source": "zennqiita",
       "sub_source": "Zenn",
@@ -5474,19 +5513,6 @@
         "Zenn"
       ],
       "date": "Mon, 03 Aug 2026 05:21:53 GMT"
-    },
-    {
-      "id": "zenn-ac15b096d0",
-      "source": "zennqiita",
-      "sub_source": "Zenn",
-      "title": "UnityのDIは本当に必要か：Zenject継続・Reflex新規採用・VContainer比較の判断軸",
-      "url": "https://zenn.dev/gamedev_toollab/articles/945a5084be2a38",
-      "score": null,
-      "author": "GameDev Tool Lab",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Mon, 03 Aug 2026 01:00:06 GMT"
     },
     {
       "id": "zenn-505bdcc0e9",
@@ -5526,19 +5552,6 @@
         "Zenn"
       ],
       "date": "Sun, 02 Aug 2026 07:13:50 GMT"
-    },
-    {
-      "id": "zenn-2ee4c71808",
-      "source": "zennqiita",
-      "sub_source": "Zenn",
-      "title": "育てて学ぶ はじめての自作プログラミング言語",
-      "url": "https://zenn.dev/kb84tkhr/books/learning-by-growing-language",
-      "score": null,
-      "author": "kb84tkhr",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Sun, 02 Aug 2026 06:22:58 GMT"
     },
     {
       "id": "zenn-7f10885e63",
@@ -5591,19 +5604,6 @@
         "Zenn"
       ],
       "date": "Sat, 01 Aug 2026 01:35:46 GMT"
-    },
-    {
-      "id": "zenn-fb9f3c85b8",
-      "source": "zennqiita",
-      "sub_source": "Zenn",
-      "title": "ローカルタスク管理アプリを設計してみた",
-      "url": "https://zenn.dev/headwaters/articles/76f20490b76952",
-      "score": null,
-      "author": "takito",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Fri, 31 Jul 2026 23:36:46 GMT"
     },
     {
       "id": "edb-9bdf9aa505",

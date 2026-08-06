@@ -1,14 +1,74 @@
 {
-  "updated_at": "2026-08-06T03:49:02.214525+00:00",
+  "updated_at": "2026-08-06T06:29:21.568470+00:00",
   "count": 500,
   "items": [
+    {
+      "id": "qiita-d4fd03ae57",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "Data Catalog 第2回：Object Storage上のOracle Databaseマニュアルと文書インベントリParquetをカタログ化してみてみた",
+      "url": "https://qiita.com/shirok/items/bb431a6bd37fb1ef0cd6?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "shirok",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-08-06T14:32:18+09:00"
+    },
+    {
+      "id": "qiita-3c2e198d51",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "Data CatalogでObject Storage内のCSVとParquetを自動カタログ化してみてみた",
+      "url": "https://qiita.com/shirok/items/d23855d5634f528f796c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "shirok",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-08-06T14:24:46+09:00"
+    },
+    {
+      "id": "hn-49192566",
+      "source": "hn",
+      "title": "Crime Pays but Botany Doesn't",
+      "url": "https://www.crimepaysbutbotanydoesnt.com/reading-list",
+      "score": 6,
+      "comments": 0,
+      "author": "DarkContinent",
+      "tags": [],
+      "date": "2026-08-06T04:46:35+00:00"
+    },
+    {
+      "id": "hn-49192277",
+      "source": "hn",
+      "title": "Ship Safe, an open source security scanner for coding agents",
+      "url": "https://github.com/asamassekou10/ship-safe",
+      "score": 5,
+      "comments": 2,
+      "author": "asamassekou",
+      "tags": [],
+      "date": "2026-08-06T04:02:28+00:00",
+      "severity": "critical"
+    },
+    {
+      "id": "hn-49192219",
+      "source": "hn",
+      "title": "Show HN: Wallfacer – A terminal session manager for Claude Code, and more",
+      "url": "https://github.com/pradipta/wallfacer",
+      "score": 12,
+      "comments": 5,
+      "author": "pradiptasarma",
+      "tags": [],
+      "date": "2026-08-06T03:52:56+00:00"
+    },
     {
       "id": "hn-49191624",
       "source": "hn",
       "title": "Nashville uses eminent domain to block data center near zoo",
       "url": "https://www.costar.com/article/970809918/nashville-council-approves-eminent-domain-action-to-halt-data-center-project",
-      "score": 80,
-      "comments": 67,
+      "score": 193,
+      "comments": 212,
       "author": "mapping365",
       "tags": [],
       "date": "2026-08-06T02:15:14+00:00"
@@ -29,8 +89,8 @@
       "source": "hn",
       "title": "The title cards in Blade Runner are amazing",
       "url": "https://randsinrepose.com/archives/blade-runner-title-cards/",
-      "score": 183,
-      "comments": 81,
+      "score": 219,
+      "comments": 97,
       "author": "ExMachina73",
       "tags": [],
       "date": "2026-08-05T21:29:23+00:00"
@@ -40,8 +100,8 @@
       "source": "hn",
       "title": "NVIDIA’s Vera Whitepaper Has a Thread Loose",
       "url": "https://chipsandcheese.com/p/nvidias-vera-whitepaper-has-a-thread",
-      "score": 104,
-      "comments": 14,
+      "score": 114,
+      "comments": 17,
       "author": "pella",
       "tags": [],
       "date": "2026-08-05T21:24:45+00:00"
@@ -51,8 +111,8 @@
       "source": "hn",
       "title": "I'll be stepping back from leading product for X",
       "url": "https://twitter.com/nikitabier/status/2085105586966827343/",
-      "score": 84,
-      "comments": 129,
+      "score": 109,
+      "comments": 183,
       "author": "DearAll",
       "tags": [],
       "date": "2026-08-05T21:15:40+00:00"
@@ -62,8 +122,8 @@
       "source": "hn",
       "title": "Prime Agent: A self-improving RLM agent",
       "url": "https://www.primeintellect.ai/blog/prime-agent",
-      "score": 124,
-      "comments": 21,
+      "score": 156,
+      "comments": 27,
       "author": "Xeophon",
       "tags": [],
       "date": "2026-08-05T21:11:57+00:00"
@@ -84,8 +144,8 @@
       "source": "hn",
       "title": "I'm switching my phone from Android to Linux",
       "url": "https://runarcn.no/android-to-linux/",
-      "score": 241,
-      "comments": 196,
+      "score": 273,
+      "comments": 239,
       "author": "speckx",
       "tags": [],
       "date": "2026-08-05T19:50:13+00:00"
@@ -95,8 +155,8 @@
       "source": "hn",
       "title": "Muse Code and Muse Spark 1.2",
       "url": "https://research.meta.ai/blog/introducing-muse-code-and-muse-spark-1-2",
-      "score": 203,
-      "comments": 120,
+      "score": 228,
+      "comments": 132,
       "author": "paulkrush",
       "tags": [],
       "date": "2026-08-05T19:15:52+00:00"
@@ -117,8 +177,8 @@
       "source": "hn",
       "title": "Zed DeltaDB",
       "url": "https://zed.dev/deltadb",
-      "score": 332,
-      "comments": 174,
+      "score": 366,
+      "comments": 199,
       "author": "ahamez",
       "tags": [],
       "date": "2026-08-05T18:52:54+00:00"
@@ -139,8 +199,8 @@
       "source": "hn",
       "title": "Born Against, or why hobby programming communities are against LLM usage",
       "url": "https://blog.fogus.me/llm/born-against.html",
-      "score": 162,
-      "comments": 162,
+      "score": 207,
+      "comments": 197,
       "author": "lladnar",
       "tags": [],
       "date": "2026-08-05T18:37:49+00:00"
@@ -150,8 +210,8 @@
       "source": "hn",
       "title": "Beating GPT-5.6 Sol on retrieval with 100x cheaper open models",
       "url": "https://neon.com/blog/how-castform-neon-beats-frontier-models-on-price-and-efficiency",
-      "score": 243,
-      "comments": 59,
+      "score": 278,
+      "comments": 70,
       "author": "moonikakiss",
       "tags": [],
       "date": "2026-08-05T18:18:56+00:00"
@@ -172,8 +232,8 @@
       "source": "hn",
       "title": "Atlassian Rovo Exfiltrates Data, Bypassing Controls",
       "url": "https://www.promptarmor.com/resources/atlassian-rovo-exfiltrates-data",
-      "score": 186,
-      "comments": 74,
+      "score": 203,
+      "comments": 79,
       "author": "hackerBanana",
       "tags": [],
       "date": "2026-08-05T17:23:25+00:00",
@@ -206,7 +266,7 @@
       "source": "hn",
       "title": "Celld: Self-hosted, distributed Durable Objects",
       "url": "https://github.com/denoland/celld",
-      "score": 164,
+      "score": 188,
       "comments": 30,
       "author": "calvinfo",
       "tags": [],
@@ -217,8 +277,8 @@
       "source": "hn",
       "title": "Launch HN: HyperProbe (YC S26) – Agents that do read-only debugging in prod",
       "url": "https://www.hyperprobe.co",
-      "score": 38,
-      "comments": 27,
+      "score": 51,
+      "comments": 40,
       "author": "shailendraht",
       "tags": [],
       "date": "2026-08-05T16:47:15+00:00"
@@ -239,8 +299,8 @@
       "source": "hn",
       "title": "Discovery Loop",
       "url": "https://www.discoveryloop.com/",
-      "score": 640,
-      "comments": 395,
+      "score": 688,
+      "comments": 423,
       "author": "xtreak29",
       "tags": [],
       "date": "2026-08-05T16:19:44+00:00"
@@ -261,8 +321,8 @@
       "source": "hn",
       "title": "Changes at Google DeepMind: Demis Hassabis from CEO to Chair, Jeff Dean departs",
       "url": "https://blog.google/company-news/inside-google/message-ceo/next-chapter-ai-momentum/",
-      "score": 529,
-      "comments": 618,
+      "score": 593,
+      "comments": 654,
       "author": "colesantiago",
       "tags": [],
       "date": "2026-08-05T16:05:31+00:00"
@@ -404,8 +464,8 @@
       "source": "hn",
       "title": "Cloudflare OS: an open platform for agents, apps, and work",
       "url": "https://blog.cloudflare.com/cloudflare-os/",
-      "score": 488,
-      "comments": 252,
+      "score": 529,
+      "comments": 257,
       "author": "speckx",
       "tags": [],
       "date": "2026-08-05T13:58:53+00:00"
@@ -537,8 +597,8 @@
       "source": "hn",
       "title": "Position: LLMs Can't Jump",
       "url": "https://openreview.net/challenge?redirect=%2Fforum%3Fid%3DklU4737opt",
-      "score": 249,
-      "comments": 171,
+      "score": 263,
+      "comments": 179,
       "author": "theanonymousone",
       "tags": [],
       "date": "2026-08-05T11:01:37+00:00"
@@ -692,19 +752,6 @@
       "date": "2026-08-05T11:41:04+09:00"
     },
     {
-      "id": "qiita-3c2e198d51",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "Data CatalogでObject Storage内のCSVとParquetを自動カタログ化してみてみた",
-      "url": "https://qiita.com/shirok/items/d23855d5634f528f796c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "shirok",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-08-05T11:24:10+09:00"
-    },
-    {
       "id": "hn-49177554",
       "source": "hn",
       "title": "After Losses, Retail Investors Flock to 3x Leverage as 2x Product Are Restricted",
@@ -727,19 +774,6 @@
         "Qiita"
       ],
       "date": "2026-08-05T10:01:35+09:00"
-    },
-    {
-      "id": "qiita-d4fd03ae57",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "Data Catalog 第2回：Object Storage上のOracle Databaseマニュアルと文書インベントリParquetをカタログ化してみてみた",
-      "url": "https://qiita.com/shirok/items/bb431a6bd37fb1ef0cd6?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "shirok",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-08-05T09:46:49+09:00"
     },
     {
       "id": "qiita-13aced9788",
@@ -1923,6 +1957,17 @@
       "date": "2026-08-03T16:17:59+00:00"
     },
     {
+      "id": "hn-49157792",
+      "source": "hn",
+      "title": "Decimen Optical Transfer: fountain-coded QR file transfer",
+      "url": "https://github.com/bashalarmistalt/decimen-optical-transfer",
+      "score": 6,
+      "comments": 1,
+      "author": "ksec",
+      "tags": [],
+      "date": "2026-08-03T16:17:03+00:00"
+    },
+    {
       "id": "hn-49157645",
       "source": "hn",
       "title": "Explanation of INT8 ConvRot (FP8 is no longer needed)",
@@ -2316,8 +2361,8 @@
       "source": "hn",
       "title": "Branchless Rust: Making a Filter 4x Faster by Removing an If",
       "url": "https://www.greyblake.com/blog/branchless-rust/",
-      "score": 45,
-      "comments": 9,
+      "score": 111,
+      "comments": 25,
       "author": "greyblake",
       "tags": [],
       "date": "2026-08-03T06:37:05+00:00"
@@ -2924,8 +2969,8 @@
       "source": "hn",
       "title": "GNU Hurd News 2026-Q2",
       "url": "https://www.gnu.org/software/hurd/news/2026-q2.html",
-      "score": 144,
-      "comments": 95,
+      "score": 164,
+      "comments": 106,
       "author": "plaguna",
       "tags": [],
       "date": "2026-08-02T16:57:32+00:00"
@@ -4585,8 +4630,8 @@
       "source": "hn",
       "title": "Goodhart's Law Comes for Every Benchmark You Trust",
       "url": "https://cacm.acm.org/blogcacm/goodharts-law-comes-for-every-benchmark-you-trust/",
-      "score": 71,
-      "comments": 31,
+      "score": 81,
+      "comments": 33,
       "author": "pseudolus",
       "tags": [],
       "date": "2026-07-31T18:14:48+00:00"
@@ -5067,61 +5112,15 @@
       "date": "2026-07-31T13:38:04+00:00"
     },
     {
-      "id": "hn-49122882",
+      "id": "hn-49112348",
       "source": "hn",
-      "title": "Anti-fraud tools can't keep pace with robocall scammers",
-      "url": "https://broadbandbreakfast.com/how-to-fight-back-against-fraudulent-robocalls/",
-      "score": 47,
-      "comments": 63,
-      "author": "dredmorbius",
+      "title": "Quantego: A Family of Lego Models of IBM Quantum Computers",
+      "url": "https://quantego.org/",
+      "score": 14,
+      "comments": 2,
+      "author": "rbanffy",
       "tags": [],
-      "date": "2026-07-31T13:28:05+00:00"
-    },
-    {
-      "id": "hn-49122655",
-      "source": "hn",
-      "title": "Autoregressive Language Model on the 6502 Processor",
-      "url": "https://mattbeton.com/blog/bitnet-6502.html",
-      "score": 111,
-      "comments": 10,
-      "author": "nmstoker",
-      "tags": [],
-      "date": "2026-07-31T13:08:30+00:00"
-    },
-    {
-      "id": "qiita-6219fbb0ac",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "化合物の生成エネルギーワークフロー：Notebook からプラットフォーム自動化へ",
-      "url": "https://qiita.com/Yuliia/items/02a01e0ed5579ea52ca9?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "Yuliia",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-07-31T22:02:59+09:00"
-    },
-    {
-      "id": "hn-49106756",
-      "source": "hn",
-      "title": "The Origins of Vintage Comics Part 1",
-      "url": "https://www.truegrittexturesupply.com/blogs/news/origins-of-the-vintage-comics-aesthetic-part-1",
-      "score": 16,
-      "comments": 1,
-      "author": "Michelangelo11",
-      "tags": [],
-      "date": "2026-07-30T06:45:32+00:00"
-    },
-    {
-      "id": "hn-49099904",
-      "source": "hn",
-      "title": "Pushing the limits of RISC-V emulation",
-      "url": "https://shuklaayu.sh/blog/riscv-recompiler",
-      "score": 32,
-      "comments": 11,
-      "author": "shuklaayush",
-      "tags": [],
-      "date": "2026-07-29T16:48:56+00:00"
+      "date": "2026-07-30T16:35:08+00:00"
     },
     {
       "id": "ctf-4233874",
@@ -5348,6 +5347,46 @@
       "date": "Wed, 05 Aug 2026 11:19:01 GMT"
     },
     {
+      "id": "zenn-3c8fe6c9e9",
+      "source": "zennqiita",
+      "sub_source": "Zenn",
+      "title": "脆弱性を作り込まないために、Claude公式「Security Guidance Plugin」を導入した話",
+      "url": "https://zenn.dev/rakko_inc/articles/claude-code-security-guidance-intro",
+      "score": null,
+      "author": "maya honey",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Wed, 05 Aug 2026 09:25:00 GMT",
+      "severity": "high"
+    },
+    {
+      "id": "zenn-2d56782dae",
+      "source": "zennqiita",
+      "sub_source": "Zenn",
+      "title": "SkillをGitHub Copilotで\"育てる\" — 実証的プロンプト改善の実践レポート",
+      "url": "https://zenn.dev/aiforall/articles/cb36b724e20a43",
+      "score": null,
+      "author": "たこやき",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Wed, 05 Aug 2026 08:23:13 GMT"
+    },
+    {
+      "id": "zenn-5ffe64c283",
+      "source": "zennqiita",
+      "sub_source": "Zenn",
+      "title": "仕様書から保証台帳へ、GDD（保証駆動開発）のすすめ",
+      "url": "https://zenn.dev/yktsnet/articles/202608-guarantee-driven-development",
+      "score": null,
+      "author": "yktsnet",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Wed, 05 Aug 2026 07:42:28 GMT"
+    },
+    {
       "id": "zenn-b499a36915",
       "source": "zennqiita",
       "sub_source": "Zenn",
@@ -5374,19 +5413,6 @@
       "date": "Wed, 05 Aug 2026 03:00:09 GMT"
     },
     {
-      "id": "zenn-d689342499",
-      "source": "zennqiita",
-      "sub_source": "Zenn",
-      "title": "タイムボクシングのすすめ",
-      "url": "https://zenn.dev/tokium_dev/articles/timeboxing-design-and-practice",
-      "score": null,
-      "author": "あのたろう",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Wed, 05 Aug 2026 01:00:05 GMT"
-    },
-    {
       "id": "zenn-72c6944e05",
       "source": "zennqiita",
       "sub_source": "Zenn",
@@ -5411,19 +5437,6 @@
         "Zenn"
       ],
       "date": "Tue, 04 Aug 2026 04:57:19 GMT"
-    },
-    {
-      "id": "zenn-be3929b832",
-      "source": "zennqiita",
-      "sub_source": "Zenn",
-      "title": "生成AIの品質保証をどう設計する？ ― 「全部QAで見る」をやめて、機械とAIと人に分けた話",
-      "url": "https://zenn.dev/wn_engineering/articles/95911ca28a7b1f",
-      "score": null,
-      "author": "大久保 椋也",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Tue, 04 Aug 2026 03:00:06 GMT"
     },
     {
       "id": "zenn-43e1f4c61c",
@@ -5541,19 +5554,6 @@
         "Zenn"
       ],
       "date": "Mon, 03 Aug 2026 05:26:48 GMT"
-    },
-    {
-      "id": "zenn-7e7e5b05a8",
-      "source": "zennqiita",
-      "sub_source": "Zenn",
-      "title": "Herdr で止まらず、精度の高い開発を進める工夫 ─ intent-cli で意図をもとに開発する",
-      "url": "https://zenn.dev/jtechjapan_pub/articles/intent-cli-herdr-orchestration",
-      "score": null,
-      "author": "tomohisa",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Mon, 03 Aug 2026 05:21:53 GMT"
     },
     {
       "id": "zenn-505bdcc0e9",

@@ -1,14 +1,36 @@
 {
-  "updated_at": "2026-08-06T00:02:45.096895+00:00",
+  "updated_at": "2026-08-06T03:49:02.214525+00:00",
   "count": 500,
   "items": [
+    {
+      "id": "hn-49191624",
+      "source": "hn",
+      "title": "Nashville uses eminent domain to block data center near zoo",
+      "url": "https://www.costar.com/article/970809918/nashville-council-approves-eminent-domain-action-to-halt-data-center-project",
+      "score": 80,
+      "comments": 67,
+      "author": "mapping365",
+      "tags": [],
+      "date": "2026-08-06T02:15:14+00:00"
+    },
+    {
+      "id": "hn-49191365",
+      "source": "hn",
+      "title": "LLMs won't break symmetric crypto",
+      "url": "https://www.bfswa.blog/p/llms-wont-break-symmetric-crypto",
+      "score": 48,
+      "comments": 45,
+      "author": "rowbin",
+      "tags": [],
+      "date": "2026-08-06T01:39:06+00:00"
+    },
     {
       "id": "hn-49189287",
       "source": "hn",
       "title": "The title cards in Blade Runner are amazing",
       "url": "https://randsinrepose.com/archives/blade-runner-title-cards/",
-      "score": 104,
-      "comments": 29,
+      "score": 183,
+      "comments": 81,
       "author": "ExMachina73",
       "tags": [],
       "date": "2026-08-05T21:29:23+00:00"
@@ -18,19 +40,30 @@
       "source": "hn",
       "title": "NVIDIA’s Vera Whitepaper Has a Thread Loose",
       "url": "https://chipsandcheese.com/p/nvidias-vera-whitepaper-has-a-thread",
-      "score": 62,
-      "comments": 6,
+      "score": 104,
+      "comments": 14,
       "author": "pella",
       "tags": [],
       "date": "2026-08-05T21:24:45+00:00"
+    },
+    {
+      "id": "hn-49189113",
+      "source": "hn",
+      "title": "I'll be stepping back from leading product for X",
+      "url": "https://twitter.com/nikitabier/status/2085105586966827343/",
+      "score": 84,
+      "comments": 129,
+      "author": "DearAll",
+      "tags": [],
+      "date": "2026-08-05T21:15:40+00:00"
     },
     {
       "id": "hn-49189075",
       "source": "hn",
       "title": "Prime Agent: A self-improving RLM agent",
       "url": "https://www.primeintellect.ai/blog/prime-agent",
-      "score": 73,
-      "comments": 10,
+      "score": 124,
+      "comments": 21,
       "author": "Xeophon",
       "tags": [],
       "date": "2026-08-05T21:11:57+00:00"
@@ -51,8 +84,8 @@
       "source": "hn",
       "title": "I'm switching my phone from Android to Linux",
       "url": "https://runarcn.no/android-to-linux/",
-      "score": 168,
-      "comments": 141,
+      "score": 241,
+      "comments": 196,
       "author": "speckx",
       "tags": [],
       "date": "2026-08-05T19:50:13+00:00"
@@ -62,8 +95,8 @@
       "source": "hn",
       "title": "Muse Code and Muse Spark 1.2",
       "url": "https://research.meta.ai/blog/introducing-muse-code-and-muse-spark-1-2",
-      "score": 144,
-      "comments": 85,
+      "score": 203,
+      "comments": 120,
       "author": "paulkrush",
       "tags": [],
       "date": "2026-08-05T19:15:52+00:00"
@@ -84,8 +117,8 @@
       "source": "hn",
       "title": "Zed DeltaDB",
       "url": "https://zed.dev/deltadb",
-      "score": 267,
-      "comments": 135,
+      "score": 332,
+      "comments": 174,
       "author": "ahamez",
       "tags": [],
       "date": "2026-08-05T18:52:54+00:00"
@@ -106,8 +139,8 @@
       "source": "hn",
       "title": "Born Against, or why hobby programming communities are against LLM usage",
       "url": "https://blog.fogus.me/llm/born-against.html",
-      "score": 68,
-      "comments": 70,
+      "score": 162,
+      "comments": 162,
       "author": "lladnar",
       "tags": [],
       "date": "2026-08-05T18:37:49+00:00"
@@ -117,8 +150,8 @@
       "source": "hn",
       "title": "Beating GPT-5.6 Sol on retrieval with 100x cheaper open models",
       "url": "https://neon.com/blog/how-castform-neon-beats-frontier-models-on-price-and-efficiency",
-      "score": 190,
-      "comments": 35,
+      "score": 243,
+      "comments": 59,
       "author": "moonikakiss",
       "tags": [],
       "date": "2026-08-05T18:18:56+00:00"
@@ -128,8 +161,8 @@
       "source": "hn",
       "title": "Sycophantic AI Decreases Prosocial Intentions and Promotes Dependence (2025)",
       "url": "https://arxiv.org/abs/2510.01395",
-      "score": 28,
-      "comments": 9,
+      "score": 86,
+      "comments": 58,
       "author": "robin_reala",
       "tags": [],
       "date": "2026-08-05T18:17:03+00:00"
@@ -139,8 +172,8 @@
       "source": "hn",
       "title": "Atlassian Rovo Exfiltrates Data, Bypassing Controls",
       "url": "https://www.promptarmor.com/resources/atlassian-rovo-exfiltrates-data",
-      "score": 155,
-      "comments": 56,
+      "score": 186,
+      "comments": 74,
       "author": "hackerBanana",
       "tags": [],
       "date": "2026-08-05T17:23:25+00:00",
@@ -173,8 +206,8 @@
       "source": "hn",
       "title": "Celld: Self-hosted, distributed Durable Objects",
       "url": "https://github.com/denoland/celld",
-      "score": 128,
-      "comments": 19,
+      "score": 164,
+      "comments": 30,
       "author": "calvinfo",
       "tags": [],
       "date": "2026-08-05T16:50:06+00:00"
@@ -206,8 +239,8 @@
       "source": "hn",
       "title": "Discovery Loop",
       "url": "https://www.discoveryloop.com/",
-      "score": 529,
-      "comments": 327,
+      "score": 640,
+      "comments": 395,
       "author": "xtreak29",
       "tags": [],
       "date": "2026-08-05T16:19:44+00:00"
@@ -228,8 +261,8 @@
       "source": "hn",
       "title": "Changes at Google DeepMind: Demis Hassabis from CEO to Chair, Jeff Dean departs",
       "url": "https://blog.google/company-news/inside-google/message-ceo/next-chapter-ai-momentum/",
-      "score": 420,
-      "comments": 545,
+      "score": 529,
+      "comments": 618,
       "author": "colesantiago",
       "tags": [],
       "date": "2026-08-05T16:05:31+00:00"
@@ -371,8 +404,8 @@
       "source": "hn",
       "title": "Cloudflare OS: an open platform for agents, apps, and work",
       "url": "https://blog.cloudflare.com/cloudflare-os/",
-      "score": 443,
-      "comments": 225,
+      "score": 488,
+      "comments": 252,
       "author": "speckx",
       "tags": [],
       "date": "2026-08-05T13:58:53+00:00"
@@ -504,8 +537,8 @@
       "source": "hn",
       "title": "Position: LLMs Can't Jump",
       "url": "https://openreview.net/challenge?redirect=%2Fforum%3Fid%3DklU4737opt",
-      "score": 187,
-      "comments": 132,
+      "score": 249,
+      "comments": 171,
       "author": "theanonymousone",
       "tags": [],
       "date": "2026-08-05T11:01:37+00:00"
@@ -1713,6 +1746,17 @@
       "date": "2026-08-03T21:39:12+00:00"
     },
     {
+      "id": "hn-49161799",
+      "source": "hn",
+      "title": "Do birds enjoy flying? Analysis of affect after flight in galah (E roseicapilla)",
+      "url": "https://brill.com/view/journals/beh/aop/article-10.1163-1568539X-bja10370/article-10.1163-1568539X-bja10370.xml",
+      "score": 6,
+      "comments": 1,
+      "author": "bookofjoe",
+      "tags": [],
+      "date": "2026-08-03T21:39:02+00:00"
+    },
+    {
       "id": "hn-49161518",
       "source": "hn",
       "title": "LLMs reward expertise",
@@ -2266,6 +2310,17 @@
       "author": "paavohtl",
       "tags": [],
       "date": "2026-08-03T06:42:00+00:00"
+    },
+    {
+      "id": "hn-49151991",
+      "source": "hn",
+      "title": "Branchless Rust: Making a Filter 4x Faster by Removing an If",
+      "url": "https://www.greyblake.com/blog/branchless-rust/",
+      "score": 45,
+      "comments": 9,
+      "author": "greyblake",
+      "tags": [],
+      "date": "2026-08-03T06:37:05+00:00"
     },
     {
       "id": "hn-49151933",
@@ -2869,8 +2924,8 @@
       "source": "hn",
       "title": "GNU Hurd News 2026-Q2",
       "url": "https://www.gnu.org/software/hurd/news/2026-q2.html",
-      "score": 114,
-      "comments": 74,
+      "score": 144,
+      "comments": 95,
       "author": "plaguna",
       "tags": [],
       "date": "2026-08-02T16:57:32+00:00"
@@ -4530,8 +4585,8 @@
       "source": "hn",
       "title": "Goodhart's Law Comes for Every Benchmark You Trust",
       "url": "https://cacm.acm.org/blogcacm/goodharts-law-comes-for-every-benchmark-you-trust/",
-      "score": 53,
-      "comments": 23,
+      "score": 71,
+      "comments": 31,
       "author": "pseudolus",
       "tags": [],
       "date": "2026-07-31T18:14:48+00:00"
@@ -4629,8 +4684,8 @@
       "source": "hn",
       "title": "Exact, parallel 2D Delaunay triangulation for int32 coordinates",
       "url": "https://github.com/morishuz/delaunay32",
-      "score": 21,
-      "comments": 1,
+      "score": 34,
+      "comments": 2,
       "author": "oryx1729",
       "tags": [],
       "date": "2026-07-31T16:45:03+00:00"
@@ -5047,82 +5102,23 @@
       "date": "2026-07-31T22:02:59+09:00"
     },
     {
-      "id": "qiita-5bf9b00a62",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "OCI GenAI Agents の RAG の回答精度を上げるなら、生成モデルよりハーネスだった",
-      "url": "https://qiita.com/asahide/items/7ef27f2a2fd2c9c3bba7?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "asahide",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-07-31T21:15:45+09:00"
-    },
-    {
-      "id": "hn-49122105",
+      "id": "hn-49106756",
       "source": "hn",
-      "title": "Ruby Central's Destructive Legacy",
-      "url": "https://andre.arko.net/2026/07/30/ruby-centrals-destructive-legacy/",
-      "score": 35,
-      "comments": 17,
-      "author": "4d66ba06",
+      "title": "The Origins of Vintage Comics Part 1",
+      "url": "https://www.truegrittexturesupply.com/blogs/news/origins-of-the-vintage-comics-aesthetic-part-1",
+      "score": 16,
+      "comments": 1,
+      "author": "Michelangelo11",
       "tags": [],
-      "date": "2026-07-31T12:10:55+00:00"
-    },
-    {
-      "id": "hn-49122034",
-      "source": "hn",
-      "title": "Tasklet (YC P26) Is Hiring a Customer Success Engineer",
-      "url": "https://tasklet.ai/careers/customer-success-engineer",
-      "score": 1,
-      "comments": 0,
-      "author": "mayop100",
-      "tags": [],
-      "date": "2026-07-31T12:00:59+00:00"
-    },
-    {
-      "id": "hn-49121980",
-      "source": "hn",
-      "title": "The End of an Era",
-      "url": "https://hughhowey.com/the-end-of-an-era/",
-      "score": 351,
-      "comments": 386,
-      "author": "harscoat",
-      "tags": [],
-      "date": "2026-07-31T11:51:46+00:00"
-    },
-    {
-      "id": "qiita-c91b854173",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "【初心者向け】ActiveReportsの帳票修正はどこから確認する？",
-      "url": "https://qiita.com/T-furukubo/items/b0505663e14c56124d2b?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "T-furukubo",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-07-31T20:50:47+09:00"
-    },
-    {
-      "id": "hn-49115096",
-      "source": "hn",
-      "title": "Discovery of a multicomponent alloy forged by the Hiroshima atomic blast",
-      "url": "https://www.science.org/doi/10.1126/sciadv.aeg8299",
-      "score": 104,
-      "comments": 40,
-      "author": "_____k",
-      "tags": [],
-      "date": "2026-07-30T20:09:43+00:00"
+      "date": "2026-07-30T06:45:32+00:00"
     },
     {
       "id": "hn-49099904",
       "source": "hn",
       "title": "Pushing the limits of RISC-V emulation",
       "url": "https://shuklaayu.sh/blog/riscv-recompiler",
-      "score": 6,
-      "comments": 1,
+      "score": 32,
+      "comments": 11,
       "author": "shuklaayush",
       "tags": [],
       "date": "2026-07-29T16:48:56+00:00"

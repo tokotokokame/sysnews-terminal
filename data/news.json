@@ -1,14 +1,59 @@
 {
-  "updated_at": "2026-08-10T21:12:15.841311+00:00",
+  "updated_at": "2026-08-10T22:08:57.619566+00:00",
   "count": 500,
   "items": [
+    {
+      "id": "hn-49250109",
+      "source": "hn",
+      "title": "How Claude marks AI-generated content",
+      "url": "https://support.claude.com/en/articles/16266773-how-claude-marks-ai-generated-content",
+      "score": 14,
+      "comments": 6,
+      "author": "mfiguiere",
+      "tags": [],
+      "date": "2026-08-10T21:36:56+00:00"
+    },
+    {
+      "id": "hn-49249986",
+      "source": "hn",
+      "title": "We cut a 40-day financial integration down to 5 days using Google Anti",
+      "url": "https://discuss.google.dev/t/trusted-automation-with-google-antigravity-scaling-secure-finance-integrations-from-40-days-to-5/383313",
+      "score": 3,
+      "comments": 0,
+      "author": "simontwigg",
+      "tags": [],
+      "date": "2026-08-10T21:27:02+00:00"
+    },
+    {
+      "id": "hn-49249971",
+      "source": "hn",
+      "title": "Amazon backs power plant that may become top source of US climate pollution",
+      "url": "https://arstechnica.com/tech-policy/2026/08/amazon-funds-biggest-gas-power-plant-in-us-despite-climate-pledge/",
+      "score": 30,
+      "comments": 17,
+      "author": "pjmlp",
+      "tags": [],
+      "date": "2026-08-10T21:26:16+00:00",
+      "severity": "critical"
+    },
+    {
+      "id": "hn-49249481",
+      "source": "hn",
+      "title": "Stop Killing Games: It's time to sue Sony, join us",
+      "url": "https://www.massaschadeconsument.nl/collectieve-acties/playstation/",
+      "score": 32,
+      "comments": 9,
+      "author": "EDM115",
+      "tags": [],
+      "date": "2026-08-10T20:47:13+00:00"
+    },
     {
       "id": "hn-49249150",
       "source": "hn",
       "title": "Illinois Just Passed a Law That Puts Linux on the Hook for Age Verification",
       "url": "https://linuxstans.com/illinois-hb5511-operating-system-age-verification/",
-      "score": 71,
-      "comments": 57,
+      "score": 189,
+      "comments": 208,
       "author": "speckx",
       "tags": [],
       "date": "2026-08-10T20:20:06+00:00"
@@ -29,8 +74,8 @@
       "source": "hn",
       "title": "Rust SIMD on the GPU",
       "url": "https://www.vectorware.com/blog/simd-on-gpu/",
-      "score": 59,
-      "comments": 31,
+      "score": 77,
+      "comments": 38,
       "author": "sagacity",
       "tags": [],
       "date": "2026-08-10T18:12:49+00:00"
@@ -63,8 +108,8 @@
       "source": "hn",
       "title": "Show HN: Needle2: 14MB agentic LLM for phones, wearables, smart home and robots",
       "url": "https://cactuscompute.com/needle",
-      "score": 20,
-      "comments": 3,
+      "score": 64,
+      "comments": 36,
       "author": "HenryNdubuaku",
       "tags": [],
       "date": "2026-08-10T17:22:07+00:00"
@@ -75,7 +120,7 @@
       "title": "Launch HN: Stoa Markets (YC S26) – A Marketplace for GPUs and AI Servers",
       "url": "https://www.stoaexchange.com",
       "score": 58,
-      "comments": 29,
+      "comments": 34,
       "author": "erenberke",
       "tags": [],
       "date": "2026-08-10T16:35:27+00:00"
@@ -96,8 +141,8 @@
       "source": "hn",
       "title": "Exploiting System Management Mode with a very long interrupt",
       "url": "https://github.com/xoreaxeaxeax/smiiiiiiiiiiiiiiii",
-      "score": 94,
-      "comments": 30,
+      "score": 103,
+      "comments": 34,
       "author": "WhiteDawn",
       "tags": [],
       "date": "2026-08-10T16:03:14+00:00",
@@ -163,8 +208,8 @@
       "source": "hn",
       "title": "Extreme 220GHz+Broadband Silicon Capacitor X2SC 0201M 22nF BV11",
       "url": "https://pim.murata.com/asset/pim4/siliconCapacitor/SICAP_X2SC422522_PDF_SILICONCAPACITOR",
-      "score": 50,
-      "comments": 17,
+      "score": 51,
+      "comments": 19,
       "author": "peter_d_sherman",
       "tags": [],
       "date": "2026-08-10T15:53:01+00:00"
@@ -174,8 +219,8 @@
       "source": "hn",
       "title": "Magnitude 7.4 Earthquake – 5 km S of San José del Palmar, Colombia",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tjl2/executive",
-      "score": 137,
-      "comments": 43,
+      "score": 142,
+      "comments": 50,
       "author": "Bender",
       "tags": [],
       "date": "2026-08-10T15:49:48+00:00"
@@ -240,8 +285,8 @@
       "source": "hn",
       "title": "Letter to Governor Abbott on responsible AI infrastructure in Texas",
       "url": "https://openai.com/index/responsible-ai-infrastructure-texas/",
-      "score": 68,
-      "comments": 128,
+      "score": 72,
+      "comments": 137,
       "author": "hackerBanana",
       "tags": [],
       "date": "2026-08-10T14:38:20+00:00"
@@ -288,7 +333,7 @@
       "source": "hn",
       "title": "Exploring Claude/GPT Knowledge Cutoffs and Pre-Training Timelines",
       "url": "https://blog.sshh.io/p/exploring-claudegpt-knowledge-cutoffs",
-      "score": 63,
+      "score": 78,
       "comments": 11,
       "author": "sshh12",
       "tags": [],
@@ -299,8 +344,8 @@
       "source": "hn",
       "title": "Humanising LLM Outputs Is Dumb",
       "url": "https://kuber.studio/blog/Reflections/Humanising-LLM-Outputs-is-Actually-Dumb",
-      "score": 85,
-      "comments": 46,
+      "score": 101,
+      "comments": 58,
       "author": "kuberwastaken",
       "tags": [],
       "date": "2026-08-10T13:35:40+00:00"
@@ -310,8 +355,8 @@
       "source": "hn",
       "title": "Mistral Patent for “Code implemented tool calls”",
       "url": "https://patentsgazette.uspto.gov/week26/OG/html/1547-5/US12670045-20260630.html",
-      "score": 181,
-      "comments": 148,
+      "score": 193,
+      "comments": 160,
       "author": "theanonymousone",
       "tags": [],
       "date": "2026-08-10T13:29:12+00:00"
@@ -378,8 +423,8 @@
       "source": "hn",
       "title": "Squeak 6.1",
       "url": "https://squeak.org/release_notes/6.1/",
-      "score": 181,
-      "comments": 91,
+      "score": 192,
+      "comments": 97,
       "author": "fniephaus",
       "tags": [],
       "date": "2026-08-10T12:15:53+00:00"
@@ -402,8 +447,8 @@
       "source": "hn",
       "title": "Tail-call optimization in C is relatively recent (2025)",
       "url": "https://lwn.net/Articles/1034703/",
-      "score": 102,
-      "comments": 96,
+      "score": 109,
+      "comments": 101,
       "author": "prakashqwerty",
       "tags": [],
       "date": "2026-08-10T11:34:40+00:00"
@@ -435,8 +480,8 @@
       "source": "hn",
       "title": "Parametron: 50s Japanese computer that uses neither transistors nor vacuum tubes",
       "url": "https://ethw.org/Milestones:Parametron,_1954",
-      "score": 146,
-      "comments": 42,
+      "score": 160,
+      "comments": 43,
       "author": "xeonmc",
       "tags": [],
       "date": "2026-08-10T10:29:14+00:00"
@@ -446,8 +491,8 @@
       "source": "hn",
       "title": "Muse Glimmer: 30B-parameter model optimized for always-on local agent workflows",
       "url": "https://research.meta.ai/blog/introducing-muse-glimmer-open-agentic-model",
-      "score": 926,
-      "comments": 520,
+      "score": 943,
+      "comments": 528,
       "author": "riordan",
       "tags": [],
       "date": "2026-08-10T10:10:02+00:00"
@@ -2708,8 +2753,8 @@
       "source": "hn",
       "title": "Sonic Pi v5",
       "url": "https://www.patreon.com/samaaron/posts/sonic-pi-v5-166001392",
-      "score": 228,
-      "comments": 63,
+      "score": 250,
+      "comments": 67,
       "author": "samaaron",
       "tags": [],
       "date": "2026-08-07T10:26:34+00:00"
@@ -2994,6 +3039,17 @@
       "author": "jackdoe",
       "tags": [],
       "date": "2026-08-06T22:41:24+00:00"
+    },
+    {
+      "id": "hn-49203112",
+      "source": "hn",
+      "title": "Show HN: Higher-dimensional lattices unfolded into the 2D plane",
+      "url": "https://number-garden.com/?@THLP@",
+      "score": 4,
+      "comments": 1,
+      "author": "unitX",
+      "tags": [],
+      "date": "2026-08-06T21:52:31+00:00"
     },
     {
       "id": "hn-49203105",
@@ -5003,8 +5059,8 @@
       "source": "hn",
       "title": "The Psychedelic Toad of the Sonoran Desert",
       "url": "https://en.wikipedia.org/wiki/Bufo_Alvarius:_the_Psychedelic_Toad_of_the_Sonoran_Desert",
-      "score": 41,
-      "comments": 31,
+      "score": 53,
+      "comments": 37,
       "author": "simonebrunozzi",
       "tags": [],
       "date": "2026-08-04T17:49:29+00:00"
@@ -5783,81 +5839,6 @@
       "source": "msf",
       "title": "[local] ProtonVPN v4.4.1 - Unquoted Service Path",
       "url": "https://www.exploit-db.com/exploits/52624",
-      "score": null,
-      "author": "Exploit-DB",
-      "tags": [
-        "Exploit-DB",
-        "CVE",
-        "PoC"
-      ],
-      "severity": "high",
-      "date": "Tue, 07 Jul 2026 00:00:00 +0000"
-    },
-    {
-      "id": "edb-d63c1462cc",
-      "source": "msf",
-      "title": "[webapps] Flowise  3.1.3 - arbitrary code execution",
-      "url": "https://www.exploit-db.com/exploits/52623",
-      "score": null,
-      "author": "Exploit-DB",
-      "tags": [
-        "Exploit-DB",
-        "CVE",
-        "PoC"
-      ],
-      "severity": "high",
-      "date": "Tue, 07 Jul 2026 00:00:00 +0000"
-    },
-    {
-      "id": "edb-4893d24fba",
-      "source": "msf",
-      "title": "[remote] Hydra - Stack Buffer Overflow",
-      "url": "https://www.exploit-db.com/exploits/52622",
-      "score": null,
-      "author": "Exploit-DB",
-      "tags": [
-        "Exploit-DB",
-        "CVE",
-        "PoC"
-      ],
-      "severity": "high",
-      "date": "Tue, 07 Jul 2026 00:00:00 +0000"
-    },
-    {
-      "id": "edb-de3fae1aef",
-      "source": "msf",
-      "title": "[webapps] Discuz! X5.0 - Authentication Bypass",
-      "url": "https://www.exploit-db.com/exploits/52621",
-      "score": null,
-      "author": "Exploit-DB",
-      "tags": [
-        "Exploit-DB",
-        "CVE",
-        "PoC"
-      ],
-      "severity": "high",
-      "date": "Tue, 07 Jul 2026 00:00:00 +0000"
-    },
-    {
-      "id": "edb-d3b8e76e1f",
-      "source": "msf",
-      "title": "[webapps] Tenable Nessus 10.12.1 - SQL Injection",
-      "url": "https://www.exploit-db.com/exploits/52620",
-      "score": null,
-      "author": "Exploit-DB",
-      "tags": [
-        "Exploit-DB",
-        "CVE",
-        "PoC"
-      ],
-      "severity": "high",
-      "date": "Tue, 07 Jul 2026 00:00:00 +0000"
-    },
-    {
-      "id": "edb-5af796c5ff",
-      "source": "msf",
-      "title": "[webapps] WordPress Bricks Builder Theme  -  RCE",
-      "url": "https://www.exploit-db.com/exploits/52619",
       "score": null,
       "author": "Exploit-DB",
       "tags": [

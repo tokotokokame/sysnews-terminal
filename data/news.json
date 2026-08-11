@@ -1,7 +1,18 @@
 {
-  "updated_at": "2026-08-11T08:30:09.631483+00:00",
+  "updated_at": "2026-08-11T09:33:24.774493+00:00",
   "count": 500,
   "items": [
+    {
+      "id": "hn-49254880",
+      "source": "hn",
+      "title": "France to ban unsolicited telemarketing calls",
+      "url": "https://www.lemonde.fr/en/france/article/2026/08/06/france-to-ban-unsolicited-telemarketing-calls-from-august-11_6756208_7.html",
+      "score": 73,
+      "comments": 27,
+      "author": "aziaziazi",
+      "tags": [],
+      "date": "2026-08-11T08:15:46+00:00"
+    },
     {
       "id": "qiita-a8d9d2b32c",
       "source": "zennqiita",
@@ -29,6 +40,17 @@
       "date": "2026-08-11T16:44:53+09:00"
     },
     {
+      "id": "hn-49254351",
+      "source": "hn",
+      "title": "The Water Footprint of AI",
+      "url": "https://doi.org/10.1016/j.watres.2026.125866",
+      "score": 8,
+      "comments": 0,
+      "author": "MASNeo",
+      "tags": [],
+      "date": "2026-08-11T07:00:57+00:00"
+    },
+    {
       "id": "qiita-b101c7d234",
       "source": "zennqiita",
       "sub_source": "Qiita",
@@ -46,8 +68,8 @@
       "source": "hn",
       "title": "Show HN: Mcptoon – Token-efficient MCP CLI client",
       "url": "https://github.com/activeing123/mcptoon",
-      "score": 39,
-      "comments": 23,
+      "score": 42,
+      "comments": 32,
       "author": "mcptokensaver",
       "tags": [],
       "date": "2026-08-11T05:26:58+00:00"
@@ -141,8 +163,8 @@
       "source": "hn",
       "title": "Recycle – Floppydisks",
       "url": "https://www.floppydisk.com/recycle",
-      "score": 54,
-      "comments": 24,
+      "score": 61,
+      "comments": 27,
       "author": "calvinmorrison",
       "tags": [],
       "date": "2026-08-11T02:01:01+00:00"
@@ -152,8 +174,8 @@
       "source": "hn",
       "title": "H3-metal – Native MiniMax-H3 inference for Apple Silicon",
       "url": "https://github.com/antirez/h3.c",
-      "score": 233,
-      "comments": 37,
+      "score": 259,
+      "comments": 41,
       "author": "swyx",
       "tags": [],
       "date": "2026-08-11T01:22:09+00:00"
@@ -163,8 +185,8 @@
       "source": "hn",
       "title": "Chicken Scheme 6.0",
       "url": "https://code.call-cc.org/releases/6.0.0/NEWS",
-      "score": 175,
-      "comments": 17,
+      "score": 187,
+      "comments": 19,
       "author": "eatonphil",
       "tags": [],
       "date": "2026-08-11T00:24:15+00:00"
@@ -174,8 +196,8 @@
       "source": "hn",
       "title": "The UK's war on anonymity has come to America",
       "url": "https://www.effort.news/uk-lobby",
-      "score": 470,
-      "comments": 350,
+      "score": 490,
+      "comments": 393,
       "author": "slowin",
       "tags": [],
       "date": "2026-08-10T23:45:50+00:00"
@@ -185,8 +207,8 @@
       "source": "hn",
       "title": "Show HN: Scroll through all 43252003274489856000 Rubik's Cube states",
       "url": "https://everycube.alen.is/",
-      "score": 175,
-      "comments": 57,
+      "score": 185,
+      "comments": 58,
       "author": "Alen123",
       "tags": [],
       "date": "2026-08-10T23:16:25+00:00"
@@ -207,8 +229,8 @@
       "source": "hn",
       "title": "As AI eats the web, the internet’s collective memory is disappearing",
       "url": "https://thewalrus.ca/google-search-is-dying/",
-      "score": 223,
-      "comments": 206,
+      "score": 282,
+      "comments": 272,
       "author": "awnird",
       "tags": [],
       "date": "2026-08-10T22:36:30+00:00"
@@ -218,8 +240,8 @@
       "source": "hn",
       "title": "How Claude marks AI-generated content",
       "url": "https://support.claude.com/en/articles/16266773-how-claude-marks-ai-generated-content",
-      "score": 149,
-      "comments": 103,
+      "score": 174,
+      "comments": 126,
       "author": "mfiguiere",
       "tags": [],
       "date": "2026-08-10T21:36:56+00:00"
@@ -252,8 +274,8 @@
       "source": "hn",
       "title": "Confessions of a Long-Distance Sailor",
       "url": "https://arachnoid.com/lutusp/sailbook.html",
-      "score": 106,
-      "comments": 29,
+      "score": 116,
+      "comments": 30,
       "author": "AntiRush",
       "tags": [],
       "date": "2026-08-10T20:52:55+00:00"
@@ -296,8 +318,8 @@
       "source": "hn",
       "title": "Rust SIMD on the GPU",
       "url": "https://www.vectorware.com/blog/simd-on-gpu/",
-      "score": 177,
-      "comments": 87,
+      "score": 181,
+      "comments": 90,
       "author": "sagacity",
       "tags": [],
       "date": "2026-08-10T18:12:49+00:00"
@@ -330,8 +352,8 @@
       "source": "hn",
       "title": "Show HN: Needle2: 14MB agentic LLM for phones, wearables, smart home and robots",
       "url": "https://cactuscompute.com/needle",
-      "score": 312,
-      "comments": 112,
+      "score": 325,
+      "comments": 117,
       "author": "HenryNdubuaku",
       "tags": [],
       "date": "2026-08-10T17:22:07+00:00"
@@ -352,8 +374,8 @@
       "source": "hn",
       "title": "What's the best programming language for coding agents?",
       "url": "http://danluu.com/pl-tokens/",
-      "score": 161,
-      "comments": 108,
+      "score": 173,
+      "comments": 116,
       "author": "chaychoong",
       "tags": [],
       "date": "2026-08-10T16:28:58+00:00"
@@ -682,8 +704,8 @@
       "source": "hn",
       "title": "Squeak 6.1",
       "url": "https://squeak.org/release_notes/6.1/",
-      "score": 260,
-      "comments": 126,
+      "score": 265,
+      "comments": 129,
       "author": "fniephaus",
       "tags": [],
       "date": "2026-08-10T12:15:53+00:00"
@@ -750,8 +772,8 @@
       "source": "hn",
       "title": "Muse Glimmer: 30B-parameter model optimized for always-on local agent workflows",
       "url": "https://research.meta.ai/blog/introducing-muse-glimmer-open-agentic-model",
-      "score": 1105,
-      "comments": 603,
+      "score": 1112,
+      "comments": 608,
       "author": "riordan",
       "tags": [],
       "date": "2026-08-10T10:10:02+00:00"
@@ -2349,8 +2371,8 @@
       "source": "hn",
       "title": "To Save C, We Must Save ABI",
       "url": "https://thephd.dev/to-save-c-we-must-save-abi-fixing-c-function-abi",
-      "score": 15,
-      "comments": 1,
+      "score": 36,
+      "comments": 9,
       "author": "gurjeet",
       "tags": [],
       "date": "2026-08-08T07:36:55+00:00"
@@ -2858,8 +2880,8 @@
       "source": "hn",
       "title": "Stowaway – Take the window seat on any plane or satellite overhead",
       "url": "https://stowaway.live/",
-      "score": 249,
-      "comments": 29,
+      "score": 264,
+      "comments": 31,
       "author": "thunderbong",
       "tags": [],
       "date": "2026-08-07T13:15:10+00:00"
@@ -3030,7 +3052,7 @@
       "source": "hn",
       "title": "Sonic Pi v5",
       "url": "https://www.patreon.com/samaaron/posts/sonic-pi-v5-166001392",
-      "score": 365,
+      "score": 371,
       "comments": 89,
       "author": "samaaron",
       "tags": [],
@@ -3222,6 +3244,17 @@
         "Qiita"
       ],
       "date": "2026-08-07T12:06:02+09:00"
+    },
+    {
+      "id": "hn-49205441",
+      "source": "hn",
+      "title": "About Rx Kids",
+      "url": "https://rxkids.org/about/",
+      "score": 14,
+      "comments": 0,
+      "author": "mooreds",
+      "tags": [],
+      "date": "2026-08-07T02:58:18+00:00"
     },
     {
       "id": "qiita-95b76fbda3",
@@ -3569,8 +3602,8 @@
       "source": "hn",
       "title": "Faster floating point math with Rust's new API",
       "url": "https://pythonspeed.com/articles/faster-float-math-rust/",
-      "score": 26,
-      "comments": 1,
+      "score": 35,
+      "comments": 2,
       "author": "subset",
       "tags": [],
       "date": "2026-08-06T13:43:12+00:00"
@@ -4285,8 +4318,8 @@
       "source": "hn",
       "title": "The “mechanical miracle” that ruined Mark Twain’s life",
       "url": "https://resobscura.substack.com/p/the-mechanical-miracle-that-ruined",
-      "score": 124,
-      "comments": 63,
+      "score": 136,
+      "comments": 70,
       "author": "benbreen",
       "tags": [],
       "date": "2026-08-05T15:22:23+00:00"
@@ -5167,45 +5200,12 @@
       "date": "2026-08-04T21:31:02+00:00"
     },
     {
-      "id": "hn-49175248",
-      "source": "hn",
-      "title": "Third-party cyber evaluations involving OpenAI models",
-      "url": "https://openai.com/index/third-party-cyber-evaluations-involving-openai-models/",
-      "score": 36,
-      "comments": 4,
-      "author": "glub",
-      "tags": [],
-      "date": "2026-08-04T21:14:19+00:00"
-    },
-    {
-      "id": "hn-49175192",
-      "source": "hn",
-      "title": "Thanks FedEx, This Is Why We Keep Getting Phished (2024)",
-      "url": "https://www.troyhunt.com/thanks-fedex-this-is-why-we-keep-getting-phished/",
-      "score": 212,
-      "comments": 57,
-      "author": "stymaar",
-      "tags": [],
-      "date": "2026-08-04T21:09:39+00:00"
-    },
-    {
-      "id": "hn-49174900",
-      "source": "hn",
-      "title": "I am retiring from fulltime writing (& pseudonymity) to launch Guardian Angel",
-      "url": "https://twitter.com/gwern/status/2084739205071343837",
-      "score": 257,
-      "comments": 156,
-      "author": "mattsterett",
-      "tags": [],
-      "date": "2026-08-04T20:48:17+00:00"
-    },
-    {
       "id": "hn-49173107",
       "source": "hn",
       "title": "LFM2.5 2.6B model competitive with 4x larger models",
       "url": "https://huggingface.co/LiquidAI/LFM2.5-2.6B",
-      "score": 57,
-      "comments": 16,
+      "score": 68,
+      "comments": 17,
       "author": "nateb2022",
       "tags": [],
       "date": "2026-08-04T18:47:25+00:00"
@@ -5563,6 +5563,19 @@
       "date": "Sat, 08 Aug 2026 02:14:37 GMT"
     },
     {
+      "id": "zenn-6fab381df8",
+      "source": "zennqiita",
+      "sub_source": "Zenn",
+      "title": "お気に入りマップBot を作ろう - ためる→まとめる→ながめる（LINE Bot × GAS × Tableau）",
+      "url": "https://zenn.dev/4geru/books/gas-favorite-map-handson",
+      "score": null,
+      "author": "しげる",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Fri, 07 Aug 2026 12:28:18 GMT"
+    },
+    {
       "id": "zenn-5120016418",
       "source": "zennqiita",
       "sub_source": "Zenn",
@@ -5639,19 +5652,6 @@
         "Zenn"
       ],
       "date": "Wed, 05 Aug 2026 03:00:10 GMT"
-    },
-    {
-      "id": "zenn-0f3fd4baac",
-      "source": "zennqiita",
-      "sub_source": "Zenn",
-      "title": "Microsoft 謹製 デスクトップアプリ「Skill Recorder」で業務効率化スキル（SKILL.md）の作成が捗る？",
-      "url": "https://zenn.dev/benjuwan/articles/c2ba48e7662f92",
-      "score": null,
-      "author": "benjuwan",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Tue, 04 Aug 2026 04:57:19 GMT"
     },
     {
       "id": "edb-e7de27f45c",

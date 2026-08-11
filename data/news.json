@@ -1,7 +1,20 @@
 {
-  "updated_at": "2026-08-11T22:40:00.973221+00:00",
+  "updated_at": "2026-08-11T23:38:53.828191+00:00",
   "count": 500,
   "items": [
+    {
+      "id": "qiita-5837b33b06",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "[AWS] DynamoDBでチャンク分割時のデータ保持構造を考えてみた",
+      "url": "https://qiita.com/kikuziro/items/f8f892066235e2d3601e?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "kikuziro",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-08-12T08:25:16+09:00"
+    },
     {
       "id": "qiita-4abb0ae65e",
       "source": "zennqiita",
@@ -20,19 +33,30 @@
       "source": "hn",
       "title": "WorldClaw Agentic 3D open-world generation at scale",
       "url": "https://tencent-hunyuan.github.io/Hunyuan3D-WorldClaw/",
-      "score": 12,
-      "comments": 3,
+      "score": 55,
+      "comments": 19,
       "author": "EwanG",
       "tags": [],
       "date": "2026-08-11T21:56:18+00:00"
+    },
+    {
+      "id": "hn-49265031",
+      "source": "hn",
+      "title": "pg_clickhouse v0.10: Subquery pushdown and 1000x faster TPC-H queries",
+      "url": "https://clickhouse.com/blog/pg_clickhouse-whats-new-july-2026",
+      "score": 22,
+      "comments": 0,
+      "author": "saisrirampur",
+      "tags": [],
+      "date": "2026-08-11T21:54:25+00:00"
     },
     {
       "id": "hn-49264755",
       "source": "hn",
       "title": "Suzanne: AI tool for designing and manufacturing physical products",
       "url": "https://www.suzanne3d.com/",
-      "score": 8,
-      "comments": 5,
+      "score": 21,
+      "comments": 12,
       "author": "Samanthajeanneb",
       "tags": [],
       "date": "2026-08-11T21:28:26+00:00"
@@ -42,8 +66,8 @@
       "source": "hn",
       "title": "Emergent Introspective Awareness in Large Language Models",
       "url": "https://arxiv.org/abs/2601.01828",
-      "score": 10,
-      "comments": 2,
+      "score": 13,
+      "comments": 3,
       "author": "doener",
       "tags": [],
       "date": "2026-08-11T21:14:10+00:00"
@@ -64,8 +88,8 @@
       "source": "hn",
       "title": "Compression is prediction",
       "url": "https://ngrok.com/blog/compression-is-prediction",
-      "score": 159,
-      "comments": 66,
+      "score": 191,
+      "comments": 82,
       "author": "nikolay",
       "tags": [],
       "date": "2026-08-11T19:49:44+00:00"
@@ -86,8 +110,8 @@
       "source": "hn",
       "title": "Nvidia Nemotron 3.5 Lightning and NeMo Switchyard",
       "url": "https://blogs.nvidia.com/blog/nemotron-lightning-switchyard-rtx-dgx/",
-      "score": 134,
-      "comments": 62,
+      "score": 153,
+      "comments": 79,
       "author": "droidjj",
       "tags": [],
       "date": "2026-08-11T19:35:52+00:00"
@@ -108,8 +132,8 @@
       "source": "hn",
       "title": "Making holograms with a pen plotter",
       "url": "https://blog.jordan.matelsky.com/Penplotter-holography/",
-      "score": 83,
-      "comments": 9,
+      "score": 99,
+      "comments": 11,
       "author": "DemiGuru",
       "tags": [],
       "date": "2026-08-11T18:51:35+00:00"
@@ -130,19 +154,30 @@
       "source": "hn",
       "title": "How we used to get jobs: A newspaper classifieds story",
       "url": "https://ironicsans.ghost.io/how-we-used-to-get-jobs/",
-      "score": 83,
-      "comments": 66,
+      "score": 96,
+      "comments": 80,
       "author": "speckx",
       "tags": [],
       "date": "2026-08-11T18:09:56+00:00"
+    },
+    {
+      "id": "hn-49262172",
+      "source": "hn",
+      "title": "Ethical Cold Outreach",
+      "url": "https://blog.val.town/ethical-cold-outreach",
+      "score": 9,
+      "comments": 0,
+      "author": "stevekrouse",
+      "tags": [],
+      "date": "2026-08-11T18:06:55+00:00"
     },
     {
       "id": "hn-49261895",
       "source": "hn",
       "title": "OpenSSH 10.5/10.5p1",
       "url": "https://www.openssh.org/releasenotes.html#10.5",
-      "score": 80,
-      "comments": 29,
+      "score": 86,
+      "comments": 30,
       "author": "voxadam",
       "tags": [],
       "date": "2026-08-11T17:49:37+00:00"
@@ -163,8 +198,8 @@
       "source": "hn",
       "title": "Grok Bot",
       "url": "https://x.ai/bot",
-      "score": 58,
-      "comments": 62,
+      "score": 91,
+      "comments": 90,
       "author": "rvz",
       "tags": [],
       "date": "2026-08-11T17:23:09+00:00"
@@ -174,8 +209,8 @@
       "source": "hn",
       "title": "CSS properties you should know for better text designs",
       "url": "https://master.dev/blog/typographic-css-tricks/",
-      "score": 48,
-      "comments": 5,
+      "score": 61,
+      "comments": 6,
       "author": "ibobev",
       "tags": [],
       "date": "2026-08-11T17:16:06+00:00"
@@ -196,8 +231,8 @@
       "source": "hn",
       "title": "RSI Simulator",
       "url": "https://www.paradigm.xyz/writing/rsi-simulator",
-      "score": 12,
-      "comments": 6,
+      "score": 20,
+      "comments": 10,
       "author": "ckraeuter",
       "tags": [],
       "date": "2026-08-11T17:01:21+00:00"
@@ -218,8 +253,8 @@
       "source": "hn",
       "title": "Mojo 1.0",
       "url": "https://www.modular.com/blog/modular-26-5-mojo-1-0-is-here",
-      "score": 229,
-      "comments": 105,
+      "score": 250,
+      "comments": 114,
       "author": "dayanruben",
       "tags": [],
       "date": "2026-08-11T16:56:46+00:00"
@@ -229,8 +264,8 @@
       "source": "hn",
       "title": "Show HN: Git-knife – edit commit messages, authors, and dates like a spreadsheet",
       "url": "https://github.com/TheRealYT/git-knife",
-      "score": 113,
-      "comments": 83,
+      "score": 121,
+      "comments": 84,
       "author": "YonathanTesfaye",
       "tags": [],
       "date": "2026-08-11T15:09:34+00:00"
@@ -253,7 +288,7 @@
       "source": "hn",
       "title": "Apple Silicon and macOS VMs: Faster LLM Inference with llama.cpp",
       "url": "https://github.com/trycua/cua/blob/main/blog/gpu-passthrough-macos-vms.md",
-      "score": 270,
+      "score": 275,
       "comments": 43,
       "author": "frabonacci",
       "tags": [],
@@ -308,8 +343,8 @@
       "source": "hn",
       "title": "Manus will return to operating as an independent company",
       "url": "https://manus.im/blog/a-note-to-our-users",
-      "score": 119,
-      "comments": 63,
+      "score": 125,
+      "comments": 66,
       "author": "thm",
       "tags": [],
       "date": "2026-08-11T14:14:53+00:00"
@@ -388,8 +423,8 @@
       "source": "hn",
       "title": "Stealing Reasoning Traces from Proprietary LLM APIs",
       "url": "https://stolen-thoughts.com/",
-      "score": 432,
-      "comments": 176,
+      "score": 456,
+      "comments": 199,
       "author": "quantumgarbage",
       "tags": [],
       "date": "2026-08-11T13:22:00+00:00"
@@ -408,25 +443,12 @@
       "date": "2026-08-11T22:12:45+09:00"
     },
     {
-      "id": "qiita-5837b33b06",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "[AWS] DynamoDBでチャンク分割時のデータ保持構造を考えてみた",
-      "url": "https://qiita.com/kikuziro/items/f8f892066235e2d3601e?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "kikuziro",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-08-11T22:07:38+09:00"
-    },
-    {
       "id": "hn-49257377",
       "source": "hn",
       "title": "England set to be one of the first countries to eliminate hepatitis C",
       "url": "https://www.bbc.com/news/articles/c75gk620r22o",
-      "score": 466,
-      "comments": 333,
+      "score": 477,
+      "comments": 339,
       "author": "stevekemp",
       "tags": [],
       "date": "2026-08-11T12:41:59+00:00"
@@ -482,8 +504,8 @@
       "source": "hn",
       "title": "Nvidia's Risky Business",
       "url": "https://stratechery.com/2026/nvidias-risky-business/",
-      "score": 269,
-      "comments": 122,
+      "score": 281,
+      "comments": 130,
       "author": "jonbaer",
       "tags": [],
       "date": "2026-08-11T10:02:00+00:00"
@@ -517,8 +539,8 @@
       "source": "hn",
       "title": "London Underground begins scanning passengers' faces",
       "url": "https://www.btp.police.uk/news/btp/news/england/btp-expands-live-facial-recognition-lfr-trial-into-london-underground-stations/",
-      "score": 173,
-      "comments": 207,
+      "score": 191,
+      "comments": 222,
       "author": "BlueBerry2001",
       "tags": [],
       "date": "2026-08-11T09:40:02+00:00"
@@ -2498,8 +2520,8 @@
       "source": "hn",
       "title": "Show HN: iPhone app takes simultaneous images from 2 lenses, fuses into 1 photo",
       "url": "https://photosynthesis.camera",
-      "score": 153,
-      "comments": 163,
+      "score": 176,
+      "comments": 178,
       "author": "sajomes",
       "tags": [],
       "date": "2026-08-08T22:47:10+00:00"
@@ -2624,8 +2646,8 @@
       "source": "hn",
       "title": "Jolt: Clojure compiler implemented with Chez Scheme",
       "url": "https://jolt-lang.github.io",
-      "score": 132,
-      "comments": 48,
+      "score": 136,
+      "comments": 50,
       "author": "mark_l_watson",
       "tags": [],
       "date": "2026-08-08T17:38:20+00:00"
@@ -3124,7 +3146,7 @@
       "source": "hn",
       "title": "The Hat and the Spectre – Recent Groundbreaking Discoveries in Mathematics",
       "url": "https://momath.org/the-hat/",
-      "score": 5,
+      "score": 7,
       "comments": 1,
       "author": "vismit2000",
       "tags": [],
@@ -5174,28 +5196,6 @@
       "author": "speckx",
       "tags": [],
       "date": "2026-08-05T13:58:53+00:00"
-    },
-    {
-      "id": "hn-49182985",
-      "source": "hn",
-      "title": "Silicon Valley sees AI as the solution – for everyone else",
-      "url": "https://observer.co.uk/news/science-technology/article/silicon-valley-sees-ai-as-the-solution-for-everyone-else-its-the-problem",
-      "score": 28,
-      "comments": 12,
-      "author": "MaysonL",
-      "tags": [],
-      "date": "2026-08-05T13:58:28+00:00"
-    },
-    {
-      "id": "hn-49182957",
-      "source": "hn",
-      "title": "Not hiring junior engineers won't solve the problem you think you have",
-      "url": "https://franciscotrindade.me/blog/the-kids-are-alright/",
-      "score": 24,
-      "comments": 17,
-      "author": "gpi",
-      "tags": [],
-      "date": "2026-08-05T13:55:48+00:00"
     },
     {
       "id": "ctf-4233874",

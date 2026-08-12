@@ -1,7 +1,18 @@
 {
-  "updated_at": "2026-08-11T23:38:53.828191+00:00",
+  "updated_at": "2026-08-12T01:51:54.652796+00:00",
   "count": 500,
   "items": [
+    {
+      "id": "hn-49266277",
+      "source": "hn",
+      "title": "CFTC declares market emergency, orders Kalshi to continue to operate in New York",
+      "url": "https://www.cftc.gov/PressRoom/PressReleases/9281-26",
+      "score": 104,
+      "comments": 74,
+      "author": "michaefe",
+      "tags": [],
+      "date": "2026-08-12T00:17:59+00:00"
+    },
     {
       "id": "qiita-5837b33b06",
       "source": "zennqiita",
@@ -33,8 +44,8 @@
       "source": "hn",
       "title": "WorldClaw Agentic 3D open-world generation at scale",
       "url": "https://tencent-hunyuan.github.io/Hunyuan3D-WorldClaw/",
-      "score": 55,
-      "comments": 19,
+      "score": 120,
+      "comments": 40,
       "author": "EwanG",
       "tags": [],
       "date": "2026-08-11T21:56:18+00:00"
@@ -44,8 +55,8 @@
       "source": "hn",
       "title": "pg_clickhouse v0.10: Subquery pushdown and 1000x faster TPC-H queries",
       "url": "https://clickhouse.com/blog/pg_clickhouse-whats-new-july-2026",
-      "score": 22,
-      "comments": 0,
+      "score": 34,
+      "comments": 2,
       "author": "saisrirampur",
       "tags": [],
       "date": "2026-08-11T21:54:25+00:00"
@@ -55,19 +66,33 @@
       "source": "hn",
       "title": "Suzanne: AI tool for designing and manufacturing physical products",
       "url": "https://www.suzanne3d.com/",
-      "score": 21,
-      "comments": 12,
+      "score": 39,
+      "comments": 27,
       "author": "Samanthajeanneb",
       "tags": [],
       "date": "2026-08-11T21:28:26+00:00"
+    },
+    {
+      "id": "ctf-4372374",
+      "source": "project",
+      "proj_category": "CTF",
+      "title": "Support HTB Writeup",
+      "url": "https://dev.to/blue0x1/support-htb-writeup-4p30",
+      "score": 0,
+      "author": "CTF Platform",
+      "tags": [
+        "CTF",
+        "Security"
+      ],
+      "date": "2026-08-11T21:16:15Z"
     },
     {
       "id": "hn-49264583",
       "source": "hn",
       "title": "Emergent Introspective Awareness in Large Language Models",
       "url": "https://arxiv.org/abs/2601.01828",
-      "score": 13,
-      "comments": 3,
+      "score": 26,
+      "comments": 10,
       "author": "doener",
       "tags": [],
       "date": "2026-08-11T21:14:10+00:00"
@@ -88,8 +113,8 @@
       "source": "hn",
       "title": "Compression is prediction",
       "url": "https://ngrok.com/blog/compression-is-prediction",
-      "score": 191,
-      "comments": 82,
+      "score": 257,
+      "comments": 114,
       "author": "nikolay",
       "tags": [],
       "date": "2026-08-11T19:49:44+00:00"
@@ -110,8 +135,8 @@
       "source": "hn",
       "title": "Nvidia Nemotron 3.5 Lightning and NeMo Switchyard",
       "url": "https://blogs.nvidia.com/blog/nemotron-lightning-switchyard-rtx-dgx/",
-      "score": 153,
-      "comments": 79,
+      "score": 182,
+      "comments": 92,
       "author": "droidjj",
       "tags": [],
       "date": "2026-08-11T19:35:52+00:00"
@@ -132,7 +157,7 @@
       "source": "hn",
       "title": "Making holograms with a pen plotter",
       "url": "https://blog.jordan.matelsky.com/Penplotter-holography/",
-      "score": 99,
+      "score": 115,
       "comments": 11,
       "author": "DemiGuru",
       "tags": [],
@@ -154,8 +179,8 @@
       "source": "hn",
       "title": "How we used to get jobs: A newspaper classifieds story",
       "url": "https://ironicsans.ghost.io/how-we-used-to-get-jobs/",
-      "score": 96,
-      "comments": 80,
+      "score": 111,
+      "comments": 88,
       "author": "speckx",
       "tags": [],
       "date": "2026-08-11T18:09:56+00:00"
@@ -198,8 +223,8 @@
       "source": "hn",
       "title": "Grok Bot",
       "url": "https://x.ai/bot",
-      "score": 91,
-      "comments": 90,
+      "score": 144,
+      "comments": 124,
       "author": "rvz",
       "tags": [],
       "date": "2026-08-11T17:23:09+00:00"
@@ -209,8 +234,8 @@
       "source": "hn",
       "title": "CSS properties you should know for better text designs",
       "url": "https://master.dev/blog/typographic-css-tricks/",
-      "score": 61,
-      "comments": 6,
+      "score": 76,
+      "comments": 7,
       "author": "ibobev",
       "tags": [],
       "date": "2026-08-11T17:16:06+00:00"
@@ -231,8 +256,8 @@
       "source": "hn",
       "title": "RSI Simulator",
       "url": "https://www.paradigm.xyz/writing/rsi-simulator",
-      "score": 20,
-      "comments": 10,
+      "score": 31,
+      "comments": 12,
       "author": "ckraeuter",
       "tags": [],
       "date": "2026-08-11T17:01:21+00:00"
@@ -242,8 +267,8 @@
       "source": "hn",
       "title": "Go is an ideal language for AI-assisted software engineering",
       "url": "https://developers.googleblog.com/why-go-is-an-ideal-language-for-ai-assisted-software-engineering/",
-      "score": 137,
-      "comments": 165,
+      "score": 269,
+      "comments": 317,
       "author": "0xedb",
       "tags": [],
       "date": "2026-08-11T16:57:09+00:00"
@@ -253,8 +278,8 @@
       "source": "hn",
       "title": "Mojo 1.0",
       "url": "https://www.modular.com/blog/modular-26-5-mojo-1-0-is-here",
-      "score": 250,
-      "comments": 114,
+      "score": 293,
+      "comments": 129,
       "author": "dayanruben",
       "tags": [],
       "date": "2026-08-11T16:56:46+00:00"
@@ -343,8 +368,8 @@
       "source": "hn",
       "title": "Manus will return to operating as an independent company",
       "url": "https://manus.im/blog/a-note-to-our-users",
-      "score": 125,
-      "comments": 66,
+      "score": 137,
+      "comments": 68,
       "author": "thm",
       "tags": [],
       "date": "2026-08-11T14:14:53+00:00"
@@ -423,8 +448,8 @@
       "source": "hn",
       "title": "Stealing Reasoning Traces from Proprietary LLM APIs",
       "url": "https://stolen-thoughts.com/",
-      "score": 456,
-      "comments": 199,
+      "score": 491,
+      "comments": 207,
       "author": "quantumgarbage",
       "tags": [],
       "date": "2026-08-11T13:22:00+00:00"
@@ -447,8 +472,8 @@
       "source": "hn",
       "title": "England set to be one of the first countries to eliminate hepatitis C",
       "url": "https://www.bbc.com/news/articles/c75gk620r22o",
-      "score": 477,
-      "comments": 339,
+      "score": 490,
+      "comments": 351,
       "author": "stevekemp",
       "tags": [],
       "date": "2026-08-11T12:41:59+00:00"
@@ -504,8 +529,8 @@
       "source": "hn",
       "title": "Nvidia's Risky Business",
       "url": "https://stratechery.com/2026/nvidias-risky-business/",
-      "score": 281,
-      "comments": 130,
+      "score": 295,
+      "comments": 140,
       "author": "jonbaer",
       "tags": [],
       "date": "2026-08-11T10:02:00+00:00"
@@ -539,8 +564,8 @@
       "source": "hn",
       "title": "London Underground begins scanning passengers' faces",
       "url": "https://www.btp.police.uk/news/btp/news/england/btp-expands-live-facial-recognition-lfr-trial-into-london-underground-stations/",
-      "score": 191,
-      "comments": 222,
+      "score": 224,
+      "comments": 254,
       "author": "BlueBerry2001",
       "tags": [],
       "date": "2026-08-11T09:40:02+00:00"
@@ -2520,8 +2545,8 @@
       "source": "hn",
       "title": "Show HN: iPhone app takes simultaneous images from 2 lenses, fuses into 1 photo",
       "url": "https://photosynthesis.camera",
-      "score": 176,
-      "comments": 178,
+      "score": 204,
+      "comments": 206,
       "author": "sajomes",
       "tags": [],
       "date": "2026-08-08T22:47:10+00:00"
@@ -2646,8 +2671,8 @@
       "source": "hn",
       "title": "Jolt: Clojure compiler implemented with Chez Scheme",
       "url": "https://jolt-lang.github.io",
-      "score": 136,
-      "comments": 50,
+      "score": 147,
+      "comments": 54,
       "author": "mark_l_watson",
       "tags": [],
       "date": "2026-08-08T17:38:20+00:00"
@@ -3514,6 +3539,17 @@
       "date": "2026-08-07T14:02:15+00:00"
     },
     {
+      "id": "hn-49210199",
+      "source": "hn",
+      "title": "Show HN: Tamron Lens Utility Alternative on Linux",
+      "url": "https://github.com/yikerman/tamron-lens-control",
+      "score": 22,
+      "comments": 0,
+      "author": "xiaoyu2006",
+      "tags": [],
+      "date": "2026-08-07T13:36:39+00:00"
+    },
+    {
       "id": "hn-49209971",
       "source": "hn",
       "title": "Sorting, hashing, and sketches on 370,103 words",
@@ -4282,6 +4318,17 @@
       "date": "2026-08-06T14:12:18+00:00"
     },
     {
+      "id": "hn-49196657",
+      "source": "hn",
+      "title": "Show HN: Line9 – A Mermaid rendering engine with its own layout",
+      "url": "https://line9.ai/diagram",
+      "score": 25,
+      "comments": 6,
+      "author": "jumpalongjim",
+      "tags": [],
+      "date": "2026-08-06T13:47:54+00:00"
+    },
+    {
       "id": "hn-49196581",
       "source": "hn",
       "title": "Faster floating point math with Rust's new API",
@@ -4615,6 +4662,17 @@
         "Qiita"
       ],
       "date": "2026-08-06T10:10:35+09:00"
+    },
+    {
+      "id": "hn-49191130",
+      "source": "hn",
+      "title": "Retire the Abstractions",
+      "url": "https://hazyresearch.stanford.edu/blog/2026-08-05-retire-the-abstractions",
+      "score": 9,
+      "comments": 5,
+      "author": "convexstrictly",
+      "tags": [],
+      "date": "2026-08-06T01:05:16+00:00"
     },
     {
       "id": "qiita-babde2aba4",
@@ -5154,50 +5212,6 @@
       "date": "2026-08-05T14:04:10+00:00"
     },
     {
-      "id": "hn-49183076",
-      "source": "hn",
-      "title": "Intelligence Is Not the Main Bottleneck",
-      "url": "https://www.writingruxandrabio.com/p/intelligence-is-not-the-main-bottleneck",
-      "score": 98,
-      "comments": 75,
-      "author": "rruxandra_l",
-      "tags": [],
-      "date": "2026-08-05T14:04:06+00:00"
-    },
-    {
-      "id": "hn-49183069",
-      "source": "hn",
-      "title": "TSON – A JSON superset with immutable, hash-pinned schemas",
-      "url": "https://tson.io/",
-      "score": 14,
-      "comments": 9,
-      "author": "andrewjneumann",
-      "tags": [],
-      "date": "2026-08-05T14:03:40+00:00"
-    },
-    {
-      "id": "hn-49183017",
-      "source": "hn",
-      "title": "The Entropy of a Markov Chain",
-      "url": "https://chillphysicsenjoyer.substack.com/p/the-entropy-of-a-markov-chain",
-      "score": 100,
-      "comments": 9,
-      "author": "surprisetalk",
-      "tags": [],
-      "date": "2026-08-05T14:00:10+00:00"
-    },
-    {
-      "id": "hn-49182996",
-      "source": "hn",
-      "title": "Cloudflare OS: an open platform for agents, apps, and work",
-      "url": "https://blog.cloudflare.com/cloudflare-os/",
-      "score": 600,
-      "comments": 288,
-      "author": "speckx",
-      "tags": [],
-      "date": "2026-08-05T13:58:53+00:00"
-    },
-    {
       "id": "ctf-4233874",
       "source": "project",
       "proj_category": "CTF",
@@ -5225,20 +5239,6 @@
         "Security"
       ],
       "date": "2026-07-19T15:52:55Z"
-    },
-    {
-      "id": "ctf-4180475",
-      "source": "project",
-      "proj_category": "CTF",
-      "title": "HackTheBox : Pterodactyl Writeup",
-      "url": "https://dev.to/exploitnotes/hackthebox-pterodactyl-writeup-pgf",
-      "score": 0,
-      "author": "CTF Platform",
-      "tags": [
-        "CTF",
-        "Security"
-      ],
-      "date": "2026-07-19T15:23:09Z"
     },
     {
       "id": "ctf-4180257",
@@ -5381,6 +5381,32 @@
       "date": "2023-05-23T17:06:23Z"
     },
     {
+      "id": "zenn-b1a08774a1",
+      "source": "zennqiita",
+      "sub_source": "Zenn",
+      "title": "macOSでメモリを使い続けるCursorUIViewServiceを無効化する",
+      "url": "https://zenn.dev/discus0434/articles/disable-cursoruiviewservice-macos",
+      "score": null,
+      "author": "動詞",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Tue, 11 Aug 2026 06:21:45 GMT"
+    },
+    {
+      "id": "zenn-bea2550f5b",
+      "source": "zennqiita",
+      "sub_source": "Zenn",
+      "title": "中古サーバ用GPUでローカルLLM環境を作る試算（MI50 / P40 / P100 / V100 / CMP 170HX）",
+      "url": "https://zenn.dev/phpmyadmin/articles/used-server-gpu-local-llm",
+      "score": null,
+      "author": "toyoshi",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Tue, 11 Aug 2026 05:19:22 GMT"
+    },
+    {
       "id": "zenn-9020064086",
       "source": "zennqiita",
       "sub_source": "Zenn",
@@ -5394,6 +5420,19 @@
       "date": "Tue, 11 Aug 2026 01:08:19 GMT"
     },
     {
+      "id": "zenn-bc5116c071",
+      "source": "zennqiita",
+      "sub_source": "Zenn",
+      "title": "1日500コミットを日常にするツールを作りました ── これを使えばだれでも余裕です",
+      "url": "https://zenn.dev/singularity/articles/ever-better-pm2",
+      "score": null,
+      "author": "Isamu",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Mon, 10 Aug 2026 23:47:57 GMT"
+    },
+    {
       "id": "zenn-764d7fcef0",
       "source": "zennqiita",
       "sub_source": "Zenn",
@@ -5405,6 +5444,19 @@
         "Zenn"
       ],
       "date": "Mon, 10 Aug 2026 16:17:55 GMT"
+    },
+    {
+      "id": "zenn-2953044941",
+      "source": "zennqiita",
+      "sub_source": "Zenn",
+      "title": "レンタルサーバーを作ってみた話と、これから作りたいもの",
+      "url": "https://zenn.dev/techfish4/articles/0c502382253a4e",
+      "score": null,
+      "author": "さかな",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Mon, 10 Aug 2026 15:43:49 GMT"
     },
     {
       "id": "zenn-4916d6f02d",
@@ -5470,6 +5522,19 @@
         "Zenn"
       ],
       "date": "Mon, 10 Aug 2026 06:44:56 GMT"
+    },
+    {
+      "id": "zenn-812851299f",
+      "source": "zennqiita",
+      "sub_source": "Zenn",
+      "title": "え?DB側から外部サイトにアクセスさせるSQL Injection?ラボで見てみる攻撃のパターン",
+      "url": "https://zenn.dev/knowledgework/articles/29b2b09ac70350",
+      "score": null,
+      "author": "bun913",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Mon, 10 Aug 2026 06:00:05 GMT"
     },
     {
       "id": "zenn-ce22d737a7",
@@ -5550,32 +5615,6 @@
       "date": "Sun, 09 Aug 2026 02:01:16 GMT"
     },
     {
-      "id": "zenn-2f21da7065",
-      "source": "zennqiita",
-      "sub_source": "Zenn",
-      "title": "Raspberry Pi 5でClaude Codeを動かす",
-      "url": "https://zenn.dev/gsy0911/articles/a4dc76f0639576",
-      "score": null,
-      "author": "gsy0911",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Sat, 08 Aug 2026 13:14:38 GMT"
-    },
-    {
-      "id": "zenn-9038b5b2df",
-      "source": "zennqiita",
-      "sub_source": "Zenn",
-      "title": "C# 15+の新DIパターン: 内部はinterfaceで疎結合、公開APIはunionで型の許容範囲を制御",
-      "url": "https://zenn.dev/inuinu/articles/csharp15-new-di-interface-union-closed",
-      "score": null,
-      "author": "いぬいぬ",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Sat, 08 Aug 2026 13:09:58 GMT"
-    },
-    {
       "id": "zenn-746da2e339",
       "source": "zennqiita",
       "sub_source": "Zenn",
@@ -5600,45 +5639,6 @@
         "Zenn"
       ],
       "date": "Sat, 08 Aug 2026 02:14:37 GMT"
-    },
-    {
-      "id": "zenn-6fab381df8",
-      "source": "zennqiita",
-      "sub_source": "Zenn",
-      "title": "お気に入りマップBot を作ろう - ためる→まとめる→ながめる（LINE Bot × GAS × Tableau）",
-      "url": "https://zenn.dev/4geru/books/gas-favorite-map-handson",
-      "score": null,
-      "author": "しげる",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Fri, 07 Aug 2026 12:28:18 GMT"
-    },
-    {
-      "id": "zenn-4fc4577bee",
-      "source": "zennqiita",
-      "sub_source": "Zenn",
-      "title": "gpt-5.6-sol の high に「ウルトラ」と入力して「ソウル」と話させる技術",
-      "url": "https://zenn.dev/microsoft/articles/agent-framework-ultra-soul",
-      "score": null,
-      "author": "Kazuki Ota",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Wed, 05 Aug 2026 11:19:01 GMT"
-    },
-    {
-      "id": "zenn-5ffe64c283",
-      "source": "zennqiita",
-      "sub_source": "Zenn",
-      "title": "仕様書から保証台帳へ、GDD（保証駆動開発）のすすめ",
-      "url": "https://zenn.dev/yktsnet/articles/202608-guarantee-driven-development",
-      "score": null,
-      "author": "yktsnet",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Wed, 05 Aug 2026 07:42:28 GMT"
     },
     {
       "id": "edb-0493d6ac0d",

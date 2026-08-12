@@ -1,7 +1,18 @@
 {
-  "updated_at": "2026-08-12T17:28:04.335721+00:00",
+  "updated_at": "2026-08-12T18:27:37.691537+00:00",
   "count": 500,
   "items": [
+    {
+      "id": "hn-49276488",
+      "source": "hn",
+      "title": "Agentic Engineering Is Just Everything We Haven't Been Doing",
+      "url": "https://blog.matthewbrunelle.com/agentic-engineering-is-just-everything-we-havent-been-doing/",
+      "score": 5,
+      "comments": 0,
+      "author": "speckx",
+      "tags": [],
+      "date": "2026-08-12T18:13:45+00:00"
+    },
     {
       "id": "hn-49275465",
       "source": "hn",
@@ -14,12 +25,23 @@
       "date": "2026-08-12T17:00:21+00:00"
     },
     {
+      "id": "hn-49275385",
+      "source": "hn",
+      "title": "SpaceXAI's Grok 4.6 Scores 61 on the Artificial Analysis Intelligence Index",
+      "url": "https://artificialanalysis.ai/articles/grok-4-6-benchmarks-and-analysis",
+      "score": 131,
+      "comments": 87,
+      "author": "wertyk",
+      "tags": [],
+      "date": "2026-08-12T16:54:25+00:00"
+    },
+    {
       "id": "hn-49275335",
       "source": "hn",
       "title": "HTML over WebSockets: real-time SPAs with barely any JavaScript",
       "url": "https://en.andros.dev/blog/ef4968f5/html-over-websockets-real-time-spas-with-barely-any-javascript/",
-      "score": 10,
-      "comments": 6,
+      "score": 30,
+      "comments": 22,
       "author": "redbell",
       "tags": [],
       "date": "2026-08-12T16:51:25+00:00"
@@ -29,8 +51,8 @@
       "source": "hn",
       "title": "Glaciers on the Climate Dashboard",
       "url": "https://climate.metoffice.cloud/glaciers.html",
-      "score": 14,
-      "comments": 2,
+      "score": 51,
+      "comments": 3,
       "author": "mooreds",
       "tags": [],
       "date": "2026-08-12T16:38:25+00:00"
@@ -47,34 +69,67 @@
       "date": "2026-08-12T16:37:13+00:00"
     },
     {
+      "id": "hn-49274950",
+      "source": "hn",
+      "title": "Qwen3.8-2.4T",
+      "url": "https://huggingface.co/Qwen/Qwen3.8-2.4T-A95B-FP8",
+      "score": 43,
+      "comments": 5,
+      "author": "mmastrac",
+      "tags": [],
+      "date": "2026-08-12T16:26:16+00:00"
+    },
+    {
       "id": "hn-49274894",
       "source": "hn",
       "title": "Wednesday, August 12: GitHub, Incident with Pull Requests and Issues",
       "url": "https://www.githubstatus.com/incidents/76t89hbfb09h",
-      "score": 27,
-      "comments": 2,
+      "score": 42,
+      "comments": 6,
       "author": "arm32",
       "tags": [],
       "date": "2026-08-12T16:22:27+00:00"
+    },
+    {
+      "id": "hn-49274858",
+      "source": "hn",
+      "title": "We just raised $400M in Series C",
+      "url": "https://lovable.dev/blog/series-c",
+      "score": 33,
+      "comments": 19,
+      "author": "thoughtpeddler",
+      "tags": [],
+      "date": "2026-08-12T16:20:34+00:00"
     },
     {
       "id": "hn-49274854",
       "source": "hn",
       "title": "Bike Bureau: Report Bike Lane Obstructions",
       "url": "https://loudbicycle.com/bb",
-      "score": 20,
-      "comments": 5,
+      "score": 27,
+      "comments": 19,
       "author": "kdmccormick",
       "tags": [],
       "date": "2026-08-12T16:20:22+00:00"
+    },
+    {
+      "id": "hn-49274757",
+      "source": "hn",
+      "title": "Pixel Watch 5",
+      "url": "https://blog.google/products-and-platforms/devices/pixel/pixel-watch-5/",
+      "score": 30,
+      "comments": 26,
+      "author": "ortusdux",
+      "tags": [],
+      "date": "2026-08-12T16:14:37+00:00"
     },
     {
       "id": "hn-49274600",
       "source": "hn",
       "title": "DeepSeek V4 Pro 0813",
       "url": "https://openrouter.ai/deepseek/deepseek-v4-pro-0813",
-      "score": 185,
-      "comments": 50,
+      "score": 333,
+      "comments": 110,
       "author": "explosion-s",
       "tags": [],
       "date": "2026-08-12T16:04:50+00:00"
@@ -95,8 +150,8 @@
       "source": "hn",
       "title": "Qwen/Qwen3.8-2.4T-A95B",
       "url": "https://huggingface.co/Qwen/Qwen3.8-2.4T-A95B",
-      "score": 178,
-      "comments": 52,
+      "score": 218,
+      "comments": 62,
       "author": "Philpax",
       "tags": [],
       "date": "2026-08-12T15:01:17+00:00"
@@ -117,8 +172,8 @@
       "source": "hn",
       "title": "Hax – a minimalist, terminal-native coding agent written in C",
       "url": "https://usehax.dev/",
-      "score": 34,
-      "comments": 6,
+      "score": 45,
+      "comments": 15,
       "author": "OleksandrC",
       "tags": [],
       "date": "2026-08-12T14:43:45+00:00"
@@ -128,8 +183,8 @@
       "source": "hn",
       "title": "License plate reader searches should require a warrant",
       "url": "https://andrewpwheeler.com/2026/08/12/license-plate-reader-searches-should-require-a-warrant/",
-      "score": 325,
-      "comments": 197,
+      "score": 370,
+      "comments": 229,
       "author": "apwheele",
       "tags": [],
       "date": "2026-08-12T14:43:39+00:00"
@@ -139,8 +194,8 @@
       "source": "hn",
       "title": "Tailscale Traces Database Corruption to 16y/o SQLite WAL-Reset Bug",
       "url": "https://tailscale.com/blog/sqlite-wal-reset-bug",
-      "score": 371,
-      "comments": 53,
+      "score": 456,
+      "comments": 74,
       "author": "ropbear",
       "tags": [],
       "date": "2026-08-12T14:22:30+00:00"
@@ -150,8 +205,8 @@
       "source": "hn",
       "title": "Tim King, AmigaDOS developer, has died",
       "url": "https://amiga-news.de/en/news/AN-2026-08-00070-EN.html",
-      "score": 110,
-      "comments": 21,
+      "score": 132,
+      "comments": 23,
       "author": "doener",
       "tags": [],
       "date": "2026-08-12T14:09:11+00:00"
@@ -172,8 +227,8 @@
       "source": "hn",
       "title": "Someone is running mass vulnerability scans, spoofing AI bots like ClaudeBot",
       "url": "https://knownagents.com/insights",
-      "score": 115,
-      "comments": 65,
+      "score": 135,
+      "comments": 84,
       "author": "gavinhking",
       "tags": [],
       "date": "2026-08-12T14:02:46+00:00",
@@ -184,8 +239,8 @@
       "source": "hn",
       "title": "Why Tiny JPEGs Look Different in Chrome",
       "url": "https://guillaumetech.github.io/posts/jpg-scaling-chrome/",
-      "score": 141,
-      "comments": 26,
+      "score": 168,
+      "comments": 30,
       "author": "gutechh",
       "tags": [],
       "date": "2026-08-12T14:00:54+00:00"
@@ -239,8 +294,8 @@
       "source": "hn",
       "title": "AI is removing the middle class of software engineering",
       "url": "https://blog.florianherrengt.com/ai-removing-middle-class-software-engineering.html",
-      "score": 389,
-      "comments": 323,
+      "score": 453,
+      "comments": 378,
       "author": "florianherrengt",
       "tags": [],
       "date": "2026-08-12T13:20:05+00:00"
@@ -250,8 +305,8 @@
       "source": "hn",
       "title": "Shade Map",
       "url": "https://shademap.app",
-      "score": 60,
-      "comments": 16,
+      "score": 70,
+      "comments": 20,
       "author": "fredley",
       "tags": [],
       "date": "2026-08-12T13:01:21+00:00"
@@ -272,8 +327,8 @@
       "source": "hn",
       "title": "2026 Eclipse Webcams",
       "url": "https://jonty.github.io/2026_eclipse_webcams/",
-      "score": 374,
-      "comments": 89,
+      "score": 388,
+      "comments": 100,
       "author": "zoenolan",
       "tags": [],
       "date": "2026-08-12T11:53:01+00:00"
@@ -327,8 +382,8 @@
       "source": "hn",
       "title": "Show HN: Woxi - Open-source Mathematica / Wolfram Language reimplementation",
       "url": "https://woxi.ad-si.com",
-      "score": 203,
-      "comments": 29,
+      "score": 211,
+      "comments": 31,
       "author": "adius",
       "tags": [],
       "date": "2026-08-12T10:06:29+00:00",
@@ -339,8 +394,8 @@
       "source": "hn",
       "title": "What sort of maths are LLMs good at?",
       "url": "https://gowers.wordpress.com/2026/08/12/what-sort-of-maths-are-llms-good-at/",
-      "score": 193,
-      "comments": 89,
+      "score": 201,
+      "comments": 100,
       "author": "ColinWright",
       "tags": [],
       "date": "2026-08-12T10:04:25+00:00"
@@ -1769,8 +1824,8 @@
       "source": "hn",
       "title": "Felix and I",
       "url": "https://jacobfilipp.com/felix/",
-      "score": 42,
-      "comments": 0,
+      "score": 54,
+      "comments": 5,
       "author": "surprisetalk",
       "tags": [],
       "date": "2026-08-10T14:40:24+00:00"
@@ -3823,6 +3878,17 @@
       "date": "2026-08-08T02:43:01+00:00"
     },
     {
+      "id": "hn-49218190",
+      "source": "hn",
+      "title": "The Bit Player: My Father with Steve Zissou",
+      "url": "https://www.theparisreview.org/blog/2026/07/27/the-bit-player-my-father-with-steve-zissou/",
+      "score": 13,
+      "comments": 0,
+      "author": "Thevet",
+      "tags": [],
+      "date": "2026-08-08T01:51:35+00:00"
+    },
+    {
       "id": "hn-49218179",
       "source": "hn",
       "title": "NASA figured out how to keep its Voyager 2 probe running for another year",
@@ -5134,78 +5200,6 @@
       "author": "bookofjoe",
       "tags": [],
       "date": "2026-08-06T10:29:50+00:00"
-    },
-    {
-      "id": "qiita-323ddc3fa4",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "退勤ボタンを『押すだけ』で終わらせず、タイムカード画像まで作った",
-      "url": "https://qiita.com/dev_cat222/items/76e315e07f03d2140a52?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "dev_cat222",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-08-06T18:26:23+09:00"
-    },
-    {
-      "id": "qiita-9c79ac5582",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "【さくらのAI Engine】 Powershellのソースコードレビューをしてみた！",
-      "url": "https://qiita.com/nogizakapython/items/45d77eea55b895946c71?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "nogizakapython",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-08-06T17:25:36+09:00"
-    },
-    {
-      "id": "qiita-2a176b971d",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "グラフエンジニアリング を知ろう-これからも増えてくOOエンジニアリングに我々はどう付き合うべきか",
-      "url": "https://qiita.com/Syoitu/items/e529a09b3d840c85c339?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "Syoitu",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-08-06T16:35:54+09:00"
-    },
-    {
-      "id": "hn-49193673",
-      "source": "hn",
-      "title": "What I love about Django",
-      "url": "https://buttondown.com/blog/what-i-love-about-django",
-      "score": 87,
-      "comments": 57,
-      "author": "j4mie",
-      "tags": [],
-      "date": "2026-08-06T07:34:06+00:00"
-    },
-    {
-      "id": "hn-49193666",
-      "source": "hn",
-      "title": "The German Mittelstand",
-      "url": "https://kieranvelasquez.substack.com/p/on-the-german-mittelstand",
-      "score": 55,
-      "comments": 35,
-      "author": "Michelangelo11",
-      "tags": [],
-      "date": "2026-08-06T07:32:54+00:00"
-    },
-    {
-      "id": "hn-49177765",
-      "source": "hn",
-      "title": "Solving the Shortest Vector Problem in $2^{0.6039n}$ Time via Mid-Point Hessian",
-      "url": "https://arxiv.org/abs/2608.02478",
-      "score": 23,
-      "comments": 4,
-      "author": "sbulaev",
-      "tags": [],
-      "date": "2026-08-05T02:07:06+00:00"
     },
     {
       "id": "ctf-4233874",

@@ -1,14 +1,206 @@
 {
-  "updated_at": "2026-08-13T13:07:45.049404+00:00",
+  "updated_at": "2026-08-13T15:57:59.512485+00:00",
   "count": 500,
   "items": [
+    {
+      "id": "qiita-b7978556fb",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "パスキーはなぜ「盗まれても意味がない」と言えるのか — 公開鍵暗号方式で理解する新しい認証",
+      "url": "https://qiita.com/gts/items/8d3c14dabff88d8f1901?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "gts",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-08-13T23:42:12+09:00"
+    },
+    {
+      "id": "hn-49286654",
+      "source": "hn",
+      "title": "Flock Safety changes system defaults in response to criticisms",
+      "url": "https://www.flocksafety.com/blog/flock-guardrails-address-lpr-privacy-concerns-and-police-transparency",
+      "score": 12,
+      "comments": 6,
+      "author": "LazyMans",
+      "tags": [],
+      "date": "2026-08-13T14:37:29+00:00"
+    },
+    {
+      "id": "qiita-9e15734392",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": ".NET 11 Runtime Async はなぜ速いのか",
+      "url": "https://qiita.com/hez2010/items/2aff0b2b40b9d0bfda91?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "hez2010",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-08-13T23:31:17+09:00"
+    },
+    {
+      "id": "hn-49286485",
+      "source": "hn",
+      "title": "Kubernetes on Oxide: How Customer Needs Shaped Our Integrations",
+      "url": "https://oxide.computer/blog/kubernetes-on-oxide",
+      "score": 37,
+      "comments": 5,
+      "author": "stevehipwell",
+      "tags": [],
+      "date": "2026-08-13T14:26:41+00:00"
+    },
+    {
+      "id": "hn-49286424",
+      "source": "hn",
+      "title": "Graduate Student Proves a Quantum Uncertainty Principle for Fractals",
+      "url": "https://www.quantamagazine.org/graduate-student-proves-the-fractal-uncertainty-principle-20260812/",
+      "score": 12,
+      "comments": 0,
+      "author": "bookofjoe",
+      "tags": [],
+      "date": "2026-08-13T14:22:54+00:00"
+    },
+    {
+      "id": "hn-49286357",
+      "source": "hn",
+      "title": "We eliminated 1,400 CVEs in NanoClaw's container images",
+      "url": "https://www.echo.ai/blog/echo-xnanoclaw-under-the-hood",
+      "score": 21,
+      "comments": 7,
+      "author": "omrimaya",
+      "tags": [],
+      "date": "2026-08-13T14:18:34+00:00",
+      "severity": "high"
+    },
+    {
+      "id": "hn-49286341",
+      "source": "hn",
+      "title": "Spaghettifying DRAM",
+      "url": "https://github.com/xoreaxeaxeax/skitter-creek-bath-salts",
+      "score": 144,
+      "comments": 34,
+      "author": "matt_d",
+      "tags": [],
+      "date": "2026-08-13T14:17:13+00:00"
+    },
+    {
+      "id": "hn-49286270",
+      "source": "hn",
+      "title": "Heart Aerospace Completes First Flight of Largest Electric Aircraft",
+      "url": "https://www.heartaerospace.com/newsroom/heart-aerospace-completes-first-flight-of-world-s-largest-electric-aircraft",
+      "score": 65,
+      "comments": 49,
+      "author": "chha",
+      "tags": [],
+      "date": "2026-08-13T14:11:51+00:00"
+    },
+    {
+      "id": "hn-49286073",
+      "source": "hn",
+      "title": "Show HN: MCP Memory – Fast Agent Memory Using Google's OKF and SQLite FTS5",
+      "url": "https://github.com/fellowgeek/mcp-memory",
+      "score": 32,
+      "comments": 11,
+      "author": "pcbmaker20",
+      "tags": [],
+      "date": "2026-08-13T13:57:47+00:00"
+    },
+    {
+      "id": "hn-49286030",
+      "source": "hn",
+      "title": "Time to Move On: Querying Without Nulls and Bags",
+      "url": "https://arxiv.org/abs/2608.10863",
+      "score": 26,
+      "comments": 4,
+      "author": "Jimmc414",
+      "tags": [],
+      "date": "2026-08-13T13:54:56+00:00"
+    },
+    {
+      "id": "hn-49285982",
+      "source": "hn",
+      "title": "Gloomberb",
+      "url": "https://gloom.sh/",
+      "score": 152,
+      "comments": 55,
+      "author": "rbanffy",
+      "tags": [],
+      "date": "2026-08-13T13:52:32+00:00"
+    },
+    {
+      "id": "hn-49285909",
+      "source": "hn",
+      "title": "Anthropic: Introducing The Conceptual Reasoning Index",
+      "url": "https://alignment.anthropic.com/2026/conceptual-reasoning-index/",
+      "score": 54,
+      "comments": 38,
+      "author": "optimalsolver",
+      "tags": [],
+      "date": "2026-08-13T13:48:14+00:00"
+    },
+    {
+      "id": "hn-49285718",
+      "source": "hn",
+      "title": "I Built a 500k-Domain Search Engine for Makers in a Weekend for $10",
+      "url": "https://alexmorleyfinch.github.io/marlin/history/v1/article/the_birth.html",
+      "score": 39,
+      "comments": 25,
+      "author": "dreamforever",
+      "tags": [],
+      "date": "2026-08-13T13:36:19+00:00"
+    },
+    {
+      "id": "hn-49285418",
+      "source": "hn",
+      "title": "Nine PBS could lose 70 years of archives after cloud vendor goes defunct",
+      "url": "https://www.tomshardware.com/software/cloud-storage/nine-pbs-loses-access-to-70-years-of-data-after-contracted-cloud-storage-vendor-goes-defunct-public-tv-channel-sues-iron-mountain-data-center-which-hosts-archival-materials-to-ensure-preservation",
+      "score": 74,
+      "comments": 34,
+      "author": "vinayakborkar",
+      "tags": [],
+      "date": "2026-08-13T13:14:12+00:00"
+    },
+    {
+      "id": "hn-49285327",
+      "source": "hn",
+      "title": "Choosing an AI model: one prompt, 11 models, different results",
+      "url": "https://www.netlify.com/blog/one-prompt-11-models-very-different-results/",
+      "score": 91,
+      "comments": 48,
+      "author": "toddmorey",
+      "tags": [],
+      "date": "2026-08-13T13:05:29+00:00"
+    },
+    {
+      "id": "hn-49285268",
+      "source": "hn",
+      "title": "My Rules for Using Spreadsheets",
+      "url": "https://leancrew.com/all-this/2026/08/my-rules-for-using-spreadsheets/",
+      "score": 43,
+      "comments": 39,
+      "author": "surprisetalk",
+      "tags": [],
+      "date": "2026-08-13T13:00:24+00:00"
+    },
+    {
+      "id": "hn-49285244",
+      "source": "hn",
+      "title": "DeepSeek Harness",
+      "url": "https://github.com/deepseek-ai/deepseek-harness",
+      "score": 309,
+      "comments": 130,
+      "author": "bjin",
+      "tags": [],
+      "date": "2026-08-13T12:58:02+00:00"
+    },
     {
       "id": "hn-49284774",
       "source": "hn",
       "title": "Deutsche Bank becomes first foreign yuan clearing bank in Europe",
       "url": "https://tradersunion.com/news/central-banks/show/2973571-deutsche-bank-becomes/",
-      "score": 109,
-      "comments": 65,
+      "score": 256,
+      "comments": 286,
       "author": "Markoff",
       "tags": [],
       "date": "2026-08-13T12:09:50+00:00"
@@ -23,6 +215,17 @@
       "author": "dkobran",
       "tags": [],
       "date": "2026-08-13T12:01:02+00:00"
+    },
+    {
+      "id": "hn-49283063",
+      "source": "hn",
+      "title": "Launch HN: Bullet (YC S26) – A Faster Coding Agent",
+      "url": "https://www.codewithbullet.com",
+      "score": 8,
+      "comments": 4,
+      "author": "adi1",
+      "tags": [],
+      "date": "2026-08-13T08:14:30+00:00"
     },
     {
       "id": "qiita-e69be4aa40",
@@ -42,8 +245,8 @@
       "source": "hn",
       "title": "ChatGPT Desktop (Codex Desktop) for Linux",
       "url": "https://openai.com/codex/",
-      "score": 259,
-      "comments": 172,
+      "score": 348,
+      "comments": 244,
       "author": "allanrbo",
       "tags": [],
       "date": "2026-08-13T04:53:41+00:00"
@@ -148,19 +351,6 @@
       "author": "halfradaition",
       "tags": [],
       "date": "2026-08-12T22:47:20+00:00"
-    },
-    {
-      "id": "qiita-b7978556fb",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "パスキーはなぜ「盗まれても意味がない」と言えるのか — 公開鍵暗号方式で理解する新しい認証",
-      "url": "https://qiita.com/gts/items/8d3c14dabff88d8f1901?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "gts",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-08-13T07:10:37+09:00"
     },
     {
       "id": "hn-49279197",
@@ -1715,6 +1905,17 @@
       "date": "2026-08-11T16:44:53+09:00"
     },
     {
+      "id": "hn-49254376",
+      "source": "hn",
+      "title": "The mathematical physics of rainbows and glories(2001) [pdf]",
+      "url": "https://tlakoba.w3.uvm.edu/AppliedUGMath/auxpaper_rainbow_glory_review.pdf",
+      "score": 6,
+      "comments": 0,
+      "author": "num42",
+      "tags": [],
+      "date": "2026-08-11T07:03:49+00:00"
+    },
+    {
       "id": "hn-49254351",
       "source": "hn",
       "title": "The Water Footprint of AI",
@@ -2333,26 +2534,13 @@
     {
       "id": "hn-49243687",
       "source": "hn",
-      "title": "The lattice of sets of natural numbers is rich",
+      "title": "The lattice of sets of natural numbers is rich (2021)",
       "url": "https://jdh.hamkins.org/the-lattice-of-sets-of-natural-numbers-is-rich/",
-      "score": 57,
-      "comments": 9,
+      "score": 85,
+      "comments": 17,
       "author": "benmandrew",
       "tags": [],
       "date": "2026-08-10T13:53:13+00:00"
-    },
-    {
-      "id": "qiita-9e15734392",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": ".NET 11 Runtime Async はなぜ速いのか",
-      "url": "https://qiita.com/hez2010/items/2aff0b2b40b9d0bfda91?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "hez2010",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-08-10T22:48:51+09:00"
     },
     {
       "id": "hn-49243474",
@@ -3275,8 +3463,8 @@
       "source": "hn",
       "title": "Better Gaussian Splatting in Julia",
       "url": "https://pxl-th.github.io/blog/better-gs-julia/",
-      "score": 8,
-      "comments": 1,
+      "score": 62,
+      "comments": 6,
       "author": "pxl-th",
       "tags": [],
       "date": "2026-08-09T15:01:04+00:00"
@@ -3880,8 +4068,8 @@
       "source": "hn",
       "title": "Picking berries is my meditation",
       "url": "https://www.tsoon.com/posts/picking-berries-meditation/",
-      "score": 36,
-      "comments": 22,
+      "score": 79,
+      "comments": 57,
       "author": "mooreds",
       "tags": [],
       "date": "2026-08-08T19:24:02+00:00"
@@ -5006,213 +5194,6 @@
         "Qiita"
       ],
       "date": "2026-08-07T19:54:12+09:00"
-    },
-    {
-      "id": "qiita-11e06edcc1",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "kaggle ROGIIコンペ 6位 - 勘違いからソロ金メダルでマスターへ",
-      "url": "https://qiita.com/kosakae256/items/4190925a724b436eb303?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "kosakae256",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-08-07T19:52:32+09:00"
-    },
-    {
-      "id": "hn-49208458",
-      "source": "hn",
-      "title": "Show HN: textlog – A quiet, text-only microblogging platform, open-source, no JS",
-      "url": "https://textlog.cc/about",
-      "score": 153,
-      "comments": 63,
-      "author": "stagas",
-      "tags": [],
-      "date": "2026-08-07T10:52:21+00:00",
-      "severity": "critical"
-    },
-    {
-      "id": "hn-49208393",
-      "source": "hn",
-      "title": "Kitesurf: Agent-first browser that runs in V8 isolates",
-      "url": "https://blog.cloudflare.com/kitesurf/",
-      "score": 192,
-      "comments": 50,
-      "author": "m3h",
-      "tags": [],
-      "date": "2026-08-07T10:42:07+00:00"
-    },
-    {
-      "id": "hn-49208341",
-      "source": "hn",
-      "title": "Bulldozers Plow Through Big Bend National Park, Sparking Fury in Texas",
-      "url": "https://www.newsweek.com/bulldozers-plow-through-big-bend-national-park-sparking-fury-in-texas-12295668",
-      "score": 17,
-      "comments": 0,
-      "author": "almog",
-      "tags": [],
-      "date": "2026-08-07T10:33:00+00:00"
-    },
-    {
-      "id": "hn-49208314",
-      "source": "hn",
-      "title": "US strikes $1.2B deal to pay German firm to halt offshore wind projects",
-      "url": "https://www.bbc.com/news/articles/c1e1vg0gjl5o",
-      "score": 734,
-      "comments": 698,
-      "author": "defrost",
-      "tags": [],
-      "date": "2026-08-07T10:28:55+00:00"
-    },
-    {
-      "id": "hn-49208296",
-      "source": "hn",
-      "title": "Sonic Pi v5",
-      "url": "https://www.patreon.com/samaaron/posts/sonic-pi-v5-166001392",
-      "score": 405,
-      "comments": 99,
-      "author": "samaaron",
-      "tags": [],
-      "date": "2026-08-07T10:26:34+00:00"
-    },
-    {
-      "id": "qiita-be35da3d20",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "検証環境にEC2 Spot Instanceは最適解なのか？コストと可用性の観点から考えてみた",
-      "url": "https://qiita.com/01_Riri_53/items/047d2c4867e9d21316bb?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "01_Riri_53",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-08-07T18:24:11+09:00"
-    },
-    {
-      "id": "qiita-18fec5cef1",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "AIで完成度を上げたい、でも人間味のない完璧すぎる作品は嫌だ",
-      "url": "https://qiita.com/sumomoo/items/cfe3c47453968b2d3c29?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "sumomoo",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-08-07T18:20:59+09:00"
-    },
-    {
-      "id": "qiita-88b078e949",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "OS？カーネル開発？聞いたことありませんねその単語🤔【ITパスポート】",
-      "url": "https://qiita.com/prumnn/items/4da8a4aa027730db23e0?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "prumnn",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-08-07T18:18:41+09:00"
-    },
-    {
-      "id": "hn-49207793",
-      "source": "hn",
-      "title": "Show HN: Certo – An open source platform to deliver Open Badges",
-      "url": "https://github.com/schroedinger-Hat/certo",
-      "score": 6,
-      "comments": 0,
-      "author": "thejoin95",
-      "tags": [],
-      "date": "2026-08-07T09:10:30+00:00",
-      "severity": "critical"
-    },
-    {
-      "id": "qiita-2fe82f5057",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "新卒1年目の開発未経験がタスク管理システムを作った話",
-      "url": "https://qiita.com/kt67_cr7/items/a693ab48718bc6e3e880?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "kt67_cr7",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-08-07T17:50:24+09:00"
-    },
-    {
-      "id": "qiita-253c6f4c16",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "CSS初心者向け part2：レイアウトを整えるCSSを覚えよう",
-      "url": "https://qiita.com/nt_matsuda56/items/5616f18a93920c74ade6?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "nt_matsuda56",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-08-07T17:34:28+09:00"
-    },
-    {
-      "id": "qiita-0429f5ee85",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "【便利】 Claude Codeの覚えておきたいスラッシュコマンドまとめ",
-      "url": "https://qiita.com/tamashiro_nobuyuki/items/573178ed3b8a6a22ebb1?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "tamashiro_nobuyuki",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-08-07T17:14:06+09:00"
-    },
-    {
-      "id": "qiita-736bca6704",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "【AWS入門】ハンズオンで学んだ5つのサービス（VPC・EC2・RDS・ELB・S3）を整理してみた",
-      "url": "https://qiita.com/NT_seki/items/1dcc68ba7de69473d46d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "NT_seki",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-08-07T17:05:08+09:00"
-    },
-    {
-      "id": "hn-49207236",
-      "source": "hn",
-      "title": "2027 memory capacity is reportedly sold out",
-      "url": "https://www.ign.com/articles/ramageddon-continues-another-year-as-2027-memory-capacity-is-reportedly-sold-out",
-      "score": 448,
-      "comments": 430,
-      "author": "inigyou",
-      "tags": [],
-      "date": "2026-08-07T07:58:24+00:00"
-    },
-    {
-      "id": "qiita-21effd34a1",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "【超初心者エンジニアのgit失敗談】`git pull` すれば最新になると思ってた",
-      "url": "https://qiita.com/yamasaki_k/items/8bd8dd1c53d1790dfafb?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "yamasaki_k",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-08-07T16:36:05+09:00"
-    },
-    {
-      "id": "hn-49193533",
-      "source": "hn",
-      "title": "The Three-Stroke Problem",
-      "url": "https://penpot.app/blog/the-three-stroke-problem/",
-      "score": 24,
-      "comments": 0,
-      "author": "elenathor",
-      "tags": [],
-      "date": "2026-08-06T07:17:15+00:00"
     },
     {
       "id": "ctf-4233874",

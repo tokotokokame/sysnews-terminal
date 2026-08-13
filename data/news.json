@@ -1,7 +1,40 @@
 {
-  "updated_at": "2026-08-13T19:34:24.426440+00:00",
+  "updated_at": "2026-08-13T20:41:11.127527+00:00",
   "count": 500,
   "items": [
+    {
+      "id": "hn-49291268",
+      "source": "hn",
+      "title": "NP-Overrated",
+      "url": "https://gruhn.me/blog/2026-08-13/",
+      "score": 6,
+      "comments": 0,
+      "author": "theanonymousone",
+      "tags": [],
+      "date": "2026-08-13T20:14:17+00:00"
+    },
+    {
+      "id": "hn-49290969",
+      "source": "hn",
+      "title": "How Gödel's Proof Works",
+      "url": "https://www.quantamagazine.org/how-godels-proof-works-20200714/",
+      "score": 17,
+      "comments": 5,
+      "author": "tzury",
+      "tags": [],
+      "date": "2026-08-13T19:44:46+00:00"
+    },
+    {
+      "id": "hn-49290768",
+      "source": "hn",
+      "title": "How Organizations Use AI: Evidence from ChatGPT [pdf]",
+      "url": "https://cdn.openai.com/pdf/how-organizations-use-chatgpt.pdf",
+      "score": 17,
+      "comments": 6,
+      "author": "malshe",
+      "tags": [],
+      "date": "2026-08-13T19:25:38+00:00"
+    },
     {
       "id": "hn-49290629",
       "source": "hn",
@@ -16,10 +49,10 @@
     {
       "id": "hn-49290299",
       "source": "hn",
-      "title": "Understanding Is the New Bottleneck",
+      "title": "Understanding is the new bottleneck",
       "url": "https://www.geoffreylitt.com/2026/07/02/understanding-is-the-new-bottleneck",
-      "score": 7,
-      "comments": 1,
+      "score": 41,
+      "comments": 27,
       "author": "sebg",
       "tags": [],
       "date": "2026-08-13T18:47:19+00:00"
@@ -29,8 +62,8 @@
       "source": "hn",
       "title": "Single log line is 49KB+ (ext4) / 110KB+ (btrfs) of systemd-journald disk writes",
       "url": "https://github.com/systemd/systemd/issues/40262",
-      "score": 7,
-      "comments": 1,
+      "score": 59,
+      "comments": 13,
       "author": "ValdikSS",
       "tags": [],
       "date": "2026-08-13T18:41:01+00:00"
@@ -47,23 +80,57 @@
       "date": "2026-08-13T18:39:52+00:00"
     },
     {
+      "id": "hn-49290062",
+      "source": "hn",
+      "title": "AI Is Threatening Natural Resources for Billions",
+      "url": "https://unric.org/en/ais-environmental-costs-threaten-water-land-and-climate/",
+      "score": 37,
+      "comments": 20,
+      "author": "quaintdev",
+      "tags": [],
+      "date": "2026-08-13T18:28:20+00:00",
+      "severity": "critical"
+    },
+    {
       "id": "hn-49289844",
       "source": "hn",
       "title": "Accelerating GPT-5.6 Sol Ultrafast",
       "url": "https://www.cerebras.ai/blog/accelerating-gpt-5-6-sol-ultrafast-with-openai",
-      "score": 140,
-      "comments": 35,
+      "score": 233,
+      "comments": 82,
       "author": "pr337h4m",
       "tags": [],
       "date": "2026-08-13T18:10:02+00:00"
+    },
+    {
+      "id": "hn-49289654",
+      "source": "hn",
+      "title": "How Compaction Works in Pi",
+      "url": "https://earendil.com/posts/compaction-in-pi/",
+      "score": 15,
+      "comments": 0,
+      "author": "tosh",
+      "tags": [],
+      "date": "2026-08-13T17:57:50+00:00"
+    },
+    {
+      "id": "hn-49289585",
+      "source": "hn",
+      "title": "Solid 2.0 RC: The Big <Reveal>",
+      "url": "https://www.solidjs.com/blog/solid-2-0-rc-the-big-reveal",
+      "score": 37,
+      "comments": 12,
+      "author": "GavinAnderegg",
+      "tags": [],
+      "date": "2026-08-13T17:53:19+00:00"
     },
     {
       "id": "hn-49289532",
       "source": "hn",
       "title": "Where did the old web go? We followed 657,607 links to find out",
       "url": "https://0.mk/blog/link-rot",
-      "score": 45,
-      "comments": 19,
+      "score": 77,
+      "comments": 37,
       "author": "tdx",
       "tags": [],
       "date": "2026-08-13T17:49:18+00:00"
@@ -73,8 +140,8 @@
       "source": "hn",
       "title": "Choose Boring Technology (2015)",
       "url": "https://mcfunley.com/choose-boring-technology",
-      "score": 105,
-      "comments": 54,
+      "score": 139,
+      "comments": 76,
       "author": "tosh",
       "tags": [],
       "date": "2026-08-13T17:48:13+00:00"
@@ -84,8 +151,8 @@
       "source": "hn",
       "title": "Donkey.bas is 45 Years Old – 131 line of Glory",
       "url": "https://donkeybas.com/",
-      "score": 70,
-      "comments": 26,
+      "score": 112,
+      "comments": 41,
       "author": "jkrauska",
       "tags": [],
       "date": "2026-08-13T17:45:50+00:00"
@@ -95,8 +162,8 @@
       "source": "hn",
       "title": "Gemini 3.7 Flash",
       "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-3-7-flash/",
-      "score": 314,
-      "comments": 207,
+      "score": 415,
+      "comments": 246,
       "author": "thisisauserid",
       "tags": [],
       "date": "2026-08-13T17:23:22+00:00"
@@ -117,8 +184,8 @@
       "source": "hn",
       "title": "Tocharian Online",
       "url": "https://lrc.la.utexas.edu/eieol/tokol/0",
-      "score": 33,
-      "comments": 1,
+      "score": 38,
+      "comments": 4,
       "author": "Bluestein",
       "tags": [],
       "date": "2026-08-13T17:15:46+00:00"
@@ -128,8 +195,8 @@
       "source": "hn",
       "title": "Mistral OCR 4.1",
       "url": "https://docs.mistral.ai/models/ocr-4-1",
-      "score": 128,
-      "comments": 39,
+      "score": 170,
+      "comments": 60,
       "author": "spelk",
       "tags": [],
       "date": "2026-08-13T17:05:12+00:00"
@@ -151,11 +218,24 @@
       "source": "hn",
       "title": "AI At Home Part 1: A Box Of Scraps",
       "url": "https://jdagostino.github.io/ai-pt1-box-o-scraps/index.html",
-      "score": 39,
-      "comments": 19,
+      "score": 56,
+      "comments": 29,
       "author": "timmmmmmay",
       "tags": [],
       "date": "2026-08-13T16:22:05+00:00"
+    },
+    {
+      "id": "qiita-19319b2132",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "『払った分だけ返ってくる』は本当？ ― 年金・社会保険料に潜む保険と再分配の設計 : システム設計視点の行動経済学 (14)",
+      "url": "https://qiita.com/maskot1977/items/a5effb8ffd48b80e6f69?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "maskot1977",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-08-14T00:59:23+09:00"
     },
     {
       "id": "hn-49287153",
@@ -210,8 +290,8 @@
       "source": "hn",
       "title": "Kubernetes on Oxide: How customer needs shaped our integrations",
       "url": "https://oxide.computer/blog/kubernetes-on-oxide",
-      "score": 106,
-      "comments": 49,
+      "score": 124,
+      "comments": 52,
       "author": "stevehipwell",
       "tags": [],
       "date": "2026-08-13T14:26:41+00:00"
@@ -244,8 +324,8 @@
       "source": "hn",
       "title": "Spaghettifying DRAM",
       "url": "https://github.com/xoreaxeaxeax/skitter-creek-bath-salts",
-      "score": 340,
-      "comments": 105,
+      "score": 384,
+      "comments": 114,
       "author": "matt_d",
       "tags": [],
       "date": "2026-08-13T14:17:13+00:00"
@@ -288,8 +368,8 @@
       "source": "hn",
       "title": "Gloomberb",
       "url": "https://gloom.sh/",
-      "score": 310,
-      "comments": 162,
+      "score": 336,
+      "comments": 172,
       "author": "rbanffy",
       "tags": [],
       "date": "2026-08-13T13:52:32+00:00"
@@ -343,8 +423,8 @@
       "source": "hn",
       "title": "Choosing an AI model: one prompt, 11 models, different results",
       "url": "https://www.netlify.com/blog/one-prompt-11-models-very-different-results/",
-      "score": 135,
-      "comments": 59,
+      "score": 147,
+      "comments": 64,
       "author": "toddmorey",
       "tags": [],
       "date": "2026-08-13T13:05:29+00:00"
@@ -365,8 +445,8 @@
       "source": "hn",
       "title": "DeepSeek Harness developer preview",
       "url": "https://deepseek.com/harness/en/",
-      "score": 463,
-      "comments": 212,
+      "score": 486,
+      "comments": 224,
       "author": "bjin",
       "tags": [],
       "date": "2026-08-13T12:58:02+00:00"
@@ -394,6 +474,45 @@
       "date": "2026-08-13T12:01:02+00:00"
     },
     {
+      "id": "qiita-bc7df5fe8a",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "整えるな。とにかくたくさん吐き出せ。~AIとの「1ターン」を大きく前進させる仮説~",
+      "url": "https://qiita.com/sh-fukaya/items/82ebbf176a12965a8e16?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "sh-fukaya",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-08-13T18:19:24+09:00"
+    },
+    {
+      "id": "qiita-aa1ed15dc3",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "(ずんだもん通知くん)Claude Codeにずんだもんの声をつけた話",
+      "url": "https://qiita.com/yama3133/items/6459627a4029eb5cbee7?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "yama3133",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-08-13T17:56:41+09:00"
+    },
+    {
+      "id": "qiita-ccb5d51a73",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "【初心者向け】Spring Bootの「DI（依存性の注入）」をゲーム機とコントローラーで完全に理解する",
+      "url": "https://qiita.com/ara_ara09/items/8d507dfb43b8b6d14899?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "ara_ara09",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-08-13T17:17:35+09:00"
+    },
+    {
       "id": "hn-49283063",
       "source": "hn",
       "title": "Launch HN: Bullet (YC S26) – A Faster Coding Agent",
@@ -403,6 +522,58 @@
       "author": "adi1",
       "tags": [],
       "date": "2026-08-13T08:14:30+00:00"
+    },
+    {
+      "id": "qiita-157cf35650",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "複雑なタスクほど、実は知っている基礎の組み合わせだったりする",
+      "url": "https://qiita.com/sumomoo/items/e77bf4b40b227cb49dec?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "sumomoo",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-08-13T17:02:51+09:00"
+    },
+    {
+      "id": "qiita-c44643b126",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "「表で管理するならExcelでいいじゃん」と思ってたら、データーベースの中身は全然違った【ITパスポート】",
+      "url": "https://qiita.com/prumnn/items/b0254194b02c85e17da6?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "prumnn",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-08-13T17:00:54+09:00"
+    },
+    {
+      "id": "qiita-74220752b7",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "【AWS】SQSについて、詳しくなりたいよなぁ！",
+      "url": "https://qiita.com/PDC-Kurashinak/items/50521e99bc2c852842cf?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "PDC-Kurashinak",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-08-13T16:43:28+09:00"
+    },
+    {
+      "id": "qiita-f820bace2c",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "【IBM Bob & Premium Package for i】IBM i 活用プロンプトガイド",
+      "url": "https://qiita.com/amogi23/items/fd91ddddf93057e562b5?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "amogi23",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-08-13T16:30:27+09:00"
     },
     {
       "id": "qiita-e69be4aa40",
@@ -416,6 +587,19 @@
         "Qiita"
       ],
       "date": "2026-08-13T16:19:26+09:00"
+    },
+    {
+      "id": "qiita-255d847d01",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": ".NET 11 でジェネリック仮想メソッドを高速化してみた",
+      "url": "https://qiita.com/hez2010/items/85c1fa4100e5898d1a55?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "hez2010",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-08-13T15:43:16+09:00"
     },
     {
       "id": "hn-49281916",
@@ -438,6 +622,19 @@
       "author": "godisdad",
       "tags": [],
       "date": "2026-08-13T04:37:31+00:00"
+    },
+    {
+      "id": "qiita-3a0748e772",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "AIに同じ質問をしたら、部署ごとに違う数字が返ってきた　― いま「オントロジー」と呼ばれているもの ―",
+      "url": "https://qiita.com/M_Ozu/items/346f6c8ab4b662a08f3e?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "M_Ozu",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-08-13T11:34:44+09:00"
     },
     {
       "id": "qiita-819f7cae49",
@@ -497,6 +694,19 @@
       "date": "2026-08-12T23:43:48+00:00"
     },
     {
+      "id": "qiita-6f14354373",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "AWS認定資格のAIFとCLFをまとめて1か月で取った勉強法",
+      "url": "https://qiita.com/hiroto15/items/ea3acc4277a52f8ac468?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "hiroto15",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-08-13T08:37:00+09:00"
+    },
+    {
       "id": "hn-49279928",
       "source": "hn",
       "title": "Principia Mathematica is modern and insightful",
@@ -523,8 +733,8 @@
       "source": "hn",
       "title": "How art invented humanity",
       "url": "https://aeon.co/essays/humans-did-not-invent-art-it-was-the-other-way-around",
-      "score": 52,
-      "comments": 12,
+      "score": 62,
+      "comments": 18,
       "author": "prismatic",
       "tags": [],
       "date": "2026-08-12T22:47:40+00:00"
@@ -539,6 +749,19 @@
       "author": "halfradaition",
       "tags": [],
       "date": "2026-08-12T22:47:20+00:00"
+    },
+    {
+      "id": "qiita-1e0d02bed4",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "AIアプリを作る仕事の大半は、プロンプトではなくデータの理解だった",
+      "url": "https://qiita.com/engchina/items/8faae314cf14c139ff58?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "engchina",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-08-13T07:04:03+09:00"
     },
     {
       "id": "hn-49279197",
@@ -1811,8 +2034,8 @@
       "source": "hn",
       "title": "Come for ENIAC, Stay for UNIVAC and Skeduflo",
       "url": "https://uniqueatpenn.wordpress.com/2026/08/05/come-for-eniac-stay-for-univac-and-skeduflo/",
-      "score": 46,
-      "comments": 12,
+      "score": 52,
+      "comments": 17,
       "author": "cainxinth",
       "tags": [],
       "date": "2026-08-11T13:55:26+00:00"
@@ -3180,6 +3403,17 @@
         "Qiita"
       ],
       "date": "2026-08-10T07:36:28+09:00"
+    },
+    {
+      "id": "hn-49236811",
+      "source": "hn",
+      "title": "Idol Mahjong Final Romance: A Slideshow Disguised as a Video Game",
+      "url": "https://nicole.express/2026/more-like-idle-mahjong.html",
+      "score": 15,
+      "comments": 0,
+      "author": "nicole_express",
+      "tags": [],
+      "date": "2026-08-09T22:26:52+00:00"
     },
     {
       "id": "hn-49236781",
@@ -4978,216 +5212,6 @@
       "author": "dplyukhin",
       "tags": [],
       "date": "2026-08-07T19:21:42+00:00"
-    },
-    {
-      "id": "hn-49214863",
-      "source": "hn",
-      "title": "App Store Rejection of the Week: Dark Hours",
-      "url": "https://daringfireball.net/2026/08/app_store_rejection_of_the_week_dark_hours",
-      "score": 244,
-      "comments": 129,
-      "author": "_da_",
-      "tags": [],
-      "date": "2026-08-07T18:59:08+00:00"
-    },
-    {
-      "id": "hn-49214775",
-      "source": "hn",
-      "title": "Psychological Warfare in Reverse Engineering (2015)",
-      "url": "https://github.com/xoreaxeaxeax/repsych",
-      "score": 70,
-      "comments": 4,
-      "author": "theanonymousone",
-      "tags": [],
-      "date": "2026-08-07T18:51:45+00:00"
-    },
-    {
-      "id": "hn-49214770",
-      "source": "hn",
-      "title": "Ancient Library – 1,060 Greek/Latin texts, click any word to parse it",
-      "url": "https://ancientlibrary.net/",
-      "score": 236,
-      "comments": 75,
-      "author": "aagha",
-      "tags": [],
-      "date": "2026-08-07T18:51:14+00:00"
-    },
-    {
-      "id": "hn-49214468",
-      "source": "hn",
-      "title": "Managing AI Coding Costs at Scale",
-      "url": "https://www.databricks.com/blog/managing-ai-coding-costs-scale",
-      "score": 270,
-      "comments": 228,
-      "author": "moonikakiss",
-      "tags": [],
-      "date": "2026-08-07T18:25:17+00:00"
-    },
-    {
-      "id": "hn-49214306",
-      "source": "hn",
-      "title": "ICE will release body cam video only when seen in the agency's 'best interests'",
-      "url": "https://apnews.com/article/ice-body-cameras-officers-shootings-dab1b294c8dc412d9ef8557ccbebfd57",
-      "score": 81,
-      "comments": 37,
-      "author": "geox",
-      "tags": [],
-      "date": "2026-08-07T18:15:33+00:00"
-    },
-    {
-      "id": "hn-49214098",
-      "source": "hn",
-      "title": "Assembly Hall of Shame",
-      "url": "https://github.com/xoreaxeaxeax/asm-hall-of-shame",
-      "score": 395,
-      "comments": 97,
-      "author": "piotrgrabowski",
-      "tags": [],
-      "date": "2026-08-07T18:01:30+00:00"
-    },
-    {
-      "id": "hn-49214008",
-      "source": "hn",
-      "title": "DeepSeek V4 Flash 0731",
-      "url": "https://arcprize.org/results/deepseek-v4-flash-0731",
-      "score": 754,
-      "comments": 451,
-      "author": "tosh",
-      "tags": [],
-      "date": "2026-08-07T17:56:20+00:00"
-    },
-    {
-      "id": "hn-49213985",
-      "source": "hn",
-      "title": "The Claudyssey: A line-for-line translation of Homer's Odyssey by Claude Fable 5",
-      "url": "https://theclaudyssey.com/",
-      "score": 20,
-      "comments": 18,
-      "author": "spinchange",
-      "tags": [],
-      "date": "2026-08-07T17:55:14+00:00"
-    },
-    {
-      "id": "hn-49213754",
-      "source": "hn",
-      "title": "Oracle bans AI-generated code from OpenJDK",
-      "url": "https://app.dealroom.co/news/feed/oracle-bans-ai-generated-code-from-openjdk-despite-ellison-s-claim-oracle-isn-t-writing-its-own-code",
-      "score": 474,
-      "comments": 339,
-      "author": "delduca",
-      "tags": [],
-      "date": "2026-08-07T17:36:30+00:00"
-    },
-    {
-      "id": "hn-49213367",
-      "source": "hn",
-      "title": "Canada adds 75,000 new jobs in July, unemployment rate lowest in 2 years",
-      "url": "https://www.cbc.ca/news/business/canada-jobs-july-2026-9.7299225",
-      "score": 13,
-      "comments": 1,
-      "author": "vrganj",
-      "tags": [],
-      "date": "2026-08-07T17:05:15+00:00"
-    },
-    {
-      "id": "hn-49213097",
-      "source": "hn",
-      "title": "Tax cuts for the wealthy only benefit the rich (2023)",
-      "url": "https://www.lse.ac.uk/research/research-for-the-world/economics/tax-cuts-for-the-wealthy-only-benefit-the-rich-debunking-trickle-down-economics",
-      "score": 102,
-      "comments": 54,
-      "author": "mooreds",
-      "tags": [],
-      "date": "2026-08-07T16:44:28+00:00"
-    },
-    {
-      "id": "hn-49213029",
-      "source": "hn",
-      "title": "Responding to the next frontier of critical cyber capabilities",
-      "url": "https://openai.com/index/responding-next-frontier-critical-cyber-capabilities/",
-      "score": 189,
-      "comments": 183,
-      "author": "artninja1988",
-      "tags": [],
-      "date": "2026-08-07T16:39:36+00:00",
-      "severity": "critical"
-    },
-    {
-      "id": "hn-49212928",
-      "source": "hn",
-      "title": "The AI Billboards Are Killing SF",
-      "url": "https://sfstandard.com/pacific-standard-time/2026/08/07/sf-ai-billboards-dystopian-not-funny/",
-      "score": 9,
-      "comments": 12,
-      "author": "danorama",
-      "tags": [],
-      "date": "2026-08-07T16:32:16+00:00"
-    },
-    {
-      "id": "hn-49212424",
-      "source": "hn",
-      "title": "Adults over 65 will outnumber children by 2029",
-      "url": "https://eco3min.fr/en/us-children-vs-adults-65-and-older/",
-      "score": 34,
-      "comments": 15,
-      "author": "brandonb",
-      "tags": [],
-      "date": "2026-08-07T15:57:59+00:00"
-    },
-    {
-      "id": "hn-49211921",
-      "source": "hn",
-      "title": "An all-sky map of half a million supermassive black holes",
-      "url": "https://www.sdss.org/black-hole-mapper-release-20/",
-      "score": 175,
-      "comments": 40,
-      "author": "MarcoDewey",
-      "tags": [],
-      "date": "2026-08-07T15:24:53+00:00"
-    },
-    {
-      "id": "hn-49211821",
-      "source": "hn",
-      "title": "An alias-based formulation of the borrow checker (2018)",
-      "url": "https://smallcultfollowing.com/babysteps/blog/2018/04/27/an-alias-based-formulation-of-the-borrow-checker/",
-      "score": 22,
-      "comments": 1,
-      "author": "parksb",
-      "tags": [],
-      "date": "2026-08-07T15:20:28+00:00"
-    },
-    {
-      "id": "hn-49211660",
-      "source": "hn",
-      "title": "Möbius-Strip Crosswords",
-      "url": "https://quuxplusone.github.io/blog/2026/08/04/mobius-crossword/",
-      "score": 53,
-      "comments": 6,
-      "author": "ibobev",
-      "tags": [],
-      "date": "2026-08-07T15:10:34+00:00"
-    },
-    {
-      "id": "hn-49211530",
-      "source": "hn",
-      "title": "The punched card tabulator",
-      "url": "https://www.ibm.com/history/punched-card-tabulator",
-      "score": 26,
-      "comments": 9,
-      "author": "Bluestein",
-      "tags": [],
-      "date": "2026-08-07T15:01:58+00:00"
-    },
-    {
-      "id": "hn-49211438",
-      "source": "hn",
-      "title": "Iceberg Collapses and Flips over in Ilulissat, Greenland (July 25, 2026) [video]",
-      "url": "https://www.youtube.com/watch?v=UufMqwyO7pY",
-      "score": 135,
-      "comments": 33,
-      "author": "Bender",
-      "tags": [],
-      "date": "2026-08-07T14:55:08+00:00"
     },
     {
       "id": "ctf-4233874",

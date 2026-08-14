@@ -1,14 +1,71 @@
 {
-  "updated_at": "2026-08-13T23:39:37.623807+00:00",
+  "updated_at": "2026-08-14T01:51:45.109520+00:00",
   "count": 500,
   "items": [
+    {
+      "id": "qiita-819f7cae49",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "Copilot Studio で非構造化データはどこまでナレッジになるのか【Part 3: Copilot Studio (Standard harness) を極める】",
+      "url": "https://qiita.com/Isato-Hiyama/items/2b49b499dc5294017efd?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "Isato-Hiyama",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-08-14T09:18:29+09:00"
+    },
+    {
+      "id": "hn-49293324",
+      "source": "hn",
+      "title": "Bluesky Protocol Services",
+      "url": "https://atproto.com/blog/introducing-bluesky-protocol-services",
+      "score": 64,
+      "comments": 14,
+      "author": "danabramov",
+      "tags": [],
+      "date": "2026-08-14T00:14:28+00:00"
+    },
+    {
+      "id": "hn-49293294",
+      "source": "hn",
+      "title": "SparrowMap – Cameras that watch government vehicles",
+      "url": "https://sparrowmap.com/",
+      "score": 37,
+      "comments": 6,
+      "author": "paulnpace",
+      "tags": [],
+      "date": "2026-08-14T00:10:04+00:00"
+    },
+    {
+      "id": "hn-49293087",
+      "source": "hn",
+      "title": "Blog about things you don't understand yet",
+      "url": "https://www.seangoedecke.com/blog-about-things-you-dont-understand-yet/",
+      "score": 12,
+      "comments": 1,
+      "author": "gfysfm",
+      "tags": [],
+      "date": "2026-08-13T23:39:33+00:00"
+    },
+    {
+      "id": "hn-49292932",
+      "source": "hn",
+      "title": "How AI text watermarking works",
+      "url": "https://declaude.org/watermarking/",
+      "score": 76,
+      "comments": 46,
+      "author": "padolsey",
+      "tags": [],
+      "date": "2026-08-13T23:16:55+00:00"
+    },
     {
       "id": "hn-49291268",
       "source": "hn",
       "title": "NP-Overrated",
       "url": "https://gruhn.me/blog/2026-08-13/",
-      "score": 105,
-      "comments": 51,
+      "score": 149,
+      "comments": 91,
       "author": "theanonymousone",
       "tags": [],
       "date": "2026-08-13T20:14:17+00:00"
@@ -18,8 +75,8 @@
       "source": "hn",
       "title": "How Gödel's Proof Works (2020)",
       "url": "https://www.quantamagazine.org/how-godels-proof-works-20200714/",
-      "score": 53,
-      "comments": 32,
+      "score": 71,
+      "comments": 35,
       "author": "tzury",
       "tags": [],
       "date": "2026-08-13T19:44:46+00:00"
@@ -29,8 +86,8 @@
       "source": "hn",
       "title": "How Organizations Use AI: Evidence from ChatGPT [pdf]",
       "url": "https://cdn.openai.com/pdf/how-organizations-use-chatgpt.pdf",
-      "score": 52,
-      "comments": 28,
+      "score": 66,
+      "comments": 37,
       "author": "malshe",
       "tags": [],
       "date": "2026-08-13T19:25:38+00:00"
@@ -51,8 +108,8 @@
       "source": "hn",
       "title": "Understanding is the new bottleneck",
       "url": "https://www.geoffreylitt.com/2026/07/02/understanding-is-the-new-bottleneck",
-      "score": 147,
-      "comments": 75,
+      "score": 206,
+      "comments": 112,
       "author": "sebg",
       "tags": [],
       "date": "2026-08-13T18:47:19+00:00"
@@ -62,8 +119,8 @@
       "source": "hn",
       "title": "Single log line is 49KB+ (ext4) / 110KB+ (btrfs) of systemd-journald disk writes",
       "url": "https://github.com/systemd/systemd/issues/40262",
-      "score": 129,
-      "comments": 79,
+      "score": 147,
+      "comments": 95,
       "author": "ValdikSS",
       "tags": [],
       "date": "2026-08-13T18:41:01+00:00"
@@ -78,6 +135,17 @@
       "author": "makaimc",
       "tags": [],
       "date": "2026-08-13T18:39:52+00:00"
+    },
+    {
+      "id": "hn-49290166",
+      "source": "hn",
+      "title": "Hello, me. It's been a while",
+      "url": "https://themech.net/2026/08/hello-me-its-been-a-while/",
+      "score": 22,
+      "comments": 7,
+      "author": "somesoftdev",
+      "tags": [],
+      "date": "2026-08-13T18:37:18+00:00"
     },
     {
       "id": "hn-49290062",
@@ -96,8 +164,8 @@
       "source": "hn",
       "title": "Accelerating GPT-5.6 Sol Ultrafast",
       "url": "https://www.cerebras.ai/blog/accelerating-gpt-5-6-sol-ultrafast-with-openai",
-      "score": 376,
-      "comments": 149,
+      "score": 423,
+      "comments": 174,
       "author": "pr337h4m",
       "tags": [],
       "date": "2026-08-13T18:10:02+00:00"
@@ -107,8 +175,8 @@
       "source": "hn",
       "title": "How Compaction Works in Pi",
       "url": "https://earendil.com/posts/compaction-in-pi/",
-      "score": 80,
-      "comments": 27,
+      "score": 106,
+      "comments": 41,
       "author": "tosh",
       "tags": [],
       "date": "2026-08-13T17:57:50+00:00"
@@ -129,8 +197,8 @@
       "source": "hn",
       "title": "Where did the old web go? We followed 657,607 links to find out",
       "url": "https://0.mk/blog/link-rot",
-      "score": 110,
-      "comments": 78,
+      "score": 133,
+      "comments": 114,
       "author": "tdx",
       "tags": [],
       "date": "2026-08-13T17:49:18+00:00"
@@ -140,8 +208,8 @@
       "source": "hn",
       "title": "Choose Boring Technology (2015)",
       "url": "https://mcfunley.com/choose-boring-technology",
-      "score": 212,
-      "comments": 116,
+      "score": 254,
+      "comments": 136,
       "author": "tosh",
       "tags": [],
       "date": "2026-08-13T17:48:13+00:00"
@@ -151,19 +219,30 @@
       "source": "hn",
       "title": "Donkey.bas is 45 Years Old – 131 line of Glory",
       "url": "https://donkeybas.com/",
-      "score": 168,
-      "comments": 72,
+      "score": 190,
+      "comments": 79,
       "author": "jkrauska",
       "tags": [],
       "date": "2026-08-13T17:45:50+00:00"
+    },
+    {
+      "id": "hn-49289260",
+      "source": "hn",
+      "title": "I want extern \"fil-C\"",
+      "url": "https://domenkozar.com/2026/08/13/i-want-extern-fil-c/",
+      "score": 22,
+      "comments": 2,
+      "author": "domenkozar",
+      "tags": [],
+      "date": "2026-08-13T17:32:07+00:00"
     },
     {
       "id": "hn-49289112",
       "source": "hn",
       "title": "Gemini 3.7 Flash",
       "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-3-7-flash/",
-      "score": 552,
-      "comments": 320,
+      "score": 619,
+      "comments": 346,
       "author": "thisisauserid",
       "tags": [],
       "date": "2026-08-13T17:23:22+00:00"
@@ -195,8 +274,8 @@
       "source": "hn",
       "title": "Mistral OCR 4.1",
       "url": "https://docs.mistral.ai/models/ocr-4-1",
-      "score": 230,
-      "comments": 91,
+      "score": 252,
+      "comments": 99,
       "author": "spelk",
       "tags": [],
       "date": "2026-08-13T17:05:12+00:00"
@@ -290,8 +369,8 @@
       "source": "hn",
       "title": "Kubernetes on Oxide: How customer needs shaped our integrations",
       "url": "https://oxide.computer/blog/kubernetes-on-oxide",
-      "score": 147,
-      "comments": 64,
+      "score": 156,
+      "comments": 69,
       "author": "stevehipwell",
       "tags": [],
       "date": "2026-08-13T14:26:41+00:00"
@@ -324,8 +403,8 @@
       "source": "hn",
       "title": "Spaghettifying DRAM",
       "url": "https://github.com/xoreaxeaxeax/skitter-creek-bath-salts",
-      "score": 467,
-      "comments": 134,
+      "score": 496,
+      "comments": 138,
       "author": "matt_d",
       "tags": [],
       "date": "2026-08-13T14:17:13+00:00"
@@ -412,8 +491,8 @@
       "source": "hn",
       "title": "Nine PBS sues Iron Mountain over blocked access to archival data",
       "url": "https://current.org/2026/08/nine-pbs-sues-iron-mountain-over-blocked-access-to-archival-data/",
-      "score": 204,
-      "comments": 96,
+      "score": 246,
+      "comments": 135,
       "author": "vinayakborkar",
       "tags": [],
       "date": "2026-08-13T13:14:12+00:00"
@@ -445,8 +524,8 @@
       "source": "hn",
       "title": "DeepSeek Harness developer preview",
       "url": "https://deepseek.com/harness/en/",
-      "score": 528,
-      "comments": 231,
+      "score": 558,
+      "comments": 243,
       "author": "bjin",
       "tags": [],
       "date": "2026-08-13T12:58:02+00:00"
@@ -635,19 +714,6 @@
         "Qiita"
       ],
       "date": "2026-08-13T11:34:44+09:00"
-    },
-    {
-      "id": "qiita-819f7cae49",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "Copilot Studio で非構造化データはどこまでナレッジになるのか【Part 3: Copilot Studio (Standard harness) を極める】",
-      "url": "https://qiita.com/Isato-Hiyama/items/2b49b499dc5294017efd?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "Isato-Hiyama",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-08-13T10:29:27+09:00"
     },
     {
       "id": "hn-49280184",
@@ -3191,6 +3257,17 @@
       "date": "2026-08-10T17:21:30+09:00"
     },
     {
+      "id": "hn-49240615",
+      "source": "hn",
+      "title": "An ambiguity in c89 which will never be fixed",
+      "url": "https://sebsite.pw/w/20260810-c89ambiguity.html",
+      "score": 31,
+      "comments": 6,
+      "author": "runningmike",
+      "tags": [],
+      "date": "2026-08-10T07:49:09+00:00"
+    },
+    {
       "id": "hn-49239751",
       "source": "hn",
       "title": "Docker Sandboxes – Disposable, isolated sandboxes for AI agents",
@@ -4590,8 +4667,8 @@
       "source": "hn",
       "title": "Finite State Machines in Forth (1994)",
       "url": "https://www.forth.org/literature/noble.html",
-      "score": 27,
-      "comments": 0,
+      "score": 47,
+      "comments": 1,
       "author": "ofalkaed",
       "tags": [],
       "date": "2026-08-08T17:38:15+00:00"
@@ -5120,98 +5197,15 @@
       "date": "2026-08-08T01:51:35+00:00"
     },
     {
-      "id": "hn-49218179",
+      "id": "hn-49210740",
       "source": "hn",
-      "title": "NASA figured out how to keep its Voyager 2 probe running for another year",
-      "url": "https://www.space.com/space-exploration/voyager/nasa-figured-out-how-to-keep-its-48-year-old-voyager-2-probe-running-for-yet-another-year",
-      "score": 322,
-      "comments": 72,
-      "author": "wglb",
+      "title": "How a device finds encrypted DNS by itself",
+      "url": "https://blog.dundns.eu/posts/ddr-encrypted-dns-discovery/",
+      "score": 15,
+      "comments": 4,
+      "author": "majorchord",
       "tags": [],
-      "date": "2026-08-08T01:49:11+00:00"
-    },
-    {
-      "id": "hn-49218040",
-      "source": "hn",
-      "title": "Mushroom behind 'tiny people' hallucinations identified",
-      "url": "https://phys.org/news/2026-08-qa-mushroom-tiny-people-hallucinations.html",
-      "score": 207,
-      "comments": 165,
-      "author": "wglb",
-      "tags": [],
-      "date": "2026-08-08T01:20:20+00:00"
-    },
-    {
-      "id": "qiita-fd76cca682",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "日本語プログラミング言語Mind９新機能「評価」でTcl乱数関数の定義",
-      "url": "https://qiita.com/mylifewithviolin/items/ef9216f470a40d033405?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "mylifewithviolin",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-08-08T10:18:02+09:00"
-    },
-    {
-      "id": "hn-49217993",
-      "source": "hn",
-      "title": "The Nixpkgs core team has disbanded",
-      "url": "https://discourse.nixos.org/t/the-nixpkgs-core-team-has-disbanded/79413",
-      "score": 341,
-      "comments": 167,
-      "author": "Meleagris",
-      "tags": [],
-      "date": "2026-08-08T01:12:45+00:00"
-    },
-    {
-      "id": "qiita-72ef2c71e7",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "トークン浪費と性能低下を防ぐ、Claude Code の自動引き継ぎ hook を作った",
-      "url": "https://qiita.com/tomada/items/46e675f6ced44dcd10ad?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "tomada",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-08-08T08:17:28+09:00"
-    },
-    {
-      "id": "hn-49216946",
-      "source": "hn",
-      "title": "U.S. Department of Energy Launches the Genesis Open Models Initiative",
-      "url": "https://genesisopenmodels.anl.gov/",
-      "score": 330,
-      "comments": 139,
-      "author": "moelf",
-      "tags": [],
-      "date": "2026-08-07T22:24:27+00:00"
-    },
-    {
-      "id": "qiita-6ae51173b9",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "担当者の長期休暇でデータが1件に！？絶望的な状況を時系列ベイズで乗り切る方法を教えます",
-      "url": "https://qiita.com/Gotoubun_taiwan/items/e35a4b45a2c1c313fbe9?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "Gotoubun_taiwan",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-08-08T06:46:20+09:00"
-    },
-    {
-      "id": "hn-49216362",
-      "source": "hn",
-      "title": "Water system controllers don't belong on the internet, says ex-NSA chief",
-      "url": "https://www.theregister.com/security/2026/08/07/water-system-controllers-dont-belong-on-the-internet-says-ex-nsa-chief-after-suspected-iran-attacks/5285070",
-      "score": 192,
-      "comments": 126,
-      "author": "Bender",
-      "tags": [],
-      "date": "2026-08-07T21:19:57+00:00"
+      "date": "2026-08-07T14:11:55+00:00"
     },
     {
       "id": "ctf-4233874",

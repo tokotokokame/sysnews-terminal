@@ -1,7 +1,52 @@
 {
-  "updated_at": "2026-08-14T10:00:15.144226+00:00",
+  "updated_at": "2026-08-14T11:04:01.595736+00:00",
   "count": 500,
   "items": [
+    {
+      "id": "hn-49296939",
+      "source": "hn",
+      "title": "For the love of god stop using CPU limits in Kubernetes",
+      "url": "https://github.com/inevolin/k8s-cpu-limits-analyzed",
+      "score": 23,
+      "comments": 6,
+      "author": "iljanevo",
+      "tags": [],
+      "date": "2026-08-14T10:41:21+00:00"
+    },
+    {
+      "id": "hn-49296740",
+      "source": "hn",
+      "title": "Why does Opus 5 feel worse to work with?",
+      "url": "https://mun-logadan.github.io/why-does-opus-5-feel-worse/",
+      "score": 59,
+      "comments": 55,
+      "author": "numeri",
+      "tags": [],
+      "date": "2026-08-14T10:12:48+00:00"
+    },
+    {
+      "id": "hn-49296724",
+      "source": "hn",
+      "title": "Major oil slick washes up on Iran coast after Hormuz ship strike",
+      "url": "https://www.bbc.com/news/articles/cr7kpdkg13zo",
+      "score": 19,
+      "comments": 3,
+      "author": "binyu",
+      "tags": [],
+      "date": "2026-08-14T10:10:15+00:00"
+    },
+    {
+      "id": "hn-49296627",
+      "source": "hn",
+      "title": "DeepSeek peak/off-peak pricing update",
+      "url": "https://api-docs.deepseek.com/news/news260813/",
+      "score": 27,
+      "comments": 7,
+      "author": "fagnerbrack",
+      "tags": [],
+      "date": "2026-08-14T09:55:33+00:00",
+      "severity": "medium"
+    },
     {
       "id": "hn-49295895",
       "source": "hn",
@@ -42,8 +87,8 @@
       "source": "hn",
       "title": "Ruby 4.0 Universal RCE Deserialization Gadget Chain",
       "url": "https://www.elttam.com/blog/ruby-4-0-universal-rce-deserialization-gadget-chain",
-      "score": 27,
-      "comments": 4,
+      "score": 37,
+      "comments": 9,
       "author": "pentestercrab",
       "tags": [],
       "date": "2026-08-14T06:09:04+00:00",
@@ -54,8 +99,8 @@
       "source": "hn",
       "title": "GLM-5.3: Frontier coding with emergent cyber capabilities",
       "url": "https://z.ai/blog/glm-5.3",
-      "score": 466,
-      "comments": 193,
+      "score": 542,
+      "comments": 241,
       "author": "pella",
       "tags": [],
       "date": "2026-08-14T05:19:59+00:00"
@@ -115,8 +160,8 @@
       "source": "hn",
       "title": "Show HN: Lumabri – Run Moe Models on a P2P Swarm with Colibri",
       "url": "https://github.com/JustVugg/lumabri",
-      "score": 20,
-      "comments": 3,
+      "score": 29,
+      "comments": 8,
       "author": "vforno",
       "tags": [],
       "date": "2026-08-14T00:47:04+00:00"
@@ -152,8 +197,8 @@
       "source": "hn",
       "title": "Bluesky Protocol Services",
       "url": "https://atproto.com/blog/introducing-bluesky-protocol-services",
-      "score": 165,
-      "comments": 32,
+      "score": 167,
+      "comments": 40,
       "author": "danabramov",
       "tags": [],
       "date": "2026-08-14T00:14:28+00:00"
@@ -305,8 +350,8 @@
       "source": "hn",
       "title": "Understanding is the new bottleneck",
       "url": "https://www.geoffreylitt.com/2026/07/02/understanding-is-the-new-bottleneck",
-      "score": 334,
-      "comments": 179,
+      "score": 348,
+      "comments": 182,
       "author": "sebg",
       "tags": [],
       "date": "2026-08-13T18:47:19+00:00"
@@ -316,8 +361,8 @@
       "source": "hn",
       "title": "Single log line is 49KB+ (ext4) / 110KB+ (btrfs) of systemd-journald disk writes",
       "url": "https://github.com/systemd/systemd/issues/40262",
-      "score": 216,
-      "comments": 146,
+      "score": 223,
+      "comments": 154,
       "author": "ValdikSS",
       "tags": [],
       "date": "2026-08-13T18:41:01+00:00"
@@ -338,8 +383,8 @@
       "source": "hn",
       "title": "Hello, me. It's been a while",
       "url": "https://themech.net/2026/08/hello-me-its-been-a-while/",
-      "score": 214,
-      "comments": 108,
+      "score": 239,
+      "comments": 128,
       "author": "somesoftdev",
       "tags": [],
       "date": "2026-08-13T18:37:18+00:00"
@@ -361,8 +406,8 @@
       "source": "hn",
       "title": "Accelerating GPT-5.6 Sol Ultrafast",
       "url": "https://www.cerebras.ai/blog/accelerating-gpt-5-6-sol-ultrafast-with-openai",
-      "score": 602,
-      "comments": 241,
+      "score": 622,
+      "comments": 247,
       "author": "pr337h4m",
       "tags": [],
       "date": "2026-08-13T18:10:02+00:00"
@@ -372,8 +417,8 @@
       "source": "hn",
       "title": "How Compaction Works in Pi",
       "url": "https://earendil.com/posts/compaction-in-pi/",
-      "score": 165,
-      "comments": 65,
+      "score": 173,
+      "comments": 69,
       "author": "tosh",
       "tags": [],
       "date": "2026-08-13T17:57:50+00:00"
@@ -405,8 +450,8 @@
       "source": "hn",
       "title": "Choose Boring Technology (2015)",
       "url": "https://mcfunley.com/choose-boring-technology",
-      "score": 342,
-      "comments": 181,
+      "score": 357,
+      "comments": 193,
       "author": "tosh",
       "tags": [],
       "date": "2026-08-13T17:48:13+00:00"
@@ -416,8 +461,8 @@
       "source": "hn",
       "title": "Donkey.bas is 45 Years Old – 131 line of Glory",
       "url": "https://donkeybas.com/",
-      "score": 234,
-      "comments": 107,
+      "score": 244,
+      "comments": 110,
       "author": "jkrauska",
       "tags": [],
       "date": "2026-08-13T17:45:50+00:00"
@@ -438,8 +483,8 @@
       "source": "hn",
       "title": "Gemini 3.7 Flash",
       "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-3-7-flash/",
-      "score": 839,
-      "comments": 433,
+      "score": 868,
+      "comments": 441,
       "author": "thisisauserid",
       "tags": [],
       "date": "2026-08-13T17:23:22+00:00"
@@ -471,8 +516,8 @@
       "source": "hn",
       "title": "Mistral OCR 4.1",
       "url": "https://docs.mistral.ai/models/ocr-4-1",
-      "score": 353,
-      "comments": 140,
+      "score": 363,
+      "comments": 144,
       "author": "spelk",
       "tags": [],
       "date": "2026-08-13T17:05:12+00:00"
@@ -600,8 +645,8 @@
       "source": "hn",
       "title": "Spaghettifying DRAM",
       "url": "https://github.com/xoreaxeaxeax/skitter-creek-bath-salts",
-      "score": 624,
-      "comments": 162,
+      "score": 637,
+      "comments": 164,
       "author": "matt_d",
       "tags": [],
       "date": "2026-08-13T14:17:13+00:00"
@@ -688,8 +733,8 @@
       "source": "hn",
       "title": "Nine PBS sues Iron Mountain over blocked access to archival data",
       "url": "https://current.org/2026/08/nine-pbs-sues-iron-mountain-over-blocked-access-to-archival-data/",
-      "score": 311,
-      "comments": 182,
+      "score": 320,
+      "comments": 183,
       "author": "vinayakborkar",
       "tags": [],
       "date": "2026-08-13T13:14:12+00:00"
@@ -721,7 +766,7 @@
       "source": "hn",
       "title": "DeepSeek Harness developer preview",
       "url": "https://deepseek.com/harness/en/",
-      "score": 662,
+      "score": 674,
       "comments": 276,
       "author": "bjin",
       "tags": [],
@@ -2345,8 +2390,8 @@
       "source": "hn",
       "title": "Show HN: C# Game Engine with its own scripting language and IDE",
       "url": "https://github.com/ArcadeMakerSources/ArcadeMaker",
-      "score": 46,
-      "comments": 10,
+      "score": 54,
+      "comments": 18,
       "author": "am-gm",
       "tags": [],
       "date": "2026-08-11T13:34:54+00:00"
@@ -2973,6 +3018,17 @@
       "date": "2026-08-10T19:38:42+00:00"
     },
     {
+      "id": "hn-49247628",
+      "source": "hn",
+      "title": "We're not done with point clouds",
+      "url": "https://claytonwramsey.com/blog/mvt/",
+      "score": 10,
+      "comments": 1,
+      "author": "claytonwramsey",
+      "tags": [],
+      "date": "2026-08-10T18:22:05+00:00"
+    },
+    {
       "id": "hn-49247477",
       "source": "hn",
       "title": "Rust SIMD on the GPU",
@@ -3423,7 +3479,7 @@
       "source": "hn",
       "title": "Credibility is the barrier to entry in silicon",
       "url": "https://www.siliconimist.com/p/credibility-is-the-barrier-to-entry",
-      "score": 25,
+      "score": 30,
       "comments": 9,
       "author": "johncole",
       "tags": [],
@@ -4354,7 +4410,7 @@
       "source": "hn",
       "title": "Differential Heuristics",
       "url": "https://www.redblobgames.com/blog/2026-08-08-differential-heuristics/",
-      "score": 5,
+      "score": 19,
       "comments": 0,
       "author": "ibobev",
       "tags": [],
@@ -5124,65 +5180,6 @@
       "date": "2026-08-08T13:26:51+00:00"
     },
     {
-      "id": "qiita-60cd7ab3f3",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "フィッシングの手口を体験して学べるWebアプリを作りました",
-      "url": "https://qiita.com/nadev/items/7407a746e6ab0c5755c0?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "nadev",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-08-08T22:24:58+09:00"
-    },
-    {
-      "id": "hn-49221431",
-      "source": "hn",
-      "title": "Cave of the Crystals",
-      "url": "https://en.wikipedia.org/wiki/Cave_of_the_Crystals",
-      "score": 21,
-      "comments": 1,
-      "author": "ColinWright",
-      "tags": [],
-      "date": "2026-08-08T12:55:23+00:00"
-    },
-    {
-      "id": "hn-49221220",
-      "source": "hn",
-      "title": "Gateway 2000's hilariously bad ads in the 90s (Part II)",
-      "url": "https://buttondown.com/suchbadtechads/archive/gateway-2000-part-2/",
-      "score": 100,
-      "comments": 76,
-      "author": "rfarley04",
-      "tags": [],
-      "date": "2026-08-08T12:31:11+00:00"
-    },
-    {
-      "id": "qiita-046d85c39e",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "LTできたらバンジー飛べる",
-      "url": "https://qiita.com/tanahiro2010/items/e536eabc73691f87dc0e?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "tanahiro2010",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-08-08T21:27:46+09:00"
-    },
-    {
-      "id": "hn-49221169",
-      "source": "hn",
-      "title": "SQRL wan't wrong, it was early",
-      "url": "https://sjg.io/writing/sqrl-wasnt-wrong-it-was-early/",
-      "score": 11,
-      "comments": 2,
-      "author": "simonjgreen",
-      "tags": [],
-      "date": "2026-08-08T12:24:12+00:00"
-    },
-    {
       "id": "ghrel-projectdiscovery_nuclei-367195598",
       "source": "project",
       "proj_category": "Tools",
@@ -5201,8 +5198,8 @@
       "source": "hn",
       "title": "What an improv stage can teach you about leading cross-cultural teams in Tokyo",
       "url": "https://www.tokyodev.com/articles/yes-and-what-an-improv-stage-can-teach-you-about-leading-cross-cultural-teams-in-tokyo",
-      "score": 11,
-      "comments": 2,
+      "score": 16,
+      "comments": 3,
       "author": "pwim",
       "tags": [],
       "date": "2026-08-06T23:50:13+00:00"

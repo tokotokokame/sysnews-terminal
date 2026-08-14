@@ -1,7 +1,51 @@
 {
-  "updated_at": "2026-08-14T19:47:15.715762+00:00",
+  "updated_at": "2026-08-14T20:29:49.681058+00:00",
   "count": 500,
   "items": [
+    {
+      "id": "hn-49303957",
+      "source": "hn",
+      "title": "Every exterior shot in The Taking of Pelham 123",
+      "url": "https://iafisher.com/2026/07/pelham-123",
+      "score": 4,
+      "comments": 0,
+      "author": "evakhoury",
+      "tags": [],
+      "date": "2026-08-14T20:10:49+00:00"
+    },
+    {
+      "id": "hn-49303774",
+      "source": "hn",
+      "title": "Jason Arday: Former Cambridge university professor found dead",
+      "url": "https://www.bbc.com/news/articles/c1j1ye6n30no",
+      "score": 13,
+      "comments": 1,
+      "author": "artninja1988",
+      "tags": [],
+      "date": "2026-08-14T19:51:49+00:00"
+    },
+    {
+      "id": "hn-49303652",
+      "source": "hn",
+      "title": "New Lower and Upper Bounds for the Grothendieck Constant",
+      "url": "https://arxiv.org/abs/2608.11158",
+      "score": 5,
+      "comments": 1,
+      "author": "surprisetalk",
+      "tags": [],
+      "date": "2026-08-14T19:41:42+00:00"
+    },
+    {
+      "id": "hn-49303540",
+      "source": "hn",
+      "title": "Anthropic Risk August 2026 [pdf]",
+      "url": "https://www-cdn.anthropic.com/f61d49fa5596956a5dec75fea0e973bf6a6a8378/Redacted%20Risk%20Report%20August%202026%20.pdf",
+      "score": 13,
+      "comments": 0,
+      "author": "artninja1988",
+      "tags": [],
+      "date": "2026-08-14T19:32:15+00:00"
+    },
     {
       "id": "hn-49303433",
       "source": "hn",
@@ -18,19 +62,30 @@
       "source": "hn",
       "title": "How Claude's text watermarking works",
       "url": "https://www.anthropic.com/news/claude-text-watermark",
-      "score": 6,
-      "comments": 1,
+      "score": 33,
+      "comments": 34,
       "author": "surprisetalk",
       "tags": [],
       "date": "2026-08-14T19:15:51+00:00"
+    },
+    {
+      "id": "hn-49303237",
+      "source": "hn",
+      "title": "Open WireGuard Endpoints",
+      "url": "https://proxylity.com/articles/now-available-open-wireguard-endpoints-and-async-lambda.html",
+      "score": 11,
+      "comments": 0,
+      "author": "mlhpdx",
+      "tags": [],
+      "date": "2026-08-14T19:05:46+00:00"
     },
     {
       "id": "hn-49303046",
       "source": "hn",
       "title": "Show HN: Mole – Deep research agent for your terminal",
       "url": "https://github.com/lajosdeme/mole",
-      "score": 11,
-      "comments": 2,
+      "score": 17,
+      "comments": 4,
       "author": "lajosdeme",
       "tags": [],
       "date": "2026-08-14T18:52:48+00:00"
@@ -62,8 +117,8 @@
       "source": "hn",
       "title": "Count Binface receives over a quarter of votes in Clacton by-election",
       "url": "https://www.bbc.com/news/articles/ce97mm3vvemo",
-      "score": 329,
-      "comments": 228,
+      "score": 396,
+      "comments": 275,
       "author": "tcp_handshaker",
       "tags": [],
       "date": "2026-08-14T16:45:49+00:00"
@@ -73,8 +128,8 @@
       "source": "hn",
       "title": "Show HN: LuaCAD – Parametric CAD Scripted in Lua",
       "url": "https://luacad.ad-si.com",
-      "score": 42,
-      "comments": 7,
+      "score": 48,
+      "comments": 10,
       "author": "adius",
       "tags": [],
       "date": "2026-08-14T16:43:22+00:00"
@@ -84,8 +139,8 @@
       "source": "hn",
       "title": "Maximizing the value of your Claude Code sessions",
       "url": "https://claude.com/blog/maximizing-the-value-of-your-claude-code-sessions",
-      "score": 79,
-      "comments": 46,
+      "score": 84,
+      "comments": 59,
       "author": "twapi",
       "tags": [],
       "date": "2026-08-14T16:15:21+00:00"
@@ -95,8 +150,8 @@
       "source": "hn",
       "title": "RustDesk now supports true unattended remote access on Wayland",
       "url": "https://rustdesk.com/blog/unattended-remote-access-wayland/",
-      "score": 124,
-      "comments": 50,
+      "score": 146,
+      "comments": 57,
       "author": "rustdesk",
       "tags": [],
       "date": "2026-08-14T16:12:52+00:00"
@@ -129,7 +184,7 @@
       "source": "hn",
       "title": "AI by Hand",
       "url": "https://www.byhand.ai/",
-      "score": 89,
+      "score": 95,
       "comments": 10,
       "author": "sans_souse",
       "tags": [],
@@ -147,12 +202,25 @@
       "date": "2026-08-14T15:48:59+00:00"
     },
     {
+      "id": "qiita-e70cbd16e5",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "消費税を上げるか下げるか、その前に ― 財源幻想から考える国家OSのリファクタリング : システム設計視点の行動経済学 (15)",
+      "url": "https://qiita.com/maskot1977/items/309d01d1e9d6ce527152?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "maskot1977",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-08-15T00:44:27+09:00"
+    },
+    {
       "id": "hn-49300314",
       "source": "hn",
       "title": "Google is making private AI practical with homomorphic encryption",
       "url": "https://blog.google/security/how-google-is-making-private-ai-practical-with-homomorphic-encryption/",
-      "score": 129,
-      "comments": 82,
+      "score": 158,
+      "comments": 107,
       "author": "u1hcw9nx",
       "tags": [],
       "date": "2026-08-14T15:43:10+00:00"
@@ -173,8 +241,8 @@
       "source": "hn",
       "title": "Introducing Toast 1",
       "url": "https://www.mixedbread.com/blog/toast-1",
-      "score": 130,
-      "comments": 39,
+      "score": 140,
+      "comments": 43,
       "author": "mplappert",
       "tags": [],
       "date": "2026-08-14T15:07:57+00:00"
@@ -195,8 +263,8 @@
       "source": "hn",
       "title": "Seven books I keep close because I love them",
       "url": "https://blog.plover.com/2026/08/02/",
-      "score": 210,
-      "comments": 92,
+      "score": 221,
+      "comments": 96,
       "author": "surprisetalk",
       "tags": [],
       "date": "2026-08-14T15:03:26+00:00"
@@ -217,8 +285,8 @@
       "source": "hn",
       "title": "Qwen 3.8 27B",
       "url": "https://huggingface.co/Qwen/Qwen3.8-27B-FP8",
-      "score": 557,
-      "comments": 372,
+      "score": 615,
+      "comments": 403,
       "author": "erdaltoprak",
       "tags": [],
       "date": "2026-08-14T15:00:00+00:00"
@@ -250,8 +318,8 @@
       "source": "hn",
       "title": "Every Fucking Website (2020)",
       "url": "https://lxe.github.io/everywebsite/",
-      "score": 623,
-      "comments": 356,
+      "score": 637,
+      "comments": 368,
       "author": "doubletwoyou",
       "tags": [],
       "date": "2026-08-14T14:31:08+00:00"
@@ -272,8 +340,8 @@
       "source": "hn",
       "title": "I turned my RSS feeds into an e-ink newspaper to stop reading on my phone",
       "url": "https://heyjonny.dev/posts/rss-to-eink-newspaper/",
-      "score": 86,
-      "comments": 38,
+      "score": 89,
+      "comments": 39,
       "author": "speckx",
       "tags": [],
       "date": "2026-08-14T14:21:18+00:00"
@@ -394,8 +462,8 @@
       "source": "hn",
       "title": "Why does Opus 5 feel worse to work with?",
       "url": "https://mun-logadan.github.io/why-does-opus-5-feel-worse/",
-      "score": 577,
-      "comments": 527,
+      "score": 599,
+      "comments": 564,
       "author": "numeri",
       "tags": [],
       "date": "2026-08-14T10:12:48+00:00"
@@ -416,8 +484,8 @@
       "source": "hn",
       "title": "DeepSeek peak/off-peak pricing update",
       "url": "https://api-docs.deepseek.com/news/news260813/",
-      "score": 223,
-      "comments": 117,
+      "score": 229,
+      "comments": 122,
       "author": "fagnerbrack",
       "tags": [],
       "date": "2026-08-14T09:55:33+00:00",
@@ -459,6 +527,19 @@
       "date": "2026-08-14T07:03:56+00:00"
     },
     {
+      "id": "qiita-829153d5ff",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "CSSが反映されない原因10選",
+      "url": "https://qiita.com/nt_matsuda56/items/48143eeaf19f9e358e3a?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "nt_matsuda56",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-08-14T15:19:54+09:00"
+    },
+    {
       "id": "hn-49295238",
       "source": "hn",
       "title": "Ruby 4.0 Universal RCE Deserialization Gadget Chain",
@@ -475,11 +556,24 @@
       "source": "hn",
       "title": "GLM-5.3: Frontier coding with emergent cyber capabilities",
       "url": "https://z.ai/blog/glm-5.3",
-      "score": 968,
-      "comments": 483,
+      "score": 978,
+      "comments": 489,
       "author": "pella",
       "tags": [],
       "date": "2026-08-14T05:19:59+00:00"
+    },
+    {
+      "id": "qiita-8fbc1bfa5e",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "待望の東京リージョン、AgentCore Web Search Toolの日本語対応を検証してみた",
+      "url": "https://qiita.com/yama3133/items/8de742618331006e8fb0?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "yama3133",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-08-14T14:14:03+09:00"
     },
     {
       "id": "qiita-9ada2b7dbb",
@@ -519,6 +613,19 @@
       "date": "2026-08-14T11:29:08+09:00"
     },
     {
+      "id": "qiita-4a24e83438",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "【Amazon Bedrock】長文入力におけるClaudeの仕様が変わったので検証してみる",
+      "url": "https://qiita.com/tkmt0322/items/60956fb3f8390a58c6b2?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "tkmt0322",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-08-14T11:24:25+09:00"
+    },
+    {
       "id": "qiita-cb9570c859",
       "source": "zennqiita",
       "sub_source": "Qiita",
@@ -541,6 +648,19 @@
       "author": "vforno",
       "tags": [],
       "date": "2026-08-14T00:47:04+00:00"
+    },
+    {
+      "id": "qiita-fca9792d28",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "Claude CodeのCLAUDE.md書き方リファレンス",
+      "url": "https://qiita.com/tamashiro_nobuyuki/items/fe70e2936542c1bde001?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "tamashiro_nobuyuki",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-08-14T09:45:36+09:00"
     },
     {
       "id": "qiita-292cdcd202",
@@ -687,6 +807,19 @@
       "author": "theanonymousone",
       "tags": [],
       "date": "2026-08-13T20:14:17+00:00"
+    },
+    {
+      "id": "qiita-d36e65c38b",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "シャドーAIは「禁止」ではなく運用設計で向き合う",
+      "url": "https://qiita.com/mhamadajp/items/7b159e09813f4c99a513?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "mhamadajp",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-08-14T05:11:55+09:00"
     },
     {
       "id": "hn-49290969",
@@ -1563,6 +1696,19 @@
       "date": "2026-08-12T18:13:45+00:00"
     },
     {
+      "id": "qiita-fde6f49927",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "Markdownのプレビューを見ながら編集できる──VS Code 1.131 新機能を試す",
+      "url": "https://qiita.com/ruumalilja/items/99f4567ee75a43481f00?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "ruumalilja",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-08-13T02:11:56+09:00"
+    },
+    {
       "id": "hn-49275465",
       "source": "hn",
       "title": "Reflex (YC W23) Is hiring Growth and GTM Roles",
@@ -2052,8 +2198,8 @@
       "source": "hn",
       "title": "Turbo Pascal on CP/M, MSX-DOS and MS-DOS – Pascal for Small Machines",
       "url": "http://pascal.hansotten.com/delphi/turbo-pascal-on-cpm-msx-dos-and-ms-dos/",
-      "score": 28,
-      "comments": 5,
+      "score": 32,
+      "comments": 8,
       "author": "rbanffy",
       "tags": [],
       "date": "2026-08-12T09:34:38+00:00"
@@ -3399,8 +3545,8 @@
       "source": "hn",
       "title": "Don't classify, hallucinate",
       "url": "https://softwaredoug.com/blog/2026/08/10/hypothetical-classifications",
-      "score": 184,
-      "comments": 75,
+      "score": 191,
+      "comments": 80,
       "author": "softwaredoug",
       "tags": [],
       "date": "2026-08-10T20:50:36+00:00"
@@ -4621,6 +4767,17 @@
       "date": "2026-08-09T16:33:05+00:00"
     },
     {
+      "id": "hn-49232870",
+      "source": "hn",
+      "title": "Show HN: Ember – Redshift safe color palettes",
+      "url": "https://github.com/carpdiem/ember",
+      "score": 10,
+      "comments": 0,
+      "author": "carpdiem",
+      "tags": [],
+      "date": "2026-08-09T16:26:37+00:00"
+    },
+    {
       "id": "hn-49232857",
       "source": "hn",
       "title": "FCC moves to ban Lidar-equipped foreign drones from US",
@@ -5003,158 +5160,6 @@
       "date": "2026-08-09T09:29:32+00:00"
     },
     {
-      "id": "qiita-cddb1d2780",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "可逆プログラミング言語Janusと、量子計算の逆計算",
-      "url": "https://qiita.com/gyu-don/items/f02f1c55e18281c916a5?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "gyu-don",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-08-09T18:16:05+09:00"
-    },
-    {
-      "id": "qiita-3c060b34d8",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "API設計 - RESTでは表現しにくい操作を、どう設計するか",
-      "url": "https://qiita.com/ham-nao/items/bdcf0f87abb04047da6f?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "ham-nao",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-08-09T17:40:16+09:00"
-    },
-    {
-      "id": "hn-49229412",
-      "source": "hn",
-      "title": "Software Giant SAP Stops Most Travel and Hiring Because of AI's Soaring Cost",
-      "url": "https://www.404media.co/software-giant-sap-stops-most-travel-and-hiring-because-of-ais-soaring-cost/",
-      "score": 36,
-      "comments": 12,
-      "author": "theanonymousone",
-      "tags": [],
-      "date": "2026-08-09T08:00:51+00:00"
-    },
-    {
-      "id": "qiita-5bf7ae3d29",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "新人エンジニアにとって大切なことは技術力だけではない話",
-      "url": "https://qiita.com/teppei19980914/items/d8c00eff5cbf870c606c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "teppei19980914",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-08-09T16:50:25+09:00"
-    },
-    {
-      "id": "hn-49229174",
-      "source": "hn",
-      "title": "There Are Magic Hexagons of Every Order",
-      "url": "https://gukov.dev/math/2026/08/02/new-magic-hexagons.html",
-      "score": 178,
-      "comments": 30,
-      "author": "gukoff",
-      "tags": [],
-      "date": "2026-08-09T07:19:58+00:00"
-    },
-    {
-      "id": "hn-49228663",
-      "source": "hn",
-      "title": "Microsoft Word for Windows 1.1a, Native X64 Port",
-      "url": "https://github.com/jmarshall23/msword",
-      "score": 151,
-      "comments": 64,
-      "author": "BruceEel",
-      "tags": [],
-      "date": "2026-08-09T05:23:41+00:00"
-    },
-    {
-      "id": "hn-49228458",
-      "source": "hn",
-      "title": "The original URL for this prediction will no longer be available in 11 years (2011)",
-      "url": "http://longbets.org/601/",
-      "score": 184,
-      "comments": 87,
-      "author": "doubletwoyou",
-      "tags": [],
-      "date": "2026-08-09T04:30:26+00:00"
-    },
-    {
-      "id": "hn-49228426",
-      "source": "hn",
-      "title": "Why MySpace fans want it back as relaunch hinted",
-      "url": "https://www.bbc.com/news/articles/c4g64152v71o",
-      "score": 28,
-      "comments": 26,
-      "author": "1659447091",
-      "tags": [],
-      "date": "2026-08-09T04:24:10+00:00"
-    },
-    {
-      "id": "hn-49228350",
-      "source": "hn",
-      "title": "Illinois just told every operating system to start reporting your kid's age",
-      "url": "https://itsfoss.com/news/illinois-age-verification-bill/",
-      "score": 99,
-      "comments": 66,
-      "author": "WaitWaitWha",
-      "tags": [],
-      "date": "2026-08-09T04:03:59+00:00"
-    },
-    {
-      "id": "hn-49228166",
-      "source": "hn",
-      "title": "Retraction: The App Store Rejection of the Week That Was a Correct Rejection",
-      "url": "https://daringfireball.net/2026/08/retraction_app_store_rejection_of_the_week",
-      "score": 213,
-      "comments": 27,
-      "author": "minimaxir",
-      "tags": [],
-      "date": "2026-08-09T03:26:00+00:00"
-    },
-    {
-      "id": "hn-49228086",
-      "source": "hn",
-      "title": "Real-time MCP interceptor that blocks .env reads and dangerous commands agents",
-      "url": "https://marketnow.site/",
-      "score": 4,
-      "comments": 0,
-      "author": "eddyflores",
-      "tags": [],
-      "date": "2026-08-09T03:13:01+00:00",
-      "severity": "critical"
-    },
-    {
-      "id": "qiita-0bab58e0a1",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "AIがコードを書く時代に、なぜWebエンジニアは必要なのか",
-      "url": "https://qiita.com/saikoseiko/items/b44110b1bd3e3d687fae?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "saikoseiko",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-08-09T11:06:09+09:00"
-    },
-    {
-      "id": "hn-49227718",
-      "source": "hn",
-      "title": "ChatGPT starts blocking direct requests to copy an author's style",
-      "url": "https://arstechnica.com/ai/2026/07/chatgpt-stops-cloning-famous-writers-voices-but-may-capture-a-similar-feeling/",
-      "score": 30,
-      "comments": 15,
-      "author": "Eloissssss",
-      "tags": [],
-      "date": "2026-08-09T02:01:38+00:00"
-    },
-    {
       "id": "ctf-4348953",
       "source": "project",
       "proj_category": "CTF",
@@ -5187,8 +5192,8 @@
       "source": "hn",
       "title": "Ultraviolet Bird Photography",
       "url": "https://uvbirds.com/",
-      "score": 61,
-      "comments": 9,
+      "score": 65,
+      "comments": 10,
       "author": "EndXA",
       "tags": [],
       "date": "2026-08-07T14:51:09+00:00"

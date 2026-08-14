@@ -1,14 +1,58 @@
 {
-  "updated_at": "2026-08-14T16:51:22.691994+00:00",
+  "updated_at": "2026-08-14T17:51:48.358265+00:00",
   "count": 500,
   "items": [
+    {
+      "id": "hn-49301417",
+      "source": "hn",
+      "title": "A Contract-Grade Verifier for LLM-Generated GPU Kernels",
+      "url": "https://arxiv.org/abs/2608.12700",
+      "score": 4,
+      "comments": 0,
+      "author": "Jimmc414",
+      "tags": [],
+      "date": "2026-08-14T16:57:14+00:00"
+    },
+    {
+      "id": "hn-49301342",
+      "source": "hn",
+      "title": "Discrete Fourier Transform by Hand",
+      "url": "https://www.byhand.ai/p/28-discrete-fourier-transform",
+      "score": 9,
+      "comments": 1,
+      "author": "Bluestein",
+      "tags": [],
+      "date": "2026-08-14T16:52:46+00:00"
+    },
+    {
+      "id": "hn-49301260",
+      "source": "hn",
+      "title": "Count Binface receives over a quarter of votes in Clacton by-election",
+      "url": "https://www.bbc.com/news/articles/ce97mm3vvemo",
+      "score": 68,
+      "comments": 21,
+      "author": "tcp_handshaker",
+      "tags": [],
+      "date": "2026-08-14T16:45:49+00:00"
+    },
+    {
+      "id": "hn-49300800",
+      "source": "hn",
+      "title": "Maximizing the value of your Claude Code sessions",
+      "url": "https://claude.com/blog/maximizing-the-value-of-your-claude-code-sessions",
+      "score": 20,
+      "comments": 5,
+      "author": "twapi",
+      "tags": [],
+      "date": "2026-08-14T16:15:21+00:00"
+    },
     {
       "id": "hn-49300759",
       "source": "hn",
       "title": "RustDesk now supports true unattended remote access on Wayland",
       "url": "https://rustdesk.com/blog/unattended-remote-access-wayland/",
-      "score": 24,
-      "comments": 2,
+      "score": 60,
+      "comments": 20,
       "author": "rustdesk",
       "tags": [],
       "date": "2026-08-14T16:12:52+00:00"
@@ -16,10 +60,10 @@
     {
       "id": "hn-49300671",
       "source": "hn",
-      "title": "France blocks social media ban because it would require adults to prove age",
+      "title": "France's top court blocks social media ban for under-15s",
       "url": "https://www.reuters.com/world/frances-top-court-rules-social-media-ban-curtails-freedom-expression-2026-08-14/",
-      "score": 41,
-      "comments": 7,
+      "score": 107,
+      "comments": 40,
       "author": "BlueBerry2001",
       "tags": [],
       "date": "2026-08-14T16:06:49+00:00"
@@ -29,12 +73,23 @@
       "source": "hn",
       "title": "RayforceDB – a pure C analytics database with a Lisp-like syntax",
       "url": "https://rayforcedb.com/",
-      "score": 10,
-      "comments": 2,
+      "score": 20,
+      "comments": 12,
       "author": "sourdecor",
       "tags": [],
       "date": "2026-08-14T16:02:20+00:00",
       "severity": "critical"
+    },
+    {
+      "id": "hn-49300568",
+      "source": "hn",
+      "title": "AI by Hand",
+      "url": "https://www.byhand.ai/",
+      "score": 34,
+      "comments": 4,
+      "author": "sans_souse",
+      "tags": [],
+      "date": "2026-08-14T15:58:59+00:00"
     },
     {
       "id": "hn-49300411",
@@ -50,10 +105,10 @@
     {
       "id": "hn-49300314",
       "source": "hn",
-      "title": "Google Is Making Private AI Practical with Homomorphic Encryption",
+      "title": "Google is making private AI practical with homomorphic encryption",
       "url": "https://blog.google/security/how-google-is-making-private-ai-practical-with-homomorphic-encryption/",
-      "score": 23,
-      "comments": 9,
+      "score": 68,
+      "comments": 51,
       "author": "u1hcw9nx",
       "tags": [],
       "date": "2026-08-14T15:43:10+00:00"
@@ -74,8 +129,8 @@
       "source": "hn",
       "title": "Introducing Toast 1",
       "url": "https://www.mixedbread.com/blog/toast-1",
-      "score": 67,
-      "comments": 20,
+      "score": 97,
+      "comments": 27,
       "author": "mplappert",
       "tags": [],
       "date": "2026-08-14T15:07:57+00:00"
@@ -96,8 +151,8 @@
       "source": "hn",
       "title": "Seven books I keep close because I love them",
       "url": "https://blog.plover.com/2026/08/02/",
-      "score": 84,
-      "comments": 29,
+      "score": 141,
+      "comments": 50,
       "author": "surprisetalk",
       "tags": [],
       "date": "2026-08-14T15:03:26+00:00"
@@ -107,8 +162,8 @@
       "source": "hn",
       "title": "Self-hosted web push Cloudflare Worker, works on iOS",
       "url": "https://kukuroo.cc/",
-      "score": 28,
-      "comments": 9,
+      "score": 36,
+      "comments": 11,
       "author": "saiday",
       "tags": [],
       "date": "2026-08-14T15:03:12+00:00"
@@ -116,10 +171,10 @@
     {
       "id": "hn-49299605",
       "source": "hn",
-      "title": "Qwen 3.8 27B is out: open weights, best local dense model yet",
+      "title": "Qwen 3.8 27B",
       "url": "https://huggingface.co/Qwen/Qwen3.8-27B-FP8",
-      "score": 94,
-      "comments": 18,
+      "score": 302,
+      "comments": 227,
       "author": "erdaltoprak",
       "tags": [],
       "date": "2026-08-14T15:00:00+00:00"
@@ -151,8 +206,8 @@
       "source": "hn",
       "title": "Every Fucking Website (2020)",
       "url": "https://lxe.github.io/everywebsite/",
-      "score": 494,
-      "comments": 280,
+      "score": 552,
+      "comments": 324,
       "author": "doubletwoyou",
       "tags": [],
       "date": "2026-08-14T14:31:08+00:00"
@@ -162,8 +217,8 @@
       "source": "hn",
       "title": "AI Model Atlas – visualizing populations of ML models as interconnected 3D graph",
       "url": "https://run.cosmograph.app/public/ca9fd1ad-fe83-4238-8b69-b707c633aef0",
-      "score": 19,
-      "comments": 3,
+      "score": 25,
+      "comments": 4,
       "author": "bj-rn",
       "tags": [],
       "date": "2026-08-14T14:22:39+00:00"
@@ -173,8 +228,8 @@
       "source": "hn",
       "title": "I turned my RSS feeds into an e-ink newspaper to stop reading on my phone",
       "url": "https://heyjonny.dev/posts/rss-to-eink-newspaper/",
-      "score": 46,
-      "comments": 19,
+      "score": 59,
+      "comments": 24,
       "author": "speckx",
       "tags": [],
       "date": "2026-08-14T14:21:18+00:00"
@@ -193,10 +248,10 @@
     {
       "id": "hn-49298910",
       "source": "hn",
-      "title": "In Australia, a Home Battery Boom Has Helped Cut Wholesale Power Prices in Half",
+      "title": "In Australia, a home battery boom has helped cut wholesale power prices",
       "url": "https://e360.yale.edu/digest/australia-home-batteries",
-      "score": 190,
-      "comments": 148,
+      "score": 223,
+      "comments": 169,
       "author": "speckx",
       "tags": [],
       "date": "2026-08-14T14:07:52+00:00"
@@ -217,8 +272,8 @@
       "source": "hn",
       "title": "HashAgent – Share an AI agent as a URL, runs locally via WebGPU",
       "url": "https://hashagent.pages.dev/",
-      "score": 26,
-      "comments": 3,
+      "score": 34,
+      "comments": 4,
       "author": "masonhsu",
       "tags": [],
       "date": "2026-08-14T12:57:02+00:00"
@@ -250,8 +305,8 @@
       "source": "hn",
       "title": "The TEMU-Fication of Software, Digital Goods and Services",
       "url": "https://xn--gckvb8fzb.com/the-temu-fication-of-software-digital-goods-services/",
-      "score": 69,
-      "comments": 42,
+      "score": 79,
+      "comments": 60,
       "author": "surprisetalk",
       "tags": [],
       "date": "2026-08-14T12:00:51+00:00"
@@ -295,8 +350,8 @@
       "source": "hn",
       "title": "Why does Opus 5 feel worse to work with?",
       "url": "https://mun-logadan.github.io/why-does-opus-5-feel-worse/",
-      "score": 356,
-      "comments": 350,
+      "score": 436,
+      "comments": 427,
       "author": "numeri",
       "tags": [],
       "date": "2026-08-14T10:12:48+00:00"
@@ -317,8 +372,8 @@
       "source": "hn",
       "title": "DeepSeek peak/off-peak pricing update",
       "url": "https://api-docs.deepseek.com/news/news260813/",
-      "score": 191,
-      "comments": 105,
+      "score": 206,
+      "comments": 108,
       "author": "fagnerbrack",
       "tags": [],
       "date": "2026-08-14T09:55:33+00:00",
@@ -376,8 +431,8 @@
       "source": "hn",
       "title": "GLM-5.3: Frontier coding with emergent cyber capabilities",
       "url": "https://z.ai/blog/glm-5.3",
-      "score": 894,
-      "comments": 460,
+      "score": 924,
+      "comments": 467,
       "author": "pella",
       "tags": [],
       "date": "2026-08-14T05:19:59+00:00"
@@ -2008,6 +2063,17 @@
       "date": "2026-08-12T17:13:47+09:00"
     },
     {
+      "id": "hn-49269240",
+      "source": "hn",
+      "title": "Forbidden City Cabbage",
+      "url": "https://www.cnn.com/2025/11/10/style/jadeite-cabbage-taiwan-forbidden-city-curio-hnk-intl",
+      "score": 14,
+      "comments": 0,
+      "author": "dude250711",
+      "tags": [],
+      "date": "2026-08-12T08:12:15+00:00"
+    },
+    {
       "id": "hn-49269090",
       "source": "hn",
       "title": "Launch HN: Discovered Materials (YC P26) – AI agents to discover new materials",
@@ -3265,10 +3331,10 @@
     {
       "id": "hn-49249523",
       "source": "hn",
-      "title": "Don't classify, hallucinate!",
+      "title": "Don't classify, hallucinate",
       "url": "https://softwaredoug.com/blog/2026/08/10/hypothetical-classifications",
-      "score": 154,
-      "comments": 70,
+      "score": 168,
+      "comments": 71,
       "author": "softwaredoug",
       "tags": [],
       "date": "2026-08-10T20:50:36+00:00"
@@ -5091,63 +5157,6 @@
       "date": "2026-08-09T01:23:36+00:00"
     },
     {
-      "id": "qiita-f65ba6b035",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "人間もまた一つのシステムである ― 「人間システム論」というものの見方",
-      "url": "https://qiita.com/k_iwata_office/items/531ad0ff24558455ee3e?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "k_iwata_office",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-08-09T10:20:31+09:00"
-    },
-    {
-      "id": "hn-49227365",
-      "source": "hn",
-      "title": "Melatonin impairs morning cognition in healthy young adults (2023)",
-      "url": "https://academic.oup.com/sleep/article/46/Supplement_1/A34/7181621",
-      "score": 142,
-      "comments": 131,
-      "author": "bohaska",
-      "tags": [],
-      "date": "2026-08-09T00:59:58+00:00"
-    },
-    {
-      "id": "hn-49226923",
-      "source": "hn",
-      "title": "Os8088: A powerful Mac-like OS for the IBM XT, 286, 386",
-      "url": "https://os8088.com/",
-      "score": 223,
-      "comments": 146,
-      "author": "jggonz",
-      "tags": [],
-      "date": "2026-08-08T23:37:27+00:00"
-    },
-    {
-      "id": "hn-49226767",
-      "source": "hn",
-      "title": "Depression has tripled in the last 15 years. Arthur Brooks about the cause",
-      "url": "https://bigthink.com/series/full-interview/meaning-crisis-brooks/",
-      "score": 28,
-      "comments": 39,
-      "author": "lschueller",
-      "tags": [],
-      "date": "2026-08-08T23:09:07+00:00"
-    },
-    {
-      "id": "hn-49226742",
-      "source": "hn",
-      "title": "Dithered QR Codes",
-      "url": "https://www.andrewt.net/dithered-qr-codes/wtf/",
-      "score": 337,
-      "comments": 37,
-      "author": "jmusall",
-      "tags": [],
-      "date": "2026-08-08T23:05:24+00:00"
-    },
-    {
       "id": "ctf-4348953",
       "source": "project",
       "proj_category": "CTF",
@@ -5180,22 +5189,11 @@
       "source": "hn",
       "title": "Ultraviolet Bird Photography",
       "url": "https://uvbirds.com/",
-      "score": 6,
-      "comments": 0,
+      "score": 29,
+      "comments": 2,
       "author": "EndXA",
       "tags": [],
       "date": "2026-08-07T14:51:09+00:00"
-    },
-    {
-      "id": "hn-49175067",
-      "source": "hn",
-      "title": "Gödel, Escher, Elisp: The Beauty of Macros",
-      "url": "https://www.chiply.dev/post-elisp-macros-are-beautiful",
-      "score": 25,
-      "comments": 9,
-      "author": "JNRowe",
-      "tags": [],
-      "date": "2026-08-04T20:59:43+00:00"
     },
     {
       "id": "ctf-4233874",

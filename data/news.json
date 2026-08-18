@@ -1,7 +1,18 @@
 {
-  "updated_at": "2026-08-18T13:41:02.072195+00:00",
+  "updated_at": "2026-08-18T14:32:05.096081+00:00",
   "count": 500,
   "items": [
+    {
+      "id": "hn-49345476",
+      "source": "hn",
+      "title": "Python Polars Cheatsheet (based on our O'Reilly book)",
+      "url": "https://opensource.posit.co/resources/cheatsheets/polars/",
+      "score": 21,
+      "comments": 3,
+      "author": "jeroenjanssens",
+      "tags": [],
+      "date": "2026-08-18T13:38:23+00:00"
+    },
     {
       "id": "hn-49345448",
       "source": "hn",
@@ -14,12 +25,78 @@
       "date": "2026-08-18T13:36:30+00:00"
     },
     {
+      "id": "hn-49345320",
+      "source": "hn",
+      "title": "NeoBrowser: An MCP server that drives real Chrome with your logged-in sessions",
+      "url": "https://github.com/pitiflautico/neobrowser",
+      "score": 17,
+      "comments": 7,
+      "author": "pitiflautico",
+      "tags": [],
+      "date": "2026-08-18T13:25:54+00:00"
+    },
+    {
+      "id": "hn-49345263",
+      "source": "hn",
+      "title": "The Amazon Tax",
+      "url": "https://seths.blog/2026/08/the-amazon-tax/",
+      "score": 68,
+      "comments": 28,
+      "author": "herbertl",
+      "tags": [],
+      "date": "2026-08-18T13:22:38+00:00"
+    },
+    {
+      "id": "hn-49345220",
+      "source": "hn",
+      "title": "Fixing a Bricked Framework Laptop",
+      "url": "https://quantum5.ca/2026/08/16/fixing-bricked-amd-7040-series-framework-13-laptop-with-20-tools/",
+      "score": 51,
+      "comments": 12,
+      "author": "jp_sc",
+      "tags": [],
+      "date": "2026-08-18T13:18:40+00:00"
+    },
+    {
+      "id": "hn-49345154",
+      "source": "hn",
+      "title": "Show HN: I canceled my AI code reviewer and wrote a free local one",
+      "url": "https://github.com/mukundzha/avouch",
+      "score": 20,
+      "comments": 9,
+      "author": "mukundzha6",
+      "tags": [],
+      "date": "2026-08-18T13:13:17+00:00"
+    },
+    {
+      "id": "hn-49345094",
+      "source": "hn",
+      "title": "Kent Beck: Composable Tests",
+      "url": "https://newsletter.kentbeck.com/p/composable-tests",
+      "score": 13,
+      "comments": 1,
+      "author": "vinipolicena",
+      "tags": [],
+      "date": "2026-08-18T13:08:32+00:00"
+    },
+    {
+      "id": "hn-49345091",
+      "source": "hn",
+      "title": "Show HN: A local MitM proxy to control TLS fingerprints",
+      "url": "https://github.com/ytkoka/impersonate-proxy",
+      "score": 6,
+      "comments": 0,
+      "author": "ytkoka",
+      "tags": [],
+      "date": "2026-08-18T13:07:50+00:00"
+    },
+    {
       "id": "hn-49345070",
       "source": "hn",
       "title": "Deus Ex creator Warren Spector is retiring from game development",
       "url": "https://www.videogameschronicle.com/news/its-just-not-as-much-fun-for-me-anymore-deus-ex-creator-warren-spector-is-retiring-from-game-development/",
-      "score": 24,
-      "comments": 4,
+      "score": 55,
+      "comments": 27,
       "author": "danbolt",
       "tags": [],
       "date": "2026-08-18T13:06:24+00:00"
@@ -29,8 +106,8 @@
       "source": "hn",
       "title": "Using the railway network as a flatbed scanner",
       "url": "https://philo.gay/linecam/",
-      "score": 56,
-      "comments": 7,
+      "score": 121,
+      "comments": 22,
       "author": "otherayden",
       "tags": [],
       "date": "2026-08-18T12:43:54+00:00"
@@ -40,8 +117,8 @@
       "source": "hn",
       "title": "Fairphone is now officially available in the United States",
       "url": "https://www.fairphone.com/nl/stories/the-fairphone-gen-6-is-all-about-giving-you-more",
-      "score": 37,
-      "comments": 4,
+      "score": 109,
+      "comments": 31,
       "author": "Vinnl",
       "tags": [],
       "date": "2026-08-18T12:42:53+00:00"
@@ -64,8 +141,8 @@
       "source": "hn",
       "title": "Meta Files Patent for Facial Recognition, Automatic Recording of People",
       "url": "https://www.privacyguides.org/news/2026/08/17/meta-files-patent-for-facial-recognition-automatic-recording-of-people/",
-      "score": 44,
-      "comments": 15,
+      "score": 87,
+      "comments": 42,
       "author": "DeepLogin",
       "tags": [],
       "date": "2026-08-18T12:23:55+00:00"
@@ -75,8 +152,8 @@
       "source": "hn",
       "title": "Claude writing a macOS driver for my obscure HP printer built only for Windows",
       "url": "https://twitter.com/kuberwastaken/status/2089377982536388964",
-      "score": 42,
-      "comments": 9,
+      "score": 64,
+      "comments": 14,
       "author": "porridgeraisin",
       "tags": [],
       "date": "2026-08-18T12:22:58+00:00"
@@ -97,8 +174,8 @@
       "source": "hn",
       "title": "Google buys crashed airline Spirit's data at auction, because AI",
       "url": "https://www.theregister.com/ai-and-ml/2026/08/18/google-buys-crashed-airline-spirits-data-at-auction-because-ai/5288962",
-      "score": 265,
-      "comments": 156,
+      "score": 316,
+      "comments": 205,
       "author": "pseudolus",
       "tags": [],
       "date": "2026-08-18T10:13:28+00:00"
@@ -108,8 +185,8 @@
       "source": "hn",
       "title": "Linux 7.3 improves performance when running out of vRAM",
       "url": "https://pixelcluster.dev/VRAM-Overcommit/",
-      "score": 313,
-      "comments": 100,
+      "score": 345,
+      "comments": 116,
       "author": "flaburgan",
       "tags": [],
       "date": "2026-08-18T07:51:50+00:00"
@@ -119,8 +196,8 @@
       "source": "hn",
       "title": "Rethinking Database Programming",
       "url": "https://acadia.engineering/blog/rethinking-database-programming",
-      "score": 133,
-      "comments": 60,
+      "score": 144,
+      "comments": 67,
       "author": "honungsburk",
       "tags": [],
       "date": "2026-08-18T07:28:27+00:00"
@@ -130,8 +207,8 @@
       "source": "hn",
       "title": "Finger: Social network that never died",
       "url": "https://en.andros.dev/blog/54572bc7/finger-the-1971-social-network-that-never-died/",
-      "score": 69,
-      "comments": 26,
+      "score": 84,
+      "comments": 32,
       "author": "andros",
       "tags": [],
       "date": "2026-08-18T07:21:35+00:00"
@@ -309,8 +386,8 @@
       "source": "hn",
       "title": "How Bluesky draws its logo on screenshots",
       "url": "https://timmarinin.net/2026/bluesky-screenshots/",
-      "score": 614,
-      "comments": 385,
+      "score": 623,
+      "comments": 390,
       "author": "gavide",
       "tags": [],
       "date": "2026-08-17T22:20:40+00:00"
@@ -331,8 +408,8 @@
       "source": "hn",
       "title": "Quake Shareware, a CD-ROM just a little too full",
       "url": "https://fabiensanglard.net/quake_shareware_cd/index.html",
-      "score": 413,
-      "comments": 177,
+      "score": 426,
+      "comments": 182,
       "author": "shdon",
       "tags": [],
       "date": "2026-08-17T22:06:14+00:00"
@@ -342,8 +419,8 @@
       "source": "hn",
       "title": "Fairphone 6 and PostmarketOS working main camera",
       "url": "https://catcrafts.net/posts/fairphone-6-postmarketos-working-main-camera",
-      "score": 249,
-      "comments": 59,
+      "score": 258,
+      "comments": 61,
       "author": "pizzaiolo",
       "tags": [],
       "date": "2026-08-17T22:01:17+00:00"
@@ -364,8 +441,8 @@
       "source": "hn",
       "title": "GPT-5.6 Sol Pricing Cut by 50%",
       "url": "https://openrouter.ai/openai/gpt-5.6-sol",
-      "score": 537,
-      "comments": 354,
+      "score": 553,
+      "comments": 365,
       "author": "Topfi",
       "tags": [],
       "date": "2026-08-17T21:03:18+00:00"
@@ -375,8 +452,8 @@
       "source": "hn",
       "title": "Israel creates fake think tank in likely attempt to dupe AI chatbots",
       "url": "https://responsiblestatecraft.org/israel-influence-chatgpt/",
-      "score": 772,
-      "comments": 439,
+      "score": 827,
+      "comments": 476,
       "author": "DeepLogin",
       "tags": [],
       "date": "2026-08-17T20:46:10+00:00"
@@ -802,8 +879,8 @@
       "source": "hn",
       "title": "A Preview of DuckDB v2.0",
       "url": "https://duckdb.org/2026/08/17/duckdb-20-highlights",
-      "score": 673,
-      "comments": 118,
+      "score": 674,
+      "comments": 120,
       "author": "ibotty",
       "tags": [],
       "date": "2026-08-17T13:46:27+00:00"
@@ -1816,9 +1893,9 @@
       "source": "zennqiita",
       "sub_source": "Qiita",
       "title": "彼女の誕生日に、2人だけのSNS「Sync」を作った話",
-      "url": "https://qiita.com/taiga-shiokawa/items/6e1719b24f56d4166d2e?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "url": "https://qiita.com/dayaa/items/6e1719b24f56d4166d2e?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
       "score": null,
-      "author": "taiga-shiokawa",
+      "author": "dayaa",
       "tags": [
         "Qiita"
       ],
@@ -3126,8 +3203,8 @@
       "source": "hn",
       "title": "Baking a Model: A Metaphor for LLM Training",
       "url": "https://newsletter.kentbeck.com/p/baking-a-model",
-      "score": 12,
-      "comments": 0,
+      "score": 16,
+      "comments": 1,
       "author": "KentBeck",
       "tags": [],
       "date": "2026-08-14T23:46:45+00:00"
@@ -3961,6 +4038,17 @@
       "author": "oskrim",
       "tags": [],
       "date": "2026-08-14T05:58:16+00:00"
+    },
+    {
+      "id": "hn-49295118",
+      "source": "hn",
+      "title": "Oxford Electric Bell",
+      "url": "https://en.wikipedia.org/wiki/Oxford_Electric_Bell",
+      "score": 8,
+      "comments": 0,
+      "author": "gurjeet",
+      "tags": [],
+      "date": "2026-08-14T05:46:05+00:00"
     },
     {
       "id": "hn-49294997",
@@ -5064,107 +5152,15 @@
       "date": "2026-08-13T16:19:26+09:00"
     },
     {
-      "id": "hn-49282652",
-      "source": "hn",
-      "title": "In the Shadow of the (Berlin) Wall",
-      "url": "https://www.slowtravelberlin.com/in-the-shadow-of-the-berlin-wall/",
-      "score": 7,
-      "comments": 1,
-      "author": "yitchelle",
-      "tags": [],
-      "date": "2026-08-13T07:10:41+00:00"
-    },
-    {
-      "id": "qiita-255d847d01",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": ".NET 11 でジェネリック仮想メソッドを高速化してみた",
-      "url": "https://qiita.com/hez2010/items/85c1fa4100e5898d1a55?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "hez2010",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-08-13T15:43:16+09:00"
-    },
-    {
-      "id": "hn-49281916",
-      "source": "hn",
-      "title": "Codex in ChatGPT desktop app for Linux is now in preview",
-      "url": "https://community.openai.com/t/codex-in-chatgpt-desktop-app-for-linux-is-now-in-preview/1390027",
-      "score": 413,
-      "comments": 287,
-      "author": "allanrbo",
-      "tags": [],
-      "date": "2026-08-13T04:53:41+00:00"
-    },
-    {
-      "id": "hn-49281839",
-      "source": "hn",
-      "title": "Celld: Self-hosted, distributed Durable Objects",
-      "url": "https://celld.dev/",
-      "score": 14,
-      "comments": 0,
-      "author": "godisdad",
-      "tags": [],
-      "date": "2026-08-13T04:37:31+00:00"
-    },
-    {
-      "id": "hn-49281352",
-      "source": "hn",
-      "title": "Clamiga: Common Lisp for the Amiga",
-      "url": "https://nnamgreb.de/blog/Clamiga+-+Common+Lisp+for+the+Amiga",
-      "score": 103,
-      "comments": 12,
-      "author": "emptybits",
-      "tags": [],
-      "date": "2026-08-13T03:05:36+00:00"
-    },
-    {
-      "id": "qiita-3a0748e772",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "AIに同じ質問をしたら、部署ごとに違う数字が返ってきた　― いま「オントロジー」と呼ばれているもの ―",
-      "url": "https://qiita.com/M_Ozu/items/346f6c8ab4b662a08f3e?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "M_Ozu",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-08-13T11:34:44+09:00"
-    },
-    {
-      "id": "hn-49281175",
-      "source": "hn",
-      "title": "Production-ready detection and response queries for osquery",
-      "url": "https://github.com/chainguard-dev/osquery-defense-kit",
-      "score": 16,
-      "comments": 1,
-      "author": "ankitg12",
-      "tags": [],
-      "date": "2026-08-13T02:32:01+00:00"
-    },
-    {
       "id": "hn-49272631",
       "source": "hn",
       "title": "Teaching my kid to code with a modern MUD",
       "url": "https://tau.dev/2026/08/07/canon",
-      "score": 59,
-      "comments": 20,
+      "score": 82,
+      "comments": 30,
       "author": "andrewjanke",
       "tags": [],
       "date": "2026-08-12T14:07:14+00:00"
-    },
-    {
-      "id": "hn-49270194",
-      "source": "hn",
-      "title": "Olo (Color)",
-      "url": "https://en.wikipedia.org/wiki/Olo_(color)",
-      "score": 497,
-      "comments": 90,
-      "author": "inigyou",
-      "tags": [],
-      "date": "2026-08-12T10:26:14+00:00"
     },
     {
       "id": "ctf-4372374",
@@ -5638,6 +5634,51 @@
       "date": "Thu, 13 Aug 2026 05:44:16 GMT"
     },
     {
+      "id": "edb-21efef3c77",
+      "source": "msf",
+      "title": "[remote] PCMan 2.0.7 - Buffer Overflow",
+      "url": "https://www.exploit-db.com/exploits/52657",
+      "score": null,
+      "author": "Exploit-DB",
+      "tags": [
+        "Exploit-DB",
+        "CVE",
+        "PoC"
+      ],
+      "severity": "high",
+      "date": "Tue, 18 Aug 2026 00:00:00 +0000"
+    },
+    {
+      "id": "edb-466c8965ff",
+      "source": "msf",
+      "title": "[dos] NanaZip 6.5  - DoS",
+      "url": "https://www.exploit-db.com/exploits/52656",
+      "score": null,
+      "author": "Exploit-DB",
+      "tags": [
+        "Exploit-DB",
+        "CVE",
+        "PoC"
+      ],
+      "severity": "high",
+      "date": "Tue, 18 Aug 2026 00:00:00 +0000"
+    },
+    {
+      "id": "edb-013c5f2244",
+      "source": "msf",
+      "title": "[webapps] flyto-core 2.26.7 - Arbitrary File Write",
+      "url": "https://www.exploit-db.com/exploits/52655",
+      "score": null,
+      "author": "Exploit-DB",
+      "tags": [
+        "Exploit-DB",
+        "CVE",
+        "PoC"
+      ],
+      "severity": "high",
+      "date": "Tue, 18 Aug 2026 00:00:00 +0000"
+    },
+    {
       "id": "edb-7da27965d7",
       "source": "msf",
       "title": "[webapps] Nodemailer 9.0.0 - File Read/ SSRF",
@@ -5816,51 +5857,6 @@
       ],
       "severity": "high",
       "date": "Mon, 17 Aug 2026 00:00:00 +0000"
-    },
-    {
-      "id": "edb-426d9e008f",
-      "source": "msf",
-      "title": "[webapps] WooCommerce 1.5.0 - Unauthenticated Arbitrary File Upload",
-      "url": "https://www.exploit-db.com/exploits/52642",
-      "score": null,
-      "author": "Exploit-DB",
-      "tags": [
-        "Exploit-DB",
-        "CVE",
-        "PoC"
-      ],
-      "severity": "high",
-      "date": "Mon, 17 Aug 2026 00:00:00 +0000"
-    },
-    {
-      "id": "edb-0493d6ac0d",
-      "source": "msf",
-      "title": "[webapps] Apache Gravitino 1.2.1 - SSRF",
-      "url": "https://www.exploit-db.com/exploits/52641",
-      "score": null,
-      "author": "Exploit-DB",
-      "tags": [
-        "Exploit-DB",
-        "CVE",
-        "PoC"
-      ],
-      "severity": "high",
-      "date": "Tue, 11 Aug 2026 00:00:00 +0000"
-    },
-    {
-      "id": "edb-7551c8e76a",
-      "source": "msf",
-      "title": "[webapps] Blocksy Companion  2.1.46 - RCE",
-      "url": "https://www.exploit-db.com/exploits/52640",
-      "score": null,
-      "author": "Exploit-DB",
-      "tags": [
-        "Exploit-DB",
-        "CVE",
-        "PoC"
-      ],
-      "severity": "high",
-      "date": "Tue, 11 Aug 2026 00:00:00 +0000"
     }
   ]
 }

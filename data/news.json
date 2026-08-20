@@ -1,7 +1,73 @@
 {
-  "updated_at": "2026-08-20T15:32:18.083867+00:00",
+  "updated_at": "2026-08-20T16:33:39.071828+00:00",
   "count": 500,
   "items": [
+    {
+      "id": "hn-49376332",
+      "source": "hn",
+      "title": "How to compromise your system with a job interview",
+      "url": "https://www.codedge.de/posts/how-to-compromise-your-system-with-a-job-interview",
+      "score": 19,
+      "comments": 5,
+      "author": "codedge",
+      "tags": [],
+      "date": "2026-08-20T15:50:57+00:00"
+    },
+    {
+      "id": "hn-49376211",
+      "source": "hn",
+      "title": "Generic Methods in Go 1.27",
+      "url": "https://dominik.info/blog/go-generic-methods",
+      "score": 8,
+      "comments": 1,
+      "author": "EspressoGPT",
+      "tags": [],
+      "date": "2026-08-20T15:41:48+00:00"
+    },
+    {
+      "id": "hn-49376038",
+      "source": "hn",
+      "title": "Launch HN: Vendo (YC S26) – Let users build features on top of your product",
+      "url": "https://github.com/runvendo/vendo",
+      "score": 11,
+      "comments": 4,
+      "author": "yousefh409",
+      "tags": [],
+      "date": "2026-08-20T15:29:52+00:00"
+    },
+    {
+      "id": "hn-49375996",
+      "source": "hn",
+      "title": "Clean up Claude 5's token vomit with a separate LLM",
+      "url": "https://github.com/zachahn/vomit",
+      "score": 38,
+      "comments": 28,
+      "author": "Bluestein",
+      "tags": [],
+      "date": "2026-08-20T15:26:02+00:00"
+    },
+    {
+      "id": "hn-49375719",
+      "source": "hn",
+      "title": "Anti-AI fonts are useless and harmful",
+      "url": "https://blog.yaros.ae/anti-ai-fonts-are-useless-and-harmful/",
+      "score": 14,
+      "comments": 5,
+      "author": "speckx",
+      "tags": [],
+      "date": "2026-08-20T15:06:53+00:00"
+    },
+    {
+      "id": "hn-49375237",
+      "source": "hn",
+      "title": "Show HN: Check if any of the $656M in unclaimed royalties at The MLC is yours",
+      "url": "https://pub.doub.ly/",
+      "score": 25,
+      "comments": 12,
+      "author": "knaught",
+      "tags": [],
+      "date": "2026-08-20T14:38:28+00:00"
+    },
     {
       "id": "hn-49374965",
       "source": "hn",
@@ -18,8 +84,8 @@
       "source": "hn",
       "title": "An elliptic curve of rank ≥ 30",
       "url": "https://elliptic-rank.icarm.cloud/curve/273",
-      "score": 21,
-      "comments": 7,
+      "score": 34,
+      "comments": 10,
       "author": "robinhouston",
       "tags": [],
       "date": "2026-08-20T14:14:39+00:00"
@@ -29,8 +95,8 @@
       "source": "hn",
       "title": "Bun 1.4",
       "url": "https://bun.com/blog/bun-v1.4",
-      "score": 82,
-      "comments": 32,
+      "score": 133,
+      "comments": 62,
       "author": "meetpateltech",
       "tags": [],
       "date": "2026-08-20T14:10:12+00:00"
@@ -40,8 +106,8 @@
       "source": "hn",
       "title": "Hacking with Claude on a $27 Smart Watch",
       "url": "https://www.mikekasberg.com/blog/2026/08/19/hacking-with-claude-on-a-27-smart-watch.html",
-      "score": 27,
-      "comments": 11,
+      "score": 41,
+      "comments": 25,
       "author": "speckx",
       "tags": [],
       "date": "2026-08-20T14:08:09+00:00"
@@ -62,8 +128,8 @@
       "source": "hn",
       "title": "Every Model Cheats",
       "url": "https://dreadnode.io/research/every-model-cheats-prompt-level-mitigation-of-cheating-on-offensive-cyber-tasks/",
-      "score": 13,
-      "comments": 3,
+      "score": 32,
+      "comments": 15,
       "author": "vga805",
       "tags": [],
       "date": "2026-08-20T13:56:59+00:00"
@@ -95,8 +161,8 @@
       "source": "hn",
       "title": "DiffusionGemma Technical Report",
       "url": "https://arxiv.org/abs/2608.00146",
-      "score": 50,
-      "comments": 8,
+      "score": 72,
+      "comments": 12,
       "author": "gmays",
       "tags": [],
       "date": "2026-08-20T13:24:32+00:00"
@@ -106,8 +172,8 @@
       "source": "hn",
       "title": "Malicious Rust crate Arrayref runs a build-time payload",
       "url": "https://safedep.io/arrayref-proc-macro1-rust-build-time-malware/",
-      "score": 180,
-      "comments": 135,
+      "score": 232,
+      "comments": 178,
       "author": "abhisek",
       "tags": [],
       "date": "2026-08-20T13:23:12+00:00"
@@ -128,8 +194,8 @@
       "source": "hn",
       "title": "Why the Ocean Cleanup hasn't solved the plastic pollution crisis",
       "url": "https://therevelator.org/why-ocean-cleanup-has-not-solved-plastic-pollution/",
-      "score": 36,
-      "comments": 28,
+      "score": 55,
+      "comments": 46,
       "author": "sohkamyung",
       "tags": [],
       "date": "2026-08-20T12:58:31+00:00"
@@ -139,8 +205,8 @@
       "source": "hn",
       "title": "Xorg-Server 26.0.99.901",
       "url": "https://lists.x.org/archives/xorg-announce/2026-August/003741.html",
-      "score": 26,
-      "comments": 3,
+      "score": 57,
+      "comments": 12,
       "author": "st_goliath",
       "tags": [],
       "date": "2026-08-20T12:50:16+00:00"
@@ -161,8 +227,8 @@
       "source": "hn",
       "title": "Show HN: I trained a 125M model to autocomplete piano on-device",
       "url": "https://simedw.com/2026/08/20/midi-autocomplete/",
-      "score": 222,
-      "comments": 54,
+      "score": 292,
+      "comments": 71,
       "author": "simedw",
       "tags": [],
       "date": "2026-08-20T12:04:38+00:00"
@@ -227,8 +293,8 @@
       "source": "hn",
       "title": "AliExpress runs silent WebAudio fingerprinting that breaks Bluetooth multipoint",
       "url": "https://blog.laserphile.com/2026/08/aliexpress-webpage-keeping-multipoint.html",
-      "score": 437,
-      "comments": 144,
+      "score": 558,
+      "comments": 188,
       "author": "emctech",
       "tags": [],
       "date": "2026-08-20T10:08:52+00:00"
@@ -821,8 +887,8 @@
       "source": "hn",
       "title": "HTML Can Do That",
       "url": "https://chrisburnell.com/html-can-do-that/",
-      "score": 75,
-      "comments": 7,
+      "score": 162,
+      "comments": 31,
       "author": "encyclopedism",
       "tags": [],
       "date": "2026-08-19T15:11:36+00:00"
@@ -1689,8 +1755,8 @@
       "source": "hn",
       "title": "Git at any scale",
       "url": "https://cursor.com/blog/git-at-any-scale",
-      "score": 75,
-      "comments": 6,
+      "score": 126,
+      "comments": 12,
       "author": "meetpateltech",
       "tags": [],
       "date": "2026-08-18T16:26:56+00:00"
@@ -1711,8 +1777,8 @@
       "source": "hn",
       "title": "Mojo is now open source",
       "url": "https://www.modular.com/blog/mojo-open-source",
-      "score": 183,
-      "comments": 50,
+      "score": 217,
+      "comments": 55,
       "author": "visheshdembla",
       "tags": [],
       "date": "2026-08-18T16:23:24+00:00",
@@ -1734,8 +1800,8 @@
       "source": "hn",
       "title": "I like 'em thick: an apology to my English teachers",
       "url": "https://www.experimental-history.com/p/i-like-em-thick",
-      "score": 6,
-      "comments": 0,
+      "score": 110,
+      "comments": 26,
       "author": "Ariarule",
       "tags": [],
       "date": "2026-08-18T15:50:52+00:00"
@@ -3013,6 +3079,17 @@
       "date": "2026-08-17T10:45:14+00:00"
     },
     {
+      "id": "hn-49328812",
+      "source": "hn",
+      "title": "A theory for decades of C vulnerabilities",
+      "url": "https://strawberry9.github.io/the-wrong-memory/Appendix_02.html",
+      "score": 10,
+      "comments": 0,
+      "author": "SilentLambda",
+      "tags": [],
+      "date": "2026-08-17T10:32:21+00:00"
+    },
+    {
       "id": "qiita-9c6e9e4820",
       "source": "zennqiita",
       "sub_source": "Qiita",
@@ -3565,8 +3642,8 @@
       "source": "hn",
       "title": "Double-double: 31 digits of precision without leaving the FPU",
       "url": "https://marekfiser.com/blog/double-double-arithmetic/",
-      "score": 6,
-      "comments": 0,
+      "score": 20,
+      "comments": 2,
       "author": "iliketrains",
       "tags": [],
       "date": "2026-08-16T19:25:41+00:00"
@@ -5062,85 +5139,6 @@
       "author": "ogundipeore",
       "tags": [],
       "date": "2026-08-15T13:26:28+00:00"
-    },
-    {
-      "id": "hn-49310291",
-      "source": "hn",
-      "title": "Brazilian election filter in X For You timeline",
-      "url": "https://github.com/xai-org/x-algorithm/blob/main/home-mixer/filters/brazil_2026_election_filter.rs",
-      "score": 43,
-      "comments": 36,
-      "author": "LorenDB",
-      "tags": [],
-      "date": "2026-08-15T13:18:27+00:00"
-    },
-    {
-      "id": "hn-49310277",
-      "source": "hn",
-      "title": "388 years ago, Galileo worked out why human giants can't exist",
-      "url": "https://www.scientificamerican.com/article/388-years-ago-galileo-worked-out-why-human-giants-cant-exist-and-explained-a-law-of-nature/",
-      "score": 32,
-      "comments": 34,
-      "author": "beardyw",
-      "tags": [],
-      "date": "2026-08-15T13:15:48+00:00"
-    },
-    {
-      "id": "hn-49310248",
-      "source": "hn",
-      "title": "Brain turns listening inward during REM sleep, EEG recordings suggest",
-      "url": "https://medicalxpress.com/news/2026-07-brain-rem-eeg.html",
-      "score": 23,
-      "comments": 3,
-      "author": "gmays",
-      "tags": [],
-      "date": "2026-08-15T13:09:28+00:00"
-    },
-    {
-      "id": "qiita-8ceb90f795",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "AgentCore GatewayのSlack統合プロバイダーをCDKで設定して3LOで認証認可を通す",
-      "url": "https://qiita.com/har1101/items/d9cc04c7b69e9a029178?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "har1101",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-08-15T21:58:09+09:00"
-    },
-    {
-      "id": "hn-49310177",
-      "source": "hn",
-      "title": "GenRec: Towards LLM-Native Recommendation at Netflix",
-      "url": "https://netflixtechblog.com/genrec-towards-llm-native-recommendation-at-netflix-f20be6f643e3",
-      "score": 29,
-      "comments": 37,
-      "author": "Anon84",
-      "tags": [],
-      "date": "2026-08-15T12:56:56+00:00"
-    },
-    {
-      "id": "hn-49310170",
-      "source": "hn",
-      "title": "Strait of Hormuz Live Traffic Tracking",
-      "url": "https://hormuz.now/",
-      "score": 24,
-      "comments": 30,
-      "author": "jonbaer",
-      "tags": [],
-      "date": "2026-08-15T12:54:43+00:00"
-    },
-    {
-      "id": "hn-49310128",
-      "source": "hn",
-      "title": "Xorshift Generators",
-      "url": "https://www.alanzucconi.com/2026/08/15/xorshift-generators/",
-      "score": 78,
-      "comments": 42,
-      "author": "tobr",
-      "tags": [],
-      "date": "2026-08-15T12:47:52+00:00"
     },
     {
       "id": "ctf-4372374",

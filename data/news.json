@@ -1,14 +1,80 @@
 {
-  "updated_at": "2026-08-20T13:44:54.075934+00:00",
+  "updated_at": "2026-08-20T14:34:41.093091+00:00",
   "count": 500,
   "items": [
+    {
+      "id": "hn-49374772",
+      "source": "hn",
+      "title": "Hacking with Claude on a $27 Smart Watch",
+      "url": "https://www.mikekasberg.com/blog/2026/08/19/hacking-with-claude-on-a-27-smart-watch.html",
+      "score": 10,
+      "comments": 3,
+      "author": "speckx",
+      "tags": [],
+      "date": "2026-08-20T14:08:09+00:00"
+    },
+    {
+      "id": "hn-49374738",
+      "source": "hn",
+      "title": "Stwipe Acquires OpenWouter",
+      "url": "https://stwipe.com/",
+      "score": 14,
+      "comments": 1,
+      "author": "eatonphil",
+      "tags": [],
+      "date": "2026-08-20T14:04:46+00:00"
+    },
+    {
+      "id": "hn-49374635",
+      "source": "hn",
+      "title": "Every Model Cheats",
+      "url": "https://dreadnode.io/research/every-model-cheats-prompt-level-mitigation-of-cheating-on-offensive-cyber-tasks/",
+      "score": 3,
+      "comments": 0,
+      "author": "vga805",
+      "tags": [],
+      "date": "2026-08-20T13:56:59+00:00"
+    },
+    {
+      "id": "hn-49374503",
+      "source": "hn",
+      "title": "CI jobs artifacts should not be difficult",
+      "url": "https://deadsimpleci.sparrowhub.io/doc/job-artifacts",
+      "score": 4,
+      "comments": 2,
+      "author": "melezhik",
+      "tags": [],
+      "date": "2026-08-20T13:44:27+00:00"
+    },
+    {
+      "id": "hn-49374437",
+      "source": "hn",
+      "title": "I Spent Twenty Years Becoming Good at the Wrong Game",
+      "url": "https://savvynormie.com/i-spent-twenty-years-becoming-good-at-the-wrong-game/",
+      "score": 21,
+      "comments": 23,
+      "author": "speckx",
+      "tags": [],
+      "date": "2026-08-20T13:39:18+00:00"
+    },
+    {
+      "id": "hn-49374287",
+      "source": "hn",
+      "title": "DiffusionGemma Technical Report",
+      "url": "https://arxiv.org/abs/2608.00146",
+      "score": 30,
+      "comments": 5,
+      "author": "gmays",
+      "tags": [],
+      "date": "2026-08-20T13:24:32+00:00"
+    },
     {
       "id": "hn-49374269",
       "source": "hn",
       "title": "Malicious Rust Crate Arrayref Runs a Build-Time Payload",
       "url": "https://safedep.io/arrayref-proc-macro1-rust-build-time-malware/",
-      "score": 19,
-      "comments": 0,
+      "score": 102,
+      "comments": 39,
       "author": "abhisek",
       "tags": [],
       "date": "2026-08-20T13:23:12+00:00"
@@ -18,11 +84,22 @@
       "source": "hn",
       "title": "Canonical Backs New Project to Translate Large C Codebases into Safe Rust",
       "url": "https://linuxiac.com/canonical-backs-new-project-to-translate-large-c-codebases-into-safe-rust/",
-      "score": 6,
-      "comments": 1,
+      "score": 22,
+      "comments": 13,
       "author": "datakan",
       "tags": [],
       "date": "2026-08-20T13:12:21+00:00"
+    },
+    {
+      "id": "hn-49374036",
+      "source": "hn",
+      "title": "Why the Ocean Cleanup Hasn't Solved the Plastic Pollution Crisis",
+      "url": "https://therevelator.org/why-ocean-cleanup-has-not-solved-plastic-pollution/",
+      "score": 12,
+      "comments": 3,
+      "author": "sohkamyung",
+      "tags": [],
+      "date": "2026-08-20T12:58:31+00:00"
     },
     {
       "id": "hn-49373616",
@@ -40,8 +117,8 @@
       "source": "hn",
       "title": "Show HN: I trained a 125M model to autocomplete piano on-device",
       "url": "https://simedw.com/2026/08/20/midi-autocomplete/",
-      "score": 90,
-      "comments": 27,
+      "score": 159,
+      "comments": 37,
       "author": "simedw",
       "tags": [],
       "date": "2026-08-20T12:04:38+00:00"
@@ -73,8 +150,8 @@
       "source": "hn",
       "title": "Seeing beyond BMI: Estimating cardiometabolic risk with smartphone imagery",
       "url": "https://research.google/blog/seeing-beyond-bmi-estimating-cardiometabolic-risk-with-smartphone-imagery/",
-      "score": 21,
-      "comments": 4,
+      "score": 30,
+      "comments": 15,
       "author": "leanderjanssen",
       "tags": [],
       "date": "2026-08-20T11:03:29+00:00"
@@ -95,8 +172,8 @@
       "source": "hn",
       "title": "Risk Engineering",
       "url": "https://risk-engineering.org/",
-      "score": 24,
-      "comments": 3,
+      "score": 37,
+      "comments": 6,
       "author": "throwaw12",
       "tags": [],
       "date": "2026-08-20T10:18:58+00:00"
@@ -106,8 +183,8 @@
       "source": "hn",
       "title": "AliExpress runs silent WebAudio fingerprinting that breaks Bluetooth multipoint",
       "url": "https://blog.laserphile.com/2026/08/aliexpress-webpage-keeping-multipoint.html",
-      "score": 279,
-      "comments": 88,
+      "score": 345,
+      "comments": 110,
       "author": "emctech",
       "tags": [],
       "date": "2026-08-20T10:08:52+00:00"
@@ -128,10 +205,10 @@
     {
       "id": "hn-49371857",
       "source": "hn",
-      "title": "Don't Paste the AI, please",
+      "title": "Don't paste the AI, please",
       "url": "https://dontpastetheai.com/",
-      "score": 744,
-      "comments": 372,
+      "score": 870,
+      "comments": 441,
       "author": "pjerem",
       "tags": [],
       "date": "2026-08-20T08:20:44+00:00"
@@ -219,8 +296,8 @@
       "source": "hn",
       "title": "Turns are Better than Radians (2022)",
       "url": "https://www.computerenhance.com/p/turns-are-better-than-radians",
-      "score": 272,
-      "comments": 142,
+      "score": 287,
+      "comments": 154,
       "author": "mayoff",
       "tags": [],
       "date": "2026-08-20T01:29:12+00:00"
@@ -532,8 +609,8 @@
       "source": "hn",
       "title": "Go 1.27",
       "url": "https://go.dev/blog/go1.27",
-      "score": 710,
-      "comments": 217,
+      "score": 724,
+      "comments": 222,
       "author": "database64128",
       "tags": [],
       "date": "2026-08-19T18:33:49+00:00"
@@ -554,8 +631,8 @@
       "source": "hn",
       "title": "Google has stopped pushing Git tags for some Android source code",
       "url": "https://grapheneos.social/@GrapheneOS/117057099753905023",
-      "score": 709,
-      "comments": 275,
+      "score": 732,
+      "comments": 281,
       "author": "Animux",
       "tags": [],
       "date": "2026-08-19T17:47:29+00:00",
@@ -577,8 +654,8 @@
       "source": "hn",
       "title": "OpenRouter is joining Stripe",
       "url": "https://openrouter.ai/blog/announcements/openrouter-is-joining-stripe/",
-      "score": 910,
-      "comments": 467,
+      "score": 924,
+      "comments": 472,
       "author": "rvz",
       "tags": [],
       "date": "2026-08-19T17:32:38+00:00"
@@ -802,8 +879,8 @@
       "source": "hn",
       "title": "A joke domain purchase turned in geopolitical warfare",
       "url": "https://sprocketfox.io/xssfox/2026/08/19/sondehub-and-war/",
-      "score": 967,
-      "comments": 157,
+      "score": 980,
+      "comments": 158,
       "author": "kareiva",
       "tags": [],
       "date": "2026-08-19T11:21:50+00:00"
@@ -2510,6 +2587,17 @@
       "date": "2026-08-17T15:49:57+00:00"
     },
     {
+      "id": "hn-49332754",
+      "source": "hn",
+      "title": "Bufo pulls the andon cord",
+      "url": "https://hatchet.run/blog/andon-cord",
+      "score": 3,
+      "comments": 0,
+      "author": "abelanger",
+      "tags": [],
+      "date": "2026-08-17T15:36:27+00:00"
+    },
+    {
       "id": "hn-49332751",
       "source": "hn",
       "title": "Launch HN: Speko (YC S26) – OpenRouter for Voice AI",
@@ -3267,8 +3355,8 @@
       "source": "hn",
       "title": "A faster way to calculate the day of the week",
       "url": "https://www.benjoffe.com/fast-day-of-week",
-      "score": 202,
-      "comments": 48,
+      "score": 215,
+      "comments": 56,
       "author": "gavide",
       "tags": [],
       "date": "2026-08-16T21:20:40+00:00"
@@ -5058,96 +5146,6 @@
       "author": "tosh",
       "tags": [],
       "date": "2026-08-15T06:01:19+00:00"
-    },
-    {
-      "id": "hn-49308058",
-      "source": "hn",
-      "title": "Mycorrhizal Infrastructure Map",
-      "url": "https://a-hidden-infrastructure.spun.earth/map",
-      "score": 28,
-      "comments": 7,
-      "author": "num42",
-      "tags": [],
-      "date": "2026-08-15T05:59:02+00:00"
-    },
-    {
-      "id": "qiita-3301739d09",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "AIの答えを、人はどうすれば信じられるのか。判定をLLMに任せない「Okaeri」の設計",
-      "url": "https://qiita.com/haru-qiita/items/e00ebc98c598a1c4411a?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "haru-qiita",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-08-15T14:17:02+09:00"
-    },
-    {
-      "id": "hn-49307700",
-      "source": "hn",
-      "title": "Show HN: ThoughtDAG – An editable context graph for LLM conversations",
-      "url": "https://chenxiachan.github.io/thoughtdag/",
-      "score": 79,
-      "comments": 21,
-      "author": "chatchan",
-      "tags": [],
-      "date": "2026-08-15T04:42:07+00:00"
-    },
-    {
-      "id": "hn-49307592",
-      "source": "hn",
-      "title": "The other Sean Byrne doesn't exist",
-      "url": "https://conic.al/writing/the-other-sean-byrne-doesnt-exist/",
-      "score": 365,
-      "comments": 175,
-      "author": "rdl",
-      "tags": [],
-      "date": "2026-08-15T04:18:44+00:00"
-    },
-    {
-      "id": "hn-49307383",
-      "source": "hn",
-      "title": "The End of Mathematics",
-      "url": "https://www.daniellitt.com/blog/2026/8/11/the-end-of-mathematics",
-      "score": 15,
-      "comments": 6,
-      "author": "practal",
-      "tags": [],
-      "date": "2026-08-15T03:37:00+00:00"
-    },
-    {
-      "id": "hn-49307099",
-      "source": "hn",
-      "title": "Show HN: Deltix – AI Driven Testing",
-      "url": "https://app.deltix.ai",
-      "score": 29,
-      "comments": 9,
-      "author": "oneounceman",
-      "tags": [],
-      "date": "2026-08-15T02:42:14+00:00"
-    },
-    {
-      "id": "hn-49306577",
-      "source": "hn",
-      "title": "Magnitude 7.7 Earthquake – 68 km NNW of Ende, Indonesia",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tkt2/executive",
-      "score": 207,
-      "comments": 51,
-      "author": "Bender",
-      "tags": [],
-      "date": "2026-08-15T01:14:05+00:00"
-    },
-    {
-      "id": "hn-49303545",
-      "source": "hn",
-      "title": "Show HN: Streambench – Native Mac Client for Kafka and NATS",
-      "url": "https://streambench.app",
-      "score": 7,
-      "comments": 1,
-      "author": "valentinprgnd",
-      "tags": [],
-      "date": "2026-08-14T19:32:59+00:00"
     },
     {
       "id": "ctf-4372374",

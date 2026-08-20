@@ -1,14 +1,47 @@
 {
-  "updated_at": "2026-08-20T14:34:41.093091+00:00",
+  "updated_at": "2026-08-20T15:32:18.083867+00:00",
   "count": 500,
   "items": [
+    {
+      "id": "hn-49374965",
+      "source": "hn",
+      "title": "Slack Code",
+      "url": "https://www.salesforce.com/introducing-slack-code/?bc=HL",
+      "score": 37,
+      "comments": 41,
+      "author": "trollied",
+      "tags": [],
+      "date": "2026-08-20T14:21:25+00:00"
+    },
+    {
+      "id": "hn-49374873",
+      "source": "hn",
+      "title": "An elliptic curve of rank ≥ 30",
+      "url": "https://elliptic-rank.icarm.cloud/curve/273",
+      "score": 21,
+      "comments": 7,
+      "author": "robinhouston",
+      "tags": [],
+      "date": "2026-08-20T14:14:39+00:00"
+    },
+    {
+      "id": "hn-49374797",
+      "source": "hn",
+      "title": "Bun 1.4",
+      "url": "https://bun.com/blog/bun-v1.4",
+      "score": 82,
+      "comments": 32,
+      "author": "meetpateltech",
+      "tags": [],
+      "date": "2026-08-20T14:10:12+00:00"
+    },
     {
       "id": "hn-49374772",
       "source": "hn",
       "title": "Hacking with Claude on a $27 Smart Watch",
       "url": "https://www.mikekasberg.com/blog/2026/08/19/hacking-with-claude-on-a-27-smart-watch.html",
-      "score": 10,
-      "comments": 3,
+      "score": 27,
+      "comments": 11,
       "author": "speckx",
       "tags": [],
       "date": "2026-08-20T14:08:09+00:00"
@@ -29,8 +62,8 @@
       "source": "hn",
       "title": "Every Model Cheats",
       "url": "https://dreadnode.io/research/every-model-cheats-prompt-level-mitigation-of-cheating-on-offensive-cyber-tasks/",
-      "score": 3,
-      "comments": 0,
+      "score": 13,
+      "comments": 3,
       "author": "vga805",
       "tags": [],
       "date": "2026-08-20T13:56:59+00:00"
@@ -62,8 +95,8 @@
       "source": "hn",
       "title": "DiffusionGemma Technical Report",
       "url": "https://arxiv.org/abs/2608.00146",
-      "score": 30,
-      "comments": 5,
+      "score": 50,
+      "comments": 8,
       "author": "gmays",
       "tags": [],
       "date": "2026-08-20T13:24:32+00:00"
@@ -71,10 +104,10 @@
     {
       "id": "hn-49374269",
       "source": "hn",
-      "title": "Malicious Rust Crate Arrayref Runs a Build-Time Payload",
+      "title": "Malicious Rust crate Arrayref runs a build-time payload",
       "url": "https://safedep.io/arrayref-proc-macro1-rust-build-time-malware/",
-      "score": 102,
-      "comments": 39,
+      "score": 180,
+      "comments": 135,
       "author": "abhisek",
       "tags": [],
       "date": "2026-08-20T13:23:12+00:00"
@@ -93,13 +126,24 @@
     {
       "id": "hn-49374036",
       "source": "hn",
-      "title": "Why the Ocean Cleanup Hasn't Solved the Plastic Pollution Crisis",
+      "title": "Why the Ocean Cleanup hasn't solved the plastic pollution crisis",
       "url": "https://therevelator.org/why-ocean-cleanup-has-not-solved-plastic-pollution/",
-      "score": 12,
-      "comments": 3,
+      "score": 36,
+      "comments": 28,
       "author": "sohkamyung",
       "tags": [],
       "date": "2026-08-20T12:58:31+00:00"
+    },
+    {
+      "id": "hn-49373932",
+      "source": "hn",
+      "title": "Xorg-Server 26.0.99.901",
+      "url": "https://lists.x.org/archives/xorg-announce/2026-August/003741.html",
+      "score": 26,
+      "comments": 3,
+      "author": "st_goliath",
+      "tags": [],
+      "date": "2026-08-20T12:50:16+00:00"
     },
     {
       "id": "hn-49373616",
@@ -117,8 +161,8 @@
       "source": "hn",
       "title": "Show HN: I trained a 125M model to autocomplete piano on-device",
       "url": "https://simedw.com/2026/08/20/midi-autocomplete/",
-      "score": 159,
-      "comments": 37,
+      "score": 222,
+      "comments": 54,
       "author": "simedw",
       "tags": [],
       "date": "2026-08-20T12:04:38+00:00"
@@ -150,8 +194,8 @@
       "source": "hn",
       "title": "Seeing beyond BMI: Estimating cardiometabolic risk with smartphone imagery",
       "url": "https://research.google/blog/seeing-beyond-bmi-estimating-cardiometabolic-risk-with-smartphone-imagery/",
-      "score": 30,
-      "comments": 15,
+      "score": 42,
+      "comments": 18,
       "author": "leanderjanssen",
       "tags": [],
       "date": "2026-08-20T11:03:29+00:00"
@@ -172,8 +216,8 @@
       "source": "hn",
       "title": "Risk Engineering",
       "url": "https://risk-engineering.org/",
-      "score": 37,
-      "comments": 6,
+      "score": 52,
+      "comments": 7,
       "author": "throwaw12",
       "tags": [],
       "date": "2026-08-20T10:18:58+00:00"
@@ -183,8 +227,8 @@
       "source": "hn",
       "title": "AliExpress runs silent WebAudio fingerprinting that breaks Bluetooth multipoint",
       "url": "https://blog.laserphile.com/2026/08/aliexpress-webpage-keeping-multipoint.html",
-      "score": 345,
-      "comments": 110,
+      "score": 437,
+      "comments": 144,
       "author": "emctech",
       "tags": [],
       "date": "2026-08-20T10:08:52+00:00"
@@ -773,6 +817,17 @@
       "date": "2026-08-19T15:14:25+00:00"
     },
     {
+      "id": "hn-49362689",
+      "source": "hn",
+      "title": "HTML Can Do That",
+      "url": "https://chrisburnell.com/html-can-do-that/",
+      "score": 75,
+      "comments": 7,
+      "author": "encyclopedism",
+      "tags": [],
+      "date": "2026-08-19T15:11:36+00:00"
+    },
+    {
       "id": "hn-49362401",
       "source": "hn",
       "title": "Ornith-1.5: From Self-Scaffolding to Self-Improvement",
@@ -860,6 +915,17 @@
       "author": "exceptione",
       "tags": [],
       "date": "2026-08-19T11:46:58+00:00"
+    },
+    {
+      "id": "hn-49360140",
+      "source": "hn",
+      "title": "Stop Anthropomorphizing Intermediate Tokens as Reasoning/Thinking Traces",
+      "url": "https://arxiv.org/abs/2504.09762",
+      "score": 94,
+      "comments": 21,
+      "author": "nunodonato",
+      "tags": [],
+      "date": "2026-08-19T11:35:26+00:00"
     },
     {
       "id": "qiita-87417f9a5c",
@@ -1619,6 +1685,17 @@
       "date": "2026-08-18T16:27:41+00:00"
     },
     {
+      "id": "hn-49348141",
+      "source": "hn",
+      "title": "Git at any scale",
+      "url": "https://cursor.com/blog/git-at-any-scale",
+      "score": 75,
+      "comments": 6,
+      "author": "meetpateltech",
+      "tags": [],
+      "date": "2026-08-18T16:26:56+00:00"
+    },
+    {
       "id": "hn-49348136",
       "source": "hn",
       "title": "Launch HN: machine0 (YC S26) – Persistent CPU and GPU VMs from the CLI",
@@ -1630,6 +1707,18 @@
       "date": "2026-08-18T16:26:42+00:00"
     },
     {
+      "id": "hn-49348079",
+      "source": "hn",
+      "title": "Mojo is now open source",
+      "url": "https://www.modular.com/blog/mojo-open-source",
+      "score": 183,
+      "comments": 50,
+      "author": "visheshdembla",
+      "tags": [],
+      "date": "2026-08-18T16:23:24+00:00",
+      "severity": "critical"
+    },
+    {
       "id": "hn-49348055",
       "source": "hn",
       "title": "Apple announces changes for apps in the European Union",
@@ -1639,6 +1728,17 @@
       "author": "newusertoday",
       "tags": [],
       "date": "2026-08-18T16:21:34+00:00"
+    },
+    {
+      "id": "hn-49347543",
+      "source": "hn",
+      "title": "I like 'em thick: an apology to my English teachers",
+      "url": "https://www.experimental-history.com/p/i-like-em-thick",
+      "score": 6,
+      "comments": 0,
+      "author": "Ariarule",
+      "tags": [],
+      "date": "2026-08-18T15:50:52+00:00"
     },
     {
       "id": "hn-49347477",
@@ -2317,6 +2417,17 @@
       "date": "2026-08-18T05:07:57+09:00"
     },
     {
+      "id": "hn-49336772",
+      "source": "hn",
+      "title": "Nearly 1,400 live streams from Japan",
+      "url": "https://tomarigi.me/",
+      "score": 34,
+      "comments": 6,
+      "author": "pajop",
+      "tags": [],
+      "date": "2026-08-17T20:03:55+00:00"
+    },
+    {
       "id": "hn-49336672",
       "source": "hn",
       "title": "Will you have spent more of your life with computers than your family?",
@@ -2574,6 +2685,17 @@
         "Qiita"
       ],
       "date": "2026-08-18T01:08:30+09:00"
+    },
+    {
+      "id": "hn-49333091",
+      "source": "hn",
+      "title": "Theory of Fluids Enters the 21st Century",
+      "url": "https://www.quantamagazine.org/theory-of-fluids-enters-the-21st-century-20260817/",
+      "score": 35,
+      "comments": 2,
+      "author": "librasteve",
+      "tags": [],
+      "date": "2026-08-17T15:56:40+00:00"
     },
     {
       "id": "hn-49332981",
@@ -3437,6 +3559,17 @@
       "author": "hardlianotion",
       "tags": [],
       "date": "2026-08-16T20:01:13+00:00"
+    },
+    {
+      "id": "hn-49322868",
+      "source": "hn",
+      "title": "Double-double: 31 digits of precision without leaving the FPU",
+      "url": "https://marekfiser.com/blog/double-double-arithmetic/",
+      "score": 6,
+      "comments": 0,
+      "author": "iliketrains",
+      "tags": [],
+      "date": "2026-08-16T19:25:41+00:00"
     },
     {
       "id": "hn-49322695",
@@ -5008,144 +5141,6 @@
       "author": "tobr",
       "tags": [],
       "date": "2026-08-15T12:47:52+00:00"
-    },
-    {
-      "id": "hn-49309963",
-      "source": "hn",
-      "title": "The Problem",
-      "url": "https://intelligence.org/the-problem/",
-      "score": 23,
-      "comments": 30,
-      "author": "Bluestein",
-      "tags": [],
-      "date": "2026-08-15T12:14:17+00:00"
-    },
-    {
-      "id": "hn-49309923",
-      "source": "hn",
-      "title": "T3X/0 a Minimal Procedural Language",
-      "url": "https://t3x.org/t3x/0/index.html",
-      "score": 20,
-      "comments": 0,
-      "author": "AlexeyBrin",
-      "tags": [],
-      "date": "2026-08-15T12:06:24+00:00"
-    },
-    {
-      "id": "qiita-47723c9a09",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "PKI(公開鍵基盤)について",
-      "url": "https://qiita.com/nino2-2/items/2d7c0ab77f30203e4c6c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "nino2-2",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-08-15T20:18:07+09:00"
-    },
-    {
-      "id": "hn-49309549",
-      "source": "hn",
-      "title": "Auto-research with codex: How I achieved a 232x Faster Kernel",
-      "url": "https://sankalp.bearblog.dev/autoresearch/",
-      "score": 399,
-      "comments": 89,
-      "author": "tosh",
-      "tags": [],
-      "date": "2026-08-15T11:00:02+00:00"
-    },
-    {
-      "id": "qiita-e79445a7a9",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "【DynamoDB × OpenSearch】検索が苦手な DynamoDB に OpenSearch を足してみた",
-      "url": "https://qiita.com/jus1730/items/bea9875f771e256c8fb4?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "jus1730",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-08-15T19:57:31+09:00"
-    },
-    {
-      "id": "hn-49309451",
-      "source": "hn",
-      "title": "Working with AI feels more like leadership than coding",
-      "url": "https://allen.bargi.org/notes/working-with-ai-feels-like-leadership/",
-      "score": 282,
-      "comments": 177,
-      "author": "allenb",
-      "tags": [],
-      "date": "2026-08-15T10:39:41+00:00"
-    },
-    {
-      "id": "qiita-341e618bfa",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "AWS Instance Storeは「消える」のが仕様だった。だったら2つ武器にできないか考えてみた",
-      "url": "https://qiita.com/yama3133/items/95588213b35738823375?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "yama3133",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-08-15T19:10:20+09:00"
-    },
-    {
-      "id": "hn-49309248",
-      "source": "hn",
-      "title": "Evolve: An incremental game about evolving a civilization",
-      "url": "https://pmotschmann.github.io/Evolve/",
-      "score": 67,
-      "comments": 22,
-      "author": "frozenseven",
-      "tags": [],
-      "date": "2026-08-15T09:58:29+00:00"
-    },
-    {
-      "id": "hn-49309050",
-      "source": "hn",
-      "title": "Debian has begun voting on the future of AI/LLM contributions",
-      "url": "https://lists.debian.org/debian-devel-announce/2026/08/msg00002.html",
-      "score": 39,
-      "comments": 25,
-      "author": "matheusmoreira",
-      "tags": [],
-      "date": "2026-08-15T09:20:07+00:00"
-    },
-    {
-      "id": "hn-49308685",
-      "source": "hn",
-      "title": "Using GCC's Nested Functions with Wide Pointers and No Trampolines II",
-      "url": "https://uecker.codeberg.page/2026-07-14.html",
-      "score": 81,
-      "comments": 44,
-      "author": "uecker",
-      "tags": [],
-      "date": "2026-08-15T07:59:42+00:00"
-    },
-    {
-      "id": "hn-49308553",
-      "source": "hn",
-      "title": "Suspecting court of using AI, man injected prompts in filings to try to win case",
-      "url": "https://arstechnica.com/tech-policy/2026/08/suspecting-court-of-using-ai-man-injected-prompts-in-filings-to-try-to-win-case/",
-      "score": 36,
-      "comments": 27,
-      "author": "jnord",
-      "tags": [],
-      "date": "2026-08-15T07:31:46+00:00"
-    },
-    {
-      "id": "hn-49308073",
-      "source": "hn",
-      "title": "\"That's not SOC 2 compliant\"",
-      "url": "https://ampcode.com/notes/thats-not-soc-2-compliant",
-      "score": 42,
-      "comments": 21,
-      "author": "tosh",
-      "tags": [],
-      "date": "2026-08-15T06:01:19+00:00"
     },
     {
       "id": "ctf-4372374",

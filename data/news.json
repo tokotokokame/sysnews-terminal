@@ -1,17 +1,39 @@
 {
-  "updated_at": "2026-08-21T17:57:32.787022+00:00",
+  "updated_at": "2026-08-21T18:42:13.414292+00:00",
   "count": 500,
   "items": [
+    {
+      "id": "hn-49392200",
+      "source": "hn",
+      "title": "Scientists release biggest 2D map of the universe",
+      "url": "https://newscenter.lbl.gov/2026/08/10/scientists-release-biggest-2d-map-of-the-universe/",
+      "score": 4,
+      "comments": 3,
+      "author": "NKosmatos",
+      "tags": [],
+      "date": "2026-08-21T18:36:34+00:00"
+    },
     {
       "id": "hn-49391389",
       "source": "hn",
       "title": "Rebuilding our Electron meeting-recording engine in Swift",
       "url": "https://circleback.ai/blog/how-we-rebuilt-our-electron-recording-engine-in-swift",
-      "score": 6,
-      "comments": 1,
+      "score": 23,
+      "comments": 2,
       "author": "arguiot",
       "tags": [],
       "date": "2026-08-21T17:33:26+00:00"
+    },
+    {
+      "id": "hn-49391348",
+      "source": "hn",
+      "title": "Galactic Compass 2: now with new augmented reality mode",
+      "url": "https://interconnected.org/home/2026/08/21/galactic",
+      "score": 7,
+      "comments": 2,
+      "author": "bobbiechen",
+      "tags": [],
+      "date": "2026-08-21T17:30:38+00:00"
     },
     {
       "id": "hn-49390910",
@@ -29,7 +51,7 @@
       "source": "hn",
       "title": "Another better lower bound for n=17 square packing",
       "url": "http://gus-massa.blogspot.com/2026/08/another-better-lower-bound-for-n17.html",
-      "score": 7,
+      "score": 12,
       "comments": 1,
       "author": "gus_massa",
       "tags": [],
@@ -40,8 +62,8 @@
       "source": "hn",
       "title": "Show HN: Proliferate- open-source, self-hostable Codex for any coding agent",
       "url": "https://github.com/proliferate-ai/proliferate",
-      "score": 11,
-      "comments": 5,
+      "score": 19,
+      "comments": 9,
       "author": "pablo24602",
       "tags": [],
       "date": "2026-08-21T16:47:15+00:00",
@@ -52,8 +74,8 @@
       "source": "hn",
       "title": "Building an (almost) fully self-hosted, sandboxed, agentic software factory",
       "url": "https://blog.jakesaunders.dev/building-an-almost-fully-self-hosted-sandboxed-agentic-software-factory/",
-      "score": 16,
-      "comments": 7,
+      "score": 26,
+      "comments": 17,
       "author": "jakelsaunders94",
       "tags": [],
       "date": "2026-08-21T16:27:52+00:00"
@@ -63,8 +85,8 @@
       "source": "hn",
       "title": "Kobo can run apps now",
       "url": "https://bandarlabs.github.io/Cobalt/",
-      "score": 55,
-      "comments": 14,
+      "score": 118,
+      "comments": 49,
       "author": "thepoet",
       "tags": [],
       "date": "2026-08-21T16:25:25+00:00"
@@ -74,8 +96,8 @@
       "source": "hn",
       "title": "What happens when a GPU reads memory",
       "url": "https://blog.doubleword.ai/what-happens-when-a-gpu-reads-memory",
-      "score": 21,
-      "comments": 1,
+      "score": 37,
+      "comments": 8,
       "author": "ibobev",
       "tags": [],
       "date": "2026-08-21T16:16:42+00:00"
@@ -103,12 +125,23 @@
       "date": "2026-08-21T16:00:54+00:00"
     },
     {
+      "id": "hn-49390066",
+      "source": "hn",
+      "title": "LLMs are proof that Unix won",
+      "url": "https://bastian.rieck.me/blog/2026/unix/",
+      "score": 15,
+      "comments": 5,
+      "author": "Pseudomanifold",
+      "tags": [],
+      "date": "2026-08-21T15:59:16+00:00"
+    },
+    {
       "id": "hn-49389952",
       "source": "hn",
-      "title": "How We Made a Text-to-Speech Model Respond in Sub-50 ms",
+      "title": "How we made a text-to-speech model respond in sub-50 ms",
       "url": "https://nari-labs.com/blog/qwen3-tts-speed-cost-frontier/",
-      "score": 10,
-      "comments": 1,
+      "score": 30,
+      "comments": 7,
       "author": "toebee",
       "tags": [],
       "date": "2026-08-21T15:51:10+00:00"
@@ -158,12 +191,23 @@
       "date": "2026-08-21T15:20:59+00:00"
     },
     {
+      "id": "hn-49389441",
+      "source": "hn",
+      "title": "I ran Photoshop on a £0.60 computer chip",
+      "url": "https://pointinthecloud.com/2026-08-19-144600.html",
+      "score": 23,
+      "comments": 1,
+      "author": "colinprince",
+      "tags": [],
+      "date": "2026-08-21T15:17:47+00:00"
+    },
+    {
       "id": "hn-49389430",
       "source": "hn",
       "title": "Felony Bench",
       "url": "https://www.felonybench.com/",
-      "score": 109,
-      "comments": 40,
+      "score": 162,
+      "comments": 72,
       "author": "colinprince",
       "tags": [],
       "date": "2026-08-21T15:17:04+00:00"
@@ -250,8 +294,8 @@
       "source": "hn",
       "title": "Kagi added a setting for removing paywalled links from search results",
       "url": "https://kagi.com/changelog#11296",
-      "score": 679,
-      "comments": 249,
+      "score": 751,
+      "comments": 273,
       "author": "speckx",
       "tags": [],
       "date": "2026-08-21T13:56:37+00:00"
@@ -259,10 +303,10 @@
     {
       "id": "hn-49388095",
       "source": "hn",
-      "title": "Kodak's \"Pre-Invented\" Lunar Orbiter Camera; Or, the Fate of SAMOS Readout",
+      "title": "Kodak's \"pre-invented\" lunar orbiter camera; or, the fate of SAMOS readout",
       "url": "https://invertingvision.com/2026/08/10/kodaks-pre-invented-lunar-orbiter-camera-or-the-fate-of-samos-readout/",
-      "score": 25,
-      "comments": 0,
+      "score": 36,
+      "comments": 1,
       "author": "cainxinth",
       "tags": [],
       "date": "2026-08-21T13:52:53+00:00"
@@ -327,8 +371,8 @@
       "source": "hn",
       "title": "I accidentally logged hundreds of thousands of phone calls to military bases",
       "url": "https://lina.sh/blog/hijacking-e164-arpa",
-      "score": 208,
-      "comments": 29,
+      "score": 246,
+      "comments": 32,
       "author": "gavide",
       "tags": [],
       "date": "2026-08-21T13:11:28+00:00"
@@ -338,8 +382,8 @@
       "source": "hn",
       "title": "New Worlds: We are living in the future of J.G. Ballard or William Gibson",
       "url": "https://precastreinforced.co.uk/2026/08/16/new-worlds/",
-      "score": 128,
-      "comments": 76,
+      "score": 151,
+      "comments": 97,
       "author": "speckx",
       "tags": [],
       "date": "2026-08-21T13:07:26+00:00"
@@ -393,8 +437,8 @@
       "source": "hn",
       "title": "The road to ACID transactions in Cassandra 6",
       "url": "https://theconsensus.dev/p/2026/08/16/transactions-in-cassandra.html",
-      "score": 21,
-      "comments": 0,
+      "score": 40,
+      "comments": 1,
       "author": "eatonphil",
       "tags": [],
       "date": "2026-08-21T12:08:19+00:00"
@@ -437,8 +481,8 @@
       "source": "hn",
       "title": "DeepSeek-v4-flash-vision-exp",
       "url": "https://api-docs.deepseek.com/guides/vision/",
-      "score": 377,
-      "comments": 124,
+      "score": 388,
+      "comments": 126,
       "author": "dares2573",
       "tags": [],
       "date": "2026-08-21T10:33:56+00:00"
@@ -1186,6 +1230,17 @@
       "author": "robinhouston",
       "tags": [],
       "date": "2026-08-20T14:14:39+00:00"
+    },
+    {
+      "id": "hn-49374853",
+      "source": "hn",
+      "title": "A look under our trunk: what's in our compute",
+      "url": "https://waymo.com/blog/2026/08/look-under-our-trunk/",
+      "score": 10,
+      "comments": 0,
+      "author": "ra7",
+      "tags": [],
+      "date": "2026-08-20T14:13:45+00:00"
     },
     {
       "id": "hn-49374830",
@@ -3060,8 +3115,8 @@
       "source": "hn",
       "title": "Show HN: Shoehorn – Quantize any model down to run on your machine",
       "url": "https://notactuallytreyanastasio.github.io/shoehorn/",
-      "score": 23,
-      "comments": 2,
+      "score": 49,
+      "comments": 9,
       "author": "rhgraysonii",
       "tags": [],
       "date": "2026-08-18T14:29:20+00:00"
@@ -4039,8 +4094,8 @@
       "source": "hn",
       "title": "Does whispering to agents in docs help?",
       "url": "https://passo.uno/if-you-are-an-agent-read-this/",
-      "score": 14,
-      "comments": 1,
+      "score": 19,
+      "comments": 4,
       "author": "theletterf",
       "tags": [],
       "date": "2026-08-17T14:16:41+00:00"
@@ -5065,71 +5120,12 @@
       "date": "2026-08-16T23:18:25+09:00"
     },
     {
-      "id": "qiita-f359c5c0c2",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "Regional NAT Gatewayを検討して見送った話 — 何と比べて「良い」のかを確認する",
-      "url": "https://qiita.com/Omizu-25/items/555c6319df5a97d3c90f?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "Omizu-25",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-08-16T23:02:58+09:00"
-    },
-    {
-      "id": "qiita-f11cb79c14",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "cdk-nagが良さそうなので使ってみる",
-      "url": "https://qiita.com/yakumo_09/items/9c540e06512631ca0b39?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "yakumo_09",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-08-16T23:01:50+09:00"
-    },
-    {
-      "id": "hn-49320144",
-      "source": "hn",
-      "title": "Anthropic revenue reportedly jumps to more than $11.5B in second quarter",
-      "url": "https://www.cnbc.com/2026/08/15/anthropic-revenue-jumps-to-over-11point5-billion-in-q2-report.html",
-      "score": 21,
-      "comments": 37,
-      "author": "AnodicElegy",
-      "tags": [],
-      "date": "2026-08-16T13:58:17+00:00"
-    },
-    {
-      "id": "hn-49319892",
-      "source": "hn",
-      "title": "Tasklet (YC P26) Is Hiring a Head of Design Engineering",
-      "url": "https://tasklet.ai/careers/head-of-design-engineering",
-      "score": 1,
-      "comments": 0,
-      "author": "mayop100",
-      "tags": [],
-      "date": "2026-08-16T13:30:27+00:00"
-    },
-    {
-      "id": "hn-49319814",
-      "source": "hn",
-      "title": "Show HN: A public AI whose memory is shared across all users",
-      "url": "https://wildstatic.com/",
-      "score": 62,
-      "comments": 39,
-      "author": "adjohu",
-      "tags": [],
-      "date": "2026-08-16T13:21:45+00:00"
-    },
-    {
       "id": "hn-49293983",
       "source": "hn",
       "title": "Quantifying the honey bee dance floor",
       "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0341456",
-      "score": 8,
-      "comments": 0,
+      "score": 12,
+      "comments": 1,
       "author": "Ariarule",
       "tags": [],
       "date": "2026-08-14T02:01:47+00:00"

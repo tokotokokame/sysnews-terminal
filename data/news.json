@@ -1,14 +1,25 @@
 {
-  "updated_at": "2026-08-21T23:48:46.502439+00:00",
+  "updated_at": "2026-08-22T01:10:00.828547+00:00",
   "count": 500,
   "items": [
+    {
+      "id": "hn-49395171",
+      "source": "hn",
+      "title": "HN: The Good Parts (2016)",
+      "url": "https://danluu.com/hn-comments/",
+      "score": 10,
+      "comments": 6,
+      "author": "adletbalzhanov",
+      "tags": [],
+      "date": "2026-08-21T23:53:03+00:00"
+    },
     {
       "id": "hn-49394827",
       "source": "hn",
       "title": "Show HN: OzBrain, a shared brain for knowledge between agents and your team",
       "url": "https://ozbrain.com",
-      "score": 8,
-      "comments": 2,
+      "score": 30,
+      "comments": 10,
       "author": "dariusmonsef",
       "tags": [],
       "date": "2026-08-21T23:09:06+00:00"
@@ -18,8 +29,8 @@
       "source": "hn",
       "title": "Three important steps in my maturation process",
       "url": "https://thomasdullien.github.io/posts/2026-08-21-three-important-steps-in-my-maturation-process/",
-      "score": 8,
-      "comments": 2,
+      "score": 35,
+      "comments": 8,
       "author": "tdullien",
       "tags": [],
       "date": "2026-08-21T22:29:00+00:00"
@@ -27,10 +38,10 @@
     {
       "id": "hn-49394028",
       "source": "hn",
-      "title": "Remotely Unlocking Electric Scooters",
+      "title": "Remotely unlocking electric scooters",
       "url": "https://henriemategui.com/post/remotely-unlocking-electric-scooters",
-      "score": 15,
-      "comments": 2,
+      "score": 22,
+      "comments": 3,
       "author": "henriemategui",
       "tags": [],
       "date": "2026-08-21T21:32:07+00:00"
@@ -45,6 +56,17 @@
       "author": "maciejSz",
       "tags": [],
       "date": "2026-08-21T21:00:48+00:00"
+    },
+    {
+      "id": "hn-49393052",
+      "source": "hn",
+      "title": "Rust Glancer: Rust LSP using 100x less RAM",
+      "url": "https://rust-glancer.github.io/blog/hello-world/",
+      "score": 6,
+      "comments": 9,
+      "author": "matklad",
+      "tags": [],
+      "date": "2026-08-21T19:51:54+00:00"
     },
     {
       "id": "hn-49393051",
@@ -71,10 +93,10 @@
     {
       "id": "hn-49392465",
       "source": "hn",
-      "title": "Tumble Forth – from assembly to OS with C compiler",
+      "title": "Tumble Forth – from assembly to OS with C compiler (2023)",
       "url": "https://tumbleforth.hardcoded.net/",
-      "score": 47,
-      "comments": 4,
+      "score": 54,
+      "comments": 6,
       "author": "vicek22",
       "tags": [],
       "date": "2026-08-21T18:59:52+00:00"
@@ -95,8 +117,8 @@
       "source": "hn",
       "title": "Scientists release biggest 2D map of the universe",
       "url": "https://newscenter.lbl.gov/2026/08/10/scientists-release-biggest-2d-map-of-the-universe/",
-      "score": 126,
-      "comments": 38,
+      "score": 143,
+      "comments": 46,
       "author": "NKosmatos",
       "tags": [],
       "date": "2026-08-21T18:36:34+00:00"
@@ -184,8 +206,8 @@
       "source": "hn",
       "title": "Kobo can run apps now",
       "url": "https://bandarlabs.github.io/Cobalt/",
-      "score": 380,
-      "comments": 134,
+      "score": 419,
+      "comments": 143,
       "author": "thepoet",
       "tags": [],
       "date": "2026-08-21T16:25:25+00:00"
@@ -261,8 +283,8 @@
       "source": "hn",
       "title": "How we made a text-to-speech model respond in sub-50 ms",
       "url": "https://nari-labs.com/blog/qwen3-tts-speed-cost-frontier/",
-      "score": 92,
-      "comments": 24,
+      "score": 102,
+      "comments": 28,
       "author": "toebee",
       "tags": [],
       "date": "2026-08-21T15:51:10+00:00"
@@ -316,8 +338,8 @@
       "source": "hn",
       "title": "I ran Photoshop on a £0.60 computer chip",
       "url": "https://pointinthecloud.com/2026-08-19-144600.html",
-      "score": 109,
-      "comments": 26,
+      "score": 120,
+      "comments": 29,
       "author": "colinprince",
       "tags": [],
       "date": "2026-08-21T15:17:47+00:00"
@@ -327,8 +349,8 @@
       "source": "hn",
       "title": "Felony Bench",
       "url": "https://www.felonybench.com/",
-      "score": 461,
-      "comments": 213,
+      "score": 506,
+      "comments": 225,
       "author": "colinprince",
       "tags": [],
       "date": "2026-08-21T15:17:04+00:00"
@@ -384,8 +406,8 @@
       "source": "hn",
       "title": "Claudette: Make Claude stop talking like a BuzzFeed article",
       "url": "https://github.com/adnanakil/nobuzz/blob/main/README.md",
-      "score": 175,
-      "comments": 127,
+      "score": 195,
+      "comments": 135,
       "author": "aakil",
       "tags": [],
       "date": "2026-08-21T14:31:52+00:00"
@@ -428,8 +450,8 @@
       "source": "hn",
       "title": "Kagi added a setting for removing paywalled links from search results",
       "url": "https://kagi.com/changelog#11296",
-      "score": 967,
-      "comments": 331,
+      "score": 1000,
+      "comments": 338,
       "author": "speckx",
       "tags": [],
       "date": "2026-08-21T13:56:37+00:00"
@@ -439,7 +461,7 @@
       "source": "hn",
       "title": "Kodak's \"pre-invented\" lunar orbiter camera; or, the fate of SAMOS readout",
       "url": "https://invertingvision.com/2026/08/10/kodaks-pre-invented-lunar-orbiter-camera-or-the-fate-of-samos-readout/",
-      "score": 48,
+      "score": 54,
       "comments": 2,
       "author": "cainxinth",
       "tags": [],
@@ -505,8 +527,8 @@
       "source": "hn",
       "title": "I accidentally logged hundreds of thousands of phone calls to military bases",
       "url": "https://lina.sh/blog/hijacking-e164-arpa",
-      "score": 404,
-      "comments": 45,
+      "score": 436,
+      "comments": 50,
       "author": "gavide",
       "tags": [],
       "date": "2026-08-21T13:11:28+00:00"
@@ -516,8 +538,8 @@
       "source": "hn",
       "title": "New Worlds: We are living in the future of J.G. Ballard or William Gibson",
       "url": "https://precastreinforced.co.uk/2026/08/16/new-worlds/",
-      "score": 175,
-      "comments": 120,
+      "score": 202,
+      "comments": 145,
       "author": "speckx",
       "tags": [],
       "date": "2026-08-21T13:07:26+00:00"
@@ -582,8 +604,8 @@
       "source": "hn",
       "title": "I'm becoming AI-blind",
       "url": "https://cymerys.com/w/im-becoming-ai-blind",
-      "score": 238,
-      "comments": 239,
+      "score": 261,
+      "comments": 272,
       "author": "rcymerys",
       "tags": [],
       "date": "2026-08-21T11:48:05+00:00"
@@ -615,8 +637,8 @@
       "source": "hn",
       "title": "DeepSeek-v4-flash-vision-exp",
       "url": "https://api-docs.deepseek.com/guides/vision/",
-      "score": 447,
-      "comments": 141,
+      "score": 458,
+      "comments": 143,
       "author": "dares2573",
       "tags": [],
       "date": "2026-08-21T10:33:56+00:00"
@@ -1487,8 +1509,8 @@
       "source": "hn",
       "title": "A look under our trunk: what's in our compute",
       "url": "https://waymo.com/blog/2026/08/look-under-our-trunk/",
-      "score": 83,
-      "comments": 29,
+      "score": 92,
+      "comments": 47,
       "author": "ra7",
       "tags": [],
       "date": "2026-08-20T14:13:45+00:00"
@@ -3333,8 +3355,8 @@
       "source": "hn",
       "title": "The coolest anti-surveillance tools at Defcon [video]",
       "url": "https://www.youtube.com/watch?v=-2uAsJ5EPAw",
-      "score": 138,
-      "comments": 8,
+      "score": 154,
+      "comments": 9,
       "author": "neom",
       "tags": [],
       "date": "2026-08-18T14:49:19+00:00"
@@ -4746,11 +4768,22 @@
       "source": "hn",
       "title": "People of ACM – Russ Cox",
       "url": "https://www.acm.org/articles/people-of-acm/2026/russ-cox",
-      "score": 75,
-      "comments": 10,
+      "score": 90,
+      "comments": 11,
       "author": "signa11",
       "tags": [],
       "date": "2026-08-17T07:12:15+00:00"
+    },
+    {
+      "id": "hn-49326852",
+      "source": "hn",
+      "title": "Show HN: Rex, a parallel functional language for scientific workflows",
+      "url": "https://github.com/peterkelly/rex",
+      "score": 6,
+      "comments": 0,
+      "author": "peterkelly",
+      "tags": [],
+      "date": "2026-08-17T05:28:07+00:00"
     },
     {
       "id": "hn-49326825",
@@ -5111,39 +5144,6 @@
       "author": "gavide",
       "tags": [],
       "date": "2026-08-16T21:20:40+00:00"
-    },
-    {
-      "id": "hn-49323686",
-      "source": "hn",
-      "title": "Nvidia dramatically reduces amount of OpenAI infra financing it may guarantee",
-      "url": "https://www.reuters.com/business/nvidia-scales-back-250-billion-openai-data-center-guarantee-wsj-reports-2026-08-14/",
-      "score": 173,
-      "comments": 73,
-      "author": "root-parent",
-      "tags": [],
-      "date": "2026-08-16T21:07:10+00:00"
-    },
-    {
-      "id": "hn-49323620",
-      "source": "hn",
-      "title": "Anthropic IPO valuation hinges on $190-200B 2028 revenue forecast",
-      "url": "https://www.reuters.com/business/anthropic-ipo-valuation-hinges-190-200-billion-2028-revenue-forecast-sources-say-2026-08-15/",
-      "score": 31,
-      "comments": 25,
-      "author": "root-parent",
-      "tags": [],
-      "date": "2026-08-16T21:00:25+00:00"
-    },
-    {
-      "id": "hn-49323474",
-      "source": "hn",
-      "title": "How I developed an Am29000 C compiler and web browser",
-      "url": "https://nanochess.org/am29000_c_compiler_web_browser.html",
-      "score": 68,
-      "comments": 10,
-      "author": "nanochess",
-      "tags": [],
-      "date": "2026-08-16T20:41:57+00:00"
     },
     {
       "id": "ctf-4372374",

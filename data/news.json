@@ -1,14 +1,102 @@
 {
-  "updated_at": "2026-08-24T16:36:04.159220+00:00",
+  "updated_at": "2026-08-24T17:29:39.727974+00:00",
   "count": 500,
   "items": [
+    {
+      "id": "hn-49422800",
+      "source": "hn",
+      "title": "Where Did All the Public Bathrooms Go?",
+      "url": "https://daily.jstor.org/where-did-all-the-public-bathrooms-go/",
+      "score": 5,
+      "comments": 1,
+      "author": "herbertl",
+      "tags": [],
+      "date": "2026-08-24T17:07:01+00:00"
+    },
+    {
+      "id": "hn-49422784",
+      "source": "hn",
+      "title": "The entire city of San Francisco as a video game",
+      "url": "https://sf.thijs.gg/",
+      "score": 13,
+      "comments": 0,
+      "author": "centrosphere",
+      "tags": [],
+      "date": "2026-08-24T17:05:38+00:00"
+    },
+    {
+      "id": "hn-49422548",
+      "source": "hn",
+      "title": "Hot Chips 2026: CUDA Targets RISC-V – By Chester Lam",
+      "url": "https://chipsandcheese.com/p/hot-chips-2026-cuda-targets-risc",
+      "score": 14,
+      "comments": 1,
+      "author": "rbanffy",
+      "tags": [],
+      "date": "2026-08-24T16:52:01+00:00"
+    },
+    {
+      "id": "hn-49422481",
+      "source": "hn",
+      "title": "EuroHPC Launches 6 Quantum Calls with €119M in Funding",
+      "url": "https://www.hpcwire.com/off-the-wire/eurohpc-launches-6-quantum-calls-with-e119m-in-funding/",
+      "score": 5,
+      "comments": 0,
+      "author": "rbanffy",
+      "tags": [],
+      "date": "2026-08-24T16:46:56+00:00"
+    },
+    {
+      "id": "hn-49422227",
+      "source": "hn",
+      "title": "Public services are increasingly strained by LLM-written appeals for benefits",
+      "url": "https://arxiv.org/abs/2608.16603",
+      "score": 26,
+      "comments": 27,
+      "author": "lensecat",
+      "tags": [],
+      "date": "2026-08-24T16:30:21+00:00"
+    },
+    {
+      "id": "hn-49422204",
+      "source": "hn",
+      "title": "A Blackstone real estate company exposed SSN digits, DOBs, addresses and more",
+      "url": "https://alexschapiro.com/security/vulnerability/2026/07/16/beam-living-graphql-data-exposure",
+      "score": 48,
+      "comments": 15,
+      "author": "bearsyankees",
+      "tags": [],
+      "date": "2026-08-24T16:29:00+00:00"
+    },
+    {
+      "id": "hn-49421948",
+      "source": "hn",
+      "title": "Show HN: GlassBox – what the browser reveals, and how identifiable you are",
+      "url": "https://glassbox.codecanary.org",
+      "score": 21,
+      "comments": 4,
+      "author": "tke248",
+      "tags": [],
+      "date": "2026-08-24T16:15:10+00:00"
+    },
+    {
+      "id": "hn-49421806",
+      "source": "hn",
+      "title": "Show HN: PicoMQ – Durable Streams over HTTP, on object storage",
+      "url": "https://picomq.com/",
+      "score": 15,
+      "comments": 0,
+      "author": "adesh_nalpet",
+      "tags": [],
+      "date": "2026-08-24T16:08:17+00:00"
+    },
     {
       "id": "hn-49421554",
       "source": "hn",
       "title": "Coding expertise is going to collapse from AI reliance",
       "url": "https://larsfaye.com/articles/ai-coding-will-prevent-expertise",
-      "score": 83,
-      "comments": 76,
+      "score": 160,
+      "comments": 198,
       "author": "larsfaye",
       "tags": [],
       "date": "2026-08-24T15:52:33+00:00"
@@ -18,8 +106,8 @@
       "source": "hn",
       "title": "Jabber/XMPP: 25 Years of Digital Independence",
       "url": "https://gultsch.de/posts/25-years-of-digital-independence/",
-      "score": 6,
-      "comments": 0,
+      "score": 32,
+      "comments": 13,
       "author": "inputmice",
       "tags": [],
       "date": "2026-08-24T15:51:31+00:00"
@@ -42,8 +130,8 @@
       "source": "hn",
       "title": "IPFS Maintainers Winding Down",
       "url": "https://ipshipyard.com/blog/2026-the-end-of-ipfs-at-shipyard/",
-      "score": 60,
-      "comments": 13,
+      "score": 121,
+      "comments": 43,
       "author": "iand",
       "tags": [],
       "date": "2026-08-24T15:48:45+00:00"
@@ -77,8 +165,8 @@
       "source": "hn",
       "title": "MS Paint and Photos inivisibly watermark even locally generated output with GUID",
       "url": "https://xusheng.dev/posts/reversing/mspaint_invisible_watermark/main/",
-      "score": 95,
-      "comments": 38,
+      "score": 182,
+      "comments": 77,
       "author": "ComputerGuru",
       "tags": [],
       "date": "2026-08-24T15:28:04+00:00"
@@ -88,8 +176,8 @@
       "source": "hn",
       "title": "OpenAI: GPT 5.6 Sol price reduction (until at least Nov 21)",
       "url": "https://developers.openai.com/api/docs/pricing",
-      "score": 96,
-      "comments": 78,
+      "score": 144,
+      "comments": 130,
       "author": "tosh",
       "tags": [],
       "date": "2026-08-24T15:22:43+00:00"
@@ -160,19 +248,30 @@
       "source": "hn",
       "title": "Xiaomi: New CPU matches Apple cores single threaded, much faster multithreaded",
       "url": "https://twitter.com/lemire/status/2091894299289874926",
-      "score": 227,
-      "comments": 128,
+      "score": 336,
+      "comments": 194,
       "author": "tosh",
       "tags": [],
       "date": "2026-08-24T15:08:17+00:00"
+    },
+    {
+      "id": "hn-49420861",
+      "source": "hn",
+      "title": "Could We Dredge the Netherlands Without Fossil Fuels?",
+      "url": "https://solar.lowtechmagazine.com/2018/08/could-we-dredge-the-netherlands-without-fossil-fuels",
+      "score": 18,
+      "comments": 7,
+      "author": "at1as",
+      "tags": [],
+      "date": "2026-08-24T15:07:07+00:00"
     },
     {
       "id": "hn-49420832",
       "source": "hn",
       "title": "Adafruit USB Type C CC Resistor Fixer",
       "url": "https://www.adafruit.com/product/6323",
-      "score": 14,
-      "comments": 1,
+      "score": 28,
+      "comments": 10,
       "author": "RicoElectrico",
       "tags": [],
       "date": "2026-08-24T15:05:22+00:00"
@@ -182,8 +281,8 @@
       "source": "hn",
       "title": "Hot Chips 2026: Samsung and HBM Base Die Opportunities",
       "url": "https://chipsandcheese.com/p/hot-chips-2026-samsung-and-hbm-base",
-      "score": 5,
-      "comments": 0,
+      "score": 9,
+      "comments": 2,
       "author": "rbanffy",
       "tags": [],
       "date": "2026-08-24T15:01:51+00:00"
@@ -193,8 +292,8 @@
       "source": "hn",
       "title": "Hot Chips 2026: Applying High Bandwidth Flash (HBF)",
       "url": "https://chipsandcheese.com/p/hot-chips-2026-applying-high-bandwidth",
-      "score": 26,
-      "comments": 7,
+      "score": 31,
+      "comments": 9,
       "author": "ksec",
       "tags": [],
       "date": "2026-08-24T14:48:58+00:00"
@@ -204,8 +303,8 @@
       "source": "hn",
       "title": "Show HN: A techno machine in one HTML file, with verifiable renders",
       "url": "https://ssx360.github.io/rack-02/?src=hn",
-      "score": 59,
-      "comments": 13,
+      "score": 69,
+      "comments": 15,
       "author": "ssx360",
       "tags": [],
       "date": "2026-08-24T13:17:11+00:00"
@@ -215,8 +314,8 @@
       "source": "hn",
       "title": "How Europe is killing makers and micro-entrepreneurs",
       "url": "https://lectronz.com/u/lectronz/articles/how-europe-is-killing-makers-and-micro-entrepreneurs",
-      "score": 584,
-      "comments": 406,
+      "score": 667,
+      "comments": 451,
       "author": "l-one-lone",
       "tags": [],
       "date": "2026-08-24T13:05:25+00:00"
@@ -237,8 +336,8 @@
       "source": "hn",
       "title": "SeL4 security proofs now complete on AArch64",
       "url": "https://proofcraft.systems/news-2026/#2026-08-21",
-      "score": 126,
-      "comments": 30,
+      "score": 135,
+      "comments": 31,
       "author": "snvzz",
       "tags": [],
       "date": "2026-08-24T11:32:51+00:00"
@@ -454,8 +553,8 @@
       "source": "hn",
       "title": "FDA clears blood test to aid evaluation for Alzheimer's disease",
       "url": "https://medicine.washu.edu/news/fda-clears-blood-test-to-aid-evaluation-for-alzheimers-disease/",
-      "score": 137,
-      "comments": 64,
+      "score": 148,
+      "comments": 70,
       "author": "dabinat",
       "tags": [],
       "date": "2026-08-24T06:30:07+00:00"
@@ -522,8 +621,8 @@
       "source": "hn",
       "title": "Executable Is a SQLite Database",
       "url": "https://fzakaria.com/2026/08/23/your-executable-is-a-sqlite-database",
-      "score": 327,
-      "comments": 64,
+      "score": 355,
+      "comments": 69,
       "author": "setheron",
       "tags": [],
       "date": "2026-08-24T04:48:20+00:00"
@@ -765,8 +864,8 @@
       "source": "hn",
       "title": "I were 17, I'd learn how to build LLMs from scratch",
       "url": "https://twitter.com/paulg/status/2091544343589060625",
-      "score": 378,
-      "comments": 498,
+      "score": 397,
+      "comments": 518,
       "author": "bilsbie",
       "tags": [],
       "date": "2026-08-23T20:38:09+00:00"
@@ -5041,122 +5140,15 @@
       "severity": "critical"
     },
     {
-      "id": "hn-49358259",
+      "id": "hn-49357290",
       "source": "hn",
-      "title": "Where Human Sleep Went Wrong",
-      "url": "https://nautil.us/where-human-sleep-went-wrong-1283797",
-      "score": 76,
-      "comments": 60,
-      "author": "XzetaU8",
-      "tags": [],
-      "date": "2026-08-19T07:40:32+00:00"
-    },
-    {
-      "id": "hn-49358220",
-      "source": "hn",
-      "title": "\"Sabotage\": Experts, lawmakers blast RFK Jr. for destroying healthcare research",
-      "url": "https://arstechnica.com/health/2026/08/sabotage-experts-lawmakers-blast-rfk-jr-for-destroying-healthcare-research/",
-      "score": 44,
-      "comments": 6,
-      "author": "01-_-",
-      "tags": [],
-      "date": "2026-08-19T07:35:59+00:00"
-    },
-    {
-      "id": "hn-49357967",
-      "source": "hn",
-      "title": "Berd",
-      "url": "https://berd.xyz",
-      "score": 15,
-      "comments": 8,
-      "author": "tosh",
-      "tags": [],
-      "date": "2026-08-19T07:06:31+00:00"
-    },
-    {
-      "id": "hn-49357881",
-      "source": "hn",
-      "title": "Show HN: Privacy focused client side password generator",
-      "url": "https://password-generator.aaqa.dev/",
-      "score": 3,
+      "title": "Curvature Beziers – Improving on a timeless recipe",
+      "url": "https://acko.net/blog/curvature-beziers/",
+      "score": 14,
       "comments": 0,
-      "author": "aaqaishtyaq",
+      "author": "boxed",
       "tags": [],
-      "date": "2026-08-19T06:55:36+00:00"
-    },
-    {
-      "id": "hn-49357501",
-      "source": "hn",
-      "title": "λλ: A Programming Language for Silicon Photonics",
-      "url": "https://dl.acm.org/doi/10.1145/3789240.3829151",
-      "score": 69,
-      "comments": 15,
-      "author": "matt_d",
-      "tags": [],
-      "date": "2026-08-19T06:09:16+00:00"
-    },
-    {
-      "id": "qiita-e4d6c6adf5",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "パスキーはなぜ「盗まれても意味がない」と言えるのか - 真価を発揮する使い方",
-      "url": "https://qiita.com/harupython/items/1fba6abe5e2eac105edd?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "harupython",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-08-19T13:13:48+09:00"
-    },
-    {
-      "id": "qiita-0815b16418",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "Webアプリ開発やAIエージェント構築によく使われるOAuthについて理解を深めたいよなぁ！",
-      "url": "https://qiita.com/PDC-Kurashinak/items/a814c17b39b90287d735?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "PDC-Kurashinak",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-08-19T12:24:02+09:00"
-    },
-    {
-      "id": "qiita-9a803bef2f",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "学習メモ：Findyと考える「個人を超えたAIの生産性をどう測定するか」 #oreilly_chomado_findy",
-      "url": "https://qiita.com/chomado/items/a91a87e22faf4b622640?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "chomado",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-08-19T12:23:51+09:00"
-    },
-    {
-      "id": "qiita-a3ad0e5a82",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "SES案件参画後30日で信頼を作る行動",
-      "url": "https://qiita.com/s_horikoshi/items/3266fc95d8e135f6f1cf?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "s_horikoshi",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-08-19T12:00:34+09:00"
-    },
-    {
-      "id": "hn-49355968",
-      "source": "hn",
-      "title": "Palomar: A registry of Lean verified mathematics",
-      "url": "https://terrytao.wordpress.com/2026/08/18/palomar-a-registry-of-lean-verified-mathematics/",
-      "score": 154,
-      "comments": 37,
-      "author": "matt_d",
-      "tags": [],
-      "date": "2026-08-19T02:41:50+00:00"
+      "date": "2026-08-19T05:36:32+00:00"
     },
     {
       "id": "ctf-4372374",

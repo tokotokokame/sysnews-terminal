@@ -1,7 +1,65 @@
 {
-  "updated_at": "2026-08-24T05:37:07.839676+00:00",
+  "updated_at": "2026-08-24T06:55:47.013731+00:00",
   "count": 500,
   "items": [
+    {
+      "id": "hn-49415893",
+      "source": "hn",
+      "title": "FDA clears blood test to aid evaluation for Alzheimer's disease",
+      "url": "https://medicine.washu.edu/news/fda-clears-blood-test-to-aid-evaluation-for-alzheimers-disease/",
+      "score": 4,
+      "comments": 0,
+      "author": "dabinat",
+      "tags": [],
+      "date": "2026-08-24T06:30:07+00:00"
+    },
+    {
+      "id": "hn-49415852",
+      "source": "hn",
+      "title": "OCR It – pull text out of un-copyable documents for your LLM",
+      "url": "https://github.com/thiagotigaz/ocr-it",
+      "score": 4,
+      "comments": 1,
+      "author": "thiagolima",
+      "tags": [],
+      "date": "2026-08-24T06:25:31+00:00"
+    },
+    {
+      "id": "qiita-d8ce2c24f1",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "API・CSV・RPA・iPaaS・純正連携の5つを比較してみた｜「一番ラクなのはどれ？」を6つの物差しで調べた",
+      "url": "https://qiita.com/songchong/items/0badbbe2a467a6b09c64?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "songchong",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-08-24T14:59:17+09:00"
+    },
+    {
+      "id": "hn-49415621",
+      "source": "hn",
+      "title": "New EU-wide product repair rules come into force",
+      "url": "https://www.rte.ie/news/business/2026/0824/1588931-repair-rules/",
+      "score": 14,
+      "comments": 0,
+      "author": "austinallegro",
+      "tags": [],
+      "date": "2026-08-24T05:47:27+00:00",
+      "severity": "critical"
+    },
+    {
+      "id": "hn-49415405",
+      "source": "hn",
+      "title": "Elevated Errors for Multiple Models",
+      "url": "https://status.claude.com/incidents/vgz5psbjmt1h",
+      "score": 17,
+      "comments": 3,
+      "author": "rob",
+      "tags": [],
+      "date": "2026-08-24T05:12:45+00:00"
+    },
     {
       "id": "hn-49415187",
       "source": "hn",
@@ -40,8 +98,8 @@
       "source": "hn",
       "title": "Migrating a Synology NAS to a UniFi UNAS Pro 8 with Robocopy, SMB Multichannel",
       "url": "https://www.hanselman.com/blog/migrating-a-synology-nas-to-a-unifi-unas-pro-8-with-robocopy-smb-multichannel-and-surprising-performance-traps",
-      "score": 33,
-      "comments": 29,
+      "score": 42,
+      "comments": 35,
       "author": "soheilpro",
       "tags": [],
       "date": "2026-08-24T01:33:14+00:00"
@@ -51,7 +109,7 @@
       "source": "hn",
       "title": "The first search engine for Internet-connected devices",
       "url": "https://www.shodan.io/",
-      "score": 13,
+      "score": 15,
       "comments": 0,
       "author": "momentmaker",
       "tags": [],
@@ -62,8 +120,8 @@
       "source": "hn",
       "title": "I built a low-latency AI companion that plays Skyrim with me",
       "url": "https://pantel.is/projects/ai-gaming-companion/",
-      "score": 55,
-      "comments": 9,
+      "score": 93,
+      "comments": 18,
       "author": "pantelisk",
       "tags": [],
       "date": "2026-08-23T23:18:17+00:00"
@@ -73,8 +131,8 @@
       "source": "hn",
       "title": "Everything I own, owned",
       "url": "https://schlarp.com/posts/everything-i-own-owned/",
-      "score": 530,
-      "comments": 162,
+      "score": 653,
+      "comments": 200,
       "author": "schlarpc",
       "tags": [],
       "date": "2026-08-23T22:41:04+00:00"
@@ -117,7 +175,7 @@
       "source": "hn",
       "title": "Implementation of GPT-2 in pure CMake",
       "url": "https://github.com/AlpinDale/gpt2.cmake",
-      "score": 58,
+      "score": 70,
       "comments": 14,
       "author": "porridgeraisin",
       "tags": [],
@@ -135,12 +193,23 @@
       "date": "2026-08-23T20:47:53+00:00"
     },
     {
+      "id": "hn-49412396",
+      "source": "hn",
+      "title": "I were 17, I'd learn how to build LLMs from scratch",
+      "url": "https://twitter.com/paulg/status/2091544343589060625",
+      "score": 13,
+      "comments": 17,
+      "author": "bilsbie",
+      "tags": [],
+      "date": "2026-08-23T20:38:09+00:00"
+    },
+    {
       "id": "hn-49412328",
       "source": "hn",
       "title": "Rural Village in Spain Is Welcoming Digital Nomads with Open Arms",
       "url": "https://www.cntraveler.com/story/this-rural-village-in-spain-is-welcoming-digital-nomads-with-open-arms",
-      "score": 56,
-      "comments": 35,
+      "score": 78,
+      "comments": 54,
       "author": "simonebrunozzi",
       "tags": [],
       "date": "2026-08-23T20:30:50+00:00"
@@ -150,8 +219,8 @@
       "source": "hn",
       "title": "Decoding silent reading from non-invasive EEG",
       "url": "https://arxiv.org/abs/2608.20186",
-      "score": 43,
-      "comments": 18,
+      "score": 47,
+      "comments": 23,
       "author": "root-parent",
       "tags": [],
       "date": "2026-08-23T20:13:34+00:00"
@@ -172,8 +241,8 @@
       "source": "hn",
       "title": "Google Workspace thinks my domain is an email provider (2025)",
       "url": "https://blog.elis.cc/articles/google-workspace-thinks-my-domain-is-an-email-provider/",
-      "score": 236,
-      "comments": 68,
+      "score": 266,
+      "comments": 78,
       "author": "el1s7",
       "tags": [],
       "date": "2026-08-23T19:29:32+00:00"
@@ -183,8 +252,8 @@
       "source": "hn",
       "title": "How I find problems to solve as a staff engineer",
       "url": "https://lalitm.com/post/find-problems-staff-engineer/",
-      "score": 347,
-      "comments": 118,
+      "score": 376,
+      "comments": 124,
       "author": "vanpra",
       "tags": [],
       "date": "2026-08-23T19:23:29+00:00"
@@ -194,8 +263,8 @@
       "source": "hn",
       "title": "Fable and the end of the free lunch",
       "url": "https://www.dbreunig.com/2026/08/23/fable-the-end-of-moore-s-law.html",
-      "score": 109,
-      "comments": 88,
+      "score": 138,
+      "comments": 111,
       "author": "dbreunig",
       "tags": [],
       "date": "2026-08-23T19:06:09+00:00"
@@ -260,8 +329,8 @@
       "source": "hn",
       "title": "Explain it to me like I'm ten",
       "url": "https://timharford.com/2026/08/explain-it-to-me-like-im-ten/",
-      "score": 109,
-      "comments": 44,
+      "score": 120,
+      "comments": 47,
       "author": "bookofjoe",
       "tags": [],
       "date": "2026-08-23T18:08:13+00:00"
@@ -293,8 +362,8 @@
       "source": "hn",
       "title": "My agent.md to improve LLM-assisted code quality",
       "url": "https://fabiensanglard.net/agent.md/index.html",
-      "score": 244,
-      "comments": 100,
+      "score": 283,
+      "comments": 110,
       "author": "ibobev",
       "tags": [],
       "date": "2026-08-23T17:59:52+00:00"
@@ -337,8 +406,8 @@
       "source": "hn",
       "title": "A website for debloated open source alternatives",
       "url": "https://debloat.dev/",
-      "score": 303,
-      "comments": 93,
+      "score": 311,
+      "comments": 97,
       "author": "ryanvogel",
       "tags": [],
       "date": "2026-08-23T16:54:10+00:00",
@@ -417,8 +486,8 @@
       "source": "hn",
       "title": "Why Sal Khan't: On Learning by Making but Teaching by Telling",
       "url": "https://punyamishra.com/2026/04/16/why-sal-khant-on-learning-by-making-but-teaching-by-telling/",
-      "score": 161,
-      "comments": 98,
+      "score": 174,
+      "comments": 100,
       "author": "the-mitr",
       "tags": [],
       "date": "2026-08-23T15:59:08+00:00"
@@ -450,8 +519,8 @@
       "source": "hn",
       "title": "How Complex Systems Fail (1998)",
       "url": "https://how.complexsystems.fail/",
-      "score": 277,
-      "comments": 66,
+      "score": 295,
+      "comments": 68,
       "author": "shortcrct",
       "tags": [],
       "date": "2026-08-23T15:13:31+00:00"
@@ -494,8 +563,8 @@
       "source": "hn",
       "title": "What Is a Harness?",
       "url": "https://earendil.com/posts/what-is-a-harness/",
-      "score": 381,
-      "comments": 144,
+      "score": 406,
+      "comments": 146,
       "author": "tosh",
       "tags": [],
       "date": "2026-08-23T14:24:21+00:00"
@@ -527,8 +596,8 @@
       "source": "hn",
       "title": "My favorite nonfiction books about cults, scams, and schemes",
       "url": "https://bookdna.com/best-books/nonfiction-about-cults-scams-and-schemes",
-      "score": 212,
-      "comments": 79,
+      "score": 221,
+      "comments": 82,
       "author": "bwb",
       "tags": [],
       "date": "2026-08-23T13:51:10+00:00"
@@ -538,8 +607,8 @@
       "source": "hn",
       "title": "Malware infects Android-based automotive head unit firmware",
       "url": "https://securelist.com/android-head-unit-malware/121106/",
-      "score": 229,
-      "comments": 119,
+      "score": 232,
+      "comments": 121,
       "author": "campuscodi",
       "tags": [],
       "date": "2026-08-23T13:05:38+00:00",
@@ -804,8 +873,8 @@
       "source": "hn",
       "title": "AI Chip Architectures",
       "url": "https://www.jepeake.com/ai-chip-architectures",
-      "score": 51,
-      "comments": 15,
+      "score": 59,
+      "comments": 24,
       "author": "Finbarr",
       "tags": [],
       "date": "2026-08-23T02:25:10+00:00"
@@ -1152,19 +1221,6 @@
         "Qiita"
       ],
       "date": "2026-08-22T22:49:37+09:00"
-    },
-    {
-      "id": "qiita-d8ce2c24f1",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "API・CSV・RPA・iPaaS・純正連携の5つを比較してみた｜「一番ラクなのはどれ？」を6つの物差しで調べた",
-      "url": "https://qiita.com/songchong/items/0badbbe2a467a6b09c64?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "songchong",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-08-22T22:49:34+09:00"
     },
     {
       "id": "hn-49399642",
@@ -5086,62 +5142,6 @@
       "date": "2026-08-18T16:29:51+00:00"
     },
     {
-      "id": "hn-49348163",
-      "source": "hn",
-      "title": "Degraded performance for multiple models",
-      "url": "https://status.claude.com/incidents/q7txxvbsftgq",
-      "score": 131,
-      "comments": 116,
-      "author": "matt89",
-      "tags": [],
-      "date": "2026-08-18T16:28:20+00:00"
-    },
-    {
-      "id": "hn-49348152",
-      "source": "hn",
-      "title": "Superpowers, Not Superintelligence",
-      "url": "https://bond.now/news/superpowers-not-superintelligence",
-      "score": 27,
-      "comments": 37,
-      "author": "edbernays",
-      "tags": [],
-      "date": "2026-08-18T16:27:41+00:00"
-    },
-    {
-      "id": "hn-49348141",
-      "source": "hn",
-      "title": "Git at any scale",
-      "url": "https://cursor.com/blog/git-at-any-scale",
-      "score": 319,
-      "comments": 102,
-      "author": "meetpateltech",
-      "tags": [],
-      "date": "2026-08-18T16:26:56+00:00"
-    },
-    {
-      "id": "hn-49348136",
-      "source": "hn",
-      "title": "Launch HN: machine0 (YC S26) – Persistent CPU and GPU VMs from the CLI",
-      "url": "https://machine0.io",
-      "score": 49,
-      "comments": 31,
-      "author": "bwm",
-      "tags": [],
-      "date": "2026-08-18T16:26:42+00:00"
-    },
-    {
-      "id": "hn-49348079",
-      "source": "hn",
-      "title": "Mojo is now open source",
-      "url": "https://www.modular.com/blog/mojo-open-source",
-      "score": 376,
-      "comments": 87,
-      "author": "visheshdembla",
-      "tags": [],
-      "date": "2026-08-18T16:23:24+00:00",
-      "severity": "critical"
-    },
-    {
       "id": "ctf-4372374",
       "source": "project",
       "proj_category": "CTF",
@@ -5353,32 +5353,6 @@
       "date": "2023-05-23T17:06:23Z"
     },
     {
-      "id": "zenn-eb018b49e8",
-      "source": "zennqiita",
-      "sub_source": "Zenn",
-      "title": "Ctrl+C でプログラムが止まる仕組みを調べた",
-      "url": "https://zenn.dev/wakame_atsushi/articles/05a74885eb963d",
-      "score": null,
-      "author": "わかめ",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Sun, 23 Aug 2026 12:34:45 GMT"
-    },
-    {
-      "id": "zenn-9d9da6375f",
-      "source": "zennqiita",
-      "sub_source": "Zenn",
-      "title": "NOCCA×NOCCAの完全解析を独立再現してみた",
-      "url": "https://zenn.dev/keison8864/articles/nocca-strongly-solving-reproduction",
-      "score": null,
-      "author": "keison",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Sun, 23 Aug 2026 07:54:16 GMT"
-    },
-    {
       "id": "zenn-7808cd2a6e",
       "source": "zennqiita",
       "sub_source": "Zenn",
@@ -5390,6 +5364,19 @@
         "Zenn"
       ],
       "date": "Sun, 23 Aug 2026 04:12:30 GMT"
+    },
+    {
+      "id": "zenn-2ef82bef35",
+      "source": "zennqiita",
+      "sub_source": "Zenn",
+      "title": "C#において、例外を使うべきか戻り値にすべきか、迷わなくなる基準",
+      "url": "https://zenn.dev/biwacoder/articles/fbbf12f755f5d8",
+      "score": null,
+      "author": "びわ",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Sun, 23 Aug 2026 04:02:52 GMT"
     },
     {
       "id": "zenn-37296b8631",
@@ -5587,19 +5574,6 @@
       "date": "Thu, 20 Aug 2026 01:42:04 GMT"
     },
     {
-      "id": "zenn-35fc920471",
-      "source": "zennqiita",
-      "sub_source": "Zenn",
-      "title": "AIスライド作成、新時代へ ― AIで作ったスライドを、高精度で“編集できるPPTX”に変換する方法",
-      "url": "https://zenn.dev/flux/articles/5446dba24b5100",
-      "score": null,
-      "author": "FLUX",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Wed, 19 Aug 2026 10:21:19 GMT"
-    },
-    {
       "id": "zenn-4ee71affe2",
       "source": "zennqiita",
       "sub_source": "Zenn",
@@ -5611,6 +5585,32 @@
         "Zenn"
       ],
       "date": "Wed, 19 Aug 2026 07:44:30 GMT"
+    },
+    {
+      "id": "zenn-5fb588c26e",
+      "source": "zennqiita",
+      "sub_source": "Zenn",
+      "title": "NGワードリストに「死ね」が入っていなかったので自分で作った",
+      "url": "https://zenn.dev/zentaroimai/articles/9d6e786a2e6eec",
+      "score": null,
+      "author": "Zentaro",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Wed, 19 Aug 2026 07:38:05 GMT"
+    },
+    {
+      "id": "zenn-b4f70d59c8",
+      "source": "zennqiita",
+      "sub_source": "Zenn",
+      "title": "ゆっくりと学ぶ TanStack Start",
+      "url": "https://zenn.dev/417/books/tanstack-start-principles",
+      "score": null,
+      "author": "MAAAAAAAAAAA",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Wed, 19 Aug 2026 05:18:13 GMT"
     },
     {
       "id": "edb-21efef3c77",

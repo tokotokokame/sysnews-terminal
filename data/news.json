@@ -1,7 +1,19 @@
 {
-  "updated_at": "2026-08-25T20:56:31.310741+00:00",
+  "updated_at": "2026-08-25T21:29:49.909886+00:00",
   "count": 500,
   "items": [
+    {
+      "id": "hn-49440410",
+      "source": "hn",
+      "title": "When str.lower() is a security vulnerability in Python – Seth Larson",
+      "url": "https://sethmlarson.dev/when-str-lower-is-a-security-vulnerability",
+      "score": 6,
+      "comments": 0,
+      "author": "rbanffy",
+      "tags": [],
+      "date": "2026-08-25T20:49:03+00:00",
+      "severity": "high"
+    },
     {
       "id": "qiita-45168cf0db",
       "source": "zennqiita",
@@ -27,12 +39,23 @@
       "date": "2026-08-25T19:41:48+00:00"
     },
     {
+      "id": "hn-49439499",
+      "source": "hn",
+      "title": "C2PA Cameras Do Not Survive Contact with Reality",
+      "url": "https://www.da.vidbuchanan.co.uk/blog/android-c2pa.html",
+      "score": 11,
+      "comments": 4,
+      "author": "Retr0id",
+      "tags": [],
+      "date": "2026-08-25T19:38:24+00:00"
+    },
+    {
       "id": "hn-49439017",
       "source": "hn",
       "title": "FDA authorizes first wearable device that monitors ketone and blood sugar levels",
       "url": "https://www.fda.gov/news-events/press-announcements/fda-authorizes-first-wearable-device-continuously-monitors-both-ketone-levels-and-blood-sugar",
-      "score": 87,
-      "comments": 47,
+      "score": 124,
+      "comments": 80,
       "author": "sunnynagra",
       "tags": [],
       "date": "2026-08-25T19:07:01+00:00"
@@ -64,8 +87,8 @@
       "source": "hn",
       "title": "Dolly Parton has died",
       "url": "https://www.theguardian.com/music/2026/aug/25/dolly-parton-country-singer-dead",
-      "score": 794,
-      "comments": 118,
+      "score": 888,
+      "comments": 127,
       "author": "helsinkiandrew",
       "tags": [],
       "date": "2026-08-25T18:02:22+00:00"
@@ -75,8 +98,8 @@
       "source": "hn",
       "title": "Firefox 157 will include JPEG XL by default on all platforms",
       "url": "https://groups.google.com/a/mozilla.org/g/dev-platform/c/3YMV4MS34KA?pli=1",
-      "score": 161,
-      "comments": 21,
+      "score": 183,
+      "comments": 32,
       "author": "yboris",
       "tags": [],
       "date": "2026-08-25T17:55:23+00:00"
@@ -97,8 +120,8 @@
       "source": "hn",
       "title": "Run OpenBSD on DigitalOcean for $4/month",
       "url": "https://nil.wallyjones.com/run-openbsd-on-digitalocean-for-4month/",
-      "score": 79,
-      "comments": 31,
+      "score": 85,
+      "comments": 33,
       "author": "speckx",
       "tags": [],
       "date": "2026-08-25T17:23:07+00:00"
@@ -119,8 +142,8 @@
       "source": "hn",
       "title": "Nitter project received cease and desist",
       "url": "https://github.com/zedeus/nitter/issues/1442",
-      "score": 357,
-      "comments": 240,
+      "score": 383,
+      "comments": 267,
       "author": "Banditoz",
       "tags": [],
       "date": "2026-08-25T17:08:21+00:00"
@@ -130,8 +153,8 @@
       "source": "hn",
       "title": "Black hole singularity is a surface not a point",
       "url": "https://arxiv.org/abs/2608.21590",
-      "score": 126,
-      "comments": 69,
+      "score": 137,
+      "comments": 87,
       "author": "raattgift",
       "tags": [],
       "date": "2026-08-25T17:02:49+00:00"
@@ -141,8 +164,8 @@
       "source": "hn",
       "title": "A new ceiling for Λ: the de Bruijn–Newman constant",
       "url": "https://www.judegomila.com/posts/riemann-lambda-0.1787854",
-      "score": 39,
-      "comments": 10,
+      "score": 42,
+      "comments": 13,
       "author": "judegomila",
       "tags": [],
       "date": "2026-08-25T16:59:31+00:00"
@@ -163,8 +186,8 @@
       "source": "hn",
       "title": "My Friend Aaron",
       "url": "https://rorz.io/writing/my-friend-aaron",
-      "score": 291,
-      "comments": 69,
+      "score": 335,
+      "comments": 84,
       "author": "sarreph",
       "tags": [],
       "date": "2026-08-25T16:53:33+00:00"
@@ -174,8 +197,8 @@
       "source": "hn",
       "title": "Show HN: LatticeDB – Like SQLite but for graph databases",
       "url": "https://github.com/jeffhajewski/latticedb",
-      "score": 63,
-      "comments": 23,
+      "score": 69,
+      "comments": 25,
       "author": "smiths1999",
       "tags": [],
       "date": "2026-08-25T16:52:05+00:00"
@@ -185,8 +208,8 @@
       "source": "hn",
       "title": "Starbase, LA",
       "url": "https://www.spacex.com/sites/starbase-la",
-      "score": 149,
-      "comments": 200,
+      "score": 164,
+      "comments": 233,
       "author": "bilsbie",
       "tags": [],
       "date": "2026-08-25T16:37:52+00:00"
@@ -196,8 +219,8 @@
       "source": "hn",
       "title": "Tooltips need a delay, and then they need to skip it",
       "url": "https://blog.master.dev/tooltips-need-a-delay-and-then-they-need-to-skip-it/",
-      "score": 64,
-      "comments": 14,
+      "score": 77,
+      "comments": 15,
       "author": "ibobev",
       "tags": [],
       "date": "2026-08-25T16:35:36+00:00"
@@ -207,8 +230,8 @@
       "source": "hn",
       "title": "Fuzzing the Gleam Compiler",
       "url": "https://www.kurz.net/posts/fuzzing-gleam-compiler",
-      "score": 36,
-      "comments": 2,
+      "score": 38,
+      "comments": 3,
       "author": "crowdhailer",
       "tags": [],
       "date": "2026-08-25T16:30:55+00:00"
@@ -251,8 +274,8 @@
       "source": "hn",
       "title": "Show HN: I made a Raspberry with Qwen my local car AI",
       "url": "https://github.com/ThinkOffApp/CarWatch",
-      "score": 49,
-      "comments": 12,
+      "score": 57,
+      "comments": 14,
       "author": "petruspennanen",
       "tags": [],
       "date": "2026-08-25T15:20:20+00:00"
@@ -262,8 +285,8 @@
       "source": "hn",
       "title": "Behaviorally fingerprinting Ox Alpha's provenance",
       "url": "https://www.ctgt.ai/research/behaviorally-fingerprinting-ox-alphas-provenance",
-      "score": 14,
-      "comments": 3,
+      "score": 19,
+      "comments": 8,
       "author": "cgorlla",
       "tags": [],
       "date": "2026-08-25T15:18:22+00:00"
@@ -319,8 +342,8 @@
       "source": "hn",
       "title": "Bomb fishing is wreaking havoc on Indonesia's coral reefs",
       "url": "https://e360.yale.edu/digest/bomb-fishing-coral-reefs",
-      "score": 210,
-      "comments": 115,
+      "score": 217,
+      "comments": 120,
       "author": "speckx",
       "tags": [],
       "date": "2026-08-25T14:29:32+00:00"
@@ -330,8 +353,8 @@
       "source": "hn",
       "title": "Building a backyard office, the build and cost breakdown",
       "url": "https://www.imkylelambert.com/articles/building-a-backyard-office-the-build-and-cost-breakdown",
-      "score": 192,
-      "comments": 150,
+      "score": 207,
+      "comments": 157,
       "author": "surprisetalk",
       "tags": [],
       "date": "2026-08-25T14:20:36+00:00"
@@ -352,8 +375,8 @@
       "source": "hn",
       "title": "OpenAI Jalapeño: Better than Nvidia Blackwell",
       "url": "https://newsletter.semianalysis.com/p/openai-jalapeno-better-than-nvidia",
-      "score": 170,
-      "comments": 115,
+      "score": 192,
+      "comments": 130,
       "author": "bmulholland",
       "tags": [],
       "date": "2026-08-25T14:06:02+00:00"
@@ -374,8 +397,8 @@
       "source": "hn",
       "title": "New Mac mini, featuring M6 and M5 Pro",
       "url": "https://www.apple.com/newsroom/2026/08/apple-unveils-a-more-powerful-mac-mini-featuring-the-all-new-m6-and-m5-pro/",
-      "score": 369,
-      "comments": 203,
+      "score": 379,
+      "comments": 210,
       "author": "runako",
       "tags": [],
       "date": "2026-08-25T13:13:00+00:00"
@@ -396,8 +419,8 @@
       "source": "hn",
       "title": "New Mac Studio with M5 Max and M5 Ultra",
       "url": "https://www.apple.com/newsroom/2026/08/apple-introduces-new-mac-studio-with-m5-max-and-m5-ultra/",
-      "score": 639,
-      "comments": 385,
+      "score": 648,
+      "comments": 396,
       "author": "interpol_p",
       "tags": [],
       "date": "2026-08-25T13:03:17+00:00"
@@ -407,8 +430,8 @@
       "source": "hn",
       "title": "Apple introduces M6 and M5 Ultra",
       "url": "https://www.apple.com/newsroom/2026/08/apple-introduces-m6-and-m5-ultra-for-a-big-leap-in-performance-and-ai-compute/",
-      "score": 816,
-      "comments": 728,
+      "score": 836,
+      "comments": 764,
       "author": "interpol_p",
       "tags": [],
       "date": "2026-08-25T13:01:22+00:00"
@@ -464,7 +487,7 @@
       "source": "hn",
       "title": "Don't Wordle",
       "url": "https://dontwordle.com/",
-      "score": 256,
+      "score": 267,
       "comments": 109,
       "author": "Hbruz0",
       "tags": [],
@@ -1033,8 +1056,8 @@
       "source": "hn",
       "title": "Tracking Costco gas prices",
       "url": "https://www.jack.bio/blog/costco-gas-tracking",
-      "score": 33,
-      "comments": 20,
+      "score": 50,
+      "comments": 46,
       "author": "lafond",
       "tags": [],
       "date": "2026-08-24T17:21:20+00:00"
@@ -5115,30 +5138,6 @@
       "author": "Bluestein",
       "tags": [],
       "date": "2026-08-20T15:26:02+00:00"
-    },
-    {
-      "id": "hn-49375719",
-      "source": "hn",
-      "title": "Anti-AI fonts are useless and harmful",
-      "url": "https://blog.yaros.ae/anti-ai-fonts-are-useless-and-harmful/",
-      "score": 170,
-      "comments": 131,
-      "author": "speckx",
-      "tags": [],
-      "date": "2026-08-20T15:06:53+00:00"
-    },
-    {
-      "id": "qiita-e24487afa1",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "外国人の社会保障をどう設計する？ ― フリーライドを防ぎ、共生と公平を両立する方法 : システム設計視点の行動経済学 (19)",
-      "url": "https://qiita.com/maskot1977/items/b0eee15dea14af7293e0?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "maskot1977",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-08-21T00:02:00+09:00"
     },
     {
       "id": "ctf-4372374",

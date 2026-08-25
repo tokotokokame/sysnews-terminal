@@ -1,14 +1,47 @@
 {
-  "updated_at": "2026-08-25T18:37:29.140104+00:00",
+  "updated_at": "2026-08-25T19:30:48.385537+00:00",
   "count": 500,
   "items": [
+    {
+      "id": "hn-49439017",
+      "source": "hn",
+      "title": "FDA authorizes first wearable device that monitors ketone and blood sugar levels",
+      "url": "https://www.fda.gov/news-events/press-announcements/fda-authorizes-first-wearable-device-continuously-monitors-both-ketone-levels-and-blood-sugar",
+      "score": 16,
+      "comments": 2,
+      "author": "sunnynagra",
+      "tags": [],
+      "date": "2026-08-25T19:07:01+00:00"
+    },
+    {
+      "id": "hn-49438661",
+      "source": "hn",
+      "title": "Dolly Parton Has Died",
+      "url": "https://en.wikipedia.org/wiki/Dolly_Parton",
+      "score": 31,
+      "comments": 3,
+      "author": "ColinWright",
+      "tags": [],
+      "date": "2026-08-25T18:43:22+00:00"
+    },
+    {
+      "id": "hn-49438492",
+      "source": "hn",
+      "title": "Pgbot: A 5.9 MB read-only Postgres tool for humans and agents",
+      "url": "https://pgbot.dev/",
+      "score": 22,
+      "comments": 3,
+      "author": "sashash",
+      "tags": [],
+      "date": "2026-08-25T18:30:57+00:00"
+    },
     {
       "id": "hn-49438052",
       "source": "hn",
       "title": "Dolly Parton has died",
       "url": "https://www.theguardian.com/music/2026/aug/25/dolly-parton-country-singer-dead",
-      "score": 191,
-      "comments": 24,
+      "score": 483,
+      "comments": 75,
       "author": "helsinkiandrew",
       "tags": [],
       "date": "2026-08-25T18:02:22+00:00"
@@ -18,8 +51,8 @@
       "source": "hn",
       "title": "Firefox 157 will include JPEG XL by default on all platforms",
       "url": "https://groups.google.com/a/mozilla.org/g/dev-platform/c/3YMV4MS34KA?pli=1",
-      "score": 25,
-      "comments": 2,
+      "score": 83,
+      "comments": 10,
       "author": "yboris",
       "tags": [],
       "date": "2026-08-25T17:55:23+00:00"
@@ -40,8 +73,8 @@
       "source": "hn",
       "title": "Run OpenBSD on DigitalOcean for $4/month",
       "url": "https://nil.wallyjones.com/run-openbsd-on-digitalocean-for-4month/",
-      "score": 22,
-      "comments": 7,
+      "score": 48,
+      "comments": 18,
       "author": "speckx",
       "tags": [],
       "date": "2026-08-25T17:23:07+00:00"
@@ -62,8 +95,8 @@
       "source": "hn",
       "title": "Nitter project received cease and desist",
       "url": "https://github.com/zedeus/nitter/issues/1442",
-      "score": 189,
-      "comments": 123,
+      "score": 258,
+      "comments": 179,
       "author": "Banditoz",
       "tags": [],
       "date": "2026-08-25T17:08:21+00:00"
@@ -73,8 +106,8 @@
       "source": "hn",
       "title": "Black hole singularity is a surface not a point",
       "url": "https://arxiv.org/abs/2608.21590",
-      "score": 58,
-      "comments": 22,
+      "score": 89,
+      "comments": 39,
       "author": "raattgift",
       "tags": [],
       "date": "2026-08-25T17:02:49+00:00"
@@ -84,8 +117,8 @@
       "source": "hn",
       "title": "A new ceiling for Λ: the de Bruijn–Newman constant",
       "url": "https://www.judegomila.com/posts/riemann-lambda-0.1787854",
-      "score": 24,
-      "comments": 3,
+      "score": 31,
+      "comments": 4,
       "author": "judegomila",
       "tags": [],
       "date": "2026-08-25T16:59:31+00:00"
@@ -106,8 +139,8 @@
       "source": "hn",
       "title": "My Friend Aaron",
       "url": "https://rorz.io/writing/my-friend-aaron",
-      "score": 92,
-      "comments": 18,
+      "score": 175,
+      "comments": 40,
       "author": "sarreph",
       "tags": [],
       "date": "2026-08-25T16:53:33+00:00"
@@ -117,8 +150,8 @@
       "source": "hn",
       "title": "Show HN: LatticeDB – Like SQLite but for graph databases",
       "url": "https://github.com/jeffhajewski/latticedb",
-      "score": 30,
-      "comments": 5,
+      "score": 45,
+      "comments": 12,
       "author": "smiths1999",
       "tags": [],
       "date": "2026-08-25T16:52:05+00:00"
@@ -128,8 +161,8 @@
       "source": "hn",
       "title": "Starbase, LA",
       "url": "https://www.spacex.com/sites/starbase-la",
-      "score": 73,
-      "comments": 69,
+      "score": 102,
+      "comments": 116,
       "author": "bilsbie",
       "tags": [],
       "date": "2026-08-25T16:37:52+00:00"
@@ -139,8 +172,8 @@
       "source": "hn",
       "title": "Tooltips need a delay, and then they need to skip it",
       "url": "https://blog.master.dev/tooltips-need-a-delay-and-then-they-need-to-skip-it/",
-      "score": 33,
-      "comments": 6,
+      "score": 52,
+      "comments": 10,
       "author": "ibobev",
       "tags": [],
       "date": "2026-08-25T16:35:36+00:00"
@@ -150,7 +183,7 @@
       "source": "hn",
       "title": "Fuzzing the Gleam Compiler",
       "url": "https://www.kurz.net/posts/fuzzing-gleam-compiler",
-      "score": 16,
+      "score": 23,
       "comments": 1,
       "author": "crowdhailer",
       "tags": [],
@@ -190,6 +223,28 @@
       "date": "2026-08-25T15:23:41+00:00"
     },
     {
+      "id": "hn-49435675",
+      "source": "hn",
+      "title": "Show HN: I made a Raspberry with Qwen my local car AI",
+      "url": "https://github.com/ThinkOffApp/CarWatch",
+      "score": 14,
+      "comments": 1,
+      "author": "petruspennanen",
+      "tags": [],
+      "date": "2026-08-25T15:20:20+00:00"
+    },
+    {
+      "id": "hn-49435641",
+      "source": "hn",
+      "title": "Behaviorally fingerprinting Ox Alpha's provenance",
+      "url": "https://www.ctgt.ai/research/behaviorally-fingerprinting-ox-alphas-provenance",
+      "score": 6,
+      "comments": 1,
+      "author": "cgorlla",
+      "tags": [],
+      "date": "2026-08-25T15:18:22+00:00"
+    },
+    {
       "id": "hn-49435495",
       "source": "hn",
       "title": "Otto Dix, Nietzsche, and the Great War (2019)",
@@ -227,8 +282,8 @@
       "source": "hn",
       "title": "Bomb fishing is wreaking havoc on Indonesia's coral reefs",
       "url": "https://e360.yale.edu/digest/bomb-fishing-coral-reefs",
-      "score": 169,
-      "comments": 106,
+      "score": 182,
+      "comments": 111,
       "author": "speckx",
       "tags": [],
       "date": "2026-08-25T14:29:32+00:00"
@@ -238,8 +293,8 @@
       "source": "hn",
       "title": "Building a backyard office, the build and cost breakdown",
       "url": "https://www.imkylelambert.com/articles/building-a-backyard-office-the-build-and-cost-breakdown",
-      "score": 152,
-      "comments": 114,
+      "score": 167,
+      "comments": 139,
       "author": "surprisetalk",
       "tags": [],
       "date": "2026-08-25T14:20:36+00:00"
@@ -260,8 +315,8 @@
       "source": "hn",
       "title": "OpenAI Jalapeño: Better than Nvidia Blackwell",
       "url": "https://newsletter.semianalysis.com/p/openai-jalapeno-better-than-nvidia",
-      "score": 40,
-      "comments": 1,
+      "score": 113,
+      "comments": 53,
       "author": "bmulholland",
       "tags": [],
       "date": "2026-08-25T14:06:02+00:00"
@@ -282,8 +337,8 @@
       "source": "hn",
       "title": "New Mac mini, featuring M6 and M5 Pro",
       "url": "https://www.apple.com/newsroom/2026/08/apple-unveils-a-more-powerful-mac-mini-featuring-the-all-new-m6-and-m5-pro/",
-      "score": 316,
-      "comments": 165,
+      "score": 341,
+      "comments": 177,
       "author": "runako",
       "tags": [],
       "date": "2026-08-25T13:13:00+00:00"
@@ -304,8 +359,8 @@
       "source": "hn",
       "title": "New Mac Studio with M5 Max and M5 Ultra",
       "url": "https://www.apple.com/newsroom/2026/08/apple-introduces-new-mac-studio-with-m5-max-and-m5-ultra/",
-      "score": 562,
-      "comments": 331,
+      "score": 606,
+      "comments": 358,
       "author": "interpol_p",
       "tags": [],
       "date": "2026-08-25T13:03:17+00:00"
@@ -315,8 +370,8 @@
       "source": "hn",
       "title": "Apple introduces M6 and M5 Ultra",
       "url": "https://www.apple.com/newsroom/2026/08/apple-introduces-m6-and-m5-ultra-for-a-big-leap-in-performance-and-ai-compute/",
-      "score": 685,
-      "comments": 560,
+      "score": 751,
+      "comments": 622,
       "author": "interpol_p",
       "tags": [],
       "date": "2026-08-25T13:01:22+00:00"
@@ -372,8 +427,8 @@
       "source": "hn",
       "title": "Don't Wordle",
       "url": "https://dontwordle.com/",
-      "score": 240,
-      "comments": 99,
+      "score": 249,
+      "comments": 105,
       "author": "Hbruz0",
       "tags": [],
       "date": "2026-08-25T11:49:48+00:00"
@@ -870,6 +925,17 @@
       "author": "qainsights",
       "tags": [],
       "date": "2026-08-24T17:23:22+00:00"
+    },
+    {
+      "id": "hn-49423045",
+      "source": "hn",
+      "title": "Tracking Costco gas prices",
+      "url": "https://www.jack.bio/blog/costco-gas-tracking",
+      "score": 33,
+      "comments": 20,
+      "author": "lafond",
+      "tags": [],
+      "date": "2026-08-24T17:21:20+00:00"
     },
     {
       "id": "hn-49422800",
@@ -5056,72 +5122,6 @@
       "author": "eatonphil",
       "tags": [],
       "date": "2026-08-20T14:04:46+00:00"
-    },
-    {
-      "id": "hn-49374729",
-      "source": "hn",
-      "title": "Guess which of these LLM outputs is watermarked",
-      "url": "https://sgoedecke.github.io/watermark-quiz/",
-      "score": 57,
-      "comments": 54,
-      "author": "gfysfm",
-      "tags": [],
-      "date": "2026-08-20T14:03:58+00:00"
-    },
-    {
-      "id": "hn-49374635",
-      "source": "hn",
-      "title": "Every Model Cheats",
-      "url": "https://dreadnode.io/research/every-model-cheats-prompt-level-mitigation-of-cheating-on-offensive-cyber-tasks/",
-      "score": 73,
-      "comments": 55,
-      "author": "vga805",
-      "tags": [],
-      "date": "2026-08-20T13:56:59+00:00"
-    },
-    {
-      "id": "hn-49374503",
-      "source": "hn",
-      "title": "CI jobs artifacts should not be difficult",
-      "url": "https://deadsimpleci.sparrowhub.io/doc/job-artifacts",
-      "score": 4,
-      "comments": 2,
-      "author": "melezhik",
-      "tags": [],
-      "date": "2026-08-20T13:44:27+00:00"
-    },
-    {
-      "id": "hn-49374437",
-      "source": "hn",
-      "title": "I Spent Twenty Years Becoming Good at the Wrong Game",
-      "url": "https://savvynormie.com/i-spent-twenty-years-becoming-good-at-the-wrong-game/",
-      "score": 21,
-      "comments": 23,
-      "author": "speckx",
-      "tags": [],
-      "date": "2026-08-20T13:39:18+00:00"
-    },
-    {
-      "id": "hn-49374287",
-      "source": "hn",
-      "title": "DiffusionGemma Technical Report",
-      "url": "https://arxiv.org/abs/2608.00146",
-      "score": 120,
-      "comments": 28,
-      "author": "gmays",
-      "tags": [],
-      "date": "2026-08-20T13:24:32+00:00"
-    },
-    {
-      "id": "hn-49374269",
-      "source": "hn",
-      "title": "Malicious Rust crate Arrayref runs a build-time payload",
-      "url": "https://safedep.io/arrayref-proc-macro1-rust-build-time-malware/",
-      "score": 523,
-      "comments": 458,
-      "author": "abhisek",
-      "tags": [],
-      "date": "2026-08-20T13:23:12+00:00"
     },
     {
       "id": "ctf-4372374",

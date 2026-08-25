@@ -1,14 +1,38 @@
 {
-  "updated_at": "2026-08-25T19:30:48.385537+00:00",
+  "updated_at": "2026-08-25T20:27:29.200349+00:00",
   "count": 500,
   "items": [
+    {
+      "id": "qiita-45168cf0db",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "Google Antigravity for Visual Studio Code in GitHub Codespacesが便利すぎる件【サンドボックス / 脱GitHub Copilot】",
+      "url": "https://qiita.com/yangguofu/items/ae3e9f9f0f5a4515f276?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "yangguofu",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-08-26T04:48:31+09:00"
+    },
+    {
+      "id": "hn-49439535",
+      "source": "hn",
+      "title": "Perplexity Portable Computer",
+      "url": "https://www.perplexity.ai/hub/blog/introducing-portable-computer-for-local-first-ai",
+      "score": 10,
+      "comments": 1,
+      "author": "kristianpaul",
+      "tags": [],
+      "date": "2026-08-25T19:41:48+00:00"
+    },
     {
       "id": "hn-49439017",
       "source": "hn",
       "title": "FDA authorizes first wearable device that monitors ketone and blood sugar levels",
       "url": "https://www.fda.gov/news-events/press-announcements/fda-authorizes-first-wearable-device-continuously-monitors-both-ketone-levels-and-blood-sugar",
-      "score": 16,
-      "comments": 2,
+      "score": 51,
+      "comments": 26,
       "author": "sunnynagra",
       "tags": [],
       "date": "2026-08-25T19:07:01+00:00"
@@ -29,8 +53,8 @@
       "source": "hn",
       "title": "Pgbot: A 5.9 MB read-only Postgres tool for humans and agents",
       "url": "https://pgbot.dev/",
-      "score": 22,
-      "comments": 3,
+      "score": 44,
+      "comments": 10,
       "author": "sashash",
       "tags": [],
       "date": "2026-08-25T18:30:57+00:00"
@@ -40,8 +64,8 @@
       "source": "hn",
       "title": "Dolly Parton has died",
       "url": "https://www.theguardian.com/music/2026/aug/25/dolly-parton-country-singer-dead",
-      "score": 483,
-      "comments": 75,
+      "score": 694,
+      "comments": 103,
       "author": "helsinkiandrew",
       "tags": [],
       "date": "2026-08-25T18:02:22+00:00"
@@ -51,8 +75,8 @@
       "source": "hn",
       "title": "Firefox 157 will include JPEG XL by default on all platforms",
       "url": "https://groups.google.com/a/mozilla.org/g/dev-platform/c/3YMV4MS34KA?pli=1",
-      "score": 83,
-      "comments": 10,
+      "score": 136,
+      "comments": 17,
       "author": "yboris",
       "tags": [],
       "date": "2026-08-25T17:55:23+00:00"
@@ -73,8 +97,8 @@
       "source": "hn",
       "title": "Run OpenBSD on DigitalOcean for $4/month",
       "url": "https://nil.wallyjones.com/run-openbsd-on-digitalocean-for-4month/",
-      "score": 48,
-      "comments": 18,
+      "score": 70,
+      "comments": 27,
       "author": "speckx",
       "tags": [],
       "date": "2026-08-25T17:23:07+00:00"
@@ -82,10 +106,10 @@
     {
       "id": "hn-49437361",
       "source": "hn",
-      "title": "Lightweight system monitor for Linux VPS written in Go",
+      "title": "Show HN: Lightweight system monitor for Linux VPS written in Go",
       "url": "https://github.com/leodeim/vpsmon",
-      "score": 16,
-      "comments": 7,
+      "score": 27,
+      "comments": 9,
       "author": "ygagaga",
       "tags": [],
       "date": "2026-08-25T17:13:59+00:00"
@@ -95,8 +119,8 @@
       "source": "hn",
       "title": "Nitter project received cease and desist",
       "url": "https://github.com/zedeus/nitter/issues/1442",
-      "score": 258,
-      "comments": 179,
+      "score": 321,
+      "comments": 220,
       "author": "Banditoz",
       "tags": [],
       "date": "2026-08-25T17:08:21+00:00"
@@ -106,8 +130,8 @@
       "source": "hn",
       "title": "Black hole singularity is a surface not a point",
       "url": "https://arxiv.org/abs/2608.21590",
-      "score": 89,
-      "comments": 39,
+      "score": 111,
+      "comments": 60,
       "author": "raattgift",
       "tags": [],
       "date": "2026-08-25T17:02:49+00:00"
@@ -117,8 +141,8 @@
       "source": "hn",
       "title": "A new ceiling for Λ: the de Bruijn–Newman constant",
       "url": "https://www.judegomila.com/posts/riemann-lambda-0.1787854",
-      "score": 31,
-      "comments": 4,
+      "score": 37,
+      "comments": 6,
       "author": "judegomila",
       "tags": [],
       "date": "2026-08-25T16:59:31+00:00"
@@ -139,8 +163,8 @@
       "source": "hn",
       "title": "My Friend Aaron",
       "url": "https://rorz.io/writing/my-friend-aaron",
-      "score": 175,
-      "comments": 40,
+      "score": 253,
+      "comments": 64,
       "author": "sarreph",
       "tags": [],
       "date": "2026-08-25T16:53:33+00:00"
@@ -150,8 +174,8 @@
       "source": "hn",
       "title": "Show HN: LatticeDB – Like SQLite but for graph databases",
       "url": "https://github.com/jeffhajewski/latticedb",
-      "score": 45,
-      "comments": 12,
+      "score": 59,
+      "comments": 18,
       "author": "smiths1999",
       "tags": [],
       "date": "2026-08-25T16:52:05+00:00"
@@ -161,8 +185,8 @@
       "source": "hn",
       "title": "Starbase, LA",
       "url": "https://www.spacex.com/sites/starbase-la",
-      "score": 102,
-      "comments": 116,
+      "score": 135,
+      "comments": 166,
       "author": "bilsbie",
       "tags": [],
       "date": "2026-08-25T16:37:52+00:00"
@@ -172,8 +196,8 @@
       "source": "hn",
       "title": "Tooltips need a delay, and then they need to skip it",
       "url": "https://blog.master.dev/tooltips-need-a-delay-and-then-they-need-to-skip-it/",
-      "score": 52,
-      "comments": 10,
+      "score": 58,
+      "comments": 14,
       "author": "ibobev",
       "tags": [],
       "date": "2026-08-25T16:35:36+00:00"
@@ -183,7 +207,7 @@
       "source": "hn",
       "title": "Fuzzing the Gleam Compiler",
       "url": "https://www.kurz.net/posts/fuzzing-gleam-compiler",
-      "score": 23,
+      "score": 30,
       "comments": 1,
       "author": "crowdhailer",
       "tags": [],
@@ -227,8 +251,8 @@
       "source": "hn",
       "title": "Show HN: I made a Raspberry with Qwen my local car AI",
       "url": "https://github.com/ThinkOffApp/CarWatch",
-      "score": 14,
-      "comments": 1,
+      "score": 36,
+      "comments": 9,
       "author": "petruspennanen",
       "tags": [],
       "date": "2026-08-25T15:20:20+00:00"
@@ -254,6 +278,19 @@
       "author": "samizdis",
       "tags": [],
       "date": "2026-08-25T15:09:20+00:00"
+    },
+    {
+      "id": "qiita-f43199d197",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "「両方にAPIがあれば繋がる」は本当か調べてみた｜純正連携・iPaaS とデータ変換の話",
+      "url": "https://qiita.com/songchong/items/0788ebd25ea6400df81e?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "songchong",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-08-26T00:02:21+09:00"
     },
     {
       "id": "hn-49435147",
@@ -282,8 +319,8 @@
       "source": "hn",
       "title": "Bomb fishing is wreaking havoc on Indonesia's coral reefs",
       "url": "https://e360.yale.edu/digest/bomb-fishing-coral-reefs",
-      "score": 182,
-      "comments": 111,
+      "score": 198,
+      "comments": 113,
       "author": "speckx",
       "tags": [],
       "date": "2026-08-25T14:29:32+00:00"
@@ -293,8 +330,8 @@
       "source": "hn",
       "title": "Building a backyard office, the build and cost breakdown",
       "url": "https://www.imkylelambert.com/articles/building-a-backyard-office-the-build-and-cost-breakdown",
-      "score": 167,
-      "comments": 139,
+      "score": 185,
+      "comments": 143,
       "author": "surprisetalk",
       "tags": [],
       "date": "2026-08-25T14:20:36+00:00"
@@ -315,8 +352,8 @@
       "source": "hn",
       "title": "OpenAI Jalapeño: Better than Nvidia Blackwell",
       "url": "https://newsletter.semianalysis.com/p/openai-jalapeno-better-than-nvidia",
-      "score": 113,
-      "comments": 53,
+      "score": 159,
+      "comments": 105,
       "author": "bmulholland",
       "tags": [],
       "date": "2026-08-25T14:06:02+00:00"
@@ -337,8 +374,8 @@
       "source": "hn",
       "title": "New Mac mini, featuring M6 and M5 Pro",
       "url": "https://www.apple.com/newsroom/2026/08/apple-unveils-a-more-powerful-mac-mini-featuring-the-all-new-m6-and-m5-pro/",
-      "score": 341,
-      "comments": 177,
+      "score": 356,
+      "comments": 192,
       "author": "runako",
       "tags": [],
       "date": "2026-08-25T13:13:00+00:00"
@@ -359,8 +396,8 @@
       "source": "hn",
       "title": "New Mac Studio with M5 Max and M5 Ultra",
       "url": "https://www.apple.com/newsroom/2026/08/apple-introduces-new-mac-studio-with-m5-max-and-m5-ultra/",
-      "score": 606,
-      "comments": 358,
+      "score": 627,
+      "comments": 377,
       "author": "interpol_p",
       "tags": [],
       "date": "2026-08-25T13:03:17+00:00"
@@ -370,8 +407,8 @@
       "source": "hn",
       "title": "Apple introduces M6 and M5 Ultra",
       "url": "https://www.apple.com/newsroom/2026/08/apple-introduces-m6-and-m5-ultra-for-a-big-leap-in-performance-and-ai-compute/",
-      "score": 751,
-      "comments": 622,
+      "score": 794,
+      "comments": 699,
       "author": "interpol_p",
       "tags": [],
       "date": "2026-08-25T13:01:22+00:00"
@@ -427,8 +464,8 @@
       "source": "hn",
       "title": "Don't Wordle",
       "url": "https://dontwordle.com/",
-      "score": 249,
-      "comments": 105,
+      "score": 254,
+      "comments": 109,
       "author": "Hbruz0",
       "tags": [],
       "date": "2026-08-25T11:49:48+00:00"
@@ -526,6 +563,45 @@
       "date": "2026-08-25T09:17:33+00:00"
     },
     {
+      "id": "qiita-a4457debcd",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "プロも毎日ググっている。エラーで固まらないための「検索力」の話",
+      "url": "https://qiita.com/m__ikeda/items/5da484e533d0d574045d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "m__ikeda",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-08-25T17:08:11+09:00"
+    },
+    {
+      "id": "qiita-d333352c1b",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "文系上司が知りたいのは「仕組み」ではなく、「どう影響するか」のことが多い",
+      "url": "https://qiita.com/sumomoo/items/4912f4efa2e2a5cd49d5?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "sumomoo",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-08-25T17:06:49+09:00"
+    },
+    {
+      "id": "qiita-adfcabad88",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "新人エンジニア、先輩ごとに言う内容が違って「何が正解かわからない」",
+      "url": "https://qiita.com/prumnn/items/001b49e080f580aea96b?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "prumnn",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-08-25T17:04:59+09:00"
+    },
+    {
       "id": "hn-49430007",
       "source": "hn",
       "title": "Windows 95 released August 24, 1995",
@@ -579,6 +655,19 @@
       "author": "lbw1215",
       "tags": [],
       "date": "2026-08-25T03:54:19+00:00"
+    },
+    {
+      "id": "qiita-87166b2c44",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "「テスト自動化したいけど、何から始める？」を手探りで進めた記録",
+      "url": "https://qiita.com/yo-hirota-gxp/items/5f10aa17a4851eba222b?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "yo-hirota-gxp",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-08-25T12:18:21+09:00"
     },
     {
       "id": "hn-49428638",
@@ -714,6 +803,19 @@
         "Qiita"
       ],
       "date": "2026-08-25T08:59:39+09:00"
+    },
+    {
+      "id": "qiita-9b6974dc3e",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "【AgentCore】Runtime の命名で混乱したのでルールを整理する",
+      "url": "https://qiita.com/ryu-ki/items/d345d6ce05f0e5d9436a?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "ryu-ki",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-08-25T08:27:12+09:00"
     },
     {
       "id": "hn-49427001",
@@ -854,8 +956,8 @@
       "source": "hn",
       "title": "Visualizing Binary Files",
       "url": "https://movq.de/blog/postings/2026-08-05/0/POSTING-en.html",
-      "score": 27,
-      "comments": 9,
+      "score": 45,
+      "comments": 12,
       "author": "zdw",
       "tags": [],
       "date": "2026-08-24T18:21:17+00:00"
@@ -1307,6 +1409,19 @@
       "date": "2026-08-24T13:05:25+00:00"
     },
     {
+      "id": "qiita-d0a40f744a",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "AIエージェント初心者がポケカの知識を使ってルールベースAIを改善してみた",
+      "url": "https://qiita.com/taku_life/items/9c0afb8d6bbea534f7dc?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "taku_life",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-08-24T20:59:37+09:00"
+    },
+    {
       "id": "hn-49418449",
       "source": "hn",
       "title": "Anthropic candidates face blunt money question",
@@ -1316,6 +1431,19 @@
       "author": "samizdis",
       "tags": [],
       "date": "2026-08-24T11:55:46+00:00"
+    },
+    {
+      "id": "qiita-85ab9f0028",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "【JavaScript】Promise.all()をハッシュで受け取れるようになる",
+      "url": "https://qiita.com/rana_kualu/items/99daf86aff272a9671fc?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "rana_kualu",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-08-24T20:49:35+09:00"
     },
     {
       "id": "hn-49418255",
@@ -1651,6 +1779,19 @@
       "date": "2026-08-24T04:47:14+00:00"
     },
     {
+      "id": "qiita-d9c847b810",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "AIで一人でゲームを作れるか試したら、35日・実質8人日でApp Store審査まで行った",
+      "url": "https://qiita.com/notfolder/items/a56620e85ac40248f55f?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "notfolder",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-08-24T13:46:13+09:00"
+    },
+    {
       "id": "qiita-f6e947980c",
       "source": "zennqiita",
       "sub_source": "Qiita",
@@ -1791,6 +1932,19 @@
       "author": "pantelisk",
       "tags": [],
       "date": "2026-08-23T23:18:17+00:00"
+    },
+    {
+      "id": "qiita-1c93e9600f",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "AI時代だからこそ、ソフトウェア開発の体系的な理解が必要になる。「動くコード」と「正しいソフトウェア」を分ける7つの観点",
+      "url": "https://qiita.com/nogataka/items/272a9020c2d7da0d3373?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "nogataka",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-08-24T08:00:00+09:00"
     },
     {
       "id": "hn-49413320",
@@ -4985,143 +5139,6 @@
         "Qiita"
       ],
       "date": "2026-08-21T00:02:00+09:00"
-    },
-    {
-      "id": "qiita-7c922541d6",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "プロンプトインジェクションの「その後」を設計する — エージェントフレームワークの信頼境界",
-      "url": "https://qiita.com/ryoji9702/items/4e14d1976bd0eb3f815c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "ryoji9702",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-08-20T23:43:22+09:00"
-    },
-    {
-      "id": "hn-49375244",
-      "source": "hn",
-      "title": "Show HN: Open-source Stripe Connect alternative",
-      "url": "https://zoneless.com",
-      "score": 47,
-      "comments": 19,
-      "author": "tinyprojects",
-      "tags": [],
-      "date": "2026-08-20T14:38:45+00:00",
-      "severity": "critical"
-    },
-    {
-      "id": "hn-49375237",
-      "source": "hn",
-      "title": "Show HN: Check if any of the $656M in unclaimed royalties at The MLC is yours",
-      "url": "https://pub.doub.ly/",
-      "score": 40,
-      "comments": 22,
-      "author": "knaught",
-      "tags": [],
-      "date": "2026-08-20T14:38:28+00:00"
-    },
-    {
-      "id": "hn-49375176",
-      "source": "hn",
-      "title": "ProgramBench Vetted: Reverse Engineering from a Runnable Binary",
-      "url": "https://vetto.ai/companies/programbench-vetted.html",
-      "score": 27,
-      "comments": 1,
-      "author": "rigelbm",
-      "tags": [],
-      "date": "2026-08-20T14:35:08+00:00"
-    },
-    {
-      "id": "hn-49374965",
-      "source": "hn",
-      "title": "Slack Code",
-      "url": "https://www.salesforce.com/introducing-slack-code/?bc=HL",
-      "score": 37,
-      "comments": 41,
-      "author": "trollied",
-      "tags": [],
-      "date": "2026-08-20T14:21:25+00:00"
-    },
-    {
-      "id": "qiita-1641f52533",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "「Microsoft 365はバックアップしてくれている」は誤解。標準機能の限界とMicrosoft 365バックアップを整理してみた",
-      "url": "https://qiita.com/itbibouroku/items/00274409872c495eca5f?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "itbibouroku",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-08-20T23:16:40+09:00"
-    },
-    {
-      "id": "hn-49374873",
-      "source": "hn",
-      "title": "An elliptic curve of rank ≥ 30",
-      "url": "https://elliptic-rank.icarm.cloud/curve/273",
-      "score": 66,
-      "comments": 20,
-      "author": "robinhouston",
-      "tags": [],
-      "date": "2026-08-20T14:14:39+00:00"
-    },
-    {
-      "id": "hn-49374853",
-      "source": "hn",
-      "title": "A look under our trunk: what's in our compute",
-      "url": "https://waymo.com/blog/2026/08/look-under-our-trunk/",
-      "score": 117,
-      "comments": 63,
-      "author": "ra7",
-      "tags": [],
-      "date": "2026-08-20T14:13:45+00:00"
-    },
-    {
-      "id": "hn-49374830",
-      "source": "hn",
-      "title": "Show HN: Omacosy – Omarchy-style tiling desktop for macOS, no SIP",
-      "url": "https://github.com/paulsp94/omacosy",
-      "score": 26,
-      "comments": 18,
-      "author": "paulsp",
-      "tags": [],
-      "date": "2026-08-20T14:12:08+00:00"
-    },
-    {
-      "id": "hn-49374797",
-      "source": "hn",
-      "title": "Bun 1.4",
-      "url": "https://bun.com/blog/bun-v1.4",
-      "score": 133,
-      "comments": 62,
-      "author": "meetpateltech",
-      "tags": [],
-      "date": "2026-08-20T14:10:12+00:00"
-    },
-    {
-      "id": "hn-49374772",
-      "source": "hn",
-      "title": "Hacking with Claude on a $27 smart watch",
-      "url": "https://www.mikekasberg.com/blog/2026/08/19/hacking-with-claude-on-a-27-smart-watch.html",
-      "score": 78,
-      "comments": 43,
-      "author": "speckx",
-      "tags": [],
-      "date": "2026-08-20T14:08:09+00:00"
-    },
-    {
-      "id": "hn-49374738",
-      "source": "hn",
-      "title": "Stwipe Acquires OpenWouter",
-      "url": "https://stwipe.com/",
-      "score": 14,
-      "comments": 1,
-      "author": "eatonphil",
-      "tags": [],
-      "date": "2026-08-20T14:04:46+00:00"
     },
     {
       "id": "ctf-4372374",

@@ -1,28 +1,76 @@
 {
-  "updated_at": "2026-08-26T07:44:32.833384+00:00",
+  "updated_at": "2026-08-26T08:41:31.863561+00:00",
   "count": 500,
   "items": [
+    {
+      "id": "hn-49445362",
+      "source": "hn",
+      "title": "US removes Syria from terrorism sponsor list, lifting major investment obstacle",
+      "url": "https://www.reuters.com/world/middle-east/us-removes-syrias-designation-state-sponsor-terrorism-2026-08-24/",
+      "score": 7,
+      "comments": 1,
+      "author": "imadj",
+      "tags": [],
+      "date": "2026-08-26T07:46:36+00:00"
+    },
+    {
+      "id": "hn-49445252",
+      "source": "hn",
+      "title": "Disrupting a new covert influence campaign from Russia",
+      "url": "https://openai.com/index/disrupting-malicious-uses-of-ai-influence-campaign-russia/",
+      "score": 24,
+      "comments": 8,
+      "author": "sam_lowry_",
+      "tags": [],
+      "date": "2026-08-26T07:31:31+00:00"
+    },
     {
       "id": "hn-49444514",
       "source": "hn",
       "title": "More than half of adults in U.S. say they lack basic statistical understanding",
       "url": "https://www.psu.edu/news/research/story/more-half-adults-us-say-they-lack-basic-statistical-understanding",
-      "score": 63,
-      "comments": 87,
+      "score": 77,
+      "comments": 112,
       "author": "giuliomagnifico",
       "tags": [],
       "date": "2026-08-26T05:49:20+00:00"
+    },
+    {
+      "id": "qiita-a0e9753899",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "Autonomous AI Lakehouse × Private Agent Factoryで音楽フェス運営分析 AI Agentを作ってみてみた",
+      "url": "https://qiita.com/shirok/items/ad6a82f1cfe0ebc72f43?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "shirok",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-08-26T14:20:58+09:00"
     },
     {
       "id": "hn-49444232",
       "source": "hn",
       "title": "Harvest (IBM 7950): Supercomputer for cryptanalysis at the NSA in the Cold War",
       "url": "https://spectrum.ieee.org/cold-war-codebreaker-nsa-ibm",
-      "score": 19,
-      "comments": 5,
+      "score": 32,
+      "comments": 9,
       "author": "jnord",
       "tags": [],
       "date": "2026-08-26T05:09:07+00:00"
+    },
+    {
+      "id": "qiita-e0334e1ab8",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "mysqldump のダンプをPIIマスクしつつ高速ロードしよう 〜 AIに複雑なツールを作らせる",
+      "url": "https://qiita.com/ssc-ksaitou/items/14068dd23e636387b9f6?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "ssc-ksaitou",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-08-26T13:39:14+09:00"
     },
     {
       "id": "qiita-45168cf0db",
@@ -36,6 +84,19 @@
         "Qiita"
       ],
       "date": "2026-08-26T13:00:14+09:00"
+    },
+    {
+      "id": "qiita-7f80f469dd",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "Vimのコマンドを丸暗記しないために、オペレータとモーションで整理してみた",
+      "url": "https://qiita.com/AkiraTakasaki/items/44c6f3b78a6a1dce0d57?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "AkiraTakasaki",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-08-26T12:28:11+09:00"
     },
     {
       "id": "hn-49443871",
@@ -53,11 +114,24 @@
       "source": "hn",
       "title": "Agentic Context Management: Memory and Cost as Architecture Problems",
       "url": "https://arxiv.org/abs/2607.21503",
-      "score": 39,
-      "comments": 14,
+      "score": 49,
+      "comments": 16,
       "author": "gdad",
       "tags": [],
       "date": "2026-08-26T02:35:25+00:00"
+    },
+    {
+      "id": "qiita-4e6aed44b3",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "【AWS】複数人でリアルタイム描画できるお絵描きアプリを作ってみた",
+      "url": "https://qiita.com/KyosukeTakahagi/items/936906d276fbba11ba02?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "KyosukeTakahagi",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-08-26T11:24:07+09:00"
     },
     {
       "id": "hn-49443331",
@@ -71,23 +145,62 @@
       "date": "2026-08-26T02:09:12+00:00"
     },
     {
+      "id": "qiita-2bf209b6e3",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "量子耐性の鍵は「暗号を選び直せること」〜Account Abstractionの役割と運用設計〜",
+      "url": "https://qiita.com/can-can/items/311622a5fc6ab82dbfcb?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "can-can",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-08-26T10:38:16+09:00"
+    },
+    {
+      "id": "qiita-180dddf086",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "分散DBってなんだっけ、レプリケーション・シャーディング・分散SQLの解像度をあげたい人のメモ",
+      "url": "https://qiita.com/mo__mo/items/c2206fac86176f3f83de?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "mo__mo",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-08-26T10:32:14+09:00"
+    },
+    {
       "id": "hn-49442589",
       "source": "hn",
       "title": "Queryable Executables",
       "url": "https://fzakaria.com/2026/08/24/actually-queryable-executables",
-      "score": 136,
-      "comments": 23,
+      "score": 166,
+      "comments": 35,
       "author": "rguiscard",
       "tags": [],
       "date": "2026-08-26T00:20:49+00:00"
+    },
+    {
+      "id": "qiita-3b5be55a74",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "AIの思考ログは、暗号化されているから安全ではなかった",
+      "url": "https://qiita.com/jqit_suwa/items/92a59e7a464fac9731da?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "jqit_suwa",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-08-26T08:52:06+09:00"
     },
     {
       "id": "hn-49441666",
       "source": "hn",
       "title": "Maiao: Gerrit-style code review workflow for GitHub, GitLab, Gitea, others",
       "url": "https://github.com/runetes/maiao",
-      "score": 70,
-      "comments": 36,
+      "score": 77,
+      "comments": 43,
       "author": "zdw",
       "tags": [],
       "date": "2026-08-25T22:40:07+00:00"
@@ -97,11 +210,24 @@
       "source": "hn",
       "title": "Show HN: TeXbrain, a LaTeX editor that runs pdfTeX in the browser via WASM",
       "url": "https://github.com/swimmingbrain/texbrain",
-      "score": 84,
-      "comments": 16,
+      "score": 92,
+      "comments": 20,
       "author": "swimmingbrain",
       "tags": [],
       "date": "2026-08-25T22:08:50+00:00"
+    },
+    {
+      "id": "qiita-de719c009a",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "耳で聞く！Python で学ぶ マクロ経済学 入門 3",
+      "url": "https://qiita.com/maskot1977/items/5082e3a42ee71f55ffb1?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "maskot1977",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-08-26T06:50:16+09:00"
     },
     {
       "id": "hn-49441101",
@@ -130,8 +256,8 @@
       "source": "hn",
       "title": "When str.lower() is a security vulnerability in Python",
       "url": "https://sethmlarson.dev/when-str-lower-is-a-security-vulnerability",
-      "score": 107,
-      "comments": 46,
+      "score": 117,
+      "comments": 47,
       "author": "rbanffy",
       "tags": [],
       "date": "2026-08-25T20:49:03+00:00",
@@ -153,8 +279,8 @@
       "source": "hn",
       "title": "C2PA Cameras Do Not Survive Contact with Reality",
       "url": "https://www.da.vidbuchanan.co.uk/blog/android-c2pa.html",
-      "score": 138,
-      "comments": 80,
+      "score": 145,
+      "comments": 84,
       "author": "Retr0id",
       "tags": [],
       "date": "2026-08-25T19:38:24+00:00"
@@ -175,8 +301,8 @@
       "source": "hn",
       "title": "FDA authorizes first wearable device that monitors ketone and blood sugar levels",
       "url": "https://www.fda.gov/news-events/press-announcements/fda-authorizes-first-wearable-device-continuously-monitors-both-ketone-levels-and-blood-sugar",
-      "score": 365,
-      "comments": 183,
+      "score": 378,
+      "comments": 188,
       "author": "sunnynagra",
       "tags": [],
       "date": "2026-08-25T19:07:01+00:00"
@@ -241,8 +367,8 @@
       "source": "hn",
       "title": "Run OpenBSD on DigitalOcean for $4/month",
       "url": "https://nil.wallyjones.com/run-openbsd-on-digitalocean-for-4month/",
-      "score": 156,
-      "comments": 71,
+      "score": 161,
+      "comments": 72,
       "author": "speckx",
       "tags": [],
       "date": "2026-08-25T17:23:07+00:00"
@@ -263,8 +389,8 @@
       "source": "hn",
       "title": "Nitter and XCancel receive cease and desist notices",
       "url": "https://github.com/zedeus/nitter/issues/1442",
-      "score": 851,
-      "comments": 703,
+      "score": 893,
+      "comments": 739,
       "author": "Banditoz",
       "tags": [],
       "date": "2026-08-25T17:08:21+00:00"
@@ -274,8 +400,8 @@
       "source": "hn",
       "title": "Black hole singularity is a surface not a point",
       "url": "https://arxiv.org/abs/2608.21590",
-      "score": 230,
-      "comments": 168,
+      "score": 236,
+      "comments": 174,
       "author": "raattgift",
       "tags": [],
       "date": "2026-08-25T17:02:49+00:00"
@@ -318,8 +444,8 @@
       "source": "hn",
       "title": "Show HN: LatticeDB – Like SQLite but for graph databases",
       "url": "https://github.com/jeffhajewski/latticedb",
-      "score": 144,
-      "comments": 38,
+      "score": 151,
+      "comments": 39,
       "author": "smiths1999",
       "tags": [],
       "date": "2026-08-25T16:52:05+00:00"
@@ -340,8 +466,8 @@
       "source": "hn",
       "title": "Tooltips need a delay, and then they need to skip it",
       "url": "https://blog.master.dev/tooltips-need-a-delay-and-then-they-need-to-skip-it/",
-      "score": 165,
-      "comments": 42,
+      "score": 171,
+      "comments": 45,
       "author": "ibobev",
       "tags": [],
       "date": "2026-08-25T16:35:36+00:00"
@@ -395,8 +521,8 @@
       "source": "hn",
       "title": "Show HN: I made a Raspberry with Qwen my local car AI",
       "url": "https://github.com/ThinkOffApp/CarWatch",
-      "score": 129,
-      "comments": 35,
+      "score": 135,
+      "comments": 37,
       "author": "petruspennanen",
       "tags": [],
       "date": "2026-08-25T15:20:20+00:00"
@@ -463,8 +589,8 @@
       "source": "hn",
       "title": "Bomb fishing is wreaking havoc on Indonesia's coral reefs",
       "url": "https://e360.yale.edu/digest/bomb-fishing-coral-reefs",
-      "score": 307,
-      "comments": 159,
+      "score": 313,
+      "comments": 160,
       "author": "speckx",
       "tags": [],
       "date": "2026-08-25T14:29:32+00:00"
@@ -474,8 +600,8 @@
       "source": "hn",
       "title": "Building a backyard office, the build and cost breakdown",
       "url": "https://www.imkylelambert.com/articles/building-a-backyard-office-the-build-and-cost-breakdown",
-      "score": 330,
-      "comments": 210,
+      "score": 338,
+      "comments": 211,
       "author": "surprisetalk",
       "tags": [],
       "date": "2026-08-25T14:20:36+00:00"
@@ -496,8 +622,8 @@
       "source": "hn",
       "title": "OpenAI Jalapeño: Better than Nvidia Blackwell",
       "url": "https://newsletter.semianalysis.com/p/openai-jalapeno-better-than-nvidia",
-      "score": 447,
-      "comments": 287,
+      "score": 465,
+      "comments": 301,
       "author": "bmulholland",
       "tags": [],
       "date": "2026-08-25T14:06:02+00:00"
@@ -518,8 +644,8 @@
       "source": "hn",
       "title": "New Mac mini, featuring M6 and M5 Pro",
       "url": "https://www.apple.com/newsroom/2026/08/apple-unveils-a-more-powerful-mac-mini-featuring-the-all-new-m6-and-m5-pro/",
-      "score": 486,
-      "comments": 297,
+      "score": 490,
+      "comments": 300,
       "author": "runako",
       "tags": [],
       "date": "2026-08-25T13:13:00+00:00"
@@ -536,12 +662,25 @@
       "date": "2026-08-25T13:08:13+00:00"
     },
     {
+      "id": "qiita-4897d0ccca",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "フェンリル株式会社 5dayインターンシップ参加レポート",
+      "url": "https://qiita.com/tanahiro2010/items/686b6787a4bff136f190?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "tanahiro2010",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-08-25T22:05:48+09:00"
+    },
+    {
       "id": "hn-49433316",
       "source": "hn",
       "title": "New Mac Studio with M5 Max and M5 Ultra",
       "url": "https://www.apple.com/newsroom/2026/08/apple-introduces-new-mac-studio-with-m5-max-and-m5-ultra/",
-      "score": 756,
-      "comments": 497,
+      "score": 765,
+      "comments": 503,
       "author": "interpol_p",
       "tags": [],
       "date": "2026-08-25T13:03:17+00:00"
@@ -551,8 +690,8 @@
       "source": "hn",
       "title": "Apple introduces M6 and M5 Ultra",
       "url": "https://www.apple.com/newsroom/2026/08/apple-introduces-m6-and-m5-ultra-for-a-big-leap-in-performance-and-ai-compute/",
-      "score": 1097,
-      "comments": 1047,
+      "score": 1120,
+      "comments": 1072,
       "author": "interpol_p",
       "tags": [],
       "date": "2026-08-25T13:01:22+00:00"
@@ -608,7 +747,7 @@
       "source": "hn",
       "title": "Don't Wordle",
       "url": "https://dontwordle.com/",
-      "score": 343,
+      "score": 347,
       "comments": 121,
       "author": "Hbruz0",
       "tags": [],
@@ -731,6 +870,19 @@
         "Qiita"
       ],
       "date": "2026-08-25T17:06:49+09:00"
+    },
+    {
+      "id": "qiita-fe86d934a2",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "Cisco Network Sketcher + config_converterを試す その2：config_converterの実行～ネットワーク構成図の作成まで",
+      "url": "https://qiita.com/YN_net/items/adc0e37601b77e5bd056?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "YN_net",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-08-25T17:05:32+09:00"
     },
     {
       "id": "qiita-adfcabad88",
@@ -3560,8 +3712,8 @@
       "source": "hn",
       "title": "Stalking the Wily Hacker: 40 years later – Cliff Stoll [video]",
       "url": "https://www.youtube.com/watch?v=656058JxTM0",
-      "score": 60,
-      "comments": 19,
+      "score": 80,
+      "comments": 21,
       "author": "zoenolan",
       "tags": [],
       "date": "2026-08-22T01:52:24+00:00"
@@ -5004,140 +5156,6 @@
       "author": "cwal37",
       "tags": [],
       "date": "2026-08-20T19:46:06+00:00"
-    },
-    {
-      "id": "hn-49379183",
-      "source": "hn",
-      "title": "How orchids inspired the work of Charles Darwin",
-      "url": "https://lithub.com/how-orchids-inspired-the-groundbreaking-work-of-charles-darwin/",
-      "score": 13,
-      "comments": 0,
-      "author": "prismatic",
-      "tags": [],
-      "date": "2026-08-20T19:41:32+00:00"
-    },
-    {
-      "id": "hn-49379026",
-      "source": "hn",
-      "title": "GitHub, autoscaling, and the component substitution fallacy",
-      "url": "https://surfingcomplexity.blog/2026/08/19/github-autoscaling-and-the-component-substitution-fallacy/",
-      "score": 14,
-      "comments": 0,
-      "author": "jonemi",
-      "tags": [],
-      "date": "2026-08-20T19:28:18+00:00"
-    },
-    {
-      "id": "hn-49378957",
-      "source": "hn",
-      "title": "The August 17 outage",
-      "url": "https://github.blog/news-insights/company-news/the-august-17-outage-and-the-work-ahead/",
-      "score": 610,
-      "comments": 705,
-      "author": "0xedb",
-      "tags": [],
-      "date": "2026-08-20T19:22:24+00:00"
-    },
-    {
-      "id": "hn-49378950",
-      "source": "hn",
-      "title": "Tidal Cycles – Live coding music with Algorithmic patterns",
-      "url": "https://tidalcycles.org/",
-      "score": 54,
-      "comments": 8,
-      "author": "gjvc",
-      "tags": [],
-      "date": "2026-08-20T19:21:45+00:00"
-    },
-    {
-      "id": "hn-49378933",
-      "source": "hn",
-      "title": "SpacetimeDB: A Short Technical Review",
-      "url": "https://strn.cat/posts/spacetime/",
-      "score": 81,
-      "comments": 17,
-      "author": "hurrrr",
-      "tags": [],
-      "date": "2026-08-20T19:19:53+00:00"
-    },
-    {
-      "id": "hn-49378768",
-      "source": "hn",
-      "title": "Show HN: Huzzah – a novel approach to coding with AI",
-      "url": "https://www.danielvaughn.dev/posts/huzzah/",
-      "score": 325,
-      "comments": 172,
-      "author": "danielvaughn",
-      "tags": [],
-      "date": "2026-08-20T19:05:36+00:00"
-    },
-    {
-      "id": "hn-49378630",
-      "source": "hn",
-      "title": "Watching TikTok and Instagram deactivates the cognitive control network: Study",
-      "url": "https://www.rathbiotaclan.com/tiktok-videos-deactivate-key-cognitive-brain-regions/",
-      "score": 286,
-      "comments": 110,
-      "author": "Akasci",
-      "tags": [],
-      "date": "2026-08-20T18:54:32+00:00"
-    },
-    {
-      "id": "hn-49378446",
-      "source": "hn",
-      "title": "Why aren't smart people happier? (2022)",
-      "url": "https://www.experimental-history.com/p/why-arent-smart-people-happier",
-      "score": 226,
-      "comments": 317,
-      "author": "rafaelc",
-      "tags": [],
-      "date": "2026-08-20T18:38:47+00:00"
-    },
-    {
-      "id": "hn-49378243",
-      "source": "hn",
-      "title": "Consumer Rights Wiki",
-      "url": "https://consumerrights.wiki/w/Main_Page",
-      "score": 261,
-      "comments": 48,
-      "author": "gregsadetsky",
-      "tags": [],
-      "date": "2026-08-20T18:19:51+00:00"
-    },
-    {
-      "id": "qiita-677b814223",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "TeXで共通テスト数学の解答用紙を再現",
-      "url": "https://qiita.com/KKTeX/items/006cd0dc9e8418dcd703?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "KKTeX",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-08-21T03:03:34+09:00"
-    },
-    {
-      "id": "hn-49378036",
-      "source": "hn",
-      "title": "Bitflash: A Tor-native revival of Bitcoin 0.1.0, mined on CPUs with RandomX",
-      "url": "https://bitflash.network/",
-      "score": 12,
-      "comments": 0,
-      "author": "bitflash",
-      "tags": [],
-      "date": "2026-08-20T18:02:55+00:00"
-    },
-    {
-      "id": "hn-49377923",
-      "source": "hn",
-      "title": "Optimizing things in the USSR (2016)",
-      "url": "https://chris-said.io/2016/05/11/optimizing-things-in-the-ussr/",
-      "score": 24,
-      "comments": 14,
-      "author": "cassepipe",
-      "tags": [],
-      "date": "2026-08-20T17:55:16+00:00"
     },
     {
       "id": "ctf-4372374",

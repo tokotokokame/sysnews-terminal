@@ -1,14 +1,92 @@
 {
-  "updated_at": "2026-08-29T18:45:25.671943+00:00",
+  "updated_at": "2026-08-29T21:30:51.294396+00:00",
   "count": 500,
   "items": [
+    {
+      "id": "hn-49493244",
+      "source": "hn",
+      "title": "What we want is a hunter gatherer lifestyle with space age tools",
+      "url": "https://www.strangeloopcanon.com/p/what-we-want-is-a-hunter-gatherer",
+      "score": 3,
+      "comments": 0,
+      "author": "bilsbie",
+      "tags": [],
+      "date": "2026-08-29T20:53:56+00:00"
+    },
+    {
+      "id": "hn-49492632",
+      "source": "hn",
+      "title": "Tencent Releases and Open-Sources Tencent Hy4 Preview",
+      "url": "https://www.tencent.com/tencent-releases-and-open-sources-tencent-hy4-preview/",
+      "score": 68,
+      "comments": 22,
+      "author": "shenli3514",
+      "tags": [],
+      "date": "2026-08-29T19:33:23+00:00",
+      "severity": "critical"
+    },
+    {
+      "id": "hn-49492584",
+      "source": "hn",
+      "title": "Domain-Driven Agents",
+      "url": "https://coldtake.dev/blog/domain-driven-agents",
+      "score": 14,
+      "comments": 1,
+      "author": "AlarQ",
+      "tags": [],
+      "date": "2026-08-29T19:28:28+00:00"
+    },
+    {
+      "id": "hn-49492368",
+      "source": "hn",
+      "title": "Functional State Machines in Rust: Typestate and Newtype Patterns",
+      "url": "https://dl.acm.org/doi/10.1145/3830438.3830958",
+      "score": 7,
+      "comments": 0,
+      "author": "matt_d",
+      "tags": [],
+      "date": "2026-08-29T19:01:09+00:00"
+    },
+    {
+      "id": "hn-49492219",
+      "source": "hn",
+      "title": "DHS is using obscure law to snoop on journalists, non-profits, unions",
+      "url": "https://www.theguardian.com/us-news/2026/aug/29/trump-dhs-1509-summons-records-journalists-nonprofits",
+      "score": 181,
+      "comments": 24,
+      "author": "firefax",
+      "tags": [],
+      "date": "2026-08-29T18:44:37+00:00"
+    },
+    {
+      "id": "hn-49492184",
+      "source": "hn",
+      "title": "LLMs are making me lose my savviness",
+      "url": "https://pgaleone.eu/ai/2026/08/29/losing-savviness/",
+      "score": 27,
+      "comments": 28,
+      "author": "me2too",
+      "tags": [],
+      "date": "2026-08-29T18:38:52+00:00"
+    },
+    {
+      "id": "hn-49492067",
+      "source": "hn",
+      "title": "vLLM v0.28.0",
+      "url": "https://github.com/vllm-project/vllm/releases/tag/v0.28.0",
+      "score": 47,
+      "comments": 14,
+      "author": "mrrrcs",
+      "tags": [],
+      "date": "2026-08-29T18:22:00+00:00"
+    },
     {
       "id": "hn-49491714",
       "source": "hn",
       "title": "Calibrate Before You Accelerate: Bias Toward Action in a New Role",
       "url": "https://tucker.wales/writing/bias-towards-action/",
-      "score": 11,
-      "comments": 1,
+      "score": 63,
+      "comments": 20,
       "author": "tuckerwales",
       "tags": [],
       "date": "2026-08-29T17:39:18+00:00"
@@ -18,11 +96,22 @@
       "source": "hn",
       "title": "Good Culture Is the Biggest Productivity Hack, Not AI",
       "url": "https://newsletter.eng-leadership.com/p/good-culture-is-the-biggest-productivity",
-      "score": 35,
-      "comments": 5,
+      "score": 157,
+      "comments": 27,
       "author": "gpi",
       "tags": [],
       "date": "2026-08-29T17:19:47+00:00"
+    },
+    {
+      "id": "hn-49491544",
+      "source": "hn",
+      "title": "A better SQL in 11 lines of code",
+      "url": "https://prela-lang.org/tutorial/",
+      "score": 31,
+      "comments": 32,
+      "author": "remywang",
+      "tags": [],
+      "date": "2026-08-29T17:13:45+00:00"
     },
     {
       "id": "hn-49491113",
@@ -51,8 +140,8 @@
       "source": "hn",
       "title": "Quantifying Colour",
       "url": "https://ekunazanu.foo/lab/quantifying-colour/",
-      "score": 29,
-      "comments": 1,
+      "score": 49,
+      "comments": 5,
       "author": "vismit2000",
       "tags": [],
       "date": "2026-08-29T15:43:53+00:00"
@@ -62,8 +151,8 @@
       "source": "hn",
       "title": "GrapheneOS project: pixel 11 no longer supports hardware memory tagging (MTE)",
       "url": "https://bsky.app/profile/grapheneos.org/post/3mua32q4ds22e",
-      "score": 117,
-      "comments": 47,
+      "score": 195,
+      "comments": 75,
       "author": "400thecat",
       "tags": [],
       "date": "2026-08-29T15:26:28+00:00"
@@ -73,8 +162,8 @@
       "source": "hn",
       "title": "Indirect Calling of Nested Functions on GCC Without Executable Stack",
       "url": "https://uecker.codeberg.page/2026-08-29.html",
-      "score": 47,
-      "comments": 20,
+      "score": 60,
+      "comments": 36,
       "author": "uecker",
       "tags": [],
       "date": "2026-08-29T14:20:33+00:00"
@@ -102,6 +191,84 @@
       "date": "2026-08-29T11:39:38+00:00"
     },
     {
+      "id": "qiita-d8defe379a",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "Chandraのdither、実際どう動く？ Pythonでアニメーションにしてみた",
+      "url": "https://qiita.com/sakaimaging/items/94e123dbdd49aae6f2c1?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "sakaimaging",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-08-29T20:22:02+09:00"
+    },
+    {
+      "id": "qiita-b84bb554bb",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "AIの口癖を日本語記事で測ろうとして、3回とも失敗した",
+      "url": "https://qiita.com/jqit_suwa/items/4231026d13f7527c0f69?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "jqit_suwa",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-08-29T19:54:44+09:00"
+    },
+    {
+      "id": "qiita-44fdc14816",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "環境変数でサブエージェントのモデルを固定できなくなった",
+      "url": "https://qiita.com/jqit_suwa/items/fc7f964572190fb8a77a?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "jqit_suwa",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-08-29T19:54:28+09:00"
+    },
+    {
+      "id": "qiita-36e25dfa99",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "AWS ECS + FastAPIをデプロイした — ECRとFargateの構成",
+      "url": "https://qiita.com/cozy_666_tech/items/31f28866d2c7d162911c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "cozy_666_tech",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-08-29T19:19:52+09:00"
+    },
+    {
+      "id": "qiita-7704d61317",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "エンジニアに一番大切なのは技術力ですか？ — 5年働いて気づいた、信頼を生む「誠実さ」の話",
+      "url": "https://qiita.com/teppei19980914/items/5d2749c683331577b2cc?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "teppei19980914",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-08-29T19:12:13+09:00"
+    },
+    {
+      "id": "qiita-dbc58d78f8",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "AIに淘汰されそう",
+      "url": "https://qiita.com/J-T_ky2g/items/5d3d125bcd1450585092?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "J-T_ky2g",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-08-29T18:35:13+09:00"
+    },
+    {
       "id": "hn-49488282",
       "source": "hn",
       "title": "You Know GDPR Is Good Based on Who Hates It",
@@ -124,15 +291,41 @@
       "date": "2026-08-29T07:38:31+00:00"
     },
     {
+      "id": "qiita-a49f072ff0",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "LLMアプリ、雰囲気で運用してませんか? 〜2026年のLLMOpsの現在地〜",
+      "url": "https://qiita.com/taka_yayoi/items/a349cf0801e76f372ca7?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "taka_yayoi",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-08-29T15:51:31+09:00"
+    },
+    {
       "id": "hn-49487341",
       "source": "hn",
       "title": "Samsung's Processing-in-Memory (PIM)",
       "url": "https://chipsandcheese.com/p/hot-chips-2026-samsungs-processing",
-      "score": 214,
-      "comments": 70,
+      "score": 225,
+      "comments": 85,
       "author": "ingve",
       "tags": [],
       "date": "2026-08-29T06:06:51+00:00"
+    },
+    {
+      "id": "qiita-e1abe0e100",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "Kiro５兄弟のいまどきのセキュリティ基礎知識 ― Kiro CLIとDraw.io MCPで信頼境界を描くまで",
+      "url": "https://qiita.com/kamogashira/items/519a52614ba113bfe9cb?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "kamogashira",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-08-29T14:18:47+09:00"
     },
     {
       "id": "qiita-42783ba2d8",
@@ -327,6 +520,30 @@
       "date": "2026-08-28T19:01:47+00:00"
     },
     {
+      "id": "hn-49482833",
+      "source": "hn",
+      "title": "Nancy Grace Roman Space Telescope Launches this Sunday",
+      "url": "https://www.npr.org/2026/08/28/nx-s1-5905370/nasa-nancy-grace-roman-space-telescope-dark-energy-supernova",
+      "score": 13,
+      "comments": 1,
+      "author": "topspin",
+      "tags": [],
+      "date": "2026-08-28T18:53:48+00:00"
+    },
+    {
+      "id": "qiita-30275f34f9",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "Swaggerって結局なに？ OpenAPIとの関係を整理する",
+      "url": "https://qiita.com/poku_log/items/35335e049cd1c602b239?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "poku_log",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-08-29T02:59:20+09:00"
+    },
+    {
       "id": "hn-49481455",
       "source": "hn",
       "title": "Autonomous Mathematical Discovery in an Open-World Multi-Agent Environment",
@@ -411,8 +628,8 @@
       "source": "hn",
       "title": "Creating the Aetheryte Radio",
       "url": "https://haz.ee/posts/aetheryte-radio.html",
-      "score": 48,
-      "comments": 9,
+      "score": 56,
+      "comments": 12,
       "author": "wonger_",
       "tags": [],
       "date": "2026-08-28T14:59:15+00:00"
@@ -458,8 +675,8 @@
       "source": "hn",
       "title": "Htmx 4.0",
       "url": "https://four.htmx.org/announcements/2026-08-28-htmx-4.0.0-is-released",
-      "score": 771,
-      "comments": 192,
+      "score": 791,
+      "comments": 202,
       "author": "rmsaksida",
       "tags": [],
       "date": "2026-08-28T13:28:56+00:00"
@@ -498,6 +715,19 @@
         "Qiita"
       ],
       "date": "2026-08-28T20:33:00+09:00"
+    },
+    {
+      "id": "qiita-2b1655a2e2",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "「ハーネス」ってなんぞ？ Claudeに“性格”と“記憶”を持たせる仕組みを、おじさんでも分かるように調べてみた",
+      "url": "https://qiita.com/OnuuuumaX/items/8b7ac7751411f79a41d7?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "OnuuuumaX",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-08-28T20:16:19+09:00"
     },
     {
       "id": "hn-49476143",
@@ -559,6 +789,19 @@
         "Qiita"
       ],
       "date": "2026-08-28T17:00:02+09:00"
+    },
+    {
+      "id": "qiita-4943cfac5d",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "S3 Vectors、安すぎん？OpenSearch Serverlessからの本番移行",
+      "url": "https://qiita.com/takahumi27/items/6fe3157b5f1d28cba2ec?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "takahumi27",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-08-28T16:53:34+09:00"
     },
     {
       "id": "qiita-b1edcb247d",
@@ -681,6 +924,19 @@
       "date": "2026-08-28T03:35:15+00:00"
     },
     {
+      "id": "qiita-9ac7492ee3",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "【ADK2.0】実践② Google ADKで複数レビュアーを並列実行（Fan-out / Fan-in）",
+      "url": "https://qiita.com/a_tochi/items/944201ce385a45cbbc6f?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "a_tochi",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-08-28T11:34:26+09:00"
+    },
+    {
       "id": "qiita-6e9bc1b2b5",
       "source": "zennqiita",
       "sub_source": "Qiita",
@@ -705,6 +961,19 @@
         "Qiita"
       ],
       "date": "2026-08-28T09:51:31+09:00"
+    },
+    {
+      "id": "qiita-4a9d0ee753",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "【2026年版】目的別で選ぶ おすすめUIコンポーネントライブラリ12選",
+      "url": "https://qiita.com/yushibats/items/5976a0ac8db82bd1c2bf?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "yushibats",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-08-28T09:25:41+09:00"
     },
     {
       "id": "hn-49472820",
@@ -742,6 +1011,19 @@
         "Qiita"
       ],
       "date": "2026-08-28T08:37:36+09:00"
+    },
+    {
+      "id": "qiita-6699c07142",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "第4話　とある現場のおじさん、MermaidでLLMに歩み寄る",
+      "url": "https://qiita.com/NTTDATA-Kyushu-Cloud/items/9b43734a2597bc37a48b?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "NTTDATA-Kyushu-Cloud",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-08-28T08:29:43+09:00"
     },
     {
       "id": "hn-49472216",
@@ -977,6 +1259,19 @@
       "author": "knackers",
       "tags": [],
       "date": "2026-08-27T15:01:11+00:00"
+    },
+    {
+      "id": "qiita-3d727754f5",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "なぜプロンプトを直しても、AIの出力は安定しないのか",
+      "url": "https://qiita.com/haru-qiita/items/5e2b4b1a4b3497abe50f?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "haru-qiita",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-08-27T23:09:10+09:00"
     },
     {
       "id": "hn-49465169",
@@ -1987,6 +2282,17 @@
       "date": "2026-08-26T13:20:40+00:00"
     },
     {
+      "id": "hn-49448583",
+      "source": "hn",
+      "title": "Recovering Corrupt Zip Files",
+      "url": "https://www.construct.net/en/blogs/ashleys-blog-2/recovering-corrupt-zip-files-1895",
+      "score": 12,
+      "comments": 1,
+      "author": "AshleysBrain",
+      "tags": [],
+      "date": "2026-08-26T13:14:46+00:00"
+    },
+    {
       "id": "qiita-bc3a9a9798",
       "source": "zennqiita",
       "sub_source": "Qiita",
@@ -2093,8 +2399,8 @@
       "source": "hn",
       "title": "Show HN: Typebase – A single-folder back end you write in TypeScript",
       "url": "https://typebase.io",
-      "score": 68,
-      "comments": 14,
+      "score": 83,
+      "comments": 18,
       "author": "andrewww-dev",
       "tags": [],
       "date": "2026-08-26T11:33:31+00:00"
@@ -3023,8 +3329,8 @@
       "source": "hn",
       "title": "EVE Online moves to Python 3",
       "url": "https://www.eveonline.com/news/view/the-move-to-python-3-begins",
-      "score": 212,
-      "comments": 100,
+      "score": 256,
+      "comments": 134,
       "author": "TylerJaacks",
       "tags": [],
       "date": "2026-08-25T13:04:55+00:00"
@@ -3323,8 +3629,8 @@
       "source": "hn",
       "title": "Sleepwalker: Passive Backdoor with Its Own Command Language",
       "url": "https://r136a1.dev/2026/08/24/sleepwalker-a-passive-backdoor-with-its-own-command-language/",
-      "score": 35,
-      "comments": 1,
+      "score": 46,
+      "comments": 5,
       "author": "defrost",
       "tags": [],
       "date": "2026-08-25T03:26:09+00:00"
@@ -3504,8 +3810,8 @@
       "source": "hn",
       "title": "SQLite as a Document Database (2020)",
       "url": "https://dgl.cx/2020/06/sqlite-json-support",
-      "score": 105,
-      "comments": 18,
+      "score": 135,
+      "comments": 42,
       "author": "lioeters",
       "tags": [],
       "date": "2026-08-24T23:00:10+00:00"
@@ -3593,8 +3899,8 @@
       "source": "hn",
       "title": "Glacier Mice",
       "url": "https://en.wikipedia.org/wiki/Glacier_mice",
-      "score": 186,
-      "comments": 36,
+      "score": 221,
+      "comments": 45,
       "author": "ostacke",
       "tags": [],
       "date": "2026-08-24T18:58:13+00:00"
@@ -4284,6 +4590,17 @@
       "date": "2026-08-24T10:18:03+00:00"
     },
     {
+      "id": "hn-49417662",
+      "source": "hn",
+      "title": "Kmart Digicam Mod Part 2",
+      "url": "https://mason.bearblog.dev/kmart-digicam-mod-part-2/",
+      "score": 9,
+      "comments": 0,
+      "author": "masoniamme",
+      "tags": [],
+      "date": "2026-08-24T10:14:50+00:00"
+    },
+    {
       "id": "hn-49417394",
       "source": "hn",
       "title": "Woman stranded in Spain after UK's eVisa system mistakes her for twin sister",
@@ -4531,8 +4848,8 @@
       "source": "hn",
       "title": "Tether: iMessage, SMS, etc. on Linux",
       "url": "https://zackbartel.com/blog/2026/08/tether/",
-      "score": 131,
-      "comments": 64,
+      "score": 227,
+      "comments": 102,
       "author": "zackb",
       "tags": [],
       "date": "2026-08-24T05:09:23+00:00"
@@ -4860,297 +5177,6 @@
       "author": "Tiberium",
       "tags": [],
       "date": "2026-08-23T19:39:29+00:00"
-    },
-    {
-      "id": "hn-49411762",
-      "source": "hn",
-      "title": "'The Nerd Reich' tracks the 'unmasking of Silicon Valley's true politics'",
-      "url": "https://www.npr.org/2026/08/10/nx-s1-5925350/the-nerd-reich-tracks-the-unmasking-of-silicon-valleys-true-politics",
-      "score": 51,
-      "comments": 17,
-      "author": "rbanffy",
-      "tags": [],
-      "date": "2026-08-23T19:35:35+00:00"
-    },
-    {
-      "id": "hn-49411717",
-      "source": "hn",
-      "title": "Google Workspace thinks my domain is an email provider (2025)",
-      "url": "https://blog.elis.cc/articles/google-workspace-thinks-my-domain-is-an-email-provider/",
-      "score": 367,
-      "comments": 139,
-      "author": "el1s7",
-      "tags": [],
-      "date": "2026-08-23T19:29:32+00:00"
-    },
-    {
-      "id": "hn-49411643",
-      "source": "hn",
-      "title": "How I find problems to solve as a staff engineer",
-      "url": "https://lalitm.com/post/find-problems-staff-engineer/",
-      "score": 523,
-      "comments": 151,
-      "author": "vanpra",
-      "tags": [],
-      "date": "2026-08-23T19:23:29+00:00"
-    },
-    {
-      "id": "hn-49411468",
-      "source": "hn",
-      "title": "Fable and the end of the free lunch",
-      "url": "https://www.dbreunig.com/2026/08/23/fable-the-end-of-moore-s-law.html",
-      "score": 165,
-      "comments": 156,
-      "author": "dbreunig",
-      "tags": [],
-      "date": "2026-08-23T19:06:09+00:00"
-    },
-    {
-      "id": "hn-49411395",
-      "source": "hn",
-      "title": "Over 170k Nonprofits Lost All Their Data. Is Microsoft to Blame?",
-      "url": "https://slate.com/technology/2026/08/microsoft-software-nonprofit-data-delete.html",
-      "score": 216,
-      "comments": 102,
-      "author": "tchalla",
-      "tags": [],
-      "date": "2026-08-23T18:55:54+00:00"
-    },
-    {
-      "id": "hn-49411268",
-      "source": "hn",
-      "title": "Say It Four Times (In Your System Prompt)",
-      "url": "https://www.khola.blog/p/say-it-four-times",
-      "score": 7,
-      "comments": 8,
-      "author": "nkhola",
-      "tags": [],
-      "date": "2026-08-23T18:40:47+00:00"
-    },
-    {
-      "id": "hn-49411199",
-      "source": "hn",
-      "title": "The Vibe Tax",
-      "url": "https://insufferable.dev/posts/vibe-tax/",
-      "score": 108,
-      "comments": 86,
-      "author": "allisdust",
-      "tags": [],
-      "date": "2026-08-23T18:31:02+00:00"
-    },
-    {
-      "id": "hn-49411178",
-      "source": "hn",
-      "title": "Etched Sohu vs. Nvidia: Transformer ASIC vs. GPU (2026)",
-      "url": "https://www.spheron.network/blog/etched-ai-sohu-vs-nvidia-transformer-asic-inference/",
-      "score": 13,
-      "comments": 1,
-      "author": "rbanffy",
-      "tags": [],
-      "date": "2026-08-23T18:27:33+00:00"
-    },
-    {
-      "id": "hn-49411024",
-      "source": "hn",
-      "title": "AI and Infrastructure Engineering",
-      "url": "https://omegion.dev/2026/08/ai-and-infrastructure-engineering/",
-      "score": 59,
-      "comments": 19,
-      "author": "0megion",
-      "tags": [],
-      "date": "2026-08-23T18:09:01+00:00"
-    },
-    {
-      "id": "hn-49411020",
-      "source": "hn",
-      "title": "Explain it to me like I'm ten",
-      "url": "https://timharford.com/2026/08/explain-it-to-me-like-im-ten/",
-      "score": 143,
-      "comments": 53,
-      "author": "bookofjoe",
-      "tags": [],
-      "date": "2026-08-23T18:08:13+00:00"
-    },
-    {
-      "id": "hn-49410949",
-      "source": "hn",
-      "title": "Predicting AI model release dates with stats",
-      "url": "https://releaseoracle.xyz/",
-      "score": 18,
-      "comments": 3,
-      "author": "akeyes6",
-      "tags": [],
-      "date": "2026-08-23T18:01:30+00:00"
-    },
-    {
-      "id": "hn-49410936",
-      "source": "hn",
-      "title": "I turned Unix talk from 1983 into the interface for my AI",
-      "url": "https://en.andros.dev/blog/09a21bdd/i-turned-unix-talk-from-1983-into-the-interface-for-my-ai/",
-      "score": 11,
-      "comments": 5,
-      "author": "ibobev",
-      "tags": [],
-      "date": "2026-08-23T18:00:20+00:00"
-    },
-    {
-      "id": "hn-49410932",
-      "source": "hn",
-      "title": "My agent.md to improve LLM-assisted code quality",
-      "url": "https://fabiensanglard.net/agent.md/index.html",
-      "score": 366,
-      "comments": 153,
-      "author": "ibobev",
-      "tags": [],
-      "date": "2026-08-23T17:59:52+00:00"
-    },
-    {
-      "id": "hn-49410814",
-      "source": "hn",
-      "title": "Show HN: I wrote a BASIC interpreter that boots on UEFI machines",
-      "url": "https://tarjan.itch.io/thoreaubasic",
-      "score": 80,
-      "comments": 28,
-      "author": "Gorsefound",
-      "tags": [],
-      "date": "2026-08-23T17:48:12+00:00"
-    },
-    {
-      "id": "qiita-524aa73f98",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "【ローカルLLM】国産LLM「LLM-jp-4-33B」と「Qwen3.8-27B」の推論性能比較（RTX 5070 Ti + RTX 3070 Ti）",
-      "url": "https://qiita.com/h-nabata/items/b80484406e839ee6507b?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "h-nabata",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-08-24T02:34:14+09:00"
-    },
-    {
-      "id": "hn-49410697",
-      "source": "hn",
-      "title": "Dutch regulator fines Uber $966M for automating driver suspensions",
-      "url": "https://www.theguardian.com/technology/2026/aug/21/netherlands-fines-uber-automated-driver-suspensions",
-      "score": 31,
-      "comments": 32,
-      "author": "geoffbp",
-      "tags": [],
-      "date": "2026-08-23T17:32:43+00:00"
-    },
-    {
-      "id": "hn-49410545",
-      "source": "hn",
-      "title": "The Remote Work Challenge: Lessons from 5 Cities",
-      "url": "https://www.pew.org/en/research-and-analysis/reports/2026/05/the-remote-work-challenge-lessons-from-5-cities",
-      "score": 51,
-      "comments": 23,
-      "author": "softwaredoug",
-      "tags": [],
-      "date": "2026-08-23T17:15:36+00:00"
-    },
-    {
-      "id": "hn-49410480",
-      "source": "hn",
-      "title": "Erik Brynjolfsson says an AI \"job apocalypse\" is unlikely",
-      "url": "https://wpintelligence.washingtonpost.com/topics/ai-tech/2026/08/19/wpi-conversation-why-an-ai-job-apocalypse-is-unlikely/",
-      "score": 29,
-      "comments": 39,
-      "author": "gumby",
-      "tags": [],
-      "date": "2026-08-23T17:07:04+00:00"
-    },
-    {
-      "id": "hn-49410362",
-      "source": "hn",
-      "title": "A website for debloated open source alternatives",
-      "url": "https://debloat.dev/",
-      "score": 311,
-      "comments": 97,
-      "author": "ryanvogel",
-      "tags": [],
-      "date": "2026-08-23T16:54:10+00:00",
-      "severity": "critical"
-    },
-    {
-      "id": "qiita-3ad6932ac8",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "AIコーディングの精度を劇的に向上させる Context7 MCP Server 完全ガイド",
-      "url": "https://qiita.com/tomada/items/42537e0b14b38797d218?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "tomada",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-08-24T01:49:12+09:00"
-    },
-    {
-      "id": "hn-49410250",
-      "source": "hn",
-      "title": "Phoenix tried a reflective coating on black asphalt; noon surface heat fell 12°F",
-      "url": "https://economictimes.indiatimes.com/news/international/us/phoenix-swapped-black-asphalt-for-a-reflective-road-coating-noon-surface-heat-fell-12f-but-pedestrians-faced-higher-radiant-heat/articleshow/133421891.cms?from=mdr",
-      "score": 24,
-      "comments": 37,
-      "author": "djoldman",
-      "tags": [],
-      "date": "2026-08-23T16:43:19+00:00"
-    },
-    {
-      "id": "hn-49410149",
-      "source": "hn",
-      "title": "Vit D assoc w better cognition in those w sleep disturb./mild cognitive impair",
-      "url": "https://www.sciencedirect.com/science/article/abs/pii/S1389945726001991?via%3Dihub",
-      "score": 11,
-      "comments": 0,
-      "author": "bookofjoe",
-      "tags": [],
-      "date": "2026-08-23T16:30:53+00:00"
-    },
-    {
-      "id": "hn-49410111",
-      "source": "hn",
-      "title": "Kodak DC50 now usable on the Apple II",
-      "url": "https://www.colino.net/wordpress/archives/2026/08/23/kodak-dc50-now-usable-on-the-apple-ii/",
-      "score": 54,
-      "comments": 9,
-      "author": "ibobev",
-      "tags": [],
-      "date": "2026-08-23T16:25:59+00:00"
-    },
-    {
-      "id": "hn-49410097",
-      "source": "hn",
-      "title": "GLM-5.3 (open-weight) beat Anthropic/OpenAI models – for 1/5 the cost",
-      "url": "https://reinvently.co.uk/tools/ed-o-meter/",
-      "score": 205,
-      "comments": 89,
-      "author": "ed-is-ai",
-      "tags": [],
-      "date": "2026-08-23T16:24:21+00:00"
-    },
-    {
-      "id": "hn-49410074",
-      "source": "hn",
-      "title": "Being nude in public can make us feel better about our bodies",
-      "url": "https://www.bbc.com/future/article/20260820-how-social-nudity-can-boost-your-body-image",
-      "score": 7,
-      "comments": 0,
-      "author": "vinni2",
-      "tags": [],
-      "date": "2026-08-23T16:21:37+00:00"
-    },
-    {
-      "id": "hn-49409862",
-      "source": "hn",
-      "title": "Why Sal Khan't: On Learning by Making but Teaching by Telling",
-      "url": "https://punyamishra.com/2026/04/16/why-sal-khant-on-learning-by-making-but-teaching-by-telling/",
-      "score": 178,
-      "comments": 105,
-      "author": "the-mitr",
-      "tags": [],
-      "date": "2026-08-23T15:59:08+00:00"
     },
     {
       "id": "ctf-4372374",

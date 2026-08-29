@@ -1,7 +1,40 @@
 {
-  "updated_at": "2026-08-29T21:30:51.294396+00:00",
+  "updated_at": "2026-08-29T23:53:58.020462+00:00",
   "count": 500,
   "items": [
+    {
+      "id": "hn-49494231",
+      "source": "hn",
+      "title": "Highest-ever ocean temperature measured as powerful El Niño forms",
+      "url": "https://www.latimes.com/environment/story/2026-08-26/highest-ever-ocean-temperature-measured-as-powerful-el-nino-forms",
+      "score": 9,
+      "comments": 1,
+      "author": "measurablefunc",
+      "tags": [],
+      "date": "2026-08-29T23:26:44+00:00"
+    },
+    {
+      "id": "hn-49494151",
+      "source": "hn",
+      "title": "I co-founded Burning Man. The festival has lost its soul",
+      "url": "https://sfstandard.com/2026/08/29/burning-man-lost-its-soul-founder/",
+      "score": 23,
+      "comments": 7,
+      "author": "lisper",
+      "tags": [],
+      "date": "2026-08-29T23:12:25+00:00"
+    },
+    {
+      "id": "hn-49494036",
+      "source": "hn",
+      "title": "Defrag98: Windows 98 Disk Defragmenter Simulator Online",
+      "url": "https://defrag98.com",
+      "score": 40,
+      "comments": 20,
+      "author": "throw0101a",
+      "tags": [],
+      "date": "2026-08-29T22:51:17+00:00"
+    },
     {
       "id": "hn-49493244",
       "source": "hn",
@@ -18,8 +51,8 @@
       "source": "hn",
       "title": "Tencent Releases and Open-Sources Tencent Hy4 Preview",
       "url": "https://www.tencent.com/tencent-releases-and-open-sources-tencent-hy4-preview/",
-      "score": 68,
-      "comments": 22,
+      "score": 154,
+      "comments": 96,
       "author": "shenli3514",
       "tags": [],
       "date": "2026-08-29T19:33:23+00:00",
@@ -30,8 +63,8 @@
       "source": "hn",
       "title": "Domain-Driven Agents",
       "url": "https://coldtake.dev/blog/domain-driven-agents",
-      "score": 14,
-      "comments": 1,
+      "score": 34,
+      "comments": 5,
       "author": "AlarQ",
       "tags": [],
       "date": "2026-08-29T19:28:28+00:00"
@@ -41,8 +74,8 @@
       "source": "hn",
       "title": "Functional State Machines in Rust: Typestate and Newtype Patterns",
       "url": "https://dl.acm.org/doi/10.1145/3830438.3830958",
-      "score": 7,
-      "comments": 0,
+      "score": 32,
+      "comments": 3,
       "author": "matt_d",
       "tags": [],
       "date": "2026-08-29T19:01:09+00:00"
@@ -52,8 +85,8 @@
       "source": "hn",
       "title": "DHS is using obscure law to snoop on journalists, non-profits, unions",
       "url": "https://www.theguardian.com/us-news/2026/aug/29/trump-dhs-1509-summons-records-journalists-nonprofits",
-      "score": 181,
-      "comments": 24,
+      "score": 264,
+      "comments": 39,
       "author": "firefax",
       "tags": [],
       "date": "2026-08-29T18:44:37+00:00"
@@ -74,8 +107,8 @@
       "source": "hn",
       "title": "vLLM v0.28.0",
       "url": "https://github.com/vllm-project/vllm/releases/tag/v0.28.0",
-      "score": 47,
-      "comments": 14,
+      "score": 84,
+      "comments": 30,
       "author": "mrrrcs",
       "tags": [],
       "date": "2026-08-29T18:22:00+00:00"
@@ -85,8 +118,8 @@
       "source": "hn",
       "title": "Calibrate Before You Accelerate: Bias Toward Action in a New Role",
       "url": "https://tucker.wales/writing/bias-towards-action/",
-      "score": 63,
-      "comments": 20,
+      "score": 90,
+      "comments": 37,
       "author": "tuckerwales",
       "tags": [],
       "date": "2026-08-29T17:39:18+00:00"
@@ -96,8 +129,8 @@
       "source": "hn",
       "title": "Good Culture Is the Biggest Productivity Hack, Not AI",
       "url": "https://newsletter.eng-leadership.com/p/good-culture-is-the-biggest-productivity",
-      "score": 157,
-      "comments": 27,
+      "score": 218,
+      "comments": 47,
       "author": "gpi",
       "tags": [],
       "date": "2026-08-29T17:19:47+00:00"
@@ -112,6 +145,17 @@
       "author": "remywang",
       "tags": [],
       "date": "2026-08-29T17:13:45+00:00"
+    },
+    {
+      "id": "hn-49491175",
+      "source": "hn",
+      "title": "Trees for a Changing Climate and Resilient Urban Forest (2022)",
+      "url": "https://www.coolboulder.org/news/trees-for-a-changing-climate-resilient-urban-forest",
+      "score": 25,
+      "comments": 4,
+      "author": "mooreds",
+      "tags": [],
+      "date": "2026-08-29T16:24:21+00:00"
     },
     {
       "id": "hn-49491113",
@@ -140,7 +184,7 @@
       "source": "hn",
       "title": "Quantifying Colour",
       "url": "https://ekunazanu.foo/lab/quantifying-colour/",
-      "score": 49,
+      "score": 63,
       "comments": 5,
       "author": "vismit2000",
       "tags": [],
@@ -162,8 +206,8 @@
       "source": "hn",
       "title": "Indirect Calling of Nested Functions on GCC Without Executable Stack",
       "url": "https://uecker.codeberg.page/2026-08-29.html",
-      "score": 60,
-      "comments": 36,
+      "score": 64,
+      "comments": 39,
       "author": "uecker",
       "tags": [],
       "date": "2026-08-29T14:20:33+00:00"
@@ -308,8 +352,8 @@
       "source": "hn",
       "title": "Samsung's Processing-in-Memory (PIM)",
       "url": "https://chipsandcheese.com/p/hot-chips-2026-samsungs-processing",
-      "score": 225,
-      "comments": 85,
+      "score": 239,
+      "comments": 91,
       "author": "ingve",
       "tags": [],
       "date": "2026-08-29T06:06:51+00:00"
@@ -434,8 +478,8 @@
       "source": "hn",
       "title": "Boot a Virtual iPhone via Apple's Virtualization.framework",
       "url": "https://github.com/Lakr233/vphone-cli",
-      "score": 356,
-      "comments": 96,
+      "score": 374,
+      "comments": 100,
       "author": "hentrep",
       "tags": [],
       "date": "2026-08-28T23:02:21+00:00"
@@ -524,8 +568,8 @@
       "source": "hn",
       "title": "Nancy Grace Roman Space Telescope Launches this Sunday",
       "url": "https://www.npr.org/2026/08/28/nx-s1-5905370/nasa-nancy-grace-roman-space-telescope-dark-energy-supernova",
-      "score": 13,
-      "comments": 1,
+      "score": 50,
+      "comments": 6,
       "author": "topspin",
       "tags": [],
       "date": "2026-08-28T18:53:48+00:00"
@@ -628,7 +672,7 @@
       "source": "hn",
       "title": "Creating the Aetheryte Radio",
       "url": "https://haz.ee/posts/aetheryte-radio.html",
-      "score": 56,
+      "score": 65,
       "comments": 12,
       "author": "wonger_",
       "tags": [],
@@ -669,6 +713,17 @@
         "Qiita"
       ],
       "date": "2026-08-28T23:00:24+09:00"
+    },
+    {
+      "id": "hn-49478287",
+      "source": "hn",
+      "title": "The Finn – an agent that lives in my router and complains about it",
+      "url": "https://github.com/YuriKovalov22/the-finn",
+      "score": 10,
+      "comments": 1,
+      "author": "YuriiKovalov",
+      "tags": [],
+      "date": "2026-08-28T13:38:30+00:00"
     },
     {
       "id": "hn-49478178",
@@ -2286,8 +2341,8 @@
       "source": "hn",
       "title": "Recovering Corrupt Zip Files",
       "url": "https://www.construct.net/en/blogs/ashleys-blog-2/recovering-corrupt-zip-files-1895",
-      "score": 12,
-      "comments": 1,
+      "score": 28,
+      "comments": 6,
       "author": "AshleysBrain",
       "tags": [],
       "date": "2026-08-26T13:14:46+00:00"
@@ -2399,8 +2454,8 @@
       "source": "hn",
       "title": "Show HN: Typebase – A single-folder back end you write in TypeScript",
       "url": "https://typebase.io",
-      "score": 83,
-      "comments": 18,
+      "score": 94,
+      "comments": 24,
       "author": "andrewww-dev",
       "tags": [],
       "date": "2026-08-26T11:33:31+00:00"
@@ -3329,8 +3384,8 @@
       "source": "hn",
       "title": "EVE Online moves to Python 3",
       "url": "https://www.eveonline.com/news/view/the-move-to-python-3-begins",
-      "score": 256,
-      "comments": 134,
+      "score": 286,
+      "comments": 150,
       "author": "TylerJaacks",
       "tags": [],
       "date": "2026-08-25T13:04:55+00:00"
@@ -3629,8 +3684,8 @@
       "source": "hn",
       "title": "Sleepwalker: Passive Backdoor with Its Own Command Language",
       "url": "https://r136a1.dev/2026/08/24/sleepwalker-a-passive-backdoor-with-its-own-command-language/",
-      "score": 46,
-      "comments": 5,
+      "score": 52,
+      "comments": 7,
       "author": "defrost",
       "tags": [],
       "date": "2026-08-25T03:26:09+00:00"
@@ -3810,8 +3865,8 @@
       "source": "hn",
       "title": "SQLite as a Document Database (2020)",
       "url": "https://dgl.cx/2020/06/sqlite-json-support",
-      "score": 135,
-      "comments": 42,
+      "score": 157,
+      "comments": 43,
       "author": "lioeters",
       "tags": [],
       "date": "2026-08-24T23:00:10+00:00"
@@ -3899,8 +3954,8 @@
       "source": "hn",
       "title": "Glacier Mice",
       "url": "https://en.wikipedia.org/wiki/Glacier_mice",
-      "score": 221,
-      "comments": 45,
+      "score": 244,
+      "comments": 48,
       "author": "ostacke",
       "tags": [],
       "date": "2026-08-24T18:58:13+00:00"
@@ -4848,8 +4903,8 @@
       "source": "hn",
       "title": "Tether: iMessage, SMS, etc. on Linux",
       "url": "https://zackbartel.com/blog/2026/08/tether/",
-      "score": 227,
-      "comments": 102,
+      "score": 297,
+      "comments": 127,
       "author": "zackb",
       "tags": [],
       "date": "2026-08-24T05:09:23+00:00"
@@ -5124,61 +5179,6 @@
       "date": "2026-08-23T21:41:17+00:00"
     },
     {
-      "id": "hn-49412467",
-      "source": "hn",
-      "title": "Declarative WebGPU with S-Expressions",
-      "url": "https://hugodaniel.com/posts/declarative-webgpu-with-s-expressions/",
-      "score": 28,
-      "comments": 3,
-      "author": "hugodan",
-      "tags": [],
-      "date": "2026-08-23T20:47:53+00:00"
-    },
-    {
-      "id": "hn-49412396",
-      "source": "hn",
-      "title": "I were 17, I'd learn how to build LLMs from scratch",
-      "url": "https://twitter.com/paulg/status/2091544343589060625",
-      "score": 559,
-      "comments": 641,
-      "author": "bilsbie",
-      "tags": [],
-      "date": "2026-08-23T20:38:09+00:00"
-    },
-    {
-      "id": "hn-49412328",
-      "source": "hn",
-      "title": "Rural Village in Spain Is Welcoming Digital Nomads with Open Arms",
-      "url": "https://www.cntraveler.com/story/this-rural-village-in-spain-is-welcoming-digital-nomads-with-open-arms",
-      "score": 78,
-      "comments": 54,
-      "author": "simonebrunozzi",
-      "tags": [],
-      "date": "2026-08-23T20:30:50+00:00"
-    },
-    {
-      "id": "hn-49412176",
-      "source": "hn",
-      "title": "Decoding silent reading from non-invasive EEG",
-      "url": "https://arxiv.org/abs/2608.20186",
-      "score": 47,
-      "comments": 23,
-      "author": "root-parent",
-      "tags": [],
-      "date": "2026-08-23T20:13:34+00:00"
-    },
-    {
-      "id": "hn-49411800",
-      "source": "hn",
-      "title": "Training AI to Paint with Code",
-      "url": "https://surya.website/rling-qwen-to-paint-with-code",
-      "score": 136,
-      "comments": 16,
-      "author": "Tiberium",
-      "tags": [],
-      "date": "2026-08-23T19:39:29+00:00"
-    },
-    {
       "id": "ctf-4372374",
       "source": "project",
       "proj_category": "CTF",
@@ -5390,30 +5390,17 @@
       "date": "2023-05-23T17:06:23Z"
     },
     {
-      "id": "zenn-060ee7a030",
+      "id": "zenn-bd2596f19c",
       "source": "zennqiita",
       "sub_source": "Zenn",
-      "title": "Affinity で `xlink:href` で継承される色属性を含むSVG図形が適切に描画されない",
-      "url": "https://zenn.dev/sasakulari/articles/283c9012d83fbe",
+      "title": "GPUを燃やさないために - RTX 5090にパワーリミットをかけると、性能はどれだけ落ち、どれだけ冷えるのか -",
+      "url": "https://zenn.dev/holy_fox/articles/572083c130ce46",
       "score": null,
-      "author": "Michiru Tsurumaru",
+      "author": "ほーりーふぉっくす",
       "tags": [
         "Zenn"
       ],
-      "date": "Fri, 28 Aug 2026 14:14:03 GMT"
-    },
-    {
-      "id": "zenn-bc573ddcb2",
-      "source": "zennqiita",
-      "sub_source": "Zenn",
-      "title": "GitHub Enterprise導入とTeams再設計で最小権限と俊敏性を両立。30人規模スタートアップの実践",
-      "url": "https://zenn.dev/unsoluble_sugar/articles/github-org-least-privilege",
-      "score": null,
-      "author": "星影",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Fri, 28 Aug 2026 12:08:53 GMT"
+      "date": "Sat, 29 Aug 2026 03:52:52 GMT"
     },
     {
       "id": "zenn-892ee21492",
@@ -5453,19 +5440,6 @@
         "Zenn"
       ],
       "date": "Fri, 28 Aug 2026 04:23:26 GMT"
-    },
-    {
-      "id": "zenn-37cd5da48a",
-      "source": "zennqiita",
-      "sub_source": "Zenn",
-      "title": "ICFPC 2026における人間とAIの共闘",
-      "url": "https://zenn.dev/estie/articles/a6d1e78e8e41d5",
-      "score": null,
-      "author": "Fumiya Suto",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Fri, 28 Aug 2026 03:11:50 GMT"
     },
     {
       "id": "zenn-e2a2ac12e5",
@@ -5546,19 +5520,6 @@
       "date": "Wed, 26 Aug 2026 15:39:54 GMT"
     },
     {
-      "id": "zenn-2fa17abb11",
-      "source": "zennqiita",
-      "sub_source": "Zenn",
-      "title": "日本語配列の磁気式キーボードを基板からフルスクラッチしてみた",
-      "url": "https://zenn.dev/aniki_maker/articles/33d1dc45604537",
-      "score": null,
-      "author": "Aniki",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Wed, 26 Aug 2026 14:35:58 GMT"
-    },
-    {
       "id": "zenn-876a3688cb",
       "source": "zennqiita",
       "sub_source": "Zenn",
@@ -5572,6 +5533,19 @@
       "date": "Wed, 26 Aug 2026 11:58:18 GMT"
     },
     {
+      "id": "zenn-47d3a35380",
+      "source": "zennqiita",
+      "sub_source": "Zenn",
+      "title": "メッシュグラデーションをSVGで「真面目に」近似する",
+      "url": "https://zenn.dev/yayo1/articles/ffd14050214f52",
+      "score": null,
+      "author": "やよい",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Tue, 25 Aug 2026 09:11:34 GMT"
+    },
+    {
       "id": "zenn-273b83a159",
       "source": "zennqiita",
       "sub_source": "Zenn",
@@ -5583,6 +5557,19 @@
         "Zenn"
       ],
       "date": "Tue, 25 Aug 2026 05:00:05 GMT"
+    },
+    {
+      "id": "zenn-db3850368d",
+      "source": "zennqiita",
+      "sub_source": "Zenn",
+      "title": "オンコール手当の相場を50社分調べて、1社も見つからなかった話",
+      "url": "https://zenn.dev/cscloud_blog/articles/e0ea529d061906",
+      "score": null,
+      "author": "yuta_k0911",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Tue, 25 Aug 2026 01:27:28 GMT"
     },
     {
       "id": "zenn-8c0c4c9473",
@@ -5622,6 +5609,19 @@
         "Zenn"
       ],
       "date": "Mon, 24 Aug 2026 12:23:26 GMT"
+    },
+    {
+      "id": "zenn-e1bcf59983",
+      "source": "zennqiita",
+      "sub_source": "Zenn",
+      "title": "あなたのHTML資料には、魂が込められていますか？",
+      "url": "https://zenn.dev/tokium_dev/articles/html-shiryo-ni-tamashii",
+      "score": null,
+      "author": "タケノコご飯",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Mon, 24 Aug 2026 07:06:24 GMT"
     },
     {
       "id": "zenn-2bde2f963e",

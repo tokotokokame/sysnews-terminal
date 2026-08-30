@@ -1,7 +1,107 @@
 {
-  "updated_at": "2026-08-30T14:41:33.110980+00:00",
+  "updated_at": "2026-08-30T18:25:33.900408+00:00",
   "count": 500,
   "items": [
+    {
+      "id": "hn-49501147",
+      "source": "hn",
+      "title": "Running SQLite Apps on Docker and Kubernetes with Litestream",
+      "url": "https://openrun.dev/blog/litestream/",
+      "score": 3,
+      "comments": 1,
+      "author": "ajayvk",
+      "tags": [],
+      "date": "2026-08-30T18:05:06+00:00"
+    },
+    {
+      "id": "hn-49501002",
+      "source": "hn",
+      "title": "Should We Have Kept the American Empire?",
+      "url": "https://www.maximum-progress.com/p/should-we-have-kept-the-american",
+      "score": 7,
+      "comments": 0,
+      "author": "vinnyglennon",
+      "tags": [],
+      "date": "2026-08-30T17:50:06+00:00"
+    },
+    {
+      "id": "hn-49500471",
+      "source": "hn",
+      "title": "Artie (YC S23) Is Hiring Technical AES",
+      "url": "https://www.artie.com/careers?ashby_jid=e87b84d2-78b3-41a3-937a-47e83643cdf1",
+      "score": 1,
+      "comments": 0,
+      "author": "j-cheong",
+      "tags": [],
+      "date": "2026-08-30T17:01:56+00:00"
+    },
+    {
+      "id": "hn-49499891",
+      "source": "hn",
+      "title": "Coordination Headwind: How Organizations Are Like Slime Molds",
+      "url": "https://komoroske.com/slime-mold/",
+      "score": 44,
+      "comments": 16,
+      "author": "rzk",
+      "tags": [],
+      "date": "2026-08-30T16:03:17+00:00"
+    },
+    {
+      "id": "hn-49499867",
+      "source": "hn",
+      "title": "Haiku R1/beta6 has been released",
+      "url": "https://www.haiku-os.org/news/2026-08-26_haiku_r1_beta6",
+      "score": 109,
+      "comments": 24,
+      "author": "metrofun",
+      "tags": [],
+      "date": "2026-08-30T16:01:10+00:00"
+    },
+    {
+      "id": "hn-49499854",
+      "source": "hn",
+      "title": "Omarchy: Any User Process Can Escalate to Root",
+      "url": "https://0xcc.io/posts/omarchy-root-creds/",
+      "score": 195,
+      "comments": 189,
+      "author": "trap0xcc",
+      "tags": [],
+      "date": "2026-08-30T15:59:49+00:00"
+    },
+    {
+      "id": "hn-49499394",
+      "source": "hn",
+      "title": "European Commission Revives Push for Encryption Backdoors in ProtectEU Strategy",
+      "url": "https://reclaimthenet.org/eu-protecteu-strategy-encryption-backdoor-law-enforcement",
+      "score": 171,
+      "comments": 59,
+      "author": "nickslaughter02",
+      "tags": [],
+      "date": "2026-08-30T15:12:40+00:00"
+    },
+    {
+      "id": "hn-49499095",
+      "source": "hn",
+      "title": "Zig: Pointer Stability for ArrayLists",
+      "url": "https://ziglang.org/devlog/2026/#2026-08-27",
+      "score": 35,
+      "comments": 4,
+      "author": "tosh",
+      "tags": [],
+      "date": "2026-08-30T14:41:53+00:00"
+    },
+    {
+      "id": "hn-49498978",
+      "source": "hn",
+      "title": "Europe's summer drought is so extreme that desertification is a growing threat",
+      "url": "https://fortune.com/2026/08/29/europe-summer-drought-desertification-threat-rivers-fish/",
+      "score": 126,
+      "comments": 133,
+      "author": "Brajeshwar",
+      "tags": [],
+      "date": "2026-08-30T14:29:25+00:00",
+      "severity": "medium"
+    },
     {
       "id": "qiita-ac3f36b06f",
       "source": "zennqiita",
@@ -14,6 +114,17 @@
         "Qiita"
       ],
       "date": "2026-08-30T23:13:41+09:00"
+    },
+    {
+      "id": "hn-49498787",
+      "source": "hn",
+      "title": "METR and Redwood Offer Holy %^ Postmortem of the HuggingFace Hack",
+      "url": "https://thezvi.wordpress.com/2026/08/29/metr-and-redwood-offer-holy-postmortem-of-the-huggingface-hack/",
+      "score": 57,
+      "comments": 22,
+      "author": "catbird",
+      "tags": [],
+      "date": "2026-08-30T14:06:54+00:00"
     },
     {
       "id": "hn-49498201",
@@ -53,8 +164,8 @@
       "source": "hn",
       "title": "Automating Immersive Reading",
       "url": "https://smoores.dev/post/automating_immersive_reading/",
-      "score": 29,
-      "comments": 9,
+      "score": 59,
+      "comments": 17,
       "author": "smoores",
       "tags": [],
       "date": "2026-08-30T11:46:23+00:00"
@@ -64,8 +175,8 @@
       "source": "hn",
       "title": "An implementation of Conway's Game of Life for Windows 3.1x and later",
       "url": "https://www.muppetlabs.com/~breadbox/software/windows.html",
-      "score": 28,
-      "comments": 3,
+      "score": 40,
+      "comments": 7,
       "author": "Bluestein",
       "tags": [],
       "date": "2026-08-30T11:41:40+00:00"
@@ -75,11 +186,22 @@
       "source": "hn",
       "title": "Hacking IKEA Furniture",
       "url": "https://greenlightning.eu/diy/hacking-ikea-furniture/",
-      "score": 90,
-      "comments": 34,
+      "score": 189,
+      "comments": 104,
       "author": "greenlightning",
       "tags": [],
       "date": "2026-08-30T11:39:43+00:00"
+    },
+    {
+      "id": "hn-49497200",
+      "source": "hn",
+      "title": "Building my own network stack",
+      "url": "https://blog.lyc8503.net/en/post/dn42-2-dnet/",
+      "score": 78,
+      "comments": 63,
+      "author": "uneven9434",
+      "tags": [],
+      "date": "2026-08-30T09:52:15+00:00"
     },
     {
       "id": "hn-49497063",
@@ -97,8 +219,8 @@
       "source": "hn",
       "title": "Arbitrary code execution in QubesOS via copy-to-VM error reporting backchannel",
       "url": "https://www.qubes-os.org/news/2026/08/29/qsb-118/",
-      "score": 121,
-      "comments": 49,
+      "score": 169,
+      "comments": 66,
       "author": "vntok",
       "tags": [],
       "date": "2026-08-30T08:51:39+00:00"
@@ -108,8 +230,8 @@
       "source": "hn",
       "title": "Longest Straight Line Paths on Water or Land on the Earth (2018)",
       "url": "https://arxiv.org/abs/1804.07389",
-      "score": 143,
-      "comments": 38,
+      "score": 172,
+      "comments": 49,
       "author": "joebig",
       "tags": [],
       "date": "2026-08-30T08:23:26+00:00"
@@ -187,8 +309,8 @@
       "source": "hn",
       "title": "Bug Blindness",
       "url": "https://danluu.com/bug-blind/",
-      "score": 328,
-      "comments": 200,
+      "score": 354,
+      "comments": 229,
       "author": "davidmckenna",
       "tags": [],
       "date": "2026-08-30T00:21:40+00:00"
@@ -356,8 +478,8 @@
       "source": "hn",
       "title": "Creepy Crawlies",
       "url": "https://people.kernel.org/monsieuricon/creepy-crawlies",
-      "score": 24,
-      "comments": 7,
+      "score": 407,
+      "comments": 196,
       "author": "zdw",
       "tags": [],
       "date": "2026-08-29T17:49:01+00:00"
@@ -527,10 +649,10 @@
     {
       "id": "hn-49489274",
       "source": "hn",
-      "title": "When Fruit Is Scarce, These Monkeys Hunt Animals",
+      "title": "When fruit is scarce, these monkeys hunt animals",
       "url": "https://www.smithsonianmag.com/smart-news/when-fruit-is-scarce-these-monkeys-hunt-animals-the-behavior-may-offer-clues-about-the-origins-of-humans-meat-eating-habits-180989412/",
-      "score": 5,
-      "comments": 0,
+      "score": 36,
+      "comments": 12,
       "author": "cisc",
       "tags": [],
       "date": "2026-08-29T12:14:18+00:00",
@@ -1307,6 +1429,17 @@
       "date": "2026-08-28T14:09:03+09:00"
     },
     {
+      "id": "hn-49474515",
+      "source": "hn",
+      "title": "Synchronisation and SMPTE timecode (time code)",
+      "url": "https://www.philrees.co.uk/articles/timecode.htm",
+      "score": 7,
+      "comments": 0,
+      "author": "sublinear",
+      "tags": [],
+      "date": "2026-08-28T04:58:34+00:00"
+    },
+    {
       "id": "hn-49474060",
       "source": "hn",
       "title": "GoGoGrandparent (YC S16) is hiring back end engineers",
@@ -1576,6 +1709,17 @@
       "date": "2026-08-27T17:50:57+00:00"
     },
     {
+      "id": "hn-49468126",
+      "source": "hn",
+      "title": "Dad's Custom Atari Peripherals – By Jim Trageser",
+      "url": "https://www.goto10retro.com/p/dads-custom-atari-peripherals",
+      "score": 39,
+      "comments": 8,
+      "author": "rbanffy",
+      "tags": [],
+      "date": "2026-08-27T17:20:21+00:00"
+    },
+    {
       "id": "hn-49468083",
       "source": "hn",
       "title": "Saving 100 terabytes of memory by optimizing 1.1.1.1's DNS cache",
@@ -1832,11 +1976,22 @@
       "source": "hn",
       "title": "Casey Muratori – The Root of the Root of All Evil – BSC 2026 [video]",
       "url": "https://www.youtube.com/watch?v=hpj6r6CjJf8",
-      "score": 135,
-      "comments": 34,
+      "score": 221,
+      "comments": 106,
       "author": "surprisetalk",
       "tags": [],
       "date": "2026-08-27T12:40:43+00:00"
+    },
+    {
+      "id": "hn-49463397",
+      "source": "hn",
+      "title": "Electric rain can eat through metal",
+      "url": "https://www.scientificamerican.com/article/electric-rain-can-eat-through-metal/",
+      "score": 41,
+      "comments": 6,
+      "author": "sohkamyung",
+      "tags": [],
+      "date": "2026-08-27T12:04:11+00:00"
     },
     {
       "id": "hn-49463361",
@@ -4347,8 +4502,8 @@
       "source": "hn",
       "title": "RISC-V is now officially supported by CPython",
       "url": "https://blog.python.org/2026/08/riscv-now-officially-supported/",
-      "score": 239,
-      "comments": 44,
+      "score": 275,
+      "comments": 46,
       "author": "lumpa",
       "tags": [],
       "date": "2026-08-24T20:12:22+00:00"
@@ -4916,8 +5071,8 @@
       "source": "hn",
       "title": "What my dad taught me about AI coding in the 90s",
       "url": "https://askmike.org/articles/ai-coding-lessons-in-the-90s-from-my-dad/",
-      "score": 53,
-      "comments": 12,
+      "score": 90,
+      "comments": 45,
       "author": "askmike",
       "tags": [],
       "date": "2026-08-24T13:19:55+00:00"
@@ -5013,164 +5168,6 @@
       "author": "snvzz",
       "tags": [],
       "date": "2026-08-24T11:32:51+00:00"
-    },
-    {
-      "id": "hn-49418184",
-      "source": "hn",
-      "title": "Why older tech is sometimes safer from hackers",
-      "url": "https://www.bbc.com/future/article/20260821-why-older-tech-is-sometimes-safer-from-hackers",
-      "score": 67,
-      "comments": 48,
-      "author": "tchalla",
-      "tags": [],
-      "date": "2026-08-24T11:23:39+00:00"
-    },
-    {
-      "id": "hn-49418163",
-      "source": "hn",
-      "title": "Agent Is Not the Model",
-      "url": "https://code.joejag.com/2026/your-agent-is-not-the-model.html",
-      "score": 49,
-      "comments": 20,
-      "author": "joejag",
-      "tags": [],
-      "date": "2026-08-24T11:20:40+00:00"
-    },
-    {
-      "id": "hn-49418117",
-      "source": "hn",
-      "title": "Omakase Computing",
-      "url": "https://learn.omacom.io/3/omacom/76/omakase-computing",
-      "score": 29,
-      "comments": 27,
-      "author": "Bluestein",
-      "tags": [],
-      "date": "2026-08-24T11:13:53+00:00"
-    },
-    {
-      "id": "qiita-5da652e1c0",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "【cdkd(CDK Direct)】CloudFormationを経由しないCDKデプロイ!? cdkdによる高速デプロイを試してみた！",
-      "url": "https://qiita.com/yosuke-suzuki/items/e6970d4882b064216ee9?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "yosuke-suzuki",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-08-24T20:11:47+09:00"
-    },
-    {
-      "id": "hn-49418032",
-      "source": "hn",
-      "title": "Omacom Foundation funding hits $10M",
-      "url": "https://omarchy.org/news/2026/08/omacom-foundation-funding-hits-10m/",
-      "score": 4,
-      "comments": 1,
-      "author": "tosh",
-      "tags": [],
-      "date": "2026-08-24T11:04:42+00:00"
-    },
-    {
-      "id": "hn-49417941",
-      "source": "hn",
-      "title": "The treasury bond mess: is this the demise of the US as a safe haven?",
-      "url": "https://www.theguardian.com/business/2026/aug/24/treasury-bonds-trump-administration-debt",
-      "score": 76,
-      "comments": 49,
-      "author": "fittingopposite",
-      "tags": [],
-      "date": "2026-08-24T10:52:24+00:00"
-    },
-    {
-      "id": "hn-49417684",
-      "source": "hn",
-      "title": "Show HN: Vanilla OS 3 Reunion – Immutable and Reproducible Operating System",
-      "url": "https://vanillaos.org/blog/article/2026-08-24/vanilla-os-3-reunion---stable-release",
-      "score": 18,
-      "comments": 6,
-      "author": "NN708",
-      "tags": [],
-      "date": "2026-08-24T10:18:03+00:00"
-    },
-    {
-      "id": "hn-49417662",
-      "source": "hn",
-      "title": "Kmart Digicam Mod Part 2",
-      "url": "https://mason.bearblog.dev/kmart-digicam-mod-part-2/",
-      "score": 9,
-      "comments": 0,
-      "author": "masoniamme",
-      "tags": [],
-      "date": "2026-08-24T10:14:50+00:00"
-    },
-    {
-      "id": "hn-49417394",
-      "source": "hn",
-      "title": "Woman stranded in Spain after UK's eVisa system mistakes her for twin sister",
-      "url": "https://www.theguardian.com/uk-news/2026/aug/24/woman-stranded-spain-uk-evisa-system-mistakes-twin-sister",
-      "score": 143,
-      "comments": 107,
-      "author": "giuliomagnifico",
-      "tags": [],
-      "date": "2026-08-24T09:45:02+00:00"
-    },
-    {
-      "id": "hn-49417298",
-      "source": "hn",
-      "title": "Monzo Stand-In",
-      "url": "https://monzo.com/blog/tolerating-full-cloud-outages-with-monzo-stand-in",
-      "score": 102,
-      "comments": 45,
-      "author": "coffeefuel",
-      "tags": [],
-      "date": "2026-08-24T09:30:09+00:00"
-    },
-    {
-      "id": "hn-49416953",
-      "source": "hn",
-      "title": "The Future Belongs to the Weird",
-      "url": "https://essays.georgestrakhov.com/weird/",
-      "score": 79,
-      "comments": 48,
-      "author": "georgestrakhov",
-      "tags": [],
-      "date": "2026-08-24T08:46:19+00:00"
-    },
-    {
-      "id": "qiita-4c6417bc45",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "anthropic SDK が httpx をやめました。移行しても動くので気づけません",
-      "url": "https://qiita.com/jqit_suwa/items/5edf6037203a15c3fdfd?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "jqit_suwa",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-08-24T17:30:43+09:00"
-    },
-    {
-      "id": "hn-49416652",
-      "source": "hn",
-      "title": "Fast drilldown dashboards from a single Parquet file",
-      "url": "https://www.hamiltonulmer.com/customer-dashboards-r2-hyparquet/",
-      "score": 126,
-      "comments": 10,
-      "author": "v3gas",
-      "tags": [],
-      "date": "2026-08-24T08:13:17+00:00"
-    },
-    {
-      "id": "hn-49415386",
-      "source": "hn",
-      "title": "Tether: iMessage, SMS, etc. on Linux",
-      "url": "https://zackbartel.com/blog/2026/08/tether/",
-      "score": 498,
-      "comments": 196,
-      "author": "zackb",
-      "tags": [],
-      "date": "2026-08-24T05:09:23+00:00"
     },
     {
       "id": "ctf-4372374",

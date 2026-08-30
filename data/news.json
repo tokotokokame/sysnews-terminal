@@ -1,7 +1,62 @@
 {
-  "updated_at": "2026-08-30T03:51:47.586818+00:00",
+  "updated_at": "2026-08-30T09:45:59.753112+00:00",
   "count": 500,
   "items": [
+    {
+      "id": "hn-49497063",
+      "source": "hn",
+      "title": "Brits would quite like their private messages to stay private",
+      "url": "https://www.theregister.com/security/2026/08/30/turns-out-brits-would-quite-like-their-private-messages-to-stay-private/5292994",
+      "score": 8,
+      "comments": 2,
+      "author": "defrost",
+      "tags": [],
+      "date": "2026-08-30T09:26:08+00:00"
+    },
+    {
+      "id": "hn-49496918",
+      "source": "hn",
+      "title": "Arbitrary code execution in QubesOS via copy-to-VM error reporting backchannel",
+      "url": "https://www.qubes-os.org/news/2026/08/29/qsb-118/",
+      "score": 12,
+      "comments": 1,
+      "author": "vntok",
+      "tags": [],
+      "date": "2026-08-30T08:51:39+00:00"
+    },
+    {
+      "id": "hn-49496782",
+      "source": "hn",
+      "title": "Longest Straight Line Paths on Water or Land on the Earth (2018)",
+      "url": "https://arxiv.org/abs/1804.07389",
+      "score": 27,
+      "comments": 5,
+      "author": "joebig",
+      "tags": [],
+      "date": "2026-08-30T08:23:26+00:00"
+    },
+    {
+      "id": "hn-49496543",
+      "source": "hn",
+      "title": "Xcena and Samsung's Near Memory Compute CXL Device",
+      "url": "https://chipsandcheese.com/p/hot-chips-2026-xcena-and-samsungs",
+      "score": 7,
+      "comments": 0,
+      "author": "klelatti",
+      "tags": [],
+      "date": "2026-08-30T07:35:41+00:00"
+    },
+    {
+      "id": "hn-49495372",
+      "source": "hn",
+      "title": "California lawmakers unanimously pass Linux exemption from age-verification law",
+      "url": "https://www.tomshardware.com/software/linux/california-lawmakers-unanimously-pass-linux-exemption-from-age-verification-law-software-distributed-under-the-gpl-mit-bsd-and-apache-licenses-are-exempt",
+      "score": 280,
+      "comments": 107,
+      "author": "shscs911",
+      "tags": [],
+      "date": "2026-08-30T03:15:36+00:00"
+    },
     {
       "id": "hn-49495127",
       "source": "hn",
@@ -14,12 +69,25 @@
       "date": "2026-08-30T02:25:32+00:00"
     },
     {
+      "id": "qiita-ac3f36b06f",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "ESP32 シリーズを使ってイチから電子工作まとめ　 (回路設計/基板設計編)",
+      "url": "https://qiita.com/_shin_/items/47bc69006f6467d79e91?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "_shin_",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-08-30T11:14:01+09:00"
+    },
+    {
       "id": "hn-49494856",
       "source": "hn",
       "title": "FreeCORE TrueNAS Core – Continued",
       "url": "https://freecore.org/",
-      "score": 47,
-      "comments": 20,
+      "score": 97,
+      "comments": 57,
       "author": "sashk",
       "tags": [],
       "date": "2026-08-30T01:31:32+00:00"
@@ -29,22 +97,59 @@
       "source": "hn",
       "title": "Benjamin Franklin's Alter Egos Gave Him the Most Freedom",
       "url": "https://www.smithsonianmag.com/history/among-all-great-things-benjamin-franklin-invented-discovered-alter-egos-gave-him-most-freedom-180988824/",
-      "score": 5,
-      "comments": 0,
+      "score": 64,
+      "comments": 26,
       "author": "cisc",
       "tags": [],
       "date": "2026-08-30T01:09:15+00:00"
+    },
+    {
+      "id": "qiita-3a386fd685",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "読書感想文『運用設計の教科書』監視運用編（p240〜p252）",
+      "url": "https://qiita.com/RYA234/items/03d18a344c934dd55ec0?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "RYA234",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-08-30T09:59:56+09:00"
     },
     {
       "id": "hn-49494520",
       "source": "hn",
       "title": "Bug Blindness",
       "url": "https://danluu.com/bug-blind/",
-      "score": 106,
-      "comments": 37,
+      "score": 253,
+      "comments": 143,
       "author": "davidmckenna",
       "tags": [],
       "date": "2026-08-30T00:21:40+00:00"
+    },
+    {
+      "id": "hn-49494301",
+      "source": "hn",
+      "title": "The Rise and Fall of Agent Civilizations",
+      "url": "https://www.dwarkesh.com/p/openai-huggingface",
+      "score": 111,
+      "comments": 52,
+      "author": "consumer451",
+      "tags": [],
+      "date": "2026-08-29T23:43:24+00:00"
+    },
+    {
+      "id": "qiita-35abf22296",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "HaskellでABC473を解く",
+      "url": "https://qiita.com/TThaskboy/items/b224322490bdbc3bcb8d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "TThaskboy",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-08-30T08:32:47+09:00"
     },
     {
       "id": "hn-49494231",
@@ -62,8 +167,8 @@
       "source": "hn",
       "title": "Lawmakers added $1 to car insurance policies. That money paid for Flock cameras",
       "url": "https://www.texastribune.org/2026/08/28/texas-flock-cameras-auto-insurance-fee-mvcpa-grants/",
-      "score": 168,
-      "comments": 72,
+      "score": 299,
+      "comments": 170,
       "author": "DeepLogin",
       "tags": [],
       "date": "2026-08-29T23:17:17+00:00"
@@ -78,6 +183,19 @@
       "author": "lisper",
       "tags": [],
       "date": "2026-08-29T23:12:25+00:00"
+    },
+    {
+      "id": "qiita-c5583feeeb",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "Stripe で販売者に売り上げを帰属させる方法",
+      "url": "https://qiita.com/yamakazoo/items/a1e5ac9f4a6b849c74bc?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "yamakazoo",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-08-30T08:09:35+09:00"
     },
     {
       "id": "hn-49494036",
@@ -106,8 +224,8 @@
       "source": "hn",
       "title": "Hy4 preview",
       "url": "https://www.tencent.com/tencent-releases-and-open-sources-tencent-hy4-preview/",
-      "score": 227,
-      "comments": 134,
+      "score": 296,
+      "comments": 189,
       "author": "shenli3514",
       "tags": [],
       "date": "2026-08-29T19:33:23+00:00"
@@ -128,8 +246,8 @@
       "source": "hn",
       "title": "Functional State Machines in Rust: Typestate and Newtype Patterns",
       "url": "https://dl.acm.org/doi/10.1145/3830438.3830958",
-      "score": 60,
-      "comments": 20,
+      "score": 88,
+      "comments": 35,
       "author": "matt_d",
       "tags": [],
       "date": "2026-08-29T19:01:09+00:00"
@@ -172,8 +290,8 @@
       "source": "hn",
       "title": "Calibrate Before You Accelerate: Bias Toward Action in a New Role",
       "url": "https://tucker.wales/writing/bias-towards-action/",
-      "score": 129,
-      "comments": 53,
+      "score": 160,
+      "comments": 62,
       "author": "tuckerwales",
       "tags": [],
       "date": "2026-08-29T17:39:18+00:00"
@@ -227,8 +345,8 @@
       "source": "hn",
       "title": "Nancy Grace Roman Space Telescope",
       "url": "https://science.nasa.gov/mission/roman-space-telescope/",
-      "score": 151,
-      "comments": 68,
+      "score": 196,
+      "comments": 79,
       "author": "JumpCrisscross",
       "tags": [],
       "date": "2026-08-29T15:48:02+00:00"
@@ -256,6 +374,45 @@
       "date": "2026-08-29T15:26:28+00:00"
     },
     {
+      "id": "qiita-7d1f60c4c2",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "【AWS】AgentCore Runtimeのフェールオーバーとリトライ設計について確認しました",
+      "url": "https://qiita.com/yakumo_09/items/6f83dc660382f10388c3?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "yakumo_09",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-08-30T00:01:49+09:00"
+    },
+    {
+      "id": "qiita-b1aa87db31",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "【AWS DevOps Agent】コードレビューと自動検証テストの検証",
+      "url": "https://qiita.com/aliean/items/bec57a9a20c7f9e60f79?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "aliean",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-08-29T23:59:25+09:00"
+    },
+    {
+      "id": "qiita-fabfd76b02",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "Azure無料枠を意識してWindows Server 2022を構築してみた",
+      "url": "https://qiita.com/NoguchiHikaru/items/d55d3b9cfdc38a07034d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "NoguchiHikaru",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-08-29T23:54:20+09:00"
+    },
+    {
       "id": "hn-49490138",
       "source": "hn",
       "title": "Indirect Calling of Nested Functions on GCC Without Executable Stack",
@@ -276,6 +433,32 @@
       "author": "pluc",
       "tags": [],
       "date": "2026-08-29T14:02:10+00:00"
+    },
+    {
+      "id": "qiita-9d0925a183",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "Claude Codeでトライ！④ - Claude CodeとFlutterで麻雀点数計算アプリを作ってみた",
+      "url": "https://qiita.com/OnuuuumaX/items/4bb47e2770e28207778a?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "OnuuuumaX",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-08-29T22:21:02+09:00"
+    },
+    {
+      "id": "qiita-662e07d2bf",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "Active Directoryを構築しよう",
+      "url": "https://qiita.com/takumi_security/items/b7c90c0ad73ffe3b54ea?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "takumi_security",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-08-29T20:51:40+09:00"
     },
     {
       "id": "hn-49489057",
@@ -874,6 +1057,19 @@
       "date": "2026-08-28T17:28:33+09:00"
     },
     {
+      "id": "qiita-cdc0e289c3",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "ガバメントクラウドAWS環境における統合監視・AIによる障害時自動調査について検討してみた",
+      "url": "https://qiita.com/fj_yoshimura_kosuke/items/1cb40e25071475268431?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "fj_yoshimura_kosuke",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-08-28T17:21:54+09:00"
+    },
+    {
       "id": "qiita-ad8cd5b249",
       "source": "zennqiita",
       "sub_source": "Qiita",
@@ -1229,8 +1425,8 @@
       "source": "hn",
       "title": "Benchmarking Pocket-Scale Inference",
       "url": "https://artificialanalysis.ai/hardware-inference-stack/mobile-phones",
-      "score": 6,
-      "comments": 0,
+      "score": 45,
+      "comments": 4,
       "author": "sys42590",
       "tags": [],
       "date": "2026-08-27T19:12:03+00:00"
@@ -1977,6 +2173,17 @@
       "date": "2026-08-26T18:20:09+00:00"
     },
     {
+      "id": "hn-49453232",
+      "source": "hn",
+      "title": "The Einstein-Szilard Refrigerator",
+      "url": "https://invention.si.edu/invention-stories/einstein-szilard-refrigerator",
+      "score": 21,
+      "comments": 3,
+      "author": "EndXA",
+      "tags": [],
+      "date": "2026-08-26T17:58:48+00:00"
+    },
+    {
       "id": "hn-49453161",
       "source": "hn",
       "title": "The Tariff Cost: analysis of the costs to Americans from new tariffs on Canada",
@@ -2227,8 +2434,8 @@
       "source": "hn",
       "title": "Is it safe to call print in a Python signal handler?",
       "url": "https://iafisher.com/2026/08/sigprint",
-      "score": 27,
-      "comments": 4,
+      "score": 47,
+      "comments": 26,
       "author": "hellerve",
       "tags": [],
       "date": "2026-08-26T14:53:41+00:00"
@@ -3210,6 +3417,17 @@
       "date": "2026-08-25T16:58:31+00:00"
     },
     {
+      "id": "hn-49437117",
+      "source": "hn",
+      "title": "Orbs",
+      "url": "https://ampcode.com/notes/orbs-explained",
+      "score": 5,
+      "comments": 0,
+      "author": "tosh",
+      "tags": [],
+      "date": "2026-08-25T16:56:15+00:00"
+    },
+    {
       "id": "hn-49437069",
       "source": "hn",
       "title": "My Friend Aaron",
@@ -3432,6 +3650,17 @@
       "date": "2026-08-25T13:32:52+00:00"
     },
     {
+      "id": "hn-49433554",
+      "source": "hn",
+      "title": "Creating Teensy ELF Executables for Linux (Or, \"Size Is Everything\") (1999)",
+      "url": "https://www.muppetlabs.com/~breadbox/software/tiny/teensy.html",
+      "score": 44,
+      "comments": 11,
+      "author": "Bluestein",
+      "tags": [],
+      "date": "2026-08-25T13:20:02+00:00"
+    },
+    {
       "id": "hn-49433450",
       "source": "hn",
       "title": "New Mac mini, featuring M6 and M5 Pro",
@@ -3471,8 +3700,8 @@
       "source": "hn",
       "title": "EVE Online moves to Python 3",
       "url": "https://www.eveonline.com/news/view/the-move-to-python-3-begins",
-      "score": 322,
-      "comments": 168,
+      "score": 355,
+      "comments": 196,
       "author": "TylerJaacks",
       "tags": [],
       "date": "2026-08-25T13:04:55+00:00"
@@ -3952,8 +4181,8 @@
       "source": "hn",
       "title": "SQLite as a Document Database (2020)",
       "url": "https://dgl.cx/2020/06/sqlite-json-support",
-      "score": 184,
-      "comments": 47,
+      "score": 213,
+      "comments": 49,
       "author": "lioeters",
       "tags": [],
       "date": "2026-08-24T23:00:10+00:00"
@@ -4007,8 +4236,8 @@
       "source": "hn",
       "title": "RISC-V is now officially supported by CPython",
       "url": "https://blog.python.org/2026/08/riscv-now-officially-supported/",
-      "score": 54,
-      "comments": 7,
+      "score": 164,
+      "comments": 34,
       "author": "lumpa",
       "tags": [],
       "date": "2026-08-24T20:12:22+00:00"
@@ -4052,8 +4281,8 @@
       "source": "hn",
       "title": "Glacier Mice",
       "url": "https://en.wikipedia.org/wiki/Glacier_mice",
-      "score": 271,
-      "comments": 52,
+      "score": 300,
+      "comments": 59,
       "author": "ostacke",
       "tags": [],
       "date": "2026-08-24T18:58:13+00:00"
@@ -4940,236 +5169,15 @@
       "date": "2026-08-24T06:30:07+00:00"
     },
     {
-      "id": "hn-49415854",
-      "source": "hn",
-      "title": "Your Open Source Model Could Have a Hidden Time-Release Backdoor",
-      "url": "https://morgin.ai/articles/your-open-source-model-could-have-a-hidden-time-release-backdoor.html",
-      "score": 26,
-      "comments": 17,
-      "author": "llmbababoom",
-      "tags": [],
-      "date": "2026-08-24T06:25:42+00:00",
-      "severity": "critical"
-    },
-    {
-      "id": "hn-49415852",
-      "source": "hn",
-      "title": "OCR It – pull text out of un-copyable documents for your LLM",
-      "url": "https://github.com/thiagotigaz/ocr-it",
-      "score": 97,
-      "comments": 24,
-      "author": "thiagolima",
-      "tags": [],
-      "date": "2026-08-24T06:25:31+00:00"
-    },
-    {
-      "id": "hn-49415695",
-      "source": "hn",
-      "title": "LLM Tool Failures: Only 3 Root Causes – Value, Condition, Intent",
-      "url": "https://github.com/Jang-woo-AnnaSoft/execution-state-preflight/blob/main/who-fills-in-the-form.md",
-      "score": 6,
-      "comments": 1,
-      "author": "offaxis",
-      "tags": [],
-      "date": "2026-08-24T06:00:50+00:00"
-    },
-    {
-      "id": "hn-49415621",
-      "source": "hn",
-      "title": "New EU-wide product repair rules come into force",
-      "url": "https://www.rte.ie/news/business/2026/0824/1588931-repair-rules/",
-      "score": 197,
-      "comments": 110,
-      "author": "austinallegro",
-      "tags": [],
-      "date": "2026-08-24T05:47:27+00:00",
-      "severity": "critical"
-    },
-    {
-      "id": "hn-49415405",
-      "source": "hn",
-      "title": "Elevated Errors for Multiple Models",
-      "url": "https://status.claude.com/incidents/vgz5psbjmt1h",
-      "score": 22,
-      "comments": 7,
-      "author": "rob",
-      "tags": [],
-      "date": "2026-08-24T05:12:45+00:00"
-    },
-    {
       "id": "hn-49415386",
       "source": "hn",
       "title": "Tether: iMessage, SMS, etc. on Linux",
       "url": "https://zackbartel.com/blog/2026/08/tether/",
-      "score": 384,
-      "comments": 164,
+      "score": 460,
+      "comments": 180,
       "author": "zackb",
       "tags": [],
       "date": "2026-08-24T05:09:23+00:00"
-    },
-    {
-      "id": "hn-49415271",
-      "source": "hn",
-      "title": "Executable Is a SQLite Database",
-      "url": "https://fzakaria.com/2026/08/23/your-executable-is-a-sqlite-database",
-      "score": 482,
-      "comments": 90,
-      "author": "setheron",
-      "tags": [],
-      "date": "2026-08-24T04:48:20+00:00"
-    },
-    {
-      "id": "hn-49415265",
-      "source": "hn",
-      "title": "Mourning Steve French",
-      "url": "https://lwn.net/Articles/1090098/",
-      "score": 57,
-      "comments": 2,
-      "author": "mfrw",
-      "tags": [],
-      "date": "2026-08-24T04:47:14+00:00"
-    },
-    {
-      "id": "qiita-d9c847b810",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "AIで一人でゲームを作れるか試したら、35日・実質8人日でApp Store審査まで行った",
-      "url": "https://qiita.com/notfolder/items/a56620e85ac40248f55f?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "notfolder",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-08-24T13:46:13+09:00"
-    },
-    {
-      "id": "qiita-f6e947980c",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "【AIエージェント初心者向け】Codex CLI、どこまでやってくれる？Java開発環境をゼロから作ってみた",
-      "url": "https://qiita.com/hashiryu_/items/1e4e49b69f18f35a13c2?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "hashiryu_",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-08-24T13:32:37+09:00"
-    },
-    {
-      "id": "hn-49415187",
-      "source": "hn",
-      "title": "Nearly 3M Teslas recalled in China over hidden door handles",
-      "url": "https://www.bbc.com/news/articles/c4g6ggdg030o",
-      "score": 51,
-      "comments": 41,
-      "author": "chicken-stew",
-      "tags": [],
-      "date": "2026-08-24T04:27:57+00:00"
-    },
-    {
-      "id": "qiita-eea9e19ce1",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "なぜAIは「React Coder」を最初に置き換えるのか（そしてシニアになる方法）",
-      "url": "https://qiita.com/TOMOSIA-HieuNT/items/8cf78d564cd0a8fe8c81?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "TOMOSIA-HieuNT",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-08-24T13:02:41+09:00"
-    },
-    {
-      "id": "hn-49414934",
-      "source": "hn",
-      "title": "Why is Anthropic's public writing style so unlike Claude's?",
-      "url": "https://cmart.blog/claude-writing/",
-      "score": 46,
-      "comments": 33,
-      "author": "zdw",
-      "tags": [],
-      "date": "2026-08-24T03:32:42+00:00"
-    },
-    {
-      "id": "hn-49414891",
-      "source": "hn",
-      "title": "Vim's UserGettingBored Autocmd",
-      "url": "https://evanhahn.com/usergettingbored-vim/",
-      "score": 10,
-      "comments": 1,
-      "author": "zdw",
-      "tags": [],
-      "date": "2026-08-24T03:23:07+00:00"
-    },
-    {
-      "id": "qiita-f3ce92c5cf",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "※この記事は人の手で書かれています",
-      "url": "https://qiita.com/kyuko/items/3380b85d0b52ea01f449?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "kyuko",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-08-24T12:14:53+09:00"
-    },
-    {
-      "id": "hn-49414651",
-      "source": "hn",
-      "title": "This Fact About KPIs May Surprise You",
-      "url": "https://www.satisfice.com/blog/archives/488189",
-      "score": 6,
-      "comments": 0,
-      "author": "satisfice",
-      "tags": [],
-      "date": "2026-08-24T02:35:57+00:00"
-    },
-    {
-      "id": "hn-49414556",
-      "source": "hn",
-      "title": "Former OC actor Ben McKenzie on crusade to take down 'stupid' cryptocurrency",
-      "url": "https://www.rnz.co.nz/life/people/celebrity/former-oc-actor-ben-mckenzie-on-crusade-to-take-down-stupid-cryptocurrency",
-      "score": 27,
-      "comments": 14,
-      "author": "billybuckwheat",
-      "tags": [],
-      "date": "2026-08-24T02:17:26+00:00"
-    },
-    {
-      "id": "hn-49414338",
-      "source": "hn",
-      "title": "Migrating a Synology NAS to a UniFi UNAS Pro 8 with Robocopy, SMB Multichannel",
-      "url": "https://www.hanselman.com/blog/migrating-a-synology-nas-to-a-unifi-unas-pro-8-with-robocopy-smb-multichannel-and-surprising-performance-traps",
-      "score": 58,
-      "comments": 46,
-      "author": "soheilpro",
-      "tags": [],
-      "date": "2026-08-24T01:33:14+00:00"
-    },
-    {
-      "id": "qiita-7a4607aeac",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "# AI-DLC研修でKiroを使ってECサイトを作ってみた",
-      "url": "https://qiita.com/toida_chisato/items/c661cace1f6072183057?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "toida_chisato",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-08-24T10:12:00+09:00"
-    },
-    {
-      "id": "hn-49414096",
-      "source": "hn",
-      "title": "The first search engine for Internet-connected devices",
-      "url": "https://www.shodan.io/",
-      "score": 15,
-      "comments": 0,
-      "author": "momentmaker",
-      "tags": [],
-      "date": "2026-08-24T00:52:21+00:00"
     },
     {
       "id": "ctf-4372374",

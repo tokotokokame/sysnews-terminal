@@ -1,7 +1,41 @@
 {
-  "updated_at": "2026-08-30T18:25:33.900408+00:00",
+  "updated_at": "2026-08-30T21:22:24.059243+00:00",
   "count": 500,
   "items": [
+    {
+      "id": "hn-49502611",
+      "source": "hn",
+      "title": "Continuous Diffusion Language Models (CDLM's)",
+      "url": "https://sander.ai/2026/08/24/continuous-dlms.html",
+      "score": 3,
+      "comments": 0,
+      "author": "peter_d_sherman",
+      "tags": [],
+      "date": "2026-08-30T20:46:53+00:00"
+    },
+    {
+      "id": "hn-49502214",
+      "source": "hn",
+      "title": "Cores in space: The core memory module from a 1980 Spacelab computer",
+      "url": "https://www.righto.com/2026/08/spacelab-core-memory.html",
+      "score": 26,
+      "comments": 4,
+      "author": "pwg",
+      "tags": [],
+      "date": "2026-08-30T20:00:25+00:00"
+    },
+    {
+      "id": "hn-49501611",
+      "source": "hn",
+      "title": "Why open source rocks – a new SM750 (Silicon Motion GPU) HDMI Driver",
+      "url": "https://github.com/KodeMunkie/sm750hdmifb",
+      "score": 38,
+      "comments": 22,
+      "author": "SillyUsername",
+      "tags": [],
+      "date": "2026-08-30T18:49:08+00:00",
+      "severity": "critical"
+    },
     {
       "id": "hn-49501147",
       "source": "hn",
@@ -40,8 +74,8 @@
       "source": "hn",
       "title": "Coordination Headwind: How Organizations Are Like Slime Molds",
       "url": "https://komoroske.com/slime-mold/",
-      "score": 44,
-      "comments": 16,
+      "score": 94,
+      "comments": 35,
       "author": "rzk",
       "tags": [],
       "date": "2026-08-30T16:03:17+00:00"
@@ -51,8 +85,8 @@
       "source": "hn",
       "title": "Haiku R1/beta6 has been released",
       "url": "https://www.haiku-os.org/news/2026-08-26_haiku_r1_beta6",
-      "score": 109,
-      "comments": 24,
+      "score": 199,
+      "comments": 51,
       "author": "metrofun",
       "tags": [],
       "date": "2026-08-30T16:01:10+00:00"
@@ -62,19 +96,32 @@
       "source": "hn",
       "title": "Omarchy: Any User Process Can Escalate to Root",
       "url": "https://0xcc.io/posts/omarchy-root-creds/",
-      "score": 195,
-      "comments": 189,
+      "score": 300,
+      "comments": 292,
       "author": "trap0xcc",
       "tags": [],
       "date": "2026-08-30T15:59:49+00:00"
+    },
+    {
+      "id": "qiita-ca89ff1184",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "【2026年8月調査】API連携でデータを外部に渡して大丈夫なのか調べてみた｜OAuth・APIキー・保管場所・やめ方を業務システム56件で",
+      "url": "https://qiita.com/songchong/items/bed44cf5b639df476952?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "songchong",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-08-31T00:57:04+09:00"
     },
     {
       "id": "hn-49499394",
       "source": "hn",
       "title": "European Commission Revives Push for Encryption Backdoors in ProtectEU Strategy",
       "url": "https://reclaimthenet.org/eu-protecteu-strategy-encryption-backdoor-law-enforcement",
-      "score": 171,
-      "comments": 59,
+      "score": 280,
+      "comments": 113,
       "author": "nickslaughter02",
       "tags": [],
       "date": "2026-08-30T15:12:40+00:00"
@@ -84,8 +131,8 @@
       "source": "hn",
       "title": "Zig: Pointer Stability for ArrayLists",
       "url": "https://ziglang.org/devlog/2026/#2026-08-27",
-      "score": 35,
-      "comments": 4,
+      "score": 67,
+      "comments": 27,
       "author": "tosh",
       "tags": [],
       "date": "2026-08-30T14:41:53+00:00"
@@ -95,8 +142,8 @@
       "source": "hn",
       "title": "Europe's summer drought is so extreme that desertification is a growing threat",
       "url": "https://fortune.com/2026/08/29/europe-summer-drought-desertification-threat-rivers-fish/",
-      "score": 126,
-      "comments": 133,
+      "score": 196,
+      "comments": 231,
       "author": "Brajeshwar",
       "tags": [],
       "date": "2026-08-30T14:29:25+00:00",
@@ -120,8 +167,8 @@
       "source": "hn",
       "title": "METR and Redwood Offer Holy %^ Postmortem of the HuggingFace Hack",
       "url": "https://thezvi.wordpress.com/2026/08/29/metr-and-redwood-offer-holy-postmortem-of-the-huggingface-hack/",
-      "score": 57,
-      "comments": 22,
+      "score": 162,
+      "comments": 97,
       "author": "catbird",
       "tags": [],
       "date": "2026-08-30T14:06:54+00:00"
@@ -149,6 +196,19 @@
       "date": "2026-08-30T12:31:05+00:00"
     },
     {
+      "id": "qiita-aa5c199bee",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "【CloudFront OAC × Lambda Function URL】SSRアプリのPOSTだけ403になった話",
+      "url": "https://qiita.com/yosuke-suzuki/items/3cbd19db1e33853a2f91?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "yosuke-suzuki",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-08-30T21:15:56+09:00"
+    },
+    {
       "id": "hn-49497928",
       "source": "hn",
       "title": "monty-go: Pure-Go wrapper for Pydantic's Monty Python Interpreter",
@@ -164,8 +224,8 @@
       "source": "hn",
       "title": "Automating Immersive Reading",
       "url": "https://smoores.dev/post/automating_immersive_reading/",
-      "score": 59,
-      "comments": 17,
+      "score": 79,
+      "comments": 25,
       "author": "smoores",
       "tags": [],
       "date": "2026-08-30T11:46:23+00:00"
@@ -175,8 +235,8 @@
       "source": "hn",
       "title": "An implementation of Conway's Game of Life for Windows 3.1x and later",
       "url": "https://www.muppetlabs.com/~breadbox/software/windows.html",
-      "score": 40,
-      "comments": 7,
+      "score": 46,
+      "comments": 11,
       "author": "Bluestein",
       "tags": [],
       "date": "2026-08-30T11:41:40+00:00"
@@ -186,11 +246,24 @@
       "source": "hn",
       "title": "Hacking IKEA Furniture",
       "url": "https://greenlightning.eu/diy/hacking-ikea-furniture/",
-      "score": 189,
-      "comments": 104,
+      "score": 235,
+      "comments": 137,
       "author": "greenlightning",
       "tags": [],
       "date": "2026-08-30T11:39:43+00:00"
+    },
+    {
+      "id": "qiita-f30d02583a",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "頑張ったのに結果が出ない、は当然のこと — 努力を「縦軸」だけで測るのをやめた話",
+      "url": "https://qiita.com/teppei19980914/items/c7e28f97b815360bbbf4?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "teppei19980914",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-08-30T19:04:19+09:00"
     },
     {
       "id": "hn-49497200",
@@ -219,8 +292,8 @@
       "source": "hn",
       "title": "Arbitrary code execution in QubesOS via copy-to-VM error reporting backchannel",
       "url": "https://www.qubes-os.org/news/2026/08/29/qsb-118/",
-      "score": 169,
-      "comments": 66,
+      "score": 187,
+      "comments": 76,
       "author": "vntok",
       "tags": [],
       "date": "2026-08-30T08:51:39+00:00"
@@ -230,11 +303,24 @@
       "source": "hn",
       "title": "Longest Straight Line Paths on Water or Land on the Earth (2018)",
       "url": "https://arxiv.org/abs/1804.07389",
-      "score": 172,
-      "comments": 49,
+      "score": 180,
+      "comments": 55,
       "author": "joebig",
       "tags": [],
       "date": "2026-08-30T08:23:26+00:00"
+    },
+    {
+      "id": "qiita-9379707475",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "【個人開発】MLBの試合日程をGoogleカレンダー・Appleカレンダーに自動同期するWebアプリを作りました【React/TypeScript/iCalendar】",
+      "url": "https://qiita.com/takahiro_honda/items/b44d4e2b526aa009f822?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "takahiro_honda",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-08-30T17:12:57+09:00"
     },
     {
       "id": "hn-49496543",
@@ -478,8 +564,8 @@
       "source": "hn",
       "title": "Creepy Crawlies",
       "url": "https://people.kernel.org/monsieuricon/creepy-crawlies",
-      "score": 407,
-      "comments": 196,
+      "score": 684,
+      "comments": 333,
       "author": "zdw",
       "tags": [],
       "date": "2026-08-29T17:49:01+00:00"
@@ -1163,6 +1249,17 @@
       "date": "2026-08-28T23:00:24+09:00"
     },
     {
+      "id": "hn-49478426",
+      "source": "hn",
+      "title": "NFC Energy-Harvesting PCB Business Card with an MCU",
+      "url": "https://wilsonharper.net/projects/businesscard/",
+      "score": 29,
+      "comments": 2,
+      "author": "WilsonHarper",
+      "tags": [],
+      "date": "2026-08-28T13:48:12+00:00"
+    },
+    {
       "id": "hn-49478287",
       "source": "hn",
       "title": "The Finn – an agent that lives in my router and complains about it",
@@ -1231,6 +1328,19 @@
         "Qiita"
       ],
       "date": "2026-08-28T20:16:19+09:00"
+    },
+    {
+      "id": "qiita-26289dfc87",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "【Delphi】Windows 11 on ARM を試して見る",
+      "url": "https://qiita.com/pik/items/b881fce9a86ab5d8b3a6?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "pik",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-08-28T19:28:50+09:00"
     },
     {
       "id": "hn-49476143",
@@ -1433,8 +1543,8 @@
       "source": "hn",
       "title": "Synchronisation and SMPTE timecode (time code)",
       "url": "https://www.philrees.co.uk/articles/timecode.htm",
-      "score": 7,
-      "comments": 0,
+      "score": 21,
+      "comments": 4,
       "author": "sublinear",
       "tags": [],
       "date": "2026-08-28T04:58:34+00:00"
@@ -1608,6 +1718,17 @@
       "date": "2026-08-27T21:46:39+00:00"
     },
     {
+      "id": "hn-49471614",
+      "source": "hn",
+      "title": "Storm Summoner, a MIDI controller for effects pedals",
+      "url": "https://kabaragoya.com/products/storm-summoner",
+      "score": 18,
+      "comments": 6,
+      "author": "peteforde",
+      "tags": [],
+      "date": "2026-08-27T21:38:27+00:00"
+    },
+    {
       "id": "qiita-89ba6cb783",
       "source": "zennqiita",
       "sub_source": "Qiita",
@@ -1711,10 +1832,10 @@
     {
       "id": "hn-49468126",
       "source": "hn",
-      "title": "Dad's Custom Atari Peripherals – By Jim Trageser",
+      "title": "Dad’s Custom Atari Peripherals",
       "url": "https://www.goto10retro.com/p/dads-custom-atari-peripherals",
-      "score": 39,
-      "comments": 8,
+      "score": 66,
+      "comments": 9,
       "author": "rbanffy",
       "tags": [],
       "date": "2026-08-27T17:20:21+00:00"
@@ -1976,8 +2097,8 @@
       "source": "hn",
       "title": "Casey Muratori – The Root of the Root of All Evil – BSC 2026 [video]",
       "url": "https://www.youtube.com/watch?v=hpj6r6CjJf8",
-      "score": 221,
-      "comments": 106,
+      "score": 268,
+      "comments": 141,
       "author": "surprisetalk",
       "tags": [],
       "date": "2026-08-27T12:40:43+00:00"
@@ -1987,8 +2108,8 @@
       "source": "hn",
       "title": "Electric rain can eat through metal",
       "url": "https://www.scientificamerican.com/article/electric-rain-can-eat-through-metal/",
-      "score": 41,
-      "comments": 6,
+      "score": 72,
+      "comments": 12,
       "author": "sohkamyung",
       "tags": [],
       "date": "2026-08-27T12:04:11+00:00"
@@ -3815,6 +3936,17 @@
       "date": "2026-08-25T15:09:20+00:00"
     },
     {
+      "id": "hn-49435285",
+      "source": "hn",
+      "title": "Sort branches by last commit date",
+      "url": "https://ryangreenberg.com/til/git-branches-by-commit-date/",
+      "score": 31,
+      "comments": 12,
+      "author": "speckx",
+      "tags": [],
+      "date": "2026-08-25T14:57:00+00:00"
+    },
+    {
       "id": "qiita-e62a909e41",
       "source": "zennqiita",
       "sub_source": "Qiita",
@@ -5034,140 +5166,15 @@
       "date": "2026-08-24T14:44:55+00:00"
     },
     {
-      "id": "hn-49420524",
-      "source": "hn",
-      "title": "Show HN: Galaxium, an experimental WebGPU space explorer",
-      "url": "https://galaxium.app",
-      "score": 79,
-      "comments": 24,
-      "author": "guillaumec",
-      "tags": [],
-      "date": "2026-08-24T14:44:20+00:00"
-    },
-    {
-      "id": "hn-49420116",
-      "source": "hn",
-      "title": "Crafting QR Codes: A deep dive into QR code art (2024)",
-      "url": "https://kylezhe.ng/writes/crafting-qr-codes",
-      "score": 100,
-      "comments": 10,
-      "author": "subset",
-      "tags": [],
-      "date": "2026-08-24T14:15:38+00:00"
-    },
-    {
-      "id": "hn-49419409",
-      "source": "hn",
-      "title": "Experiments with Plotter Art",
-      "url": "https://sometimes.digital/posts/experiments-with-plotter-art/",
-      "score": 52,
-      "comments": 2,
-      "author": "surprisetalk",
-      "tags": [],
-      "date": "2026-08-24T13:21:56+00:00"
-    },
-    {
       "id": "hn-49419381",
       "source": "hn",
       "title": "What my dad taught me about AI coding in the 90s",
       "url": "https://askmike.org/articles/ai-coding-lessons-in-the-90s-from-my-dad/",
-      "score": 90,
-      "comments": 45,
+      "score": 113,
+      "comments": 54,
       "author": "askmike",
       "tags": [],
       "date": "2026-08-24T13:19:55+00:00"
-    },
-    {
-      "id": "hn-49419351",
-      "source": "hn",
-      "title": "Show HN: A techno machine in one HTML file, with verifiable renders",
-      "url": "https://ssx360.github.io/rack-02/?src=hn",
-      "score": 162,
-      "comments": 30,
-      "author": "ssx360",
-      "tags": [],
-      "date": "2026-08-24T13:17:11+00:00"
-    },
-    {
-      "id": "hn-49419252",
-      "source": "hn",
-      "title": "What's new in Emacs 31.1",
-      "url": "https://www.masteringemacs.org/article/whats-new-in-emacs-311",
-      "score": 299,
-      "comments": 71,
-      "author": "geospeck",
-      "tags": [],
-      "date": "2026-08-24T13:07:22+00:00"
-    },
-    {
-      "id": "hn-49419237",
-      "source": "hn",
-      "title": "How Europe is killing makers and micro-entrepreneurs",
-      "url": "https://lectronz.com/u/lectronz/articles/how-europe-is-killing-makers-and-micro-entrepreneurs",
-      "score": 1554,
-      "comments": 967,
-      "author": "l-one-lone",
-      "tags": [],
-      "date": "2026-08-24T13:05:25+00:00"
-    },
-    {
-      "id": "hn-49418813",
-      "source": "hn",
-      "title": "Review: Chuwi's $449 Unibook laptop is a funhouse-mirror MacBook Neo",
-      "url": "https://arstechnica.com/gadgets/2026/08/review-chuwis-449-unibook-laptop-is-a-funhouse-mirror-macbook-neo/",
-      "score": 4,
-      "comments": 0,
-      "author": "rbanffy",
-      "tags": [],
-      "date": "2026-08-24T12:30:57+00:00"
-    },
-    {
-      "id": "qiita-d0a40f744a",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "AIエージェント初心者がポケカの知識を使ってルールベースAIを改善してみた",
-      "url": "https://qiita.com/taku_life/items/9c0afb8d6bbea534f7dc?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "taku_life",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-08-24T20:59:37+09:00"
-    },
-    {
-      "id": "hn-49418449",
-      "source": "hn",
-      "title": "Anthropic candidates face blunt money question",
-      "url": "https://www.axios.com/2026/08/24/scoop-anthropic-candidates-face-blunt-money-question",
-      "score": 13,
-      "comments": 12,
-      "author": "samizdis",
-      "tags": [],
-      "date": "2026-08-24T11:55:46+00:00"
-    },
-    {
-      "id": "qiita-85ab9f0028",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "【JavaScript】Promise.all()をハッシュで受け取れるようになる",
-      "url": "https://qiita.com/rana_kualu/items/99daf86aff272a9671fc?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "rana_kualu",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-08-24T20:49:35+09:00"
-    },
-    {
-      "id": "hn-49418255",
-      "source": "hn",
-      "title": "SeL4 security proofs now complete on AArch64",
-      "url": "https://proofcraft.systems/news-2026/#2026-08-21",
-      "score": 192,
-      "comments": 43,
-      "author": "snvzz",
-      "tags": [],
-      "date": "2026-08-24T11:32:51+00:00"
     },
     {
       "id": "ctf-4372374",

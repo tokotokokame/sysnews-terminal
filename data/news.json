@@ -1,14 +1,49 @@
 {
-  "updated_at": "2026-09-02T05:27:58.545784+00:00",
+  "updated_at": "2026-09-02T09:50:18.456347+00:00",
   "count": 500,
   "items": [
+    {
+      "id": "hn-49533557",
+      "source": "hn",
+      "title": "Telli (YC F24) is hiring engineers and designers [Berlin, on-site]",
+      "url": "https://careers.telli.com/",
+      "score": 1,
+      "comments": 0,
+      "author": "sebselassie",
+      "tags": [],
+      "date": "2026-09-02T08:43:49+00:00"
+    },
+    {
+      "id": "hn-49533497",
+      "source": "hn",
+      "title": "Commodore 64 released September 1, 1982",
+      "url": "https://dfarq.homeip.net/commodore-64-released-september-1-1982/",
+      "score": 39,
+      "comments": 2,
+      "author": "giuliomagnifico",
+      "tags": [],
+      "date": "2026-09-02T08:36:43+00:00"
+    },
+    {
+      "id": "qiita-d0e0fc5b68",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "Claude Fable 5.1、キャッシュ読みは4分の1。ただし tool_choice が400を返す",
+      "url": "https://qiita.com/jqit_suwa/items/c0f5b86dfb8a3106cbaf?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "jqit_suwa",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-09-02T13:25:49+09:00"
+    },
     {
       "id": "hn-49531651",
       "source": "hn",
       "title": "The Emergent Symbolic Structure of Artificial Neural Networks",
       "url": "https://arxiv.org/abs/2608.29530",
-      "score": 29,
-      "comments": 3,
+      "score": 144,
+      "comments": 43,
       "author": "schmuhblaster",
       "tags": [],
       "date": "2026-09-02T04:15:56+00:00"
@@ -18,8 +53,8 @@
       "source": "hn",
       "title": "WebFPGA",
       "url": "https://webfpga.io/",
-      "score": 21,
-      "comments": 12,
+      "score": 76,
+      "comments": 32,
       "author": "gurjeet",
       "tags": [],
       "date": "2026-09-02T03:54:58+00:00"
@@ -29,11 +64,90 @@
       "source": "hn",
       "title": "True Rate of Unemployment",
       "url": "https://www.lisep.org/tru",
-      "score": 95,
-      "comments": 31,
+      "score": 229,
+      "comments": 187,
       "author": "ptrhvns",
       "tags": [],
       "date": "2026-09-02T02:21:10+00:00"
+    },
+    {
+      "id": "qiita-c4d715045b",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "カジュアル面談で「特に質問ないです」が、実は一番もったいない理由",
+      "url": "https://qiita.com/m__ikeda/items/1db92012f8477071e4b4?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "m__ikeda",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-09-02T10:47:20+09:00"
+    },
+    {
+      "id": "qiita-7e0dde9517",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "Autonomous AI Databaseの Resource Principalで、API署名鍵を使わずにSelect AIしてみてみた",
+      "url": "https://qiita.com/shirok/items/b4b0072073d6edcb0907?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "shirok",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-09-02T10:11:49+09:00",
+      "severity": "critical"
+    },
+    {
+      "id": "qiita-485629f183",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "AIにアンケートの生データを丸投げしたら、対応表を読んで前処理を一瞬で終わらせてくれた話",
+      "url": "https://qiita.com/IkuyaM/items/655665c108a1972f04ca?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "IkuyaM",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-09-02T10:02:55+09:00"
+    },
+    {
+      "id": "qiita-c442e32852",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "AWS認定資格のSAAを1か月で取得した勉強方法",
+      "url": "https://qiita.com/hiroto15/items/5539b47e0f66518ee30a?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "hiroto15",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-09-02T10:01:19+09:00"
+    },
+    {
+      "id": "qiita-321636e2e6",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "Claude Fable 5.1、2ターン目のキャッシュに12回中8回乗り損ねた",
+      "url": "https://qiita.com/jqit_suwa/items/8ae6739d0bb525e1b41b?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "jqit_suwa",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-09-02T09:40:45+09:00"
+    },
+    {
+      "id": "qiita-70d187b481",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "Claude Code のサブエージェント、モデルの固定手段が4日で戻ってきた",
+      "url": "https://qiita.com/jqit_suwa/items/e0e1ca2287fb4da46852?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "jqit_suwa",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-09-02T09:40:28+09:00"
     },
     {
       "id": "qiita-2220658f84",
@@ -53,8 +167,8 @@
       "source": "hn",
       "title": "The efficient frontier of LLM inference",
       "url": "https://www.baseten.co/blog/the-efficient-frontier-of-llm-inference/",
-      "score": 76,
-      "comments": 19,
+      "score": 121,
+      "comments": 30,
       "author": "philipkiely",
       "tags": [],
       "date": "2026-09-01T23:48:05+00:00"
@@ -64,8 +178,8 @@
       "source": "hn",
       "title": "FBI Probes Service Selling 153M+ Drivers Licenses",
       "url": "https://krebsonsecurity.com/2026/09/fbi-probes-service-selling-153m-drivers-licenses/",
-      "score": 112,
-      "comments": 37,
+      "score": 214,
+      "comments": 88,
       "author": "tatersolid",
       "tags": [],
       "date": "2026-09-01T23:17:43+00:00"
@@ -86,8 +200,8 @@
       "source": "hn",
       "title": "My local model setup on an M4 Pro Mac Mini",
       "url": "https://lws.io/blog/my-local-model-setup/",
-      "score": 124,
-      "comments": 62,
+      "score": 204,
+      "comments": 116,
       "author": "raybb",
       "tags": [],
       "date": "2026-09-01T22:30:52+00:00"
@@ -97,8 +211,8 @@
       "source": "hn",
       "title": "Show HN: Weedout – Safari extension that hides YouTube AI-labeled videos",
       "url": "https://masteranza.github.io/weedout/",
-      "score": 92,
-      "comments": 32,
+      "score": 143,
+      "comments": 63,
       "author": "masteranza",
       "tags": [],
       "date": "2026-09-01T22:06:57+00:00"
@@ -119,8 +233,8 @@
       "source": "hn",
       "title": "Show HN: HN Match Maker – Matching \"Who Wants to Be Hired?\" With \"Who's Hiring?\"",
       "url": "https://hnmatchmaker.com/",
-      "score": 64,
-      "comments": 30,
+      "score": 89,
+      "comments": 37,
       "author": "all2",
       "tags": [],
       "date": "2026-09-01T20:53:35+00:00"
@@ -141,8 +255,8 @@
       "source": "hn",
       "title": "Path to Astra: critical capabilities and frontier safeguards",
       "url": "https://openai.com/index/path-to-astra/",
-      "score": 113,
-      "comments": 50,
+      "score": 157,
+      "comments": 66,
       "author": "jithinraj",
       "tags": [],
       "date": "2026-09-01T20:20:41+00:00",
@@ -164,8 +278,8 @@
       "source": "hn",
       "title": "The ChatGPT/Codex app bundles a full copy of LibreOffice",
       "url": "https://simonwillison.net/2026/Sep/1/codex-libreoffice/",
-      "score": 317,
-      "comments": 146,
+      "score": 411,
+      "comments": 189,
       "author": "timpera",
       "tags": [],
       "date": "2026-09-01T20:07:57+00:00"
@@ -175,8 +289,8 @@
       "source": "hn",
       "title": "Refurbishing a Tektronix TDS7104 Oscilloscope",
       "url": "https://tomverbeure.github.io/2026/08/23/Tektronix-TDS7104-Refurbishing.html",
-      "score": 107,
-      "comments": 50,
+      "score": 125,
+      "comments": 55,
       "author": "jwise0",
       "tags": [],
       "date": "2026-09-01T19:55:47+00:00"
@@ -199,8 +313,8 @@
       "source": "hn",
       "title": "How accurate have Ed Zitron's AI skeptic predictions been?",
       "url": "https://danluu.com/zitron/",
-      "score": 560,
-      "comments": 643,
+      "score": 708,
+      "comments": 765,
       "author": "jatins",
       "tags": [],
       "date": "2026-09-01T18:35:15+00:00"
@@ -221,8 +335,8 @@
       "source": "hn",
       "title": "Claude Fable 5.1 and Claude Mythos 5.1",
       "url": "https://www.anthropic.com/claude-fable-and-mythos-5-1",
-      "score": 1061,
-      "comments": 990,
+      "score": 1246,
+      "comments": 1164,
       "author": "denysvitali",
       "tags": [],
       "date": "2026-09-01T17:53:53+00:00"
@@ -232,8 +346,8 @@
       "source": "hn",
       "title": "The creator of Jujutsu has joined ERSC",
       "url": "https://ersc.io/blog/martin-joins-ersc",
-      "score": 209,
-      "comments": 155,
+      "score": 234,
+      "comments": 176,
       "author": "steveklabnik",
       "tags": [],
       "date": "2026-09-01T17:46:21+00:00"
@@ -254,8 +368,8 @@
       "source": "hn",
       "title": "Launch HN: Nori Robotics (YC S26) – A low-cost humanoid robot for development",
       "url": "https://www.norirobotics.com/",
-      "score": 127,
-      "comments": 43,
+      "score": 173,
+      "comments": 52,
       "author": "AntonioLi",
       "tags": [],
       "date": "2026-09-01T17:35:10+00:00"
@@ -265,8 +379,8 @@
       "source": "hn",
       "title": "Fine, I'll build my own text editor",
       "url": "https://dbushell.com/2026/09/01/text-editor/",
-      "score": 31,
-      "comments": 13,
+      "score": 124,
+      "comments": 109,
       "author": "Alephinitesimal",
       "tags": [],
       "date": "2026-09-01T17:12:15+00:00"
@@ -287,8 +401,8 @@
       "source": "hn",
       "title": "Movie Scene Map – 13,312 films, series, games, anime and manga",
       "url": "https://moviescenemap.com/",
-      "score": 189,
-      "comments": 30,
+      "score": 252,
+      "comments": 37,
       "author": "Flightmussy",
       "tags": [],
       "date": "2026-09-01T16:34:45+00:00"
@@ -342,8 +456,8 @@
       "source": "hn",
       "title": "Ambient CSS v3 – Blender meets CSS",
       "url": "https://ambientcss.vercel.app/",
-      "score": 221,
-      "comments": 70,
+      "score": 274,
+      "comments": 82,
       "author": "kikkupico",
       "tags": [],
       "date": "2026-09-01T15:35:11+00:00"
@@ -401,8 +515,8 @@
       "source": "hn",
       "title": "Introducing Ad Blocker for Firefox on iOS",
       "url": "https://blog.mozilla.org/en/firefox/ad-blocker-on-ios/",
-      "score": 375,
-      "comments": 126,
+      "score": 474,
+      "comments": 157,
       "author": "HieronymusBosch",
       "tags": [],
       "date": "2026-09-01T13:46:49+00:00"
@@ -679,6 +793,19 @@
       "date": "2026-09-01T01:01:08+00:00"
     },
     {
+      "id": "qiita-7ddd676175",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "【AI駆動開発】AIエージェントに「人間の承認」を残す設計：Human-in-the-Loop超入門",
+      "url": "https://qiita.com/shimada_slj/items/601651731615a4b71605?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "shimada_slj",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-09-01T09:38:10+09:00"
+    },
+    {
       "id": "qiita-c5f5dc0896",
       "source": "zennqiita",
       "sub_source": "Qiita",
@@ -712,6 +839,17 @@
       "author": "Anon84",
       "tags": [],
       "date": "2026-08-31T23:45:56+00:00"
+    },
+    {
+      "id": "hn-49516184",
+      "source": "hn",
+      "title": "A Genealogy of Freudenthal's Lincos",
+      "url": "https://www.shellsandpebbles.com/2026/01/19/a-genealogy-of-freudenthals-lincos-part-i-looking-up-from-the-ruins-of-babel/",
+      "score": 10,
+      "comments": 1,
+      "author": "akkartik",
+      "tags": [],
+      "date": "2026-08-31T23:43:26+00:00"
     },
     {
       "id": "hn-49516117",
@@ -2573,8 +2711,8 @@
       "source": "hn",
       "title": "How bicycle coaster brakes work (2018)",
       "url": "https://www.dougbarnesauthor.com/2018/06/how-bicycle-coaster-brakes-work.html",
-      "score": 35,
-      "comments": 33,
+      "score": 61,
+      "comments": 52,
       "author": "Vedor",
       "tags": [],
       "date": "2026-08-29T09:05:53+00:00"
@@ -2903,8 +3041,8 @@
       "source": "hn",
       "title": "Sonic Pi",
       "url": "https://sonic-pi.net/",
-      "score": 79,
-      "comments": 12,
+      "score": 159,
+      "comments": 29,
       "author": "Bluestein",
       "tags": [],
       "date": "2026-08-28T17:51:19+00:00"
@@ -5063,137 +5201,6 @@
       "date": "2026-08-26T12:11:19+00:00"
     },
     {
-      "id": "hn-49447480",
-      "source": "hn",
-      "title": "Proliferate (YC S25) Is Hiring",
-      "url": "https://www.ycombinator.com/companies/proliferate/jobs/OgpCKYJ-founding-product-engineer",
-      "score": 1,
-      "comments": 0,
-      "author": "pablo24602",
-      "tags": [],
-      "date": "2026-08-26T12:00:07+00:00"
-    },
-    {
-      "id": "hn-49447178",
-      "source": "hn",
-      "title": "Show HN: Typebase – A single-folder back end you write in TypeScript",
-      "url": "https://typebase.io",
-      "score": 94,
-      "comments": 24,
-      "author": "andrewww-dev",
-      "tags": [],
-      "date": "2026-08-26T11:33:31+00:00"
-    },
-    {
-      "id": "hn-49447057",
-      "source": "hn",
-      "title": "The turbulent AI era is here",
-      "url": "https://www.gatesnotes.com/a-turbulent-ai-era-and-critical-choices-to-make",
-      "score": 294,
-      "comments": 547,
-      "author": "nanna",
-      "tags": [],
-      "date": "2026-08-26T11:23:54+00:00"
-    },
-    {
-      "id": "qiita-ef401ab339",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "アクセスキーこわい やめかたと漏らさない工夫",
-      "url": "https://qiita.com/sassssan68/items/e239e408476522641de8?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "sassssan68",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-08-26T20:11:57+09:00"
-    },
-    {
-      "id": "qiita-03bd18af3b",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "生成AI（Gemini）使いこなしの技術（序章）",
-      "url": "https://qiita.com/Urushihara-T/items/f878ffb348694926eb94?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "Urushihara-T",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-08-26T20:03:11+09:00"
-    },
-    {
-      "id": "hn-49446748",
-      "source": "hn",
-      "title": "U.S. gov't moves to suppress pushback on data centers",
-      "url": "https://www.tomshardware.com/tech-industry/data-centers/u-s-govt-moves-to-suppress-pushback-on-data-centers-by-removing-requirements-for-public-input-on-pollution-epa-change-would-allow-air-pollution-permits-without-publicizing-them",
-      "score": 70,
-      "comments": 59,
-      "author": "rbanffy",
-      "tags": [],
-      "date": "2026-08-26T10:44:40+00:00"
-    },
-    {
-      "id": "hn-49446705",
-      "source": "hn",
-      "title": "Relm4 makes developing beautiful cross-platform applications idiomatic",
-      "url": "https://relm4.org/",
-      "score": 18,
-      "comments": 10,
-      "author": "Bluestein",
-      "tags": [],
-      "date": "2026-08-26T10:38:56+00:00"
-    },
-    {
-      "id": "qiita-6eb9be9808",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "【初心者メモ】DB設計の正規化を第1〜第5正規形まで、注文テーブルで整理してみた",
-      "url": "https://qiita.com/yu_asa/items/00f81789a31891f8674c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "yu_asa",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-08-26T19:32:28+09:00"
-    },
-    {
-      "id": "hn-49446597",
-      "source": "hn",
-      "title": "It's Not the End of Programming",
-      "url": "https://mathstodon.xyz/@abuseofnotation/117161292083848755",
-      "score": 31,
-      "comments": 38,
-      "author": "boris_m",
-      "tags": [],
-      "date": "2026-08-26T10:25:33+00:00"
-    },
-    {
-      "id": "qiita-076fbc6759",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "AIは安全に拒否した。それが攻撃者の狙いだった——PyCon JP 2026スプリント参加記",
-      "url": "https://qiita.com/zazen_inu/items/9357c8145dd0db206279?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "zazen_inu",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-08-26T19:22:42+09:00"
-    },
-    {
-      "id": "qiita-bc10a3f9a3",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "「AIがあれば資格勉強はいらない」— そう思った私が情報処理技術者試験の勉強に立ち返る理由",
-      "url": "https://qiita.com/teppei19980914/items/975b0b7c03e2283bf477?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "teppei19980914",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-08-26T19:11:10+09:00"
-    },
-    {
       "id": "ctf-4372374",
       "source": "project",
       "proj_category": "CTF",
@@ -5404,6 +5411,19 @@
       "date": "2023-05-23T17:06:23Z"
     },
     {
+      "id": "zenn-ee0bf7b8e7",
+      "source": "zennqiita",
+      "sub_source": "Zenn",
+      "title": "Tauriのアプリケーションでダークモードを実装する",
+      "url": "https://zenn.dev/ayaextech_fill/articles/tauri-application-dark-mode",
+      "score": null,
+      "author": "泡沫京水",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Tue, 01 Sep 2026 17:33:07 GMT"
+    },
+    {
       "id": "zenn-95481874de",
       "source": "zennqiita",
       "sub_source": "Zenn",
@@ -5415,6 +5435,19 @@
         "Zenn"
       ],
       "date": "Tue, 01 Sep 2026 10:00:05 GMT"
+    },
+    {
+      "id": "zenn-a26ec198cf",
+      "source": "zennqiita",
+      "sub_source": "Zenn",
+      "title": "Rust の ORM 選定に新しい選択肢は来るか？ Toasty を使ってみる",
+      "url": "https://zenn.dev/uniquevision/articles/345368d3188b98",
+      "score": null,
+      "author": "Kanaru Isoda",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Tue, 01 Sep 2026 09:31:23 GMT"
     },
     {
       "id": "zenn-f4d5e2b842",
@@ -5443,6 +5476,19 @@
       "date": "Tue, 01 Sep 2026 08:46:36 GMT"
     },
     {
+      "id": "zenn-6701aa982e",
+      "source": "zennqiita",
+      "sub_source": "Zenn",
+      "title": "EVERRISE テックブログを始めます",
+      "url": "https://zenn.dev/everrise_blog/articles/31c6f84c527663",
+      "score": null,
+      "author": "wata3",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Tue, 01 Sep 2026 08:01:08 GMT"
+    },
+    {
       "id": "zenn-3d00064def",
       "source": "zennqiita",
       "sub_source": "Zenn",
@@ -5469,32 +5515,6 @@
       "date": "Tue, 01 Sep 2026 07:50:31 GMT"
     },
     {
-      "id": "zenn-ec0c757d29",
-      "source": "zennqiita",
-      "sub_source": "Zenn",
-      "title": "Kiro に野良 MCP を繋がせない。AWS Agent Registry × Kiro for Enterprise で配布を統制する",
-      "url": "https://zenn.dev/aws_japan/articles/agent-registry-kiro-governance",
-      "score": null,
-      "author": "いなりく / Riku Inada",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Tue, 01 Sep 2026 02:17:59 GMT"
-    },
-    {
-      "id": "zenn-7ad2919b67",
-      "source": "zennqiita",
-      "sub_source": "Zenn",
-      "title": "社内アプリをもっと気軽に届けたい — 開発者とともに育てるPlatformづくり",
-      "url": "https://zenn.dev/simplex/articles/0ce703ef0b877c",
-      "score": null,
-      "author": "Simplex テックブログ運営",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Tue, 01 Sep 2026 01:19:36 GMT"
-    },
-    {
       "id": "zenn-f535ec8d3f",
       "source": "zennqiita",
       "sub_source": "Zenn",
@@ -5506,19 +5526,6 @@
         "Zenn"
       ],
       "date": "Tue, 01 Sep 2026 01:03:04 GMT"
-    },
-    {
-      "id": "zenn-24f2d57ab1",
-      "source": "zennqiita",
-      "sub_source": "Zenn",
-      "title": "無音で文字起こしすると「ご視聴ありがとうございました」になる理由を検証",
-      "url": "https://zenn.dev/trtd56/articles/994f43aebd2057",
-      "score": null,
-      "author": "t.toda",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Tue, 01 Sep 2026 00:39:17 GMT"
     },
     {
       "id": "zenn-a60254c099",
@@ -5545,6 +5552,19 @@
         "Zenn"
       ],
       "date": "Mon, 31 Aug 2026 11:01:11 GMT"
+    },
+    {
+      "id": "zenn-1dc17acd0a",
+      "source": "zennqiita",
+      "sub_source": "Zenn",
+      "title": "数億の画像を溜めるS3のコストを、ストレージクラス使い分けでコスト削減する",
+      "url": "https://zenn.dev/dely_jp/articles/22a2c10b2e130d",
+      "score": null,
+      "author": "kiyokuro",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Mon, 31 Aug 2026 10:45:50 GMT"
     },
     {
       "id": "zenn-d00db5662d",
@@ -5649,19 +5669,6 @@
         "Zenn"
       ],
       "date": "Fri, 28 Aug 2026 05:55:30 GMT"
-    },
-    {
-      "id": "zenn-3d73966981",
-      "source": "zennqiita",
-      "sub_source": "Zenn",
-      "title": "Claude Code の承認待ちを見逃さないために、光る Clawd を机に置いた",
-      "url": "https://zenn.dev/lincwell_inc/articles/79092d88245748",
-      "score": null,
-      "author": "iwaide",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Thu, 27 Aug 2026 01:00:01 GMT"
     },
     {
       "id": "edb-63a987ae5d",

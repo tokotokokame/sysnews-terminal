@@ -1,14 +1,81 @@
 {
-  "updated_at": "2026-09-04T19:18:22.035446+00:00",
+  "updated_at": "2026-09-04T21:39:34.082863+00:00",
   "count": 500,
   "items": [
+    {
+      "id": "hn-49569896",
+      "source": "hn",
+      "title": "Statichost.eu – 100% European static site hosting",
+      "url": "https://www.statichost.eu/",
+      "score": 44,
+      "comments": 7,
+      "author": "p4bl0",
+      "tags": [],
+      "date": "2026-09-04T20:34:49+00:00"
+    },
+    {
+      "id": "hn-49569702",
+      "source": "hn",
+      "title": "How to Create a Tor Exit Node",
+      "url": "https://madpsy.uk/how-to-create-a-tor-exit-node/",
+      "score": 14,
+      "comments": 11,
+      "author": "Eridanus2",
+      "tags": [],
+      "date": "2026-09-04T20:16:22+00:00"
+    },
+    {
+      "id": "hn-49569663",
+      "source": "hn",
+      "title": "An open DNS recursive service for free security and high privacy",
+      "url": "https://quad9.net/",
+      "score": 19,
+      "comments": 4,
+      "author": "mooreds",
+      "tags": [],
+      "date": "2026-09-04T20:13:08+00:00"
+    },
+    {
+      "id": "hn-49569366",
+      "source": "hn",
+      "title": "Can AI design circuit boards yet?",
+      "url": "https://eebench.org/blog/can-ai-design-circuit-boards-yet/",
+      "score": 64,
+      "comments": 49,
+      "author": "iopapa",
+      "tags": [],
+      "date": "2026-09-04T19:48:29+00:00"
+    },
+    {
+      "id": "hn-49568828",
+      "source": "hn",
+      "title": "Government Rails Site Hit Hours After CVE Patch",
+      "url": "https://rietta.com/blog/ruby-on-rails-cve-exploited-hours-after-patch/",
+      "score": 46,
+      "comments": 12,
+      "author": "rietta",
+      "tags": [],
+      "date": "2026-09-04T19:06:39+00:00",
+      "severity": "high"
+    },
+    {
+      "id": "hn-49568697",
+      "source": "hn",
+      "title": "Fermat's Last Theorem in Lean 4",
+      "url": "https://github.com/anthropics/fermats-last-theorem",
+      "score": 21,
+      "comments": 5,
+      "author": "aaraujo002",
+      "tags": [],
+      "date": "2026-09-04T18:57:32+00:00"
+    },
     {
       "id": "hn-49568579",
       "source": "hn",
       "title": "Shutting down our public encrypted DNS",
       "url": "https://mullvad.net/en/blog/shutting-down-our-public-encrypted-dns-servers-and-sponsoring-quad9-instead",
-      "score": 39,
-      "comments": 4,
+      "score": 158,
+      "comments": 56,
       "author": "mywacaday",
       "tags": [],
       "date": "2026-09-04T18:50:28+00:00"
@@ -18,8 +85,8 @@
       "source": "hn",
       "title": "Formalizing Fermat's Last Theorem",
       "url": "https://www.anthropic.com/research/formalizing-fermats-last-theorem",
-      "score": 84,
-      "comments": 28,
+      "score": 311,
+      "comments": 188,
       "author": "jlebar",
       "tags": [],
       "date": "2026-09-04T18:42:56+00:00"
@@ -40,8 +107,8 @@
       "source": "hn",
       "title": "The Rust React Compiler is now native in Vite",
       "url": "https://blog.master.dev/react-now-rusted-all-the-way-out/",
-      "score": 21,
-      "comments": 3,
+      "score": 78,
+      "comments": 14,
       "author": "acusti",
       "tags": [],
       "date": "2026-09-04T17:49:09+00:00"
@@ -51,8 +118,8 @@
       "source": "hn",
       "title": "Show HN: Open-Source eInk Bike Computer",
       "url": "https://opentrailpaper.com",
-      "score": 105,
-      "comments": 35,
+      "score": 180,
+      "comments": 57,
       "author": "stingrae",
       "tags": [],
       "date": "2026-09-04T17:18:08+00:00",
@@ -85,8 +152,8 @@
       "source": "hn",
       "title": "Adult Film Producer Unmasks Prolific 'John DOE' Torrent Pirate as Meta Executive",
       "url": "https://torrentfreak.com/adult-film-producer-unmasks-prolific-john-doe-torrent-pirate-as-meta-executive/",
-      "score": 124,
-      "comments": 63,
+      "score": 250,
+      "comments": 143,
       "author": "speckx",
       "tags": [],
       "date": "2026-09-04T16:46:59+00:00"
@@ -96,8 +163,8 @@
       "source": "hn",
       "title": "Project HydraFusion: Frontier quality via multi-model orchestration",
       "url": "https://github.blog/ai-and-ml/github-copilot/project-hydrafusion-frontier-quality-via-multi-model-orchestration/",
-      "score": 39,
-      "comments": 19,
+      "score": 48,
+      "comments": 27,
       "author": "qainsights",
       "tags": [],
       "date": "2026-09-04T16:24:50+00:00"
@@ -107,11 +174,24 @@
       "source": "hn",
       "title": "deSEC – Free Secure DNS",
       "url": "https://desec.io/",
-      "score": 45,
-      "comments": 21,
+      "score": 86,
+      "comments": 32,
       "author": "gurjeet",
       "tags": [],
       "date": "2026-09-04T15:38:58+00:00"
+    },
+    {
+      "id": "qiita-54cf626111",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "耳で聞く！Python で学ぶ マクロ経済学 入門 9",
+      "url": "https://qiita.com/maskot1977/items/ec2e50adced923fecb94?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "maskot1977",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-09-05T00:33:58+09:00"
     },
     {
       "id": "hn-49565693",
@@ -162,8 +242,8 @@
       "source": "hn",
       "title": "IBM Bob",
       "url": "https://bob.ibm.com/",
-      "score": 156,
-      "comments": 192,
+      "score": 194,
+      "comments": 231,
       "author": "artpar",
       "tags": [],
       "date": "2026-09-04T12:50:29+00:00"
@@ -228,8 +308,8 @@
       "source": "hn",
       "title": "Discovery of a new OpenAI agent message board",
       "url": "https://collusion.wiki/",
-      "score": 1135,
-      "comments": 912,
+      "score": 1335,
+      "comments": 1083,
       "author": "moultano",
       "tags": [],
       "date": "2026-09-04T11:54:53+00:00"
@@ -261,19 +341,32 @@
       "source": "hn",
       "title": "Solving the Jane Street reverse engineering challenge",
       "url": "https://jestoph.com/2026/09/04/jane-street-challenge.html",
-      "score": 327,
-      "comments": 76,
+      "score": 360,
+      "comments": 81,
       "author": "anitil",
       "tags": [],
       "date": "2026-09-04T10:17:01+00:00"
+    },
+    {
+      "id": "qiita-4bb8ccf2ef",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "🔍 審査官はQiita記事を引用した — ELYZA特許の審査記録を全部読む",
+      "url": "https://qiita.com/Ruria1024/items/17726dfb4369ca235687?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "Ruria1024",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-09-04T18:43:59+09:00"
     },
     {
       "id": "hn-49562219",
       "source": "hn",
       "title": "Show HN: TERMy – A fast terminal assistant that does not use LLMs",
       "url": "https://github.com/gioblu/NPC-Forge/blob/main/docs/development.md",
-      "score": 35,
-      "comments": 11,
+      "score": 70,
+      "comments": 24,
       "author": "gioscarab",
       "tags": [],
       "date": "2026-09-04T09:03:00+00:00"
@@ -411,6 +504,19 @@
         "Qiita"
       ],
       "date": "2026-09-04T11:20:11+09:00"
+    },
+    {
+      "id": "qiita-1dd303f295",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "Power AutomateとPower Appsを活用し、セキュリティ担当者の月次確認業務を50％削減！",
+      "url": "https://qiita.com/AyakoYamada/items/bb7788d1db6df66446b4?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "AyakoYamada",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-09-04T11:18:28+09:00"
     },
     {
       "id": "hn-49559522",
@@ -571,6 +677,19 @@
       "author": "maskil",
       "tags": [],
       "date": "2026-09-03T18:18:22+00:00"
+    },
+    {
+      "id": "qiita-016e7720af",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "ぼく、AIママに勉強を監視してもらってるんだ（マジキチスマイル）",
+      "url": "https://qiita.com/cushionA/items/6508ba1d9e31c2f938a5?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "cushionA",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-09-04T02:37:30+09:00"
     },
     {
       "id": "hn-49553321",
@@ -810,6 +929,19 @@
       "date": "2026-09-03T12:00:52+00:00"
     },
     {
+      "id": "qiita-b1d369f992",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "問題は「足す」より先に「減らす」を考える",
+      "url": "https://qiita.com/okssusucha/items/38e0862599c856924b3a?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "okssusucha",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-09-03T20:29:17+09:00"
+    },
+    {
       "id": "hn-49548452",
       "source": "hn",
       "title": "Google Antigravity TOS: 3rd party usage can get Google account suspended",
@@ -893,6 +1025,17 @@
         "Qiita"
       ],
       "date": "2026-09-03T18:33:23+09:00"
+    },
+    {
+      "id": "hn-49547415",
+      "source": "hn",
+      "title": "People that worked on the same idea for decades",
+      "url": "https://nityasnotes.com/writing/decades/",
+      "score": 39,
+      "comments": 18,
+      "author": "sebg",
+      "tags": [],
+      "date": "2026-09-03T08:31:22+00:00"
     },
     {
       "id": "qiita-c8c049065d",
@@ -1673,6 +1816,17 @@
       "date": "2026-09-02T10:02:41+00:00"
     },
     {
+      "id": "hn-49534025",
+      "source": "hn",
+      "title": "Fomu An FPGA board that fits inside your USB port",
+      "url": "https://www.crowdsupply.com/sutajio-kosagi/fomu",
+      "score": 7,
+      "comments": 0,
+      "author": "Bluestein",
+      "tags": [],
+      "date": "2026-09-02T09:48:48+00:00"
+    },
+    {
       "id": "qiita-0dc163cacf",
       "source": "zennqiita",
       "sub_source": "Qiita",
@@ -2066,8 +2220,8 @@
       "source": "hn",
       "title": "Getting Started with AT Protocol",
       "url": "https://bnb.im/posts/atproto-essential-resources/",
-      "score": 49,
-      "comments": 15,
+      "score": 66,
+      "comments": 23,
       "author": "evakhoury",
       "tags": [],
       "date": "2026-09-01T19:48:37+00:00"
@@ -2759,6 +2913,17 @@
       "date": "2026-09-01T01:01:08+00:00"
     },
     {
+      "id": "hn-49516691",
+      "source": "hn",
+      "title": "Deadpan Photography: Enjoying the Pretence",
+      "url": "https://photoni.st/index.php/2026/07/12/deadpan-photography-enjoying-the-pretence/",
+      "score": 13,
+      "comments": 7,
+      "author": "NaOH",
+      "tags": [],
+      "date": "2026-09-01T00:59:37+00:00"
+    },
+    {
       "id": "qiita-7ddd676175",
       "source": "zennqiita",
       "sub_source": "Qiita",
@@ -2787,10 +2952,10 @@
     {
       "id": "hn-49516312",
       "source": "hn",
-      "title": "Elevator of the Year Winner Modernization of the Metropolis Trust Building",
+      "title": "Elevator of the Year: Modernization of the Metropolis Trust Building",
       "url": "https://www.starelevator.com/projects/star-elevator-modernization-of-the-metropolis-trust-building",
-      "score": 126,
-      "comments": 45,
+      "score": 133,
+      "comments": 49,
       "author": "palashawas",
       "tags": [],
       "date": "2026-09-01T00:01:13+00:00"
@@ -2961,6 +3126,17 @@
       "author": "ilreb",
       "tags": [],
       "date": "2026-08-31T18:12:20+00:00"
+    },
+    {
+      "id": "hn-49512834",
+      "source": "hn",
+      "title": "The Wormhole Hall of Shame",
+      "url": "https://rznicolet.com/2026/07/05/wormhole-hall-of-shame/",
+      "score": 11,
+      "comments": 6,
+      "author": "rznicolet",
+      "tags": [],
+      "date": "2026-08-31T18:10:01+00:00"
     },
     {
       "id": "qiita-1105322315",
@@ -5007,172 +5183,6 @@
       "author": "linuxkernal",
       "tags": [],
       "date": "2026-08-29T01:48:15+00:00"
-    },
-    {
-      "id": "hn-49486172",
-      "source": "hn",
-      "title": "Our decision on Cursor following its acquisition by SpaceX",
-      "url": "https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex/",
-      "score": 667,
-      "comments": 397,
-      "author": "meetpateltech",
-      "tags": [],
-      "date": "2026-08-29T01:47:53+00:00"
-    },
-    {
-      "id": "hn-49486081",
-      "source": "hn",
-      "title": "StemDeck, a free, open-source and local AI stem separator",
-      "url": "https://github.com/stemdeckapp/stemdeck",
-      "score": 182,
-      "comments": 52,
-      "author": "thclpr",
-      "tags": [],
-      "date": "2026-08-29T01:24:13+00:00",
-      "severity": "critical"
-    },
-    {
-      "id": "hn-49485532",
-      "source": "hn",
-      "title": "Does the Sumerian King List Align with Paleoclimate Events?",
-      "url": "https://www.vectorian.be/articles/2026-06-07/sumerian-king-list-paleoclimate-alignment-explorer/",
-      "score": 119,
-      "comments": 68,
-      "author": "dev_l1x_be",
-      "tags": [],
-      "date": "2026-08-28T23:46:10+00:00"
-    },
-    {
-      "id": "hn-49485504",
-      "source": "hn",
-      "title": "PPWR lands another blow to an precarious tabletop industry",
-      "url": "https://www.rascal.news/ppwr-lands-another-blow-to-an-already-precarious-tabletop-industry/",
-      "score": 33,
-      "comments": 21,
-      "author": "healsdata",
-      "tags": [],
-      "date": "2026-08-28T23:41:05+00:00"
-    },
-    {
-      "id": "hn-49485452",
-      "source": "hn",
-      "title": "9th Circuit sides with states in Kalshi gambling fight",
-      "url": "https://azmirror.com/2026/08/28/9th-circuit-sides-with-states-in-kalshi-gambling-fight-potentially-reviving-arizonas-prosecution/",
-      "score": 130,
-      "comments": 106,
-      "author": "hungryhobbit",
-      "tags": [],
-      "date": "2026-08-28T23:32:22+00:00"
-    },
-    {
-      "id": "hn-49485416",
-      "source": "hn",
-      "title": "I accidentally turned LLM memory into program analysis",
-      "url": "https://pwning.systems/posts/llm-memory-program-analysis/",
-      "score": 250,
-      "comments": 69,
-      "author": "matt_d",
-      "tags": [],
-      "date": "2026-08-28T23:27:45+00:00"
-    },
-    {
-      "id": "hn-49485267",
-      "source": "hn",
-      "title": "Boot a Virtual iPhone via Apple's Virtualization.framework",
-      "url": "https://github.com/Lakr233/vphone-cli",
-      "score": 390,
-      "comments": 103,
-      "author": "hentrep",
-      "tags": [],
-      "date": "2026-08-28T23:02:21+00:00"
-    },
-    {
-      "id": "hn-49485020",
-      "source": "hn",
-      "title": "Highlighting My Code Based on How Much I Care",
-      "url": "https://hank.bond/posts/highlighting-my-code-based-on-how-much-i-care/",
-      "score": 63,
-      "comments": 30,
-      "author": "hankbond",
-      "tags": [],
-      "date": "2026-08-28T22:29:34+00:00"
-    },
-    {
-      "id": "hn-49484925",
-      "source": "hn",
-      "title": "Identifying fake cosmetics using AI",
-      "url": "https://groverlab.org/hnbfpr/2026-08-26-ai-counterfeit-cosmetics.html",
-      "score": 39,
-      "comments": 13,
-      "author": "wgrover",
-      "tags": [],
-      "date": "2026-08-28T22:18:27+00:00"
-    },
-    {
-      "id": "hn-49484796",
-      "source": "hn",
-      "title": "Forgotten History of Small Nuclear Reactors (2015)",
-      "url": "https://spectrum.ieee.org/the-forgotten-history-of-small-nuclear-reactors",
-      "score": 19,
-      "comments": 1,
-      "author": "derriz",
-      "tags": [],
-      "date": "2026-08-28T22:05:39+00:00"
-    },
-    {
-      "id": "hn-49484004",
-      "source": "hn",
-      "title": "Borges Labyrinth in Venice reopens to the public",
-      "url": "https://www.wallpaper.com/design-interiors/labirinto-borges-venice-reopening",
-      "score": 59,
-      "comments": 16,
-      "author": "gone35",
-      "tags": [],
-      "date": "2026-08-28T20:41:35+00:00"
-    },
-    {
-      "id": "hn-49483816",
-      "source": "hn",
-      "title": "Stopping the smart TV from being used against you",
-      "url": "https://www.s-config.com/stopping-a-smart-tv-from-being-used-against-you/",
-      "score": 11,
-      "comments": 5,
-      "author": "speckx",
-      "tags": [],
-      "date": "2026-08-28T20:27:57+00:00"
-    },
-    {
-      "id": "hn-49483622",
-      "source": "hn",
-      "title": "Racter (1984)",
-      "url": "https://www.ubu.com/historical/racter/index.html",
-      "score": 15,
-      "comments": 5,
-      "author": "buescher",
-      "tags": [],
-      "date": "2026-08-28T20:11:48+00:00"
-    },
-    {
-      "id": "hn-49483187",
-      "source": "hn",
-      "title": "Isitdoneyet.gg is a website I made to figure out if games are complete",
-      "url": "https://isitdoneyet.gg/",
-      "score": 23,
-      "comments": 25,
-      "author": "Kwolok",
-      "tags": [],
-      "date": "2026-08-28T19:30:46+00:00"
-    },
-    {
-      "id": "hn-49483182",
-      "source": "hn",
-      "title": "25,000 Lbs. Of Chicken Products Recalled in 5 States: USDA",
-      "url": "https://www.thehealthy.com/news/chicken-recall-fsis-august-2026/",
-      "score": 95,
-      "comments": 63,
-      "author": "randycupertino",
-      "tags": [],
-      "date": "2026-08-28T19:30:15+00:00"
     },
     {
       "id": "ctf-4372374",

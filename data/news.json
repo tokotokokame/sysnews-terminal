@@ -1,14 +1,71 @@
 {
-  "updated_at": "2026-09-06T21:33:48.986553+00:00",
+  "updated_at": "2026-09-06T23:30:29.691584+00:00",
   "count": 500,
   "items": [
+    {
+      "id": "hn-49591876",
+      "source": "hn",
+      "title": "Making a Python interpreter in 1024 bytes",
+      "url": "https://austinhenley.com/blog/python1024.html",
+      "score": 13,
+      "comments": 1,
+      "author": "azhenley",
+      "tags": [],
+      "date": "2026-09-06T23:14:08+00:00"
+    },
+    {
+      "id": "qiita-6e1d1ed50a",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "AIエージェント14製品を徹底比較｜暴走せず社内業務を任せられるのは？ Claude・Cursor・Devin・Manus…【中小企業の導入判断ガイド】",
+      "url": "https://qiita.com/songchong/items/94df4fbdeabaaf8f8ef5?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "songchong",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-09-07T08:10:26+09:00"
+    },
+    {
+      "id": "hn-49591672",
+      "source": "hn",
+      "title": "Hackers have withdrawn ~4k BTC (~$320M) from the Liquid Federation wallet",
+      "url": "https://twitter.com/Liquid_BTC/status/2096696272447218108",
+      "score": 12,
+      "comments": 3,
+      "author": "felipelalli",
+      "tags": [],
+      "date": "2026-09-06T22:43:25+00:00"
+    },
+    {
+      "id": "hn-49591620",
+      "source": "hn",
+      "title": "Political meddling at the Census Bureau damages the US statistical system",
+      "url": "https://www.piie.com/blogs/realtime-economics/2026/political-meddling-census-bureau-damages-entire-us-statistical-system",
+      "score": 19,
+      "comments": 2,
+      "author": "boshomi",
+      "tags": [],
+      "date": "2026-09-06T22:36:07+00:00"
+    },
+    {
+      "id": "hn-49591036",
+      "source": "hn",
+      "title": "Windows 11's \"special\" developer edition looks like another marketing misfire",
+      "url": "https://www.neowin.net/opinions/windows-11s-special-developer-edition-sounds-like-yet-another-marketing-misfire/",
+      "score": 36,
+      "comments": 23,
+      "author": "bundie",
+      "tags": [],
+      "date": "2026-09-06T21:16:10+00:00"
+    },
     {
       "id": "hn-49590738",
       "source": "hn",
       "title": "Show HN: Mador – Make any DOM reactive with a tiny 80-line Proxy state tuple",
       "url": "https://github.com/marsbos/mador",
-      "score": 26,
-      "comments": 7,
+      "score": 52,
+      "comments": 20,
       "author": "bosmarcel",
       "tags": [],
       "date": "2026-09-06T20:45:13+00:00"
@@ -18,19 +75,42 @@
       "source": "hn",
       "title": "It took a year to ship WebAssembly in Anubis",
       "url": "https://anubis.techaro.lol/blog/2026/anubis-wasm/",
-      "score": 44,
-      "comments": 20,
+      "score": 102,
+      "comments": 68,
       "author": "xena",
       "tags": [],
       "date": "2026-09-06T20:32:38+00:00"
+    },
+    {
+      "id": "hn-49590595",
+      "source": "hn",
+      "title": "Harnessing the Universal Geometry of Embeddings",
+      "url": "https://arxiv.org/abs/2505.12540",
+      "score": 26,
+      "comments": 3,
+      "author": "ur-whale",
+      "tags": [],
+      "date": "2026-09-06T20:31:20+00:00"
+    },
+    {
+      "id": "hn-49590524",
+      "source": "hn",
+      "title": "Show HN: Sol, my macOS music player and jukebox app, is now free and open source",
+      "url": "https://github.com/FulltimeFeline/Sol",
+      "score": 14,
+      "comments": 0,
+      "author": "fulltimefeline",
+      "tags": [],
+      "date": "2026-09-06T20:24:56+00:00",
+      "severity": "critical"
     },
     {
       "id": "hn-49590512",
       "source": "hn",
       "title": "GrapheneOS Overhauled Default Apps and Secure Clipboard",
       "url": "https://grapheneos.social/@GrapheneOS/117225539756835649",
-      "score": 32,
-      "comments": 14,
+      "score": 128,
+      "comments": 46,
       "author": "Cider9986",
       "tags": [],
       "date": "2026-09-06T20:24:00+00:00"
@@ -67,6 +147,17 @@
       "author": "xylon",
       "tags": [],
       "date": "2026-09-06T19:45:39+00:00"
+    },
+    {
+      "id": "hn-49589768",
+      "source": "hn",
+      "title": "D2 Is Non-Profit",
+      "url": "https://d2lang.com/blog/d2-non-profit/",
+      "score": 13,
+      "comments": 5,
+      "author": "alixanderwang",
+      "tags": [],
+      "date": "2026-09-06T19:11:05+00:00"
     },
     {
       "id": "hn-49589722",
@@ -152,24 +243,11 @@
       "source": "hn",
       "title": "Research carried out using NetBSD",
       "url": "https://www.netbsd.org/gallery/research.html",
-      "score": 63,
-      "comments": 14,
+      "score": 70,
+      "comments": 16,
       "author": "Bluestein",
       "tags": [],
       "date": "2026-09-06T16:10:05+00:00"
-    },
-    {
-      "id": "qiita-6e1d1ed50a",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "Claude・Cursor・Devin・Manus… AIエージェント14製品、社内システムを触らせて事故らないのはどれ？【中小企業の導入判断ガイド】",
-      "url": "https://qiita.com/songchong/items/94df4fbdeabaaf8f8ef5?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "songchong",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-09-07T01:02:59+09:00"
     },
     {
       "id": "hn-49587833",
@@ -187,7 +265,7 @@
       "source": "hn",
       "title": "NetBSD 9.5 released and EOL for NetBSD-9",
       "url": "https://blog.netbsd.org/tnf/entry/netbsd_9_5_released_and",
-      "score": 93,
+      "score": 98,
       "comments": 4,
       "author": "jaypatelani",
       "tags": [],
@@ -232,8 +310,8 @@
       "source": "hn",
       "title": "A/I shuts down – Stay human",
       "url": "https://keepitfree.ai/announcements/a/i-shuts-down-stay-human/",
-      "score": 443,
-      "comments": 299,
+      "score": 487,
+      "comments": 348,
       "author": "captainmuon",
       "tags": [],
       "date": "2026-09-06T14:34:34+00:00"
@@ -243,8 +321,8 @@
       "source": "hn",
       "title": "Asahi Linux on M3",
       "url": "https://asahilinux.org/2026/09/m2-episode-1/",
-      "score": 251,
-      "comments": 151,
+      "score": 315,
+      "comments": 179,
       "author": "mdp2021",
       "tags": [],
       "date": "2026-09-06T14:08:59+00:00"
@@ -350,8 +428,8 @@
       "source": "hn",
       "title": "Your intellectual fly is open (2025)",
       "url": "https://bcantrill.dtrace.org/2025/12/05/your-intellectual-fly-is-open/",
-      "score": 428,
-      "comments": 279,
+      "score": 472,
+      "comments": 302,
       "author": "cyb0rg0",
       "tags": [],
       "date": "2026-09-06T11:56:43+00:00"
@@ -361,8 +439,8 @@
       "source": "hn",
       "title": "Doomscrolling Ourselves to Death",
       "url": "https://www.edwest.co.uk/p/doomscrolling-ourselves-to-death",
-      "score": 322,
-      "comments": 223,
+      "score": 350,
+      "comments": 248,
       "author": "shubhamjain",
       "tags": [],
       "date": "2026-09-06T11:53:40+00:00"
@@ -442,8 +520,8 @@
       "source": "hn",
       "title": "Isar Aerospace reaches orbit and deploys payloads on second flight",
       "url": "https://isaraerospace.com/press/history-for-european-spaceflight-isar-aerospace-reaches-orbit-and-deploys-payloads-on-second-flight",
-      "score": 506,
-      "comments": 163,
+      "score": 544,
+      "comments": 177,
       "author": "mpweiher",
       "tags": [],
       "date": "2026-09-06T07:21:06+00:00"
@@ -1608,6 +1686,17 @@
       "date": "2026-09-04T10:17:01+00:00"
     },
     {
+      "id": "hn-49562594",
+      "source": "hn",
+      "title": "A Week of Bug Reporting",
+      "url": "https://tratt.net/laurie/blog/2022/a_week_of_bug_reporting.html",
+      "score": 3,
+      "comments": 0,
+      "author": "luu",
+      "tags": [],
+      "date": "2026-09-04T10:08:02+00:00"
+    },
+    {
       "id": "qiita-4bb8ccf2ef",
       "source": "zennqiita",
       "sub_source": "Qiita",
@@ -1679,6 +1768,17 @@
       "tags": [],
       "date": "2026-09-04T07:36:31+00:00",
       "severity": "critical"
+    },
+    {
+      "id": "hn-49561514",
+      "source": "hn",
+      "title": "Reverse engineering the storage format for an undocumented database",
+      "url": "https://blog.glazer.ee/posts/converting-cronos/",
+      "score": 8,
+      "comments": 0,
+      "author": "pintprint",
+      "tags": [],
+      "date": "2026-09-04T07:17:00+00:00"
     },
     {
       "id": "qiita-d300daaf46",
@@ -2052,8 +2152,8 @@
       "source": "hn",
       "title": "Babylonian Lamb Stew with Beets (1750–1730 BCE)",
       "url": "https://babylonian-collection.yale.edu/about/babylonian-cooking",
-      "score": 55,
-      "comments": 24,
+      "score": 76,
+      "comments": 32,
       "author": "yubblegum",
       "tags": [],
       "date": "2026-09-03T18:40:07+00:00"
@@ -2794,8 +2894,8 @@
       "source": "hn",
       "title": "Vidact – a compiler that turns React into direct DOM operations",
       "url": "https://www.vidact.dev/",
-      "score": 36,
-      "comments": 16,
+      "score": 40,
+      "comments": 21,
       "author": "mohebifar",
       "tags": [],
       "date": "2026-09-02T20:34:24+00:00"
@@ -2892,10 +2992,10 @@
     {
       "id": "hn-49540637",
       "source": "hn",
-      "title": "Black Hole of Los Alamos Seller of surplus nuclear research materials",
+      "title": "Black Hole of Los Alamos Seller of surplus nuclear research materials (2011)",
       "url": "https://www.atlasobscura.com/places/black-hole-of-los-alamos",
-      "score": 13,
-      "comments": 1,
+      "score": 30,
+      "comments": 6,
       "author": "Bluestein",
       "tags": [],
       "date": "2026-09-02T18:47:55+00:00"
@@ -2938,8 +3038,8 @@
       "source": "hn",
       "title": "Electronic skin for prosthetics to sense temperature and pressure",
       "url": "https://news.wsu.edu/press-release/2026/08/20/researchers-develop-electronic-skin-for-prosthetics-to-sense-temperature-and-pressure/",
-      "score": 32,
-      "comments": 4,
+      "score": 39,
+      "comments": 5,
       "author": "gmays",
       "tags": [],
       "date": "2026-09-02T18:06:56+00:00"
@@ -3586,8 +3686,8 @@
       "source": "hn",
       "title": "M-DISC – DVD/Blu-ray compatible discs that may last up to 1000 years",
       "url": "https://en.wikipedia.org/wiki/M-DISC",
-      "score": 165,
-      "comments": 77,
+      "score": 177,
+      "comments": 80,
       "author": "gurjeet",
       "tags": [],
       "date": "2026-09-02T04:10:21+00:00"
@@ -5077,115 +5177,6 @@
       "date": "2026-08-31T14:52:24+00:00"
     },
     {
-      "id": "hn-49510489",
-      "source": "hn",
-      "title": "The Snow/Leavis ‘two cultures’ clash",
-      "url": "https://aeon.co/essays/at-the-heart-of-the-snow-leavis-two-cultures-clash",
-      "score": 43,
-      "comments": 22,
-      "author": "Hooke",
-      "tags": [],
-      "date": "2026-08-31T14:50:24+00:00"
-    },
-    {
-      "id": "hn-49510000",
-      "source": "hn",
-      "title": "ChatGPT Work Tool and Skill Reference",
-      "url": "https://codex-tool-reference.simonw.chatgpt.site/",
-      "score": 183,
-      "comments": 51,
-      "author": "ijidak",
-      "tags": [],
-      "date": "2026-08-31T14:07:15+00:00"
-    },
-    {
-      "id": "qiita-c2ddaf91c6",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "AI駆動開発ライフサイクル（AI-DLC）の日本語版Skill Builderが公開されたので体験してみた",
-      "url": "https://qiita.com/news_it_enj/items/af5c80bebd4eb7d2eef9?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "news_it_enj",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-08-31T23:06:58+09:00"
-    },
-    {
-      "id": "qiita-15eef3e953",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "900件のテストが緑でも、本番では壊れる──LLM製プロダクトの品質保証で学んだこと",
-      "url": "https://qiita.com/tanabata-kitajima/items/89edab6694989422af69?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "tanabata-kitajima",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-08-31T23:05:04+09:00"
-    },
-    {
-      "id": "qiita-ac3f36b06f",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "ESP32 シリーズを使ってイチから電子工作まとめ　 (回路設計/基板設計編)",
-      "url": "https://qiita.com/_shin_/items/47bc69006f6467d79e91?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "_shin_",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-08-31T23:00:35+09:00"
-    },
-    {
-      "id": "qiita-718325bda1",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "【AIエージェント構築入門】Bedrock AgentCoreで複数のAWSアカウントを自然言語で調査するチャットボットを作る（後編）",
-      "url": "https://qiita.com/eureka_/items/d60ad5361df82ae24e94?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "eureka_",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-08-31T22:47:31+09:00"
-    },
-    {
-      "id": "hn-49509655",
-      "source": "hn",
-      "title": "We are rebuilding Monica",
-      "url": "https://www.monicahq.com/en/blog/we-are-rebuilding-monica/",
-      "score": 85,
-      "comments": 57,
-      "author": "robinhood",
-      "tags": [],
-      "date": "2026-08-31T13:37:28+00:00"
-    },
-    {
-      "id": "hn-49509606",
-      "source": "hn",
-      "title": "Creating Backup Storage Sucks",
-      "url": "https://smarmelling.com/posts/creating-backup-storage-sucks.html",
-      "score": 23,
-      "comments": 13,
-      "author": "smarmelling",
-      "tags": [],
-      "date": "2026-08-31T13:33:31+00:00"
-    },
-    {
-      "id": "qiita-7dceb704eb",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "良いダッシュボードとは — 「誰の何を見せる画面か」から考える",
-      "url": "https://qiita.com/YushiYamamoto/items/608f236ec0f0c694def9?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "YushiYamamoto",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-08-31T22:12:40+09:00"
-    },
-    {
       "id": "ctf-4372374",
       "source": "project",
       "proj_category": "CTF",
@@ -5396,6 +5387,71 @@
       "date": "2023-05-23T17:06:23Z"
     },
     {
+      "id": "zenn-ab9bfe36f3",
+      "source": "zennqiita",
+      "sub_source": "Zenn",
+      "title": "初学者がRustに触れて感じたこと",
+      "url": "https://zenn.dev/darkcat666/articles/c2a19b874900ab",
+      "score": null,
+      "author": "センシティブ先輩＠＜破壊者＞",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Sun, 06 Sep 2026 12:09:30 GMT"
+    },
+    {
+      "id": "zenn-1165c0744c",
+      "source": "zennqiita",
+      "sub_source": "Zenn",
+      "title": "GitHub の権限管理を Terraform 化すると体験がよかった",
+      "url": "https://zenn.dev/dev_commune/articles/github-terraform-permission-management",
+      "score": null,
+      "author": "sikeda107",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Sun, 06 Sep 2026 11:50:58 GMT"
+    },
+    {
+      "id": "zenn-3a7042bded",
+      "source": "zennqiita",
+      "sub_source": "Zenn",
+      "title": "ルービックキューブを一撃で解く専用LLMを作った",
+      "url": "https://zenn.dev/issei_y/articles/4178a603322b8e",
+      "score": null,
+      "author": "issei_y",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Sun, 06 Sep 2026 10:48:04 GMT"
+    },
+    {
+      "id": "zenn-0f26c74fef",
+      "source": "zennqiita",
+      "sub_source": "Zenn",
+      "title": "GPT-2-likeからQwen2-likeへの実験：第3回 絶対位置EmbeddingをRoPEに変える",
+      "url": "https://zenn.dev/yyamamot/articles/gpt2-to-qwen2-03-rope",
+      "score": null,
+      "author": "yyamamot",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Sun, 06 Sep 2026 06:45:34 GMT"
+    },
+    {
+      "id": "zenn-5bc66e44b0",
+      "source": "zennqiita",
+      "sub_source": "Zenn",
+      "title": "個人PCのClaude Codeの設定ファイルと、設定の動機を一部紹介します",
+      "url": "https://zenn.dev/yuki82511988/articles/45a5a464514ac1",
+      "score": null,
+      "author": "yuki",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Sun, 06 Sep 2026 01:32:12 GMT"
+    },
+    {
       "id": "zenn-f26706b955",
       "source": "zennqiita",
       "sub_source": "Zenn",
@@ -5420,6 +5476,19 @@
         "Zenn"
       ],
       "date": "Sat, 05 Sep 2026 10:40:24 GMT"
+    },
+    {
+      "id": "zenn-345b19579f",
+      "source": "zennqiita",
+      "sub_source": "Zenn",
+      "title": "[OpenTelemetry] Go のコンパイル時計装において、ctx 伝搬なしで span を紐づける仕組みについて調べた",
+      "url": "https://zenn.dev/ntk221/articles/34cbb95272720f",
+      "score": null,
+      "author": "ntk",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Sat, 05 Sep 2026 05:20:31 GMT"
     },
     {
       "id": "zenn-7d64475b43",
@@ -5539,19 +5608,6 @@
       "date": "Tue, 01 Sep 2026 10:00:05 GMT"
     },
     {
-      "id": "zenn-a26ec198cf",
-      "source": "zennqiita",
-      "sub_source": "Zenn",
-      "title": "Rust の ORM 選定に新しい選択肢は来るか？ Toasty を使ってみる",
-      "url": "https://zenn.dev/uniquevision/articles/345368d3188b98",
-      "score": null,
-      "author": "Kanaru Isoda",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Tue, 01 Sep 2026 09:31:23 GMT"
-    },
-    {
       "id": "zenn-1df765d8c8",
       "source": "zennqiita",
       "sub_source": "Zenn",
@@ -5563,19 +5619,6 @@
         "Zenn"
       ],
       "date": "Tue, 01 Sep 2026 08:46:36 GMT"
-    },
-    {
-      "id": "zenn-3d00064def",
-      "source": "zennqiita",
-      "sub_source": "Zenn",
-      "title": "Web 標準動向 2026年8月版",
-      "url": "https://zenn.dev/cybozu_frontend/articles/web_standards_trends_202608",
-      "score": null,
-      "author": "saku",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Tue, 01 Sep 2026 08:00:05 GMT"
     },
     {
       "id": "zenn-ef108d42a9",
@@ -5591,19 +5634,6 @@
       "date": "Tue, 01 Sep 2026 07:50:31 GMT"
     },
     {
-      "id": "zenn-f535ec8d3f",
-      "source": "zennqiita",
-      "sub_source": "Zenn",
-      "title": "会話セッションを邪魔せずに Claude Code / Codex / Cursor を外部イベントで動かすCLIの作り方まとめ",
-      "url": "https://zenn.dev/coji/articles/artifactshare-preview-claude-codex-cursor",
-      "score": null,
-      "author": "Coji Mizoguchi",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Tue, 01 Sep 2026 01:03:04 GMT"
-    },
-    {
       "id": "zenn-24f2d57ab1",
       "source": "zennqiita",
       "sub_source": "Zenn",
@@ -5615,45 +5645,6 @@
         "Zenn"
       ],
       "date": "Tue, 01 Sep 2026 00:39:17 GMT"
-    },
-    {
-      "id": "zenn-df538f6909",
-      "source": "zennqiita",
-      "sub_source": "Zenn",
-      "title": "トークン2000分の1——オントロジー×ナレッジグラフでClaude Codeの推測を消す",
-      "url": "https://zenn.dev/helloworld/articles/bcaea69f58eae5",
-      "score": null,
-      "author": "週末ものづくり部",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Mon, 31 Aug 2026 22:00:08 GMT"
-    },
-    {
-      "id": "zenn-70e3849472",
-      "source": "zennqiita",
-      "sub_source": "Zenn",
-      "title": "小学校の夏休みの宿題をプロジェクトマネジメントしてみた",
-      "url": "https://zenn.dev/nextbeat/articles/8f5d24529caea6",
-      "score": null,
-      "author": "ichi",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Mon, 31 Aug 2026 11:01:11 GMT"
-    },
-    {
-      "id": "zenn-ed3b823294",
-      "source": "zennqiita",
-      "sub_source": "Zenn",
-      "title": "202608個人的claude code設定",
-      "url": "https://zenn.dev/kawarimidoll/articles/d3f1a7542de71a",
-      "score": null,
-      "author": "kawarimidoll",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Mon, 31 Aug 2026 02:30:18 GMT"
     },
     {
       "id": "edb-f594139f85",

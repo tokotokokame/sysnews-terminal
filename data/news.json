@@ -1,25 +1,47 @@
 {
-  "updated_at": "2026-09-10T17:47:05.875705+00:00",
+  "updated_at": "2026-09-10T20:27:48.531829+00:00",
   "count": 500,
   "items": [
+    {
+      "id": "hn-49648732",
+      "source": "hn",
+      "title": "Genuine Creativity Is Your New Moat (2026)",
+      "url": "https://www.inventbuild.studio/blog/genuine-creativity-is-your-new-moat",
+      "score": 47,
+      "comments": 27,
+      "author": "virgil_disgr4ce",
+      "tags": [],
+      "date": "2026-09-10T19:03:34+00:00"
+    },
     {
       "id": "hn-49647404",
       "source": "hn",
       "title": "JEP 544: Ahead-of-Time Code Compilation",
       "url": "https://openjdk.org/jeps/544",
-      "score": 4,
-      "comments": 1,
+      "score": 35,
+      "comments": 18,
       "author": "Skinney",
       "tags": [],
       "date": "2026-09-10T17:30:39+00:00"
+    },
+    {
+      "id": "hn-49647134",
+      "source": "hn",
+      "title": "Music Theory for the 21st-Century Classroom",
+      "url": "https://musictheory.pugetsound.edu/mt21c/MusicTheory.html",
+      "score": 66,
+      "comments": 31,
+      "author": "aanet",
+      "tags": [],
+      "date": "2026-09-10T17:14:12+00:00"
     },
     {
       "id": "hn-49646778",
       "source": "hn",
       "title": "Cognition's SWE-2 achieves 92.8 on Terminal-Bench 2.1",
       "url": "https://tokenstead.ai/models/swe-2",
-      "score": 7,
-      "comments": 0,
+      "score": 35,
+      "comments": 14,
       "author": "cdnsteve",
       "tags": [],
       "date": "2026-09-10T16:52:11+00:00"
@@ -27,10 +49,10 @@
     {
       "id": "hn-49646181",
       "source": "hn",
-      "title": "Software Drives People Insane",
+      "title": "I have a theory that software drives people insane",
       "url": "https://graybeard.ing/software-drives-people-insane/",
-      "score": 64,
-      "comments": 35,
+      "score": 314,
+      "comments": 121,
       "author": "rglover",
       "tags": [],
       "date": "2026-09-10T16:13:42+00:00"
@@ -40,8 +62,8 @@
       "source": "hn",
       "title": "Forgejo <=16.0.3 Critical RCE",
       "url": "https://codeberg.org/forgejo/forgejo/src/branch/forgejo/release-notes-published/16.0.4.md",
-      "score": 33,
-      "comments": 9,
+      "score": 91,
+      "comments": 37,
       "author": "weierstass",
       "tags": [],
       "date": "2026-09-10T15:57:40+00:00",
@@ -72,10 +94,10 @@
     {
       "id": "hn-49645763",
       "source": "hn",
-      "title": "Neki by PlanetScale",
+      "title": "Neki is sharded Postgres by PlanetScale",
       "url": "https://neki.dev/",
-      "score": 63,
-      "comments": 16,
+      "score": 99,
+      "comments": 23,
       "author": "handfuloflight",
       "tags": [],
       "date": "2026-09-10T15:48:14+00:00"
@@ -85,8 +107,8 @@
       "source": "hn",
       "title": "Silicon Valley Is Transforming the Military-Industrial Complex",
       "url": "https://costsofwar.watson.brown.edu/paper/how-big-tech-and-silicon-valley-are-transforming-military-industrial-complex",
-      "score": 37,
-      "comments": 33,
+      "score": 102,
+      "comments": 153,
       "author": "paimapi",
       "tags": [],
       "date": "2026-09-10T15:47:50+00:00"
@@ -96,8 +118,8 @@
       "source": "hn",
       "title": "Neki",
       "url": "https://planetscale.com/blog/introducing-neki",
-      "score": 73,
-      "comments": 13,
+      "score": 153,
+      "comments": 59,
       "author": "simon_weber",
       "tags": [],
       "date": "2026-09-10T15:43:49+00:00"
@@ -107,8 +129,8 @@
       "source": "hn",
       "title": "Cognition launches new SWE-2 model, Rivaling Fable 5.1 and GPT-Astra",
       "url": "https://cognition.com/blog/swe-2",
-      "score": 114,
-      "comments": 62,
+      "score": 224,
+      "comments": 106,
       "author": "seelos",
       "tags": [],
       "date": "2026-09-10T15:29:47+00:00"
@@ -118,19 +140,30 @@
       "source": "hn",
       "title": "NASA Color Trick Was Meant for Mars. Now It's Unveiling Rock Art on Earth",
       "url": "https://gizmodo.com/this-nasa-color-trick-was-meant-for-mars-now-its-unveiling-rock-art-on-earth-2000809844",
-      "score": 67,
-      "comments": 12,
+      "score": 170,
+      "comments": 31,
       "author": "gumby",
       "tags": [],
       "date": "2026-09-10T15:29:30+00:00"
+    },
+    {
+      "id": "hn-49645393",
+      "source": "hn",
+      "title": "Don't Let Anyone Take Away Your Big Box of Cables",
+      "url": "https://blog.jim-nielsen.com/2026/hands-off-my-cables/",
+      "score": 94,
+      "comments": 85,
+      "author": "Brajeshwar",
+      "tags": [],
+      "date": "2026-09-10T15:27:22+00:00"
     },
     {
       "id": "hn-49643982",
       "source": "hn",
       "title": "Shopify moves back to Native from React Native",
       "url": "https://shopify.engineering/back-to-native",
-      "score": 463,
-      "comments": 325,
+      "score": 566,
+      "comments": 393,
       "author": "fnthawar2",
       "tags": [],
       "date": "2026-09-10T14:09:31+00:00"
@@ -151,13 +184,26 @@
     {
       "id": "hn-49643546",
       "source": "hn",
-      "title": "Rust Is Tier-1 Language at Microsoft",
+      "title": "Rust is tier-1 language at Microsoft",
       "url": "https://rustfoundation.org/media/guest-post-rust-is-tier-1-language-at-microsoft/",
-      "score": 327,
-      "comments": 159,
+      "score": 503,
+      "comments": 277,
       "author": "mmastrac",
       "tags": [],
       "date": "2026-09-10T13:39:16+00:00"
+    },
+    {
+      "id": "qiita-508ef9f363",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "２ヶ月運用したハニーポットのログを集計してみた。",
+      "url": "https://qiita.com/takumi_security/items/2c86780a71ad019f4394?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "takumi_security",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-09-10T22:11:48+09:00"
     },
     {
       "id": "hn-49643112",
@@ -195,15 +241,54 @@
       "date": "2026-09-10T21:58:50+09:00"
     },
     {
+      "id": "qiita-88a41f888e",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "ハーネスの次に来るもの ― Causal ReasoningでAIエージェントはどう変わるか？",
+      "url": "https://qiita.com/ryosuke_ohori/items/f8eaad0ddba954e2ebb6?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "ryosuke_ohori",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-09-10T21:56:10+09:00"
+    },
+    {
+      "id": "qiita-22251978db",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "Geminiを開くたびに「3.8 Flash 思考モード」を選び直すのが面倒すぎたので、自動で切り替わるスクリプトを作った",
+      "url": "https://qiita.com/xeje/items/029d10934e6246a23e17?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "xeje",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-09-10T21:38:43+09:00"
+    },
+    {
       "id": "hn-49642531",
       "source": "hn",
       "title": "List of references on Sony websites to players \"owning\" their digital games",
       "url": "https://consumerrights.wiki/w/Sony_PlayStation_digital_game_ownership_lawsuit",
-      "score": 248,
-      "comments": 82,
+      "score": 300,
+      "comments": 98,
       "author": "haunter",
       "tags": [],
       "date": "2026-09-10T12:18:06+00:00"
+    },
+    {
+      "id": "qiita-936c6dfb78",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "3匹のAIエージェントだけで、Webアプリを企画〜本番デプロイまで作った話（人間はほぼ指示しただけ）",
+      "url": "https://qiita.com/chiitata/items/2c2ad3d8d7398b89aee8?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "chiitata",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-09-10T20:55:32+09:00"
     },
     {
       "id": "qiita-fbd424fb71",
@@ -271,8 +356,8 @@
       "source": "hn",
       "title": "More questions about whether researchers can trust OpenAI with unpublished math",
       "url": "https://mathstodon.xyz/@andreasthom/117240535270608201",
-      "score": 187,
-      "comments": 349,
+      "score": 365,
+      "comments": 459,
       "author": "pred_",
       "tags": [],
       "date": "2026-09-10T06:49:43+00:00"
@@ -293,11 +378,24 @@
       "source": "hn",
       "title": "DeepSeek v4.1 Flash",
       "url": "https://twitter.com/deepseek_ai/status/2097930608790167907",
-      "score": 796,
-      "comments": 435,
+      "score": 878,
+      "comments": 495,
       "author": "Liwink",
       "tags": [],
       "date": "2026-09-10T06:11:05+00:00"
+    },
+    {
+      "id": "qiita-dbd4ca6011",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "【体験談】1年目、バッチ実装で3ヶ月溶かした話 — 『世界一流エンジニアの思考法』で振り返る",
+      "url": "https://qiita.com/suneo46/items/522f0bcac1532e23048d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "suneo46",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-09-10T13:47:07+09:00"
     },
     {
       "id": "hn-49638280",
@@ -370,6 +468,19 @@
       "date": "2026-09-10T01:58:00+00:00"
     },
     {
+      "id": "qiita-a3fc45f954",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "勉強会文化ゼロの支社で、2026 Japan AWS Jr. Championsの私が立ち上げたクラウド勉強会——部署の壁を越えた交流とアウトプットの文化を作る",
+      "url": "https://qiita.com/MikuMatsuo/items/dd8295164f2d84c9bf61?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "MikuMatsuo",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-09-10T10:37:51+09:00"
+    },
+    {
       "id": "hn-49636283",
       "source": "hn",
       "title": "Automattic's board forces CEO Matt Mullenweg into leave of absence",
@@ -419,6 +530,19 @@
       "date": "2026-09-09T22:22:53+00:00"
     },
     {
+      "id": "qiita-6368c336b2",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "BobとCPLEXで顧客に値引きクーポンを出し分け利益を最大化させる（C-1）",
+      "url": "https://qiita.com/416nishimaki/items/0dad1a18bd41016b2f93?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "416nishimaki",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-09-10T06:54:33+09:00"
+    },
+    {
       "id": "hn-49634650",
       "source": "hn",
       "title": "Automattic CEO Matt Mullenweg Put on 'Leave of Absence'",
@@ -445,8 +569,8 @@
       "source": "hn",
       "title": "iPhone Duo",
       "url": "https://www.apple.com/iphone-duo/",
-      "score": 1348,
-      "comments": 2352,
+      "score": 1380,
+      "comments": 2396,
       "author": "thecosmicfrog",
       "tags": [],
       "date": "2026-09-09T18:15:43+00:00"
@@ -734,8 +858,8 @@
       "source": "hn",
       "title": "Hitachi launches CO2 heat pump water heaters with solar-friendly tariff controls",
       "url": "https://www.pv-magazine.com/2026/09/07/hitachi-launches-co2-heat-pump-water-heaters-with-solar-friendly-tariff-controls/",
-      "score": 220,
-      "comments": 180,
+      "score": 250,
+      "comments": 201,
       "author": "thelastgallon",
       "tags": [],
       "date": "2026-09-09T14:54:12+00:00"
@@ -1323,6 +1447,17 @@
       "date": "2026-09-08T19:47:13+00:00"
     },
     {
+      "id": "hn-49615922",
+      "source": "hn",
+      "title": "What happens when a GPU writes memory",
+      "url": "https://blog.doubleword.ai/what-happens-when-a-gpu-writes-memory",
+      "score": 5,
+      "comments": 0,
+      "author": "ibobev",
+      "tags": [],
+      "date": "2026-09-08T19:46:59+00:00"
+    },
+    {
       "id": "hn-49615537",
       "source": "hn",
       "title": "Muse – Meta’s personal AI agent",
@@ -1404,8 +1539,8 @@
       "source": "hn",
       "title": ">10x More Efficient Pretraining",
       "url": "https://magic.dev/blog/pretraining#",
-      "score": 68,
-      "comments": 38,
+      "score": 100,
+      "comments": 53,
       "author": "ronfriedhaber",
       "tags": [],
       "date": "2026-09-08T16:59:53+00:00"
@@ -1448,8 +1583,8 @@
       "source": "hn",
       "title": "Python sets and dictionaries can have quadratic-time performance",
       "url": "https://lemire.me/blog/2026/09/03/python-sets-and-dictionaries-can-have-quadratic-time-performance/",
-      "score": 40,
-      "comments": 14,
+      "score": 69,
+      "comments": 30,
       "author": "ibobev",
       "tags": [],
       "date": "2026-09-08T16:17:51+00:00"
@@ -2036,6 +2171,19 @@
         "Qiita"
       ],
       "date": "2026-09-08T09:45:12+09:00"
+    },
+    {
+      "id": "qiita-5f50971715",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "ECS のロールバックはどんなときに効かなくなるのか、実際に確かめてみた",
+      "url": "https://qiita.com/hacchi_no_donburi/items/588364dd06553e39613c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "hacchi_no_donburi",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-09-08T09:42:04+09:00"
     },
     {
       "id": "qiita-ee71ea74b5",
@@ -3291,8 +3439,8 @@
       "source": "hn",
       "title": "Douglas Hofstadter: Analogy as the Core of Cognition [video]",
       "url": "https://www.youtube.com/watch?v=n8m7lFQ3njk",
-      "score": 27,
-      "comments": 4,
+      "score": 92,
+      "comments": 49,
       "author": "tosh",
       "tags": [],
       "date": "2026-09-06T14:59:33+00:00"
@@ -3422,6 +3570,17 @@
       "author": "BinRoo",
       "tags": [],
       "date": "2026-09-06T13:00:34+00:00"
+    },
+    {
+      "id": "hn-49586139",
+      "source": "hn",
+      "title": "Schemy Lisp En DOS",
+      "url": "https://sled.neocities.org/",
+      "score": 64,
+      "comments": 11,
+      "author": "AlexeyBrin",
+      "tags": [],
+      "date": "2026-09-06T12:58:54+00:00"
     },
     {
       "id": "hn-49586005",
@@ -5007,161 +5166,6 @@
         "Qiita"
       ],
       "date": "2026-09-04T18:43:59+09:00"
-    },
-    {
-      "id": "hn-49562430",
-      "source": "hn",
-      "title": "Tracing np.add, all the way down",
-      "url": "https://blog.veitheller.de/numpy.html",
-      "score": 26,
-      "comments": 2,
-      "author": "luu",
-      "tags": [],
-      "date": "2026-09-04T09:42:29+00:00"
-    },
-    {
-      "id": "hn-49562219",
-      "source": "hn",
-      "title": "Show HN: TERMy – A fast terminal assistant that does not use LLMs",
-      "url": "https://github.com/gioblu/NPC-Forge/blob/main/docs/development.md",
-      "score": 70,
-      "comments": 24,
-      "author": "gioscarab",
-      "tags": [],
-      "date": "2026-09-04T09:03:00+00:00"
-    },
-    {
-      "id": "qiita-1df91c8a1b",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "LeetCodeでtallyメソッドを知った",
-      "url": "https://qiita.com/takaki-o/items/27da6ea1029773b54343?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "takaki-o",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-09-04T17:40:41+09:00"
-    },
-    {
-      "id": "qiita-900e5b5732",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "30代薬剤師が2ヶ月でITエンジニアをクビになって求職活動した",
-      "url": "https://qiita.com/kentyo0813/items/effb9105cf6267312d9e?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "kentyo0813",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-09-04T17:36:42+09:00"
-    },
-    {
-      "id": "hn-49561975",
-      "source": "hn",
-      "title": "Carbon-aware electricity pricing, measured daily on 38 grids",
-      "url": "https://carbonawarepricing.com/",
-      "score": 61,
-      "comments": 36,
-      "author": "High-Five",
-      "tags": [],
-      "date": "2026-09-04T08:19:57+00:00"
-    },
-    {
-      "id": "hn-49561670",
-      "source": "hn",
-      "title": "The phrase that ruins every eCommerce project: \"Just connect it to our ERP.\"",
-      "url": "https://shiftmag.dev/the-phrase-that-ruins-every-ecommerce-project-just-connect-it-to-our-erp-11689/",
-      "score": 8,
-      "comments": 2,
-      "author": "taubek",
-      "tags": [],
-      "date": "2026-09-04T07:36:31+00:00",
-      "severity": "critical"
-    },
-    {
-      "id": "hn-49561514",
-      "source": "hn",
-      "title": "Reverse engineering the storage format for an undocumented database",
-      "url": "https://blog.glazer.ee/posts/converting-cronos/",
-      "score": 28,
-      "comments": 2,
-      "author": "pintprint",
-      "tags": [],
-      "date": "2026-09-04T07:17:00+00:00"
-    },
-    {
-      "id": "qiita-d300daaf46",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "【備忘録】Terraform初心者がAIと二人三脚でGCPのIoT基盤構築に挑んでハマったこと",
-      "url": "https://qiita.com/n_ymd/items/ac8151017f5a3f9c24c6?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "n_ymd",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-09-04T16:11:58+09:00"
-    },
-    {
-      "id": "hn-49561320",
-      "source": "hn",
-      "title": "Hackers Had a Live Feed of Every ID Verification Company Scanned for over a Year",
-      "url": "http://www.techdirt.com/2026/09/03/hackers-had-a-live-feed-of-every-id-this-verification-company-scanned-for-over-a-year/",
-      "score": 467,
-      "comments": 192,
-      "author": "beardyw",
-      "tags": [],
-      "date": "2026-09-04T06:47:51+00:00"
-    },
-    {
-      "id": "hn-49561002",
-      "source": "hn",
-      "title": "Decoding the NEC V20 Microcode",
-      "url": "https://martypc.blogspot.com/2026/09/decoding-nec-v20-microcode.html",
-      "score": 112,
-      "comments": 7,
-      "author": "mariuz",
-      "tags": [],
-      "date": "2026-09-04T05:53:38+00:00"
-    },
-    {
-      "id": "qiita-105e8be51d",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "「⨯ Next.js build worker exited with code: 1 and signal: null」の解決方法【Vercel/Deploy/CICD】",
-      "url": "https://qiita.com/keikeigo/items/2551f0c99c5a4365fdf4?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "keikeigo",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-09-04T14:38:15+09:00",
-      "severity": "critical"
-    },
-    {
-      "id": "qiita-69ee699301",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "BigQuery × AI で 300 万円溶かそう",
-      "url": "https://qiita.com/na0/items/e7eb24f896749fd3f190?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "na0",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-09-04T14:21:59+09:00"
-    },
-    {
-      "id": "hn-49560682",
-      "source": "hn",
-      "title": "John Margolies' photographs of roadside America",
-      "url": "https://publicdomainreview.org/collection/john-margolies-photographs-of-roadside-america/",
-      "score": 86,
-      "comments": 22,
-      "author": "duck",
-      "tags": [],
-      "date": "2026-09-04T04:57:22+00:00"
     },
     {
       "id": "ctf-4372374",

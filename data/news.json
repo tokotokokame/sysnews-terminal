@@ -1,14 +1,25 @@
 {
-  "updated_at": "2026-09-12T17:21:15.394448+00:00",
+  "updated_at": "2026-09-12T19:33:30.821331+00:00",
   "count": 500,
   "items": [
+    {
+      "id": "hn-49676085",
+      "source": "hn",
+      "title": "An open letter to Dario: if you mean it, open the weights",
+      "url": "https://jacob.gold/posts/open-letter-to-dario-amodei-about-open-weights/",
+      "score": 20,
+      "comments": 0,
+      "author": "routelastresort",
+      "tags": [],
+      "date": "2026-09-12T19:15:32+00:00"
+    },
     {
       "id": "hn-49674498",
       "source": "hn",
       "title": "Will There Be a 7G?",
       "url": "https://arxiv.org/abs/2609.01877",
-      "score": 3,
-      "comments": 1,
+      "score": 40,
+      "comments": 62,
       "author": "Betelbuddy",
       "tags": [],
       "date": "2026-09-12T17:05:31+00:00"
@@ -27,10 +38,10 @@
     {
       "id": "hn-49674050",
       "source": "hn",
-      "title": "Make Your First Edit to OpenStreetMap in the Next 15 Minutes",
+      "title": "Make your first edit to OpenStreetMap",
       "url": "https://high5apps.github.io/josm-plugin-website-wizard/",
-      "score": 25,
-      "comments": 11,
+      "score": 120,
+      "comments": 40,
       "author": "juliantigler",
       "tags": [],
       "date": "2026-09-12T16:25:08+00:00"
@@ -40,8 +51,8 @@
       "source": "hn",
       "title": "Microcode in Intel's 8087 floating-point chip: the scale instruction",
       "url": "https://www.righto.com/2026/09/8087-microcode-reverse-engineering-fscale.html",
-      "score": 17,
-      "comments": 2,
+      "score": 53,
+      "comments": 17,
       "author": "pwg",
       "tags": [],
       "date": "2026-09-12T15:49:52+00:00"
@@ -58,12 +69,23 @@
       "date": "2026-09-12T15:33:48+00:00"
     },
     {
+      "id": "hn-49672842",
+      "source": "hn",
+      "title": "I made a build visualizer to understand Bun's compile times",
+      "url": "https://lalitm.com/post/buildprof/",
+      "score": 25,
+      "comments": 8,
+      "author": "lalitmaganti",
+      "tags": [],
+      "date": "2026-09-12T14:45:28+00:00"
+    },
+    {
       "id": "hn-49672641",
       "source": "hn",
       "title": "I refuse to let SPICE die",
       "url": "https://github.com/nefarius/vd_agent/",
-      "score": 25,
-      "comments": 11,
+      "score": 59,
+      "comments": 51,
       "author": "Nefarius",
       "tags": [],
       "date": "2026-09-12T14:25:07+00:00"
@@ -80,12 +102,23 @@
       "date": "2026-09-12T14:17:28+00:00"
     },
     {
+      "id": "hn-49672510",
+      "source": "hn",
+      "title": "We must pace the frontier",
+      "url": "https://darioamodei.com/post/we-must-pace-the-frontier",
+      "score": 322,
+      "comments": 426,
+      "author": "apsec112",
+      "tags": [],
+      "date": "2026-09-12T14:10:49+00:00"
+    },
+    {
       "id": "hn-49672365",
       "source": "hn",
       "title": "A Mathematical Framework for Transformer Circuits (2021)",
       "url": "https://transformer-circuits.pub/2021/framework/index.html",
-      "score": 47,
-      "comments": 4,
+      "score": 58,
+      "comments": 12,
       "author": "Bluestein",
       "tags": [],
       "date": "2026-09-12T13:56:58+00:00"
@@ -104,10 +137,10 @@
     {
       "id": "hn-49671972",
       "source": "hn",
-      "title": "A Few Good Ideas in Programming Languages",
+      "title": "A few good ideas in programming languages",
       "url": "https://prydt.xyz/blog/a-few-good-ideas-in-pl/",
-      "score": 9,
-      "comments": 0,
+      "score": 54,
+      "comments": 29,
       "author": "airhangerf15",
       "tags": [],
       "date": "2026-09-12T13:07:52+00:00"
@@ -135,11 +168,22 @@
       "date": "2026-09-12T11:37:22+00:00"
     },
     {
+      "id": "hn-49671237",
+      "source": "hn",
+      "title": "How Trail of Bits helps verify the integrity of Signal chats",
+      "url": "https://blog.trailofbits.com/2026/08/11/how-trail-of-bits-helps-verify-the-integrity-of-your-signal-chats/",
+      "score": 14,
+      "comments": 6,
+      "author": "dgroshev",
+      "tags": [],
+      "date": "2026-09-12T11:27:55+00:00"
+    },
+    {
       "id": "hn-49671159",
       "source": "hn",
-      "title": "The Worst Spam Emails: Inside iLands' AI Agent Hustle",
+      "title": "The worst spam emails: iLands AI agent hustle",
       "url": "https://tedium.co/2026/09/11/ilands-agents-email-spam-kaixin-tang/",
-      "score": 75,
+      "score": 85,
       "comments": 42,
       "author": "ColinWright",
       "tags": [],
@@ -174,8 +218,8 @@
       "source": "hn",
       "title": "Retrospectively Reverse-Engineering Apple's Neural Engine",
       "url": "https://eiln.github.io/posts/ane.html",
-      "score": 185,
-      "comments": 20,
+      "score": 196,
+      "comments": 26,
       "author": "zdw",
       "tags": [],
       "date": "2026-09-12T07:54:03+00:00"
@@ -220,8 +264,8 @@
       "source": "hn",
       "title": "Navier-Stokes Announcement",
       "url": "https://www.claymath.org/news/navier-stokes-announcement/",
-      "score": 223,
-      "comments": 157,
+      "score": 264,
+      "comments": 208,
       "author": "rvz",
       "tags": [],
       "date": "2026-09-12T04:09:43+00:00"
@@ -231,8 +275,8 @@
       "source": "hn",
       "title": "google.com/goto: Google's anti-scraping update",
       "url": "https://www.autom.dev/blog/google-search-goto-links",
-      "score": 508,
-      "comments": 405,
+      "score": 577,
+      "comments": 457,
       "author": "1e1a",
       "tags": [],
       "date": "2026-09-12T03:14:20+00:00",
@@ -361,6 +405,18 @@
       "date": "2026-09-11T21:21:04+00:00"
     },
     {
+      "id": "hn-49665502",
+      "source": "hn",
+      "title": "Android NAT-T keepalive offload bypasses VPN lockdown",
+      "url": "https://supuk.ch/papers/android-natt-keepalive-vpn-bypass",
+      "score": 134,
+      "comments": 34,
+      "author": "mhitza",
+      "tags": [],
+      "date": "2026-09-11T21:16:48+00:00",
+      "severity": "high"
+    },
+    {
       "id": "hn-49665210",
       "source": "hn",
       "title": "ElevenLabs Music v2.5",
@@ -464,10 +520,10 @@
     {
       "id": "hn-49662214",
       "source": "hn",
-      "title": "Λ Snap – An inviting programming language for kids and adults for CS study",
+      "title": "λ Snap – An inviting programming language for kids and adults for CS study",
       "url": "https://snap.berkeley.edu/",
-      "score": 147,
-      "comments": 84,
+      "score": 164,
+      "comments": 103,
       "author": "dr_kiszonka",
       "tags": [],
       "date": "2026-09-11T17:36:11+00:00"
@@ -1185,6 +1241,17 @@
       "date": "2026-09-10T15:43:49+00:00"
     },
     {
+      "id": "hn-49645480",
+      "source": "hn",
+      "title": "LG denies TV spying claims, says tracking and snooping concerns 'not true'",
+      "url": "https://www.tomshardware.com/tech-industry/big-tech/lg-strongly-denies-tv-security-claims-says-tracking-and-snooping-concerns-not-true-online-investigation-claims-216-000-000-spy-tvs-record-audio",
+      "score": 180,
+      "comments": 190,
+      "author": "datakan",
+      "tags": [],
+      "date": "2026-09-10T15:31:37+00:00"
+    },
+    {
       "id": "hn-49645443",
       "source": "hn",
       "title": "Cognition launches new SWE-2 model, Rivaling Fable 5.1 and GPT-Astra",
@@ -1283,8 +1350,8 @@
       "source": "hn",
       "title": "LRU is harder to beat than the KV-cache papers suggest",
       "url": "https://github.com/gauravapiscean/agentic-kv-cache",
-      "score": 60,
-      "comments": 29,
+      "score": 76,
+      "comments": 37,
       "author": "gauravapiscean",
       "tags": [],
       "date": "2026-09-10T13:39:11+00:00"
@@ -1497,8 +1564,8 @@
       "source": "hn",
       "title": "IKEA made a mod for Skyrim [video]",
       "url": "https://www.youtube.com/watch?v=iZODN0QUgjI",
-      "score": 438,
-      "comments": 107,
+      "score": 482,
+      "comments": 122,
       "author": "kegenaar",
       "tags": [],
       "date": "2026-09-10T07:20:50+00:00"
@@ -1676,8 +1743,8 @@
       "source": "hn",
       "title": "How we manage and engage with our horses shapes their personality",
       "url": "https://www.utu.fi/en/news/press-release/how-we-manage-and-engage-with-our-horses-shapes-their-personality",
-      "score": 10,
-      "comments": 1,
+      "score": 21,
+      "comments": 5,
       "author": "thunderbong",
       "tags": [],
       "date": "2026-09-10T01:57:32+00:00"
@@ -2203,6 +2270,17 @@
       "date": "2026-09-09T13:20:36+00:00"
     },
     {
+      "id": "hn-49625108",
+      "source": "hn",
+      "title": "Eating Fruit Skins",
+      "url": "https://pgadey.ca/blog/eating-fruit-skins/",
+      "score": 38,
+      "comments": 107,
+      "author": "surprisetalk",
+      "tags": [],
+      "date": "2026-09-09T12:01:38+00:00"
+    },
+    {
       "id": "hn-49625110",
       "source": "hn",
       "title": "Roame (YC S23) Is Hiring Viral Content Editor",
@@ -2212,6 +2290,17 @@
       "author": "zman0225",
       "tags": [],
       "date": "2026-09-09T12:01:38+00:00"
+    },
+    {
+      "id": "hn-49625056",
+      "source": "hn",
+      "title": "Stabilizing Rust's Never Type",
+      "url": "https://lwn.net/SubscriberLink/1091015/d9e48318ed242b41/",
+      "score": 7,
+      "comments": 0,
+      "author": "cjd8",
+      "tags": [],
+      "date": "2026-09-09T11:57:45+00:00"
     },
     {
       "id": "hn-49624856",
@@ -2319,8 +2408,8 @@
       "source": "hn",
       "title": "Performance of WebAssembly Runtimes in 2026",
       "url": "https://00f.net/2026/06/23/webassembly-runtimes-2026/",
-      "score": 46,
-      "comments": 9,
+      "score": 61,
+      "comments": 15,
       "author": "fagnerbrack",
       "tags": [],
       "date": "2026-09-09T10:00:59+00:00"
@@ -5075,96 +5164,6 @@
       "author": "worldvoyageur",
       "tags": [],
       "date": "2026-09-06T13:07:52+00:00"
-    },
-    {
-      "id": "hn-49586171",
-      "source": "hn",
-      "title": "QBittorrent breaks out of sandbox to commit crimes",
-      "url": "https://beige.party/@intransitivelie/117057396732763183",
-      "score": 1093,
-      "comments": 220,
-      "author": "mraniki",
-      "tags": [],
-      "date": "2026-09-06T13:02:41+00:00"
-    },
-    {
-      "id": "hn-49586151",
-      "source": "hn",
-      "title": "I'm teaching an introductory 12 week course on Quantum Oracle Engineering",
-      "url": "https://shukla.io/quantum-oracle-engineering/",
-      "score": 39,
-      "comments": 14,
-      "author": "BinRoo",
-      "tags": [],
-      "date": "2026-09-06T13:00:34+00:00"
-    },
-    {
-      "id": "hn-49586139",
-      "source": "hn",
-      "title": "Schemy Lisp En DOS",
-      "url": "https://sled.neocities.org/",
-      "score": 64,
-      "comments": 11,
-      "author": "AlexeyBrin",
-      "tags": [],
-      "date": "2026-09-06T12:58:54+00:00"
-    },
-    {
-      "id": "hn-49586005",
-      "source": "hn",
-      "title": "2026 Hugo Awards",
-      "url": "https://www.thehugoawards.org/",
-      "score": 13,
-      "comments": 0,
-      "author": "signa11",
-      "tags": [],
-      "date": "2026-09-06T12:41:59+00:00"
-    },
-    {
-      "id": "qiita-978f8d2843",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "APIあるのに手入力？ 業務システムから分かるデータ連携の罠｜「項目名1つ1つの突合」から見えてきた現実",
-      "url": "https://qiita.com/songchong/items/d1e1e908a1b76d6995b1?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "songchong",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-09-06T21:21:17+09:00"
-    },
-    {
-      "id": "hn-49585703",
-      "source": "hn",
-      "title": "The pencil case model of creativity",
-      "url": "https://dub.uu.nl/en/column/pencil-case-model-creativity",
-      "score": 35,
-      "comments": 13,
-      "author": "jruohonen",
-      "tags": [],
-      "date": "2026-09-06T12:05:34+00:00"
-    },
-    {
-      "id": "hn-49585644",
-      "source": "hn",
-      "title": "Your intellectual fly is open when you use an LLM to author a post (2025)",
-      "url": "https://bcantrill.dtrace.org/2025/12/05/your-intellectual-fly-is-open/",
-      "score": 562,
-      "comments": 369,
-      "author": "cyb0rg0",
-      "tags": [],
-      "date": "2026-09-06T11:56:43+00:00"
-    },
-    {
-      "id": "hn-49585627",
-      "source": "hn",
-      "title": "Doomscrolling Ourselves to Death",
-      "url": "https://www.edwest.co.uk/p/doomscrolling-ourselves-to-death",
-      "score": 350,
-      "comments": 248,
-      "author": "shubhamjain",
-      "tags": [],
-      "date": "2026-09-06T11:53:40+00:00"
     },
     {
       "id": "ctf-4372374",

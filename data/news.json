@@ -1,14 +1,25 @@
 {
-  "updated_at": "2026-09-12T21:57:22.052423+00:00",
+  "updated_at": "2026-09-12T23:52:16.568388+00:00",
   "count": 500,
   "items": [
+    {
+      "id": "hn-49677836",
+      "source": "hn",
+      "title": "Killing with a car costs $1.6M, California requires drivers to carry $30K",
+      "url": "https://maxmautner.com/2026/09/11/liability-coverage.html",
+      "score": 23,
+      "comments": 18,
+      "author": "mslate",
+      "tags": [],
+      "date": "2026-09-12T22:22:31+00:00"
+    },
     {
       "id": "hn-49676820",
       "source": "hn",
       "title": "Real-SWE: Benchmarking AI models on private, real-world, enterprise codebases",
       "url": "https://withspecific.com/benchmarks/real-swe",
-      "score": 30,
-      "comments": 16,
+      "score": 71,
+      "comments": 49,
       "author": "theanonymousone",
       "tags": [],
       "date": "2026-09-12T20:25:48+00:00"
@@ -18,8 +29,8 @@
       "source": "hn",
       "title": "LG Says We're Fake News [video]",
       "url": "https://www.youtube.com/watch?v=ToP9xfLDSME",
-      "score": 41,
-      "comments": 5,
+      "score": 108,
+      "comments": 31,
       "author": "HelloUsername",
       "tags": [],
       "date": "2026-09-12T19:35:36+00:00"
@@ -40,8 +51,8 @@
       "source": "hn",
       "title": "Linux Zoom client proactively reading everything written to X11 clipboard",
       "url": "https://hachyderm.io/@simontatham/117201594980991062",
-      "score": 69,
-      "comments": 18,
+      "score": 144,
+      "comments": 44,
       "author": "encyclopedism",
       "tags": [],
       "date": "2026-09-12T18:58:57+00:00"
@@ -51,8 +62,8 @@
       "source": "hn",
       "title": "Will There Be a 7G?",
       "url": "https://arxiv.org/abs/2609.01877",
-      "score": 63,
-      "comments": 107,
+      "score": 77,
+      "comments": 124,
       "author": "Betelbuddy",
       "tags": [],
       "date": "2026-09-12T17:05:31+00:00"
@@ -73,8 +84,8 @@
       "source": "hn",
       "title": "Make your first edit to OpenStreetMap",
       "url": "https://high5apps.github.io/josm-plugin-website-wizard/",
-      "score": 221,
-      "comments": 62,
+      "score": 290,
+      "comments": 70,
       "author": "juliantigler",
       "tags": [],
       "date": "2026-09-12T16:25:08+00:00"
@@ -84,8 +95,8 @@
       "source": "hn",
       "title": "Microcode in Intel's 8087 floating-point chip: the scale instruction",
       "url": "https://www.righto.com/2026/09/8087-microcode-reverse-engineering-fscale.html",
-      "score": 69,
-      "comments": 21,
+      "score": 82,
+      "comments": 23,
       "author": "pwg",
       "tags": [],
       "date": "2026-09-12T15:49:52+00:00"
@@ -106,8 +117,8 @@
       "source": "hn",
       "title": "I made a build visualizer to understand Bun's compile times",
       "url": "https://lalitm.com/post/buildprof/",
-      "score": 63,
-      "comments": 13,
+      "score": 87,
+      "comments": 15,
       "author": "lalitmaganti",
       "tags": [],
       "date": "2026-09-12T14:45:28+00:00"
@@ -139,8 +150,8 @@
       "source": "hn",
       "title": "We must pace the frontier",
       "url": "https://darioamodei.com/post/we-must-pace-the-frontier",
-      "score": 443,
-      "comments": 608,
+      "score": 502,
+      "comments": 696,
       "author": "apsec112",
       "tags": [],
       "date": "2026-09-12T14:10:49+00:00"
@@ -150,8 +161,8 @@
       "source": "hn",
       "title": "A Mathematical Framework for Transformer Circuits (2021)",
       "url": "https://transformer-circuits.pub/2021/framework/index.html",
-      "score": 69,
-      "comments": 16,
+      "score": 75,
+      "comments": 17,
       "author": "Bluestein",
       "tags": [],
       "date": "2026-09-12T13:56:58+00:00"
@@ -244,8 +255,8 @@
       "source": "hn",
       "title": "How Trail of Bits helps verify the integrity of Signal chats",
       "url": "https://blog.trailofbits.com/2026/08/11/how-trail-of-bits-helps-verify-the-integrity-of-your-signal-chats/",
-      "score": 38,
-      "comments": 14,
+      "score": 47,
+      "comments": 23,
       "author": "dgroshev",
       "tags": [],
       "date": "2026-09-12T11:27:55+00:00"
@@ -329,8 +340,8 @@
       "source": "hn",
       "title": "Retrospectively Reverse-Engineering Apple's Neural Engine",
       "url": "https://eiln.github.io/posts/ane.html",
-      "score": 207,
-      "comments": 29,
+      "score": 217,
+      "comments": 30,
       "author": "zdw",
       "tags": [],
       "date": "2026-09-12T07:54:03+00:00"
@@ -388,8 +399,8 @@
       "source": "hn",
       "title": "Navier-Stokes Announcement",
       "url": "https://www.claymath.org/news/navier-stokes-announcement/",
-      "score": 296,
-      "comments": 236,
+      "score": 311,
+      "comments": 249,
       "author": "rvz",
       "tags": [],
       "date": "2026-09-12T04:09:43+00:00"
@@ -546,8 +557,8 @@
       "source": "hn",
       "title": "Android NAT-T keepalive offload bypasses VPN lockdown",
       "url": "https://supuk.ch/papers/android-natt-keepalive-vpn-bypass",
-      "score": 158,
-      "comments": 42,
+      "score": 167,
+      "comments": 44,
       "author": "mhitza",
       "tags": [],
       "date": "2026-09-11T21:16:48+00:00",
@@ -1406,8 +1417,8 @@
       "source": "hn",
       "title": "LG denies TV spying claims, says tracking and snooping concerns 'not true'",
       "url": "https://www.tomshardware.com/tech-industry/big-tech/lg-strongly-denies-tv-security-claims-says-tracking-and-snooping-concerns-not-true-online-investigation-claims-216-000-000-spy-tvs-record-audio",
-      "score": 333,
-      "comments": 284,
+      "score": 391,
+      "comments": 333,
       "author": "datakan",
       "tags": [],
       "date": "2026-09-10T15:31:37+00:00"
@@ -1457,6 +1468,17 @@
         "Qiita"
       ],
       "date": "2026-09-11T00:03:50+09:00"
+    },
+    {
+      "id": "hn-49644603",
+      "source": "hn",
+      "title": "Show HN: See Sounds on Your Webcam",
+      "url": "https://soundmap.darebuild.com/",
+      "score": 3,
+      "comments": 1,
+      "author": "jimhi",
+      "tags": [],
+      "date": "2026-09-10T14:43:49+00:00"
     },
     {
       "id": "qiita-396a4deae3",
@@ -1738,8 +1760,8 @@
       "source": "hn",
       "title": "IKEA made a mod for Skyrim [video]",
       "url": "https://www.youtube.com/watch?v=iZODN0QUgjI",
-      "score": 519,
-      "comments": 133,
+      "score": 544,
+      "comments": 145,
       "author": "kegenaar",
       "tags": [],
       "date": "2026-09-10T07:20:50+00:00"
@@ -1948,6 +1970,17 @@
         "Qiita"
       ],
       "date": "2026-09-10T10:37:51+09:00"
+    },
+    {
+      "id": "hn-49636479",
+      "source": "hn",
+      "title": "Getting 50 GB/S Back from the Apple Neural Engine",
+      "url": "https://eiln.github.io/posts/ane-dma.html",
+      "score": 41,
+      "comments": 9,
+      "author": "eiln",
+      "tags": [],
+      "date": "2026-09-10T00:16:10+00:00"
     },
     {
       "id": "hn-49636283",
@@ -2448,8 +2481,8 @@
       "source": "hn",
       "title": "Eating Fruit Skins",
       "url": "https://pgadey.ca/blog/eating-fruit-skins/",
-      "score": 59,
-      "comments": 143,
+      "score": 73,
+      "comments": 159,
       "author": "surprisetalk",
       "tags": [],
       "date": "2026-09-09T12:01:38+00:00"
@@ -2470,8 +2503,8 @@
       "source": "hn",
       "title": "Stabilizing Rust's Never Type",
       "url": "https://lwn.net/SubscriberLink/1091015/d9e48318ed242b41/",
-      "score": 88,
-      "comments": 10,
+      "score": 122,
+      "comments": 25,
       "author": "cjd8",
       "tags": [],
       "date": "2026-09-09T11:57:45+00:00"
@@ -2582,8 +2615,8 @@
       "source": "hn",
       "title": "Performance of WebAssembly Runtimes in 2026",
       "url": "https://00f.net/2026/06/23/webassembly-runtimes-2026/",
-      "score": 79,
-      "comments": 18,
+      "score": 85,
+      "comments": 20,
       "author": "fagnerbrack",
       "tags": [],
       "date": "2026-09-09T10:00:59+00:00"
@@ -2890,8 +2923,8 @@
       "source": "hn",
       "title": "Apple iPod Engraver (2019)",
       "url": "https://dunstanorchard.com/apple-ipod-engraver/",
-      "score": 29,
-      "comments": 1,
+      "score": 85,
+      "comments": 14,
       "author": "NaOH",
       "tags": [],
       "date": "2026-09-09T01:57:37+00:00"
@@ -5146,41 +5179,6 @@
       "date": "2026-09-06T17:00:28+00:00"
     },
     {
-      "id": "hn-49588214",
-      "source": "hn",
-      "title": "How we monitor internal coding agents for misalignment",
-      "url": "https://openai.com/index/how-we-monitor-internal-coding-agents-misalignment/",
-      "score": 42,
-      "comments": 39,
-      "author": "lukaspetersson",
-      "tags": [],
-      "date": "2026-09-06T16:37:55+00:00"
-    },
-    {
-      "id": "qiita-7aedb40e82",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "耳で聞く！Python で学ぶ マクロ経済学 入門 10",
-      "url": "https://qiita.com/maskot1977/items/dcc594be88032bd4ea68?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "maskot1977",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-09-07T01:29:44+09:00"
-    },
-    {
-      "id": "hn-49588080",
-      "source": "hn",
-      "title": "An Alien Mind",
-      "url": "https://openai.com/index/an-alien-mind/",
-      "score": 403,
-      "comments": 351,
-      "author": "tosh",
-      "tags": [],
-      "date": "2026-09-06T16:27:05+00:00"
-    },
-    {
       "id": "ctf-4372374",
       "source": "project",
       "proj_category": "CTF",
@@ -5391,17 +5389,17 @@
       "date": "2023-05-23T17:06:23Z"
     },
     {
-      "id": "zenn-c8cbd48325",
+      "id": "zenn-c7874903c9",
       "source": "zennqiita",
       "sub_source": "Zenn",
-      "title": "【備忘録】CUDA & NVIDIA Driver インストールチャレンジ 2026",
-      "url": "https://zenn.dev/tawatawara/articles/44929d525eb97d",
+      "title": "クロスプラットフォーム開発が解決するコスト、解決しないコスト",
+      "url": "https://zenn.dev/nkzn/articles/cross-platform-development-costs-2026",
       "score": null,
-      "author": "俵",
+      "author": "Nkzn",
       "tags": [
         "Zenn"
       ],
-      "date": "Fri, 11 Sep 2026 09:50:22 GMT"
+      "date": "Sat, 12 Sep 2026 14:05:10 GMT"
     },
     {
       "id": "zenn-37cfb18ded",
@@ -5573,6 +5571,19 @@
       "date": "Wed, 09 Sep 2026 00:31:26 GMT"
     },
     {
+      "id": "zenn-00588e21b7",
+      "source": "zennqiita",
+      "sub_source": "Zenn",
+      "title": "最近のClaude Code Desktop、使いやすさマシマシです！",
+      "url": "https://zenn.dev/goat_eat_any/articles/claude-code-desktop-app",
+      "score": null,
+      "author": "たなちゅー",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Tue, 08 Sep 2026 17:21:45 GMT"
+    },
+    {
       "id": "zenn-9ed261515d",
       "source": "zennqiita",
       "sub_source": "Zenn",
@@ -5599,6 +5610,19 @@
       "date": "Tue, 08 Sep 2026 06:20:57 GMT"
     },
     {
+      "id": "zenn-5c80c14f5a",
+      "source": "zennqiita",
+      "sub_source": "Zenn",
+      "title": "Techはすぐに追ったほうがいい",
+      "url": "https://zenn.dev/myuron/articles/3c09e7e697d9de",
+      "score": null,
+      "author": "myuron",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Tue, 08 Sep 2026 01:43:14 GMT"
+    },
+    {
       "id": "zenn-bc6b60d097",
       "source": "zennqiita",
       "sub_source": "Zenn",
@@ -5623,32 +5647,6 @@
         "Zenn"
       ],
       "date": "Mon, 07 Sep 2026 03:03:17 GMT"
-    },
-    {
-      "id": "zenn-5871b951b3",
-      "source": "zennqiita",
-      "sub_source": "Zenn",
-      "title": "HTMLを社内共有するサービスを、コードを読まずに作る - 1人で25万行を回す自動運用の記録",
-      "url": "https://zenn.dev/coji/articles/solo-software-factory-without-reading-code",
-      "score": null,
-      "author": "Coji Mizoguchi",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Mon, 07 Sep 2026 00:05:00 GMT"
-    },
-    {
-      "id": "zenn-9cadc7b3e6",
-      "source": "zennqiita",
-      "sub_source": "Zenn",
-      "title": "テストを生成するな、信頼を生成しろ",
-      "url": "https://zenn.dev/nakurei/articles/generate-trust-not-tests",
-      "score": null,
-      "author": "NakuRei",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Mon, 07 Sep 2026 00:00:07 GMT"
     },
     {
       "id": "edb-539c995398",

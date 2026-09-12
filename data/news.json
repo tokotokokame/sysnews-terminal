@@ -1,7 +1,52 @@
 {
-  "updated_at": "2026-09-11T23:28:33.089009+00:00",
+  "updated_at": "2026-09-12T01:26:52.484660+00:00",
   "count": 500,
   "items": [
+    {
+      "id": "hn-49667375",
+      "source": "hn",
+      "title": "Starlink Signal Leakage Threatens Radio Astronomy's Most Critical Frequencies",
+      "url": "https://www.gadgetreview.com/starlinks-signal-leakage-is-threatening-radio-astronomys-most-critical-frequencies",
+      "score": 13,
+      "comments": 0,
+      "author": "upofadown",
+      "tags": [],
+      "date": "2026-09-12T00:40:32+00:00",
+      "severity": "critical"
+    },
+    {
+      "id": "hn-49667188",
+      "source": "hn",
+      "title": "Show HN: Graphify C# – Compiler-accurate Find Usages for coding agents",
+      "url": "https://github.com/zachsaw/graphify-csharp",
+      "score": 7,
+      "comments": 3,
+      "author": "zachsaw",
+      "tags": [],
+      "date": "2026-09-12T00:16:10+00:00"
+    },
+    {
+      "id": "hn-49666960",
+      "source": "hn",
+      "title": "How to Build an AI Software Factory: Agents That Open, Review, and Merge PRs",
+      "url": "https://www.firecrawl.dev/blog/ai-software-factory",
+      "score": 20,
+      "comments": 5,
+      "author": "makaimc",
+      "tags": [],
+      "date": "2026-09-11T23:43:53+00:00"
+    },
+    {
+      "id": "hn-49666735",
+      "source": "hn",
+      "title": "OpenAI agents carried out an undisclosed attack on RubyGems",
+      "url": "https://www.rubyhack.ai/",
+      "score": 282,
+      "comments": 171,
+      "author": "chao-",
+      "tags": [],
+      "date": "2026-09-11T23:17:42+00:00"
+    },
     {
       "id": "hn-49666587",
       "source": "hn",
@@ -18,8 +63,8 @@
       "source": "hn",
       "title": "QueryBrew: System-Agnostic SQL-to-SQL Query Optimization [pdf]",
       "url": "https://www.vldb.org/pvldb/vol19/p4494-schmidt.pdf",
-      "score": 8,
-      "comments": 0,
+      "score": 17,
+      "comments": 8,
       "author": "matt_d",
       "tags": [],
       "date": "2026-09-11T22:16:15+00:00"
@@ -29,8 +74,8 @@
       "source": "hn",
       "title": "Project Blinkenlights",
       "url": "https://blinkenlights.de/en/",
-      "score": 20,
-      "comments": 12,
+      "score": 47,
+      "comments": 18,
       "author": "doener",
       "tags": [],
       "date": "2026-09-11T22:15:00+00:00"
@@ -40,11 +85,22 @@
       "source": "hn",
       "title": "Show HN: ResolveHQ – A Helpdesk Built on Cloudflare Workers, D1, R2 and Queues",
       "url": "https://github.com/mirza-rizvi/ResolveHQ",
-      "score": 17,
-      "comments": 6,
+      "score": 27,
+      "comments": 9,
       "author": "mirza_rizvi",
       "tags": [],
       "date": "2026-09-11T21:48:00+00:00"
+    },
+    {
+      "id": "hn-49665711",
+      "source": "hn",
+      "title": "AI researchers debate how close we are to recursive self-improvement",
+      "url": "https://www.dwarkesh.com/p/john-beren-charlie",
+      "score": 27,
+      "comments": 4,
+      "author": "artninja1988",
+      "tags": [],
+      "date": "2026-09-11T21:35:29+00:00"
     },
     {
       "id": "hn-49665210",
@@ -62,8 +118,8 @@
       "source": "hn",
       "title": "GrapheneOS' rewritten Messages app is released",
       "url": "https://github.com/GrapheneOS/Messaging/releases/tag/13",
-      "score": 166,
-      "comments": 94,
+      "score": 194,
+      "comments": 112,
       "author": "microtonal",
       "tags": [],
       "date": "2026-09-11T18:50:36+00:00"
@@ -73,8 +129,8 @@
       "source": "hn",
       "title": "CIA Releases President's Daily Briefs in Commemoration of 9/11",
       "url": "https://www.cia.gov/stories/story/cia-releases-presidents-daily-briefs-in-commemoration-of-the-25th-anniversary-of-9-11/",
-      "score": 86,
-      "comments": 52,
+      "score": 114,
+      "comments": 58,
       "author": "stmw",
       "tags": [],
       "date": "2026-09-11T18:30:07+00:00"
@@ -84,8 +140,8 @@
       "source": "hn",
       "title": "I spent $220 on Google app ads and 60% of the installs were robots",
       "url": "https://dayzlegame.com/blog/google-ads-bot-farm/",
-      "score": 213,
-      "comments": 109,
+      "score": 283,
+      "comments": 159,
       "author": "nickabe",
       "tags": [],
       "date": "2026-09-11T18:24:55+00:00"
@@ -95,8 +151,8 @@
       "source": "hn",
       "title": "Litelm: LiteLLM Without the Bloat",
       "url": "https://github.com/kennethwolters/litelm",
-      "score": 81,
-      "comments": 31,
+      "score": 95,
+      "comments": 36,
       "author": "kennethwolters",
       "tags": [],
       "date": "2026-09-11T18:10:20+00:00"
@@ -106,8 +162,8 @@
       "source": "hn",
       "title": "The EPA is planning to scrap public review rules for data center pollution",
       "url": "https://capitalbnews.org/data-centers-permit-rules-epa/",
-      "score": 296,
-      "comments": 198,
+      "score": 344,
+      "comments": 231,
       "author": "doener",
       "tags": [],
       "date": "2026-09-11T18:05:21+00:00"
@@ -117,8 +173,8 @@
       "source": "hn",
       "title": "A misalignment of AI in mathematics",
       "url": "https://mathandai.org/",
-      "score": 531,
-      "comments": 594,
+      "score": 624,
+      "comments": 675,
       "author": "meredydd",
       "tags": [],
       "date": "2026-09-11T17:45:12+00:00"
@@ -139,8 +195,8 @@
       "source": "hn",
       "title": "Λ Snap – An inviting programming language for kids and adults for CS study",
       "url": "https://snap.berkeley.edu/",
-      "score": 96,
-      "comments": 52,
+      "score": 113,
+      "comments": 53,
       "author": "dr_kiszonka",
       "tags": [],
       "date": "2026-09-11T17:36:11+00:00"
@@ -150,8 +206,8 @@
       "source": "hn",
       "title": "Mind-altering drugs played key role in rise of Andean civilization",
       "url": "https://www.science.org/content/article/mind-altering-drugs-played-key-role-rise-andean-civilization",
-      "score": 83,
-      "comments": 61,
+      "score": 99,
+      "comments": 70,
       "author": "geneticdrifts",
       "tags": [],
       "date": "2026-09-11T17:25:23+00:00"
@@ -240,8 +296,8 @@
       "source": "hn",
       "title": "Rune is now open source",
       "url": "https://rune.build/blog/rune-is-now-open-source",
-      "score": 123,
-      "comments": 49,
+      "score": 145,
+      "comments": 55,
       "author": "ernestrc",
       "tags": [],
       "date": "2026-09-11T15:31:47+00:00",
@@ -1052,8 +1108,8 @@
       "source": "hn",
       "title": "Hepburn Romanization: How to Read Japanese in the Latin Alphabet",
       "url": "https://www.fink-translate.com/blog/hepburn-romanization.html",
-      "score": 9,
-      "comments": 1,
+      "score": 18,
+      "comments": 12,
       "author": "miuraboy",
       "tags": [],
       "date": "2026-09-10T09:13:48+00:00"
@@ -1291,10 +1347,10 @@
     {
       "id": "hn-49635043",
       "source": "hn",
-      "title": "There is no 10x RBAC",
+      "title": "How we rebuilt complex permissions without migrating to Zanzibar",
       "url": "https://infisical.com/blog/folder-based-rbac",
-      "score": 11,
-      "comments": 2,
+      "score": 23,
+      "comments": 6,
       "author": "FinnLobsien",
       "tags": [],
       "date": "2026-09-09T21:59:10+00:00"
@@ -1661,8 +1717,8 @@
       "source": "hn",
       "title": "A Design Space Exploration of Async/Await",
       "url": "https://cel.cs.brown.edu/blog/design-space-async-await/",
-      "score": 90,
-      "comments": 20,
+      "score": 139,
+      "comments": 28,
       "author": "wcrichton",
       "tags": [],
       "date": "2026-09-09T13:59:50+00:00"
@@ -1738,8 +1794,8 @@
       "source": "hn",
       "title": "AlphaGenome maps 9B DNA variants",
       "url": "https://spectrum.ieee.org/alphagenome-atlas",
-      "score": 59,
-      "comments": 5,
+      "score": 69,
+      "comments": 6,
       "author": "ltononro",
       "tags": [],
       "date": "2026-09-09T11:30:51+00:00"
@@ -1876,8 +1932,8 @@
       "source": "hn",
       "title": "Logo Programming Language",
       "url": "https://el.media.mit.edu/logo-foundation/what_is_logo/logo_programming.html",
-      "score": 229,
-      "comments": 94,
+      "score": 240,
+      "comments": 95,
       "author": "azhenley",
       "tags": [],
       "date": "2026-09-09T07:07:26+00:00"
@@ -2691,6 +2747,17 @@
       "date": "2026-09-08T13:41:25+00:00"
     },
     {
+      "id": "hn-49610219",
+      "source": "hn",
+      "title": "How do you rotate in four dimensions? From Zero to Geo 3.10 [video]",
+      "url": "https://www.youtube.com/watch?v=LYCcejLdFR4",
+      "score": 5,
+      "comments": 0,
+      "author": "surprisetalk",
+      "tags": [],
+      "date": "2026-09-08T13:40:23+00:00"
+    },
+    {
       "id": "hn-49610181",
       "source": "hn",
       "title": "DaVinci Resolve 21.1",
@@ -3428,8 +3495,8 @@
       "source": "hn",
       "title": "I've operated petabyte-scale ClickHouse clusters for 5 years",
       "url": "https://www.tinybird.co/blog/what-i-learned-operating-clickhouse",
-      "score": 165,
-      "comments": 60,
+      "score": 174,
+      "comments": 65,
       "author": "adastral",
       "tags": [],
       "date": "2026-09-07T18:05:04+00:00"
@@ -5095,74 +5162,6 @@
         "Qiita"
       ],
       "date": "2026-09-06T00:00:08+09:00"
-    },
-    {
-      "id": "hn-49576986",
-      "source": "hn",
-      "title": "How the Disaster of \"Forever Chemicals\" Was Kept Secret",
-      "url": "https://www.propublica.org/podcast/forever-chemicals-pfas-pfos-3m-secret-kris-hansen",
-      "score": 225,
-      "comments": 67,
-      "author": "stevenwoo",
-      "tags": [],
-      "date": "2026-09-05T14:40:52+00:00"
-    },
-    {
-      "id": "hn-49576704",
-      "source": "hn",
-      "title": "There's No Limit to How Bad Code Can Get",
-      "url": "https://zachkehs.com/blog/theres_no_limit_to_how_bad_code_can_get/",
-      "score": 6,
-      "comments": 1,
-      "author": "zkehs",
-      "tags": [],
-      "date": "2026-09-05T14:13:22+00:00"
-    },
-    {
-      "id": "qiita-94eb7c263e",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "構造力学パズル「SigmaZero」を AI と作った 196 日・952 コミット—Unity教科書の勉強から Claude Code のエージェント組織運営まで",
-      "url": "https://qiita.com/Oborova/items/95b314104ec0538f9b04?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "Oborova",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-09-05T23:11:31+09:00"
-    },
-    {
-      "id": "hn-49576611",
-      "source": "hn",
-      "title": "Meet the Ig Nobel Prize Winners",
-      "url": "https://arstechnica.com/science/2026/09/meet-the-2026-ig-nobel-prize-winners/",
-      "score": 75,
-      "comments": 18,
-      "author": "mkl",
-      "tags": [],
-      "date": "2026-09-05T14:02:44+00:00"
-    },
-    {
-      "id": "hn-49576386",
-      "source": "hn",
-      "title": "The \"$60 Gaming PC\" – AMD BC-250 (2025)",
-      "url": "https://devquasar.com/hardware/the-60-gaming-pc-amd-bc-250/",
-      "score": 360,
-      "comments": 105,
-      "author": "networked",
-      "tags": [],
-      "date": "2026-09-05T13:36:38+00:00"
-    },
-    {
-      "id": "hn-49576343",
-      "source": "hn",
-      "title": "Visualizing Rust's Vtables: How dyn Trait Works In Memory",
-      "url": "https://sofiabelen.github.io/projects/visualizing-rusts-vtables-how-dyn-trait-works-in-memory/",
-      "score": 178,
-      "comments": 36,
-      "author": "torutofu",
-      "tags": [],
-      "date": "2026-09-05T13:31:05+00:00"
     },
     {
       "id": "ctf-4372374",

@@ -1,18 +1,7 @@
 {
-  "updated_at": "2026-09-13T08:28:56.832879+00:00",
+  "updated_at": "2026-09-13T13:26:02.810643+00:00",
   "count": 500,
   "items": [
-    {
-      "id": "hn-49681152",
-      "source": "hn",
-      "title": "JetKVM Mini",
-      "url": "https://jetkvm.com/blog/introducing-jetkvm-mini",
-      "score": 22,
-      "comments": 8,
-      "author": "taubek",
-      "tags": [],
-      "date": "2026-09-13T07:49:46+00:00"
-    },
     {
       "id": "qiita-84d1fbf4f1",
       "source": "zennqiita",
@@ -24,15 +13,70 @@
       "tags": [
         "Qiita"
       ],
-      "date": "2026-09-13T14:08:10+09:00"
+      "date": "2026-09-13T21:58:02+09:00"
+    },
+    {
+      "id": "hn-49683265",
+      "source": "hn",
+      "title": "Matt Mullenweg reportedly returns as Automattic CEO 2 days after getting booted",
+      "url": "https://www.theverge.com/tech/994087/matt-mullenweg-automattic-ceo-return",
+      "score": 26,
+      "comments": 21,
+      "author": "bookofjoe",
+      "tags": [],
+      "date": "2026-09-13T12:30:28+00:00"
+    },
+    {
+      "id": "hn-49683033",
+      "source": "hn",
+      "title": "'Fingerprints' inside the Sun could reveal if it once swallowed a planet",
+      "url": "https://ras.ac.uk/news-and-press/research-highlights/fingerprints-inside-sun-could-reveal-if-it-once-swallowed-planet",
+      "score": 20,
+      "comments": 7,
+      "author": "blincoln",
+      "tags": [],
+      "date": "2026-09-13T12:01:52+00:00"
+    },
+    {
+      "id": "hn-49682087",
+      "source": "hn",
+      "title": "Revolut confirms customer data breach through fake government requests",
+      "url": "https://techcrunch.com/2026/09/12/revolut-confirms-customer-data-breach-through-fake-government-requests/",
+      "score": 71,
+      "comments": 49,
+      "author": "tdrz",
+      "tags": [],
+      "date": "2026-09-13T09:59:58+00:00"
+    },
+    {
+      "id": "hn-49681545",
+      "source": "hn",
+      "title": "Homebrew 7.0.0",
+      "url": "https://brew.sh/2026/09/13/homebrew-7.0.0/",
+      "score": 179,
+      "comments": 73,
+      "author": "mikemcquaid",
+      "tags": [],
+      "date": "2026-09-13T08:41:17+00:00"
+    },
+    {
+      "id": "hn-49681152",
+      "source": "hn",
+      "title": "JetKVM Mini",
+      "url": "https://jetkvm.com/blog/introducing-jetkvm-mini",
+      "score": 251,
+      "comments": 97,
+      "author": "taubek",
+      "tags": [],
+      "date": "2026-09-13T07:49:46+00:00"
     },
     {
       "id": "hn-49679734",
       "source": "hn",
       "title": "A wandering black hole caught feeding on the run",
       "url": "https://phys.org/news/2026-08-black-hole-caught.html",
-      "score": 13,
-      "comments": 2,
+      "score": 36,
+      "comments": 16,
       "author": "wglb",
       "tags": [],
       "date": "2026-09-13T03:34:53+00:00"
@@ -66,8 +110,8 @@
       "source": "hn",
       "title": "Aligned to whom?",
       "url": "https://hyperbo.la/w/aligned-to-whom/",
-      "score": 36,
-      "comments": 9,
+      "score": 91,
+      "comments": 50,
       "author": "lopopolo",
       "tags": [],
       "date": "2026-09-13T03:17:18+00:00"
@@ -101,8 +145,8 @@
       "source": "hn",
       "title": "The Interim Computer Museum",
       "url": "https://icm.museum/",
-      "score": 102,
-      "comments": 11,
+      "score": 136,
+      "comments": 15,
       "author": "mulmen",
       "tags": [],
       "date": "2026-09-13T02:43:57+00:00"
@@ -112,8 +156,8 @@
       "source": "hn",
       "title": "Why are AI agents lying, cheating and coordinating?",
       "url": "https://yoshuabengio.org/en/publication/why-are-ai-agents-lying-cheating-and-coordinating",
-      "score": 158,
-      "comments": 186,
+      "score": 348,
+      "comments": 410,
       "author": "jonifico",
       "tags": [],
       "date": "2026-09-13T01:22:31+00:00"
@@ -134,8 +178,8 @@
       "source": "hn",
       "title": "Everyone should slow down AI development except for me",
       "url": "https://xeiaso.net/notes/2026/everyone-slowdown-but-me/",
-      "score": 419,
-      "comments": 247,
+      "score": 597,
+      "comments": 351,
       "author": "xena",
       "tags": [],
       "date": "2026-09-13T00:30:44+00:00"
@@ -156,8 +200,8 @@
       "source": "hn",
       "title": "AgentsDock: An IDE designed for agentic AI research",
       "url": "https://agentsdock.net/",
-      "score": 45,
-      "comments": 23,
+      "score": 71,
+      "comments": 29,
       "author": "ZihuiGeorgia",
       "tags": [],
       "date": "2026-09-12T23:45:58+00:00"
@@ -172,6 +216,17 @@
       "author": "RickJWagner",
       "tags": [],
       "date": "2026-09-12T23:44:44+00:00"
+    },
+    {
+      "id": "hn-49678423",
+      "source": "hn",
+      "title": "TailTalk: A modern async user space AppleTalk stack with Rust and Tokio",
+      "url": "https://github.com/FeralFirmware/TailTalk/",
+      "score": 7,
+      "comments": 0,
+      "author": "zdw",
+      "tags": [],
+      "date": "2026-09-12T23:43:31+00:00"
     },
     {
       "id": "qiita-cf99549736",
@@ -202,8 +257,8 @@
       "source": "hn",
       "title": "Don't be the out of touch Kung Fu master",
       "url": "https://twitter.com/ID_AA_Carmack/status/2098443262214230095",
-      "score": 108,
-      "comments": 89,
+      "score": 165,
+      "comments": 206,
       "author": "dsubburam",
       "tags": [],
       "date": "2026-09-12T21:51:43+00:00"
@@ -213,8 +268,8 @@
       "source": "hn",
       "title": "P(doom)",
       "url": "https://lucumr.pocoo.org/2026/9/12/pdoom/",
-      "score": 70,
-      "comments": 38,
+      "score": 128,
+      "comments": 87,
       "author": "lumpa",
       "tags": [],
       "date": "2026-09-12T21:35:38+00:00"
@@ -329,8 +384,8 @@
       "source": "hn",
       "title": "Make your first edit to OpenStreetMap",
       "url": "https://high5apps.github.io/josm-plugin-website-wizard/",
-      "score": 440,
-      "comments": 106,
+      "score": 513,
+      "comments": 131,
       "author": "juliantigler",
       "tags": [],
       "date": "2026-09-12T16:25:08+00:00"
@@ -1437,6 +1492,17 @@
       "date": "2026-09-10T22:54:01+00:00"
     },
     {
+      "id": "hn-49651107",
+      "source": "hn",
+      "title": "On Binary Translation and Its Consequences",
+      "url": "https://chipsandcheese.com/p/on-binary-translation-and-its-consequences",
+      "score": 10,
+      "comments": 0,
+      "author": "matt_d",
+      "tags": [],
+      "date": "2026-09-10T22:41:57+00:00"
+    },
+    {
       "id": "hn-49651046",
       "source": "hn",
       "title": "Copying login keychains between Macs fails on Secure Enclave Macs with Tahoe",
@@ -1699,8 +1765,8 @@
       "source": "hn",
       "title": "LG denies TV spying claims, says tracking and snooping concerns 'not true'",
       "url": "https://www.tomshardware.com/tech-industry/big-tech/lg-strongly-denies-tv-security-claims-says-tracking-and-snooping-concerns-not-true-online-investigation-claims-216-000-000-spy-tvs-record-audio",
-      "score": 514,
-      "comments": 405,
+      "score": 569,
+      "comments": 433,
       "author": "datakan",
       "tags": [],
       "date": "2026-09-10T15:31:37+00:00"
@@ -1756,8 +1822,8 @@
       "source": "hn",
       "title": "Operation Smart Kettle – Börzels Blog",
       "url": "https://blog.boerzel.de/de/blog/operation-smart-kettle",
-      "score": 3,
-      "comments": 1,
+      "score": 32,
+      "comments": 15,
       "author": "marbartolome",
       "tags": [],
       "date": "2026-09-10T14:53:30+00:00"
@@ -2156,6 +2222,17 @@
       "date": "2026-09-10T12:33:53+09:00"
     },
     {
+      "id": "hn-49638071",
+      "source": "hn",
+      "title": "Reverse engineering my e-scooter and rewriting the firmware in Rust",
+      "url": "https://bensimms.moe/reverse-engineering-scooter/",
+      "score": 28,
+      "comments": 6,
+      "author": "vinhnx",
+      "tags": [],
+      "date": "2026-09-10T03:32:04+00:00"
+    },
+    {
       "id": "qiita-c01d5a4be4",
       "source": "zennqiita",
       "sub_source": "Qiita",
@@ -2269,8 +2346,8 @@
       "source": "hn",
       "title": "Getting 50 GB/S Back from the Apple Neural Engine",
       "url": "https://eiln.github.io/posts/ane-dma.html",
-      "score": 136,
-      "comments": 27,
+      "score": 181,
+      "comments": 28,
       "author": "eiln",
       "tags": [],
       "date": "2026-09-10T00:16:10+00:00"
@@ -2540,8 +2617,8 @@
       "source": "hn",
       "title": "Vintage Scientific Papers with LaTeX",
       "url": "https://github.com/Foadsf/vintage-latex",
-      "score": 58,
-      "comments": 6,
+      "score": 87,
+      "comments": 8,
       "author": "petalmind",
       "tags": [],
       "date": "2026-09-09T16:58:27+00:00"
@@ -2818,8 +2895,8 @@
       "source": "hn",
       "title": "Stabilizing Rust's Never Type",
       "url": "https://lwn.net/SubscriberLink/1091015/d9e48318ed242b41/",
-      "score": 182,
-      "comments": 51,
+      "score": 218,
+      "comments": 73,
       "author": "cjd8",
       "tags": [],
       "date": "2026-09-09T11:57:45+00:00"
@@ -3238,8 +3315,8 @@
       "source": "hn",
       "title": "Apple iPod Engraver (2019)",
       "url": "https://dunstanorchard.com/apple-ipod-engraver/",
-      "score": 199,
-      "comments": 51,
+      "score": 247,
+      "comments": 65,
       "author": "NaOH",
       "tags": [],
       "date": "2026-09-09T01:57:37+00:00"
@@ -5101,89 +5178,6 @@
       "date": "2026-09-07T01:35:21+00:00"
     },
     {
-      "id": "qiita-898c2eb53b",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "AVD・VDI・Autopilot などの Hybrid Join を即時完了！～ デバイス同期に依存しない新方式とは？",
-      "url": "https://qiita.com/carol0226/items/7ef5ccad28cadef6d198?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "carol0226",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-09-07T09:24:38+09:00"
-    },
-    {
-      "id": "hn-49592375",
-      "source": "hn",
-      "title": "216M Spy TVs – The LG Smart TV Problem [video]",
-      "url": "https://www.youtube.com/watch?v=6IFVTcM28KA",
-      "score": 660,
-      "comments": 854,
-      "author": "treve",
-      "tags": [],
-      "date": "2026-09-07T00:22:04+00:00"
-    },
-    {
-      "id": "hn-49592366",
-      "source": "hn",
-      "title": "MathKernel: An evidence-aware multi-engine mathematics kernel and MCP server",
-      "url": "https://github.com/Staatsgeheim/MathKernel",
-      "score": 13,
-      "comments": 0,
-      "author": "staatsgeheim",
-      "tags": [],
-      "date": "2026-09-07T00:21:01+00:00"
-    },
-    {
-      "id": "qiita-e6ce8b01f7",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "JavaScriptを1文字ずつ削る。手ごとの削減幅を実測した10個と、壊れる境界",
-      "url": "https://qiita.com/Rapls/items/526e29f36fe88c8be73e?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "Rapls",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-09-07T08:48:54+09:00"
-    },
-    {
-      "id": "qiita-c4f6cc1f33",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "【AWS IAM Identity Center】個人アカウントで一人アドミンに挑戦してみた！(IAM Identity Center編)",
-      "url": "https://qiita.com/yosuke-suzuki/items/6aa8e6cf04ea330cb597?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "yosuke-suzuki",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-09-07T08:38:06+09:00"
-    },
-    {
-      "id": "hn-49591876",
-      "source": "hn",
-      "title": "Making a Python interpreter in 1024 bytes",
-      "url": "https://austinhenley.com/blog/python1024.html",
-      "score": 301,
-      "comments": 101,
-      "author": "azhenley",
-      "tags": [],
-      "date": "2026-09-06T23:14:08+00:00"
-    },
-    {
-      "id": "hn-49591793",
-      "source": "hn",
-      "title": "Is mathematics about to enter the conservatory?",
-      "url": "https://mbmccoy.dev/posts/mathematical-conservatory/",
-      "score": 42,
-      "comments": 62,
-      "author": "_alternator_",
-      "tags": [],
-      "date": "2026-09-06T23:02:11+00:00"
-    },
-    {
       "id": "ctf-4372374",
       "source": "project",
       "proj_category": "CTF",
@@ -5394,6 +5388,19 @@
       "date": "2023-05-23T17:06:23Z"
     },
     {
+      "id": "zenn-9cdbbf514e",
+      "source": "zennqiita",
+      "sub_source": "Zenn",
+      "title": "2026年に多くのシストレの戦略のアルファが消えた件について",
+      "url": "https://zenn.dev/gamella/articles/6bd6e5ab9e88bc",
+      "score": null,
+      "author": "Tomoya Kitayama | AlpacaTech",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Sun, 13 Sep 2026 03:37:06 GMT"
+    },
+    {
       "id": "zenn-c7874903c9",
       "source": "zennqiita",
       "sub_source": "Zenn",
@@ -5405,19 +5412,6 @@
         "Zenn"
       ],
       "date": "Sat, 12 Sep 2026 14:05:10 GMT"
-    },
-    {
-      "id": "zenn-65d49ae48f",
-      "source": "zennqiita",
-      "sub_source": "Zenn",
-      "title": "iPhone Duoに備える(SwiftUI/UIKit対応)",
-      "url": "https://zenn.dev/d_date/articles/d874e248ac7851",
-      "score": null,
-      "author": "Daiki Matsudate",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Fri, 11 Sep 2026 06:32:53 GMT"
     },
     {
       "id": "zenn-37cfb18ded",
@@ -5563,6 +5557,19 @@
       "date": "Wed, 09 Sep 2026 10:00:05 GMT"
     },
     {
+      "id": "zenn-6dafeba63d",
+      "source": "zennqiita",
+      "sub_source": "Zenn",
+      "title": "AIエージェントの評価と品質保証 — 「動く」を「信頼できる」に変える検収の技術",
+      "url": "https://zenn.dev/hampen2929/books/ai-agent-evaluation-guide",
+      "score": null,
+      "author": "はんぺん",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Wed, 09 Sep 2026 09:09:18 GMT"
+    },
+    {
       "id": "zenn-4496500916",
       "source": "zennqiita",
       "sub_source": "Zenn",
@@ -5613,19 +5620,6 @@
         "Zenn"
       ],
       "date": "Tue, 08 Sep 2026 15:07:33 GMT"
-    },
-    {
-      "id": "zenn-e763603996",
-      "source": "zennqiita",
-      "sub_source": "Zenn",
-      "title": "今 font-family 設定するなら sans-serif か system-ui だけ設定しておけばよくね説",
-      "url": "https://zenn.dev/chot/articles/6adfacabe8f317",
-      "score": null,
-      "author": "meadory",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Tue, 08 Sep 2026 07:21:15 GMT"
     },
     {
       "id": "zenn-33e53bf8c5",

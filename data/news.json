@@ -1,14 +1,38 @@
 {
-  "updated_at": "2026-09-15T21:37:39.805984+00:00",
+  "updated_at": "2026-09-15T23:58:45.074916+00:00",
   "count": 500,
   "items": [
+    {
+      "id": "qiita-64e01af729",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "SQL構文は日本語で例えると理解しやすい",
+      "url": "https://qiita.com/nolanlover0527/items/f856f09d7bf23cdd0ae6?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "nolanlover0527",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-09-16T08:57:13+09:00"
+    },
+    {
+      "id": "hn-49720164",
+      "source": "hn",
+      "title": "Saving Jet Fuel",
+      "url": "https://tech.marksblogg.com/scikit-decide-openap-optimal-flight-planning.html",
+      "score": 4,
+      "comments": 2,
+      "author": "marklit",
+      "tags": [],
+      "date": "2026-09-15T23:17:20+00:00"
+    },
     {
       "id": "hn-49718928",
       "source": "hn",
       "title": "German Rheinmetall open-sources its Battlesuite connected weapon system protcol",
       "url": "https://rheinmetall.github.io/onboardapi-documentation/9.10.0/index.html",
-      "score": 29,
-      "comments": 2,
+      "score": 102,
+      "comments": 26,
       "author": "summarity",
       "tags": [],
       "date": "2026-09-15T21:07:47+00:00",
@@ -19,8 +43,8 @@
       "source": "hn",
       "title": "Jean-Pierre Serre is 100 years old today",
       "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Serre/",
-      "score": 27,
-      "comments": 2,
+      "score": 75,
+      "comments": 12,
       "author": "jzox",
       "tags": [],
       "date": "2026-09-15T20:57:18+00:00"
@@ -41,8 +65,8 @@
       "source": "hn",
       "title": "Building a Linux GPU Driver for the M4 Mac Mini in One Month",
       "url": "https://codyho.dev/blog/gpu-driver/",
-      "score": 40,
-      "comments": 5,
+      "score": 119,
+      "comments": 71,
       "author": "ADevWithAnIdea",
       "tags": [],
       "date": "2026-09-15T19:30:03+00:00"
@@ -52,8 +76,8 @@
       "source": "hn",
       "title": "WangNet – 1.8 MB, zero-dependency Numberwang adjudication in 11 languages",
       "url": "https://github.com/GraafHenk/numberwang",
-      "score": 55,
-      "comments": 19,
+      "score": 89,
+      "comments": 35,
       "author": "Liogra123",
       "tags": [],
       "date": "2026-09-15T19:27:35+00:00"
@@ -63,19 +87,30 @@
       "source": "hn",
       "title": "Introducing System One Models and Jev",
       "url": "https://typesafe.ai/blog/introducing-system-one-models-and-jev",
-      "score": 388,
-      "comments": 145,
+      "score": 632,
+      "comments": 207,
       "author": "albelfio",
       "tags": [],
       "date": "2026-09-15T19:25:03+00:00"
+    },
+    {
+      "id": "hn-49717280",
+      "source": "hn",
+      "title": "Learning to solve hard problems in RL for LLMs by never giving up",
+      "url": "https://mnoukhov.github.io/posts/ngu/",
+      "score": 22,
+      "comments": 0,
+      "author": "natolambert",
+      "tags": [],
+      "date": "2026-09-15T19:07:38+00:00"
     },
     {
       "id": "hn-49716953",
       "source": "hn",
       "title": "Chopping up books when they're physically too big",
       "url": "https://attainablefelicity.mattkirkland.com/20260915/cut-up-your-books.html",
-      "score": 67,
-      "comments": 58,
+      "score": 104,
+      "comments": 101,
       "author": "matt_kirkland",
       "tags": [],
       "date": "2026-09-15T18:45:31+00:00"
@@ -85,8 +120,8 @@
       "source": "hn",
       "title": "We got admin access to Baseten's production GitHub in 25 minutes",
       "url": "https://www.strix.ai/blog/baseten-harbor-github-pat-takeover",
-      "score": 154,
-      "comments": 63,
+      "score": 191,
+      "comments": 98,
       "author": "bearsyankees",
       "tags": [],
       "date": "2026-09-15T18:11:24+00:00"
@@ -96,8 +131,8 @@
       "source": "hn",
       "title": "An Update on Wayback Machine Access",
       "url": "https://blog.archive.org/2026/09/15/an-update-on-wayback-machine-access/",
-      "score": 260,
-      "comments": 129,
+      "score": 337,
+      "comments": 186,
       "author": "ChrisArchitect",
       "tags": [],
       "date": "2026-09-15T17:52:18+00:00",
@@ -108,19 +143,30 @@
       "source": "hn",
       "title": "Gemini 3.8 Live and 3.8 Live Extended Thinking",
       "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-8-live-gemini-3-8-live-extended-thinking/",
-      "score": 186,
-      "comments": 123,
+      "score": 260,
+      "comments": 177,
       "author": "leumon",
       "tags": [],
       "date": "2026-09-15T17:38:18+00:00"
+    },
+    {
+      "id": "hn-49715927",
+      "source": "hn",
+      "title": "Why I'm still bearish on LLMs after Navier-Stokes",
+      "url": "https://dank.systems/posts/2026-09-15-ai-bear.html",
+      "score": 90,
+      "comments": 47,
+      "author": "jaykru",
+      "tags": [],
+      "date": "2026-09-15T17:37:12+00:00"
     },
     {
       "id": "hn-49715590",
       "source": "hn",
       "title": "GEFS on OpenBSD: A Early Preview",
       "url": "https://marc.info/?l=openbsd-tech&m=178948744271633&w=2",
-      "score": 81,
-      "comments": 43,
+      "score": 101,
+      "comments": 55,
       "author": "sippingabonedry",
       "tags": [],
       "date": "2026-09-15T17:12:19+00:00"
@@ -152,8 +198,8 @@
       "source": "hn",
       "title": "Cartesian – AI 3D Modeling for Design",
       "url": "https://www.formas.ai/cartesian",
-      "score": 74,
-      "comments": 62,
+      "score": 84,
+      "comments": 71,
       "author": "eustoria",
       "tags": [],
       "date": "2026-09-15T15:26:45+00:00"
@@ -168,6 +214,17 @@
       "author": "pwmglenn",
       "tags": [],
       "date": "2026-09-15T15:24:11+00:00"
+    },
+    {
+      "id": "hn-49713894",
+      "source": "hn",
+      "title": "Show HN: Pizza Bot – An inbox for AI agents that work in the background",
+      "url": "https://github.com/pizza-bot-app/pizza-bot",
+      "score": 17,
+      "comments": 5,
+      "author": "jd_",
+      "tags": [],
+      "date": "2026-09-15T15:20:26+00:00"
     },
     {
       "id": "qiita-c9f6a2576d",
@@ -187,8 +244,8 @@
       "source": "hn",
       "title": "The CSS Zen Garden dream, finally shipped",
       "url": "https://josprague.com/blog/the-css-zen-garden-dream-finally-shipped/",
-      "score": 106,
-      "comments": 46,
+      "score": 122,
+      "comments": 62,
       "author": "yosito",
       "tags": [],
       "date": "2026-09-15T14:40:08+00:00"
@@ -242,8 +299,8 @@
       "source": "hn",
       "title": "Show HN: Capsule – Single-file web apps that save their data into SQLite",
       "url": "https://withcapsule.app/",
-      "score": 244,
-      "comments": 110,
+      "score": 265,
+      "comments": 114,
       "author": "bashtian",
       "tags": [],
       "date": "2026-09-15T13:31:40+00:00"
@@ -275,8 +332,8 @@
       "source": "hn",
       "title": "Show HN: Hacking a $20 4G wireless hotspot into a texting device",
       "url": "https://bkovac.github.io/modem-thing/",
-      "score": 151,
-      "comments": 29,
+      "score": 167,
+      "comments": 30,
       "author": "bobili1234",
       "tags": [],
       "date": "2026-09-15T13:20:24+00:00"
@@ -297,8 +354,8 @@
       "source": "hn",
       "title": "Show HN: An e-ink frame that hears birds and draws them as 1800s illustrations",
       "url": "https://github.com/arnegiacomo/fugleramme",
-      "score": 1118,
-      "comments": 154,
+      "score": 1236,
+      "comments": 172,
       "author": "arnemunthekaas",
       "tags": [],
       "date": "2026-09-15T12:31:10+00:00"
@@ -367,8 +424,8 @@
       "source": "hn",
       "title": "Suspected sabotage causes major Netherlands rail disruption",
       "url": "https://www.bbc.com/news/articles/c8ly49w9g1edo",
-      "score": 384,
-      "comments": 371,
+      "score": 415,
+      "comments": 385,
       "author": "choult",
       "tags": [],
       "date": "2026-09-15T10:22:46+00:00"
@@ -378,8 +435,8 @@
       "source": "hn",
       "title": "Let's make quality the norm again",
       "url": "https://www.forbrukerradet.no/short-life/",
-      "score": 250,
-      "comments": 263,
+      "score": 285,
+      "comments": 296,
       "author": "ingve",
       "tags": [],
       "date": "2026-09-15T10:00:16+00:00"
@@ -590,19 +647,6 @@
       "date": "2026-09-15T09:07:12+09:00"
     },
     {
-      "id": "qiita-64e01af729",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "SQL構文は日本語で例えると理解しやすい",
-      "url": "https://qiita.com/nolanlover0527/items/f856f09d7bf23cdd0ae6?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "nolanlover0527",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-09-15T09:06:19+09:00"
-    },
-    {
       "id": "qiita-b69da78af8",
       "source": "zennqiita",
       "sub_source": "Qiita",
@@ -642,8 +686,8 @@
       "source": "hn",
       "title": "A single firm is behind OpenAI, Anthropic, and Meta hacking scandals",
       "url": "https://www.effort.news/irregular",
-      "score": 355,
-      "comments": 125,
+      "score": 425,
+      "comments": 143,
       "author": "yusufozkan",
       "tags": [],
       "date": "2026-09-14T21:15:01+00:00"
@@ -1011,8 +1055,8 @@
       "source": "hn",
       "title": "Most people prefer traditional architecture",
       "url": "https://www.worksinprogress.news/p/do-people-prefer-traditional-architecture",
-      "score": 147,
-      "comments": 61,
+      "score": 246,
+      "comments": 195,
       "author": "alihm",
       "tags": [],
       "date": "2026-09-14T14:30:17+00:00"
@@ -2108,6 +2152,17 @@
       "author": "ksymph",
       "tags": [],
       "date": "2026-09-13T05:47:13+00:00"
+    },
+    {
+      "id": "hn-49679949",
+      "source": "hn",
+      "title": "Data races and the limits of ThreadSanitizer in C and Go",
+      "url": "https://theconsensus.dev/p/2026/09/06/data-races-and-the-limits-of-threadsanitizer-in-c-and-go.html",
+      "score": 20,
+      "comments": 2,
+      "author": "matt_d",
+      "tags": [],
+      "date": "2026-09-13T04:09:19+00:00"
     },
     {
       "id": "hn-49679734",
@@ -5136,61 +5191,6 @@
       "date": "2026-09-09T15:45:43+00:00"
     },
     {
-      "id": "hn-49628429",
-      "source": "hn",
-      "title": "Planet Labs' open satellite feed",
-      "url": "https://tech.marksblogg.com/planet-labs-open-satellite-feed.html",
-      "score": 140,
-      "comments": 26,
-      "author": "marklit",
-      "tags": [],
-      "date": "2026-09-09T15:44:09+00:00"
-    },
-    {
-      "id": "hn-49628367",
-      "source": "hn",
-      "title": "Bomb Sense (2021)",
-      "url": "https://danboland.net/2021/07/15/bomb-sense.html",
-      "score": 14,
-      "comments": 0,
-      "author": "surprisetalk",
-      "tags": [],
-      "date": "2026-09-09T15:40:19+00:00"
-    },
-    {
-      "id": "hn-49628290",
-      "source": "hn",
-      "title": "We accidentally built a synthetic cell factory",
-      "url": "https://bnext.bio/post/we-accidentally-built-a-synthetic-cell-factory",
-      "score": 57,
-      "comments": 4,
-      "author": "rajivm",
-      "tags": [],
-      "date": "2026-09-09T15:34:51+00:00"
-    },
-    {
-      "id": "hn-49627634",
-      "source": "hn",
-      "title": "Hitachi launches CO2 heat pump water heaters with solar-friendly tariff controls",
-      "url": "https://www.pv-magazine.com/2026/09/07/hitachi-launches-co2-heat-pump-water-heaters-with-solar-friendly-tariff-controls/",
-      "score": 282,
-      "comments": 223,
-      "author": "thelastgallon",
-      "tags": [],
-      "date": "2026-09-09T14:54:12+00:00"
-    },
-    {
-      "id": "hn-49627370",
-      "source": "hn",
-      "title": "GPT-6 Astra, looped transformers, and hidden reasoning",
-      "url": "https://magazine.sebastianraschka.com/p/gpt-6-astra-looped-transformers-and",
-      "score": 471,
-      "comments": 153,
-      "author": "ModelForge",
-      "tags": [],
-      "date": "2026-09-09T14:37:47+00:00"
-    },
-    {
       "id": "ctf-4372374",
       "source": "project",
       "proj_category": "CTF",
@@ -5401,6 +5401,58 @@
       "date": "2023-05-23T17:06:23Z"
     },
     {
+      "id": "zenn-02563ff370",
+      "source": "zennqiita",
+      "sub_source": "Zenn",
+      "title": "1日の開発の流れをスキル化してみたら、想像以上に快適だった",
+      "url": "https://zenn.dev/tenkei/articles/9f8921926bb003",
+      "score": null,
+      "author": "Tenkei",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Tue, 15 Sep 2026 09:15:12 GMT"
+    },
+    {
+      "id": "zenn-66fd142b0f",
+      "source": "zennqiita",
+      "sub_source": "Zenn",
+      "title": "Claude Code Meetup Japan #7 参加レポート",
+      "url": "https://zenn.dev/flagxs/articles/7a9178c94cc27b",
+      "score": null,
+      "author": "aoi",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Tue, 15 Sep 2026 06:56:34 GMT"
+    },
+    {
+      "id": "zenn-2b9fd05d3a",
+      "source": "zennqiita",
+      "sub_source": "Zenn",
+      "title": "【Kaggle】ポケカコンペ振り返り(455th/6807th)🥉",
+      "url": "https://zenn.dev/nwn/articles/a21aba4208e601",
+      "score": null,
+      "author": "ヨ",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Tue, 15 Sep 2026 06:23:44 GMT"
+    },
+    {
+      "id": "zenn-ac126a6f72",
+      "source": "zennqiita",
+      "sub_source": "Zenn",
+      "title": "Grafana BeylaとOpenTelemetry eBPF Instrumentation（OBI）の差分は何か",
+      "url": "https://zenn.dev/ymotongpoo/articles/20260916-beyla-obi-diff",
+      "score": null,
+      "author": "Yoshi Yamaguchi",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Tue, 15 Sep 2026 06:00:04 GMT"
+    },
+    {
       "id": "zenn-058d8ae446",
       "source": "zennqiita",
       "sub_source": "Zenn",
@@ -5453,19 +5505,6 @@
       "date": "Mon, 14 Sep 2026 22:00:05 GMT"
     },
     {
-      "id": "zenn-6ad0768c3a",
-      "source": "zennqiita",
-      "sub_source": "Zenn",
-      "title": "仕様と実装を同じ言葉で書く ― 責務を機械的に突合し検証し続けるフロントエンド開発（要件定義〜実装・テスト）",
-      "url": "https://zenn.dev/2_daiki_ando/articles/53c34e071b5d69",
-      "score": null,
-      "author": "Ando",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Mon, 14 Sep 2026 15:27:39 GMT"
-    },
-    {
       "id": "zenn-5230eaf8ea",
       "source": "zennqiita",
       "sub_source": "Zenn",
@@ -5479,30 +5518,17 @@
       "date": "Mon, 14 Sep 2026 14:26:13 GMT"
     },
     {
-      "id": "zenn-9c1b00ca7e",
+      "id": "zenn-713bd6f943",
       "source": "zennqiita",
       "sub_source": "Zenn",
-      "title": "【ベイズ推定】相手のことを答えると「本当に欲しそうなプレゼント」を当てにいく『欲しいもの.com』を作った",
-      "url": "https://zenn.dev/aucccchi/articles/hoshiimono-bayes-gift-diagnosis",
+      "title": "Kubbで理想のfetchクライアントを作りたいっ！！",
+      "url": "https://zenn.dev/chot/articles/kubb-custom-fetch-client",
       "score": null,
-      "author": "aucccchi",
+      "author": "udon!",
       "tags": [
         "Zenn"
       ],
-      "date": "Mon, 14 Sep 2026 14:13:58 GMT"
-    },
-    {
-      "id": "zenn-0c99e1fc56",
-      "source": "zennqiita",
-      "sub_source": "Zenn",
-      "title": "犯人はAWS WAF：CognitoのパスワードがSQLiと誤検知された話",
-      "url": "https://zenn.dev/dgtech/articles/aws-waf-blocks-cognito-password",
-      "score": null,
-      "author": "Tanapol",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Mon, 14 Sep 2026 10:18:05 GMT"
+      "date": "Mon, 14 Sep 2026 08:53:27 GMT"
     },
     {
       "id": "zenn-55da7d22fe",
@@ -5595,32 +5621,6 @@
         "Zenn"
       ],
       "date": "Sun, 13 Sep 2026 23:30:05 GMT"
-    },
-    {
-      "id": "zenn-9a8e57973c",
-      "source": "zennqiita",
-      "sub_source": "Zenn",
-      "title": "ARG（代替現実ゲーム）と「ソースの閲覧」",
-      "url": "https://zenn.dev/ryo_a/articles/e396b36ad3f183",
-      "score": null,
-      "author": "ryo-a",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Sun, 13 Sep 2026 16:38:20 GMT"
-    },
-    {
-      "id": "zenn-11000cc056",
-      "source": "zennqiita",
-      "sub_source": "Zenn",
-      "title": "Go Conference 2026 参加記",
-      "url": "https://zenn.dev/yingtian/articles/0e2ad1f97727ba",
-      "score": null,
-      "author": "Yingtian",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Sun, 13 Sep 2026 16:02:12 GMT"
     },
     {
       "id": "zenn-9713d99ebd",

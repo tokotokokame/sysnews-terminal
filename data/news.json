@@ -1,7 +1,84 @@
 {
-  "updated_at": "2026-09-16T18:39:53.434491+00:00",
+  "updated_at": "2026-09-16T21:56:08.685895+00:00",
   "count": 500,
   "items": [
+    {
+      "id": "hn-49732931",
+      "source": "hn",
+      "title": "Breaking the 1.58-bit Barrier for Ternary LLMs",
+      "url": "https://arxiv.org/abs/2609.16338",
+      "score": 41,
+      "comments": 0,
+      "author": "matt_d",
+      "tags": [],
+      "date": "2026-09-16T20:59:24+00:00"
+    },
+    {
+      "id": "hn-49732270",
+      "source": "hn",
+      "title": "Xiaomi Mimo 2.6 live post-training dashboard",
+      "url": "https://mimo.xiaomi.com/rl/",
+      "score": 122,
+      "comments": 34,
+      "author": "krackers",
+      "tags": [],
+      "date": "2026-09-16T20:09:18+00:00"
+    },
+    {
+      "id": "hn-49732036",
+      "source": "hn",
+      "title": "macOS 27 Golden Gate – Review",
+      "url": "https://arstechnica.com/gadgets/2026/09/macos-27-golden-gate-the-ars-technica-review/",
+      "score": 63,
+      "comments": 55,
+      "author": "Brajeshwar",
+      "tags": [],
+      "date": "2026-09-16T19:53:36+00:00"
+    },
+    {
+      "id": "hn-49731620",
+      "source": "hn",
+      "title": "How good are frontier models at physics?",
+      "url": "https://arxiv.org/abs/2609.13009",
+      "score": 40,
+      "comments": 14,
+      "author": "qt31415926",
+      "tags": [],
+      "date": "2026-09-16T19:19:08+00:00"
+    },
+    {
+      "id": "hn-49731360",
+      "source": "hn",
+      "title": "Accurate Models of AMD Matrix Cores",
+      "url": "https://arxiv.org/abs/2609.14845",
+      "score": 45,
+      "comments": 5,
+      "author": "matt_d",
+      "tags": [],
+      "date": "2026-09-16T18:56:05+00:00"
+    },
+    {
+      "id": "hn-49731285",
+      "source": "hn",
+      "title": "Training a 4B model to produce 81% faster query plans than Postgres",
+      "url": "https://rohanbansal.com/qorl",
+      "score": 243,
+      "comments": 40,
+      "author": "polyphilz",
+      "tags": [],
+      "date": "2026-09-16T18:50:00+00:00"
+    },
+    {
+      "id": "hn-49731054",
+      "source": "hn",
+      "title": "Vectorized and performance-portable Quicksort (2022)",
+      "url": "https://opensource.googleblog.com/2022/06/Vectorized%20and%20performance%20portable%20Quicksort.html",
+      "score": 156,
+      "comments": 24,
+      "author": "mococa",
+      "tags": [],
+      "date": "2026-09-16T18:31:35+00:00"
+    },
     {
       "id": "hn-49730239",
       "source": "hn",
@@ -12,6 +89,17 @@
       "author": "geox",
       "tags": [],
       "date": "2026-09-16T17:27:37+00:00"
+    },
+    {
+      "id": "hn-49729816",
+      "source": "hn",
+      "title": "Training Text-to-Image Models 3.6× Faster",
+      "url": "https://www.linum.ai/field-notes/jit-ddt",
+      "score": 12,
+      "comments": 1,
+      "author": "schopra909",
+      "tags": [],
+      "date": "2026-09-16T16:58:13+00:00"
     },
     {
       "id": "hn-49729412",
@@ -38,10 +126,10 @@
     {
       "id": "hn-49729000",
       "source": "hn",
-      "title": "Small Programming Tricks",
+      "title": "Small programming tricks",
       "url": "https://will-keleher.com/posts/small-programming-tricks-matter/",
-      "score": 164,
-      "comments": 96,
+      "score": 306,
+      "comments": 157,
       "author": "signa11",
       "tags": [],
       "date": "2026-09-16T15:56:47+00:00"
@@ -63,19 +151,30 @@
       "source": "hn",
       "title": "The DeepMind Institute",
       "url": "https://institute.deepmind.com/",
-      "score": 53,
-      "comments": 13,
+      "score": 105,
+      "comments": 33,
       "author": "vertigoruntime",
       "tags": [],
       "date": "2026-09-16T14:32:11+00:00"
+    },
+    {
+      "id": "hn-49727592",
+      "source": "hn",
+      "title": "Anatomy of a Texture",
+      "url": "https://agentlien.github.io/texture/",
+      "score": 55,
+      "comments": 10,
+      "author": "Agentlien",
+      "tags": [],
+      "date": "2026-09-16T14:28:28+00:00"
     },
     {
       "id": "hn-49727580",
       "source": "hn",
       "title": "A warning about 'model welfare'",
       "url": "https://mustafa-suleyman.ai/a-warning-about-model-welfare",
-      "score": 96,
-      "comments": 253,
+      "score": 166,
+      "comments": 430,
       "author": "andsoitis",
       "tags": [],
       "date": "2026-09-16T14:27:47+00:00",
@@ -97,8 +196,8 @@
       "source": "hn",
       "title": "Dream-RSI: Recursive Self-Improvement through Evolving Worlds",
       "url": "https://arxiv.org/abs/2609.14858",
-      "score": 124,
-      "comments": 38,
+      "score": 166,
+      "comments": 48,
       "author": "bananaflag",
       "tags": [],
       "date": "2026-09-16T13:44:40+00:00"
@@ -195,6 +294,19 @@
       "severity": "critical"
     },
     {
+      "id": "qiita-b119133f4c",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "JVMCIはなぜ消えた？JDK 27での削除経緯とGraalVM/TornadoVMのゆくえ",
+      "url": "https://qiita.com/tabatad/items/1f6b52f50a5bf923de6c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "tabatad",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-09-16T19:02:51+09:00"
+    },
+    {
       "id": "hn-49723873",
       "source": "hn",
       "title": "Learning Programming in an Age of LLMs",
@@ -210,8 +322,8 @@
       "source": "hn",
       "title": "Mistral X Mozilla: Private, Multilingual AI Browsing",
       "url": "https://mistral.ai/news/mistral-x-mozilla/",
-      "score": 422,
-      "comments": 154,
+      "score": 497,
+      "comments": 177,
       "author": "vertigoruntime",
       "tags": [],
       "date": "2026-09-16T08:08:57+00:00"
@@ -250,6 +362,19 @@
       "author": "JPLeRouzic",
       "tags": [],
       "date": "2026-09-16T05:43:44+00:00"
+    },
+    {
+      "id": "qiita-0533062d42",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "「いい感じに作って」でどこまで作れる？Codexを使ったバイブコーディング検証",
+      "url": "https://qiita.com/With21/items/d1c1e0cb6b3733f75505?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "With21",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-09-16T14:06:01+09:00"
     },
     {
       "id": "qiita-6752df3f19",
@@ -361,6 +486,19 @@
       "date": "2026-09-16T10:09:07+09:00"
     },
     {
+      "id": "qiita-047b710840",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "ChatGPTやCopilotでもClaude Code・Codexっぽく調査したい！ /mnt/data を作業机にする\"最強\"実務AI活用術",
+      "url": "https://qiita.com/BaspisKawaE/items/b696c704e6b98611d834?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "BaspisKawaE",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-09-16T09:32:04+09:00"
+    },
+    {
       "id": "qiita-7bca85aa15",
       "source": "zennqiita",
       "sub_source": "Qiita",
@@ -443,6 +581,19 @@
       "date": "2026-09-15T19:56:56+00:00"
     },
     {
+      "id": "qiita-7dc88b5985",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "Java 27新機能まとめ",
+      "url": "https://qiita.com/nowokay/items/3076823082236f8018ff?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "nowokay",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-09-16T04:35:59+09:00"
+    },
+    {
       "id": "hn-49717638",
       "source": "hn",
       "title": "Building a Linux GPU Driver for the M4 Mac Mini in One Month",
@@ -480,8 +631,8 @@
       "source": "hn",
       "title": "The Siberian Ice Maiden and the Scythian World",
       "url": "https://patrickwyman.substack.com/p/the-siberian-ice-maiden-and-the-scythian",
-      "score": 11,
-      "comments": 0,
+      "score": 41,
+      "comments": 2,
       "author": "NaOH",
       "tags": [],
       "date": "2026-09-15T19:09:09+00:00"
@@ -552,6 +703,19 @@
       "author": "jaykru",
       "tags": [],
       "date": "2026-09-15T17:37:12+00:00"
+    },
+    {
+      "id": "qiita-9763490fb1",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "関西の金欠学生が、約4.4万円でiOSDC Japan 2026に行ってきた話",
+      "url": "https://qiita.com/manasuta/items/c08ea345fc4de27aac6a?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "manasuta",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-09-16T02:15:58+09:00"
     },
     {
       "id": "hn-49715590",
@@ -758,8 +922,8 @@
       "source": "hn",
       "title": "Show HN: An e-ink frame that hears birds and draws them as 1800s illustrations",
       "url": "https://github.com/arnegiacomo/fugleramme",
-      "score": 1911,
-      "comments": 225,
+      "score": 2013,
+      "comments": 234,
       "author": "arnemunthekaas",
       "tags": [],
       "date": "2026-09-15T12:31:10+00:00"
@@ -826,6 +990,17 @@
       "date": "2026-09-15T20:45:26+09:00"
     },
     {
+      "id": "hn-49710968",
+      "source": "hn",
+      "title": "Show HN: Restarted – a 2026 remake of the classic 2015 startup generator",
+      "url": "https://restarted.io/",
+      "score": 11,
+      "comments": 1,
+      "author": "zxcvbn4038",
+      "tags": [],
+      "date": "2026-09-15T11:34:45+00:00"
+    },
+    {
       "id": "qiita-9da5ec11f7",
       "source": "zennqiita",
       "sub_source": "Qiita",
@@ -843,8 +1018,8 @@
       "source": "hn",
       "title": "Tell the speakers that you liked their talks",
       "url": "https://ohhelloana.blog/tell-the-speakers/",
-      "score": 159,
-      "comments": 42,
+      "score": 255,
+      "comments": 71,
       "author": "whisper2020",
       "tags": [],
       "date": "2026-09-15T11:28:19+00:00"
@@ -1010,6 +1185,19 @@
         "Qiita"
       ],
       "date": "2026-09-15T11:59:59+09:00"
+    },
+    {
+      "id": "qiita-326dd60a01",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "Claude Codeでドキュメントを作ってみた。大事なのはその先だった",
+      "url": "https://qiita.com/chara-gida/items/5abb70bcecd2f2f0d596?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "chara-gida",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-09-15T11:51:29+09:00"
     },
     {
       "id": "hn-49706708",
@@ -1356,6 +1544,17 @@
       "author": "simonmic",
       "tags": [],
       "date": "2026-09-14T16:23:16+00:00"
+    },
+    {
+      "id": "hn-49699477",
+      "source": "hn",
+      "title": "Show HN: AttaLambda: a language where types and data are made of untyped lambdas",
+      "url": "https://attalambda.com",
+      "score": 27,
+      "comments": 0,
+      "author": "kserrec",
+      "tags": [],
+      "date": "2026-09-14T16:21:10+00:00"
     },
     {
       "id": "hn-49699434",
@@ -1823,6 +2022,17 @@
         "Qiita"
       ],
       "date": "2026-09-14T16:12:55+09:00"
+    },
+    {
+      "id": "hn-49692844",
+      "source": "hn",
+      "title": "Anecdotally, programmers dislike \"reduce\"",
+      "url": "https://evanhahn.com/posts/2026-09-13-programmers-dislike-reduce/",
+      "score": 43,
+      "comments": 78,
+      "author": "vinhnx",
+      "tags": [],
+      "date": "2026-09-14T06:46:26+00:00"
     },
     {
       "id": "qiita-47b82ba2ad",
@@ -2878,6 +3088,17 @@
       "date": "2026-09-13T07:42:58+09:00"
     },
     {
+      "id": "hn-49677916",
+      "source": "hn",
+      "title": "Japan's book scene is moving from bookstores to libraries",
+      "url": "https://untranslatedjp.substack.com/p/japans-book-scene-is-quietly-moving",
+      "score": 42,
+      "comments": 6,
+      "author": "herbertl",
+      "tags": [],
+      "date": "2026-09-12T22:35:25+00:00"
+    },
+    {
       "id": "hn-49677836",
       "source": "hn",
       "title": "Killing with a car costs $1.6M, California requires drivers to carry $30K",
@@ -3023,6 +3244,17 @@
       "author": "Betelbuddy",
       "tags": [],
       "date": "2026-09-12T17:05:31+00:00"
+    },
+    {
+      "id": "hn-49674451",
+      "source": "hn",
+      "title": "Reversing Factorio's RNG",
+      "url": "https://gegell.github.io/posts/factorio-rng/",
+      "score": 66,
+      "comments": 8,
+      "author": "jheitmann",
+      "tags": [],
+      "date": "2026-09-12T17:02:19+00:00"
     },
     {
       "id": "hn-49674395",
@@ -3806,6 +4038,17 @@
       "author": "mooreds",
       "tags": [],
       "date": "2026-09-11T16:13:51+00:00"
+    },
+    {
+      "id": "hn-49660791",
+      "source": "hn",
+      "title": "WalShadow: Sub-second Postgres replication to ClickHouse from physical WAL",
+      "url": "https://clickhouse.com/blog/introducing-walshadow",
+      "score": 23,
+      "comments": 4,
+      "author": "spathak",
+      "tags": [],
+      "date": "2026-09-11T16:09:09+00:00"
     },
     {
       "id": "qiita-3393a5a153",
@@ -5124,78 +5367,6 @@
       "date": "2026-09-10T04:50:25+00:00"
     },
     {
-      "id": "qiita-dbd4ca6011",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "【体験談】1年目、バッチ実装で3ヶ月溶かした話 — 『世界一流エンジニアの思考法』で振り返る",
-      "url": "https://qiita.com/suneo46/items/522f0bcac1532e23048d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "suneo46",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-09-10T13:47:07+09:00"
-    },
-    {
-      "id": "hn-49638510",
-      "source": "hn",
-      "title": "Spaceships (Reverse Asteroid)",
-      "url": "https://spaceships.treybastian.com/",
-      "score": 249,
-      "comments": 46,
-      "author": "zdw",
-      "tags": [],
-      "date": "2026-09-10T04:44:32+00:00"
-    },
-    {
-      "id": "hn-49638280",
-      "source": "hn",
-      "title": "All grown-ups were once children, but only few of them remember it",
-      "url": "https://mathstodon.xyz/@tao/117244102901892965",
-      "score": 167,
-      "comments": 126,
-      "author": "yurivish",
-      "tags": [],
-      "date": "2026-09-10T04:04:38+00:00"
-    },
-    {
-      "id": "qiita-c4f210060b",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "個人開発アプリを100本公開した結果、28本がユーザー0人でAdMobの最低支払額（8,000円）にすら毎月届かない話",
-      "url": "https://qiita.com/kawaikouji/items/066e7f8f2469109281ab?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "kawaikouji",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-09-10T12:59:58+09:00"
-    },
-    {
-      "id": "qiita-7b41d326cd",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "【採用担当の本音】AI時代だからこそ、私たちが面接で「なぜ？」を繰り返す本当の理由",
-      "url": "https://qiita.com/m__ikeda/items/26cc98906fbae40e4e71?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "m__ikeda",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-09-10T12:33:53+09:00"
-    },
-    {
-      "id": "hn-49638071",
-      "source": "hn",
-      "title": "Reverse engineering my e-scooter and rewriting the firmware in Rust",
-      "url": "https://bensimms.moe/reverse-engineering-scooter/",
-      "score": 359,
-      "comments": 87,
-      "author": "vinhnx",
-      "tags": [],
-      "date": "2026-09-10T03:32:04+00:00"
-    },
-    {
       "id": "ctf-4372374",
       "source": "project",
       "proj_category": "CTF",
@@ -5665,231 +5836,6 @@
         "Zenn"
       ],
       "date": "Sun, 13 Sep 2026 23:30:05 GMT"
-    },
-    {
-      "id": "edb-539c995398",
-      "source": "msf",
-      "title": "[remote] CVE-2026-80428 Unauthenticated PHP Object Injection via Shibboleth - ILIAS < 9.22, 10.0 < 10.10, 11.0 < 11.3 - RCE",
-      "url": "https://www.exploit-db.com/exploits/52682",
-      "score": null,
-      "author": "Exploit-DB",
-      "tags": [
-        "Exploit-DB",
-        "CVE",
-        "PoC"
-      ],
-      "severity": "high",
-      "date": "Fri, 11 Sep 2026 00:00:00 +0000"
-    },
-    {
-      "id": "edb-f594139f85",
-      "source": "msf",
-      "title": "[webapps] FreePBX  17.0.2 - Remote Code Execution (RCE)",
-      "url": "https://www.exploit-db.com/exploits/52681",
-      "score": null,
-      "author": "Exploit-DB",
-      "tags": [
-        "Exploit-DB",
-        "CVE",
-        "PoC"
-      ],
-      "severity": "high",
-      "date": "Thu, 03 Sep 2026 00:00:00 +0000"
-    },
-    {
-      "id": "edb-234928d7e3",
-      "source": "msf",
-      "title": "[webapps] Metabase 0.61.0  - Authenticated Remote Code Execution",
-      "url": "https://www.exploit-db.com/exploits/52680",
-      "score": null,
-      "author": "Exploit-DB",
-      "tags": [
-        "Exploit-DB",
-        "CVE",
-        "PoC"
-      ],
-      "severity": "high",
-      "date": "Thu, 03 Sep 2026 00:00:00 +0000"
-    },
-    {
-      "id": "edb-515d49a8f8",
-      "source": "msf",
-      "title": "[dos] EVerest 2025.9.0 - DoS",
-      "url": "https://www.exploit-db.com/exploits/52679",
-      "score": null,
-      "author": "Exploit-DB",
-      "tags": [
-        "Exploit-DB",
-        "CVE",
-        "PoC"
-      ],
-      "severity": "high",
-      "date": "Wed, 02 Sep 2026 00:00:00 +0000"
-    },
-    {
-      "id": "edb-cf7b96531f",
-      "source": "msf",
-      "title": "[webapps] Bludit CMS  3.20.0 - Reflected Cross-Site Scripting",
-      "url": "https://www.exploit-db.com/exploits/52678",
-      "score": null,
-      "author": "Exploit-DB",
-      "tags": [
-        "Exploit-DB",
-        "CVE",
-        "PoC"
-      ],
-      "severity": "high",
-      "date": "Wed, 02 Sep 2026 00:00:00 +0000"
-    },
-    {
-      "id": "edb-201f4261c9",
-      "source": "msf",
-      "title": "[webapps] PodcastGenerator 3.2.9 - Stored XSS",
-      "url": "https://www.exploit-db.com/exploits/52677",
-      "score": null,
-      "author": "Exploit-DB",
-      "tags": [
-        "Exploit-DB",
-        "CVE",
-        "PoC"
-      ],
-      "severity": "high",
-      "date": "Wed, 02 Sep 2026 00:00:00 +0000"
-    },
-    {
-      "id": "edb-a6fdc08233",
-      "source": "msf",
-      "title": "[webapps] Ghost_CMS 6.19.0  - Remote Code Execution",
-      "url": "https://www.exploit-db.com/exploits/52676",
-      "score": null,
-      "author": "Exploit-DB",
-      "tags": [
-        "Exploit-DB",
-        "CVE",
-        "PoC"
-      ],
-      "severity": "high",
-      "date": "Wed, 02 Sep 2026 00:00:00 +0000"
-    },
-    {
-      "id": "edb-2541ac7487",
-      "source": "msf",
-      "title": "[webapps] Langflow 1.10.0 - RCE",
-      "url": "https://www.exploit-db.com/exploits/52675",
-      "score": null,
-      "author": "Exploit-DB",
-      "tags": [
-        "Exploit-DB",
-        "CVE",
-        "PoC"
-      ],
-      "severity": "high",
-      "date": "Wed, 02 Sep 2026 00:00:00 +0000"
-    },
-    {
-      "id": "edb-a4f27e5482",
-      "source": "msf",
-      "title": "[hardware] Fullhan FH8626V100 - Multiple Vulnerabilities",
-      "url": "https://www.exploit-db.com/exploits/52674",
-      "score": null,
-      "author": "Exploit-DB",
-      "tags": [
-        "Exploit-DB",
-        "CVE",
-        "PoC"
-      ],
-      "severity": "high",
-      "date": "Wed, 02 Sep 2026 00:00:00 +0000"
-    },
-    {
-      "id": "edb-3374a3112d",
-      "source": "msf",
-      "title": "[webapps] Marimo  0.20.4 - RCE",
-      "url": "https://www.exploit-db.com/exploits/52673",
-      "score": null,
-      "author": "Exploit-DB",
-      "tags": [
-        "Exploit-DB",
-        "CVE",
-        "PoC"
-      ],
-      "severity": "high",
-      "date": "Wed, 02 Sep 2026 00:00:00 +0000"
-    },
-    {
-      "id": "edb-63a987ae5d",
-      "source": "msf",
-      "title": "[webapps] Wolf CMS 0.8.3.1 - RCE v",
-      "url": "https://www.exploit-db.com/exploits/52672",
-      "score": null,
-      "author": "Exploit-DB",
-      "tags": [
-        "Exploit-DB",
-        "CVE",
-        "PoC"
-      ],
-      "severity": "high",
-      "date": "Tue, 01 Sep 2026 00:00:00 +0000"
-    },
-    {
-      "id": "edb-dc15b48744",
-      "source": "msf",
-      "title": "[webapps] Payload CMS 3.72.0 - Blind SQL Injection",
-      "url": "https://www.exploit-db.com/exploits/52671",
-      "score": null,
-      "author": "Exploit-DB",
-      "tags": [
-        "Exploit-DB",
-        "CVE",
-        "PoC"
-      ],
-      "severity": "high",
-      "date": "Tue, 01 Sep 2026 00:00:00 +0000"
-    },
-    {
-      "id": "edb-c87655d456",
-      "source": "msf",
-      "title": "[webapps] Bludit CMS - Stored XSS",
-      "url": "https://www.exploit-db.com/exploits/52670",
-      "score": null,
-      "author": "Exploit-DB",
-      "tags": [
-        "Exploit-DB",
-        "CVE",
-        "PoC"
-      ],
-      "severity": "high",
-      "date": "Tue, 01 Sep 2026 00:00:00 +0000"
-    },
-    {
-      "id": "edb-3c1eafc9d6",
-      "source": "msf",
-      "title": "[webapps] Grav CMS 2.0.7 - RCE",
-      "url": "https://www.exploit-db.com/exploits/52669",
-      "score": null,
-      "author": "Exploit-DB",
-      "tags": [
-        "Exploit-DB",
-        "CVE",
-        "PoC"
-      ],
-      "severity": "high",
-      "date": "Tue, 01 Sep 2026 00:00:00 +0000"
-    },
-    {
-      "id": "edb-a5e87b96d1",
-      "source": "msf",
-      "title": "[webapps] miniOrange  5.4.3 - Unauthenticated Auth Bypass",
-      "url": "https://www.exploit-db.com/exploits/52668",
-      "score": null,
-      "author": "Exploit-DB",
-      "tags": [
-        "Exploit-DB",
-        "CVE",
-        "PoC"
-      ],
-      "severity": "high",
-      "date": "Tue, 01 Sep 2026 00:00:00 +0000"
     }
   ]
 }

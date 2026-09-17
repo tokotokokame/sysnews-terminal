@@ -1,28 +1,72 @@
 {
-  "updated_at": "2026-09-16T21:56:08.685895+00:00",
+  "updated_at": "2026-09-17T00:07:27.305986+00:00",
   "count": 500,
   "items": [
+    {
+      "id": "hn-49734264",
+      "source": "hn",
+      "title": "OpenSpec – A lightweight and configurable AI spec framework",
+      "url": "https://openspec.dev/",
+      "score": 26,
+      "comments": 7,
+      "author": "etoxin",
+      "tags": [],
+      "date": "2026-09-16T23:06:39+00:00"
+    },
+    {
+      "id": "hn-49734171",
+      "source": "hn",
+      "title": "Australia says it could follow Canada in forging deeper ties with EU",
+      "url": "https://www.independent.co.uk/news/world/australasia/canda-eu-membership-australia-us-trade-b3050227.html",
+      "score": 61,
+      "comments": 14,
+      "author": "doener",
+      "tags": [],
+      "date": "2026-09-16T22:56:48+00:00"
+    },
     {
       "id": "hn-49732931",
       "source": "hn",
       "title": "Breaking the 1.58-bit Barrier for Ternary LLMs",
       "url": "https://arxiv.org/abs/2609.16338",
-      "score": 41,
-      "comments": 0,
+      "score": 117,
+      "comments": 11,
       "author": "matt_d",
       "tags": [],
       "date": "2026-09-16T20:59:24+00:00"
+    },
+    {
+      "id": "hn-49732513",
+      "source": "hn",
+      "title": "Backups Aren't Simple",
+      "url": "https://filipovski.net/2026/09/16/backups-arent-simple.html",
+      "score": 42,
+      "comments": 16,
+      "author": "afilipovski",
+      "tags": [],
+      "date": "2026-09-16T20:27:16+00:00"
     },
     {
       "id": "hn-49732270",
       "source": "hn",
       "title": "Xiaomi Mimo 2.6 live post-training dashboard",
       "url": "https://mimo.xiaomi.com/rl/",
-      "score": 122,
-      "comments": 34,
+      "score": 205,
+      "comments": 56,
       "author": "krackers",
       "tags": [],
       "date": "2026-09-16T20:09:18+00:00"
+    },
+    {
+      "id": "hn-49732087",
+      "source": "hn",
+      "title": "Why Does the Universe Expand?",
+      "url": "https://cosmicave.org/2026/09/15/why-does-the-universe-expand/",
+      "score": 14,
+      "comments": 3,
+      "author": "the__alchemist",
+      "tags": [],
+      "date": "2026-09-16T19:56:38+00:00"
     },
     {
       "id": "hn-49732036",
@@ -40,8 +84,8 @@
       "source": "hn",
       "title": "How good are frontier models at physics?",
       "url": "https://arxiv.org/abs/2609.13009",
-      "score": 40,
-      "comments": 14,
+      "score": 64,
+      "comments": 28,
       "author": "qt31415926",
       "tags": [],
       "date": "2026-09-16T19:19:08+00:00"
@@ -51,8 +95,8 @@
       "source": "hn",
       "title": "Accurate Models of AMD Matrix Cores",
       "url": "https://arxiv.org/abs/2609.14845",
-      "score": 45,
-      "comments": 5,
+      "score": 55,
+      "comments": 6,
       "author": "matt_d",
       "tags": [],
       "date": "2026-09-16T18:56:05+00:00"
@@ -62,11 +106,22 @@
       "source": "hn",
       "title": "Training a 4B model to produce 81% faster query plans than Postgres",
       "url": "https://rohanbansal.com/qorl",
-      "score": 243,
-      "comments": 40,
+      "score": 359,
+      "comments": 68,
       "author": "polyphilz",
       "tags": [],
       "date": "2026-09-16T18:50:00+00:00"
+    },
+    {
+      "id": "hn-49731282",
+      "source": "hn",
+      "title": "Reverse-engineered Jev-like model",
+      "url": "https://github.com/vinnylarouge/jevlike",
+      "score": 52,
+      "comments": 8,
+      "author": "rochansinha",
+      "tags": [],
+      "date": "2026-09-16T18:49:57+00:00"
     },
     {
       "id": "hn-49731054",
@@ -95,8 +150,8 @@
       "source": "hn",
       "title": "Training Text-to-Image Models 3.6× Faster",
       "url": "https://www.linum.ai/field-notes/jit-ddt",
-      "score": 12,
-      "comments": 1,
+      "score": 26,
+      "comments": 3,
       "author": "schopra909",
       "tags": [],
       "date": "2026-09-16T16:58:13+00:00"
@@ -128,8 +183,8 @@
       "source": "hn",
       "title": "Small programming tricks",
       "url": "https://will-keleher.com/posts/small-programming-tricks-matter/",
-      "score": 306,
-      "comments": 157,
+      "score": 367,
+      "comments": 178,
       "author": "signa11",
       "tags": [],
       "date": "2026-09-16T15:56:47+00:00"
@@ -162,8 +217,8 @@
       "source": "hn",
       "title": "Anatomy of a Texture",
       "url": "https://agentlien.github.io/texture/",
-      "score": 55,
-      "comments": 10,
+      "score": 71,
+      "comments": 12,
       "author": "Agentlien",
       "tags": [],
       "date": "2026-09-16T14:28:28+00:00"
@@ -196,8 +251,8 @@
       "source": "hn",
       "title": "Dream-RSI: Recursive Self-Improvement through Evolving Worlds",
       "url": "https://arxiv.org/abs/2609.14858",
-      "score": 166,
-      "comments": 48,
+      "score": 178,
+      "comments": 49,
       "author": "bananaflag",
       "tags": [],
       "date": "2026-09-16T13:44:40+00:00"
@@ -282,6 +337,17 @@
       "date": "2026-09-16T11:19:11+00:00"
     },
     {
+      "id": "hn-49724881",
+      "source": "hn",
+      "title": "Nvidia announces native GPU programming in Rust",
+      "url": "https://developer.nvidia.com/blog/introducing-cuda-rust-two-tracks-for-writing-gpu-kernels/",
+      "score": 133,
+      "comments": 44,
+      "author": "nonmaskable",
+      "tags": [],
+      "date": "2026-09-16T11:15:53+00:00"
+    },
+    {
       "id": "hn-49724488",
       "source": "hn",
       "title": "Salesforce Global Outage",
@@ -322,8 +388,8 @@
       "source": "hn",
       "title": "Mistral X Mozilla: Private, Multilingual AI Browsing",
       "url": "https://mistral.ai/news/mistral-x-mozilla/",
-      "score": 497,
-      "comments": 177,
+      "score": 520,
+      "comments": 184,
       "author": "vertigoruntime",
       "tags": [],
       "date": "2026-09-16T08:08:57+00:00"
@@ -545,6 +611,17 @@
       "author": "zdw",
       "tags": [],
       "date": "2026-09-15T22:50:55+00:00"
+    },
+    {
+      "id": "hn-49719596",
+      "source": "hn",
+      "title": "The engineering behind the US Strategic Petroleum Reserve",
+      "url": "https://johnjwang.com/post/2026/09/15/engineering-behind-us-strategic-petroleum-reserve",
+      "score": 59,
+      "comments": 11,
+      "author": "johnjwang",
+      "tags": [],
+      "date": "2026-09-15T22:15:25+00:00"
     },
     {
       "id": "hn-49718928",
@@ -922,8 +999,8 @@
       "source": "hn",
       "title": "Show HN: An e-ink frame that hears birds and draws them as 1800s illustrations",
       "url": "https://github.com/arnegiacomo/fugleramme",
-      "score": 2013,
-      "comments": 234,
+      "score": 2052,
+      "comments": 236,
       "author": "arnemunthekaas",
       "tags": [],
       "date": "2026-09-15T12:31:10+00:00"
@@ -1432,6 +1509,17 @@
       "author": "bsimpson",
       "tags": [],
       "date": "2026-09-14T17:27:55+00:00"
+    },
+    {
+      "id": "hn-49700598",
+      "source": "hn",
+      "title": "Destroy After Reading: photocopiers,cheap paper and DIY gave metal it's look",
+      "url": "https://www.truegrittexturesupply.com/blogs/news/destroy-after-reading",
+      "score": 11,
+      "comments": 2,
+      "author": "pigeons",
+      "tags": [],
+      "date": "2026-09-14T17:24:19+00:00"
     },
     {
       "id": "hn-49700477",
@@ -2028,8 +2116,8 @@
       "source": "hn",
       "title": "Anecdotally, programmers dislike \"reduce\"",
       "url": "https://evanhahn.com/posts/2026-09-13-programmers-dislike-reduce/",
-      "score": 43,
-      "comments": 78,
+      "score": 77,
+      "comments": 134,
       "author": "vinhnx",
       "tags": [],
       "date": "2026-09-14T06:46:26+00:00"
@@ -3092,8 +3180,8 @@
       "source": "hn",
       "title": "Japan's book scene is moving from bookstores to libraries",
       "url": "https://untranslatedjp.substack.com/p/japans-book-scene-is-quietly-moving",
-      "score": 42,
-      "comments": 6,
+      "score": 85,
+      "comments": 30,
       "author": "herbertl",
       "tags": [],
       "date": "2026-09-12T22:35:25+00:00"
@@ -3250,8 +3338,8 @@
       "source": "hn",
       "title": "Reversing Factorio's RNG",
       "url": "https://gegell.github.io/posts/factorio-rng/",
-      "score": 66,
-      "comments": 8,
+      "score": 127,
+      "comments": 13,
       "author": "jheitmann",
       "tags": [],
       "date": "2026-09-12T17:02:19+00:00"
@@ -5098,275 +5186,6 @@
       "date": "2026-09-10T13:07:14+00:00"
     },
     {
-      "id": "hn-49643059",
-      "source": "hn",
-      "title": "Bad Code Is Kudzu",
-      "url": "https://vickiboykis.com/2026/09/01/bad-code-is-kudzu/",
-      "score": 32,
-      "comments": 11,
-      "author": "surprisetalk",
-      "tags": [],
-      "date": "2026-09-10T13:02:59+00:00"
-    },
-    {
-      "id": "hn-49643027",
-      "source": "hn",
-      "title": "Who People Talk to When They're Struggling",
-      "url": "https://www.graphsaboutreligion.com/p/who-do-you-talk-to-when-youre-struggling",
-      "score": 20,
-      "comments": 9,
-      "author": "toomuchtodo",
-      "tags": [],
-      "date": "2026-09-10T13:00:08+00:00"
-    },
-    {
-      "id": "hn-49643011",
-      "source": "hn",
-      "title": "Designing for Dual Screen and Foldable Devices with CSS (2023)",
-      "url": "https://blog.stephaniestimac.com/posts/2023/05/design-foldable-devices/",
-      "score": 48,
-      "comments": 11,
-      "author": "mooreds",
-      "tags": [],
-      "date": "2026-09-10T12:59:26+00:00"
-    },
-    {
-      "id": "qiita-af91704984",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "AIエージェントにファイルを消される・課金が止まらない・秘密鍵が漏れる｜暴走の原理と4層の対策を調べてみた",
-      "url": "https://qiita.com/songchong/items/252947681e7914cd9e2c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "songchong",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-09-10T21:58:50+09:00"
-    },
-    {
-      "id": "qiita-88a41f888e",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "ハーネスの次に来るもの ― Causal ReasoningでAIエージェントはどう変わるか？",
-      "url": "https://qiita.com/ryosuke_ohori/items/f8eaad0ddba954e2ebb6?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "ryosuke_ohori",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-09-10T21:56:10+09:00"
-    },
-    {
-      "id": "qiita-22251978db",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "Geminiを開くたびに「3.8 Flash 思考モード」を選び直すのが面倒すぎたので、自動で切り替わるスクリプトを作った",
-      "url": "https://qiita.com/xeje/items/029d10934e6246a23e17?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "xeje",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-09-10T21:38:43+09:00"
-    },
-    {
-      "id": "hn-49642645",
-      "source": "hn",
-      "title": "Julia 1.13 highlights",
-      "url": "https://julialang.org/blog/2026/09/julia-1.13-highlights/",
-      "score": 234,
-      "comments": 25,
-      "author": "eigenspace",
-      "tags": [],
-      "date": "2026-09-10T12:27:25+00:00"
-    },
-    {
-      "id": "hn-49642531",
-      "source": "hn",
-      "title": "List of references on Sony websites to players \"owning\" their digital games",
-      "url": "https://consumerrights.wiki/w/Sony_PlayStation_digital_game_ownership_lawsuit",
-      "score": 300,
-      "comments": 98,
-      "author": "haunter",
-      "tags": [],
-      "date": "2026-09-10T12:18:06+00:00"
-    },
-    {
-      "id": "hn-49642396",
-      "source": "hn",
-      "title": "SystemIO conflicts are not firmware bugs",
-      "url": "https://codon.org.uk/~mjg59/blog/p/systemio-conflicts-are-not-firmware-bugs/",
-      "score": 19,
-      "comments": 2,
-      "author": "haeseong",
-      "tags": [],
-      "date": "2026-09-10T12:07:11+00:00"
-    },
-    {
-      "id": "qiita-936c6dfb78",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "3匹のAIエージェントだけで、Webアプリを企画〜本番デプロイまで作った話（人間はほぼ指示しただけ）",
-      "url": "https://qiita.com/chiitata/items/2c2ad3d8d7398b89aee8?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "chiitata",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-09-10T20:55:32+09:00"
-    },
-    {
-      "id": "qiita-fbd424fb71",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "パスキーでも被害に遭うデバイスコードフロー攻撃とは？ ～ Entra ID での防御と検証方法を解説",
-      "url": "https://qiita.com/carol0226/items/c9cccdd64e71a731a58d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "carol0226",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-09-10T19:48:41+09:00"
-    },
-    {
-      "id": "hn-49641401",
-      "source": "hn",
-      "title": "Thanks to Siri Recaps, your Apple Watch is always listening",
-      "url": "https://www.techradar.com/health-fitness/smartwatches/thanks-to-siri-recaps-your-apple-watch-is-always-listening-as-you-go-about-your-day-but-apple-may-be-risking-a-meta-glasses-style-backlash",
-      "score": 99,
-      "comments": 65,
-      "author": "geox",
-      "tags": [],
-      "date": "2026-09-10T10:36:00+00:00"
-    },
-    {
-      "id": "hn-49641215",
-      "source": "hn",
-      "title": "Show HN: The same nine streaming subscriptions cost $702/year more than in 2021",
-      "url": "https://honestlyranked.com/guides/streaming-price-increases/",
-      "score": 275,
-      "comments": 237,
-      "author": "honestlyranked",
-      "tags": [],
-      "date": "2026-09-10T10:13:59+00:00"
-    },
-    {
-      "id": "hn-49640741",
-      "source": "hn",
-      "title": "Hepburn Romanization: How to Read Japanese in the Latin Alphabet",
-      "url": "https://www.fink-translate.com/blog/hepburn-romanization.html",
-      "score": 18,
-      "comments": 12,
-      "author": "miuraboy",
-      "tags": [],
-      "date": "2026-09-10T09:13:48+00:00"
-    },
-    {
-      "id": "hn-49640729",
-      "source": "hn",
-      "title": "Finding Slow Code with Wrapture",
-      "url": "https://grahamdumpleton.me/posts/2026/09/finding-slow-code-with-wrapture/",
-      "score": 9,
-      "comments": 3,
-      "author": "lumpa",
-      "tags": [],
-      "date": "2026-09-10T09:12:22+00:00"
-    },
-    {
-      "id": "qiita-ca0796075a",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "Power Automateクラウドフロー入門｜ロジック設計(1) Apply to each の遅さを体感する",
-      "url": "https://qiita.com/kaiinaba/items/d00e720ccb2b4fdb9aec?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "kaiinaba",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-09-10T17:35:20+09:00"
-    },
-    {
-      "id": "qiita-bd927ba1de",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "GitOpsのマルチクラスタ運用にRancher Fleetを選ぶ理由｜Argo CD比較とAI時代の設計",
-      "url": "https://qiita.com/dev-hasegawa/items/d4ca857a4976f5db9357?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "dev-hasegawa",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-09-10T16:44:50+09:00"
-    },
-    {
-      "id": "hn-49639647",
-      "source": "hn",
-      "title": "IKEA made a mod for Skyrim [video]",
-      "url": "https://www.youtube.com/watch?v=iZODN0QUgjI",
-      "score": 544,
-      "comments": 145,
-      "author": "kegenaar",
-      "tags": [],
-      "date": "2026-09-10T07:20:50+00:00"
-    },
-    {
-      "id": "qiita-e2fe3891fd",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "なぜ配列の1番目は「0」なのか？ プログラマーなら一度は疑問に思う話",
-      "url": "https://qiita.com/nolanlover0527/items/62ec43fbe3b4da83795d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "nolanlover0527",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-09-10T16:09:10+09:00"
-    },
-    {
-      "id": "hn-49639408",
-      "source": "hn",
-      "title": "More questions about whether researchers can trust OpenAI with unpublished math",
-      "url": "https://mathstodon.xyz/@andreasthom/117240535270608201",
-      "score": 840,
-      "comments": 784,
-      "author": "pred_",
-      "tags": [],
-      "date": "2026-09-10T06:49:43+00:00"
-    },
-    {
-      "id": "hn-49639104",
-      "source": "hn",
-      "title": "I think I hate the internet",
-      "url": "https://strategictree.bearblog.dev/i-think-i-hate-the-internet/",
-      "score": 26,
-      "comments": 12,
-      "author": "saikatsg",
-      "tags": [],
-      "date": "2026-09-10T06:12:23+00:00"
-    },
-    {
-      "id": "hn-49639090",
-      "source": "hn",
-      "title": "DeepSeek v4.1 Flash",
-      "url": "https://twitter.com/deepseek_ai/status/2097930608790167907",
-      "score": 878,
-      "comments": 495,
-      "author": "Liwink",
-      "tags": [],
-      "date": "2026-09-10T06:11:05+00:00"
-    },
-    {
-      "id": "hn-49638555",
-      "source": "hn",
-      "title": "Trying to Make a Loop Auto-Vectorize",
-      "url": "https://jsgroth.dev/blog/posts/trying-to-make-a-loop-auto-vectorize/",
-      "score": 21,
-      "comments": 7,
-      "author": "zdw",
-      "tags": [],
-      "date": "2026-09-10T04:50:25+00:00"
-    },
-    {
       "id": "ctf-4372374",
       "source": "project",
       "proj_category": "CTF",
@@ -5836,6 +5655,231 @@
         "Zenn"
       ],
       "date": "Sun, 13 Sep 2026 23:30:05 GMT"
+    },
+    {
+      "id": "edb-539c995398",
+      "source": "msf",
+      "title": "[remote] CVE-2026-80428 Unauthenticated PHP Object Injection via Shibboleth - ILIAS < 9.22, 10.0 < 10.10, 11.0 < 11.3 - RCE",
+      "url": "https://www.exploit-db.com/exploits/52682",
+      "score": null,
+      "author": "Exploit-DB",
+      "tags": [
+        "Exploit-DB",
+        "CVE",
+        "PoC"
+      ],
+      "severity": "high",
+      "date": "Fri, 11 Sep 2026 00:00:00 +0000"
+    },
+    {
+      "id": "edb-f594139f85",
+      "source": "msf",
+      "title": "[webapps] FreePBX  17.0.2 - Remote Code Execution (RCE)",
+      "url": "https://www.exploit-db.com/exploits/52681",
+      "score": null,
+      "author": "Exploit-DB",
+      "tags": [
+        "Exploit-DB",
+        "CVE",
+        "PoC"
+      ],
+      "severity": "high",
+      "date": "Thu, 03 Sep 2026 00:00:00 +0000"
+    },
+    {
+      "id": "edb-234928d7e3",
+      "source": "msf",
+      "title": "[webapps] Metabase 0.61.0  - Authenticated Remote Code Execution",
+      "url": "https://www.exploit-db.com/exploits/52680",
+      "score": null,
+      "author": "Exploit-DB",
+      "tags": [
+        "Exploit-DB",
+        "CVE",
+        "PoC"
+      ],
+      "severity": "high",
+      "date": "Thu, 03 Sep 2026 00:00:00 +0000"
+    },
+    {
+      "id": "edb-515d49a8f8",
+      "source": "msf",
+      "title": "[dos] EVerest 2025.9.0 - DoS",
+      "url": "https://www.exploit-db.com/exploits/52679",
+      "score": null,
+      "author": "Exploit-DB",
+      "tags": [
+        "Exploit-DB",
+        "CVE",
+        "PoC"
+      ],
+      "severity": "high",
+      "date": "Wed, 02 Sep 2026 00:00:00 +0000"
+    },
+    {
+      "id": "edb-cf7b96531f",
+      "source": "msf",
+      "title": "[webapps] Bludit CMS  3.20.0 - Reflected Cross-Site Scripting",
+      "url": "https://www.exploit-db.com/exploits/52678",
+      "score": null,
+      "author": "Exploit-DB",
+      "tags": [
+        "Exploit-DB",
+        "CVE",
+        "PoC"
+      ],
+      "severity": "high",
+      "date": "Wed, 02 Sep 2026 00:00:00 +0000"
+    },
+    {
+      "id": "edb-201f4261c9",
+      "source": "msf",
+      "title": "[webapps] PodcastGenerator 3.2.9 - Stored XSS",
+      "url": "https://www.exploit-db.com/exploits/52677",
+      "score": null,
+      "author": "Exploit-DB",
+      "tags": [
+        "Exploit-DB",
+        "CVE",
+        "PoC"
+      ],
+      "severity": "high",
+      "date": "Wed, 02 Sep 2026 00:00:00 +0000"
+    },
+    {
+      "id": "edb-a6fdc08233",
+      "source": "msf",
+      "title": "[webapps] Ghost_CMS 6.19.0  - Remote Code Execution",
+      "url": "https://www.exploit-db.com/exploits/52676",
+      "score": null,
+      "author": "Exploit-DB",
+      "tags": [
+        "Exploit-DB",
+        "CVE",
+        "PoC"
+      ],
+      "severity": "high",
+      "date": "Wed, 02 Sep 2026 00:00:00 +0000"
+    },
+    {
+      "id": "edb-2541ac7487",
+      "source": "msf",
+      "title": "[webapps] Langflow 1.10.0 - RCE",
+      "url": "https://www.exploit-db.com/exploits/52675",
+      "score": null,
+      "author": "Exploit-DB",
+      "tags": [
+        "Exploit-DB",
+        "CVE",
+        "PoC"
+      ],
+      "severity": "high",
+      "date": "Wed, 02 Sep 2026 00:00:00 +0000"
+    },
+    {
+      "id": "edb-a4f27e5482",
+      "source": "msf",
+      "title": "[hardware] Fullhan FH8626V100 - Multiple Vulnerabilities",
+      "url": "https://www.exploit-db.com/exploits/52674",
+      "score": null,
+      "author": "Exploit-DB",
+      "tags": [
+        "Exploit-DB",
+        "CVE",
+        "PoC"
+      ],
+      "severity": "high",
+      "date": "Wed, 02 Sep 2026 00:00:00 +0000"
+    },
+    {
+      "id": "edb-3374a3112d",
+      "source": "msf",
+      "title": "[webapps] Marimo  0.20.4 - RCE",
+      "url": "https://www.exploit-db.com/exploits/52673",
+      "score": null,
+      "author": "Exploit-DB",
+      "tags": [
+        "Exploit-DB",
+        "CVE",
+        "PoC"
+      ],
+      "severity": "high",
+      "date": "Wed, 02 Sep 2026 00:00:00 +0000"
+    },
+    {
+      "id": "edb-63a987ae5d",
+      "source": "msf",
+      "title": "[webapps] Wolf CMS 0.8.3.1 - RCE v",
+      "url": "https://www.exploit-db.com/exploits/52672",
+      "score": null,
+      "author": "Exploit-DB",
+      "tags": [
+        "Exploit-DB",
+        "CVE",
+        "PoC"
+      ],
+      "severity": "high",
+      "date": "Tue, 01 Sep 2026 00:00:00 +0000"
+    },
+    {
+      "id": "edb-dc15b48744",
+      "source": "msf",
+      "title": "[webapps] Payload CMS 3.72.0 - Blind SQL Injection",
+      "url": "https://www.exploit-db.com/exploits/52671",
+      "score": null,
+      "author": "Exploit-DB",
+      "tags": [
+        "Exploit-DB",
+        "CVE",
+        "PoC"
+      ],
+      "severity": "high",
+      "date": "Tue, 01 Sep 2026 00:00:00 +0000"
+    },
+    {
+      "id": "edb-c87655d456",
+      "source": "msf",
+      "title": "[webapps] Bludit CMS - Stored XSS",
+      "url": "https://www.exploit-db.com/exploits/52670",
+      "score": null,
+      "author": "Exploit-DB",
+      "tags": [
+        "Exploit-DB",
+        "CVE",
+        "PoC"
+      ],
+      "severity": "high",
+      "date": "Tue, 01 Sep 2026 00:00:00 +0000"
+    },
+    {
+      "id": "edb-3c1eafc9d6",
+      "source": "msf",
+      "title": "[webapps] Grav CMS 2.0.7 - RCE",
+      "url": "https://www.exploit-db.com/exploits/52669",
+      "score": null,
+      "author": "Exploit-DB",
+      "tags": [
+        "Exploit-DB",
+        "CVE",
+        "PoC"
+      ],
+      "severity": "high",
+      "date": "Tue, 01 Sep 2026 00:00:00 +0000"
+    },
+    {
+      "id": "edb-a5e87b96d1",
+      "source": "msf",
+      "title": "[webapps] miniOrange  5.4.3 - Unauthenticated Auth Bypass",
+      "url": "https://www.exploit-db.com/exploits/52668",
+      "score": null,
+      "author": "Exploit-DB",
+      "tags": [
+        "Exploit-DB",
+        "CVE",
+        "PoC"
+      ],
+      "severity": "high",
+      "date": "Tue, 01 Sep 2026 00:00:00 +0000"
     }
   ]
 }

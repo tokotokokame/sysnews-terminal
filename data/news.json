@@ -1,14 +1,95 @@
 {
-  "updated_at": "2026-09-17T10:16:31.477931+00:00",
+  "updated_at": "2026-09-17T15:11:06.439032+00:00",
   "count": 500,
   "items": [
+    {
+      "id": "qiita-b119133f4c",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "JVMCIはなぜ消えた？JDK 27での削除経緯とGraalVM/TornadoVMのゆくえ",
+      "url": "https://qiita.com/tabatad/items/1f6b52f50a5bf923de6c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "tabatad",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-09-17T23:44:34+09:00"
+    },
+    {
+      "id": "hn-49740834",
+      "source": "hn",
+      "title": "I Don't Like LLMs",
+      "url": "https://martinfowler.com/articles/2026-dont-like-llms.html",
+      "score": 36,
+      "comments": 15,
+      "author": "TangerineDream",
+      "tags": [],
+      "date": "2026-09-17T13:57:07+00:00"
+    },
+    {
+      "id": "hn-49740330",
+      "source": "hn",
+      "title": "I had Gemini train its own replacement for $9",
+      "url": "https://www.petervijeh.com/projects/reddit-ner",
+      "score": 64,
+      "comments": 21,
+      "author": "p-s-v",
+      "tags": [],
+      "date": "2026-09-17T13:17:16+00:00"
+    },
+    {
+      "id": "hn-49740105",
+      "source": "hn",
+      "title": "Show HN: Share your AI Setup, Learn from others",
+      "url": "https://mysetup.ai/",
+      "score": 16,
+      "comments": 6,
+      "author": "steveybrown",
+      "tags": [],
+      "date": "2026-09-17T13:01:44+00:00"
+    },
+    {
+      "id": "hn-49740047",
+      "source": "hn",
+      "title": "Show HN: I built a new version of my fun spatial 3D online meeting app",
+      "url": "https://flat.social",
+      "score": 60,
+      "comments": 36,
+      "author": "pawelwentpawel",
+      "tags": [],
+      "date": "2026-09-17T12:57:09+00:00"
+    },
+    {
+      "id": "qiita-023904f6f6",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "新言語「Hike」をシステムに採用したらバイナリ99.8%削減・ネットワークも実働処理も爆速になった話",
+      "url": "https://qiita.com/kinop3/items/fdb57313458c2aa1bcdc?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "kinop3",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-09-17T20:59:06+09:00"
+    },
+    {
+      "id": "hn-49738766",
+      "source": "hn",
+      "title": "Better Vector Search for Long Documents: Chunking Inside Manticore Search",
+      "url": "https://manticoresearch.com/blog/auto-chunking/",
+      "score": 53,
+      "comments": 9,
+      "author": "GloriaVinogrado",
+      "tags": [],
+      "date": "2026-09-17T10:30:52+00:00"
+    },
     {
       "id": "hn-49737922",
       "source": "hn",
       "title": "GLM Built Its Own Inference Infrastructure",
       "url": "https://z.ai/blog/glm-built-its-inference-infrastructure",
-      "score": 31,
-      "comments": 3,
+      "score": 209,
+      "comments": 160,
       "author": "whiteros_e",
       "tags": [],
       "date": "2026-09-17T08:27:09+00:00"
@@ -18,11 +99,22 @@
       "source": "hn",
       "title": "One Year of Sponsored Servo Development",
       "url": "https://servo.org/blog/2026/09/15/one-year-of-sponsorship/",
-      "score": 75,
-      "comments": 29,
+      "score": 243,
+      "comments": 109,
       "author": "AshleysBrain",
       "tags": [],
       "date": "2026-09-17T08:13:54+00:00"
+    },
+    {
+      "id": "hn-49737787",
+      "source": "hn",
+      "title": "CCC invites all model citizens to 40C3",
+      "url": "https://events.ccc.de/en/2026/09/12/40c3-model-citizens/",
+      "score": 153,
+      "comments": 39,
+      "author": "antonly",
+      "tags": [],
+      "date": "2026-09-17T08:03:54+00:00"
     },
     {
       "id": "hn-49737503",
@@ -40,8 +132,8 @@
       "source": "hn",
       "title": "Cloudflare/Security-Audit-Skill",
       "url": "https://github.com/cloudflare/security-audit-skill",
-      "score": 63,
-      "comments": 12,
+      "score": 146,
+      "comments": 25,
       "author": "donk8r",
       "tags": [],
       "date": "2026-09-17T04:36:55+00:00"
@@ -51,8 +143,8 @@
       "source": "hn",
       "title": "Keys Not Included: recovering the signing keys for US driver's license barcodes",
       "url": "https://ryan.science/blog/keys-not-included",
-      "score": 173,
-      "comments": 65,
+      "score": 236,
+      "comments": 100,
       "author": "Ryan5453",
       "tags": [],
       "date": "2026-09-17T03:03:23+00:00"
@@ -180,8 +272,8 @@
       "source": "hn",
       "title": "Breaking the 1.58-bit Barrier for Ternary LLMs",
       "url": "https://arxiv.org/abs/2609.16338",
-      "score": 206,
-      "comments": 32,
+      "score": 225,
+      "comments": 36,
       "author": "matt_d",
       "tags": [],
       "date": "2026-09-16T20:59:24+00:00"
@@ -191,8 +283,8 @@
       "source": "hn",
       "title": "Backups Aren't Simple",
       "url": "https://filipovski.net/2026/09/16/backups-arent-simple.html",
-      "score": 240,
-      "comments": 145,
+      "score": 299,
+      "comments": 182,
       "author": "afilipovski",
       "tags": [],
       "date": "2026-09-16T20:27:16+00:00"
@@ -202,8 +294,8 @@
       "source": "hn",
       "title": "Xiaomi Mimo 2.6 live post-training dashboard",
       "url": "https://mimo.xiaomi.com/rl/",
-      "score": 436,
-      "comments": 114,
+      "score": 503,
+      "comments": 140,
       "author": "krackers",
       "tags": [],
       "date": "2026-09-16T20:09:18+00:00"
@@ -257,8 +349,8 @@
       "source": "hn",
       "title": "Training a 4B model to produce 81% faster query plans than Postgres",
       "url": "https://rohanbansal.com/qorl",
-      "score": 555,
-      "comments": 118,
+      "score": 631,
+      "comments": 128,
       "author": "polyphilz",
       "tags": [],
       "date": "2026-09-16T18:50:00+00:00"
@@ -334,8 +426,8 @@
       "source": "hn",
       "title": "Small programming tricks",
       "url": "https://will-keleher.com/posts/small-programming-tricks-matter/",
-      "score": 525,
-      "comments": 236,
+      "score": 604,
+      "comments": 266,
       "author": "signa11",
       "tags": [],
       "date": "2026-09-16T15:56:47+00:00"
@@ -529,19 +621,6 @@
       "date": "2026-09-16T20:45:46+09:00"
     },
     {
-      "id": "qiita-023904f6f6",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "新言語「Hike」をシステムに採用したらバイナリ99.8%削減・ネットワークも実働処理も爆速になった話",
-      "url": "https://qiita.com/kinop3/items/fdb57313458c2aa1bcdc?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "kinop3",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-09-16T20:24:09+09:00"
-    },
-    {
       "id": "hn-49724927",
       "source": "hn",
       "title": "The Google Play app review process now regularly takes longer than a week",
@@ -557,8 +636,8 @@
       "source": "hn",
       "title": "Nvidia announces native GPU programming in Rust",
       "url": "https://developer.nvidia.com/blog/introducing-cuda-rust-two-tracks-for-writing-gpu-kernels/",
-      "score": 700,
-      "comments": 276,
+      "score": 848,
+      "comments": 337,
       "author": "nonmaskable",
       "tags": [],
       "date": "2026-09-16T11:15:53+00:00"
@@ -574,19 +653,6 @@
       "tags": [],
       "date": "2026-09-16T10:37:08+00:00",
       "severity": "critical"
-    },
-    {
-      "id": "qiita-b119133f4c",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "JVMCIはなぜ消えた？JDK 27での削除経緯とGraalVM/TornadoVMのゆくえ",
-      "url": "https://qiita.com/tabatad/items/1f6b52f50a5bf923de6c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "tabatad",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-09-16T19:02:51+09:00"
     },
     {
       "id": "hn-49723873",
@@ -857,8 +923,8 @@
       "source": "hn",
       "title": "Lucasart's Afterlife",
       "url": "https://togameforlife.wordpress.com/2023/12/09/on-lucasarts-afterlife/",
-      "score": 19,
-      "comments": 13,
+      "score": 71,
+      "comments": 32,
       "author": "Bondi_Blue",
       "tags": [],
       "date": "2026-09-15T22:30:30+00:00"
@@ -902,8 +968,8 @@
       "source": "hn",
       "title": "My temporary PHP fix from 2014 has nearly 20M installs. Today I'm deprecating it",
       "url": "https://jakeasmith.com/blog/http-build-url/",
-      "score": 109,
-      "comments": 19,
+      "score": 235,
+      "comments": 60,
       "author": "jakeasmith",
       "tags": [],
       "date": "2026-09-15T20:53:36+00:00"
@@ -1055,6 +1121,17 @@
       "date": "2026-09-15T17:37:12+00:00"
     },
     {
+      "id": "hn-49715813",
+      "source": "hn",
+      "title": "Fujitsu launches made-in-Japan next-generation CPU FUJITSU-MONAKA",
+      "url": "https://global.fujitsu/en-global/pr/news/2026/09/14-02",
+      "score": 153,
+      "comments": 50,
+      "author": "my123",
+      "tags": [],
+      "date": "2026-09-15T17:28:38+00:00"
+    },
+    {
       "id": "qiita-9763490fb1",
       "source": "zennqiita",
       "sub_source": "Qiita",
@@ -1094,8 +1171,8 @@
       "source": "hn",
       "title": "Comparison of Malloc() Algorithms",
       "url": "https://egbert.net/blog/articles/comparison-of-arena-architecture-in-malloc.html",
-      "score": 75,
-      "comments": 10,
+      "score": 105,
+      "comments": 29,
       "author": "egberts1",
       "tags": [],
       "date": "2026-09-15T16:52:25+00:00"
@@ -1167,6 +1244,17 @@
         "Qiita"
       ],
       "date": "2026-09-16T00:03:16+09:00"
+    },
+    {
+      "id": "hn-49713347",
+      "source": "hn",
+      "title": "Online Z3 Guide",
+      "url": "https://microsoft.github.io/z3guide/",
+      "score": 40,
+      "comments": 9,
+      "author": "Bluestein",
+      "tags": [],
+      "date": "2026-09-15T14:45:08+00:00"
     },
     {
       "id": "hn-49713262",
@@ -1294,8 +1382,8 @@
       "source": "hn",
       "title": "Show HN: An e-ink frame that hears birds and draws them as 1800s illustrations",
       "url": "https://github.com/arnegiacomo/fugleramme",
-      "score": 2164,
-      "comments": 243,
+      "score": 2226,
+      "comments": 246,
       "author": "arnemunthekaas",
       "tags": [],
       "date": "2026-09-15T12:31:10+00:00"
@@ -1854,8 +1942,8 @@
       "source": "hn",
       "title": "Developing provably correct Rust code with Verus",
       "url": "https://www.amazon.science/blog/developing-provably-correct-rust-code-with-verus",
-      "score": 115,
-      "comments": 18,
+      "score": 140,
+      "comments": 37,
       "author": "Betelbuddy",
       "tags": [],
       "date": "2026-09-14T16:57:50+00:00"
@@ -1894,6 +1982,17 @@
       "author": "Betelbuddy",
       "tags": [],
       "date": "2026-09-14T16:32:23+00:00"
+    },
+    {
+      "id": "hn-49699611",
+      "source": "hn",
+      "title": "Sixteen Locks Ought to Be Enough for Anybody",
+      "url": "https://thebuild.com/blog/sixteen-locks-ought-to-be-enough-for-anybody/",
+      "score": 11,
+      "comments": 2,
+      "author": "speckx",
+      "tags": [],
+      "date": "2026-09-14T16:30:50+00:00"
     },
     {
       "id": "hn-49699590",
@@ -2999,10 +3098,10 @@
     {
       "id": "hn-49685835",
       "source": "hn",
-      "title": "The Relation Between Mathematics and Physics by Paul Dirac",
+      "title": "The Relation Between Mathematics and Physics by Paul Dirac (1939)",
       "url": "https://www.damtp.cam.ac.uk/events/strings02/dirac/speach.html",
-      "score": 52,
-      "comments": 17,
+      "score": 117,
+      "comments": 33,
       "author": "rramadass",
       "tags": [],
       "date": "2026-09-13T16:38:22+00:00"
@@ -5093,106 +5192,6 @@
       "author": "ibobev",
       "tags": [],
       "date": "2026-09-10T21:22:59+00:00"
-    },
-    {
-      "id": "hn-49649864",
-      "source": "hn",
-      "title": "From Git to Fossil",
-      "url": "https://lucio.albenga.es/web-en/posts/2025/from-git-to-fossil.html",
-      "score": 7,
-      "comments": 3,
-      "author": "smartmic",
-      "tags": [],
-      "date": "2026-09-10T20:39:03+00:00"
-    },
-    {
-      "id": "hn-49649789",
-      "source": "hn",
-      "title": "Show HN: Bodily Oddities",
-      "url": "https://vester.si/bodily-oddities/",
-      "score": 290,
-      "comments": 183,
-      "author": "vesterde",
-      "tags": [],
-      "date": "2026-09-10T20:33:11+00:00"
-    },
-    {
-      "id": "hn-49649222",
-      "source": "hn",
-      "title": "Proof of Capture: Apple Reference Image, but open source and using steganography",
-      "url": "https://merybenavente.me/blog/proof-of-capture",
-      "score": 113,
-      "comments": 62,
-      "author": "merybenavente",
-      "tags": [],
-      "date": "2026-09-10T19:44:15+00:00",
-      "severity": "critical"
-    },
-    {
-      "id": "hn-49649213",
-      "source": "hn",
-      "title": "OpenAI Agents API",
-      "url": "https://developers.openai.com/api/docs/guides/agents-api/overview",
-      "score": 306,
-      "comments": 164,
-      "author": "aquir",
-      "tags": [],
-      "date": "2026-09-10T19:43:22+00:00"
-    },
-    {
-      "id": "hn-49649164",
-      "source": "hn",
-      "title": "The GDR and Vietnam: From Fake Coffee to Coffee Empire",
-      "url": "https://www.katjahoyer.uk/p/the-gdr-and-vietnam-from-fake-coffee",
-      "score": 86,
-      "comments": 41,
-      "author": "NaOH",
-      "tags": [],
-      "date": "2026-09-10T19:39:13+00:00"
-    },
-    {
-      "id": "hn-49649124",
-      "source": "hn",
-      "title": "The Deathray: A simple way for an untrusted site to freeze a Mac",
-      "url": "https://auberon.xyz/blog/posts/deathray/",
-      "score": 242,
-      "comments": 161,
-      "author": "auberonedu",
-      "tags": [],
-      "date": "2026-09-10T19:34:20+00:00"
-    },
-    {
-      "id": "hn-49648732",
-      "source": "hn",
-      "title": "Genuine Creativity Is Your New Moat (2026)",
-      "url": "https://www.inventbuild.studio/blog/genuine-creativity-is-your-new-moat",
-      "score": 47,
-      "comments": 27,
-      "author": "virgil_disgr4ce",
-      "tags": [],
-      "date": "2026-09-10T19:03:34+00:00"
-    },
-    {
-      "id": "hn-49647860",
-      "source": "hn",
-      "title": "The Magic Behind Cubacadabra",
-      "url": "https://andrewarrow.dev/2026/moon/2/day/19/the-magic-behind-cubacadabra/",
-      "score": 6,
-      "comments": 1,
-      "author": "andrewfromx",
-      "tags": [],
-      "date": "2026-09-10T18:01:47+00:00"
-    },
-    {
-      "id": "hn-49647404",
-      "source": "hn",
-      "title": "JEP 544: Ahead-of-Time Code Compilation",
-      "url": "https://openjdk.org/jeps/544",
-      "score": 71,
-      "comments": 24,
-      "author": "Skinney",
-      "tags": [],
-      "date": "2026-09-10T17:30:39+00:00"
     },
     {
       "id": "ctf-4372374",

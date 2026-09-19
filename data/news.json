@@ -1,14 +1,72 @@
 {
-  "updated_at": "2026-09-19T11:25:11.699163+00:00",
+  "updated_at": "2026-09-19T14:39:26.691845+00:00",
   "count": 500,
   "items": [
+    {
+      "id": "hn-49766676",
+      "source": "hn",
+      "title": "A graphical desktop for the ZX Spectrum",
+      "url": "https://github.com/mindbox77/zxdesk",
+      "score": 8,
+      "comments": 2,
+      "author": "graemep",
+      "tags": [],
+      "date": "2026-09-19T14:01:58+00:00"
+    },
+    {
+      "id": "hn-49766637",
+      "source": "hn",
+      "title": "What Zig felt like, coming from Rust",
+      "url": "https://besok.github.io/posts/what-zig-felt-like-coming-from-rust/",
+      "score": 20,
+      "comments": 3,
+      "author": "ksec",
+      "tags": [],
+      "date": "2026-09-19T13:55:18+00:00"
+    },
+    {
+      "id": "qiita-7873e293ba",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "Jevってなんだ？ — 文章を書かないAIに、LLMのif文判定を任せられるか",
+      "url": "https://qiita.com/GeneLab_999/items/116aa006fbf93b68d791?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "GeneLab_999",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-09-19T22:53:39+09:00"
+    },
+    {
+      "id": "hn-49766611",
+      "source": "hn",
+      "title": "Tin: full-text search for Postgres",
+      "url": "https://planetscale.com/blog/introducing-tin",
+      "score": 16,
+      "comments": 3,
+      "author": "ksec",
+      "tags": [],
+      "date": "2026-09-19T13:52:06+00:00"
+    },
+    {
+      "id": "hn-49765348",
+      "source": "hn",
+      "title": "Laya the open source version of Jev",
+      "url": "https://laya.convaiinnovations.com/",
+      "score": 298,
+      "comments": 51,
+      "author": "nandakishor_ml",
+      "tags": [],
+      "date": "2026-09-19T10:46:58+00:00",
+      "severity": "critical"
+    },
     {
       "id": "hn-49764791",
       "source": "hn",
       "title": "AI-generated posters don’t have to be horrible",
       "url": "https://john.hartnup.uk/2026/06/07/ai-event-posters.html",
-      "score": 188,
-      "comments": 125,
+      "score": 542,
+      "comments": 334,
       "author": "ereiamjh",
       "tags": [],
       "date": "2026-09-19T09:20:58+00:00"
@@ -18,8 +76,8 @@
       "source": "hn",
       "title": "GPT-6 Astra Solves a WWI German Radio Cipher",
       "url": "https://www.prinzai.com/p/gpt-6-astra-solves-a-wwi-german-radio",
-      "score": 137,
-      "comments": 69,
+      "score": 206,
+      "comments": 117,
       "author": "nsoonhui",
       "tags": [],
       "date": "2026-09-19T06:41:44+00:00"
@@ -29,8 +87,8 @@
       "source": "hn",
       "title": "If math is more than proof, we need to better celebrate the rest of it",
       "url": "https://terrytao.wordpress.com/2026/09/18/if-math-is-more-than-proof-we-need-to-better-celebrate-the-rest-of-it/",
-      "score": 121,
-      "comments": 90,
+      "score": 194,
+      "comments": 154,
       "author": "num42",
       "tags": [],
       "date": "2026-09-19T06:28:02+00:00"
@@ -51,8 +109,8 @@
       "source": "hn",
       "title": "Human brain is two separate organs, Stanford Medicine-led research finds",
       "url": "https://med.stanford.edu/news/all-news/2026/09/two-separate-brains.html",
-      "score": 273,
-      "comments": 107,
+      "score": 412,
+      "comments": 156,
       "author": "emigre",
       "tags": [],
       "date": "2026-09-19T05:48:50+00:00"
@@ -62,8 +120,8 @@
       "source": "hn",
       "title": "NASA-IBM Lunar Foundation open-Source Geospatial AI Model",
       "url": "https://newsroom.usra.edu/usra-contributes-planetary-science-expertise-to-nasa-ibm-lunar-foundation-model/",
-      "score": 30,
-      "comments": 3,
+      "score": 46,
+      "comments": 5,
       "author": "noobplus",
       "tags": [],
       "date": "2026-09-19T04:44:35+00:00",
@@ -74,8 +132,8 @@
       "source": "hn",
       "title": "San Francisco Onion Futures Company",
       "url": "https://onionfutures.com/",
-      "score": 207,
-      "comments": 73,
+      "score": 258,
+      "comments": 91,
       "author": "z-mach9",
       "tags": [],
       "date": "2026-09-19T04:23:30+00:00"
@@ -85,8 +143,8 @@
       "source": "hn",
       "title": "SDCC – Small Device C Compiler",
       "url": "https://sdcc.sourceforge.net/",
-      "score": 92,
-      "comments": 20,
+      "score": 104,
+      "comments": 21,
       "author": "lioeters",
       "tags": [],
       "date": "2026-09-19T02:32:36+00:00"
@@ -96,8 +154,8 @@
       "source": "hn",
       "title": "Science Is Open Software",
       "url": "https://jepedersen.dk/blog/202505_research/",
-      "score": 100,
-      "comments": 40,
+      "score": 119,
+      "comments": 46,
       "author": "jegp",
       "tags": [],
       "date": "2026-09-19T02:21:35+00:00"
@@ -157,8 +215,8 @@
       "source": "hn",
       "title": "How OpenAI Used Its Own LLMs to Design Its Jalapeño Chip",
       "url": "https://spectrum.ieee.org/llms-for-chip-design",
-      "score": 131,
-      "comments": 92,
+      "score": 161,
+      "comments": 111,
       "author": "maxall4",
       "tags": [],
       "date": "2026-09-18T23:04:17+00:00"
@@ -212,8 +270,8 @@
       "source": "hn",
       "title": "Android 17 is the first since 3.x to add new APIs without releasing to the AOSP",
       "url": "https://grapheneos.social/@GrapheneOS/117282080803799576",
-      "score": 863,
-      "comments": 441,
+      "score": 931,
+      "comments": 511,
       "author": "theanonymousone",
       "tags": [],
       "date": "2026-09-18T19:03:09+00:00"
@@ -245,8 +303,8 @@
       "source": "hn",
       "title": "Saving another 100TB of RAM",
       "url": "https://blog.cloudflare.com/saving-100-tb-of-ram-with-math/",
-      "score": 373,
-      "comments": 82,
+      "score": 399,
+      "comments": 86,
       "author": "f311a",
       "tags": [],
       "date": "2026-09-18T18:51:46+00:00"
@@ -318,6 +376,17 @@
       "author": "iamnothere",
       "tags": [],
       "date": "2026-09-18T15:50:29+00:00"
+    },
+    {
+      "id": "hn-49756121",
+      "source": "hn",
+      "title": "Black Holes or Black Hole Stars? Astronomers Spar over 'Little Red Dots'",
+      "url": "https://www.quantamagazine.org/black-holes-or-black-hole-stars-astronomers-spar-over-webb-telescopes-little-red-dots-20260914/",
+      "score": 12,
+      "comments": 1,
+      "author": "jandrewrogers",
+      "tags": [],
+      "date": "2026-09-18T15:47:14+00:00"
     },
     {
       "id": "hn-49755533",
@@ -414,8 +483,8 @@
       "source": "hn",
       "title": "Cloudflare Quick Tunnels",
       "url": "https://try.cloudflare.com/",
-      "score": 719,
-      "comments": 285,
+      "score": 759,
+      "comments": 296,
       "author": "jcbhmr",
       "tags": [],
       "date": "2026-09-18T14:18:41+00:00"
@@ -908,8 +977,8 @@
       "source": "hn",
       "title": "How to Write with an LLM",
       "url": "https://sockpuppet.org/blog/2026/09/17/how-to-write-with-an-llm/",
-      "score": 502,
-      "comments": 338,
+      "score": 538,
+      "comments": 355,
       "author": "joeriddles",
       "tags": [],
       "date": "2026-09-17T21:48:38+00:00"
@@ -1111,6 +1180,17 @@
       "author": "wilhelmklopp",
       "tags": [],
       "date": "2026-09-17T16:58:31+00:00"
+    },
+    {
+      "id": "hn-49743490",
+      "source": "hn",
+      "title": "From Stonemasons to Carpenters",
+      "url": "https://thelastsoftwareengineer.substack.com/p/from-stonemasons-to-carpenters",
+      "score": 28,
+      "comments": 4,
+      "author": "azhenley",
+      "tags": [],
+      "date": "2026-09-17T16:55:50+00:00"
     },
     {
       "id": "hn-49743483",
@@ -1507,8 +1587,8 @@
       "source": "hn",
       "title": "Communication by means of modulated Johnson noise",
       "url": "https://www.pnas.org/doi/10.1073/pnas.2201337119",
-      "score": 6,
-      "comments": 1,
+      "score": 32,
+      "comments": 17,
       "author": "austinallegro",
       "tags": [],
       "date": "2026-09-17T05:41:24+00:00"
@@ -1605,7 +1685,7 @@
       "source": "hn",
       "title": "Ctenophores: Wonders of Biology",
       "url": "https://www.quantamagazine.org/ctenophores-arent-just-beautiful-theyre-biological-wonders-20260916/",
-      "score": 29,
+      "score": 47,
       "comments": 6,
       "author": "randomImmigrant",
       "tags": [],
@@ -1695,8 +1775,8 @@
       "source": "hn",
       "title": "Why building a Rust LSP is hard",
       "url": "https://rust-glancer.github.io/blog/why-lsp-is-hard/",
-      "score": 89,
-      "comments": 32,
+      "score": 106,
+      "comments": 42,
       "author": "agluszak",
       "tags": [],
       "date": "2026-09-16T22:51:16+00:00"
@@ -1897,8 +1977,8 @@
       "source": "hn",
       "title": "You can run Git on object storage if you re-make packfiles",
       "url": "https://www.tigrisdata.com/blog/objgit-packfiles/",
-      "score": 51,
-      "comments": 15,
+      "score": 83,
+      "comments": 22,
       "author": "evacchi",
       "tags": [],
       "date": "2026-09-16T17:16:11+00:00"
@@ -1982,19 +2062,6 @@
       "tags": [],
       "date": "2026-09-16T15:40:04+00:00",
       "severity": "critical"
-    },
-    {
-      "id": "qiita-7873e293ba",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "Jevってなんだ？ — 文章を書かないAIに、LLMのif文判定を任せられるか",
-      "url": "https://qiita.com/GeneLab_999/items/116aa006fbf93b68d791?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "GeneLab_999",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-09-17T00:32:52+09:00"
     },
     {
       "id": "hn-49728602",
@@ -2537,8 +2604,8 @@
       "source": "hn",
       "title": "“The Secret Life of Circuits” is here",
       "url": "https://blog.coredump.cx/p/the-secret-life-of-circuits-is-here",
-      "score": 52,
-      "comments": 21,
+      "score": 149,
+      "comments": 33,
       "author": "surprisetalk",
       "tags": [],
       "date": "2026-09-15T23:15:05+00:00"
@@ -5121,76 +5188,6 @@
       "author": "taubek",
       "tags": [],
       "date": "2026-09-13T07:49:46+00:00"
-    },
-    {
-      "id": "qiita-aed00aaf61",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "AIハーネスはAIで作る。実仕事を任せ続けたらYAMATOがこの形になった",
-      "url": "https://qiita.com/sakumori/items/2a687664d04c80264e0e?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "sakumori",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-09-13T16:31:45+09:00"
-    },
-    {
-      "id": "hn-49680916",
-      "source": "hn",
-      "title": "Sierra digital cameras on the Apple II",
-      "url": "https://www.colino.net/wordpress/archives/2026/09/11/sierra-digital-cameras-on-the-apple-ii/",
-      "score": 29,
-      "comments": 4,
-      "author": "ibobev",
-      "tags": [],
-      "date": "2026-09-13T07:11:20+00:00"
-    },
-    {
-      "id": "hn-49680428",
-      "source": "hn",
-      "title": "Sony's First Computer – The SMC-70 from 1982 [video]",
-      "url": "https://www.youtube.com/watch?v=cT2-7KkPkBc",
-      "score": 47,
-      "comments": 9,
-      "author": "ksymph",
-      "tags": [],
-      "date": "2026-09-13T05:47:13+00:00"
-    },
-    {
-      "id": "hn-49679949",
-      "source": "hn",
-      "title": "Data races and the limits of ThreadSanitizer in C and Go",
-      "url": "https://theconsensus.dev/p/2026/09/06/data-races-and-the-limits-of-threadsanitizer-in-c-and-go.html",
-      "score": 20,
-      "comments": 2,
-      "author": "matt_d",
-      "tags": [],
-      "date": "2026-09-13T04:09:19+00:00"
-    },
-    {
-      "id": "hn-49679734",
-      "source": "hn",
-      "title": "A wandering black hole caught feeding on the run",
-      "url": "https://phys.org/news/2026-08-black-hole-caught.html",
-      "score": 36,
-      "comments": 16,
-      "author": "wglb",
-      "tags": [],
-      "date": "2026-09-13T03:34:53+00:00"
-    },
-    {
-      "id": "qiita-8e28d950b6",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "quaternion の z を yaw だと思っていませんか: pure pursuit の後輪位置が最大 0.95 m ずれていた話",
-      "url": "https://qiita.com/TeamHayes/items/f004f15b7c0fe1f4b512?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "TeamHayes",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-09-13T12:34:29+09:00"
     },
     {
       "id": "ctf-4372374",

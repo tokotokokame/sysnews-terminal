@@ -1,14 +1,58 @@
 {
-  "updated_at": "2026-09-19T20:06:43.202892+00:00",
+  "updated_at": "2026-09-19T22:23:58.621943+00:00",
   "count": 500,
   "items": [
+    {
+      "id": "hn-49770362",
+      "source": "hn",
+      "title": "Mayday Mysteries",
+      "url": "http://www.maydaymystery.org/mayday/",
+      "score": 9,
+      "comments": 2,
+      "author": "Eridanus2",
+      "tags": [],
+      "date": "2026-09-19T21:43:09+00:00"
+    },
+    {
+      "id": "hn-49770293",
+      "source": "hn",
+      "title": "How Hacker News ranking works: scoring, controversy, and penalties (2013)",
+      "url": "https://www.righto.com/2013/11/how-hacker-news-ranking-really-works.html",
+      "score": 18,
+      "comments": 0,
+      "author": "theanonymousone",
+      "tags": [],
+      "date": "2026-09-19T21:30:59+00:00"
+    },
+    {
+      "id": "hn-49769944",
+      "source": "hn",
+      "title": "English: A vs. An",
+      "url": "https://www.redblobgames.com/blog/2026-09-16-english-a-vs-an/",
+      "score": 40,
+      "comments": 9,
+      "author": "azhenley",
+      "tags": [],
+      "date": "2026-09-19T20:41:26+00:00"
+    },
+    {
+      "id": "hn-49769676",
+      "source": "hn",
+      "title": "Measure internet censorship. Contribute to the largest open dataset",
+      "url": "https://ooni.org/install",
+      "score": 50,
+      "comments": 28,
+      "author": "Bluestein",
+      "tags": [],
+      "date": "2026-09-19T20:00:59+00:00"
+    },
     {
       "id": "hn-49769405",
       "source": "hn",
       "title": "ZK-JPEG: Zero-Knowledge Image Editing and Compression",
       "url": "https://eprint.iacr.org/2026/2039",
-      "score": 3,
-      "comments": 0,
+      "score": 40,
+      "comments": 5,
       "author": "gslin",
       "tags": [],
       "date": "2026-09-19T19:23:23+00:00"
@@ -38,10 +82,10 @@
     {
       "id": "hn-49767937",
       "source": "hn",
-      "title": "Almost Never Use AI to Write Anything Substantive",
+      "title": "I think you should almost never use AI to write",
       "url": "https://erichgrunewald.substack.com/p/why-you-should-almost-never-use-ai",
-      "score": 102,
-      "comments": 65,
+      "score": 167,
+      "comments": 96,
       "author": "erwald",
       "tags": [],
       "date": "2026-09-19T16:35:24+00:00"
@@ -51,19 +95,32 @@
       "source": "hn",
       "title": "Show HN: CUA-S1 – A System One Model for Computer Use",
       "url": "https://github.com/trycua/cua",
-      "score": 18,
-      "comments": 1,
+      "score": 45,
+      "comments": 4,
       "author": "frabonacci",
       "tags": [],
       "date": "2026-09-19T15:52:51+00:00"
+    },
+    {
+      "id": "qiita-299e0f5c62",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "Jevと迷惑メールの分類対決をする",
+      "url": "https://qiita.com/shiv-ko/items/a03658b7bbf6cfe44a63?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "shiv-ko",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-09-20T00:37:59+09:00"
     },
     {
       "id": "hn-49766966",
       "source": "hn",
       "title": "Brood War Bench",
       "url": "https://bw.swerdlow.dev/report",
-      "score": 5,
-      "comments": 1,
+      "score": 91,
+      "comments": 56,
       "author": "benswerd",
       "tags": [],
       "date": "2026-09-19T14:44:02+00:00"
@@ -108,41 +165,93 @@
       "source": "hn",
       "title": "Tin: full-text search for Postgres",
       "url": "https://planetscale.com/blog/introducing-tin",
-      "score": 139,
-      "comments": 61,
+      "score": 164,
+      "comments": 70,
       "author": "ksec",
       "tags": [],
       "date": "2026-09-19T13:52:06+00:00"
+    },
+    {
+      "id": "qiita-dc3f04a03e",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "Jevで要件定義書をレビューするアプリを作った",
+      "url": "https://qiita.com/miso_taku/items/b5e2150055933b51fba3?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "miso_taku",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-09-19T20:10:39+09:00"
     },
     {
       "id": "hn-49765348",
       "source": "hn",
       "title": "I built non-autoregressive decision models with RL a year ago",
       "url": "https://laya.convaiinnovations.com/",
-      "score": 843,
-      "comments": 208,
+      "score": 995,
+      "comments": 231,
       "author": "nandakishor_ml",
       "tags": [],
       "date": "2026-09-19T10:46:58+00:00"
+    },
+    {
+      "id": "qiita-d492a51bfc",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "ｽﾀｯｸﾁｬﾝの会話の判断を Jev に任せてみた",
+      "url": "https://qiita.com/kamo-shika/items/99b9a1e6213857126c66?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "kamo-shika",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-09-19T18:32:10+09:00"
     },
     {
       "id": "hn-49764791",
       "source": "hn",
       "title": "AI-generated posters don’t have to be horrible",
       "url": "https://john.hartnup.uk/2026/06/07/ai-event-posters.html",
-      "score": 1078,
-      "comments": 603,
+      "score": 1251,
+      "comments": 698,
       "author": "ereiamjh",
       "tags": [],
       "date": "2026-09-19T09:20:58+00:00"
+    },
+    {
+      "id": "qiita-2ceefb353d",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "Spinelすげえ！ Rubyの動的型付けがそのままCに！",
+      "url": "https://qiita.com/tj9999/items/f59ab88f9e0de733659f?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "tj9999",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-09-19T17:01:43+09:00"
+    },
+    {
+      "id": "qiita-e13d963d57",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "生成AIセキュリティを学んで変わった「AIを安全に使う」という考え方",
+      "url": "https://qiita.com/kf_webdev/items/cbd1d7bb724676a3b686?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "kf_webdev",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-09-19T16:56:25+09:00"
     },
     {
       "id": "hn-49763987",
       "source": "hn",
       "title": "GPT-6 Astra Solves a WWI German Radio Cipher",
       "url": "https://www.prinzai.com/p/gpt-6-astra-solves-a-wwi-german-radio",
-      "score": 305,
-      "comments": 152,
+      "score": 346,
+      "comments": 159,
       "author": "nsoonhui",
       "tags": [],
       "date": "2026-09-19T06:41:44+00:00"
@@ -172,10 +281,10 @@
     {
       "id": "hn-49763697",
       "source": "hn",
-      "title": "Human brain is two separate organs, Stanford Medicine-led research finds",
+      "title": "Two parallel neural ectoderm progenitors contribute to the developing brain",
       "url": "https://med.stanford.edu/news/all-news/2026/09/two-separate-brains.html",
-      "score": 573,
-      "comments": 208,
+      "score": 592,
+      "comments": 228,
       "author": "emigre",
       "tags": [],
       "date": "2026-09-19T05:48:50+00:00"
@@ -193,15 +302,54 @@
       "severity": "critical"
     },
     {
+      "id": "qiita-3a83fcf451",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "ハーネス（OpenCode）＋ローカルLLM ７モデル比較で Qwen3.8-Flash-Next が満点！",
+      "url": "https://qiita.com/nabe2030/items/ad2b6c223e5992ba78e4?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "nabe2030",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-09-19T13:41:26+09:00"
+    },
+    {
       "id": "hn-49763296",
       "source": "hn",
       "title": "San Francisco Onion Futures Company",
       "url": "https://onionfutures.com/",
-      "score": 330,
-      "comments": 141,
+      "score": 355,
+      "comments": 150,
       "author": "z-mach9",
       "tags": [],
       "date": "2026-09-19T04:23:30+00:00"
+    },
+    {
+      "id": "qiita-1b0aa8aaaf",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "なぜSMS認証は弱いと言われるのか",
+      "url": "https://qiita.com/ktdatascience/items/666a82fcdf3dc4af00d7?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "ktdatascience",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-09-19T12:51:02+09:00"
+    },
+    {
+      "id": "qiita-c55726778c",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "「Googleでログイン」を押したあと、Googleはサービスにパスワードを渡していない。じゃあ何を渡しているのか？",
+      "url": "https://qiita.com/ktdatascience/items/6aec726eac024e83651b?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "ktdatascience",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-09-19T12:20:18+09:00"
     },
     {
       "id": "hn-49762744",
@@ -237,6 +385,19 @@
         "Qiita"
       ],
       "date": "2026-09-19T10:51:19+09:00"
+    },
+    {
+      "id": "qiita-af7cf03fbb",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "【SQL】テーブル作成、テストデータ投入(bulk)、データクエリ、テーブルドロップのメモ",
+      "url": "https://qiita.com/J-T_ky2g/items/ad0cc4cf8502d2260fb8?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "J-T_ky2g",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-09-19T10:38:49+09:00"
     },
     {
       "id": "hn-49762099",
@@ -335,8 +496,8 @@
       "source": "hn",
       "title": "Android 17 is the first since 3.x to add new APIs without releasing to the AOSP",
       "url": "https://grapheneos.social/@GrapheneOS/117282080803799576",
-      "score": 1058,
-      "comments": 618,
+      "score": 1094,
+      "comments": 639,
       "author": "theanonymousone",
       "tags": [],
       "date": "2026-09-18T19:03:09+00:00"
@@ -447,8 +608,8 @@
       "source": "hn",
       "title": "Black Holes or Black Hole Stars? Astronomers Spar over 'Little Red Dots'",
       "url": "https://www.quantamagazine.org/black-holes-or-black-hole-stars-astronomers-spar-over-webb-telescopes-little-red-dots-20260914/",
-      "score": 75,
-      "comments": 33,
+      "score": 83,
+      "comments": 42,
       "author": "jandrewrogers",
       "tags": [],
       "date": "2026-09-18T15:47:14+00:00"
@@ -594,8 +755,8 @@
       "source": "hn",
       "title": "UFO Series Home Page: \"UFO\" TV Series from 1970",
       "url": "https://ufoseries.com/",
-      "score": 9,
-      "comments": 2,
+      "score": 32,
+      "comments": 14,
       "author": "DropDead",
       "tags": [],
       "date": "2026-09-18T13:35:05+00:00"
@@ -706,6 +867,19 @@
       "date": "2026-09-18T10:35:28+00:00"
     },
     {
+      "id": "qiita-3fce7369ff",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "エンジニアとしては、タスクマネージャーくらい見れるようになりたい",
+      "url": "https://qiita.com/11eleven/items/29d641197b9320d0e2fa?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "11eleven",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-09-18T19:01:46+09:00"
+    },
+    {
       "id": "hn-49752056",
       "source": "hn",
       "title": "Microsoft exec called AI scraping 'the largest theft of labor in human history'",
@@ -802,6 +976,19 @@
       "author": "csmantle",
       "tags": [],
       "date": "2026-09-18T06:11:17+00:00"
+    },
+    {
+      "id": "qiita-3d4b093906",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "AWS AI-DLC Unicorn Gymに参加して感じた、AI時代に開発者の仕事はどう変わるのか",
+      "url": "https://qiita.com/hacchi_no_donburi/items/d651b20b18bfd4695069?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "hacchi_no_donburi",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-09-18T13:34:16+09:00"
     },
     {
       "id": "hn-49750152",
@@ -1053,8 +1240,8 @@
       "source": "hn",
       "title": "How to Write with an LLM",
       "url": "https://sockpuppet.org/blog/2026/09/17/how-to-write-with-an-llm/",
-      "score": 592,
-      "comments": 368,
+      "score": 608,
+      "comments": 370,
       "author": "joeriddles",
       "tags": [],
       "date": "2026-09-17T21:48:38+00:00"
@@ -1207,8 +1394,8 @@
       "source": "hn",
       "title": "Adventures in Microcontroller Circuit Debugging",
       "url": "https://www.bigmessowires.com/2026/08/30/adventures-in-microcontroller-circuit-debugging/",
-      "score": 19,
-      "comments": 1,
+      "score": 31,
+      "comments": 5,
       "author": "lateatdesk",
       "tags": [],
       "date": "2026-09-17T19:00:40+00:00"
@@ -1234,6 +1421,17 @@
       "author": "grigolin",
       "tags": [],
       "date": "2026-09-17T17:39:01+00:00"
+    },
+    {
+      "id": "hn-49743934",
+      "source": "hn",
+      "title": "Compiler-style optimization for drawing via Skia",
+      "url": "https://arxiv.org/abs/2603.23696",
+      "score": 25,
+      "comments": 2,
+      "author": "PaulDavisThe1st",
+      "tags": [],
+      "date": "2026-09-17T17:30:38+00:00"
     },
     {
       "id": "hn-49743756",
@@ -1354,8 +1552,8 @@
       "source": "hn",
       "title": "New evidence for hidden chambers beyond Tutankhamun's tomb",
       "url": "https://www.nature.com/articles/d41586-026-02621-2",
-      "score": 67,
-      "comments": 21,
+      "score": 89,
+      "comments": 33,
       "author": "rndsignals",
       "tags": [],
       "date": "2026-09-17T15:58:31+00:00"
@@ -1851,8 +2049,8 @@
       "source": "hn",
       "title": "Suzanne Ciani's Buchla Cookbook",
       "url": "https://echo.orpheusinstituut.be/article/suzannes-buchla-cookbook",
-      "score": 25,
-      "comments": 8,
+      "score": 46,
+      "comments": 18,
       "author": "stuart78",
       "tags": [],
       "date": "2026-09-17T00:39:39+00:00"
@@ -2014,6 +2212,17 @@
       "author": "Brajeshwar",
       "tags": [],
       "date": "2026-09-16T19:53:36+00:00"
+    },
+    {
+      "id": "hn-49731996",
+      "source": "hn",
+      "title": "Deodands put a price on objects that caused death",
+      "url": "https://daily.jstor.org/how-the-railways-killed-a-medieval-law/",
+      "score": 24,
+      "comments": 10,
+      "author": "samizdis",
+      "tags": [],
+      "date": "2026-09-16T19:51:23+00:00"
     },
     {
       "id": "hn-49731620",
@@ -2724,8 +2933,8 @@
       "source": "hn",
       "title": "The Secret Life of Circuits",
       "url": "https://blog.coredump.cx/p/the-secret-life-of-circuits-is-here",
-      "score": 242,
-      "comments": 63,
+      "score": 269,
+      "comments": 68,
       "author": "surprisetalk",
       "tags": [],
       "date": "2026-09-15T23:15:05+00:00"
@@ -4985,196 +5194,6 @@
       "author": "mikhael",
       "tags": [],
       "date": "2026-09-13T17:57:59+00:00"
-    },
-    {
-      "id": "hn-49686503",
-      "source": "hn",
-      "title": "Device Drivers lab exercise – COSC562",
-      "url": "https://web.eecs.utk.edu/~smarz1/courses/cosc562/drivers.html",
-      "score": 19,
-      "comments": 2,
-      "author": "azhenley",
-      "tags": [],
-      "date": "2026-09-13T17:41:50+00:00"
-    },
-    {
-      "id": "hn-49686445",
-      "source": "hn",
-      "title": "Why is Google still serving dodgy ads?",
-      "url": "https://www.atomic14.com/2026/09/13/why-is-google-still-serving-dodgy-ads",
-      "score": 834,
-      "comments": 370,
-      "author": "iamflimflam1",
-      "tags": [],
-      "date": "2026-09-13T17:37:44+00:00"
-    },
-    {
-      "id": "hn-49685991",
-      "source": "hn",
-      "title": "David Sacks: OpenAI and Anthropic Don't Need Regulations to Pace Frontier Models",
-      "url": "https://twitter.com/DavidSacks/status/2098973625252708460",
-      "score": 135,
-      "comments": 101,
-      "author": "kolanos",
-      "tags": [],
-      "date": "2026-09-13T16:52:33+00:00"
-    },
-    {
-      "id": "hn-49685835",
-      "source": "hn",
-      "title": "The Relation Between Mathematics and Physics by Paul Dirac (1939)",
-      "url": "https://www.damtp.cam.ac.uk/events/strings02/dirac/speach.html",
-      "score": 117,
-      "comments": 33,
-      "author": "rramadass",
-      "tags": [],
-      "date": "2026-09-13T16:38:22+00:00"
-    },
-    {
-      "id": "hn-49685253",
-      "source": "hn",
-      "title": "Garry Tan wants US open-weight AI labs to 'distill' frontier models, too",
-      "url": "https://techcrunch.com/2026/09/11/y-combinators-garry-tan-wants-u-s-open-weight-ai-labs-to-distill-frontier-models-too/",
-      "score": 333,
-      "comments": 170,
-      "author": "TheJCDenton",
-      "tags": [],
-      "date": "2026-09-13T15:44:38+00:00"
-    },
-    {
-      "id": "hn-49685037",
-      "source": "hn",
-      "title": "Libraries Run Rust Inside Python (With PyO3)",
-      "url": "https://belderbos.dev/blog/how-libraries-run-rust-inside-python/",
-      "score": 55,
-      "comments": 33,
-      "author": "lumpa",
-      "tags": [],
-      "date": "2026-09-13T15:24:05+00:00"
-    },
-    {
-      "id": "hn-49684879",
-      "source": "hn",
-      "title": "Predictive intelligence to anticipate anything.",
-      "url": "https://prior.chat/",
-      "score": 11,
-      "comments": 15,
-      "author": "onemarkos",
-      "tags": [],
-      "date": "2026-09-13T15:11:22+00:00"
-    },
-    {
-      "id": "hn-49684778",
-      "source": "hn",
-      "title": "Cpak – OCI application package format for Linux desktops, servers and devices",
-      "url": "https://cpak.it/",
-      "score": 28,
-      "comments": 11,
-      "author": "xlmnxp",
-      "tags": [],
-      "date": "2026-09-13T15:02:56+00:00"
-    },
-    {
-      "id": "hn-49684393",
-      "source": "hn",
-      "title": "Astra and Fable still hack on simple variants of alignment evals from 2025",
-      "url": "https://www.lesswrong.com/posts/munJKF7iWMsWJLAH2/astra-and-fable-still-hack-on-simple-variants-of-alignment",
-      "score": 407,
-      "comments": 182,
-      "author": "Levitating",
-      "tags": [],
-      "date": "2026-09-13T14:28:36+00:00"
-    },
-    {
-      "id": "hn-49684356",
-      "source": "hn",
-      "title": "CUDA for AMD on Windows",
-      "url": "https://github.com/Speedstu/CUDA-for-AMD-Windows",
-      "score": 169,
-      "comments": 91,
-      "author": "chiassedu80",
-      "tags": [],
-      "date": "2026-09-13T14:25:13+00:00"
-    },
-    {
-      "id": "hn-49684289",
-      "source": "hn",
-      "title": "OpenArm: An open-source 7DOF humanoid arm",
-      "url": "https://github.com/enactic/OpenArm",
-      "score": 157,
-      "comments": 33,
-      "author": "Lwrless",
-      "tags": [],
-      "date": "2026-09-13T14:17:49+00:00",
-      "severity": "critical"
-    },
-    {
-      "id": "hn-49684197",
-      "source": "hn",
-      "title": "An interactive world map of the stories cultures have told",
-      "url": "https://originmap.sunnyguha.com/",
-      "score": 48,
-      "comments": 6,
-      "author": "momentmaker",
-      "tags": [],
-      "date": "2026-09-13T14:09:57+00:00"
-    },
-    {
-      "id": "hn-49684196",
-      "source": "hn",
-      "title": "Making Startups Powerful",
-      "url": "https://paulgraham.com/powerful.html",
-      "score": 188,
-      "comments": 84,
-      "author": "tosh",
-      "tags": [],
-      "date": "2026-09-13T14:09:53+00:00"
-    },
-    {
-      "id": "hn-49684101",
-      "source": "hn",
-      "title": "Key symbols we lost to time, pt. 1: The PC side",
-      "url": "https://unsung.aresluna.org/key-symbols-we-lost-to-time-pt-1-the-pc-side/",
-      "score": 41,
-      "comments": 9,
-      "author": "leephillips",
-      "tags": [],
-      "date": "2026-09-13T14:00:44+00:00"
-    },
-    {
-      "id": "hn-49683953",
-      "source": "hn",
-      "title": "Data collected by cars and sold to third parties",
-      "url": "https://www.theverge.com/column/994172/your-car-is-selling-your-data",
-      "score": 356,
-      "comments": 190,
-      "author": "bookofjoe",
-      "tags": [],
-      "date": "2026-09-13T13:45:08+00:00"
-    },
-    {
-      "id": "qiita-5ff5d21fc6",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "北朝鮮系アクターの攻撃経路を4つに整理してみた",
-      "url": "https://qiita.com/ktdatascience/items/a2fd3841be5159641745?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "ktdatascience",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-09-13T22:37:57+09:00"
-    },
-    {
-      "id": "hn-49683729",
-      "source": "hn",
-      "title": "US Customs supervisor busted for stealing hardware from Homeland Security PCs",
-      "url": "https://www.tomshardware.com/pc-components/us-customs-supervisor-busted-for-stealing-core-i7-cpus-ram-and-hard-drives-from-homeland-security-pcs-stolen-tech-swapped-with-inferior-hardware-and-cashed-out-on-newegg",
-      "score": 88,
-      "comments": 72,
-      "author": "Levitating",
-      "tags": [],
-      "date": "2026-09-13T13:24:28+00:00"
     },
     {
       "id": "ctf-4372374",

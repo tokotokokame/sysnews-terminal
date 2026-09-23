@@ -1,7 +1,86 @@
 {
-  "updated_at": "2026-09-23T21:08:07.287838+00:00",
+  "updated_at": "2026-09-23T23:51:56.892227+00:00",
   "count": 500,
   "items": [
+    {
+      "id": "qiita-b5d17d13d4",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "自宅にISDNを再現する",
+      "url": "https://qiita.com/wakamesoba98/items/19693e80c0551eada894?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "wakamesoba98",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-09-24T08:47:51+09:00"
+    },
+    {
+      "id": "hn-49823922",
+      "source": "hn",
+      "title": "We've Turned Starlink into a Planetary Barometer",
+      "url": "https://www.spaceweather.com/starlink/starlink_drag_explainer.html",
+      "score": 6,
+      "comments": 1,
+      "author": "NKosmatos",
+      "tags": [],
+      "date": "2026-09-23T23:10:22+00:00"
+    },
+    {
+      "id": "hn-49823664",
+      "source": "hn",
+      "title": "ArXiv receives multiyear commitments to support it as an independent nonprofit",
+      "url": "https://blog.arxiv.org/2026/09/23/arxiv-receives-multiyear-investment/",
+      "score": 10,
+      "comments": 0,
+      "author": "JohnHammersley",
+      "tags": [],
+      "date": "2026-09-23T22:45:49+00:00"
+    },
+    {
+      "id": "hn-49823582",
+      "source": "hn",
+      "title": "Linux support is coming to Snapdragon X2 Series",
+      "url": "https://www.qualcomm.com/news/onq/2026/09/snapdragon-summit-agentic-ai-pcs-linux",
+      "score": 55,
+      "comments": 24,
+      "author": "aaronday",
+      "tags": [],
+      "date": "2026-09-23T22:38:16+00:00"
+    },
+    {
+      "id": "hn-49823348",
+      "source": "hn",
+      "title": "Mercury 2.5 LLM hits 770 tokens per second",
+      "url": "https://artificialanalysis.ai/models/mercury-2-5",
+      "score": 18,
+      "comments": 8,
+      "author": "Retro_Dev",
+      "tags": [],
+      "date": "2026-09-23T22:16:19+00:00"
+    },
+    {
+      "id": "hn-49823195",
+      "source": "hn",
+      "title": "We just shipped support for the ugliest part of HTTP: Vary",
+      "url": "https://blog.cloudflare.com/vary-support/",
+      "score": 33,
+      "comments": 4,
+      "author": "thisisfatih",
+      "tags": [],
+      "date": "2026-09-23T22:03:21+00:00"
+    },
+    {
+      "id": "hn-49822555",
+      "source": "hn",
+      "title": "VSCode's SSH Agent Is Bananas (2025)",
+      "url": "https://fly.io/blog/vscode-ssh-wtf/",
+      "score": 92,
+      "comments": 66,
+      "author": "Rapzid",
+      "tags": [],
+      "date": "2026-09-23T21:01:48+00:00"
+    },
     {
       "id": "hn-49822186",
       "source": "hn",
@@ -27,10 +106,10 @@
     {
       "id": "hn-49821196",
       "source": "hn",
-      "title": "How we made claude.ai 3x faster in two weeks",
+      "title": "Once Claude can measure something, it can make it faster",
       "url": "https://claude.dev/blog/how-we-made-claude-ai-faster/",
-      "score": 83,
-      "comments": 55,
+      "score": 142,
+      "comments": 90,
       "author": "matthieu_bl",
       "tags": [],
       "date": "2026-09-23T19:23:40+00:00"
@@ -53,19 +132,30 @@
       "source": "hn",
       "title": "Show HN: I built a post-mortem debugger for native Windows x64/x86 crashes",
       "url": "https://www.forensicdbg.com",
-      "score": 9,
-      "comments": 0,
+      "score": 20,
+      "comments": 4,
       "author": "Loren_SL",
       "tags": [],
       "date": "2026-09-23T19:15:55+00:00"
+    },
+    {
+      "id": "hn-49820496",
+      "source": "hn",
+      "title": "LensVLM: Compressing long context as images, expanding only relevant pages",
+      "url": "https://huggingface.co/apple/LensVLM-9B",
+      "score": 41,
+      "comments": 3,
+      "author": "victormustar",
+      "tags": [],
+      "date": "2026-09-23T18:36:29+00:00"
     },
     {
       "id": "hn-49820136",
       "source": "hn",
       "title": "Swap, ZRAM, Zswap and Hibernate on NixOS",
       "url": "https://blog.matthewbrunelle.com/swap-zram-zswap-and-hibernate-on-nixos/",
-      "score": 9,
-      "comments": 2,
+      "score": 26,
+      "comments": 5,
       "author": "speckx",
       "tags": [],
       "date": "2026-09-23T18:07:04+00:00"
@@ -75,11 +165,22 @@
       "source": "hn",
       "title": "Claude discovers a novel enzyme system with CRISPR-like repeats",
       "url": "https://www.anthropic.com/news/claude-discovers-novel-enzyme-system",
-      "score": 272,
-      "comments": 274,
+      "score": 437,
+      "comments": 480,
       "author": "raahelb",
       "tags": [],
       "date": "2026-09-23T18:06:47+00:00"
+    },
+    {
+      "id": "hn-49819880",
+      "source": "hn",
+      "title": "Making Tailscale Faster",
+      "url": "https://tailscale.com/blog/making-tailscale-faster",
+      "score": 35,
+      "comments": 13,
+      "author": "yarapavan",
+      "tags": [],
+      "date": "2026-09-23T17:49:07+00:00"
     },
     {
       "id": "hn-49819814",
@@ -97,8 +198,8 @@
       "source": "hn",
       "title": "Italian parliament votes for return to nuclear energy",
       "url": "https://apnews.com/article/italy-nuclear-chernobyl-4891b6b7c7791ae84db6b0bf0f7cf567",
-      "score": 369,
-      "comments": 215,
+      "score": 529,
+      "comments": 339,
       "author": "geox",
       "tags": [],
       "date": "2026-09-23T17:06:16+00:00"
@@ -143,8 +244,8 @@
       "source": "hn",
       "title": "Gemini 3.8 text-to-speech",
       "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-8-text-to-speech/",
-      "score": 199,
-      "comments": 103,
+      "score": 241,
+      "comments": 118,
       "author": "swolpers",
       "tags": [],
       "date": "2026-09-23T15:29:23+00:00"
@@ -154,8 +255,8 @@
       "source": "hn",
       "title": "Radicle: Disclosure of Vulnerability in the Network Protocol",
       "url": "https://radicle.dev/2026/09/23/disclosure-of-vulnerability-in-network-protocol",
-      "score": 95,
-      "comments": 34,
+      "score": 114,
+      "comments": 44,
       "author": "lostmsu",
       "tags": [],
       "date": "2026-09-23T15:23:05+00:00",
@@ -166,8 +267,8 @@
       "source": "hn",
       "title": "Fixing the Portobello Police Station Clock",
       "url": "https://pointinthecloud.com/2026-04-11-211700.html",
-      "score": 323,
-      "comments": 71,
+      "score": 368,
+      "comments": 83,
       "author": "avidly",
       "tags": [],
       "date": "2026-09-23T15:18:53+00:00"
@@ -236,8 +337,8 @@
       "source": "hn",
       "title": "Stripe's Knowledge AI Platform",
       "url": "https://stripe.dev/blog/meet-stripes-knowledge-ai-platform",
-      "score": 153,
-      "comments": 97,
+      "score": 169,
+      "comments": 106,
       "author": "ltononro",
       "tags": [],
       "date": "2026-09-23T13:38:00+00:00"
@@ -258,8 +359,8 @@
       "source": "hn",
       "title": "I don't want the details",
       "url": "https://michaelheap.com/i-dont-want-the-details/",
-      "score": 295,
-      "comments": 174,
+      "score": 338,
+      "comments": 190,
       "author": "mooreds",
       "tags": [],
       "date": "2026-09-23T13:04:44+00:00"
@@ -280,8 +381,8 @@
       "source": "hn",
       "title": "Claude Code reads AGENTS.md only when telemetry is on [fixed]",
       "url": "https://blog.szypowi.cz/p/claude-code-reads-agents.md-only-when-telemetry-is-on/",
-      "score": 421,
-      "comments": 236,
+      "score": 438,
+      "comments": 246,
       "author": "pszypowicz",
       "tags": [],
       "date": "2026-09-23T12:15:33+00:00"
@@ -315,7 +416,7 @@
       "source": "hn",
       "title": "Z80 REPL (2018)",
       "url": "https://abagames.github.io/z80-repl/index.html",
-      "score": 127,
+      "score": 139,
       "comments": 18,
       "author": "adunk",
       "tags": [],
@@ -350,8 +451,8 @@
       "source": "hn",
       "title": "Tokens too cheap to meter",
       "url": "https://jyn.dev/tokens-too-cheap-to-meter/",
-      "score": 189,
-      "comments": 156,
+      "score": 220,
+      "comments": 176,
       "author": "teoruiz",
       "tags": [],
       "date": "2026-09-23T09:21:17+00:00"
@@ -416,19 +517,6 @@
         "Qiita"
       ],
       "date": "2026-09-23T15:26:03+09:00"
-    },
-    {
-      "id": "qiita-b5d17d13d4",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "自宅にISDNを再現する",
-      "url": "https://qiita.com/wakamesoba98/items/19693e80c0551eada894?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "wakamesoba98",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-09-23T15:00:35+09:00"
     },
     {
       "id": "qiita-d6005d8e0d",
@@ -652,6 +740,17 @@
       "author": "leumon",
       "tags": [],
       "date": "2026-09-22T19:24:58+00:00"
+    },
+    {
+      "id": "hn-49806413",
+      "source": "hn",
+      "title": "The Curious Power of Punctuation",
+      "url": "https://www.newyorker.com/magazine/2026/09/28/on-the-mark-louis-menand-book-review",
+      "score": 16,
+      "comments": 2,
+      "author": "pepys",
+      "tags": [],
+      "date": "2026-09-22T19:02:37+00:00"
     },
     {
       "id": "hn-49806376",
@@ -1015,6 +1114,17 @@
       "severity": "critical"
     },
     {
+      "id": "hn-49799855",
+      "source": "hn",
+      "title": "The mystery animal on an ancient god's head",
+      "url": "https://signoregalilei.com/2026/09/13/the-mystery-animal-on-an-ancient-gods-head/",
+      "score": 38,
+      "comments": 12,
+      "author": "surprisetalk",
+      "tags": [],
+      "date": "2026-09-22T12:00:11+00:00"
+    },
+    {
       "id": "hn-49799577",
       "source": "hn",
       "title": "Type Punning in C and C++",
@@ -1249,6 +1359,17 @@
       "author": "Jtsummers",
       "tags": [],
       "date": "2026-09-22T03:10:05+00:00"
+    },
+    {
+      "id": "hn-49796372",
+      "source": "hn",
+      "title": "The \"Windows XP Box\" (2003)",
+      "url": "https://www.mini-itx.com/projects/windowsxpbox/",
+      "score": 3,
+      "comments": 0,
+      "author": "doubletwoyou",
+      "tags": [],
+      "date": "2026-09-22T03:09:04+00:00"
     },
     {
       "id": "hn-49796260",
@@ -5082,135 +5203,6 @@
       "author": "TangerineDream",
       "tags": [],
       "date": "2026-09-17T13:57:07+00:00"
-    },
-    {
-      "id": "hn-49740371",
-      "source": "hn",
-      "title": "From Geometry to Algebra and Back Again: 4000 Years of Papers (2023) [video]",
-      "url": "https://www.youtube.com/watch?v=1cRFfYQYGxE",
-      "score": 23,
-      "comments": 0,
-      "author": "surprisetalk",
-      "tags": [],
-      "date": "2026-09-17T13:20:03+00:00"
-    },
-    {
-      "id": "hn-49740330",
-      "source": "hn",
-      "title": "I had Gemini train its own replacement for $9",
-      "url": "https://www.petervijeh.com/projects/reddit-ner",
-      "score": 64,
-      "comments": 21,
-      "author": "p-s-v",
-      "tags": [],
-      "date": "2026-09-17T13:17:16+00:00"
-    },
-    {
-      "id": "hn-49740260",
-      "source": "hn",
-      "title": "The American Religion of Self-Storage Facilities",
-      "url": "https://www.newyorker.com/magazine/2026/09/21/the-american-religion-of-self-storage-facilities",
-      "score": 182,
-      "comments": 319,
-      "author": "pseudolus",
-      "tags": [],
-      "date": "2026-09-17T13:12:28+00:00"
-    },
-    {
-      "id": "hn-49740105",
-      "source": "hn",
-      "title": "Show HN: Share your AI Setup, Learn from others",
-      "url": "https://mysetup.ai/",
-      "score": 174,
-      "comments": 89,
-      "author": "steveybrown",
-      "tags": [],
-      "date": "2026-09-17T13:01:44+00:00"
-    },
-    {
-      "id": "hn-49740047",
-      "source": "hn",
-      "title": "Show HN: I built a new version of my fun spatial 3D online meeting app",
-      "url": "https://flat.social",
-      "score": 60,
-      "comments": 36,
-      "author": "pawelwentpawel",
-      "tags": [],
-      "date": "2026-09-17T12:57:09+00:00"
-    },
-    {
-      "id": "qiita-70366e6eab",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "iOSDC Japan 2026にスタッフとして参加しました！！！",
-      "url": "https://qiita.com/toasha/items/f2518c0bcfee63dfd483?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "toasha",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-09-17T19:59:44+09:00"
-    },
-    {
-      "id": "qiita-fbc70f9366",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "DGX Station GB300 を導入しました",
-      "url": "https://qiita.com/yasusun/items/3d4d31566ad9a1107216?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "yasusun",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-09-17T19:53:34+09:00"
-    },
-    {
-      "id": "hn-49738766",
-      "source": "hn",
-      "title": "Better Vector Search for Long Documents: Chunking Inside Manticore Search",
-      "url": "https://manticoresearch.com/blog/auto-chunking/",
-      "score": 53,
-      "comments": 9,
-      "author": "GloriaVinogrado",
-      "tags": [],
-      "date": "2026-09-17T10:30:52+00:00"
-    },
-    {
-      "id": "qiita-6086084424",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "pwn完全未経験から、3ヶ月ちょいでセキュキャン全国の講義内容を理解できるようになるまで",
-      "url": "https://qiita.com/Inlet-back/items/3e34086a7d8046b62125?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "Inlet-back",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-09-17T19:05:23+09:00"
-    },
-    {
-      "id": "hn-49738518",
-      "source": "hn",
-      "title": "Ray Ozzie and the Optimism of Being Early",
-      "url": "https://reproof.app/blog/lotus-notes-history",
-      "score": 19,
-      "comments": 13,
-      "author": "maguay",
-      "tags": [],
-      "date": "2026-09-17T09:57:26+00:00"
-    },
-    {
-      "id": "qiita-5dbe99a066",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "Laravel開発者がAIエージェントを「本物のLaravel専門家」に変える方法 — Laravel Boost完全ガイド",
-      "url": "https://qiita.com/yamamoto_a_genee/items/9db32b889c65be0c53df?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "yamamoto_a_genee",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-09-17T18:09:50+09:00"
     },
     {
       "id": "ctf-4372374",

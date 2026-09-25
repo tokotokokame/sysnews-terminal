@@ -1,14 +1,91 @@
 {
-  "updated_at": "2026-09-25T10:24:58.447637+00:00",
+  "updated_at": "2026-09-25T15:25:51.205548+00:00",
   "count": 500,
   "items": [
+    {
+      "id": "hn-49845133",
+      "source": "hn",
+      "title": "Factorio that you can touch",
+      "url": "https://factorio.com/blog/post/fff-447",
+      "score": 14,
+      "comments": 0,
+      "author": "ibobev",
+      "tags": [],
+      "date": "2026-09-25T14:24:42+00:00"
+    },
+    {
+      "id": "hn-49844786",
+      "source": "hn",
+      "title": "Allow Carriers on Planes",
+      "url": "https://www.jefftk.com/p/allow-carriers-on-planes",
+      "score": 84,
+      "comments": 64,
+      "author": "surprisetalk",
+      "tags": [],
+      "date": "2026-09-25T14:00:10+00:00"
+    },
+    {
+      "id": "hn-49844736",
+      "source": "hn",
+      "title": "First Principles Thinking",
+      "url": "https://sunilsadasivan.com/writing/first-principles-thinking/",
+      "score": 28,
+      "comments": 0,
+      "author": "sunils34",
+      "tags": [],
+      "date": "2026-09-25T13:55:37+00:00"
+    },
+    {
+      "id": "hn-49843550",
+      "source": "hn",
+      "title": "The Test",
+      "url": "https://tante.cc/2026/09/24/the-test/",
+      "score": 67,
+      "comments": 16,
+      "author": "latexr",
+      "tags": [],
+      "date": "2026-09-25T12:14:02+00:00"
+    },
+    {
+      "id": "hn-49843269",
+      "source": "hn",
+      "title": "Platform-Independent SIMD in Go",
+      "url": "https://go.dev/blog/simd-experiment",
+      "score": 120,
+      "comments": 31,
+      "author": "yurivish",
+      "tags": [],
+      "date": "2026-09-25T11:47:06+00:00"
+    },
+    {
+      "id": "hn-49843174",
+      "source": "hn",
+      "title": "Git-bug: Distributed, offline-first bug tracker embedded in Git",
+      "url": "https://github.com/git-bug/git-bug",
+      "score": 124,
+      "comments": 29,
+      "author": "alentred",
+      "tags": [],
+      "date": "2026-09-25T11:38:31+00:00"
+    },
+    {
+      "id": "hn-49842332",
+      "source": "hn",
+      "title": "Topcoat is pushing the boundary of server applications with Rust",
+      "url": "https://tokio.rs/blog/2026-09-24-topcoat-server-applications",
+      "score": 85,
+      "comments": 62,
+      "author": "sagacity",
+      "tags": [],
+      "date": "2026-09-25T09:59:40+00:00"
+    },
     {
       "id": "hn-49842270",
       "source": "hn",
       "title": "Ink and Switch Interactive Homepage",
       "url": "https://www.inkandswitch.com/",
-      "score": 8,
-      "comments": 1,
+      "score": 115,
+      "comments": 17,
       "author": "iFreilicht",
       "tags": [],
       "date": "2026-09-25T09:50:25+00:00"
@@ -23,6 +100,17 @@
       "author": "eigenBasis",
       "tags": [],
       "date": "2026-09-25T09:31:34+00:00"
+    },
+    {
+      "id": "hn-49842084",
+      "source": "hn",
+      "title": "Boards of Casio",
+      "url": "https://www.ambionix.com/blog/boards-of-casio/",
+      "score": 49,
+      "comments": 12,
+      "author": "fidotron",
+      "tags": [],
+      "date": "2026-09-25T09:26:01+00:00"
     },
     {
       "id": "qiita-7ca9220980",
@@ -55,8 +143,8 @@
       "source": "hn",
       "title": "Special Projects (2016)",
       "url": "https://openai.com/index/special-projects/",
-      "score": 18,
-      "comments": 2,
+      "score": 55,
+      "comments": 29,
       "author": "vinhnx",
       "tags": [],
       "date": "2026-09-25T08:55:43+00:00"
@@ -66,8 +154,8 @@
       "source": "hn",
       "title": "Dutch governments builds alternative for Microsoft based on NixOS",
       "url": "https://www.dawo.community/en/",
-      "score": 171,
-      "comments": 72,
+      "score": 725,
+      "comments": 404,
       "author": "fjfaase",
       "tags": [],
       "date": "2026-09-25T08:06:49+00:00"
@@ -86,12 +174,23 @@
       "date": "2026-09-25T16:48:55+09:00"
     },
     {
+      "id": "hn-49841309",
+      "source": "hn",
+      "title": "Amiga Screens: A Primer",
+      "url": "https://www.datagubbe.se/amscr/",
+      "score": 63,
+      "comments": 10,
+      "author": "msephton",
+      "tags": [],
+      "date": "2026-09-25T07:31:12+00:00"
+    },
+    {
       "id": "hn-49841285",
       "source": "hn",
       "title": "Pentium II at 600Mhz with Voodoo 3 Emulated on 86Box with M6 Mac Mini",
       "url": "https://nyaa.sh/reviews/mac-mini-m6-emulation",
-      "score": 62,
-      "comments": 22,
+      "score": 165,
+      "comments": 72,
       "author": "hugh4life",
       "tags": [],
       "date": "2026-09-25T07:27:45+00:00"
@@ -101,8 +200,8 @@
       "source": "hn",
       "title": "CVE-2025-13032: Entering and Breaking the Avast Antivirus Sandbox Part 2",
       "url": "https://www.safateam.com/intelligence-hub/research/technical-articles/cve-2025-13032-entering-and-breaking-the-avast-antivirus-sandbox-part-2",
-      "score": 49,
-      "comments": 12,
+      "score": 85,
+      "comments": 21,
       "author": "safateam",
       "tags": [],
       "date": "2026-09-25T07:03:46+00:00",
@@ -312,8 +411,8 @@
       "source": "hn",
       "title": "Opus 5.5 is good at explainer videos",
       "url": "https://launchvideo.io",
-      "score": 270,
-      "comments": 134,
+      "score": 332,
+      "comments": 181,
       "author": "iacguy",
       "tags": [],
       "date": "2026-09-24T20:28:47+00:00"
@@ -368,8 +467,8 @@
       "source": "hn",
       "title": "Show HN: Whiteboard (YC W26) – An open-source IDE for thoughtful software design",
       "url": "https://github.com/devdotfast/whiteboard",
-      "score": 315,
-      "comments": 117,
+      "score": 358,
+      "comments": 126,
       "author": "sidharthkmenon",
       "tags": [],
       "date": "2026-09-24T17:21:36+00:00",
@@ -380,8 +479,8 @@
       "source": "hn",
       "title": "Why is the liver so weirdly regenerative?",
       "url": "https://dynomight.substack.com/p/liver",
-      "score": 414,
-      "comments": 210,
+      "score": 487,
+      "comments": 249,
       "author": "jbotz",
       "tags": [],
       "date": "2026-09-24T16:23:00+00:00"
@@ -413,8 +512,8 @@
       "source": "hn",
       "title": "F-Droid 2.0",
       "url": "https://f-droid.org/2026/09/24/f-droid-2.0-a-new-chapter-for-android-freedom.html",
-      "score": 1255,
-      "comments": 362,
+      "score": 1353,
+      "comments": 390,
       "author": "daveoc64",
       "tags": [],
       "date": "2026-09-24T15:26:12+00:00"
@@ -877,8 +976,8 @@
       "source": "hn",
       "title": "Show HN: Make cursed fonts like Times New Bastard",
       "url": "https://bastardica.mitpit.com",
-      "score": 704,
-      "comments": 94,
+      "score": 794,
+      "comments": 105,
       "author": "MitPitt",
       "tags": [],
       "date": "2026-09-23T22:53:28+00:00"
@@ -910,8 +1009,8 @@
       "source": "hn",
       "title": "Toyota is taking the Corolla electric",
       "url": "https://electrek.co/2026/09/23/toyota-best-selling-corolla-electric/",
-      "score": 330,
-      "comments": 603,
+      "score": 386,
+      "comments": 689,
       "author": "cisc",
       "tags": [],
       "date": "2026-09-23T22:37:28+00:00"
@@ -1145,8 +1244,8 @@
       "source": "hn",
       "title": "Rails World 2026 Opening Keynote [video]",
       "url": "https://www.youtube.com/watch?v=vDjW_dRyKXY",
-      "score": 339,
-      "comments": 372,
+      "score": 387,
+      "comments": 415,
       "author": "an0malous",
       "tags": [],
       "date": "2026-09-23T15:33:33+00:00"
@@ -1797,8 +1896,8 @@
       "source": "hn",
       "title": "My weird new hobby: Wandering around Tokyo on Google Maps",
       "url": "https://ahmedhossamdev.com/writing/my-weird-new-hobby-wandering-around-tokyo/",
-      "score": 338,
-      "comments": 154,
+      "score": 374,
+      "comments": 165,
       "author": "ahmedhossamdev",
       "tags": [],
       "date": "2026-09-22T17:49:46+00:00"
@@ -2055,8 +2154,8 @@
       "source": "hn",
       "title": "2DWillNeverDie",
       "url": "https://2dwillneverdie.com/",
-      "score": 242,
-      "comments": 53,
+      "score": 288,
+      "comments": 72,
       "author": "surprisetalk",
       "tags": [],
       "date": "2026-09-22T14:00:08+00:00"
@@ -2145,8 +2244,8 @@
       "source": "hn",
       "title": "Fearless SIMD v1.0",
       "url": "https://linebender.org/blog/fearless-simd-1-0/",
-      "score": 263,
-      "comments": 36,
+      "score": 284,
+      "comments": 47,
       "author": "verdagon",
       "tags": [],
       "date": "2026-09-22T12:23:37+00:00"
@@ -5126,105 +5225,6 @@
       "date": "2026-09-18T20:02:54+00:00"
     },
     {
-      "id": "hn-49758736",
-      "source": "hn",
-      "title": "Android 17 is the first since 3.x to add new APIs without releasing to the AOSP",
-      "url": "https://grapheneos.social/@GrapheneOS/117282080803799576",
-      "score": 1113,
-      "comments": 657,
-      "author": "theanonymousone",
-      "tags": [],
-      "date": "2026-09-18T19:03:09+00:00"
-    },
-    {
-      "id": "hn-49758709",
-      "source": "hn",
-      "title": "How did AMD Ryzen get 50% faster in two years?",
-      "url": "https://lemire.me/blog/2026/09/18/how-did-amd-ryzen-get-50-faster-in-two-years/",
-      "score": 443,
-      "comments": 178,
-      "author": "ibobev",
-      "tags": [],
-      "date": "2026-09-18T19:01:03+00:00"
-    },
-    {
-      "id": "hn-49758689",
-      "source": "hn",
-      "title": "The Implications of Linguistic Illegibility for LLM Security",
-      "url": "https://arxiv.org/abs/2609.02852",
-      "score": 52,
-      "comments": 19,
-      "author": "tomjakubowski",
-      "tags": [],
-      "date": "2026-09-18T19:00:06+00:00"
-    },
-    {
-      "id": "hn-49758615",
-      "source": "hn",
-      "title": "Cache-to-Cache: Direct Semantic Communication Between LLMs (2025)",
-      "url": "https://arxiv.org/abs/2510.03215",
-      "score": 80,
-      "comments": 12,
-      "author": "rochansinha",
-      "tags": [],
-      "date": "2026-09-18T18:55:35+00:00"
-    },
-    {
-      "id": "hn-49758580",
-      "source": "hn",
-      "title": "Saving another 100TB of RAM",
-      "url": "https://blog.cloudflare.com/saving-100-tb-of-ram-with-math/",
-      "score": 441,
-      "comments": 98,
-      "author": "f311a",
-      "tags": [],
-      "date": "2026-09-18T18:51:46+00:00"
-    },
-    {
-      "id": "hn-49758419",
-      "source": "hn",
-      "title": "Xcode 27.1 Beta Release Notes",
-      "url": "https://developer.apple.com/documentation/xcode-release-notes/xcode-27_1-release-notes",
-      "score": 135,
-      "comments": 89,
-      "author": "CameronBanga",
-      "tags": [],
-      "date": "2026-09-18T18:39:31+00:00"
-    },
-    {
-      "id": "hn-49758028",
-      "source": "hn",
-      "title": "Border agents can search cellphones without a warrant or reasonable suspicion",
-      "url": "https://lawandcrime.com/high-profile/the-government-was-entitled-trumps-border-agents-can-now-search-cellphones-without-a-warrant-probable-cause-or-reasonable-suspicion-2nd-circuit-rules/",
-      "score": 122,
-      "comments": 78,
-      "author": "mmh0000",
-      "tags": [],
-      "date": "2026-09-18T18:08:32+00:00"
-    },
-    {
-      "id": "hn-49757929",
-      "source": "hn",
-      "title": "Seeing Circles, Sines, and Signals",
-      "url": "https://jackschaedler.github.io/circles-sines-signals/index.html",
-      "score": 39,
-      "comments": 7,
-      "author": "akkartik",
-      "tags": [],
-      "date": "2026-09-18T17:59:41+00:00"
-    },
-    {
-      "id": "hn-49757493",
-      "source": "hn",
-      "title": "A Model for Winning Survivor",
-      "url": "https://victoriaritvo.com/blog/predicting-survivor/",
-      "score": 22,
-      "comments": 9,
-      "author": "evakhoury",
-      "tags": [],
-      "date": "2026-09-18T17:25:55+00:00"
-    },
-    {
       "id": "ctf-4372374",
       "source": "project",
       "proj_category": "CTF",
@@ -5421,6 +5421,58 @@
       "date": "2023-05-23T17:06:23Z"
     },
     {
+      "id": "zenn-22dd14c5aa",
+      "source": "zennqiita",
+      "sub_source": "Zenn",
+      "title": "Jevにゲームをやらせるな！LLMを蒸留してみよう！",
+      "url": "https://zenn.dev/nwn/articles/e49154653ecea9",
+      "score": null,
+      "author": "ヨ",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Fri, 25 Sep 2026 07:27:13 GMT"
+    },
+    {
+      "id": "zenn-17845c26d6",
+      "source": "zennqiita",
+      "sub_source": "Zenn",
+      "title": "無料の技術イベントは、無料でつくられていない",
+      "url": "https://zenn.dev/sun_asterisk/articles/free-event-not-free",
+      "score": null,
+      "author": "みうP",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Fri, 25 Sep 2026 04:47:50 GMT"
+    },
+    {
+      "id": "zenn-96578e5365",
+      "source": "zennqiita",
+      "sub_source": "Zenn",
+      "title": "POPOPO と AI 開発 - 01. POPOPO の AI 開発概要",
+      "url": "https://zenn.dev/rikachiii/articles/afe30af97cdd9e",
+      "score": null,
+      "author": "rikachiii",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Fri, 25 Sep 2026 04:24:29 GMT"
+    },
+    {
+      "id": "zenn-f150cb0f2e",
+      "source": "zennqiita",
+      "sub_source": "Zenn",
+      "title": "文章を返さないAI「Jev」を試してみた ── 社内問い合わせのエスカレーション先は判定できるか",
+      "url": "https://zenn.dev/yesodco/articles/yesod-jev-typesafe-inquiry-triage",
+      "score": null,
+      "author": "ik-fib",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Fri, 25 Sep 2026 02:18:13 GMT"
+    },
+    {
       "id": "zenn-c835a1b15d",
       "source": "zennqiita",
       "sub_source": "Zenn",
@@ -5445,6 +5497,19 @@
         "Zenn"
       ],
       "date": "Fri, 25 Sep 2026 00:00:05 GMT"
+    },
+    {
+      "id": "zenn-40cc67f2d8",
+      "source": "zennqiita",
+      "sub_source": "Zenn",
+      "title": "Angular: プライベートフィールドの意味論再考",
+      "url": "https://zenn.dev/lacolaco/articles/angular-private-fields",
+      "score": null,
+      "author": "lacolaco",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Thu, 24 Sep 2026 22:30:00 GMT"
     },
     {
       "id": "zenn-cea474b965",
@@ -5497,45 +5562,6 @@
         "Zenn"
       ],
       "date": "Thu, 24 Sep 2026 07:58:17 GMT"
-    },
-    {
-      "id": "zenn-9d11e1de73",
-      "source": "zennqiita",
-      "sub_source": "Zenn",
-      "title": "Claude Code クラウドセッション、使ってみて！",
-      "url": "https://zenn.dev/goat_eat_any/articles/claude-code-cloud-sessions",
-      "score": null,
-      "author": "たなちゅー",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Thu, 24 Sep 2026 07:27:32 GMT"
-    },
-    {
-      "id": "zenn-7934e07336",
-      "source": "zennqiita",
-      "sub_source": "Zenn",
-      "title": "RubyLLM 2.0 の新機能10選",
-      "url": "https://zenn.dev/takeyuwebinc/articles/4fd800c21ce84a",
-      "score": null,
-      "author": "takeyuweb",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Thu, 24 Sep 2026 06:56:13 GMT"
-    },
-    {
-      "id": "zenn-74218056a8",
-      "source": "zennqiita",
-      "sub_source": "Zenn",
-      "title": "AirflowにおけるDAGファイルの定期パースとPythonのimportの話",
-      "url": "https://zenn.dev/churadata/articles/22a8c1821a42f9",
-      "score": null,
-      "author": "detaneeee",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Thu, 24 Sep 2026 04:37:07 GMT"
     },
     {
       "id": "zenn-f6461c6115",
@@ -5629,19 +5655,6 @@
       "date": "Wed, 23 Sep 2026 06:51:29 GMT"
     },
     {
-      "id": "zenn-85d1a743f5",
-      "source": "zennqiita",
-      "sub_source": "Zenn",
-      "title": "Opus 5.5とGPT-6 Solの使い分け：「どうしますか」が減った話",
-      "url": "https://zenn.dev/hjpotter1/articles/e1278d79045de9",
-      "score": null,
-      "author": "hjpotter1",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Wed, 23 Sep 2026 05:05:21 GMT"
-    },
-    {
       "id": "zenn-bdcb7faae6",
       "source": "zennqiita",
       "sub_source": "Zenn",
@@ -5666,20 +5679,6 @@
         "Zenn"
       ],
       "date": "Tue, 22 Sep 2026 02:23:29 GMT"
-    },
-    {
-      "id": "zenn-6d1b8b4e07",
-      "source": "zennqiita",
-      "sub_source": "Zenn",
-      "title": "Re: Vercel に Go サーバーを無料でデプロイできるんです！",
-      "url": "https://zenn.dev/otakakot/articles/14d162ea65f67d",
-      "score": null,
-      "author": "おーたかこーたろー",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Mon, 21 Sep 2026 04:46:05 GMT",
-      "severity": "critical"
     },
     {
       "id": "edb-539c995398",

@@ -1,14 +1,114 @@
 {
-  "updated_at": "2026-09-25T15:25:51.205548+00:00",
+  "updated_at": "2026-09-25T19:26:05.128281+00:00",
   "count": 500,
   "items": [
+    {
+      "id": "hn-49848680",
+      "source": "hn",
+      "title": "Advice to a Beginning Graduate Student (2001)",
+      "url": "https://www.cs.cmu.edu/~mblum/research/pdf/grad.html",
+      "score": 5,
+      "comments": 1,
+      "author": "nicoraga",
+      "tags": [],
+      "date": "2026-09-25T19:12:45+00:00"
+    },
+    {
+      "id": "hn-49848495",
+      "source": "hn",
+      "title": "Zelensky says Russia has widened attacks to hit Ukraine's data centres",
+      "url": "https://www.bbc.com/news/articles/c84gkwgk7d06o",
+      "score": 43,
+      "comments": 11,
+      "author": "dabinat",
+      "tags": [],
+      "date": "2026-09-25T18:56:36+00:00"
+    },
+    {
+      "id": "hn-49848295",
+      "source": "hn",
+      "title": "Alan Kay: Shannon gave us a way of dealing with noisy channels [video]",
+      "url": "https://www.youtube.com/watch?v=Cjntrqhn8pk",
+      "score": 35,
+      "comments": 6,
+      "author": "behoove",
+      "tags": [],
+      "date": "2026-09-25T18:37:05+00:00"
+    },
+    {
+      "id": "hn-49848269",
+      "source": "hn",
+      "title": "Ollaya – Ollama for open-source, Jev-style decision models",
+      "url": "https://ollaya.dev/",
+      "score": 52,
+      "comments": 23,
+      "author": "Ardakilic",
+      "tags": [],
+      "date": "2026-09-25T18:33:50+00:00",
+      "severity": "critical"
+    },
+    {
+      "id": "hn-49848095",
+      "source": "hn",
+      "title": "Meta's Muse appears to use an OpenAI model labeled muse-special",
+      "url": "https://mouse.dev/blog/muse-special/",
+      "score": 24,
+      "comments": 9,
+      "author": "Aeroi",
+      "tags": [],
+      "date": "2026-09-25T18:18:06+00:00"
+    },
+    {
+      "id": "hn-49848033",
+      "source": "hn",
+      "title": "Yes, Claude can do nine loops",
+      "url": "https://www.anthropic.com/research/yes-claude-can-do-nine-loops",
+      "score": 93,
+      "comments": 28,
+      "author": "tzury",
+      "tags": [],
+      "date": "2026-09-25T18:11:48+00:00"
+    },
+    {
+      "id": "hn-49846953",
+      "source": "hn",
+      "title": "Show HN: Doom or Bloom, map your AI worldview with Jev",
+      "url": "https://www.doom-or-bloom.com",
+      "score": 25,
+      "comments": 15,
+      "author": "transitivebs",
+      "tags": [],
+      "date": "2026-09-25T16:51:28+00:00"
+    },
+    {
+      "id": "hn-49845977",
+      "source": "hn",
+      "title": "U.S. appeals court upholds designation of Anthropic as supply chain risk",
+      "url": "https://www.cnbc.com/2026/09/25/pentagon-anthropic-ai-risk-appeals-court.html",
+      "score": 244,
+      "comments": 367,
+      "author": "cramer4next",
+      "tags": [],
+      "date": "2026-09-25T15:29:25+00:00"
+    },
+    {
+      "id": "hn-49845952",
+      "source": "hn",
+      "title": "Classified Estimates Show the NSA Is Paying Billions to Test AI Models",
+      "url": "https://www.washingtonsun.com/technology/classified-estimates-nsa-paying-billions-to-test-ai-models",
+      "score": 153,
+      "comments": 85,
+      "author": "rdmuser",
+      "tags": [],
+      "date": "2026-09-25T15:27:35+00:00"
+    },
     {
       "id": "hn-49845133",
       "source": "hn",
       "title": "Factorio that you can touch",
       "url": "https://factorio.com/blog/post/fff-447",
-      "score": 14,
-      "comments": 0,
+      "score": 213,
+      "comments": 45,
       "author": "ibobev",
       "tags": [],
       "date": "2026-09-25T14:24:42+00:00"
@@ -29,8 +129,8 @@
       "source": "hn",
       "title": "First Principles Thinking",
       "url": "https://sunilsadasivan.com/writing/first-principles-thinking/",
-      "score": 28,
-      "comments": 0,
+      "score": 137,
+      "comments": 58,
       "author": "sunils34",
       "tags": [],
       "date": "2026-09-25T13:55:37+00:00"
@@ -49,10 +149,10 @@
     {
       "id": "hn-49843269",
       "source": "hn",
-      "title": "Platform-Independent SIMD in Go",
+      "title": "Platform-independent SIMD in Go",
       "url": "https://go.dev/blog/simd-experiment",
-      "score": 120,
-      "comments": 31,
+      "score": 289,
+      "comments": 109,
       "author": "yurivish",
       "tags": [],
       "date": "2026-09-25T11:47:06+00:00"
@@ -62,8 +162,8 @@
       "source": "hn",
       "title": "Git-bug: Distributed, offline-first bug tracker embedded in Git",
       "url": "https://github.com/git-bug/git-bug",
-      "score": 124,
-      "comments": 29,
+      "score": 234,
+      "comments": 82,
       "author": "alentred",
       "tags": [],
       "date": "2026-09-25T11:38:31+00:00"
@@ -84,8 +184,8 @@
       "source": "hn",
       "title": "Ink and Switch Interactive Homepage",
       "url": "https://www.inkandswitch.com/",
-      "score": 115,
-      "comments": 17,
+      "score": 187,
+      "comments": 24,
       "author": "iFreilicht",
       "tags": [],
       "date": "2026-09-25T09:50:25+00:00"
@@ -106,8 +206,8 @@
       "source": "hn",
       "title": "Boards of Casio",
       "url": "https://www.ambionix.com/blog/boards-of-casio/",
-      "score": 49,
-      "comments": 12,
+      "score": 90,
+      "comments": 26,
       "author": "fidotron",
       "tags": [],
       "date": "2026-09-25T09:26:01+00:00"
@@ -154,8 +254,8 @@
       "source": "hn",
       "title": "Dutch governments builds alternative for Microsoft based on NixOS",
       "url": "https://www.dawo.community/en/",
-      "score": 725,
-      "comments": 404,
+      "score": 884,
+      "comments": 520,
       "author": "fjfaase",
       "tags": [],
       "date": "2026-09-25T08:06:49+00:00"
@@ -178,8 +278,8 @@
       "source": "hn",
       "title": "Amiga Screens: A Primer",
       "url": "https://www.datagubbe.se/amscr/",
-      "score": 63,
-      "comments": 10,
+      "score": 106,
+      "comments": 25,
       "author": "msephton",
       "tags": [],
       "date": "2026-09-25T07:31:12+00:00"
@@ -189,8 +289,8 @@
       "source": "hn",
       "title": "Pentium II at 600Mhz with Voodoo 3 Emulated on 86Box with M6 Mac Mini",
       "url": "https://nyaa.sh/reviews/mac-mini-m6-emulation",
-      "score": 165,
-      "comments": 72,
+      "score": 232,
+      "comments": 104,
       "author": "hugh4life",
       "tags": [],
       "date": "2026-09-25T07:27:45+00:00"
@@ -200,8 +300,8 @@
       "source": "hn",
       "title": "CVE-2025-13032: Entering and Breaking the Avast Antivirus Sandbox Part 2",
       "url": "https://www.safateam.com/intelligence-hub/research/technical-articles/cve-2025-13032-entering-and-breaking-the-avast-antivirus-sandbox-part-2",
-      "score": 85,
-      "comments": 21,
+      "score": 101,
+      "comments": 26,
       "author": "safateam",
       "tags": [],
       "date": "2026-09-25T07:03:46+00:00",
@@ -278,8 +378,8 @@
       "source": "hn",
       "title": "What About Rails?",
       "url": "https://jardo.dev/what-about-rails",
-      "score": 58,
-      "comments": 20,
+      "score": 246,
+      "comments": 162,
       "author": "jrochkind1",
       "tags": [],
       "date": "2026-09-25T02:50:16+00:00"
@@ -372,6 +472,17 @@
       "author": "kunley",
       "tags": [],
       "date": "2026-09-24T23:10:44+00:00"
+    },
+    {
+      "id": "hn-49837350",
+      "source": "hn",
+      "title": "Google's first Suncatcher orbital data center test launches October 1",
+      "url": "https://arstechnica.com/google/2026/09/googles-first-suncatcher-orbital-data-center-test-launches-october-1/",
+      "score": 5,
+      "comments": 1,
+      "author": "sbulaev",
+      "tags": [],
+      "date": "2026-09-24T22:07:08+00:00"
     },
     {
       "id": "hn-49837006",
@@ -467,8 +578,8 @@
       "source": "hn",
       "title": "Show HN: Whiteboard (YC W26) – An open-source IDE for thoughtful software design",
       "url": "https://github.com/devdotfast/whiteboard",
-      "score": 358,
-      "comments": 126,
+      "score": 381,
+      "comments": 127,
       "author": "sidharthkmenon",
       "tags": [],
       "date": "2026-09-24T17:21:36+00:00",
@@ -479,8 +590,8 @@
       "source": "hn",
       "title": "Why is the liver so weirdly regenerative?",
       "url": "https://dynomight.substack.com/p/liver",
-      "score": 487,
-      "comments": 249,
+      "score": 532,
+      "comments": 266,
       "author": "jbotz",
       "tags": [],
       "date": "2026-09-24T16:23:00+00:00"
@@ -512,8 +623,8 @@
       "source": "hn",
       "title": "F-Droid 2.0",
       "url": "https://f-droid.org/2026/09/24/f-droid-2.0-a-new-chapter-for-android-freedom.html",
-      "score": 1353,
-      "comments": 390,
+      "score": 1415,
+      "comments": 403,
       "author": "daveoc64",
       "tags": [],
       "date": "2026-09-24T15:26:12+00:00"
@@ -976,8 +1087,8 @@
       "source": "hn",
       "title": "Show HN: Make cursed fonts like Times New Bastard",
       "url": "https://bastardica.mitpit.com",
-      "score": 794,
-      "comments": 105,
+      "score": 836,
+      "comments": 121,
       "author": "MitPitt",
       "tags": [],
       "date": "2026-09-23T22:53:28+00:00"
@@ -5107,122 +5218,6 @@
         "Qiita"
       ],
       "date": "2026-09-19T10:38:49+09:00"
-    },
-    {
-      "id": "hn-49762099",
-      "source": "hn",
-      "title": "Show HN: LiveWorld – Every 24/7 YouTube live camera on one globe",
-      "url": "https://liveworld.info/",
-      "score": 3,
-      "comments": 0,
-      "author": "harisingh1612",
-      "tags": [],
-      "date": "2026-09-19T00:30:34+00:00"
-    },
-    {
-      "id": "qiita-3bf012bc7e",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "実はコミュニティ運営をやめようと思っていました",
-      "url": "https://qiita.com/sadabon444/items/6b4e0a5e4946d1a941ac?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "sadabon444",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-09-19T08:59:36+09:00"
-    },
-    {
-      "id": "qiita-ed7321642f",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "Jevはどこで使うべきか？ LLM・機械学習・ルールベースとの使い分け",
-      "url": "https://qiita.com/Isaka-code/items/8944ef8b521517f92da0?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "Isaka-code",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-09-19T08:38:51+09:00"
-    },
-    {
-      "id": "qiita-619bd7c0e3",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "Windows の防御設定を「確かめて、直して、見張る」常駐ツール Agent Fettle をクローズドβ公開しました",
-      "url": "https://qiita.com/nobukz/items/64a2ccb8b89fcc439aed?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "nobukz",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-09-19T08:18:11+09:00"
-    },
-    {
-      "id": "hn-49761432",
-      "source": "hn",
-      "title": "How OpenAI Used Its Own LLMs to Design Its Jalapeño Chip",
-      "url": "https://spectrum.ieee.org/llms-for-chip-design",
-      "score": 161,
-      "comments": 111,
-      "author": "maxall4",
-      "tags": [],
-      "date": "2026-09-18T23:04:17+00:00"
-    },
-    {
-      "id": "hn-49761178",
-      "source": "hn",
-      "title": "US troop deaths during Iran war exceed Pentagon count by at least four",
-      "url": "https://www.reuters.com/world/middle-east/us-troop-deaths-iran-war-exceed-pentagon-count-by-least-four-washington-post-2026-09-18/",
-      "score": 82,
-      "comments": 37,
-      "author": "wslh",
-      "tags": [],
-      "date": "2026-09-18T22:35:10+00:00"
-    },
-    {
-      "id": "hn-49760187",
-      "source": "hn",
-      "title": "Claude Code now reads AGENTS.md if there is no Claude.md",
-      "url": "https://code.claude.com/docs/en/changelog",
-      "score": 616,
-      "comments": 219,
-      "author": "datadrivenangel",
-      "tags": [],
-      "date": "2026-09-18T21:00:32+00:00"
-    },
-    {
-      "id": "hn-49759970",
-      "source": "hn",
-      "title": "Senior Engineers Are the Next DRAM Shortage",
-      "url": "https://blog.herlein.com/post/build-another-engineer/",
-      "score": 13,
-      "comments": 4,
-      "author": "gherlein",
-      "tags": [],
-      "date": "2026-09-18T20:40:25+00:00"
-    },
-    {
-      "id": "hn-49759853",
-      "source": "hn",
-      "title": "When the FM Band Goes Transatlantic",
-      "url": "https://www.radioworld.com/tech-and-gear/nicks-signal-spot/when-the-fm-band-goes-transatlantic",
-      "score": 8,
-      "comments": 0,
-      "author": "austinallegro",
-      "tags": [],
-      "date": "2026-09-18T20:30:28+00:00"
-    },
-    {
-      "id": "hn-49759466",
-      "source": "hn",
-      "title": "Korea raises data breach fines to 10% of revenue",
-      "url": "https://www.koreajoongangdaily.com/business/korea-raises-data-breach-fines-to-10-of-revenue/12869899",
-      "score": 140,
-      "comments": 40,
-      "author": "throw7",
-      "tags": [],
-      "date": "2026-09-18T20:02:54+00:00"
     },
     {
       "id": "ctf-4372374",

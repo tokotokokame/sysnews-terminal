@@ -1,7 +1,99 @@
 {
-  "updated_at": "2026-09-26T01:12:37.430924+00:00",
+  "updated_at": "2026-09-26T06:26:31.136559+00:00",
   "count": 500,
   "items": [
+    {
+      "id": "hn-49853522",
+      "source": "hn",
+      "title": "Can AI Shopping Agents Be Trusted?",
+      "url": "https://www.f-secure.com/en/partners/insights/can-ai-shopping-agents-be-trusted-we-built-one-to-find-out",
+      "score": 6,
+      "comments": 7,
+      "author": "ddaniel10",
+      "tags": [],
+      "date": "2026-09-26T05:36:46+00:00"
+    },
+    {
+      "id": "qiita-bbcd5aa40b",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "Jev は LLM ジャッジに使えるか、紛らわしい誤答72件で確かめた",
+      "url": "https://qiita.com/taka_yayoi/items/3cc901e872209835491a?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "taka_yayoi",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-09-26T14:00:16+09:00"
+    },
+    {
+      "id": "hn-49853175",
+      "source": "hn",
+      "title": "A single function Jev-like wrapper for LLMs, including vision models",
+      "url": "http://allanrbo.blogspot.com/2026/09/a-jev-like-wrapper-for-llms-including.html",
+      "score": 29,
+      "comments": 2,
+      "author": "allanrbo",
+      "tags": [],
+      "date": "2026-09-26T04:20:58+00:00"
+    },
+    {
+      "id": "hn-49852717",
+      "source": "hn",
+      "title": "We're gonna need a lot more mathematicians",
+      "url": "https://terrytao.wordpress.com/2026/09/24/were-gonna-need-a-lot-more-mathematicians/",
+      "score": 77,
+      "comments": 72,
+      "author": "srcreigh",
+      "tags": [],
+      "date": "2026-09-26T02:46:54+00:00"
+    },
+    {
+      "id": "hn-49852462",
+      "source": "hn",
+      "title": "HomelabFest will be in St. Louis in September 2027",
+      "url": "https://www.homelabfest.org",
+      "score": 15,
+      "comments": 5,
+      "author": "geerlingguy",
+      "tags": [],
+      "date": "2026-09-26T02:03:24+00:00"
+    },
+    {
+      "id": "hn-49852302",
+      "source": "hn",
+      "title": "Jury finds Facebook liable for deceiving users in Cambridge Analytica case",
+      "url": "https://www.cbsnews.com/news/facebook-liable-deceiving-users-cambridge-analytica/",
+      "score": 161,
+      "comments": 30,
+      "author": "pseudolus",
+      "tags": [],
+      "date": "2026-09-26T01:36:50+00:00"
+    },
+    {
+      "id": "qiita-32018594a0",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "VRChatワールド「すんごいカメレオン」同期技術解説",
+      "url": "https://qiita.com/Yodokoro/items/1eaaa4260efe413fee50?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "Yodokoro",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-09-26T10:27:16+09:00"
+    },
+    {
+      "id": "hn-49852065",
+      "source": "hn",
+      "title": "One Piece of Flock Camera Data Put This Innocent Woman in Jail for 13 Days",
+      "url": "https://www.jezebel.com/flock-cameras-data-innocent-woman-arrested-lindsey-isaacs-palm-beach-florida-lawsuit-vehicular-homicide",
+      "score": 141,
+      "comments": 55,
+      "author": "HotGarbage",
+      "tags": [],
+      "date": "2026-09-26T00:59:02+00:00"
+    },
     {
       "id": "hn-49851776",
       "source": "hn",
@@ -14,12 +106,23 @@
       "date": "2026-09-26T00:11:33+00:00"
     },
     {
+      "id": "hn-49850781",
+      "source": "hn",
+      "title": "Lab on a Contact Lens Can Measure Stress Through Serotonin",
+      "url": "https://spectrum.ieee.org/serotonin-stress-smart-contact-lens",
+      "score": 36,
+      "comments": 6,
+      "author": "marc__1",
+      "tags": [],
+      "date": "2026-09-25T22:28:02+00:00"
+    },
+    {
       "id": "hn-49850305",
       "source": "hn",
       "title": "What even is an OS now?",
       "url": "https://sockpuppet.org/blog/2026/09/25/what-even-is-an-os-now/",
-      "score": 72,
-      "comments": 93,
+      "score": 149,
+      "comments": 245,
       "author": "fratellobigio",
       "tags": [],
       "date": "2026-09-25T21:36:56+00:00"
@@ -29,8 +132,8 @@
       "source": "hn",
       "title": "Revealing the details of how OpenAI agents hacked Hugging Face",
       "url": "https://swarmtraces.org/",
-      "score": 188,
-      "comments": 112,
+      "score": 379,
+      "comments": 223,
       "author": "specked-citrus",
       "tags": [],
       "date": "2026-09-25T21:09:27+00:00"
@@ -84,8 +187,8 @@
       "source": "hn",
       "title": "Ollaya – Ollama for open-source, Jev-style decision models",
       "url": "https://ollaya.dev/",
-      "score": 329,
-      "comments": 97,
+      "score": 401,
+      "comments": 109,
       "author": "Ardakilic",
       "tags": [],
       "date": "2026-09-25T18:33:50+00:00",
@@ -153,8 +256,8 @@
       "source": "hn",
       "title": "Gravity seems holographic. What does that mean for reality?",
       "url": "https://www.quantamagazine.org/gravity-seems-holographic-what-does-that-mean-for-reality-20260925/",
-      "score": 119,
-      "comments": 119,
+      "score": 161,
+      "comments": 157,
       "author": "ibobev",
       "tags": [],
       "date": "2026-09-25T15:31:02+00:00"
@@ -164,8 +267,8 @@
       "source": "hn",
       "title": "U.S. appeals court upholds designation of Anthropic as supply chain risk",
       "url": "https://www.cnbc.com/2026/09/25/pentagon-anthropic-ai-risk-appeals-court.html",
-      "score": 377,
-      "comments": 690,
+      "score": 427,
+      "comments": 742,
       "author": "cramer4next",
       "tags": [],
       "date": "2026-09-25T15:29:25+00:00"
@@ -186,8 +289,8 @@
       "source": "hn",
       "title": "Show HN: Jev Plays Pokémon Red",
       "url": "https://jev-pokemon.vercel.app/",
-      "score": 146,
-      "comments": 65,
+      "score": 182,
+      "comments": 77,
       "author": "pancomplex",
       "tags": [],
       "date": "2026-09-25T14:28:07+00:00"
@@ -219,8 +322,8 @@
       "source": "hn",
       "title": "First Principles Thinking",
       "url": "https://sunilsadasivan.com/writing/first-principles-thinking/",
-      "score": 212,
-      "comments": 97,
+      "score": 252,
+      "comments": 107,
       "author": "sunils34",
       "tags": [],
       "date": "2026-09-25T13:55:37+00:00"
@@ -241,8 +344,8 @@
       "source": "hn",
       "title": "Show HN: Hacker Atlas - A map of what Hacker News talks about",
       "url": "https://hackeratlas.com/",
-      "score": 4,
-      "comments": 0,
+      "score": 40,
+      "comments": 12,
       "author": "andrearitossa",
       "tags": [],
       "date": "2026-09-25T13:37:54+00:00"
@@ -335,24 +438,11 @@
       "source": "hn",
       "title": "I wrote a ray tracer in Brainfuck",
       "url": "https://epestr.com/blog/writing-a-ray-tracer-in-brainfuck/",
-      "score": 24,
-      "comments": 9,
+      "score": 59,
+      "comments": 14,
       "author": "epestr",
       "tags": [],
       "date": "2026-09-25T10:08:41+00:00"
-    },
-    {
-      "id": "qiita-32018594a0",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "VRChatワールド「すんごいカメレオン」同期技術解説",
-      "url": "https://qiita.com/Yodokoro/items/1eaaa4260efe413fee50?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "Yodokoro",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-09-25T19:04:48+09:00"
     },
     {
       "id": "hn-49842332",
@@ -564,8 +654,8 @@
       "source": "hn",
       "title": "Plan mode is dead",
       "url": "https://www.aymannadeem.com/artificial/intelligence,/developer/tools/2026/09/24/plan-mode-is-dead.html",
-      "score": 60,
-      "comments": 63,
+      "score": 227,
+      "comments": 209,
       "author": "jmvldz",
       "tags": [],
       "date": "2026-09-25T03:59:11+00:00"
@@ -606,19 +696,6 @@
         "Qiita"
       ],
       "date": "2026-09-25T10:50:28+09:00"
-    },
-    {
-      "id": "qiita-bbcd5aa40b",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "Jev は LLM ジャッジに使えるか、紛らわしい誤答72件で確かめた",
-      "url": "https://qiita.com/taka_yayoi/items/3cc901e872209835491a?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "taka_yayoi",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-09-25T10:33:44+09:00"
     },
     {
       "id": "qiita-7cd971d663",
@@ -690,11 +767,22 @@
       "source": "hn",
       "title": "Remembering Johannes Doerfert",
       "url": "https://blog.llvm.org/posts/2026-09-24-rememberingjohannesdoerfert/",
-      "score": 51,
-      "comments": 1,
+      "score": 74,
+      "comments": 2,
       "author": "sdko",
       "tags": [],
       "date": "2026-09-24T23:36:50+00:00"
+    },
+    {
+      "id": "hn-49838040",
+      "source": "hn",
+      "title": "The Murky History of Soviet-Born Tetris",
+      "url": "https://thereader.mitpress.mit.edu/the-bizarre-murky-history-of-soviet-born-tetris/",
+      "score": 23,
+      "comments": 3,
+      "author": "EA-3167",
+      "tags": [],
+      "date": "2026-09-24T23:11:45+00:00"
     },
     {
       "id": "hn-49838034",
@@ -754,6 +842,17 @@
       "date": "2026-09-24T20:53:39+00:00"
     },
     {
+      "id": "hn-49836579",
+      "source": "hn",
+      "title": "How I changed teaching after AI managed to do all my homework assignments",
+      "url": "https://thelastsoftwareengineer.substack.com/p/how-i-changed-teaching-after-ai-managed",
+      "score": 25,
+      "comments": 1,
+      "author": "azhenley",
+      "tags": [],
+      "date": "2026-09-24T20:51:50+00:00"
+    },
+    {
       "id": "hn-49836419",
       "source": "hn",
       "title": "California is chasing wealth that has feet",
@@ -797,6 +896,17 @@
       "author": "benbreen",
       "tags": [],
       "date": "2026-09-24T19:14:27+00:00"
+    },
+    {
+      "id": "hn-49835096",
+      "source": "hn",
+      "title": "Postgres SELECT DISTINCT Does Not Scale",
+      "url": "https://www.dbos.dev/blog/postgres-select-distinct-does-not-scale",
+      "score": 51,
+      "comments": 11,
+      "author": "KraftyOne",
+      "tags": [],
+      "date": "2026-09-24T18:43:52+00:00"
     },
     {
       "id": "hn-49834893",
@@ -949,6 +1059,17 @@
       "date": "2026-09-24T13:53:29+00:00"
     },
     {
+      "id": "hn-49830434",
+      "source": "hn",
+      "title": "Two and a half years without a gallbladder",
+      "url": "https://tracydurnell.com/2026/09/16/two-and-a-half-years-without-a-gallbladder/",
+      "score": 21,
+      "comments": 16,
+      "author": "surprisetalk",
+      "tags": [],
+      "date": "2026-09-24T13:40:03+00:00"
+    },
+    {
       "id": "hn-49829960",
       "source": "hn",
       "title": "Owners mourn spoiled food after firmware update bricks Samsung smart fridges",
@@ -959,6 +1080,17 @@
       "tags": [],
       "date": "2026-09-24T12:58:08+00:00",
       "severity": "medium"
+    },
+    {
+      "id": "hn-49829472",
+      "source": "hn",
+      "title": "Fourier Analysis: Drawing Llamas with Circles",
+      "url": "https://adekau.github.io/posts/2020/llamas.html",
+      "score": 20,
+      "comments": 1,
+      "author": "cebert",
+      "tags": [],
+      "date": "2026-09-24T12:03:35+00:00"
     },
     {
       "id": "qiita-3a162400c2",
@@ -5073,144 +5205,6 @@
       "date": "2026-09-19T17:01:30+00:00"
     },
     {
-      "id": "hn-49767937",
-      "source": "hn",
-      "title": "I think you should almost never use AI to write",
-      "url": "https://erichgrunewald.substack.com/p/why-you-should-almost-never-use-ai",
-      "score": 167,
-      "comments": 96,
-      "author": "erwald",
-      "tags": [],
-      "date": "2026-09-19T16:35:24+00:00"
-    },
-    {
-      "id": "hn-49767564",
-      "source": "hn",
-      "title": "Show HN: CUA-S1 – A System One Model for Computer Use",
-      "url": "https://github.com/trycua/cua",
-      "score": 57,
-      "comments": 7,
-      "author": "frabonacci",
-      "tags": [],
-      "date": "2026-09-19T15:52:51+00:00"
-    },
-    {
-      "id": "qiita-299e0f5c62",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "Jevと迷惑メールの分類対決をする",
-      "url": "https://qiita.com/shiv-ko/items/a03658b7bbf6cfe44a63?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "shiv-ko",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-09-20T00:37:59+09:00"
-    },
-    {
-      "id": "hn-49767316",
-      "source": "hn",
-      "title": "The LLMs Yearn for the Spines",
-      "url": "https://buttondown.com/hillelwayne/archive/the-llms-yearn-for-the-spines/",
-      "score": 12,
-      "comments": 2,
-      "author": "zdw",
-      "tags": [],
-      "date": "2026-09-19T15:26:21+00:00"
-    },
-    {
-      "id": "hn-49767242",
-      "source": "hn",
-      "title": "The Lamentable Later Life of Lemmings",
-      "url": "https://www.filfre.net/2026/09/the-lamentable-later-life-of-lemmings/",
-      "score": 116,
-      "comments": 19,
-      "author": "zdw",
-      "tags": [],
-      "date": "2026-09-19T15:17:12+00:00"
-    },
-    {
-      "id": "hn-49767024",
-      "source": "hn",
-      "title": "JavaFX 27 Native Image on a Raspberry Pi 5",
-      "url": "https://ennerf.github.io/2026/09/18/JavaFX-27-Native-Image-on-a-Raspberry-Pi-5.html",
-      "score": 31,
-      "comments": 4,
-      "author": "0x54MUR41",
-      "tags": [],
-      "date": "2026-09-19T14:51:09+00:00"
-    },
-    {
-      "id": "hn-49766966",
-      "source": "hn",
-      "title": "Brood War Bench",
-      "url": "https://bw.swerdlow.dev/report",
-      "score": 316,
-      "comments": 139,
-      "author": "benswerd",
-      "tags": [],
-      "date": "2026-09-19T14:44:02+00:00"
-    },
-    {
-      "id": "qiita-e4e428dcf6",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "ViteでReact x TypeScriptで立ち上げたプロジェクトからcss関連の記述を消す",
-      "url": "https://qiita.com/J-T_ky2g/items/5e2bf2bf02e589e225d3?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "J-T_ky2g",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-09-19T23:34:48+09:00"
-    },
-    {
-      "id": "hn-49766676",
-      "source": "hn",
-      "title": "A graphical desktop for the ZX Spectrum",
-      "url": "https://github.com/mindbox77/zxdesk",
-      "score": 119,
-      "comments": 89,
-      "author": "graemep",
-      "tags": [],
-      "date": "2026-09-19T14:01:58+00:00"
-    },
-    {
-      "id": "hn-49766671",
-      "source": "hn",
-      "title": "So I have a weatherman, which also tells me the news",
-      "url": "https://dexteroot.net/posts/2026/07/so-i-have-a-weatherman-which-also-tells-me-the-news-part-1/",
-      "score": 25,
-      "comments": 4,
-      "author": "picklerick12",
-      "tags": [],
-      "date": "2026-09-19T14:01:36+00:00"
-    },
-    {
-      "id": "hn-49766637",
-      "source": "hn",
-      "title": "What Zig felt like, coming from Rust",
-      "url": "https://besok.github.io/posts/what-zig-felt-like-coming-from-rust/",
-      "score": 190,
-      "comments": 223,
-      "author": "ksec",
-      "tags": [],
-      "date": "2026-09-19T13:55:18+00:00"
-    },
-    {
-      "id": "qiita-7873e293ba",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "Jevってなんだ？ — 文章を書かないAIに、LLMのif文判定を任せられるか",
-      "url": "https://qiita.com/GeneLab_999/items/116aa006fbf93b68d791?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "GeneLab_999",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-09-19T22:53:39+09:00"
-    },
-    {
       "id": "ctf-4372374",
       "source": "project",
       "proj_category": "CTF",
@@ -5407,6 +5401,19 @@
       "date": "2023-05-23T17:06:23Z"
     },
     {
+      "id": "zenn-cf6893174e",
+      "source": "zennqiita",
+      "sub_source": "Zenn",
+      "title": "【図解】Unity×Computeシェーダーで流体シミュレーション（Stable Fluids）を作った",
+      "url": "https://zenn.dev/haharman/articles/310d80dc737c2b",
+      "score": null,
+      "author": "ハーマン",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Fri, 25 Sep 2026 14:03:38 GMT"
+    },
+    {
       "id": "zenn-ffd7aab729",
       "source": "zennqiita",
       "sub_source": "Zenn",
@@ -5434,6 +5441,19 @@
       "date": "Fri, 25 Sep 2026 07:27:13 GMT"
     },
     {
+      "id": "zenn-df9ba3bc96",
+      "source": "zennqiita",
+      "sub_source": "Zenn",
+      "title": "爆速になった Expo Modules 2.0 を全部試してみた",
+      "url": "https://zenn.dev/gemcook/articles/expo-modules-2-swift-macros-sdk57",
+      "score": null,
+      "author": "y.azuma",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Fri, 25 Sep 2026 07:05:18 GMT"
+    },
+    {
       "id": "zenn-17845c26d6",
       "source": "zennqiita",
       "sub_source": "Zenn",
@@ -5445,19 +5465,6 @@
         "Zenn"
       ],
       "date": "Fri, 25 Sep 2026 04:47:50 GMT"
-    },
-    {
-      "id": "zenn-1c34cb0d41",
-      "source": "zennqiita",
-      "sub_source": "Zenn",
-      "title": "情シス依頼の一次受付をAI Agentに任せるっきゅ！",
-      "url": "https://zenn.dev/mkj/articles/4477dd49091031",
-      "score": null,
-      "author": "rw21",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Fri, 25 Sep 2026 02:50:05 GMT"
     },
     {
       "id": "zenn-dbadadbf8b",
@@ -5499,19 +5506,6 @@
       "date": "Fri, 25 Sep 2026 00:00:05 GMT"
     },
     {
-      "id": "zenn-40cc67f2d8",
-      "source": "zennqiita",
-      "sub_source": "Zenn",
-      "title": "Angular: プライベートフィールドの意味論再考",
-      "url": "https://zenn.dev/lacolaco/articles/angular-private-fields",
-      "score": null,
-      "author": "lacolaco",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Thu, 24 Sep 2026 22:30:00 GMT"
-    },
-    {
       "id": "zenn-cea474b965",
       "source": "zennqiita",
       "sub_source": "Zenn",
@@ -5551,19 +5545,6 @@
       "date": "Thu, 24 Sep 2026 07:27:32 GMT"
     },
     {
-      "id": "zenn-f6461c6115",
-      "source": "zennqiita",
-      "sub_source": "Zenn",
-      "title": "会議・調査・資料作成をAgentに任せる：Microsoft環境で始めるプロジェクトLLM Wiki",
-      "url": "https://zenn.dev/mkj/articles/agent-native-project-work-with-llm-wiki",
-      "score": null,
-      "author": "Y. O.",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Thu, 24 Sep 2026 02:50:05 GMT"
-    },
-    {
       "id": "zenn-b3eec4f95e",
       "source": "zennqiita",
       "sub_source": "Zenn",
@@ -5575,19 +5556,6 @@
         "Zenn"
       ],
       "date": "Thu, 24 Sep 2026 01:00:06 GMT"
-    },
-    {
-      "id": "zenn-18af7a4505",
-      "source": "zennqiita",
-      "sub_source": "Zenn",
-      "title": "AWS DevOps Agent の堅牢性",
-      "url": "https://zenn.dev/cscloud_blog/articles/9968d12b332c03",
-      "score": null,
-      "author": "nishikawa",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Thu, 24 Sep 2026 00:36:37 GMT"
     },
     {
       "id": "zenn-89ec910aad",
@@ -5642,6 +5610,19 @@
       "date": "Wed, 23 Sep 2026 06:51:29 GMT"
     },
     {
+      "id": "zenn-85d1a743f5",
+      "source": "zennqiita",
+      "sub_source": "Zenn",
+      "title": "Opus 5.5とGPT-6 Solの使い分け：「どうしますか」が減った話",
+      "url": "https://zenn.dev/hjpotter1/articles/e1278d79045de9",
+      "score": null,
+      "author": "hjpotter1",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Wed, 23 Sep 2026 05:05:21 GMT"
+    },
+    {
       "id": "zenn-bdcb7faae6",
       "source": "zennqiita",
       "sub_source": "Zenn",
@@ -5666,6 +5647,19 @@
         "Zenn"
       ],
       "date": "Tue, 22 Sep 2026 02:23:29 GMT"
+    },
+    {
+      "id": "zenn-66c64bb20c",
+      "source": "zennqiita",
+      "sub_source": "Zenn",
+      "title": "高速判断AI Jevのユースケースとオープン実装を雑にまとめる",
+      "url": "https://zenn.dev/karaage0703/articles/jev-use-cases-open-implementations",
+      "score": null,
+      "author": "からあげ",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Sun, 20 Sep 2026 07:59:17 GMT"
     },
     {
       "id": "edb-539c995398",

@@ -1,14 +1,49 @@
 {
-  "updated_at": "2026-09-26T11:41:05.346606+00:00",
+  "updated_at": "2026-09-26T15:52:24.081987+00:00",
   "count": 500,
   "items": [
+    {
+      "id": "hn-49857323",
+      "source": "hn",
+      "title": "New Satellite Engine Could Use Earth's Atmosphere to Stay in Orbit Indefinitely",
+      "url": "https://scitechdaily.com/new-satellite-engine-could-use-earths-atmosphere-as-fuel-to-stay-in-orbit-indefinitely/",
+      "score": 7,
+      "comments": 0,
+      "author": "GordonS",
+      "tags": [],
+      "date": "2026-09-26T15:10:29+00:00"
+    },
+    {
+      "id": "hn-49856971",
+      "source": "hn",
+      "title": "Earth is tearing apart beneath the Pacific Northwest",
+      "url": "https://www.sciencedaily.com/releases/2026/09/260924231343.htm",
+      "score": 24,
+      "comments": 11,
+      "author": "emot",
+      "tags": [],
+      "date": "2026-09-26T14:33:11+00:00"
+    },
+    {
+      "id": "qiita-b1d4c8304b",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "2×V100 で Qwen3.8-Flash-Next を 256K コンテキスト・約 88 tok/s で動かす：llama.cpp v0.5.0 に加えた最適化",
+      "url": "https://qiita.com/pentaCoxian/items/d09c4e84f5b87a59f7e7?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "pentaCoxian",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-09-26T21:08:25+09:00"
+    },
     {
       "id": "hn-49855315",
       "source": "hn",
       "title": "Breaking Up with Google Play: Why Conversations Is Now Free",
       "url": "https://gultsch.de/posts/breaking-up-with-google-play/",
-      "score": 26,
-      "comments": 0,
+      "score": 368,
+      "comments": 138,
       "author": "ezst",
       "tags": [],
       "date": "2026-09-26T10:55:56+00:00"
@@ -29,8 +64,8 @@
       "source": "hn",
       "title": "Fifteen years later, the Apple Cards origin story",
       "url": "https://lexontech.org/fifteen-years-later-the-apple-cards-origin-story",
-      "score": 72,
-      "comments": 3,
+      "score": 186,
+      "comments": 26,
       "author": "ksec",
       "tags": [],
       "date": "2026-09-26T09:13:41+00:00"
@@ -40,8 +75,8 @@
       "source": "hn",
       "title": "Floci: Locally emulating any cloud service",
       "url": "https://floci.io",
-      "score": 27,
-      "comments": 5,
+      "score": 95,
+      "comments": 17,
       "author": "theanonymousone",
       "tags": [],
       "date": "2026-09-26T08:31:02+00:00"
@@ -62,8 +97,8 @@
       "source": "hn",
       "title": "Is your Postgres migration safe or not safe?",
       "url": "https://safenotsafe.dev/",
-      "score": 43,
-      "comments": 11,
+      "score": 88,
+      "comments": 27,
       "author": "vira28",
       "tags": [],
       "date": "2026-09-26T07:33:12+00:00"
@@ -110,8 +145,8 @@
       "source": "hn",
       "title": "A single function Jev-like wrapper for LLMs, including vision models",
       "url": "http://allanrbo.blogspot.com/2026/09/a-jev-like-wrapper-for-llms-including.html",
-      "score": 94,
-      "comments": 24,
+      "score": 112,
+      "comments": 31,
       "author": "allanrbo",
       "tags": [],
       "date": "2026-09-26T04:20:58+00:00"
@@ -160,8 +195,8 @@
       "source": "hn",
       "title": "We're gonna need a lot more mathematicians",
       "url": "https://terrytao.wordpress.com/2026/09/24/were-gonna-need-a-lot-more-mathematicians/",
-      "score": 167,
-      "comments": 209,
+      "score": 247,
+      "comments": 340,
       "author": "srcreigh",
       "tags": [],
       "date": "2026-09-26T02:46:54+00:00"
@@ -291,8 +326,8 @@
       "source": "hn",
       "title": "What even is an OS now?",
       "url": "https://sockpuppet.org/blog/2026/09/25/what-even-is-an-os-now/",
-      "score": 209,
-      "comments": 295,
+      "score": 246,
+      "comments": 360,
       "author": "fratellobigio",
       "tags": [],
       "date": "2026-09-25T21:36:56+00:00"
@@ -302,11 +337,22 @@
       "source": "hn",
       "title": "Revealing the details of how OpenAI agents hacked Hugging Face",
       "url": "https://swarmtraces.org/",
-      "score": 514,
-      "comments": 325,
+      "score": 598,
+      "comments": 386,
       "author": "specked-citrus",
       "tags": [],
       "date": "2026-09-25T21:09:27+00:00"
+    },
+    {
+      "id": "hn-49849820",
+      "source": "hn",
+      "title": "Analyzing Frontier Model Progress with My Favourite Game: Prince of Persia",
+      "url": "https://blog.priyan.in/2026/09/analyzing-frontier-model-progress-with.html",
+      "score": 14,
+      "comments": 5,
+      "author": "msephton",
+      "tags": [],
+      "date": "2026-09-25T20:53:54+00:00"
     },
     {
       "id": "hn-49849141",
@@ -357,8 +403,8 @@
       "source": "hn",
       "title": "Ollaya – Ollama for open-source, Jev-style decision models",
       "url": "https://ollaya.dev/",
-      "score": 482,
-      "comments": 121,
+      "score": 528,
+      "comments": 129,
       "author": "Ardakilic",
       "tags": [],
       "date": "2026-09-25T18:33:50+00:00",
@@ -426,8 +472,8 @@
       "source": "hn",
       "title": "Gravity seems holographic. What does that mean for reality?",
       "url": "https://www.quantamagazine.org/gravity-seems-holographic-what-does-that-mean-for-reality-20260925/",
-      "score": 213,
-      "comments": 177,
+      "score": 250,
+      "comments": 192,
       "author": "ibobev",
       "tags": [],
       "date": "2026-09-25T15:31:02+00:00"
@@ -459,8 +505,8 @@
       "source": "hn",
       "title": "Show HN: Jev Plays Pokémon Red",
       "url": "https://jev-pokemon.vercel.app/",
-      "score": 212,
-      "comments": 87,
+      "score": 230,
+      "comments": 93,
       "author": "pancomplex",
       "tags": [],
       "date": "2026-09-25T14:28:07+00:00"
@@ -591,6 +637,17 @@
       "author": "alentred",
       "tags": [],
       "date": "2026-09-25T11:38:31+00:00"
+    },
+    {
+      "id": "hn-49842764",
+      "source": "hn",
+      "title": "PipePipe: NewPipe hard fork implementing SponsorBlock",
+      "url": "https://github.com/InfinityLoop1308/PipePipe",
+      "score": 9,
+      "comments": 7,
+      "author": "Qision",
+      "tags": [],
+      "date": "2026-09-25T10:55:40+00:00"
     },
     {
       "id": "hn-49842462",
@@ -837,8 +894,8 @@
       "source": "hn",
       "title": "Plan mode is dead",
       "url": "https://www.aymannadeem.com/artificial/intelligence,/developer/tools/2026/09/24/plan-mode-is-dead.html",
-      "score": 361,
-      "comments": 325,
+      "score": 445,
+      "comments": 403,
       "author": "jmvldz",
       "tags": [],
       "date": "2026-09-25T03:59:11+00:00"
@@ -961,8 +1018,8 @@
       "source": "hn",
       "title": "The Murky History of Soviet-Born Tetris",
       "url": "https://thereader.mitpress.mit.edu/the-bizarre-murky-history-of-soviet-born-tetris/",
-      "score": 54,
-      "comments": 13,
+      "score": 76,
+      "comments": 16,
       "author": "EA-3167",
       "tags": [],
       "date": "2026-09-24T23:11:45+00:00"
@@ -1001,19 +1058,6 @@
         "Qiita"
       ],
       "date": "2026-09-25T07:01:35+09:00"
-    },
-    {
-      "id": "qiita-b1d4c8304b",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "2×V100 で Qwen3.8-Flash-Next を 256K コンテキスト・約 88 tok/s で動かす：llama.cpp v0.5.0 に加えた最適化",
-      "url": "https://qiita.com/pentaCoxian/items/d09c4e84f5b87a59f7e7?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "pentaCoxian",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-09-25T06:45:06+09:00"
     },
     {
       "id": "hn-49837006",
@@ -1293,8 +1337,8 @@
       "source": "hn",
       "title": "Parsing Expression Grammar vs. Regexes: Building Org Parser in Lisp, Export HTML",
       "url": "https://jointhefreeworld.org/blog/articles/lisps/parsing-expression-grammar-lisp-org-convert-to-html/index.html",
-      "score": 35,
-      "comments": 1,
+      "score": 59,
+      "comments": 10,
       "author": "jjba23",
       "tags": [],
       "date": "2026-09-24T12:10:53+00:00"
@@ -1322,6 +1366,17 @@
         "Qiita"
       ],
       "date": "2026-09-24T20:37:08+09:00"
+    },
+    {
+      "id": "hn-49829202",
+      "source": "hn",
+      "title": "Modern Object Pascal Introduction for Programmers – Castle Game Engine",
+      "url": "https://castle-engine.io/modern_pascal",
+      "score": 48,
+      "comments": 20,
+      "author": "birdculture",
+      "tags": [],
+      "date": "2026-09-24T11:33:56+00:00"
     },
     {
       "id": "hn-49828969",
@@ -1529,8 +1584,8 @@
       "source": "hn",
       "title": "16GB iPod Nano 3G Upgrade",
       "url": "https://tuckerosman.com/projects/16gb-ipod-nano",
-      "score": 39,
-      "comments": 3,
+      "score": 86,
+      "comments": 9,
       "author": "Ivoah",
       "tags": [],
       "date": "2026-09-24T03:58:54+00:00"
@@ -1669,8 +1724,8 @@
       "source": "hn",
       "title": "Calculating atmospheric drag on satellites for a Cubesat [pdf]",
       "url": "https://www.osti.gov/servlets/purl/1124870",
-      "score": 3,
-      "comments": 0,
+      "score": 21,
+      "comments": 7,
       "author": "walrus01",
       "tags": [],
       "date": "2026-09-24T00:34:11+00:00"
@@ -1744,6 +1799,17 @@
       "author": "JohnHammersley",
       "tags": [],
       "date": "2026-09-23T22:45:49+00:00"
+    },
+    {
+      "id": "hn-49823628",
+      "source": "hn",
+      "title": "ASML currently sells no chipmaking machines in Europe, executive says",
+      "url": "https://nltimes.nl/2026/09/22/asml-currently-sells-chipmaking-machines-europe-executive-says",
+      "score": 98,
+      "comments": 103,
+      "author": "doener",
+      "tags": [],
+      "date": "2026-09-23T22:42:13+00:00"
     },
     {
       "id": "hn-49823582",
@@ -2103,6 +2169,17 @@
         "Qiita"
       ],
       "date": "2026-09-24T00:04:39+09:00"
+    },
+    {
+      "id": "hn-49816907",
+      "source": "hn",
+      "title": "Reflections on 1,000 Days of Math",
+      "url": "https://gmays.com/reflections-on-1000-days-of-math/",
+      "score": 16,
+      "comments": 3,
+      "author": "gmays",
+      "tags": [],
+      "date": "2026-09-23T14:40:34+00:00"
     },
     {
       "id": "hn-49816374",
@@ -5138,87 +5215,6 @@
       "date": "2026-09-20T06:16:42+00:00"
     },
     {
-      "id": "hn-49772806",
-      "source": "hn",
-      "title": "Orchestrating Claude Code Agents: The Chief of Staff Pattern",
-      "url": "https://asyncdot.com/blog/chief-of-staff-pattern-orchestrating-claude-code-sessions/",
-      "score": 21,
-      "comments": 16,
-      "author": "octalpixel",
-      "tags": [],
-      "date": "2026-09-20T05:46:19+00:00"
-    },
-    {
-      "id": "qiita-2a4120ebf0",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "Jevで水平思考クイズのWebアプリを作ったよ【ウミガメのスープ】",
-      "url": "https://qiita.com/tetsuro731/items/daa5c5938d874af3a335?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "tetsuro731",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-09-20T14:16:29+09:00"
-    },
-    {
-      "id": "hn-49772677",
-      "source": "hn",
-      "title": "UTF-8000: Unlimited UTF-8",
-      "url": "https://utf-8000.jb2170.com",
-      "score": 107,
-      "comments": 79,
-      "author": "vismit2000",
-      "tags": [],
-      "date": "2026-09-20T05:15:00+00:00"
-    },
-    {
-      "id": "hn-49772662",
-      "source": "hn",
-      "title": "Telling a Computer to Do Things",
-      "url": "https://will-keleher.com/posts/telling-your-computer-to-do-things/",
-      "score": 54,
-      "comments": 24,
-      "author": "vismit2000",
-      "tags": [],
-      "date": "2026-09-20T05:11:33+00:00"
-    },
-    {
-      "id": "hn-49772532",
-      "source": "hn",
-      "title": "Step 5 Preview: Advancing the Pareto Frontier",
-      "url": "https://www.stepfun.com/step-5-preview",
-      "score": 115,
-      "comments": 32,
-      "author": "nateb2022",
-      "tags": [],
-      "date": "2026-09-20T04:35:59+00:00"
-    },
-    {
-      "id": "hn-49772263",
-      "source": "hn",
-      "title": "World Wide Words",
-      "url": "https://www.worldwidewords.org/genindex.html",
-      "score": 26,
-      "comments": 2,
-      "author": "Petiver",
-      "tags": [],
-      "date": "2026-09-20T03:21:12+00:00"
-    },
-    {
-      "id": "qiita-c41d3e3e43",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "JevのオープンウェイトモデルOpenJevを開発した話",
-      "url": "https://qiita.com/xeje/items/48c9835a3e5c7b3d5489?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "xeje",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-09-20T11:37:53+09:00"
-    },
-    {
       "id": "ctf-4372374",
       "source": "project",
       "proj_category": "CTF",
@@ -5415,6 +5411,19 @@
       "date": "2023-05-23T17:06:23Z"
     },
     {
+      "id": "zenn-2d5447c037",
+      "source": "zennqiita",
+      "sub_source": "Zenn",
+      "title": "OpenTelemetryで作るセルフサービステレメトリー基盤",
+      "url": "https://zenn.dev/ymotongpoo/books/observability-platform-with-otel",
+      "score": null,
+      "author": "Yoshi Yamaguchi",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Fri, 25 Sep 2026 23:38:05 GMT"
+    },
+    {
       "id": "zenn-cf6893174e",
       "source": "zennqiita",
       "sub_source": "Zenn",
@@ -5440,6 +5449,19 @@
       ],
       "date": "Fri, 25 Sep 2026 12:04:47 GMT",
       "severity": "critical"
+    },
+    {
+      "id": "zenn-53bba40aca",
+      "source": "zennqiita",
+      "sub_source": "Zenn",
+      "title": "AIに書かせても速くならないのは、AIを「手足」として使っているから。人が押さえるべき5つの判断ポイントと半自動ループの作り方",
+      "url": "https://zenn.dev/dotdtech_blog/articles/65d51bc72d7ee9",
+      "score": null,
+      "author": "koki yamamoto",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Fri, 25 Sep 2026 09:35:29 GMT"
     },
     {
       "id": "zenn-22dd14c5aa",
@@ -5479,6 +5501,19 @@
         "Zenn"
       ],
       "date": "Fri, 25 Sep 2026 04:47:50 GMT"
+    },
+    {
+      "id": "zenn-f150cb0f2e",
+      "source": "zennqiita",
+      "sub_source": "Zenn",
+      "title": "文章を返さないAI「Jev」を試してみた ── 社内問い合わせのエスカレーション先は判定できるか",
+      "url": "https://zenn.dev/yesodco/articles/yesod-jev-typesafe-inquiry-triage",
+      "score": null,
+      "author": "ik-fib",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Fri, 25 Sep 2026 02:18:13 GMT"
     },
     {
       "id": "zenn-dbadadbf8b",
@@ -5635,45 +5670,6 @@
         "Zenn"
       ],
       "date": "Wed, 23 Sep 2026 06:51:29 GMT"
-    },
-    {
-      "id": "zenn-85d1a743f5",
-      "source": "zennqiita",
-      "sub_source": "Zenn",
-      "title": "Opus 5.5とGPT-6 Solの使い分け：「どうしますか」が減った話",
-      "url": "https://zenn.dev/hjpotter1/articles/e1278d79045de9",
-      "score": null,
-      "author": "hjpotter1",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Wed, 23 Sep 2026 05:05:21 GMT"
-    },
-    {
-      "id": "zenn-bdcb7faae6",
-      "source": "zennqiita",
-      "sub_source": "Zenn",
-      "title": "みんなJevの話してる。やってないの俺だけ",
-      "url": "https://zenn.dev/unsoluble_sugar/articles/jev-system-one-model-intro",
-      "score": null,
-      "author": "星影",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Tue, 22 Sep 2026 13:11:24 GMT"
-    },
-    {
-      "id": "zenn-f2d6777562",
-      "source": "zennqiita",
-      "sub_source": "Zenn",
-      "title": "C言語のコードをRustの中に書けるライブラリを作った",
-      "url": "https://zenn.dev/tanakh/articles/c-code-in-rust",
-      "score": null,
-      "author": "Hideyuki Tanaka",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Tue, 22 Sep 2026 02:23:29 GMT"
     },
     {
       "id": "edb-539c995398",

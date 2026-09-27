@@ -1,7 +1,86 @@
 {
-  "updated_at": "2026-09-27T17:08:59.017600+00:00",
+  "updated_at": "2026-09-27T20:17:29.626672+00:00",
   "count": 500,
   "items": [
+    {
+      "id": "hn-49870070",
+      "source": "hn",
+      "title": "Alan Kay's answer to \"Did the ENIAC have a BIOS\"?",
+      "url": "https://www.quora.com/Did-the-ENIAC-have-a-BIOS/answer/Alan-Kay-11",
+      "score": 7,
+      "comments": 5,
+      "author": "midnightfish",
+      "tags": [],
+      "date": "2026-09-27T19:37:05+00:00"
+    },
+    {
+      "id": "hn-49869995",
+      "source": "hn",
+      "title": "Imp is a full port of DSPy to the BEAM",
+      "url": "https://github.com/deepfates/imp",
+      "score": 9,
+      "comments": 4,
+      "author": "mpweiher",
+      "tags": [],
+      "date": "2026-09-27T19:28:23+00:00"
+    },
+    {
+      "id": "qiita-32c8095f23",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "AI は善意？悪意？過失？ AI サイバー攻撃は誰のせい？ AI Alignment 最新動向から読み取る AI 活用のリスクと対策",
+      "url": "https://qiita.com/songchong/items/2f781a33643a2cbd0853?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "songchong",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-09-28T04:06:27+09:00"
+    },
+    {
+      "id": "hn-49869574",
+      "source": "hn",
+      "title": "Show HN: Lofi Cities – Pixel-art city nights with browser-generated lofi",
+      "url": "https://loficities.com/",
+      "score": 55,
+      "comments": 13,
+      "author": "safaelmali",
+      "tags": [],
+      "date": "2026-09-27T18:44:30+00:00"
+    },
+    {
+      "id": "hn-49869142",
+      "source": "hn",
+      "title": "Oral history of John Chowning, inventor of FM synthesis [video]",
+      "url": "https://www.youtube.com/watch?v=e1Xn3030IvM",
+      "score": 15,
+      "comments": 3,
+      "author": "Rochus",
+      "tags": [],
+      "date": "2026-09-27T18:02:43+00:00"
+    },
+    {
+      "id": "hn-49868830",
+      "source": "hn",
+      "title": "Ember-1",
+      "url": "https://fireworks.ai/blog/ember-1",
+      "score": 172,
+      "comments": 95,
+      "author": "gmays",
+      "tags": [],
+      "date": "2026-09-27T17:31:53+00:00"
+    },
+    {
+      "id": "hn-49868404",
+      "source": "hn",
+      "title": "Don't couple your Go code to GitHub",
+      "url": "https://iain.rocks/blog/dont-couple-your-go-code-to-github",
+      "score": 31,
+      "comments": 16,
+      "author": "birdculture",
+      "tags": [],
+      "date": "2026-09-27T16:50:58+00:00"
+    },
     {
       "id": "hn-49868202",
       "source": "hn",
@@ -18,8 +97,8 @@
       "source": "hn",
       "title": "There are no \"rogue\" AI agents",
       "url": "https://eoinhiggins.substack.com/p/there-are-no-rogue-ai-agents",
-      "score": 28,
-      "comments": 12,
+      "score": 274,
+      "comments": 200,
       "author": "zzzeek",
       "tags": [],
       "date": "2026-09-27T16:19:46+00:00"
@@ -29,8 +108,8 @@
       "source": "hn",
       "title": "Show HN: TinyAIArena watch AI agents battle it out",
       "url": "https://tinyaiarena.com/",
-      "score": 22,
-      "comments": 12,
+      "score": 73,
+      "comments": 34,
       "author": "hp6",
       "tags": [],
       "date": "2026-09-27T15:51:28+00:00"
@@ -51,22 +130,57 @@
       "source": "hn",
       "title": "The Normalization of Inexplicable Failures",
       "url": "https://www.ihatethefuture.com/2026/09/the-normalization-of-inexplicable.html",
-      "score": 84,
-      "comments": 15,
+      "score": 201,
+      "comments": 77,
       "author": "pxx",
       "tags": [],
       "date": "2026-09-27T15:26:40+00:00"
     },
     {
+      "id": "qiita-2f3562cf47",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "強い AI が実験室の外に出たら？ OpenAI・Anthropic・英国 AISI の事故報告を読み比べてみた",
+      "url": "https://qiita.com/songchong/items/97ba76b89c3840bc498e?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "songchong",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-09-28T00:06:26+09:00"
+    },
+    {
       "id": "hn-49867067",
       "source": "hn",
-      "title": "Installing NeoVim caused original Vim undo files to be deleted",
+      "title": "On caring for user data: NeoVim caused Vim undo files to be deleted",
       "url": "https://unsung.aresluna.org/they-had-no-concept-of-a-duty-of-care-to-their-users/",
-      "score": 262,
-      "comments": 214,
+      "score": 310,
+      "comments": 271,
       "author": "jandeboevrie",
       "tags": [],
       "date": "2026-09-27T14:45:07+00:00"
+    },
+    {
+      "id": "hn-49866988",
+      "source": "hn",
+      "title": "Fragment of oldest known peace treaty found in Turkey",
+      "url": "https://www.livescience.com/archaeology/ancient-egyptians/we-have-found-traces-of-peace-thousands-of-years-old-fragment-of-worlds-oldest-known-peace-treaty-found-in-turkey",
+      "score": 31,
+      "comments": 5,
+      "author": "gmays",
+      "tags": [],
+      "date": "2026-09-27T14:35:10+00:00"
+    },
+    {
+      "id": "hn-49866597",
+      "source": "hn",
+      "title": "Show HN: Building a Markdown editor for Mac, iOS and web",
+      "url": "https://www.markdown.beauty/",
+      "score": 50,
+      "comments": 31,
+      "author": "thiagoperes",
+      "tags": [],
+      "date": "2026-09-27T13:44:45+00:00"
     },
     {
       "id": "hn-49866534",
@@ -84,11 +198,50 @@
       "source": "hn",
       "title": "Replacing the old battery on rechargeable bike lights",
       "url": "https://jvns.ca/blog/2026/09/27/replacing-the-old-battery-on-rechargeable-bike-lights/",
-      "score": 69,
-      "comments": 30,
+      "score": 106,
+      "comments": 55,
       "author": "surprisetalk",
       "tags": [],
       "date": "2026-09-27T13:30:11+00:00"
+    },
+    {
+      "id": "qiita-66e760e8ac",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "具体と抽象の勉強会に参加してきた話",
+      "url": "https://qiita.com/bisketoriba/items/73c2102fe9a9827eed7b?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "bisketoriba",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-09-27T21:16:17+09:00"
+    },
+    {
+      "id": "qiita-c53a4f4dbd",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "Honoが良いとされる理由がちょっとわかった気がする、多分。ちょっとだけ",
+      "url": "https://qiita.com/har1101/items/71a1b09a844d6b8c793d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "har1101",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-09-27T21:09:34+09:00"
+    },
+    {
+      "id": "qiita-bfc403595f",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "【AWS】3Dモデル・アバターをクラウドで扱うときの考え方",
+      "url": "https://qiita.com/yakumo_09/items/6f1d5f820449a352cb75?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "yakumo_09",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-09-27T21:08:19+09:00"
     },
     {
       "id": "qiita-3c4b5f2960",
@@ -115,6 +268,32 @@
         "Qiita"
       ],
       "date": "2026-09-27T20:08:12+09:00"
+    },
+    {
+      "id": "qiita-3bc5b98509",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "【登壇レポート】「JAWS-UG 栃木 オフライン # 10 -秋の登壇祭り-」 で1人アドミンしてきました",
+      "url": "https://qiita.com/yosuke-suzuki/items/ee49363cc0e75ff5e940?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "yosuke-suzuki",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-09-27T20:05:52+09:00"
+    },
+    {
+      "id": "qiita-df44dd0967",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "Xで見つけたURLをDiscordやSlackへ保存するAndroidアプリを自作した",
+      "url": "https://qiita.com/saitojo1106/items/c93503df339f7b503aef?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "saitojo1106",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-09-27T19:41:42+09:00"
     },
     {
       "id": "hn-49865343",
@@ -161,6 +340,30 @@
       "date": "2026-09-27T08:44:04+00:00"
     },
     {
+      "id": "qiita-9a5e3c5c0d",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "DroidKaigi 2026で驚いたことメモ",
+      "url": "https://qiita.com/takahirom/items/e8441ea251adbdd3b9e1?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "takahirom",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-09-27T17:43:11+09:00"
+    },
+    {
+      "id": "hn-49864105",
+      "source": "hn",
+      "title": "Show HN: Trail – new kind of logic game",
+      "url": "https://trail.franzai.com/",
+      "score": 22,
+      "comments": 7,
+      "author": "franze",
+      "tags": [],
+      "date": "2026-09-27T07:02:20+00:00"
+    },
+    {
       "id": "hn-49863864",
       "source": "hn",
       "title": "Unsealed Briefs in Authors’ Case v. Microsoft/OpenAI",
@@ -192,6 +395,19 @@
       "author": "signa11",
       "tags": [],
       "date": "2026-09-27T03:20:46+00:00"
+    },
+    {
+      "id": "qiita-e55f5e02ea",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "日本語プログラミング言語Mind９でAI仕様駆動開発を行ってみた（ステップ４）～GUIアプリの修正・ビルド・実行・再修正ワークフローが動く～",
+      "url": "https://qiita.com/mylifewithviolin/items/57b573a380cc7e6f4957?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "mylifewithviolin",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-09-27T11:59:15+09:00"
     },
     {
       "id": "hn-49862809",
@@ -230,6 +446,32 @@
       "severity": "critical"
     },
     {
+      "id": "qiita-7de869d652",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "独自パラダイム考えてみた。「逆算型」",
+      "url": "https://qiita.com/tukinyanJP/items/8d9cc90c59808781134f?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "tukinyanJP",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-09-27T09:47:57+09:00"
+    },
+    {
+      "id": "qiita-da4a59eb44",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "awaitした後、UIを更新できないことがあるのはなぜ？｜ConfigureAwait(false)を理解しよう",
+      "url": "https://qiita.com/k-shimaoka-dev/items/ba887e252a3ac5b407bc?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "k-shimaoka-dev",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-09-27T07:30:52+09:00"
+    },
+    {
       "id": "hn-49860074",
       "source": "hn",
       "title": "Welcome to the Medical Clinic at the Interplanetary Relay Station",
@@ -239,6 +481,28 @@
       "author": "bucket2015",
       "tags": [],
       "date": "2026-09-26T20:08:50+00:00"
+    },
+    {
+      "id": "hn-49859982",
+      "source": "hn",
+      "title": "Faster prompt lookup drafting in llama.cpp",
+      "url": "https://jadidbourbaki.github.io/blog/prompt-lookup-llama-cpp/",
+      "score": 40,
+      "comments": 4,
+      "author": "pptadversary",
+      "tags": [],
+      "date": "2026-09-26T19:57:24+00:00"
+    },
+    {
+      "id": "hn-49859759",
+      "source": "hn",
+      "title": "Video CDs Break Windows Explorer",
+      "url": "https://clydesnotes.blogspot.com/2026/08/video-cds-break-windows-explorer.html",
+      "score": 56,
+      "comments": 18,
+      "author": "ClydeN",
+      "tags": [],
+      "date": "2026-09-26T19:30:39+00:00"
     },
     {
       "id": "hn-49859299",
@@ -397,6 +661,19 @@
       "date": "2026-09-26T15:10:29+00:00"
     },
     {
+      "id": "qiita-a14f3f1a31",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "CSVを180GB/sで読むRust実装「csveee」から見るパーサを“裏返す”という設計",
+      "url": "https://qiita.com/DwarfM42/items/f5911b55555843ac1b61?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "DwarfM42",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-09-26T23:58:43+09:00"
+    },
+    {
       "id": "hn-49856988",
       "source": "hn",
       "title": "Go Concurrency Distilled",
@@ -423,8 +700,8 @@
       "source": "hn",
       "title": "Fakecloud: Local AWS cloud emulator for integration tests",
       "url": "https://fakecloud.dev/",
-      "score": 49,
-      "comments": 29,
+      "score": 82,
+      "comments": 42,
       "author": "theanonymousone",
       "tags": [],
       "date": "2026-09-26T14:25:16+00:00"
@@ -458,8 +735,8 @@
       "source": "hn",
       "title": "Improving site performance by shipping more CSS",
       "url": "https://github.blog/engineering/architecture-optimization/improving-site-performance-by-shipping-more-css/",
-      "score": 53,
-      "comments": 32,
+      "score": 71,
+      "comments": 58,
       "author": "torutofu",
       "tags": [],
       "date": "2026-09-26T13:10:05+00:00"
@@ -574,8 +851,8 @@
       "source": "hn",
       "title": "Flip Fluid on Flip Dots",
       "url": "https://mitxela.com/projects/flipflip",
-      "score": 282,
-      "comments": 19,
+      "score": 320,
+      "comments": 21,
       "author": "blutack",
       "tags": [],
       "date": "2026-09-26T07:50:24+00:00"
@@ -625,6 +902,17 @@
         "Qiita"
       ],
       "date": "2026-09-26T14:30:52+09:00"
+    },
+    {
+      "id": "hn-49853476",
+      "source": "hn",
+      "title": "The Cartesian Hand: In-Hand Manipulation with All-Linear Fingers",
+      "url": "https://generalroboticslab.com/cartesian_handv1",
+      "score": 25,
+      "comments": 5,
+      "author": "AareyBaba",
+      "tags": [],
+      "date": "2026-09-26T05:27:39+00:00"
     },
     {
       "id": "qiita-06f311628a",
@@ -963,6 +1251,17 @@
       "date": "2026-09-25T22:23:51+00:00"
     },
     {
+      "id": "hn-49850613",
+      "source": "hn",
+      "title": "Kicki: A DECsystem1060 – Interim Computer Museum",
+      "url": "https://icm.museum/blog/?p=207",
+      "score": 9,
+      "comments": 1,
+      "author": "rbanffy",
+      "tags": [],
+      "date": "2026-09-25T22:11:57+00:00"
+    },
+    {
       "id": "hn-49850305",
       "source": "hn",
       "title": "What even is an OS now?",
@@ -1020,10 +1319,10 @@
     {
       "id": "hn-49849409",
       "source": "hn",
-      "title": "Writing Efficient C++ Code",
+      "title": "Writing Efficient C++ Code (2013)",
       "url": "https://asawicki.info/articles/writing_efficient_cpp_code.php",
-      "score": 59,
-      "comments": 14,
+      "score": 115,
+      "comments": 61,
       "author": "ibobev",
       "tags": [],
       "date": "2026-09-25T20:20:27+00:00"
@@ -1186,6 +1485,17 @@
       "date": "2026-09-25T15:27:35+00:00"
     },
     {
+      "id": "hn-49845284",
+      "source": "hn",
+      "title": "John Coltrane Centenary's – Impulse Records Release the Legendary Tiberi Tapes",
+      "url": "https://www.jazzwise.com/content/news/john-coltrane-centenary-celebrations-see-impulse-records-release-the-legendary-tiberi-tapes",
+      "score": 27,
+      "comments": 5,
+      "author": "gregsadetsky",
+      "tags": [],
+      "date": "2026-09-25T14:38:06+00:00"
+    },
+    {
       "id": "hn-49845172",
       "source": "hn",
       "title": "Show HN: Jev Plays Pokémon Red",
@@ -1261,6 +1571,17 @@
       "author": "adam",
       "tags": [],
       "date": "2026-09-25T13:47:21+00:00"
+    },
+    {
+      "id": "hn-49844629",
+      "source": "hn",
+      "title": "The state of SIMD in Rust in 2026",
+      "url": "https://shnatsel.github.io/state-of-simd-rust-2026/",
+      "score": 25,
+      "comments": 1,
+      "author": "verdagon",
+      "tags": [],
+      "date": "2026-09-25T13:46:34+00:00"
     },
     {
       "id": "hn-49844497",
@@ -4875,283 +5196,6 @@
       "date": "2026-09-21T14:26:56+00:00"
     },
     {
-      "id": "hn-49787684",
-      "source": "hn",
-      "title": "Noodle Gallery- Open-source, self-hosted alternative to Google Photos and Immich",
-      "url": "https://digitalescapetools.com/tools/noodlegallery.html",
-      "score": 24,
-      "comments": 12,
-      "author": "xabd",
-      "tags": [],
-      "date": "2026-09-21T14:22:58+00:00",
-      "severity": "critical"
-    },
-    {
-      "id": "hn-49787548",
-      "source": "hn",
-      "title": "Apple Mac mini review",
-      "url": "https://arstechnica.com/gadgets/2026/09/apple-m6-mac-mini-review-300-price-hike-spoils-a-nice-upgrade/",
-      "score": 74,
-      "comments": 46,
-      "author": "throw0101c",
-      "tags": [],
-      "date": "2026-09-21T14:11:45+00:00"
-    },
-    {
-      "id": "hn-49787535",
-      "source": "hn",
-      "title": "macOS 27: Workaround to avoid downloading AI models and save storage",
-      "url": "https://www.reddit.com/r/MacOSBeta/comments/1vlnf13/workaround_to_avoid_downloading_ai_models_and/",
-      "score": 131,
-      "comments": 59,
-      "author": "ano-ther",
-      "tags": [],
-      "date": "2026-09-21T14:10:49+00:00"
-    },
-    {
-      "id": "hn-49787436",
-      "source": "hn",
-      "title": "What Sun got wrong",
-      "url": "https://bcantrill.dtrace.org/2026/09/20/what-sun-got-wrong/",
-      "score": 608,
-      "comments": 351,
-      "author": "chmaynard",
-      "tags": [],
-      "date": "2026-09-21T14:03:18+00:00"
-    },
-    {
-      "id": "hn-49787313",
-      "source": "hn",
-      "title": "M5 Ultra Mac Studio Review",
-      "url": "https://www.macstories.net/stories/m5-ultra-mac-studio-review-the-dream-mac-for-local-ai-agents/",
-      "score": 166,
-      "comments": 132,
-      "author": "piotrgrabowski",
-      "tags": [],
-      "date": "2026-09-21T13:53:27+00:00"
-    },
-    {
-      "id": "hn-49787163",
-      "source": "hn",
-      "title": "George Lucas Returns to Earth, Bearing Gifts",
-      "url": "https://commonedge.org/george-lucas-returns-to-earth-bearing-gifts/",
-      "score": 58,
-      "comments": 30,
-      "author": "surprisetalk",
-      "tags": [],
-      "date": "2026-09-21T13:40:03+00:00"
-    },
-    {
-      "id": "hn-49787142",
-      "source": "hn",
-      "title": "Python Workers are now generally available",
-      "url": "https://blog.cloudflare.com/python-workers-ga/",
-      "score": 209,
-      "comments": 36,
-      "author": "torutofu",
-      "tags": [],
-      "date": "2026-09-21T13:38:19+00:00"
-    },
-    {
-      "id": "hn-49786689",
-      "source": "hn",
-      "title": "Raspberry Pi blocks changing RAM chips",
-      "url": "https://forums.raspberrypi.com/viewtopic.php?p=2380887#p2380888",
-      "score": 158,
-      "comments": 131,
-      "author": "edandersen",
-      "tags": [],
-      "date": "2026-09-21T12:54:24+00:00"
-    },
-    {
-      "id": "hn-49786643",
-      "source": "hn",
-      "title": "A build graph that rolls dice",
-      "url": "https://fzakaria.com/2026/09/20/a-build-graph-that-rolls-dice",
-      "score": 6,
-      "comments": 1,
-      "author": "ingve",
-      "tags": [],
-      "date": "2026-09-21T12:50:13+00:00"
-    },
-    {
-      "id": "qiita-3345f978ba",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "妖精が飛んでいるかのような幾何学模様をJavaScriptで作ってみた",
-      "url": "https://qiita.com/ishi720/items/f104721b47e7e23b5c8a?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "ishi720",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-09-21T21:11:36+09:00"
-    },
-    {
-      "id": "qiita-b7ae5c2795",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "APEXlangでVibe Coding：ADBとJevをつないだゲームを作ってみた",
-      "url": "https://qiita.com/araidon/items/00725392aeb56b24f133?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "araidon",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-09-21T20:55:03+09:00"
-    },
-    {
-      "id": "qiita-112015d40e",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "HaskellでABC476を解く",
-      "url": "https://qiita.com/TThaskboy/items/358967bb753c7e3c97f3?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "TThaskboy",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-09-21T20:36:01+09:00"
-    },
-    {
-      "id": "hn-49785783",
-      "source": "hn",
-      "title": "NEC V20 CPU: A bit of pep for an XT",
-      "url": "https://dfarq.homeip.net/nec-v20-cpu-a-bit-of-pep-for-an-xt/",
-      "score": 5,
-      "comments": 5,
-      "author": "jnord",
-      "tags": [],
-      "date": "2026-09-21T11:21:56+00:00"
-    },
-    {
-      "id": "hn-49785609",
-      "source": "hn",
-      "title": "First Shader from Zero in Godot 4",
-      "url": "https://www.gdquest.com/library/first_shader_godot4_portal/",
-      "score": 64,
-      "comments": 6,
-      "author": "ibobev",
-      "tags": [],
-      "date": "2026-09-21T10:57:44+00:00"
-    },
-    {
-      "id": "hn-49785429",
-      "source": "hn",
-      "title": "ZuckOff Know when a camera is in the room",
-      "url": "https://zuckoff.app/",
-      "score": 270,
-      "comments": 97,
-      "author": "Bluestein",
-      "tags": [],
-      "date": "2026-09-21T10:33:14+00:00"
-    },
-    {
-      "id": "hn-49785397",
-      "source": "hn",
-      "title": "ZuckOff is a free app that sees Meta glasses before they see you",
-      "url": "https://www.wired.me/story/meta-smart-glasses-detector-app-zuckoff",
-      "score": 315,
-      "comments": 305,
-      "author": "choult",
-      "tags": [],
-      "date": "2026-09-21T10:27:50+00:00"
-    },
-    {
-      "id": "hn-49785202",
-      "source": "hn",
-      "title": "Engineering Memory: On learning to memorize first 100 digits of pi (2024)",
-      "url": "https://gregorygundersen.com/blog/2024/12/21/engineering-memory/",
-      "score": 26,
-      "comments": 13,
-      "author": "fuzzythinker",
-      "tags": [],
-      "date": "2026-09-21T09:56:34+00:00"
-    },
-    {
-      "id": "hn-49784706",
-      "source": "hn",
-      "title": "Jev-Leftpad",
-      "url": "https://github.com/f/jev-leftpad",
-      "score": 100,
-      "comments": 42,
-      "author": "fka",
-      "tags": [],
-      "date": "2026-09-21T08:39:32+00:00"
-    },
-    {
-      "id": "qiita-5ac5ba1d1f",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "【React】キーは問題ないはずなのにEach child in a list should have a unique \"key\" prop.",
-      "url": "https://qiita.com/J-T_ky2g/items/30e27e5543f164c27c2f?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "J-T_ky2g",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-09-21T17:35:08+09:00"
-    },
-    {
-      "id": "hn-49784336",
-      "source": "hn",
-      "title": "Disney+: New user agreement allows ads before movies in all subscriptions",
-      "url": "https://consumerrights.wiki/w/Disney%2B_ad_policy_change",
-      "score": 94,
-      "comments": 50,
-      "author": "DeepLogin",
-      "tags": [],
-      "date": "2026-09-21T07:55:28+00:00"
-    },
-    {
-      "id": "qiita-52ec5f56d7",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "JEV リポジトリを 100+ 件読んで分かったこと：真似すべきはモデル呼び出しの前後だった",
-      "url": "https://qiita.com/beatapi/items/ada45ecb0dbdc721273c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "beatapi",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-09-21T16:39:33+09:00"
-    },
-    {
-      "id": "hn-49783999",
-      "source": "hn",
-      "title": "Kev: Tiny Jev-like family of decision models built on top of Qwen3.5",
-      "url": "https://github.com/jaredpalmer/kev/tree/main",
-      "score": 402,
-      "comments": 181,
-      "author": "tosh",
-      "tags": [],
-      "date": "2026-09-21T07:11:55+00:00"
-    },
-    {
-      "id": "qiita-e1a5bdc792",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "AIコード補完はTab一発で比べない。「近傍→別関数→別ファイル」の編集経路を測る",
-      "url": "https://qiita.com/heftykoo/items/9ff0d2d1a3ea30c2393e?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "heftykoo",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-09-21T16:04:14+09:00"
-    },
-    {
-      "id": "hn-49783495",
-      "source": "hn",
-      "title": "Grim Fandango Puzzle Document (1996) [pdf]",
-      "url": "http://gameshelf.jmac.org/2008/11/13/GrimPuzzleDoc_small.pdf",
-      "score": 331,
-      "comments": 73,
-      "author": "kelseyfrog",
-      "tags": [],
-      "date": "2026-09-21T05:55:22+00:00"
-    },
-    {
       "id": "ctf-4703963",
       "source": "project",
       "proj_category": "CTF",
@@ -5164,41 +5208,6 @@
         "Security"
       ],
       "date": "2026-09-21T05:52:50Z"
-    },
-    {
-      "id": "hn-49783274",
-      "source": "hn",
-      "title": "TXR: An Original, New Programming Language for Convenient Data Munging",
-      "url": "https://www.nongnu.org/txr/",
-      "score": 19,
-      "comments": 1,
-      "author": "andsoitis",
-      "tags": [],
-      "date": "2026-09-21T05:09:08+00:00"
-    },
-    {
-      "id": "qiita-f6a76c9de5",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "Vector DBの次の使い方 ― MiniMax × Zilliz Cloudと日本の公開事例から考えるAI Data Infrastructure",
-      "url": "https://qiita.com/sphereSky/items/ece098ad363e4ca45b1a?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "sphereSky",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-09-21T14:07:45+09:00"
-    },
-    {
-      "id": "hn-49783133",
-      "source": "hn",
-      "title": "Show HN: Mini-AGI – Dynamic continual learning model trained on 8GB VRAM",
-      "url": "https://github.com/volotat/mini-AGI/",
-      "score": 228,
-      "comments": 46,
-      "author": "volotat",
-      "tags": [],
-      "date": "2026-09-21T04:42:37+00:00"
     },
     {
       "id": "ctf-4372374",

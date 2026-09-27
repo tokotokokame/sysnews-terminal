@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-26T22:04:59.438050+00:00",
+  "updated_at": "2026-09-27T00:46:21.499082+00:00",
   "count": 500,
   "items": [
     {
@@ -7,19 +7,30 @@
       "source": "hn",
       "title": "Welcome to the Medical Clinic at the Interplanetary Relay Station",
       "url": "https://www.lightspeedmagazine.com/fiction/welcome-to-the-medical-clinic-at-the-interplanetary-relay-station/",
-      "score": 17,
-      "comments": 3,
+      "score": 41,
+      "comments": 7,
       "author": "bucket2015",
       "tags": [],
       "date": "2026-09-26T20:08:50+00:00"
+    },
+    {
+      "id": "hn-49859299",
+      "source": "hn",
+      "title": "HomeBody: A humanoid that explores, remembers, and acts on its own",
+      "url": "https://tml.stanford.edu/homebody/",
+      "score": 11,
+      "comments": 2,
+      "author": "famouswaffles",
+      "tags": [],
+      "date": "2026-09-26T18:42:10+00:00"
     },
     {
       "id": "hn-49859112",
       "source": "hn",
       "title": "DeepSeek Elastic Compute (DSec)",
       "url": "https://arxiv.org/abs/2609.22978",
-      "score": 68,
-      "comments": 15,
+      "score": 143,
+      "comments": 40,
       "author": "shenli3514",
       "tags": [],
       "date": "2026-09-26T18:22:41+00:00"
@@ -36,15 +47,37 @@
       "date": "2026-09-26T17:43:11+00:00"
     },
     {
+      "id": "hn-49858676",
+      "source": "hn",
+      "title": "Reverse-engineering the Intel 8087's tangent algorithm: more than CORDIC",
+      "url": "https://www.righto.com/2026/09/8087-tangent-cordic.html",
+      "score": 17,
+      "comments": 3,
+      "author": "pwg",
+      "tags": [],
+      "date": "2026-09-26T17:26:54+00:00"
+    },
+    {
       "id": "hn-49858513",
       "source": "hn",
       "title": "Show HN: Reladraw – A diagram language where you decide where to place things",
       "url": "https://github.com/reladraw/reladraw",
-      "score": 109,
-      "comments": 29,
+      "score": 168,
+      "comments": 47,
       "author": "jpwalsh234",
       "tags": [],
       "date": "2026-09-26T17:10:40+00:00"
+    },
+    {
+      "id": "hn-49858424",
+      "source": "hn",
+      "title": "The Evolution of Vending Machines",
+      "url": "https://www.saturdayeveningpost.com/2026/09/from-holy-water-to-frozen-meals-the-evolution-of-vending-machines/",
+      "score": 9,
+      "comments": 1,
+      "author": "ohjeez",
+      "tags": [],
+      "date": "2026-09-26T17:01:45+00:00"
     },
     {
       "id": "hn-49858253",
@@ -75,8 +108,8 @@
       "source": "hn",
       "title": "Drawgent: Coding agent on a live Excalidraw canvas",
       "url": "https://tangled.org/yanndegat.tngl.sh/drawgent",
-      "score": 85,
-      "comments": 29,
+      "score": 103,
+      "comments": 32,
       "author": "parasitid",
       "tags": [],
       "date": "2026-09-26T15:56:34+00:00"
@@ -124,6 +157,17 @@
       "author": "GordonS",
       "tags": [],
       "date": "2026-09-26T15:10:29+00:00"
+    },
+    {
+      "id": "hn-49856988",
+      "source": "hn",
+      "title": "Go Concurrency Distilled",
+      "url": "https://antonz.org/go-concurrency-distilled/",
+      "score": 16,
+      "comments": 2,
+      "author": "chmaynard",
+      "tags": [],
+      "date": "2026-09-26T14:34:49+00:00"
     },
     {
       "id": "hn-49856971",
@@ -185,6 +229,17 @@
       "date": "2026-09-26T10:55:56+00:00"
     },
     {
+      "id": "hn-49855276",
+      "source": "hn",
+      "title": "Reading’s Bayeux Tapestry",
+      "url": "https://diamondgeezer.blogspot.com/2026/09/readings-bayeux-tapestry.html",
+      "score": 11,
+      "comments": 1,
+      "author": "zeristor",
+      "tags": [],
+      "date": "2026-09-26T10:48:40+00:00"
+    },
+    {
       "id": "hn-49855018",
       "source": "hn",
       "title": "One Month Without AI",
@@ -213,8 +268,8 @@
       "source": "hn",
       "title": "How to keep enjoying programming in a world of LLMs",
       "url": "https://discourse.haskell.org/t/how-to-keep-enjoying-programming-in-a-world-of-llms/14705",
-      "score": 120,
-      "comments": 176,
+      "score": 149,
+      "comments": 208,
       "author": "signa11",
       "tags": [],
       "date": "2026-09-26T09:41:58+00:00"
@@ -224,8 +279,8 @@
       "source": "hn",
       "title": "Fifteen years later, the Apple Cards origin story",
       "url": "https://lexontech.org/fifteen-years-later-the-apple-cards-origin-story",
-      "score": 314,
-      "comments": 71,
+      "score": 337,
+      "comments": 86,
       "author": "ksec",
       "tags": [],
       "date": "2026-09-26T09:13:41+00:00"
@@ -338,6 +393,17 @@
       "date": "2026-09-26T13:15:52+09:00"
     },
     {
+      "id": "hn-49853137",
+      "source": "hn",
+      "title": "An agent used DNS to reach an external chatbot",
+      "url": "https://alignment.openai.com/misalignment-reports/an-agent-used-dns-to-reach-an-external-chatbot/",
+      "score": 34,
+      "comments": 20,
+      "author": "apsec112",
+      "tags": [],
+      "date": "2026-09-26T04:14:11+00:00"
+    },
+    {
       "id": "qiita-867da3da03",
       "source": "zennqiita",
       "sub_source": "Qiita",
@@ -349,6 +415,17 @@
         "Qiita"
       ],
       "date": "2026-09-26T12:37:47+09:00"
+    },
+    {
+      "id": "hn-49852905",
+      "source": "hn",
+      "title": "Promising discoveries about the potential for life on one of Saturn’s icy moons",
+      "url": "https://www.fu-berlin.de/en/presse/informationen/fup/2026/fup_26_116-enceladus-cassini-mikroben-science-postberg/index.html",
+      "score": 12,
+      "comments": 4,
+      "author": "geox",
+      "tags": [],
+      "date": "2026-09-26T03:23:31+00:00"
     },
     {
       "id": "qiita-24b39bf6b6",
@@ -475,6 +552,17 @@
       "date": "2026-09-26T10:14:38+09:00"
     },
     {
+      "id": "hn-49852143",
+      "source": "hn",
+      "title": "How one Twitch chat message became code execution on a streamer’s PC",
+      "url": "https://blog.scrt.ch/2026/09/22/how-one-twitch-chat-message-became-code-execution-on-a-streamers-pc/",
+      "score": 22,
+      "comments": 4,
+      "author": "tau255",
+      "tags": [],
+      "date": "2026-09-26T01:13:38+00:00"
+    },
+    {
       "id": "hn-49852065",
       "source": "hn",
       "title": "One Piece of Flock Camera Data Put This Innocent Woman in Jail for 13 Days",
@@ -484,6 +572,17 @@
       "author": "HotGarbage",
       "tags": [],
       "date": "2026-09-26T00:59:02+00:00"
+    },
+    {
+      "id": "hn-49851883",
+      "source": "hn",
+      "title": "Generate fonts where every LLM token is the same width",
+      "url": "https://ampdot.mesh.host/token-space-fonts.html",
+      "score": 21,
+      "comments": 5,
+      "author": "z-mach9",
+      "tags": [],
+      "date": "2026-09-26T00:30:03+00:00"
     },
     {
       "id": "qiita-4cbf707f57",
@@ -772,11 +871,22 @@
       "source": "hn",
       "title": "ASML says it sold 'absolutely nothing' in Europe in 2026",
       "url": "https://www.tomshardware.com/tech-industry/semiconductors/asml-says-its-sells-absolutely-nothing-in-europe-calls-on-eu-to-help-create-demand",
-      "score": 91,
-      "comments": 310,
+      "score": 137,
+      "comments": 369,
       "author": "MC995",
       "tags": [],
       "date": "2026-09-25T13:49:06+00:00"
+    },
+    {
+      "id": "hn-49844657",
+      "source": "hn",
+      "title": "Does Georgism work? Five years later",
+      "url": "https://www.astralcodexten.com/p/does-georgism-work-five-years-later",
+      "score": 60,
+      "comments": 30,
+      "author": "silveraxe93",
+      "tags": [],
+      "date": "2026-09-25T13:48:38+00:00"
     },
     {
       "id": "hn-49844642",
@@ -877,8 +987,8 @@
       "source": "hn",
       "title": "PipePipe: NewPipe hard fork implementing SponsorBlock",
       "url": "https://github.com/InfinityLoop1308/PipePipe",
-      "score": 266,
-      "comments": 141,
+      "score": 311,
+      "comments": 164,
       "author": "Qision",
       "tags": [],
       "date": "2026-09-25T10:55:40+00:00"
@@ -1146,6 +1256,17 @@
       "date": "2026-09-25T02:50:16+00:00"
     },
     {
+      "id": "hn-49839567",
+      "source": "hn",
+      "title": "Evolving programming languages in the AI era",
+      "url": "https://dashbit.co/blog/evolving-ai-era",
+      "score": 18,
+      "comments": 9,
+      "author": "pjm331",
+      "tags": [],
+      "date": "2026-09-25T02:34:39+00:00"
+    },
+    {
       "id": "qiita-38424bdb34",
       "source": "zennqiita",
       "sub_source": "Qiita",
@@ -1305,6 +1426,17 @@
       "date": "2026-09-24T21:33:03+00:00"
     },
     {
+      "id": "hn-49836979",
+      "source": "hn",
+      "title": "Dutch designer made DE9: Closer to the Edit into a playable web-based instrument",
+      "url": "https://www.creativeboom.com/work/why-merijn-straathof-turned-a-landmark-techno-album-into-a-playable-web-based-instrument/",
+      "score": 6,
+      "comments": 1,
+      "author": "ChrisArchitect",
+      "tags": [],
+      "date": "2026-09-24T21:30:18+00:00"
+    },
+    {
       "id": "hn-49836590",
       "source": "hn",
       "title": "The Board Game of the Alpha Nerds (2014)",
@@ -1320,8 +1452,8 @@
       "source": "hn",
       "title": "How I changed teaching after AI managed to do all my homework assignments",
       "url": "https://thelastsoftwareengineer.substack.com/p/how-i-changed-teaching-after-ai-managed",
-      "score": 96,
-      "comments": 99,
+      "score": 122,
+      "comments": 128,
       "author": "azhenley",
       "tags": [],
       "date": "2026-09-24T20:51:50+00:00"
@@ -1432,8 +1564,8 @@
       "source": "hn",
       "title": "LA Metro has some of the slowest escalators on Earth",
       "url": "https://basin.la/articles/ninety-feet-a-minute.html",
-      "score": 29,
-      "comments": 13,
+      "score": 73,
+      "comments": 49,
       "author": "big_toast",
       "tags": [],
       "date": "2026-09-24T16:52:24+00:00"
@@ -1454,8 +1586,8 @@
       "source": "hn",
       "title": "A searchable library of forgotten public-domain film clips from 1915 onward",
       "url": "https://www.movingimagearchive.com/",
-      "score": 74,
-      "comments": 17,
+      "score": 102,
+      "comments": 23,
       "author": "momentmaker",
       "tags": [],
       "date": "2026-09-24T16:11:42+00:00"
@@ -1639,8 +1771,8 @@
       "source": "hn",
       "title": "Modern Object Pascal Introduction for Programmers",
       "url": "https://castle-engine.io/modern_pascal",
-      "score": 130,
-      "comments": 46,
+      "score": 143,
+      "comments": 57,
       "author": "birdculture",
       "tags": [],
       "date": "2026-09-24T11:33:56+00:00"
@@ -1720,8 +1852,8 @@
       "source": "hn",
       "title": "The Lost Atomic Update on Loongson CPU",
       "url": "https://jia.je/hardware/2026/09/24/loongson-cpu-erratum-en/",
-      "score": 91,
-      "comments": 5,
+      "score": 109,
+      "comments": 6,
       "author": "jiegec",
       "tags": [],
       "date": "2026-09-24T08:36:40+00:00",
@@ -5082,138 +5214,6 @@
       "date": "2026-09-20T17:38:27+00:00"
     },
     {
-      "id": "hn-49777913",
-      "source": "hn",
-      "title": "Trying the Software Factory Pattern",
-      "url": "https://lethain.com/software-factory-experiment/",
-      "score": 34,
-      "comments": 20,
-      "author": "gpi",
-      "tags": [],
-      "date": "2026-09-20T17:27:11+00:00"
-    },
-    {
-      "id": "hn-49777841",
-      "source": "hn",
-      "title": "US Revokes Limits on Power Plants' Climate Pollution",
-      "url": "https://text.hrw.org/news/2026/09/17/us-revokes-limits-on-power-plants-climate-pollution",
-      "score": 181,
-      "comments": 154,
-      "author": "DeepLogin",
-      "tags": [],
-      "date": "2026-09-20T17:19:52+00:00"
-    },
-    {
-      "id": "hn-49777539",
-      "source": "hn",
-      "title": "Show HN: Radius – A Meetup.com Alternative",
-      "url": "https://radius.to/",
-      "score": 117,
-      "comments": 46,
-      "author": "radius89",
-      "tags": [],
-      "date": "2026-09-20T16:51:26+00:00"
-    },
-    {
-      "id": "hn-49777467",
-      "source": "hn",
-      "title": "I am often wrong",
-      "url": "https://borischerny.com/management,/product/2026/09/19/I-am-often-wrong.html",
-      "score": 258,
-      "comments": 188,
-      "author": "bcherny",
-      "tags": [],
-      "date": "2026-09-20T16:41:46+00:00"
-    },
-    {
-      "id": "hn-49777121",
-      "source": "hn",
-      "title": "How video games inspire great UX (2019)",
-      "url": "https://jenson.org/games/",
-      "score": 94,
-      "comments": 16,
-      "author": "andsoitis",
-      "tags": [],
-      "date": "2026-09-20T16:00:13+00:00"
-    },
-    {
-      "id": "hn-49777111",
-      "source": "hn",
-      "title": "Prompts aren’t Real",
-      "url": "https://evaluation.club",
-      "score": 92,
-      "comments": 44,
-      "author": "mcfunley",
-      "tags": [],
-      "date": "2026-09-20T15:59:25+00:00"
-    },
-    {
-      "id": "hn-49777106",
-      "source": "hn",
-      "title": "Laya (OS Jev) on Mac M4 CoreML Offline (45 decisions per second)",
-      "url": "https://gist.github.com/fordnox/e592d0f68b543fd044be8e6d040863a0",
-      "score": 111,
-      "comments": 21,
-      "author": "putna",
-      "tags": [],
-      "date": "2026-09-20T15:58:52+00:00"
-    },
-    {
-      "id": "hn-49776960",
-      "source": "hn",
-      "title": "Custom home server built from spare parts",
-      "url": "https://asmat.ca/blog/i-went-bananas/",
-      "score": 47,
-      "comments": 21,
-      "author": "sotilrac",
-      "tags": [],
-      "date": "2026-09-20T15:43:32+00:00"
-    },
-    {
-      "id": "hn-49776826",
-      "source": "hn",
-      "title": "One-Electron Universe",
-      "url": "https://en.wikipedia.org/wiki/One-electron_universe",
-      "score": 52,
-      "comments": 39,
-      "author": "pella",
-      "tags": [],
-      "date": "2026-09-20T15:28:05+00:00"
-    },
-    {
-      "id": "hn-49776796",
-      "source": "hn",
-      "title": "What's been going on in w64devkit the past year",
-      "url": "https://nullprogram.com/blog/2026/09/20/",
-      "score": 12,
-      "comments": 1,
-      "author": "dalvrosa",
-      "tags": [],
-      "date": "2026-09-20T15:25:41+00:00"
-    },
-    {
-      "id": "hn-49776729",
-      "source": "hn",
-      "title": "ChatGPT now knows what you do on other websites via ad collector",
-      "url": "https://www.buchodi.com/chatgpt-now-knows-what-you-do-on-other-websites-via-ad-collector/",
-      "score": 567,
-      "comments": 305,
-      "author": "lmbbuchodi",
-      "tags": [],
-      "date": "2026-09-20T15:18:44+00:00"
-    },
-    {
-      "id": "hn-49776717",
-      "source": "hn",
-      "title": "Singapore’s National Library Board offers micropayments to build reading habits",
-      "url": "https://www.gadgetreview.com/singapore-is-paying-people-to-put-down-their-phones-and-read-books",
-      "score": 255,
-      "comments": 114,
-      "author": "geox",
-      "tags": [],
-      "date": "2026-09-20T15:18:05+00:00"
-    },
-    {
       "id": "ctf-4372374",
       "source": "project",
       "proj_category": "CTF",
@@ -5423,19 +5423,6 @@
       "date": "Fri, 25 Sep 2026 23:38:05 GMT"
     },
     {
-      "id": "zenn-cf6893174e",
-      "source": "zennqiita",
-      "sub_source": "Zenn",
-      "title": "【図解】Unity×Computeシェーダーで流体シミュレーション（Stable Fluids）を作った",
-      "url": "https://zenn.dev/haharman/articles/310d80dc737c2b",
-      "score": null,
-      "author": "ハーマン",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Fri, 25 Sep 2026 14:03:38 GMT"
-    },
-    {
       "id": "zenn-ffd7aab729",
       "source": "zennqiita",
       "sub_source": "Zenn",
@@ -5487,19 +5474,6 @@
         "Zenn"
       ],
       "date": "Fri, 25 Sep 2026 07:05:18 GMT"
-    },
-    {
-      "id": "zenn-17845c26d6",
-      "source": "zennqiita",
-      "sub_source": "Zenn",
-      "title": "無料の技術イベントは、無料でつくられていない",
-      "url": "https://zenn.dev/sun_asterisk/articles/free-event-not-free",
-      "score": null,
-      "author": "みうP",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Fri, 25 Sep 2026 04:47:50 GMT"
     },
     {
       "id": "zenn-f150cb0f2e",
@@ -5669,6 +5643,32 @@
         "Zenn"
       ],
       "date": "Wed, 23 Sep 2026 06:51:29 GMT"
+    },
+    {
+      "id": "zenn-85d1a743f5",
+      "source": "zennqiita",
+      "sub_source": "Zenn",
+      "title": "Opus 5.5とGPT-6 Solの使い分け：「どうしますか」が減った話",
+      "url": "https://zenn.dev/hjpotter1/articles/e1278d79045de9",
+      "score": null,
+      "author": "hjpotter1",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Wed, 23 Sep 2026 05:05:21 GMT"
+    },
+    {
+      "id": "zenn-bdcb7faae6",
+      "source": "zennqiita",
+      "sub_source": "Zenn",
+      "title": "みんなJevの話してる。やってないの俺だけ",
+      "url": "https://zenn.dev/unsoluble_sugar/articles/jev-system-one-model-intro",
+      "score": null,
+      "author": "星影",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Tue, 22 Sep 2026 13:11:24 GMT"
     },
     {
       "id": "edb-539c995398",

@@ -1,7 +1,41 @@
 {
-  "updated_at": "2026-09-28T22:24:42.959148+00:00",
+  "updated_at": "2026-09-29T02:10:21.668621+00:00",
   "count": 500,
   "items": [
+    {
+      "id": "hn-49886609",
+      "source": "hn",
+      "title": "We found 24 Android vulnerabilities using our open source AI security agent",
+      "url": "https://github.blog/security/how-we-found-24-android-vulnerabilities-using-our-open-source-ai-security-agent/",
+      "score": 6,
+      "comments": 1,
+      "author": "fourfire",
+      "tags": [],
+      "date": "2026-09-29T00:55:47+00:00",
+      "severity": "critical"
+    },
+    {
+      "id": "hn-49886482",
+      "source": "hn",
+      "title": "Tank Body Problem",
+      "url": "http://www.jimsitu.com",
+      "score": 6,
+      "comments": 2,
+      "author": "jimbooonooo",
+      "tags": [],
+      "date": "2026-09-29T00:41:45+00:00"
+    },
+    {
+      "id": "hn-49886195",
+      "source": "hn",
+      "title": "1996 chat room simulator connected to Win95 and System 7 web desktops",
+      "url": "https://lolchat.rip/",
+      "score": 19,
+      "comments": 12,
+      "author": "henrychannel",
+      "tags": [],
+      "date": "2026-09-29T00:06:48+00:00"
+    },
     {
       "id": "qiita-ddd5afe664",
       "source": "zennqiita",
@@ -14,6 +48,17 @@
         "Qiita"
       ],
       "date": "2026-09-29T06:36:37+09:00"
+    },
+    {
+      "id": "hn-49884625",
+      "source": "hn",
+      "title": "ESP32S3 cluster running 1.58-bit (BitNet) Language model",
+      "url": "https://github.com/Low-Zi-Hong/ESP32s3-LLM-Cluster",
+      "score": 30,
+      "comments": 2,
+      "author": "nkko",
+      "tags": [],
+      "date": "2026-09-28T21:26:41+00:00"
     },
     {
       "id": "hn-49884363",
@@ -53,8 +98,8 @@
       "source": "hn",
       "title": "Jeff – Jev-compatible 0.8B decision models, trained at home, ~30 ms",
       "url": "https://github.com/firelex/jeff",
-      "score": 116,
-      "comments": 26,
+      "score": 284,
+      "comments": 116,
       "author": "firelex",
       "tags": [],
       "date": "2026-09-28T20:23:36+00:00"
@@ -75,19 +120,30 @@
       "source": "hn",
       "title": "World Labs Is Joining AMD",
       "url": "https://www.worldlabs.ai/blog/amd-announcement",
-      "score": 118,
-      "comments": 38,
+      "score": 191,
+      "comments": 75,
       "author": "mfiguiere",
       "tags": [],
       "date": "2026-09-28T20:18:05+00:00"
+    },
+    {
+      "id": "hn-49883539",
+      "source": "hn",
+      "title": "California farmers are struggling to sell grapes as demand for wine drops",
+      "url": "https://www.kqed.org/news/12101534/california-farmers-are-struggling-to-sell-grapes-as-demand-for-wine-drops",
+      "score": 55,
+      "comments": 131,
+      "author": "randycupertino",
+      "tags": [],
+      "date": "2026-09-28T20:00:06+00:00"
     },
     {
       "id": "hn-49883536",
       "source": "hn",
       "title": "Scientists solve 1840s space weather mystery",
       "url": "https://arstechnica.com/science/2026/09/scientists-solve-1840s-space-weather-mystery/",
-      "score": 27,
-      "comments": 17,
+      "score": 62,
+      "comments": 37,
       "author": "gumby",
       "tags": [],
       "date": "2026-09-28T20:00:03+00:00"
@@ -97,8 +153,8 @@
       "source": "hn",
       "title": "It's Time to Investigate the AI Labs",
       "url": "https://calnewport.com/its-time-to-investigate-the-ai-labs/",
-      "score": 130,
-      "comments": 30,
+      "score": 303,
+      "comments": 107,
       "author": "ibobev",
       "tags": [],
       "date": "2026-09-28T19:53:35+00:00"
@@ -119,8 +175,8 @@
       "source": "hn",
       "title": "MicroLLM Lab – Try 7 tiny LLM's in the browser",
       "url": "https://stateofutopia.com/experiments/microllmlab/",
-      "score": 90,
-      "comments": 36,
+      "score": 132,
+      "comments": 64,
       "author": "logicallee",
       "tags": [],
       "date": "2026-09-28T18:58:53+00:00"
@@ -144,8 +200,8 @@
       "source": "hn",
       "title": "Sonnet 5.5",
       "url": "https://www.anthropic.com/claude-sonnet-5-5",
-      "score": 478,
-      "comments": 321,
+      "score": 590,
+      "comments": 407,
       "author": "D2OQZG8l5BI1S06",
       "tags": [],
       "date": "2026-09-28T17:58:11+00:00"
@@ -245,8 +301,8 @@
       "source": "hn",
       "title": "Pirating the Pirates",
       "url": "https://mubi.com/en/notebook/posts/pirating-the-pirates",
-      "score": 353,
-      "comments": 174,
+      "score": 417,
+      "comments": 224,
       "author": "piotrgrabowski",
       "tags": [],
       "date": "2026-09-28T15:54:15+00:00"
@@ -256,8 +312,8 @@
       "source": "hn",
       "title": "Nvidia wants to put a watchdog chip next to every AI agent",
       "url": "https://www.cnbc.com/2026/09/28/nvidia-releases.html",
-      "score": 67,
-      "comments": 118,
+      "score": 105,
+      "comments": 147,
       "author": "jonbaer",
       "tags": [],
       "date": "2026-09-28T15:46:36+00:00"
@@ -267,8 +323,8 @@
       "source": "hn",
       "title": "Hijacking the PS5's RTMP stream",
       "url": "https://yashgarg.dev/posts/hijacking-ps5-rtmp-stream/",
-      "score": 165,
-      "comments": 53,
+      "score": 197,
+      "comments": 66,
       "author": "ibobev",
       "tags": [],
       "date": "2026-09-28T15:35:23+00:00"
@@ -278,19 +334,31 @@
       "source": "hn",
       "title": "Kids turned low-traffic NPR Spotify comments into a secret group chat",
       "url": "https://www.thisamericanlife.org/897/transcript",
-      "score": 72,
-      "comments": 48,
+      "score": 292,
+      "comments": 180,
       "author": "simonpure",
       "tags": [],
       "date": "2026-09-28T15:35:09+00:00"
+    },
+    {
+      "id": "hn-49879645",
+      "source": "hn",
+      "title": "Updated Google Maps shows destruction of the city of Rafah",
+      "url": "https://twitter.com/AliAbunimah/status/2103890594137309425",
+      "score": 218,
+      "comments": 120,
+      "author": "slowin",
+      "tags": [],
+      "date": "2026-09-28T15:32:18+00:00",
+      "severity": "medium"
     },
     {
       "id": "hn-49879577",
       "source": "hn",
       "title": "Cf: The Agentic CLI for the Cloudflare API",
       "url": "https://blog.cloudflare.com/cloudflare-cf-cli-launch/",
-      "score": 85,
-      "comments": 38,
+      "score": 121,
+      "comments": 48,
       "author": "macleos",
       "tags": [],
       "date": "2026-09-28T15:28:13+00:00"
@@ -307,6 +375,17 @@
         "Qiita"
       ],
       "date": "2026-09-29T00:19:56+09:00"
+    },
+    {
+      "id": "hn-49879401",
+      "source": "hn",
+      "title": "Show HN: HN.watch – Videos of all Hacker News posts",
+      "url": "https://hn.watch/",
+      "score": 128,
+      "comments": 81,
+      "author": "mrborgen",
+      "tags": [],
+      "date": "2026-09-28T15:16:13+00:00"
     },
     {
       "id": "hn-49879343",
@@ -351,6 +430,17 @@
       "author": "firstSpeaker",
       "tags": [],
       "date": "2026-09-28T13:52:57+00:00"
+    },
+    {
+      "id": "hn-49877678",
+      "source": "hn",
+      "title": "Does Reddit have an astroturfing problem? What the data suggests",
+      "url": "https://www.petervijeh.com/projects/reddit-astroturf",
+      "score": 119,
+      "comments": 143,
+      "author": "p-s-v",
+      "tags": [],
+      "date": "2026-09-28T13:30:54+00:00"
     },
     {
       "id": "hn-49876760",
@@ -522,8 +612,8 @@
       "source": "hn",
       "title": "Parley: Federated, decentralised chat that speaks plain IRC",
       "url": "https://git.mills.io/prologic/parley",
-      "score": 283,
-      "comments": 145,
+      "score": 304,
+      "comments": 168,
       "author": "davidcollantes",
       "tags": [],
       "date": "2026-09-28T10:30:54+00:00"
@@ -1289,8 +1379,8 @@
       "source": "hn",
       "title": "What reversing, modernising old games tells us about the economic impact of AI",
       "url": "https://this.os.isfine.org/blog/posts/what-reverse-engineering-and-modernising-an-old-war-game-tells-us-about-the-econ/",
-      "score": 19,
-      "comments": 3,
+      "score": 70,
+      "comments": 23,
       "author": "keeda",
       "tags": [],
       "date": "2026-09-26T23:49:01+00:00"
@@ -1386,6 +1476,17 @@
       "date": "2026-09-26T17:26:54+00:00"
     },
     {
+      "id": "hn-49858643",
+      "source": "hn",
+      "title": "What is the best shape of a city? Modelling effect of urban form on distance",
+      "url": "https://journals.sagepub.com/doi/10.1177/23998083261458842",
+      "score": 13,
+      "comments": 6,
+      "author": "rustoo",
+      "tags": [],
+      "date": "2026-09-26T17:23:09+00:00"
+    },
+    {
       "id": "hn-49858513",
       "source": "hn",
       "title": "Show HN: Reladraw – A diagram language where you decide where to place things",
@@ -1417,6 +1518,17 @@
       "author": "onemoresoop",
       "tags": [],
       "date": "2026-09-26T16:46:24+00:00"
+    },
+    {
+      "id": "hn-49858193",
+      "source": "hn",
+      "title": "How to win a beer with high-dimensional statistics",
+      "url": "https://jamiesimon.io/blog/how-to-win-a-beer-with-high-dimensional-statistics/",
+      "score": 14,
+      "comments": 2,
+      "author": "jamie-simon",
+      "tags": [],
+      "date": "2026-09-26T16:40:06+00:00"
     },
     {
       "id": "qiita-d64fd147c7",
@@ -1507,6 +1619,17 @@
       "author": "utiiiD",
       "tags": [],
       "date": "2026-09-26T15:06:28+00:00"
+    },
+    {
+      "id": "hn-49857231",
+      "source": "hn",
+      "title": "The Art Forger Who Became a National Hero",
+      "url": "https://priceonomics.com/the-art-forger-who-became-a-national-hero/",
+      "score": 6,
+      "comments": 0,
+      "author": "bookofjoe",
+      "tags": [],
+      "date": "2026-09-26T15:00:27+00:00"
     },
     {
       "id": "qiita-a14f3f1a31",
@@ -1668,8 +1791,8 @@
       "source": "hn",
       "title": "12,000-year-old Göbeklitepe burials explain scattered bones",
       "url": "https://archaeologymag.com/2026/09/gobeklitepe-burials-hundreds-of-scattered-bones/",
-      "score": 40,
-      "comments": 5,
+      "score": 81,
+      "comments": 22,
       "author": "yusufaytas",
       "tags": [],
       "date": "2026-09-26T10:16:26+00:00"
@@ -5095,130 +5218,6 @@
       "date": "2026-09-22T23:04:01+09:00"
     },
     {
-      "id": "hn-49801436",
-      "source": "hn",
-      "title": "2DWillNeverDie",
-      "url": "https://2dwillneverdie.com/",
-      "score": 288,
-      "comments": 72,
-      "author": "surprisetalk",
-      "tags": [],
-      "date": "2026-09-22T14:00:08+00:00"
-    },
-    {
-      "id": "hn-49801329",
-      "source": "hn",
-      "title": "Show HN: Drop – A rootless Linux sandbox with gVisor support",
-      "url": "https://droprun.sh/",
-      "score": 96,
-      "comments": 28,
-      "author": "mixedbit",
-      "tags": [],
-      "date": "2026-09-22T13:52:47+00:00"
-    },
-    {
-      "id": "hn-49801324",
-      "source": "hn",
-      "title": "OpenAI GPT–6 Astra breaks Enigma message that has resisted solution since 2005",
-      "url": "https://www.cryptocellar.org/bgac/the-mvueh-break.html",
-      "score": 711,
-      "comments": 428,
-      "author": "sohkamyung",
-      "tags": [],
-      "date": "2026-09-22T13:52:15+00:00"
-    },
-    {
-      "id": "hn-49801218",
-      "source": "hn",
-      "title": "The Economics of Open-Weight Inference",
-      "url": "https://data.ornn.com/publications/the-economics-of-open-weight-inference",
-      "score": 16,
-      "comments": 6,
-      "author": "marinesebastian",
-      "tags": [],
-      "date": "2026-09-22T13:45:32+00:00"
-    },
-    {
-      "id": "qiita-2f6a340330",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "Lambda MicroVMのヘルスチェックポートは結構自由に決められる",
-      "url": "https://qiita.com/har1101/items/2822a4e3837f0be0729f?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "har1101",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-09-22T22:05:03+09:00"
-    },
-    {
-      "id": "hn-49800574",
-      "source": "hn",
-      "title": "Show HN: JevBench, a reproducible benchmark for typed decision models",
-      "url": "https://benchmarkheaven.com/jev-models",
-      "score": 97,
-      "comments": 24,
-      "author": "florianstandhar",
-      "tags": [],
-      "date": "2026-09-22T13:01:03+00:00"
-    },
-    {
-      "id": "hn-49800566",
-      "source": "hn",
-      "title": "Show HN: Training a model to identify AI web content from structure alone",
-      "url": "https://arxiv.org/abs/2609.15369",
-      "score": 32,
-      "comments": 8,
-      "author": "jochenmadler",
-      "tags": [],
-      "date": "2026-09-22T13:00:49+00:00"
-    },
-    {
-      "id": "hn-49800513",
-      "source": "hn",
-      "title": "Show HN: Npunlock – Run custom C kernels for Intel NPUs",
-      "url": "https://github.com/hsfzxjy/npunlock",
-      "score": 45,
-      "comments": 12,
-      "author": "hsfzxjy",
-      "tags": [],
-      "date": "2026-09-22T12:58:02+00:00"
-    },
-    {
-      "id": "hn-49800114",
-      "source": "hn",
-      "title": "Bwbach, My Guardian Goblin",
-      "url": "https://robertmay.photography/journal/bwbach-my-guardian-goblin",
-      "score": 18,
-      "comments": 12,
-      "author": "robotmay",
-      "tags": [],
-      "date": "2026-09-22T12:25:57+00:00"
-    },
-    {
-      "id": "hn-49800085",
-      "source": "hn",
-      "title": "Fearless SIMD v1.0",
-      "url": "https://linebender.org/blog/fearless-simd-1-0/",
-      "score": 284,
-      "comments": 47,
-      "author": "verdagon",
-      "tags": [],
-      "date": "2026-09-22T12:23:37+00:00"
-    },
-    {
-      "id": "hn-49799910",
-      "source": "hn",
-      "title": "Will Open Source Survive the Agents That Replaced It?",
-      "url": "https://albertoarena.it/posts/will-open-source-survive-the-agents-that-replaced-it/",
-      "score": 5,
-      "comments": 0,
-      "author": "albertoarena",
-      "tags": [],
-      "date": "2026-09-22T12:05:17+00:00",
-      "severity": "critical"
-    },
-    {
       "id": "ctf-4703963",
       "source": "project",
       "proj_category": "CTF",
@@ -5572,6 +5571,19 @@
       "severity": "critical"
     },
     {
+      "id": "zenn-53bba40aca",
+      "source": "zennqiita",
+      "sub_source": "Zenn",
+      "title": "AIに書かせても速くならないのは、AIを「手足」として使っているから。人が押さえるべき5つの判断ポイントと半自動ループの作り方",
+      "url": "https://zenn.dev/dotdtech_blog/articles/65d51bc72d7ee9",
+      "score": null,
+      "author": "koki yamamoto",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Fri, 25 Sep 2026 09:35:29 GMT"
+    },
+    {
       "id": "zenn-22dd14c5aa",
       "source": "zennqiita",
       "sub_source": "Zenn",
@@ -5661,19 +5673,6 @@
         "Zenn"
       ],
       "date": "Thu, 24 Sep 2026 01:00:06 GMT"
-    },
-    {
-      "id": "zenn-1580e950f5",
-      "source": "zennqiita",
-      "sub_source": "Zenn",
-      "title": "AIソフトウェア工場の設計——要求から本番運用までをつなぐアーキテクチャ",
-      "url": "https://zenn.dev/hampen2929/books/ai-software-factory-architecture",
-      "score": null,
-      "author": "はんぺん",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Wed, 23 Sep 2026 21:00:25 GMT"
     },
     {
       "id": "edb-539c995398",

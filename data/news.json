@@ -1,7 +1,40 @@
 {
-  "updated_at": "2026-09-29T23:52:40.945947+00:00",
+  "updated_at": "2026-09-30T04:11:00.832716+00:00",
   "count": 500,
   "items": [
+    {
+      "id": "hn-49903993",
+      "source": "hn",
+      "title": "PSSA: A non-transformer language model written from scratch in Rust",
+      "url": "https://github.com/Sparticle62ops/pssa",
+      "score": 19,
+      "comments": 3,
+      "author": "sparticle62",
+      "tags": [],
+      "date": "2026-09-30T03:19:54+00:00"
+    },
+    {
+      "id": "hn-49903862",
+      "source": "hn",
+      "title": "RSS Feeds for Last.fm",
+      "url": "https://lfm.xiffy.nl/",
+      "score": 3,
+      "comments": 1,
+      "author": "Baljhin",
+      "tags": [],
+      "date": "2026-09-30T03:00:05+00:00"
+    },
+    {
+      "id": "hn-49903383",
+      "source": "hn",
+      "title": "Strange Parodies of Atari 2600 Video Game Box Cover Art (2008)",
+      "url": "https://mightygodking.com/2008/04/21/fun-from-yesterday/",
+      "score": 17,
+      "comments": 8,
+      "author": "peter_d_sherman",
+      "tags": [],
+      "date": "2026-09-30T01:47:14+00:00"
+    },
     {
       "id": "hn-49901973",
       "source": "hn",
@@ -18,8 +51,8 @@
       "source": "hn",
       "title": "Livenerf: Has Opus 5.5 been nerfed yet?",
       "url": "https://github.com/ninjahawk/livenerf",
-      "score": 86,
-      "comments": 43,
+      "score": 350,
+      "comments": 148,
       "author": "bryan0",
       "tags": [],
       "date": "2026-09-29T22:36:14+00:00"
@@ -34,6 +67,17 @@
       "author": "nicoloren",
       "tags": [],
       "date": "2026-09-29T22:10:23+00:00"
+    },
+    {
+      "id": "hn-49901149",
+      "source": "hn",
+      "title": "Deser: Rethinking Rust Serialization",
+      "url": "https://lucumr.pocoo.org/2026/9/29/deser/",
+      "score": 39,
+      "comments": 6,
+      "author": "tosh",
+      "tags": [],
+      "date": "2026-09-29T21:48:27+00:00"
     },
     {
       "id": "qiita-963534e791",
@@ -53,8 +97,8 @@
       "source": "hn",
       "title": "U.S. postal inspectors shut down website selling counterfeit postage labels",
       "url": "https://postalemployeenetwork.com/news/2026/09/26/u-s-postal-inspectors-shut-down-website-selling-millions-of-counterfeit-postage-labels/",
-      "score": 149,
-      "comments": 79,
+      "score": 191,
+      "comments": 114,
       "author": "ilamont",
       "tags": [],
       "date": "2026-09-29T19:30:17+00:00"
@@ -97,8 +141,8 @@
       "source": "hn",
       "title": "Show HN: Real-time Solar System with 526k asteroids and all tracked satellites",
       "url": "https://space.bl2.net/",
-      "score": 80,
-      "comments": 23,
+      "score": 155,
+      "comments": 37,
       "author": "wanick",
       "tags": [],
       "date": "2026-09-29T19:08:01+00:00"
@@ -108,8 +152,8 @@
       "source": "hn",
       "title": "We’re forgetting what darkness feels like",
       "url": "https://www.theguardian.com/environment/2026/sep/29/night-sky-darkness-city-regulation",
-      "score": 10,
-      "comments": 2,
+      "score": 91,
+      "comments": 57,
       "author": "pseudolus",
       "tags": [],
       "date": "2026-09-29T18:22:40+00:00"
@@ -152,8 +196,8 @@
       "source": "hn",
       "title": "Show HN: A working 3D model of an Enigma machine",
       "url": "https://enigma.design",
-      "score": 14,
-      "comments": 1,
+      "score": 47,
+      "comments": 15,
       "author": "primitivesuave",
       "tags": [],
       "date": "2026-09-29T17:15:56+00:00"
@@ -163,8 +207,8 @@
       "source": "hn",
       "title": "Tcl/Tk 9.1",
       "url": "https://www.tcl-lang.org/software/tcltk/9.1.html",
-      "score": 229,
-      "comments": 78,
+      "score": 254,
+      "comments": 92,
       "author": "dmux",
       "tags": [],
       "date": "2026-09-29T17:13:38+00:00"
@@ -174,8 +218,8 @@
       "source": "hn",
       "title": "Dots: Always-on agents",
       "url": "https://openai.com/index/introducing-dots/",
-      "score": 353,
-      "comments": 262,
+      "score": 487,
+      "comments": 365,
       "author": "alvis",
       "tags": [],
       "date": "2026-09-29T17:07:57+00:00"
@@ -196,8 +240,8 @@
       "source": "hn",
       "title": "GPT 6.1 Sol: Near-Astra intelligence for a fifth of the price",
       "url": "https://openai.com/index/introducing-gpt-6-1-sol/",
-      "score": 744,
-      "comments": 683,
+      "score": 836,
+      "comments": 758,
       "author": "crorella",
       "tags": [],
       "date": "2026-09-29T17:06:45+00:00"
@@ -218,8 +262,8 @@
       "source": "hn",
       "title": "Needed 1+1, built a functional programming language",
       "url": "https://hereticpleb.vercel.app/blog/needed-one-plus-one/",
-      "score": 6,
-      "comments": 0,
+      "score": 52,
+      "comments": 14,
       "author": "birdculture",
       "tags": [],
       "date": "2026-09-29T16:18:26+00:00"
@@ -229,8 +273,8 @@
       "source": "hn",
       "title": "PS5 Relapse Exploit",
       "url": "https://github.com/ntfargo/Relapse-Exploit",
-      "score": 218,
-      "comments": 119,
+      "score": 259,
+      "comments": 142,
       "author": "therepanic",
       "tags": [],
       "date": "2026-09-29T15:44:41+00:00",
@@ -241,8 +285,8 @@
       "source": "hn",
       "title": "Show HN: NSL – WSL for Linux",
       "url": "https://frostyard.github.io/nsl/",
-      "score": 74,
-      "comments": 58,
+      "score": 101,
+      "comments": 71,
       "author": "bketelsen",
       "tags": [],
       "date": "2026-09-29T14:51:36+00:00"
@@ -307,8 +351,8 @@
       "source": "hn",
       "title": "America.gov",
       "url": "https://america.gov/",
-      "score": 284,
-      "comments": 230,
+      "score": 443,
+      "comments": 352,
       "author": "plesiv",
       "tags": [],
       "date": "2026-09-29T14:04:57+00:00"
@@ -318,8 +362,8 @@
       "source": "hn",
       "title": "Backblaze drive stats for Q2 2026",
       "url": "https://www.backblaze.com/blog/backblaze-drive-stats-for-q2-2026/",
-      "score": 45,
-      "comments": 2,
+      "score": 113,
+      "comments": 24,
       "author": "HieronymusBosch",
       "tags": [],
       "date": "2026-09-29T13:34:20+00:00"
@@ -353,8 +397,8 @@
       "source": "hn",
       "title": "How Delhi cut electricity loss from 50 to 5 percent",
       "url": "https://spectrum.ieee.org/delhi-electricity-loss",
-      "score": 420,
-      "comments": 247,
+      "score": 467,
+      "comments": 269,
       "author": "rbanffy",
       "tags": [],
       "date": "2026-09-29T12:43:29+00:00",
@@ -482,8 +526,8 @@
       "source": "hn",
       "title": "Language models for text classification: From bag-of-words to Jev",
       "url": "https://magazine.sebastianraschka.com/p/classifier-history-and-jev",
-      "score": 13,
-      "comments": 0,
+      "score": 52,
+      "comments": 1,
       "author": "Anon84",
       "tags": [],
       "date": "2026-09-29T11:06:25+00:00"
@@ -955,6 +999,17 @@
       "date": "2026-09-28T17:34:36+00:00"
     },
     {
+      "id": "hn-49880969",
+      "source": "hn",
+      "title": "Synthetic Sagas",
+      "url": "https://www.scattered-thoughts.net/writing/synthetic-sagas/",
+      "score": 3,
+      "comments": 0,
+      "author": "ffin",
+      "tags": [],
+      "date": "2026-09-28T16:55:51+00:00"
+    },
+    {
       "id": "hn-49880601",
       "source": "hn",
       "title": "Show HN: Destroy Any Website with Stickman",
@@ -970,8 +1025,8 @@
       "source": "hn",
       "title": "Phyllotaxis: An audio-reactive LED display",
       "url": "https://jagi.studio/posts/phyllotaxis/",
-      "score": 257,
-      "comments": 43,
+      "score": 267,
+      "comments": 45,
       "author": "evakhoury",
       "tags": [],
       "date": "2026-09-28T16:18:57+00:00"
@@ -1166,8 +1221,8 @@
       "source": "hn",
       "title": "A Staff Engineer's Guide to Inventing Work",
       "url": "https://sujithjay.com/inventing-work",
-      "score": 108,
-      "comments": 28,
+      "score": 214,
+      "comments": 44,
       "author": "amortize",
       "tags": [],
       "date": "2026-09-28T14:46:07+00:00"
@@ -1649,8 +1704,8 @@
       "source": "hn",
       "title": "NAND-16: a computer built from 277,248 NAND gates",
       "url": "https://somethingbig.ai/computer",
-      "score": 104,
-      "comments": 52,
+      "score": 115,
+      "comments": 63,
       "author": "rossant",
       "tags": [],
       "date": "2026-09-27T21:26:06+00:00"
@@ -2366,8 +2421,8 @@
       "source": "hn",
       "title": "Commodore 64: Mercenary",
       "url": "https://gamesexplained.com/c64/mercenary/",
-      "score": 18,
-      "comments": 4,
+      "score": 38,
+      "comments": 6,
       "author": "a1r",
       "tags": [],
       "date": "2026-09-26T19:00:46+00:00",
@@ -5167,65 +5222,6 @@
       "author": "thm",
       "tags": [],
       "date": "2026-09-23T17:45:30+00:00"
-    },
-    {
-      "id": "hn-49819244",
-      "source": "hn",
-      "title": "Why didn't anybody tell me about Redis hash slots?",
-      "url": "https://blog.verygoodsoftwarenotvirus.dev/posts/2026/09/23/why-didnt-anybody-tell-me-about-hash-slots/",
-      "score": 10,
-      "comments": 2,
-      "author": "badrequest",
-      "tags": [],
-      "date": "2026-09-23T17:07:10+00:00"
-    },
-    {
-      "id": "hn-49819221",
-      "source": "hn",
-      "title": "Italian parliament votes for return to nuclear energy",
-      "url": "https://apnews.com/article/italy-nuclear-chernobyl-4891b6b7c7791ae84db6b0bf0f7cf567",
-      "score": 763,
-      "comments": 560,
-      "author": "geox",
-      "tags": [],
-      "date": "2026-09-23T17:06:16+00:00"
-    },
-    {
-      "id": "hn-49818698",
-      "source": "hn",
-      "title": "28% of job postings on company career sites have been open over 90 days",
-      "url": "https://unlisted.careers/ghost-jobs/report/2026-09",
-      "score": 170,
-      "comments": 253,
-      "author": "rubatrejo",
-      "tags": [],
-      "date": "2026-09-23T16:35:34+00:00"
-    },
-    {
-      "id": "qiita-f44053f6a8",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "終わってるエンジニアの転職履歴〜その後1年経ってどうなったか〜",
-      "url": "https://qiita.com/bridgebook1125/items/aaa257c199fd094ae31e?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "bridgebook1125",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-09-24T01:22:43+09:00"
-    },
-    {
-      "id": "qiita-740b9a58a0",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "高校の文化祭でPOSシステムをCloudflare上に1から構築/運用した話 〜短期開発から本番障害、そして完売まで〜",
-      "url": "https://qiita.com/ast-24/items/454fc975b095230565c7?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "ast-24",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-09-24T00:39:18+09:00"
     },
     {
       "id": "ctf-4703963",

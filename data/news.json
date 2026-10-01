@@ -1,7 +1,52 @@
 {
-  "updated_at": "2026-09-30T21:12:55.558930+00:00",
+  "updated_at": "2026-10-01T00:41:14.334259+00:00",
   "count": 500,
   "items": [
+    {
+      "id": "hn-49915484",
+      "source": "hn",
+      "title": "EDG C++ Compiler is open source",
+      "url": "https://github.com/edgcpp/compiler",
+      "score": 23,
+      "comments": 1,
+      "author": "zx2c4",
+      "tags": [],
+      "date": "2026-09-30T22:48:44+00:00",
+      "severity": "critical"
+    },
+    {
+      "id": "hn-49915126",
+      "source": "hn",
+      "title": "56k.rip – the 1996 dial-up internet experience",
+      "url": "https://56k.rip/",
+      "score": 22,
+      "comments": 7,
+      "author": "adunk",
+      "tags": [],
+      "date": "2026-09-30T22:08:50+00:00"
+    },
+    {
+      "id": "hn-49915119",
+      "source": "hn",
+      "title": "Automating Wi-Fi setup testing on the ESP32",
+      "url": "https://groundrun.io/blog/automating-wi-fi-setup-testing-on-the-esp32/",
+      "score": 11,
+      "comments": 0,
+      "author": "adunk",
+      "tags": [],
+      "date": "2026-09-30T22:07:51+00:00"
+    },
+    {
+      "id": "hn-49915082",
+      "source": "hn",
+      "title": "The top secret URSALA, RAQUEL, and FARRAH satellites",
+      "url": "https://www.thespacereview.com/article/4951/1",
+      "score": 102,
+      "comments": 29,
+      "author": "Bluestein",
+      "tags": [],
+      "date": "2026-09-30T22:03:04+00:00"
+    },
     {
       "id": "hn-49913975",
       "source": "hn",
@@ -14,12 +59,23 @@
       "date": "2026-09-30T20:32:23+00:00"
     },
     {
+      "id": "hn-49913604",
+      "source": "hn",
+      "title": "Functional Ultrasound Imaging (fUSI) from scratch",
+      "url": "https://www.neuroai.science/p/functional-ultrasound-imaging-from",
+      "score": 23,
+      "comments": 4,
+      "author": "pminimax",
+      "tags": [],
+      "date": "2026-09-30T20:06:39+00:00"
+    },
+    {
       "id": "hn-49913571",
       "source": "hn",
       "title": "Gemini 4 Argon",
       "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-argon/",
-      "score": 498,
-      "comments": 272,
+      "score": 911,
+      "comments": 627,
       "author": "bradleyg223",
       "tags": [],
       "date": "2026-09-30T20:04:37+00:00"
@@ -51,8 +107,8 @@
       "source": "hn",
       "title": "Halfspace experimental IDE for solid modeling with distance fields",
       "url": "https://www.mattkeeter.com/projects/halfspace/",
-      "score": 27,
-      "comments": 5,
+      "score": 64,
+      "comments": 6,
       "author": "luu",
       "tags": [],
       "date": "2026-09-30T19:44:37+00:00"
@@ -73,8 +129,8 @@
       "source": "hn",
       "title": "EDG C++ front-end goes public",
       "url": "https://edgcpp.org/#transition",
-      "score": 76,
-      "comments": 27,
+      "score": 143,
+      "comments": 66,
       "author": "iandinwoodie",
       "tags": [],
       "date": "2026-09-30T19:26:37+00:00"
@@ -82,21 +138,32 @@
     {
       "id": "hn-49912955",
       "source": "hn",
-      "title": "Surprisingly Complex Waves Reveal the Brain's Inner Workings",
+      "title": "Surprisingly complex waves reveal the brain's inner workings",
       "url": "https://www.quantamagazine.org/surprisingly-complex-waves-reveal-the-brains-inner-workings-20260930/",
-      "score": 60,
-      "comments": 11,
+      "score": 110,
+      "comments": 39,
       "author": "ibobev",
       "tags": [],
       "date": "2026-09-30T19:04:50+00:00"
+    },
+    {
+      "id": "hn-49912792",
+      "source": "hn",
+      "title": "Before pixels: Modular industrial dashboards",
+      "url": "https://unsung.aresluna.org/before-pixels-modular-industrial-dashboards/",
+      "score": 40,
+      "comments": 6,
+      "author": "leephillips",
+      "tags": [],
+      "date": "2026-09-30T18:49:06+00:00"
     },
     {
       "id": "hn-49912444",
       "source": "hn",
       "title": "5x faster Edge Functions: V8 isolates to Firecracker MicroVMs",
       "url": "https://www.netlify.com/blog/edge-functions-firecracker-microvms/",
-      "score": 61,
-      "comments": 19,
+      "score": 110,
+      "comments": 38,
       "author": "jbott",
       "tags": [],
       "date": "2026-09-30T18:17:45+00:00"
@@ -113,12 +180,24 @@
       "date": "2026-09-30T18:06:13+00:00"
     },
     {
+      "id": "hn-49912048",
+      "source": "hn",
+      "title": "CHOMPI portable sampler instrument is now open-source (hardware and software)",
+      "url": "https://www.chompiclub.com/opensource",
+      "score": 33,
+      "comments": 7,
+      "author": "lashkari",
+      "tags": [],
+      "date": "2026-09-30T17:42:13+00:00",
+      "severity": "critical"
+    },
+    {
       "id": "hn-49911995",
       "source": "hn",
       "title": "Launch HN: Magnitude (YC S25) – Self-optimizing inference engine for agents",
       "url": "https://github.com/magnitudedev/magnitude",
-      "score": 94,
-      "comments": 43,
+      "score": 121,
+      "comments": 56,
       "author": "anerli",
       "tags": [],
       "date": "2026-09-30T17:37:40+00:00"
@@ -144,6 +223,17 @@
       "author": "yedhukrishnan",
       "tags": [],
       "date": "2026-09-30T17:18:13+00:00"
+    },
+    {
+      "id": "hn-49911534",
+      "source": "hn",
+      "title": "Great Dirhombicosidodecahedron (\"Miller's Monster\")",
+      "url": "https://www.software3d.com/MillersMonster.php",
+      "score": 36,
+      "comments": 1,
+      "author": "cobbzilla",
+      "tags": [],
+      "date": "2026-09-30T17:00:44+00:00"
     },
     {
       "id": "hn-49911531",
@@ -192,6 +282,28 @@
       "date": "2026-09-30T15:50:11+00:00"
     },
     {
+      "id": "hn-49909908",
+      "source": "hn",
+      "title": "Coltrane's Tone Circle",
+      "url": "https://jtomschroeder.com/blog/tone-circle/",
+      "score": 24,
+      "comments": 5,
+      "author": "jtomschroeder",
+      "tags": [],
+      "date": "2026-09-30T14:59:42+00:00"
+    },
+    {
+      "id": "hn-49909648",
+      "source": "hn",
+      "title": "Show HN: Lathoa, a math app for kids where the AI is wrong on purpose",
+      "url": "https://lathoa.ai/en",
+      "score": 21,
+      "comments": 8,
+      "author": "thanouil1411",
+      "tags": [],
+      "date": "2026-09-30T14:38:57+00:00"
+    },
+    {
       "id": "hn-49909610",
       "source": "hn",
       "title": "SDF Public Access Unix System ... est. 1987",
@@ -207,8 +319,8 @@
       "source": "hn",
       "title": "A brief history of the Bloomberg terminal",
       "url": "https://spectrum.ieee.org/bloomberg-terminal",
-      "score": 181,
-      "comments": 70,
+      "score": 219,
+      "comments": 87,
       "author": "rbanffy",
       "tags": [],
       "date": "2026-09-30T14:34:07+00:00"
@@ -218,8 +330,8 @@
       "source": "hn",
       "title": "What TLA+ can and can't check",
       "url": "https://buttondown.com/hillelwayne/archive/what-tla-can-and-cant-check/",
-      "score": 107,
-      "comments": 23,
+      "score": 133,
+      "comments": 29,
       "author": "b-man",
       "tags": [],
       "date": "2026-09-30T13:57:06+00:00"
@@ -264,11 +376,22 @@
       "source": "hn",
       "title": "You said no MCP",
       "url": "https://earendil.com/posts/you-said-no-mcp/",
-      "score": 556,
-      "comments": 320,
+      "score": 608,
+      "comments": 339,
       "author": "yarapavan",
       "tags": [],
       "date": "2026-09-30T09:55:23+00:00"
+    },
+    {
+      "id": "hn-49906432",
+      "source": "hn",
+      "title": "Singapore govt dating app uses Gale-Shapley stable marriage algorithm",
+      "url": "https://twitter.com/tuakdotsol/status/2105105417760391258",
+      "score": 171,
+      "comments": 102,
+      "author": "rzk",
+      "tags": [],
+      "date": "2026-09-30T09:27:04+00:00"
     },
     {
       "id": "qiita-c08d1254f8",
@@ -295,6 +418,17 @@
         "Qiita"
       ],
       "date": "2026-09-30T16:54:23+09:00"
+    },
+    {
+      "id": "hn-49905644",
+      "source": "hn",
+      "title": "Doing a Machine Learning PhD While Working in Japan",
+      "url": "https://www.tokyodev.com/articles/doing-a-machine-learning-phd-while-working-in-japan",
+      "score": 42,
+      "comments": 12,
+      "author": "pwim",
+      "tags": [],
+      "date": "2026-09-30T07:33:45+00:00"
     },
     {
       "id": "hn-49905633",
@@ -567,6 +701,17 @@
       "author": "DeepLogin",
       "tags": [],
       "date": "2026-09-29T19:27:41+00:00"
+    },
+    {
+      "id": "hn-49899047",
+      "source": "hn",
+      "title": "A Closer Look at Australopithecus Africanus",
+      "url": "https://lflank.wordpress.com/2026/09/29/a-closer-look-at-australopithecus-africanus/",
+      "score": 7,
+      "comments": 1,
+      "author": "dxs",
+      "tags": [],
+      "date": "2026-09-29T19:27:28+00:00"
     },
     {
       "id": "hn-49898952",
@@ -1048,6 +1193,17 @@
       "date": "2026-09-29T10:10:20+00:00"
     },
     {
+      "id": "hn-49890732",
+      "source": "hn",
+      "title": "Why the Bronze Age Collapsed",
+      "url": "https://www.worksinprogress.news/p/why-really-caused-the-bronze-age",
+      "score": 63,
+      "comments": 42,
+      "author": "AnodicElegy",
+      "tags": [],
+      "date": "2026-09-29T10:10:18+00:00"
+    },
+    {
       "id": "hn-49890707",
       "source": "hn",
       "title": "Show HN: JBR-001 – An open-source 3D printable desktop robot",
@@ -1428,10 +1584,10 @@
     {
       "id": "hn-49883970",
       "source": "hn",
-      "title": "I Could've Accessed 17T Microsoft Records",
+      "title": "I could've accessed 17T Microsoft records",
       "url": "https://blog.faav.net/how-i-couldve-accessed-17-trillion-microsoft-records",
-      "score": 211,
-      "comments": 97,
+      "score": 243,
+      "comments": 107,
       "author": "luispa",
       "tags": [],
       "date": "2026-09-28T20:32:46+00:00"
@@ -5070,169 +5226,6 @@
       "date": "2026-09-25T00:03:24+09:00"
     },
     {
-      "id": "qiita-11f0426a1f",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "AI生成そのままのスライドを使った登壇が多すぎてちょっと食傷気味なんだよォーーーッ！！！",
-      "url": "https://qiita.com/shimagaji/items/8acd9b94dfe56fefc0dc?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "shimagaji",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-09-24T23:40:45+09:00"
-    },
-    {
-      "id": "hn-49831098",
-      "source": "hn",
-      "title": "Forging 1024-bit RSA signatures in nearly SNFS time [pdf]",
-      "url": "https://eprint.iacr.org/2026/2131.pdf",
-      "score": 48,
-      "comments": 5,
-      "author": "int0x29",
-      "tags": [],
-      "date": "2026-09-24T14:26:32+00:00"
-    },
-    {
-      "id": "qiita-07d1d05b52",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "【GAS】Gmailから予定を抽出→スプレッドシートで確認・承認してからGoogleカレンダーに登録する自動化ワークフロー",
-      "url": "https://qiita.com/junko105106/items/42d34ff971a785446cf6?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "junko105106",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-09-24T23:15:21+09:00"
-    },
-    {
-      "id": "hn-49830606",
-      "source": "hn",
-      "title": "Google’s Project Suncatcher to put ML infrastructure in space",
-      "url": "https://blog.google/innovation-and-ai/models-and-research/google-research/google-project-suncatcher-facts/",
-      "score": 185,
-      "comments": 380,
-      "author": "xnx",
-      "tags": [],
-      "date": "2026-09-24T13:53:29+00:00"
-    },
-    {
-      "id": "hn-49830434",
-      "source": "hn",
-      "title": "Two and a half years without a gallbladder",
-      "url": "https://tracydurnell.com/2026/09/16/two-and-a-half-years-without-a-gallbladder/",
-      "score": 21,
-      "comments": 16,
-      "author": "surprisetalk",
-      "tags": [],
-      "date": "2026-09-24T13:40:03+00:00"
-    },
-    {
-      "id": "hn-49830265",
-      "source": "hn",
-      "title": "From Thin Air to Bootable Images: The Tine Build System",
-      "url": "https://amutable.com/blog/tine-build-system",
-      "score": 18,
-      "comments": 1,
-      "author": "Levitating",
-      "tags": [],
-      "date": "2026-09-24T13:25:11+00:00"
-    },
-    {
-      "id": "hn-49829960",
-      "source": "hn",
-      "title": "Owners mourn spoiled food after firmware update bricks Samsung smart fridges",
-      "url": "https://arstechnica.com/gadgets/2026/09/owners-mourn-spoiled-food-after-firmware-update-bricks-samsung-smart-fridges/",
-      "score": 61,
-      "comments": 34,
-      "author": "nonfamous",
-      "tags": [],
-      "date": "2026-09-24T12:58:08+00:00",
-      "severity": "medium"
-    },
-    {
-      "id": "hn-49829528",
-      "source": "hn",
-      "title": "Parsing Expression Grammar vs. Regexes: Building Org Parser in Lisp, Export HTML",
-      "url": "https://jointhefreeworld.org/blog/articles/lisps/parsing-expression-grammar-lisp-org-convert-to-html/index.html",
-      "score": 59,
-      "comments": 10,
-      "author": "jjba23",
-      "tags": [],
-      "date": "2026-09-24T12:10:53+00:00"
-    },
-    {
-      "id": "hn-49829472",
-      "source": "hn",
-      "title": "Fourier Analysis: Drawing Llamas with Circles",
-      "url": "https://adekau.github.io/posts/2020/llamas.html",
-      "score": 45,
-      "comments": 5,
-      "author": "cebert",
-      "tags": [],
-      "date": "2026-09-24T12:03:35+00:00"
-    },
-    {
-      "id": "qiita-3a162400c2",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "あらゆるCLIを「jev化」するツール jany を作った",
-      "url": "https://qiita.com/yukihirop/items/e0d8ffb121c1a753075a?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "yukihirop",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-09-24T20:37:08+09:00"
-    },
-    {
-      "id": "hn-49829202",
-      "source": "hn",
-      "title": "Modern Object Pascal Introduction for Programmers",
-      "url": "https://castle-engine.io/modern_pascal",
-      "score": 162,
-      "comments": 67,
-      "author": "birdculture",
-      "tags": [],
-      "date": "2026-09-24T11:33:56+00:00"
-    },
-    {
-      "id": "hn-49828969",
-      "source": "hn",
-      "title": "The newest ESP32 can run Linux and it's getting close to a Raspberry Pi",
-      "url": "https://www.xda-developers.com/newest-esp32-run-linux-close-to-raspberry-pi/",
-      "score": 90,
-      "comments": 24,
-      "author": "adunk",
-      "tags": [],
-      "date": "2026-09-24T11:08:39+00:00"
-    },
-    {
-      "id": "hn-49828731",
-      "source": "hn",
-      "title": "Two-tier encryption in the UK",
-      "url": "https://macanorak.com/two-tier-encryption-in-the-uk/",
-      "score": 458,
-      "comments": 406,
-      "author": "ReturnoftheHack",
-      "tags": [],
-      "date": "2026-09-24T10:39:19+00:00"
-    },
-    {
-      "id": "qiita-64ff13f935",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "Confluentで実現する「需要シグナル」× SoR の イベント駆動型 AI システム",
-      "url": "https://qiita.com/Harukichi1212/items/9053c30c01ed339b6c23?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "Harukichi1212",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-09-24T19:08:20+09:00"
-    },
-    {
       "id": "ctf-4703963",
       "source": "project",
       "proj_category": "CTF",
@@ -5429,6 +5422,32 @@
       "date": "2023-05-23T17:06:23Z"
     },
     {
+      "id": "zenn-abe8bd9a94",
+      "source": "zennqiita",
+      "sub_source": "Zenn",
+      "title": "Web 標準動向 2026年9月版",
+      "url": "https://zenn.dev/cybozu_frontend/articles/web_standards_trends_202609",
+      "score": null,
+      "author": "saku",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Wed, 30 Sep 2026 09:00:08 GMT"
+    },
+    {
+      "id": "zenn-e99db2fb9b",
+      "source": "zennqiita",
+      "sub_source": "Zenn",
+      "title": "ヘキサゴナルアーキテクチャを実装レベルで確かめてみた（その1）ポート・アダプター・アプリケーションはコードではどうなるのか",
+      "url": "https://zenn.dev/aws_japan/articles/hexagonal-architecture-lambda-1",
+      "score": null,
+      "author": "Yuta Okubo",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Wed, 30 Sep 2026 01:04:42 GMT"
+    },
+    {
       "id": "zenn-e8a17cebbb",
       "source": "zennqiita",
       "sub_source": "Zenn",
@@ -5481,19 +5500,6 @@
       "date": "Tue, 29 Sep 2026 16:50:08 GMT"
     },
     {
-      "id": "zenn-774410cdb1",
-      "source": "zennqiita",
-      "sub_source": "Zenn",
-      "title": "AI×Blenderでゲーム用キャラ素体の作成に挑戦した記録",
-      "url": "https://zenn.dev/yy7613/articles/c150ef962ccc1f",
-      "score": null,
-      "author": "Yuuki.Y",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Tue, 29 Sep 2026 14:29:19 GMT"
-    },
-    {
       "id": "zenn-e941b604ee",
       "source": "zennqiita",
       "sub_source": "Zenn",
@@ -5505,32 +5511,6 @@
         "Zenn"
       ],
       "date": "Tue, 29 Sep 2026 14:29:01 GMT"
-    },
-    {
-      "id": "zenn-5459a571e1",
-      "source": "zennqiita",
-      "sub_source": "Zenn",
-      "title": "サイボウズのiOS実務型インターンに参加してきた！",
-      "url": "https://zenn.dev/rinngo0302/articles/intern-cybozu",
-      "score": null,
-      "author": "rinngo",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Tue, 29 Sep 2026 13:29:44 GMT"
-    },
-    {
-      "id": "zenn-1cdaf04c31",
-      "source": "zennqiita",
-      "sub_source": "Zenn",
-      "title": "サイバーエージェントのバックエンドインターンUNIVERSEに参加し、優秀賞をいただきました",
-      "url": "https://zenn.dev/hayatosc/articles/ca-intern-universe",
-      "score": null,
-      "author": "hayatosc",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Tue, 29 Sep 2026 11:37:24 GMT"
     },
     {
       "id": "zenn-02e65d24a0",
@@ -5596,6 +5576,19 @@
         "Zenn"
       ],
       "date": "Tue, 29 Sep 2026 02:45:05 GMT"
+    },
+    {
+      "id": "zenn-473ce7828d",
+      "source": "zennqiita",
+      "sub_source": "Zenn",
+      "title": "テスト要求仕様（TRS）を書いてみたら、テスト設計が楽になった話",
+      "url": "https://zenn.dev/edash_tech_blog/articles/0d49bd338b64f0",
+      "score": null,
+      "author": "ueda",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Tue, 29 Sep 2026 02:40:05 GMT"
     },
     {
       "id": "zenn-c238d67170",

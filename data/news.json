@@ -1,14 +1,58 @@
 {
-  "updated_at": "2026-10-06T14:23:25.431837+00:00",
+  "updated_at": "2026-10-06T19:44:06.409412+00:00",
   "count": 500,
   "items": [
+    {
+      "id": "hn-49981063",
+      "source": "hn",
+      "title": "Former German spy chief arrested for attempted treason",
+      "url": "https://www.reuters.com/business/finance/former-german-spy-chief-detained-suspicion-espionage-treason-bild-reports-2026-10-06/",
+      "score": 76,
+      "comments": 54,
+      "author": "semiquaver",
+      "tags": [],
+      "date": "2026-10-06T16:51:50+00:00"
+    },
+    {
+      "id": "hn-49980715",
+      "source": "hn",
+      "title": "AI is now capable of developing its own inference hardware",
+      "url": "https://github.com/FeSens/openTPU",
+      "score": 151,
+      "comments": 157,
+      "author": "fsbonetto",
+      "tags": [],
+      "date": "2026-10-06T16:23:25+00:00"
+    },
+    {
+      "id": "hn-49979845",
+      "source": "hn",
+      "title": "The Early History of Smalltalk (1993)",
+      "url": "https://worrydream.com/EarlyHistoryOfSmalltalk/",
+      "score": 70,
+      "comments": 30,
+      "author": "_reza",
+      "tags": [],
+      "date": "2026-10-06T15:19:57+00:00"
+    },
+    {
+      "id": "hn-49978595",
+      "source": "hn",
+      "title": "Show HN: I turned my iPhone and a $20 smart plug into an f-stop timer",
+      "url": "https://peterszentkiralyi.eu/darkplug/",
+      "score": 41,
+      "comments": 3,
+      "author": "pentakkusu",
+      "tags": [],
+      "date": "2026-10-06T13:58:07+00:00"
+    },
     {
       "id": "hn-49978563",
       "source": "hn",
       "title": "Tapo (Rust/Python library) now speaks TP-Link's TPAP protocol",
       "url": "https://mihai.dinculescu.dev/posts/tapo-speaks-tpap/",
-      "score": 16,
-      "comments": 1,
+      "score": 104,
+      "comments": 41,
       "author": "faithraven",
       "tags": [],
       "date": "2026-10-06T13:55:37+00:00"
@@ -40,8 +84,8 @@
       "source": "hn",
       "title": "Show HN: Parseable, an open observability datalake, handles 100M time-series/min",
       "url": "https://www.parseable.com",
-      "score": 7,
-      "comments": 1,
+      "score": 58,
+      "comments": 13,
       "author": "yashdotrv",
       "tags": [],
       "date": "2026-10-06T13:30:50+00:00"
@@ -61,9 +105,9 @@
       "id": "hn-49977979",
       "source": "hn",
       "title": "Mistral Large 4",
-      "url": "https://docs.mistral.ai/models/mistral-large-4-0",
-      "score": 405,
-      "comments": 189,
+      "url": "https://mistral.ai/news/mistral-large-4/\\",
+      "score": 1225,
+      "comments": 795,
       "author": "Philpax",
       "tags": [],
       "date": "2026-10-06T13:15:49+00:00"
@@ -84,8 +128,8 @@
       "source": "hn",
       "title": "Mathematics of Geothermal Energy",
       "url": "https://www.ebsco.com/research-starters/power-and-energy/mathematics-geothermal-energy/",
-      "score": 12,
-      "comments": 4,
+      "score": 53,
+      "comments": 23,
       "author": "srameshc",
       "tags": [],
       "date": "2026-10-06T13:05:26+00:00"
@@ -93,21 +137,32 @@
     {
       "id": "hn-49977588",
       "source": "hn",
-      "title": "Meta's Muse Is an Adorable Privacy and Security Dumpster Fire",
+      "title": "Meta’s Muse is an adorable privacy and security dumpster fire",
       "url": "https://www.techdirt.com/2026/10/06/metas-muse-is-an-adorable-privacy-and-security-dumpster-fire/",
-      "score": 95,
-      "comments": 26,
+      "score": 342,
+      "comments": 230,
       "author": "beardyw",
       "tags": [],
       "date": "2026-10-06T12:45:49+00:00"
+    },
+    {
+      "id": "hn-49977437",
+      "source": "hn",
+      "title": "Subquadratic 3SUM and Subcubic APSP",
+      "url": "https://arxiv.org/abs/2610.06783",
+      "score": 53,
+      "comments": 23,
+      "author": "mauriziocalo",
+      "tags": [],
+      "date": "2026-10-06T12:31:17+00:00"
     },
     {
       "id": "hn-49977177",
       "source": "hn",
       "title": "Release of Polars 2.0",
       "url": "https://pola.rs/posts/release-polars-2/",
-      "score": 128,
-      "comments": 19,
+      "score": 348,
+      "comments": 73,
       "author": "simicd",
       "tags": [],
       "date": "2026-10-06T11:59:01+00:00"
@@ -128,8 +183,8 @@
       "source": "hn",
       "title": "World's First enhanced geothermal power plant completed in just 23 months",
       "url": "https://techcrunch.com/2026/10/01/worlds-first-enhanced-geothermal-power-plant-completed-in-just-23-months/",
-      "score": 60,
-      "comments": 11,
+      "score": 130,
+      "comments": 52,
       "author": "hochmartinez",
       "tags": [],
       "date": "2026-10-06T11:34:14+00:00"
@@ -137,21 +192,32 @@
     {
       "id": "hn-49976823",
       "source": "hn",
-      "title": "Nature's capacity to 'bounce back' when species are lost is vastly overestimated",
+      "title": "Nature's capacity to 'bounce back' when species are lost is overestimated: study",
       "url": "https://phys.org/news/2026-10-nature-capacity-species-lost-vastly.html",
-      "score": 103,
-      "comments": 46,
+      "score": 258,
+      "comments": 123,
       "author": "pseudolus",
       "tags": [],
       "date": "2026-10-06T11:11:51+00:00"
     },
     {
+      "id": "hn-49976751",
+      "source": "hn",
+      "title": "I'm the AGI that's wiping out humanity",
+      "url": "https://ajmoon.com/posts/im-the-agi-thats-wiping-out-humanity-heres-how",
+      "score": 98,
+      "comments": 57,
+      "author": "alex-moon",
+      "tags": [],
+      "date": "2026-10-06T10:59:55+00:00"
+    },
+    {
       "id": "hn-49976265",
       "source": "hn",
-      "title": "Nobel Prize in Physics goes to Francis Halzen",
+      "title": "Nobel Prize in Physics 2026: Francis Halzen",
       "url": "https://www.nobelprize.org/prizes/physics/2026/",
-      "score": 260,
-      "comments": 77,
+      "score": 437,
+      "comments": 142,
       "author": "solarist",
       "tags": [],
       "date": "2026-10-06T09:48:46+00:00"
@@ -174,8 +240,8 @@
       "source": "hn",
       "title": "Gleam doesn't compile to Erlang source anymore",
       "url": "https://gleam.run/news/gleam-doesnt-compile-to-erlang-source-anymore/",
-      "score": 128,
-      "comments": 38,
+      "score": 244,
+      "comments": 103,
       "author": "ingve",
       "tags": [],
       "date": "2026-10-06T08:08:20+00:00",
@@ -317,8 +383,8 @@
       "source": "hn",
       "title": "Example.com just launched the biggest redesign in decades",
       "url": "https://www.debugbear.com/blog/example-dot-com-redesign-history",
-      "score": 274,
-      "comments": 182,
+      "score": 310,
+      "comments": 211,
       "author": "jgx0",
       "tags": [],
       "date": "2026-10-05T22:55:11+00:00"
@@ -361,8 +427,8 @@
       "source": "hn",
       "title": "Friendship ended with Deno, now Node is my best friend",
       "url": "https://dbushell.com/2026/10/03/deno-to-node/",
-      "score": 239,
-      "comments": 152,
+      "score": 288,
+      "comments": 211,
       "author": "ibobev",
       "tags": [],
       "date": "2026-10-05T22:30:02+00:00"
@@ -405,8 +471,8 @@
       "source": "hn",
       "title": "Find the flattest route between any two points in SF",
       "url": "https://flattensf.com/",
-      "score": 246,
-      "comments": 86,
+      "score": 287,
+      "comments": 97,
       "author": "ishan0102",
       "tags": [],
       "date": "2026-10-05T21:40:50+00:00"
@@ -416,8 +482,8 @@
       "source": "hn",
       "title": "Dust: Pretraining Transformers Without Backpropagation",
       "url": "https://qlabs.sh/research/dust",
-      "score": 237,
-      "comments": 62,
+      "score": 256,
+      "comments": 72,
       "author": "E-Reverance",
       "tags": [],
       "date": "2026-10-05T21:15:07+00:00"
@@ -427,8 +493,8 @@
       "source": "hn",
       "title": "Opus 5.5 agents discover two room-temperature magnetic semiconductor candidates",
       "url": "https://www.vals.ai/blogs/room-temperature-magnetic-semiconductors",
-      "score": 410,
-      "comments": 280,
+      "score": 473,
+      "comments": 318,
       "author": "outlier99",
       "tags": [],
       "date": "2026-10-05T21:00:21+00:00"
@@ -449,8 +515,8 @@
       "source": "hn",
       "title": "Beam: Reflection's 501B open-weight model",
       "url": "https://reflection.ai/blog/introducing-beam",
-      "score": 490,
-      "comments": 160,
+      "score": 525,
+      "comments": 164,
       "author": "Philpax",
       "tags": [],
       "date": "2026-10-05T19:16:35+00:00"
@@ -495,8 +561,8 @@
       "source": "hn",
       "title": "Benchmark in Milliseconds",
       "url": "https://matklad.github.io/2026/10/05/benchmark-milliseconds.html",
-      "score": 4,
-      "comments": 0,
+      "score": 94,
+      "comments": 20,
       "author": "surprisetalk",
       "tags": [],
       "date": "2026-10-05T17:00:10+00:00"
@@ -1369,10 +1435,10 @@
     {
       "id": "hn-49950653",
       "source": "hn",
-      "title": "Testing 12 different Zigbee temperature/humidity sensors",
+      "title": "Best-selling Zigbee temperature sensors tested and compared",
       "url": "https://smarthomescene.com/reviews/best-selling-zigbee-temperature-sensors-tested/",
-      "score": 96,
-      "comments": 33,
+      "score": 203,
+      "comments": 110,
       "author": "walrus01",
       "tags": [],
       "date": "2026-10-04T04:30:46+00:00"
@@ -1904,8 +1970,8 @@
       "source": "hn",
       "title": "Direct retinal projection display for smart glasses using a meta-optic mirror",
       "url": "https://www.tdk.com/en/news_center/press/20261002_01.html",
-      "score": 60,
-      "comments": 22,
+      "score": 106,
+      "comments": 47,
       "author": "bookofjoe",
       "tags": [],
       "date": "2026-10-03T14:04:27+00:00"
@@ -5169,74 +5235,6 @@
       "date": "2026-09-29T23:03:38+00:00"
     },
     {
-      "id": "hn-49901973",
-      "source": "hn",
-      "title": "How our vibe coded website looks like a designer made it",
-      "url": "https://railcode.dev/blog/vibe-coded-website",
-      "score": 30,
-      "comments": 20,
-      "author": "yakkomajuri",
-      "tags": [],
-      "date": "2026-09-29T22:59:28+00:00"
-    },
-    {
-      "id": "hn-49901736",
-      "source": "hn",
-      "title": "Livenerf: Has Opus 5.5 been nerfed yet?",
-      "url": "https://github.com/ninjahawk/livenerf",
-      "score": 803,
-      "comments": 340,
-      "author": "bryan0",
-      "tags": [],
-      "date": "2026-09-29T22:36:14+00:00"
-    },
-    {
-      "id": "hn-49901437",
-      "source": "hn",
-      "title": "UnoDOS",
-      "url": "https://github.com/hmofet/unodos",
-      "score": 10,
-      "comments": 5,
-      "author": "nicoloren",
-      "tags": [],
-      "date": "2026-09-29T22:10:23+00:00"
-    },
-    {
-      "id": "hn-49901149",
-      "source": "hn",
-      "title": "Deser: Rethinking Rust Serialization",
-      "url": "https://lucumr.pocoo.org/2026/9/29/deser/",
-      "score": 39,
-      "comments": 6,
-      "author": "tosh",
-      "tags": [],
-      "date": "2026-09-29T21:48:27+00:00"
-    },
-    {
-      "id": "qiita-963534e791",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "【API設計】「空にしたい」「なにもしない」を区別する方法",
-      "url": "https://qiita.com/umekikazuya/items/1bf8013b3493c4dca8af?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "umekikazuya",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-09-30T05:33:14+09:00"
-    },
-    {
-      "id": "hn-49899090",
-      "source": "hn",
-      "title": "U.S. postal inspectors shut down website selling counterfeit postage labels",
-      "url": "https://postalemployeenetwork.com/news/2026/09/26/u-s-postal-inspectors-shut-down-website-selling-millions-of-counterfeit-postage-labels/",
-      "score": 261,
-      "comments": 154,
-      "author": "ilamont",
-      "tags": [],
-      "date": "2026-09-29T19:30:17+00:00"
-    },
-    {
       "id": "ctf-4766464",
       "source": "project",
       "proj_category": "CTF",
@@ -5459,19 +5457,6 @@
       "date": "Tue, 06 Oct 2026 05:59:59 GMT"
     },
     {
-      "id": "zenn-baee13f027",
-      "source": "zennqiita",
-      "sub_source": "Zenn",
-      "title": "嘘を嘘と見抜けない？ Clef / Clef-Flashの判定性能を7タスクでJevと比較",
-      "url": "https://zenn.dev/canly/articles/e4f0527fcfd6b3",
-      "score": null,
-      "author": "haginota",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Tue, 06 Oct 2026 03:37:22 GMT"
-    },
-    {
       "id": "zenn-556aaa8e5d",
       "source": "zennqiita",
       "sub_source": "Zenn",
@@ -5691,6 +5676,19 @@
         "Zenn"
       ],
       "date": "Thu, 01 Oct 2026 17:56:12 GMT"
+    },
+    {
+      "id": "zenn-5ce0715f94",
+      "source": "zennqiita",
+      "sub_source": "Zenn",
+      "title": "実務において敵対的レビューはどの程度有効なのか",
+      "url": "https://zenn.dev/edash_tech_blog/articles/4577f7d4780bef",
+      "score": null,
+      "author": "jellyfish1129",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Thu, 01 Oct 2026 10:48:47 GMT"
     },
     {
       "id": "edb-1d1e868d62",

@@ -1,7 +1,40 @@
 {
-  "updated_at": "2026-10-08T22:22:33.535773+00:00",
+  "updated_at": "2026-10-09T02:24:46.626387+00:00",
   "count": 500,
   "items": [
+    {
+      "id": "hn-50014150",
+      "source": "hn",
+      "title": "Show HN: Edi Life OS – self-hosted life dashboard with an MCP server for AI",
+      "url": "https://github.com/edrisranjbar/lifeos",
+      "score": 19,
+      "comments": 3,
+      "author": "edris0077",
+      "tags": [],
+      "date": "2026-10-09T00:02:19+00:00"
+    },
+    {
+      "id": "hn-50013931",
+      "source": "hn",
+      "title": "Show HN: SVG Spark – 10 client-side SVG design and dev tools",
+      "url": "https://svg-spark.vercel.app/",
+      "score": 27,
+      "comments": 3,
+      "author": "Zeus808",
+      "tags": [],
+      "date": "2026-10-08T23:32:49+00:00"
+    },
+    {
+      "id": "hn-50013610",
+      "source": "hn",
+      "title": "Bevy 0.20",
+      "url": "https://bevy.org/news/bevy-0-20/",
+      "score": 30,
+      "comments": 2,
+      "author": "Philpax",
+      "tags": [],
+      "date": "2026-10-08T22:57:50+00:00"
+    },
     {
       "id": "hn-50012199",
       "source": "hn",
@@ -19,8 +52,8 @@
       "source": "hn",
       "title": "AI-ready biological data: $1.8B global commitment",
       "url": "https://biohub.org/news/virtual-biology-initiative-expansion/",
-      "score": 31,
-      "comments": 1,
+      "score": 76,
+      "comments": 10,
       "author": "ray__",
       "tags": [],
       "date": "2026-10-08T20:46:25+00:00"
@@ -28,10 +61,10 @@
     {
       "id": "hn-50011928",
       "source": "hn",
-      "title": "ADHD as a circadian rhythm disorder: evidence and implications for chronotherapy",
+      "title": "ADHD as a circadian rhythm disorder: evidence and implications for chronotherapy (2025)",
       "url": "https://www.frontiersin.org/journals/psychiatry/articles/10.3389/fpsyt.2025.1697900/full",
-      "score": 54,
-      "comments": 38,
+      "score": 175,
+      "comments": 128,
       "author": "bookofjoe",
       "tags": [],
       "date": "2026-10-08T20:42:16+00:00"
@@ -41,22 +74,45 @@
       "source": "hn",
       "title": "The value of not getting to the point (2015)",
       "url": "https://ken.arneson.name/2015/11/the-value-of-not-getting-to-the-point/",
-      "score": 78,
-      "comments": 25,
+      "score": 127,
+      "comments": 40,
       "author": "NaOH",
       "tags": [],
       "date": "2026-10-08T19:04:56+00:00"
+    },
+    {
+      "id": "hn-50009634",
+      "source": "hn",
+      "title": "Show HN: Pocketty – iPhone SSH terminal that pings you when an agent is blocked",
+      "url": "https://pocketty.app/",
+      "score": 25,
+      "comments": 9,
+      "author": "lukeed",
+      "tags": [],
+      "date": "2026-10-08T18:11:52+00:00"
     },
     {
       "id": "hn-50009295",
       "source": "hn",
       "title": "Theranos.world",
       "url": "https://www.theranos.world/",
-      "score": 162,
-      "comments": 82,
+      "score": 296,
+      "comments": 118,
       "author": "kbyatnal",
       "tags": [],
       "date": "2026-10-08T17:51:49+00:00"
+    },
+    {
+      "id": "hn-50009066",
+      "source": "hn",
+      "title": "Scaling and benchmarking a critical message bus using a new indexing strategy",
+      "url": "https://blog.janestreet.com/scaling-and-benchmarking-a-critical-message-bus/",
+      "score": 16,
+      "comments": 0,
+      "author": "eatonphil",
+      "tags": [],
+      "date": "2026-10-08T17:39:26+00:00",
+      "severity": "critical"
     },
     {
       "id": "hn-50008685",
@@ -85,8 +141,8 @@
       "source": "hn",
       "title": "Whistle: Speech to Text in 16.9 MB",
       "url": "https://cactuscompute.com/blog/whistle",
-      "score": 402,
-      "comments": 99,
+      "score": 567,
+      "comments": 126,
       "author": "gmays",
       "tags": [],
       "date": "2026-10-08T16:59:39+00:00"
@@ -96,19 +152,30 @@
       "source": "hn",
       "title": "Show HN: Making a flexible \"neon\" t-shirt with LED filaments",
       "url": "http://scottbezek.blogspot.com/2026/10/making-flexible-neon-t-shirt-with-leds.html",
-      "score": 72,
-      "comments": 14,
+      "score": 115,
+      "comments": 20,
       "author": "scottbez1",
       "tags": [],
       "date": "2026-10-08T16:37:24+00:00"
+    },
+    {
+      "id": "hn-50007993",
+      "source": "hn",
+      "title": "Show HN: Jevman – AI decision models play Pac-Man",
+      "url": "https://opper.ai/jevman-benchmark/",
+      "score": 36,
+      "comments": 5,
+      "author": "felix089",
+      "tags": [],
+      "date": "2026-10-08T16:34:13+00:00"
     },
     {
       "id": "hn-50007764",
       "source": "hn",
       "title": "Step 5 Preview, a 1M-context MoE from StepFun, shows up on OpenRouter",
       "url": "https://openrouter.ai/stepfun/step-5-preview",
-      "score": 73,
-      "comments": 23,
+      "score": 103,
+      "comments": 25,
       "author": "AnneWodell",
       "tags": [],
       "date": "2026-10-08T16:20:20+00:00"
@@ -186,8 +253,8 @@
       "source": "hn",
       "title": "Beauty in DVD Menus",
       "url": "https://vale.rocks/posts/dvd-menus",
-      "score": 227,
-      "comments": 141,
+      "score": 266,
+      "comments": 147,
       "author": "speckx",
       "tags": [],
       "date": "2026-10-08T13:22:01+00:00"
@@ -244,8 +311,8 @@
       "source": "hn",
       "title": "Yes, and",
       "url": "https://htmx.org/essays/yes-and/",
-      "score": 72,
-      "comments": 24,
+      "score": 198,
+      "comments": 74,
       "author": "Michelangelo11",
       "tags": [],
       "date": "2026-10-08T09:48:18+00:00"
@@ -390,8 +457,8 @@
       "source": "hn",
       "title": "US man given prison sentence for bot-farming music streams",
       "url": "https://thequietus.com/news/us-man-given-prison-sentence-for-bot-farming-music-streams/",
-      "score": 65,
-      "comments": 101,
+      "score": 118,
+      "comments": 192,
       "author": "cdrnsf",
       "tags": [],
       "date": "2026-10-08T01:33:17+00:00"
@@ -466,8 +533,8 @@
       "source": "hn",
       "title": "Why isn't the industry freaking out about DeepSeek 4.1 Flash?",
       "url": "https://www.dgt.is/blog/2026-10-07-deepseek-freek-out/",
-      "score": 256,
-      "comments": 216,
+      "score": 442,
+      "comments": 370,
       "author": "jonotime",
       "tags": [],
       "date": "2026-10-08T00:14:48+00:00"
@@ -490,8 +557,8 @@
       "source": "hn",
       "title": "Archaeologists Are Reconstructing the 'Invisible' Technologies of the Stone Age",
       "url": "https://www.smithsonianmag.com/science-nature/archaeologists-are-reconstructing-the-invisible-technologies-of-the-stone-age-from-rope-to-thread-and-twine-180989534/",
-      "score": 89,
-      "comments": 42,
+      "score": 109,
+      "comments": 50,
       "author": "Hooke",
       "tags": [],
       "date": "2026-10-07T21:25:16+00:00"
@@ -567,8 +634,8 @@
       "source": "hn",
       "title": "A 5.3M-year-old deep-sea whale necropolis in the Diamantina Zone",
       "url": "https://www.nature.com/articles/s41586-026-10546-z",
-      "score": 56,
-      "comments": 1,
+      "score": 92,
+      "comments": 5,
       "author": "bryanrasmussen",
       "tags": [],
       "date": "2026-10-07T18:14:41+00:00"
@@ -645,8 +712,8 @@
       "source": "hn",
       "title": "DuckDB Ducklake",
       "url": "https://github.com/duckdb/ducklake",
-      "score": 88,
-      "comments": 13,
+      "score": 121,
+      "comments": 16,
       "author": "saikatsg",
       "tags": [],
       "date": "2026-10-07T17:40:23+00:00"
@@ -689,8 +756,8 @@
       "source": "hn",
       "title": "Man discovers his parents' coffee machine used 1TB of data in 10 days",
       "url": "https://www.dexerto.com/entertainment/man-discovers-his-parents-coffee-machine-used-1tb-of-data-in-10-days-3416399/",
-      "score": 256,
-      "comments": 149,
+      "score": 434,
+      "comments": 272,
       "author": "ck2",
       "tags": [],
       "date": "2026-10-07T16:56:30+00:00"
@@ -872,8 +939,8 @@
       "source": "hn",
       "title": "ETH-68: Ethernet Audio Interface for Linux",
       "url": "https://naturalsystems.io/eth68",
-      "score": 50,
-      "comments": 25,
+      "score": 94,
+      "comments": 61,
       "author": "chabad360",
       "tags": [],
       "date": "2026-10-07T13:58:05+00:00"
@@ -1160,8 +1227,8 @@
       "source": "hn",
       "title": "I hired an illustrator to draw my house. Now it's my Home Assistant dashboard",
       "url": "https://antonfrolov.substack.com/p/i-hired-an-illustrator-to-draw-my",
-      "score": 251,
-      "comments": 34,
+      "score": 413,
+      "comments": 69,
       "author": "soheilpro",
       "tags": [],
       "date": "2026-10-07T01:41:03+00:00"
@@ -1384,8 +1451,8 @@
       "source": "hn",
       "title": "A Terminal Protocol for Program Status (OSC 7501)",
       "url": "https://mitchellh.com/writing/program-status-osc7501",
-      "score": 59,
-      "comments": 18,
+      "score": 107,
+      "comments": 33,
       "author": "mfiguiere",
       "tags": [],
       "date": "2026-10-06T21:08:00+00:00"
@@ -5163,79 +5230,6 @@
       "date": "2026-10-02T10:40:31+00:00"
     },
     {
-      "id": "qiita-049ead02f8",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "複数のAIエージェントを並行して動かすADE「Orca」が快適だった",
-      "url": "https://qiita.com/hiroshi_ito9854/items/4cedc17bcf058a04dba4?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "hiroshi_ito9854",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-10-02T19:04:51+09:00"
-    },
-    {
-      "id": "hn-49931031",
-      "source": "hn",
-      "title": "Show HN: Audionaut – an open-source cross-platform multitrack audio editor",
-      "url": "https://github.com/kvoltmer/Audionaut",
-      "score": 101,
-      "comments": 37,
-      "author": "vltmrkls",
-      "tags": [],
-      "date": "2026-10-02T08:05:48+00:00",
-      "severity": "critical"
-    },
-    {
-      "id": "hn-49930690",
-      "source": "hn",
-      "title": "Quantitative Finance with OCaml",
-      "url": "https://qcaml.com/index.html",
-      "score": 4,
-      "comments": 0,
-      "author": "leonry",
-      "tags": [],
-      "date": "2026-10-02T07:14:34+00:00"
-    },
-    {
-      "id": "qiita-58bdd6df77",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "Jevとは何か。スマートなif文でソフトウェアに知性を組み込む",
-      "url": "https://qiita.com/goofmint/items/11b89a372fbb9b625d12?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "goofmint",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-10-02T16:05:15+09:00"
-    },
-    {
-      "id": "hn-49930439",
-      "source": "hn",
-      "title": "Show HN: Glashütte Trash Clock – A 30-minute pendulum clock made from trash",
-      "url": "https://niklasroy.com/gtc/",
-      "score": 199,
-      "comments": 29,
-      "author": "r0r0",
-      "tags": [],
-      "date": "2026-10-02T06:33:06+00:00"
-    },
-    {
-      "id": "qiita-f659acffa9",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "【IBM Bob × WAS Liberty】既存Java アプリにMCP Toolを追加するハンズオン",
-      "url": "https://qiita.com/TSA2019/items/878c953b508332ee99ec?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "TSA2019",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-10-02T15:06:14+09:00"
-    },
-    {
       "id": "ctf-4766464",
       "source": "project",
       "proj_category": "CTF",
@@ -5432,6 +5426,58 @@
       "date": "2023-05-23T17:06:23Z"
     },
     {
+      "id": "zenn-85cfd347c8",
+      "source": "zennqiita",
+      "sub_source": "Zenn",
+      "title": "半陽的微分代数方程式の解を微分する：VJP編",
+      "url": "https://zenn.dev/wheatear11/articles/c293bb49ad3ae7",
+      "score": null,
+      "author": "wheatear11",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Thu, 08 Oct 2026 17:45:45 GMT"
+    },
+    {
+      "id": "zenn-835afaf09c",
+      "source": "zennqiita",
+      "sub_source": "Zenn",
+      "title": "「ELYZA-Thinking-1.0-llm-jp-4」シリーズの学習方法と評価結果",
+      "url": "https://zenn.dev/elyza/articles/79a3d4ed4be915",
+      "score": null,
+      "author": "stohda",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Thu, 08 Oct 2026 09:03:14 GMT"
+    },
+    {
+      "id": "zenn-e37b74335c",
+      "source": "zennqiita",
+      "sub_source": "Zenn",
+      "title": "若手エンジニアに必要だと感じた「AIを使う力」",
+      "url": "https://zenn.dev/muit_techblog/articles/6ea28887c79457",
+      "score": null,
+      "author": "Goto",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Thu, 08 Oct 2026 08:29:40 GMT"
+    },
+    {
+      "id": "zenn-09f4970656",
+      "source": "zennqiita",
+      "sub_source": "Zenn",
+      "title": "CSSの`text-box`で文字を上下中央に揃えたい",
+      "url": "https://zenn.dev/chot/articles/be424332489e7a",
+      "score": null,
+      "author": "hwld",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Thu, 08 Oct 2026 06:20:08 GMT"
+    },
+    {
       "id": "zenn-5c8495b8e9",
       "source": "zennqiita",
       "sub_source": "Zenn",
@@ -5443,19 +5489,6 @@
         "Zenn"
       ],
       "date": "Thu, 08 Oct 2026 02:50:05 GMT"
-    },
-    {
-      "id": "zenn-b873ccf142",
-      "source": "zennqiita",
-      "sub_source": "Zenn",
-      "title": "GCPとAWSの埋め込みモデル6つを比較して監視カメラ動画を日本語で検索する",
-      "url": "https://zenn.dev/fusic/articles/89daab70352eb7",
-      "score": null,
-      "author": "omiya",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Thu, 08 Oct 2026 02:39:58 GMT"
     },
     {
       "id": "zenn-0c325bc99f",
@@ -5508,19 +5541,6 @@
         "Zenn"
       ],
       "date": "Wed, 07 Oct 2026 22:00:05 GMT"
-    },
-    {
-      "id": "zenn-7b468755b9",
-      "source": "zennqiita",
-      "sub_source": "Zenn",
-      "title": "ホームラボの GPU ノードの監視環境を構築する",
-      "url": "https://zenn.dev/hyeonjae/articles/46d734a43c2c93",
-      "score": null,
-      "author": "らん",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Wed, 07 Oct 2026 14:04:11 GMT"
     },
     {
       "id": "zenn-c2a62af3c1",
@@ -5586,32 +5606,6 @@
         "Zenn"
       ],
       "date": "Tue, 06 Oct 2026 04:17:02 GMT"
-    },
-    {
-      "id": "zenn-a29631288f",
-      "source": "zennqiita",
-      "sub_source": "Zenn",
-      "title": "漏洩ラッシュは本当にラッシュなのか 公的統計と公式発表で確かめてみた",
-      "url": "https://zenn.dev/tawachan/articles/japan-data-breach-rush-2026-statistics",
-      "score": null,
-      "author": "たわ",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Tue, 06 Oct 2026 03:21:22 GMT"
-    },
-    {
-      "id": "zenn-5700945f3b",
-      "source": "zennqiita",
-      "sub_source": "Zenn",
-      "title": "こんな時代だから Seasar2 を構築してみようか",
-      "url": "https://zenn.dev/tokium_dev/articles/4dbec90075dab0",
-      "score": null,
-      "author": "tomoyukiinoue",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Mon, 05 Oct 2026 21:00:05 GMT"
     },
     {
       "id": "zenn-2bbd4f3fe5",

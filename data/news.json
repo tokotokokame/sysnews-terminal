@@ -1,7 +1,131 @@
 {
-  "updated_at": "2026-10-09T21:09:02.624784+00:00",
+  "updated_at": "2026-10-10T01:06:22.943468+00:00",
   "count": 500,
   "items": [
+    {
+      "id": "qiita-192f98e9c7",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "24時間動かすPythonボットで、Windowsターミナルがメモリを7.5GB食っていた話と対策",
+      "url": "https://qiita.com/minipc_lab/items/6b234bf607deb13c5493?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "minipc_lab",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-10-10T09:42:16+09:00"
+    },
+    {
+      "id": "hn-50028283",
+      "source": "hn",
+      "title": "Show HN: Yeah Nah – a BS score for Australian job ads",
+      "url": "https://yeahnah.lol/",
+      "score": 7,
+      "comments": 0,
+      "author": "veilmux",
+      "tags": [],
+      "date": "2026-10-10T00:38:18+00:00"
+    },
+    {
+      "id": "hn-50028275",
+      "source": "hn",
+      "title": "REA Reverse – Engineer Anything",
+      "url": "https://rea.tools/",
+      "score": 14,
+      "comments": 3,
+      "author": "modinfo",
+      "tags": [],
+      "date": "2026-10-10T00:37:07+00:00"
+    },
+    {
+      "id": "hn-50028176",
+      "source": "hn",
+      "title": "Brockovich AI Datacenter Reporting: AI Data Centers Across the United States",
+      "url": "https://www.brockovichdatacenter.com/",
+      "score": 6,
+      "comments": 0,
+      "author": "tigerlily",
+      "tags": [],
+      "date": "2026-10-10T00:14:46+00:00"
+    },
+    {
+      "id": "hn-50028059",
+      "source": "hn",
+      "title": "11 of 23 Core Open Source Projects Run on 1 or 2 People",
+      "url": "https://linuxstans.com/11-of-23-core-open-source-projects-run-on-1-or-2-people/",
+      "score": 14,
+      "comments": 8,
+      "author": "dxs",
+      "tags": [],
+      "date": "2026-10-09T23:56:55+00:00",
+      "severity": "critical"
+    },
+    {
+      "id": "hn-50027853",
+      "source": "hn",
+      "title": "Compiling Rust to readable C with Eurydice",
+      "url": "https://lwn.net/Articles/1055211/",
+      "score": 7,
+      "comments": 1,
+      "author": "peter_d_sherman",
+      "tags": [],
+      "date": "2026-10-09T23:28:36+00:00"
+    },
+    {
+      "id": "hn-50027694",
+      "source": "hn",
+      "title": "Rewriting Prime Agent in Rust",
+      "url": "https://www.primeintellect.ai/blog/prime-agent-rust",
+      "score": 15,
+      "comments": 3,
+      "author": "piotrgrabowski",
+      "tags": [],
+      "date": "2026-10-09T23:06:25+00:00"
+    },
+    {
+      "id": "hn-50027590",
+      "source": "hn",
+      "title": "Atari Falcon",
+      "url": "https://atarimuseum.nl/atari-falcon/",
+      "score": 9,
+      "comments": 2,
+      "author": "debo_",
+      "tags": [],
+      "date": "2026-10-09T22:54:13+00:00"
+    },
+    {
+      "id": "hn-50027167",
+      "source": "hn",
+      "title": "Japan's Most Famous Tuna Buyer Says He Turned Somali Pirates into Fishermen",
+      "url": "https://www.japaninsides.com/the-sushi-king-who-went-to-somalia-how-japans-most-famous-tuna-buyer-says-he-turned-pirates-into-fishermen-55344",
+      "score": 57,
+      "comments": 29,
+      "author": "robaato",
+      "tags": [],
+      "date": "2026-10-09T22:05:53+00:00"
+    },
+    {
+      "id": "hn-50027118",
+      "source": "hn",
+      "title": "Anthropic AI model submits false tip on unsolved Philly murder",
+      "url": "https://www.nbcphiladelphia.com/news/local/anthropic-ai-model-submits-false-tip-on-unsolved-philly-murder-police-say/4477051/",
+      "score": 20,
+      "comments": 4,
+      "author": "Zambyte",
+      "tags": [],
+      "date": "2026-10-09T22:00:35+00:00"
+    },
+    {
+      "id": "hn-50026555",
+      "source": "hn",
+      "title": "YouTuber Says Cops Visited Him After He Built a Flock-Style Camera to Track Cops",
+      "url": "https://gizmodo.com/youtuber-says-cops-paid-him-a-visit-after-he-built-flock-style-camera-to-track-cops-2000824306",
+      "score": 389,
+      "comments": 207,
+      "author": "gumby",
+      "tags": [],
+      "date": "2026-10-09T21:06:59+00:00"
+    },
     {
       "id": "hn-50025935",
       "source": "hn",
@@ -29,8 +153,8 @@
       "source": "hn",
       "title": "M7.6 Earthquake in Panama",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u18k/executive",
-      "score": 92,
-      "comments": 32,
+      "score": 123,
+      "comments": 35,
       "author": "gslin",
       "tags": [],
       "date": "2026-10-09T18:22:20+00:00"
@@ -51,19 +175,30 @@
       "source": "hn",
       "title": "Show HN: Carrier-Explode: iPhone, Pixel and Galaxy carrier settings decoded",
       "url": "https://carrierexplode.com/",
-      "score": 122,
-      "comments": 13,
+      "score": 211,
+      "comments": 20,
       "author": "simplyalec",
       "tags": [],
       "date": "2026-10-09T18:10:55+00:00"
+    },
+    {
+      "id": "hn-50024055",
+      "source": "hn",
+      "title": "Show HN: The rarest tech books and docs you've probably never read",
+      "url": "https://readrare.com/",
+      "score": 70,
+      "comments": 11,
+      "author": "miletus",
+      "tags": [],
+      "date": "2026-10-09T17:39:44+00:00"
     },
     {
       "id": "hn-50023450",
       "source": "hn",
       "title": "Typesafe AI raises $870M at $7.5B",
       "url": "https://typesafe.ai/blog/series-ai",
-      "score": 161,
-      "comments": 131,
+      "score": 261,
+      "comments": 205,
       "author": "tosh",
       "tags": [],
       "date": "2026-10-09T17:02:31+00:00"
@@ -86,8 +221,8 @@
       "source": "hn",
       "title": "Triple-A Minesweeper",
       "url": "https://minesweeper.mikelacher.com/",
-      "score": 330,
-      "comments": 71,
+      "score": 622,
+      "comments": 119,
       "author": "robin_reala",
       "tags": [],
       "date": "2026-10-09T15:51:05+00:00"
@@ -201,8 +336,8 @@
       "source": "hn",
       "title": "'Wallace and Gromit,' 90% Alone",
       "url": "https://animationobsessive.substack.com/p/wallace-and-gromit-90-alone",
-      "score": 97,
-      "comments": 15,
+      "score": 154,
+      "comments": 19,
       "author": "vinhnx",
       "tags": [],
       "date": "2026-10-09T13:49:31+00:00"
@@ -212,8 +347,8 @@
       "source": "hn",
       "title": "Our $445M Series D",
       "url": "https://oxide.computer/blog/our-445m-series-d",
-      "score": 512,
-      "comments": 213,
+      "score": 585,
+      "comments": 258,
       "author": "ahlCVA",
       "tags": [],
       "date": "2026-10-09T13:12:47+00:00"
@@ -223,8 +358,8 @@
       "source": "hn",
       "title": "Cloudflare acquires Deno",
       "url": "https://deno.com/blog/cloudflare",
-      "score": 920,
-      "comments": 490,
+      "score": 1053,
+      "comments": 548,
       "author": "ilreb",
       "tags": [],
       "date": "2026-10-09T13:03:48+00:00"
@@ -267,8 +402,8 @@
       "source": "hn",
       "title": "Pointing AI at archives found a forgotten meteorite, lost rhinos, and more",
       "url": "https://jessewaites.com/blog/post/i-pointed-ai-at-400-years-of-archives/",
-      "score": 66,
-      "comments": 31,
+      "score": 100,
+      "comments": 52,
       "author": "piratebroadcast",
       "tags": [],
       "date": "2026-10-09T11:36:20+00:00"
@@ -278,8 +413,8 @@
       "source": "hn",
       "title": "Show HN: Let your AI agents paint big arrows, boxes and text on your screen",
       "url": "https://github.com/franzenzenhofer/big-arrow-on-the-screen",
-      "score": 345,
-      "comments": 145,
+      "score": 375,
+      "comments": 164,
       "author": "franze",
       "tags": [],
       "date": "2026-10-09T11:03:48+00:00"
@@ -289,8 +424,8 @@
       "source": "hn",
       "title": "Nobel Peace Prize for 2026 to Navanethem Pillay",
       "url": "https://www.nobelprize.org/prizes/peace/2026/press-release/",
-      "score": 400,
-      "comments": 201,
+      "score": 439,
+      "comments": 224,
       "author": "Anon84",
       "tags": [],
       "date": "2026-10-09T10:12:11+00:00"
@@ -322,8 +457,8 @@
       "source": "hn",
       "title": "Sorry, I'm in a meeting",
       "url": "https://iminafleeting.com/",
-      "score": 645,
-      "comments": 211,
+      "score": 753,
+      "comments": 234,
       "author": "splintersio",
       "tags": [],
       "date": "2026-10-09T09:21:48+00:00"
@@ -552,19 +687,6 @@
       "author": "Philpax",
       "tags": [],
       "date": "2026-10-08T22:57:50+00:00"
-    },
-    {
-      "id": "qiita-192f98e9c7",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "24時間動かすPythonボットで、Windowsターミナルがメモリを7.5GB食っていた話と対策",
-      "url": "https://qiita.com/minipc_lab/items/6b234bf607deb13c5493?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "minipc_lab",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-10-09T07:31:27+09:00"
     },
     {
       "id": "qiita-ce7cc48f85",
@@ -925,6 +1047,17 @@
       "author": "Michelangelo11",
       "tags": [],
       "date": "2026-10-08T09:48:18+00:00"
+    },
+    {
+      "id": "hn-50003545",
+      "source": "hn",
+      "title": "Show HN: Proton Drive for Linux",
+      "url": "https://oss.lsantos.dev/proton-drive-linux-fs/",
+      "score": 31,
+      "comments": 10,
+      "author": "khaosdoctor",
+      "tags": [],
+      "date": "2026-10-08T09:10:42+00:00"
     },
     {
       "id": "qiita-8680ab7140",
@@ -1419,6 +1552,17 @@
       "tags": [],
       "date": "2026-10-07T15:46:30+00:00",
       "severity": "critical"
+    },
+    {
+      "id": "hn-49994449",
+      "source": "hn",
+      "title": "My static site was serving my internal docs",
+      "url": "https://tminuslabs.space/serving-secrets",
+      "score": 4,
+      "comments": 1,
+      "author": "tminuslabs",
+      "tags": [],
+      "date": "2026-10-07T15:44:39+00:00"
     },
     {
       "id": "hn-49994443",
@@ -2020,6 +2164,17 @@
       "author": "OfficialTurkey",
       "tags": [],
       "date": "2026-10-06T22:17:21+00:00"
+    },
+    {
+      "id": "hn-49984854",
+      "source": "hn",
+      "title": "The role of cat eye narrowing movements in cat–human communication (2020)",
+      "url": "https://www.nature.com/articles/s41598-020-73426-0",
+      "score": 32,
+      "comments": 21,
+      "author": "bushwart",
+      "tags": [],
+      "date": "2026-10-06T22:10:59+00:00"
     },
     {
       "id": "hn-49984834",
@@ -5083,167 +5238,6 @@
       "date": "2026-10-03T00:55:25+00:00"
     },
     {
-      "id": "qiita-f99a750bb5",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "【React】「1つのuseEffect内でrefを立てる」useUpdateEffectはStrictModeで壊れる",
-      "url": "https://qiita.com/shun123/items/b7a01b3d7379274d3ebc?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "shun123",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-10-03T09:52:32+09:00",
-      "severity": "medium"
-    },
-    {
-      "id": "hn-49940233",
-      "source": "hn",
-      "title": "Where Is the Planet",
-      "url": "http://whereistheplanet.com",
-      "score": 21,
-      "comments": 1,
-      "author": "andsoitis",
-      "tags": [],
-      "date": "2026-10-03T00:26:19+00:00"
-    },
-    {
-      "id": "hn-49940219",
-      "source": "hn",
-      "title": "Things that apparently cause cancer",
-      "url": "https://www.breakthroughjournal.org/p/things-that-apparently-cause-cancer",
-      "score": 152,
-      "comments": 57,
-      "author": "timpera",
-      "tags": [],
-      "date": "2026-10-03T00:23:11+00:00"
-    },
-    {
-      "id": "hn-49940044",
-      "source": "hn",
-      "title": "Demystifying Tufte's data-ink ratio",
-      "url": "https://tuftesrazor.scienceux.org/",
-      "score": 45,
-      "comments": 15,
-      "author": "s4074433",
-      "tags": [],
-      "date": "2026-10-02T23:55:17+00:00"
-    },
-    {
-      "id": "hn-49939637",
-      "source": "hn",
-      "title": "The Heilbronn Problem",
-      "url": "https://math.tejstead.com/heilbronn/",
-      "score": 52,
-      "comments": 10,
-      "author": "tejstead",
-      "tags": [],
-      "date": "2026-10-02T23:01:13+00:00"
-    },
-    {
-      "id": "qiita-324c2cfdeb",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "Difyのアプリタイプを実行契約で選ぶ：会話状態・処理順序・副作用の境界",
-      "url": "https://qiita.com/YushiYamamoto/items/a35a1878ab31e79b16ac?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "YushiYamamoto",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-10-03T07:17:09+09:00"
-    },
-    {
-      "id": "hn-49939308",
-      "source": "hn",
-      "title": "Interview with Chicken Scheme Maintainer Sjamaan/Peter Bex",
-      "url": "https://alexalejandre.com/interviews/peter-bex/",
-      "score": 3,
-      "comments": 1,
-      "author": "veqq",
-      "tags": [],
-      "date": "2026-10-02T22:17:04+00:00"
-    },
-    {
-      "id": "hn-49938783",
-      "source": "hn",
-      "title": "Open-sourcing AstaBrief, the fast report-generation model in Asta",
-      "url": "https://allenai.org/blog/astabrief",
-      "score": 16,
-      "comments": 2,
-      "author": "malshe",
-      "tags": [],
-      "date": "2026-10-02T21:25:25+00:00"
-    },
-    {
-      "id": "hn-49938616",
-      "source": "hn",
-      "title": "Every SaaS business will become a harness around a model",
-      "url": "https://blog.sshh.io/p/the-harness-is-the-company",
-      "score": 77,
-      "comments": 57,
-      "author": "iacguy",
-      "tags": [],
-      "date": "2026-10-02T21:06:56+00:00"
-    },
-    {
-      "id": "qiita-938ff286d7",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "【Supabase】Supabase.jsでレコードにデータを追加&削除する",
-      "url": "https://qiita.com/ryu0947/items/301d87399d61d79dcd51?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "ryu0947",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-10-03T05:59:26+09:00"
-    },
-    {
-      "id": "hn-49938521",
-      "source": "hn",
-      "title": "Zig v0.17.0",
-      "url": "https://ziglang.org/download/0.17.0/release-notes.html",
-      "score": 191,
-      "comments": 103,
-      "author": "ErenayDev",
-      "tags": [],
-      "date": "2026-10-02T20:56:36+00:00"
-    },
-    {
-      "id": "hn-49938399",
-      "source": "hn",
-      "title": "Woking Electrical Control Room (2016)",
-      "url": "http://www.darbiansphotography.com/woking-electrical-control-room-urbex",
-      "score": 136,
-      "comments": 26,
-      "author": "NaOH",
-      "tags": [],
-      "date": "2026-10-02T20:44:38+00:00"
-    },
-    {
-      "id": "hn-49938326",
-      "source": "hn",
-      "title": "Three AI agents, two countries, and one uneven world wide web",
-      "url": "https://royapakzad.substack.com/p/multilingual-ai-agents",
-      "score": 24,
-      "comments": 0,
-      "author": "effects",
-      "tags": [],
-      "date": "2026-10-02T20:39:05+00:00"
-    },
-    {
-      "id": "hn-49938306",
-      "source": "hn",
-      "title": "Barcodes are about to go extinct",
-      "url": "https://thehustle.co/originals/why-barcodes-are-about-to-go-extinct",
-      "score": 50,
-      "comments": 79,
-      "author": "rmason",
-      "tags": [],
-      "date": "2026-10-02T20:37:07+00:00"
-    },
-    {
       "id": "ctf-4766464",
       "source": "project",
       "proj_category": "CTF",
@@ -5492,32 +5486,6 @@
       "date": "Thu, 08 Oct 2026 22:00:05 GMT"
     },
     {
-      "id": "zenn-85cfd347c8",
-      "source": "zennqiita",
-      "sub_source": "Zenn",
-      "title": "半陽的微分代数方程式の解を微分する：VJP編",
-      "url": "https://zenn.dev/wheatear11/articles/c293bb49ad3ae7",
-      "score": null,
-      "author": "wheatear11",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Thu, 08 Oct 2026 17:45:45 GMT"
-    },
-    {
-      "id": "zenn-1d627149e4",
-      "source": "zennqiita",
-      "sub_source": "Zenn",
-      "title": "有線が届かないデスクトップPCをWi-Fi化した話",
-      "url": "https://zenn.dev/ultrasupara/articles/7daaaf4f7aceed",
-      "score": null,
-      "author": "asu_para",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Thu, 08 Oct 2026 13:10:50 GMT"
-    },
-    {
       "id": "zenn-cfa99935dd",
       "source": "zennqiita",
       "sub_source": "Zenn",
@@ -5648,6 +5616,19 @@
       "date": "Tue, 06 Oct 2026 04:17:02 GMT"
     },
     {
+      "id": "zenn-2bbd4f3fe5",
+      "source": "zennqiita",
+      "sub_source": "Zenn",
+      "title": "オブジェクト指向UIデザインをAgent Skillにして、Claudeが作るUIはどう変わるかの検証",
+      "url": "https://zenn.dev/emuni/articles/ooui-agent-skill",
+      "score": null,
+      "author": "mkurokaw",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Mon, 05 Oct 2026 06:09:20 GMT"
+    },
+    {
       "id": "zenn-68bcfea6c9",
       "source": "zennqiita",
       "sub_source": "Zenn",
@@ -5672,6 +5653,19 @@
         "Zenn"
       ],
       "date": "Mon, 05 Oct 2026 00:40:05 GMT"
+    },
+    {
+      "id": "zenn-fdbf1495cb",
+      "source": "zennqiita",
+      "sub_source": "Zenn",
+      "title": "GraphRAGをゼロから詳しく解説する【ナレッジグラフ・オントロジー】",
+      "url": "https://zenn.dev/tetsuro731/articles/6efe77a20b8c1c",
+      "score": null,
+      "author": "テッツォ",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Mon, 05 Oct 2026 00:19:09 GMT"
     },
     {
       "id": "zenn-3f9bde4f6c",

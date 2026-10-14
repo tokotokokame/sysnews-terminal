@@ -1,25 +1,93 @@
 {
-  "updated_at": "2026-10-14T00:53:28.538801+00:00",
+  "updated_at": "2026-10-14T05:51:10.670587+00:00",
   "count": 500,
   "items": [
+    {
+      "id": "hn-50082470",
+      "source": "hn",
+      "title": "Felix Rieseberg Homepage",
+      "url": "https://felixrieseberg.com/",
+      "score": 52,
+      "comments": 17,
+      "author": "rglover",
+      "tags": [],
+      "date": "2026-10-14T04:42:33+00:00"
+    },
+    {
+      "id": "qiita-61aba936e9",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "日本を変えるのは、誰かではなく私たち一人ひとり― 財源幻想からの脱却と国家レジリエンスを考える : システム設計視点の行動経済学 (40)",
+      "url": "https://qiita.com/maskot1977/items/e9ae3b98d2f229c4c11b?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "maskot1977",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-10-14T13:41:16+09:00"
+    },
+    {
+      "id": "hn-50081930",
+      "source": "hn",
+      "title": "Is 'Attention' the Essence of Intelligence?",
+      "url": "https://www.quantamagazine.org/is-attention-the-essence-of-intelligence-20261012/",
+      "score": 43,
+      "comments": 25,
+      "author": "bcaulfield",
+      "tags": [],
+      "date": "2026-10-14T03:10:25+00:00"
+    },
+    {
+      "id": "hn-50081151",
+      "source": "hn",
+      "title": "I built a tool to track what AI leaders say and how their views change on video",
+      "url": "https://blumify.io/people",
+      "score": 64,
+      "comments": 42,
+      "author": "gcsydney",
+      "tags": [],
+      "date": "2026-10-14T01:09:13+00:00"
+    },
+    {
+      "id": "hn-50081092",
+      "source": "hn",
+      "title": "Do Frameworks Matter Anymore?",
+      "url": "https://brookslybrand.com/posts/do-frameworks-matter-anymore/",
+      "score": 24,
+      "comments": 10,
+      "author": "fagnerbrack",
+      "tags": [],
+      "date": "2026-10-14T01:01:08+00:00"
+    },
     {
       "id": "hn-50080275",
       "source": "hn",
       "title": "Show HN: Pulse Local, a Mac budgeting app whose AI models run on your machine",
       "url": "https://pulseos.finance",
-      "score": 27,
-      "comments": 15,
+      "score": 93,
+      "comments": 49,
       "author": "niztk",
       "tags": [],
       "date": "2026-10-13T23:13:23+00:00"
+    },
+    {
+      "id": "hn-50080007",
+      "source": "hn",
+      "title": "Grace Hopper Celebration Cancelled",
+      "url": "https://anitab.org/press-release",
+      "score": 91,
+      "comments": 21,
+      "author": "mooreds",
+      "tags": [],
+      "date": "2026-10-13T22:46:49+00:00"
     },
     {
       "id": "hn-50079865",
       "source": "hn",
       "title": "Recreational Programming",
       "url": "https://www.cphiri.dev/presentations/recreational-programming",
-      "score": 35,
-      "comments": 8,
+      "score": 121,
+      "comments": 45,
       "author": "jslakro",
       "tags": [],
       "date": "2026-10-13T22:33:33+00:00"
@@ -29,8 +97,8 @@
       "source": "hn",
       "title": "AlphaNIST",
       "url": "https://alpha-nist.github.io/",
-      "score": 31,
-      "comments": 9,
+      "score": 61,
+      "comments": 22,
       "author": "jasonjmcghee",
       "tags": [],
       "date": "2026-10-13T21:57:29+00:00"
@@ -62,8 +130,8 @@
       "source": "hn",
       "title": "OpenAI engineer arrested in bugging of executive conference room",
       "url": "https://sfstandard.com/2026/10/13/openai-engineer-arrested-alleged-bugging-executive-conference-room/",
-      "score": 382,
-      "comments": 343,
+      "score": 505,
+      "comments": 432,
       "author": "forthwall",
       "tags": [],
       "date": "2026-10-13T20:23:55+00:00"
@@ -96,11 +164,33 @@
       "source": "hn",
       "title": "Show HN: Guitoro, a virtual guitar you strum with your keyboard",
       "url": "https://guitoro.com/",
-      "score": 240,
-      "comments": 78,
+      "score": 372,
+      "comments": 99,
       "author": "talccc",
       "tags": [],
       "date": "2026-10-13T19:11:48+00:00"
+    },
+    {
+      "id": "hn-50075665",
+      "source": "hn",
+      "title": "Show HN: XY Music Notation",
+      "url": "https://music.xy.dev/",
+      "score": 65,
+      "comments": 48,
+      "author": "jmole",
+      "tags": [],
+      "date": "2026-10-13T17:43:05+00:00"
+    },
+    {
+      "id": "hn-50074909",
+      "source": "hn",
+      "title": "Show HN: How random are you?",
+      "url": "https://lab.specr.net/rigged-draw/",
+      "score": 120,
+      "comments": 63,
+      "author": "vunderba",
+      "tags": [],
+      "date": "2026-10-13T16:57:57+00:00"
     },
     {
       "id": "hn-50074869",
@@ -129,8 +219,8 @@
       "source": "hn",
       "title": "Gemini 4 Argon",
       "url": "https://deepmind.google/models/gemini/",
-      "score": 959,
-      "comments": 737,
+      "score": 1165,
+      "comments": 835,
       "author": "737max",
       "tags": [],
       "date": "2026-10-13T16:03:16+00:00"
@@ -140,8 +230,8 @@
       "source": "hn",
       "title": "Redesigning source control at Anthropic",
       "url": "https://www.anthropic.com/engineering/redesigning-source-control",
-      "score": 509,
-      "comments": 508,
+      "score": 661,
+      "comments": 634,
       "author": "Philpax",
       "tags": [],
       "date": "2026-10-13T15:49:56+00:00",
@@ -152,8 +242,8 @@
       "source": "hn",
       "title": "I posted to HN, and then my website was flooded with AI bot traffic",
       "url": "https://www.sammystraus.com/#i-posted-to-hn-and-then-my-website-was-flooded-with-ai-bot-traffic",
-      "score": 236,
-      "comments": 145,
+      "score": 306,
+      "comments": 162,
       "author": "sammy0910",
       "tags": [],
       "date": "2026-10-13T15:25:50+00:00"
@@ -163,8 +253,8 @@
       "source": "hn",
       "title": "The United Kingdom generates less electricity per person than in the 1970s",
       "url": "https://ourworldindata.org/data-insights/electricity-generation-per-person-in-the-united-kingdom-has-fallen-by-a-third-from-its-early-2000s-peak",
-      "score": 194,
-      "comments": 277,
+      "score": 262,
+      "comments": 356,
       "author": "karakoram",
       "tags": [],
       "date": "2026-10-13T15:12:57+00:00"
@@ -187,8 +277,8 @@
       "source": "hn",
       "title": "Thunderbird for iOS",
       "url": "https://blog.thunderbird.net/2026/10/thunderbird-for-ios-a-first-look-at-the-native-iphone-email-app-in-development/",
-      "score": 328,
-      "comments": 141,
+      "score": 396,
+      "comments": 173,
       "author": "mjorgers",
       "tags": [],
       "date": "2026-10-13T15:07:37+00:00"
@@ -211,8 +301,8 @@
       "source": "hn",
       "title": "Apple's new 'Switch to Safari' campaign details why you should ditch Chrome",
       "url": "https://9to5mac.com/2026/10/12/apples-new-switch-to-safari-campaign-details-why-you-should-ditch-chrome/",
-      "score": 178,
-      "comments": 298,
+      "score": 241,
+      "comments": 393,
       "author": "ivell",
       "tags": [],
       "date": "2026-10-13T14:26:08+00:00"
@@ -233,8 +323,8 @@
       "source": "hn",
       "title": "New Apple TV 4K",
       "url": "https://www.apple.com/newsroom/2026/10/apple-unveils-the-new-apple-tv-4k/",
-      "score": 282,
-      "comments": 535,
+      "score": 321,
+      "comments": 591,
       "author": "corvad",
       "tags": [],
       "date": "2026-10-13T13:21:35+00:00"
@@ -445,19 +535,6 @@
         "Qiita"
       ],
       "date": "2026-10-13T14:45:30+09:00"
-    },
-    {
-      "id": "qiita-61aba936e9",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "日本を変えるのは、誰かではなく私たち一人ひとり― 財源幻想からの脱却と国家レジリエンスを考える : システム設計視点の行動経済学 (40)",
-      "url": "https://qiita.com/maskot1977/items/e9ae3b98d2f229c4c11b?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "maskot1977",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-10-13T14:22:26+09:00"
     },
     {
       "id": "qiita-c5a39cbf6f",
@@ -762,8 +839,8 @@
       "source": "hn",
       "title": "MIT class project turns into an FDA-cleared treatment for tremors",
       "url": "https://news.mit.edu/2026/mit-class-project-turns-into-fda-cleared-treatment-for-tremors-1002",
-      "score": 141,
-      "comments": 28,
+      "score": 190,
+      "comments": 35,
       "author": "zdw",
       "tags": [],
       "date": "2026-10-12T19:28:48+00:00"
@@ -947,6 +1024,17 @@
       "date": "2026-10-12T15:08:53+00:00"
     },
     {
+      "id": "hn-50057119",
+      "source": "hn",
+      "title": "Maybe a better way to track the release history of a Git repo",
+      "url": "https://blog.plover.com/prog/git/history-proposal.html",
+      "score": 23,
+      "comments": 1,
+      "author": "evakhoury",
+      "tags": [],
+      "date": "2026-10-12T14:41:27+00:00"
+    },
+    {
       "id": "hn-50056822",
       "source": "hn",
       "title": "Solar panels that plug into your wall",
@@ -1048,8 +1136,8 @@
       "source": "hn",
       "title": "Ledger confirms spy chip implant behind wallet crypto thefts",
       "url": "https://www.bleepingcomputer.com/news/security/ledger-confirms-hardware-wallet-spy-implant-behind-crypto-thefts/",
-      "score": 411,
-      "comments": 312,
+      "score": 579,
+      "comments": 390,
       "author": "thm",
       "tags": [],
       "date": "2026-10-12T10:09:37+00:00"
@@ -1111,8 +1199,8 @@
       "source": "hn",
       "title": "900-Page Pre-Pantone Guide to Color from 1692 (With Complete High-Res Scan)",
       "url": "https://www.openculture.com/2026/10/a-900-page-pre-pantone-guide-to-color-from-1692.html",
-      "score": 26,
-      "comments": 0,
+      "score": 111,
+      "comments": 10,
       "author": "mdp2021",
       "tags": [],
       "date": "2026-10-12T09:05:02+00:00"
@@ -1569,6 +1657,17 @@
       "author": "tosh",
       "tags": [],
       "date": "2026-10-11T16:58:22+00:00"
+    },
+    {
+      "id": "hn-50045147",
+      "source": "hn",
+      "title": "Sound – Bartosz Ciechanowski (2022)",
+      "url": "https://ciechanow.ski/sound/",
+      "score": 53,
+      "comments": 8,
+      "author": "dverlaeckt80",
+      "tags": [],
+      "date": "2026-10-11T16:46:43+00:00"
     },
     {
       "id": "hn-50044989",
@@ -5146,113 +5245,6 @@
       "severity": "critical"
     },
     {
-      "id": "qiita-1a69ab2372",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "OCI Base Database Service のリフレッシュ可能クローンを使ってOCPU環境からECPU環境へ移行してみた",
-      "url": "https://qiita.com/nyasuhiro/items/f0dbe2c05a72154e99f4?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "nyasuhiro",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-10-07T10:45:45+09:00"
-    },
-    {
-      "id": "hn-49986919",
-      "source": "hn",
-      "title": "Chernobyl particles reveal unexpectedly stable nuclear fuel after 40 years",
-      "url": "https://phys.org/news/2026-10-chernobyl-particles-reveal-unexpectedly-stable.html",
-      "score": 98,
-      "comments": 33,
-      "author": "geox",
-      "tags": [],
-      "date": "2026-10-07T01:44:59+00:00"
-    },
-    {
-      "id": "hn-49986882",
-      "source": "hn",
-      "title": "I hired an illustrator to draw my house. Now it's my Home Assistant dashboard",
-      "url": "https://antonfrolov.substack.com/p/i-hired-an-illustrator-to-draw-my",
-      "score": 804,
-      "comments": 172,
-      "author": "soheilpro",
-      "tags": [],
-      "date": "2026-10-07T01:41:03+00:00"
-    },
-    {
-      "id": "hn-49986862",
-      "source": "hn",
-      "title": "ESP32-C3 Adblock",
-      "url": "https://github.com/M-Abozaid/esp32-c3-adblock",
-      "score": 118,
-      "comments": 45,
-      "author": "jayhoon",
-      "tags": [],
-      "date": "2026-10-07T01:39:21+00:00"
-    },
-    {
-      "id": "hn-49986765",
-      "source": "hn",
-      "title": "Jev-Driven SRE Diagnosis: What Worked and What Failed",
-      "url": "https://www.sregym.com/blog/jev-driven-sre-diagnosis",
-      "score": 11,
-      "comments": 2,
-      "author": "matt_d",
-      "tags": [],
-      "date": "2026-10-07T01:27:49+00:00"
-    },
-    {
-      "id": "hn-49986740",
-      "source": "hn",
-      "title": "Show HN: TerrainSR – fast, realistic heightmap upscaling model",
-      "url": "https://huggingface.co/joe-gibbs/terrainsr",
-      "score": 16,
-      "comments": 3,
-      "author": "joegibbs",
-      "tags": [],
-      "date": "2026-10-07T01:24:17+00:00"
-    },
-    {
-      "id": "qiita-588cdcbae1",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "OCI Functionsのコード専用関数",
-      "url": "https://qiita.com/nakaie/items/e36996fcf75ff93278a2?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "nakaie",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-10-07T09:19:41+09:00"
-    },
-    {
-      "id": "qiita-5c65ee3188",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "オフショア開発で学んだ「性能劣化」が伝わらなかった話",
-      "url": "https://qiita.com/rhaya/items/7d41473c6b510cacf175?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "rhaya",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-10-07T08:55:33+09:00"
-    },
-    {
-      "id": "qiita-bd14b73f6b",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "Autonomous AI Lakehouseのデータを Ontologyでつないで Private Agent Factoryから NL2SQL＋RAG＋Knowledge Graphしてみてみた",
-      "url": "https://qiita.com/shirok/items/281689da5d9ee8c39540?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "shirok",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-10-07T08:36:17+09:00"
-    },
-    {
       "id": "ctf-4800242",
       "source": "project",
       "proj_category": "CTF",
@@ -5463,6 +5455,97 @@
       "date": "2023-05-23T17:06:23Z"
     },
     {
+      "id": "zenn-58ba8974c8",
+      "source": "zennqiita",
+      "sub_source": "Zenn",
+      "title": "mobile_scanner で本の ISBN を読む。裏表紙の2段バーコードは両方 EAN-13 だった",
+      "url": "https://zenn.dev/hk_work/articles/mobile-scanner-isbn-barcode",
+      "score": null,
+      "author": "HIROKI KUROGI",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Wed, 14 Oct 2026 02:00:21 GMT"
+    },
+    {
+      "id": "zenn-6c22d3033b",
+      "source": "zennqiita",
+      "sub_source": "Zenn",
+      "title": "開発しながら同じPCでローカルLLMを動かしてみた話",
+      "url": "https://zenn.dev/sumasate_tec/articles/test-local-llm",
+      "score": null,
+      "author": "スマサテ株式会社",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Wed, 14 Oct 2026 01:31:20 GMT"
+    },
+    {
+      "id": "zenn-4e61e9a759",
+      "source": "zennqiita",
+      "sub_source": "Zenn",
+      "title": "Unityで立体物の衣装が変わるプロジェクションマッピングを試作した",
+      "url": "https://zenn.dev/m_tk/articles/e39b61a8136a29",
+      "score": null,
+      "author": "m-tk",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Wed, 14 Oct 2026 01:20:24 GMT"
+    },
+    {
+      "id": "zenn-f689b020a7",
+      "source": "zennqiita",
+      "sub_source": "Zenn",
+      "title": "Amazon BedrockとSageMakerのAIエージェントでOpenTelemetryの自動計装が行われる範囲",
+      "url": "https://zenn.dev/ymotongpoo/articles/20261014-bedrock-sagemaker-otel",
+      "score": null,
+      "author": "Yoshi Yamaguchi",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Wed, 14 Oct 2026 00:00:08 GMT"
+    },
+    {
+      "id": "zenn-90fa30a230",
+      "source": "zennqiita",
+      "sub_source": "Zenn",
+      "title": "Nimの引数パーサーにconfutilsを採用してみた",
+      "url": "https://zenn.dev/attakei/articles/introduce-nim-confutils",
+      "score": null,
+      "author": "Takei Kazuya",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Wed, 14 Oct 2026 00:00:07 GMT"
+    },
+    {
+      "id": "zenn-dd739c4497",
+      "source": "zennqiita",
+      "sub_source": "Zenn",
+      "title": "Rustのstrumでenumの管理が簡単になる【備忘】",
+      "url": "https://zenn.dev/echigo/articles/c527aaedfd021b",
+      "score": null,
+      "author": "EndBear",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Tue, 13 Oct 2026 23:00:06 GMT"
+    },
+    {
+      "id": "zenn-5919b027e1",
+      "source": "zennqiita",
+      "sub_source": "Zenn",
+      "title": "『現場で役立つシステム設計の原則』を読んで学んだこと、実践したこと、これからやりたいこと",
+      "url": "https://zenn.dev/wwwave/articles/38b8284f96bd9e",
+      "score": null,
+      "author": "塚本",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Tue, 13 Oct 2026 22:00:06 GMT"
+    },
+    {
       "id": "zenn-dab2e4ce1e",
       "source": "zennqiita",
       "sub_source": "Zenn",
@@ -5489,43 +5572,17 @@
       "date": "Tue, 13 Oct 2026 17:54:44 GMT"
     },
     {
-      "id": "zenn-5c6ffb6d9e",
+      "id": "zenn-214e45510e",
       "source": "zennqiita",
       "sub_source": "Zenn",
-      "title": "【Crackmes.one】x64dbgでパスワード解析",
-      "url": "https://zenn.dev/otinpan/articles/8557e9c3930540",
+      "title": "AWS Lambda Web Functions × Hono - アダプター不要のサーバーレスWeb開発",
+      "url": "https://zenn.dev/the_exile/articles/lambda-web-functions-hono",
       "score": null,
-      "author": "otinpan",
+      "author": "RUI",
       "tags": [
         "Zenn"
       ],
-      "date": "Tue, 13 Oct 2026 15:58:13 GMT"
-    },
-    {
-      "id": "zenn-26e99f2f60",
-      "source": "zennqiita",
-      "sub_source": "Zenn",
-      "title": "EmDash を pnpm の 7 日ルールで入れ直したら、つまずいたところ",
-      "url": "https://zenn.dev/n_tong/articles/5ea0a290d8923d",
-      "score": null,
-      "author": "海老のしっぽ",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Tue, 13 Oct 2026 14:56:02 GMT"
-    },
-    {
-      "id": "zenn-dc6ec330d1",
-      "source": "zennqiita",
-      "sub_source": "Zenn",
-      "title": "SwiftDataのrollback()、iOS 27で黙って挙動が変わっていた",
-      "url": "https://zenn.dev/kzq/articles/swiftdata-rollback-ios27",
-      "score": null,
-      "author": "kzq",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Tue, 13 Oct 2026 14:09:49 GMT"
+      "date": "Tue, 13 Oct 2026 13:11:58 GMT"
     },
     {
       "id": "zenn-60c2254e87",
@@ -5541,17 +5598,17 @@
       "date": "Tue, 13 Oct 2026 09:32:44 GMT"
     },
     {
-      "id": "zenn-6468599ccd",
+      "id": "zenn-53ef1f1479",
       "source": "zennqiita",
       "sub_source": "Zenn",
-      "title": "Azure SRE Agent から Azure SRE Agent を呼ぶときに認証エラーになる件",
-      "url": "https://zenn.dev/maaya8585/articles/b1160260c86805",
+      "title": "AWS Lambda Web Functionsの発表+CloudFrontとの連携も発表",
+      "url": "https://zenn.dev/skeletonfrolic/articles/1ec268a32c1193",
       "score": null,
-      "author": "まーや",
+      "author": "skeletonfrolic",
       "tags": [
         "Zenn"
       ],
-      "date": "Tue, 13 Oct 2026 07:43:12 GMT"
+      "date": "Tue, 13 Oct 2026 06:32:56 GMT"
     },
     {
       "id": "zenn-8895ac5a6a",
@@ -5567,6 +5624,19 @@
       "date": "Tue, 13 Oct 2026 04:58:59 GMT"
     },
     {
+      "id": "zenn-428396d5d1",
+      "source": "zennqiita",
+      "sub_source": "Zenn",
+      "title": "データ基盤におけるデータ取り込み方式の選び方 —— ゼロコピー、CDC、Create or Replace、クエリベース増分更新",
+      "url": "https://zenn.dev/ivry/articles/data-ingestion-pattern-guide",
+      "score": null,
+      "author": "KJ",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Tue, 13 Oct 2026 04:47:00 GMT"
+    },
+    {
       "id": "zenn-943b200228",
       "source": "zennqiita",
       "sub_source": "Zenn",
@@ -5578,58 +5648,6 @@
         "Zenn"
       ],
       "date": "Tue, 13 Oct 2026 02:30:05 GMT"
-    },
-    {
-      "id": "zenn-f8cb8648da",
-      "source": "zennqiita",
-      "sub_source": "Zenn",
-      "title": "Next.js（Pages Router）+ react-i18next で多言語化を実装する",
-      "url": "https://zenn.dev/socialplus/articles/f363cdf24340cf",
-      "score": null,
-      "author": "koyablue",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Tue, 13 Oct 2026 00:44:01 GMT"
-    },
-    {
-      "id": "zenn-05d8b9c9cc",
-      "source": "zennqiita",
-      "sub_source": "Zenn",
-      "title": "Flutter の in_app_purchase で買い切りの Pro を作る。iOS の復元は購入が無いと何も流れてこない",
-      "url": "https://zenn.dev/hk_work/articles/flutter-in-app-purchase-non-consumable",
-      "score": null,
-      "author": "HIROKI KUROGI",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Tue, 13 Oct 2026 00:26:58 GMT"
-    },
-    {
-      "id": "zenn-b44683d9df",
-      "source": "zennqiita",
-      "sub_source": "Zenn",
-      "title": "dbtの「4層品質モデル」をTypeScript+クリーンアーキテクチャで例えてみる",
-      "url": "https://zenn.dev/ronnabyte/articles/c6a53615a9df56",
-      "score": null,
-      "author": "すずきさん",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Tue, 13 Oct 2026 00:18:23 GMT"
-    },
-    {
-      "id": "zenn-3bbb9fa337",
-      "source": "zennqiita",
-      "sub_source": "Zenn",
-      "title": "LLM-jp-4 の公開CPT・SFTデータを読んでみた",
-      "url": "https://zenn.dev/yukito_lmlab/articles/llmjp4-public-data",
-      "score": null,
-      "author": "日本語言語モデル開発ノート",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Mon, 12 Oct 2026 23:34:05 GMT"
     },
     {
       "id": "zenn-1a0f81c83e",
@@ -5658,6 +5676,19 @@
       "date": "Mon, 12 Oct 2026 04:17:19 GMT"
     },
     {
+      "id": "zenn-a76a68f861",
+      "source": "zennqiita",
+      "sub_source": "Zenn",
+      "title": "スロップ表現100連発",
+      "url": "https://zenn.dev/todesking/articles/5bc43f449ecdf6",
+      "score": null,
+      "author": "todesking",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Mon, 12 Oct 2026 03:48:57 GMT"
+    },
+    {
       "id": "zenn-2aa7a3bea8",
       "source": "zennqiita",
       "sub_source": "Zenn",
@@ -5671,32 +5702,6 @@
       "date": "Mon, 12 Oct 2026 00:00:05 GMT"
     },
     {
-      "id": "zenn-7ae0cf6fe9",
-      "source": "zennqiita",
-      "sub_source": "Zenn",
-      "title": "Raspberry Pi 4でMCPサーバを構築する(3)",
-      "url": "https://zenn.dev/drbobt1122/articles/blog26101101",
-      "score": null,
-      "author": "Dr. BobT",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Sun, 11 Oct 2026 22:43:02 GMT"
-    },
-    {
-      "id": "zenn-02590b0e05",
-      "source": "zennqiita",
-      "sub_source": "Zenn",
-      "title": "GitLabを月500円で自社運用する 退役PCと「出島サーバ」の構成",
-      "url": "https://zenn.dev/miyanaga/articles/zenn-2026-10-11",
-      "score": null,
-      "author": "miyanaga",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Sat, 10 Oct 2026 22:02:34 GMT"
-    },
-    {
       "id": "zenn-b96cf0d439",
       "source": "zennqiita",
       "sub_source": "Zenn",
@@ -5708,19 +5713,6 @@
         "Zenn"
       ],
       "date": "Sat, 10 Oct 2026 17:16:42 GMT"
-    },
-    {
-      "id": "zenn-e3f0cd2c5c",
-      "source": "zennqiita",
-      "sub_source": "Zenn",
-      "title": "検証 TinyGoでOpenTelemetryは使えるのか（2026年10月版）",
-      "url": "https://zenn.dev/ymotongpoo/books/tinygo-otel-esp32",
-      "score": null,
-      "author": "Yoshi Yamaguchi",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Sat, 10 Oct 2026 00:25:22 GMT"
     },
     {
       "id": "edb-1d1e868d62",

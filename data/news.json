@@ -1,14 +1,60 @@
 {
-  "updated_at": "2026-10-18T18:47:12.120229+00:00",
+  "updated_at": "2026-10-18T21:16:16.735548+00:00",
   "count": 500,
   "items": [
     {
+      "id": "hn-50145337",
+      "source": "hn",
+      "title": "Hybrid Reasoning Agents: 35–55% fewer tokens and up to 2.6× faster inference",
+      "url": "https://arxiv.org/abs/2610.18861",
+      "score": 16,
+      "comments": 1,
+      "author": "allinonai",
+      "tags": [],
+      "date": "2026-10-18T20:48:14+00:00"
+    },
+    {
+      "id": "qiita-5effeefed0",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "重要な指示は最初か最後か？ AI 大手 3 社の助言が異なるので、資料→命令→指示の並び方を 8 通り試してみた",
+      "url": "https://qiita.com/songchong/items/542892c6d4c569c9c15f?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "songchong",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-10-19T04:18:04+09:00"
+    },
+    {
+      "id": "hn-50144066",
+      "source": "hn",
+      "title": "Free Pascal compiler now supports dynamic packages",
+      "url": "https://www.getlazarus.org/dynamic/",
+      "score": 61,
+      "comments": 13,
+      "author": "sysrpl",
+      "tags": [],
+      "date": "2026-10-18T18:48:04+00:00"
+    },
+    {
+      "id": "hn-50144005",
+      "source": "hn",
+      "title": "Florida's HOAs and condo associations are making the housing crisis worse",
+      "url": "https://hoaspy.com/hoa/fl/florida-hoa-housing-crisis.html",
+      "score": 116,
+      "comments": 200,
+      "author": "lovewins",
+      "tags": [],
+      "date": "2026-10-18T18:40:16+00:00"
+    },
+    {
       "id": "hn-50143536",
       "source": "hn",
-      "title": "PalmOS Lemmings by Aaron Ardiri",
+      "title": "PalmOS Lemmings",
       "url": "https://github.com/ardiri/palmos-lemmings",
-      "score": 11,
-      "comments": 1,
+      "score": 57,
+      "comments": 13,
       "author": "memalign",
       "tags": [],
       "date": "2026-10-18T17:56:59+00:00"
@@ -29,8 +75,8 @@
       "source": "hn",
       "title": "Namecheap just seized and disabled all my domains",
       "url": "https://www.reddit.com/r/sysadmin/comments/1x8cycd/namecheap_just_seized_and_disabled_all_my_domains/",
-      "score": 72,
-      "comments": 33,
+      "score": 253,
+      "comments": 132,
       "author": "sashk",
       "tags": [],
       "date": "2026-10-18T16:56:56+00:00"
@@ -40,8 +86,8 @@
       "source": "hn",
       "title": "Someone behind the software",
       "url": "https://karrisaarinen.com/posts/someone-behind-the-software/",
-      "score": 95,
-      "comments": 33,
+      "score": 220,
+      "comments": 83,
       "author": "tosh",
       "tags": [],
       "date": "2026-10-18T16:32:00+00:00"
@@ -51,8 +97,8 @@
       "source": "hn",
       "title": "The Intel 8087 chip: floating-point addition and subtraction",
       "url": "https://www.righto.com/2026/10/8087-addition-subtraction-microcode.html",
-      "score": 49,
-      "comments": 7,
+      "score": 73,
+      "comments": 18,
       "author": "pwg",
       "tags": [],
       "date": "2026-10-18T16:20:27+00:00"
@@ -67,6 +113,19 @@
       "author": "iamnothere",
       "tags": [],
       "date": "2026-10-18T15:41:12+00:00"
+    },
+    {
+      "id": "qiita-a6132af268",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "【2026年版】今日から使える AI との会話術 — Claude・Gemini・Codex に指示を守らせる 6 つの原則",
+      "url": "https://qiita.com/songchong/items/351a939e2e1b673c2929?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "songchong",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-10-19T00:40:28+09:00"
     },
     {
       "id": "hn-50141909",
@@ -106,11 +165,22 @@
       "source": "hn",
       "title": "Java sealed classes and exhaustive pattern matching",
       "url": "https://neilmadden.blog/2026/04/24/java-sealed-classes-and-exhaustive-pattern-matching/",
-      "score": 79,
-      "comments": 42,
+      "score": 111,
+      "comments": 83,
       "author": "hnisjafx40",
       "tags": [],
       "date": "2026-10-18T14:47:37+00:00"
+    },
+    {
+      "id": "hn-50141436",
+      "source": "hn",
+      "title": "Show HN: Ranet3 – High performance policy routed IPsec mesh SD-WAN",
+      "url": "https://ranet3.com/",
+      "score": 20,
+      "comments": 4,
+      "author": "StepBroBD",
+      "tags": [],
+      "date": "2026-10-18T14:31:52+00:00"
     },
     {
       "id": "hn-50141429",
@@ -139,8 +209,8 @@
       "source": "hn",
       "title": "RepRapMicron",
       "url": "https://github.com/VikOlliver/RepRapMicron/wiki",
-      "score": 240,
-      "comments": 35,
+      "score": 291,
+      "comments": 46,
       "author": "RobotToaster",
       "tags": [],
       "date": "2026-10-18T13:48:48+00:00"
@@ -161,11 +231,24 @@
       "source": "hn",
       "title": "Show HN: The Zelda timeline to catch up before the Ocarina of Time remake",
       "url": "https://legendofhyrule.com/",
-      "score": 110,
-      "comments": 54,
+      "score": 142,
+      "comments": 77,
       "author": "jsomau",
       "tags": [],
       "date": "2026-10-18T13:06:54+00:00"
+    },
+    {
+      "id": "qiita-205ca58490",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "Claude Codeの.envを読ませない設定がどこまで効くのか試してみた",
+      "url": "https://qiita.com/yakumo_09/items/5a86ca330b449db0e6bc?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "yakumo_09",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-10-18T21:49:52+09:00"
     },
     {
       "id": "hn-50140462",
@@ -197,8 +280,8 @@
       "source": "hn",
       "title": "Open MicroManipulator – A sub-micrometer 3D motion control plattform",
       "url": "https://github.com/0x23/MicroManipulatorStepper",
-      "score": 136,
-      "comments": 12,
+      "score": 159,
+      "comments": 13,
       "author": "_Microft",
       "tags": [],
       "date": "2026-10-18T11:16:22+00:00"
@@ -226,26 +309,117 @@
       "date": "2026-10-18T10:21:51+00:00"
     },
     {
+      "id": "qiita-b252f5a1a5",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "chakra-ui v3ではuseDisclosureを使わずDrawerを制御する",
+      "url": "https://qiita.com/J-T_ky2g/items/49976b1033f985cd2e5b?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "J-T_ky2g",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-10-18T18:25:12+09:00"
+    },
+    {
+      "id": "qiita-dcc983dc6c",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "👀 ひとつで、セキュリティ調査が走り出す——Sysdig Secure のリアルタイム脅威検知におけるインシデントレスポンスを、Factory の Droid で自動化して自宅ラボで試してみた",
+      "url": "https://qiita.com/takao-shimizu/items/65f233bb8043c0f102e6?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "takao-shimizu",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-10-18T18:10:26+09:00"
+    },
+    {
+      "id": "qiita-105dd9a0d5",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "【Vite】ビルド時に出た Error: Cannot find native binding. npm has a bug related to optional dependenciesを解決",
+      "url": "https://qiita.com/ryu0947/items/03af280e053c5d967168?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "ryu0947",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-10-18T18:02:42+09:00"
+    },
+    {
+      "id": "qiita-89d44cf1d9",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "async/await と Promise(then) の違いを、出力順で比べてみた",
+      "url": "https://qiita.com/mmsbox/items/e1a201822b51b753e2ca?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "mmsbox",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-10-18T17:43:21+09:00"
+    },
+    {
       "id": "hn-50139067",
       "source": "hn",
       "title": "Parser Combinators",
       "url": "https://t3.at/blog/2026-10-17-parser-combinators/",
-      "score": 186,
-      "comments": 68,
+      "score": 206,
+      "comments": 76,
       "author": "schindlabua",
       "tags": [],
       "date": "2026-10-18T08:19:53+00:00"
+    },
+    {
+      "id": "qiita-e88d3fb60f",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "Claude Code にコードではなく「運用」を任せる：CLAUDE.md を契約書にし、SessionStart フックとスキルで人間の作業を「貼る・押す・報告する」に絞った構成（MIT の雛形つき）",
+      "url": "https://qiita.com/kaiyaku_iyada/items/0577951c9f085450ed35?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "kaiyaku_iyada",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-10-18T16:54:59+09:00"
     },
     {
       "id": "hn-50138531",
       "source": "hn",
       "title": "DeepSeek search and fetch – $0.75 per 1000 successful requests",
       "url": "https://api-docs.deepseek.com/guides/search/",
-      "score": 459,
-      "comments": 221,
+      "score": 499,
+      "comments": 242,
       "author": "fagnerbrack",
       "tags": [],
       "date": "2026-10-18T06:50:36+00:00"
+    },
+    {
+      "id": "qiita-1477d0ded9",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "Gemini4がリリースされて、プロジェクトの運用方法を変えた話",
+      "url": "https://qiita.com/SolitaireEgg/items/820295021d314f050ec1?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "SolitaireEgg",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-10-18T15:35:28+09:00"
+    },
+    {
+      "id": "qiita-0395d534ff",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "Lambdaが3種類になったみたいなので、全部試してみた",
+      "url": "https://qiita.com/maeda-kazutoshi/items/4674e080c2ce3d53c809?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "maeda-kazutoshi",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-10-18T15:31:26+09:00"
     },
     {
       "id": "hn-50138087",
@@ -296,8 +470,8 @@
       "source": "hn",
       "title": "How the Elizabeth Holmes documentary “You Can See Everything” is deceiving",
       "url": "https://www.readtheprofile.com/p/elizabeth-holmes-documentary-you-can-see-everything",
-      "score": 303,
-      "comments": 404,
+      "score": 336,
+      "comments": 458,
       "author": "MaysonL",
       "tags": [],
       "date": "2026-10-18T03:19:49+00:00"
@@ -314,6 +488,17 @@
         "Qiita"
       ],
       "date": "2026-10-18T11:22:07+09:00"
+    },
+    {
+      "id": "hn-50136979",
+      "source": "hn",
+      "title": "Dogs seem to agree with humans that 'bouba' is round and 'kiki' is spiky",
+      "url": "https://www.sciencealert.com/dogs-seem-to-agree-with-humans-that-bouba-is-round-and-kiki-is-spiky",
+      "score": 42,
+      "comments": 21,
+      "author": "gmays",
+      "tags": [],
+      "date": "2026-10-18T01:38:08+00:00"
     },
     {
       "id": "hn-50136881",
@@ -349,15 +534,37 @@
       "date": "2026-10-17T23:31:48+00:00"
     },
     {
+      "id": "hn-50136150",
+      "source": "hn",
+      "title": "There's never been a better time to go into math (by: 3blue1brown) [video]",
+      "url": "https://www.youtube.com/watch?v=LKrwhjOI8Nc",
+      "score": 11,
+      "comments": 0,
+      "author": "mdp2021",
+      "tags": [],
+      "date": "2026-10-17T23:26:35+00:00"
+    },
+    {
       "id": "hn-50136017",
       "source": "hn",
-      "title": "Beyond Tetris: The Other Games of Alexey Pajitnov [video]",
+      "title": "Beyond Tetris: The other games of Alexey Pajitnov [video]",
       "url": "https://www.youtube.com/watch?v=QH_LPimUJMs",
-      "score": 19,
+      "score": 42,
       "comments": 0,
       "author": "zdw",
       "tags": [],
       "date": "2026-10-17T23:08:30+00:00"
+    },
+    {
+      "id": "hn-50135762",
+      "source": "hn",
+      "title": "I built a programming language that LLMs can't use",
+      "url": "https://blog.picheta.me/post/killswitch-lang/",
+      "score": 8,
+      "comments": 5,
+      "author": "dom96",
+      "tags": [],
+      "date": "2026-10-17T22:26:47+00:00"
     },
     {
       "id": "qiita-6b3aa6f2f5",
@@ -611,6 +818,17 @@
       "date": "2026-10-17T13:51:08+00:00"
     },
     {
+      "id": "hn-50131053",
+      "source": "hn",
+      "title": "Developing for Debugging (2025)",
+      "url": "https://www.davepacheco.net/blog/2025/developing-for-debugging-dns-propagation/",
+      "score": 11,
+      "comments": 0,
+      "author": "mpweiher",
+      "tags": [],
+      "date": "2026-10-17T13:34:43+00:00"
+    },
+    {
       "id": "hn-50131006",
       "source": "hn",
       "title": "Show HN: High-quality duck audio synthesizer",
@@ -670,6 +888,20 @@
       "date": "2026-10-17T12:06:44+00:00"
     },
     {
+      "id": "ctf-4867158",
+      "source": "project",
+      "proj_category": "CTF",
+      "title": "HackTheBox: Odori Writeup",
+      "url": "https://dev.to/exploitnotes/hackthebox-odori-writeup-4jei",
+      "score": 0,
+      "author": "CTF Platform",
+      "tags": [
+        "CTF",
+        "Security"
+      ],
+      "date": "2026-10-17T11:15:50Z"
+    },
+    {
       "id": "hn-50129947",
       "source": "hn",
       "title": "MapQuest will now show you where Flock cameras are in your neighborhood",
@@ -693,6 +925,19 @@
       ],
       "date": "2026-10-17T19:53:04+09:00",
       "severity": "critical"
+    },
+    {
+      "id": "qiita-22ad4691aa",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "hook で Claude Code に .env や鍵ファイルを消させない",
+      "url": "https://qiita.com/Oskra/items/da16b717fc931a6423e6?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "Oskra",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-10-17T19:48:30+09:00"
     },
     {
       "id": "qiita-0e64c7658f",
@@ -815,6 +1060,19 @@
         "Qiita"
       ],
       "date": "2026-10-17T14:27:31+09:00"
+    },
+    {
+      "id": "qiita-a593b3b5c0",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "2026年10月17日 今日のQiitaトレンド記事をポッドキャストで聴こう！",
+      "url": "https://qiita.com/ennagara128/items/ddb56dacfd42bb5d6f28?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "ennagara128",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-10-17T14:10:06+09:00"
     },
     {
       "id": "hn-50127979",
@@ -1192,6 +1450,18 @@
       "date": "2026-10-16T18:32:35+00:00"
     },
     {
+      "id": "hn-50122058",
+      "source": "hn",
+      "title": "One parser, two bugs, many routers: Exploiting Broadcom WiFi across eCos, Linux",
+      "url": "https://quentinkaiser.be/security/2026/10/16/one-parser-two-bugs/",
+      "score": 13,
+      "comments": 3,
+      "author": "zoobab",
+      "tags": [],
+      "date": "2026-10-16T18:07:44+00:00",
+      "severity": "high"
+    },
+    {
       "id": "hn-50122034",
       "source": "hn",
       "title": "eBay Restricts Listings of Radio Equipment, but Exempts Ham-Band-Only Gear",
@@ -1499,6 +1769,19 @@
       "date": "2026-10-16T13:43:48+00:00"
     },
     {
+      "id": "qiita-7c1e411bbc",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "最近仕事で心がけていること",
+      "url": "https://qiita.com/scythercas/items/2195b93fd942409580b5?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "scythercas",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-10-16T22:43:04+09:00"
+    },
+    {
       "id": "hn-50118267",
       "source": "hn",
       "title": "RFC8950: Announce IPv4 with an IPv6 next-hop",
@@ -1715,6 +1998,19 @@
       "author": "gurst",
       "tags": [],
       "date": "2026-10-16T05:11:28+00:00"
+    },
+    {
+      "id": "qiita-4b1b78adc8",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "Rust 1.99.1公開、FFIのbool戻り値問題が修正されました",
+      "url": "https://qiita.com/DwarfM42/items/4a7929f8912ae9aaca77?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "DwarfM42",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-10-16T13:43:49+09:00"
     },
     {
       "id": "qiita-c2bbe9153a",
@@ -2720,10 +3016,10 @@
     {
       "id": "hn-50096110",
       "source": "hn",
-      "title": "Sigsaly: Churchill's top secret hotline to the President",
+      "title": "SIGSALY: Churchill's top secret hotline to the president",
       "url": "https://www.iwm.org.uk/history/iwm/cwr/telephone",
-      "score": 61,
-      "comments": 6,
+      "score": 86,
+      "comments": 23,
       "author": "stmw",
       "tags": [],
       "date": "2026-10-14T22:07:47+00:00"
@@ -2841,10 +3137,10 @@
     {
       "id": "hn-50093020",
       "source": "hn",
-      "title": "I Electrified My Push Scooter with a Power Drill",
+      "title": "I electrified my push scooter with a power drill",
       "url": "https://eddieabbondanz.io/post/shop/drill-powered-scooter/",
-      "score": 24,
-      "comments": 14,
+      "score": 83,
+      "comments": 33,
       "author": "speckx",
       "tags": [],
       "date": "2026-10-14T18:53:52+00:00"
@@ -2954,8 +3250,8 @@
       "source": "hn",
       "title": "Types of types: Haskell's Kind system",
       "url": "https://thunk.blog/posts/types-of-types-haskell-kind-system/",
-      "score": 61,
-      "comments": 33,
+      "score": 87,
+      "comments": 68,
       "author": "Thom2503",
       "tags": [],
       "date": "2026-10-14T17:00:31+00:00"
@@ -4931,263 +5227,6 @@
       "date": "2026-10-12T19:25:29+00:00"
     },
     {
-      "id": "qiita-89b6e8a656",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "AI エージェントに鍵を任せて大丈夫か — API キー操作5種類、Claude Code・Codex・Gemini に51 回頼み、危険・要注意・安全なやり方を分けた",
-      "url": "https://qiita.com/songchong/items/0d759f44eb26f332b897?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "songchong",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-10-13T04:10:12+09:00"
-    },
-    {
-      "id": "hn-50061278",
-      "source": "hn",
-      "title": "Introducing OpenFatigue",
-      "url": "https://openfatigue.ai/",
-      "score": 55,
-      "comments": 12,
-      "author": "ajcp",
-      "tags": [],
-      "date": "2026-10-12T19:08:21+00:00"
-    },
-    {
-      "id": "hn-50060923",
-      "source": "hn",
-      "title": "David Rudnick on \"borderline impossible\" process of designing Arsenal typeface",
-      "url": "https://www.itsnicethat.com/features/david-rudnick-johnnie-campbell-arsenal-rocastle-typeface-graphic-design-spotlight-121026",
-      "score": 38,
-      "comments": 19,
-      "author": "droidjj",
-      "tags": [],
-      "date": "2026-10-12T18:44:42+00:00"
-    },
-    {
-      "id": "hn-50060694",
-      "source": "hn",
-      "title": "Codex CLI installs a persistent, self-updating background daemon by default",
-      "url": "https://github.com/openai/codex/issues/48195",
-      "score": 462,
-      "comments": 239,
-      "author": "whimblepop",
-      "tags": [],
-      "date": "2026-10-12T18:29:04+00:00"
-    },
-    {
-      "id": "hn-50060674",
-      "source": "hn",
-      "title": "Publishers Killed the Paperback, Then Blamed Readers",
-      "url": "https://jacobin.com/2026/10/books-publishing-reading-mass-market-paperback",
-      "score": 40,
-      "comments": 25,
-      "author": "PaulHoule",
-      "tags": [],
-      "date": "2026-10-12T18:27:26+00:00"
-    },
-    {
-      "id": "hn-50060547",
-      "source": "hn",
-      "title": "Sticky alpine flower confirms Darwin's 150-year-old carnivorous plant prediction",
-      "url": "https://phys.org/news/2026-08-sticky-alpine-darwin-year-carnivorous.html",
-      "score": 60,
-      "comments": 21,
-      "author": "maxall4",
-      "tags": [],
-      "date": "2026-10-12T18:20:17+00:00"
-    },
-    {
-      "id": "hn-50060296",
-      "source": "hn",
-      "title": "My Reddit AMA on the Law of Web Scraping",
-      "url": "https://blog.ericgoldman.org/archives/2026/10/my-reddit-ama-on-the-law-of-web-scraping.htm",
-      "score": 31,
-      "comments": 2,
-      "author": "speckx",
-      "tags": [],
-      "date": "2026-10-12T18:02:32+00:00"
-    },
-    {
-      "id": "hn-50059542",
-      "source": "hn",
-      "title": "Hiking the world in search of rare cheeses",
-      "url": "https://www.bbc.com/travel/article/20261007-the-man-hiking-the-world-in-search-of-rare-cheeses",
-      "score": 47,
-      "comments": 15,
-      "author": "tosh",
-      "tags": [],
-      "date": "2026-10-12T17:15:13+00:00"
-    },
-    {
-      "id": "hn-50059523",
-      "source": "hn",
-      "title": "AI coding agents generate more code, but not more software",
-      "url": "https://arstechnica.com/ai/2026/10/ai-coding-agents-generate-more-code-but-not-more-software/",
-      "score": 161,
-      "comments": 132,
-      "author": "gumby",
-      "tags": [],
-      "date": "2026-10-12T17:14:01+00:00"
-    },
-    {
-      "id": "hn-50059204",
-      "source": "hn",
-      "title": "Thinking will become a hobby",
-      "url": "https://www.spinellis.gr/blog/20261008/?li261008",
-      "score": 115,
-      "comments": 139,
-      "author": "pranitha_m",
-      "tags": [],
-      "date": "2026-10-12T16:54:08+00:00"
-    },
-    {
-      "id": "hn-50059115",
-      "source": "hn",
-      "title": "Muse Wonder",
-      "url": "https://research.meta.ai/blog/muse-wonder",
-      "score": 526,
-      "comments": 295,
-      "author": "meetpateltech",
-      "tags": [],
-      "date": "2026-10-12T16:48:01+00:00"
-    },
-    {
-      "id": "hn-50059094",
-      "source": "hn",
-      "title": "Casio F-91W using Statecharts",
-      "url": "https://github.com/dundalek/casio-f91w-fsm",
-      "score": 27,
-      "comments": 8,
-      "author": "austinallegro",
-      "tags": [],
-      "date": "2026-10-12T16:46:30+00:00"
-    },
-    {
-      "id": "hn-50058649",
-      "source": "hn",
-      "title": "IDRs as Records of Intent",
-      "url": "https://wrla.ch/log/2026/10/idrs-as-records-of-intent/",
-      "score": 6,
-      "comments": 0,
-      "author": "evakhoury",
-      "tags": [],
-      "date": "2026-10-12T16:20:26+00:00"
-    },
-    {
-      "id": "hn-50058528",
-      "source": "hn",
-      "title": "A Modern Web App in C",
-      "url": "https://prophitt.me/writing/a-modern-web-app-in-c",
-      "score": 549,
-      "comments": 230,
-      "author": "prophittcorey",
-      "tags": [],
-      "date": "2026-10-12T16:13:10+00:00"
-    },
-    {
-      "id": "hn-50058507",
-      "source": "hn",
-      "title": "GLM-Legal",
-      "url": "https://z.ai/blog/glm-legal",
-      "score": 648,
-      "comments": 352,
-      "author": "ilreb",
-      "tags": [],
-      "date": "2026-10-12T16:11:45+00:00"
-    },
-    {
-      "id": "hn-50057668",
-      "source": "hn",
-      "title": "Kevin Kelly's 2016 AI Predictions, 10 Years Later",
-      "url": "https://taylor.town/kk-ai-2026",
-      "score": 183,
-      "comments": 67,
-      "author": "surprisetalk",
-      "tags": [],
-      "date": "2026-10-12T15:16:45+00:00"
-    },
-    {
-      "id": "hn-50057612",
-      "source": "hn",
-      "title": "Rebuilding the Original Odhner Model 127 Pinwheel Calculator",
-      "url": "https://www.johnwolff.au/calculators/Tech/OdhnerPinwheel/Odhner127Rebuild.htm",
-      "score": 4,
-      "comments": 0,
-      "author": "goshtasb",
-      "tags": [],
-      "date": "2026-10-12T15:12:37+00:00"
-    },
-    {
-      "id": "hn-50057551",
-      "source": "hn",
-      "title": "Fridges in French supermarkets hit by cyber attack",
-      "url": "https://www.bbc.com/news/articles/crq5nzxv9q4yo",
-      "score": 129,
-      "comments": 83,
-      "author": "cataflam",
-      "tags": [],
-      "date": "2026-10-12T15:08:53+00:00"
-    },
-    {
-      "id": "hn-50057119",
-      "source": "hn",
-      "title": "Maybe a better way to track the release history of a Git repo",
-      "url": "https://blog.plover.com/prog/git/history-proposal.html",
-      "score": 23,
-      "comments": 1,
-      "author": "evakhoury",
-      "tags": [],
-      "date": "2026-10-12T14:41:27+00:00"
-    },
-    {
-      "id": "hn-50056822",
-      "source": "hn",
-      "title": "Solar panels that plug into your wall",
-      "url": "https://www.nationalgeographic.com/environment/article/balcony-plug-in-solar-panels-renewable-energy",
-      "score": 183,
-      "comments": 172,
-      "author": "speckx",
-      "tags": [],
-      "date": "2026-10-12T14:19:04+00:00"
-    },
-    {
-      "id": "qiita-674f57e28a",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "セキュリティ・バイ・デザインという考え方",
-      "url": "https://qiita.com/HIsui0921/items/49cbb1eaead2dcde4bd4?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "HIsui0921",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-10-12T22:31:50+09:00"
-    },
-    {
-      "id": "hn-50055632",
-      "source": "hn",
-      "title": "The Gold-Bug: Edgar Allan Poe's story that taught me about cryptography (2024)",
-      "url": "https://robotsinplainenglish.com/e/2024-01-21-gold-bug.html",
-      "score": 56,
-      "comments": 12,
-      "author": "ripe",
-      "tags": [],
-      "date": "2026-10-12T12:44:42+00:00"
-    },
-    {
-      "id": "hn-50055593",
-      "source": "hn",
-      "title": "Turn a WiFi 7 Router into a 320Msps Software Defined Radio Receiver",
-      "url": "https://github.com/h0m3us3r/w1700k-sdr",
-      "score": 342,
-      "comments": 90,
-      "author": "djfergus",
-      "tags": [],
-      "date": "2026-10-12T12:41:58+00:00"
-    },
-    {
       "id": "ctf-4800242",
       "source": "project",
       "proj_category": "CTF",
@@ -5326,20 +5365,6 @@
         "Security"
       ],
       "date": "2026-07-17T13:37:17Z"
-    },
-    {
-      "id": "ctf-4167124",
-      "source": "project",
-      "proj_category": "CTF",
-      "title": "HackTheBox : WayWitch Writeup",
-      "url": "https://dev.to/exploitnotes/hackthebox-waywitch-writeup-19po",
-      "score": 0,
-      "author": "CTF Platform",
-      "tags": [
-        "CTF",
-        "Security"
-      ],
-      "date": "2026-07-17T13:30:05Z"
     },
     {
       "id": "ghrel-fortra_impacket-325120279",

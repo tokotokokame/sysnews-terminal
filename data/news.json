@@ -1,7 +1,75 @@
 {
-  "updated_at": "2026-10-19T20:22:47.464940+00:00",
+  "updated_at": "2026-10-19T23:51:50.992177+00:00",
   "count": 500,
   "items": [
+    {
+      "id": "hn-50158408",
+      "source": "hn",
+      "title": "Drupal is now light-years ahead of its reputation",
+      "url": "https://dri.es/state-of-drupal-presentation-september-2026",
+      "score": 15,
+      "comments": 10,
+      "author": "scottfalconer",
+      "tags": [],
+      "date": "2026-10-19T21:38:02+00:00"
+    },
+    {
+      "id": "qiita-2bd0a5a44b",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "M5Stamp P4（ESP32-P4）でMMUなしのLinux 7.2を動かし、Wi-FiとSSHまで通した話【AIと250コミット】",
+      "url": "https://qiita.com/tsuyoshi-otake/items/91ef586f1a1a689b0842?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "tsuyoshi-otake",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-10-20T06:19:59+09:00"
+    },
+    {
+      "id": "hn-50158138",
+      "source": "hn",
+      "title": "OpenBSD 8.0 release will have inteldrm/radeondrm/amdgpu drivers from Linux 6.18",
+      "url": "https://bsd.network/@brynet/117407035545900963",
+      "score": 61,
+      "comments": 10,
+      "author": "doener",
+      "tags": [],
+      "date": "2026-10-19T21:11:45+00:00"
+    },
+    {
+      "id": "hn-50158100",
+      "source": "hn",
+      "title": "Putting Linux on my RTX Spark laptop because I don't have a Microsoft account",
+      "url": "https://josie.lol/blog/linux-rtx-spark",
+      "score": 150,
+      "comments": 66,
+      "author": "pfeifferj",
+      "tags": [],
+      "date": "2026-10-19T21:08:18+00:00"
+    },
+    {
+      "id": "hn-50157865",
+      "source": "hn",
+      "title": "One Hash Bloom Filters",
+      "url": "https://calabro.io/ohbf",
+      "score": 23,
+      "comments": 1,
+      "author": "jcalabro",
+      "tags": [],
+      "date": "2026-10-19T20:50:08+00:00"
+    },
+    {
+      "id": "hn-50156744",
+      "source": "hn",
+      "title": "The End of Rationing",
+      "url": "https://sanketsaurav.com/writing/end-of-rationing",
+      "score": 21,
+      "comments": 11,
+      "author": "sanketsaurav",
+      "tags": [],
+      "date": "2026-10-19T19:19:33+00:00"
+    },
     {
       "id": "hn-50156332",
       "source": "hn",
@@ -18,8 +86,8 @@
       "source": "hn",
       "title": "The reverts will continue until morale improves",
       "url": "http://peter.eisentraut.org/blog/2026/10/09/the-reverts-will-continue-until-morale-improves",
-      "score": 47,
-      "comments": 5,
+      "score": 177,
+      "comments": 30,
       "author": "hans_castorp",
       "tags": [],
       "date": "2026-10-19T18:42:32+00:00"
@@ -51,8 +119,8 @@
       "source": "hn",
       "title": "Android apps running native on macOS",
       "url": "https://github.com/kksimp/Mac.apk",
-      "score": 153,
-      "comments": 48,
+      "score": 236,
+      "comments": 109,
       "author": "flocked",
       "tags": [],
       "date": "2026-10-19T16:45:30+00:00"
@@ -62,8 +130,8 @@
       "source": "hn",
       "title": "MiniMax M3.1 Flash",
       "url": "https://www.minimax.io/blog/minimax-m31f",
-      "score": 246,
-      "comments": 94,
+      "score": 341,
+      "comments": 150,
       "author": "jtg",
       "tags": [],
       "date": "2026-10-19T16:39:09+00:00"
@@ -80,6 +148,17 @@
       "date": "2026-10-19T16:37:10+00:00"
     },
     {
+      "id": "hn-50153664",
+      "source": "hn",
+      "title": "Ukraine claims first drone evacuation of wounded soldier",
+      "url": "https://www.nbcnews.com/world/ukraine/ukraine-first-drone-evacuation-wounded-soldier-frontlines-hexacopter-rcna604310",
+      "score": 53,
+      "comments": 67,
+      "author": "yzydserd",
+      "tags": [],
+      "date": "2026-10-19T15:31:34+00:00"
+    },
+    {
       "id": "hn-50153630",
       "source": "hn",
       "title": "CERN and Mistral sign a statement of intent to establish a strategic partnership",
@@ -89,6 +168,17 @@
       "author": "kensai",
       "tags": [],
       "date": "2026-10-19T15:28:24+00:00"
+    },
+    {
+      "id": "hn-50153225",
+      "source": "hn",
+      "title": "Agentic Monitoring",
+      "url": "https://benjamincongdon.me/blog/2026/10/19/Agentic-Monitoring/",
+      "score": 23,
+      "comments": 2,
+      "author": "bcongdon",
+      "tags": [],
+      "date": "2026-10-19T14:52:04+00:00"
     },
     {
       "id": "hn-50152970",
@@ -140,8 +230,8 @@
       "source": "hn",
       "title": "Wine ported to OpenBSD",
       "url": "https://marc.info/?l=openbsd-ports&m=179236125692175",
-      "score": 419,
-      "comments": 135,
+      "score": 484,
+      "comments": 162,
       "author": "iamnothere",
       "tags": [],
       "date": "2026-10-19T13:35:34+00:00"
@@ -209,32 +299,19 @@
       "source": "hn",
       "title": "Alternatives to animal testing are finally taking off",
       "url": "https://spectrum.ieee.org/alternatives-to-animal-testing",
-      "score": 268,
-      "comments": 79,
+      "score": 308,
+      "comments": 91,
       "author": "rbanffy",
       "tags": [],
       "date": "2026-10-19T11:10:54+00:00"
-    },
-    {
-      "id": "qiita-2bd0a5a44b",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "M5Stamp P4（ESP32-P4）でMMUなしのLinux 7.2を動かし、Wi-FiとSSHまで通した話【AIと250コミット】",
-      "url": "https://qiita.com/tsuyoshi-otake/items/91ef586f1a1a689b0842?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "tsuyoshi-otake",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-10-19T20:09:50+09:00"
     },
     {
       "id": "hn-50150809",
       "source": "hn",
       "title": "Let's Encrypt is adding two additional remote perspectives for domain validation",
       "url": "https://community.letsencrypt.org/t/lets-encrypt-is-adding-two-additional-remote-perspectives-for-domain-validation/252166",
-      "score": 219,
-      "comments": 68,
+      "score": 237,
+      "comments": 76,
       "author": "gslin",
       "tags": [],
       "date": "2026-10-19T10:53:39+00:00"
@@ -244,8 +321,8 @@
       "source": "hn",
       "title": "Timestral: Mistral's time-series foundation models",
       "url": "https://mistral.ai/news/timestral/",
-      "score": 465,
-      "comments": 86,
+      "score": 529,
+      "comments": 97,
       "author": "groar",
       "tags": [],
       "date": "2026-10-19T09:59:32+00:00"
@@ -281,8 +358,8 @@
       "source": "hn",
       "title": "I built a drone with only one motor [video]",
       "url": "https://www.youtube.com/watch?v=Ndftcft6XhU",
-      "score": 127,
-      "comments": 17,
+      "score": 332,
+      "comments": 60,
       "author": "hakonjdjohnsen",
       "tags": [],
       "date": "2026-10-19T09:05:07+00:00"
@@ -521,6 +598,17 @@
       "date": "2026-10-19T02:01:16+00:00"
     },
     {
+      "id": "hn-50147462",
+      "source": "hn",
+      "title": "Chicago O'Hare digs up 50-ton boulder under airfield, asks public for name ideas",
+      "url": "https://simpleflying.com/chicago-ohare-digs-up-50-ton-boulder-public-names/",
+      "score": 96,
+      "comments": 80,
+      "author": "Stratoscope",
+      "tags": [],
+      "date": "2026-10-19T01:56:39+00:00"
+    },
+    {
       "id": "hn-50147455",
       "source": "hn",
       "title": "Footage of the Flock search that a judge ruled was uncosntitutional",
@@ -549,8 +637,8 @@
       "source": "hn",
       "title": "Starcraft: Ashfall",
       "url": "https://starcraft-shooter-2026.pages.dev/",
-      "score": 139,
-      "comments": 45,
+      "score": 267,
+      "comments": 94,
       "author": "debo_",
       "tags": [],
       "date": "2026-10-19T01:18:02+00:00"
@@ -900,6 +988,17 @@
       "date": "2026-10-18T13:06:54+00:00"
     },
     {
+      "id": "hn-50140584",
+      "source": "hn",
+      "title": "Weball: Play Katamari on Websites",
+      "url": "https://www.funwithcomputervision.com/weball/",
+      "score": 4,
+      "comments": 1,
+      "author": "croes",
+      "tags": [],
+      "date": "2026-10-18T12:39:56+00:00"
+    },
+    {
       "id": "hn-50140462",
       "source": "hn",
       "title": "How Far Will AI Assistants Go for a Refund They Can't Get?",
@@ -1195,8 +1294,8 @@
       "source": "hn",
       "title": "RuneScape Bench: MMOs for Agents [video]",
       "url": "https://www.youtube.com/watch?v=cNm4zyUtWj0",
-      "score": 81,
-      "comments": 29,
+      "score": 136,
+      "comments": 54,
       "author": "evakhoury",
       "tags": [],
       "date": "2026-10-17T23:24:05+00:00"
@@ -1276,8 +1375,8 @@
       "source": "hn",
       "title": "It's still ok to enjoy programming",
       "url": "https://chriskiehl.com/article/it-is-still-ok-to-enjoy-programming",
-      "score": 285,
-      "comments": 277,
+      "score": 403,
+      "comments": 379,
       "author": "goostavos",
       "tags": [],
       "date": "2026-10-17T19:53:20+00:00"
@@ -1287,8 +1386,8 @@
       "source": "hn",
       "title": "The fire retardant in the seafood chain",
       "url": "https://insideclimatenews.org/news/14102026/ethoxyquin-fire-retardant-in-seafood-chain/",
-      "score": 53,
-      "comments": 16,
+      "score": 96,
+      "comments": 32,
       "author": "gumby",
       "tags": [],
       "date": "2026-10-17T19:37:54+00:00"
@@ -2233,8 +2332,8 @@
       "source": "hn",
       "title": "Credit where credit is due",
       "url": "https://thefloatingcontinent.com/blog/credit-is-due/",
-      "score": 23,
-      "comments": 6,
+      "score": 54,
+      "comments": 34,
       "author": "evakhoury",
       "tags": [],
       "date": "2026-10-16T17:53:05+00:00"
@@ -5121,110 +5220,6 @@
       "date": "2026-10-13T16:24:15+00:00"
     },
     {
-      "id": "hn-50073879",
-      "source": "hn",
-      "title": "Gemini 4 Argon",
-      "url": "https://deepmind.google/models/gemini/",
-      "score": 1392,
-      "comments": 998,
-      "author": "737max",
-      "tags": [],
-      "date": "2026-10-13T16:03:16+00:00"
-    },
-    {
-      "id": "hn-50073633",
-      "source": "hn",
-      "title": "Redesigning source control at Anthropic",
-      "url": "https://www.anthropic.com/engineering/redesigning-source-control",
-      "score": 790,
-      "comments": 817,
-      "author": "Philpax",
-      "tags": [],
-      "date": "2026-10-13T15:49:56+00:00",
-      "severity": "critical"
-    },
-    {
-      "id": "hn-50073221",
-      "source": "hn",
-      "title": "I posted to HN, and then my website was flooded with AI bot traffic",
-      "url": "https://www.sammystraus.com/#i-posted-to-hn-and-then-my-website-was-flooded-with-ai-bot-traffic",
-      "score": 306,
-      "comments": 162,
-      "author": "sammy0910",
-      "tags": [],
-      "date": "2026-10-13T15:25:50+00:00"
-    },
-    {
-      "id": "hn-50072994",
-      "source": "hn",
-      "title": "The United Kingdom generates less electricity per person than in the 1970s",
-      "url": "https://ourworldindata.org/data-insights/electricity-generation-per-person-in-the-united-kingdom-has-fallen-by-a-third-from-its-early-2000s-peak",
-      "score": 388,
-      "comments": 637,
-      "author": "karakoram",
-      "tags": [],
-      "date": "2026-10-13T15:12:57+00:00"
-    },
-    {
-      "id": "qiita-8238bf68f0",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "要望に応えるだけで、課題が解決したと思い込むな",
-      "url": "https://qiita.com/sgrs38/items/90e39fee7c0bef73eb6d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "sgrs38",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-10-14T00:11:19+09:00"
-    },
-    {
-      "id": "hn-50072913",
-      "source": "hn",
-      "title": "Thunderbird for iOS",
-      "url": "https://blog.thunderbird.net/2026/10/thunderbird-for-ios-a-first-look-at-the-native-iphone-email-app-in-development/",
-      "score": 396,
-      "comments": 173,
-      "author": "mjorgers",
-      "tags": [],
-      "date": "2026-10-13T15:07:37+00:00"
-    },
-    {
-      "id": "qiita-466f4d6d59",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "耳で聞く！Python で学ぶ マクロ経済学 入門 28",
-      "url": "https://qiita.com/maskot1977/items/fa75e8e9cd61a2f2a22f?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "maskot1977",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-10-14T00:07:13+09:00"
-    },
-    {
-      "id": "hn-50072485",
-      "source": "hn",
-      "title": "Two-Stack Sliding-Window Aggregation",
-      "url": "https://orlp.net/blog/two-stack-sliding-window-aggregation/",
-      "score": 72,
-      "comments": 11,
-      "author": "surprisetalk",
-      "tags": [],
-      "date": "2026-10-13T14:40:03+00:00"
-    },
-    {
-      "id": "hn-50072286",
-      "source": "hn",
-      "title": "Apple's new 'Switch to Safari' campaign details why you should ditch Chrome",
-      "url": "https://9to5mac.com/2026/10/12/apples-new-switch-to-safari-campaign-details-why-you-should-ditch-chrome/",
-      "score": 241,
-      "comments": 393,
-      "author": "ivell",
-      "tags": [],
-      "date": "2026-10-13T14:26:08+00:00"
-    },
-    {
       "id": "ctf-4800242",
       "source": "project",
       "proj_category": "CTF",
@@ -5421,6 +5416,71 @@
       "date": "2023-05-23T17:06:23Z"
     },
     {
+      "id": "zenn-63bde6b0ef",
+      "source": "zennqiita",
+      "sub_source": "Zenn",
+      "title": "対象が広い事業・プロダクトが刺さる気がしない",
+      "url": "https://zenn.dev/fusa_bp/articles/broad-target-reaches-no-one",
+      "score": null,
+      "author": "fusa_bp",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Mon, 19 Oct 2026 17:05:28 GMT"
+    },
+    {
+      "id": "zenn-c02b4066fb",
+      "source": "zennqiita",
+      "sub_source": "Zenn",
+      "title": "AIとコンテストに参加する",
+      "url": "https://zenn.dev/attgm/articles/d28df25b88254a",
+      "score": null,
+      "author": "a2",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Mon, 19 Oct 2026 13:42:44 GMT"
+    },
+    {
+      "id": "zenn-239de124e0",
+      "source": "zennqiita",
+      "sub_source": "Zenn",
+      "title": "普段使いのWindows PCでNodeのサーバーを常駐させて踏んだ罠",
+      "url": "https://zenn.dev/matasuke_t/articles/bf784b79b29e86",
+      "score": null,
+      "author": "またすけ",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Mon, 19 Oct 2026 11:13:05 GMT"
+    },
+    {
+      "id": "zenn-18a01065e2",
+      "source": "zennqiita",
+      "sub_source": "Zenn",
+      "title": "Claude Codeの会話を55分放っておいたら、272,422トークンが13,522に圧縮されていました ― アイドル圧縮の観測",
+      "url": "https://zenn.dev/ojisan_ai_lab/articles/claude-code-idle-compaction-20261019",
+      "score": null,
+      "author": "おじさんAIラボ",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Mon, 19 Oct 2026 09:29:39 GMT"
+    },
+    {
+      "id": "zenn-33e76ce995",
+      "source": "zennqiita",
+      "sub_source": "Zenn",
+      "title": "Kaigi on Rails 2026 感想 ＆ OSTで「ファットモデル」の議論をしたよ！",
+      "url": "https://zenn.dev/progate/articles/b49c75fc6ab1ff",
+      "score": null,
+      "author": "横江（よこえ）",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Mon, 19 Oct 2026 05:38:03 GMT"
+    },
+    {
       "id": "zenn-58a7318e4d",
       "source": "zennqiita",
       "sub_source": "Zenn",
@@ -5447,6 +5507,19 @@
       "date": "Mon, 19 Oct 2026 03:19:32 GMT"
     },
     {
+      "id": "zenn-55c2a7e107",
+      "source": "zennqiita",
+      "sub_source": "Zenn",
+      "title": "Claude Codeでプロンプトインジェクションに備える",
+      "url": "https://zenn.dev/luxiar/articles/a341a2df29dcfe",
+      "score": null,
+      "author": "Suzu",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Mon, 19 Oct 2026 02:00:05 GMT"
+    },
+    {
       "id": "zenn-003b8a3e4d",
       "source": "zennqiita",
       "sub_source": "Zenn",
@@ -5471,6 +5544,19 @@
         "Zenn"
       ],
       "date": "Mon, 19 Oct 2026 00:30:14 GMT"
+    },
+    {
+      "id": "zenn-07f999345b",
+      "source": "zennqiita",
+      "sub_source": "Zenn",
+      "title": "【UMP】同意を外部SDKに反映する【Tenjinを例に】",
+      "url": "https://zenn.dev/gameshitai/articles/f65544c1e5a7ea",
+      "score": null,
+      "author": "スナギモ",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Mon, 19 Oct 2026 00:00:07 GMT"
     },
     {
       "id": "zenn-f7416eb90f",
@@ -5512,58 +5598,6 @@
       "date": "Sun, 18 Oct 2026 22:30:05 GMT"
     },
     {
-      "id": "zenn-b759b77046",
-      "source": "zennqiita",
-      "sub_source": "Zenn",
-      "title": "山岳ステージがしっくりこない。AIとBlenderで森を作り、Unityの性能問題にぶつかった",
-      "url": "https://zenn.dev/project_arca/articles/unity-forest-rendering-diagnosis-001",
-      "score": null,
-      "author": "papa",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Sun, 18 Oct 2026 15:26:10 GMT"
-    },
-    {
-      "id": "zenn-37f0277d3c",
-      "source": "zennqiita",
-      "sub_source": "Zenn",
-      "title": "アプリケーションの自動テストとデプロイをCircleCIからGitHub Actionsに移行した",
-      "url": "https://zenn.dev/tsukulink/articles/fea41a6e4113cf",
-      "score": null,
-      "author": "oieioi",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Sun, 18 Oct 2026 15:00:05 GMT"
-    },
-    {
-      "id": "zenn-05793f6ea4",
-      "source": "zennqiita",
-      "sub_source": "Zenn",
-      "title": "判断特化モデルの比較: Decisions API・Jev・Clef",
-      "url": "https://zenn.dev/bocek/articles/5e1ba6fae7e7d6",
-      "score": null,
-      "author": "はせ",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Sun, 18 Oct 2026 10:21:12 GMT"
-    },
-    {
-      "id": "zenn-e7b69af067",
-      "source": "zennqiita",
-      "sub_source": "Zenn",
-      "title": "読書メモ『入門 継続的デリバリー』",
-      "url": "https://zenn.dev/95nm/articles/article_reading_cd",
-      "score": null,
-      "author": "ブルハツ",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Sun, 18 Oct 2026 10:16:10 GMT"
-    },
-    {
       "id": "zenn-a5477b0b97",
       "source": "zennqiita",
       "sub_source": "Zenn",
@@ -5603,32 +5637,6 @@
       "date": "Fri, 16 Oct 2026 14:10:37 GMT"
     },
     {
-      "id": "zenn-737fdb5a3b",
-      "source": "zennqiita",
-      "sub_source": "Zenn",
-      "title": "コネクタも API も無いサービスを、Claude Code に操作させる",
-      "url": "https://zenn.dev/edash_tech_blog/articles/6250fc61ccf009",
-      "score": null,
-      "author": "じょーじ",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Fri, 16 Oct 2026 09:19:08 GMT"
-    },
-    {
-      "id": "zenn-3818f11105",
-      "source": "zennqiita",
-      "sub_source": "Zenn",
-      "title": "本番DBに不要なレコードを数千万件登録してしまった話",
-      "url": "https://zenn.dev/geekplus/articles/a615dfe41557d8",
-      "score": null,
-      "author": "長谷部一希",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Fri, 16 Oct 2026 09:00:09 GMT"
-    },
-    {
       "id": "zenn-11cf4bfa21",
       "source": "zennqiita",
       "sub_source": "Zenn",
@@ -5666,19 +5674,6 @@
         "Zenn"
       ],
       "date": "Thu, 15 Oct 2026 23:00:05 GMT"
-    },
-    {
-      "id": "zenn-93473151e1",
-      "source": "zennqiita",
-      "sub_source": "Zenn",
-      "title": "国産モデル sarashina3-mini は日本語の推敲で何を変えるのか？",
-      "url": "https://zenn.dev/algoartis/articles/03ca12150ccbee",
-      "score": null,
-      "author": "大賀愛一郎（oga_aiichiro）",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Thu, 15 Oct 2026 08:30:03 GMT"
     },
     {
       "id": "edb-1d1e868d62",

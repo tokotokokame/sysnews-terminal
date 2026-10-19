@@ -1,7 +1,95 @@
 {
-  "updated_at": "2026-10-19T14:52:09.802171+00:00",
+  "updated_at": "2026-10-19T20:22:47.464940+00:00",
   "count": 500,
   "items": [
+    {
+      "id": "hn-50156332",
+      "source": "hn",
+      "title": "Towards Company World Models",
+      "url": "https://www.beaconholdings.com/research/towards-company-world-models",
+      "score": 13,
+      "comments": 0,
+      "author": "rafaelc",
+      "tags": [],
+      "date": "2026-10-19T18:51:09+00:00"
+    },
+    {
+      "id": "hn-50156206",
+      "source": "hn",
+      "title": "The reverts will continue until morale improves",
+      "url": "http://peter.eisentraut.org/blog/2026/10/09/the-reverts-will-continue-until-morale-improves",
+      "score": 47,
+      "comments": 5,
+      "author": "hans_castorp",
+      "tags": [],
+      "date": "2026-10-19T18:42:32+00:00"
+    },
+    {
+      "id": "hn-50155245",
+      "source": "hn",
+      "title": "Mercury 3: Diffusion at scale",
+      "url": "https://www.inceptionlabs.ai/blog/introducing-mercury-3",
+      "score": 160,
+      "comments": 68,
+      "author": "cmrdporcupine",
+      "tags": [],
+      "date": "2026-10-19T17:27:11+00:00"
+    },
+    {
+      "id": "hn-50155172",
+      "source": "hn",
+      "title": "Evidence (YC S21) Is Hiring Software Engineers",
+      "url": "https://evidence.dev/jobs",
+      "score": 1,
+      "comments": 0,
+      "author": "hughess",
+      "tags": [],
+      "date": "2026-10-19T17:21:33+00:00"
+    },
+    {
+      "id": "hn-50154624",
+      "source": "hn",
+      "title": "Android apps running native on macOS",
+      "url": "https://github.com/kksimp/Mac.apk",
+      "score": 153,
+      "comments": 48,
+      "author": "flocked",
+      "tags": [],
+      "date": "2026-10-19T16:45:30+00:00"
+    },
+    {
+      "id": "hn-50154540",
+      "source": "hn",
+      "title": "MiniMax M3.1 Flash",
+      "url": "https://www.minimax.io/blog/minimax-m31f",
+      "score": 246,
+      "comments": 94,
+      "author": "jtg",
+      "tags": [],
+      "date": "2026-10-19T16:39:09+00:00"
+    },
+    {
+      "id": "hn-50154518",
+      "source": "hn",
+      "title": "I no longer care to work on any Ruby gems so I've archived all my repositories",
+      "url": "https://po-ru.com/2026/10/18/why-im-no-longer-updating-this-repository",
+      "score": 298,
+      "comments": 261,
+      "author": "phoronixrly",
+      "tags": [],
+      "date": "2026-10-19T16:37:10+00:00"
+    },
+    {
+      "id": "hn-50153630",
+      "source": "hn",
+      "title": "CERN and Mistral sign a statement of intent to establish a strategic partnership",
+      "url": "https://home.cern/cern-and-mistral-join-forces-to-accelerate-ai-for-science/",
+      "score": 251,
+      "comments": 47,
+      "author": "kensai",
+      "tags": [],
+      "date": "2026-10-19T15:28:24+00:00"
+    },
     {
       "id": "hn-50152970",
       "source": "hn",
@@ -36,15 +124,38 @@
       "date": "2026-10-19T13:53:52+00:00"
     },
     {
+      "id": "hn-50152321",
+      "source": "hn",
+      "title": "Plex vulnerabilities being exploited in the wild to drop a cryptominer",
+      "url": "http://www.boredhackerblog.info/2026/10/plex-vulnerabilities-being-exploited-in.html",
+      "score": 94,
+      "comments": 34,
+      "author": "mindracer",
+      "tags": [],
+      "date": "2026-10-19T13:36:43+00:00",
+      "severity": "high"
+    },
+    {
       "id": "hn-50152307",
       "source": "hn",
-      "title": "Wine Ported to OpenBSD",
+      "title": "Wine ported to OpenBSD",
       "url": "https://marc.info/?l=openbsd-ports&m=179236125692175",
-      "score": 58,
-      "comments": 5,
+      "score": 419,
+      "comments": 135,
       "author": "iamnothere",
       "tags": [],
       "date": "2026-10-19T13:35:34+00:00"
+    },
+    {
+      "id": "hn-50152302",
+      "source": "hn",
+      "title": "Cairn: Open windows into AI-driven cyber operations",
+      "url": "https://norforge.com/blog/inside_cairn",
+      "score": 20,
+      "comments": 6,
+      "author": "ragu4u",
+      "tags": [],
+      "date": "2026-10-19T13:35:12+00:00"
     },
     {
       "id": "hn-50151928",
@@ -96,21 +207,34 @@
     {
       "id": "hn-50150927",
       "source": "hn",
-      "title": "Alternatives to Animal Testing Are Finally Taking Off",
+      "title": "Alternatives to animal testing are finally taking off",
       "url": "https://spectrum.ieee.org/alternatives-to-animal-testing",
-      "score": 103,
-      "comments": 20,
+      "score": 268,
+      "comments": 79,
       "author": "rbanffy",
       "tags": [],
       "date": "2026-10-19T11:10:54+00:00"
+    },
+    {
+      "id": "qiita-2bd0a5a44b",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "M5Stamp P4（ESP32-P4）でMMUなしのLinux 7.2を動かし、Wi-FiとSSHまで通した話【AIと250コミット】",
+      "url": "https://qiita.com/tsuyoshi-otake/items/91ef586f1a1a689b0842?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "tsuyoshi-otake",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-10-19T20:09:50+09:00"
     },
     {
       "id": "hn-50150809",
       "source": "hn",
       "title": "Let's Encrypt is adding two additional remote perspectives for domain validation",
       "url": "https://community.letsencrypt.org/t/lets-encrypt-is-adding-two-additional-remote-perspectives-for-domain-validation/252166",
-      "score": 105,
-      "comments": 31,
+      "score": 219,
+      "comments": 68,
       "author": "gslin",
       "tags": [],
       "date": "2026-10-19T10:53:39+00:00"
@@ -118,13 +242,76 @@
     {
       "id": "hn-50150434",
       "source": "hn",
-      "title": "Timestral: Mistral release time-series foundation models",
+      "title": "Timestral: Mistral's time-series foundation models",
       "url": "https://mistral.ai/news/timestral/",
-      "score": 233,
-      "comments": 44,
+      "score": 465,
+      "comments": 86,
       "author": "groar",
       "tags": [],
       "date": "2026-10-19T09:59:32+00:00"
+    },
+    {
+      "id": "qiita-4549481494",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "AWS初心者がエンジニアを辞めた話",
+      "url": "https://qiita.com/tks_1128/items/e4cde327a910b5beba11?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "tks_1128",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-10-19T18:42:28+09:00"
+    },
+    {
+      "id": "qiita-e252f9eb65",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "NWの自動化はなぜ進まないのか(1) - 「割に合わない」が積み上がる構造",
+      "url": "https://qiita.com/corestate55/items/3c14cf36091495d8880b?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "corestate55",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-10-19T18:07:36+09:00"
+    },
+    {
+      "id": "hn-50150089",
+      "source": "hn",
+      "title": "I built a drone with only one motor [video]",
+      "url": "https://www.youtube.com/watch?v=Ndftcft6XhU",
+      "score": 127,
+      "comments": 17,
+      "author": "hakonjdjohnsen",
+      "tags": [],
+      "date": "2026-10-19T09:05:07+00:00"
+    },
+    {
+      "id": "qiita-1276720a20",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "【Lambda Web Functions × CloudFront OAC】Lambda Web Functionsを使えばx-amz-content-sha256なしのPOSTが403になる問題が解決します！",
+      "url": "https://qiita.com/yosuke-suzuki/items/68c533536352475c4b4e?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "yosuke-suzuki",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-10-19T18:02:25+09:00"
+    },
+    {
+      "id": "qiita-ff3a62e15e",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "【ポート開放なし】getastaticとかいう謎サービス契約してみた【WireGuard】",
+      "url": "https://qiita.com/ayane0857/items/8c77ba544325290440d1?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "ayane0857",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-10-19T17:50:49+09:00"
     },
     {
       "id": "qiita-164836d819",
@@ -210,6 +397,19 @@
         "Qiita"
       ],
       "date": "2026-10-19T14:02:21+09:00"
+    },
+    {
+      "id": "qiita-2e4dda839b",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "凡人SI屋のトラブル対応回顧録　第1回　はじめに",
+      "url": "https://qiita.com/snoopy_naritagu/items/13c6315f3cd30ddbe012?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "snoopy_naritagu",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-10-19T13:47:51+09:00"
     },
     {
       "id": "hn-50148452",
@@ -299,6 +499,17 @@
       "date": "2026-10-19T11:50:45+09:00"
     },
     {
+      "id": "hn-50147760",
+      "source": "hn",
+      "title": "The Annotated VT100 Firmware (2022)",
+      "url": "https://vt100.net/dec/vt100/rom/",
+      "score": 41,
+      "comments": 2,
+      "author": "Aleksandr_NFA",
+      "tags": [],
+      "date": "2026-10-19T02:40:04+00:00"
+    },
+    {
       "id": "hn-50147492",
       "source": "hn",
       "title": "Superlite: A Faster Alternatie to Superpowers",
@@ -319,6 +530,30 @@
       "author": "anigbrowl",
       "tags": [],
       "date": "2026-10-19T01:55:03+00:00"
+    },
+    {
+      "id": "qiita-29911b9cc9",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "NextAuthを使わずにGoogle連携をスクラッチ実装して、OAuth 2.0の仕組みを理解した",
+      "url": "https://qiita.com/keikeigo/items/7d2eb02a9588e4deeb22?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "keikeigo",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-10-19T10:29:05+09:00"
+    },
+    {
+      "id": "hn-50147233",
+      "source": "hn",
+      "title": "Starcraft: Ashfall",
+      "url": "https://starcraft-shooter-2026.pages.dev/",
+      "score": 139,
+      "comments": 45,
+      "author": "debo_",
+      "tags": [],
+      "date": "2026-10-19T01:18:02+00:00"
     },
     {
       "id": "qiita-81c8ac4a0f",
@@ -608,6 +843,19 @@
       "date": "2026-10-18T14:30:27+00:00"
     },
     {
+      "id": "qiita-8aaf0ad46c",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "オリジン弁当に通い詰めた俺が「Origin」について解説してみた！",
+      "url": "https://qiita.com/jota9613/items/6ea5f40526fb7e4df157?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "jota9613",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-10-18T23:22:17+09:00"
+    },
+    {
       "id": "hn-50141295",
       "source": "hn",
       "title": "Tesla 'Cannot Guarantee' Roadster Reservation Holders Will Ever Get a Car",
@@ -744,6 +992,19 @@
         "Qiita"
       ],
       "date": "2026-10-18T18:02:42+09:00"
+    },
+    {
+      "id": "qiita-5304838e5d",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "【Rails初学者向け】このコード何が間違っている？ 〜 理解度を試す10個の問題 〜",
+      "url": "https://qiita.com/uokun32/items/e1f0f8c746318ec69d2d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "uokun32",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-10-18T17:50:28+09:00"
     },
     {
       "id": "qiita-89d44cf1d9",
@@ -930,6 +1191,17 @@
       "date": "2026-10-17T23:26:35+00:00"
     },
     {
+      "id": "hn-50136126",
+      "source": "hn",
+      "title": "RuneScape Bench: MMOs for Agents [video]",
+      "url": "https://www.youtube.com/watch?v=cNm4zyUtWj0",
+      "score": 81,
+      "comments": 29,
+      "author": "evakhoury",
+      "tags": [],
+      "date": "2026-10-17T23:24:05+00:00"
+    },
+    {
       "id": "hn-50136017",
       "source": "hn",
       "title": "Beyond Tetris: The other games of Alexey Pajitnov [video]",
@@ -998,6 +1270,28 @@
       "author": "croes",
       "tags": [],
       "date": "2026-10-17T20:07:33+00:00"
+    },
+    {
+      "id": "hn-50134472",
+      "source": "hn",
+      "title": "It's still ok to enjoy programming",
+      "url": "https://chriskiehl.com/article/it-is-still-ok-to-enjoy-programming",
+      "score": 285,
+      "comments": 277,
+      "author": "goostavos",
+      "tags": [],
+      "date": "2026-10-17T19:53:20+00:00"
+    },
+    {
+      "id": "hn-50134359",
+      "source": "hn",
+      "title": "The fire retardant in the seafood chain",
+      "url": "https://insideclimatenews.org/news/14102026/ethoxyquin-fire-retardant-in-seafood-chain/",
+      "score": 53,
+      "comments": 16,
+      "author": "gumby",
+      "tags": [],
+      "date": "2026-10-17T19:37:54+00:00"
     },
     {
       "id": "hn-50133830",
@@ -1404,6 +1698,17 @@
       "author": "theanonymousone",
       "tags": [],
       "date": "2026-10-17T08:37:46+00:00"
+    },
+    {
+      "id": "hn-50129102",
+      "source": "hn",
+      "title": "Galois Finite Fields and the Advanced Encryption Standard (AES)",
+      "url": "https://www.cs.uaf.edu/2015/spring/cs463/lecture/03_23_AES.html",
+      "score": 61,
+      "comments": 2,
+      "author": "ankitg12",
+      "tags": [],
+      "date": "2026-10-17T08:34:31+00:00"
     },
     {
       "id": "hn-50129045",
@@ -1922,6 +2227,17 @@
       "author": "pretext",
       "tags": [],
       "date": "2026-10-16T18:00:18+00:00"
+    },
+    {
+      "id": "hn-50121834",
+      "source": "hn",
+      "title": "Credit where credit is due",
+      "url": "https://thefloatingcontinent.com/blog/credit-is-due/",
+      "score": 23,
+      "comments": 6,
+      "author": "evakhoury",
+      "tags": [],
+      "date": "2026-10-16T17:53:05+00:00"
     },
     {
       "id": "hn-50121601",
@@ -4909,312 +5225,6 @@
       "date": "2026-10-13T14:26:08+00:00"
     },
     {
-      "id": "hn-50072120",
-      "source": "hn",
-      "title": "How to engineer an AI harness for game development",
-      "url": "https://kylekukshtel.com/ai-harness-engineering-game-development-claude-code",
-      "score": 96,
-      "comments": 40,
-      "author": "kkukshtel",
-      "tags": [],
-      "date": "2026-10-13T14:14:23+00:00"
-    },
-    {
-      "id": "hn-50072119",
-      "source": "hn",
-      "title": "'500-hour' Order of the Sinking Star is as complex and exhausting as it sounds",
-      "url": "https://www.polygon.com/order-of-the-sinking-star-impressions/",
-      "score": 126,
-      "comments": 76,
-      "author": "cvoss",
-      "tags": [],
-      "date": "2026-10-13T14:14:20+00:00"
-    },
-    {
-      "id": "hn-50071546",
-      "source": "hn",
-      "title": "Your C is not standard C",
-      "url": "https://sebsite.pw/w/20261012-notstdc.html",
-      "score": 102,
-      "comments": 69,
-      "author": "dverlaeckt80",
-      "tags": [],
-      "date": "2026-10-13T13:36:21+00:00"
-    },
-    {
-      "id": "hn-50071466",
-      "source": "hn",
-      "title": "Same Job, Two Engines: InnoDB and Iceberg Internals",
-      "url": "https://marcpaul.io/logs/same-job-two-engines-innodb-and-iceberg-internals/",
-      "score": 43,
-      "comments": 4,
-      "author": "marcbpaul",
-      "tags": [],
-      "date": "2026-10-13T13:31:43+00:00"
-    },
-    {
-      "id": "hn-50071310",
-      "source": "hn",
-      "title": "New Apple TV 4K",
-      "url": "https://www.apple.com/newsroom/2026/10/apple-unveils-the-new-apple-tv-4k/",
-      "score": 321,
-      "comments": 591,
-      "author": "corvad",
-      "tags": [],
-      "date": "2026-10-13T13:21:35+00:00"
-    },
-    {
-      "id": "hn-50071068",
-      "source": "hn",
-      "title": "Tracing Mystery Network Traffic with eBPF Across HRT's Global Compute Cluster",
-      "url": "https://www.hudsonrivertrading.com/hrtbeat/long-on-research-short-on-bandwidth/",
-      "score": 10,
-      "comments": 0,
-      "author": "theHRTBeat",
-      "tags": [],
-      "date": "2026-10-13T13:05:46+00:00"
-    },
-    {
-      "id": "hn-50071017",
-      "source": "hn",
-      "title": "Apple HomeView",
-      "url": "https://www.apple.com/apple-homeview/",
-      "score": 648,
-      "comments": 770,
-      "author": "etothet",
-      "tags": [],
-      "date": "2026-10-13T13:02:12+00:00"
-    },
-    {
-      "id": "hn-50070741",
-      "source": "hn",
-      "title": "BB(10) > Graham's Number",
-      "url": "https://github.com/jeff87654/busy-beaver/blob/main/BB10/1RB0RA_1LC1LF_1RD0LB_1RA1LE_1LI0LC_0RG1LD_1RH1LG_1LC0RG_0LJ0LI_1RZ0LC.md",
-      "score": 50,
-      "comments": 24,
-      "author": "surprisetalk",
-      "tags": [],
-      "date": "2026-10-13T12:40:04+00:00"
-    },
-    {
-      "id": "hn-50070661",
-      "source": "hn",
-      "title": "It took me nine years to hack my Xbox 360",
-      "url": "https://kennedn.com/blog/posts/glitching/",
-      "score": 109,
-      "comments": 31,
-      "author": "kennedn",
-      "tags": [],
-      "date": "2026-10-13T12:33:18+00:00"
-    },
-    {
-      "id": "hn-50070625",
-      "source": "hn",
-      "title": "Wanted to download an ISO, ended up writing a kernel exploit",
-      "url": "https://blog.dfb.sh/blog/eap770-root-for-two-zeros/",
-      "score": 340,
-      "comments": 167,
-      "author": "0xdeafbeef",
-      "tags": [],
-      "date": "2026-10-13T12:30:08+00:00",
-      "severity": "high"
-    },
-    {
-      "id": "hn-50070593",
-      "source": "hn",
-      "title": "A Dynamic and Distributed Virtual GPU Cloud Built on Idle Apple Silicon Devices",
-      "url": "https://machinelearning.apple.com/research/distributed-gpu-cloud",
-      "score": 217,
-      "comments": 92,
-      "author": "acossta",
-      "tags": [],
-      "date": "2026-10-13T12:26:36+00:00"
-    },
-    {
-      "id": "hn-50070510",
-      "source": "hn",
-      "title": "Speculative Sauropods",
-      "url": "https://svpow.com/2026/10/02/speculative-sauropods/",
-      "score": 12,
-      "comments": 0,
-      "author": "surprisetalk",
-      "tags": [],
-      "date": "2026-10-13T12:20:03+00:00"
-    },
-    {
-      "id": "hn-50070438",
-      "source": "hn",
-      "title": "Webster’s Dictionary: The pleasure of finding things out (2014)",
-      "url": "https://jsomers.net/blog/dictionary",
-      "score": 10,
-      "comments": 2,
-      "author": "hangsi",
-      "tags": [],
-      "date": "2026-10-13T12:13:20+00:00"
-    },
-    {
-      "id": "hn-50070302",
-      "source": "hn",
-      "title": "Firefox Enterprise",
-      "url": "https://www.firefox.com/en-US/enterprise/",
-      "score": 633,
-      "comments": 258,
-      "author": "recvonline",
-      "tags": [],
-      "date": "2026-10-13T12:00:42+00:00"
-    },
-    {
-      "id": "hn-50070287",
-      "source": "hn",
-      "title": "A Visual Intro to Complex Numbers",
-      "url": "https://photonlines.substack.com/p/a-visual-intro-to-complex-numbers",
-      "score": 70,
-      "comments": 47,
-      "author": "surprisetalk",
-      "tags": [],
-      "date": "2026-10-13T12:00:04+00:00"
-    },
-    {
-      "id": "qiita-94ed5172eb",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "Wordの.docxは実はZIPファイル。見えない情報の保存場所を調べてみる",
-      "url": "https://qiita.com/kourak_utiloop/items/01d7c40c2308e390cec3?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "kourak_utiloop",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-10-13T20:38:07+09:00"
-    },
-    {
-      "id": "hn-50070010",
-      "source": "hn",
-      "title": "Show HN: Spotatui, a Spotify TUI/GUI without web API rate limits",
-      "url": "https://github.com/LargeModGames/spotatui",
-      "score": 30,
-      "comments": 2,
-      "author": "LargeModGames",
-      "tags": [],
-      "date": "2026-10-13T11:32:00+00:00"
-    },
-    {
-      "id": "hn-50069971",
-      "source": "hn",
-      "title": "We turned EmbeddingGemma 2 into a speech-to-text model",
-      "url": "https://eg2.haku.sh/",
-      "score": 391,
-      "comments": 85,
-      "author": "amrrs",
-      "tags": [],
-      "date": "2026-10-13T11:27:14+00:00"
-    },
-    {
-      "id": "qiita-431360abcb",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "抽象的なことを考える時、無意識に具体化しないためのメモ",
-      "url": "https://qiita.com/J-T_ky2g/items/36aaf36d9eef97672c3d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "J-T_ky2g",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-10-13T20:24:27+09:00"
-    },
-    {
-      "id": "hn-50069499",
-      "source": "hn",
-      "title": "11 year old unsoundness bugs found in Rust borrow checker",
-      "url": "https://github.com/rust-lang/rust/issues/164250",
-      "score": 667,
-      "comments": 373,
-      "author": "formerly_proven",
-      "tags": [],
-      "date": "2026-10-13T10:27:00+00:00"
-    },
-    {
-      "id": "hn-50069439",
-      "source": "hn",
-      "title": "Major ICQ security hole (1998)",
-      "url": "https://opennet.ru/base/maillist/169.txt.html",
-      "score": 49,
-      "comments": 27,
-      "author": "sysoleg",
-      "tags": [],
-      "date": "2026-10-13T10:21:17+00:00"
-    },
-    {
-      "id": "hn-50069337",
-      "source": "hn",
-      "title": "Show HN: Use your OpenAI subscription to create audiobooks",
-      "url": "https://pdftomp3.com/connect-ai/",
-      "score": 129,
-      "comments": 64,
-      "author": "janpmz",
-      "tags": [],
-      "date": "2026-10-13T10:08:34+00:00"
-    },
-    {
-      "id": "qiita-c871064282",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "AWS WAFのSQLi_BODYだけを制御する｜Managed RuleのCount + Labelを使った誤検知対策",
-      "url": "https://qiita.com/zerong-song/items/526731ff7a5f939a1e23?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "zerong-song",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-10-13T18:28:31+09:00"
-    },
-    {
-      "id": "hn-50068510",
-      "source": "hn",
-      "title": "Where is all the new, good software?",
-      "url": "https://www.natemeyvis.com/where-is-all-the-new-good-software/",
-      "score": 10,
-      "comments": 11,
-      "author": "ingve",
-      "tags": [],
-      "date": "2026-10-13T08:34:35+00:00"
-    },
-    {
-      "id": "hn-50068443",
-      "source": "hn",
-      "title": "Document Review with Unsiloed and TypeSafe Jev",
-      "url": "https://www.unsiloed.ai/blog/document-review-unsiloed-typesafe-jev",
-      "score": 3,
-      "comments": 0,
-      "author": "ritzaco",
-      "tags": [],
-      "date": "2026-10-13T08:24:51+00:00"
-    },
-    {
-      "id": "hn-50068203",
-      "source": "hn",
-      "title": "Apple routed a graphite pipe through the iPhone Duo's hinge to dissipate heat",
-      "url": "https://www.pcmag.com/news/apple-routed-a-graphite-pipe-through-the-iphone-duos-hinge",
-      "score": 161,
-      "comments": 118,
-      "author": "giuliomagnifico",
-      "tags": [],
-      "date": "2026-10-13T07:52:54+00:00"
-    },
-    {
-      "id": "qiita-f2f66d145d",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "なぜOpenAIのtext-embedding-3-smallは、最新モデルが出ても使われ続けているのか",
-      "url": "https://qiita.com/quan_le/items/a33e331a2d7a42891f49?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "quan_le",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-10-13T15:54:50+09:00"
-    },
-    {
       "id": "ctf-4800242",
       "source": "project",
       "proj_category": "CTF",
@@ -5560,7 +5570,7 @@
       "title": "リトルの法則で考える障害時のキャパシティプランニング",
       "url": "https://zenn.dev/rea9r/articles/littles-law-capacity-planning",
       "score": null,
-      "author": "rea9r",
+      "author": "Takuya Akamatsu",
       "tags": [
         "Zenn"
       ],

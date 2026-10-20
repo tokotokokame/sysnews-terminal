@@ -1,7 +1,86 @@
 {
-  "updated_at": "2026-10-20T14:25:27.462748+00:00",
+  "updated_at": "2026-10-20T18:36:25.792507+00:00",
   "count": 500,
   "items": [
+    {
+      "id": "hn-50169955",
+      "source": "hn",
+      "title": "Advanced coding in low-resource programming languages",
+      "url": "https://openai.com/index/low-resource-programming-languages/",
+      "score": 15,
+      "comments": 9,
+      "author": "sumnole",
+      "tags": [],
+      "date": "2026-10-20T17:43:11+00:00",
+      "severity": "critical"
+    },
+    {
+      "id": "hn-50169053",
+      "source": "hn",
+      "title": "Google open-sources TorchTPU, a native PyTorch back end for TPUs",
+      "url": "https://github.com/google-pytorch/torch_tpu",
+      "score": 93,
+      "comments": 25,
+      "author": "ilreb",
+      "tags": [],
+      "date": "2026-10-20T16:40:24+00:00",
+      "severity": "critical"
+    },
+    {
+      "id": "hn-50168396",
+      "source": "hn",
+      "title": "Voxtral 3",
+      "url": "https://mistral.ai/news/voxtral-3/",
+      "score": 261,
+      "comments": 69,
+      "author": "ilreb",
+      "tags": [],
+      "date": "2026-10-20T16:02:07+00:00"
+    },
+    {
+      "id": "hn-50168096",
+      "source": "hn",
+      "title": "IKEA – 3D Guide",
+      "url": "https://sael.net/flatpack/",
+      "score": 55,
+      "comments": 15,
+      "author": "punnerud",
+      "tags": [],
+      "date": "2026-10-20T15:42:45+00:00"
+    },
+    {
+      "id": "hn-50167732",
+      "source": "hn",
+      "title": "Why do we have so many meetings?",
+      "url": "https://www.nber.org/papers/w35706",
+      "score": 47,
+      "comments": 72,
+      "author": "ilamont",
+      "tags": [],
+      "date": "2026-10-20T15:19:19+00:00"
+    },
+    {
+      "id": "hn-50167536",
+      "source": "hn",
+      "title": "Facebook Pages require paid subscription to post more than two links per month",
+      "url": "https://mastodon.gamedev.place/@AshleyGullen/117473851565913919",
+      "score": 332,
+      "comments": 275,
+      "author": "AshleysBrain",
+      "tags": [],
+      "date": "2026-10-20T15:06:08+00:00"
+    },
+    {
+      "id": "hn-50167028",
+      "source": "hn",
+      "title": "Ofcom concedes defeat in 4chan case",
+      "url": "https://prestonbyrne.com/2026/10/20/ofcom-concedes-defeat/",
+      "score": 164,
+      "comments": 87,
+      "author": "iamnothere",
+      "tags": [],
+      "date": "2026-10-20T14:30:31+00:00"
+    },
     {
       "id": "hn-50166918",
       "source": "hn",
@@ -14,12 +93,45 @@
       "date": "2026-10-20T14:23:38+00:00"
     },
     {
+      "id": "hn-50166794",
+      "source": "hn",
+      "title": "My Friend Bob Cringely",
+      "url": "https://tyma.com/my-cringe-story/",
+      "score": 110,
+      "comments": 34,
+      "author": "zinxq",
+      "tags": [],
+      "date": "2026-10-20T14:13:49+00:00"
+    },
+    {
+      "id": "hn-50166579",
+      "source": "hn",
+      "title": "EMudhra Intermediate CA Compromise",
+      "url": "https://emudhra.we-have-a-problem.com/",
+      "score": 307,
+      "comments": 153,
+      "author": "galadran",
+      "tags": [],
+      "date": "2026-10-20T13:58:33+00:00"
+    },
+    {
+      "id": "hn-50166502",
+      "source": "hn",
+      "title": "2026 is an exciting year for the Rust compiler (and me)",
+      "url": "https://yoyo-code.com/2026-is-exciting-year-for-rust-compiler-and-me/",
+      "score": 99,
+      "comments": 29,
+      "author": "panstromek",
+      "tags": [],
+      "date": "2026-10-20T13:53:48+00:00"
+    },
+    {
       "id": "hn-50166257",
       "source": "hn",
       "title": "How I got over 300 Tor exit nodes removed",
       "url": "https://kaba.cx/posts/20261020_Tor/",
-      "score": 5,
-      "comments": 3,
+      "score": 202,
+      "comments": 54,
       "author": "kabakabakaba",
       "tags": [],
       "date": "2026-10-20T13:39:24+00:00"
@@ -29,8 +141,8 @@
       "source": "hn",
       "title": "Tsrs: A Port of TypeScript to Rust",
       "url": "https://blog.cloudflare.com/typescript-rust-port/",
-      "score": 14,
-      "comments": 1,
+      "score": 200,
+      "comments": 95,
       "author": "hnisjafx40",
       "tags": [],
       "date": "2026-10-20T13:18:07+00:00"
@@ -40,8 +152,8 @@
       "source": "hn",
       "title": "Publish fake stats, get cited in LLMs",
       "url": "https://peec.ai/blog/publish-stats-get-cited-the-tactic-that-put-my-data-all-over-the-web",
-      "score": 53,
-      "comments": 23,
+      "score": 244,
+      "comments": 133,
       "author": "robtherobber",
       "tags": [],
       "date": "2026-10-20T13:06:22+00:00"
@@ -51,19 +163,30 @@
       "source": "hn",
       "title": "NixOS is making me less afraid",
       "url": "https://entropicthoughts.com/nixos-is-making-me-less-afraid",
-      "score": 64,
-      "comments": 21,
+      "score": 124,
+      "comments": 82,
       "author": "ibobev",
       "tags": [],
       "date": "2026-10-20T12:43:05+00:00"
+    },
+    {
+      "id": "hn-50165276",
+      "source": "hn",
+      "title": "Demographic \"doomsday\" misses the mark",
+      "url": "https://www.science.org/doi/10.1126/science.ael8752",
+      "score": 52,
+      "comments": 78,
+      "author": "YeGoblynQueenne",
+      "tags": [],
+      "date": "2026-10-20T12:22:28+00:00"
     },
     {
       "id": "hn-50165208",
       "source": "hn",
       "title": "Apple broke an essential presentation feature of iPads",
       "url": "https://teddysvoronos.com/2026-10-19-apple-broke-an-essential-presentation-feature-of-ipads/",
-      "score": 123,
-      "comments": 53,
+      "score": 334,
+      "comments": 194,
       "author": "evanb",
       "tags": [],
       "date": "2026-10-20T12:17:28+00:00"
@@ -82,10 +205,10 @@
     {
       "id": "hn-50163961",
       "source": "hn",
-      "title": "Google cloud outage takes down banks",
+      "title": "Google Cloud outage affects almost all banking and other operations in Europe",
       "url": "https://www.neowin.net/news/google-cloud-outage-takes-down-hsbc-revolut-bank-of-scotland-llyods-equifax-more/",
-      "score": 168,
-      "comments": 69,
+      "score": 222,
+      "comments": 100,
       "author": "paweladamczuk",
       "tags": [],
       "date": "2026-10-20T10:26:02+00:00"
@@ -93,22 +216,21 @@
     {
       "id": "hn-50163277",
       "source": "hn",
-      "title": "DeepSeek just open-sourced its inference engine",
+      "title": "DeepInfer: High-performance inference framework for DeepSeek models",
       "url": "https://github.com/deepseek-ai/DeepInfer",
-      "score": 1186,
-      "comments": 422,
+      "score": 1909,
+      "comments": 730,
       "author": "ggcr",
       "tags": [],
-      "date": "2026-10-20T09:08:54+00:00",
-      "severity": "critical"
+      "date": "2026-10-20T09:08:54+00:00"
     },
     {
       "id": "hn-50162177",
       "source": "hn",
       "title": "MicroG: Free-libre re-implementation of Google's proprietary Android user space",
       "url": "https://github.com/microg/GmsCore/wiki",
-      "score": 224,
-      "comments": 20,
+      "score": 323,
+      "comments": 51,
       "author": "theanonymousone",
       "tags": [],
       "date": "2026-10-20T06:37:07+00:00"
@@ -1323,8 +1445,8 @@
       "source": "hn",
       "title": "Nordwand Mono – A monospace font for coders and adventurers",
       "url": "https://github.com/tywr/Nordwand-Mono",
-      "score": 424,
-      "comments": 123,
+      "score": 493,
+      "comments": 141,
       "author": "noriax86",
       "tags": [],
       "date": "2026-10-18T14:48:01+00:00"
@@ -1595,6 +1717,17 @@
       "author": "fagnerbrack",
       "tags": [],
       "date": "2026-10-18T06:50:36+00:00"
+    },
+    {
+      "id": "hn-50138490",
+      "source": "hn",
+      "title": "JAXA is about to perform a Phobos sample return mission",
+      "url": "https://www.science.org/content/article/audacious-space-heist-japan-aims-bring-home-bits-martian-moon",
+      "score": 39,
+      "comments": 6,
+      "author": "Muhammad523",
+      "tags": [],
+      "date": "2026-10-18T06:40:55+00:00"
     },
     {
       "id": "qiita-1477d0ded9",
@@ -2050,6 +2183,17 @@
       "date": "2026-10-17T15:55:09+00:00"
     },
     {
+      "id": "hn-50131997",
+      "source": "hn",
+      "title": "Triplet of 'ghostly' galaxies hints at what dark matter is and isn't",
+      "url": "https://www.quantamagazine.org/triplet-of-ghostly-galaxies-hints-at-what-dark-matter-is-and-isnt-20261014/",
+      "score": 69,
+      "comments": 20,
+      "author": "gumby",
+      "tags": [],
+      "date": "2026-10-17T15:33:12+00:00"
+    },
+    {
       "id": "hn-50131749",
       "source": "hn",
       "title": "A death, a plagiarism scandal and a quest for revenge: the tale of Otto Z",
@@ -2382,6 +2526,17 @@
         "Qiita"
       ],
       "date": "2026-10-17T14:27:31+09:00"
+    },
+    {
+      "id": "hn-50128197",
+      "source": "hn",
+      "title": "Archive of Our Own",
+      "url": "https://archiveofourown.org/",
+      "score": 23,
+      "comments": 1,
+      "author": "debo_",
+      "tags": [],
+      "date": "2026-10-17T05:23:14+00:00"
     },
     {
       "id": "qiita-a593b3b5c0",
@@ -5059,170 +5214,6 @@
       "author": "lensecat",
       "tags": [],
       "date": "2026-10-14T10:21:13+00:00"
-    },
-    {
-      "id": "hn-50085171",
-      "source": "hn",
-      "title": "Game of Life – But Multiplayer, Hypermedia and Python",
-      "url": "https://stario.dev/apps/life",
-      "score": 7,
-      "comments": 1,
-      "author": "bobowski",
-      "tags": [],
-      "date": "2026-10-14T10:13:39+00:00"
-    },
-    {
-      "id": "qiita-866994339a",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "今こそ、エンジニアには「ありがとう」が必要だ！横ぐし組織を目指して。",
-      "url": "https://qiita.com/teppei19980914/items/3372ccd6d149fcc9bece?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "teppei19980914",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-10-14T19:05:15+09:00"
-    },
-    {
-      "id": "hn-50085022",
-      "source": "hn",
-      "title": "Show HN: A guided 3D Leonardo da Vinci museum, built in code",
-      "url": "https://museumofages.org/w/vinci",
-      "score": 59,
-      "comments": 26,
-      "author": "micstradev",
-      "tags": [],
-      "date": "2026-10-14T10:00:24+00:00"
-    },
-    {
-      "id": "hn-50084838",
-      "source": "hn",
-      "title": "Who Is Planting Backdoors in Ledger Crypto Wallets?",
-      "url": "https://www.zetter-zeroday.com/who-is-planting-backdoors-in-ledger-crypto-wallets/",
-      "score": 103,
-      "comments": 102,
-      "author": "hacb",
-      "tags": [],
-      "date": "2026-10-14T09:37:24+00:00"
-    },
-    {
-      "id": "hn-50084790",
-      "source": "hn",
-      "title": "The Economic Complexity of the Western Roman Empire",
-      "url": "https://www.michelecoscia.com/?p=2613",
-      "score": 122,
-      "comments": 26,
-      "author": "mikk14",
-      "tags": [],
-      "date": "2026-10-14T09:32:09+00:00"
-    },
-    {
-      "id": "hn-50084757",
-      "source": "hn",
-      "title": "How Amazon pushes up prices all across the Internet",
-      "url": "https://www.not-ship.com/how-amazon-pushes-up-prices-all-across-the-internet/",
-      "score": 872,
-      "comments": 662,
-      "author": "sighborg",
-      "tags": [],
-      "date": "2026-10-14T09:28:17+00:00"
-    },
-    {
-      "id": "hn-50084674",
-      "source": "hn",
-      "title": "Why I Wrote PGP (1991, revised 1999)",
-      "url": "https://philzimmermann.com/EN/essays/WhyIWrotePGP.html",
-      "score": 118,
-      "comments": 48,
-      "author": "GaryBluto",
-      "tags": [],
-      "date": "2026-10-14T09:17:06+00:00"
-    },
-    {
-      "id": "qiita-f732b3c022",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "底辺校1年生が2ヶ月(実質)で入茶しました",
-      "url": "https://qiita.com/ikneg/items/54abb56d67ffe3c830d0?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "ikneg",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-10-14T17:54:33+09:00"
-    },
-    {
-      "id": "hn-50084416",
-      "source": "hn",
-      "title": "What agents mean for Rust (and vice versa)",
-      "url": "https://smallcultfollowing.com/babysteps/blog/2026/10/14/agentic-dev-and-rust/",
-      "score": 21,
-      "comments": 15,
-      "author": "mfrw",
-      "tags": [],
-      "date": "2026-10-14T08:49:06+00:00"
-    },
-    {
-      "id": "hn-50084240",
-      "source": "hn",
-      "title": "Iosevka is an open-source, sans-serif and slab-serif monospace font",
-      "url": "https://typeof.net/Iosevka/",
-      "score": 689,
-      "comments": 285,
-      "author": "otobrglez",
-      "tags": [],
-      "date": "2026-10-14T08:27:59+00:00",
-      "severity": "critical"
-    },
-    {
-      "id": "hn-50083673",
-      "source": "hn",
-      "title": "Wireless magnetic millirobots that deliver medicine inside the beating heart",
-      "url": "https://hub.jhu.edu/2026/10/12/magnetic-millirobots-cardiac-treatment/",
-      "score": 85,
-      "comments": 11,
-      "author": "giuliomagnifico",
-      "tags": [],
-      "date": "2026-10-14T07:21:12+00:00"
-    },
-    {
-      "id": "qiita-3ac539201c",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "AWS Lambda Web FunctionsをHonoで使ってみる",
-      "url": "https://qiita.com/Kanahiro/items/9cefcba4acc5e6ce11c0?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "Kanahiro",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-10-14T15:30:59+09:00"
-    },
-    {
-      "id": "hn-50083130",
-      "source": "hn",
-      "title": "AOSP Source Releases Are So Late Developers Disassemble Libraries to Report Bugs",
-      "url": "https://github.com/android/ndk/issues/2260",
-      "score": 427,
-      "comments": 205,
-      "author": "tharen",
-      "tags": [],
-      "date": "2026-10-14T06:18:01+00:00",
-      "severity": "critical"
-    },
-    {
-      "id": "qiita-61ecc60b45",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "OCI Generative AIのGuardrailsをブラウザで試すデモ",
-      "url": "https://qiita.com/nomu_kyou/items/e0a26732d719303638af?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "nomu_kyou",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-10-14T15:05:47+09:00"
     },
     {
       "id": "ctf-4800242",

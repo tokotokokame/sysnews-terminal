@@ -1,38 +1,217 @@
 {
-  "updated_at": "2026-10-21T11:14:31.426007+00:00",
+  "updated_at": "2026-10-21T16:02:44.351971+00:00",
   "count": 500,
   "items": [
     {
-      "id": "hn-50178455",
+      "id": "hn-50182987",
       "source": "hn",
-      "title": "Whatever Happened to Fire Escapes",
-      "url": "https://practical.engineering/blog/2026/10/20/whatever-happened-to-fire-escapes",
-      "score": 15,
-      "comments": 2,
-      "author": "sohkamyung",
+      "title": "PHP Foundation's Overview of CVE-2026-109618 and CVE-2026-109619",
+      "url": "https://thephp.foundation/blog/2026/10/21/todays-php-security-release-and-how-were-strengthening-php-security/",
+      "score": 11,
+      "comments": 1,
+      "author": "ejohnso49",
       "tags": [],
-      "date": "2026-10-21T10:14:43+00:00"
+      "date": "2026-10-21T15:48:56+00:00",
+      "severity": "high"
+    },
+    {
+      "id": "hn-50182526",
+      "source": "hn",
+      "title": "Oregon lawmakers approve money to buy an iconic waterfall listed on Redfin",
+      "url": "https://apnews.com/article/oregon-waterfall-for-sale-lawmakers-996de63462d49ec3ad9bee1629fb9488",
+      "score": 24,
+      "comments": 7,
+      "author": "surprisetalk",
+      "tags": [],
+      "date": "2026-10-21T15:20:04+00:00"
+    },
+    {
+      "id": "hn-50182130",
+      "source": "hn",
+      "title": "Delays for Pull Requests and Webhook deliveries",
+      "url": "https://www.githubstatus.com/incidents/nms1dpzmh9d9",
+      "score": 41,
+      "comments": 9,
+      "author": "bearsyankees",
+      "tags": [],
+      "date": "2026-10-21T14:56:57+00:00"
     },
     {
       "id": "qiita-75717cf186",
       "source": "zennqiita",
       "sub_source": "Qiita",
-      "title": "Oracle AI Data Platform(AIDP) にオープンデータを取り込んで東京都62市区町村を分析してみてみた",
+      "title": "AI Data Platform(AIDP) にオープンデータを取り込んで東京都62市区町村を分析してみてみた",
       "url": "https://qiita.com/shirok/items/399e0042896dcc4c0b4c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
       "score": null,
       "author": "shirok",
       "tags": [
         "Qiita"
       ],
-      "date": "2026-10-21T18:12:07+09:00"
+      "date": "2026-10-21T23:41:04+09:00"
+    },
+    {
+      "id": "hn-50181175",
+      "source": "hn",
+      "title": "Patch the Planet: global response coordination as agents uncover vulnerabilities",
+      "url": "https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities/",
+      "score": 100,
+      "comments": 51,
+      "author": "nr378",
+      "tags": [],
+      "date": "2026-10-21T14:03:43+00:00",
+      "severity": "medium"
+    },
+    {
+      "id": "hn-50181137",
+      "source": "hn",
+      "title": "The No Kings Takedown Is Why You Shouldn't Rent Your Megaphone from Zuck",
+      "url": "https://www.techdirt.com/2026/10/20/accident-or-not-the-no-kings-takedown-is-why-you-shouldnt-rent-your-megaphone-from-zuck/",
+      "score": 265,
+      "comments": 196,
+      "author": "robtherobber",
+      "tags": [],
+      "date": "2026-10-21T14:01:25+00:00"
+    },
+    {
+      "id": "hn-50181136",
+      "source": "hn",
+      "title": "DuckDB 2.0.0 LTS \"Cinnamon Teal\"",
+      "url": "https://duckdb.org/2026/10/21/announcing-duckdb-200",
+      "score": 150,
+      "comments": 14,
+      "author": "nnx",
+      "tags": [],
+      "date": "2026-10-21T14:01:22+00:00"
+    },
+    {
+      "id": "hn-50181114",
+      "source": "hn",
+      "title": "Compromised LiteLLM 1.107.0 on PyPI Installs a Credential Stealer and Backdoor",
+      "url": "https://safedep.io/litellm-pypi-compromise-credential-stealer-backdoor/",
+      "score": 74,
+      "comments": 33,
+      "author": "abhisek",
+      "tags": [],
+      "date": "2026-10-21T14:00:26+00:00"
+    },
+    {
+      "id": "hn-50181058",
+      "source": "hn",
+      "title": "PHP2Shell",
+      "url": "https://www.php2shell.com",
+      "score": 29,
+      "comments": 6,
+      "author": "nr378",
+      "tags": [],
+      "date": "2026-10-21T13:57:19+00:00"
+    },
+    {
+      "id": "hn-50180873",
+      "source": "hn",
+      "title": "PHP 8.2.35",
+      "url": "https://github.com/php/php-src/releases/tag/php-8.2.35",
+      "score": 523,
+      "comments": 221,
+      "author": "tuyuri",
+      "tags": [],
+      "date": "2026-10-21T13:45:33+00:00"
+    },
+    {
+      "id": "hn-50180836",
+      "source": "hn",
+      "title": "PHP2Shell: AI uncovers critical RCE in PHP",
+      "url": "https://www.wiz.io/blog/php2shell-php-rce",
+      "score": 307,
+      "comments": 89,
+      "author": "danlark1",
+      "tags": [],
+      "date": "2026-10-21T13:43:19+00:00",
+      "severity": "critical"
+    },
+    {
+      "id": "hn-50180752",
+      "source": "hn",
+      "title": "Using thousands of AI agents to uncover new leads in biological data",
+      "url": "https://openai.com/index/scaling-ai-research-for-complex-biological-data/",
+      "score": 34,
+      "comments": 6,
+      "author": "raahelb",
+      "tags": [],
+      "date": "2026-10-21T13:37:00+00:00"
+    },
+    {
+      "id": "hn-50180444",
+      "source": "hn",
+      "title": "Most advice is right for the person giving it",
+      "url": "https://coached.com/essays/most-advice-is-right-for-the-person-giving-it/",
+      "score": 105,
+      "comments": 83,
+      "author": "rohanm93",
+      "tags": [],
+      "date": "2026-10-21T13:17:33+00:00"
+    },
+    {
+      "id": "hn-50180039",
+      "source": "hn",
+      "title": "Show HN: Sumi.css – CSS Framework",
+      "url": "https://github.com/vladocar/Sumi.css",
+      "score": 24,
+      "comments": 6,
+      "author": "bepero",
+      "tags": [],
+      "date": "2026-10-21T12:50:33+00:00"
+    },
+    {
+      "id": "hn-50179857",
+      "source": "hn",
+      "title": "LayerFS: The filesystem for AI coding agents",
+      "url": "https://layerfs.ai/",
+      "score": 49,
+      "comments": 26,
+      "author": "l2dy",
+      "tags": [],
+      "date": "2026-10-21T12:34:46+00:00"
+    },
+    {
+      "id": "hn-50179706",
+      "source": "hn",
+      "title": "Qwen3-Coder writes less secure code when told it's for a US persona",
+      "url": "https://www.hirundo.io/blog/qwen3-coder-vulnerabilities",
+      "score": 208,
+      "comments": 105,
+      "author": "mattifrank",
+      "tags": [],
+      "date": "2026-10-21T12:22:39+00:00"
+    },
+    {
+      "id": "hn-50179455",
+      "source": "hn",
+      "title": "9 Mothers (YC P26) Is Hiring in Austin, TX",
+      "url": "https://9mothers.com/careers",
+      "score": 1,
+      "comments": 0,
+      "author": "ukd1",
+      "tags": [],
+      "date": "2026-10-21T12:00:24+00:00"
+    },
+    {
+      "id": "hn-50178455",
+      "source": "hn",
+      "title": "Whatever Happened to Fire Escapes",
+      "url": "https://practical.engineering/blog/2026/10/20/whatever-happened-to-fire-escapes",
+      "score": 138,
+      "comments": 96,
+      "author": "sohkamyung",
+      "tags": [],
+      "date": "2026-10-21T10:14:43+00:00"
     },
     {
       "id": "hn-50177916",
       "source": "hn",
       "title": "Eight Bits of Trust; eMudhra's CA keys cracked in milliseconds",
       "url": "https://scotthelme.co.uk/eight-bits-of-trust-emudhras-ca-keys-cracked-in-milliseconds/",
-      "score": 163,
-      "comments": 60,
+      "score": 563,
+      "comments": 252,
       "author": "hkc",
       "tags": [],
       "date": "2026-10-21T09:08:08+00:00"
@@ -194,8 +373,8 @@
       "source": "hn",
       "title": "The Future of CSS",
       "url": "https://www.joshwcomeau.com/css/interop-2027/",
-      "score": 403,
-      "comments": 164,
+      "score": 524,
+      "comments": 222,
       "author": "soheilpro",
       "tags": [],
       "date": "2026-10-21T01:47:28+00:00"
@@ -229,8 +408,8 @@
       "source": "hn",
       "title": "Muse exposes users' personal and business secrets when they share conversations",
       "url": "https://arstechnica.com/security/2026/10/meta-muse-exposes-users-personal-and-business-secrets-when-they-share-conversations/",
-      "score": 199,
-      "comments": 92,
+      "score": 301,
+      "comments": 144,
       "author": "gumby",
       "tags": [],
       "date": "2026-10-21T00:45:59+00:00"
@@ -362,8 +541,8 @@
       "source": "hn",
       "title": "Upcoming critical PHP security release (CVE-2026-109618 / -109619)",
       "url": "https://news-web.php.net/php.announce/509",
-      "score": 983,
-      "comments": 397,
+      "score": 1441,
+      "comments": 608,
       "author": "xd",
       "tags": [],
       "date": "2026-10-20T20:15:50+00:00",
@@ -396,8 +575,8 @@
       "source": "hn",
       "title": "Show HN: SimCity, but with Permits",
       "url": "https://permit.petercai.com/",
-      "score": 814,
-      "comments": 382,
+      "score": 877,
+      "comments": 396,
       "author": "pcai",
       "tags": [],
       "date": "2026-10-20T18:29:09+00:00"
@@ -1414,6 +1593,17 @@
       "date": "2026-10-19T12:07:41+00:00"
     },
     {
+      "id": "hn-50151175",
+      "source": "hn",
+      "title": "The Lucrative World of Literary Scams",
+      "url": "https://www.thedial.world/articles/news/ai-book-scams",
+      "score": 41,
+      "comments": 4,
+      "author": "samclemens",
+      "tags": [],
+      "date": "2026-10-19T11:43:35+00:00"
+    },
+    {
       "id": "qiita-a67971147c",
       "source": "zennqiita",
       "sub_source": "Qiita",
@@ -1489,8 +1679,8 @@
       "source": "hn",
       "title": "Way to Play Super Mario 64: On Apple Vision Pro",
       "url": "https://www.pagetable.com/303",
-      "score": 19,
-      "comments": 4,
+      "score": 128,
+      "comments": 44,
       "author": "frizlab",
       "tags": [],
       "date": "2026-10-19T09:21:34+00:00"
@@ -5043,209 +5233,6 @@
         "Qiita"
       ],
       "date": "2026-10-15T16:23:06+09:00"
-    },
-    {
-      "id": "hn-50100366",
-      "source": "hn",
-      "title": "The Commodore 64 hardware simulator: break chips and pins, see the results",
-      "url": "https://github.com/antirez/c64-hw-simulator",
-      "score": 201,
-      "comments": 32,
-      "author": "antirez",
-      "tags": [],
-      "date": "2026-10-15T07:18:14+00:00"
-    },
-    {
-      "id": "qiita-bde03de9f9",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "ECS Fargateでメモリ使用率が単調増加していた話 ――「床」と「ピーク」は別の原因だった",
-      "url": "https://qiita.com/tm-onishi/items/c403750dc2be843c0968?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "tm-onishi",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-10-15T14:57:00+09:00"
-    },
-    {
-      "id": "qiita-48d16e14de",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "ついに来た！New RelicのAPI Keyに最終利用日時・無効化・チーム所有者が追加されたので棚卸ししてみた",
-      "url": "https://qiita.com/seamoooooo/items/431c4a6be67c605c36be?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "seamoooooo",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-10-15T14:02:07+09:00"
-    },
-    {
-      "id": "qiita-603170ae19",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "【AWS】AWS Lambda Web Functionsから考えるAWS Lambdaとは何なのか",
-      "url": "https://qiita.com/ymd65536/items/3bc00ba77b87808bda9b?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "ymd65536",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-10-15T13:51:49+09:00"
-    },
-    {
-      "id": "hn-50099136",
-      "source": "hn",
-      "title": "Show HN: Flipflop – Iroh-powered persistent tunnels for filesharing",
-      "url": "https://github.com/andunieee/flipflop",
-      "score": 104,
-      "comments": 59,
-      "author": "andunie",
-      "tags": [],
-      "date": "2026-10-15T04:25:28+00:00"
-    },
-    {
-      "id": "hn-50099121",
-      "source": "hn",
-      "title": "An Apology",
-      "url": "https://www.elevationlab.com/blogs/news/an-apology",
-      "score": 95,
-      "comments": 111,
-      "author": "cdrnsf",
-      "tags": [],
-      "date": "2026-10-15T04:23:27+00:00"
-    },
-    {
-      "id": "hn-50098485",
-      "source": "hn",
-      "title": "Lorenz and Little: How Much Does Your Tail Cost?",
-      "url": "https://brooker.co.za/blog/2026/07/29/lorenz-and-little.html",
-      "score": 5,
-      "comments": 0,
-      "author": "porridgeraisin",
-      "tags": [],
-      "date": "2026-10-15T02:39:37+00:00"
-    },
-    {
-      "id": "hn-50098274",
-      "source": "hn",
-      "title": "The Double Headed Stack Allocator",
-      "url": "https://blog.demofox.org/2026/10/03/the-double-headed-stack-allocator/",
-      "score": 76,
-      "comments": 25,
-      "author": "g0xA52A2A",
-      "tags": [],
-      "date": "2026-10-15T02:06:36+00:00"
-    },
-    {
-      "id": "hn-50098148",
-      "source": "hn",
-      "title": "16-bit fully functional DIY magnetic core memory",
-      "url": "https://www.youtube.com/watch?v=OJ1WYyO2jdY",
-      "score": 36,
-      "comments": 16,
-      "author": "oliculipolicula",
-      "tags": [],
-      "date": "2026-10-15T01:51:02+00:00"
-    },
-    {
-      "id": "qiita-652907bef0",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "【個人開発】無機質なToDo管理にサヨナラ！「タスク娘」を爆誕させた話（この記事もGemini 4 Argonで生成しました）",
-      "url": "https://qiita.com/satoshot/items/3308a7e025cd9f049813?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "satoshot",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-10-15T10:30:00+09:00"
-    },
-    {
-      "id": "hn-50097843",
-      "source": "hn",
-      "title": "The engineering that allows articulated buses to bend",
-      "url": "https://www.theautopian.com/you-wont-believe-the-incredible-engineering-that-allows-articulated-buses-to-bend/",
-      "score": 58,
-      "comments": 35,
-      "author": "CharlesW",
-      "tags": [],
-      "date": "2026-10-15T01:02:05+00:00"
-    },
-    {
-      "id": "qiita-0d2958ec7b",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "AI時代においてようやくプログラミング言語の格差は無くなった",
-      "url": "https://qiita.com/ikuosaito1989/items/63094edc3b4bb423f265?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "ikuosaito1989",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-10-15T09:56:24+09:00"
-    },
-    {
-      "id": "qiita-565da83f20",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "PHP の max() と min() に NAN が混ざると、引数の順番と PHP のバージョンで答えが変わります【7.4 / 8.0 / 8.3 / 8.4 で実測】",
-      "url": "https://qiita.com/Rapls/items/cf90b3757fbfdaf44bd4?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "Rapls",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-10-15T09:21:51+09:00"
-    },
-    {
-      "id": "qiita-ded2ebaef7",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "MS2109でHDMIキャプチャボードを自作する",
-      "url": "https://qiita.com/ikkolab/items/e6aadd18a1e0f461a844?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "ikkolab",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-10-15T09:01:25+09:00"
-    },
-    {
-      "id": "hn-50097369",
-      "source": "hn",
-      "title": "LFM2.5-24B-A2B: Built for fast on-device agents",
-      "url": "https://www.liquid.ai/blog/lfm2-5-24b-a2b",
-      "score": 244,
-      "comments": 57,
-      "author": "gmays",
-      "tags": [],
-      "date": "2026-10-14T23:59:37+00:00"
-    },
-    {
-      "id": "hn-50097257",
-      "source": "hn",
-      "title": "Custom server to revive neato bots",
-      "url": "https://github.com/vacuula/vacuula",
-      "score": 40,
-      "comments": 1,
-      "author": "matttah",
-      "tags": [],
-      "date": "2026-10-14T23:48:38+00:00"
-    },
-    {
-      "id": "qiita-8f330feb8c",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "Claude Code を閉じても、裏で起動したサーバーが残ることがある。見分け方は画面下の「1 shell」",
-      "url": "https://qiita.com/suwa_nobu/items/3a34591f130da2f570f5?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "suwa_nobu",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-10-15T08:01:36+09:00"
     },
     {
       "id": "ctf-4800242",

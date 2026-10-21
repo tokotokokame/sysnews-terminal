@@ -1,26 +1,157 @@
 {
-  "updated_at": "2026-10-21T16:02:44.351971+00:00",
+  "updated_at": "2026-10-21T20:18:00.135294+00:00",
   "count": 500,
   "items": [
     {
+      "id": "hn-50186518",
+      "source": "hn",
+      "title": "After automation: Solo founding will be the default",
+      "url": "https://every.to/thesis-statements/julian-weisser",
+      "score": 7,
+      "comments": 4,
+      "author": "rmason",
+      "tags": [],
+      "date": "2026-10-21T19:44:49+00:00"
+    },
+    {
+      "id": "hn-50186318",
+      "source": "hn",
+      "title": "Plex laid off the whole player team",
+      "url": "https://forums.plex.tv/t/2026-20-0-beta-ios-and-tvos-4k-dovi-hdr10-won-t-play-infinite-spinning-circle/943966?page=5",
+      "score": 56,
+      "comments": 33,
+      "author": "zzyzxd",
+      "tags": [],
+      "date": "2026-10-21T19:32:10+00:00"
+    },
+    {
+      "id": "hn-50186129",
+      "source": "hn",
+      "title": "Mistral Large 4",
+      "url": "https://docs.mistral.ai/models/mistral-large-4-0",
+      "score": 160,
+      "comments": 31,
+      "author": "funnym0nk3y",
+      "tags": [],
+      "date": "2026-10-21T19:20:55+00:00"
+    },
+    {
+      "id": "hn-50186037",
+      "source": "hn",
+      "title": "Claude Duet",
+      "url": "https://claude.com/product/claude-duet",
+      "score": 107,
+      "comments": 114,
+      "author": "kuberwastaken",
+      "tags": [],
+      "date": "2026-10-21T19:14:01+00:00"
+    },
+    {
+      "id": "hn-50186010",
+      "source": "hn",
+      "title": "Google's Rust Style Guide",
+      "url": "https://google.github.io/styleguide/rustguide.html",
+      "score": 49,
+      "comments": 31,
+      "author": "kaycebasques",
+      "tags": [],
+      "date": "2026-10-21T19:11:57+00:00"
+    },
+    {
+      "id": "hn-50185869",
+      "source": "hn",
+      "title": "GitLab CVSS 10.0 Integer Overflow issue",
+      "url": "https://docs.gitlab.com/releases/patches/patch-release-gitlab-19-5-1-released/",
+      "score": 41,
+      "comments": 11,
+      "author": "artooro",
+      "tags": [],
+      "date": "2026-10-21T19:01:12+00:00"
+    },
+    {
+      "id": "hn-50185630",
+      "source": "hn",
+      "title": "Canary Tokens",
+      "url": "https://canarytokens.org/",
+      "score": 61,
+      "comments": 11,
+      "author": "wiradikusuma",
+      "tags": [],
+      "date": "2026-10-21T18:45:04+00:00"
+    },
+    {
+      "id": "hn-50185438",
+      "source": "hn",
+      "title": "Anthropic's Public Benefit Charter",
+      "url": "https://www.anthropic.com/public-benefit-charter",
+      "score": 41,
+      "comments": 31,
+      "author": "pretext",
+      "tags": [],
+      "date": "2026-10-21T18:29:54+00:00"
+    },
+    {
+      "id": "hn-50184820",
+      "source": "hn",
+      "title": "Meta ordered to pay $25B penalty in New Mexico Cambridge Analytica case",
+      "url": "https://www.cnbc.com/2026/10/21/meta-new-mexico-cambridge-analytica-penalty.html",
+      "score": 114,
+      "comments": 47,
+      "author": "cbg0",
+      "tags": [],
+      "date": "2026-10-21T17:45:13+00:00"
+    },
+    {
+      "id": "hn-50184586",
+      "source": "hn",
+      "title": "EA is shutting down BioWare",
+      "url": "https://www.theverge.com/games/1015647/ea-is-shutting-down-bioware",
+      "score": 296,
+      "comments": 181,
+      "author": "aaronbrethorst",
+      "tags": [],
+      "date": "2026-10-21T17:29:33+00:00"
+    },
+    {
+      "id": "hn-50183512",
+      "source": "hn",
+      "title": "New plastic pollution discovered: 'Plasticorals' coral rubble fused with plastic",
+      "url": "https://www.oist.jp/news-center/news/2026/9/18/new-form-plastic-pollution-discovered-shores-vulnerable-coral-reefs",
+      "score": 54,
+      "comments": 15,
+      "author": "giuliomagnifico",
+      "tags": [],
+      "date": "2026-10-21T16:20:37+00:00"
+    },
+    {
+      "id": "hn-50183344",
+      "source": "hn",
+      "title": "The bridge to agent-scale Git infrastructure",
+      "url": "https://github.blog/engineering/architecture-optimization/the-bridge-to-agent-scale-git-infrastructure/",
+      "score": 38,
+      "comments": 7,
+      "author": "Klaster_1",
+      "tags": [],
+      "date": "2026-10-21T16:09:28+00:00"
+    },
+    {
       "id": "hn-50182987",
       "source": "hn",
-      "title": "PHP Foundation's Overview of CVE-2026-109618 and CVE-2026-109619",
+      "title": "Today's PHP security release, and how we're strengthening security",
       "url": "https://thephp.foundation/blog/2026/10/21/todays-php-security-release-and-how-were-strengthening-php-security/",
-      "score": 11,
-      "comments": 1,
+      "score": 435,
+      "comments": 209,
       "author": "ejohnso49",
       "tags": [],
-      "date": "2026-10-21T15:48:56+00:00",
-      "severity": "high"
+      "date": "2026-10-21T15:48:56+00:00"
     },
     {
       "id": "hn-50182526",
       "source": "hn",
       "title": "Oregon lawmakers approve money to buy an iconic waterfall listed on Redfin",
       "url": "https://apnews.com/article/oregon-waterfall-for-sale-lawmakers-996de63462d49ec3ad9bee1629fb9488",
-      "score": 24,
-      "comments": 7,
+      "score": 136,
+      "comments": 72,
       "author": "surprisetalk",
       "tags": [],
       "date": "2026-10-21T15:20:04+00:00"
@@ -54,8 +185,8 @@
       "source": "hn",
       "title": "Patch the Planet: global response coordination as agents uncover vulnerabilities",
       "url": "https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities/",
-      "score": 100,
-      "comments": 51,
+      "score": 188,
+      "comments": 118,
       "author": "nr378",
       "tags": [],
       "date": "2026-10-21T14:03:43+00:00",
@@ -75,10 +206,10 @@
     {
       "id": "hn-50181136",
       "source": "hn",
-      "title": "DuckDB 2.0.0 LTS \"Cinnamon Teal\"",
+      "title": "DuckDB 2.0.0 LTS “Cinnamon Teal”",
       "url": "https://duckdb.org/2026/10/21/announcing-duckdb-200",
-      "score": 150,
-      "comments": 14,
+      "score": 308,
+      "comments": 34,
       "author": "nnx",
       "tags": [],
       "date": "2026-10-21T14:01:22+00:00"
@@ -88,8 +219,8 @@
       "source": "hn",
       "title": "Compromised LiteLLM 1.107.0 on PyPI Installs a Credential Stealer and Backdoor",
       "url": "https://safedep.io/litellm-pypi-compromise-credential-stealer-backdoor/",
-      "score": 74,
-      "comments": 33,
+      "score": 313,
+      "comments": 111,
       "author": "abhisek",
       "tags": [],
       "date": "2026-10-21T14:00:26+00:00"
@@ -110,8 +241,8 @@
       "source": "hn",
       "title": "PHP 8.2.35",
       "url": "https://github.com/php/php-src/releases/tag/php-8.2.35",
-      "score": 523,
-      "comments": 221,
+      "score": 890,
+      "comments": 504,
       "author": "tuyuri",
       "tags": [],
       "date": "2026-10-21T13:45:33+00:00"
@@ -133,8 +264,8 @@
       "source": "hn",
       "title": "Using thousands of AI agents to uncover new leads in biological data",
       "url": "https://openai.com/index/scaling-ai-research-for-complex-biological-data/",
-      "score": 34,
-      "comments": 6,
+      "score": 104,
+      "comments": 52,
       "author": "raahelb",
       "tags": [],
       "date": "2026-10-21T13:37:00+00:00"
@@ -149,6 +280,17 @@
       "author": "rohanm93",
       "tags": [],
       "date": "2026-10-21T13:17:33+00:00"
+    },
+    {
+      "id": "hn-50180079",
+      "source": "hn",
+      "title": "OpenAI models are coming to Google Cloud",
+      "url": "https://openai.com/index/openai-models-google-cloud/",
+      "score": 164,
+      "comments": 63,
+      "author": "armcat",
+      "tags": [],
+      "date": "2026-10-21T12:53:11+00:00"
     },
     {
       "id": "hn-50180039",
@@ -208,13 +350,26 @@
     {
       "id": "hn-50177916",
       "source": "hn",
-      "title": "Eight Bits of Trust; eMudhra's CA keys cracked in milliseconds",
+      "title": "Eight Bits of Trust: eMudhra's CA keys cracked in milliseconds",
       "url": "https://scotthelme.co.uk/eight-bits-of-trust-emudhras-ca-keys-cracked-in-milliseconds/",
-      "score": 563,
-      "comments": 252,
+      "score": 737,
+      "comments": 359,
       "author": "hkc",
       "tags": [],
       "date": "2026-10-21T09:08:08+00:00"
+    },
+    {
+      "id": "qiita-a9af87360a",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "「ドパ資料」の作り方",
+      "url": "https://qiita.com/kikuziro/items/b6a0743b070d7320c36d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "kikuziro",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-10-21T18:07:55+09:00"
     },
     {
       "id": "hn-50177911",
@@ -226,6 +381,32 @@
       "author": "velo_aprx",
       "tags": [],
       "date": "2026-10-21T09:07:49+00:00"
+    },
+    {
+      "id": "qiita-0660c709d7",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "Lambda Web Functionsについて！",
+      "url": "https://qiita.com/PDC-Kurashinak/items/510620a2938af38f319d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "PDC-Kurashinak",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-10-21T16:47:04+09:00"
+    },
+    {
+      "id": "qiita-a8d81e1728",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "はじめてのインデータベースAI～ベクトル検索・RAGからAIエージェントまで～",
+      "url": "https://qiita.com/yuji-arakawa/items/1df29b844478f9df5960?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "yuji-arakawa",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-10-21T16:34:15+09:00"
     },
     {
       "id": "qiita-f65b2be9c5",
@@ -428,6 +609,19 @@
       "date": "2026-10-21T09:45:54+09:00"
     },
     {
+      "id": "qiita-e5942b2303",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "JevでAWS AI Business Strategistの自作問題の質を上げてみた",
+      "url": "https://qiita.com/news_it_enj/items/35737c4d6947770e9f62?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "news_it_enj",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-10-21T09:16:15+09:00"
+    },
+    {
       "id": "hn-50174448",
       "source": "hn",
       "title": "Microagi: Accelerating Embodied AGI",
@@ -500,6 +694,32 @@
       "date": "2026-10-20T23:04:09+00:00"
     },
     {
+      "id": "qiita-7fac37be8e",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "Claude Code に運用を任せるとき、計画を変える条件は「日付つきの判断ルール」で先に書く：10月19日にルールが発火して、計画を組み直した記録",
+      "url": "https://qiita.com/kaiyaku_iyada/items/339a7e78ba476ca1c810?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "kaiyaku_iyada",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-10-21T07:58:14+09:00"
+    },
+    {
+      "id": "qiita-af67bf3bd7",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "APIキー・パスワードをGitHubに漏らさない7つの設定(.gitignore・gitleaks・コピペOK)",
+      "url": "https://qiita.com/jiis-sasaki/items/fc4e677334d67ee1d472?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "jiis-sasaki",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-10-21T07:30:00+09:00"
+    },
+    {
       "id": "qiita-6e7aae775b",
       "source": "zennqiita",
       "sub_source": "Qiita",
@@ -522,6 +742,19 @@
       "author": "Bender",
       "tags": [],
       "date": "2026-10-20T22:21:05+00:00"
+    },
+    {
+      "id": "qiita-04cf847c6b",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "Summernoteで挿入した画像を署名付きURLでS3に直接アップロードする",
+      "url": "https://qiita.com/ishi720/items/5468cfb47e7e3c96ddbb?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "ishi720",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-10-21T07:16:16+09:00"
     },
     {
       "id": "qiita-2991671cec",
@@ -933,6 +1166,17 @@
       "date": "2026-10-20T06:37:07+00:00"
     },
     {
+      "id": "hn-50162044",
+      "source": "hn",
+      "title": "Tiny possum and glider thought extinct for 6000 years found in remote West Papua",
+      "url": "https://www.bbc.com/news/articles/cp814l80pw2o",
+      "score": 104,
+      "comments": 15,
+      "author": "bryanrasmussen",
+      "tags": [],
+      "date": "2026-10-20T06:20:54+00:00"
+    },
+    {
       "id": "qiita-c46af99b2a",
       "source": "zennqiita",
       "sub_source": "Qiita",
@@ -1129,6 +1373,17 @@
       "date": "2026-10-20T09:38:06+09:00"
     },
     {
+      "id": "hn-50159726",
+      "source": "hn",
+      "title": "Why Windows 11 still ships with Windows 95's memory manager hidden inside it",
+      "url": "https://www.windowslatest.com/2026/10/19/why-windows-11-still-ships-with-windows-95s-memory-manager-hidden-inside-it/",
+      "score": 46,
+      "comments": 23,
+      "author": "khalidkhair",
+      "tags": [],
+      "date": "2026-10-20T00:14:03+00:00"
+    },
+    {
       "id": "hn-50159616",
       "source": "hn",
       "title": "France's supermarket fridges were vulnerable online for months",
@@ -1203,8 +1458,8 @@
       "source": "hn",
       "title": "Drupal is now light-years ahead of its reputation",
       "url": "https://dri.es/state-of-drupal-presentation-september-2026",
-      "score": 15,
-      "comments": 10,
+      "score": 90,
+      "comments": 98,
       "author": "scottfalconer",
       "tags": [],
       "date": "2026-10-19T21:38:02+00:00"
@@ -4974,267 +5229,6 @@
       "date": "2026-10-15T14:36:22+00:00"
     },
     {
-      "id": "hn-50104299",
-      "source": "hn",
-      "title": "Using AI to reverse engineer hardware",
-      "url": "https://blogs.gnome.org/uraeus/2026/10/15/aiandreverseengineerhardware/",
-      "score": 83,
-      "comments": 99,
-      "author": "ErenayDev",
-      "tags": [],
-      "date": "2026-10-15T14:35:15+00:00"
-    },
-    {
-      "id": "hn-50103630",
-      "source": "hn",
-      "title": "I Know Why the Mathematicians Weep",
-      "url": "https://www.derekthompson.org/p/i-know-why-the-mathematicians-weep",
-      "score": 212,
-      "comments": 307,
-      "author": "RickJWagner",
-      "tags": [],
-      "date": "2026-10-15T13:44:32+00:00"
-    },
-    {
-      "id": "hn-50103338",
-      "source": "hn",
-      "title": "Wayland desktop for Linux with skeuomorphic design",
-      "url": "https://github.com/fyzugx/DEsk",
-      "score": 642,
-      "comments": 261,
-      "author": "FinalDestiny",
-      "tags": [],
-      "date": "2026-10-15T13:23:44+00:00"
-    },
-    {
-      "id": "hn-50103255",
-      "source": "hn",
-      "title": "Intuitive concurrent programming in any language",
-      "url": "https://www.lf-lang.org/",
-      "score": 109,
-      "comments": 28,
-      "author": "mpweiher",
-      "tags": [],
-      "date": "2026-10-15T13:18:44+00:00"
-    },
-    {
-      "id": "hn-50103164",
-      "source": "hn",
-      "title": "C++26 Contracts: Introduction to Preconditions and Postconditions",
-      "url": "https://www.cppstories.com/2026/cpp26_contracts/",
-      "score": 123,
-      "comments": 110,
-      "author": "ibobev",
-      "tags": [],
-      "date": "2026-10-15T13:11:26+00:00"
-    },
-    {
-      "id": "qiita-5ba014c5fb",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "AIに書かせた日本語を毎日直していたので、直し方ごとスキルにして公開しました",
-      "url": "https://qiita.com/kojikojikojikoji/items/9d0bc3ed1f347933c0a5?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "kojikojikojikoji",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-10-15T21:52:47+09:00"
-    },
-    {
-      "id": "hn-50102923",
-      "source": "hn",
-      "title": "Libreboot 26.10 \"Ominous Olive\" released with UEFI, Chromebook support",
-      "url": "https://libreboot.org/news/libreboot2610.html",
-      "score": 257,
-      "comments": 160,
-      "author": "iamnothere",
-      "tags": [],
-      "date": "2026-10-15T12:52:16+00:00"
-    },
-    {
-      "id": "hn-50102480",
-      "source": "hn",
-      "title": "A History of Curves and Surfaces in Computer Aided Geometric Design [pdf]",
-      "url": "https://math.pku.edu.cn/teachers/jiangm/courses/CG/Lectures/spline-history.pdf",
-      "score": 22,
-      "comments": 3,
-      "author": "mbustamanter",
-      "tags": [],
-      "date": "2026-10-15T12:06:38+00:00"
-    },
-    {
-      "id": "hn-50102247",
-      "source": "hn",
-      "title": "Show HN: Unfenced – Land for sale that borders public land",
-      "url": "https://unfenced.land/",
-      "score": 244,
-      "comments": 166,
-      "author": "otherwatersflow",
-      "tags": [],
-      "date": "2026-10-15T11:38:57+00:00"
-    },
-    {
-      "id": "qiita-f902df1ac2",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "SORACOM Discovery 2026 から考える After AI 時代の SaaS の在り方",
-      "url": "https://qiita.com/ysk_kdo/items/584524eead1cd2c19a53?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "ysk_kdo",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-10-15T20:34:14+09:00"
-    },
-    {
-      "id": "qiita-1087843e62",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "重複率0%でも安心できない？Cucumberのステップ定義に潜む重複を見つける",
-      "url": "https://qiita.com/figueiredoluiz/items/6337f9c909fe0f60e7c2?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "figueiredoluiz",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-10-15T20:07:53+09:00"
-    },
-    {
-      "id": "hn-50101813",
-      "source": "hn",
-      "title": "AdFection: Targeted ads turned into a pipeline for zero-click mercenary spyware",
-      "url": "https://citizenlab.ca/research/how-discover-tech-turned-targeted-ads-into-a-pipeline-for-spyware/",
-      "score": 404,
-      "comments": 572,
-      "author": "jcomp",
-      "tags": [],
-      "date": "2026-10-15T10:43:36+00:00",
-      "severity": "critical"
-    },
-    {
-      "id": "hn-50101649",
-      "source": "hn",
-      "title": "Laser Fault Injection on a Budget: RP2350 Edition",
-      "url": "https://courk.cc/rp2350-challenge-laser",
-      "score": 49,
-      "comments": 14,
-      "author": "gregsadetsky",
-      "tags": [],
-      "date": "2026-10-15T10:24:16+00:00"
-    },
-    {
-      "id": "qiita-d959ba4c0f",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "Jevにウォーリーを探させたら0.4秒で見つけやがった!!",
-      "url": "https://qiita.com/kikuziro/items/c1b47d4bfaa64960ca18?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "kikuziro",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-10-15T18:18:14+09:00"
-    },
-    {
-      "id": "hn-50100994",
-      "source": "hn",
-      "title": "Furifont, a Japanese font that shows furigana",
-      "url": "https://furifont.antfu.me/",
-      "score": 363,
-      "comments": 76,
-      "author": "plaguna",
-      "tags": [],
-      "date": "2026-10-15T08:48:30+00:00"
-    },
-    {
-      "id": "qiita-423dbc791b",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "「プロトタイプ温泉」の解説記事をGoogle検索のAIが生成した記録",
-      "url": "https://qiita.com/ockeghem/items/59cfe08bb99643b3e55b?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "ockeghem",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-10-15T17:31:02+09:00"
-    },
-    {
-      "id": "qiita-911b883121",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "プロンプトエンジニアリングについて",
-      "url": "https://qiita.com/masa-miya/items/de9f808d43627005d063?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "masa-miya",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-10-15T17:12:19+09:00"
-    },
-    {
-      "id": "hn-50100640",
-      "source": "hn",
-      "title": "What changes when your search index lives on S3?",
-      "url": "https://infino.ai/blog/search-index-on-s3/",
-      "score": 6,
-      "comments": 3,
-      "author": "tatvamasi",
-      "tags": [],
-      "date": "2026-10-15T07:55:34+00:00"
-    },
-    {
-      "id": "qiita-d79cd12166",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "いつも一番に食べ終わるあなたへ：会話のロードバランシング入門",
-      "url": "https://qiita.com/redwings_a/items/d79b4f94f7244da2cb98?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "redwings_a",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-10-15T16:54:28+09:00"
-    },
-    {
-      "id": "qiita-ba0c7835e1",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "Gemini 4 Argonでロボットアームを動かしてみた",
-      "url": "https://qiita.com/kentaro_kawamura/items/118144a5e0c707de12dd?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "kentaro_kawamura",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-10-15T16:32:23+09:00"
-    },
-    {
-      "id": "hn-50100440",
-      "source": "hn",
-      "title": "We Still Use Paper",
-      "url": "https://humanpro.co/articles/we-still-use-paper/",
-      "score": 42,
-      "comments": 57,
-      "author": "gx",
-      "tags": [],
-      "date": "2026-10-15T07:27:55+00:00"
-    },
-    {
-      "id": "qiita-c57bcfacfc",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "AI時代、何をもってソフトウェアの品質を担保するのか",
-      "url": "https://qiita.com/acsuzuki/items/a1f4533a4d7c724c097f?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "acsuzuki",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-10-15T16:23:06+09:00"
-    },
-    {
       "id": "ctf-4800242",
       "source": "project",
       "proj_category": "CTF",
@@ -5691,6 +5685,156 @@
       "date": "Fri, 16 Oct 2026 14:10:37 GMT"
     },
     {
+      "id": "edb-0369a1880b",
+      "source": "msf",
+      "title": "[webapps] pizzafy-1.0 - SQLi",
+      "url": "https://www.exploit-db.com/exploits/52703",
+      "score": null,
+      "author": "Exploit-DB",
+      "tags": [
+        "Exploit-DB",
+        "CVE",
+        "PoC"
+      ],
+      "severity": "high",
+      "date": "Wed, 21 Oct 2026 00:00:00 +0000"
+    },
+    {
+      "id": "edb-8676c447e1",
+      "source": "msf",
+      "title": "[remote] South River Technologies Titan MFT Server 26.0.0 - code execution",
+      "url": "https://www.exploit-db.com/exploits/52701",
+      "score": null,
+      "author": "Exploit-DB",
+      "tags": [
+        "Exploit-DB",
+        "CVE",
+        "PoC"
+      ],
+      "severity": "high",
+      "date": "Wed, 21 Oct 2026 00:00:00 +0000"
+    },
+    {
+      "id": "edb-a7d3f549ab",
+      "source": "msf",
+      "title": "[remote] Synametrics Syncrify 6.2 - command execution",
+      "url": "https://www.exploit-db.com/exploits/52700",
+      "score": null,
+      "author": "Exploit-DB",
+      "tags": [
+        "Exploit-DB",
+        "CVE",
+        "PoC"
+      ],
+      "severity": "high",
+      "date": "Wed, 21 Oct 2026 00:00:00 +0000"
+    },
+    {
+      "id": "edb-b98eb3e200",
+      "source": "msf",
+      "title": "[webapps] Keycloak  26.7.2 - Unauthenticated Account Takeover",
+      "url": "https://www.exploit-db.com/exploits/52699",
+      "score": null,
+      "author": "Exploit-DB",
+      "tags": [
+        "Exploit-DB",
+        "CVE",
+        "PoC"
+      ],
+      "severity": "high",
+      "date": "Wed, 21 Oct 2026 00:00:00 +0000"
+    },
+    {
+      "id": "edb-54a48e2297",
+      "source": "msf",
+      "title": "[webapps] Open eClass 3.15 - RCE",
+      "url": "https://www.exploit-db.com/exploits/52698",
+      "score": null,
+      "author": "Exploit-DB",
+      "tags": [
+        "Exploit-DB",
+        "CVE",
+        "PoC"
+      ],
+      "severity": "high",
+      "date": "Wed, 21 Oct 2026 00:00:00 +0000"
+    },
+    {
+      "id": "edb-e146ba40ae",
+      "source": "msf",
+      "title": "[webapps] Automotive Shop Management System 1.0 - SQLi",
+      "url": "https://www.exploit-db.com/exploits/52697",
+      "score": null,
+      "author": "Exploit-DB",
+      "tags": [
+        "Exploit-DB",
+        "CVE",
+        "PoC"
+      ],
+      "severity": "high",
+      "date": "Wed, 21 Oct 2026 00:00:00 +0000"
+    },
+    {
+      "id": "edb-51f225d0d7",
+      "source": "msf",
+      "title": "[remote] Edimax BR-6478AC firmware v2.20 - authenticated command injection",
+      "url": "https://www.exploit-db.com/exploits/52696",
+      "score": null,
+      "author": "Exploit-DB",
+      "tags": [
+        "Exploit-DB",
+        "CVE",
+        "PoC"
+      ],
+      "severity": "high",
+      "date": "Wed, 21 Oct 2026 00:00:00 +0000"
+    },
+    {
+      "id": "edb-f3dfe632fc",
+      "source": "msf",
+      "title": "[remote] Exasol Database 7.1.30 - command execution",
+      "url": "https://www.exploit-db.com/exploits/52695",
+      "score": null,
+      "author": "Exploit-DB",
+      "tags": [
+        "Exploit-DB",
+        "CVE",
+        "PoC"
+      ],
+      "severity": "high",
+      "date": "Wed, 21 Oct 2026 00:00:00 +0000"
+    },
+    {
+      "id": "edb-ec2339e74b",
+      "source": "msf",
+      "title": "[remote] Parasoft Continuous Testing Platform 10.7.5 - JSP command execution",
+      "url": "https://www.exploit-db.com/exploits/52694",
+      "score": null,
+      "author": "Exploit-DB",
+      "tags": [
+        "Exploit-DB",
+        "CVE",
+        "PoC"
+      ],
+      "severity": "high",
+      "date": "Wed, 21 Oct 2026 00:00:00 +0000"
+    },
+    {
+      "id": "edb-ed5beccae6",
+      "source": "msf",
+      "title": "[remote] ProSoft RLX-IFH24E v2.2.44 - Unsigned Firmware Upgrade Package Executed as Root",
+      "url": "https://www.exploit-db.com/exploits/52693",
+      "score": null,
+      "author": "Exploit-DB",
+      "tags": [
+        "Exploit-DB",
+        "CVE",
+        "PoC"
+      ],
+      "severity": "high",
+      "date": "Wed, 21 Oct 2026 00:00:00 +0000"
+    },
+    {
       "id": "edb-1d1e868d62",
       "source": "msf",
       "title": "[remote] Teltonika_RutOS 00.07.06.21 - command injection",
@@ -5764,156 +5908,6 @@
       ],
       "severity": "high",
       "date": "Thu, 01 Oct 2026 00:00:00 +0000"
-    },
-    {
-      "id": "edb-973cebf344",
-      "source": "msf",
-      "title": "[webapps] Krayin CRM 2.2.4 - IDOR",
-      "url": "https://www.exploit-db.com/exploits/52687",
-      "score": null,
-      "author": "Exploit-DB",
-      "tags": [
-        "Exploit-DB",
-        "CVE",
-        "PoC"
-      ],
-      "severity": "high",
-      "date": "Thu, 01 Oct 2026 00:00:00 +0000"
-    },
-    {
-      "id": "edb-ad2242f04d",
-      "source": "msf",
-      "title": "[webapps] SuiteCRM  8.10.1 - Authenticated SSRF",
-      "url": "https://www.exploit-db.com/exploits/52686",
-      "score": null,
-      "author": "Exploit-DB",
-      "tags": [
-        "Exploit-DB",
-        "CVE",
-        "PoC"
-      ],
-      "severity": "high",
-      "date": "Thu, 01 Oct 2026 00:00:00 +0000"
-    },
-    {
-      "id": "edb-68300b01e4",
-      "source": "msf",
-      "title": "[webapps] InvoicePlane 1.7.1 -  RCE",
-      "url": "https://www.exploit-db.com/exploits/52685",
-      "score": null,
-      "author": "Exploit-DB",
-      "tags": [
-        "Exploit-DB",
-        "CVE",
-        "PoC"
-      ],
-      "severity": "high",
-      "date": "Thu, 01 Oct 2026 00:00:00 +0000"
-    },
-    {
-      "id": "edb-7394a5a0e2",
-      "source": "msf",
-      "title": "[webapps] POMS oretnom23v1.0  - SQLi vulnerabilities",
-      "url": "https://www.exploit-db.com/exploits/52684",
-      "score": null,
-      "author": "Exploit-DB",
-      "tags": [
-        "Exploit-DB",
-        "CVE",
-        "PoC"
-      ],
-      "severity": "high",
-      "date": "Thu, 01 Oct 2026 00:00:00 +0000"
-    },
-    {
-      "id": "edb-3d1383044d",
-      "source": "msf",
-      "title": "[remote] MikroTrick, 7.24, 7.24.2, 7.0.0, 7.23.4, 6.0.0, 6.49.21 - RCE",
-      "url": "https://www.exploit-db.com/exploits/52683",
-      "score": null,
-      "author": "Exploit-DB",
-      "tags": [
-        "Exploit-DB",
-        "CVE",
-        "PoC"
-      ],
-      "severity": "high",
-      "date": "Thu, 24 Sep 2026 00:00:00 +0000"
-    },
-    {
-      "id": "edb-539c995398",
-      "source": "msf",
-      "title": "[remote] CVE-2026-80428 Unauthenticated PHP Object Injection via Shibboleth - ILIAS < 9.22, 10.0 < 10.10, 11.0 < 11.3 - RCE",
-      "url": "https://www.exploit-db.com/exploits/52682",
-      "score": null,
-      "author": "Exploit-DB",
-      "tags": [
-        "Exploit-DB",
-        "CVE",
-        "PoC"
-      ],
-      "severity": "high",
-      "date": "Fri, 11 Sep 2026 00:00:00 +0000"
-    },
-    {
-      "id": "edb-f594139f85",
-      "source": "msf",
-      "title": "[webapps] FreePBX  17.0.2 - Remote Code Execution (RCE)",
-      "url": "https://www.exploit-db.com/exploits/52681",
-      "score": null,
-      "author": "Exploit-DB",
-      "tags": [
-        "Exploit-DB",
-        "CVE",
-        "PoC"
-      ],
-      "severity": "high",
-      "date": "Thu, 03 Sep 2026 00:00:00 +0000"
-    },
-    {
-      "id": "edb-234928d7e3",
-      "source": "msf",
-      "title": "[webapps] Metabase 0.61.0  - Authenticated Remote Code Execution",
-      "url": "https://www.exploit-db.com/exploits/52680",
-      "score": null,
-      "author": "Exploit-DB",
-      "tags": [
-        "Exploit-DB",
-        "CVE",
-        "PoC"
-      ],
-      "severity": "high",
-      "date": "Thu, 03 Sep 2026 00:00:00 +0000"
-    },
-    {
-      "id": "edb-515d49a8f8",
-      "source": "msf",
-      "title": "[dos] EVerest 2025.9.0 - DoS",
-      "url": "https://www.exploit-db.com/exploits/52679",
-      "score": null,
-      "author": "Exploit-DB",
-      "tags": [
-        "Exploit-DB",
-        "CVE",
-        "PoC"
-      ],
-      "severity": "high",
-      "date": "Wed, 02 Sep 2026 00:00:00 +0000"
-    },
-    {
-      "id": "edb-cf7b96531f",
-      "source": "msf",
-      "title": "[webapps] Bludit CMS  3.20.0 - Reflected Cross-Site Scripting",
-      "url": "https://www.exploit-db.com/exploits/52678",
-      "score": null,
-      "author": "Exploit-DB",
-      "tags": [
-        "Exploit-DB",
-        "CVE",
-        "PoC"
-      ],
-      "severity": "high",
-      "date": "Wed, 02 Sep 2026 00:00:00 +0000"
     }
   ]
 }

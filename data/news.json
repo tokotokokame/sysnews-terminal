@@ -1,14 +1,58 @@
 {
-  "updated_at": "2026-10-22T18:42:38.954033+00:00",
+  "updated_at": "2026-10-22T22:07:23.880224+00:00",
   "count": 500,
   "items": [
+    {
+      "id": "hn-50201414",
+      "source": "hn",
+      "title": "Railpass",
+      "url": "https://train.samismith.com/",
+      "score": 5,
+      "comments": 3,
+      "author": "CharlesW",
+      "tags": [],
+      "date": "2026-10-22T21:38:32+00:00"
+    },
+    {
+      "id": "hn-50199389",
+      "source": "hn",
+      "title": "Hedra is a 3D open world game I wrote from scratch while in highschool",
+      "url": "https://github.com/maxilevi/project-hedra/tree/pre-ai",
+      "score": 78,
+      "comments": 17,
+      "author": "maxilevi",
+      "tags": [],
+      "date": "2026-10-22T18:44:36+00:00"
+    },
+    {
+      "id": "hn-50199290",
+      "source": "hn",
+      "title": "Show HN: UI micro interactions prompts for AI",
+      "url": "https://www.typeui.sh/micro-interactions",
+      "score": 59,
+      "comments": 29,
+      "author": "elwingo1",
+      "tags": [],
+      "date": "2026-10-22T18:32:57+00:00"
+    },
+    {
+      "id": "hn-50199230",
+      "source": "hn",
+      "title": "AI and the Enclosure of the Scientific Commons",
+      "url": "https://arxiv.org/abs/2610.27251",
+      "score": 75,
+      "comments": 40,
+      "author": "jrepinc",
+      "tags": [],
+      "date": "2026-10-22T18:28:16+00:00"
+    },
     {
       "id": "hn-50198940",
       "source": "hn",
       "title": "AI analysis of CT scans finds 42.9% of patients have coronary inflammation",
       "url": "https://www.biograph.com/newsroom/biograph-completes-first-u.s.-study-with-caristo-diagnostics%E2%80%99-ai-powered-coronary-inflammation-detection-finding-risk-in-over-42-of-asymptomatic-patients",
-      "score": 11,
-      "comments": 7,
+      "score": 61,
+      "comments": 34,
       "author": "brandonb",
       "tags": [],
       "date": "2026-10-22T18:02:54+00:00"
@@ -27,10 +71,10 @@
     {
       "id": "hn-50198675",
       "source": "hn",
-      "title": "Nvidia OpenShell",
+      "title": "OpenShell – A safe, private runtime for fleets of autonomous AI agents",
       "url": "https://github.com/NVIDIA/OpenShell",
-      "score": 48,
-      "comments": 18,
+      "score": 225,
+      "comments": 120,
       "author": "niemandhier",
       "tags": [],
       "date": "2026-10-22T17:44:06+00:00"
@@ -40,8 +84,8 @@
       "source": "hn",
       "title": "A farewell to Arc browser",
       "url": "https://arc.net/",
-      "score": 116,
-      "comments": 88,
+      "score": 197,
+      "comments": 173,
       "author": "suhdonghwi",
       "tags": [],
       "date": "2026-10-22T16:27:47+00:00"
@@ -49,10 +93,10 @@
     {
       "id": "hn-50197450",
       "source": "hn",
-      "title": "Mini brain organoids 'reading' Braille key step towards biohybrid computing",
+      "title": "Mini brain organoids ‘reading’ Braille key step towards biohybrid computing",
       "url": "https://www.frontiersin.org/news/2026/10/16/mini-brain-organoids-reading-braille-biohybrid-computing-frontiers-artificial-intelligence",
-      "score": 8,
-      "comments": 2,
+      "score": 28,
+      "comments": 26,
       "author": "CharlesW",
       "tags": [],
       "date": "2026-10-22T16:16:45+00:00"
@@ -62,11 +106,22 @@
       "source": "hn",
       "title": "Getting ready to operate GNU Taler in Germany",
       "url": "https://www.taler.net/en/news/2026-13.html",
-      "score": 86,
-      "comments": 29,
+      "score": 175,
+      "comments": 61,
       "author": "dewey",
       "tags": [],
       "date": "2026-10-22T16:14:31+00:00"
+    },
+    {
+      "id": "hn-50197313",
+      "source": "hn",
+      "title": "Every AI model has the same \"controversial\" take on humans",
+      "url": "https://www.modelcompare.ai/blog/ai-models-controversial-take-on-humans",
+      "score": 115,
+      "comments": 150,
+      "author": "rakannimer",
+      "tags": [],
+      "date": "2026-10-22T16:08:00+00:00"
     },
     {
       "id": "hn-50196837",
@@ -84,11 +139,24 @@
       "source": "hn",
       "title": "Show HN: Run full iOS 16.5 firmware on Android Devices",
       "url": "https://github.com/oosexgang/hackios-xnu-kernel",
-      "score": 148,
-      "comments": 52,
+      "score": 269,
+      "comments": 97,
       "author": "aghuang",
       "tags": [],
       "date": "2026-10-22T15:26:22+00:00"
+    },
+    {
+      "id": "qiita-9c1c06d1e4",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "耳で聞く！Python で学ぶ マクロ経済学 入門 33",
+      "url": "https://qiita.com/maskot1977/items/302bc82b65d7c5bb54d6?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "maskot1977",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-10-23T00:12:16+09:00"
     },
     {
       "id": "qiita-3d1f34585f",
@@ -108,8 +176,8 @@
       "source": "hn",
       "title": "Quad9 (DNS Resolver) to Exit France",
       "url": "https://quad9.net/news/blog/au-revoir-france/",
-      "score": 489,
-      "comments": 172,
+      "score": 829,
+      "comments": 310,
       "author": "farrokhi",
       "tags": [],
       "date": "2026-10-22T14:32:38+00:00"
@@ -128,10 +196,10 @@
     {
       "id": "hn-50195543",
       "source": "hn",
-      "title": "What's Getting Pwned",
+      "title": "What’s getting pwned right now",
       "url": "https://pwn.watch/",
-      "score": 228,
-      "comments": 120,
+      "score": 311,
+      "comments": 147,
       "author": "mrkd",
       "tags": [],
       "date": "2026-10-22T14:08:12+00:00"
@@ -141,8 +209,8 @@
       "source": "hn",
       "title": "eMudhra to exit global SSL/TLS certificate business",
       "url": "https://emudhra.com/en/press-release/emudhra-to-exit-global-ssl-tls-certificate-business",
-      "score": 672,
-      "comments": 485,
+      "score": 861,
+      "comments": 594,
       "author": "bo0tzz",
       "tags": [],
       "date": "2026-10-22T13:33:39+00:00"
@@ -159,12 +227,25 @@
       "date": "2026-10-22T13:20:13+00:00"
     },
     {
+      "id": "qiita-aafad0a0a9",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "Copilot で TOEIC 対策してみる",
+      "url": "https://qiita.com/masakichiXO/items/1b4bb5191463bc35f600?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "masakichiXO",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-10-22T22:14:07+09:00"
+    },
+    {
       "id": "hn-50194833",
       "source": "hn",
       "title": "Woman faces six years in prison over Cash App account she never opened",
       "url": "https://www.techspot.com/news/114296-woman-spends-three-nights-jail-faces-six-years.html",
-      "score": 132,
-      "comments": 81,
+      "score": 344,
+      "comments": 324,
       "author": "oidar",
       "tags": [],
       "date": "2026-10-22T13:11:00+00:00"
@@ -179,6 +260,17 @@
       "author": "torutofu",
       "tags": [],
       "date": "2026-10-22T13:09:33+00:00"
+    },
+    {
+      "id": "hn-50194762",
+      "source": "hn",
+      "title": "Show HN: Replacing CAPTCHAs with adaptive proof-of-work in WordPress",
+      "url": "https://wordpress.org/plugins/gdpr-compliant-recaptcha-for-all-forms/",
+      "score": 4,
+      "comments": 0,
+      "author": "MatthiasNordwig",
+      "tags": [],
+      "date": "2026-10-22T13:03:14+00:00"
     },
     {
       "id": "qiita-285cc3cb45",
@@ -217,6 +309,31 @@
       "severity": "high"
     },
     {
+      "id": "hn-50194009",
+      "source": "hn",
+      "title": "Xbox wants you to pay 24 to 40 cents per hour to stream games you bought",
+      "url": "https://arstechnica.com/gaming/2026/10/xbox-wants-you-to-pay-24-to-40-cents-per-hour-to-stream-games-you-already-bought/",
+      "score": 133,
+      "comments": 164,
+      "author": "entryleveljobsc",
+      "tags": [],
+      "date": "2026-10-22T11:42:03+00:00"
+    },
+    {
+      "id": "qiita-817964ab32",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "【初学者向け】PHPの緊急パッチのニュースで理解した「Dependabotを放置してはいけない理由」と対処法",
+      "url": "https://qiita.com/Elu_72b/items/acbf3ba68785e90202b3?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "Elu_72b",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-10-22T20:15:54+09:00",
+      "severity": "critical"
+    },
+    {
       "id": "hn-50193804",
       "source": "hn",
       "title": "Several Linux kernel vulnerabilities accidentally posted to public mailing list",
@@ -226,6 +343,20 @@
       "author": "mrkn1",
       "tags": [],
       "date": "2026-10-22T11:12:37+00:00"
+    },
+    {
+      "id": "qiita-f5851d9e23",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "【緊急】Node.jsの重大脆弱性に対応するセキュリティアップデートを安全に適用する方法",
+      "url": "https://qiita.com/superdora-cloud/items/8cad27487cd0e67d088c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "superdora-cloud",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-10-22T19:45:36+09:00",
+      "severity": "critical"
     },
     {
       "id": "qiita-d24e19eb5e",
@@ -246,8 +377,8 @@
       "source": "hn",
       "title": "Faster than earcut: triangulating 3.7M map polygons in 489 ms",
       "url": "https://globus.software/blog/2026/10/16/cutting-map-polygons/",
-      "score": 169,
-      "comments": 34,
+      "score": 188,
+      "comments": 36,
       "author": "molind",
       "tags": [],
       "date": "2026-10-22T09:31:18+00:00"
@@ -282,11 +413,24 @@
       "source": "hn",
       "title": "Jailbreaking the Switch 2",
       "url": "https://pepsipu.com/blog/2026-10-switch2-jailbreak-ns2jb/",
-      "score": 560,
-      "comments": 202,
+      "score": 652,
+      "comments": 231,
       "author": "ledoge",
       "tags": [],
       "date": "2026-10-22T08:01:52+00:00"
+    },
+    {
+      "id": "qiita-2392bc50c1",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "【考察】ip default-gateway未設定のL2スイッチが通信できたのはなぜ？",
+      "url": "https://qiita.com/YN_net/items/9c78c097cbb5859a0694?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "YN_net",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-10-22T14:52:54+09:00"
     },
     {
       "id": "hn-50191507",
@@ -460,6 +604,19 @@
         "Qiita"
       ],
       "date": "2026-10-22T09:13:38+09:00"
+    },
+    {
+      "id": "qiita-b57b045721",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "コーディングエージェントの「指示書・Skill・Hooks」役割分担",
+      "url": "https://qiita.com/acshu_moriyama/items/0d35781c10fe8d436b5c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "acshu_moriyama",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-10-22T09:10:33+09:00"
     },
     {
       "id": "hn-50189232",
@@ -937,6 +1094,19 @@
       "date": "2026-10-21T12:00:24+00:00"
     },
     {
+      "id": "qiita-455960685b",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "is-* クラスや data-state を活用しよう！ HTML・CSS・JS の責務分離",
+      "url": "https://qiita.com/Yudai-HARA/items/73d20fd44b626dc74840?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "Yudai-HARA",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-10-21T20:34:10+09:00"
+    },
+    {
       "id": "hn-50178455",
       "source": "hn",
       "title": "Whatever Happened to Fire Escapes",
@@ -1401,6 +1571,28 @@
       "date": "2026-10-21T07:01:15+09:00"
     },
     {
+      "id": "hn-50172984",
+      "source": "hn",
+      "title": "Show HN: Turn regular JavaScript into a neural net",
+      "url": "https://chenglou.me/handwired/",
+      "score": 25,
+      "comments": 10,
+      "author": "chenglou",
+      "tags": [],
+      "date": "2026-10-20T21:32:23+00:00"
+    },
+    {
+      "id": "hn-50172660",
+      "source": "hn",
+      "title": "The phenomena that brighten dawn and dusk (2016)",
+      "url": "https://www.colorado.edu/asmagazine-archive/node/2039",
+      "score": 15,
+      "comments": 1,
+      "author": "NaOH",
+      "tags": [],
+      "date": "2026-10-20T21:05:16+00:00"
+    },
+    {
       "id": "hn-50172041",
       "source": "hn",
       "title": "Upcoming critical PHP security release (CVE-2026-109618 / -109619)",
@@ -1593,6 +1785,17 @@
       "author": "AshleysBrain",
       "tags": [],
       "date": "2026-10-20T15:06:08+00:00"
+    },
+    {
+      "id": "hn-50167267",
+      "source": "hn",
+      "title": "Solving the 1950 cipher meant to test life after death",
+      "url": "https://creilly11235.github.io/wood-cryptogram-1950/",
+      "score": 8,
+      "comments": 5,
+      "author": "creilly11235",
+      "tags": [],
+      "date": "2026-10-20T14:48:34+00:00"
     },
     {
       "id": "hn-50167028",
@@ -2389,8 +2592,8 @@
       "source": "hn",
       "title": "Dungeon Generation in the Gnomish Mines of NetHack",
       "url": "https://www.boristhebrave.com/2026/10/18/dungeon-generation-in-the-gnomish-mines-of-nethack/",
-      "score": 60,
-      "comments": 9,
+      "score": 100,
+      "comments": 12,
       "author": "ibobev",
       "tags": [],
       "date": "2026-10-19T16:06:40+00:00"
@@ -2755,8 +2958,8 @@
       "source": "hn",
       "title": "What Is Gridifcation",
       "url": "https://musicalform.substack.com/p/what-is-gridifcation",
-      "score": 286,
-      "comments": 137,
+      "score": 367,
+      "comments": 182,
       "author": "gumby",
       "tags": [],
       "date": "2026-10-19T09:13:12+00:00"
@@ -5026,203 +5229,6 @@
       "author": "karakoram",
       "tags": [],
       "date": "2026-10-16T16:38:02+00:00"
-    },
-    {
-      "id": "hn-50120224",
-      "source": "hn",
-      "title": "JPEG XL vs. AVIF for web use-cases",
-      "url": "https://jakearchibald.com/2026/jpeg-xl-vs-avif/",
-      "score": 288,
-      "comments": 190,
-      "author": "farlight",
-      "tags": [],
-      "date": "2026-10-16T16:12:02+00:00"
-    },
-    {
-      "id": "qiita-11f129b059",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "【GitHub Actions入門】git pushをトリガーに「Hello World」を表示する方法",
-      "url": "https://qiita.com/ryu0947/items/871b8654cc3e5929db04?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "ryu0947",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-10-17T01:03:06+09:00"
-    },
-    {
-      "id": "hn-50120101",
-      "source": "hn",
-      "title": "US Rep Announces Congressional Legislation to Protect Video Game Ownership",
-      "url": "https://ritchietorres.house.gov/posts/rep-torres-announces-power-to-the-players-act-legislation-to-ensure-gamers-own-their-games",
-      "score": 76,
-      "comments": 42,
-      "author": "DeepLogin",
-      "tags": [],
-      "date": "2026-10-16T16:03:02+00:00"
-    },
-    {
-      "id": "hn-50120010",
-      "source": "hn",
-      "title": "Inside Polymarket's paid quote-retweet esports program",
-      "url": "https://www.readergrev.com/p/polymarket-paid-quote-retweet-esports-investigation",
-      "score": 61,
-      "comments": 42,
-      "author": "paimapi",
-      "tags": [],
-      "date": "2026-10-16T15:56:25+00:00"
-    },
-    {
-      "id": "hn-50119991",
-      "source": "hn",
-      "title": "Postgres 19 delayed after AI reviewers find more bugs than humans can fix",
-      "url": "https://www.theregister.com/databases/2026/10/16/postgres-19-delayed-after-ai-reviewers-find-more-bugs-than-humans-can-fix/5303471",
-      "score": 62,
-      "comments": 11,
-      "author": "magoghm",
-      "tags": [],
-      "date": "2026-10-16T15:55:40+00:00"
-    },
-    {
-      "id": "hn-50119819",
-      "source": "hn",
-      "title": "CKKS – Addition and Multiplication",
-      "url": "https://www.jeremykun.com/2026/10/11/ckks-addition-and-multiplication/",
-      "score": 3,
-      "comments": 0,
-      "author": "ibobev",
-      "tags": [],
-      "date": "2026-10-16T15:43:46+00:00"
-    },
-    {
-      "id": "hn-50119752",
-      "source": "hn",
-      "title": "Show HN: OneDeploy – Managed open-source apps with nightly backups and TLS",
-      "url": "https://onedeploy.co",
-      "score": 17,
-      "comments": 8,
-      "author": "relatedcode",
-      "tags": [],
-      "date": "2026-10-16T15:38:35+00:00",
-      "severity": "critical"
-    },
-    {
-      "id": "hn-50119751",
-      "source": "hn",
-      "title": "A story of WiFi secrets, UART lockdowns and a damaged flash memory chip",
-      "url": "https://adepts.of0x.cc/eufy-homestation2-firmware/",
-      "score": 63,
-      "comments": 4,
-      "author": "michidk",
-      "tags": [],
-      "date": "2026-10-16T15:38:28+00:00"
-    },
-    {
-      "id": "qiita-809b367576",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "ダッジェム（Dodgem）— 5×5 の 2.4 億局面を後退解析で解き、1996 年のニュースグループの主張を全部確かめたら 3 か所ずれていた",
-      "url": "https://qiita.com/sen-ltd/items/36cfd0b15eca2b0bb2d2?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "sen-ltd",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-10-17T00:26:24+09:00"
-    },
-    {
-      "id": "qiita-5e201f68cb",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "Kaigi on Rails 2026のDay1に参加しました",
-      "url": "https://qiita.com/PDC-Kurashinak/items/19dc2a9b2909a3a79e22?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "PDC-Kurashinak",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-10-17T00:25:05+09:00"
-    },
-    {
-      "id": "qiita-9757cff214",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "スキーマを変えるとプロンプトキャッシュが共有されなかったので、Bedrock の構造化出力をやめた話（2026年版）",
-      "url": "https://qiita.com/ntaka329/items/9ddba124de03b15166c4?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "ntaka329",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-10-17T00:20:48+09:00"
-    },
-    {
-      "id": "hn-50119315",
-      "source": "hn",
-      "title": "Rendering pretty sky in Around The World game",
-      "url": "https://frozenfractal.com/blog/2026/10/12/around-the-world-34-a-pretty-sky/",
-      "score": 120,
-      "comments": 8,
-      "author": "ibobev",
-      "tags": [],
-      "date": "2026-10-16T15:06:43+00:00"
-    },
-    {
-      "id": "hn-50118981",
-      "source": "hn",
-      "title": "Waymo in Toronto",
-      "url": "https://waymo.com/blog/2026/10/waymo-in-toronto/",
-      "score": 266,
-      "comments": 372,
-      "author": "ChrisArchitect",
-      "tags": [],
-      "date": "2026-10-16T14:44:17+00:00"
-    },
-    {
-      "id": "hn-50118977",
-      "source": "hn",
-      "title": "Big Fish: Exploiting a 37-Year-Old Kernel Bug in OpenBSD",
-      "url": "https://calif.io/research/big-fish",
-      "score": 163,
-      "comments": 46,
-      "author": "rs_rs_rs_rs_rs",
-      "tags": [],
-      "date": "2026-10-16T14:44:02+00:00",
-      "severity": "high"
-    },
-    {
-      "id": "hn-50118876",
-      "source": "hn",
-      "title": "Show HN: rStation – A shared research lab for your AI agents",
-      "url": "https://rstation.ai/",
-      "score": 26,
-      "comments": 16,
-      "author": "stephenchung",
-      "tags": [],
-      "date": "2026-10-16T14:35:43+00:00"
-    },
-    {
-      "id": "hn-50118828",
-      "source": "hn",
-      "title": "What on Earth Is Dekton?",
-      "url": "https://www.worksinprogress.news/p/porcelain",
-      "score": 104,
-      "comments": 37,
-      "author": "wawayanda",
-      "tags": [],
-      "date": "2026-10-16T14:31:43+00:00"
-    },
-    {
-      "id": "hn-50118688",
-      "source": "hn",
-      "title": "Show HN: Gemini 4 Argon plays StarCraft",
-      "url": "https://starskirmish.com/bench/v0-2/",
-      "score": 207,
-      "comments": 90,
-      "author": "__cayenne__",
-      "tags": [],
-      "date": "2026-10-16T14:18:44+00:00"
     },
     {
       "id": "ctf-4800242",

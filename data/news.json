@@ -1,7 +1,135 @@
 {
-  "updated_at": "2026-10-22T08:52:06.145013+00:00",
+  "updated_at": "2026-10-22T14:21:42.459502+00:00",
   "count": 500,
   "items": [
+    {
+      "id": "hn-50195110",
+      "source": "hn",
+      "title": "eMudhra to Exit Global SSL/TLS Certificate Business",
+      "url": "https://emudhra.com/en/press-release/emudhra-to-exit-global-ssl-tls-certificate-business",
+      "score": 72,
+      "comments": 18,
+      "author": "bo0tzz",
+      "tags": [],
+      "date": "2026-10-22T13:33:39+00:00"
+    },
+    {
+      "id": "hn-50194938",
+      "source": "hn",
+      "title": "Crystal 1.22.0 Is Released",
+      "url": "https://crystal-lang.org/2026/10/12/1.22.0-released/",
+      "score": 25,
+      "comments": 0,
+      "author": "ksec",
+      "tags": [],
+      "date": "2026-10-22T13:20:13+00:00"
+    },
+    {
+      "id": "hn-50194833",
+      "source": "hn",
+      "title": "Woman faces six years in prison over Cash App account she never opened",
+      "url": "https://www.techspot.com/news/114296-woman-spends-three-nights-jail-faces-six-years.html",
+      "score": 132,
+      "comments": 81,
+      "author": "oidar",
+      "tags": [],
+      "date": "2026-10-22T13:11:00+00:00"
+    },
+    {
+      "id": "hn-50194824",
+      "source": "hn",
+      "title": "SBD: We Have a Filesystem at Home",
+      "url": "https://fly.io/blog/sprites-block-device/",
+      "score": 4,
+      "comments": 1,
+      "author": "torutofu",
+      "tags": [],
+      "date": "2026-10-22T13:09:33+00:00"
+    },
+    {
+      "id": "qiita-285cc3cb45",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "Win32は死なズ #3 高DPIに対応させる (追記)",
+      "url": "https://qiita.com/mamPol/items/32313480b997b4089af1?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "mamPol",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-10-22T21:42:04+09:00"
+    },
+    {
+      "id": "hn-50194522",
+      "source": "hn",
+      "title": "The Last Museum: Semantic search across 5.8M artworks from major museums",
+      "url": "https://lastmuseum.com/",
+      "score": 7,
+      "comments": 1,
+      "author": "surprisetalk",
+      "tags": [],
+      "date": "2026-10-22T12:40:04+00:00"
+    },
+    {
+      "id": "hn-50194070",
+      "source": "hn",
+      "title": "Amazon identifies Oct 17 PHP2Shell exploitation prior to public disclosure",
+      "url": "https://aws.amazon.com/blogs/security/amazon-threat-intelligence-identifies-php2shell-exploitation-prior-to-public-disclosure-in-madpot/",
+      "score": 117,
+      "comments": 23,
+      "author": "cubefox",
+      "tags": [],
+      "date": "2026-10-22T11:50:36+00:00",
+      "severity": "high"
+    },
+    {
+      "id": "hn-50193804",
+      "source": "hn",
+      "title": "Several Linux kernel vulnerabilities accidentally posted to public mailing list",
+      "url": "https://www.phoronix.com/news/LKML-New-Trend-Vulnerabilities",
+      "score": 142,
+      "comments": 30,
+      "author": "mrkn1",
+      "tags": [],
+      "date": "2026-10-22T11:12:37+00:00"
+    },
+    {
+      "id": "qiita-d24e19eb5e",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "【緊急】PHPの重大脆弱性2件(CVE-2026-109618 / 109619)を安全にアップデートする方法",
+      "url": "https://qiita.com/superdora-cloud/items/10ddecde5fb1d032f17c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "superdora-cloud",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-10-22T19:29:10+09:00",
+      "severity": "critical"
+    },
+    {
+      "id": "hn-50193170",
+      "source": "hn",
+      "title": "Faster than earcut: triangulating 3.7M map polygons in 489 ms",
+      "url": "https://globus.software/blog/2026/10/16/cutting-map-polygons/",
+      "score": 120,
+      "comments": 21,
+      "author": "molind",
+      "tags": [],
+      "date": "2026-10-22T09:31:18+00:00"
+    },
+    {
+      "id": "hn-50192900",
+      "source": "hn",
+      "title": "CVE-2026-111943: Compromised Intermediate Certificate Authority",
+      "url": "https://nvd.nist.gov/vuln/detail/cve-2026-111943",
+      "score": 315,
+      "comments": 103,
+      "author": "keks24",
+      "tags": [],
+      "date": "2026-10-22T08:51:31+00:00",
+      "severity": "high"
+    },
     {
       "id": "qiita-75717cf186",
       "source": "zennqiita",
@@ -16,18 +144,15 @@
       "date": "2026-10-22T17:37:55+09:00"
     },
     {
-      "id": "qiita-d24e19eb5e",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "【緊急】PHPの重大脆弱性2件(CVE-2026-109618 / 109619)を安全にアップデートする方法",
-      "url": "https://qiita.com/superdora-cloud/items/10ddecde5fb1d032f17c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "superdora-cloud",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-10-22T14:51:26+09:00",
-      "severity": "critical"
+      "id": "hn-50192536",
+      "source": "hn",
+      "title": "Jailbreaking the Switch 2",
+      "url": "https://pepsipu.com/blog/2026-10-switch2-jailbreak-ns2jb/",
+      "score": 324,
+      "comments": 118,
+      "author": "ledoge",
+      "tags": [],
+      "date": "2026-10-22T08:01:52+00:00"
     },
     {
       "id": "hn-50191507",
@@ -111,8 +236,8 @@
       "source": "hn",
       "title": "The recently proposed o(n log n) integer multiplication algorithm [pdf]",
       "url": "https://web.maths.unsw.edu.au/~davidharvey/research/subnlogn.pdf",
-      "score": 187,
-      "comments": 118,
+      "score": 257,
+      "comments": 206,
       "author": "craigcitro",
       "tags": [],
       "date": "2026-10-22T02:30:52+00:00"
@@ -122,8 +247,8 @@
       "source": "hn",
       "title": "WorldTUI: I trained a 360M model to pretend to be a terminal",
       "url": "https://simedw.com/2026/10/21/world-model-terminal/",
-      "score": 157,
-      "comments": 48,
+      "score": 363,
+      "comments": 114,
       "author": "alphax314",
       "tags": [],
       "date": "2026-10-22T02:18:41+00:00"
@@ -280,8 +405,8 @@
       "source": "hn",
       "title": "Security Disclosure",
       "url": "https://blog.railway.com/p/security-disclosure-wednesday-october-21st",
-      "score": 442,
-      "comments": 256,
+      "score": 530,
+      "comments": 304,
       "author": "passenger",
       "tags": [],
       "date": "2026-10-21T21:58:03+00:00"
@@ -358,8 +483,8 @@
       "source": "hn",
       "title": "Claude Duet",
       "url": "https://claude.com/product/claude-duet",
-      "score": 355,
-      "comments": 324,
+      "score": 470,
+      "comments": 438,
       "author": "kuberwastaken",
       "tags": [],
       "date": "2026-10-21T19:14:01+00:00"
@@ -369,8 +494,8 @@
       "source": "hn",
       "title": "Rust Style Guide",
       "url": "https://google.github.io/styleguide/rustguide.html",
-      "score": 293,
-      "comments": 179,
+      "score": 344,
+      "comments": 204,
       "author": "kaycebasques",
       "tags": [],
       "date": "2026-10-21T19:11:57+00:00"
@@ -380,8 +505,8 @@
       "source": "hn",
       "title": "GitLab critical patch release",
       "url": "https://docs.gitlab.com/releases/patches/patch-release-gitlab-19-5-1-released/",
-      "score": 341,
-      "comments": 79,
+      "score": 377,
+      "comments": 87,
       "author": "artooro",
       "tags": [],
       "date": "2026-10-21T19:01:12+00:00",
@@ -551,8 +676,8 @@
       "source": "hn",
       "title": "Compromised LiteLLM 1.107.0 on PyPI Installs a Credential Stealer and Backdoor",
       "url": "https://safedep.io/litellm-pypi-compromise-credential-stealer-backdoor/",
-      "score": 505,
-      "comments": 167,
+      "score": 562,
+      "comments": 183,
       "author": "abhisek",
       "tags": [],
       "date": "2026-10-21T14:00:26+00:00"
@@ -678,19 +803,6 @@
       "author": "ukd1",
       "tags": [],
       "date": "2026-10-21T12:00:24+00:00"
-    },
-    {
-      "id": "qiita-285cc3cb45",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "Win32は死なズ #3 高DPIに対応させる (追記)",
-      "url": "https://qiita.com/mamPol/items/32313480b997b4089af1?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "mamPol",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-10-21T19:49:50+09:00"
     },
     {
       "id": "hn-50178455",
@@ -826,8 +938,8 @@
       "source": "hn",
       "title": "Using LLM for confidence scoring is a bad idea",
       "url": "https://rumple.github.io/blog/2026/10/20/asking-llm-for-confidence.html",
-      "score": 80,
-      "comments": 44,
+      "score": 136,
+      "comments": 82,
       "author": "jimauthors",
       "tags": [],
       "date": "2026-10-21T04:27:51+00:00"
@@ -1046,6 +1158,17 @@
         "Qiita"
       ],
       "date": "2026-10-21T08:32:55+09:00"
+    },
+    {
+      "id": "hn-50173944",
+      "source": "hn",
+      "title": "The painter behind Manhattan’s Gilded Age interiors",
+      "url": "https://engelsbergideas.com/notebook/the-unknown-painter-behind-manhattans-gilded-age-interiors/",
+      "score": 19,
+      "comments": 0,
+      "author": "hoffmannesque",
+      "tags": [],
+      "date": "2026-10-20T23:09:43+00:00"
     },
     {
       "id": "qiita-13534a6b00",
@@ -1579,8 +1702,8 @@
       "source": "hn",
       "title": "No more icons in every menu by default",
       "url": "https://blog.jim-nielsen.com/2026/icons-in-every-menu/",
-      "score": 294,
-      "comments": 185,
+      "score": 397,
+      "comments": 229,
       "author": "riffraff",
       "tags": [],
       "date": "2026-10-20T04:27:08+00:00"
@@ -1953,6 +2076,29 @@
       "date": "2026-10-19T20:50:08+00:00"
     },
     {
+      "id": "hn-50157456",
+      "source": "hn",
+      "title": "Startup taps underwater volcano as energy source in \"proof point\" test",
+      "url": "https://arstechnica.com/science/2026/10/startup-taps-underwater-volcano-as-energy-source-in-proof-point-test/",
+      "score": 59,
+      "comments": 22,
+      "author": "wffurr",
+      "tags": [],
+      "date": "2026-10-19T20:12:49+00:00",
+      "severity": "critical"
+    },
+    {
+      "id": "hn-50157316",
+      "source": "hn",
+      "title": "Eigenmoon: linear algebra puzzles by moonlight",
+      "url": "https://eigenmoon.vercel.app/",
+      "score": 25,
+      "comments": 7,
+      "author": "jessicarumbelow",
+      "tags": [],
+      "date": "2026-10-19T20:02:03+00:00"
+    },
+    {
       "id": "hn-50156779",
       "source": "hn",
       "title": "Show HN: Dovepass – can I legally fly a drone along this exact path in SF?",
@@ -1995,6 +2141,17 @@
       "author": "hans_castorp",
       "tags": [],
       "date": "2026-10-19T18:42:32+00:00"
+    },
+    {
+      "id": "hn-50155616",
+      "source": "hn",
+      "title": "The Robot I Didn't Expect to Build",
+      "url": "https://spectrum.ieee.org/agility-robotics-digit-5-redesign",
+      "score": 41,
+      "comments": 29,
+      "author": "bojackh",
+      "tags": [],
+      "date": "2026-10-19T17:57:18+00:00"
     },
     {
       "id": "hn-50155245",
@@ -2427,6 +2584,17 @@
       "author": "frizlab",
       "tags": [],
       "date": "2026-10-19T09:21:34+00:00"
+    },
+    {
+      "id": "hn-50150163",
+      "source": "hn",
+      "title": "What Is Gridifcation",
+      "url": "https://musicalform.substack.com/p/what-is-gridifcation",
+      "score": 131,
+      "comments": 40,
+      "author": "gumby",
+      "tags": [],
+      "date": "2026-10-19T09:13:12+00:00"
     },
     {
       "id": "qiita-76fcf53215",
@@ -5075,181 +5243,6 @@
       "date": "2026-10-16T16:07:27+09:00"
     },
     {
-      "id": "hn-50114766",
-      "source": "hn",
-      "title": "Beyond the Glass",
-      "url": "https://longreads.com/2026/10/15/mother-museum-skulls-grief-agni/",
-      "score": 8,
-      "comments": 1,
-      "author": "Petiver",
-      "tags": [],
-      "date": "2026-10-16T06:17:01+00:00"
-    },
-    {
-      "id": "hn-50114758",
-      "source": "hn",
-      "title": "Lean now ships with verified kernels",
-      "url": "https://leodemoura.github.io/blog/2026-10-15-lean-now-ships-with-verified-kernels/",
-      "score": 157,
-      "comments": 53,
-      "author": "matt_d",
-      "tags": [],
-      "date": "2026-10-16T06:16:13+00:00"
-    },
-    {
-      "id": "qiita-b24d883f46",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "エンジニアに情報漏えいは防げないのか？ ハッシュ化のコスト設計で「盗まれたあと」は変えられる",
-      "url": "https://qiita.com/shinkai_/items/aef2dec31922dbad3c0d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "shinkai_",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-10-16T14:37:48+09:00"
-    },
-    {
-      "id": "qiita-e32374264a",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "Select AI入門：多言語からAI Ready Data、SQL＋RAGまで整理してみてみた",
-      "url": "https://qiita.com/shirok/items/3661216f00cc9f5629cb?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "shirok",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-10-16T14:20:34+09:00"
-    },
-    {
-      "id": "hn-50114359",
-      "source": "hn",
-      "title": "Last rites for Gentoo's Chromium package",
-      "url": "https://lwn.net/Articles/1097760/",
-      "score": 43,
-      "comments": 18,
-      "author": "signa11",
-      "tags": [],
-      "date": "2026-10-16T05:14:42+00:00"
-    },
-    {
-      "id": "hn-50114342",
-      "source": "hn",
-      "title": "The Folders Programming Language",
-      "url": "https://danieltemkin.com/esolangs/folders",
-      "score": 125,
-      "comments": 20,
-      "author": "gurst",
-      "tags": [],
-      "date": "2026-10-16T05:11:28+00:00"
-    },
-    {
-      "id": "qiita-4b1b78adc8",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "Rust 1.99.1公開、FFIのbool戻り値問題が修正されました",
-      "url": "https://qiita.com/DwarfM42/items/4a7929f8912ae9aaca77?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "DwarfM42",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-10-16T13:43:49+09:00"
-    },
-    {
-      "id": "qiita-c2bbe9153a",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "老後の安全網が壊れていく ― 医療・介護と財源幻想 : システム設計視点の行動経済学 (41)",
-      "url": "https://qiita.com/maskot1977/items/611ba93e0feedb40dc43?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "maskot1977",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-10-16T12:06:27+09:00"
-    },
-    {
-      "id": "hn-50112963",
-      "source": "hn",
-      "title": "Woman arrested after blocking delivery robot in Center City Philadelphia",
-      "url": "https://6abc.com/post/woman-arrested-blocking-delivery-robot-center-city-philadelphia-confrontation/19941323/",
-      "score": 39,
-      "comments": 30,
-      "author": "snarky-comments",
-      "tags": [],
-      "date": "2026-10-16T02:04:26+00:00"
-    },
-    {
-      "id": "hn-50112887",
-      "source": "hn",
-      "title": "Comparing Chromium Development at Google and Igalia",
-      "url": "https://lwn.net/Articles/1094721/",
-      "score": 71,
-      "comments": 20,
-      "author": "signa11",
-      "tags": [],
-      "date": "2026-10-16T01:56:37+00:00"
-    },
-    {
-      "id": "hn-50112739",
-      "source": "hn",
-      "title": "Any window from your Mac, on your iPhone and iPad",
-      "url": "https://github.com/Saffsanity/sill",
-      "score": 193,
-      "comments": 48,
-      "author": "chanana",
-      "tags": [],
-      "date": "2026-10-16T01:43:17+00:00"
-    },
-    {
-      "id": "hn-50112657",
-      "source": "hn",
-      "title": "Tesla Roadster",
-      "url": "https://www.tesla.com/roadster",
-      "score": 1568,
-      "comments": 2843,
-      "author": "shekhar101",
-      "tags": [],
-      "date": "2026-10-16T01:32:45+00:00"
-    },
-    {
-      "id": "qiita-614e877c74",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "Grok Botを仕事の入口にする：Dots・Claude・CodexにつなぐUI/UXと運用設計",
-      "url": "https://qiita.com/noujiru/items/d56eacaf3e1e02be37b3?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "noujiru",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-10-16T10:06:13+09:00"
-    },
-    {
-      "id": "hn-50112331",
-      "source": "hn",
-      "title": "Thank You, Deno",
-      "url": "https://www.vlt.io/blog/competition-keeps-javascript-moving",
-      "score": 109,
-      "comments": 23,
-      "author": "jcbhmr",
-      "tags": [],
-      "date": "2026-10-16T00:52:40+00:00"
-    },
-    {
-      "id": "hn-50112330",
-      "source": "hn",
-      "title": "RPKI now protects 70% of internet routes",
-      "url": "https://ipinfo.io/blog/rpki-protects-70-internet-routes",
-      "score": 185,
-      "comments": 76,
-      "author": "emot",
-      "tags": [],
-      "date": "2026-10-16T00:52:35+00:00"
-    },
-    {
       "id": "ctf-4800242",
       "source": "project",
       "proj_category": "CTF",
@@ -5446,17 +5439,83 @@
       "date": "2023-05-23T17:06:23Z"
     },
     {
-      "id": "zenn-073b71044e",
+      "id": "zenn-e8938576f8",
       "source": "zennqiita",
       "sub_source": "Zenn",
-      "title": "エージェント用 IDE を3つ試して、今さら cmux を使い始めた",
-      "url": "https://zenn.dev/yoshi47/articles/cmux-after-agent-ides",
+      "title": "Hugo のビルドを just にまとめて、生成物の置き場で事故りました",
+      "url": "https://zenn.dev/fumika_676/articles/20220236284e11",
       "score": null,
-      "author": "yoshi47",
+      "author": "文殻",
       "tags": [
         "Zenn"
       ],
-      "date": "Thu, 22 Oct 2026 00:00:15 GMT"
+      "date": "Thu, 22 Oct 2026 07:58:08 GMT"
+    },
+    {
+      "id": "zenn-2113ea4a9c",
+      "source": "zennqiita",
+      "sub_source": "Zenn",
+      "title": "テニス解析をピックルボールに使ってみた：四隅の指定でコートの俯瞰表示を補う①",
+      "url": "https://zenn.dev/nauh_blog/articles/7f19a2f193d15d",
+      "score": null,
+      "author": "Ryuji Fujisawa",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Thu, 22 Oct 2026 06:31:34 GMT"
+    },
+    {
+      "id": "zenn-1918781ee8",
+      "source": "zennqiita",
+      "sub_source": "Zenn",
+      "title": "KMPデスクトップはAIエージェントに速いのか？検証してみる",
+      "url": "https://zenn.dev/shogo/articles/f847c35ea8dccb",
+      "score": null,
+      "author": "shogo.yamada",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Thu, 22 Oct 2026 05:46:57 GMT"
+    },
+    {
+      "id": "zenn-31d2e3c0f7",
+      "source": "zennqiita",
+      "sub_source": "Zenn",
+      "title": "巨大なGitリポジトリと戦う",
+      "url": "https://zenn.dev/spookies/articles/82112154145e4c",
+      "score": null,
+      "author": "スプーキーズ広報",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Thu, 22 Oct 2026 04:30:05 GMT"
+    },
+    {
+      "id": "zenn-6192aa503c",
+      "source": "zennqiita",
+      "sub_source": "Zenn",
+      "title": "脆弱性管理の仕組みを整えた",
+      "url": "https://zenn.dev/dress_code/articles/be5550254695cd",
+      "score": null,
+      "author": "anizozina",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Thu, 22 Oct 2026 01:30:07 GMT",
+      "severity": "high"
+    },
+    {
+      "id": "zenn-c2cef26b5b",
+      "source": "zennqiita",
+      "sub_source": "Zenn",
+      "title": "ghq と fzf でリポジトリ・ワークツリー間の移動を楽にする",
+      "url": "https://zenn.dev/tokium_dev/articles/ghq-fzf-navigation",
+      "score": null,
+      "author": "しょーさん",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Thu, 22 Oct 2026 01:00:00 GMT"
     },
     {
       "id": "zenn-89cd9f8fc3",
@@ -5486,6 +5545,19 @@
       "severity": "high"
     },
     {
+      "id": "zenn-8618c3ceee",
+      "source": "zennqiita",
+      "sub_source": "Zenn",
+      "title": "10月21日、PHP2Shell対応の後片付けが終わらない",
+      "url": "https://zenn.dev/subara3/articles/1165119ef70e75",
+      "score": null,
+      "author": "Subara3",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Wed, 21 Oct 2026 16:17:09 GMT"
+    },
+    {
       "id": "zenn-ecd1fbbbb0",
       "source": "zennqiita",
       "sub_source": "Zenn",
@@ -5499,45 +5571,6 @@
       "date": "Wed, 21 Oct 2026 10:05:42 GMT"
     },
     {
-      "id": "zenn-fe26777f45",
-      "source": "zennqiita",
-      "sub_source": "Zenn",
-      "title": "Claude Codeを「AIニュース係」にしたら、毎朝0円でSlackに届くようになった",
-      "url": "https://zenn.dev/edash_tech_blog/articles/3476d88801674d",
-      "score": null,
-      "author": "chin",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Wed, 21 Oct 2026 09:30:05 GMT"
-    },
-    {
-      "id": "zenn-ea1d829a54",
-      "source": "zennqiita",
-      "sub_source": "Zenn",
-      "title": "cronのclaude -pが\"ok\"だけで4万トークン——--safe-modeと--tools \"\"で98%削減",
-      "url": "https://zenn.dev/yosiki/articles/claude-p-cron-token-diet",
-      "score": null,
-      "author": "yosiki",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Wed, 21 Oct 2026 09:22:14 GMT"
-    },
-    {
-      "id": "zenn-00f04fafe1",
-      "source": "zennqiita",
-      "sub_source": "Zenn",
-      "title": "個人事業主が App Store の有料アプリ契約を有効にするまで。Apple は組織を選べず、私は納税フォームを2つ出した",
-      "url": "https://zenn.dev/hk_work/articles/sole-proprietor-app-store-paid-apps-agreement",
-      "score": null,
-      "author": "HIROKI KUROGI",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Wed, 21 Oct 2026 07:43:30 GMT"
-    },
-    {
       "id": "zenn-3120c9ea43",
       "source": "zennqiita",
       "sub_source": "Zenn",
@@ -5549,19 +5582,6 @@
         "Zenn"
       ],
       "date": "Wed, 21 Oct 2026 06:00:05 GMT"
-    },
-    {
-      "id": "zenn-71903a5b8a",
-      "source": "zennqiita",
-      "sub_source": "Zenn",
-      "title": "Amazon Bedrock Guardrails を AnswerCarefully で試してみた",
-      "url": "https://zenn.dev/aws_japan/articles/bedrock-guardrails-japanese-tier",
-      "score": null,
-      "author": "Yuta Okubo",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Wed, 21 Oct 2026 05:08:24 GMT"
     },
     {
       "id": "zenn-dacccd40e3",
@@ -5589,32 +5609,6 @@
         "Zenn"
       ],
       "date": "Wed, 21 Oct 2026 02:14:44 GMT"
-    },
-    {
-      "id": "zenn-f9505a2ffa",
-      "source": "zennqiita",
-      "sub_source": "Zenn",
-      "title": "Devinに問い合わせ調査を任せて見えてきた「原因未特定」の正体。過去の約700件を分類してみた",
-      "url": "https://zenn.dev/canly/articles/9c19bb123e208c",
-      "score": null,
-      "author": "ddd",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Wed, 21 Oct 2026 01:10:05 GMT"
-    },
-    {
-      "id": "zenn-6196fc3ef4",
-      "source": "zennqiita",
-      "sub_source": "Zenn",
-      "title": "バイブコーディングを6週間続けたら、Mac の起動が20分かかるようになった",
-      "url": "https://zenn.dev/singularity/articles/vibe-coding-mac-boot-20min",
-      "score": null,
-      "author": "Isamu",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Tue, 20 Oct 2026 09:15:46 GMT"
     },
     {
       "id": "zenn-71d38c3798",

@@ -1,7 +1,87 @@
 {
-  "updated_at": "2026-10-21T23:31:31.500484+00:00",
+  "updated_at": "2026-10-22T03:28:13.562298+00:00",
   "count": 500,
   "items": [
+    {
+      "id": "hn-50190455",
+      "source": "hn",
+      "title": "The recently proposed o(n log n) integer multiplication algorithm [pdf]",
+      "url": "https://web.maths.unsw.edu.au/~davidharvey/research/subnlogn.pdf",
+      "score": 29,
+      "comments": 15,
+      "author": "craigcitro",
+      "tags": [],
+      "date": "2026-10-22T02:30:52+00:00"
+    },
+    {
+      "id": "hn-50190334",
+      "source": "hn",
+      "title": "LLM Agents Play Pokemon Showdown",
+      "url": "https://olivergrabner.com/research/pokemon/",
+      "score": 13,
+      "comments": 10,
+      "author": "grabnero",
+      "tags": [],
+      "date": "2026-10-22T02:13:48+00:00"
+    },
+    {
+      "id": "hn-50190168",
+      "source": "hn",
+      "title": "Epic vs. Apple AU:Court Orders Alt App Stores,Sideloading and 3rd Party Payments",
+      "url": "https://www.judgments.fedcourt.gov.au/judgments/Judgments/fca/single/2026/2026fca1552",
+      "score": 53,
+      "comments": 14,
+      "author": "Mayzie",
+      "tags": [],
+      "date": "2026-10-22T01:52:03+00:00"
+    },
+    {
+      "id": "qiita-a8d81e1728",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "はじめてのインデータベースAI～ベクトル検索・RAGからAIエージェントまで～",
+      "url": "https://qiita.com/yuji-arakawa/items/1df29b844478f9df5960?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "yuji-arakawa",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-10-22T10:40:13+09:00"
+    },
+    {
+      "id": "hn-50189232",
+      "source": "hn",
+      "title": "mitmproxy adds --emudhra option",
+      "url": "https://github.com/mitmproxy/mitmproxy/commit/169234499088fc2c414644a67efaed3d64ae2e3b",
+      "score": 289,
+      "comments": 75,
+      "author": "ahlCVA",
+      "tags": [],
+      "date": "2026-10-21T23:51:37+00:00"
+    },
+    {
+      "id": "hn-50188948",
+      "source": "hn",
+      "title": "There isn't an easy exploit for this PHP vulnerability",
+      "url": "https://eliastaylor.com/noexploit/",
+      "score": 241,
+      "comments": 118,
+      "author": "zkldi",
+      "tags": [],
+      "date": "2026-10-21T23:13:27+00:00",
+      "severity": "high"
+    },
+    {
+      "id": "hn-50188614",
+      "source": "hn",
+      "title": "Postgres recovery_prefetch can cause outages",
+      "url": "https://ardentperf.com/2026/10/20/postgres-recovery_prefetch-considered-harmful-and-causing-outages/",
+      "score": 5,
+      "comments": 0,
+      "author": "plaur782",
+      "tags": [],
+      "date": "2026-10-21T22:33:08+00:00"
+    },
     {
       "id": "qiita-6e7aae775b",
       "source": "zennqiita",
@@ -18,10 +98,10 @@
     {
       "id": "hn-50188228",
       "source": "hn",
-      "title": "Railway Security Disclosure",
+      "title": "Security Disclosure",
       "url": "https://blog.railway.com/p/security-disclosure-wednesday-october-21st",
-      "score": 198,
-      "comments": 79,
+      "score": 350,
+      "comments": 195,
       "author": "passenger",
       "tags": [],
       "date": "2026-10-21T21:58:03+00:00"
@@ -107,10 +187,10 @@
     {
       "id": "hn-50186010",
       "source": "hn",
-      "title": "Google's Rust Style Guide",
+      "title": "Rust Style Guide",
       "url": "https://google.github.io/styleguide/rustguide.html",
-      "score": 150,
-      "comments": 96,
+      "score": 235,
+      "comments": 125,
       "author": "kaycebasques",
       "tags": [],
       "date": "2026-10-21T19:11:57+00:00"
@@ -120,8 +200,8 @@
       "source": "hn",
       "title": "GitLab Critical Patch Release",
       "url": "https://docs.gitlab.com/releases/patches/patch-release-gitlab-19-5-1-released/",
-      "score": 207,
-      "comments": 47,
+      "score": 264,
+      "comments": 65,
       "author": "artooro",
       "tags": [],
       "date": "2026-10-21T19:01:12+00:00",
@@ -154,8 +234,8 @@
       "source": "hn",
       "title": "Meta ordered to pay $25B penalty in New Mexico Cambridge Analytica case",
       "url": "https://www.cnbc.com/2026/10/21/meta-new-mexico-cambridge-analytica-penalty.html",
-      "score": 298,
-      "comments": 177,
+      "score": 418,
+      "comments": 271,
       "author": "cbg0",
       "tags": [],
       "date": "2026-10-21T17:45:13+00:00"
@@ -170,6 +250,18 @@
       "author": "aaronbrethorst",
       "tags": [],
       "date": "2026-10-21T17:29:33+00:00"
+    },
+    {
+      "id": "hn-50183892",
+      "source": "hn",
+      "title": "Show HN: Omnara – Open-source alternative to Claude Managed Agents",
+      "url": "https://github.com/omnara-ai/omnara",
+      "score": 31,
+      "comments": 10,
+      "author": "kmansm27",
+      "tags": [],
+      "date": "2026-10-21T16:44:53+00:00",
+      "severity": "critical"
     },
     {
       "id": "hn-50183512",
@@ -198,8 +290,8 @@
       "source": "hn",
       "title": "Today's PHP security release, and how we're strengthening security",
       "url": "https://thephp.foundation/blog/2026/10/21/todays-php-security-release-and-how-were-strengthening-php-security/",
-      "score": 632,
-      "comments": 311,
+      "score": 694,
+      "comments": 343,
       "author": "ejohnso49",
       "tags": [],
       "date": "2026-10-21T15:48:56+00:00"
@@ -267,8 +359,8 @@
       "source": "hn",
       "title": "DuckDB 2.0.0 LTS “Cinnamon Teal”",
       "url": "https://duckdb.org/2026/10/21/announcing-duckdb-200",
-      "score": 350,
-      "comments": 43,
+      "score": 381,
+      "comments": 49,
       "author": "nnx",
       "tags": [],
       "date": "2026-10-21T14:01:22+00:00"
@@ -278,8 +370,8 @@
       "source": "hn",
       "title": "Compromised LiteLLM 1.107.0 on PyPI Installs a Credential Stealer and Backdoor",
       "url": "https://safedep.io/litellm-pypi-compromise-credential-stealer-backdoor/",
-      "score": 405,
-      "comments": 126,
+      "score": 455,
+      "comments": 153,
       "author": "abhisek",
       "tags": [],
       "date": "2026-10-21T14:00:26+00:00"
@@ -319,6 +411,17 @@
       "severity": "critical"
     },
     {
+      "id": "hn-50180799",
+      "source": "hn",
+      "title": "I reverse engineered a board game",
+      "url": "https://wuemeli.com/blog/reversing-hitster-game/",
+      "score": 6,
+      "comments": 0,
+      "author": "wuemeli",
+      "tags": [],
+      "date": "2026-10-21T13:40:31+00:00"
+    },
+    {
       "id": "hn-50180752",
       "source": "hn",
       "title": "Using thousands of AI agents to uncover new leads in biological data",
@@ -345,8 +448,8 @@
       "source": "hn",
       "title": "OpenAI models are coming to Google Cloud",
       "url": "https://openai.com/index/openai-models-google-cloud/",
-      "score": 212,
-      "comments": 93,
+      "score": 253,
+      "comments": 107,
       "author": "armcat",
       "tags": [],
       "date": "2026-10-21T12:53:11+00:00"
@@ -455,19 +558,6 @@
       "date": "2026-10-21T16:47:04+09:00"
     },
     {
-      "id": "qiita-a8d81e1728",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "はじめてのインデータベースAI～ベクトル検索・RAGからAIエージェントまで～",
-      "url": "https://qiita.com/yuji-arakawa/items/1df29b844478f9df5960?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "yuji-arakawa",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-10-21T16:34:15+09:00"
-    },
-    {
       "id": "qiita-f65b2be9c5",
       "source": "zennqiita",
       "sub_source": "Qiita",
@@ -523,6 +613,17 @@
       "author": "xamrayev",
       "tags": [],
       "date": "2026-10-21T04:37:18+00:00"
+    },
+    {
+      "id": "hn-50176082",
+      "source": "hn",
+      "title": "Using LLM for confidence scoring is a bad idea",
+      "url": "https://rumple.github.io/blog/2026/10/20/asking-llm-for-confidence.html",
+      "score": 16,
+      "comments": 4,
+      "author": "jimauthors",
+      "tags": [],
+      "date": "2026-10-21T04:27:51+00:00"
     },
     {
       "id": "hn-50176077",
@@ -777,6 +878,17 @@
       "date": "2026-10-21T07:58:14+09:00"
     },
     {
+      "id": "hn-50173716",
+      "source": "hn",
+      "title": "PingCap TiDB Leaks",
+      "url": "https://fulcrumsec.vg/pingcap/",
+      "score": 241,
+      "comments": 35,
+      "author": "swyx",
+      "tags": [],
+      "date": "2026-10-20T22:45:39+00:00"
+    },
+    {
       "id": "qiita-af67bf3bd7",
       "source": "zennqiita",
       "sub_source": "Qiita",
@@ -964,6 +1076,17 @@
       "date": "2026-10-20T15:59:06+00:00"
     },
     {
+      "id": "hn-50168142",
+      "source": "hn",
+      "title": "Show HN: AI-built browser games, collected in one place",
+      "url": "https://playgroundarcade.com/",
+      "score": 7,
+      "comments": 0,
+      "author": "richleigh",
+      "tags": [],
+      "date": "2026-10-20T15:45:56+00:00"
+    },
+    {
       "id": "hn-50168096",
       "source": "hn",
       "title": "IKEA – 3D Guide",
@@ -1041,6 +1164,17 @@
       "author": "zinxq",
       "tags": [],
       "date": "2026-10-20T14:13:49+00:00"
+    },
+    {
+      "id": "hn-50166590",
+      "source": "hn",
+      "title": "Beyond the &",
+      "url": "https://lwn.net/Articles/1096028/",
+      "score": 24,
+      "comments": 0,
+      "author": "PaulHoule",
+      "tags": [],
+      "date": "2026-10-20T13:59:11+00:00"
     },
     {
       "id": "hn-50166579",
@@ -1227,8 +1361,8 @@
       "source": "hn",
       "title": "Tiny possum and glider thought extinct for 6000 years found in remote West Papua",
       "url": "https://www.bbc.com/news/articles/cp814l80pw2o",
-      "score": 136,
-      "comments": 25,
+      "score": 163,
+      "comments": 26,
       "author": "bryanrasmussen",
       "tags": [],
       "date": "2026-10-20T06:20:54+00:00"
@@ -1236,10 +1370,10 @@
     {
       "id": "hn-50161346",
       "source": "hn",
-      "title": "No More Icons in Every Menu by Default",
+      "title": "No more icons in every menu by default",
       "url": "https://blog.jim-nielsen.com/2026/icons-in-every-menu/",
-      "score": 110,
-      "comments": 80,
+      "score": 208,
+      "comments": 147,
       "author": "riffraff",
       "tags": [],
       "date": "2026-10-20T04:27:08+00:00"
@@ -1445,8 +1579,8 @@
       "source": "hn",
       "title": "Why Windows 11 still ships with Windows 95's memory manager hidden inside it",
       "url": "https://www.windowslatest.com/2026/10/19/why-windows-11-still-ships-with-windows-95s-memory-manager-hidden-inside-it/",
-      "score": 115,
-      "comments": 79,
+      "score": 148,
+      "comments": 101,
       "author": "khalidkhair",
       "tags": [],
       "date": "2026-10-20T00:14:03+00:00"
@@ -1711,6 +1845,17 @@
       "date": "2026-10-19T16:16:46+00:00"
     },
     {
+      "id": "hn-50154100",
+      "source": "hn",
+      "title": "Chain of Thought for Humans",
+      "url": "https://www.boristhebrave.com/2026/10/18/chain-of-thought-for-humans/",
+      "score": 44,
+      "comments": 20,
+      "author": "ibobev",
+      "tags": [],
+      "date": "2026-10-19T16:06:22+00:00"
+    },
+    {
       "id": "hn-50153664",
       "source": "hn",
       "title": "Ukraine claims first drone evacuation of wounded soldier",
@@ -1737,8 +1882,8 @@
       "source": "hn",
       "title": "Code is clay now",
       "url": "https://www.albertodenia.com/writing/code-is-clay-now",
-      "score": 57,
-      "comments": 26,
+      "score": 110,
+      "comments": 57,
       "author": "albertodenia",
       "tags": [],
       "date": "2026-10-19T15:19:45+00:00"
@@ -5710,201 +5855,6 @@
       ],
       "severity": "high",
       "date": "Wed, 21 Oct 2026 00:00:00 +0000"
-    },
-    {
-      "id": "edb-a7d3f549ab",
-      "source": "msf",
-      "title": "[remote] Synametrics Syncrify 6.2 - command execution",
-      "url": "https://www.exploit-db.com/exploits/52700",
-      "score": null,
-      "author": "Exploit-DB",
-      "tags": [
-        "Exploit-DB",
-        "CVE",
-        "PoC"
-      ],
-      "severity": "high",
-      "date": "Wed, 21 Oct 2026 00:00:00 +0000"
-    },
-    {
-      "id": "edb-b98eb3e200",
-      "source": "msf",
-      "title": "[webapps] Keycloak  26.7.2 - Unauthenticated Account Takeover",
-      "url": "https://www.exploit-db.com/exploits/52699",
-      "score": null,
-      "author": "Exploit-DB",
-      "tags": [
-        "Exploit-DB",
-        "CVE",
-        "PoC"
-      ],
-      "severity": "high",
-      "date": "Wed, 21 Oct 2026 00:00:00 +0000"
-    },
-    {
-      "id": "edb-54a48e2297",
-      "source": "msf",
-      "title": "[webapps] Open eClass 3.15 - RCE",
-      "url": "https://www.exploit-db.com/exploits/52698",
-      "score": null,
-      "author": "Exploit-DB",
-      "tags": [
-        "Exploit-DB",
-        "CVE",
-        "PoC"
-      ],
-      "severity": "high",
-      "date": "Wed, 21 Oct 2026 00:00:00 +0000"
-    },
-    {
-      "id": "edb-e146ba40ae",
-      "source": "msf",
-      "title": "[webapps] Automotive Shop Management System 1.0 - SQLi",
-      "url": "https://www.exploit-db.com/exploits/52697",
-      "score": null,
-      "author": "Exploit-DB",
-      "tags": [
-        "Exploit-DB",
-        "CVE",
-        "PoC"
-      ],
-      "severity": "high",
-      "date": "Wed, 21 Oct 2026 00:00:00 +0000"
-    },
-    {
-      "id": "edb-51f225d0d7",
-      "source": "msf",
-      "title": "[remote] Edimax BR-6478AC firmware v2.20 - authenticated command injection",
-      "url": "https://www.exploit-db.com/exploits/52696",
-      "score": null,
-      "author": "Exploit-DB",
-      "tags": [
-        "Exploit-DB",
-        "CVE",
-        "PoC"
-      ],
-      "severity": "high",
-      "date": "Wed, 21 Oct 2026 00:00:00 +0000"
-    },
-    {
-      "id": "edb-f3dfe632fc",
-      "source": "msf",
-      "title": "[remote] Exasol Database 7.1.30 - command execution",
-      "url": "https://www.exploit-db.com/exploits/52695",
-      "score": null,
-      "author": "Exploit-DB",
-      "tags": [
-        "Exploit-DB",
-        "CVE",
-        "PoC"
-      ],
-      "severity": "high",
-      "date": "Wed, 21 Oct 2026 00:00:00 +0000"
-    },
-    {
-      "id": "edb-ec2339e74b",
-      "source": "msf",
-      "title": "[remote] Parasoft Continuous Testing Platform 10.7.5 - JSP command execution",
-      "url": "https://www.exploit-db.com/exploits/52694",
-      "score": null,
-      "author": "Exploit-DB",
-      "tags": [
-        "Exploit-DB",
-        "CVE",
-        "PoC"
-      ],
-      "severity": "high",
-      "date": "Wed, 21 Oct 2026 00:00:00 +0000"
-    },
-    {
-      "id": "edb-ed5beccae6",
-      "source": "msf",
-      "title": "[remote] ProSoft RLX-IFH24E v2.2.44 - Unsigned Firmware Upgrade Package Executed as Root",
-      "url": "https://www.exploit-db.com/exploits/52693",
-      "score": null,
-      "author": "Exploit-DB",
-      "tags": [
-        "Exploit-DB",
-        "CVE",
-        "PoC"
-      ],
-      "severity": "high",
-      "date": "Wed, 21 Oct 2026 00:00:00 +0000"
-    },
-    {
-      "id": "edb-1d1e868d62",
-      "source": "msf",
-      "title": "[remote] Teltonika_RutOS 00.07.06.21 - command injection",
-      "url": "https://www.exploit-db.com/exploits/52692",
-      "score": null,
-      "author": "Exploit-DB",
-      "tags": [
-        "Exploit-DB",
-        "CVE",
-        "PoC"
-      ],
-      "severity": "high",
-      "date": "Thu, 01 Oct 2026 00:00:00 +0000"
-    },
-    {
-      "id": "edb-9a18a29222",
-      "source": "msf",
-      "title": "[webapps] TigerGraph_Community_Edition 4.2.4  - arbitrary file write",
-      "url": "https://www.exploit-db.com/exploits/52691",
-      "score": null,
-      "author": "Exploit-DB",
-      "tags": [
-        "Exploit-DB",
-        "CVE",
-        "PoC"
-      ],
-      "severity": "high",
-      "date": "Thu, 01 Oct 2026 00:00:00 +0000"
-    },
-    {
-      "id": "edb-61a0fedcbd",
-      "source": "msf",
-      "title": "[webapps] WordPress 7.0.2 - Path Travesal",
-      "url": "https://www.exploit-db.com/exploits/52690",
-      "score": null,
-      "author": "Exploit-DB",
-      "tags": [
-        "Exploit-DB",
-        "CVE",
-        "PoC"
-      ],
-      "severity": "high",
-      "date": "Thu, 01 Oct 2026 00:00:00 +0000"
-    },
-    {
-      "id": "edb-0b1205466b",
-      "source": "msf",
-      "title": "[webapps] Food-Ordering 1.0  -  LFI",
-      "url": "https://www.exploit-db.com/exploits/52689",
-      "score": null,
-      "author": "Exploit-DB",
-      "tags": [
-        "Exploit-DB",
-        "CVE",
-        "PoC"
-      ],
-      "severity": "high",
-      "date": "Thu, 01 Oct 2026 00:00:00 +0000"
-    },
-    {
-      "id": "edb-2697d2959e",
-      "source": "msf",
-      "title": "[remote] Ecava_ntegraXor  IGX_16.0.701.10 - RCE",
-      "url": "https://www.exploit-db.com/exploits/52688",
-      "score": null,
-      "author": "Exploit-DB",
-      "tags": [
-        "Exploit-DB",
-        "CVE",
-        "PoC"
-      ],
-      "severity": "high",
-      "date": "Thu, 01 Oct 2026 00:00:00 +0000"
     }
   ]
 }

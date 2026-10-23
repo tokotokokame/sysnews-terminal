@@ -1,25 +1,69 @@
 {
-  "updated_at": "2026-10-22T22:07:23.880224+00:00",
+  "updated_at": "2026-10-23T00:49:12.949643+00:00",
   "count": 500,
   "items": [
+    {
+      "id": "hn-50202766",
+      "source": "hn",
+      "title": "Mapping the Northern Sky",
+      "url": "https://www.maps.com/star-map-charts-stars-and-constellations-of-northern-hemisphere/",
+      "score": 7,
+      "comments": 0,
+      "author": "tmseidman",
+      "tags": [],
+      "date": "2026-10-22T23:56:39+00:00"
+    },
+    {
+      "id": "hn-50202681",
+      "source": "hn",
+      "title": "Docker Is Weird",
+      "url": "https://codeandcake.dev/posts/2026-10-22-docker-is-weird",
+      "score": 32,
+      "comments": 13,
+      "author": "psxuaw",
+      "tags": [],
+      "date": "2026-10-22T23:45:56+00:00"
+    },
+    {
+      "id": "hn-50202217",
+      "source": "hn",
+      "title": "LLMs are making formal software verification feasible at a much larger scale",
+      "url": "https://www.anthropic.com/research/formal-verification",
+      "score": 63,
+      "comments": 22,
+      "author": "johnbender",
+      "tags": [],
+      "date": "2026-10-22T22:54:43+00:00"
+    },
     {
       "id": "hn-50201414",
       "source": "hn",
       "title": "Railpass",
       "url": "https://train.samismith.com/",
-      "score": 5,
-      "comments": 3,
+      "score": 38,
+      "comments": 9,
       "author": "CharlesW",
       "tags": [],
       "date": "2026-10-22T21:38:32+00:00"
+    },
+    {
+      "id": "hn-50201259",
+      "source": "hn",
+      "title": "Jared Kushner Hacked Phone Reveals Secret Negotiations, Millions in Transactions",
+      "url": "https://www.vanityfair.com/story/jared-kushner-hacked-phone-secret-negotiations",
+      "score": 282,
+      "comments": 118,
+      "author": "ck2",
+      "tags": [],
+      "date": "2026-10-22T21:24:41+00:00"
     },
     {
       "id": "hn-50199389",
       "source": "hn",
       "title": "Hedra is a 3D open world game I wrote from scratch while in highschool",
       "url": "https://github.com/maxilevi/project-hedra/tree/pre-ai",
-      "score": 78,
-      "comments": 17,
+      "score": 119,
+      "comments": 28,
       "author": "maxilevi",
       "tags": [],
       "date": "2026-10-22T18:44:36+00:00"
@@ -40,8 +84,8 @@
       "source": "hn",
       "title": "AI and the Enclosure of the Scientific Commons",
       "url": "https://arxiv.org/abs/2610.27251",
-      "score": 75,
-      "comments": 40,
+      "score": 105,
+      "comments": 61,
       "author": "jrepinc",
       "tags": [],
       "date": "2026-10-22T18:28:16+00:00"
@@ -73,8 +117,8 @@
       "source": "hn",
       "title": "OpenShell – A safe, private runtime for fleets of autonomous AI agents",
       "url": "https://github.com/NVIDIA/OpenShell",
-      "score": 225,
-      "comments": 120,
+      "score": 287,
+      "comments": 147,
       "author": "niemandhier",
       "tags": [],
       "date": "2026-10-22T17:44:06+00:00"
@@ -106,8 +150,8 @@
       "source": "hn",
       "title": "Getting ready to operate GNU Taler in Germany",
       "url": "https://www.taler.net/en/news/2026-13.html",
-      "score": 175,
-      "comments": 61,
+      "score": 221,
+      "comments": 84,
       "author": "dewey",
       "tags": [],
       "date": "2026-10-22T16:14:31+00:00"
@@ -117,8 +161,8 @@
       "source": "hn",
       "title": "Every AI model has the same \"controversial\" take on humans",
       "url": "https://www.modelcompare.ai/blog/ai-models-controversial-take-on-humans",
-      "score": 115,
-      "comments": 150,
+      "score": 222,
+      "comments": 270,
       "author": "rakannimer",
       "tags": [],
       "date": "2026-10-22T16:08:00+00:00"
@@ -137,10 +181,10 @@
     {
       "id": "hn-50196718",
       "source": "hn",
-      "title": "Show HN: Run full iOS 16.5 firmware on Android Devices",
+      "title": "Run full iOS 16.5 firmware on Android Devices",
       "url": "https://github.com/oosexgang/hackios-xnu-kernel",
-      "score": 269,
-      "comments": 97,
+      "score": 318,
+      "comments": 120,
       "author": "aghuang",
       "tags": [],
       "date": "2026-10-22T15:26:22+00:00"
@@ -176,8 +220,8 @@
       "source": "hn",
       "title": "Quad9 (DNS Resolver) to Exit France",
       "url": "https://quad9.net/news/blog/au-revoir-france/",
-      "score": 829,
-      "comments": 310,
+      "score": 973,
+      "comments": 351,
       "author": "farrokhi",
       "tags": [],
       "date": "2026-10-22T14:32:38+00:00"
@@ -209,8 +253,8 @@
       "source": "hn",
       "title": "eMudhra to exit global SSL/TLS certificate business",
       "url": "https://emudhra.com/en/press-release/emudhra-to-exit-global-ssl-tls-certificate-business",
-      "score": 861,
-      "comments": 594,
+      "score": 914,
+      "comments": 623,
       "author": "bo0tzz",
       "tags": [],
       "date": "2026-10-22T13:33:39+00:00"
@@ -244,8 +288,8 @@
       "source": "hn",
       "title": "Woman faces six years in prison over Cash App account she never opened",
       "url": "https://www.techspot.com/news/114296-woman-spends-three-nights-jail-faces-six-years.html",
-      "score": 344,
-      "comments": 324,
+      "score": 469,
+      "comments": 484,
       "author": "oidar",
       "tags": [],
       "date": "2026-10-22T13:11:00+00:00"
@@ -313,8 +357,8 @@
       "source": "hn",
       "title": "Xbox wants you to pay 24 to 40 cents per hour to stream games you bought",
       "url": "https://arstechnica.com/gaming/2026/10/xbox-wants-you-to-pay-24-to-40-cents-per-hour-to-stream-games-you-already-bought/",
-      "score": 133,
-      "comments": 164,
+      "score": 194,
+      "comments": 197,
       "author": "entryleveljobsc",
       "tags": [],
       "date": "2026-10-22T11:42:03+00:00"
@@ -377,8 +421,8 @@
       "source": "hn",
       "title": "Faster than earcut: triangulating 3.7M map polygons in 489 ms",
       "url": "https://globus.software/blog/2026/10/16/cutting-map-polygons/",
-      "score": 188,
-      "comments": 36,
+      "score": 199,
+      "comments": 38,
       "author": "molind",
       "tags": [],
       "date": "2026-10-22T09:31:18+00:00"
@@ -413,8 +457,8 @@
       "source": "hn",
       "title": "Jailbreaking the Switch 2",
       "url": "https://pepsipu.com/blog/2026-10-switch2-jailbreak-ns2jb/",
-      "score": 652,
-      "comments": 231,
+      "score": 704,
+      "comments": 246,
       "author": "ledoge",
       "tags": [],
       "date": "2026-10-22T08:01:52+00:00"
@@ -1032,8 +1076,8 @@
       "source": "hn",
       "title": "Show HN: Uberblok – an interactive museum of ZFS internals",
       "url": "https://uberblok.storagebits.workers.dev/",
-      "score": 36,
-      "comments": 7,
+      "score": 72,
+      "comments": 20,
       "author": "storagebits",
       "tags": [],
       "date": "2026-10-21T13:04:25+00:00"
@@ -1708,6 +1752,17 @@
       "severity": "critical"
     },
     {
+      "id": "hn-50168850",
+      "source": "hn",
+      "title": "Color Names",
+      "url": "https://names.color.pizza",
+      "score": 4,
+      "comments": 1,
+      "author": "akkartik",
+      "tags": [],
+      "date": "2026-10-20T16:27:56+00:00"
+    },
+    {
       "id": "hn-50168396",
       "source": "hn",
       "title": "Voxtral 3",
@@ -1829,6 +1884,17 @@
       "author": "zinxq",
       "tags": [],
       "date": "2026-10-20T14:13:49+00:00"
+    },
+    {
+      "id": "hn-50166604",
+      "source": "hn",
+      "title": "How to Design Flowers",
+      "url": "https://www.asimov.press/p/flowers",
+      "score": 13,
+      "comments": 2,
+      "author": "surprisetalk",
+      "tags": [],
+      "date": "2026-10-20T14:00:07+00:00"
     },
     {
       "id": "hn-50166590",
@@ -2592,8 +2658,8 @@
       "source": "hn",
       "title": "Dungeon Generation in the Gnomish Mines of NetHack",
       "url": "https://www.boristhebrave.com/2026/10/18/dungeon-generation-in-the-gnomish-mines-of-nethack/",
-      "score": 100,
-      "comments": 12,
+      "score": 120,
+      "comments": 14,
       "author": "ibobev",
       "tags": [],
       "date": "2026-10-19T16:06:40+00:00"
@@ -2919,6 +2985,17 @@
       "date": "2026-10-19T10:53:39+00:00"
     },
     {
+      "id": "hn-50150681",
+      "source": "hn",
+      "title": "Speeding up code review with `small-change`",
+      "url": "https://lethain.com/small-changes/",
+      "score": 19,
+      "comments": 10,
+      "author": "alexmolas",
+      "tags": [],
+      "date": "2026-10-19T10:35:14+00:00"
+    },
+    {
       "id": "hn-50150434",
       "source": "hn",
       "title": "Timestral: Mistral's time-series foundation models",
@@ -2958,8 +3035,8 @@
       "source": "hn",
       "title": "What Is Gridifcation",
       "url": "https://musicalform.substack.com/p/what-is-gridifcation",
-      "score": 367,
-      "comments": 182,
+      "score": 396,
+      "comments": 198,
       "author": "gumby",
       "tags": [],
       "date": "2026-10-19T09:13:12+00:00"
@@ -5154,83 +5231,6 @@
       "date": "2026-10-16T18:00:18+00:00"
     },
     {
-      "id": "hn-50121834",
-      "source": "hn",
-      "title": "Credit where credit is due",
-      "url": "https://thefloatingcontinent.com/blog/credit-is-due/",
-      "score": 54,
-      "comments": 34,
-      "author": "evakhoury",
-      "tags": [],
-      "date": "2026-10-16T17:53:05+00:00"
-    },
-    {
-      "id": "hn-50121601",
-      "source": "hn",
-      "title": "GifCities",
-      "url": "https://gifcities.org/",
-      "score": 47,
-      "comments": 5,
-      "author": "augury",
-      "tags": [],
-      "date": "2026-10-16T17:35:07+00:00"
-    },
-    {
-      "id": "hn-50121506",
-      "source": "hn",
-      "title": "The First Candid",
-      "url": "https://www.newyorker.com/magazine/2026/10/19/the-first-candid",
-      "score": 46,
-      "comments": 10,
-      "author": "Thevet",
-      "tags": [],
-      "date": "2026-10-16T17:28:19+00:00"
-    },
-    {
-      "id": "hn-50121188",
-      "source": "hn",
-      "title": "Piramidal (YC W24) Is Hiring",
-      "url": "https://job-boards.greenhouse.io/piramidalinc/jobs/4443102009",
-      "score": 1,
-      "comments": 0,
-      "author": "dsacellarius",
-      "tags": [],
-      "date": "2026-10-16T17:08:55+00:00"
-    },
-    {
-      "id": "hn-50121179",
-      "source": "hn",
-      "title": "90% of US working hours are spent on tasks not covered well by AI benchmarks",
-      "url": "https://www.mercor.com/research/labor-index/benchmark-map/",
-      "score": 544,
-      "comments": 475,
-      "author": "speckx",
-      "tags": [],
-      "date": "2026-10-16T17:08:38+00:00"
-    },
-    {
-      "id": "hn-50121004",
-      "source": "hn",
-      "title": "/dev/null: social network for developers",
-      "url": "https://dev-null.sh",
-      "score": 126,
-      "comments": 111,
-      "author": "mnapoli",
-      "tags": [],
-      "date": "2026-10-16T16:57:49+00:00"
-    },
-    {
-      "id": "hn-50120664",
-      "source": "hn",
-      "title": "Desire to Move Permanently to U.S. at New Low",
-      "url": "https://news.gallup.com/poll/708614/desire-migrate-drops-new-low.aspx",
-      "score": 130,
-      "comments": 97,
-      "author": "karakoram",
-      "tags": [],
-      "date": "2026-10-16T16:38:02+00:00"
-    },
-    {
       "id": "ctf-4800242",
       "source": "project",
       "proj_category": "CTF",
@@ -5427,17 +5427,57 @@
       "date": "2023-05-23T17:06:23Z"
     },
     {
-      "id": "zenn-e8938576f8",
+      "id": "zenn-a00129d7b1",
       "source": "zennqiita",
       "sub_source": "Zenn",
-      "title": "Hugo のビルドを just にまとめて、生成物の置き場で事故りました",
-      "url": "https://zenn.dev/fumika_676/articles/20220236284e11",
+      "title": "Node.jsの2026年10月セキュリティリリースに、手元の50リポジトリとVercel・Cloud Runで対応した",
+      "url": "https://zenn.dev/yoshinani_dev/articles/0e6513a56eb629",
       "score": null,
-      "author": "文殻",
+      "author": "ひょうどう",
       "tags": [
         "Zenn"
       ],
-      "date": "Thu, 22 Oct 2026 07:58:08 GMT"
+      "date": "Thu, 22 Oct 2026 17:52:59 GMT",
+      "severity": "critical"
+    },
+    {
+      "id": "zenn-fd184ac0f6",
+      "source": "zennqiita",
+      "sub_source": "Zenn",
+      "title": "Claude CodeやCodexで並列開発していたら、Macのストレージが残り8GBになったので掃除した",
+      "url": "https://zenn.dev/yoshinani_dev/articles/0c17dec1c082a1",
+      "score": null,
+      "author": "ひょうどう",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Thu, 22 Oct 2026 17:21:33 GMT"
+    },
+    {
+      "id": "zenn-cbe4d9549d",
+      "source": "zennqiita",
+      "sub_source": "Zenn",
+      "title": "自宅サーバーの定期バックアップの失敗に気付かなかった話",
+      "url": "https://zenn.dev/komorebi_note/articles/d9df64e7e1da82",
+      "score": null,
+      "author": "こもれび｜インフラ勉強中",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Thu, 22 Oct 2026 13:11:28 GMT"
+    },
+    {
+      "id": "zenn-acfd0e3c54",
+      "source": "zennqiita",
+      "sub_source": "Zenn",
+      "title": "Rootless Dockerと学ぶSELinux【初心者向け】",
+      "url": "https://zenn.dev/nexryai/articles/afb828d7dda6b7",
+      "score": null,
+      "author": "nexryai",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Thu, 22 Oct 2026 11:50:59 GMT"
     },
     {
       "id": "zenn-2113ea4a9c",
@@ -5466,19 +5506,6 @@
       "date": "Thu, 22 Oct 2026 05:46:57 GMT"
     },
     {
-      "id": "zenn-31d2e3c0f7",
-      "source": "zennqiita",
-      "sub_source": "Zenn",
-      "title": "巨大なGitリポジトリと戦う",
-      "url": "https://zenn.dev/spookies/articles/82112154145e4c",
-      "score": null,
-      "author": "スプーキーズ広報",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Thu, 22 Oct 2026 04:30:05 GMT"
-    },
-    {
       "id": "zenn-6192aa503c",
       "source": "zennqiita",
       "sub_source": "Zenn",
@@ -5493,17 +5520,17 @@
       "severity": "high"
     },
     {
-      "id": "zenn-c2cef26b5b",
+      "id": "zenn-073b71044e",
       "source": "zennqiita",
       "sub_source": "Zenn",
-      "title": "ghq と fzf でリポジトリ・ワークツリー間の移動を楽にする",
-      "url": "https://zenn.dev/tokium_dev/articles/ghq-fzf-navigation",
+      "title": "エージェント用 IDE を3つ試して、今さら cmux を使い始めた",
+      "url": "https://zenn.dev/yoshi47/articles/cmux-after-agent-ides",
       "score": null,
-      "author": "しょーさん",
+      "author": "yoshi47",
       "tags": [
         "Zenn"
       ],
-      "date": "Thu, 22 Oct 2026 01:00:00 GMT"
+      "date": "Thu, 22 Oct 2026 00:00:15 GMT"
     },
     {
       "id": "zenn-89cd9f8fc3",
@@ -5546,19 +5573,6 @@
       "date": "Wed, 21 Oct 2026 16:17:09 GMT"
     },
     {
-      "id": "zenn-ecd1fbbbb0",
-      "source": "zennqiita",
-      "sub_source": "Zenn",
-      "title": "Pi 3B 2台で家のサーバを回してきた — そろそろ限界、Pi 4/5 を買う前に稼働率を測る",
-      "url": "https://zenn.dev/tinker42/articles/ca22660eedca0a",
-      "score": null,
-      "author": "tinker42",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Wed, 21 Oct 2026 10:05:42 GMT"
-    },
-    {
       "id": "zenn-3120c9ea43",
       "source": "zennqiita",
       "sub_source": "Zenn",
@@ -5597,6 +5611,19 @@
         "Zenn"
       ],
       "date": "Wed, 21 Oct 2026 02:14:44 GMT"
+    },
+    {
+      "id": "zenn-6196fc3ef4",
+      "source": "zennqiita",
+      "sub_source": "Zenn",
+      "title": "バイブコーディングを6週間続けたら、Mac の起動が20分かかるようになった",
+      "url": "https://zenn.dev/singularity/articles/vibe-coding-mac-boot-20min",
+      "score": null,
+      "author": "Isamu",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Tue, 20 Oct 2026 09:15:46 GMT"
     },
     {
       "id": "zenn-71d38c3798",
@@ -5651,19 +5678,6 @@
       "date": "Mon, 19 Oct 2026 23:00:05 GMT"
     },
     {
-      "id": "zenn-969cdba5b0",
-      "source": "zennqiita",
-      "sub_source": "Zenn",
-      "title": "Cloudflare + EmDash の自サイトを点検したら Server-Timing から内部情報が見えていた話",
-      "url": "https://zenn.dev/masaru21/articles/2100616bb5110d",
-      "score": null,
-      "author": "lonely_creator_m",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Mon, 19 Oct 2026 14:42:30 GMT"
-    },
-    {
       "id": "zenn-a01c13e7ca",
       "source": "zennqiita",
       "sub_source": "Zenn",
@@ -5675,19 +5689,6 @@
         "Zenn"
       ],
       "date": "Mon, 19 Oct 2026 03:19:32 GMT"
-    },
-    {
-      "id": "zenn-31d8781da7",
-      "source": "zennqiita",
-      "sub_source": "Zenn",
-      "title": "生産計画を手を動かして学ぶ ― OSS の frePPLe で MRP・需要予測・CP-SAT まで",
-      "url": "https://zenn.dev/rkawajiri/books/frepple-tutorial-ja",
-      "score": null,
-      "author": "Ryoma Kawajiri",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Sat, 17 Oct 2026 21:06:40 GMT"
     },
     {
       "id": "edb-93a964cb41",

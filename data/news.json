@@ -1,7 +1,108 @@
 {
-  "updated_at": "2026-10-23T19:47:53.802396+00:00",
+  "updated_at": "2026-10-23T22:54:46.034870+00:00",
   "count": 500,
   "items": [
+    {
+      "id": "hn-50215530",
+      "source": "hn",
+      "title": "CVE Tracker",
+      "url": "https://cve.0xosprey.com/",
+      "score": 38,
+      "comments": 2,
+      "author": "Group_B",
+      "tags": [],
+      "date": "2026-10-23T21:21:47+00:00",
+      "severity": "high"
+    },
+    {
+      "id": "hn-50214994",
+      "source": "hn",
+      "title": "No Source Code? No Problem",
+      "url": "https://queue.acm.org/doi/10.1145/945131.945155",
+      "score": 13,
+      "comments": 6,
+      "author": "ibobev",
+      "tags": [],
+      "date": "2026-10-23T20:38:06+00:00",
+      "severity": "critical"
+    },
+    {
+      "id": "hn-50214983",
+      "source": "hn",
+      "title": "A whirlwind tour of systemd-nspawn containers",
+      "url": "https://quantum5.ca/2025/03/22/whirlwind-tour-of-systemd-nspawn-containers/",
+      "score": 15,
+      "comments": 2,
+      "author": "ibobev",
+      "tags": [],
+      "date": "2026-10-23T20:37:12+00:00"
+    },
+    {
+      "id": "hn-50214373",
+      "source": "hn",
+      "title": "Show HN: Corgi, a helpful {agent, terminal} multiplexer",
+      "url": "https://corgi.computer/",
+      "score": 3,
+      "comments": 0,
+      "author": "eiopa",
+      "tags": [],
+      "date": "2026-10-23T19:46:38+00:00"
+    },
+    {
+      "id": "hn-50214325",
+      "source": "hn",
+      "title": "Rune 1.3: adds TypeScript, a Helix editor, Kitty graphics and OSC-7501",
+      "url": "https://rune.build/blog/rune-1-3-release",
+      "score": 22,
+      "comments": 3,
+      "author": "ernestrc",
+      "tags": [],
+      "date": "2026-10-23T19:42:01+00:00"
+    },
+    {
+      "id": "hn-50214323",
+      "source": "hn",
+      "title": "We are all living inside of an obscure sci-fi film from 1970",
+      "url": "https://thanksforthatjim.bearblog.dev/we-are-all-living-inside-of-an-obscure-sci-fi-film-from-1970/",
+      "score": 80,
+      "comments": 65,
+      "author": "speckx",
+      "tags": [],
+      "date": "2026-10-23T19:41:59+00:00"
+    },
+    {
+      "id": "hn-50214218",
+      "source": "hn",
+      "title": "Now Google says it might use your Gmail and Google Photos data to target ads",
+      "url": "https://www.theverge.com/tech/1017600/google-personal-intelligence-privacy-policy-ads-update",
+      "score": 169,
+      "comments": 82,
+      "author": "JustSkyfall",
+      "tags": [],
+      "date": "2026-10-23T19:34:15+00:00"
+    },
+    {
+      "id": "hn-50213925",
+      "source": "hn",
+      "title": "Dessa: the most authentic full-duplex speech model ever built",
+      "url": "https://block.xyz/dessa",
+      "score": 146,
+      "comments": 56,
+      "author": "dsr12",
+      "tags": [],
+      "date": "2026-10-23T19:09:54+00:00"
+    },
+    {
+      "id": "hn-50213791",
+      "source": "hn",
+      "title": "DNS: A Replacement for Finger",
+      "url": "https://altchan.org/sh/42",
+      "score": 12,
+      "comments": 13,
+      "author": "Bender",
+      "tags": [],
+      "date": "2026-10-23T19:00:04+00:00"
+    },
     {
       "id": "hn-50213337",
       "source": "hn",
@@ -18,8 +119,8 @@
       "source": "hn",
       "title": "I turned my TV into a Game Boy Color with a Pokemon town as my home screen",
       "url": "https://twitter.com/robbietilton/status/2111936458923851923",
-      "score": 30,
-      "comments": 8,
+      "score": 56,
+      "comments": 16,
       "author": "scrambled",
       "tags": [],
       "date": "2026-10-23T17:40:22+00:00"
@@ -58,12 +159,25 @@
       "date": "2026-10-23T17:12:51+00:00"
     },
     {
+      "id": "qiita-00450cfd87",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "耳で聞く！Python で学ぶ マクロ経済学 入門 34",
+      "url": "https://qiita.com/maskot1977/items/3c68b2af16850b86253c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "maskot1977",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-10-24T02:06:19+09:00"
+    },
+    {
       "id": "hn-50212124",
       "source": "hn",
       "title": "Animations for System Builders",
       "url": "https://brooker.co.za/blog/2026/10/23/animations.html",
-      "score": 12,
-      "comments": 1,
+      "score": 25,
+      "comments": 3,
       "author": "KraftyOne",
       "tags": [],
       "date": "2026-10-23T17:02:24+00:00"
@@ -73,8 +187,8 @@
       "source": "hn",
       "title": "Kimi K3.1 Pro and K3.1 Pro Highspeed",
       "url": "https://www.kimi.ai/blog/kimi-k3-1-pro",
-      "score": 420,
-      "comments": 234,
+      "score": 620,
+      "comments": 383,
       "author": "Jowsey",
       "tags": [],
       "date": "2026-10-23T16:59:08+00:00"
@@ -84,8 +198,8 @@
       "source": "hn",
       "title": "UUIDv7 doesn't have the properties you think it does",
       "url": "https://alexsci.com/blog/uuidv7-is-weird/",
-      "score": 66,
-      "comments": 42,
+      "score": 94,
+      "comments": 79,
       "author": "ibobev",
       "tags": [],
       "date": "2026-10-23T16:39:45+00:00"
@@ -93,10 +207,10 @@
     {
       "id": "hn-50211729",
       "source": "hn",
-      "title": "The Missed Opportunities of Sonic 06",
+      "title": "The Missed Opportunities of Sonic 06 (2025)",
       "url": "https://isaacmarovitz.com/posts/sonic-06/",
-      "score": 46,
-      "comments": 5,
+      "score": 55,
+      "comments": 14,
       "author": "ibobev",
       "tags": [],
       "date": "2026-10-23T16:38:35+00:00"
@@ -128,8 +242,8 @@
       "source": "hn",
       "title": "Today, we hacked what we'd set out to hack: the iPhone",
       "url": "https://blog.calif.io/p/iphone",
-      "score": 514,
-      "comments": 337,
+      "score": 676,
+      "comments": 449,
       "author": "pavel_lishin",
       "tags": [],
       "date": "2026-10-23T16:21:50+00:00"
@@ -161,11 +275,25 @@
       "source": "hn",
       "title": "Gemma-4-26B-A4B with 39-69% less thinking at same accuracy",
       "url": "https://bottlecapai.com/post/thinkingcap-gemma-4-26b/",
-      "score": 67,
-      "comments": 8,
+      "score": 91,
+      "comments": 14,
       "author": "armcat",
       "tags": [],
       "date": "2026-10-23T14:43:02+00:00"
+    },
+    {
+      "id": "qiita-cd6a2f9eb2",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "PHP2Shell緊急対策：日本国内向けサイトで海外IPを全部弾く、即効性のあるIPフィルタ防御",
+      "url": "https://qiita.com/Hiro884/items/27a98c86ef17b70df7ed?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "Hiro884",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-10-23T23:36:36+09:00",
+      "severity": "critical"
     },
     {
       "id": "hn-50208837",
@@ -205,8 +333,8 @@
       "source": "hn",
       "title": "Apple Music 404 Not Found",
       "url": "https://music.apple.com/this-url-doesnt-exist",
-      "score": 190,
-      "comments": 61,
+      "score": 466,
+      "comments": 162,
       "author": "frizlab",
       "tags": [],
       "date": "2026-10-23T12:28:47+00:00"
@@ -267,6 +395,19 @@
       "date": "2026-10-23T10:31:24+00:00"
     },
     {
+      "id": "qiita-8c903db363",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "3KBしか使えない！奇妙で素敵なゲームエンジン「Playload」のご紹介",
+      "url": "https://qiita.com/kitao/items/7fac93e8a7ad6015b0b0?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "kitao",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-10-23T18:22:07+09:00"
+    },
+    {
       "id": "hn-50206361",
       "source": "hn",
       "title": "The Rise and Fall of Jev",
@@ -313,12 +454,25 @@
       "date": "2026-10-23T16:54:48+09:00"
     },
     {
+      "id": "qiita-45cfb3b170",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "【合格体験記】🐍Python 3 エンジニア認定基礎試験_勉強法、注意点まとめ📝【Python】",
+      "url": "https://qiita.com/saito_next/items/dc22d3f447bec13e1dd5?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "saito_next",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-10-23T16:31:15+09:00"
+    },
+    {
       "id": "hn-50205320",
       "source": "hn",
       "title": "Show HN: Swurf – Swipe through the real web",
       "url": "https://swurf.org/",
-      "score": 25,
-      "comments": 9,
+      "score": 43,
+      "comments": 25,
       "author": "webtjb096",
       "tags": [],
       "date": "2026-10-23T06:54:52+00:00"
@@ -424,6 +578,19 @@
       "date": "2026-10-23T02:19:38+00:00"
     },
     {
+      "id": "qiita-db412c560d",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "2026年10月23日 今日のQiitaトレンド記事をポッドキャストで聴こう！",
+      "url": "https://qiita.com/ennagara128/items/b9d8253e6f8ee145426e?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "ennagara128",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-10-23T10:08:05+09:00"
+    },
+    {
       "id": "qiita-57e6ddcb1e",
       "source": "zennqiita",
       "sub_source": "Qiita",
@@ -525,8 +692,8 @@
       "source": "hn",
       "title": "Show HN: Impossible Machines: declaratively program the physical world",
       "url": "https://www.impossiblemachines.xyz",
-      "score": 36,
-      "comments": 7,
+      "score": 49,
+      "comments": 16,
       "author": "bhaprayan",
       "tags": [],
       "date": "2026-10-22T23:54:28+00:00"
@@ -547,8 +714,8 @@
       "source": "hn",
       "title": "Local Wikipedia: Wikipedia, but only for things a half hour walk from you",
       "url": "https://edjefferson.com/localwiki/",
-      "score": 1059,
-      "comments": 206,
+      "score": 1171,
+      "comments": 223,
       "author": "sohkamyung",
       "tags": [],
       "date": "2026-10-22T23:01:18+00:00"
@@ -569,11 +736,25 @@
       "source": "hn",
       "title": "Canadians are running out of time to oppose Bill C-22",
       "url": "https://www.eff.org/deeplinks/2026/10/canadians-are-running-out-time-oppose-dangerous-c-22-surveillance-bill",
-      "score": 163,
-      "comments": 63,
+      "score": 262,
+      "comments": 133,
       "author": "hn_acker",
       "tags": [],
       "date": "2026-10-22T22:43:19+00:00"
+    },
+    {
+      "id": "qiita-80e14c1f17",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "PHPの重大な脆弱性、うちの会社は大丈夫？ Web担当者が確認すること",
+      "url": "https://qiita.com/nemui_zzz/items/f0e22400b628140f80cf?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "nemui_zzz",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-10-23T07:08:41+09:00",
+      "severity": "high"
     },
     {
       "id": "hn-50201445",
@@ -624,8 +805,8 @@
       "source": "hn",
       "title": "LISP Comes of Age (1980)",
       "url": "https://microship.com/lisp-comes-of-age/",
-      "score": 40,
-      "comments": 14,
+      "score": 54,
+      "comments": 16,
       "author": "so-cal-schemer",
       "tags": [],
       "date": "2026-10-22T19:08:09+00:00"
@@ -1783,6 +1964,17 @@
       "date": "2026-10-21T12:00:24+00:00"
     },
     {
+      "id": "hn-50179454",
+      "source": "hn",
+      "title": "John Snow Cholera Data",
+      "url": "https://johnsnow.rtwilson.com/",
+      "score": 3,
+      "comments": 0,
+      "author": "surprisetalk",
+      "tags": [],
+      "date": "2026-10-21T12:00:21+00:00"
+    },
+    {
       "id": "qiita-455960685b",
       "source": "zennqiita",
       "sub_source": "Qiita",
@@ -1840,6 +2032,17 @@
       "author": "velo_aprx",
       "tags": [],
       "date": "2026-10-21T09:07:49+00:00"
+    },
+    {
+      "id": "hn-50177554",
+      "source": "hn",
+      "title": "A Bicycle Journey Across Brazil to Find a Vanishing Savanna",
+      "url": "https://e360.yale.edu/features/2026-film-contest-second-place-cerrado",
+      "score": 7,
+      "comments": 2,
+      "author": "throwaway2037",
+      "tags": [],
+      "date": "2026-10-21T08:17:35+00:00"
     },
     {
       "id": "qiita-0660c709d7",
@@ -2400,8 +2603,8 @@
       "source": "hn",
       "title": "The Real Kevin Bacon",
       "url": "https://pudding.cool/2026/10/kevin-bacon/",
-      "score": 126,
-      "comments": 39,
+      "score": 199,
+      "comments": 62,
       "author": "xnx",
       "tags": [],
       "date": "2026-10-20T17:10:05+00:00"
@@ -5010,195 +5213,6 @@
       "date": "2026-10-17T17:45:08+00:00"
     },
     {
-      "id": "hn-50133150",
-      "source": "hn",
-      "title": "I Became a Citizen of Japan",
-      "url": "https://www.derekwessman.com/blog-1/natural",
-      "score": 127,
-      "comments": 43,
-      "author": "luu",
-      "tags": [],
-      "date": "2026-10-17T17:36:17+00:00"
-    },
-    {
-      "id": "hn-50132950",
-      "source": "hn",
-      "title": "Development statistics for the 7.2 kernel",
-      "url": "https://lwn.net/Articles/1088776/",
-      "score": 110,
-      "comments": 88,
-      "author": "farlight",
-      "tags": [],
-      "date": "2026-10-17T17:14:12+00:00"
-    },
-    {
-      "id": "hn-50132911",
-      "source": "hn",
-      "title": "tsc-ts: TypeScript written in TypeScript",
-      "url": "https://github.com/vercel-labs/tsc-ts",
-      "score": 14,
-      "comments": 17,
-      "author": "tosh",
-      "tags": [],
-      "date": "2026-10-17T17:10:27+00:00"
-    },
-    {
-      "id": "hn-50132870",
-      "source": "hn",
-      "title": "Gold is now the top U.S. export",
-      "url": "https://www.numismaticnews.net/gold-now-top-u-s-export",
-      "score": 320,
-      "comments": 168,
-      "author": "iamnothere",
-      "tags": [],
-      "date": "2026-10-17T17:06:07+00:00"
-    },
-    {
-      "id": "hn-50132839",
-      "source": "hn",
-      "title": "Artie (YC S23) Is Hiring Enterprise AES and Senior Engineers",
-      "url": "https://www.artie.com/careers",
-      "score": 1,
-      "comments": 0,
-      "author": "j-cheong",
-      "tags": [],
-      "date": "2026-10-17T17:02:50+00:00"
-    },
-    {
-      "id": "hn-50132502",
-      "source": "hn",
-      "title": "OpenAI discloses four more rogue incidents",
-      "url": "https://fortune.com/2026/10/16/openai-discloses-four-more-rogue-incidents-involving-financial-medical-and-government-data/",
-      "score": 94,
-      "comments": 80,
-      "author": "DASD",
-      "tags": [],
-      "date": "2026-10-17T16:31:12+00:00"
-    },
-    {
-      "id": "hn-50132328",
-      "source": "hn",
-      "title": "GLP-1 may slow biological aging",
-      "url": "https://www.universityofcalifornia.edu/news/new-study-shows-popular-glp-1-weight-loss-drug-may-slow-biological-aging",
-      "score": 23,
-      "comments": 2,
-      "author": "dzink",
-      "tags": [],
-      "date": "2026-10-17T16:10:21+00:00"
-    },
-    {
-      "id": "hn-50132198",
-      "source": "hn",
-      "title": "Making a 88x31 button book using ImageMagick",
-      "url": "https://k.sosnierz.me/08-11-24/",
-      "score": 103,
-      "comments": 17,
-      "author": "birdculture",
-      "tags": [],
-      "date": "2026-10-17T15:55:43+00:00"
-    },
-    {
-      "id": "hn-50132193",
-      "source": "hn",
-      "title": "Pele – Mermaid diagrams as themeable SVG",
-      "url": "https://pele.run/",
-      "score": 473,
-      "comments": 41,
-      "author": "dchest",
-      "tags": [],
-      "date": "2026-10-17T15:55:09+00:00"
-    },
-    {
-      "id": "hn-50131997",
-      "source": "hn",
-      "title": "Triplet of 'ghostly' galaxies hints at what dark matter is and isn't",
-      "url": "https://www.quantamagazine.org/triplet-of-ghostly-galaxies-hints-at-what-dark-matter-is-and-isnt-20261014/",
-      "score": 69,
-      "comments": 20,
-      "author": "gumby",
-      "tags": [],
-      "date": "2026-10-17T15:33:12+00:00"
-    },
-    {
-      "id": "hn-50131749",
-      "source": "hn",
-      "title": "A death, a plagiarism scandal and a quest for revenge: the tale of Otto Z",
-      "url": "https://www.theguardian.com/news/ng-interactive/2026/oct/08/a-death-a-plagiarism-scandal-and-a-quest-for-revenge-the-bizarre-tale-of-otto-z",
-      "score": 5,
-      "comments": 0,
-      "author": "Hooke",
-      "tags": [],
-      "date": "2026-10-17T15:02:08+00:00"
-    },
-    {
-      "id": "qiita-f023fc74ec",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "GitHubに競プロライブラリを保管したい！を叶える備忘録",
-      "url": "https://qiita.com/Un_titled/items/a8620f54cf953ad67365?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "Un_titled",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-10-17T23:43:13+09:00"
-    },
-    {
-      "id": "hn-50131436",
-      "source": "hn",
-      "title": "Capturing 400 American Girls and Their Most Meaningful Objects",
-      "url": "https://petapixel.com/2026/10/17/photographer-spends-six-years-capturing-400-american-girls-and-their-most-meaningful-objects/",
-      "score": 8,
-      "comments": 3,
-      "author": "eustoria",
-      "tags": [],
-      "date": "2026-10-17T14:21:49+00:00"
-    },
-    {
-      "id": "hn-50131315",
-      "source": "hn",
-      "title": "Rabbits were a medieval royal luxury in England until the Black Death",
-      "url": "https://phys.org/news/2026-10-rabbits-medieval-royal-luxury-england.html",
-      "score": 117,
-      "comments": 112,
-      "author": "samizdis",
-      "tags": [],
-      "date": "2026-10-17T14:07:36+00:00"
-    },
-    {
-      "id": "hn-50131256",
-      "source": "hn",
-      "title": "Solar surpasses nuclear power globally for first time",
-      "url": "https://www.pv-magazine.com/2026/09/29/solar-surpasses-nuclear-power-globally-for-first-time/",
-      "score": 500,
-      "comments": 316,
-      "author": "xbmcuser",
-      "tags": [],
-      "date": "2026-10-17T14:01:01+00:00"
-    },
-    {
-      "id": "hn-50131213",
-      "source": "hn",
-      "title": "Making chicken transparent using Dorito dust",
-      "url": "https://chillphysicsenjoyer.substack.com/p/making-chicken-transparent-using",
-      "score": 318,
-      "comments": 83,
-      "author": "crescit_eundo",
-      "tags": [],
-      "date": "2026-10-17T13:55:28+00:00"
-    },
-    {
-      "id": "hn-50131189",
-      "source": "hn",
-      "title": "Show HN: Esp32sim – Run ESP32 firmware in the browser",
-      "url": "https://github.com/mikroverk/esp32sim",
-      "score": 132,
-      "comments": 13,
-      "author": "joakimeriksson",
-      "tags": [],
-      "date": "2026-10-17T13:51:08+00:00"
-    },
-    {
       "id": "ctf-4867158",
       "source": "project",
       "proj_category": "CTF",
@@ -5409,6 +5423,32 @@
       "date": "2023-05-23T17:06:23Z"
     },
     {
+      "id": "zenn-025384c9dd",
+      "source": "zennqiita",
+      "sub_source": "Zenn",
+      "title": "「分担を見直したい」では動かなかった。チーム間の議論を変えた1枚の図",
+      "url": "https://zenn.dev/shun0530/articles/32946ce85a536d",
+      "score": null,
+      "author": "shun",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Fri, 23 Oct 2026 13:01:10 GMT"
+    },
+    {
+      "id": "zenn-49bbe1bd17",
+      "source": "zennqiita",
+      "sub_source": "Zenn",
+      "title": "「読みにくいDB」はAI開発のコストを1.9倍にする――Claude Codeで検証したDB設計の影響",
+      "url": "https://zenn.dev/actbe_tech/articles/8b4a9991d5365d",
+      "score": null,
+      "author": "北野",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Fri, 23 Oct 2026 09:00:05 GMT"
+    },
+    {
       "id": "zenn-ebfc7aba43",
       "source": "zennqiita",
       "sub_source": "Zenn",
@@ -5448,17 +5488,17 @@
       "date": "Fri, 23 Oct 2026 06:27:00 GMT"
     },
     {
-      "id": "zenn-6442f42ae8",
+      "id": "zenn-ecb9a4ef6b",
       "source": "zennqiita",
       "sub_source": "Zenn",
-      "title": "そのProvider、どこから更新する？ FlutterとRiverpodで考える操作完了通知",
-      "url": "https://zenn.dev/simplex/articles/dc17c45b57af0e",
+      "title": "eMudhraの中間CA証明書の秘密鍵を求めてみる",
+      "url": "https://zenn.dev/herumi/articles/search_bad_emudhra_key",
       "score": null,
-      "author": "Simplex テックブログ運営",
+      "author": "herumi",
       "tags": [
         "Zenn"
       ],
-      "date": "Fri, 23 Oct 2026 03:26:05 GMT"
+      "date": "Fri, 23 Oct 2026 05:50:11 GMT"
     },
     {
       "id": "zenn-23ee2927c2",
@@ -5487,71 +5527,6 @@
       "date": "Fri, 23 Oct 2026 01:30:05 GMT"
     },
     {
-      "id": "zenn-101fa12ae6",
-      "source": "zennqiita",
-      "sub_source": "Zenn",
-      "title": "301 リダイレクトの変更が一部の利用者に反映されない",
-      "url": "https://zenn.dev/shinagawa_web/articles/cached-301-stale-redirect",
-      "score": null,
-      "author": "shinagawa",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Thu, 22 Oct 2026 23:10:47 GMT"
-    },
-    {
-      "id": "zenn-a00129d7b1",
-      "source": "zennqiita",
-      "sub_source": "Zenn",
-      "title": "Node.jsの2026年10月セキュリティリリースでやること（Claude Code用チェックリスト付き）",
-      "url": "https://zenn.dev/yoshinani_dev/articles/0e6513a56eb629",
-      "score": null,
-      "author": "ひょうどう",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Thu, 22 Oct 2026 17:52:59 GMT"
-    },
-    {
-      "id": "zenn-fd184ac0f6",
-      "source": "zennqiita",
-      "sub_source": "Zenn",
-      "title": "Claude CodeやCodexで並列開発していたら、Macのストレージが残り8GBになったので掃除した",
-      "url": "https://zenn.dev/yoshinani_dev/articles/0c17dec1c082a1",
-      "score": null,
-      "author": "ひょうどう",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Thu, 22 Oct 2026 17:21:33 GMT"
-    },
-    {
-      "id": "zenn-cbe4d9549d",
-      "source": "zennqiita",
-      "sub_source": "Zenn",
-      "title": "自宅サーバーの定期バックアップの失敗に気付かなかった話",
-      "url": "https://zenn.dev/komorebi_note/articles/d9df64e7e1da82",
-      "score": null,
-      "author": "こもれび｜インフラ勉強中",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Thu, 22 Oct 2026 13:11:28 GMT"
-    },
-    {
-      "id": "zenn-acfd0e3c54",
-      "source": "zennqiita",
-      "sub_source": "Zenn",
-      "title": "Rootless Dockerと学ぶSELinux【初心者向け】",
-      "url": "https://zenn.dev/nexryai/articles/afb828d7dda6b7",
-      "score": null,
-      "author": "nexryai",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Thu, 22 Oct 2026 11:50:59 GMT"
-    },
-    {
       "id": "zenn-7e7a9f272a",
       "source": "zennqiita",
       "sub_source": "Zenn",
@@ -5563,6 +5538,19 @@
         "Zenn"
       ],
       "date": "Thu, 22 Oct 2026 11:28:13 GMT"
+    },
+    {
+      "id": "zenn-1918781ee8",
+      "source": "zennqiita",
+      "sub_source": "Zenn",
+      "title": "KMPデスクトップはAIエージェントに速いのか？検証してみる",
+      "url": "https://zenn.dev/shogo/articles/f847c35ea8dccb",
+      "score": null,
+      "author": "shogo.yamada",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Thu, 22 Oct 2026 05:46:57 GMT"
     },
     {
       "id": "zenn-6192aa503c",
@@ -5605,6 +5593,20 @@
       "date": "Wed, 21 Oct 2026 16:17:09 GMT"
     },
     {
+      "id": "zenn-dacccd40e3",
+      "source": "zennqiita",
+      "sub_source": "Zenn",
+      "title": "Next.js の脆弱性に Dependabot が反応しなかったので、GitHub Advisory Database までの流れを追った",
+      "url": "https://zenn.dev/rakko_inc/articles/dependabot-cve-to-pr-flow",
+      "score": null,
+      "author": "katsu",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Wed, 21 Oct 2026 04:55:56 GMT",
+      "severity": "high"
+    },
+    {
       "id": "zenn-3321b85fd8",
       "source": "zennqiita",
       "sub_source": "Zenn",
@@ -5642,6 +5644,19 @@
         "Zenn"
       ],
       "date": "Tue, 20 Oct 2026 02:00:05 GMT"
+    },
+    {
+      "id": "zenn-6545692b01",
+      "source": "zennqiita",
+      "sub_source": "Zenn",
+      "title": "Chromium(V8)のArray.prototype.fillを最大約7倍高速化した",
+      "url": "https://zenn.dev/dinii/articles/5b8edc7856c25b",
+      "score": null,
+      "author": "Riya Amemiya",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Tue, 20 Oct 2026 01:00:05 GMT"
     },
     {
       "id": "zenn-f0d56afe76",

@@ -1,14 +1,58 @@
 {
-  "updated_at": "2026-10-24T01:22:40.278183+00:00",
+  "updated_at": "2026-10-24T06:14:21.685542+00:00",
   "count": 500,
   "items": [
     {
+      "id": "hn-50218195",
+      "source": "hn",
+      "title": "How close can pure functional programming get to C?",
+      "url": "https://rtfeldman.com/fp-vs-c",
+      "score": 40,
+      "comments": 4,
+      "author": "stmonty",
+      "tags": [],
+      "date": "2026-10-24T03:43:54+00:00"
+    },
+    {
+      "id": "hn-50217946",
+      "source": "hn",
+      "title": "How Block Blast harvests its players for ad money",
+      "url": "https://ayoships.com/breakdowns/block-blast",
+      "score": 11,
+      "comments": 1,
+      "author": "motionlessveloc",
+      "tags": [],
+      "date": "2026-10-24T02:43:43+00:00"
+    },
+    {
+      "id": "hn-50217683",
+      "source": "hn",
+      "title": "Alzheimer's breakthrough: 2 hrs of sleep restored without clearing brain plaques",
+      "url": "https://www.sciencedaily.com/releases/2026/10/261018084421.htm",
+      "score": 71,
+      "comments": 20,
+      "author": "amichail",
+      "tags": [],
+      "date": "2026-10-24T01:53:10+00:00"
+    },
+    {
+      "id": "hn-50217500",
+      "source": "hn",
+      "title": "Twelve years of distributed SQLite",
+      "url": "https://philipotoole.com/twelve-years-of-distributed-sqlite/",
+      "score": 117,
+      "comments": 13,
+      "author": "otoolep",
+      "tags": [],
+      "date": "2026-10-24T01:16:58+00:00"
+    },
+    {
       "id": "hn-50216791",
       "source": "hn",
-      "title": "Evolving Threat: http2shell is an RCE in node, Python, and more",
+      "title": "Evolving Threat: http2shell is an RCE in Node, Python, and more",
       "url": "https://nitter.click/AikidoSecurity/status/2113759110625906950?__galadriel=lPmlGl9id4oAd5UeBwMhlYKArHyr6lR2IDGujPwB5HV2kQ1aLoPWFd5A9sGuzNcmrp8fUso8qygmHcKTDZ8MNHWqQ3bDJcycV87xp_0VypzQLYj6O_RRHlZuQqj33oASGY2YLSoAiMjeOZN40h7Stf8AG7DPrGZbAPVKUXy36HoMudRbvwF3_r2uYNmfJMhpKzywQDM6Ab8",
-      "score": 57,
-      "comments": 16,
+      "score": 141,
+      "comments": 76,
       "author": "cowlevel",
       "tags": [],
       "date": "2026-10-23T23:30:17+00:00",
@@ -26,12 +70,23 @@
       "date": "2026-10-23T22:18:49+00:00"
     },
     {
+      "id": "hn-50215828",
+      "source": "hn",
+      "title": "One Man's Pan Am 747 Replica [video]",
+      "url": "https://www.youtube.com/watch?v=vAFwHGGfPz4",
+      "score": 18,
+      "comments": 0,
+      "author": "Teever",
+      "tags": [],
+      "date": "2026-10-23T21:46:51+00:00"
+    },
+    {
       "id": "hn-50215530",
       "source": "hn",
       "title": "CVE Tracker",
       "url": "https://cve.0xosprey.com/",
-      "score": 96,
-      "comments": 36,
+      "score": 145,
+      "comments": 59,
       "author": "Group_B",
       "tags": [],
       "date": "2026-10-23T21:21:47+00:00",
@@ -76,8 +131,8 @@
       "source": "hn",
       "title": "Show HN: Corgi, a helpful {agent, terminal} multiplexer",
       "url": "https://corgi.computer/",
-      "score": 30,
-      "comments": 3,
+      "score": 65,
+      "comments": 16,
       "author": "eiopa",
       "tags": [],
       "date": "2026-10-23T19:46:38+00:00"
@@ -118,10 +173,10 @@
     {
       "id": "hn-50213925",
       "source": "hn",
-      "title": "Dessa: the most authentic full-duplex speech model ever built",
+      "title": "Dessa: Conversation Model trained only on speech",
       "url": "https://block.xyz/dessa",
-      "score": 220,
-      "comments": 93,
+      "score": 332,
+      "comments": 127,
       "author": "dsr12",
       "tags": [],
       "date": "2026-10-23T19:09:54+00:00"
@@ -164,8 +219,8 @@
       "source": "hn",
       "title": "Air Purifiers as White Noise Machines",
       "url": "https://www.jefftk.com/p/air-purifiers-as-white-noise-machines",
-      "score": 59,
-      "comments": 91,
+      "score": 103,
+      "comments": 106,
       "author": "luu",
       "tags": [],
       "date": "2026-10-23T17:28:36+00:00"
@@ -221,8 +276,8 @@
       "source": "hn",
       "title": "Kimi K3.1 Pro and K3.1 Pro Highspeed",
       "url": "https://www.kimi.ai/blog/kimi-k3-1-pro",
-      "score": 708,
-      "comments": 451,
+      "score": 836,
+      "comments": 493,
       "author": "Jowsey",
       "tags": [],
       "date": "2026-10-23T16:59:08+00:00"
@@ -230,10 +285,10 @@
     {
       "id": "hn-50211746",
       "source": "hn",
-      "title": "UUIDv7 doesn't have the properties you think it does",
+      "title": "UUIDv7: Timestamps aren’t time-ordered and other oddities",
       "url": "https://alexsci.com/blog/uuidv7-is-weird/",
-      "score": 94,
-      "comments": 79,
+      "score": 126,
+      "comments": 104,
       "author": "ibobev",
       "tags": [],
       "date": "2026-10-23T16:39:45+00:00"
@@ -254,8 +309,8 @@
       "source": "hn",
       "title": "How is music possible",
       "url": "https://www.henrikkarlsson.xyz/p/music",
-      "score": 51,
-      "comments": 33,
+      "score": 108,
+      "comments": 74,
       "author": "rafaelc",
       "tags": [],
       "date": "2026-10-23T16:38:17+00:00"
@@ -276,8 +331,8 @@
       "source": "hn",
       "title": "Today, we hacked what we'd set out to hack: the iPhone",
       "url": "https://blog.calif.io/p/iphone",
-      "score": 741,
-      "comments": 499,
+      "score": 817,
+      "comments": 538,
       "author": "pavel_lishin",
       "tags": [],
       "date": "2026-10-23T16:21:50+00:00"
@@ -367,8 +422,8 @@
       "source": "hn",
       "title": "Apple Music 404 Not Found",
       "url": "https://music.apple.com/this-url-doesnt-exist",
-      "score": 576,
-      "comments": 189,
+      "score": 698,
+      "comments": 215,
       "author": "frizlab",
       "tags": [],
       "date": "2026-10-23T12:28:47+00:00"
@@ -748,8 +803,8 @@
       "source": "hn",
       "title": "Local Wikipedia: Wikipedia, but only for things a half hour walk from you",
       "url": "https://edjefferson.com/localwiki/",
-      "score": 1236,
-      "comments": 225,
+      "score": 1334,
+      "comments": 229,
       "author": "sohkamyung",
       "tags": [],
       "date": "2026-10-22T23:01:18+00:00"
@@ -770,8 +825,8 @@
       "source": "hn",
       "title": "Canadians are running out of time to oppose Bill C-22",
       "url": "https://www.eff.org/deeplinks/2026/10/canadians-are-running-out-time-oppose-dangerous-c-22-surveillance-bill",
-      "score": 321,
-      "comments": 164,
+      "score": 383,
+      "comments": 206,
       "author": "hn_acker",
       "tags": [],
       "date": "2026-10-22T22:43:19+00:00"
@@ -1236,6 +1291,17 @@
       "author": "mrkn1",
       "tags": [],
       "date": "2026-10-22T11:12:37+00:00"
+    },
+    {
+      "id": "hn-50193677",
+      "source": "hn",
+      "title": "The Quake Fan who built the map editor everybody uses",
+      "url": "https://funcarena.com/articles/the-quake-fan-who-built-the-map-editor-everybody-uses",
+      "score": 62,
+      "comments": 3,
+      "author": "klaussilveira",
+      "tags": [],
+      "date": "2026-10-22T10:55:22+00:00"
     },
     {
       "id": "qiita-f5851d9e23",
@@ -1795,6 +1861,17 @@
       "date": "2026-10-21T15:20:04+00:00"
     },
     {
+      "id": "hn-50182510",
+      "source": "hn",
+      "title": "The past, present, and future share a show floor at Pinball Expo 2026",
+      "url": "https://arstechnica.com/gaming/2026/10/the-past-present-and-future-share-a-show-floor-at-pinball-expo-2026/",
+      "score": 25,
+      "comments": 4,
+      "author": "civicpivot",
+      "tags": [],
+      "date": "2026-10-21T15:19:28+00:00"
+    },
+    {
       "id": "qiita-6a8d0c9482",
       "source": "zennqiita",
       "sub_source": "Qiita",
@@ -2129,6 +2206,17 @@
       "date": "2026-10-21T06:42:12+00:00"
     },
     {
+      "id": "hn-50176544",
+      "source": "hn",
+      "title": "C vs. C#: racing VLC's Gaussian blur",
+      "url": "https://martinfinkel.com/blog/gaussian-blur-c-vs-csharp/",
+      "score": 54,
+      "comments": 5,
+      "author": "martz",
+      "tags": [],
+      "date": "2026-10-21T05:48:12+00:00"
+    },
+    {
       "id": "hn-50176301",
       "source": "hn",
       "title": "Pillowfort Is Closing",
@@ -2205,6 +2293,17 @@
       "author": "dnw",
       "tags": [],
       "date": "2026-10-21T03:36:43+00:00"
+    },
+    {
+      "id": "hn-50175732",
+      "source": "hn",
+      "title": "The Best Monopoly Strategy, Tested on 300M Games [video]",
+      "url": "https://www.youtube.com/watch?v=S_2eVAaw1UM",
+      "score": 5,
+      "comments": 2,
+      "author": "zdw",
+      "tags": [],
+      "date": "2026-10-21T03:30:11+00:00"
     },
     {
       "id": "hn-50175510",
@@ -2523,8 +2622,8 @@
       "source": "hn",
       "title": "Bringing uv and ty together",
       "url": "https://astral.sh/blog/uv-ty-integration",
-      "score": 14,
-      "comments": 5,
+      "score": 91,
+      "comments": 23,
       "author": "Ravencentric",
       "tags": [],
       "date": "2026-10-20T21:30:56+00:00"
@@ -2562,6 +2661,17 @@
       "author": "dbolkunov",
       "tags": [],
       "date": "2026-10-20T19:55:11+00:00"
+    },
+    {
+      "id": "hn-50171379",
+      "source": "hn",
+      "title": "A practical guide to AI image generation, from diffusion to agents",
+      "url": "https://danielball.com/notes/ai_image_generation.html",
+      "score": 23,
+      "comments": 4,
+      "author": "westsmith",
+      "tags": [],
+      "date": "2026-10-20T19:22:39+00:00"
     },
     {
       "id": "hn-50170917",
@@ -2648,8 +2758,8 @@
       "source": "hn",
       "title": "The Real Kevin Bacon",
       "url": "https://pudding.cool/2026/10/kevin-bacon/",
-      "score": 236,
-      "comments": 69,
+      "score": 278,
+      "comments": 76,
       "author": "xnx",
       "tags": [],
       "date": "2026-10-20T17:10:05+00:00"
@@ -2726,7 +2836,7 @@
       "source": "hn",
       "title": "Rise of collagen-eating microbes may help explain gaps in the fossil record",
       "url": "https://www.cam.ac.uk/research/news/rise-of-collagen-eating-microbes-may-help-explain-gaps-in-the-fossil-record",
-      "score": 13,
+      "score": 29,
       "comments": 0,
       "author": "gmays",
       "tags": [],
@@ -5095,120 +5205,6 @@
       "author": "zdw",
       "tags": [],
       "date": "2026-10-17T23:08:30+00:00"
-    },
-    {
-      "id": "hn-50135762",
-      "source": "hn",
-      "title": "I built a programming language that LLMs can't use",
-      "url": "https://blog.picheta.me/post/killswitch-lang/",
-      "score": 157,
-      "comments": 111,
-      "author": "dom96",
-      "tags": [],
-      "date": "2026-10-17T22:26:47+00:00"
-    },
-    {
-      "id": "qiita-6b3aa6f2f5",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "件数が少ないうちは眠る安全装置が、32日目に目を覚ました 〜Claude Codeと作った「実測勝率ゲート」と、ラベルと実装の食い違い〜",
-      "url": "https://qiita.com/charge0315/items/9a4f9d6a373a18e0cd13?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "charge0315",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-10-18T07:09:08+09:00"
-    },
-    {
-      "id": "hn-50135379",
-      "source": "hn",
-      "title": "JDK 28",
-      "url": "https://openjdk.org/projects/jdk/28/",
-      "score": 33,
-      "comments": 6,
-      "author": "ejboy",
-      "tags": [],
-      "date": "2026-10-17T21:37:07+00:00"
-    },
-    {
-      "id": "qiita-4fa9fb07dc",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "手ぶらでClaude Code （オフ会LT記事）",
-      "url": "https://qiita.com/AlohaYos/items/cbf9270113fd03a8ffbc?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "AlohaYos",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-10-18T06:13:48+09:00"
-    },
-    {
-      "id": "hn-50135177",
-      "source": "hn",
-      "title": "What If Video Games Came on VHS? One Modder Is Finding Out",
-      "url": "https://gardinerbryant.com/what-if-video-games-came-on-vhs/",
-      "score": 16,
-      "comments": 9,
-      "author": "Kate0CoolLibby",
-      "tags": [],
-      "date": "2026-10-17T21:12:16+00:00"
-    },
-    {
-      "id": "hn-50134809",
-      "source": "hn",
-      "title": "How Do Fungi Keep the Planet Healthy?",
-      "url": "https://www.quantamagazine.org/how-do-fungi-keep-the-planet-healthy-20261015/",
-      "score": 48,
-      "comments": 8,
-      "author": "marojejian",
-      "tags": [],
-      "date": "2026-10-17T20:27:22+00:00"
-    },
-    {
-      "id": "hn-50134617",
-      "source": "hn",
-      "title": "Chrome and Edge are removing XSLT: what breaks and what does not",
-      "url": "https://doctor-seo.net/en/blog/news/chrome-edge-removing-xslt/",
-      "score": 97,
-      "comments": 101,
-      "author": "croes",
-      "tags": [],
-      "date": "2026-10-17T20:07:33+00:00"
-    },
-    {
-      "id": "hn-50134472",
-      "source": "hn",
-      "title": "It's still ok to enjoy programming",
-      "url": "https://chriskiehl.com/article/it-is-still-ok-to-enjoy-programming",
-      "score": 591,
-      "comments": 515,
-      "author": "goostavos",
-      "tags": [],
-      "date": "2026-10-17T19:53:20+00:00"
-    },
-    {
-      "id": "hn-50134359",
-      "source": "hn",
-      "title": "The fire retardant in the seafood chain",
-      "url": "https://insideclimatenews.org/news/14102026/ethoxyquin-fire-retardant-in-seafood-chain/",
-      "score": 96,
-      "comments": 32,
-      "author": "gumby",
-      "tags": [],
-      "date": "2026-10-17T19:37:54+00:00"
-    },
-    {
-      "id": "hn-50133830",
-      "source": "hn",
-      "title": "Microsoft and CMU team up to train early career software engineers",
-      "url": "https://www.cs.cmu.edu/news/2026/microsoft-cmu-praise",
-      "score": 52,
-      "comments": 59,
-      "author": "azhenley",
-      "tags": [],
-      "date": "2026-10-17T18:45:07+00:00"
     },
     {
       "id": "ctf-4867158",

@@ -1,7 +1,141 @@
 {
-  "updated_at": "2026-10-27T15:57:12.910191+00:00",
+  "updated_at": "2026-10-27T20:30:37.620741+00:00",
   "count": 500,
   "items": [
+    {
+      "id": "hn-50264857",
+      "source": "hn",
+      "title": "Tailscale SSH: Investigation and remediation update",
+      "url": "https://tailscale.com/ssh-investigation-update",
+      "score": 39,
+      "comments": 7,
+      "author": "figmert",
+      "tags": [],
+      "date": "2026-10-27T19:55:21+00:00",
+      "severity": "medium"
+    },
+    {
+      "id": "hn-50264853",
+      "source": "hn",
+      "title": "Survival LLM: AI assistant and emergency library that runs on your own computer",
+      "url": "https://www.brangus.io/survival-llm",
+      "score": 27,
+      "comments": 10,
+      "author": "Luc",
+      "tags": [],
+      "date": "2026-10-27T19:55:06+00:00"
+    },
+    {
+      "id": "hn-50263854",
+      "source": "hn",
+      "title": "Discord will soon let anyone find public server messages through Google",
+      "url": "https://discord.com/blog/making-content-from-discoverable-servers-easier-to-discover",
+      "score": 80,
+      "comments": 51,
+      "author": "DeepLogin",
+      "tags": [],
+      "date": "2026-10-27T18:44:17+00:00"
+    },
+    {
+      "id": "hn-50263701",
+      "source": "hn",
+      "title": "Three TLS Bugs in GoAhead",
+      "url": "https://foxio.io/blog/choose-your-backend-three-tls-bugs-in-goahead",
+      "score": 30,
+      "comments": 2,
+      "author": "owenshen24",
+      "tags": [],
+      "date": "2026-10-27T18:33:48+00:00"
+    },
+    {
+      "id": "hn-50262229",
+      "source": "hn",
+      "title": "Introducing LFM3: Every Modality for Specialized Intelligence",
+      "url": "https://www.liquid.ai/blog/lfm3",
+      "score": 66,
+      "comments": 24,
+      "author": "Philpax",
+      "tags": [],
+      "date": "2026-10-27T17:04:50+00:00"
+    },
+    {
+      "id": "hn-50261998",
+      "source": "hn",
+      "title": "Ghostty 1.4.0",
+      "url": "https://ghostty.org/docs/install/release-notes/1-4-0",
+      "score": 413,
+      "comments": 130,
+      "author": "deaux",
+      "tags": [],
+      "date": "2026-10-27T16:51:22+00:00"
+    },
+    {
+      "id": "hn-50261819",
+      "source": "hn",
+      "title": "Police are using AI to pull over drivers for 'suspicious' behavior",
+      "url": "https://gizmodo.com/police-are-using-ai-to-pull-over-drivers-for-suspicious-behavior-2000831220",
+      "score": 265,
+      "comments": 198,
+      "author": "gumby",
+      "tags": [],
+      "date": "2026-10-27T16:40:15+00:00"
+    },
+    {
+      "id": "hn-50261647",
+      "source": "hn",
+      "title": "Classification of Finite Simple Groups Formalized in Lean",
+      "url": "https://cfsg.axiommath.ai/",
+      "score": 106,
+      "comments": 25,
+      "author": "pfdietz",
+      "tags": [],
+      "date": "2026-10-27T16:29:02+00:00"
+    },
+    {
+      "id": "hn-50261589",
+      "source": "hn",
+      "title": "Amazon Is Gutting Its AI Division After Sustained Failure",
+      "url": "https://futurism.com/artificial-intelligence/amazon-ai-division-failure-nova",
+      "score": 104,
+      "comments": 46,
+      "author": "dpflan",
+      "tags": [],
+      "date": "2026-10-27T16:25:30+00:00"
+    },
+    {
+      "id": "hn-50261583",
+      "source": "hn",
+      "title": "PHP2Shell, LiteLLM, GitLab: Find What You Need to Patch",
+      "url": "https://cloudsleuth.io/blog/php2shell-litellm-gitlab-find-what-you-run/",
+      "score": 36,
+      "comments": 1,
+      "author": "bigfish2026",
+      "tags": [],
+      "date": "2026-10-27T16:25:12+00:00",
+      "severity": "medium"
+    },
+    {
+      "id": "hn-50261352",
+      "source": "hn",
+      "title": "New 14‑inch MacBook Pro with M6",
+      "url": "https://www.apple.com/in/newsroom/2026/10/apple-introduces-the-new-14-inch-macbook-pro-with-m6/",
+      "score": 165,
+      "comments": 179,
+      "author": "beex",
+      "tags": [],
+      "date": "2026-10-27T16:08:32+00:00"
+    },
+    {
+      "id": "hn-50261319",
+      "source": "hn",
+      "title": "Genie 4",
+      "url": "https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/",
+      "score": 492,
+      "comments": 291,
+      "author": "acossta",
+      "tags": [],
+      "date": "2026-10-27T16:06:01+00:00"
+    },
     {
       "id": "hn-50260960",
       "source": "hn",
@@ -13,6 +147,17 @@
       "tags": [],
       "date": "2026-10-27T15:39:29+00:00",
       "severity": "critical"
+    },
+    {
+      "id": "hn-50260814",
+      "source": "hn",
+      "title": "Anthropic trained Claude on illegally obtained Stanford professors' books",
+      "url": "https://stanforddaily.com/2026/10/27/professors-books-pirated-to-train-claude/",
+      "score": 293,
+      "comments": 158,
+      "author": "car",
+      "tags": [],
+      "date": "2026-10-27T15:28:26+00:00"
     },
     {
       "id": "hn-50260619",
@@ -37,6 +182,19 @@
       "date": "2026-10-27T15:12:20+00:00"
     },
     {
+      "id": "qiita-150158729e",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "Oracle AI World 2026 開幕！注目講演と日本時間の視聴スケジュールまとめ ※随時更新中",
+      "url": "https://qiita.com/shirok/items/fb1d5dded8654002d2c1?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "shirok",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-10-28T00:02:55+09:00"
+    },
+    {
       "id": "hn-50260242",
       "source": "hn",
       "title": "Viral Polls Are Not Representative Polls",
@@ -46,6 +204,19 @@
       "author": "m-hodges",
       "tags": [],
       "date": "2026-10-27T14:49:30+00:00"
+    },
+    {
+      "id": "qiita-6a47c84e99",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "【宇宙最速書評】AWSでRAGとAIエージェントをがっつり業務実践できる名著「Amazon Bedrock実践ガイド」",
+      "url": "https://qiita.com/minorun365/items/84cd50fda97df62cff88?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "minorun365",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-10-27T23:30:49+09:00"
     },
     {
       "id": "hn-50259406",
@@ -61,10 +232,10 @@
     {
       "id": "hn-50259343",
       "source": "hn",
-      "title": "PHP2Shell: Exploitation Attempts and Remediation Trends",
+      "title": "PHP2Shell: Exploitation attempts and remediation trends",
       "url": "https://www.wiz.io/blog/php2shell-exploitation-so-far",
-      "score": 112,
-      "comments": 41,
+      "score": 168,
+      "comments": 54,
       "author": "acossta",
       "tags": [],
       "date": "2026-10-27T13:52:12+00:00",
@@ -73,10 +244,10 @@
     {
       "id": "hn-50258868",
       "source": "hn",
-      "title": "Here Be Monsters: What Do You Still Need to Know When Agents Do the Work?",
+      "title": "Here be monsters: What do you still need to know when agents do the work?",
       "url": "https://blog.adrq.dev/here-be-monsters-what-do-you-still-need-to-know-when-agents-do-the-work",
-      "score": 72,
-      "comments": 17,
+      "score": 120,
+      "comments": 50,
       "author": "adrq",
       "tags": [],
       "date": "2026-10-27T13:23:22+00:00"
@@ -86,8 +257,8 @@
       "source": "hn",
       "title": "New iMac with M6",
       "url": "https://www.apple.com/imac/",
-      "score": 115,
-      "comments": 99,
+      "score": 242,
+      "comments": 298,
       "author": "notfried",
       "tags": [],
       "date": "2026-10-27T13:02:02+00:00"
@@ -108,8 +279,8 @@
       "source": "hn",
       "title": "Python's experimental JIT to be removed",
       "url": "https://lwn.net/SubscriberLink/1102102/0c00e4d550f25f8c/",
-      "score": 237,
-      "comments": 120,
+      "score": 379,
+      "comments": 198,
       "author": "f311a",
       "tags": [],
       "date": "2026-10-27T11:17:57+00:00"
@@ -119,8 +290,8 @@
       "source": "hn",
       "title": "Wikipedia's Cleanup of AI-Generated Content",
       "url": "https://spectrum.ieee.org/wikipedia-wikiproject-ai-writing-cleanup",
-      "score": 229,
-      "comments": 92,
+      "score": 381,
+      "comments": 173,
       "author": "rbanffy",
       "tags": [],
       "date": "2026-10-27T11:08:15+00:00"
@@ -159,6 +330,19 @@
       "date": "2026-10-27T10:23:21+00:00"
     },
     {
+      "id": "qiita-0ce76385c2",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "Xで話題の、原文を芋づる式にたどるスキル「imozuru」でドメイン知識を仕入れて、普通のAI検索と比べてみた",
+      "url": "https://qiita.com/inoyu-qiita/items/4fc91ba7f67d6763960e?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "inoyu-qiita",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-10-27T19:06:53+09:00"
+    },
+    {
       "id": "hn-50256230",
       "source": "hn",
       "title": "AI is ruining haunted houses",
@@ -187,8 +371,8 @@
       "source": "hn",
       "title": "The Mythical Man-Month in the Age of AI",
       "url": "https://j11g.com/the-mythical-man-month-in-the-age-of-ai",
-      "score": 340,
-      "comments": 216,
+      "score": 395,
+      "comments": 280,
       "author": "ilreb",
       "tags": [],
       "date": "2026-10-27T06:25:37+00:00"
@@ -305,17 +489,43 @@
       "date": "2026-10-27T01:15:04+00:00"
     },
     {
-      "id": "qiita-150158729e",
+      "id": "qiita-3e9b9de7e6",
       "source": "zennqiita",
       "sub_source": "Qiita",
-      "title": "Oracle AI World 2026 開幕！注目講演と日本時間の視聴スケジュールまとめ",
-      "url": "https://qiita.com/shirok/items/fb1d5dded8654002d2c1?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "title": "途中で直した CLAUDE.md が、自動要約のあと古い中身に戻っていた（2.1.310）。それでも新しいルールで動いた",
+      "url": "https://qiita.com/suwa_nobu/items/d3f0491c9727176dea22?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
       "score": null,
-      "author": "shirok",
+      "author": "suwa_nobu",
       "tags": [
         "Qiita"
       ],
-      "date": "2026-10-27T08:18:54+09:00"
+      "date": "2026-10-27T09:24:34+09:00"
+    },
+    {
+      "id": "qiita-8c8753d849",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "AIエージェントたちが直接連絡しあう、小さなメールボックスを作ってみました",
+      "url": "https://qiita.com/shyamagu/items/c419cff2c03b544fd877?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "shyamagu",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-10-27T08:41:20+09:00"
+    },
+    {
+      "id": "qiita-4e7e6c8c6c",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "AIのみで作られたシステムを引き継いだら、品質の現実に直面した話",
+      "url": "https://qiita.com/Kokuto821/items/352e44c77489c22945c2?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "Kokuto821",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-10-27T08:33:14+09:00"
     },
     {
       "id": "hn-50252457",
@@ -604,8 +814,8 @@
       "source": "hn",
       "title": "Why Micron Is Suddenly Ditching 4F² DRAM as Rivals Double Down",
       "url": "https://hothardware.com/news/why-micron-is-suddenly-ditching-4f-dram",
-      "score": 43,
-      "comments": 2,
+      "score": 105,
+      "comments": 15,
       "author": "rbanffy",
       "tags": [],
       "date": "2026-10-26T15:05:04+00:00"
@@ -635,6 +845,19 @@
         "Qiita"
       ],
       "date": "2026-10-26T23:20:34+09:00"
+    },
+    {
+      "id": "qiita-801d52aac2",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "QRコードはなぜログインの鍵にならないのか。写真1枚で複製できる仕組みと安全な使い道",
+      "url": "https://qiita.com/koreangyoseishoshi/items/6aa82ae67148164a354b?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "koreangyoseishoshi",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-10-26T23:11:10+09:00"
     },
     {
       "id": "hn-50243646",
@@ -823,6 +1046,17 @@
       "date": "2026-10-26T07:50:17+00:00"
     },
     {
+      "id": "hn-50240041",
+      "source": "hn",
+      "title": "Rosettes and Other Hidden Traces of Hamburg's Tram",
+      "url": "https://alsterrunde.com/rosettes-and-other-hidden-traces-of-hamburgs-tram/",
+      "score": 12,
+      "comments": 0,
+      "author": "mertbio",
+      "tags": [],
+      "date": "2026-10-26T06:54:33+00:00"
+    },
+    {
       "id": "qiita-5cff8e4350",
       "source": "zennqiita",
       "sub_source": "Qiita",
@@ -860,6 +1094,19 @@
         "Qiita"
       ],
       "date": "2026-10-26T14:12:06+09:00"
+    },
+    {
+      "id": "qiita-08c8d7d046",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "【AI-DLC】GitHub Copilot Quest Lv3：Hack the LegacyでAI-DLCを初めて実践してみた！",
+      "url": "https://qiita.com/yucn_qiita/items/13a5d2ba160e52dd8359?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "yucn_qiita",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-10-26T13:53:56+09:00"
     },
     {
       "id": "hn-50239027",
@@ -1258,6 +1505,19 @@
       "date": "2026-10-25T18:58:14+00:00"
     },
     {
+      "id": "qiita-fb2ef4729d",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "あの頃のAdvanced RAGは、なぜ遅くて不正確だったのか？ 今ならこう設計する",
+      "url": "https://qiita.com/Busta/items/64e1c233b040056af829?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "Busta",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-10-26T03:54:08+09:00"
+    },
+    {
       "id": "hn-50234707",
       "source": "hn",
       "title": "APC says let there be light, with standards to speed up photonics manufacturing",
@@ -1427,6 +1687,17 @@
       "date": "2026-10-25T15:34:44+00:00"
     },
     {
+      "id": "hn-50232604",
+      "source": "hn",
+      "title": "Microsoft and others tell crypto platform not to tokenize their stocks",
+      "url": "https://gizmodo.com/microsoft-mcdonalds-verizon-and-others-tell-crypto-platform-not-to-tokenize-their-stocks-2000830368",
+      "score": 77,
+      "comments": 60,
+      "author": "gumby",
+      "tags": [],
+      "date": "2026-10-25T15:28:40+00:00"
+    },
+    {
       "id": "hn-50232322",
       "source": "hn",
       "title": "Historical Telecommunications",
@@ -1466,8 +1737,8 @@
       "source": "hn",
       "title": "OpenLDK: Bringing the Java World into Common Lisp",
       "url": "https://atgreen.github.io/repl-yell/posts/openldk-java-in-common-lisp/",
-      "score": 6,
-      "comments": 0,
+      "score": 56,
+      "comments": 5,
       "author": "atgreen",
       "tags": [],
       "date": "2026-10-25T14:45:13+00:00"
@@ -2006,6 +2277,17 @@
       "author": "bobbydigitales",
       "tags": [],
       "date": "2026-10-24T19:06:55+00:00"
+    },
+    {
+      "id": "hn-50224079",
+      "source": "hn",
+      "title": "An examination of lost firefly species of the US and Canada",
+      "url": "https://journaloflostspecies.org/index.php/jls/article/view/37/33",
+      "score": 13,
+      "comments": 0,
+      "author": "bryanrasmussen",
+      "tags": [],
+      "date": "2026-10-24T19:04:42+00:00"
     },
     {
       "id": "hn-50224074",
@@ -4949,275 +5231,6 @@
       "author": "surprisetalk",
       "tags": [],
       "date": "2026-10-21T15:20:04+00:00"
-    },
-    {
-      "id": "hn-50182510",
-      "source": "hn",
-      "title": "The past, present, and future share a show floor at Pinball Expo 2026",
-      "url": "https://arstechnica.com/gaming/2026/10/the-past-present-and-future-share-a-show-floor-at-pinball-expo-2026/",
-      "score": 25,
-      "comments": 4,
-      "author": "civicpivot",
-      "tags": [],
-      "date": "2026-10-21T15:19:28+00:00"
-    },
-    {
-      "id": "qiita-6a8d0c9482",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "Amazon Linux 2023 の PHP を CVE-2026-109618 修正版へ先行ビルドする",
-      "url": "https://qiita.com/amu-kuroneko/items/46f00fbe8b5bac009c1c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "amu-kuroneko",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-10-22T00:06:05+09:00",
-      "severity": "high"
-    },
-    {
-      "id": "hn-50182130",
-      "source": "hn",
-      "title": "Delays for Pull Requests and Webhook deliveries",
-      "url": "https://www.githubstatus.com/incidents/nms1dpzmh9d9",
-      "score": 41,
-      "comments": 9,
-      "author": "bearsyankees",
-      "tags": [],
-      "date": "2026-10-21T14:56:57+00:00"
-    },
-    {
-      "id": "hn-50181175",
-      "source": "hn",
-      "title": "Patch the Planet: global response coordination as agents uncover vulnerabilities",
-      "url": "https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities/",
-      "score": 221,
-      "comments": 144,
-      "author": "nr378",
-      "tags": [],
-      "date": "2026-10-21T14:03:43+00:00",
-      "severity": "medium"
-    },
-    {
-      "id": "hn-50181137",
-      "source": "hn",
-      "title": "The No Kings Takedown Is Why You Shouldn't Rent Your Megaphone from Zuck",
-      "url": "https://www.techdirt.com/2026/10/20/accident-or-not-the-no-kings-takedown-is-why-you-shouldnt-rent-your-megaphone-from-zuck/",
-      "score": 265,
-      "comments": 196,
-      "author": "robtherobber",
-      "tags": [],
-      "date": "2026-10-21T14:01:25+00:00"
-    },
-    {
-      "id": "hn-50181136",
-      "source": "hn",
-      "title": "DuckDB 2.0.0 LTS “Cinnamon Teal”",
-      "url": "https://duckdb.org/2026/10/21/announcing-duckdb-200",
-      "score": 406,
-      "comments": 54,
-      "author": "nnx",
-      "tags": [],
-      "date": "2026-10-21T14:01:22+00:00"
-    },
-    {
-      "id": "hn-50181114",
-      "source": "hn",
-      "title": "Compromised LiteLLM 1.107.0 on PyPI Installs a Credential Stealer and Backdoor",
-      "url": "https://safedep.io/litellm-pypi-compromise-credential-stealer-backdoor/",
-      "score": 562,
-      "comments": 183,
-      "author": "abhisek",
-      "tags": [],
-      "date": "2026-10-21T14:00:26+00:00"
-    },
-    {
-      "id": "hn-50181106",
-      "source": "hn",
-      "title": "Appreciating the beauty of all your body's scars and scratches",
-      "url": "https://1000awesomethings.com/2026/10/08/576-appreciating-the-beauty-of-all-your-bodys-scars-and-scratches-4/",
-      "score": 65,
-      "comments": 39,
-      "author": "surprisetalk",
-      "tags": [],
-      "date": "2026-10-21T14:00:08+00:00"
-    },
-    {
-      "id": "hn-50181058",
-      "source": "hn",
-      "title": "PHP2Shell",
-      "url": "https://www.php2shell.com",
-      "score": 29,
-      "comments": 6,
-      "author": "nr378",
-      "tags": [],
-      "date": "2026-10-21T13:57:19+00:00"
-    },
-    {
-      "id": "hn-50180873",
-      "source": "hn",
-      "title": "PHP 8.2.35",
-      "url": "https://github.com/php/php-src/releases/tag/php-8.2.35",
-      "score": 954,
-      "comments": 528,
-      "author": "tuyuri",
-      "tags": [],
-      "date": "2026-10-21T13:45:33+00:00"
-    },
-    {
-      "id": "hn-50180836",
-      "source": "hn",
-      "title": "PHP2Shell: AI uncovers critical RCE in PHP",
-      "url": "https://www.wiz.io/blog/php2shell-php-rce",
-      "score": 307,
-      "comments": 89,
-      "author": "danlark1",
-      "tags": [],
-      "date": "2026-10-21T13:43:19+00:00",
-      "severity": "critical"
-    },
-    {
-      "id": "hn-50180799",
-      "source": "hn",
-      "title": "I reverse engineered a board game",
-      "url": "https://wuemeli.com/blog/reversing-hitster-game/",
-      "score": 45,
-      "comments": 17,
-      "author": "wuemeli",
-      "tags": [],
-      "date": "2026-10-21T13:40:31+00:00"
-    },
-    {
-      "id": "hn-50180752",
-      "source": "hn",
-      "title": "Using thousands of AI agents to uncover new leads in biological data",
-      "url": "https://openai.com/index/scaling-ai-research-for-complex-biological-data/",
-      "score": 123,
-      "comments": 75,
-      "author": "raahelb",
-      "tags": [],
-      "date": "2026-10-21T13:37:00+00:00"
-    },
-    {
-      "id": "hn-50180612",
-      "source": "hn",
-      "title": "Chip Builder is a puzzle and strategy game that teaches you chip design",
-      "url": "https://chipbuilder.org/",
-      "score": 10,
-      "comments": 1,
-      "author": "laurentiurad",
-      "tags": [],
-      "date": "2026-10-21T13:28:54+00:00"
-    },
-    {
-      "id": "hn-50180444",
-      "source": "hn",
-      "title": "Most advice is right for the person giving it",
-      "url": "https://coached.com/essays/most-advice-is-right-for-the-person-giving-it/",
-      "score": 105,
-      "comments": 83,
-      "author": "rohanm93",
-      "tags": [],
-      "date": "2026-10-21T13:17:33+00:00"
-    },
-    {
-      "id": "hn-50180257",
-      "source": "hn",
-      "title": "Show HN: Uberblok – an interactive museum of ZFS internals",
-      "url": "https://uberblok.storagebits.workers.dev/",
-      "score": 72,
-      "comments": 20,
-      "author": "storagebits",
-      "tags": [],
-      "date": "2026-10-21T13:04:25+00:00"
-    },
-    {
-      "id": "hn-50180251",
-      "source": "hn",
-      "title": "Tiling Noise – Procedural GPU Patterns",
-      "url": "https://catlikecoding.com/godot/procedural-gpu-patterns/09-tiling-noise/",
-      "score": 34,
-      "comments": 1,
-      "author": "ibobev",
-      "tags": [],
-      "date": "2026-10-21T13:04:07+00:00"
-    },
-    {
-      "id": "hn-50180079",
-      "source": "hn",
-      "title": "OpenAI models are coming to Google Cloud",
-      "url": "https://openai.com/index/openai-models-google-cloud/",
-      "score": 286,
-      "comments": 118,
-      "author": "armcat",
-      "tags": [],
-      "date": "2026-10-21T12:53:11+00:00"
-    },
-    {
-      "id": "hn-50180039",
-      "source": "hn",
-      "title": "Show HN: Sumi.css – CSS Framework",
-      "url": "https://github.com/vladocar/Sumi.css",
-      "score": 24,
-      "comments": 6,
-      "author": "bepero",
-      "tags": [],
-      "date": "2026-10-21T12:50:33+00:00"
-    },
-    {
-      "id": "hn-50179920",
-      "source": "hn",
-      "title": "Cecilia Berdichevsky, Clementina expert (1961)",
-      "url": "https://en.wikipedia.org/wiki/Cecilia_Berdichevsky",
-      "score": 29,
-      "comments": 2,
-      "author": "fedecaccia",
-      "tags": [],
-      "date": "2026-10-21T12:40:46+00:00"
-    },
-    {
-      "id": "hn-50179857",
-      "source": "hn",
-      "title": "LayerFS: The filesystem for AI coding agents",
-      "url": "https://layerfs.ai/",
-      "score": 49,
-      "comments": 26,
-      "author": "l2dy",
-      "tags": [],
-      "date": "2026-10-21T12:34:46+00:00"
-    },
-    {
-      "id": "hn-50179706",
-      "source": "hn",
-      "title": "Qwen3-Coder writes less secure code when told it's for a US persona",
-      "url": "https://www.hirundo.io/blog/qwen3-coder-vulnerabilities",
-      "score": 208,
-      "comments": 105,
-      "author": "mattifrank",
-      "tags": [],
-      "date": "2026-10-21T12:22:39+00:00"
-    },
-    {
-      "id": "hn-50179455",
-      "source": "hn",
-      "title": "9 Mothers (YC P26) Is Hiring in Austin, TX",
-      "url": "https://9mothers.com/careers",
-      "score": 1,
-      "comments": 0,
-      "author": "ukd1",
-      "tags": [],
-      "date": "2026-10-21T12:00:24+00:00"
-    },
-    {
-      "id": "hn-50179454",
-      "source": "hn",
-      "title": "John Snow Cholera Data",
-      "url": "https://johnsnow.rtwilson.com/",
-      "score": 3,
-      "comments": 0,
-      "author": "surprisetalk",
-      "tags": [],
-      "date": "2026-10-21T12:00:21+00:00"
     },
     {
       "id": "ctf-4867158",

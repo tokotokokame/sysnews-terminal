@@ -1,14 +1,47 @@
 {
-  "updated_at": "2026-11-06T23:24:03.500204+00:00",
+  "updated_at": "2026-11-07T03:01:22.086962+00:00",
   "count": 500,
   "items": [
     {
+      "id": "hn-50400597",
+      "source": "hn",
+      "title": "I Toured Unitree's Factory. I'm More Bullish on the West",
+      "url": "https://josef.cn/blog/unitree",
+      "score": 35,
+      "comments": 22,
+      "author": "josefchen",
+      "tags": [],
+      "date": "2026-11-07T01:05:16+00:00"
+    },
+    {
+      "id": "hn-50399991",
+      "source": "hn",
+      "title": "RealPage rent-pricing case wraps with nearly $360M to renters",
+      "url": "https://www.multifamilydive.com/news/realpage-rent-pricing-case-360m-renters/873553/",
+      "score": 35,
+      "comments": 8,
+      "author": "raybb",
+      "tags": [],
+      "date": "2026-11-06T23:37:19+00:00"
+    },
+    {
+      "id": "hn-50399933",
+      "source": "hn",
+      "title": "Libghostty 1.0",
+      "url": "https://mitchellh.com/writing/libghostty-1-0",
+      "score": 256,
+      "comments": 39,
+      "author": "mfiguiere",
+      "tags": [],
+      "date": "2026-11-06T23:30:52+00:00"
+    },
+    {
       "id": "hn-50399657",
       "source": "hn",
-      "title": "CATL Sodium Battery Hits LFP Cost Parity in 2026: 15,000 Cycles, 30-Year Life",
-      "url": "https://ievchina.com/energy-storage/catl-sodium-battery-cost-parity-lfp-2026-15000-cycles/",
-      "score": 20,
-      "comments": 5,
+      "title": "Sodium-ion batteries approach cost parity with LFP",
+      "url": "https://www.pv-magazine.com/2026/11/06/sodium-ion-batteries-approach-cost-parity-with-lfp-with-70-gwh-covered-by-supply-agreements/",
+      "score": 139,
+      "comments": 59,
       "author": "doener",
       "tags": [],
       "date": "2026-11-06T23:00:46+00:00"
@@ -18,19 +51,30 @@
       "source": "hn",
       "title": "ChatGPT silently passes data between connectors and the bounty wants an ID card",
       "url": "https://community.openai.com/t/security-follow-up-tool-call-silently-routed-to-a-different-connector/1413053",
-      "score": 20,
-      "comments": 3,
+      "score": 79,
+      "comments": 35,
       "author": "Aldipower",
       "tags": [],
       "date": "2026-11-06T22:50:43+00:00"
+    },
+    {
+      "id": "hn-50398625",
+      "source": "hn",
+      "title": "88x31 GIF Stickers for 2026",
+      "url": "https://a90.com/experiments/88x31/",
+      "score": 39,
+      "comments": 4,
+      "author": "saint11",
+      "tags": [],
+      "date": "2026-11-06T21:13:18+00:00"
     },
     {
       "id": "hn-50397994",
       "source": "hn",
       "title": "AI is dramatically accelerating AI research",
       "url": "https://www.planned-obsolescence.org/p/ai-is-dramatically-accelerating-ai",
-      "score": 144,
-      "comments": 87,
+      "score": 215,
+      "comments": 164,
       "author": "yurivish",
       "tags": [],
       "date": "2026-11-06T20:27:23+00:00"
@@ -40,8 +84,8 @@
       "source": "hn",
       "title": "Google has acquired Crusoe's data center site in southeast Wyoming",
       "url": "https://www.crusoe.ai/resources/newsroom/crusoe-wyoming-data-center-campus-update",
-      "score": 16,
-      "comments": 2,
+      "score": 44,
+      "comments": 8,
       "author": "rexbee",
       "tags": [],
       "date": "2026-11-06T20:09:14+00:00"
@@ -51,8 +95,8 @@
       "source": "hn",
       "title": "A Jev that can ask Opus for help gives Opus accuracy at 4x lower cost",
       "url": "https://hightouch.com/blog/llm-judges-identity-resolution",
-      "score": 257,
-      "comments": 54,
+      "score": 360,
+      "comments": 81,
       "author": "theanomaly",
       "tags": [],
       "date": "2026-11-06T19:48:51+00:00"
@@ -62,19 +106,30 @@
       "source": "hn",
       "title": "Firecracker VM Escape: PwnEscape Part 2",
       "url": "https://pwn.ai/blog/firecracker-escape",
-      "score": 130,
-      "comments": 66,
+      "score": 182,
+      "comments": 81,
       "author": "SerCe",
       "tags": [],
       "date": "2026-11-06T19:33:38+00:00"
+    },
+    {
+      "id": "hn-50397099",
+      "source": "hn",
+      "title": "GitHub's new Git storage architecture",
+      "url": "https://github.blog/engineering/architecture-optimization/inside-githubs-new-git-storage-architecture/",
+      "score": 78,
+      "comments": 12,
+      "author": "DAlperin",
+      "tags": [],
+      "date": "2026-11-06T19:24:21+00:00"
     },
     {
       "id": "hn-50397017",
       "source": "hn",
       "title": "Restaurant Delivery Payment-Skimming Campaign",
       "url": "https://www.infohawk.com/news/2026-11-05-scamwich-restaurant-skimming",
-      "score": 64,
-      "comments": 25,
+      "score": 99,
+      "comments": 45,
       "author": "fiej",
       "tags": [],
       "date": "2026-11-06T19:19:27+00:00"
@@ -84,8 +139,8 @@
       "source": "hn",
       "title": "Replit rebuilt its sandbox engine with microVMs",
       "url": "https://frontier.replit.com/sandbox-engine-microvms-part-1/",
-      "score": 47,
-      "comments": 12,
+      "score": 71,
+      "comments": 19,
       "author": "gaplong",
       "tags": [],
       "date": "2026-11-06T19:06:10+00:00"
@@ -106,8 +161,8 @@
       "source": "hn",
       "title": "Memorilla: Latent Semantic Memory for LLMs",
       "url": "https://arxiv.org/abs/2610.21375",
-      "score": 71,
-      "comments": 5,
+      "score": 91,
+      "comments": 8,
       "author": "handfuloflight",
       "tags": [],
       "date": "2026-11-06T18:03:33+00:00"
@@ -128,8 +183,8 @@
       "source": "hn",
       "title": "Devvm.dev: One VM for every project",
       "url": "https://devvm.dev/",
-      "score": 85,
-      "comments": 44,
+      "score": 124,
+      "comments": 53,
       "author": "luispa",
       "tags": [],
       "date": "2026-11-06T17:30:22+00:00"
@@ -172,8 +227,8 @@
       "source": "hn",
       "title": "First steps in bare-metal programming using UEFI",
       "url": "https://kevinboone.me/efitest_index.html",
-      "score": 161,
-      "comments": 30,
+      "score": 196,
+      "comments": 34,
       "author": "LaSombra",
       "tags": [],
       "date": "2026-11-06T16:50:29+00:00"
@@ -271,8 +326,8 @@
       "source": "hn",
       "title": "Gemini Omni 1.2 Flash",
       "url": "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-omni-1-2-flash/",
-      "score": 282,
-      "comments": 212,
+      "score": 302,
+      "comments": 220,
       "author": "thisisauserid",
       "tags": [],
       "date": "2026-11-06T13:35:27+00:00"
@@ -282,8 +337,8 @@
       "source": "hn",
       "title": "Tesla to wind down Cybertruck production",
       "url": "https://www.nbcnews.com/tech/tech-news/tesla-wind-cybertruck-production-years-poor-sales-markets-rcna607817",
-      "score": 773,
-      "comments": 1599,
+      "score": 874,
+      "comments": 1736,
       "author": "PLenz",
       "tags": [],
       "date": "2026-11-06T12:13:51+00:00"
@@ -502,8 +557,8 @@
       "source": "hn",
       "title": "US FAA says it will phase out floppy disks from air traffic control by 2028",
       "url": "https://www.reuters.com/world/us/us-faa-says-it-will-phase-out-floppy-disks-air-traffic-control-by-2028-2026-11-05/",
-      "score": 249,
-      "comments": 202,
+      "score": 290,
+      "comments": 229,
       "author": "ChrisArchitect",
       "tags": [],
       "date": "2026-11-06T04:00:28+00:00"
@@ -933,8 +988,8 @@
       "source": "hn",
       "title": "Show HN: Waymark – A workflow engine that compiles jobs instead of replaying",
       "url": "https://github.com/piercefreeman/waymark",
-      "score": 27,
-      "comments": 5,
+      "score": 46,
+      "comments": 15,
       "author": "icyfox",
       "tags": [],
       "date": "2026-11-05T14:06:31+00:00"
@@ -2034,6 +2089,17 @@
       "date": "2026-11-04T11:39:57+09:00"
     },
     {
+      "id": "hn-50360810",
+      "source": "hn",
+      "title": "Greece has its own Pompeii: Thera buried Akrotiri in ash 17th-16th century BCE",
+      "url": "https://www.smithsonianmag.com/history/greece-has-its-own-pompeii-and-the-ruins-tell-a-captivating-story-of-a-sophisticated-seafaring-bronze-age-society-180989747/",
+      "score": 32,
+      "comments": 1,
+      "author": "derbOac",
+      "tags": [],
+      "date": "2026-11-04T02:19:16+00:00"
+    },
+    {
       "id": "hn-50360573",
       "source": "hn",
       "title": "Giant canyon on Mars is still tectonically active",
@@ -2234,6 +2300,17 @@
       "date": "2026-11-03T19:25:18+00:00"
     },
     {
+      "id": "hn-50356722",
+      "source": "hn",
+      "title": "Panthera: Ampere's CPU Performance Model",
+      "url": "https://github.com/AmpereComputing/panthera",
+      "score": 9,
+      "comments": 0,
+      "author": "mshockwave",
+      "tags": [],
+      "date": "2026-11-03T19:12:17+00:00"
+    },
+    {
       "id": "hn-50355767",
       "source": "hn",
       "title": "How I use AI (Oct 2026)",
@@ -2265,6 +2342,17 @@
       "author": "theanonymousone",
       "tags": [],
       "date": "2026-11-03T17:40:00+00:00"
+    },
+    {
+      "id": "hn-50355009",
+      "source": "hn",
+      "title": "Show HN: Tmux-restore saves tmux windows and agent sessions across reboots",
+      "url": "https://github.com/andrewboldi/tmux-restore",
+      "score": 6,
+      "comments": 1,
+      "author": "boldi",
+      "tags": [],
+      "date": "2026-11-03T17:25:21+00:00"
     },
     {
       "id": "hn-50354960",
@@ -2321,6 +2409,17 @@
       "author": "1equalsequals1",
       "tags": [],
       "date": "2026-11-03T16:40:02+00:00"
+    },
+    {
+      "id": "hn-50354097",
+      "source": "hn",
+      "title": "Can GROUP BY still be optimized after all these years?",
+      "url": "https://pivotlake.io/blog/know-your-limit-faster-top-k-aggregation/",
+      "score": 49,
+      "comments": 2,
+      "author": "ntur1337",
+      "tags": [],
+      "date": "2026-11-03T16:30:23+00:00"
     },
     {
       "id": "qiita-305073b8d9",
@@ -5137,106 +5236,6 @@
       "date": "2026-10-31T05:30:48+09:00"
     },
     {
-      "id": "hn-50309647",
-      "source": "hn",
-      "title": "Through Captain Jean-Luc Picard, Patrick Stewart taught us the measure of a man",
-      "url": "https://www.bostonglobe.com/2026/10/29/metro/patrick-stewart-picard-star-trek-the-next-generation/",
-      "score": 303,
-      "comments": 174,
-      "author": "apress",
-      "tags": [],
-      "date": "2026-10-30T20:23:30+00:00"
-    },
-    {
-      "id": "hn-50309314",
-      "source": "hn",
-      "title": "Jules Verne's Lost Novel",
-      "url": "https://blue-continuum.com/verne-paris",
-      "score": 103,
-      "comments": 27,
-      "author": "dnetesn",
-      "tags": [],
-      "date": "2026-10-30T19:55:10+00:00"
-    },
-    {
-      "id": "hn-50309279",
-      "source": "hn",
-      "title": "Pilot-wave hydrodynamics (Quantum phenomena in macroscopic hydrodynamic systems)",
-      "url": "http://thales.mit.edu/bush/index.php/4801-2/",
-      "score": 29,
-      "comments": 3,
-      "author": "peter_d_sherman",
-      "tags": [],
-      "date": "2026-10-30T19:52:56+00:00"
-    },
-    {
-      "id": "hn-50309266",
-      "source": "hn",
-      "title": "The oldest ice disappears and the Stone Age emerges from it",
-      "url": "https://www.sciencenorway.no/archaeology-climate-culture/the-oldest-ice-is-disappearing-the-stone-age-is-emerging-from-the-melting-ice/2713921",
-      "score": 178,
-      "comments": 78,
-      "author": "dxs",
-      "tags": [],
-      "date": "2026-10-30T19:51:33+00:00"
-    },
-    {
-      "id": "hn-50309029",
-      "source": "hn",
-      "title": "Infinite Mac: BeOS",
-      "url": "https://blog.persistent.info/2026/10/infinite-mac-beos.html",
-      "score": 152,
-      "comments": 60,
-      "author": "ecliptik",
-      "tags": [],
-      "date": "2026-10-30T19:30:09+00:00"
-    },
-    {
-      "id": "hn-50308986",
-      "source": "hn",
-      "title": "A Pickpocket's Guide to New York",
-      "url": "https://www.newyorker.com/magazine/2026/11/02/a-pickpockets-guide-to-new-york",
-      "score": 45,
-      "comments": 6,
-      "author": "prismatic",
-      "tags": [],
-      "date": "2026-10-30T19:26:39+00:00"
-    },
-    {
-      "id": "hn-50308754",
-      "source": "hn",
-      "title": "Copper – A minimal low-level programming language with OOP and generics",
-      "url": "https://tibleiz.net/copper/",
-      "score": 182,
-      "comments": 99,
-      "author": "bogdanoff_2",
-      "tags": [],
-      "date": "2026-10-30T19:09:33+00:00"
-    },
-    {
-      "id": "hn-50308697",
-      "source": "hn",
-      "title": "Bunny CDN Security Incident",
-      "url": "https://status.bunny.net/incidents/p6gf1by9kr7m",
-      "score": 184,
-      "comments": 37,
-      "author": "SondreDag",
-      "tags": [],
-      "date": "2026-10-30T19:05:22+00:00"
-    },
-    {
-      "id": "hn-50308471",
-      "source": "hn",
-      "title": "What happened to 145 Nasdaq companies after the $1 warning letter",
-      "url": "https://equibles.com/research/nasdaqs-1-warning-most-companies-stay-listed-most-shares-fall",
-      "score": 13,
-      "comments": 1,
-      "author": "daniel3303",
-      "tags": [],
-      "date": "2026-10-30T18:50:25+00:00",
-      "severity": "medium"
-    },
-    {
       "id": "ctf-4867158",
       "source": "project",
       "proj_category": "CTF",
@@ -5447,6 +5446,45 @@
       "date": "2023-05-23T17:06:23Z"
     },
     {
+      "id": "zenn-f7880dbf50",
+      "source": "zennqiita",
+      "sub_source": "Zenn",
+      "title": "[破壊的変更] 明治時代の開始日が変更になって単体テストが失敗した件",
+      "url": "https://zenn.dev/xin9le/articles/9a1cf8e10494d6",
+      "score": null,
+      "author": "xin9le",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Fri, 06 Nov 2026 14:39:45 GMT"
+    },
+    {
+      "id": "zenn-07750019f1",
+      "source": "zennqiita",
+      "sub_source": "Zenn",
+      "title": "Web 標準動向 2026年10月版",
+      "url": "https://zenn.dev/cybozu_frontend/articles/web-standards-trends-202610",
+      "score": null,
+      "author": "kuracchi",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Fri, 06 Nov 2026 09:08:06 GMT"
+    },
+    {
+      "id": "zenn-8d6f0721b5",
+      "source": "zennqiita",
+      "sub_source": "Zenn",
+      "title": "タスク管理までAIエージェントに任せたら、確認待ちに答えるだけになった",
+      "url": "https://zenn.dev/rescuenow/articles/4c03a548cd6589",
+      "score": null,
+      "author": "しもち",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Fri, 06 Nov 2026 08:59:24 GMT"
+    },
+    {
       "id": "zenn-eff3efd428",
       "source": "zennqiita",
       "sub_source": "Zenn",
@@ -5473,56 +5511,17 @@
       "date": "Fri, 06 Nov 2026 03:01:26 GMT"
     },
     {
-      "id": "zenn-7f3d0d2833",
+      "id": "zenn-929461ab59",
       "source": "zennqiita",
       "sub_source": "Zenn",
-      "title": "freeeインターン 2週間で掴んだ仕事の進め方 ― 夏インターンを終えて",
-      "url": "https://zenn.dev/amanon/articles/1bbf5afc0fbf9f",
+      "title": "Security Hub の SBOM インベントリで、Athena を使わずに組織全体のソフトウェアを調べてみた",
+      "url": "https://zenn.dev/cscloud_blog/articles/securityhub-sbom-inventory",
       "score": null,
-      "author": "KoueiAmano",
+      "author": "平木 佳介",
       "tags": [
         "Zenn"
       ],
-      "date": "Fri, 06 Nov 2026 01:48:50 GMT"
-    },
-    {
-      "id": "zenn-171ac97f0a",
-      "source": "zennqiita",
-      "sub_source": "Zenn",
-      "title": "今更だけど、AIってどう使えばいいの？",
-      "url": "https://zenn.dev/porters_tech/articles/4f6e5cc83aa74c",
-      "score": null,
-      "author": "jongchan.lee",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Fri, 06 Nov 2026 01:00:05 GMT"
-    },
-    {
-      "id": "zenn-ec0a0fc220",
-      "source": "zennqiita",
-      "sub_source": "Zenn",
-      "title": "spec as code ではなく、code as spec — 仕様書のように書かれたコードを正にする",
-      "url": "https://zenn.dev/ruri/articles/code-as-spec",
-      "score": null,
-      "author": "atsushi ootani",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Thu, 05 Nov 2026 23:00:05 GMT"
-    },
-    {
-      "id": "zenn-f72fe248b7",
-      "source": "zennqiita",
-      "sub_source": "Zenn",
-      "title": "AWSでデータレイクハウスを構築してApache Icebergの更新・履歴管理を検証した",
-      "url": "https://zenn.dev/kkoch5t2/articles/aws-iceberg-lakehouse-lab",
-      "score": null,
-      "author": "kota",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Thu, 05 Nov 2026 17:56:30 GMT"
+      "date": "Fri, 06 Nov 2026 00:00:00 GMT"
     },
     {
       "id": "zenn-6972a4d1df",
@@ -5564,17 +5563,17 @@
       "date": "Thu, 05 Nov 2026 11:54:56 GMT"
     },
     {
-      "id": "zenn-2d6bfe8cb8",
+      "id": "zenn-74ab9c76d2",
       "source": "zennqiita",
       "sub_source": "Zenn",
-      "title": "【.NET 11】SafeFileHandleの新規APIでハマった点について",
-      "url": "https://zenn.dev/prozolic/articles/f74a9711a6a22c",
+      "title": "AI生成コードを本番品質に保つためのフロントエンド開発の仕組み",
+      "url": "https://zenn.dev/sun_asterisk/articles/d4e4bc24974b99",
       "score": null,
-      "author": "prozolic",
+      "author": "Phung Dinh Son",
       "tags": [
         "Zenn"
       ],
-      "date": "Thu, 05 Nov 2026 11:52:20 GMT"
+      "date": "Thu, 05 Nov 2026 09:00:55 GMT"
     },
     {
       "id": "zenn-a538ffe078",
@@ -5603,19 +5602,6 @@
       "date": "Thu, 05 Nov 2026 04:29:39 GMT"
     },
     {
-      "id": "zenn-ce3ab2d535",
-      "source": "zennqiita",
-      "sub_source": "Zenn",
-      "title": "Claude CodeからPremiere Proを290回動かして、53分のPodcastを全自動編集してみた",
-      "url": "https://zenn.dev/salt2/articles/2b6e403e059b10",
-      "score": null,
-      "author": "奏良",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Wed, 04 Nov 2026 12:33:10 GMT"
-    },
-    {
       "id": "zenn-b98fe6ce77",
       "source": "zennqiita",
       "sub_source": "Zenn",
@@ -5627,6 +5613,19 @@
         "Zenn"
       ],
       "date": "Wed, 04 Nov 2026 11:54:39 GMT"
+    },
+    {
+      "id": "zenn-5dadf3a05b",
+      "source": "zennqiita",
+      "sub_source": "Zenn",
+      "title": "SigLIP2に匹敵する画像エンコーダーをフルスクラッチで開発した話",
+      "url": "https://zenn.dev/noetra_techblog/articles/0cea39ce67d2c2",
+      "score": null,
+      "author": "Mikihiro Tanaka",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Wed, 04 Nov 2026 05:42:59 GMT"
     },
     {
       "id": "zenn-803b95cb07",

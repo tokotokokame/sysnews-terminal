@@ -1,14 +1,117 @@
 {
-  "updated_at": "2026-11-08T18:40:07.430002+00:00",
+  "updated_at": "2026-11-08T22:40:13.391454+00:00",
   "count": 500,
   "items": [
     {
+      "id": "hn-50418016",
+      "source": "hn",
+      "title": "Nvidia CEO Jensen Huang's letter to staff about affair",
+      "url": "https://www.axios.com/2026/11/08/nvidia-ceo-jensen-huang-affair-email-to-company",
+      "score": 10,
+      "comments": 0,
+      "author": "karimf",
+      "tags": [],
+      "date": "2026-11-08T22:20:09+00:00"
+    },
+    {
+      "id": "hn-50416801",
+      "source": "hn",
+      "title": "Nvidia Board of Directors Is Investigating Jensen Huang",
+      "url": "https://nvidianews.nvidia.com/news/statement-from-nvidia-board-of-directors",
+      "score": 283,
+      "comments": 209,
+      "author": "vincentchau",
+      "tags": [],
+      "date": "2026-11-08T20:26:43+00:00"
+    },
+    {
+      "id": "hn-50416456",
+      "source": "hn",
+      "title": "The Web Is More Than Enough, by Paul Ford",
+      "url": "https://ftrain.com/aboard-the-web-is-more-than-enough",
+      "score": 27,
+      "comments": 11,
+      "author": "edward",
+      "tags": [],
+      "date": "2026-11-08T19:48:32+00:00"
+    },
+    {
+      "id": "hn-50416363",
+      "source": "hn",
+      "title": "How I Fight AI Brain Fry",
+      "url": "https://sergeykuhne.com/blog/fighting-ai-brain-fry",
+      "score": 112,
+      "comments": 94,
+      "author": "kyunez",
+      "tags": [],
+      "date": "2026-11-08T19:37:42+00:00"
+    },
+    {
+      "id": "hn-50416158",
+      "source": "hn",
+      "title": "Outlook.com Is Quietly Rejecting Email from Domains Without DMARC",
+      "url": "https://mailroute.net/blog/outlook-rejecting-email-without-dmarc",
+      "score": 151,
+      "comments": 125,
+      "author": "xmddmx",
+      "tags": [],
+      "date": "2026-11-08T19:20:32+00:00"
+    },
+    {
+      "id": "qiita-0e18c9726d",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "部品の脆弱性は、どこまで広がるのか？ 主要 64 製品と 8 部品の依存関係をたどったら、OpenSSL は 20、SQLite は 16、PHP は 11 だった",
+      "url": "https://qiita.com/songchong/items/41a88eb41845af761b19?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "songchong",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-11-09T04:10:12+09:00",
+      "severity": "high"
+    },
+    {
+      "id": "hn-50416053",
+      "source": "hn",
+      "title": "Dux: Free, open-source Wayland desktop shell with file manager and theming",
+      "url": "https://duxlabs.dev/",
+      "score": 126,
+      "comments": 41,
+      "author": "indigodaddy",
+      "tags": [],
+      "date": "2026-11-08T19:08:51+00:00",
+      "severity": "critical"
+    },
+    {
+      "id": "hn-50416014",
+      "source": "hn",
+      "title": "Playing with the STM32MP2",
+      "url": "https://serd.es/2026/11/08/playing-with-stm32mp2.html",
+      "score": 16,
+      "comments": 3,
+      "author": "dverlaeckt80",
+      "tags": [],
+      "date": "2026-11-08T19:04:07+00:00"
+    },
+    {
+      "id": "hn-50415750",
+      "source": "hn",
+      "title": "Playing Zork 1 on a CP/M emulator on Linux (2021)",
+      "url": "https://kevinboone.me/cpmzork.html",
+      "score": 21,
+      "comments": 11,
+      "author": "linuxkernal",
+      "tags": [],
+      "date": "2026-11-08T18:33:50+00:00"
+    },
+    {
       "id": "hn-50415628",
       "source": "hn",
-      "title": "Goldman Sachs Is Pulling Claude Code from Its Bankers and Traders",
+      "title": "Goldman Sachs is pulling Claude Code from its bankers and traders",
       "url": "https://www.thestateofai.com/news/goldman-sachs-claude-code-traders-bankers",
-      "score": 13,
-      "comments": 0,
+      "score": 491,
+      "comments": 307,
       "author": "TheWiggles",
       "tags": [],
       "date": "2026-11-08T18:16:07+00:00"
@@ -18,8 +121,8 @@
       "source": "hn",
       "title": "A Little Snitch for Windows",
       "url": "https://packethound.app/",
-      "score": 10,
-      "comments": 1,
+      "score": 74,
+      "comments": 35,
       "author": "BadBoyBubby",
       "tags": [],
       "date": "2026-11-08T17:16:07+00:00"
@@ -29,8 +132,8 @@
       "source": "hn",
       "title": "A field guide to CAPTCHA types and how they break",
       "url": "https://github.com/vsmutok/FuckCaptcha",
-      "score": 17,
-      "comments": 2,
+      "score": 41,
+      "comments": 12,
       "author": "vasylsmutok",
       "tags": [],
       "date": "2026-11-08T17:09:55+00:00"
@@ -40,8 +143,8 @@
       "source": "hn",
       "title": "I'm not a fan of Deno's security model (2024)",
       "url": "https://goldstein.lol/posts/deno-security/",
-      "score": 39,
-      "comments": 17,
+      "score": 75,
+      "comments": 33,
       "author": "maxloh",
       "tags": [],
       "date": "2026-11-08T14:42:38+00:00"
@@ -51,8 +154,8 @@
       "source": "hn",
       "title": "How to prove equations using diagrams, part 1",
       "url": "https://www.epatters.org/post/e-graphs-1/",
-      "score": 26,
-      "comments": 3,
+      "score": 57,
+      "comments": 4,
       "author": "frostbyte7",
       "tags": [],
       "date": "2026-11-08T12:51:38+00:00"
@@ -80,12 +183,25 @@
       "date": "2026-11-08T10:56:43+00:00"
     },
     {
+      "id": "qiita-1fed4ec97b",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "AIエージェントのための git worktree の使い方",
+      "url": "https://qiita.com/sf-12/items/34ddfb7d7f245085fb2b?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "sf-12",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-11-08T19:52:57+09:00"
+    },
+    {
       "id": "hn-50412072",
       "source": "hn",
       "title": "JIT bitmap text rendering for microcontrollers",
       "url": "https://linebender.org/blog/jit-bitmap-text/",
-      "score": 75,
-      "comments": 11,
+      "score": 90,
+      "comments": 15,
       "author": "dmit",
       "tags": [],
       "date": "2026-11-08T10:42:15+00:00"
@@ -95,8 +211,8 @@
       "source": "hn",
       "title": "Writing as a thinking tool",
       "url": "http://muratbuffalo.blogspot.com/2026/11/writing-as-thinking-tool.html",
-      "score": 148,
-      "comments": 42,
+      "score": 248,
+      "comments": 74,
       "author": "jruohonen",
       "tags": [],
       "date": "2026-11-08T10:41:52+00:00"
@@ -106,11 +222,25 @@
       "source": "hn",
       "title": "Llama-modchip: 284B DeepSeek on 64GB RAM, no GPU",
       "url": "https://github.com/synchopate/llama-modchip",
-      "score": 249,
-      "comments": 79,
+      "score": 326,
+      "comments": 127,
       "author": "joshcsimmons",
       "tags": [],
       "date": "2026-11-08T10:22:04+00:00"
+    },
+    {
+      "id": "qiita-3165282a1d",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "脆弱性の情報は間に合っている？ 英語は 2 時間以内、悪用は 4 割が 1 日以内、日本語は中央値 4.6 日後。悪用された 74 件を調べて分かった",
+      "url": "https://qiita.com/songchong/items/b3c6c879f03f9bb665d3?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "songchong",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-11-08T18:54:47+09:00",
+      "severity": "high"
     },
     {
       "id": "qiita-72ae3ce5ca",
@@ -126,6 +256,19 @@
       "date": "2026-11-08T18:43:07+09:00"
     },
     {
+      "id": "qiita-b53052bd0b",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "【AWS初心者】AWSの基礎を学び、VPCとサブネットを作成してみた",
+      "url": "https://qiita.com/nt_a_yamada/items/e0d114eec727a23f8bec?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "nt_a_yamada",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-11-08T18:34:56+09:00"
+    },
+    {
       "id": "hn-50411467",
       "source": "hn",
       "title": "Agent memory needs its OpenTelemetry moment",
@@ -137,6 +280,32 @@
       "date": "2026-11-08T08:40:23+00:00"
     },
     {
+      "id": "qiita-bad46d9731",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "【React】再レンダリングが起きるタイミングと memo / useCallback で防ぐ方法",
+      "url": "https://qiita.com/Tukirukiki/items/583d75fdee91bc129610?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "Tukirukiki",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-11-08T17:26:55+09:00"
+    },
+    {
+      "id": "qiita-6423d81e27",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "JAWS FESTA 2026 in AKITA に参加できなかったので、資料だけでも見たい！と思ってまとめました！",
+      "url": "https://qiita.com/kurracchi_enj/items/ce0098bd28fa043c1e5f?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "kurracchi_enj",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-11-08T16:43:07+09:00"
+    },
+    {
       "id": "hn-50411083",
       "source": "hn",
       "title": "WaveDudeNext 2D Wave Simulator",
@@ -146,6 +315,19 @@
       "author": "sweetdingoes",
       "tags": [],
       "date": "2026-11-08T07:09:02+00:00"
+    },
+    {
+      "id": "qiita-b9937b8b27",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "【AgentCore】エージェントのハンズオンをブラウザの中だけで完結させる教材を作った",
+      "url": "https://qiita.com/ryu-ki/items/a6cb026b2d3a54d175cc?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "ryu-ki",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-11-08T15:17:42+09:00"
     },
     {
       "id": "qiita-5cd2239863",
@@ -213,8 +395,8 @@
       "source": "hn",
       "title": "Goodbye Claude, hello Pi",
       "url": "https://caleb.software/posts/claude-to-pi.html",
-      "score": 580,
-      "comments": 372,
+      "score": 661,
+      "comments": 414,
       "author": "karagenit",
       "tags": [],
       "date": "2026-11-08T03:11:48+00:00"
@@ -280,6 +462,19 @@
         "Qiita"
       ],
       "date": "2026-11-08T10:30:05+09:00"
+    },
+    {
+      "id": "qiita-25fb330f9b",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "dots vs Muse",
+      "url": "https://qiita.com/enoshiman/items/7bbe521d2d094f4d3e81?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "enoshiman",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-11-08T08:58:33+09:00"
     },
     {
       "id": "hn-50408961",
@@ -378,8 +573,8 @@
       "source": "hn",
       "title": "Claude Code's \"Don't Ask Again\" exposes passwords in 1,122 public GitHub files",
       "url": "https://apiiro.com/blog/coding-agents-leaking-secrets-github-dont-ask-again",
-      "score": 513,
-      "comments": 374,
+      "score": 569,
+      "comments": 387,
       "author": "shmulc",
       "tags": [],
       "date": "2026-11-07T20:45:32+00:00"
@@ -1145,6 +1340,19 @@
       "date": "2026-11-06T13:35:27+00:00"
     },
     {
+      "id": "qiita-a9b7b53988",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "東京リージョンで使っていてもバージニア北部に依存しているもの",
+      "url": "https://qiita.com/yama3133/items/5416c243e14a5406dd6f?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "yama3133",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-11-06T22:18:11+09:00"
+    },
+    {
       "id": "hn-50391456",
       "source": "hn",
       "title": "Tesla to wind down Cybertruck production",
@@ -1244,8 +1452,8 @@
       "source": "hn",
       "title": "The Reconstruction of Torn Documents",
       "url": "https://www.bundesarchiv.de/en/stasi-records-archive/the-reconstruction-of-torn-documents/",
-      "score": 47,
-      "comments": 29,
+      "score": 81,
+      "comments": 47,
       "author": "jacquesm",
       "tags": [],
       "date": "2026-11-06T09:05:18+00:00"
@@ -2529,6 +2737,17 @@
       "date": "2026-11-04T23:33:14+00:00"
     },
     {
+      "id": "hn-50372838",
+      "source": "hn",
+      "title": "Edward Hopper's Iconic Painting, \"Nighthawks",
+      "url": "https://lithub.com/the-story-behind-edward-hoppers-iconic-painting-nighthawks/",
+      "score": 46,
+      "comments": 12,
+      "author": "prismatic",
+      "tags": [],
+      "date": "2026-11-04T23:23:08+00:00"
+    },
+    {
       "id": "qiita-8d3929fd10",
       "source": "zennqiita",
       "sub_source": "Qiita",
@@ -2768,6 +2987,17 @@
       "date": "2026-11-04T17:17:46+00:00"
     },
     {
+      "id": "hn-50368481",
+      "source": "hn",
+      "title": "Declarative Dragging",
+      "url": "https://declarative-dragging.github.io/",
+      "score": 219,
+      "comments": 26,
+      "author": "smusamashah",
+      "tags": [],
+      "date": "2026-11-04T17:05:07+00:00"
+    },
+    {
       "id": "hn-50368291",
       "source": "hn",
       "title": "Annie Ernaux still feels like an outsider",
@@ -2886,8 +3116,8 @@
       "source": "hn",
       "title": "Porting Android 16 to my blind mother's keypad phone",
       "url": "https://z1x.us/blog/four-hundred-bucks-of-e-waste",
-      "score": 103,
-      "comments": 32,
+      "score": 141,
+      "comments": 41,
       "author": "z1xus",
       "tags": [],
       "date": "2026-11-04T15:18:59+00:00"
@@ -3095,8 +3325,8 @@
       "source": "hn",
       "title": "Show HN: Vegetable Gardening for Engineers",
       "url": "https://jrcpl.us/contrib/2020/gardening-for-engineers/",
-      "score": 47,
-      "comments": 11,
+      "score": 132,
+      "comments": 25,
       "author": "jrcplus",
       "tags": [],
       "date": "2026-11-04T08:54:27+00:00"
@@ -3669,6 +3899,17 @@
       "author": "ntur1337",
       "tags": [],
       "date": "2026-11-03T16:30:23+00:00"
+    },
+    {
+      "id": "hn-50353814",
+      "source": "hn",
+      "title": "The History of Djgpp",
+      "url": "https://www.delorie.com/djgpp/history.html",
+      "score": 16,
+      "comments": 4,
+      "author": "atan2",
+      "tags": [],
+      "date": "2026-11-03T16:10:37+00:00"
     },
     {
       "id": "qiita-305073b8d9",
@@ -4996,242 +5237,6 @@
       "author": "thebigship",
       "tags": [],
       "date": "2026-11-02T02:21:07+00:00"
-    },
-    {
-      "id": "hn-50332163",
-      "source": "hn",
-      "title": "F/OSS Comics #13: BSD Unix, Part 3 – The Beginning of BSD Unix",
-      "url": "https://fosscomics.com/posts/13.%20BSD%20Unix%20Part%203%20-%20The%20Beginning%20of%20BSD%20Unix/",
-      "score": 157,
-      "comments": 19,
-      "author": "joonehur",
-      "tags": [],
-      "date": "2026-11-02T01:59:38+00:00"
-    },
-    {
-      "id": "hn-50332086",
-      "source": "hn",
-      "title": "AI fan wikis riddled with errors are muddying the waters of games culture",
-      "url": "https://www.eurogamer.net/ai-fan-wikis-errors-complicating-games-culture",
-      "score": 46,
-      "comments": 17,
-      "author": "rdmuser",
-      "tags": [],
-      "date": "2026-11-02T01:47:07+00:00"
-    },
-    {
-      "id": "hn-50331988",
-      "source": "hn",
-      "title": "Optical Circuit Switch Technology Built on Low-Loss Silicon Photonics Platform",
-      "url": "https://www.psiquantum.com/news-import/psiquantum-unveils-optical-circuit-switch-technology-built-on-advanced-low-loss-silicon-photonics-platform",
-      "score": 13,
-      "comments": 1,
-      "author": "gmays",
-      "tags": [],
-      "date": "2026-11-02T01:34:16+00:00"
-    },
-    {
-      "id": "hn-50331957",
-      "source": "hn",
-      "title": "Bones may release proteins that slow aging and extend life span",
-      "url": "https://www.science.org/content/article/bones-may-release-proteins-slow-aging-and-extend-life-span",
-      "score": 152,
-      "comments": 43,
-      "author": "EA-3167",
-      "tags": [],
-      "date": "2026-11-02T01:31:07+00:00"
-    },
-    {
-      "id": "qiita-1924b6987a",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "新しいRAG「Decision RAG」は速い！安い！上手い！🍜",
-      "url": "https://qiita.com/kikuziro/items/cc82e6e4e4c215eac99f?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "kikuziro",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-11-02T10:19:12+09:00"
-    },
-    {
-      "id": "qiita-8fd0866030",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "2026年11月2日 今日のQiitaトレンド記事をポッドキャストで聴こう！",
-      "url": "https://qiita.com/ennagara128/items/e3cd5d12d9ffada2807e?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "ennagara128",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-11-02T10:18:31+09:00"
-    },
-    {
-      "id": "hn-50331800",
-      "source": "hn",
-      "title": "Vathographs: Photographic depth maps as creative expression",
-      "url": "https://vathography.com/",
-      "score": 23,
-      "comments": 5,
-      "author": "hankbond",
-      "tags": [],
-      "date": "2026-11-02T01:11:19+00:00"
-    },
-    {
-      "id": "hn-50331784",
-      "source": "hn",
-      "title": "Trigger.dev customer environment variables exposed",
-      "url": "https://trigger.dev/blog/security-incident-nov-2026",
-      "score": 113,
-      "comments": 53,
-      "author": "anurag",
-      "tags": [],
-      "date": "2026-11-02T01:09:16+00:00"
-    },
-    {
-      "id": "qiita-f3edf8fd19",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "私の趣味はお人形さん集めです。ただし Qiitan 人形に限る。Qiita に書き続けてきたから、雑誌、書籍、賞、昇降デスク、そして 6 体の Qiitan 人形にまでつながった。Qiita さん、ありがとう。",
-      "url": "https://qiita.com/torifukukaiou/items/52ffbb51faf8dd9a2858?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "torifukukaiou",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-11-02T09:19:22+09:00"
-    },
-    {
-      "id": "qiita-408a2e03ee",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "ClaudeCodeで自律的に調査させてみたら大失敗した",
-      "url": "https://qiita.com/sai029/items/57b38881f03f7ff0638c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "sai029",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-11-02T09:18:14+09:00"
-    },
-    {
-      "id": "hn-50331402",
-      "source": "hn",
-      "title": "OccupySaaS",
-      "url": "https://occupysaas.com/",
-      "score": 356,
-      "comments": 216,
-      "author": "misswaterfairy",
-      "tags": [],
-      "date": "2026-11-02T00:17:27+00:00"
-    },
-    {
-      "id": "qiita-5d7fcbb4aa",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "Cursor で Claude Code 拡張 2.1.312・2.1.313 が改ざんされていた件、Windows で自分の PC を確かめた",
-      "url": "https://qiita.com/suwa_nobu/items/3cd02fa0f1cec7ea979c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "suwa_nobu",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-11-02T09:09:58+09:00"
-    },
-    {
-      "id": "qiita-22c87fddc4",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "生成 AI が進化する今こそ、「人材育成」が経営の重要課題ではないか",
-      "url": "https://qiita.com/Takashi_Masumori/items/3c3091a6142d3e05385b?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "Takashi_Masumori",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-11-02T08:53:16+09:00"
-    },
-    {
-      "id": "hn-50330939",
-      "source": "hn",
-      "title": "U.S. workers took home their smallest share of capital since at least 1947",
-      "url": "https://fortune.com/article/why-did-us-workers-just-take-home-smallest-share-of-capital-since-1947-lowest-ever-recorded/",
-      "score": 47,
-      "comments": 4,
-      "author": "qlte",
-      "tags": [],
-      "date": "2026-11-01T23:20:31+00:00"
-    },
-    {
-      "id": "qiita-80433cbf2e",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "【AWS】Step Functionsをエージェントのツールにしてみた：ピン・IAM・トークンの効き方を検証【AgentCore】",
-      "url": "https://qiita.com/Nana_777/items/4df8731bd53a6ab7a31f?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "Nana_777",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-11-02T08:04:59+09:00"
-    },
-    {
-      "id": "hn-50330456",
-      "source": "hn",
-      "title": "AI delivers 'zero financial payoff' to most companies, Apollo economist says",
-      "url": "https://techcrunch.com/2026/10/25/ai-delivers-zero-financial-payoff-to-most-companies-according-to-apollo-economist/",
-      "score": 52,
-      "comments": 25,
-      "author": "throwoutway",
-      "tags": [],
-      "date": "2026-11-01T22:10:45+00:00"
-    },
-    {
-      "id": "hn-50329707",
-      "source": "hn",
-      "title": "John Leeson (the voice of K9) has died",
-      "url": "https://www.doctorwhonews.net/2026/11/john_leeson_1943_2026.html",
-      "score": 31,
-      "comments": 1,
-      "author": "slyrus",
-      "tags": [],
-      "date": "2026-11-01T20:48:04+00:00"
-    },
-    {
-      "id": "hn-50328488",
-      "source": "hn",
-      "title": "It wasn't AI that flipped Proton's charge",
-      "url": "https://blog.raed.dev/posts/proton-loser-thinking/",
-      "score": 40,
-      "comments": 6,
-      "author": "Raed667",
-      "tags": [],
-      "date": "2026-11-01T18:53:55+00:00"
-    },
-    {
-      "id": "hn-50328487",
-      "source": "hn",
-      "title": "Nurses Sound Alarm as 'Uber for Nursing' Apps Push to Deregulate Healthcare",
-      "url": "https://nurse.org/news/uber-for-nursing-gig-apps-report/",
-      "score": 95,
-      "comments": 61,
-      "author": "ravetcofx",
-      "tags": [],
-      "date": "2026-11-01T18:53:46+00:00"
-    },
-    {
-      "id": "qiita-74501d175c",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "Amazon Bedrock ガードレールでマイナンバーをどこまで検出できるか試してみた",
-      "url": "https://qiita.com/takeda_h/items/1819f00de8f2b93034c0?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "takeda_h",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-11-02T03:31:05+09:00"
     },
     {
       "id": "ctf-4867158",

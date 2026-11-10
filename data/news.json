@@ -1,14 +1,83 @@
 {
-  "updated_at": "2026-11-09T20:56:51.852227+00:00",
+  "updated_at": "2026-11-10T03:17:32.115795+00:00",
   "count": 500,
   "items": [
     {
+      "id": "qiita-e345f017a9",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "実践：JevをClaudeに5分で連携する！ 〜仕組みから実装、実際の使いどころ〜",
+      "url": "https://qiita.com/ryosuke_ohori/items/ada543a0201752023e25?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "ryosuke_ohori",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-11-10T10:21:24+09:00"
+    },
+    {
+      "id": "hn-50434310",
+      "source": "hn",
+      "title": "Locating the source of a mysterious beep",
+      "url": "https://simonwillison.net/2026/Nov/9/mysterious-beeps/",
+      "score": 31,
+      "comments": 14,
+      "author": "bigwheels",
+      "tags": [],
+      "date": "2026-11-10T00:10:46+00:00",
+      "severity": "critical"
+    },
+    {
+      "id": "hn-50434264",
+      "source": "hn",
+      "title": "Horible public key tricks",
+      "url": "https://maurycyz.com/projects/badcert/",
+      "score": 49,
+      "comments": 19,
+      "author": "Curiositry",
+      "tags": [],
+      "date": "2026-11-10T00:07:17+00:00"
+    },
+    {
+      "id": "hn-50433659",
+      "source": "hn",
+      "title": "Fable 5.2 one-shotted my nephew's dream game",
+      "url": "https://notesbylex.com/fable-5-2-one-shotted-my-nephews-dream-game",
+      "score": 218,
+      "comments": 148,
+      "author": "lexandstuff",
+      "tags": [],
+      "date": "2026-11-09T23:08:13+00:00"
+    },
+    {
+      "id": "hn-50433541",
+      "source": "hn",
+      "title": "Exact – a new cross platform UI framework",
+      "url": "https://github.com/expo/exact",
+      "score": 67,
+      "comments": 31,
+      "author": "vmg12",
+      "tags": [],
+      "date": "2026-11-09T22:59:13+00:00"
+    },
+    {
+      "id": "hn-50432831",
+      "source": "hn",
+      "title": "TPU 8tx and TPU 8i Max",
+      "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/tpu-8i-max-and-8tx/",
+      "score": 221,
+      "comments": 67,
+      "author": "_benx_",
+      "tags": [],
+      "date": "2026-11-09T21:56:57+00:00"
+    },
+    {
       "id": "hn-50431144",
       "source": "hn",
-      "title": "Claude Fable 5.2 Scores 65 on Artificial Analysis, Highest So Far",
+      "title": "Claude Fable 5.2 scores 65 on Artificial Analysis, highest so far",
       "url": "https://artificialanalysis.ai/models/claude-fable-5-2",
-      "score": 16,
-      "comments": 4,
+      "score": 300,
+      "comments": 224,
       "author": "theanonymousone",
       "tags": [],
       "date": "2026-11-09T20:04:55+00:00"
@@ -18,19 +87,30 @@
       "source": "hn",
       "title": "USPS now offers official ZIP Code boundary polygons",
       "url": "https://postalpro.usps.com/zcb",
-      "score": 91,
-      "comments": 37,
+      "score": 508,
+      "comments": 266,
       "author": "munro",
       "tags": [],
       "date": "2026-11-09T19:58:59+00:00"
+    },
+    {
+      "id": "hn-50430991",
+      "source": "hn",
+      "title": "Parking-app convenience fees in 312 U.S. cities (median $0.35 per session)",
+      "url": "https://parkgraph.com/parking-app-fees",
+      "score": 62,
+      "comments": 41,
+      "author": "parkgraph",
+      "tags": [],
+      "date": "2026-11-09T19:55:53+00:00"
     },
     {
       "id": "hn-50430621",
       "source": "hn",
       "title": "CUI – Native UI components for C",
       "url": "https://yappologistic.github.io/CUI/",
-      "score": 63,
-      "comments": 24,
+      "score": 159,
+      "comments": 84,
       "author": "hilti",
       "tags": [],
       "date": "2026-11-09T19:35:16+00:00"
@@ -49,10 +129,10 @@
     {
       "id": "hn-50429734",
       "source": "hn",
-      "title": "E-means: 10x faster k-means at equal loss",
+      "title": "E-means: Outperforming k-means in one-tenth the epochs",
       "url": "https://e-means.github.io/",
-      "score": 100,
-      "comments": 3,
+      "score": 288,
+      "comments": 20,
       "author": "porridgeraisin",
       "tags": [],
       "date": "2026-11-09T18:45:43+00:00"
@@ -62,8 +142,8 @@
       "source": "hn",
       "title": "Show HN: MeowDisplay Is iPhone Mirroring, but in Reverse",
       "url": "https://meowdisplay.app/",
-      "score": 45,
-      "comments": 16,
+      "score": 78,
+      "comments": 30,
       "author": "raiseCatError",
       "tags": [],
       "date": "2026-11-09T18:39:22+00:00"
@@ -82,10 +162,10 @@
     {
       "id": "hn-50429430",
       "source": "hn",
-      "title": "Infineon marks innovation milestone with 300mm power silicon carbide wafer",
+      "title": "The first 300-millimeter power silicon carbide (SiC) wafer",
       "url": "https://www.infineon.com/press-release/2026/infpr202611-028",
-      "score": 59,
-      "comments": 21,
+      "score": 108,
+      "comments": 64,
       "author": "sshah03",
       "tags": [],
       "date": "2026-11-09T18:25:01+00:00"
@@ -95,19 +175,30 @@
       "source": "hn",
       "title": "Google Gemini routes personal Drive files and emails to human annotators",
       "url": "https://github.com/thisisme6598/gemini_files/",
-      "score": 38,
-      "comments": 7,
+      "score": 456,
+      "comments": 105,
       "author": "gf74918",
       "tags": [],
       "date": "2026-11-09T18:24:38+00:00"
     },
     {
+      "id": "hn-50429068",
+      "source": "hn",
+      "title": "Claude Fable 5.2 and Mythos 5.2",
+      "url": "https://www.anthropic.com/claude-fable-and-mythos-5-2",
+      "score": 232,
+      "comments": 617,
+      "author": "lairv",
+      "tags": [],
+      "date": "2026-11-09T18:01:10+00:00"
+    },
+    {
       "id": "hn-50429024",
       "source": "hn",
-      "title": "Our Smallest, Most Efficient Model: Muse Ember",
+      "title": "Muse Ember: Our smallest, most efficient model",
       "url": "https://research.meta.ai/blog/muse-ember",
-      "score": 154,
-      "comments": 63,
+      "score": 259,
+      "comments": 108,
       "author": "dvaplima",
       "tags": [],
       "date": "2026-11-09T17:58:46+00:00"
@@ -117,8 +208,8 @@
       "source": "hn",
       "title": "Show HN: Every satellite that passed over any place this week, and its photos",
       "url": "https://www.watched.earth",
-      "score": 100,
-      "comments": 22,
+      "score": 242,
+      "comments": 45,
       "author": "a585gupt",
       "tags": [],
       "date": "2026-11-09T17:51:31+00:00"
@@ -150,8 +241,8 @@
       "source": "hn",
       "title": "Payments Canada announces launch of Canada's Real-Time Rail (RTR) payment system",
       "url": "https://www.payments.ca/canada-launches-real-time-rail-bringing-247-payment-infrastructure-national-economy",
-      "score": 383,
-      "comments": 211,
+      "score": 482,
+      "comments": 264,
       "author": "ocd",
       "tags": [],
       "date": "2026-11-09T16:00:45+00:00"
@@ -172,8 +263,8 @@
       "source": "hn",
       "title": "On Being an Engineer in 2026",
       "url": "https://twitter.com/shaharglazner/status/2119796029256032278",
-      "score": 32,
-      "comments": 27,
+      "score": 42,
+      "comments": 61,
       "author": "talboren",
       "tags": [],
       "date": "2026-11-09T15:07:23+00:00"
@@ -192,13 +283,24 @@
     {
       "id": "hn-50426175",
       "source": "hn",
-      "title": "Magenta solar panels may be agrivoltaics' cleverest trick yet",
+      "title": "Semi-transparent, colored cadmium telluride photovoltaic panels in agrivoltaics",
       "url": "https://www.anthropocenemagazine.org/2026/10/magenta-solar-panels-may-be-agrivoltaics-cleverest-trick-yet/",
-      "score": 191,
-      "comments": 106,
+      "score": 286,
+      "comments": 183,
       "author": "speckx",
       "tags": [],
       "date": "2026-11-09T14:31:39+00:00"
+    },
+    {
+      "id": "hn-50425847",
+      "source": "hn",
+      "title": "The Race to Build a \"Find My\" for AI Chips",
+      "url": "https://spectrum.ieee.org/find-my-ai-chip",
+      "score": 4,
+      "comments": 0,
+      "author": "oldnetguy",
+      "tags": [],
+      "date": "2026-11-09T14:09:02+00:00"
     },
     {
       "id": "qiita-db1ebd57a3",
@@ -212,19 +314,6 @@
         "Qiita"
       ],
       "date": "2026-11-09T22:48:54+09:00"
-    },
-    {
-      "id": "qiita-e345f017a9",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "実践：JevをClaudeに5分で連携する！ 〜仕組みから実装、実際の使いどころ〜",
-      "url": "https://qiita.com/ryosuke_ohori/items/ada543a0201752023e25?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "ryosuke_ohori",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-11-09T22:46:47+09:00"
     },
     {
       "id": "qiita-89bc607a67",
@@ -242,10 +331,10 @@
     {
       "id": "hn-50424581",
       "source": "hn",
-      "title": "Fold Epic Paper Airplanes",
+      "title": "Foldable Flight: The Best Paper Airplanes",
       "url": "https://www.foldableflight.com",
-      "score": 704,
-      "comments": 124,
+      "score": 871,
+      "comments": 141,
       "author": "vismit2000",
       "tags": [],
       "date": "2026-11-09T12:19:22+00:00"
@@ -952,6 +1041,17 @@
       "date": "2026-11-08T16:43:07+09:00"
     },
     {
+      "id": "hn-50411106",
+      "source": "hn",
+      "title": "Never Gonna Print You Up",
+      "url": "https://dixken.de/blog/never-gonna-print-you-up",
+      "score": 16,
+      "comments": 0,
+      "author": "ta988",
+      "tags": [],
+      "date": "2026-11-08T07:15:32+00:00"
+    },
+    {
       "id": "hn-50411083",
       "source": "hn",
       "title": "WaveDudeNext 2D Wave Simulator",
@@ -1095,6 +1195,17 @@
         "Qiita"
       ],
       "date": "2026-11-08T10:30:05+09:00"
+    },
+    {
+      "id": "hn-50409444",
+      "source": "hn",
+      "title": "A renowned scientist, a deadly snakebite, and a diary that documented it (2025)",
+      "url": "https://www.cbsnews.com/chicago/news/field-museum-karl-patterson-schmidt-deadly-snakebite-diary/",
+      "score": 14,
+      "comments": 11,
+      "author": "areoform",
+      "tags": [],
+      "date": "2026-11-08T00:38:37+00:00"
     },
     {
       "id": "qiita-25fb330f9b",
@@ -2552,8 +2663,8 @@
       "source": "hn",
       "title": "A primer on GPUs and kernel optimization",
       "url": "https://www.nabo.dev/blogs/kernel-primer",
-      "score": 34,
-      "comments": 0,
+      "score": 101,
+      "comments": 12,
       "author": "nomi_uw",
       "tags": [],
       "date": "2026-11-05T23:48:04+00:00"
@@ -5446,6 +5557,97 @@
       "date": "2023-05-23T17:06:23Z"
     },
     {
+      "id": "zenn-be0e691f98",
+      "source": "zennqiita",
+      "sub_source": "Zenn",
+      "title": "少年団の役員向けRAGを作った — 条文単位に切り直しただけで正答52%→72%、ハイブリッド検索は効かなかった",
+      "url": "https://zenn.dev/mappy55/articles/rulebook-rag-01",
+      "score": null,
+      "author": "mappy",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Mon, 09 Nov 2026 20:35:11 GMT"
+    },
+    {
+      "id": "zenn-d912e98431",
+      "source": "zennqiita",
+      "sub_source": "Zenn",
+      "title": "ゼロから作ったMamba3言語モデルを日本語で話せる全二重音声対話モデルに拡張するまで",
+      "url": "https://zenn.dev/taaroo/articles/47f8d1ac55d4af",
+      "score": null,
+      "author": "Taro",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Mon, 09 Nov 2026 14:48:35 GMT"
+    },
+    {
+      "id": "zenn-c721c925b4",
+      "source": "zennqiita",
+      "sub_source": "Zenn",
+      "title": "2 つのエージェントで異なる方向性から検証を行う",
+      "url": "https://zenn.dev/kokagex/articles/75f89df3b007cc",
+      "score": null,
+      "author": "こかげ",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Mon, 09 Nov 2026 13:41:19 GMT"
+    },
+    {
+      "id": "zenn-41be3077a8",
+      "source": "zennqiita",
+      "sub_source": "Zenn",
+      "title": "JAWS FESTA 2026 in AKITA 懇親会を振り返ってみる",
+      "url": "https://zenn.dev/k_suzuki_pnx/articles/411e236ab4f2c7",
+      "score": null,
+      "author": "鈴木 健斗",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Mon, 09 Nov 2026 08:13:00 GMT"
+    },
+    {
+      "id": "zenn-c743b410ea",
+      "source": "zennqiita",
+      "sub_source": "Zenn",
+      "title": "ホロ1グランプリで宙科そぴあさんが使ってたサイエンスメソッドを最適化の視点で深掘りしてみた",
+      "url": "https://zenn.dev/akira5kitaoka/articles/holo1gp_sopias_science_method",
+      "score": null,
+      "author": "Akira Kitaoka",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Mon, 09 Nov 2026 07:49:59 GMT"
+    },
+    {
+      "id": "zenn-6cd8308eec",
+      "source": "zennqiita",
+      "sub_source": "Zenn",
+      "title": "なぜ mixi2 は iPhone Duo の発売初日から最適化できたのか？",
+      "url": "https://zenn.dev/mixi/articles/b0ea64fded9503",
+      "score": null,
+      "author": "kuno",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Mon, 09 Nov 2026 06:57:46 GMT"
+    },
+    {
+      "id": "zenn-f9b3376cd7",
+      "source": "zennqiita",
+      "sub_source": "Zenn",
+      "title": "AIですぐに作れる時代に、何と向き合うか",
+      "url": "https://zenn.dev/peoplex_blog/articles/2611-what-to-face-when-ai-builds-fast",
+      "score": null,
+      "author": "サカツ | PeopleX AIプロダクトエンジニア",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Mon, 09 Nov 2026 04:49:20 GMT"
+    },
+    {
       "id": "zenn-800f7701a2",
       "source": "zennqiita",
       "sub_source": "Zenn",
@@ -5457,6 +5659,19 @@
         "Zenn"
       ],
       "date": "Mon, 09 Nov 2026 03:11:23 GMT"
+    },
+    {
+      "id": "zenn-46cf58d80a",
+      "source": "zennqiita",
+      "sub_source": "Zenn",
+      "title": "閉域網でも AI を使いこなす: ローカル LLM × GitLab DAP（GitLab Epic Tour Japan 2026 登壇）",
+      "url": "https://zenn.dev/fixstars/articles/gitlab-epic-tour-2026-local-llm",
+      "score": null,
+      "author": "Yoshiki Matsuda",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Mon, 09 Nov 2026 01:45:40 GMT"
     },
     {
       "id": "zenn-695b12cc60",
@@ -5472,6 +5687,19 @@
       "date": "Mon, 09 Nov 2026 01:38:40 GMT"
     },
     {
+      "id": "zenn-db2da0d12b",
+      "source": "zennqiita",
+      "sub_source": "Zenn",
+      "title": "Anthropicから毎月もらえるAPIクレジットで、AIペンテストツールShannonを回してみた",
+      "url": "https://zenn.dev/arm_techblog/articles/9c5a29e37d1522",
+      "score": null,
+      "author": "Kyosuke Takayama",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Mon, 09 Nov 2026 01:06:50 GMT"
+    },
+    {
       "id": "zenn-d78c3e0089",
       "source": "zennqiita",
       "sub_source": "Zenn",
@@ -5485,30 +5713,17 @@
       "date": "Mon, 09 Nov 2026 00:00:14 GMT"
     },
     {
-      "id": "zenn-7d82e11dbb",
+      "id": "zenn-e4cd357e14",
       "source": "zennqiita",
       "sub_source": "Zenn",
-      "title": "AIエージェントに自分の開発環境を作らせ続けた2か月",
-      "url": "https://zenn.dev/otar/articles/switchboard-own-dev-environment",
+      "title": "週間制限に3日で到達していたClaudeが、ModelとEffortの使い分けで5日持つようになった話",
+      "url": "https://zenn.dev/sun_asterisk/articles/1d1c65b1fe409a",
       "score": null,
-      "author": "otar",
+      "author": "Asutin",
       "tags": [
         "Zenn"
       ],
-      "date": "Sun, 08 Nov 2026 21:41:08 GMT"
-    },
-    {
-      "id": "zenn-652d693308",
-      "source": "zennqiita",
-      "sub_source": "Zenn",
-      "title": "古代のグラボ（GTX 1080）でも動くローカルLLMを動かしてみた",
-      "url": "https://zenn.dev/koheidisney/articles/729394f8be42c5",
-      "score": null,
-      "author": "kohei",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Sun, 08 Nov 2026 16:01:13 GMT"
+      "date": "Sun, 08 Nov 2026 23:00:05 GMT"
     },
     {
       "id": "zenn-c74c4cb54d",
@@ -5522,32 +5737,6 @@
         "Zenn"
       ],
       "date": "Sun, 08 Nov 2026 16:00:51 GMT"
-    },
-    {
-      "id": "zenn-077318206a",
-      "source": "zennqiita",
-      "sub_source": "Zenn",
-      "title": "Piを使ってこんな開発ハーネス組んでます",
-      "url": "https://zenn.dev/minty1st/articles/51b1422d660d26",
-      "score": null,
-      "author": "みん",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Sun, 08 Nov 2026 15:02:15 GMT"
-    },
-    {
-      "id": "zenn-5339478e93",
-      "source": "zennqiita",
-      "sub_source": "Zenn",
-      "title": "静的型付けはAIのバグを減らすか？ TypeScriptとJavaScriptで同じGit互換CLIを3本ずつ書かせて比べた",
-      "url": "https://zenn.dev/torudev/articles/dd45de860fc7c3",
-      "score": null,
-      "author": "Toru Ikeda",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Sun, 08 Nov 2026 10:31:31 GMT"
     },
     {
       "id": "zenn-bd2574cc91",
@@ -5574,19 +5763,6 @@
         "Zenn"
       ],
       "date": "Sun, 08 Nov 2026 08:41:46 GMT"
-    },
-    {
-      "id": "zenn-51ce710c2a",
-      "source": "zennqiita",
-      "sub_source": "Zenn",
-      "title": "正規性検定による正規性チェック後の統計的仮説検定について",
-      "url": "https://zenn.dev/tomoshige_n/articles/22e19d310acf88",
-      "score": null,
-      "author": "T. N.",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Sun, 08 Nov 2026 07:42:36 GMT"
     },
     {
       "id": "zenn-caf0b4b566",
@@ -5641,294 +5817,69 @@
       "date": "Fri, 06 Nov 2026 08:59:24 GMT"
     },
     {
-      "id": "zenn-f5bcc733b3",
+      "id": "zenn-7d82e11dbb",
       "source": "zennqiita",
       "sub_source": "Zenn",
-      "title": "米津玄師に学ぶ：一人で全部作れる時代に、なぜ人と作るのか",
-      "url": "https://zenn.dev/tokium_dev/articles/yonezu-kenshi-why-create-with-others",
+      "title": "AIエージェントに自分の開発環境を作らせ続けた2か月",
+      "url": "https://zenn.dev/otar/articles/switchboard-own-dev-environment",
       "score": null,
-      "author": "タケノコご飯",
+      "author": "otar",
       "tags": [
         "Zenn"
       ],
-      "date": "Fri, 06 Nov 2026 04:08:37 GMT"
+      "date": "Sun, 08 Nov 2026 21:41:08 GMT"
     },
     {
-      "id": "zenn-6972a4d1df",
+      "id": "zenn-652d693308",
       "source": "zennqiita",
       "sub_source": "Zenn",
-      "title": "AI駆動文章作成において俺が意識しているテクニック集",
-      "url": "https://zenn.dev/ntk221/articles/34ad88a9225364",
+      "title": "古代のグラボ（GTX 1080）でも動くローカルLLMを動かしてみた",
+      "url": "https://zenn.dev/koheidisney/articles/729394f8be42c5",
       "score": null,
-      "author": "ntk",
+      "author": "kohei",
       "tags": [
         "Zenn"
       ],
-      "date": "Thu, 05 Nov 2026 14:35:31 GMT"
+      "date": "Sun, 08 Nov 2026 16:01:13 GMT"
     },
     {
-      "id": "zenn-022c8553d9",
+      "id": "zenn-077318206a",
       "source": "zennqiita",
       "sub_source": "Zenn",
-      "title": ".NET にも build.cs 欲しいんじゃーーー",
-      "url": "https://zenn.dev/sator_imaging/articles/c10d8da7685308",
+      "title": "Piを使ってこんな開発ハーネス組んでます",
+      "url": "https://zenn.dev/minty1st/articles/51b1422d660d26",
       "score": null,
-      "author": "サトー™ @sator_imaging",
+      "author": "みん",
       "tags": [
         "Zenn"
       ],
-      "date": "Thu, 05 Nov 2026 13:05:08 GMT"
+      "date": "Sun, 08 Nov 2026 15:02:15 GMT"
     },
     {
-      "id": "zenn-a538ffe078",
+      "id": "zenn-5339478e93",
       "source": "zennqiita",
       "sub_source": "Zenn",
-      "title": "[TypeScript] パスエイリアスには Subpath Imports を使いたい",
-      "url": "https://zenn.dev/mediba/articles/167e2a3f663889",
+      "title": "静的型付けはAIのバグを減らすか？ TypeScriptとJavaScriptで同じGit互換CLIを3本ずつ書かせて比べた",
+      "url": "https://zenn.dev/torudev/articles/dd45de860fc7c3",
       "score": null,
-      "author": "mdbr92",
+      "author": "Toru Ikeda",
       "tags": [
         "Zenn"
       ],
-      "date": "Thu, 05 Nov 2026 07:00:05 GMT"
+      "date": "Sun, 08 Nov 2026 10:31:31 GMT"
     },
     {
-      "id": "zenn-803b95cb07",
+      "id": "zenn-51ce710c2a",
       "source": "zennqiita",
       "sub_source": "Zenn",
-      "title": "コードを読まずにバイブコーディングしたら、Claude Codeは分かっていてスルーしていた",
-      "url": "https://zenn.dev/nexta_/articles/42a828ca2b8a02",
+      "title": "正規性検定による正規性チェック後の統計的仮説検定について",
+      "url": "https://zenn.dev/tomoshige_n/articles/22e19d310acf88",
       "score": null,
-      "author": "bik",
+      "author": "T. N.",
       "tags": [
         "Zenn"
       ],
-      "date": "Wed, 04 Nov 2026 02:30:07 GMT"
-    },
-    {
-      "id": "edb-93a964cb41",
-      "source": "msf",
-      "title": "[remote] PHP2Shell (CVE-2026-109618) - PHP core versions after v5.4 - RCE",
-      "url": "https://www.exploit-db.com/exploits/52704",
-      "score": null,
-      "author": "Exploit-DB",
-      "tags": [
-        "Exploit-DB",
-        "CVE",
-        "PoC"
-      ],
-      "severity": "high",
-      "date": "Thu, 22 Oct 2026 00:00:00 +0000"
-    },
-    {
-      "id": "edb-0369a1880b",
-      "source": "msf",
-      "title": "[webapps] pizzafy-1.0 - SQLi",
-      "url": "https://www.exploit-db.com/exploits/52703",
-      "score": null,
-      "author": "Exploit-DB",
-      "tags": [
-        "Exploit-DB",
-        "CVE",
-        "PoC"
-      ],
-      "severity": "high",
-      "date": "Wed, 21 Oct 2026 00:00:00 +0000"
-    },
-    {
-      "id": "edb-8676c447e1",
-      "source": "msf",
-      "title": "[remote] South River Technologies Titan MFT Server 26.0.0 - code execution",
-      "url": "https://www.exploit-db.com/exploits/52701",
-      "score": null,
-      "author": "Exploit-DB",
-      "tags": [
-        "Exploit-DB",
-        "CVE",
-        "PoC"
-      ],
-      "severity": "high",
-      "date": "Wed, 21 Oct 2026 00:00:00 +0000"
-    },
-    {
-      "id": "edb-a7d3f549ab",
-      "source": "msf",
-      "title": "[remote] Synametrics Syncrify 6.2 - command execution",
-      "url": "https://www.exploit-db.com/exploits/52700",
-      "score": null,
-      "author": "Exploit-DB",
-      "tags": [
-        "Exploit-DB",
-        "CVE",
-        "PoC"
-      ],
-      "severity": "high",
-      "date": "Wed, 21 Oct 2026 00:00:00 +0000"
-    },
-    {
-      "id": "edb-b98eb3e200",
-      "source": "msf",
-      "title": "[webapps] Keycloak  26.7.2 - Unauthenticated Account Takeover",
-      "url": "https://www.exploit-db.com/exploits/52699",
-      "score": null,
-      "author": "Exploit-DB",
-      "tags": [
-        "Exploit-DB",
-        "CVE",
-        "PoC"
-      ],
-      "severity": "high",
-      "date": "Wed, 21 Oct 2026 00:00:00 +0000"
-    },
-    {
-      "id": "edb-54a48e2297",
-      "source": "msf",
-      "title": "[webapps] Open eClass 3.15 - RCE",
-      "url": "https://www.exploit-db.com/exploits/52698",
-      "score": null,
-      "author": "Exploit-DB",
-      "tags": [
-        "Exploit-DB",
-        "CVE",
-        "PoC"
-      ],
-      "severity": "high",
-      "date": "Wed, 21 Oct 2026 00:00:00 +0000"
-    },
-    {
-      "id": "edb-e146ba40ae",
-      "source": "msf",
-      "title": "[webapps] Automotive Shop Management System 1.0 - SQLi",
-      "url": "https://www.exploit-db.com/exploits/52697",
-      "score": null,
-      "author": "Exploit-DB",
-      "tags": [
-        "Exploit-DB",
-        "CVE",
-        "PoC"
-      ],
-      "severity": "high",
-      "date": "Wed, 21 Oct 2026 00:00:00 +0000"
-    },
-    {
-      "id": "edb-51f225d0d7",
-      "source": "msf",
-      "title": "[remote] Edimax BR-6478AC firmware v2.20 - authenticated command injection",
-      "url": "https://www.exploit-db.com/exploits/52696",
-      "score": null,
-      "author": "Exploit-DB",
-      "tags": [
-        "Exploit-DB",
-        "CVE",
-        "PoC"
-      ],
-      "severity": "high",
-      "date": "Wed, 21 Oct 2026 00:00:00 +0000"
-    },
-    {
-      "id": "edb-f3dfe632fc",
-      "source": "msf",
-      "title": "[remote] Exasol Database 7.1.30 - command execution",
-      "url": "https://www.exploit-db.com/exploits/52695",
-      "score": null,
-      "author": "Exploit-DB",
-      "tags": [
-        "Exploit-DB",
-        "CVE",
-        "PoC"
-      ],
-      "severity": "high",
-      "date": "Wed, 21 Oct 2026 00:00:00 +0000"
-    },
-    {
-      "id": "edb-ec2339e74b",
-      "source": "msf",
-      "title": "[remote] Parasoft Continuous Testing Platform 10.7.5 - JSP command execution",
-      "url": "https://www.exploit-db.com/exploits/52694",
-      "score": null,
-      "author": "Exploit-DB",
-      "tags": [
-        "Exploit-DB",
-        "CVE",
-        "PoC"
-      ],
-      "severity": "high",
-      "date": "Wed, 21 Oct 2026 00:00:00 +0000"
-    },
-    {
-      "id": "edb-ed5beccae6",
-      "source": "msf",
-      "title": "[remote] ProSoft RLX-IFH24E v2.2.44 - Unsigned Firmware Upgrade Package Executed as Root",
-      "url": "https://www.exploit-db.com/exploits/52693",
-      "score": null,
-      "author": "Exploit-DB",
-      "tags": [
-        "Exploit-DB",
-        "CVE",
-        "PoC"
-      ],
-      "severity": "high",
-      "date": "Wed, 21 Oct 2026 00:00:00 +0000"
-    },
-    {
-      "id": "edb-1d1e868d62",
-      "source": "msf",
-      "title": "[remote] Teltonika_RutOS 00.07.06.21 - command injection",
-      "url": "https://www.exploit-db.com/exploits/52692",
-      "score": null,
-      "author": "Exploit-DB",
-      "tags": [
-        "Exploit-DB",
-        "CVE",
-        "PoC"
-      ],
-      "severity": "high",
-      "date": "Thu, 01 Oct 2026 00:00:00 +0000"
-    },
-    {
-      "id": "edb-9a18a29222",
-      "source": "msf",
-      "title": "[webapps] TigerGraph_Community_Edition 4.2.4  - arbitrary file write",
-      "url": "https://www.exploit-db.com/exploits/52691",
-      "score": null,
-      "author": "Exploit-DB",
-      "tags": [
-        "Exploit-DB",
-        "CVE",
-        "PoC"
-      ],
-      "severity": "high",
-      "date": "Thu, 01 Oct 2026 00:00:00 +0000"
-    },
-    {
-      "id": "edb-61a0fedcbd",
-      "source": "msf",
-      "title": "[webapps] WordPress 7.0.2 - Path Travesal",
-      "url": "https://www.exploit-db.com/exploits/52690",
-      "score": null,
-      "author": "Exploit-DB",
-      "tags": [
-        "Exploit-DB",
-        "CVE",
-        "PoC"
-      ],
-      "severity": "high",
-      "date": "Thu, 01 Oct 2026 00:00:00 +0000"
-    },
-    {
-      "id": "edb-0b1205466b",
-      "source": "msf",
-      "title": "[webapps] Food-Ordering 1.0  -  LFI",
-      "url": "https://www.exploit-db.com/exploits/52689",
-      "score": null,
-      "author": "Exploit-DB",
-      "tags": [
-        "Exploit-DB",
-        "CVE",
-        "PoC"
-      ],
-      "severity": "high",
-      "date": "Thu, 01 Oct 2026 00:00:00 +0000"
+      "date": "Sun, 08 Nov 2026 07:42:36 GMT"
     }
   ]
 }

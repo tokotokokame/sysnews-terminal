@@ -1,7 +1,84 @@
 {
-  "updated_at": "2026-11-12T18:42:12.149496+00:00",
+  "updated_at": "2026-11-12T23:58:20.224378+00:00",
   "count": 500,
   "items": [
+    {
+      "id": "hn-50474883",
+      "source": "hn",
+      "title": "Chinese frontier AI models carry the fingerprint of export-controlled GPUs",
+      "url": "https://unemploymentlabs.com/checkpoint-forensics",
+      "score": 96,
+      "comments": 23,
+      "author": "firloop",
+      "tags": [],
+      "date": "2026-11-12T21:56:11+00:00"
+    },
+    {
+      "id": "hn-50474361",
+      "source": "hn",
+      "title": "Foundation Models framework",
+      "url": "https://developer.apple.com/foundation-models-framework/",
+      "score": 89,
+      "comments": 11,
+      "author": "kermatt",
+      "tags": [],
+      "date": "2026-11-12T21:13:26+00:00"
+    },
+    {
+      "id": "hn-50474311",
+      "source": "hn",
+      "title": "AI is turning Apple's app review process into a nightmare for synth developers",
+      "url": "https://synthanatomy.com/2026/11/ai-is-turning-apples-app-review-process-into-a-nightmare-for-developers.html",
+      "score": 55,
+      "comments": 55,
+      "author": "anigbrowl",
+      "tags": [],
+      "date": "2026-11-12T21:09:49+00:00"
+    },
+    {
+      "id": "hn-50472505",
+      "source": "hn",
+      "title": "Distributed Ray Tracer",
+      "url": "https://ray.hatchet.run",
+      "score": 32,
+      "comments": 11,
+      "author": "juliusgeo",
+      "tags": [],
+      "date": "2026-11-12T19:06:23+00:00"
+    },
+    {
+      "id": "hn-50472490",
+      "source": "hn",
+      "title": "Dwarf planet candidate appears which takes roughly 280 years to orbit our sun",
+      "url": "https://www.smithsonianmag.com/smart-news/astronomers-found-a-mysterious-object-orbiting-far-beyond-pluto-it-could-be-a-new-dwarf-planet-hidden-in-our-solar-system-180989857/",
+      "score": 174,
+      "comments": 80,
+      "author": "cybermango",
+      "tags": [],
+      "date": "2026-11-12T19:05:33+00:00"
+    },
+    {
+      "id": "hn-50472260",
+      "source": "hn",
+      "title": "Gemini 4 Hydrogen and Orchestrator",
+      "url": "https://antigravity.google/blog/gemini-4-hydrogen-in-google-antigravity/",
+      "score": 247,
+      "comments": 59,
+      "author": "jonbaer",
+      "tags": [],
+      "date": "2026-11-12T18:52:01+00:00"
+    },
+    {
+      "id": "hn-50472038",
+      "source": "hn",
+      "title": "Rust 1.100",
+      "url": "https://blog.rust-lang.org/2026/11/12/Rust-1.100.0/",
+      "score": 330,
+      "comments": 140,
+      "author": "mbStavola",
+      "tags": [],
+      "date": "2026-11-12T18:39:05+00:00"
+    },
     {
       "id": "hn-50471793",
       "source": "hn",
@@ -14,12 +91,24 @@
       "date": "2026-11-12T18:24:06+00:00"
     },
     {
+      "id": "hn-50471761",
+      "source": "hn",
+      "title": "22-Year-Old PostgreSQL Bug Turned into Remote Code Execution",
+      "url": "https://mehmetince.net/part-3-6-how-i-ended-up-turning-a-22-year-old-postgresql-type-confusion-primitive-into-rce-cve-2026-6460/",
+      "score": 126,
+      "comments": 14,
+      "author": "ozirus",
+      "tags": [],
+      "date": "2026-11-12T18:22:22+00:00",
+      "severity": "critical"
+    },
+    {
       "id": "hn-50471731",
       "source": "hn",
-      "title": "Outlook is down, and so is Microsoft's status page",
-      "url": "https://gvwire.com/2026/11/12/microsoft-outlook-down-for-thousands-of-users-downdetector-shows/",
-      "score": 42,
-      "comments": 9,
+      "title": "Service degradation on Microsoft 365",
+      "url": "https://status.cloud.microsoft/",
+      "score": 418,
+      "comments": 407,
       "author": "dkpk",
       "tags": [],
       "date": "2026-11-12T18:20:48+00:00"
@@ -29,8 +118,8 @@
       "source": "hn",
       "title": "Show HN: AgentRun – open-source, Self-improving Managed Agents",
       "url": "https://github.com/Parcha-ai/agentrun/blob/main/README.md",
-      "score": 10,
-      "comments": 0,
+      "score": 72,
+      "comments": 12,
       "author": "miguelrios",
       "tags": [],
       "date": "2026-11-12T18:15:48+00:00",
@@ -41,8 +130,8 @@
       "source": "hn",
       "title": "Gemini 4 Hydrogen",
       "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-hydrogen/",
-      "score": 153,
-      "comments": 82,
+      "score": 432,
+      "comments": 282,
       "author": "dvaplima",
       "tags": [],
       "date": "2026-11-12T18:01:48+00:00"
@@ -57,6 +146,17 @@
       "author": "acossta",
       "tags": [],
       "date": "2026-11-12T17:19:39+00:00"
+    },
+    {
+      "id": "hn-50470488",
+      "source": "hn",
+      "title": "Show HN: My $300 embroidery machine needed a subscription, so I built my own app",
+      "url": "https://github.com/simpsoka/zigzag",
+      "score": 276,
+      "comments": 115,
+      "author": "simpsoka",
+      "tags": [],
+      "date": "2026-11-12T17:02:42+00:00"
     },
     {
       "id": "hn-50470445",
@@ -96,8 +196,8 @@
       "source": "hn",
       "title": "I'm making LLMs work on small and old devices",
       "url": "https://github.com/hyperionaidev/smolmaxxing/",
-      "score": 130,
-      "comments": 51,
+      "score": 266,
+      "comments": 88,
       "author": "mrashad74",
       "tags": [],
       "date": "2026-11-12T15:23:10+00:00"
@@ -107,8 +207,8 @@
       "source": "hn",
       "title": "Abandoned Quake 4 expansion finished by modders and now playable",
       "url": "https://www.moddb.com/mods/openq4/downloads/openq4-0141-windows-x64",
-      "score": 161,
-      "comments": 56,
+      "score": 231,
+      "comments": 80,
       "author": "klaussilveira",
       "tags": [],
       "date": "2026-11-12T14:18:49+00:00"
@@ -118,8 +218,8 @@
       "source": "hn",
       "title": "Talking Zen 6 with Mike Clark at AMD In-Depth",
       "url": "https://chipsandcheese.com/p/talking-zen-6-with-mike-clark-at",
-      "score": 123,
-      "comments": 1,
+      "score": 179,
+      "comments": 2,
       "author": "dverlaeckt80",
       "tags": [],
       "date": "2026-11-12T14:12:37+00:00"
@@ -162,19 +262,43 @@
       "source": "hn",
       "title": "Jensen Huang resigns",
       "url": "https://apnews.com/article/nvidia-megaspeed-china-singapore-huang-5403f152a601cf82ce939f1d24fffa0f",
-      "score": 1783,
-      "comments": 1838,
+      "score": 2759,
+      "comments": 2630,
       "author": "lldb",
       "tags": [],
       "date": "2026-11-12T13:52:29+00:00"
+    },
+    {
+      "id": "qiita-cce3907d0f",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "お漏らししまくりの今だからこそIAPを再度推していく",
+      "url": "https://qiita.com/hokutoh/items/873f5117f8507123d509?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "hokutoh",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-11-12T22:48:17+09:00"
+    },
+    {
+      "id": "hn-50466410",
+      "source": "hn",
+      "title": "Adapting CPython for Yk",
+      "url": "https://tratt.net/laurie/blog/2026/adapting_cpython_for_yk.html",
+      "score": 36,
+      "comments": 1,
+      "author": "frostbyte7",
+      "tags": [],
+      "date": "2026-11-12T12:51:38+00:00"
     },
     {
       "id": "hn-50465829",
       "source": "hn",
       "title": "Anthropic IPO",
       "url": "https://ipo.anthropic.com/us/",
-      "score": 650,
-      "comments": 666,
+      "score": 790,
+      "comments": 783,
       "author": "josephljohnston",
       "tags": [],
       "date": "2026-11-12T11:46:41+00:00"
@@ -191,12 +315,25 @@
       "date": "2026-11-12T10:46:20+00:00"
     },
     {
+      "id": "qiita-0c551b462e",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "【Production Ready RAG】PDF・Office・テキストなど17形式で、原文の引用箇所をハイライトしてみた",
+      "url": "https://qiita.com/engchina/items/68febc83ffd16eb56f08?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "engchina",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-11-12T19:29:30+09:00"
+    },
+    {
       "id": "hn-50465352",
       "source": "hn",
-      "title": "Why Writing Correct Software Is Hard",
+      "title": "Why writing correct software is hard and why math (alone) won’t help us (2016)",
       "url": "https://pron.github.io/posts/correctness-and-complexity",
-      "score": 290,
-      "comments": 127,
+      "score": 348,
+      "comments": 166,
       "author": "AriFordsham",
       "tags": [],
       "date": "2026-11-12T10:28:26+00:00"
@@ -213,6 +350,32 @@
         "Qiita"
       ],
       "date": "2026-11-12T18:47:16+09:00"
+    },
+    {
+      "id": "qiita-a0fd4f6a50",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "Gemma 5が出るぞ！ OllamaとvLLMでの予行比較",
+      "url": "https://qiita.com/ryosuke_ohori/items/5c560c086d8c92173ac7?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "ryosuke_ohori",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-11-12T18:15:31+09:00"
+    },
+    {
+      "id": "qiita-470284461e",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "財源幻想はなぜ生き残るのか——三層防衛構造という設計バグ : システム設計視点の行動経済学 (61)",
+      "url": "https://qiita.com/maskot1977/items/0f8816d5e85ba791176f?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "maskot1977",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-11-12T17:43:00+09:00"
     },
     {
       "id": "qiita-6845c9fae5",
@@ -290,6 +453,19 @@
       "date": "2026-11-12T12:22:50+09:00"
     },
     {
+      "id": "qiita-24baeac831",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "新Genieの発表を受けて、Genieファミリーの変遷と構成、今後の方向性を整理する",
+      "url": "https://qiita.com/taka_yayoi/items/49129c0d657364f3bd04?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "taka_yayoi",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-11-12T11:40:54+09:00"
+    },
+    {
       "id": "hn-50462375",
       "source": "hn",
       "title": "Lean Grimoire",
@@ -365,6 +541,19 @@
       "date": "2026-11-12T09:12:55+09:00"
     },
     {
+      "id": "qiita-bfe40d1129",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "シングル AZ 構成の本番環境 EC2 を夜間土日に停止する運用のリスクについて考える",
+      "url": "https://qiita.com/takeda_h/items/38d3f358b4e7f09efcd3?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "takeda_h",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-11-12T08:28:01+09:00"
+    },
+    {
       "id": "hn-50460154",
       "source": "hn",
       "title": "A general purpose Apple Silicon layer for x86-64 PCs",
@@ -385,6 +574,31 @@
       "author": "zenincognito",
       "tags": [],
       "date": "2026-11-11T22:34:23+00:00"
+    },
+    {
+      "id": "qiita-928719233e",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "10年以上前に自作したシリアル通信の試験ツールを、AIにWPFへ置き換えてもらった ― ついでに内部のバグも直してもらった",
+      "url": "https://qiita.com/okakousuke1124/items/ae982344111c31542d21?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "okakousuke1124",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-11-12T07:33:25+09:00"
+    },
+    {
+      "id": "hn-50459508",
+      "source": "hn",
+      "title": "Words of warning about radiocarbon dating medieval human bones",
+      "url": "https://www.nature.com/articles/s40494-026-02958-x",
+      "score": 50,
+      "comments": 6,
+      "author": "gumby",
+      "tags": [],
+      "date": "2026-11-11T22:18:37+00:00",
+      "severity": "medium"
     },
     {
       "id": "hn-50459485",
@@ -413,8 +627,8 @@
       "source": "hn",
       "title": "Relax: JIT compiler for Rust to reduce build times",
       "url": "https://makepad.github.io/relax/",
-      "score": 11,
-      "comments": 1,
+      "score": 99,
+      "comments": 40,
       "author": "adamnemecek",
       "tags": [],
       "date": "2026-11-11T21:20:01+00:00"
@@ -597,6 +811,17 @@
       ],
       "date": "2026-11-12T00:47:28+09:00",
       "severity": "high"
+    },
+    {
+      "id": "hn-50454700",
+      "source": "hn",
+      "title": "Before Pixels: Speed-Minder",
+      "url": "https://unsung.aresluna.org/before-pixels-speed-minder/",
+      "score": 5,
+      "comments": 0,
+      "author": "surprisetalk",
+      "tags": [],
+      "date": "2026-11-11T15:40:05+00:00"
     },
     {
       "id": "qiita-d046ecc450",
@@ -876,6 +1101,19 @@
       "author": "d3Xt3r",
       "tags": [],
       "date": "2026-11-11T05:25:54+00:00"
+    },
+    {
+      "id": "qiita-3707dc0506",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "DDD・CQRS・イベント駆動を組み合わせたバックエンドアーキテクチャ設計",
+      "url": "https://qiita.com/ditchcrimson/items/ce71bf981e5cdd0bd8f5?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "ditchcrimson",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-11-11T13:46:01+09:00"
     },
     {
       "id": "qiita-1f3ec66d0a",
@@ -1334,6 +1572,17 @@
       "author": "phaser",
       "tags": [],
       "date": "2026-11-10T12:58:04+00:00"
+    },
+    {
+      "id": "hn-50439283",
+      "source": "hn",
+      "title": "Safety in Algae Home Experiments",
+      "url": "https://chillphysicsenjoyer.substack.com/p/algae-safety-in-home-experiments",
+      "score": 23,
+      "comments": 3,
+      "author": "surprisetalk",
+      "tags": [],
+      "date": "2026-11-10T12:20:06+00:00"
     },
     {
       "id": "ctf-5010862",
@@ -4988,249 +5237,6 @@
       "author": "agybay_07",
       "tags": [],
       "date": "2026-11-05T15:54:41+00:00"
-    },
-    {
-      "id": "hn-50380658",
-      "source": "hn",
-      "title": "Building a Multi-Agent System from Scratch: Architecture Patterns",
-      "url": "https://kadhar.dev/blog/multi-agent-systems-from-scratch",
-      "score": 15,
-      "comments": 5,
-      "author": "kadharmfn",
-      "tags": [],
-      "date": "2026-11-05T15:51:57+00:00"
-    },
-    {
-      "id": "hn-50380268",
-      "source": "hn",
-      "title": "We can do better than line-buffered output",
-      "url": "https://nullprogram.com/blog/2026/11/05/",
-      "score": 25,
-      "comments": 0,
-      "author": "zdw",
-      "tags": [],
-      "date": "2026-11-05T15:25:22+00:00"
-    },
-    {
-      "id": "hn-50380246",
-      "source": "hn",
-      "title": "Yes, You Can Pass a Nuclear Missile Driving on Interstate 80 Through Wyoming",
-      "url": "https://cowboystatedaily.com/2026/11/04/yes-you-can-pass-a-nuclear-missile-driving-on-interstate-80-through-wyoming/",
-      "score": 27,
-      "comments": 9,
-      "author": "Bender",
-      "tags": [],
-      "date": "2026-11-05T15:22:18+00:00"
-    },
-    {
-      "id": "hn-50380170",
-      "source": "hn",
-      "title": "Nordstjernen, Northstar, Southstar: minimalist webbrowsers in C and Rust",
-      "url": "https://nordstjernen.org/",
-      "score": 19,
-      "comments": 10,
-      "author": "Propelloni",
-      "tags": [],
-      "date": "2026-11-05T15:17:31+00:00"
-    },
-    {
-      "id": "hn-50379773",
-      "source": "hn",
-      "title": "Image of our satellite-choked night skies",
-      "url": "https://kottke.org/26/11/stunning-image-of-our-satellite-choked-night-skies",
-      "score": 106,
-      "comments": 68,
-      "author": "amatheus",
-      "tags": [],
-      "date": "2026-11-05T14:49:07+00:00"
-    },
-    {
-      "id": "hn-50379704",
-      "source": "hn",
-      "title": "Alpine Linux Security Advisory: OpenSSH-server password authentication bypass",
-      "url": "https://alpinelinux.org/posts/2026-11-05-openssh-password-authentication-bypass/",
-      "score": 601,
-      "comments": 128,
-      "author": "pantalaimon",
-      "tags": [],
-      "date": "2026-11-05T14:44:20+00:00",
-      "severity": "high"
-    },
-    {
-      "id": "hn-50379576",
-      "source": "hn",
-      "title": "September in Servo: <progress>, rounded rectangles, and more",
-      "url": "https://servo.org/blog/2026/11/05/september-in-servo/",
-      "score": 246,
-      "comments": 61,
-      "author": "iamnothere",
-      "tags": [],
-      "date": "2026-11-05T14:34:18+00:00"
-    },
-    {
-      "id": "hn-50379249",
-      "source": "hn",
-      "title": "MCP Explained",
-      "url": "https://mcp-explained.com/",
-      "score": 254,
-      "comments": 116,
-      "author": "rwilinski",
-      "tags": [],
-      "date": "2026-11-05T14:08:35+00:00"
-    },
-    {
-      "id": "hn-50379221",
-      "source": "hn",
-      "title": "Show HN: Waymark – A workflow engine that compiles jobs instead of replaying",
-      "url": "https://github.com/piercefreeman/waymark",
-      "score": 46,
-      "comments": 15,
-      "author": "icyfox",
-      "tags": [],
-      "date": "2026-11-05T14:06:31+00:00"
-    },
-    {
-      "id": "hn-50378974",
-      "source": "hn",
-      "title": "Finding Xanadu: Inside a JRPG classic translation 15 years in the making",
-      "url": "https://readonlymemo.com/legend-of-xanadu-pc-engine-fan-translation-interview-making-of/",
-      "score": 60,
-      "comments": 12,
-      "author": "speckx",
-      "tags": [],
-      "date": "2026-11-05T13:44:07+00:00"
-    },
-    {
-      "id": "hn-50378942",
-      "source": "hn",
-      "title": "I wish tech companies knew more about me",
-      "url": "https://rakhim.exotext.com/i-wish-tech-companies-knew-more-about-me",
-      "score": 438,
-      "comments": 368,
-      "author": "freetonik",
-      "tags": [],
-      "date": "2026-11-05T13:40:52+00:00"
-    },
-    {
-      "id": "hn-50378643",
-      "source": "hn",
-      "title": "Show HN: Firenook – Firebase emulators in Rust: 40× faster writes, 10× less RAM",
-      "url": "https://firenook.dev/",
-      "score": 124,
-      "comments": 17,
-      "author": "sanjevirau",
-      "tags": [],
-      "date": "2026-11-05T13:07:29+00:00"
-    },
-    {
-      "id": "hn-50378571",
-      "source": "hn",
-      "title": "Download your favourite YouTube videos",
-      "url": "https://criminallyvulgar.dev/you-should-absolutely-download-your-favourite-youtube-videos/",
-      "score": 287,
-      "comments": 129,
-      "author": "surprisetalk",
-      "tags": [],
-      "date": "2026-11-05T13:00:11+00:00"
-    },
-    {
-      "id": "hn-50378508",
-      "source": "hn",
-      "title": "Obscure audio codec is a perfect fit for the N64",
-      "url": "https://phoboslab.org/log/2026/11/n64-ulc-codec",
-      "score": 166,
-      "comments": 19,
-      "author": "frostbyte7",
-      "tags": [],
-      "date": "2026-11-05T12:51:48+00:00"
-    },
-    {
-      "id": "qiita-d15627b2eb",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "ubuntu-latest が 26.04 になったら、ECS（arm64）がイメージを pull できなくなった話",
-      "url": "https://qiita.com/ogura-gmoconnect/items/6d75b12b6c726ebcd751?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "ogura-gmoconnect",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-11-05T21:28:44+09:00"
-    },
-    {
-      "id": "qiita-027bf83671",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "ECR に1回 push しただけで3件並ぶ正体は、provenance attestation だった",
-      "url": "https://qiita.com/ogura-gmoconnect/items/85e75da0f74f9005c1b9?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "ogura-gmoconnect",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-11-05T21:28:28+09:00"
-    },
-    {
-      "id": "hn-50378228",
-      "source": "hn",
-      "title": "sshole",
-      "url": "https://sshhole.com",
-      "score": 2735,
-      "comments": 663,
-      "author": "josemrb",
-      "tags": [],
-      "date": "2026-11-05T12:19:02+00:00"
-    },
-    {
-      "id": "hn-50377976",
-      "source": "hn",
-      "title": "OpenSSH 10.6p2 Critical workaround for alpine without PAM",
-      "url": "https://www.openssh.org/releasenotes.html#10.6p2",
-      "score": 243,
-      "comments": 12,
-      "author": "selckin",
-      "tags": [],
-      "date": "2026-11-05T11:40:30+00:00",
-      "severity": "critical"
-    },
-    {
-      "id": "qiita-eae320bd6e",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "CloudFront + Lambda 関数 URL で画像を配信時に縮小して、ページの画像容量半分以下にした話",
-      "url": "https://qiita.com/Tukirukiki/items/8e844dec1fa8e74943b7?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "Tukirukiki",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-11-05T20:33:08+09:00"
-    },
-    {
-      "id": "qiita-84affb9559",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "Oracle APEXでDeep Data Securityを設定する",
-      "url": "https://qiita.com/watarun97/items/18cda2ec0d4a87e9c085?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "watarun97",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-11-05T20:17:13+09:00"
-    },
-    {
-      "id": "qiita-329cb15247",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "ASWebAuthenticationSession のサインイン確認ダイアログを iOS 27 で確かめた話（2026年版）",
-      "url": "https://qiita.com/ntaka329/items/f1a84d6294a34552bf9a?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "ntaka329",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-11-05T20:15:41+09:00"
     },
     {
       "id": "ctf-4867158",

@@ -1,28 +1,75 @@
 {
-  "updated_at": "2026-11-15T14:36:41.080430+00:00",
+  "updated_at": "2026-11-15T20:09:54.957532+00:00",
   "count": 500,
   "items": [
     {
-      "id": "hn-50506894",
+      "id": "hn-50509953",
       "source": "hn",
-      "title": "Things That Turbo Pascal Is Smaller Than (2011)",
-      "url": "https://prog21.dadgum.com/116.html",
-      "score": 16,
+      "title": "Parents pay $75k for Alpha's AI school. Half of its students missed math target",
+      "url": "https://fortune.com/2026/11/14/alpha-school-ai-students-tuition-learning-goals/",
+      "score": 7,
       "comments": 1,
-      "author": "ksec",
+      "author": "vrganj",
       "tags": [],
-      "date": "2026-11-15T13:44:16+00:00"
+      "date": "2026-11-15T19:39:46+00:00"
     },
     {
-      "id": "hn-50506719",
+      "id": "hn-50509416",
       "source": "hn",
-      "title": "The MacBook Pro's OLED PWM Problem: When a 'Better' Display Becomes Worse to Use",
-      "url": "https://macanorak.com/the-macbook-pros-oled-pwm-problem-when-a-better-display-becomes-worse-to-use/",
-      "score": 60,
-      "comments": 30,
-      "author": "MacAnorak",
+      "title": "Eclipse Mosquitto – An open source MQTT broker",
+      "url": "https://github.com/eclipse-mosquitto/mosquitto",
+      "score": 18,
+      "comments": 8,
+      "author": "gregsadetsky",
       "tags": [],
-      "date": "2026-11-15T13:15:22+00:00"
+      "date": "2026-11-15T18:36:40+00:00",
+      "severity": "critical"
+    },
+    {
+      "id": "hn-50509411",
+      "source": "hn",
+      "title": "Microsoft 365 outage leads to chlorine gas poisoning of 15 hotel guests",
+      "url": "https://www1.wdr.de/nrw/rheinland/rhein-erft-kreis/technischer-defekt-chlor-phantasialand-100.html",
+      "score": 86,
+      "comments": 37,
+      "author": "DeepLogin",
+      "tags": [],
+      "date": "2026-11-15T18:36:10+00:00"
+    },
+    {
+      "id": "hn-50509308",
+      "source": "hn",
+      "title": "A short explainer on how El Niño works [video]",
+      "url": "https://www.youtube.com/watch?v=7_JF3etiAv8",
+      "score": 52,
+      "comments": 3,
+      "author": "nharada",
+      "tags": [],
+      "date": "2026-11-15T18:23:21+00:00"
+    },
+    {
+      "id": "qiita-a4c48cc132",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "【入緑記事】凡人向け入緑記事（灰色～入緑まで）",
+      "url": "https://qiita.com/akih1r/items/13b55d807e8e085247c1?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "akih1r",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-11-16T02:59:36+09:00"
+    },
+    {
+      "id": "hn-50508715",
+      "source": "hn",
+      "title": "Clice v1.0 Released: Welcome to Modern C++",
+      "url": "https://ykiko.me/en/articles/2105384023094834022/",
+      "score": 20,
+      "comments": 2,
+      "author": "molenzwiebel",
+      "tags": [],
+      "date": "2026-11-15T17:22:32+00:00"
     },
     {
       "id": "qiita-2dfb355335",
@@ -35,15 +82,60 @@
       "tags": [
         "Qiita"
       ],
-      "date": "2026-11-15T21:55:46+09:00"
+      "date": "2026-11-16T00:29:05+09:00"
+    },
+    {
+      "id": "hn-50507553",
+      "source": "hn",
+      "title": "Emacs Is My Browser",
+      "url": "https://joshblais.com/blog/emacs-as-my-browser/",
+      "score": 115,
+      "comments": 62,
+      "author": "nyc111",
+      "tags": [],
+      "date": "2026-11-15T15:21:21+00:00"
+    },
+    {
+      "id": "hn-50507303",
+      "source": "hn",
+      "title": "All AI-generated code should be Open Source",
+      "url": "https://jakub.jankiewicz.org/blog/ai-code-open-source/",
+      "score": 881,
+      "comments": 466,
+      "author": "jcubic",
+      "tags": [],
+      "date": "2026-11-15T14:46:58+00:00",
+      "severity": "critical"
+    },
+    {
+      "id": "hn-50506894",
+      "source": "hn",
+      "title": "Things That Turbo Pascal Is Smaller Than (2011)",
+      "url": "https://prog21.dadgum.com/116.html",
+      "score": 144,
+      "comments": 71,
+      "author": "ksec",
+      "tags": [],
+      "date": "2026-11-15T13:44:16+00:00"
+    },
+    {
+      "id": "hn-50506719",
+      "source": "hn",
+      "title": "The MacBook Pro's OLED PWM Problem: When a 'Better' Display Becomes Worse to Use",
+      "url": "https://macanorak.com/the-macbook-pros-oled-pwm-problem-when-a-better-display-becomes-worse-to-use/",
+      "score": 306,
+      "comments": 171,
+      "author": "MacAnorak",
+      "tags": [],
+      "date": "2026-11-15T13:15:22+00:00"
     },
     {
       "id": "hn-50506588",
       "source": "hn",
       "title": "A NES emulator written in Odin",
       "url": "https://lucypero.com/lucynes.html",
-      "score": 13,
-      "comments": 0,
+      "score": 81,
+      "comments": 28,
       "author": "frostbyte7",
       "tags": [],
       "date": "2026-11-15T12:51:47+00:00"
@@ -53,8 +145,8 @@
       "source": "hn",
       "title": "Understanding Positional Embeddings in Modern LLMs",
       "url": "https://magazine.sebastianraschka.com/p/understanding-positional-embeddings",
-      "score": 32,
-      "comments": 0,
+      "score": 157,
+      "comments": 10,
       "author": "vismit2000",
       "tags": [],
       "date": "2026-11-15T12:14:06+00:00"
@@ -64,8 +156,8 @@
       "source": "hn",
       "title": "Why did some Apollo missions carry a grenade launcher?",
       "url": "https://space.stackexchange.com/questions/37775",
-      "score": 110,
-      "comments": 66,
+      "score": 190,
+      "comments": 133,
       "author": "Skyfall106",
       "tags": [],
       "date": "2026-11-15T09:06:43+00:00"
@@ -117,19 +209,6 @@
       "date": "2026-11-15T04:09:11+00:00"
     },
     {
-      "id": "qiita-a4c48cc132",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "【入緑記事】凡人向け入緑記事（灰色～入緑まで）",
-      "url": "https://qiita.com/akih1r/items/13b55d807e8e085247c1?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "akih1r",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-11-15T12:46:52+09:00"
-    },
-    {
       "id": "hn-50503465",
       "source": "hn",
       "title": "My favourite modern NES games",
@@ -169,8 +248,8 @@
       "source": "hn",
       "title": "Court denies motion to dismiss DRAM price fixing case",
       "url": "https://litnews.ai/articles/garciaguirre-samsung-sk-hynix-micron-dram-conspiracy-suit-survives-dismissal",
-      "score": 306,
-      "comments": 125,
+      "score": 445,
+      "comments": 203,
       "author": "ybathaee",
       "tags": [],
       "date": "2026-11-15T01:18:36+00:00"
@@ -206,8 +285,8 @@
       "source": "hn",
       "title": "The Telephone Changed the World",
       "url": "https://lithub.com/how-the-telephone-changed-the-world/",
-      "score": 5,
-      "comments": 0,
+      "score": 41,
+      "comments": 16,
       "author": "NaOH",
       "tags": [],
       "date": "2026-11-14T22:56:09+00:00"
@@ -250,8 +329,8 @@
       "source": "hn",
       "title": "SpaceX catches the Starship to end Flight 15",
       "url": "https://www.spacex.com/launches/starship-flight-15",
-      "score": 1399,
-      "comments": 930,
+      "score": 1568,
+      "comments": 1107,
       "author": "ls612",
       "tags": [],
       "date": "2026-11-14T21:22:24+00:00"
@@ -1350,8 +1429,8 @@
       "source": "hn",
       "title": "Show HN: Carton Clock – A working pendulum clock made from empty drink cartons",
       "url": "https://www.niklasroy.com/carton-clock/",
-      "score": 21,
-      "comments": 1,
+      "score": 62,
+      "comments": 2,
       "author": "r0r0",
       "tags": [],
       "date": "2026-11-13T12:00:18+00:00"
@@ -1398,8 +1477,8 @@
       "source": "hn",
       "title": "What thousands of conversations look like inside a language model",
       "url": "https://operator0x.com/field-notes/qwen-conversation-state-space/",
-      "score": 37,
-      "comments": 7,
+      "score": 87,
+      "comments": 26,
       "author": "josip208",
       "tags": [],
       "date": "2026-11-13T10:26:01+00:00"
@@ -1778,8 +1857,8 @@
       "source": "hn",
       "title": "Chasing an audio artifact on power loss",
       "url": "https://subalpinecircuits.com/chasing-an-audio-artifact-on-power-loss/",
-      "score": 14,
-      "comments": 1,
+      "score": 45,
+      "comments": 7,
       "author": "ireflect",
       "tags": [],
       "date": "2026-11-12T23:11:25+00:00"
@@ -2063,6 +2142,17 @@
       "date": "2026-11-12T15:23:10+00:00"
     },
     {
+      "id": "hn-50468445",
+      "source": "hn",
+      "title": "Bullet Dodged",
+      "url": "https://idiotking.org/archives/2026/10/bullet-dodged-3/",
+      "score": 7,
+      "comments": 1,
+      "author": "surprisetalk",
+      "tags": [],
+      "date": "2026-11-12T15:00:11+00:00"
+    },
+    {
       "id": "qiita-df4c304385",
       "source": "zennqiita",
       "sub_source": "Qiita",
@@ -2085,6 +2175,17 @@
       "author": "klaussilveira",
       "tags": [],
       "date": "2026-11-12T14:18:49+00:00"
+    },
+    {
+      "id": "hn-50467539",
+      "source": "hn",
+      "title": "20 Years of Pyrolog",
+      "url": "https://pypy.org/posts/2026/11/20-years-of-pyrolog.html",
+      "score": 53,
+      "comments": 4,
+      "author": "lumpa",
+      "tags": [],
+      "date": "2026-11-12T14:15:28+00:00"
     },
     {
       "id": "hn-50467460",
@@ -2210,6 +2311,17 @@
       "author": "josephljohnston",
       "tags": [],
       "date": "2026-11-12T11:46:41+00:00"
+    },
+    {
+      "id": "hn-50465676",
+      "source": "hn",
+      "title": "Eval Awareness vs. Eval Paranoia",
+      "url": "https://www.lesswrong.com/posts/mepsi7JNKYejq9wry/eval-awareness-vs-eval-paranoia",
+      "score": 18,
+      "comments": 7,
+      "author": "ezrasu",
+      "tags": [],
+      "date": "2026-11-12T11:23:02+00:00"
     },
     {
       "id": "qiita-280596c8b8",
@@ -2372,6 +2484,17 @@
       "author": "sysrpl",
       "tags": [],
       "date": "2026-11-12T05:49:34+00:00"
+    },
+    {
+      "id": "hn-50463399",
+      "source": "hn",
+      "title": "Claude Code and Codex reverse engineered my 1994 Jeep's ECU over a $3 Arduino [video]",
+      "url": "https://www.youtube.com/watch?v=WPj3aQ-xxpI",
+      "score": 189,
+      "comments": 85,
+      "author": "envoked",
+      "tags": [],
+      "date": "2026-11-12T05:29:24+00:00"
     },
     {
       "id": "qiita-8630e5b6d3",
@@ -2971,6 +3094,17 @@
       "author": "iamnothere",
       "tags": [],
       "date": "2026-11-11T12:29:48+00:00"
+    },
+    {
+      "id": "hn-50452621",
+      "source": "hn",
+      "title": "Notes on Mathematics for Engineers (1959) [pdf]",
+      "url": "https://websites.umich.edu/~ners311/CourseLibrary/MathNotes.pdf",
+      "score": 32,
+      "comments": 10,
+      "author": "the-mitr",
+      "tags": [],
+      "date": "2026-11-11T12:25:42+00:00"
     },
     {
       "id": "hn-50452496",
@@ -5125,142 +5259,6 @@
       "author": "sshah03",
       "tags": [],
       "date": "2026-11-08T15:12:07+00:00"
-    },
-    {
-      "id": "hn-50413769",
-      "source": "hn",
-      "title": "I'm not a fan of Deno's security model (2024)",
-      "url": "https://goldstein.lol/posts/deno-security/",
-      "score": 88,
-      "comments": 44,
-      "author": "maxloh",
-      "tags": [],
-      "date": "2026-11-08T14:42:38+00:00"
-    },
-    {
-      "id": "qiita-1cd7734f21",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "MongoDBの設計思想から理解する、RDBとのメリット・デメリット(Rails / Mongoid)",
-      "url": "https://qiita.com/gensan64311466/items/6a636f22c15dcf75001c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "gensan64311466",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-11-08T22:24:19+09:00"
-    },
-    {
-      "id": "hn-50412830",
-      "source": "hn",
-      "title": "How to prove equations using diagrams, part 1",
-      "url": "https://www.epatters.org/post/e-graphs-1/",
-      "score": 57,
-      "comments": 4,
-      "author": "frostbyte7",
-      "tags": [],
-      "date": "2026-11-08T12:51:38+00:00"
-    },
-    {
-      "id": "hn-50412715",
-      "source": "hn",
-      "title": "How to make a CNC plasma cutter with high-frequency start",
-      "url": "https://incoherency.co.uk/blog/stories/cnc-plasma-cutter.html",
-      "score": 13,
-      "comments": 3,
-      "author": "edward",
-      "tags": [],
-      "date": "2026-11-08T12:34:04+00:00"
-    },
-    {
-      "id": "hn-50412554",
-      "source": "hn",
-      "title": "NetBSD 11 desktop on a Raspberry Pi 4",
-      "url": "https://neongd.com/articles/netbsd11-rpi4.gmi",
-      "score": 103,
-      "comments": 62,
-      "author": "jaypatelani",
-      "tags": [],
-      "date": "2026-11-08T12:07:17+00:00"
-    },
-    {
-      "id": "hn-50412318",
-      "source": "hn",
-      "title": "Person of Interest",
-      "url": "https://krthr.co/person-of-interest/",
-      "score": 246,
-      "comments": 164,
-      "author": "krthr",
-      "tags": [],
-      "date": "2026-11-08T11:23:28+00:00"
-    },
-    {
-      "id": "hn-50412209",
-      "source": "hn",
-      "title": "Stable URLs for 42,000 Huts and Peaks",
-      "url": "https://peter-hoffmann.com/2026/stable-urls-for-huts-and-peaks.html",
-      "score": 19,
-      "comments": 1,
-      "author": "lumpa",
-      "tags": [],
-      "date": "2026-11-08T11:04:04+00:00"
-    },
-    {
-      "id": "hn-50412152",
-      "source": "hn",
-      "title": "Petered",
-      "url": "https://aworkinglibrary.com/writing/petered",
-      "score": 130,
-      "comments": 81,
-      "author": "adrianhoward",
-      "tags": [],
-      "date": "2026-11-08T10:56:43+00:00"
-    },
-    {
-      "id": "qiita-1fed4ec97b",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "AIエージェントのための git worktree の使い方",
-      "url": "https://qiita.com/sf-12/items/34ddfb7d7f245085fb2b?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "sf-12",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-11-08T19:52:57+09:00"
-    },
-    {
-      "id": "hn-50412072",
-      "source": "hn",
-      "title": "JIT bitmap text rendering for microcontrollers",
-      "url": "https://linebender.org/blog/jit-bitmap-text/",
-      "score": 90,
-      "comments": 15,
-      "author": "dmit",
-      "tags": [],
-      "date": "2026-11-08T10:42:15+00:00"
-    },
-    {
-      "id": "hn-50412067",
-      "source": "hn",
-      "title": "Writing as a thinking tool",
-      "url": "http://muratbuffalo.blogspot.com/2026/11/writing-as-thinking-tool.html",
-      "score": 359,
-      "comments": 89,
-      "author": "jruohonen",
-      "tags": [],
-      "date": "2026-11-08T10:41:52+00:00"
-    },
-    {
-      "id": "hn-50411961",
-      "source": "hn",
-      "title": "Llama-modchip: 284B DeepSeek on 64GB RAM, no GPU",
-      "url": "https://github.com/synchopate/llama-modchip",
-      "score": 423,
-      "comments": 191,
-      "author": "joshcsimmons",
-      "tags": [],
-      "date": "2026-11-08T10:22:04+00:00"
     },
     {
       "id": "ctf-4867158",

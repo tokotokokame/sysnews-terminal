@@ -1,7 +1,219 @@
 {
-  "updated_at": "2026-11-16T17:15:48.221970+00:00",
+  "updated_at": "2026-11-17T00:57:11.521637+00:00",
   "count": 500,
   "items": [
+    {
+      "id": "hn-50525052",
+      "source": "hn",
+      "title": "Show HN: Sutra-OS – A self-hosted ontology platform",
+      "url": "https://github.com/0nelight/sutra-os",
+      "score": 21,
+      "comments": 3,
+      "author": "0nelight",
+      "tags": [],
+      "date": "2026-11-16T23:25:41+00:00"
+    },
+    {
+      "id": "hn-50524767",
+      "source": "hn",
+      "title": "Optimizely Compromised, Served Malware on Zoom, GitLab",
+      "url": "https://blog.report-uri.com/worlds-largest-brands-infected-with-malware-via-optimizely/",
+      "score": 60,
+      "comments": 19,
+      "author": "kristjansson",
+      "tags": [],
+      "date": "2026-11-16T23:00:34+00:00",
+      "severity": "medium"
+    },
+    {
+      "id": "hn-50524736",
+      "source": "hn",
+      "title": "Windows 11 Is Collecting Data on Which Coding Agents and Developer Tools You Use",
+      "url": "https://xusheng.dev/posts/windows-coding-agent-telemetry/",
+      "score": 147,
+      "comments": 60,
+      "author": "cwaffles",
+      "tags": [],
+      "date": "2026-11-16T22:58:20+00:00"
+    },
+    {
+      "id": "hn-50524225",
+      "source": "hn",
+      "title": "How to Break into Security, Ptacek Edition (2012)",
+      "url": "https://krebsonsecurity.com/2012/06/how-to-break-into-security-ptacek-edition/",
+      "score": 66,
+      "comments": 16,
+      "author": "ronfriedhaber",
+      "tags": [],
+      "date": "2026-11-16T22:19:23+00:00"
+    },
+    {
+      "id": "hn-50524165",
+      "source": "hn",
+      "title": "United Airlines experiencing a widespread system outage, airline says",
+      "url": "https://www.cnn.com/2026/11/16/us/united-airlines-outage",
+      "score": 150,
+      "comments": 73,
+      "author": "bearsyankees",
+      "tags": [],
+      "date": "2026-11-16T22:14:38+00:00"
+    },
+    {
+      "id": "hn-50523784",
+      "source": "hn",
+      "title": "Spamhaus new email sender requirements in November",
+      "url": "https://www.spamhaus.org/sender-guidelines/",
+      "score": 66,
+      "comments": 50,
+      "author": "computer23",
+      "tags": [],
+      "date": "2026-11-16T21:47:19+00:00"
+    },
+    {
+      "id": "hn-50523601",
+      "source": "hn",
+      "title": "BugMeNot has closed",
+      "url": "https://www.bugmenot.com/",
+      "score": 275,
+      "comments": 148,
+      "author": "lode",
+      "tags": [],
+      "date": "2026-11-16T21:32:17+00:00"
+    },
+    {
+      "id": "hn-50523459",
+      "source": "hn",
+      "title": "OpenCode Browse",
+      "url": "https://opencode.ai/product/browse",
+      "score": 97,
+      "comments": 42,
+      "author": "mfiguiere",
+      "tags": [],
+      "date": "2026-11-16T21:20:37+00:00"
+    },
+    {
+      "id": "hn-50523300",
+      "source": "hn",
+      "title": "World's Largest Brands Infected With Malware Via Optimizely",
+      "url": "https://blog.report-uri.com/worlds-largest-brands-infected-with-malware-via-optimizely/",
+      "score": 169,
+      "comments": 33,
+      "author": "martinald",
+      "tags": [],
+      "date": "2026-11-16T21:08:38+00:00",
+      "severity": "medium"
+    },
+    {
+      "id": "hn-50523291",
+      "source": "hn",
+      "title": "My Quest to push native Three.js quality match AAA Game Engines",
+      "url": "https://ben3d.ca/blog/building-the-aaa-lighting-pipeline-in-threejs",
+      "score": 84,
+      "comments": 33,
+      "author": "bhouston",
+      "tags": [],
+      "date": "2026-11-16T21:07:43+00:00"
+    },
+    {
+      "id": "hn-50522980",
+      "source": "hn",
+      "title": "Carnegie Mellon is putting computer science courses on YouTube for free",
+      "url": "https://www.cs.cmu.edu/learn/",
+      "score": 602,
+      "comments": 95,
+      "author": "pcompeau",
+      "tags": [],
+      "date": "2026-11-16T20:43:36+00:00"
+    },
+    {
+      "id": "hn-50522643",
+      "source": "hn",
+      "title": "Chemistry is Actually Geometry",
+      "url": "https://chillphysicsenjoyer.substack.com/p/chemistry-is-actually-geometry",
+      "score": 88,
+      "comments": 22,
+      "author": "sebg",
+      "tags": [],
+      "date": "2026-11-16T20:22:18+00:00"
+    },
+    {
+      "id": "hn-50522563",
+      "source": "hn",
+      "title": "Rust changed me as a developer",
+      "url": "https://blog.startifact.com/posts/how-rust-changed-me/",
+      "score": 172,
+      "comments": 109,
+      "author": "speckx",
+      "tags": [],
+      "date": "2026-11-16T20:16:50+00:00"
+    },
+    {
+      "id": "hn-50521870",
+      "source": "hn",
+      "title": "How to Intercept HTTP/3 Traffic: QUIC and Qpack",
+      "url": "https://interceptsuite.com/blog/intercept-http3-traffic-quic-qpack-explained/",
+      "score": 54,
+      "comments": 5,
+      "author": "anof-cyber",
+      "tags": [],
+      "date": "2026-11-16T19:29:17+00:00",
+      "severity": "critical"
+    },
+    {
+      "id": "hn-50521045",
+      "source": "hn",
+      "title": "Technical issue at JPMorgan Chase triggers online banking delays for US banks",
+      "url": "https://apnews.com/article/bank-outage-chase-wells-fargo-truist-50fee2693c22f597fa6ca51a97ef2cda",
+      "score": 704,
+      "comments": 580,
+      "author": "samk3nny",
+      "tags": [],
+      "date": "2026-11-16T18:31:30+00:00"
+    },
+    {
+      "id": "hn-50520270",
+      "source": "hn",
+      "title": "Aristotle Expands into Rust",
+      "url": "https://www.harmonic.fun/news/aristotle-rust-verification/",
+      "score": 100,
+      "comments": 49,
+      "author": "maufl",
+      "tags": [],
+      "date": "2026-11-16T17:34:41+00:00"
+    },
+    {
+      "id": "hn-50520182",
+      "source": "hn",
+      "title": "Grazing sheep in fields with solar arrays",
+      "url": "https://news.cornell.edu/stories/2026/10/sheep-grazing-solar-fields-offers-farmers-economic-ecological-gains",
+      "score": 205,
+      "comments": 212,
+      "author": "PaulHoule",
+      "tags": [],
+      "date": "2026-11-16T17:27:46+00:00"
+    },
+    {
+      "id": "hn-50519744",
+      "source": "hn",
+      "title": "Jiff 1.0: A datetime library for Rust",
+      "url": "https://burntsushi.net/jiff/",
+      "score": 299,
+      "comments": 72,
+      "author": "burntsushi",
+      "tags": [],
+      "date": "2026-11-16T16:53:39+00:00"
+    },
+    {
+      "id": "hn-50519354",
+      "source": "hn",
+      "title": "Frame – 31.5\" color ePaper display",
+      "url": "https://trmnl.com/blog/introducing-frame",
+      "score": 281,
+      "comments": 202,
+      "author": "geerlingguy",
+      "tags": [],
+      "date": "2026-11-16T16:23:22+00:00"
+    },
     {
       "id": "hn-50519043",
       "source": "hn",
@@ -47,12 +259,47 @@
       "date": "2026-11-16T13:39:07+00:00"
     },
     {
+      "id": "qiita-69d68b7b15",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "もういい加減\"技術勉強会\"やめませんか？",
+      "url": "https://qiita.com/kotowazaman/items/9ee7c475a475e7527b0e?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "kotowazaman",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-11-16T22:22:03+09:00"
+    },
+    {
+      "id": "hn-50517321",
+      "source": "hn",
+      "title": "Microsoft blames monster email outage on software defect introduced in July fix",
+      "url": "https://www.theregister.com/saas/2026/11/16/microsoft-blames-monster-email-outage-on-software-defect-introduced-in-july-fix/5310026",
+      "score": 201,
+      "comments": 147,
+      "author": "Bender",
+      "tags": [],
+      "date": "2026-11-16T13:18:22+00:00"
+    },
+    {
+      "id": "hn-50516689",
+      "source": "hn",
+      "title": "Do Repeat Yourself",
+      "url": "https://arcentry.com/blog/do-repeat-yourself/",
+      "score": 14,
+      "comments": 0,
+      "author": "max_sendfeld",
+      "tags": [],
+      "date": "2026-11-16T12:06:46+00:00"
+    },
+    {
       "id": "hn-50516473",
       "source": "hn",
       "title": "The Secret ThinkPad Powerbutton Code to Bring Dead Laptops Back to Life (2007)",
       "url": "https://masnick.com/posts/the-secret-thinkpad-powerbutton-code-to-bring-dead-laptops-back-to-life/",
-      "score": 206,
-      "comments": 83,
+      "score": 295,
+      "comments": 115,
       "author": "sammatilda",
       "tags": [],
       "date": "2026-11-16T11:39:31+00:00"
@@ -78,6 +325,30 @@
       "author": "Oxodao",
       "tags": [],
       "date": "2026-11-16T08:00:13+00:00"
+    },
+    {
+      "id": "hn-50515151",
+      "source": "hn",
+      "title": "Squircles",
+      "url": "https://linebender.org/wiki/curves/squircle/",
+      "score": 118,
+      "comments": 36,
+      "author": "raphlinus",
+      "tags": [],
+      "date": "2026-11-16T07:55:10+00:00"
+    },
+    {
+      "id": "qiita-6368705e22",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "門番・幹部・受付係で理解する before_action / skip_before_action",
+      "url": "https://qiita.com/mmsbox/items/f1c2dc798bc4ddfe29ee?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "mmsbox",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-11-16T16:41:26+09:00"
     },
     {
       "id": "hn-50515058",
@@ -236,6 +507,32 @@
       "author": "zaik",
       "tags": [],
       "date": "2026-11-16T02:04:48+00:00"
+    },
+    {
+      "id": "qiita-72658be49b",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "【速報】Google「Gemini 4 Hydrogen」登場！Argon・Carbonとの比較で読み解く Gemini 4 シリーズまとめ",
+      "url": "https://qiita.com/tomokoro/items/41cc59d0085fa03c5d52?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "tomokoro",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-11-16T10:31:54+09:00"
+    },
+    {
+      "id": "qiita-f0c7cf5c12",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "AIを使うようになって、これから伸ばしたい力を考えてみた",
+      "url": "https://qiita.com/kmatsuda_slj/items/7629dc7ca925cccc0799?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "kmatsuda_slj",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-11-16T10:29:46+09:00"
     },
     {
       "id": "hn-50512824",
@@ -1057,6 +1354,17 @@
       "author": "RebelPotato",
       "tags": [],
       "date": "2026-11-14T15:22:30+00:00"
+    },
+    {
+      "id": "hn-50497621",
+      "source": "hn",
+      "title": "Formal Verification Is Not Verifiable",
+      "url": "https://alperenkeles.com/posts/formal-verification-is-not-verifiable/",
+      "score": 44,
+      "comments": 5,
+      "author": "zdw",
+      "tags": [],
+      "date": "2026-11-14T15:07:48+00:00"
     },
     {
       "id": "hn-50497589",
@@ -4957,312 +5265,6 @@
       "date": "2026-11-10T09:35:31+09:00"
     },
     {
-      "id": "hn-50434310",
-      "source": "hn",
-      "title": "Locating the source of a mysterious beep",
-      "url": "https://simonwillison.net/2026/Nov/9/mysterious-beeps/",
-      "score": 213,
-      "comments": 94,
-      "author": "bigwheels",
-      "tags": [],
-      "date": "2026-11-10T00:10:46+00:00",
-      "severity": "critical"
-    },
-    {
-      "id": "hn-50434264",
-      "source": "hn",
-      "title": "Horible public key tricks",
-      "url": "https://maurycyz.com/projects/badcert/",
-      "score": 177,
-      "comments": 58,
-      "author": "Curiositry",
-      "tags": [],
-      "date": "2026-11-10T00:07:17+00:00"
-    },
-    {
-      "id": "qiita-2bef747579",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "Claude Code を新しい Fable 5.2 に切り替えると速く安くなるのか。36回測ったら、Fable 5.1 より2割速く3割安く、費用は Opus 5.5 の1.6倍だった",
-      "url": "https://qiita.com/suwa_nobu/items/a6a104575596915dac2e?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "suwa_nobu",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-11-10T08:58:57+09:00"
-    },
-    {
-      "id": "qiita-d7ad727d13",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "障害が起きてから動くのはもう終わりにしよう！New Relic「Advanced APM」で実現するプロアクティブ改善",
-      "url": "https://qiita.com/nr-mito/items/927b6bc074f35ecc181d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "nr-mito",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-11-10T08:50:51+09:00"
-    },
-    {
-      "id": "hn-50433659",
-      "source": "hn",
-      "title": "Fable 5.2 one-shotted my nephew's dream game",
-      "url": "https://notesbylex.com/fable-5-2-one-shotted-my-nephews-dream-game",
-      "score": 218,
-      "comments": 148,
-      "author": "lexandstuff",
-      "tags": [],
-      "date": "2026-11-09T23:08:13+00:00"
-    },
-    {
-      "id": "hn-50433541",
-      "source": "hn",
-      "title": "Exact – a new cross platform UI framework",
-      "url": "https://github.com/expo/exact",
-      "score": 67,
-      "comments": 31,
-      "author": "vmg12",
-      "tags": [],
-      "date": "2026-11-09T22:59:13+00:00"
-    },
-    {
-      "id": "qiita-c5c929d746",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "AI攻撃をAIで迎え撃つ必要はあるのか――旧日本軍の戦史から考える「省資源型戦術防御」",
-      "url": "https://qiita.com/01rabbit/items/9f18f7d208ace293991b?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "01rabbit",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-11-10T07:55:53+09:00"
-    },
-    {
-      "id": "hn-50433216",
-      "source": "hn",
-      "title": "Process Explorer for macOS",
-      "url": "https://github.com/microsoft/Procexp-Mac",
-      "score": 118,
-      "comments": 44,
-      "author": "ingve",
-      "tags": [],
-      "date": "2026-11-09T22:30:41+00:00"
-    },
-    {
-      "id": "hn-50433042",
-      "source": "hn",
-      "title": "Flying on Green: Why Farmers Are Turning to Drones for Cover Crop Seeding",
-      "url": "https://www.agweb.com/news/machinery/flying-green-why-farmers-are-turning-drones-cover-crop-seeding",
-      "score": 50,
-      "comments": 25,
-      "author": "rmason",
-      "tags": [],
-      "date": "2026-11-09T22:15:13+00:00"
-    },
-    {
-      "id": "hn-50432831",
-      "source": "hn",
-      "title": "TPU 8tx and TPU 8i Max",
-      "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/tpu-8i-max-and-8tx/",
-      "score": 221,
-      "comments": 67,
-      "author": "_benx_",
-      "tags": [],
-      "date": "2026-11-09T21:56:57+00:00"
-    },
-    {
-      "id": "hn-50431237",
-      "source": "hn",
-      "title": "Creating Worlds: Runes and Spells Prototype",
-      "url": "https://www.fractalkitty.com/creating-worlds-runes-and-spells/",
-      "score": 13,
-      "comments": 2,
-      "author": "evakhoury",
-      "tags": [],
-      "date": "2026-11-09T20:11:02+00:00"
-    },
-    {
-      "id": "hn-50431144",
-      "source": "hn",
-      "title": "Claude Fable 5.2 scores 65 on Artificial Analysis, highest so far",
-      "url": "https://artificialanalysis.ai/models/claude-fable-5-2",
-      "score": 300,
-      "comments": 224,
-      "author": "theanonymousone",
-      "tags": [],
-      "date": "2026-11-09T20:04:55+00:00"
-    },
-    {
-      "id": "hn-50431058",
-      "source": "hn",
-      "title": "USPS now offers official ZIP Code boundary polygons",
-      "url": "https://postalpro.usps.com/zcb",
-      "score": 633,
-      "comments": 320,
-      "author": "munro",
-      "tags": [],
-      "date": "2026-11-09T19:58:59+00:00"
-    },
-    {
-      "id": "hn-50430991",
-      "source": "hn",
-      "title": "Parking-app convenience fees in 312 U.S. cities (median $0.35 per session)",
-      "url": "https://parkgraph.com/parking-app-fees",
-      "score": 62,
-      "comments": 41,
-      "author": "parkgraph",
-      "tags": [],
-      "date": "2026-11-09T19:55:53+00:00"
-    },
-    {
-      "id": "hn-50430621",
-      "source": "hn",
-      "title": "CUI – Native UI components for C",
-      "url": "https://yappologistic.github.io/CUI/",
-      "score": 159,
-      "comments": 84,
-      "author": "hilti",
-      "tags": [],
-      "date": "2026-11-09T19:35:16+00:00"
-    },
-    {
-      "id": "qiita-5cb7996302",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "Claude Code の「許可待ち」を Windows のトースト通知で知る",
-      "url": "https://qiita.com/je-pu-pu/items/b4052bc0b68e3a3f1de2?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "je-pu-pu",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-11-10T04:26:46+09:00"
-    },
-    {
-      "id": "hn-50429906",
-      "source": "hn",
-      "title": "Claude Fable 5.2 and Mythos 5.2",
-      "url": "https://www.anthropic.com/claude-fable-and-mythos-5-2",
-      "score": 625,
-      "comments": 328,
-      "author": "meetpateltech",
-      "tags": [],
-      "date": "2026-11-09T18:56:29+00:00"
-    },
-    {
-      "id": "hn-50429734",
-      "source": "hn",
-      "title": "E-means: Outperforming k-means in one-tenth the epochs",
-      "url": "https://e-means.github.io/",
-      "score": 413,
-      "comments": 48,
-      "author": "porridgeraisin",
-      "tags": [],
-      "date": "2026-11-09T18:45:43+00:00"
-    },
-    {
-      "id": "hn-50429636",
-      "source": "hn",
-      "title": "Show HN: MeowDisplay Is iPhone Mirroring, but in Reverse",
-      "url": "https://meowdisplay.app/",
-      "score": 78,
-      "comments": 30,
-      "author": "raiseCatError",
-      "tags": [],
-      "date": "2026-11-09T18:39:22+00:00"
-    },
-    {
-      "id": "hn-50429545",
-      "source": "hn",
-      "title": "DeepX claims inference up to 100B parameters at less than 5 W",
-      "url": "https://www.eetimes.com/deepx-tapes-out-second-gen-chip-projects-6-7x-performance-gain-with-lpddr5x-pim/",
-      "score": 90,
-      "comments": 10,
-      "author": "giuliomagnifico",
-      "tags": [],
-      "date": "2026-11-09T18:33:58+00:00"
-    },
-    {
-      "id": "hn-50429430",
-      "source": "hn",
-      "title": "The first 300-millimeter power silicon carbide (SiC) wafer",
-      "url": "https://www.infineon.com/press-release/2026/infpr202611-028",
-      "score": 141,
-      "comments": 78,
-      "author": "sshah03",
-      "tags": [],
-      "date": "2026-11-09T18:25:01+00:00"
-    },
-    {
-      "id": "hn-50429426",
-      "source": "hn",
-      "title": "Google Gemini routes personal Drive files and emails to human annotators",
-      "url": "https://github.com/thisisme6598/gemini_files/",
-      "score": 456,
-      "comments": 105,
-      "author": "gf74918",
-      "tags": [],
-      "date": "2026-11-09T18:24:38+00:00"
-    },
-    {
-      "id": "hn-50429068",
-      "source": "hn",
-      "title": "Claude Fable 5.2 and Mythos 5.2",
-      "url": "https://www.anthropic.com/claude-fable-and-mythos-5-2",
-      "score": 648,
-      "comments": 831,
-      "author": "lairv",
-      "tags": [],
-      "date": "2026-11-09T18:01:10+00:00"
-    },
-    {
-      "id": "hn-50429024",
-      "source": "hn",
-      "title": "Muse Ember: Our smallest, most efficient model",
-      "url": "https://research.meta.ai/blog/muse-ember",
-      "score": 259,
-      "comments": 108,
-      "author": "dvaplima",
-      "tags": [],
-      "date": "2026-11-09T17:58:46+00:00"
-    },
-    {
-      "id": "hn-50428907",
-      "source": "hn",
-      "title": "Show HN: Every satellite that passed over any place this week, and its photos",
-      "url": "https://www.watched.earth",
-      "score": 368,
-      "comments": 65,
-      "author": "a585gupt",
-      "tags": [],
-      "date": "2026-11-09T17:51:31+00:00"
-    },
-    {
-      "id": "hn-50428801",
-      "source": "hn",
-      "title": "When will this stop? The Raspberry Pi 5 16GB SBC now sells for $385",
-      "url": "https://www.cnx-software.com/2026/11/03/when-will-this-stop-the-raspberry-pi-5-16gb-sbc-now-sells-for-385/",
-      "score": 202,
-      "comments": 175,
-      "author": "pera",
-      "tags": [],
-      "date": "2026-11-09T17:42:55+00:00"
-    },
-    {
-      "id": "hn-50428619",
-      "source": "hn",
-      "title": "Did Life Begin in an RNA World?",
-      "url": "https://www.quantamagazine.org/did-life-begin-in-an-rna-world-20261109/",
-      "score": 61,
-      "comments": 28,
-      "author": "acossta",
-      "tags": [],
-      "date": "2026-11-09T17:27:24+00:00"
-    },
-    {
       "id": "ctf-4867158",
       "source": "project",
       "proj_category": "CTF",
@@ -5445,6 +5447,45 @@
       "date": "2023-05-23T17:06:23Z"
     },
     {
+      "id": "zenn-a71e71ea8e",
+      "source": "zennqiita",
+      "sub_source": "Zenn",
+      "title": "実践パスキー認証設計",
+      "url": "https://zenn.dev/yasuakiomokawa/articles/89f5c46e8effe9",
+      "score": null,
+      "author": "Yasuaki Omokawa",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Mon, 16 Nov 2026 12:53:34 GMT"
+    },
+    {
+      "id": "zenn-e84c29b207",
+      "source": "zennqiita",
+      "sub_source": "Zenn",
+      "title": "Kotlin Fest 2026 参加記",
+      "url": "https://zenn.dev/0st_ts/articles/d55862e1a134c2",
+      "score": null,
+      "author": "わかと",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Mon, 16 Nov 2026 10:00:05 GMT"
+    },
+    {
+      "id": "zenn-bea85b5ab6",
+      "source": "zennqiita",
+      "sub_source": "Zenn",
+      "title": "QA生産性を爆上げさせるためのQA AIプラットフォーム構築",
+      "url": "https://zenn.dev/gatechnologies/articles/8bdea59269eb10",
+      "score": null,
+      "author": "akki",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Mon, 16 Nov 2026 09:12:44 GMT"
+    },
+    {
       "id": "zenn-5b1d35f664",
       "source": "zennqiita",
       "sub_source": "Zenn",
@@ -5456,6 +5497,58 @@
         "Zenn"
       ],
       "date": "Mon, 16 Nov 2026 08:00:05 GMT"
+    },
+    {
+      "id": "zenn-d9fb625a1e",
+      "source": "zennqiita",
+      "sub_source": "Zenn",
+      "title": "中編　LLM推論エンジンを作る",
+      "url": "https://zenn.dev/shozotanaka/articles/632191056c62f4",
+      "score": null,
+      "author": "ShozoTanaka",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Mon, 16 Nov 2026 07:46:05 GMT"
+    },
+    {
+      "id": "zenn-df7bc32cac",
+      "source": "zennqiita",
+      "sub_source": "Zenn",
+      "title": "Claudeで試験項目の自動消化を試す",
+      "url": "https://zenn.dev/sre_holdings/articles/29458d1ff4cc39",
+      "score": null,
+      "author": "giya",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Mon, 16 Nov 2026 07:24:54 GMT"
+    },
+    {
+      "id": "zenn-178c582807",
+      "source": "zennqiita",
+      "sub_source": "Zenn",
+      "title": "前編　LLM推論エンジンを作る",
+      "url": "https://zenn.dev/shozotanaka/articles/7e86f85974eebb",
+      "score": null,
+      "author": "ShozoTanaka",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Mon, 16 Nov 2026 07:01:05 GMT"
+    },
+    {
+      "id": "zenn-9a1c1249f1",
+      "source": "zennqiita",
+      "sub_source": "Zenn",
+      "title": "Claude Codeが書いたコードを読む代わりにやっていること",
+      "url": "https://zenn.dev/linkedge/articles/claude-code-instead-of-reading-code",
+      "score": null,
+      "author": "Misugi Takeru",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Mon, 16 Nov 2026 05:04:44 GMT"
     },
     {
       "id": "zenn-52eec506e8",
@@ -5471,6 +5564,19 @@
       "date": "Mon, 16 Nov 2026 03:49:18 GMT"
     },
     {
+      "id": "zenn-ea61765f89",
+      "source": "zennqiita",
+      "sub_source": "Zenn",
+      "title": "StrataとゲーミングPCでローカルLLM生活は始められるのか",
+      "url": "https://zenn.dev/sonicmoov/articles/afbc7281c59cb8",
+      "score": null,
+      "author": "kawanishi",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Mon, 16 Nov 2026 03:33:19 GMT"
+    },
+    {
       "id": "zenn-20d00e30b0",
       "source": "zennqiita",
       "sub_source": "Zenn",
@@ -5482,32 +5588,6 @@
         "Zenn"
       ],
       "date": "Sun, 15 Nov 2026 23:00:07 GMT"
-    },
-    {
-      "id": "zenn-20f5d439b4",
-      "source": "zennqiita",
-      "sub_source": "Zenn",
-      "title": "AIエージェントは悪意ある指示を記憶するのか？— AgentCore MemoryとGuardrailsで検証",
-      "url": "https://zenn.dev/takuyousou/articles/agentcore-memory-poisoning-guardrails",
-      "score": null,
-      "author": "Song",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Sun, 15 Nov 2026 15:40:12 GMT"
-    },
-    {
-      "id": "zenn-1c497f2c9a",
-      "source": "zennqiita",
-      "sub_source": "Zenn",
-      "title": "Lightdashで作れるグラフを試してみた【dbt v2】",
-      "url": "https://zenn.dev/ryatora/articles/lightdash-chart-catalog",
-      "score": null,
-      "author": "rnm",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Sun, 15 Nov 2026 15:07:26 GMT"
     },
     {
       "id": "zenn-eff7528997",
@@ -5523,19 +5603,6 @@
       "date": "Sun, 15 Nov 2026 09:46:35 GMT"
     },
     {
-      "id": "zenn-25df02568e",
-      "source": "zennqiita",
-      "sub_source": "Zenn",
-      "title": "Apple container で docker compose を動かす（DNS 名と SSH で簡単になった）",
-      "url": "https://zenn.dev/7kaji/articles/a9e056ced5f0c1",
-      "score": null,
-      "author": "7kaji",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Sun, 15 Nov 2026 09:00:05 GMT"
-    },
-    {
       "id": "zenn-f48df0a2aa",
       "source": "zennqiita",
       "sub_source": "Zenn",
@@ -5547,19 +5614,6 @@
         "Zenn"
       ],
       "date": "Sun, 15 Nov 2026 00:19:17 GMT"
-    },
-    {
-      "id": "zenn-b256f3fc7b",
-      "source": "zennqiita",
-      "sub_source": "Zenn",
-      "title": "ローカルLLMで動く翻訳拡張機能「Sakutto」を開発した話",
-      "url": "https://zenn.dev/jammaru_lab/articles/sakutto-local-llm-chrome-extension",
-      "score": null,
-      "author": "じゃむまる",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Sat, 14 Nov 2026 20:02:29 GMT"
     },
     {
       "id": "zenn-9b661c6620",
@@ -5627,32 +5681,6 @@
       "date": "Fri, 13 Nov 2026 02:48:24 GMT"
     },
     {
-      "id": "zenn-828a8567fb",
-      "source": "zennqiita",
-      "sub_source": "Zenn",
-      "title": "脱WordPress：10年超の個人ブログをAstro + Cloudflare Workersへ移行しPageSpeed 100点を実現",
-      "url": "https://zenn.dev/unsoluble_sugar/articles/8cdf1efc01e6cb",
-      "score": null,
-      "author": "星影",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Thu, 12 Nov 2026 15:31:01 GMT"
-    },
-    {
-      "id": "zenn-6882e5cf17",
-      "source": "zennqiita",
-      "sub_source": "Zenn",
-      "title": "AIで膨らみ続けるテストケースを、リスクベースドテストで選んで回すまでの記録",
-      "url": "https://zenn.dev/pivotmedia/articles/risk-based-testing-for-uat",
-      "score": null,
-      "author": "Keisuke",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Thu, 12 Nov 2026 11:41:36 GMT"
-    },
-    {
       "id": "zenn-77c5db3b7a",
       "source": "zennqiita",
       "sub_source": "Zenn",
@@ -5666,19 +5694,6 @@
       "date": "Thu, 12 Nov 2026 00:44:52 GMT"
     },
     {
-      "id": "zenn-83e64119d0",
-      "source": "zennqiita",
-      "sub_source": "Zenn",
-      "title": "SlackでMarkdown記法が使えるようになっていた",
-      "url": "https://zenn.dev/lnest_knowledge/articles/ed5977bd7b6c1f",
-      "score": null,
-      "author": "shown_it",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Wed, 11 Nov 2026 05:52:02 GMT"
-    },
-    {
       "id": "zenn-0e4f79a20f",
       "source": "zennqiita",
       "sub_source": "Zenn",
@@ -5690,19 +5705,6 @@
         "Zenn"
       ],
       "date": "Wed, 11 Nov 2026 05:05:46 GMT"
-    },
-    {
-      "id": "zenn-294c9faf90",
-      "source": "zennqiita",
-      "sub_source": "Zenn",
-      "title": "Claude Codeで最近使っているTips【2026/11】",
-      "url": "https://zenn.dev/oikon/articles/claude-code-recipe",
-      "score": null,
-      "author": "Oikon",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Mon, 09 Nov 2026 22:01:05 GMT"
     },
     {
       "id": "edb-26c47de06a",

@@ -1,7 +1,268 @@
 {
-  "updated_at": "2026-11-18T08:53:15.225509+00:00",
+  "updated_at": "2026-11-18T17:48:03.013269+00:00",
   "count": 500,
   "items": [
+    {
+      "id": "hn-50548828",
+      "source": "hn",
+      "title": "Stop Deploying to ECS Just to See If Your Code Works",
+      "url": "https://metalbear.com/blog/stop-deploying-to-ecs/",
+      "score": 25,
+      "comments": 3,
+      "author": "Liriel",
+      "tags": [],
+      "date": "2026-11-18T17:05:13+00:00"
+    },
+    {
+      "id": "hn-50548485",
+      "source": "hn",
+      "title": "\"Anthropic Is Not a Safe AI Company\" – Coalition Challenges Anthropic Safety",
+      "url": "https://www.businesswire.com/news/home/20261118974464/en/Anthropic-is-Not-a-Safe-AI-Company---Broad-Coalition-of-Scientists-Legal-Scholars-and-Tech-Leaders-Challenge-Anthropics-Safety-Branding-Ahead-of-IPO",
+      "score": 51,
+      "comments": 25,
+      "author": "sshah03",
+      "tags": [],
+      "date": "2026-11-18T16:41:22+00:00"
+    },
+    {
+      "id": "hn-50548214",
+      "source": "hn",
+      "title": "RFC 2675: IPv6 Jumbograms",
+      "url": "https://www.rfc-editor.org/info/rfc2675/",
+      "score": 10,
+      "comments": 7,
+      "author": "caminanteblanco",
+      "tags": [],
+      "date": "2026-11-18T16:22:23+00:00"
+    },
+    {
+      "id": "hn-50548161",
+      "source": "hn",
+      "title": "Show HN: Take Voyager 1 apart, down to a single memory chip",
+      "url": "https://rshekhar.com/voyager/",
+      "score": 29,
+      "comments": 4,
+      "author": "raj-shekhar",
+      "tags": [],
+      "date": "2026-11-18T16:18:51+00:00"
+    },
+    {
+      "id": "hn-50548021",
+      "source": "hn",
+      "title": "Microsoft AI: Seven new world-class models at scalable price-performance",
+      "url": "https://microsoft.ai/news/microsoft-ignite-2026/",
+      "score": 125,
+      "comments": 76,
+      "author": "gmays",
+      "tags": [],
+      "date": "2026-11-18T16:08:24+00:00"
+    },
+    {
+      "id": "hn-50548004",
+      "source": "hn",
+      "title": "CVE-2026-99312: KVM Guest-to-Host Escape",
+      "url": "https://www.terra.security/blog/kvm-guest-to-host-escape",
+      "score": 79,
+      "comments": 35,
+      "author": "Kozmik1",
+      "tags": [],
+      "date": "2026-11-18T16:06:21+00:00",
+      "severity": "high"
+    },
+    {
+      "id": "hn-50547980",
+      "source": "hn",
+      "title": "Show HN: ExitPath – Open-source ways out of Slack, Notion and Microsoft 365",
+      "url": "https://exitpath-ruddy.vercel.app/",
+      "score": 33,
+      "comments": 3,
+      "author": "zerocool0101",
+      "tags": [],
+      "date": "2026-11-18T16:04:43+00:00",
+      "severity": "critical"
+    },
+    {
+      "id": "qiita-f9313cdf99",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "【AIDP第3回】Oracle AI Data PlatformのAI Computeで東京都の地域分析AIエージェントを作成してみてみた",
+      "url": "https://qiita.com/shirok/items/c1f84fb7ebd532877171?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "shirok",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-11-19T00:50:37+09:00"
+    },
+    {
+      "id": "hn-50547777",
+      "source": "hn",
+      "title": "AI Agents Ask Better Questions Than KPMG Accountants in Landmark Audit Trial",
+      "url": "https://europeanbusinessmagazine.com/ai-agents-better-questions-kpmg/",
+      "score": 51,
+      "comments": 21,
+      "author": "Betelbuddy",
+      "tags": [],
+      "date": "2026-11-18T15:49:34+00:00"
+    },
+    {
+      "id": "hn-50547620",
+      "source": "hn",
+      "title": "Inside Deutsche Bank",
+      "url": "https://www.inside-db.com/",
+      "score": 240,
+      "comments": 81,
+      "author": "gyre007",
+      "tags": [],
+      "date": "2026-11-18T15:38:33+00:00"
+    },
+    {
+      "id": "hn-50547583",
+      "source": "hn",
+      "title": "U.S. AirForce is looking for old storage Media (CF or PC cards)",
+      "url": "https://sam.gov/workspace/contract/opp/8948e8601e964c6aba9c801eee16b1be/view",
+      "score": 67,
+      "comments": 31,
+      "author": "birdboat00",
+      "tags": [],
+      "date": "2026-11-18T15:35:44+00:00",
+      "severity": "critical"
+    },
+    {
+      "id": "hn-50547423",
+      "source": "hn",
+      "title": "NGINX2Root by Xint – From Nginx visitor to root of the server host",
+      "url": "https://nginx2root.com/",
+      "score": 43,
+      "comments": 6,
+      "author": "purkka",
+      "tags": [],
+      "date": "2026-11-18T15:24:17+00:00"
+    },
+    {
+      "id": "hn-50547374",
+      "source": "hn",
+      "title": "Pre-auth RCE in Nginx HTTP/2 handling",
+      "url": "https://www.wiz.io/blog/nginx-http2-rce-vulnerabilities",
+      "score": 350,
+      "comments": 113,
+      "author": "speedping",
+      "tags": [],
+      "date": "2026-11-18T15:19:55+00:00",
+      "severity": "critical"
+    },
+    {
+      "id": "hn-50547344",
+      "source": "hn",
+      "title": "Poland says it thwarted false flag operation near border with Kaliningrad",
+      "url": "https://www.yahoo.com/news/world/articles/russia-reportedly-planned-mass-casualty-090500574.html",
+      "score": 149,
+      "comments": 38,
+      "author": "ilamont",
+      "tags": [],
+      "date": "2026-11-18T15:18:30+00:00"
+    },
+    {
+      "id": "hn-50546967",
+      "source": "hn",
+      "title": "The x86 CPU: From 4004 to 486",
+      "url": "https://pikuma.com/blog/history-of-x86-4004-to-486",
+      "score": 58,
+      "comments": 15,
+      "author": "ibobev",
+      "tags": [],
+      "date": "2026-11-18T14:47:53+00:00"
+    },
+    {
+      "id": "hn-50546922",
+      "source": "hn",
+      "title": "A Primer on Fourier Series",
+      "url": "https://arxiv.org/abs/2510.18203",
+      "score": 52,
+      "comments": 11,
+      "author": "teleforce",
+      "tags": [],
+      "date": "2026-11-18T14:44:33+00:00"
+    },
+    {
+      "id": "hn-50546914",
+      "source": "hn",
+      "title": "'Human' Is Cambridge Dictionary's Word of the Year 2026",
+      "url": "https://www.cam.ac.uk/news/cambridge-dictionary-reveals-word-of-the-year-2026",
+      "score": 130,
+      "comments": 95,
+      "author": "DeepLogin",
+      "tags": [],
+      "date": "2026-11-18T14:43:52+00:00"
+    },
+    {
+      "id": "qiita-6fe73f1edc",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "AIっぽい日本語を直すスキル yomiyasu-mini を Microsoft Copilot の色々なところで使ってみた",
+      "url": "https://qiita.com/Oyu3m/items/8efff0925c0994dda6ee?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "Oyu3m",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-11-18T23:25:15+09:00"
+    },
+    {
+      "id": "hn-50546465",
+      "source": "hn",
+      "title": "Energy drinks linked to 11 times more reports of cardiac arrest",
+      "url": "https://www.sciencedaily.com/releases/2026/11/261110042543.htm",
+      "score": 159,
+      "comments": 129,
+      "author": "wjSgoWPm5bWAhXB",
+      "tags": [],
+      "date": "2026-11-18T14:03:37+00:00"
+    },
+    {
+      "id": "hn-50545958",
+      "source": "hn",
+      "title": "Quad9 Is Leaving France: Why DNS Resolvers Are the Wrong Place to Fight Piracy",
+      "url": "https://techstackups.com/articles/quad9-leaves-france-dns-blocking/",
+      "score": 343,
+      "comments": 104,
+      "author": "ritzaco",
+      "tags": [],
+      "date": "2026-11-18T13:18:02+00:00"
+    },
+    {
+      "id": "hn-50545238",
+      "source": "hn",
+      "title": "Evidence (YC S21) Is Hiring",
+      "url": "https://www.ycombinator.com/companies/evidence/jobs/1xb9PpP-founding-gtm-lead",
+      "score": 1,
+      "comments": 0,
+      "author": "amcaskill",
+      "tags": [],
+      "date": "2026-11-18T12:00:16+00:00"
+    },
+    {
+      "id": "hn-50544821",
+      "source": "hn",
+      "title": "Show HN: Type Fighter 2",
+      "url": "https://typefighter2.com/",
+      "score": 85,
+      "comments": 40,
+      "author": "torumitch",
+      "tags": [],
+      "date": "2026-11-18T11:11:53+00:00"
+    },
+    {
+      "id": "hn-50543989",
+      "source": "hn",
+      "title": "Energy-Based Reasoners: 385x more efficient inference",
+      "url": "https://energy-based-reasoners.github.io/",
+      "score": 247,
+      "comments": 37,
+      "author": "frenchmajesty",
+      "tags": [],
+      "date": "2026-11-18T09:29:32+00:00"
+    },
     {
       "id": "hn-50543343",
       "source": "hn",
@@ -88,8 +349,8 @@
       "source": "hn",
       "title": "Why is Gemini 4 Carbon taking so long?",
       "url": "https://kernel.dev/blog/why-is-gemini-4-carbon-taking-so-long/",
-      "score": 74,
-      "comments": 44,
+      "score": 244,
+      "comments": 126,
       "author": "deenadz",
       "tags": [],
       "date": "2026-11-18T04:14:04+00:00"
@@ -206,19 +467,6 @@
         "Qiita"
       ],
       "date": "2026-11-18T10:35:57+09:00"
-    },
-    {
-      "id": "qiita-f9313cdf99",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "【AIDP第3回】Oracle AI Data PlatformのAI Computeで東京都の地域分析AIエージェントを作成してみてみた",
-      "url": "https://qiita.com/shirok/items/c1f84fb7ebd532877171?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "shirok",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-11-18T09:58:27+09:00"
     },
     {
       "id": "hn-50540437",
@@ -598,19 +846,6 @@
       "tags": [],
       "date": "2026-11-17T14:45:36+00:00",
       "severity": "critical"
-    },
-    {
-      "id": "qiita-6fe73f1edc",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "AIっぽい日本語を直すスキル yomiyasu-mini を Microsoft Copilot の色々なところで使ってみた",
-      "url": "https://qiita.com/Oyu3m/items/8efff0925c0994dda6ee?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "Oyu3m",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-11-17T22:52:59+09:00"
     },
     {
       "id": "qiita-d49d0d3c56",
@@ -1949,6 +2184,17 @@
       "date": "2026-11-15T17:22:32+00:00"
     },
     {
+      "id": "hn-50508356",
+      "source": "hn",
+      "title": "New FreeBSD Pkgbase(8) Tool",
+      "url": "https://vermaden.wordpress.com/2026/11/10/freebsd-pkgbase-update-tool/",
+      "score": 20,
+      "comments": 1,
+      "author": "vermaden",
+      "tags": [],
+      "date": "2026-11-15T16:46:13+00:00"
+    },
+    {
       "id": "qiita-22fcc93fd0",
       "source": "zennqiita",
       "sub_source": "Qiita",
@@ -2140,6 +2386,17 @@
         "Qiita"
       ],
       "date": "2026-11-15T15:42:37+09:00"
+    },
+    {
+      "id": "hn-50504373",
+      "source": "hn",
+      "title": "A Perfect SimCity",
+      "url": "https://www.jeffquast.com/post/a-perfect-simcity/",
+      "score": 199,
+      "comments": 96,
+      "author": "mariuz",
+      "tags": [],
+      "date": "2026-11-15T05:54:22+00:00"
     },
     {
       "id": "hn-50504277",
@@ -5040,267 +5297,6 @@
       "date": "2026-11-11T18:28:31+00:00"
     },
     {
-      "id": "hn-50456631",
-      "source": "hn",
-      "title": "AWS emulator",
-      "url": "https://github.com/aws/aws-emulator",
-      "score": 854,
-      "comments": 236,
-      "author": "super_linear",
-      "tags": [],
-      "date": "2026-11-11T18:21:38+00:00"
-    },
-    {
-      "id": "hn-50455811",
-      "source": "hn",
-      "title": "Launch HN: Pomerado (YC F26) – Turn any website into an MCP for agents",
-      "url": "https://pomerado.ai/",
-      "score": 36,
-      "comments": 32,
-      "author": "alanjm23",
-      "tags": [],
-      "date": "2026-11-11T17:11:56+00:00"
-    },
-    {
-      "id": "hn-50455732",
-      "source": "hn",
-      "title": "Oxford Molecular Motors",
-      "url": "https://www.physics.ox.ac.uk/research/group/oxford-molecular-motors/research/bacterial-flagellar-motor",
-      "score": 37,
-      "comments": 5,
-      "author": "handfuloflight",
-      "tags": [],
-      "date": "2026-11-11T17:06:08+00:00"
-    },
-    {
-      "id": "hn-50455633",
-      "source": "hn",
-      "title": "Faster Retrieval for Better, More Efficient RAG",
-      "url": "https://machinelearning.apple.com/research/faster-retrieval",
-      "score": 210,
-      "comments": 38,
-      "author": "zerop",
-      "tags": [],
-      "date": "2026-11-11T16:57:45+00:00"
-    },
-    {
-      "id": "hn-50455394",
-      "source": "hn",
-      "title": "A false smoke alarm almost drowned Jane Street's only NYC datacenter",
-      "url": "https://michael.bacarella.com/2026/11/10/false-smoke-alarm-jane-street-datacenter/",
-      "score": 495,
-      "comments": 237,
-      "author": "mbac32768",
-      "tags": [],
-      "date": "2026-11-11T16:38:44+00:00"
-    },
-    {
-      "id": "hn-50455332",
-      "source": "hn",
-      "title": "AI, activity, and outcomes in software engineering",
-      "url": "https://cabird.com/talks/shipping-faster/",
-      "score": 96,
-      "comments": 95,
-      "author": "azhenley",
-      "tags": [],
-      "date": "2026-11-11T16:33:28+00:00"
-    },
-    {
-      "id": "qiita-fefbaf89ec",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "PRの脆弱性をAIが直す「CodeMender」を見て、新卒が基礎を学ぶ理由を考えた",
-      "url": "https://qiita.com/N-Kyo/items/23697fc1e92c288b426b?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "N-Kyo",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-11-12T00:47:28+09:00",
-      "severity": "high"
-    },
-    {
-      "id": "hn-50454700",
-      "source": "hn",
-      "title": "Before Pixels: Speed-Minder",
-      "url": "https://unsung.aresluna.org/before-pixels-speed-minder/",
-      "score": 5,
-      "comments": 0,
-      "author": "surprisetalk",
-      "tags": [],
-      "date": "2026-11-11T15:40:05+00:00"
-    },
-    {
-      "id": "qiita-d046ecc450",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "Claude Codeが「私が言っていない同意」を書いて、それに従って動く — 自分のログで数えてみた（解析①）",
-      "url": "https://qiita.com/Pulsar-K/items/4abdd463cdc2e1c55e3d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "Pulsar-K",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-11-12T00:39:09+09:00"
-    },
-    {
-      "id": "hn-50454625",
-      "source": "hn",
-      "title": "Show HN: Yogurt – Free, private, open-source alternative to Granola",
-      "url": "https://github.com/FrigadeHQ/yogurt",
-      "score": 178,
-      "comments": 81,
-      "author": "brownrout",
-      "tags": [],
-      "date": "2026-11-11T15:33:06+00:00",
-      "severity": "critical"
-    },
-    {
-      "id": "hn-50453901",
-      "source": "hn",
-      "title": "Seagate's new hybrid drive raises some old questions",
-      "url": "https://arstechnica.com/gadgets/2026/11/seagate-resurrects-the-ssd-hdd-hybrid-drive/",
-      "score": 61,
-      "comments": 36,
-      "author": "PaulHoule",
-      "tags": [],
-      "date": "2026-11-11T14:32:09+00:00"
-    },
-    {
-      "id": "hn-50453763",
-      "source": "hn",
-      "title": "Pharo in the Browser with WebAssembly",
-      "url": "https://massimo-nocentini.github.io/pharo-vm/world.html",
-      "score": 20,
-      "comments": 5,
-      "author": "xkriva11",
-      "tags": [],
-      "date": "2026-11-11T14:21:27+00:00"
-    },
-    {
-      "id": "hn-50453637",
-      "source": "hn",
-      "title": "Atuin Threads: All your agent sessions on every machine",
-      "url": "https://blog.atuin.sh/threads-agent-sessions/",
-      "score": 191,
-      "comments": 73,
-      "author": "linsomniac",
-      "tags": [],
-      "date": "2026-11-11T14:10:46+00:00"
-    },
-    {
-      "id": "hn-50453613",
-      "source": "hn",
-      "title": "A QR code that says who made it",
-      "url": "https://qrsig.org/",
-      "score": 15,
-      "comments": 7,
-      "author": "mart9",
-      "tags": [],
-      "date": "2026-11-11T14:08:39+00:00"
-    },
-    {
-      "id": "hn-50453555",
-      "source": "hn",
-      "title": "Apple is killing its Support Community forum next week",
-      "url": "https://www.theverge.com/tech/1031507/apple-community-support-forum-shutting-down",
-      "score": 28,
-      "comments": 15,
-      "author": "saikatsg",
-      "tags": [],
-      "date": "2026-11-11T14:02:11+00:00"
-    },
-    {
-      "id": "hn-50453474",
-      "source": "hn",
-      "title": "I asked every TV manufacturer 17 questions about how they spy on you",
-      "url": "https://www.theverge.com/tech/1012372/tv-privacy-acr-questions",
-      "score": 57,
-      "comments": 15,
-      "author": "Brajeshwar",
-      "tags": [],
-      "date": "2026-11-11T13:56:05+00:00"
-    },
-    {
-      "id": "hn-50453288",
-      "source": "hn",
-      "title": "Hyper-Realistic Sand with WebGL2",
-      "url": "https://av.github.io/safe-sand/",
-      "score": 383,
-      "comments": 72,
-      "author": "everlier",
-      "tags": [],
-      "date": "2026-11-11T13:39:29+00:00"
-    },
-    {
-      "id": "hn-50453229",
-      "source": "hn",
-      "title": "Show HN: Godbolt-in-a-floating-window for Neovim (C, C++, Rust)",
-      "url": "https://github.com/0xdeadf1sh/AssemblyForNeovim",
-      "score": 8,
-      "comments": 1,
-      "author": "0xdeadf1sh",
-      "tags": [],
-      "date": "2026-11-11T13:34:24+00:00"
-    },
-    {
-      "id": "hn-50453080",
-      "source": "hn",
-      "title": "EventSourcingDB 1.3.0 Is Available",
-      "url": "https://www.eventfoundation.io/resources/blog/eventsourcingdb-1-3-0-is-available",
-      "score": 6,
-      "comments": 0,
-      "author": "goloroden",
-      "tags": [],
-      "date": "2026-11-11T13:19:45+00:00"
-    },
-    {
-      "id": "qiita-0ca5a197f2",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "Q Developer 改め AWS assistantに、共用アカウントの「お金の犯人」を聞いてみた",
-      "url": "https://qiita.com/N-Kyo/items/e795b22a860566bc7b5b?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "N-Kyo",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-11-11T21:55:34+09:00"
-    },
-    {
-      "id": "hn-50452742",
-      "source": "hn",
-      "title": "Open research, stronger privacy: Making Firefox users harder to fingerprint",
-      "url": "https://blog.mozilla.org/security/2026/11/10/open-research-stronger-privacy-making-firefox-users-harder-to-fingerprint/",
-      "score": 50,
-      "comments": 5,
-      "author": "Vinnl",
-      "tags": [],
-      "date": "2026-11-11T12:44:06+00:00"
-    },
-    {
-      "id": "hn-50452655",
-      "source": "hn",
-      "title": "Can a Linear Program Do Weight-Space Programming?",
-      "url": "https://nathan.rs/posts/weight-space-lp/",
-      "score": 247,
-      "comments": 37,
-      "author": "emschwartz",
-      "tags": [],
-      "date": "2026-11-11T12:30:17+00:00"
-    },
-    {
-      "id": "hn-50452652",
-      "source": "hn",
-      "title": "We need more goat sacrifices",
-      "url": "https://www.experimental-history.com/p/we-need-more-goat-sacrifices",
-      "score": 35,
-      "comments": 20,
-      "author": "iamnothere",
-      "tags": [],
-      "date": "2026-11-11T12:29:48+00:00"
-    },
-    {
       "id": "ctf-5010862",
       "source": "project",
       "proj_category": "CTF",
@@ -5469,6 +5465,45 @@
       "date": "2023-05-23T17:06:23Z"
     },
     {
+      "id": "zenn-b225a7e395",
+      "source": "zennqiita",
+      "sub_source": "Zenn",
+      "title": "tsrs を導入したら oxlint の type-aware linting と typecheck が爆速になった話",
+      "url": "https://zenn.dev/dress_code/articles/6c179ae5129131",
+      "score": null,
+      "author": "ぷーじ",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Wed, 18 Nov 2026 07:00:06 GMT"
+    },
+    {
+      "id": "zenn-5ab9908de4",
+      "source": "zennqiita",
+      "sub_source": "Zenn",
+      "title": "Odin に賭けたい人向けの Odin 言語入門ガイド",
+      "url": "https://zenn.dev/mizchi/articles/odin-introduction-guide",
+      "score": null,
+      "author": "mizchi",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Wed, 18 Nov 2026 05:53:00 GMT"
+    },
+    {
+      "id": "zenn-7e7d2c8cd2",
+      "source": "zennqiita",
+      "sub_source": "Zenn",
+      "title": "危険コマンドを止める Claude Code hook を書いたのに、素通ししていた",
+      "url": "https://zenn.dev/minewo/articles/claude-code-hook-fail-open",
+      "score": null,
+      "author": "mine_take｜AI駆動開発・チーム運用",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Tue, 17 Nov 2026 21:31:02 GMT"
+    },
+    {
       "id": "zenn-aafa5150b4",
       "source": "zennqiita",
       "sub_source": "Zenn",
@@ -5480,6 +5515,19 @@
         "Zenn"
       ],
       "date": "Tue, 17 Nov 2026 14:09:17 GMT"
+    },
+    {
+      "id": "zenn-d3e340e0dc",
+      "source": "zennqiita",
+      "sub_source": "Zenn",
+      "title": "Museは「成長する相棒」になれるのか？ 記憶と改善の積み重ねを観察する",
+      "url": "https://zenn.dev/daydream/articles/muse-observation-01-memory-and-boundaries",
+      "score": null,
+      "author": "Seiya Kamizato",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Tue, 17 Nov 2026 11:31:17 GMT"
     },
     {
       "id": "zenn-5260732c47",
@@ -5547,45 +5595,6 @@
       "date": "Tue, 17 Nov 2026 07:17:24 GMT"
     },
     {
-      "id": "zenn-8f7415f842",
-      "source": "zennqiita",
-      "sub_source": "Zenn",
-      "title": "AI時代の生産性を考える",
-      "url": "https://zenn.dev/mediaforce/articles/b7075a9e04e871",
-      "score": null,
-      "author": "Kazuma Hosaka",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Tue, 17 Nov 2026 07:12:18 GMT"
-    },
-    {
-      "id": "zenn-777d2696fe",
-      "source": "zennqiita",
-      "sub_source": "Zenn",
-      "title": "エージェントの自律性を上げると、何が得られて何を失うか —— 助言・承認付き実行・自律実行を実測する",
-      "url": "https://zenn.dev/enterprise_ai/articles/1b1f34af88fb8f",
-      "score": null,
-      "author": "kyokomizo",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Tue, 17 Nov 2026 06:51:14 GMT"
-    },
-    {
-      "id": "zenn-848b5868f3",
-      "source": "zennqiita",
-      "sub_source": "Zenn",
-      "title": "LTを盛り上げよう！AWSサービス応援うちわ制作裏話",
-      "url": "https://zenn.dev/namiki64/articles/7aab23e02d1dc4",
-      "score": null,
-      "author": "なみき",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Tue, 17 Nov 2026 03:55:17 GMT"
-    },
-    {
       "id": "zenn-3483494854",
       "source": "zennqiita",
       "sub_source": "Zenn",
@@ -5623,6 +5632,32 @@
         "Zenn"
       ],
       "date": "Tue, 17 Nov 2026 03:00:08 GMT"
+    },
+    {
+      "id": "zenn-a7e023f6dd",
+      "source": "zennqiita",
+      "sub_source": "Zenn",
+      "title": "フロントエンドの logic と UI は、エージェントの責任範囲で分けられるのか",
+      "url": "https://zenn.dev/xtm_blog/articles/20261116-fd1702b0ba06cd",
+      "score": null,
+      "author": "mizumoto",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Mon, 16 Nov 2026 23:00:05 GMT"
+    },
+    {
+      "id": "zenn-0ad39bac5f",
+      "source": "zennqiita",
+      "sub_source": "Zenn",
+      "title": "最近、コードを真面目に読まなくなった",
+      "url": "https://zenn.dev/hiromoo/articles/reading-less-preparing-more",
+      "score": null,
+      "author": "むた",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Mon, 16 Nov 2026 15:24:23 GMT"
     },
     {
       "id": "zenn-794a5d4566",
@@ -5664,32 +5699,6 @@
       "date": "Mon, 16 Nov 2026 08:00:05 GMT"
     },
     {
-      "id": "zenn-ffcb738412",
-      "source": "zennqiita",
-      "sub_source": "Zenn",
-      "title": "CSS では書きにくいアニメーションを Web Animations API で書く",
-      "url": "https://zenn.dev/omu_tryangle/articles/b5817393592229",
-      "score": null,
-      "author": "hyakutake",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Mon, 16 Nov 2026 06:35:01 GMT"
-    },
-    {
-      "id": "zenn-9a1c1249f1",
-      "source": "zennqiita",
-      "sub_source": "Zenn",
-      "title": "Claude Codeが書いたコードを読む代わりにやっていること",
-      "url": "https://zenn.dev/linkedge/articles/claude-code-instead-of-reading-code",
-      "score": null,
-      "author": "Misugi Takeru",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Mon, 16 Nov 2026 05:04:44 GMT"
-    },
-    {
       "id": "zenn-52eec506e8",
       "source": "zennqiita",
       "sub_source": "Zenn",
@@ -5714,19 +5723,6 @@
         "Zenn"
       ],
       "date": "Sun, 15 Nov 2026 23:00:07 GMT"
-    },
-    {
-      "id": "zenn-9b661c6620",
-      "source": "zennqiita",
-      "sub_source": "Zenn",
-      "title": "フロントエンドのフレームワークを、安全に段階的に入れ替える",
-      "url": "https://zenn.dev/yasuakiomokawa/articles/de83bb4c4ea928",
-      "score": null,
-      "author": "Yasuaki Omokawa",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Sat, 14 Nov 2026 07:12:52 GMT"
     },
     {
       "id": "edb-26c47de06a",

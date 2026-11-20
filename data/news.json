@@ -1,14 +1,107 @@
 {
-  "updated_at": "2026-11-19T22:57:59.378158+00:00",
+  "updated_at": "2026-11-20T03:55:14.750063+00:00",
   "count": 500,
   "items": [
+    {
+      "id": "hn-50569519",
+      "source": "hn",
+      "title": "What Comes After AGI?",
+      "url": "https://institute.deepmind.com/essays/what-comes-after-agi/",
+      "score": 12,
+      "comments": 3,
+      "author": "jdkee",
+      "tags": [],
+      "date": "2026-11-20T02:44:13+00:00"
+    },
+    {
+      "id": "hn-50569516",
+      "source": "hn",
+      "title": "Postgres 19 Repack: Faster, Built-In Table Bloat Cleanup",
+      "url": "https://www.snowflake.com/en/blog/engineering/postgres-19-repack-table-bloat/",
+      "score": 4,
+      "comments": 0,
+      "author": "craigkerstiens",
+      "tags": [],
+      "date": "2026-11-20T02:43:49+00:00"
+    },
+    {
+      "id": "qiita-457cde819c",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "[AWS] 徹底比較！ OpenSearch Memory vs AgentCore Memory",
+      "url": "https://qiita.com/kikuziro/items/939887bcd8fbb3a78ba0?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "kikuziro",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-11-20T11:32:56+09:00"
+    },
+    {
+      "id": "hn-50569226",
+      "source": "hn",
+      "title": "OpenSSL: Buffer overflow in EVP_EncodeBlock() (CVE-2026-121481, CVSS 9.8)",
+      "url": "https://github.com/openssl/openssl/pull/33652",
+      "score": 53,
+      "comments": 22,
+      "author": "JacobHenner",
+      "tags": [],
+      "date": "2026-11-20T02:01:09+00:00",
+      "severity": "high"
+    },
+    {
+      "id": "hn-50568861",
+      "source": "hn",
+      "title": "Vint Cerf on why TCP/IP was never patented",
+      "url": "https://seremot.com/p/vint-cerf-on-why-tcpip-was-never",
+      "score": 41,
+      "comments": 6,
+      "author": "emot",
+      "tags": [],
+      "date": "2026-11-20T01:06:12+00:00"
+    },
+    {
+      "id": "hn-50568643",
+      "source": "hn",
+      "title": "Postgres 19 is out, and it's available on Neon and Databricks Lakebase",
+      "url": "https://www.databricks.com/blog/postgresql-19-available-lakebase",
+      "score": 25,
+      "comments": 6,
+      "author": "sp_from_db",
+      "tags": [],
+      "date": "2026-11-20T00:37:31+00:00"
+    },
+    {
+      "id": "hn-50568130",
+      "source": "hn",
+      "title": "Gemini 4 Neon is the new #1 on the Models Engineering Index",
+      "url": "https://git-aarvin.github.io/mei/",
+      "score": 235,
+      "comments": 138,
+      "author": "hn-aarvin",
+      "tags": [],
+      "date": "2026-11-19T23:35:35+00:00"
+    },
+    {
+      "id": "qiita-902a30dc2a",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "【Ignite 2026速報】Azure AI Search が Foundry IQ にリブランドし、2 種類のナレッジグラフ機能を搭載！ほか",
+      "url": "https://qiita.com/nohanaga/items/21f3f3a1d2ecb14262b6?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "nohanaga",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-11-20T08:10:22+09:00"
+    },
     {
       "id": "hn-50567374",
       "source": "hn",
       "title": "RegExr: Temporarily Offline",
       "url": "https://regexr.com/",
-      "score": 7,
-      "comments": 7,
+      "score": 61,
+      "comments": 30,
       "author": "somebudyelse",
       "tags": [],
       "date": "2026-11-19T22:27:07+00:00"
@@ -18,8 +111,8 @@
       "source": "hn",
       "title": "Synology Security Advisory",
       "url": "https://www.synology.com/en-uk/security/advisory/Synology_SA_26_21",
-      "score": 36,
-      "comments": 9,
+      "score": 119,
+      "comments": 85,
       "author": "choult",
       "tags": [],
       "date": "2026-11-19T22:13:40+00:00",
@@ -41,8 +134,8 @@
       "source": "hn",
       "title": "Should governments slow frontier AI? Jacob Coxon and Robin Hanson debate [video]",
       "url": "https://www.youtube.com/watch?v=lwfewYL7X0o",
-      "score": 53,
-      "comments": 92,
+      "score": 87,
+      "comments": 155,
       "author": "sandslash",
       "tags": [],
       "date": "2026-11-19T18:47:16+00:00"
@@ -52,8 +145,8 @@
       "source": "hn",
       "title": "The 98% Slot Machine: How Paid Advertising Became an Extraction Tax",
       "url": "https://globalcommercegraph.com/writing/the-ninety-eight-percent-slot-machine",
-      "score": 143,
-      "comments": 75,
+      "score": 228,
+      "comments": 121,
       "author": "dev1one1",
       "tags": [],
       "date": "2026-11-19T18:35:17+00:00"
@@ -63,8 +156,8 @@
       "source": "hn",
       "title": "Claude solves two open problems in the physics of black holes",
       "url": "https://www.anthropic.com/research/claude-black-hole-physics",
-      "score": 322,
-      "comments": 143,
+      "score": 428,
+      "comments": 192,
       "author": "cybermango",
       "tags": [],
       "date": "2026-11-19T17:30:44+00:00"
@@ -74,8 +167,8 @@
       "source": "hn",
       "title": "Pancreatic cancer halted by virus injection in three patients",
       "url": "https://www.newscientist.com/article/2528235-pancreatic-cancer-halted-by-virus-injection-in-three-patients/",
-      "score": 387,
-      "comments": 53,
+      "score": 652,
+      "comments": 103,
       "author": "cybermango",
       "tags": [],
       "date": "2026-11-19T17:25:33+00:00"
@@ -83,10 +176,10 @@
     {
       "id": "hn-50562754",
       "source": "hn",
-      "title": "Anthropic hits $2T in Nasdaq debut",
+      "title": "Anthropic’s Nasdaq debut",
       "url": "https://www.reuters.com/business/finance/anthropics-historic-debut-put-ais-promise-peril-wall-st-test-2026-11-19/",
-      "score": 767,
-      "comments": 1425,
+      "score": 992,
+      "comments": 1929,
       "author": "wslh",
       "tags": [],
       "date": "2026-11-19T17:02:40+00:00"
@@ -96,8 +189,8 @@
       "source": "hn",
       "title": "Launch HN: Onlook (YC W25) – An open-source developer tool for designers",
       "url": "https://github.com/onlook-dev/onlook/",
-      "score": 73,
-      "comments": 66,
+      "score": 93,
+      "comments": 69,
       "author": "D_R_Farrell",
       "tags": [],
       "date": "2026-11-19T16:34:04+00:00",
@@ -108,8 +201,8 @@
       "source": "hn",
       "title": "UK government forced to admit it issued Apple a secret encryption order",
       "url": "https://macanorak.com/uk-government-forced-to-admit-it-issued-apple-a-secret-encryption-order/",
-      "score": 428,
-      "comments": 187,
+      "score": 559,
+      "comments": 249,
       "author": "Terretta",
       "tags": [],
       "date": "2026-11-19T16:21:03+00:00",
@@ -120,8 +213,8 @@
       "source": "hn",
       "title": "Show HN: Cornhole News – A Hacker News inspired site for news across the Midwest",
       "url": "https://cornholenews.news",
-      "score": 167,
-      "comments": 84,
+      "score": 200,
+      "comments": 94,
       "author": "cornholemedia",
       "tags": [],
       "date": "2026-11-19T15:38:32+00:00"
@@ -171,19 +264,6 @@
       "date": "2026-11-19T14:44:50+00:00"
     },
     {
-      "id": "qiita-457cde819c",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "[AWS] 徹底比較！ OpenSearch Memory vs AgentCore Memory",
-      "url": "https://qiita.com/kikuziro/items/939887bcd8fbb3a78ba0?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "kikuziro",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-11-19T23:37:29+09:00"
-    },
-    {
       "id": "hn-50560461",
       "source": "hn",
       "title": "OpenAI still has a WebRTC Problem",
@@ -210,8 +290,8 @@
       "source": "hn",
       "title": "Making 8-page foldable zines from a single A4 sheet in the browser",
       "url": "https://krthr.co/paper-folds-and-whats-new-in-fanzines-app/",
-      "score": 216,
-      "comments": 48,
+      "score": 262,
+      "comments": 57,
       "author": "krthr",
       "tags": [],
       "date": "2026-11-19T13:18:11+00:00"
@@ -245,8 +325,8 @@
       "source": "hn",
       "title": "Someone reported java4shell bug in September 2026",
       "url": "https://github.com/openjdk/jdk/pull/32781",
-      "score": 325,
-      "comments": 86,
+      "score": 389,
+      "comments": 104,
       "author": "notmine1337",
       "tags": [],
       "date": "2026-11-19T11:47:03+00:00"
@@ -344,19 +424,6 @@
       "author": "ghostfoxgod",
       "tags": [],
       "date": "2026-11-19T08:39:45+00:00"
-    },
-    {
-      "id": "qiita-902a30dc2a",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "【Ignite 2026速報】Azure AI Search が Foundry IQ にリブランドし、2 種類のナレッジグラフ機能を搭載！ほか",
-      "url": "https://qiita.com/nohanaga/items/21f3f3a1d2ecb14262b6?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "nohanaga",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-11-19T17:38:18+09:00"
     },
     {
       "id": "hn-50556533",
@@ -1023,6 +1090,17 @@
       "date": "2026-11-18T11:11:53+00:00"
     },
     {
+      "id": "hn-50544546",
+      "source": "hn",
+      "title": "IRA Velinsky, industrial designer for Commodore and Atari",
+      "url": "https://dfarq.homeip.net/ira-velinsky-industrial-designer-of-the-commodore-64/",
+      "score": 8,
+      "comments": 1,
+      "author": "onename",
+      "tags": [],
+      "date": "2026-11-18T10:39:16+00:00"
+    },
+    {
       "id": "qiita-05dcb58244",
       "source": "zennqiita",
       "sub_source": "Qiita",
@@ -1248,6 +1326,17 @@
       "date": "2026-11-18T12:29:11+09:00"
     },
     {
+      "id": "hn-50541489",
+      "source": "hn",
+      "title": "Unlocking Stable On-Policy RL on TPU with Bitwise-Zero Train–Inference Mismatch",
+      "url": "https://developers.googleblog.com/unlocking-stable-on-policy-rl-on-tpu-with-bitwise-zero-traininference-mismatch/",
+      "score": 5,
+      "comments": 0,
+      "author": "gmays",
+      "tags": [],
+      "date": "2026-11-18T03:28:39+00:00"
+    },
+    {
       "id": "qiita-3da15a4882",
       "source": "zennqiita",
       "sub_source": "Qiita",
@@ -1405,6 +1494,17 @@
       "author": "subset",
       "tags": [],
       "date": "2026-11-17T22:13:34+00:00"
+    },
+    {
+      "id": "hn-50538977",
+      "source": "hn",
+      "title": "Weight-Space Programming builds neural networks like a 1990s researcher",
+      "url": "https://notesbylex.com/weight-space-programming-1990s",
+      "score": 29,
+      "comments": 1,
+      "author": "lexandstuff",
+      "tags": [],
+      "date": "2026-11-17T22:11:46+00:00"
     },
     {
       "id": "hn-50538303",
@@ -1718,6 +1818,17 @@
       "date": "2026-11-17T20:41:11+09:00"
     },
     {
+      "id": "hn-50530132",
+      "source": "hn",
+      "title": "Talking Venice with Mahesh Subramony at AMD In-Depth",
+      "url": "https://chipsandcheese.com/p/talking-venice-with-mahesh-subramony",
+      "score": 19,
+      "comments": 0,
+      "author": "rbanffy",
+      "tags": [],
+      "date": "2026-11-17T11:41:08+00:00"
+    },
+    {
       "id": "hn-50530088",
       "source": "hn",
       "title": "Camera Index",
@@ -1822,8 +1933,8 @@
       "source": "hn",
       "title": "How to CAD Almost Anything",
       "url": "https://ocw.mit.edu/courses/res-16-002-how-to-cad-almost-anything-january-iap-2024/",
-      "score": 21,
-      "comments": 1,
+      "score": 168,
+      "comments": 42,
       "author": "o4c",
       "tags": [],
       "date": "2026-11-17T06:29:57+00:00"
@@ -2275,8 +2386,8 @@
       "source": "hn",
       "title": "Garage Door Spam",
       "url": "https://blog.harrison.page/garage-door-spam/",
-      "score": 700,
-      "comments": 290,
+      "score": 784,
+      "comments": 323,
       "author": "harrisonpage",
       "tags": [],
       "date": "2026-11-16T16:13:36+00:00"
@@ -5182,131 +5293,6 @@
       "date": "2026-11-13T11:03:33+09:00"
     },
     {
-      "id": "qiita-f57db7f722",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "耳で聞く！ システム設計 視点の 行動経済学 5",
-      "url": "https://qiita.com/maskot1977/items/76cb2a92efe0433b1de4?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "maskot1977",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-11-13T10:56:06+09:00"
-    },
-    {
-      "id": "qiita-2b6165a195",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "Finder の代わりに使える macOS ファイルマネージャー「Macorn」を作りました。フォルダはそのまま、整理はいくつもの次元で",
-      "url": "https://qiita.com/ponta8240/items/06e4a9360abdc68a5c48?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "ponta8240",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-11-13T10:25:48+09:00"
-    },
-    {
-      "id": "qiita-e6651c7084",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "VSCodeのCompare Modelsが面白そうなので試してみた",
-      "url": "https://qiita.com/shivvvvvv/items/c1feef6d2ad5ff7f8f73?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "shivvvvvv",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-11-13T09:58:55+09:00"
-    },
-    {
-      "id": "qiita-e458e5a0bb",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "CRA報告対応② Dependency-Trackで脆弱性の検知を自動化する(Pleasanter連携)",
-      "url": "https://qiita.com/yyoshida15/items/4ea6a0752ff2ba942dff?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "yyoshida15",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-11-13T09:22:46+09:00",
-      "severity": "high"
-    },
-    {
-      "id": "qiita-aff7012a9b",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "Copilot in SharePoint で、リストとライブラリの作成はどこまで楽になったか試してみた",
-      "url": "https://qiita.com/Takashi_Masumori/items/c2b9270a9a13a316b618?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "Takashi_Masumori",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-11-13T09:05:50+09:00"
-    },
-    {
-      "id": "qiita-f62ed6dea8",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "Claude API の Message Threads で、会話の履歴を自分で持たなくてよくなるのか。公式を読むと、スレッドは5分で切れ、写しは自分で持ち続ける前提だった",
-      "url": "https://qiita.com/suwa_nobu/items/40e9eba3a7d99a2a485b?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "suwa_nobu",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-11-13T09:00:24+09:00"
-    },
-    {
-      "id": "qiita-50d7fdde66",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "引き継ぎ先不明の社内システムの証明書期限をPython標準ライブラリで棚卸しする",
-      "url": "https://qiita.com/takumi_engineer/items/8a1412ee75fb47465276?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "takumi_engineer",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-11-13T09:00:08+09:00"
-    },
-    {
-      "id": "hn-50475759",
-      "source": "hn",
-      "title": "Chasing an audio artifact on power loss",
-      "url": "https://subalpinecircuits.com/chasing-an-audio-artifact-on-power-loss/",
-      "score": 45,
-      "comments": 7,
-      "author": "ireflect",
-      "tags": [],
-      "date": "2026-11-12T23:11:25+00:00"
-    },
-    {
-      "id": "hn-50475713",
-      "source": "hn",
-      "title": "Edge0-145B: Frontier AI Capabilities on Your Own Computer",
-      "url": "https://edge0.ai/blog/introducing-edge0-145b-frontier-ai-capabilities-on-your-own-computer",
-      "score": 296,
-      "comments": 88,
-      "author": "sroussey",
-      "tags": [],
-      "date": "2026-11-12T23:06:17+00:00"
-    },
-    {
-      "id": "hn-50475692",
-      "source": "hn",
-      "title": "Astro Spiral: Greatest Car Stunt Was Also First Computer-Modeled Stunt",
-      "url": "https://boldentrance.com/astro-spiral-the-greatest-car-stunt/",
-      "score": 24,
-      "comments": 0,
-      "author": "CharlesW",
-      "tags": [],
-      "date": "2026-11-12T23:04:23+00:00"
-    },
-    {
       "id": "ctf-5010862",
       "source": "project",
       "proj_category": "CTF",
@@ -5475,6 +5461,58 @@
       "date": "2023-05-23T17:06:23Z"
     },
     {
+      "id": "zenn-c389919efb",
+      "source": "zennqiita",
+      "sub_source": "Zenn",
+      "title": "CLAUDE.md や SKILL.md のルールを Turtle で書き、ルールの書き間違いや矛盾を lint で検査してみた話",
+      "url": "https://zenn.dev/hma2moto/articles/turtle-agent-rules-pros-cons",
+      "score": null,
+      "author": "hma2moto",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Thu, 19 Nov 2026 14:13:57 GMT"
+    },
+    {
+      "id": "zenn-1e1af17dec",
+      "source": "zennqiita",
+      "sub_source": "Zenn",
+      "title": "dbt v1 でメトリクスを一元管理する未来 〜Apache Ossie と Lightdash で試す〜",
+      "url": "https://zenn.dev/kyami/articles/dbt-snowflake-apache-ossie",
+      "score": null,
+      "author": "kyami（キャミ）",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Thu, 19 Nov 2026 13:48:35 GMT"
+    },
+    {
+      "id": "zenn-a911626b05",
+      "source": "zennqiita",
+      "sub_source": "Zenn",
+      "title": "Protobufチームは Implicit Presence を作ったことを後悔しているらしい",
+      "url": "https://zenn.dev/nagatsukey/articles/1782a56f61a45e",
+      "score": null,
+      "author": "nagatsukey",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Thu, 19 Nov 2026 11:10:27 GMT"
+    },
+    {
+      "id": "zenn-c3b93dd893",
+      "source": "zennqiita",
+      "sub_source": "Zenn",
+      "title": "OpenAI-API呼び出しにおけるプロンプトキャッシュの学び",
+      "url": "https://zenn.dev/91works/articles/76132a32606efb",
+      "score": null,
+      "author": "YoshikiAgatsuma",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Thu, 19 Nov 2026 08:25:36 GMT"
+    },
+    {
       "id": "zenn-1e6b48599b",
       "source": "zennqiita",
       "sub_source": "Zenn",
@@ -5514,32 +5552,6 @@
       "date": "Thu, 19 Nov 2026 06:20:46 GMT"
     },
     {
-      "id": "zenn-1f94ba949c",
-      "source": "zennqiita",
-      "sub_source": "Zenn",
-      "title": "Microsoft-Decision-1.1公開！Microsoft-Decision-1との差はどれくらい？",
-      "url": "https://zenn.dev/microsoft/articles/ms-decision-1-1",
-      "score": null,
-      "author": "Junpei Tsuchida（07JP27）",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Thu, 19 Nov 2026 03:41:58 GMT"
-    },
-    {
-      "id": "zenn-79952aa41b",
-      "source": "zennqiita",
-      "sub_source": "Zenn",
-      "title": "TypeScript 7.1 の Content Mapper で型の生成コマンドをなくす",
-      "url": "https://zenn.dev/toiroakr/articles/typescript-content-mapper-codegen",
-      "score": null,
-      "author": "toiroakr",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Thu, 19 Nov 2026 02:10:13 GMT"
-    },
-    {
       "id": "zenn-657be75576",
       "source": "zennqiita",
       "sub_source": "Zenn",
@@ -5567,19 +5579,6 @@
       "severity": "high"
     },
     {
-      "id": "zenn-4ef8e13c45",
-      "source": "zennqiita",
-      "sub_source": "Zenn",
-      "title": "ログの種別を整理して、何をどこまで残すか決めた話",
-      "url": "https://zenn.dev/dress_code/articles/a3bf34274af03f",
-      "score": null,
-      "author": "ぽこひで",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Thu, 19 Nov 2026 00:00:11 GMT"
-    },
-    {
       "id": "zenn-b225a7e395",
       "source": "zennqiita",
       "sub_source": "Zenn",
@@ -5604,19 +5603,6 @@
         "Zenn"
       ],
       "date": "Wed, 18 Nov 2026 05:55:40 GMT"
-    },
-    {
-      "id": "zenn-64ab151ad7",
-      "source": "zennqiita",
-      "sub_source": "Zenn",
-      "title": "ESLint から oxlint へ。lint が 50 倍速くなるまでの移行の記録",
-      "url": "https://zenn.dev/rimo/articles/12d6a7b1c58fcd",
-      "score": null,
-      "author": "t.kuriyama",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Wed, 18 Nov 2026 00:51:16 GMT"
     },
     {
       "id": "zenn-ac0340dfae",

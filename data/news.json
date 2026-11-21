@@ -1,14 +1,81 @@
 {
-  "updated_at": "2026-11-21T17:07:19.409518+00:00",
+  "updated_at": "2026-11-21T22:16:39.599363+00:00",
   "count": 500,
   "items": [
     {
+      "id": "hn-50593679",
+      "source": "hn",
+      "title": "Tasklet (YC P26) Is Hiring Product and Agent Infra Engineers",
+      "url": "https://tasklet.ai/careers",
+      "score": 1,
+      "comments": 0,
+      "author": "mayop100",
+      "tags": [],
+      "date": "2026-11-21T21:11:08+00:00"
+    },
+    {
+      "id": "hn-50593637",
+      "source": "hn",
+      "title": "The Emergence of Inequality in the Czech Corded Ware Culture",
+      "url": "https://www.jna.uni-kiel.de/index.php/jna/article/view/1560/1746",
+      "score": 7,
+      "comments": 2,
+      "author": "marojejian",
+      "tags": [],
+      "date": "2026-11-21T21:06:14+00:00"
+    },
+    {
+      "id": "hn-50592097",
+      "source": "hn",
+      "title": "Upload2Shell · CVE-2026-125396",
+      "url": "https://pwn.ai/upload2shell",
+      "score": 55,
+      "comments": 14,
+      "author": "f311a",
+      "tags": [],
+      "date": "2026-11-21T18:29:29+00:00",
+      "severity": "high"
+    },
+    {
+      "id": "hn-50591853",
+      "source": "hn",
+      "title": "Inkling-2-Mini in 5.4 GB Memory",
+      "url": "https://github.com/ShinMegamiBoson/lookatmyquant",
+      "score": 277,
+      "comments": 56,
+      "author": "k__",
+      "tags": [],
+      "date": "2026-11-21T18:02:19+00:00"
+    },
+    {
+      "id": "hn-50591260",
+      "source": "hn",
+      "title": "PostgreSQL Extensions in Go",
+      "url": "https://jespino.github.io/gopgext/",
+      "score": 98,
+      "comments": 11,
+      "author": "valyala",
+      "tags": [],
+      "date": "2026-11-21T17:08:04+00:00"
+    },
+    {
+      "id": "hn-50590441",
+      "source": "hn",
+      "title": "Verification files for the Lean proof of the Riemann Hypothesis",
+      "url": "https://math.mit.edu/~drew/grh/",
+      "score": 71,
+      "comments": 24,
+      "author": "Bluestein",
+      "tags": [],
+      "date": "2026-11-21T15:54:34+00:00"
+    },
+    {
       "id": "hn-50590279",
       "source": "hn",
-      "title": "Show HN: Zero C#, Power of C# without any GC",
+      "title": "Show HN: Zero C# – C# without a runtime or GC",
       "url": "https://onurgumus.github.io/zero-csharp/index.html",
-      "score": 31,
-      "comments": 20,
+      "score": 108,
+      "comments": 81,
       "author": "reverseblade2",
       "tags": [],
       "date": "2026-11-21T15:39:09+00:00"
@@ -16,10 +83,10 @@
     {
       "id": "hn-50589618",
       "source": "hn",
-      "title": "Lean Verification of the Riemann Hypothesis - Joint statement by...",
+      "title": "Lean verification of the Riemann Hypothesis",
       "url": "https://leanprover-community.github.io/blog/posts/riemann-hypothesis/",
-      "score": 297,
-      "comments": 217,
+      "score": 689,
+      "comments": 548,
       "author": "g-b-r",
       "tags": [],
       "date": "2026-11-21T14:36:45+00:00"
@@ -27,10 +94,10 @@
     {
       "id": "hn-50588982",
       "source": "hn",
-      "title": "Derek Lowe: Detonating a Pile of Lead Azide",
+      "title": "Detonating a pile of lead azide",
       "url": "https://www.science.org/content/blog-post/detonating-huge-pile-lead-azide-really",
-      "score": 273,
-      "comments": 157,
+      "score": 457,
+      "comments": 300,
       "author": "beginning_end",
       "tags": [],
       "date": "2026-11-21T13:23:14+00:00"
@@ -49,21 +116,47 @@
     {
       "id": "hn-50587875",
       "source": "hn",
-      "title": "My Monitor Was Cutting My Download Speed by 75%",
+      "title": "My monitor was cutting my download speed by 75%",
       "url": "https://blog.tymscar.com/posts/studiodisplayethernet/",
-      "score": 236,
-      "comments": 104,
+      "score": 411,
+      "comments": 210,
       "author": "soheilpro",
       "tags": [],
       "date": "2026-11-21T10:36:32+00:00"
+    },
+    {
+      "id": "qiita-a1ede1bfd1",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "pgvectorのHNSWでテナント絞り込みすると検索が0件になる問題と対策",
+      "url": "https://qiita.com/takumi_engineer/items/142ca7088f13f006da82?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "takumi_engineer",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-11-21T18:51:37+09:00"
+    },
+    {
+      "id": "qiita-05fcb2ab29",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "社会人ドクターの経験から得られたこと，苦労したこと，そこから現在の活動につながっていること（後編）",
+      "url": "https://qiita.com/mshdtksk/items/440dbb0fce5828637411?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "mshdtksk",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-11-21T18:40:15+09:00"
     },
     {
       "id": "hn-50587208",
       "source": "hn",
       "title": "RCE in Gnupg",
       "url": "https://lists.gnupg.org/pipermail/gnupg-announce/2026q4/000517.html",
-      "score": 152,
-      "comments": 50,
+      "score": 209,
+      "comments": 86,
       "author": "gdgghhhhh",
       "tags": [],
       "date": "2026-11-21T08:32:58+00:00",
@@ -131,6 +224,19 @@
       "date": "2026-11-21T14:12:23+09:00"
     },
     {
+      "id": "qiita-51a197c06e",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "Geminiに「Cargry言語とはなんですか」と聞いたら、LLMの弊害を感じた",
+      "url": "https://qiita.com/compalog/items/a538b606b3aa1d138108?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "compalog",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-11-21T13:58:17+09:00"
+    },
+    {
       "id": "qiita-2d2038a05c",
       "source": "zennqiita",
       "sub_source": "Qiita",
@@ -166,6 +272,19 @@
       "date": "2026-11-21T02:40:39+00:00"
     },
     {
+      "id": "qiita-5c348a797d",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "適度にバズりつつ読みやすい記事の書き方",
+      "url": "https://qiita.com/EndOfData/items/8cf8f3eb8a1d2c3a9465?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "EndOfData",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-11-21T10:57:01+09:00"
+    },
+    {
       "id": "qiita-fa24bc409e",
       "source": "zennqiita",
       "sub_source": "Qiita",
@@ -190,6 +309,19 @@
         "Qiita"
       ],
       "date": "2026-11-21T10:39:23+09:00"
+    },
+    {
+      "id": "qiita-7201a8b22b",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "家のPull型世代バックアップをランサム想定で攻撃シミュレーションして、1行直した",
+      "url": "https://qiita.com/Yu-muimi/items/9ed058ed915564e670df?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "Yu-muimi",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-11-21T09:47:45+09:00"
     },
     {
       "id": "qiita-8149ff9837",
@@ -286,6 +418,28 @@
       "date": "2026-11-20T22:18:20+00:00"
     },
     {
+      "id": "hn-50583028",
+      "source": "hn",
+      "title": "Getting the mind to steer the body to steer you",
+      "url": "https://notnottalmud.substack.com/p/getting-the-mind-to-steer-the-body",
+      "score": 61,
+      "comments": 24,
+      "author": "jger15",
+      "tags": [],
+      "date": "2026-11-20T22:11:05+00:00"
+    },
+    {
+      "id": "hn-50582069",
+      "source": "hn",
+      "title": "Pill to treat pancreatic cancer hailed as 'biggest breakthrough in decades'",
+      "url": "https://www.theguardian.com/society/2026/nov/20/pill-pancreatic-cancer-breakthrough-daraxonrasib",
+      "score": 290,
+      "comments": 85,
+      "author": "rafaelc",
+      "tags": [],
+      "date": "2026-11-20T21:03:12+00:00"
+    },
+    {
       "id": "hn-50581438",
       "source": "hn",
       "title": "US SEC's Nvidia probe is examining potential accounting issues – sources",
@@ -314,8 +468,8 @@
       "source": "hn",
       "title": "Inkling 2 Mini",
       "url": "https://thinkingmachines.ai/news/inkling-2-mini/",
-      "score": 1209,
-      "comments": 236,
+      "score": 1340,
+      "comments": 274,
       "author": "jasondavies",
       "tags": [],
       "date": "2026-11-20T20:12:19+00:00"
@@ -380,8 +534,8 @@
       "source": "hn",
       "title": "Hurried Announcement: Alessandro Masullo GRH",
       "url": "https://math216.wordpress.com/2026/11/20/hurried-announcement-alessandro-masullo-grh/",
-      "score": 2296,
-      "comments": 1093,
+      "score": 2369,
+      "comments": 1150,
       "author": "jasondavies",
       "tags": [],
       "date": "2026-11-20T18:33:14+00:00"
@@ -447,8 +601,8 @@
       "source": "hn",
       "title": "I'm quite pleased by the tech architecture of my art website",
       "url": "https://klauria.tech/klauria-art/",
-      "score": 42,
-      "comments": 7,
+      "score": 127,
+      "comments": 30,
       "author": "evakhoury",
       "tags": [],
       "date": "2026-11-20T17:03:39+00:00"
@@ -515,8 +669,8 @@
       "source": "hn",
       "title": "Why there are still no non-WebKit browsers on iOS",
       "url": "https://blog.mozilla.org/en/mozilla/internet-policy/apple-ios-browser-engine-rules/",
-      "score": 284,
-      "comments": 151,
+      "score": 427,
+      "comments": 241,
       "author": "lapcat",
       "tags": [],
       "date": "2026-11-20T15:03:31+00:00"
@@ -636,6 +790,19 @@
       "date": "2026-11-20T09:42:16+00:00"
     },
     {
+      "id": "qiita-78c625de6b",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "第8回 自分のトレードルールを「言葉」で書き出してAIに渡すコツ",
+      "url": "https://qiita.com/oanda2/items/9726cd47ac45a905e63a?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "oanda2",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-11-20T18:40:37+09:00"
+    },
+    {
       "id": "qiita-902a30dc2a",
       "source": "zennqiita",
       "sub_source": "Qiita",
@@ -671,6 +838,19 @@
         "Qiita"
       ],
       "date": "2026-11-20T17:41:58+09:00"
+    },
+    {
+      "id": "qiita-79426719a2",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "Claude Code が調べずに「ありません」「できません」と答えるのを Stop フックで差し戻す(道具を1回も呼んでいない返事だけを止める)",
+      "url": "https://qiita.com/takamatt_ai/items/043da9bb50a9136d38b5?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "takamatt_ai",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-11-20T17:39:14+09:00"
     },
     {
       "id": "qiita-c76346d3ee",
@@ -760,6 +940,19 @@
         "Qiita"
       ],
       "date": "2026-11-20T15:41:20+09:00"
+    },
+    {
+      "id": "qiita-bd4900add3",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "日本の法律をGitで管理してみた。法改正を `git diff` で追跡できる「houritsu」を作った",
+      "url": "https://qiita.com/bactay511/items/bc2958e730df68c49643?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "bactay511",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-11-20T15:21:48+09:00"
     },
     {
       "id": "qiita-d0b11f0612",
@@ -1185,6 +1378,17 @@
       "date": "2026-11-19T14:20:08+00:00"
     },
     {
+      "id": "hn-50560203",
+      "source": "hn",
+      "title": "Windows has two settings that bring work back after restart, both off by default",
+      "url": "https://www.makeuseof.com/windows-can-bring-your-work-back-after-restart/",
+      "score": 3,
+      "comments": 1,
+      "author": "surprisetalk",
+      "tags": [],
+      "date": "2026-11-19T14:00:08+00:00"
+    },
+    {
       "id": "qiita-8cf1f77564",
       "source": "zennqiita",
       "sub_source": "Qiita",
@@ -1360,6 +1564,19 @@
       "author": "ghostfoxgod",
       "tags": [],
       "date": "2026-11-19T08:39:45+00:00"
+    },
+    {
+      "id": "qiita-ce189fc0af",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "Agent Harnessを理解するために、150行ほどのPythonで自作してみた",
+      "url": "https://qiita.com/yamamoto_a_genee/items/76562c5c80032ad9e962?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "yamamoto_a_genee",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-11-19T17:28:17+09:00"
     },
     {
       "id": "hn-50556533",
@@ -1806,6 +2023,17 @@
       "date": "2026-11-18T16:18:51+00:00"
     },
     {
+      "id": "hn-50548136",
+      "source": "hn",
+      "title": "Context-Generic Programming v0.8.0 – Pluggable trait implementations for Rust",
+      "url": "https://contextgeneric.dev/blog/v0.8.0-release/",
+      "score": 8,
+      "comments": 0,
+      "author": "maybevoid",
+      "tags": [],
+      "date": "2026-11-18T16:17:41+00:00"
+    },
+    {
       "id": "hn-50548021",
       "source": "hn",
       "title": "Seven new models at scalable price-performance",
@@ -1970,8 +2198,8 @@
       "source": "hn",
       "title": "LLMs can read and write executables byte by byte from a hex dump",
       "url": "https://sgiannopoulos.github.io/blog/machine-code-programming/",
-      "score": 86,
-      "comments": 64,
+      "score": 160,
+      "comments": 109,
       "author": "fortran77",
       "tags": [],
       "date": "2026-11-18T14:15:58+00:00"
@@ -1994,8 +2222,8 @@
       "source": "hn",
       "title": "Exponential Behavior in Magic: The Gathering",
       "url": "https://levineuwirth.org/essays/exponential-magic/",
-      "score": 47,
-      "comments": 22,
+      "score": 74,
+      "comments": 55,
       "author": "neuwirth",
       "tags": [],
       "date": "2026-11-18T14:07:09+00:00"
@@ -2795,6 +3023,17 @@
       "date": "2026-11-17T16:58:30+00:00"
     },
     {
+      "id": "hn-50533517",
+      "source": "hn",
+      "title": "Bolt's Scooters Are Becoming Accessibility Sensors",
+      "url": "https://geoawesome.com/bolt-scooters-accessibility-mapping-wheels4wheels/",
+      "score": 10,
+      "comments": 7,
+      "author": "chippy",
+      "tags": [],
+      "date": "2026-11-17T16:12:11+00:00"
+    },
+    {
       "id": "hn-50533270",
       "source": "hn",
       "title": "Show HN: TrnRT – An open-source LLM inference engine for AWS Trainium",
@@ -2844,12 +3083,23 @@
       "source": "hn",
       "title": "Brazil's tax authority open-sources its tax calculator on GitHub under MIT",
       "url": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/2026/novembro/receita-federal-publica-primeiro-codigo-fonte-aberto-no-github-e-amplia-transparencia-da-reforma-tributaria",
-      "score": 410,
-      "comments": 142,
+      "score": 647,
+      "comments": 207,
       "author": "dvaplima",
       "tags": [],
       "date": "2026-11-17T15:22:57+00:00",
       "severity": "critical"
+    },
+    {
+      "id": "hn-50532417",
+      "source": "hn",
+      "title": "Tropical Rainforests Species may be surprisingly young",
+      "url": "https://phys.org/news/2026-11-species-tropical-rainforests-young-emergence.html",
+      "score": 29,
+      "comments": 12,
+      "author": "PaulHoule",
+      "tags": [],
+      "date": "2026-11-17T15:08:54+00:00"
     },
     {
       "id": "hn-50532385",
@@ -5038,256 +5288,6 @@
       "date": "2026-11-14T14:08:12+00:00"
     },
     {
-      "id": "hn-50497137",
-      "source": "hn",
-      "title": "Show HN: Fursoy – Out-of-order RV64IMAFDV core in SystemVerilog (Linux 6.6)",
-      "url": "https://github.com/FURSOY/fursoy-cpu",
-      "score": 53,
-      "comments": 16,
-      "author": "fursoy",
-      "tags": [],
-      "date": "2026-11-14T14:06:34+00:00"
-    },
-    {
-      "id": "hn-50497132",
-      "source": "hn",
-      "title": "Show HN: A terminal-native idle factory game, written in Rust with ratatui",
-      "url": "https://gitlab.com/snipedbywifi/terminactory",
-      "score": 125,
-      "comments": 26,
-      "author": "snipedbywifi",
-      "tags": [],
-      "date": "2026-11-14T14:05:54+00:00"
-    },
-    {
-      "id": "hn-50497041",
-      "source": "hn",
-      "title": "The Myth of Neutral Code",
-      "url": "https://foss.life/notes/2026/the-myth-of-neutral-code/",
-      "score": 18,
-      "comments": 4,
-      "author": "birdculture",
-      "tags": [],
-      "date": "2026-11-14T13:52:11+00:00"
-    },
-    {
-      "id": "hn-50497009",
-      "source": "hn",
-      "title": "Italy fines Meta $887M over Android users' data access",
-      "url": "https://www.reuters.com/world/italy-fines-meta-887-million-over-android-users-data-access-2026-11-14/",
-      "score": 240,
-      "comments": 149,
-      "author": "giuliomagnifico",
-      "tags": [],
-      "date": "2026-11-14T13:48:06+00:00"
-    },
-    {
-      "id": "hn-50496976",
-      "source": "hn",
-      "title": "KDE: The documentary [video]",
-      "url": "https://tube.kockatoo.org/w/fFinNHfanLT7aBEb2B8y4c",
-      "score": 529,
-      "comments": 121,
-      "author": "mrkn1",
-      "tags": [],
-      "date": "2026-11-14T13:43:28+00:00"
-    },
-    {
-      "id": "hn-50496885",
-      "source": "hn",
-      "title": "A visual explanation of reinforcement learning",
-      "url": "https://aatishb.com/myriad/how-brains-learn/",
-      "score": 111,
-      "comments": 6,
-      "author": "aatish",
-      "tags": [],
-      "date": "2026-11-14T13:31:06+00:00",
-      "severity": "critical"
-    },
-    {
-      "id": "hn-50496811",
-      "source": "hn",
-      "title": "Advancing science and engineering with Antigravity's /teamwork",
-      "url": "https://research.google/blog/advancing-science-engineering-with-antigravitys-teamwork-feature/",
-      "score": 192,
-      "comments": 40,
-      "author": "acossta",
-      "tags": [],
-      "date": "2026-11-14T13:20:43+00:00"
-    },
-    {
-      "id": "hn-50496787",
-      "source": "hn",
-      "title": "Show HN: Zigzag, a native Mac browser for people leaving Arc",
-      "url": "https://github.com/ZigaoWang/zigzag",
-      "score": 30,
-      "comments": 13,
-      "author": "ZigaoWang",
-      "tags": [],
-      "date": "2026-11-14T13:17:10+00:00"
-    },
-    {
-      "id": "hn-50496602",
-      "source": "hn",
-      "title": "Tech companies are trying to shift the concept of privacy again",
-      "url": "https://www.eff.org/deeplinks/2026/11/tech-companies-are-trying-shift-entire-concept-privacy-again",
-      "score": 436,
-      "comments": 164,
-      "author": "gslin",
-      "tags": [],
-      "date": "2026-11-14T12:45:45+00:00"
-    },
-    {
-      "id": "qiita-ec96ee8513",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "社畜2年目で意識していること",
-      "url": "https://qiita.com/TumoTumo/items/68cc6c02cc702f322f2c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "TumoTumo",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-11-14T21:44:42+09:00"
-    },
-    {
-      "id": "hn-50496051",
-      "source": "hn",
-      "title": "Project Zero will disclose vulnerabilities 90 days after reporting",
-      "url": "https://projectzero.google/2026/11/disclosure-policy.html",
-      "score": 225,
-      "comments": 87,
-      "author": "hacb",
-      "tags": [],
-      "date": "2026-11-14T11:13:17+00:00"
-    },
-    {
-      "id": "qiita-4316411944",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "agentgatewayで始めるMCP管理",
-      "url": "https://qiita.com/licux/items/cd639f2ae807b35b6697?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "licux",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-11-14T19:49:51+09:00"
-    },
-    {
-      "id": "qiita-29a43b3326",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "【AWS】AWS EmulatorでCDK/Terraformのスタックはどこまで動くか【AWSEmulator】",
-      "url": "https://qiita.com/Nana_777/items/3f3c71525d867b22c9f2?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "Nana_777",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-11-14T18:20:43+09:00"
-    },
-    {
-      "id": "hn-50495392",
-      "source": "hn",
-      "title": "Why the Airbus A321XLR often gets stuck climbing for first few hours of flight",
-      "url": "https://simpleflying.com/airbus-a321xlr-often-stuck-climbing-1st-few-hours-flight/",
-      "score": 116,
-      "comments": 81,
-      "author": "edward",
-      "tags": [],
-      "date": "2026-11-14T09:13:24+00:00"
-    },
-    {
-      "id": "hn-50495325",
-      "source": "hn",
-      "title": "Nature-Based Sanitation. Cihuatlán: A Large-Scale Artificial Wetland",
-      "url": "https://revista.unaminternacional.unam.mx/en/nota/12/saneamiento-basado-en-la-naturaleza-cihuatlan-un-humedal-construido-de-gran-escala",
-      "score": 7,
-      "comments": 3,
-      "author": "bryanrasmussen",
-      "tags": [],
-      "date": "2026-11-14T08:58:31+00:00"
-    },
-    {
-      "id": "qiita-17ed35e57a",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "【AWS】AWS EmulatorでPRごとのCI（結合テスト）を回す【GitHubActions】",
-      "url": "https://qiita.com/Nana_777/items/6be40f2779bb25e69484?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "Nana_777",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-11-14T16:46:16+09:00"
-    },
-    {
-      "id": "qiita-42be823036",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "AWS Emulatorが一般提供されたので、ローカルでS3バケットを作成してみた",
-      "url": "https://qiita.com/moyomoyomoyo/items/522ba880ff37971aa969?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "moyomoyomoyo",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-11-14T16:41:30+09:00"
-    },
-    {
-      "id": "qiita-59451d4206",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "最初に「あい」を学ぶことば日本語でプログラミング入門 「Mindで定番アルゴリズム」リンク集",
-      "url": "https://qiita.com/mylifewithviolin/items/9b3f33b109264928752b?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "mylifewithviolin",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-11-14T16:10:21+09:00"
-    },
-    {
-      "id": "qiita-6ab0fd62d3",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "ちょっと見ない間にClaude APIが進化してた！",
-      "url": "https://qiita.com/moritalous/items/9e7c02b749037238b2bc?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "moritalous",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-11-14T15:32:07+09:00"
-    },
-    {
-      "id": "qiita-5b9b585efa",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "「Error: Expected key descriptor but found \"\" in \"\"」 RTLでinput type=\"number\"のデフォルト値0を消す",
-      "url": "https://qiita.com/J-T_ky2g/items/757b73893b5fde454b83?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "J-T_ky2g",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-11-14T14:59:42+09:00"
-    },
-    {
-      "id": "qiita-7d0e4826bd",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "Dell Technologies Forum 2026 参加レポート：仮想化の熱量は今も健在だった件",
-      "url": "https://qiita.com/lab8010/items/b23816de04b60ebb9a9a?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "lab8010",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-11-14T14:52:23+09:00"
-    },
-    {
       "id": "ctf-5029821",
       "source": "project",
       "proj_category": "CTF",
@@ -5470,45 +5470,6 @@
       "date": "2023-05-23T17:06:23Z"
     },
     {
-      "id": "zenn-f37382ff6f",
-      "source": "zennqiita",
-      "sub_source": "Zenn",
-      "title": "AIエージェントに堅牢なテストを書かせるには？",
-      "url": "https://zenn.dev/yasuakiomokawa/articles/3ac970c3a3a1c7",
-      "score": null,
-      "author": "Yasuaki Omokawa",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Sat, 21 Nov 2026 09:09:12 GMT"
-    },
-    {
-      "id": "zenn-3e7c0d19c3",
-      "source": "zennqiita",
-      "sub_source": "Zenn",
-      "title": "初心者がAIとMAXのAPKを解析してみた【後編】",
-      "url": "https://zenn.dev/aki0804/articles/ac6690df48a1ae",
-      "score": null,
-      "author": "あき",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Sat, 21 Nov 2026 08:44:02 GMT"
-    },
-    {
-      "id": "zenn-b7647052e7",
-      "source": "zennqiita",
-      "sub_source": "Zenn",
-      "title": "JVM がコードを実行する仕組みを理解したい",
-      "url": "https://zenn.dev/rea9r/articles/jvm-code-execution",
-      "score": null,
-      "author": "Takuya Akamatsu",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Sat, 21 Nov 2026 08:06:49 GMT"
-    },
-    {
       "id": "zenn-97c7090c40",
       "source": "zennqiita",
       "sub_source": "Zenn",
@@ -5522,30 +5483,17 @@
       "date": "Sat, 21 Nov 2026 02:12:39 GMT"
     },
     {
-      "id": "zenn-5fd2d296dd",
+      "id": "zenn-7343e58591",
       "source": "zennqiita",
       "sub_source": "Zenn",
-      "title": "DOTweenを使わずにイージングを自作する！Robert Pennerのイージング関数をC#で実装して検証してみた",
-      "url": "https://zenn.dev/sorane/articles/e1ed930dea9b1d",
+      "title": "自宅サーバー上のアプリケーションを Cloudflare Tunnel + Access で安全に公開する",
+      "url": "https://zenn.dev/bisque/articles/home-server-cloudflare-tunnel-access",
       "score": null,
-      "author": "空音",
+      "author": "bisque",
       "tags": [
         "Zenn"
       ],
-      "date": "Fri, 20 Nov 2026 16:03:46 GMT"
-    },
-    {
-      "id": "zenn-c7eb8f191e",
-      "source": "zennqiita",
-      "sub_source": "Zenn",
-      "title": "作れるエンジニアから、価値を届けるエンジニアへ",
-      "url": "https://zenn.dev/kubell/articles/3c3490a3592bb1",
-      "score": null,
-      "author": "リュウ",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Fri, 20 Nov 2026 15:50:41 GMT"
+      "date": "Fri, 20 Nov 2026 07:14:41 GMT"
     },
     {
       "id": "zenn-b9afa88b6c",
@@ -5559,6 +5507,19 @@
         "Zenn"
       ],
       "date": "Fri, 20 Nov 2026 04:33:15 GMT"
+    },
+    {
+      "id": "zenn-14fae7edcb",
+      "source": "zennqiita",
+      "sub_source": "Zenn",
+      "title": "CDKからTerraformへ：所有権移譲による本番インフラ無停止のIaC移行",
+      "url": "https://zenn.dev/levtech/articles/14befd8e727f32",
+      "score": null,
+      "author": "ナカジー",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Fri, 20 Nov 2026 01:26:30 GMT"
     },
     {
       "id": "zenn-c389919efb",
@@ -5640,6 +5601,19 @@
       "date": "Wed, 18 Nov 2026 07:00:06 GMT"
     },
     {
+      "id": "zenn-7e5c84817c",
+      "source": "zennqiita",
+      "sub_source": "Zenn",
+      "title": "正しいUIデザインと、意図のあるUIデザイン",
+      "url": "https://zenn.dev/praha/articles/08568310684aa3",
+      "score": null,
+      "author": "ゲントク",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Wed, 18 Nov 2026 05:55:40 GMT"
+    },
+    {
       "id": "zenn-ac0340dfae",
       "source": "zennqiita",
       "sub_source": "Zenn",
@@ -5703,6 +5677,32 @@
         "Zenn"
       ],
       "date": "Mon, 16 Nov 2026 15:24:23 GMT"
+    },
+    {
+      "id": "zenn-bea85b5ab6",
+      "source": "zennqiita",
+      "sub_source": "Zenn",
+      "title": "QA生産性を爆上げさせるためのQA AIプラットフォーム構築",
+      "url": "https://zenn.dev/gatechnologies/articles/8bdea59269eb10",
+      "score": null,
+      "author": "akki",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Mon, 16 Nov 2026 09:12:44 GMT"
+    },
+    {
+      "id": "zenn-5b1d35f664",
+      "source": "zennqiita",
+      "sub_source": "Zenn",
+      "title": "物理世界とAIをつなぐ：可視化で学ぶカメラ・座標系・運動制御入門",
+      "url": "https://zenn.dev/turing_motors/articles/cea9e3c85611b2",
+      "score": null,
+      "author": "ymg_aq",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Mon, 16 Nov 2026 08:00:05 GMT"
     },
     {
       "id": "zenn-ffcb738412",

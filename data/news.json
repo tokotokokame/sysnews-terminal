@@ -1,14 +1,105 @@
 {
-  "updated_at": "2026-11-22T10:10:44.141831+00:00",
+  "updated_at": "2026-11-22T17:58:22.311556+00:00",
   "count": 500,
   "items": [
+    {
+      "id": "hn-50601525",
+      "source": "hn",
+      "title": "Perplexity and Intelligence",
+      "url": "https://openai.com/index/perplexity-and-intelligence/",
+      "score": 45,
+      "comments": 22,
+      "author": "acossta",
+      "tags": [],
+      "date": "2026-11-22T17:06:27+00:00"
+    },
+    {
+      "id": "hn-50600677",
+      "source": "hn",
+      "title": "Europe weakens chemical rules as science links them to 'lifestyle diseases'",
+      "url": "https://www.lemonde.fr/en/opinion/article/2026/11/22/as-science-increasingly-shows-the-role-chemical-substances-play-in-lifestyle-diseases-europe-weakens-its-regulations_6786595_23.html",
+      "score": 76,
+      "comments": 52,
+      "author": "atmosx",
+      "tags": [],
+      "date": "2026-11-22T15:42:40+00:00"
+    },
+    {
+      "id": "hn-50600622",
+      "source": "hn",
+      "title": "I joined the NTP Pool, but not with my Stratum 1 Pi",
+      "url": "https://www.jeffgeerling.com/blog/2026/i-joined-the-ntp-pool/",
+      "score": 28,
+      "comments": 6,
+      "author": "fortran77",
+      "tags": [],
+      "date": "2026-11-22T15:35:24+00:00"
+    },
+    {
+      "id": "hn-50600511",
+      "source": "hn",
+      "title": "Open Social Web Alliance",
+      "url": "https://osw-alliance.net/en/",
+      "score": 127,
+      "comments": 106,
+      "author": "doener",
+      "tags": [],
+      "date": "2026-11-22T15:24:32+00:00"
+    },
+    {
+      "id": "hn-50600435",
+      "source": "hn",
+      "title": "Backblaze customers worried of personal data sale/sharing after policy update",
+      "url": "https://www.neowin.net/news/backblaze-customers-worried-of-personal-data-salesharing-after-policy-update/",
+      "score": 47,
+      "comments": 26,
+      "author": "cube00",
+      "tags": [],
+      "date": "2026-11-22T15:16:02+00:00",
+      "severity": "medium"
+    },
+    {
+      "id": "hn-50599762",
+      "source": "hn",
+      "title": "Show HN: I built a game where you are an LLM's subagent",
+      "url": "https://github.com/gulivan/worker755",
+      "score": 144,
+      "comments": 36,
+      "author": "ivantgam",
+      "tags": [],
+      "date": "2026-11-22T13:56:58+00:00"
+    },
+    {
+      "id": "qiita-8f88721f10",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "手元で磨いた GASクイックを GitHub に出しました ── 棚 133 本と、コピペで置けるライブラリ版の話",
+      "url": "https://qiita.com/shu15511551/items/31720f7154e39924f552?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "shu15511551",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-11-22T22:36:35+09:00"
+    },
+    {
+      "id": "hn-50597959",
+      "source": "hn",
+      "title": "Muru – AI-assisted Rust server for Python apps by mod_WSGI's creator",
+      "url": "https://simonwillison.net/2026/Nov/21/muru/",
+      "score": 50,
+      "comments": 8,
+      "author": "joshcsimmons",
+      "tags": [],
+      "date": "2026-11-22T09:57:01+00:00"
+    },
     {
       "id": "hn-50597612",
       "source": "hn",
       "title": "87% of the Anthropic power will come from gas and 11% from coal in 2028",
       "url": "https://betterdatacenterproject.com/2026/11/16/how-ai-is-powered-a-breakdown-of-byop-and-grid-power/",
-      "score": 80,
-      "comments": 66,
+      "score": 548,
+      "comments": 619,
       "author": "happosai",
       "tags": [],
       "date": "2026-11-22T08:57:34+00:00"
@@ -31,8 +122,8 @@
       "source": "hn",
       "title": "Notes on the discrete Fourier transform (DFT)",
       "url": "https://eli.thegreenplace.net/2026/notes-on-the-discrete-fourier-transform-dft/",
-      "score": 28,
-      "comments": 4,
+      "score": 77,
+      "comments": 10,
       "author": "kouosi",
       "tags": [],
       "date": "2026-11-22T06:52:25+00:00"
@@ -53,8 +144,8 @@
       "source": "hn",
       "title": "Fast-Anything: Don't rewrite it in Rust. Rewrite the 5% that's slow",
       "url": "https://github.com/EL4CTEO/fast-anything",
-      "score": 30,
-      "comments": 14,
+      "score": 136,
+      "comments": 99,
       "author": "BaselAshraf81",
       "tags": [],
       "date": "2026-11-22T04:10:09+00:00"
@@ -64,8 +155,8 @@
       "source": "hn",
       "title": "Toyota, Nissan, and Honda to standardize parts to lower costs",
       "url": "https://www.caranddriver.com/news/a74490092/toyota-nissan-honda-standardize-parts-lower-costs/",
-      "score": 479,
-      "comments": 282,
+      "score": 968,
+      "comments": 581,
       "author": "zdw",
       "tags": [],
       "date": "2026-11-22T04:04:56+00:00"
@@ -88,8 +179,8 @@
       "source": "hn",
       "title": "Data Processing Incidents on Inference Providers",
       "url": "https://openrouter.ai/blog/announcements/data-processing-incidents-on-inference-providers/",
-      "score": 147,
-      "comments": 57,
+      "score": 251,
+      "comments": 87,
       "author": "sdko",
       "tags": [],
       "date": "2026-11-22T02:14:14+00:00"
@@ -147,8 +238,8 @@
       "source": "hn",
       "title": "Sandwich Simulator",
       "url": "https://stulle.app/",
-      "score": 237,
-      "comments": 80,
+      "score": 459,
+      "comments": 160,
       "author": "subdomain",
       "tags": [],
       "date": "2026-11-22T00:07:59+00:00"
@@ -165,6 +256,17 @@
         "Qiita"
       ],
       "date": "2026-11-22T08:30:07+09:00"
+    },
+    {
+      "id": "hn-50594182",
+      "source": "hn",
+      "title": "A Better Vocabulary for Testing",
+      "url": "https://alperenkeles.com/posts/vocab-for-testing/",
+      "score": 45,
+      "comments": 14,
+      "author": "alpaylan",
+      "tags": [],
+      "date": "2026-11-21T22:15:39+00:00"
     },
     {
       "id": "hn-50594132",
@@ -235,19 +337,6 @@
       "date": "2026-11-22T05:37:17+09:00"
     },
     {
-      "id": "qiita-8f88721f10",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "手元で磨いた GASクイックを GitHub に出しました ── 棚 133 本と、コピペで置けるライブラリ版の話",
-      "url": "https://qiita.com/shu15511551/items/31720f7154e39924f552?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "shu15511551",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-11-22T04:59:01+09:00"
-    },
-    {
       "id": "hn-50592097",
       "source": "hn",
       "title": "Upload2Shell (CVE-2026-125396)",
@@ -264,8 +353,8 @@
       "source": "hn",
       "title": "Inkling-2-Mini in 5.4 GB Memory",
       "url": "https://github.com/ShinMegamiBoson/lookatmyquant",
-      "score": 461,
-      "comments": 117,
+      "score": 542,
+      "comments": 131,
       "author": "k__",
       "tags": [],
       "date": "2026-11-21T18:02:19+00:00"
@@ -321,8 +410,8 @@
       "source": "hn",
       "title": "Lean verification of the Riemann Hypothesis",
       "url": "https://leanprover-community.github.io/blog/posts/riemann-hypothesis/",
-      "score": 1032,
-      "comments": 853,
+      "score": 1169,
+      "comments": 969,
       "author": "g-b-r",
       "tags": [],
       "date": "2026-11-21T14:36:45+00:00"
@@ -345,8 +434,8 @@
       "source": "hn",
       "title": "Detonating a pile of lead azide",
       "url": "https://www.science.org/content/blog-post/detonating-huge-pile-lead-azide-really",
-      "score": 610,
-      "comments": 387,
+      "score": 677,
+      "comments": 411,
       "author": "beginning_end",
       "tags": [],
       "date": "2026-11-21T13:23:14+00:00"
@@ -406,8 +495,8 @@
       "source": "hn",
       "title": "My monitor was cutting my download speed by 75%",
       "url": "https://blog.tymscar.com/posts/studiodisplayethernet/",
-      "score": 586,
-      "comments": 273,
+      "score": 664,
+      "comments": 306,
       "author": "soheilpro",
       "tags": [],
       "date": "2026-11-21T10:36:32+00:00"
@@ -710,8 +799,8 @@
       "source": "hn",
       "title": "Getting the mind to steer the body to steer you",
       "url": "https://notnottalmud.substack.com/p/getting-the-mind-to-steer-the-body",
-      "score": 272,
-      "comments": 89,
+      "score": 368,
+      "comments": 136,
       "author": "jger15",
       "tags": [],
       "date": "2026-11-20T22:11:05+00:00"
@@ -721,8 +810,8 @@
       "source": "hn",
       "title": "Pill to treat pancreatic cancer hailed as 'biggest breakthrough in decades'",
       "url": "https://www.theguardian.com/society/2026/nov/20/pill-pancreatic-cancer-breakthrough-daraxonrasib",
-      "score": 996,
-      "comments": 216,
+      "score": 1260,
+      "comments": 272,
       "author": "rafaelc",
       "tags": [],
       "date": "2026-11-20T21:03:12+00:00"
@@ -1521,6 +1610,28 @@
       "date": "2026-11-20T07:03:01+09:00"
     },
     {
+      "id": "hn-50566886",
+      "source": "hn",
+      "title": "What Makes UltraSMR Different?",
+      "url": "https://blog.westerndigital.com/what-is-ultrasmr-technology/",
+      "score": 9,
+      "comments": 9,
+      "author": "bluedino",
+      "tags": [],
+      "date": "2026-11-19T21:44:50+00:00"
+    },
+    {
+      "id": "hn-50566495",
+      "source": "hn",
+      "title": "Self-hosted library branch over public web OPDS",
+      "url": "https://joinmayberry.com/",
+      "score": 85,
+      "comments": 25,
+      "author": "philips",
+      "tags": [],
+      "date": "2026-11-19T21:15:47+00:00"
+    },
+    {
       "id": "hn-50566261",
       "source": "hn",
       "title": "Rebuilding my local voice assistant pipeline",
@@ -1610,6 +1721,17 @@
       "tags": [],
       "date": "2026-11-19T16:34:04+00:00",
       "severity": "critical"
+    },
+    {
+      "id": "hn-50562207",
+      "source": "hn",
+      "title": "Inside PyPy: First Contact with RPython",
+      "url": "https://bernsteinbear.com/blog/inside-pypy-first-contact-with-rpython/",
+      "score": 7,
+      "comments": 1,
+      "author": "lumpa",
+      "tags": [],
+      "date": "2026-11-19T16:26:51+00:00"
     },
     {
       "id": "hn-50562113",
@@ -2269,6 +2391,17 @@
       "author": "rsaz",
       "tags": [],
       "date": "2026-11-18T20:04:31+00:00"
+    },
+    {
+      "id": "hn-50551397",
+      "source": "hn",
+      "title": "The Where's Waldo of the 1500s",
+      "url": "https://blog.alexbeals.com/posts/il-civetta",
+      "score": 37,
+      "comments": 7,
+      "author": "speckx",
+      "tags": [],
+      "date": "2026-11-18T20:04:28+00:00"
     },
     {
       "id": "hn-50551046",
@@ -5163,147 +5296,6 @@
       "date": "2026-11-15T13:44:16+00:00"
     },
     {
-      "id": "hn-50506719",
-      "source": "hn",
-      "title": "The MacBook Pro's OLED PWM problem",
-      "url": "https://macanorak.com/the-macbook-pros-oled-pwm-problem-when-a-better-display-becomes-worse-to-use/",
-      "score": 466,
-      "comments": 256,
-      "author": "MacAnorak",
-      "tags": [],
-      "date": "2026-11-15T13:15:22+00:00"
-    },
-    {
-      "id": "hn-50506588",
-      "source": "hn",
-      "title": "A NES emulator written in Odin",
-      "url": "https://lucypero.com/lucynes.html",
-      "score": 81,
-      "comments": 28,
-      "author": "frostbyte7",
-      "tags": [],
-      "date": "2026-11-15T12:51:47+00:00"
-    },
-    {
-      "id": "hn-50506376",
-      "source": "hn",
-      "title": "Understanding Positional Embeddings in Modern LLMs",
-      "url": "https://magazine.sebastianraschka.com/p/understanding-positional-embeddings",
-      "score": 191,
-      "comments": 26,
-      "author": "vismit2000",
-      "tags": [],
-      "date": "2026-11-15T12:14:06+00:00"
-    },
-    {
-      "id": "hn-50505310",
-      "source": "hn",
-      "title": "The First Revolver: How We Got from Blackbeard's Six Pistols to the Six-Shooter",
-      "url": "https://americanhandgunner.com/handguns/revolvers/the-first-revolver/",
-      "score": 52,
-      "comments": 35,
-      "author": "bushwart",
-      "tags": [],
-      "date": "2026-11-15T09:12:55+00:00"
-    },
-    {
-      "id": "hn-50505271",
-      "source": "hn",
-      "title": "Why did some Apollo missions carry a grenade launcher?",
-      "url": "https://space.stackexchange.com/questions/37775",
-      "score": 190,
-      "comments": 133,
-      "author": "Skyfall106",
-      "tags": [],
-      "date": "2026-11-15T09:06:43+00:00"
-    },
-    {
-      "id": "qiita-04d2ad6f3f",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "【個人開発】学習記録アプリのデータ永続化とCI/CDで自動化に取り組んだ",
-      "url": "https://qiita.com/ryu0947/items/8e12e4f1871233ef7169?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "ryu0947",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-11-15T18:05:13+09:00"
-    },
-    {
-      "id": "qiita-20fe531a9e",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "AI開発のセキュリティは設計で証明！今後エンジニアに求められるスキルを完全解説",
-      "url": "https://qiita.com/Sicut_study/items/b6d17933cc276dadf6d5?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "Sicut_study",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-11-15T17:40:46+09:00"
-    },
-    {
-      "id": "qiita-d907fed64b",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "C#にもとうとうunionが来たので、四則演算処理系を書いてみる",
-      "url": "https://qiita.com/yuchiki1000yen/items/775afcd1e683e66a957f?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "yuchiki1000yen",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-11-15T16:17:38+09:00"
-    },
-    {
-      "id": "qiita-a24789baa9",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "『バックエンドの知識地図』を読んだ感想 ─ 現代のバックエンド学習をつなぐ一冊",
-      "url": "https://qiita.com/tomokusaba/items/015330c008f62355894c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "tomokusaba",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-11-15T15:42:37+09:00"
-    },
-    {
-      "id": "hn-50504373",
-      "source": "hn",
-      "title": "A Perfect SimCity",
-      "url": "https://www.jeffquast.com/post/a-perfect-simcity/",
-      "score": 199,
-      "comments": 96,
-      "author": "mariuz",
-      "tags": [],
-      "date": "2026-11-15T05:54:22+00:00"
-    },
-    {
-      "id": "hn-50504277",
-      "source": "hn",
-      "title": "Disk encryption on NetBSD – achieving secrecy",
-      "url": "https://netbsd.org/~nia/disk-encrypt/",
-      "score": 63,
-      "comments": 13,
-      "author": "jaypatelani",
-      "tags": [],
-      "date": "2026-11-15T05:29:54+00:00"
-    },
-    {
-      "id": "hn-50487155",
-      "source": "hn",
-      "title": "Show HN: Compile the same source for GPUs and CPUs",
-      "url": "https://github.com/ThrudTheBarbarian/xc",
-      "score": 11,
-      "comments": 1,
-      "author": "spacedcowboy",
-      "tags": [],
-      "date": "2026-11-13T17:53:42+00:00",
-      "severity": "critical"
-    },
-    {
       "id": "ctf-5029821",
       "source": "project",
       "proj_category": "CTF",
@@ -5486,6 +5478,19 @@
       "date": "2023-05-23T17:06:23Z"
     },
     {
+      "id": "zenn-9efe8592b5",
+      "source": "zennqiita",
+      "sub_source": "Zenn",
+      "title": "Next.jsのストリーミングはLambda Web Functionsで動くか",
+      "url": "https://zenn.dev/ryota_09/articles/nextjs-suspense-streaming-lambda-web-functions",
+      "score": null,
+      "author": "りょた",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Sun, 22 Nov 2026 02:30:19 GMT"
+    },
+    {
       "id": "zenn-3ee1c2d061",
       "source": "zennqiita",
       "sub_source": "Zenn",
@@ -5497,19 +5502,6 @@
         "Zenn"
       ],
       "date": "Sat, 21 Nov 2026 15:14:13 GMT"
-    },
-    {
-      "id": "zenn-f37382ff6f",
-      "source": "zennqiita",
-      "sub_source": "Zenn",
-      "title": "堅牢な受け入れテストを書くには？",
-      "url": "https://zenn.dev/yasuakiomokawa/articles/3ac970c3a3a1c7",
-      "score": null,
-      "author": "Yasuaki Omokawa",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Sat, 21 Nov 2026 09:09:12 GMT"
     },
     {
       "id": "zenn-97c7090c40",
@@ -5525,6 +5517,19 @@
       "date": "Sat, 21 Nov 2026 02:12:39 GMT"
     },
     {
+      "id": "zenn-c7eb8f191e",
+      "source": "zennqiita",
+      "sub_source": "Zenn",
+      "title": "作れるエンジニアから、価値を届けるエンジニアへ",
+      "url": "https://zenn.dev/kubell/articles/3c3490a3592bb1",
+      "score": null,
+      "author": "リュウ",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Fri, 20 Nov 2026 15:50:41 GMT"
+    },
+    {
       "id": "zenn-a0ddabc90e",
       "source": "zennqiita",
       "sub_source": "Zenn",
@@ -5536,19 +5541,6 @@
         "Zenn"
       ],
       "date": "Fri, 20 Nov 2026 09:04:40 GMT"
-    },
-    {
-      "id": "zenn-b9afa88b6c",
-      "source": "zennqiita",
-      "sub_source": "Zenn",
-      "title": "日本のレシートを自宅PCでOCRする：15構成を実レシート11枚で比べた",
-      "url": "https://zenn.dev/chaki/articles/4545be3475fdb4",
-      "score": null,
-      "author": "chaki",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Fri, 20 Nov 2026 04:33:15 GMT"
     },
     {
       "id": "zenn-1e6b48599b",

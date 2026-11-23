@@ -1,14 +1,60 @@
 {
-  "updated_at": "2026-11-22T23:30:00.755936+00:00",
+  "updated_at": "2026-11-23T03:56:25.479505+00:00",
   "count": 500,
   "items": [
+    {
+      "id": "qiita-ec8847cd88",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "ウィークリー新着いいねランキング【毎週更新】",
+      "url": "https://qiita.com/figueiredoluiz/items/d54695be04d1e533b05b?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "figueiredoluiz",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-11-23T11:11:22+09:00"
+    },
+    {
+      "id": "hn-50606192",
+      "source": "hn",
+      "title": "Free alternative TV network built from the Internet Archive's forgotten videos",
+      "url": "https://spelunkr.tv",
+      "score": 193,
+      "comments": 30,
+      "author": "SockThief",
+      "tags": [],
+      "date": "2026-11-23T01:13:51+00:00"
+    },
+    {
+      "id": "hn-50606072",
+      "source": "hn",
+      "title": "What we learned operating auth for 1k APIs",
+      "url": "https://nango.dev/blog/lessons-from-operating-api-auth-for-900-apis/",
+      "score": 15,
+      "comments": 2,
+      "author": "fagnerbrack",
+      "tags": [],
+      "date": "2026-11-23T01:01:11+00:00"
+    },
+    {
+      "id": "hn-50605445",
+      "source": "hn",
+      "title": "0rwx – A simple model of AI usage, inspired by Unix permissions",
+      "url": "https://0rwx.com/",
+      "score": 27,
+      "comments": 6,
+      "author": "misswaterfairy",
+      "tags": [],
+      "date": "2026-11-22T23:53:00+00:00"
+    },
     {
       "id": "hn-50605045",
       "source": "hn",
       "title": "Progress map for the Lean formalization of Alessandro Masullo's manuscript",
       "url": "https://claude.ai/artifact/CtQyX8qfYAF822bgHJHHE3",
-      "score": 27,
-      "comments": 0,
+      "score": 175,
+      "comments": 151,
       "author": "Qision",
       "tags": [],
       "date": "2026-11-22T23:12:10+00:00"
@@ -18,8 +64,8 @@
       "source": "hn",
       "title": "GL.iNet Security Notice 2026-11-20",
       "url": "https://www.gl-inet.com/en-us/blogs/blog/glinet-security-notice-2026-11-20",
-      "score": 14,
-      "comments": 3,
+      "score": 123,
+      "comments": 54,
       "author": "gregsadetsky",
       "tags": [],
       "date": "2026-11-22T23:06:37+00:00"
@@ -36,12 +82,24 @@
       "date": "2026-11-22T23:02:20+00:00"
     },
     {
+      "id": "hn-50604540",
+      "source": "hn",
+      "title": "Localcode, open source agentic coding on your Mac with one command",
+      "url": "https://github.com/mjwsolo/localcode",
+      "score": 37,
+      "comments": 12,
+      "author": "mjwsolo",
+      "tags": [],
+      "date": "2026-11-22T22:18:48+00:00",
+      "severity": "critical"
+    },
+    {
       "id": "hn-50604472",
       "source": "hn",
-      "title": "The Usefulness of Useless Knowledge [pdf]",
+      "title": "The Usefulness of Useless Knowledge [pdf] (1939)",
       "url": "https://www.ias.edu/sites/default/files/library/UsefulnessHarpers.pdf",
-      "score": 20,
-      "comments": 1,
+      "score": 81,
+      "comments": 14,
       "author": "hectormauer",
       "tags": [],
       "date": "2026-11-22T22:10:58+00:00"
@@ -62,8 +120,8 @@
       "source": "hn",
       "title": "The struggle for freedom: How BSD escaped AT&T licensing",
       "url": "https://fosscomics.com/posts/16.%20BSD%20Unix%20Part%206%20-%20The%20Struggle%20for%20Freedom/",
-      "score": 16,
-      "comments": 4,
+      "score": 69,
+      "comments": 20,
       "author": "joonehur",
       "tags": [],
       "date": "2026-11-22T21:33:12+00:00"
@@ -84,8 +142,8 @@
       "source": "hn",
       "title": "A Beginner's Guide to Local AI with Inkling, Qwen, and Unsloth",
       "url": "https://www.gpupartner.com/blog/beginners-guide-local-ai-inkling-qwen-unsloth",
-      "score": 107,
-      "comments": 32,
+      "score": 315,
+      "comments": 134,
       "author": "Retell15",
       "tags": [],
       "date": "2026-11-22T21:01:16+00:00"
@@ -106,8 +164,8 @@
       "source": "hn",
       "title": "A miniature San Francisco with live buses, planes and boats",
       "url": "https://smallsf.com/",
-      "score": 88,
-      "comments": 35,
+      "score": 178,
+      "comments": 80,
       "author": "dutilh",
       "tags": [],
       "date": "2026-11-22T20:33:23+00:00"
@@ -117,8 +175,8 @@
       "source": "hn",
       "title": "Nyx, the Oldest Internet Service Provider",
       "url": "https://nyx.net/",
-      "score": 71,
-      "comments": 8,
+      "score": 112,
+      "comments": 12,
       "author": "o_-_o",
       "tags": [],
       "date": "2026-11-22T20:15:59+00:00"
@@ -128,8 +186,8 @@
       "source": "hn",
       "title": "Assume People Are Not Interested in Your Blog Post",
       "url": "https://danielsada.tech/blog/assume-people-are-not-interested-in-your-blog-post/",
-      "score": 18,
-      "comments": 10,
+      "score": 89,
+      "comments": 50,
       "author": "dshacker",
       "tags": [],
       "date": "2026-11-22T19:41:30+00:00"
@@ -139,8 +197,8 @@
       "source": "hn",
       "title": "What Happened to Silicon Valley?",
       "url": "https://www.oreilly.com/radar/what-happened-to-silicon-valley/",
-      "score": 324,
-      "comments": 170,
+      "score": 491,
+      "comments": 281,
       "author": "greenyouse",
       "tags": [],
       "date": "2026-11-22T19:20:15+00:00"
@@ -150,8 +208,8 @@
       "source": "hn",
       "title": "The Birds of GTA 6: A Field Guide to Vice City and Leonida's Wildlife",
       "url": "https://www.audubon.org/magazine/birds-of-gta-6-field-guide-vice-city-wildlife",
-      "score": 278,
-      "comments": 112,
+      "score": 394,
+      "comments": 196,
       "author": "gaws",
       "tags": [],
       "date": "2026-11-22T19:10:34+00:00"
@@ -172,8 +230,8 @@
       "source": "hn",
       "title": "Perplexity and Intelligence",
       "url": "https://openai.com/index/perplexity-and-intelligence/",
-      "score": 436,
-      "comments": 298,
+      "score": 517,
+      "comments": 357,
       "author": "acossta",
       "tags": [],
       "date": "2026-11-22T17:06:27+00:00"
@@ -207,8 +265,8 @@
       "source": "hn",
       "title": "I joined the NTP Pool, but not with my Stratum 1 Pi",
       "url": "https://www.jeffgeerling.com/blog/2026/i-joined-the-ntp-pool/",
-      "score": 116,
-      "comments": 29,
+      "score": 136,
+      "comments": 44,
       "author": "fortran77",
       "tags": [],
       "date": "2026-11-22T15:35:24+00:00"
@@ -218,8 +276,8 @@
       "source": "hn",
       "title": "Open Social Web Alliance",
       "url": "https://osw-alliance.net/en/",
-      "score": 204,
-      "comments": 203,
+      "score": 229,
+      "comments": 218,
       "author": "doener",
       "tags": [],
       "date": "2026-11-22T15:24:32+00:00"
@@ -241,8 +299,8 @@
       "source": "hn",
       "title": "Show HN: I built a game where you are an LLM's subagent",
       "url": "https://github.com/gulivan/worker755",
-      "score": 255,
-      "comments": 59,
+      "score": 284,
+      "comments": 67,
       "author": "ivantgam",
       "tags": [],
       "date": "2026-11-22T13:56:58+00:00"
@@ -299,6 +357,17 @@
       ],
       "date": "2026-11-22T20:21:31+09:00",
       "severity": "high"
+    },
+    {
+      "id": "hn-50598441",
+      "source": "hn",
+      "title": "Masullo on the Riemann Hypothesis",
+      "url": "https://johncarlosbaez.wordpress.com/2026/11/22/masullo-on-the-riemann-hypothesis/",
+      "score": 88,
+      "comments": 21,
+      "author": "xiaoyu2006",
+      "tags": [],
+      "date": "2026-11-22T10:59:56+00:00"
     },
     {
       "id": "hn-50597959",
@@ -451,8 +520,8 @@
       "source": "hn",
       "title": "Toyota, Nissan, and Honda to standardize parts to lower costs",
       "url": "https://www.caranddriver.com/news/a74490092/toyota-nissan-honda-standardize-parts-lower-costs/",
-      "score": 1164,
-      "comments": 669,
+      "score": 1213,
+      "comments": 684,
       "author": "zdw",
       "tags": [],
       "date": "2026-11-22T04:04:56+00:00"
@@ -798,19 +867,6 @@
         "Qiita"
       ],
       "date": "2026-11-21T20:51:38+09:00"
-    },
-    {
-      "id": "qiita-ec8847cd88",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "ウィークリー新着いいねランキング【毎週更新】",
-      "url": "https://qiita.com/figueiredoluiz/items/d54695be04d1e533b05b?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "figueiredoluiz",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-11-21T19:56:30+09:00"
     },
     {
       "id": "qiita-f1ac673744",
@@ -1331,6 +1387,17 @@
       "date": "2026-11-20T16:59:27+00:00"
     },
     {
+      "id": "hn-50577353",
+      "source": "hn",
+      "title": "Verifying formal models of Raft implementations",
+      "url": "https://antithesis.com/blog/2026/verifying-formal-models/",
+      "score": 6,
+      "comments": 0,
+      "author": "alpaylan",
+      "tags": [],
+      "date": "2026-11-20T16:33:22+00:00"
+    },
+    {
       "id": "hn-50577265",
       "source": "hn",
       "title": "Language Models Can Rewrite Their Own Weights",
@@ -1412,6 +1479,17 @@
         "Qiita"
       ],
       "date": "2026-11-20T23:32:15+09:00"
+    },
+    {
+      "id": "hn-50575007",
+      "source": "hn",
+      "title": "How the World Draws the World",
+      "url": "https://googlemapsmania.blogspot.com/2026/10/how-world-draws-world.html",
+      "score": 16,
+      "comments": 1,
+      "author": "surprisetalk",
+      "tags": [],
+      "date": "2026-11-20T14:20:15+00:00"
     },
     {
       "id": "hn-50574968",
@@ -2158,6 +2236,17 @@
       "author": "thm",
       "tags": [],
       "date": "2026-11-19T14:44:50+00:00"
+    },
+    {
+      "id": "hn-50560563",
+      "source": "hn",
+      "title": "The Unlicensed Gospel: Wisdom Tree's Bible Games on the Game Boy",
+      "url": "https://www.gameboymuseum.com/single-post/the-unlicensed-gospel-wisdom-tree-s-bible-games-on-the-game-boy",
+      "score": 20,
+      "comments": 2,
+      "author": "speckx",
+      "tags": [],
+      "date": "2026-11-19T14:27:07+00:00"
     },
     {
       "id": "hn-50560461",
@@ -2943,8 +3032,8 @@
       "source": "hn",
       "title": "Cathedral floor emerges in Sudan, revealing one of the biggest medieval churches",
       "url": "https://apnews.com/article/sudan-antiquities-nubia-cathedral-1b16f67da881ee5592de4481ee55c527",
-      "score": 41,
-      "comments": 0,
+      "score": 140,
+      "comments": 15,
       "author": "graemep",
       "tags": [],
       "date": "2026-11-18T15:43:29+00:00"
@@ -3114,8 +3203,8 @@
       "source": "hn",
       "title": "Advice for Young Researchers",
       "url": "http://togelius.blogspot.com/2026/11/advice-for-young-researchers.html",
-      "score": 34,
-      "comments": 12,
+      "score": 64,
+      "comments": 22,
       "author": "tcumulus",
       "tags": [],
       "date": "2026-11-18T13:33:25+00:00"
@@ -5210,102 +5299,6 @@
       "date": "2026-11-16T00:38:12+00:00"
     },
     {
-      "id": "qiita-b6d2a876df",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "# 【React】Jotai でグローバルな state を管理する方法（Context・Recoil からの書き換えも）",
-      "url": "https://qiita.com/Tukirukiki/items/300f5807ed912a64c748?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "Tukirukiki",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-11-16T09:37:43+09:00"
-    },
-    {
-      "id": "qiita-cac3b0c3a9",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "はじめてのAPIログ設計 — 「ログはあるのに調べられない」を防ぐには？",
-      "url": "https://qiita.com/masashige0904/items/22f2836485ecc25ee527?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "masashige0904",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-11-16T09:37:01+09:00"
-    },
-    {
-      "id": "hn-50512441",
-      "source": "hn",
-      "title": "Tor Project Issues Rapid-Response DoS-Defense Fix Amid Sustained DDoS Attack",
-      "url": "https://forum.torproject.org/t/security-release-0-4-9-17/22454",
-      "score": 221,
-      "comments": 57,
-      "author": "aillia",
-      "tags": [],
-      "date": "2026-11-16T00:21:54+00:00"
-    },
-    {
-      "id": "hn-50512296",
-      "source": "hn",
-      "title": "Skydio's asymmetrical F10 Lightrunner solves a problem with fixed-wing drones",
-      "url": "https://spectrum.ieee.org/skydio-f10-lightrunner-asymmetrical-drone",
-      "score": 31,
-      "comments": 2,
-      "author": "Gaishan",
-      "tags": [],
-      "date": "2026-11-16T00:03:12+00:00"
-    },
-    {
-      "id": "qiita-52540fcf79",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "PostgreSQLとFastAPIで作る、状態遷移を守る更新APIと履歴テーブル",
-      "url": "https://qiita.com/takumi_engineer/items/5a2dffdff4af6e9f45ce?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "takumi_engineer",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-11-16T09:00:17+09:00"
-    },
-    {
-      "id": "hn-50512235",
-      "source": "hn",
-      "title": "What's Next for Nvidia?",
-      "url": "https://steveblank.com/2026/11/15/whats-next-for-nvidia/",
-      "score": 407,
-      "comments": 513,
-      "author": "zdw",
-      "tags": [],
-      "date": "2026-11-15T23:55:55+00:00"
-    },
-    {
-      "id": "hn-50512231",
-      "source": "hn",
-      "title": "Mini.nvim Is Now on Tangled",
-      "url": "https://tangled.org/nvim-mini.org/mini.nvim",
-      "score": 56,
-      "comments": 14,
-      "author": "nerdypepper",
-      "tags": [],
-      "date": "2026-11-15T23:55:41+00:00"
-    },
-    {
-      "id": "qiita-8907105af2",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "日報mdをどの画面からもワンボタン表示！ Raycast × Obsidian",
-      "url": "https://qiita.com/kuma_3838/items/e8a11dd95f319a1545d6?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "kuma_3838",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-11-16T08:34:57+09:00"
-    },
-    {
       "id": "ctf-5029821",
       "source": "project",
       "proj_category": "CTF",
@@ -5488,6 +5481,19 @@
       "date": "2023-05-23T17:06:23Z"
     },
     {
+      "id": "zenn-38bbcfdd83",
+      "source": "zennqiita",
+      "sub_source": "Zenn",
+      "title": "SideLoadをしよう！〜SideStoreをiPhone単体で入れる〜(SideInstaller編)",
+      "url": "https://zenn.dev/l_port8000/articles/7550549e6e9970",
+      "score": null,
+      "author": "一樹（いつき）",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Sun, 22 Nov 2026 03:46:17 GMT"
+    },
+    {
       "id": "zenn-9efe8592b5",
       "source": "zennqiita",
       "sub_source": "Zenn",
@@ -5525,19 +5531,6 @@
         "Zenn"
       ],
       "date": "Sat, 21 Nov 2026 02:12:39 GMT"
-    },
-    {
-      "id": "zenn-c7eb8f191e",
-      "source": "zennqiita",
-      "sub_source": "Zenn",
-      "title": "作れるエンジニアから、価値を届けるエンジニアへ",
-      "url": "https://zenn.dev/kubell/articles/3c3490a3592bb1",
-      "score": null,
-      "author": "リュウ",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Fri, 20 Nov 2026 15:50:41 GMT"
     },
     {
       "id": "zenn-a0ddabc90e",

@@ -1,7 +1,73 @@
 {
-  "updated_at": "2026-11-25T23:59:43.072424+00:00",
+  "updated_at": "2026-11-26T08:00:50.535310+00:00",
   "count": 500,
   "items": [
+    {
+      "id": "hn-50652184",
+      "source": "hn",
+      "title": "Moat: Your OpenRouter Replacement",
+      "url": "https://commandcode.ai/moat",
+      "score": 9,
+      "comments": 8,
+      "author": "amanverasia",
+      "tags": [],
+      "date": "2026-11-26T06:32:48+00:00"
+    },
+    {
+      "id": "hn-50651719",
+      "source": "hn",
+      "title": "Lions' Commentary on Unix: Why It Was Secretly Copied for 20 Years",
+      "url": "https://fosscomics.com/posts/17.%20Lions%27%20Commentary%20on%20Unix/",
+      "score": 58,
+      "comments": 7,
+      "author": "joonehur",
+      "tags": [],
+      "date": "2026-11-26T05:12:59+00:00"
+    },
+    {
+      "id": "hn-50651158",
+      "source": "hn",
+      "title": "Qualcomm's Oryon 3 Reaches the Top",
+      "url": "https://chipsandcheese.com/p/qualcomms-oryon-3-reaches-the-top",
+      "score": 34,
+      "comments": 5,
+      "author": "wmf",
+      "tags": [],
+      "date": "2026-11-26T03:43:24+00:00"
+    },
+    {
+      "id": "hn-50651117",
+      "source": "hn",
+      "title": "OpenAI cuts GPT-6.2 usage: Astra hits limits 40% faster, Sol 25% faster",
+      "url": "https://twitter.com/thsottiaux/status/2125784147889393806",
+      "score": 182,
+      "comments": 91,
+      "author": "Herrera",
+      "tags": [],
+      "date": "2026-11-26T03:36:58+00:00"
+    },
+    {
+      "id": "hn-50650892",
+      "source": "hn",
+      "title": "Minipg: PostgreSQL as a Single Executable",
+      "url": "https://progrium.github.io/minipg/",
+      "score": 94,
+      "comments": 14,
+      "author": "rguiscard",
+      "tags": [],
+      "date": "2026-11-26T03:00:48+00:00"
+    },
+    {
+      "id": "hn-50649834",
+      "source": "hn",
+      "title": "Collection of preserved UI style guides",
+      "url": "https://aresluna.org/ui-style-guides/",
+      "score": 138,
+      "comments": 16,
+      "author": "sohkamyung",
+      "tags": [],
+      "date": "2026-11-26T00:40:00+00:00"
+    },
     {
       "id": "hn-50648823",
       "source": "hn",
@@ -18,8 +84,8 @@
       "source": "hn",
       "title": "Bare Metal Qwen",
       "url": "https://github.com/alesha-pro/llm.asm/tree/main/02-baremetal-os",
-      "score": 18,
-      "comments": 0,
+      "score": 135,
+      "comments": 30,
       "author": "miohtama",
       "tags": [],
       "date": "2026-11-25T22:15:34+00:00"
@@ -29,8 +95,8 @@
       "source": "hn",
       "title": "Deploying a payphone on a tiny Pacific Island for fun and zero profit",
       "url": "https://nickvsnetworking.com/deploying-a-payphone-on-a-tiny-pacific-island-for-fun-and-zero-profit/",
-      "score": 12,
-      "comments": 0,
+      "score": 89,
+      "comments": 12,
       "author": "qzervaas",
       "tags": [],
       "date": "2026-11-25T22:12:25+00:00"
@@ -40,8 +106,8 @@
       "source": "hn",
       "title": "Much shorter version of GRH Lean verification from Anthropic",
       "url": "https://github.com/lsernau/grh-lean",
-      "score": 195,
-      "comments": 88,
+      "score": 425,
+      "comments": 216,
       "author": "nb-t",
       "tags": [],
       "date": "2026-11-25T21:48:10+00:00"
@@ -60,21 +126,22 @@
     {
       "id": "hn-50647673",
       "source": "hn",
-      "title": "The New York Times tells photographers not to use the latest Photoshop",
-      "url": "https://www.dpreview.com/news/new-york-times-adobe-photoshop-2027-restriction-ai/",
-      "score": 132,
-      "comments": 65,
+      "title": "The New York Times warns photographers not to update Photoshop over AI features",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1041227/the-new-york-times-warns-photographers-not-to-update-photoshop-over-ai-features",
+      "score": 337,
+      "comments": 288,
       "author": "rmason",
       "tags": [],
-      "date": "2026-11-25T21:18:02+00:00"
+      "date": "2026-11-25T21:18:02+00:00",
+      "severity": "medium"
     },
     {
       "id": "hn-50647181",
       "source": "hn",
       "title": "Slow Ubuntu security response times",
       "url": "https://www.openwall.com/lists/oss-security/2026/11/25/9",
-      "score": 94,
-      "comments": 32,
+      "score": 265,
+      "comments": 117,
       "author": "gslin",
       "tags": [],
       "date": "2026-11-25T20:38:00+00:00"
@@ -84,8 +151,8 @@
       "source": "hn",
       "title": "Nfs2root: A 12-year-old pre-auth remote root in the Linux kernel's NFS server",
       "url": "https://opensec.in/blog/nfs2root-cve-2026-99362",
-      "score": 63,
-      "comments": 19,
+      "score": 128,
+      "comments": 44,
       "author": "dm",
       "tags": [],
       "date": "2026-11-25T20:35:50+00:00"
@@ -218,8 +285,8 @@
       "source": "hn",
       "title": "Holy shit holy shit holy shit holy shit: The magnitude of what’s now happening",
       "url": "https://scottaaronson.blog/?p=10379",
-      "score": 785,
-      "comments": 636,
+      "score": 1386,
+      "comments": 1211,
       "author": "Kotlopou",
       "tags": [],
       "date": "2026-11-25T19:11:27+00:00"
@@ -251,8 +318,8 @@
       "source": "hn",
       "title": "1Password Security Incident",
       "url": "https://1password.com/blog/update-on-nov-2026-security-incident",
-      "score": 1044,
-      "comments": 447,
+      "score": 1377,
+      "comments": 578,
       "author": "lxhrstn",
       "tags": [],
       "date": "2026-11-25T17:18:26+00:00"
@@ -729,6 +796,17 @@
       "date": "2026-11-25T02:34:21+00:00"
     },
     {
+      "id": "hn-50637448",
+      "source": "hn",
+      "title": "How did pinwheel calculators work?",
+      "url": "https://blog.coredump.cx/p/how-did-pinwheel-calculators-work",
+      "score": 64,
+      "comments": 4,
+      "author": "surprisetalk",
+      "tags": [],
+      "date": "2026-11-25T02:00:08+00:00"
+    },
+    {
       "id": "hn-50637220",
       "source": "hn",
       "title": "Matrix Multiplication is Θ(n^2.25) [pdf]",
@@ -959,6 +1037,17 @@
       "date": "2026-11-24T20:46:56Z"
     },
     {
+      "id": "hn-50634381",
+      "source": "hn",
+      "title": "Marginal Grains",
+      "url": "https://asteriskmag.com/issues/16/marginal-grains",
+      "score": 16,
+      "comments": 0,
+      "author": "NaOH",
+      "tags": [],
+      "date": "2026-11-24T20:40:18+00:00"
+    },
+    {
       "id": "hn-50633922",
       "source": "hn",
       "title": "Ternary Bonsai 2.5 27B",
@@ -1170,6 +1259,17 @@
       "date": "2026-11-24T13:14:37+00:00"
     },
     {
+      "id": "hn-50627532",
+      "source": "hn",
+      "title": "Xkcd and Fourier",
+      "url": "https://leancrew.com/all-this/2026/10/xkcd-and-fourier/",
+      "score": 38,
+      "comments": 8,
+      "author": "surprisetalk",
+      "tags": [],
+      "date": "2026-11-24T13:00:05+00:00"
+    },
+    {
       "id": "hn-50627340",
       "source": "hn",
       "title": "LLM agents work for their parent companies, not for you",
@@ -1214,6 +1314,17 @@
       "author": "oska",
       "tags": [],
       "date": "2026-11-24T11:13:55+00:00"
+    },
+    {
+      "id": "hn-50626466",
+      "source": "hn",
+      "title": "What VP ≠ VNP Means (In 3 Minutes)",
+      "url": "https://www.friedgil.com/vpvnp",
+      "score": 108,
+      "comments": 27,
+      "author": "vinhnx",
+      "tags": [],
+      "date": "2026-11-24T10:56:56+00:00"
     },
     {
       "id": "hn-50626430",
@@ -1424,6 +1535,18 @@
         "Qiita"
       ],
       "date": "2026-11-24T12:41:09+09:00"
+    },
+    {
+      "id": "hn-50623232",
+      "source": "hn",
+      "title": "Show HN: Synth Patch Hero",
+      "url": "https://swarkentin.github.io/synth-patch-hero/",
+      "score": 18,
+      "comments": 3,
+      "author": "kaidon",
+      "tags": [],
+      "date": "2026-11-24T03:24:22+00:00",
+      "severity": "medium"
     },
     {
       "id": "qiita-541904e3db",
@@ -2446,8 +2569,8 @@
       "source": "hn",
       "title": "GPT-6.2 Astra is the first model to beat Googlers' code golf records",
       "url": "https://bjin.github.io/go-codegolf-benchmark/#leaderboard",
-      "score": 194,
-      "comments": 57,
+      "score": 357,
+      "comments": 98,
       "author": "bjin",
       "tags": [],
       "date": "2026-11-22T16:44:48+00:00"
@@ -2596,6 +2719,17 @@
         "Qiita"
       ],
       "date": "2026-11-22T20:47:50+09:00"
+    },
+    {
+      "id": "hn-50598636",
+      "source": "hn",
+      "title": "The Great Automatic Grammatizator (By Roald Dahl), 1954 [pdf]",
+      "url": "https://gwern.net/doc/fiction/science-fiction/1953-dahl-thegreatautomaticgrammatizator.pdf",
+      "score": 70,
+      "comments": 19,
+      "author": "Michelangelo11",
+      "tags": [],
+      "date": "2026-11-22T11:29:44+00:00"
     },
     {
       "id": "qiita-3eb41e7a18",
@@ -3171,8 +3305,8 @@
       "source": "hn",
       "title": "SSH is a GUI framework",
       "url": "https://zydra.sh/articles/ssh-is-a-gui-framework/",
-      "score": 114,
-      "comments": 59,
+      "score": 179,
+      "comments": 87,
       "author": "teledream",
       "tags": [],
       "date": "2026-11-21T14:52:41+00:00"
@@ -5299,138 +5433,6 @@
       "date": "2026-11-18T20:04:28+00:00"
     },
     {
-      "id": "hn-50551046",
-      "source": "hn",
-      "title": "DaisyRose-27B",
-      "url": "https://www.radixark.com/blog/daisyrose-27b",
-      "score": 174,
-      "comments": 55,
-      "author": "de_sty",
-      "tags": [],
-      "date": "2026-11-18T19:39:16+00:00"
-    },
-    {
-      "id": "hn-50550430",
-      "source": "hn",
-      "title": "Microsoft announces Windows Server 2028 with hardened security",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-announces-windows-server-2028-with-hardened-security/",
-      "score": 6,
-      "comments": 0,
-      "author": "N19PEDL2",
-      "tags": [],
-      "date": "2026-11-18T18:50:35+00:00"
-    },
-    {
-      "id": "hn-50550415",
-      "source": "hn",
-      "title": "Genie 4 is now available",
-      "url": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/genie-4-now-available-project-genie/",
-      "score": 221,
-      "comments": 154,
-      "author": "leumon",
-      "tags": [],
-      "date": "2026-11-18T18:49:51+00:00"
-    },
-    {
-      "id": "hn-50550096",
-      "source": "hn",
-      "title": "The Magic of Partial Evaluation",
-      "url": "https://jimmyhmiller.com/magic-of-partial-evaluation",
-      "score": 85,
-      "comments": 22,
-      "author": "aray07",
-      "tags": [],
-      "date": "2026-11-18T18:29:03+00:00"
-    },
-    {
-      "id": "hn-50549493",
-      "source": "hn",
-      "title": "Advancing chip design with OpenAI models",
-      "url": "https://openai.com/index/advancing-chip-design-with-our-models/",
-      "score": 186,
-      "comments": 117,
-      "author": "vighneshiyer",
-      "tags": [],
-      "date": "2026-11-18T17:45:47+00:00"
-    },
-    {
-      "id": "hn-50549441",
-      "source": "hn",
-      "title": "Forking TuxGuitar into a 17-EDO tab editor",
-      "url": "https://frogwizard.bearblog.dev/tuxguitar-17edo/",
-      "score": 6,
-      "comments": 4,
-      "author": "speckx",
-      "tags": [],
-      "date": "2026-11-18T17:41:57+00:00"
-    },
-    {
-      "id": "hn-50548991",
-      "source": "hn",
-      "title": "CrossPoint Reader",
-      "url": "https://crosspointreader.com",
-      "score": 91,
-      "comments": 47,
-      "author": "kristianpaul",
-      "tags": [],
-      "date": "2026-11-18T17:14:31+00:00"
-    },
-    {
-      "id": "hn-50548828",
-      "source": "hn",
-      "title": "Stop Deploying to ECS Just to See If Your Code Works",
-      "url": "https://metalbear.com/blog/stop-deploying-to-ecs/",
-      "score": 25,
-      "comments": 3,
-      "author": "Liriel",
-      "tags": [],
-      "date": "2026-11-18T17:05:13+00:00"
-    },
-    {
-      "id": "hn-50548808",
-      "source": "hn",
-      "title": "We taught robots to carve marble sculptures",
-      "url": "https://eleanorwiesler.com/blog/robotic-stone-carving/",
-      "score": 85,
-      "comments": 63,
-      "author": "ewiesler",
-      "tags": [],
-      "date": "2026-11-18T17:03:53+00:00"
-    },
-    {
-      "id": "hn-50548485",
-      "source": "hn",
-      "title": "\"Anthropic Is Not a Safe AI Company\" – Coalition Challenges Anthropic Safety",
-      "url": "https://www.businesswire.com/news/home/20261118974464/en/Anthropic-is-Not-a-Safe-AI-Company---Broad-Coalition-of-Scientists-Legal-Scholars-and-Tech-Leaders-Challenge-Anthropics-Safety-Branding-Ahead-of-IPO",
-      "score": 51,
-      "comments": 25,
-      "author": "sshah03",
-      "tags": [],
-      "date": "2026-11-18T16:41:22+00:00"
-    },
-    {
-      "id": "hn-50548214",
-      "source": "hn",
-      "title": "RFC 2675: IPv6 Jumbograms",
-      "url": "https://www.rfc-editor.org/info/rfc2675/",
-      "score": 10,
-      "comments": 7,
-      "author": "caminanteblanco",
-      "tags": [],
-      "date": "2026-11-18T16:22:23+00:00"
-    },
-    {
-      "id": "hn-50548161",
-      "source": "hn",
-      "title": "Show HN: Take Voyager 1 apart, down to a single memory chip",
-      "url": "https://rshekhar.com/voyager/",
-      "score": 179,
-      "comments": 45,
-      "author": "raj-shekhar",
-      "tags": [],
-      "date": "2026-11-18T16:18:51+00:00"
-    },
-    {
       "id": "ghrel-projectdiscovery_nuclei-367195598",
       "source": "project",
       "proj_category": "Tools",
@@ -5501,6 +5503,19 @@
       "date": "2023-05-23T17:06:23Z"
     },
     {
+      "id": "zenn-a9a69da1f8",
+      "source": "zennqiita",
+      "sub_source": "Zenn",
+      "title": "specは実装後に8割削除しよう",
+      "url": "https://zenn.dev/ruri/articles/distill-specs-after-implementation",
+      "score": null,
+      "author": "atsushi ootani",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Wed, 25 Nov 2026 11:33:06 GMT"
+    },
+    {
       "id": "zenn-93700ffb17",
       "source": "zennqiita",
       "sub_source": "Zenn",
@@ -5512,6 +5527,19 @@
         "Zenn"
       ],
       "date": "Wed, 25 Nov 2026 11:31:18 GMT"
+    },
+    {
+      "id": "zenn-320ea5804d",
+      "source": "zennqiita",
+      "sub_source": "Zenn",
+      "title": "RustでFiberを用いたJob Systemを実装したらReleaseビルドでバグが発生した",
+      "url": "https://zenn.dev/otinpan/articles/082f6178eb1472",
+      "score": null,
+      "author": "otinpan",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Wed, 25 Nov 2026 10:24:41 GMT"
     },
     {
       "id": "zenn-4ab8a1658a",
@@ -5527,6 +5555,32 @@
       "date": "Wed, 25 Nov 2026 09:23:05 GMT"
     },
     {
+      "id": "zenn-abb0125ba3",
+      "source": "zennqiita",
+      "sub_source": "Zenn",
+      "title": "AI Agentを用いたSCP観測日誌ベンチマークの自動作成（と検証）",
+      "url": "https://zenn.dev/holy_fox/articles/07d9a0537db3bf",
+      "score": null,
+      "author": "ほーりーふぉっくす",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Wed, 25 Nov 2026 07:03:21 GMT"
+    },
+    {
+      "id": "zenn-e9d2b23f8d",
+      "source": "zennqiita",
+      "sub_source": "Zenn",
+      "title": "AIを使った開発に「敵対的検証」を取り入れてみた",
+      "url": "https://zenn.dev/visionarray/articles/26b316ff128513",
+      "score": null,
+      "author": "H.Murayama",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Wed, 25 Nov 2026 06:55:45 GMT"
+    },
+    {
       "id": "zenn-61230c546e",
       "source": "zennqiita",
       "sub_source": "Zenn",
@@ -5538,19 +5592,6 @@
         "Zenn"
       ],
       "date": "Wed, 25 Nov 2026 06:12:03 GMT"
-    },
-    {
-      "id": "zenn-dcedfbde36",
-      "source": "zennqiita",
-      "sub_source": "Zenn",
-      "title": "AIエージェントのMemory設計 ― 会話履歴・業務データ・長期Memoryの使い分け",
-      "url": "https://zenn.dev/taru_neko/articles/ai-agent-memory-architecture-2026",
-      "score": null,
-      "author": "樽猫先生",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Wed, 25 Nov 2026 05:23:27 GMT"
     },
     {
       "id": "zenn-3df00cca6f",
@@ -5566,31 +5607,17 @@
       "date": "Wed, 25 Nov 2026 03:53:12 GMT"
     },
     {
-      "id": "zenn-c18190d52e",
+      "id": "zenn-ba630da2a4",
       "source": "zennqiita",
       "sub_source": "Zenn",
-      "title": "Corpus2Skillに近づけた「階層ナビゲーション型RAG」と、ベクトルDB版RAGを「どの段階で失敗したか」まで比べてみた",
-      "url": "https://zenn.dev/aiforall/articles/133752ce2d97ad",
+      "title": "Claude CodeとLLM Wikiで全国の自治体の入札参加資格を、一人で回す",
+      "url": "https://zenn.dev/wisevine/articles/97b7ba8db70657",
       "score": null,
-      "author": "nishina",
+      "author": "たつや",
       "tags": [
         "Zenn"
       ],
-      "date": "Wed, 25 Nov 2026 02:35:47 GMT"
-    },
-    {
-      "id": "zenn-36db506c59",
-      "source": "zennqiita",
-      "sub_source": "Zenn",
-      "title": "Agentforce エージェントから外部 MCP サーバー（Asana）のツールを使う",
-      "url": "https://zenn.dev/hrendoh/articles/agentforce-external-mcp-asana",
-      "score": null,
-      "author": "遠藤 裕之",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Wed, 25 Nov 2026 01:41:04 GMT",
-      "severity": "critical"
+      "date": "Wed, 25 Nov 2026 00:00:07 GMT"
     },
     {
       "id": "zenn-ebeaaaf361",
@@ -5645,19 +5672,6 @@
       "date": "Tue, 24 Nov 2026 16:45:47 GMT"
     },
     {
-      "id": "zenn-0ea4aa436e",
-      "source": "zennqiita",
-      "sub_source": "Zenn",
-      "title": "Copilot Studioのエージェント開発をClaude Codeにどこまで任せられるか試した",
-      "url": "https://zenn.dev/upgradetech/articles/a9a1637d3071c1",
-      "score": null,
-      "author": "masa",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Tue, 24 Nov 2026 09:24:58 GMT"
-    },
-    {
       "id": "zenn-aa865468e1",
       "source": "zennqiita",
       "sub_source": "Zenn",
@@ -5669,6 +5683,19 @@
         "Zenn"
       ],
       "date": "Tue, 24 Nov 2026 08:51:41 GMT"
+    },
+    {
+      "id": "zenn-12364f8de6",
+      "source": "zennqiita",
+      "sub_source": "Zenn",
+      "title": "エンジニア20人の組織を、デザイナー1人と AI で支える仕組み",
+      "url": "https://zenn.dev/rimo/articles/c25919207b1cde",
+      "score": null,
+      "author": "にしゃみー",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Tue, 24 Nov 2026 08:24:00 GMT"
     },
     {
       "id": "zenn-34af77c367",
@@ -5721,32 +5748,6 @@
         "Zenn"
       ],
       "date": "Mon, 23 Nov 2026 05:17:05 GMT"
-    },
-    {
-      "id": "zenn-537a0ffdf3",
-      "source": "zennqiita",
-      "sub_source": "Zenn",
-      "title": "プログラミング教育の功罪",
-      "url": "https://zenn.dev/nobkz/articles/a8ed5591cd3e7d",
-      "score": null,
-      "author": "Nobkz",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Mon, 23 Nov 2026 04:40:23 GMT"
-    },
-    {
-      "id": "zenn-3ee1c2d061",
-      "source": "zennqiita",
-      "sub_source": "Zenn",
-      "title": "Orca Botsが良さそう、何ができるのか",
-      "url": "https://zenn.dev/kg_motors_mibot/articles/orca-bot-intro",
-      "score": null,
-      "author": "Sota Nakamura",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Sat, 21 Nov 2026 15:14:13 GMT"
     },
     {
       "id": "zenn-a0ddabc90e",
